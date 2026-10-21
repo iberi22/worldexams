@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es el valor de la integral indefinida de una constante $k$? $\\int k \\, dx$.",
-      "context": "Un estudiante de la Prepa Nacional repasa el concepto de antiderivada como la operación inversa de la derivación.\n**Expected_Success:** 0.90",
+      "context": "Un estudiante de la Prepa Nacional repasa el concepto de antiderivada como la operación inversa de la derivación.",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v2",
       "statement": "Aplique la regla de la potencia para integrar la función $f(x) = x$. $\\int x \\, dx$.",
-      "context": "Se requiere calcular el área bajo una recta que pasa por el origen.\n**Expected_Success:** 0.85",
+      "context": "Se requiere calcular el área bajo una recta que pasa por el origen.",
       "options": [
         {
           "letter": "A",
@@ -64,25 +64,25 @@
           "feedback": "Incorrecto. Olvidó dividir por el nuevo exponente."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\frac{x^2}{2} + C$",
           "is_correct": true,
           "feedback": "Correcto. Al exponente 1 le sumamos 1 (1+1=2) y dividimos por ese mismo resultado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la derivada de x, no su integral."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$2x + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Aplicó la regla de derivación en lugar de la de integración."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La regla de la potencia para integrales establece que $\\int x^n \\, dx = \\frac{x^{n+1}}{n+1} + C$. Para $x^1$, obtenemos $\\frac{x^{1+1}}{1+1} = \\frac{x^2}{2}$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -100,7 +100,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v3",
       "statement": "Determine la integral indefinida de $f(x) = x^2$.",
-      "context": "Un estudiante de ingeniería en Querétaro integra una función cuadrática básica.\n**Expected_Success:** 0.85",
+      "context": "Un estudiante de ingeniería en Querétaro integra una función cuadrática básica.",
       "options": [
         {
           "letter": "A",
@@ -145,7 +145,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es el resultado de $\\int [f(x) + g(x)] \\, dx$?",
-      "context": "Un profesor en el IPN explica la propiedad de linealidad de la integral indefinida.\n**Expected_Success:** 0.80",
+      "context": "Un profesor en el IPN explica la propiedad de linealidad de la integral indefinida.",
       "options": [
         {
           "letter": "A",
@@ -190,7 +190,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v5",
       "statement": "Calcule la integral: $\\int (3x^2 - 4x + 5) \\, dx$.",
-      "context": "Se desea encontrar la función de posición de un objeto en caída libre en la Ciudad de México dada su función de velocidad.\n**Expected_Success:** 0.75",
+      "context": "Se desea encontrar la función de posición de un objeto en caída libre en la Ciudad de México dada su función de velocidad.",
       "options": [
         {
           "letter": "A",
@@ -235,16 +235,16 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v6",
       "statement": "Determine el valor de $\\int \\frac{1}{x^2} \\, dx$.",
-      "context": "Un estudiante de arquitectura calcula el volumen de una columna modelada por una función de potencia negativa.\n**Expected_Success:** 0.65",
+      "context": "Un estudiante de arquitectura calcula el volumen de una columna modelada por una función de potencia negativa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\ln(x^2) + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Solo la función 1/x tiene como integral al logaritmo natural."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$-\\frac{1}{x} + C$",
           "is_correct": true,
           "feedback": "Correcto. x^(-2) integrado es x^(-1)/(-1) = -1/x."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Esta es la derivada de la función."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Expresamos la función como una potencia: $1/x^2 = x^{-2}$. Aplicamos la regla $\\frac{x^{n+1}}{n+1}$ con $n=-2$. Obtenemos $x^{-1}/(-1)$, que simplificado es $-1/x$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -280,7 +280,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v7",
       "statement": "Calcule la integral especial: $\\int \\frac{1}{x} \\, dx$ para $x > 0$.",
-      "context": "Un físico en Monterrey estudia la energía potencial asociada a una fuerza que varía inversamente con la distancia.\n**Expected_Success:** 0.70",
+      "context": "Un físico en Monterrey estudia la energía potencial asociada a una fuerza que varía inversamente con la distancia.",
       "options": [
         {
           "letter": "A",
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. La regla de la potencia no aplica cuando n = -1 porque genera una división por cero."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$1 + C$",
           "is_correct": false,
           "feedback": "Incorrecto. El resultado debe ser una función logarítmica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\ln(x) + C$",
           "is_correct": true,
           "feedback": "Correcto. Por definición, la antiderivada de 1/x es el logaritmo natural de x."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. La exponencial es la integral de sí misma, no de 1/x."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La función $f(x) = x^{-1}$ es el único caso donde la regla de la potencia falla. Su integral está definida como el logaritmo natural del valor absoluto de $x$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -325,7 +325,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v8",
       "statement": "Determine $\\int e^x \\, dx$.",
-      "context": "Se requiere encontrar la función original de un crecimiento poblacional cuya tasa es exponencial.\n**Expected_Success:** 0.75",
+      "context": "Se requiere encontrar la función original de un crecimiento poblacional cuya tasa es exponencial.",
       "options": [
         {
           "letter": "A",
@@ -334,13 +334,13 @@
           "feedback": "Incorrecto. No es necesario multiplicar por x."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$e^x + C$",
           "is_correct": true,
           "feedback": "Correcto. La función exponencial natural es la única función (distinta de cero) que es su propia integral y derivada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{e^{x+1}}{x+1} + C$",
           "is_correct": false,
           "feedback": "Incorrecto. No se aplica la regla de la potencia a funciones con base e y variable en el exponente."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. El logaritmo es la operación inversa de la exponencial, no su integral."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La función $e^x$ es única en el cálculo porque su tasa de cambio es igual a su valor actual. Por lo tanto, tanto al derivar como al integrar $e^x$, el resultado (salvo la constante $C$) sigue siendo $e^x$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -370,7 +370,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v9",
       "statement": "Calcule $\\int \\sin(x) \\, dx$.",
-      "context": "Un ingeniero hidráulico integra una función senoidal para determinar el flujo de agua en un ciclo periódico.\n**Expected_Success:** 0.65",
+      "context": "Un ingeniero hidráulico integra una función senoidal para determinar el flujo de agua en un ciclo periódico.",
       "options": [
         {
           "letter": "A",
@@ -415,7 +415,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v10",
       "statement": "Determine la integral de $\\int \\cos(x) \\, dx$.",
-      "context": "Un estudiante de física en la UNAM calcula el trabajo realizado por una fuerza que sigue una función coseno.\n**Expected_Success:** 0.65",
+      "context": "Un estudiante de física en la UNAM calcula el trabajo realizado por una fuerza que sigue una función coseno.",
       "options": [
         {
           "letter": "A",
@@ -460,7 +460,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v11",
       "statement": "Determine el resultado de $\\int e^{2x} \\, dx$.",
-      "context": "Un analista de datos en Guadalajara integra una función que requiere un ajuste de constante para aplicar la regla de la cadena inversa.\n**Expected_Success:** 0.55",
+      "context": "Un analista de datos en Guadalajara integra una función que requiere un ajuste de constante para aplicar la regla de la cadena inversa.",
       "options": [
         {
           "letter": "A",
@@ -505,7 +505,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v12",
       "statement": "Calcule la integral indefinida de $f(x) = \\sqrt{x}$.",
-      "context": "Un geólogo calcula el área de una sección transversal de un terreno modelado por una raíz cuadrada.\n**Expected_Success:** 0.50",
+      "context": "Un geólogo calcula el área de una sección transversal de un terreno modelado por una raíz cuadrada.",
       "options": [
         {
           "letter": "A",
@@ -520,19 +520,19 @@
           "feedback": "Incorrecto. Invirtió el exponente fraccionario."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$\\frac{2}{3}x^{3/2} + C$",
           "is_correct": true,
           "feedback": "Correcto. x^(1/2) integrado es x^(3/2) / (3/2) = 2/3 * x^(3/2)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x^{3/2} + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó el coeficiente resultante de dividir por el nuevo exponente."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Escribimos $\\sqrt{x}$ como $x^{1/2}$. Aplicamos la regla de la potencia: el nuevo exponente es $1/2 + 1 = 3/2$. Dividimos entre $3/2$, lo que equivale a multiplicar por el recíproco $2/3$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -550,7 +550,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v13",
       "statement": "Evalúe $\\int \\frac{3}{x^4} \\, dx$.",
-      "context": "Un técnico industrial utiliza la integración para hallar la velocidad a partir de una aceleración que depende de una potencia negativa.\n**Expected_Success:** 0.45",
+      "context": "Un técnico industrial utiliza la integración para hallar la velocidad a partir de una aceleración que depende de una potencia negativa.",
       "options": [
         {
           "letter": "A",
@@ -595,7 +595,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v14",
       "statement": "Determine la integral de $\\int (2x + 1)^3 \\, dx$.",
-      "context": "Un estudiante de economía en el Estado de México integra una función de costo marginal para obtener el costo total.\n**Expected_Success:** 0.50",
+      "context": "Un estudiante de economía en el Estado de México integra una función de costo marginal para obtener el costo total.",
       "options": [
         {
           "letter": "A",
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. Olvidó aplicar la compensación por la derivada del término interno (2x+1)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\frac{(2x+1)^4}{8} + C$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando cambio de variable u=2x+1, du=2dx, entonces dx=du/2. La integral queda (1/2) * (u^4/4) = u^4/8."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$3(2x+1)^2 + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta respuesta se parece a la derivada de la función."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Solo dividió por la derivada interna pero olvidó la división del exponente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para funciones de la forma $(ax+b)^n$, la integral es $\\frac{(ax+b)^{n+1}}{a(n+1)} + C$. Aquí $a=2$ y $n=3$, por lo que dividimos entre $2 \\cdot 4 = 8$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -640,7 +640,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v15",
       "statement": "Calcule $\\int \\cos(4x) \\, dx$.",
-      "context": "Un ingeniero civil en Puebla calcula la deflexión de una viga usando integrales de funciones trigonométricas con argumentos compuestos.\n**Expected_Success:** 0.45",
+      "context": "Un ingeniero civil en Puebla calcula la deflexión de una viga usando integrales de funciones trigonométricas con argumentos compuestos.",
       "options": [
         {
           "letter": "A",
@@ -685,7 +685,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v16",
       "statement": "Identifique el resultado de la integral: $\\int \\frac{1}{1 + x^2} \\, dx$.",
-      "context": "Se requiere resolver una integral que resulta en una función trigonométrica inversa, común en problemas de física de partículas.\n**Expected_Success:** 0.40",
+      "context": "Se requiere resolver una integral que resulta en una función trigonométrica inversa, común en problemas de física de partículas.",
       "options": [
         {
           "letter": "A",
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. Esta sería la integral si el numerador fuera 2x."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\arctan(x) + C$",
           "is_correct": true,
           "feedback": "Correcto. La función cuya derivada es 1/(1+x^2) es la arcotangente de x."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\arcsin(x) + C$",
           "is_correct": false,
           "feedback": "Incorrecto. La integral del arcoseno proviene de una raíz cuadrada en el denominador."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. La integral de la tangente es -ln|cos x|, no esta función racional."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Existen integrales inmediatas que corresponden a las derivadas de las funciones trigonométricas inversas. La forma $\\frac{1}{1+x^2}$ es la derivada de la función arcotangente.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -730,7 +730,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v17",
       "statement": "Calcule $\\int x e^{x^2} \\, dx$.",
-      "context": "Un estudiante de física avanzada en el Cinvestav resuelve una integral mediante el método de sustitución (cambio de variable).\n**Expected_Success:** 0.30",
+      "context": "Un estudiante de física avanzada en el Cinvestav resuelve una integral mediante el método de sustitución (cambio de variable).",
       "options": [
         {
           "letter": "A",
@@ -775,7 +775,7 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v18",
       "statement": "Determine $\\int \\ln(x) \\, dx$ mediante el método de integración por partes.",
-      "context": "Un matemático aplica la integración para hallar el área entre una función logarítmica y el eje de las abscisas.\n**Expected_Success:** 0.25",
+      "context": "Un matemático aplica la integración para hallar el área entre una función logarítmica y el eje de las abscisas.",
       "options": [
         {
           "letter": "A",
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. Esta es la derivada de ln(x)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x \\ln(x) + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Falta el segundo término que surge de la fórmula de integración por partes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x \\ln(x) - x + C$",
           "is_correct": true,
           "feedback": "Correcto. Usando u=ln x, dv=dx. Entonces du=dx/x, v=x. Integral = uv - \\int v du = x ln x - \\int 1 dx = x ln x - x."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Esta sería la integral si la función fuera (ln x) / x."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La integración por partes sigue la fórmula $\\int u \\, dv = uv - \\int v \\, du$. Al aplicarla a $\\ln(x)$, tratamos a $\\ln(x)$ como $u$ y a $dx$ como $dv$. El proceso requiere integrar el resultado del producto $v \\cdot du$, que es 1.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -820,34 +820,34 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v19",
       "statement": "Calcule $\\int \\sin^2(x) \\cos(x) \\, dx$.",
-      "context": "Un investigador utiliza la regla de sustitución para integrar una función trigonométrica elevada a una potencia.\n**Expected_Success:** 0.30",
+      "context": "Un investigador utiliza la regla de sustitución para integrar una función trigonométrica elevada a una potencia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\frac{\\sin^3(x)}{3} + C$",
           "is_correct": true,
           "feedback": "Correcto. Sea u = sen(x), entonces du = cos(x) dx. La integral es \\int u^2 du = u^3/3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{\\cos^3(x)}{3} + C$",
           "is_correct": false,
           "feedback": "Incorrecto. La sustitución correcta es u = sen(x) porque su derivada es cos(x)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$-\\frac{\\sin^3(x)}{3} + C$",
           "is_correct": false,
           "feedback": "Incorrecto. El signo es positivo porque la derivada del seno es el coseno positivo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\sin(x) \\cos(x) + C$",
           "is_correct": false,
           "feedback": "Incorrecto. No aplicó ninguna regla de integración válida."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Este es un caso ideal para el cambio de variable. Identificamos que una parte de la función ($\\cos x$) es la derivada de otra parte que está elevada a una potencia ($\\sin x$). Esto reduce el problema a integrar una potencia simple.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -865,16 +865,16 @@
     {
       "id": "MX-MAT-11-2026-W23-calculo-integrales-basicas-001-MASTERY-bundle-v20",
       "statement": "¿Cuál es el valor de $\\int \\frac{x}{x^2 + 1} \\, dx$?",
-      "context": "Un ingeniero de procesos en una refinería de Tabasco resuelve una integral que involucra una función racional con denominador compuesto.\n**Expected_Success:** 0.20",
+      "context": "Un ingeniero de procesos en una refinería de Tabasco resuelve una integral que involucra una función racional con denominador compuesto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\arctan(x) + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta sería la integral si el numerador fuera 1, no x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{1}{2}\\ln(x^2 + 1) + C$",
           "is_correct": true,
           "feedback": "Correcto. Sea u = x^2+1, du = 2x dx. La integral queda (1/2) \\int du/u = (1/2) ln|u|."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. No se integran fracciones dividiendo los términos de esa manera."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Cuando el numerador de una fracción es (casi) la derivada del denominador, el resultado es el logaritmo natural del denominador. Aquí, la derivada de $x^2+1$ es $2x$. Como tenemos $x$, multiplicamos por $1/2$ para ajustar la constante.",
       "difficulty": "10",
       "images": [],

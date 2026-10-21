@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the third person singular of the verb 'to work' correctly?",
+      "context": "Present simple third person, San Juan, grado 11, W01.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "She works in a clinic in Carolina.",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "Correct! 'She works' carries the -s of the third person singular, and every other option either drops that ending or builds a different tense."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "She work in a clinic in Carolina.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'She work' leaves the verb bare while the subject 'she' is third person singular, so the -s of that person is missing."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "She working in a clinic in Carolina.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Working' is a present participle, and a participle only stands on its own after the auxiliary 'is'."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "She are working in a clinic in Carolina.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Are working' needs a plural subject, and 'she' is singular, so two separate rules fail at once."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\n---",
+      "explanation": "En presente simple la tercera persona singular añade -s al verbo, salvo cuando ya termina en -s, -sh, -ch, -x, -z o -o. Las otras personas no añaden nada. Revisar el sujeto antes que el verbo es el método más seguro para no equivocarse.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle",
       "periodo": 1,
@@ -54,40 +54,40 @@
     },
     {
       "id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'My brother ____ (go) to the plaza every Sunday.'",
+      "context": "Present simple third person, Caguas, grado 11, W01.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "go",
+          "is_correct": false,
+          "feedback": "Incorrect! The bare 'go' is the first person form; a singular third person subject demands 'goes' in this gap."
         },
         {
           "letter": "B",
-          "text": "baggage",
+          "text": "going",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Going' is the -ing form, which requires the auxiliary 'is' and can never stand alone here."
         },
         {
           "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "goes",
+          "is_correct": true,
+          "feedback": "Correct! 'Go' ends in -o, so the third person singular adds -es and the form becomes 'goes'."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "gone",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Gone' is the past participle, which needs 'have' and describes a finished action rather than a weekly routine."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "La tercera persona singular tiene su propia terminación. Con los verbos terminados en -o el inglés añade -es para que la palabra no termine en -s a secas, igual que ocurre con 'go' y 'does'. El resto de personas no cambia.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle",
       "periodo": 1,
@@ -99,40 +99,40 @@
     },
     {
       "id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which question is formed correctly?",
+      "context": "Present simple third person, Ponce, grado 11, W01.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "text": "Do your sister live in Ponce?",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Do' is the auxiliary of the first and second persons, so it cannot agree with the singular 'your sister'."
         },
         {
           "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Does your sister live in Ponce?",
+          "is_correct": true,
+          "feedback": "Correct! 'Does' already holds the -s of the third person singular, and that is why the main verb returns to 'live'."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "Is your sister live in Ponce?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! After 'is' the verb 'to be' can never be followed by 'live' in its base form, so the auxiliary is wrong here."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "Your sister does lives in Ponce?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! The auxiliary 'does' must open the sentence before the subject, so this is not question word order."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "En presente simple la pregunta con verbos de acción se forma con 'do' o 'does'. Cuando se usa 'does', el verbo principal vuelve a su forma base, porque la -s ya está en el auxiliar. Ese es el error típico: 'does she lives' en lugar de 'does she live'.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle",
       "periodo": 1,
@@ -144,40 +144,40 @@
     },
     {
       "id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct negative form: 'He ____ (not / drink) coffee after dinner.'",
+      "context": "Present simple third person, Bayamon, grado 11, W01.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "text": "don't drink",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Don't' is reserved for I, you, we and they; a third person singular subject requires 'doesn't'."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "isn't drink",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Isn't' is the negative of the verb 'to be', and no participle follows it in this tense."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "not drink",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! A negative with an action verb always needs an auxiliary, so 'not drink' can never stand alone."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "doesn't drink",
+          "is_correct": true,
+          "feedback": "Correct! The negative of 'do' in the third person singular is 'doesn't', and it already carries the -s."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "El negativo del presente simple tiene dos formas: 'do not / don't' para I, you, we y they, y 'does not / doesn't' para he, she y it. El verbo principal se queda en su forma base detrás del auxiliar, con o sin negación.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle",
       "periodo": 1,
@@ -189,40 +189,40 @@
     },
     {
       "id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which is the correct third person singular form of the verb 'to pass'?",
+      "context": "Present simple spelling rules, Arecibo, grado 11, W01.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "text": "passs",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Passs' has three s sounds, and no English verb in this form exists; the spelling rule allows only one."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "pass",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Pass' is the bare form, and the third person singular of 'to pass' must show the -es ending."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "passing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Passing' is the present participle, which belongs to the progressive after the auxiliary 'is'."
         },
         {
           "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "passes",
+          "is_correct": true,
+          "feedback": "Correct! A verb ending in -ss takes the plain -es ending, so the third person singular here is 'passes'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "D",
+      "explanation": "La ortografía de la -s de la tercera persona tiene reglas fijas. Si la base ya acaba en -s, -sh, -ch, -x o -z se añade solo -es. Si acaba en consonante más -o se añade -es. Si termina en -y precedida de consonante, la -y pasa a -ies.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle",
       "periodo": 1,
@@ -234,40 +234,40 @@
     },
     {
       "id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The committee ____ (try) to finish the project on time.'",
+      "context": "Present simple spelling rules, Humacao, grado 11, W01.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "text": "trys",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Trys' writes the third person with a single -s, but a consonant plus -y requires -ies instead."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "tries",
+          "is_correct": true,
+          "feedback": "Correct! 'Try' ends in a consonant followed by -y, so the third person singular is written 'tries'."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "tryes",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Tryes' keeps the -y and adds -es, which no English spelling rule allows."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "trying",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Trying' is the participle used after 'is', and this gap asks for the simple present third person."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Cuando el verbo termina en -y y la consonante anterior no es una vocal, la -y se cambia por -ies: try, tries. Si la -y está precedida de vocal, el verbo es monosilábico y solo añade -s: play, plays. Reconocer la vocal precedente evita el error más común de esta unidad.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle",
       "periodo": 1,
@@ -279,37 +279,37 @@
     },
     {
       "id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the verb 'to have' correctly in the third person singular?",
+      "context": "Present simple with to have, Carolina, grado 11, W01.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
+          "text": "She has a car in Carolina.",
           "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "feedback": "Correct! 'Has' is the third person singular of the irregular verb 'have', and no -s is added to that full form."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "She haves a car in Carolina.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Haves' treats the verb as if it were regular, but 'have' is irregular and its third person is 'has'."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "She have a car in Carolina.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Have' is the bare form, and the singular subject 'she' requires the third person form instead."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "She having a car in Carolina.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Having' is the participle of the perfect progressive, so it would need 'has been' in front of it."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "explanation": "El presente simple tiene un puñado de verbos irregulares que no siguen la regla de añadir -s. Los más frecuentes son 'to have', que da 'has', y 'to do', que da 'does'. Estos dos aparecen en casi todos los exámenes de la unidad.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'My parents ____ (live) in Aguadilla.'",
+      "context": "Present simple with plural subjects, Aguadilla, grado 11, W01.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "lives",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Lives' carries the -s of the third person singular, and 'my parents' is a plural subject here."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "live's",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! English never writes a plural with an apostrophe, so 'live's' is not a possible form."
         },
         {
           "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "live",
+          "is_correct": true,
+          "feedback": "Correct! 'My parents' is plural, and the plural of the present simple adds nothing to the base verb."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "lived",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Lived' is the past simple, and the statement describes where they live now, not a finished past action."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "La -s de la tercera persona depende del sujeto, no del significado de la frase. Un sujeto plural o plural conceptual como 'my parents', 'people' o 'the team' exige la forma base. El error más común es poner la -s por costumbre y no por análisis del sujeto.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,40 +369,40 @@
     },
     {
       "id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which negative question is correct?",
+      "context": "Present simple negative questions, Guayanilla, grado 11, W01.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "text": "Don't he like mango?",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Don't' cannot pair with the third person pronoun 'he'; the auxiliary of the negative is 'doesn't'."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "Isn't he likes mango?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! After 'is' the verb 'to be' cannot be followed by 'likes', so 'Isn't he likes' is not a form English uses."
         },
         {
           "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Doesn't he like mango?",
+          "is_correct": true,
+          "feedback": "Correct! A negative question opens with 'doesn't he', and the main verb returns to the base form 'like'."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "Does he not likes mango?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! In a negative question the -s belongs to the auxiliary 'Does', never to the main verb, which stays in its base form after 'not'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "En las preguntas negativas el orden es siempre el mismo: auxiliar, sujeto y verbo en forma base. Con 'does' el auxiliar ya aporta la -s, asi que escribir el verbo con terminacion duplicaria la marca de tercera persona.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle",
       "periodo": 1,
@@ -414,37 +414,37 @@
     },
     {
       "id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct auxiliary: '____ your teacher speak Spanish during class?'",
+      "context": "Present simple questions, Trujillo Alto, grado 11, W01.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
+          "text": "Does",
           "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "feedback": "Correct! 'Does' is the auxiliary that forms questions with a third person singular subject such as 'your teacher'."
         },
         {
           "letter": "B",
-          "text": "cancellation",
+          "text": "Do",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Do' forms questions with I, you, we and they, and it never carries the third person ending."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "Is",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Is' only works with the verb 'to be', and the main verb in this sentence is the action verb 'speak'."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "Are",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Are' is the plural auxiliary, so it disagrees with the singular subject 'your teacher'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "explanation": "Paraforming preguntas en presente simple hay que mirar primero el sujeto. Si es I, you, we o they se usa 'do'; si es he, she o it se usa 'does'. Solo con el verbo 'to be' aparecen 'am', 'is' y 'are'.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,37 +459,37 @@
     },
     {
       "id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The train ____ (leave) from San Juan at seven every morning.'",
+      "context": "Present simple with time expressions, Barceloneta, grado 11, W01.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
+          "text": "leave",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Leave' is the bare form, and a singular subject such as 'the train' requires 'leaves'."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "leaving",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Leaving' is the -ing form and can never stand here without the auxiliary 'is'."
         },
         {
           "letter": "C",
-          "text": "booking",
+          "text": "is leave",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Is leave' mixes the auxiliary 'to be' with a base verb, which is not a form English uses."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "leaves",
+          "is_correct": true,
+          "feedback": "Correct! 'The train' is a singular third person subject, so 'leaves' carries the required -s."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "D",
+      "explanation": "Cuando el verbo base termina en -e, la tercera persona singular anade unicamente -s, sin -(e)s. Las expresiones de tiempo como 'every morning' o 'always' suelen acompanarse de presente simple, y conviene reconocerlas antes de elegir la forma verbal.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,37 @@
     },
     {
       "id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'She ____ (have got) two brothers and one sister.'",
+      "context": "Present simple with have got, Maunabo, grado 11, W01.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "text": "have got",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Have got' belongs to I, you, we and they, and the subject in this gap is the singular 'she'."
         },
         {
           "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "has got",
+          "is_correct": true,
+          "feedback": "Correct! 'She' is third person singular, so 'have' becomes 'has' while 'got' stays unchanged."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "hav got",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Hav' drops the silent e, and English spelling keeps the full form 'have'."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "having got",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Having got' is the participle form of the perfect, and this sentence describes a permanent state."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "British English usa con frecuencia 'have got' para hablar de posesión, y ese verbo también es irregular en la tercera persona singular. La estructura es 'have got' en el resto de personas y 'has got' con he, she o it.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,40 +549,40 @@
     },
     {
       "id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'He ____ (do) his homework after dinner every day.'",
+      "context": "Present simple spelling rules, Yauco, grado 11, W01.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
+          "text": "dos",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Dos' is only the third person plural of 'do', and the subject 'he' is singular."
         },
         {
           "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "does",
+          "is_correct": true,
+          "feedback": "Correct! 'Does' is the third person singular of the irregular verb 'do', used before a base form."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "do",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Do' is the bare form, which fits I, you, we and they but not the singular 'he' here."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "doing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Doing' is the -ing form of the progressive, and the simple present of this statement uses no auxiliary."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "Los verbos irregulares en presente simple se memorizan, no se derivan. 'To do' da 'does', 'to have' da 'has' y 'to go' da 'goes'. Reconocerlos rápido evita construir formas como 'doos' o 'haves'.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle",
       "periodo": 1,
@@ -594,40 +594,40 @@
     },
     {
       "id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'Maria ____ (watch) the news at nine every night.'",
+      "context": "Present simple spelling rules, Cayey, grado 11, W01.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "text": "watchs",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Watchs' adds a plain -s after a consonant, but verbs ending in -ch always take -es."
         },
         {
           "letter": "B",
-          "text": "map",
+          "text": "watch",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Watch' is the bare form, and the singular subject 'Maria' requires the third person ending."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "watching",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Watching' is the present participle, and it can only follow the auxiliary 'is'."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "watches",
+          "is_correct": true,
+          "feedback": "Correct! Verbs ending in -ch take -es in the third person singular, so the form here is 'watches'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Las reglas ortograficas de la -s de la tercera persona se aprenden como una sola tabla. La clave fonica es que la -s final debe sonar como una s normal, y por eso se escribe -es detras de -ch, -sh, -s, -x y -z.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle",
       "periodo": 1,
@@ -639,40 +639,40 @@
     },
     {
       "id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct negative: 'I ____ (not / like) the rain in San Sebastian.'",
+      "context": "Present simple negatives with first person, San Sebastian, grado 11, W01.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "text": "doesn't like",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Doesn't' is the negative auxiliary of the third person singular, and the subject here is 'I'."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "am not like",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Am not' is the negative of the verb 'to be', and it cannot be followed by 'like'."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "don't like",
+          "is_correct": true,
+          "feedback": "Correct! With the pronoun 'I' the auxiliary of the negative is 'don't', which never takes an -s."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "not like",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! A negative in the present simple always needs an auxiliary, so 'not like' alone is impossible."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "La elección entre 'don't' y 'doesn't' depende únicamente del sujeto. Con I, you, we y they se usa 'don't'; con he, she o it se usa 'doesn't'. En ambos casos el verbo principal permanece en su forma base detrás del auxiliar.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle",
       "periodo": 1,
@@ -684,37 +684,82 @@
     },
     {
       "id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'He ____ (not / be) ready for the exam yet.'",
+      "context": "Present simple with be in third person, Camuy, grado 11, W01.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
+          "text": "isn't",
           "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "feedback": "Correct! 'Not be' contracts to 'isn't', and that is the negative used with a single subject."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "aren't",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Aren't' is the plural negative of the verb 'to be', and the subject 'he' is singular."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "doesn't",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Doesn't' is the negative of an action verb, and the verb in this gap is 'be'."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "don't",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Don't' is the negative auxiliary of the action verbs, and it does not work with 'to be'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "explanation": "El presente simple de 'to be' es un sistema aparte: I am, you are, he, she e it is, y nosotros, ustedes y ellos son 'are'. El negativo se forma con 'not' detrás del verbo. Los auxiliares 'do' y 'does' nunca participan con 'to be'.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v17",
+      "statement": "Choose the correct question tag: 'Your cousin lives in Caguas, ____?'",
+      "context": "Present simple question tags, Luquillo, grado 11, W01.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "doesn't she",
+          "is_correct": true,
+          "feedback": "Correct! The tag takes the negative auxiliary because the main clause is positive, so it reads 'doesn't she'."
+        },
+        {
+          "letter": "B",
+          "text": "isn't she",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Isn't' belongs to the verb 'to be', and the main clause uses the action verb 'lives'."
+        },
+        {
+          "letter": "C",
+          "text": "don't she",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Don't' is the auxiliary of I, you, we and they, and it can never follow a third person singular subject."
+        },
+        {
+          "letter": "D",
+          "text": "she doesn't",
+          "is_correct": false,
+          "feedback": "Incorrect! A tag reverses the order of subject and auxiliary, so 'she doesn't' is not a tag at all."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las reglas ortograficas de la -s de la tercera persona se aprenden como una sola tabla. La clave fonica es que la -s final debe pronunciarse de manera clara, y por eso se escribe -es detras de -ch, -sh, -s, -x y -z.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -728,86 +773,41 @@
       "country": "pr"
     },
     {
-      "id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
       "id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'Every student ____ (need) a notebook for the course.'",
+      "context": "Present simple with quantifiers, Toa Baja, grado 11, W01.",
       "options": [
         {
           "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
+          "text": "need",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Need' is the bare form, and the singular subject 'every student' requires 'needs'."
         },
         {
           "letter": "B",
-          "text": "warranty",
+          "text": "needing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Needing' is the -ing form, which belongs to the progressive after the auxiliary 'is'."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "are need",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Are need' mixes a plural auxiliary with a base verb, so two separate rules fail here."
         },
         {
           "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "needs",
+          "is_correct": true,
+          "feedback": "Correct! 'Every student' counts as one singular third person subject, so the verb carries the -s."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "En ingles los cuantificadores como 'every', 'each' y 'either' governs el verbo en singular. La concordancia se hace con el cuantificador y no con el sustantivo, por lo que 'every student needs' es la estructura correcta.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle",
       "periodo": 1,
@@ -819,40 +819,40 @@
     },
     {
       "id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The committee ____ (meet) on Mondays to plan the fair.'",
+      "context": "Present simple with collective nouns, Naguabo, grado 11, W01.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
+          "text": "meet",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Meet' is the bare form, and the singular subject 'the committee' requires 'meets'."
         },
         {
           "letter": "B",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "meets",
+          "is_correct": true,
+          "feedback": "Correct! 'The committee' is a single third person singular subject, even though its members are many."
         },
         {
           "letter": "C",
-          "text": "prescription",
+          "text": "meeting",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Meeting' is the participle of the progressive, and the simple present here uses no auxiliary."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "meet's",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! English never writes the third person singular with an apostrophe, so 'meet's' is impossible."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "Los sustantivos colectivos como 'committee', 'team' o 'family' pueden concordar en singular o en plural segun el contexto. Cuando el grupo actua como una unidad con una sola funcion, el verbo va en singular; cuando se habla de cada miembro por separado, va en plural.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle",
       "periodo": 1,
@@ -864,40 +864,40 @@
     },
     {
       "id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the tag that completes the question: 'He ____ he forget the keys?'",
+      "context": "Present simple tag questions, Hatillo, grado 11, W01.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "text": "don't",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Don't' is the auxiliary of I, you, we and they, and it never carries the third person ending."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "isn't",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Isn't' is the negative of the verb 'to be', and the clause here uses the action verb 'forget'."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "doesn't",
+          "is_correct": true,
+          "feedback": "Correct! The tag of 'he ...?' takes 'doesn't', which holds the -s of the third person singular."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "hasn't",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Hasn't' would need a past participle after it, and 'forget' in the tag must stay in its base form."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "El tag confirma o matiza lo que dice la frase principal. Si la frase es negativa el tag es positivo, y si es positiva el tag es negativo. En presente simple el auxiliar disponible para 'he' es 'does', y el verbo principal queda en forma base.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle",
       "periodo": 1,

@@ -8,223 +8,43 @@
   },
   "questions": [
     {
-      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v1",
-      "statement": "En una cafetería de Ambato, un joven lojano le dice a su amigo de Guayaquil: 'Oye, Mateo, pásame el achachay que hace mucho frío'. El guayaquileño se desconcierta unos segundos. ¿Qué variedad lingüística representa el término 'achachay'?",
-      "context": "Mateo, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Ambato, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle-v1",
+      "statement": "Según Edgar Allan Poe, ¿qué característica define esencialmente al cuento por encima de otras formas narrativas?",
+      "context": "En un colegio de Quito abren la unidad del cuento con la teoría clásica del género breve.",
       "options": [
         {
           "letter": "A",
-          "text": "Una jerga profesional de carácter técnico empleada exclusivamente en la medicina de Guayaquil y Ambato.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "La unidad de efecto: todo el texto debe conducir a un único efecto en el lector",
+          "is_correct": true,
+          "feedback": "Correcto. Poe concibió el cuento como una composición breve calculada para producir un efecto único y sostenido."
         },
         {
           "letter": "B",
-          "text": "Un modismo extranjero proveniente del idioma inglés británico y adaptado al uso juvenil de Colegio Nacional Olmedo.",
+          "text": "La multiplicidad de tramas y decenas de personajes",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Esa expansión corresponde a la novela; el cuento se define por la concentración."
         },
         {
           "letter": "C",
-          "text": "Un arcaísmo del español medieval que se conservó sin alteraciones en Ambato.",
+          "text": "El capitulo final abierto a una secuela comercial",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Poe no vinculaba el género a la serialización ni a secuelas; su criterio era estético y de efecto."
         },
         {
           "letter": "D",
-          "text": "Una variedad dialectal de la Sierra, influenciada por préstamos léxicos del kichwa (quichuismos) para expresar sensaciones físicas en Ambato.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "'Achachay' es un quichuismo ampliamente adoptado en la Sierra ecuatoriana que expresa frío. Su uso forma parte del dialecto andino.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.9,
-      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v2",
-      "statement": "Sebastián, oriundo de Esmeraldas, visita a sus parientes en Manta y al conversar utiliza la palabra 'caleta' para referirse a su hogar. Su prima Gabriela se sonríe. ¿Cómo se clasifica el vocablo 'caleta' en el contexto lingüístico nacional?",
-      "context": "Sebastián, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Manta, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Es una palabra de la norma culta formal de Colegio Nacional Mejía utilizada en el discurso literario clásico.",
+          "text": "La ausencia total de narrador en la historia",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Es un neologismo tecnológico que designa un componente del procesador en Manta.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Es un término de la jerga juvenil y coloquial ecuatoriana que denota casa u hogar en entornos informales de Manta.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "D",
-          "text": "Es un tecnicismo geográfico que describe la arena de Esmeraldas y Manta.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "En el registro coloquial informal y la jerga popular de varias regiones del Ecuador (especialmente de la Costa), 'caleta' significa casa.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.88,
-      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v3",
-      "statement": "En Loja, el docente de Lengua del Colegio Nacional Vicente Rocafuerte explica que los habitantes de la Sierra suelen aspirar la 's' al final de las palabras y usar un tono cantado, mientras que en la Costa se tiende a elidir la 's' y hablar de manera más veloz. ¿Cómo se denominan estas diferencias de pronunciación?",
-      "context": "Valentina, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Loja, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Variedades diafásicas o de registro, que varían según la formalidad de la entrevista de trabajo en Loja.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Variedades diastráticas, que dependen de manera única del nivel socioeconómico de los estudiantes de Colegio Nacional Vicente Rocafuerte.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Errores patológicos del habla que requieren de asistencia médica en Loja de inmediato.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Variedades diatópicas o geográficas, generadas por la distribución territorial y el relieve cultural de las regiones de Loja.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "Las variedades diatópicas o geográficas (dialectos) son las variaciones de una misma lengua que dependen del área geográfica donde residen los hablantes.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.86,
-      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v4",
-      "statement": "Durante una conversación informal en un mercado de Riobamba, Camila dice: '¡Ese guambra sí que es avispado!'. ¿Qué significados poseen los términos 'guambra' y 'avispado' en el español ecuatoriano cotidiano?",
-      "context": "Camila, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Riobamba, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Ambos términos expresan de manera formal términos científicos en Riobamba.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "'Guambra' significa niño o joven (quichuismo), y 'avispado' denota ser astuto, despierto o inteligente en Riobamba.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "C",
-          "text": "'Guambra' significa persona anciana de Riobamba, y 'avispado' se refiere a tener picaduras de insecto.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "'Guambra' denota un objeto de arcilla en el Colegio Benigno Malo, y 'avispado' describe un color amarillo brillante.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "'Guambra' es un quichuismo que significa niño, adolescente o joven; 'avispado' es un modismo coloquial ecuatoriano que significa astuto o hábil.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.84,
-      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v5",
-      "statement": "Al estudiar la identidad nacional en Ibarra, se analiza el habla de la Amazonía ecuatoriana. Se observa que esta variedad posee rasgos de contacto lingüístico tanto del quichua como del dialecto de la Sierra y la Costa. ¿A qué se debe esta particularidad dialectal oriental?",
-      "context": "Santiago, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Ibarra, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "A los flujos migratorios internos y al estrecho contacto cotidiano con diversas nacionalidades indígenas amazónicas cerca de Ibarra.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "B",
-          "text": "A un decreto legal emitido para unificar la pronunciación en el Colegio Nacional Bolívar de Ibarra.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "A la influencia directa de la televisión y la radio francesas en las zonas rurales cerca de Colegio Nacional Bolívar.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "A un proceso de aislamiento geográfico absoluto que impidió todo comercio con Ibarra.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. El cuento puede tener cualquier tipo de narrador; la instancia narrativa no define al género."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La variedad lingüística de la Amazonía combina características andinas y costeñas debido a la migración y colonización interna, junto con préstamos léxicos de lenguas ancestrales locales.\n\n---",
-      "difficulty": "5",
+      "explanation": "La \"unidad de efecto\" de Poe explica las demás características del género: extensión breve, concentración de incidentes y un solo desenlace calculado. Es el concepto eje para distinguir cuento de novela en la teoría narrativa.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.82,
-      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -233,43 +53,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v6",
-      "statement": "En una cafetería de Portoviejo, un joven lojano le dice a su amigo de Guayaquil: 'Oye, Alejandro, pásame el achachay que hace mucho frío'. El guayaquileño se desconcierta unos segundos. ¿Qué variedad lingüística representa el término 'achachay'?",
-      "context": "Alejandro, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Portoviejo, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle-v2",
+      "statement": "Para Todorov, ¿en qué consiste lo fantástico?",
+      "context": "Una estudiante de un colegio de Guayaquil resume la tipología de Tzvetan Todorov para el taller de literatura fantástica.",
       "options": [
         {
           "letter": "A",
-          "text": "Una jerga profesional de carácter técnico empleada exclusivamente en la medicina de Guayaquil y Portoviejo.",
+          "text": "En un mundo donde la magia es normal y nadie se asombra",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Ese es el modo maravilloso, donde lo sobrenatural se acepta sin vacilación."
         },
         {
           "letter": "B",
-          "text": "Un modismo extranjero proveniente del idioma inglés británico y adaptado al uso juvenil de Unidad Educativa Santo Domingo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "En la vacilación del lector y del personaje entre una explicación natural y una sobrenatural del hecho extraño",
+          "is_correct": true,
+          "feedback": "Correcto. Lo fantástico es justamente la indecisión sostenida entre lo explicable y lo inexplicable dentro de un marco realista."
         },
         {
           "letter": "C",
-          "text": "Un arcaísmo del español medieval que se conservó sin alteraciones en Portoviejo.",
+          "text": "En la comprobación científica inmediata del fenómeno extraño",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Si el hecho queda explicado racionalmente, el texto migra hacia lo extraño o lo realista, no hacia lo fantástico."
         },
         {
           "letter": "D",
-          "text": "Una variedad dialectal de la Sierra, influenciada por préstamos léxicos del kichwa (quichuismos) para expresar sensaciones físicas en Portoviejo.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "En la parodia de los cuentos de hadas tradicionales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La parodia no es el criterio de Todorov; su definición gira en torno a la vacilación interpretativa."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Achachay' es un quichuismo ampliamente adoptado en la Sierra ecuatoriana que expresa frío. Su uso forma parte del dialecto andino.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Comprender a Todorov exige retener tres posiciones: maravilloso (se acepta lo imposible), extraño (se explica racionalmente) y fantástico (persiste la vacilación). La duda sin resolución es el signo que define este último.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "expected_success": 0.8,
-      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "bundle_id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -278,88 +98,133 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v7",
-      "statement": "Gabriela, oriundo de Esmeraldas, visita a sus parientes en Machala y al conversar utiliza la palabra 'caleta' para referirse a su hogar. Su prima Rafael se sonríe. ¿Cómo se clasifica el vocablo 'caleta' en el contexto lingüístico nacional?",
-      "context": "Gabriela, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Machala, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle-v3",
+      "statement": "¿Quién escribió \"El almohadón de plumas\" (1917), relato de horror doméstico considerado un clásico del cuento latinoamericano?",
+      "context": "En la biblioestudiantil de un colegio de Cuenca fichan autores del cuento hispanoamericano.",
       "options": [
         {
           "letter": "A",
-          "text": "Es un término de la jerga juvenil y coloquial ecuatoriana que denota casa u hogar en entornos informales de Machala.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "Jorge Luis Borges",
+          "is_correct": false,
+          "feedback": "Incorrecto. Borges cultivó el cuento metafísico y laberíntico; \"El almohadón de plumas\" pertenece a otro maestro del relato."
         },
         {
           "letter": "B",
-          "text": "Es un tecnicismo geográfico que describe la arena de Esmeraldas y Machala.",
+          "text": "Julio Cortázar",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Cortázar es posterior y autor de \"Casa tomada\" (1946); este relato de 1917 es de otro autor."
         },
         {
           "letter": "C",
-          "text": "Es una palabra de la norma culta formal de Colegio Nacional Manta utilizada en el discurso literario clásico.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "Horacio Quiroga",
+          "is_correct": true,
+          "feedback": "Correcto. Horacio Quiroga publicó \"El almohadón de plumas\" en 1917, dentro de su producción de cuentos de amor, locura y muerte."
         },
         {
           "letter": "D",
-          "text": "Es un neologismo tecnológico que designa un componente del procesador en Machala.",
+          "text": "José de la Cuadra",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. De la Cuadra lideró en Ecuador la narrativa de la región costa con novelas como Los Sangurimas, no este relato."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Quiroga (1878-1937) llevó al extremo la lección de Poe: efecto único, tensión creciente y desenlace devastador. \"El almohadón de plumas\" (1917) es el ejemplo canónico de su poética del horror breve.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle-v4",
+      "statement": "Cuando un cuento arranca en plena acción, cuando el conflicto ya está en marcha, se dice que su estructura es de qué tipo?",
+      "context": "El club de escritura de un colegio de Quito practica aperturas de cuentos para el concurso interno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lineal, porque el orden de los hechos coincide siempre con el orden del relato",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estructura lineal respeta el orden cronológico desde el planteamiento; el caso descrito lo altera deliberadamente."
+        },
+        {
+          "letter": "B",
+          "text": "De marco, porque una historia principal envuelve a las demás",
+          "is_correct": false,
+          "feedback": "Incorrecto. El relato marco implica una situación de narración que contiene otros relatos, no una entrada tardía en la acción."
+        },
+        {
+          "letter": "C",
+          "text": "Minimalista, porque elimina todo los adornos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El minimalismo concierne a la sobriedad del estilo y los elipsis, no al punto de entrada de la trama."
+        },
+        {
+          "letter": "D",
+          "text": "In media res, porque el narrador comienza en el medio de los sucesos",
+          "is_correct": true,
+          "feedback": "Correcto. \"In media res\" designa la técnica de empezar en el nudo de la acción y dejar que el pasado se reconstruya después."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Distinguir las estructuras (lineal, in media res, marco, minimalista) es clave para analizar el oficio del cuentista. La entrada in media res fabrica de inmediato la curiosidad del lector, coherente con el efecto único que exigía Poe.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle-v5",
+      "statement": "Micro-texto original: \"El abuelo encendió la lámpara y nos dijo: esta noche les contaré lo que vi en la mina. Y lo que vio fue esto...\". ¿Qué estructura emplea este arranque?",
+      "context": "En un colegio de Guayaquil clasifican los cuentos escritos en el taller según su estructura narrativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Relato de marco: una situación de narración enmarca el cuento principal",
+          "is_correct": true,
+          "feedback": "Correcto. La voz del abuelo que anuncia el relato crea un nivel enmarcador; la historia de la mina vive dentro de ese marco."
+        },
+        {
+          "letter": "B",
+          "text": "Estructura lineal pura sin mediación alguna",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mediación de quien cuenta (\"esta noche les contaré\") agrega un nivel narrativo que la linealidad pura no tiene."
+        },
+        {
+          "letter": "C",
+          "text": "Entrada in media res con el conflicto ya estallado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aún no hay acción en marcha: hay una ceremonia previa de narración que prepara el relato enmarcado."
+        },
+        {
+          "letter": "D",
+          "text": "Final abierto sin desenlace posible",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento es un arranque, no un cierre; la categoría de desenlace no aplica a este nivel del texto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "En el registro coloquial informal y la jerga popular de varias regiones del Ecuador (especialmente de la Costa), 'caleta' significa casa.\n\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.78,
-      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v8",
-      "statement": "En Esmeraldas, el docente de Lengua del Colegio Nacional Bernardo Valdivieso explica que los habitantes de la Sierra suelen aspirar la 's' al final de las palabras y usar un tono cantado, mientras que en la Costa se tiende a elidir la 's' y hablar de manera más veloz. ¿Cómo se denominan estas diferencias de pronunciación?",
-      "context": "David, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Esmeraldas, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Errores patológicos del habla que requieren de asistencia médica en Esmeraldas de inmediato.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Variedades diatópicas o geográficas, generadas por la distribución territorial y el relieve cultural de las regiones de Esmeraldas.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "C",
-          "text": "Variedades diafásicas o de registro, que varían según la formalidad de la entrevista de trabajo en Esmeraldas.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Variedades diastráticas, que dependen de manera única del nivel socioeconómico de los estudiantes de Colegio Nacional Bernardo Valdivieso.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Las variedades diatópicas o geográficas (dialectos) son las variaciones de una misma lengua que dependen del área geográfica donde residen los hablantes.\n\n---",
+      "explanation": "Aplicar la noción de marco exige reconocer dos niveles: el narrador primario (abuelo junto a la lámpara) y el relato segundo (lo visto en la mina). Es la misma arquitectura de los ciclos de cuentos orales y de mil y una noches.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.76,
-      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "expected_success": 0.75,
+      "bundle_id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -368,133 +233,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v9",
-      "statement": "Durante una conversación informal en un mercado de Santo Domingo, Elena dice: '¡Ese guambra sí que es avispado!'. ¿Qué significados poseen los términos 'guambra' y 'avispado' en el español ecuatoriano cotidiano?",
-      "context": "Elena, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Santo Domingo, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle-v6",
+      "statement": "\"El jardín de senderos que se bifurcan\" (1941), cuento de laberintos temporales, pertenece a qué autor?",
+      "context": "Un docente de un colegio de Cuenca arma una antología y debe ubicar cada relato con su libro y año.",
       "options": [
         {
           "letter": "A",
-          "text": "'Guambra' significa niño o joven (quichuismo), y 'avispado' denota ser astuto, despierto o inteligente en Santo Domingo.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "Horacio Quiroga",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quiroga cultivó el cuento de horror naturalista, no la meditación metafísica sobre el tiempo."
         },
         {
           "letter": "B",
-          "text": "'Guambra' significa persona anciana de Santo Domingo, y 'avispado' se refiere a tener picaduras de insecto.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "'Guambra' denota un objeto de arcilla en el Colegio Nacional Nueve de Octubre, y 'avispado' describe un color amarillo brillante.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Ambos términos expresan de manera formal términos científicos en Santo Domingo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "'Guambra' es un quichuismo que significa niño, adolescente o joven; 'avispado' es un modismo coloquial ecuatoriano que significa astuto o hábil.\n\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.74,
-      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v10",
-      "statement": "Al estudiar la identidad nacional en Quito, se analiza el habla de la Amazonía ecuatoriana. Se observa que esta variedad posee rasgos de contacto lingüístico tanto del quichua como del dialecto de la Sierra y la Costa. ¿A qué se debe esta particularidad dialectal oriental?",
-      "context": "Diana, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Quito, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "A un proceso de aislamiento geográfico absoluto que impidió todo comercio con Quito.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "A los flujos migratorios internos y al estrecho contacto cotidiano con diversas nacionalidades indígenas amazónicas cerca de Quito.",
+          "text": "Jorge Luis Borges",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto. El cuento de 1941 es de Borges: novela policial y especulación filosófica sobre la bifurcación del tiempo en un mismo relato."
         },
         {
           "letter": "C",
-          "text": "A un decreto legal emitido para unificar la pronunciación en el Colegio Nacional Maldonado de Quito.",
+          "text": "Julio Cortázar",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Cortázar es autor de \"Casa tomada\" (1946) y \"Continuidad de los parques\" (1965), no de este laberinto borgiano."
         },
         {
           "letter": "D",
-          "text": "A la influencia directa de la televisión y la radio francesas en las zonas rurales cerca de Colegio Nacional Maldonado.",
+          "text": "José de la Cuadra",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. De la Cuadra cultivó el realismo regional ecuatoriano, ajeno a la ficción metafísica porteña."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La variedad lingüística de la Amazonía combina características andinas y costeñas debido a la migración y colonización interna, junto con préstamos léxicos de lenguas ancestrales locales.\n\n---",
+      "explanation": "Borges convierte el cuento en laboratorio de ideas: el \"jardín\" propone una novela policial cuyo enigma es una teoría del tiempo ramificado. Su lectura aplica el concepto de cuento intelectual dentro de la tradición del género breve.",
       "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.72,
-      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v11",
-      "statement": "En una cafetería de Guayaquil, un joven lojano le dice a su amigo de Guayaquil: 'Oye, Carlos, pásame el achachay que hace mucho frío'. El guayaquileño se desconcierta unos segundos. ¿Qué variedad lingüística representa el término 'achachay'?",
-      "context": "Carlos, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Guayaquil, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Una variedad dialectal de la Sierra, influenciada por préstamos léxicos del kichwa (quichuismos) para expresar sensaciones físicas en Guayaquil.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "B",
-          "text": "Una jerga profesional de carácter técnico empleada exclusivamente en la medicina de Guayaquil y Guayaquil.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Un modismo extranjero proveniente del idioma inglés británico y adaptado al uso juvenil de Colegio Nacional Olmedo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Un arcaísmo del español medieval que se conservó sin alteraciones en Guayaquil.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "'Achachay' es un quichuismo ampliamente adoptado en la Sierra ecuatoriana que expresa frío. Su uso forma parte del dialecto andino.\n\n---",
-      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "expected_success": 0.7,
-      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "bundle_id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -503,178 +278,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v12",
-      "statement": "Rafael, oriundo de Esmeraldas, visita a sus parientes en Cuenca y al conversar utiliza la palabra 'caleta' para referirse a su hogar. Su prima Patricia se sonríe. ¿Cómo se clasifica el vocablo 'caleta' en el contexto lingüístico nacional?",
-      "context": "Rafael, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Cuenca, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle-v7",
+      "statement": "En \"Casa tomada\", de Julio Cortázar, la estructura del relato se apoya principalmente en qué recurso?",
+      "context": "Estudiantes de un colegio de Quito leen en voz alta \"Casa tomada\" (1946) y discuten quién expulsó a los hermanos de la casa.",
       "options": [
         {
           "letter": "A",
-          "text": "Es un neologismo tecnológico que designa un componente del procesador en Cuenca.",
+          "text": "Un narrador omnisciente que explica el origen de los ocupantes invasores",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Nadie explica nada: el poder del relato nace precisamente de la ausencia de explicación."
         },
         {
           "letter": "B",
-          "text": "Es un término de la jerga juvenil y coloquial ecuatoriana que denota casa u hogar en entornos informales de Cuenca.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "El salto temporal constante entre décadas de la infancia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El relato avanza casi en tiempo real por la casa; no es una crónica generacional."
         },
         {
           "letter": "C",
-          "text": "Es un tecnicismo geográfico que describe la arena de Esmeraldas y Cuenca.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Es una palabra de la norma culta formal de Colegio Nacional Mejía utilizada en el discurso literario clásico.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "En el registro coloquial informal y la jerga popular de varias regiones del Ecuador (especialmente de la Costa), 'caleta' significa casa.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.68,
-      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v13",
-      "statement": "En Ambato, el docente de Lengua del Colegio Nacional Vicente Rocafuerte explica que los habitantes de la Sierra suelen aspirar la 's' al final de las palabras y usar un tono cantado, mientras que en la Costa se tiende a elidir la 's' y hablar de manera más veloz. ¿Cómo se denominan estas diferencias de pronunciación?",
-      "context": "Andrés, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Ambato, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Errores patológicos del habla que requieren de asistencia médica en Ambato de inmediato.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Variedades diatópicas o geográficas, generadas por la distribución territorial y el relieve cultural de las regiones de Ambato.",
+          "text": "La progresión de una invasión silenciosa contada desde la percepción limitada de un narrador que no comprende",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "C",
-          "text": "Variedades diafásicas o de registro, que varían según la formalidad de la entrevista de trabajo en Ambato.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Correcto. La fuerza de \"Casa tomada\" está en la restricción del focalización: solo se oyen ruidos y se ve la puerta cerrada, y el lector completa el horror."
         },
         {
           "letter": "D",
-          "text": "Variedades diastráticas, que dependen de manera única del nivel socioeconómico de los estudiantes de Colegio Nacional Vicente Rocafuerte.",
+          "text": "El diálogo explícito con los \"extraños\" que justifica su posesión del inmueble",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Las variedades diatópicas o geográficas (dialectos) son las variaciones de una misma lengua que dependen del área geográfica donde residen los hablantes.\n\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.66,
-      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v14",
-      "statement": "Durante una conversación informal en un mercado de Manta, Estefanía dice: '¡Ese guambra sí que es avispado!'. ¿Qué significados poseen los términos 'guambra' y 'avispado' en el español ecuatoriano cotidiano?",
-      "context": "Estefanía, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Manta, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "'Guambra' significa niño o joven (quichuismo), y 'avispado' denota ser astuto, despierto o inteligente en Manta.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "B",
-          "text": "'Guambra' significa persona anciana de Manta, y 'avispado' se refiere a tener picaduras de insecto.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "'Guambra' denota un objeto de arcilla en el Colegio Benigno Malo, y 'avispado' describe un color amarillo brillante.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Ambos términos expresan de manera formal términos científicos en Manta.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "'Guambra' es un quichuismo que significa niño, adolescente o joven; 'avispado' es un modismo coloquial ecuatoriano que significa astuto o hábil.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.64,
-      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v15",
-      "statement": "Al estudiar la identidad nacional en Loja, se analiza el habla de la Amazonía ecuatoriana. Se observa que esta variedad posee rasgos de contacto lingüístico tanto del quichua como del dialecto de la Sierra y la Costa. ¿A qué se debe esta particularidad dialectal oriental?",
-      "context": "Ana, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Loja, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "A la influencia directa de la televisión y la radio francesas en las zonas rurales cerca de Colegio Nacional Bolívar.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "A un proceso de aislamiento geográfico absoluto que impidió todo comercio con Loja.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "A los flujos migratorios internos y al estrecho contacto cotidiano con diversas nacionalidades indígenas amazónicas cerca de Loja.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "D",
-          "text": "A un decreto legal emitido para unificar la pronunciación en el Colegio Nacional Bolívar de Loja.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Los invasores nunca hablan ni se explican; la indeterminación es el mecanismo central del cuento."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La variedad lingüística de la Amazonía combina características andinas y costeñas debido a la migración y colonización interna, junto con préstamos léxicos de lenguas ancestrales locales.\n\n---",
-      "difficulty": "7",
+      "explanation": "Aplicar la teoría del efecto único a Cortázar muestra cómo la indeterminación (final abierto, causas ignoradas) intensifica la vacilación fantástica a lo Todorov: no se sabe si la ocupación fue política, sobrenatural o delirante.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.62,
-      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -683,43 +323,223 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v16",
-      "statement": "En una cafetería de Riobamba, un joven lojano le dice a su amigo de Guayaquil: 'Oye, Luis, pásame el achachay que hace mucho frío'. El guayaquileño se desconcierta unos segundos. ¿Qué variedad lingüística representa el término 'achachay'?",
-      "context": "Luis, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Riobamba, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle-v8",
+      "statement": "Micro-texto original: \"Llegó tarde. Ella ya no estaba. Sobre la mesa, solo la llave y una nota: 'no me busques'. Nadie más volvió a esa casa\". ¿Qué estructura de cuento breve privilegia este texto?",
+      "context": "En el concurso de microrrelatos de un colegio de Guayaquil, una estudiante escribe con frases mínimas y diálogos secos.",
       "options": [
         {
           "letter": "A",
-          "text": "Un arcaísmo del español medieval que se conservó sin alteraciones en Riobamba.",
+          "text": "Estructura de marco con narrador oral en el centro",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. No hay ceremonia de narración ni segundo nivel: el relato se entrega directo y comprimido."
         },
         {
           "letter": "B",
-          "text": "Una variedad dialectal de la Sierra, influenciada por préstamos léxicos del kichwa (quichuismos) para expresar sensaciones físicas en Riobamba.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "Estructura lineal con planteamiento, nudo y desenlace desarrollados en detalle",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay desarrollo de escenas: todo lo importante ocurre fuera del texto, en las zonas ciegas."
         },
         {
           "letter": "C",
-          "text": "Una jerga profesional de carácter técnico empleada exclusivamente en la medicina de Guayaquil y Riobamba.",
+          "text": "Entrada in media res con explicación posterior de los hechos",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Aunque hay acción iniciada, el texto nunca retrocede a explicar; la elipsis es total, no diferida."
         },
         {
           "letter": "D",
-          "text": "Un modismo extranjero proveniente del idioma inglés británico y adaptado al uso juvenil de Unidad Educativa Santo Domingo.",
+          "text": "Estructura minimalista apoyada en elipsis y en lo no dicho",
+          "is_correct": true,
+          "feedback": "Correcto. El minimalismo fiá el sentido a lo omitido: la nota, la llave y la ausencia concentran toda la historia posible."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La estructura minimalista lleva al límite la economía del género: cada palabra carga múltiples funciones y el lector reconstruye el relato. Compararla con la narración lineal ayuda a aplicar el concepto de concentración propia de la ficción breve.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle-v9",
+      "statement": "Los que se van (1929), libro colectivo de cuentos fundamental para el relato breve ecuatoriano, se asocia con qué nombres?",
+      "context": "Un grupo de un colegio de Cuenca arma la línea del tiempo del cuento ecuatoriano para la feria de ciencias sociales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gallegos Lara y Vera, voces del cuento de denuncia social en el Ecuador",
+          "is_correct": true,
+          "feedback": "Correcto. El volumen de 1929, firmado por Gallegos Lara y Vera, inauguró la etapa madura del cuento ecuatoriano de corte realista y denuncial."
+        },
+        {
+          "letter": "B",
+          "text": "Rubén Darío y Benjamín Carrión",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. Darío es nicaragüense y modernista; la pregunta apunta a un libro ecuatoriano de cuentos de 1929."
+        },
+        {
+          "letter": "C",
+          "text": "Borges y Bioy Casares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese dúo porteño no participó en el cuento social ecuatoriano de los años veinte."
+        },
+        {
+          "letter": "D",
+          "text": "Alfonso Chase y Medardo Ángel Silva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Silva es poeta decapista y Chase experimentador posterior; ninguno pertenece al proyecto narrativo de 1929."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Situar Los que se van (1929) en la historia del género permite ver el aterrizaje ecuatoriano del cuento moderno: realismo, habla popular y denuncia del explotado, en diálogo con la unidad de efecto que también reclamaba Quiroga.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle-v10",
+      "statement": "Los Sangurimas (1934), de José de la Cuadra, se clasifica correctamente como qué?",
+      "context": "Para el examen parcial de un colegio de Quito deben distinguir cuento, novela corta y novela por su extensión y concentración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuento fantástico de vacilación sobrenatural",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su mundo es el realismo épico de la costa ecuatoriana, sin la vacilación que define a lo fantástico."
+        },
+        {
+          "letter": "B",
+          "text": "Novela corta de raigambre regionalista",
+          "is_correct": true,
+          "feedback": "Correcto. Los Sangurimas (1934) es una novela corta: más extensa y compleja que el cuento, pero dentro de la concentración propia de la ficción breve."
+        },
+        {
+          "letter": "C",
+          "text": "Microrrelato de elipsis minimalista",
+          "is_correct": false,
+          "feedback": "Incorrecto. La saga familiar con múltiples escenas y personajes excede por mucho la economía del microrrelato."
+        },
+        {
+          "letter": "D",
+          "text": "Poema narrativo modernista",
+          "is_correct": false,
+          "feedback": "Incorrecto. No está en verso ni pertenece al ciclo modernista: es narrativa realista de los años treinta."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Achachay' es un quichuismo ampliamente adoptado en la Sierra ecuatoriana que expresa frío. Su uso forma parte del dialecto andino.\n\n---",
+      "explanation": "La frontera entre cuento, nouvelle y novela corta es de extensión y densidad estructural. Clasificar Los Sangurimas como novela corta aplica los criterios de concentración y unidad de efecto a una forma intermedia del género breve.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle-v11",
+      "statement": "Micro-texto original: \"Cada 3 de noviembre sonaba el timbre y en la puerta no había nadie. Este año, por primera vez, el timbre sonó desde adentro de la casa\". ¿Por qué el texto roza lo fantástico y no lo maravilloso?",
+      "context": "En un colegio de Guayaquil analizan un microrrelato original escrito por una compañera a la luz de Todorov.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el hecho es imposible y todos los personajes lo aceptan sin asombro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si nadie vacilara y el suceso se naturalizara, el relato caería en el modo maravilloso, no en el fantástico."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el narrador demuestra al final que fue un cortocircuito del timbre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una explicación racional cerraría el caso hacia lo extraño; el texto justamente no la ofrece."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el hecho inquietante se instala en un marco realista y el lector debe decidir si es natural o sobrenatural",
+          "is_correct": true,
+          "feedback": "Correcto. La vacilación sin resolución entre una causa explicable y una imposible, dentro de un mundo cotidiano, es el núcleo del efecto fantástico en Todorov."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el microrrelato emplea estructura de marco con narrador oral",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay situación de narración que enmarque el hecho; la categoría estructural es distinta de la género-discursiva."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar el modo exige observar tres variables: marco realista, aceptación o duda del personaje, y cierre (o no) del enigma. Aquí la inversión del timbre (sonar desde adentro) sostiene la vacilación hasta la última línea, condición del texto fantástico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle-v12",
+      "statement": "En \"El almohadón de plumas\" (1917) de Quiroga, los médicos atribuyen la fiebre de Alicia a una anemia común mientras el narrador oculta y revela a la vez la causa verdadera. ¿Qué produce ese contraste?",
+      "context": "Un estudiante de un colegio de Cuenca contrasta el diagnóstico médico en \"El almohadón de plumas\" con el horror real de la criatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un efecto cómico que alivia la tensión del relato",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escena es de una gravedad creciente; el registro no es cómico sino de suspenso macabro."
+        },
+        {
+          "letter": "B",
+          "text": "Una estructura de marco que multiplica los puntos de vista",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay relato enmarcado: la perspectiva de los médicos es una focalización interna dentro de una sola línea narrativa."
+        },
+        {
+          "letter": "C",
+          "text": "Un salto temporal que rompe la unidad de efecto del cuento",
+          "is_correct": false,
+          "feedback": "Incorrecto. El relato mantiene una progresión concentrada; la unidad de efecto se refuerza, no se rompe."
+        },
+        {
+          "letter": "D",
+          "text": "Una ironía trágica: el lector intuye el horror biológico antes que los personajes, y eso intensifica el efecto de terror",
+          "is_correct": true,
+          "feedback": "Correcto. El desfase entre el saber médico erróneo y las pistas del narrador genera anticipación angustiosa, mecanismo central del horror quiroquiano."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La ironía trágica y la dosificación de indicios (el picotazo, la mancha, las alas dormidas) muestran el oficio de Quiroga: la verdad biológica del parásito se filtra contra el discurso racional de la ciencia, y el efecto único de espanto se acumula hasta el desenlace.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "expected_success": 0.6,
-      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "bundle_id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -728,178 +548,358 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v17",
-      "statement": "Patricia, oriundo de Esmeraldas, visita a sus parientes en Ibarra y al conversar utiliza la palabra 'caleta' para referirse a su hogar. Su prima Sebastián se sonríe. ¿Cómo se clasifica el vocablo 'caleta' en el contexto lingüístico nacional?",
-      "context": "Patricia, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Ibarra, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
+      "id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle-v13",
+      "statement": "En \"Continuidad de los parques\" de Cortázar, un hombre lee en un sofá un cuento cuyo personaje asesina a la puerta de un dormitorio, y la narración culmina cuando el asesino del libro empuja esa puerta que es la misma del lector. ¿Qué procedimiento estructura el relato?",
+      "context": "En un colegio de Quito estudian \"Continuidad de los parques\" (1965) como ejemplo de ficción autorreferente.",
       "options": [
         {
           "letter": "A",
-          "text": "Es un neologismo tecnológico que designa un componente del procesador en Ibarra.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "La mise en abyme: dos niveles narrativos que se funden hasta borrarse la frontera entre lector y leído",
+          "is_correct": true,
+          "feedback": "Correcto. El cuento dentro del cuento se cierra sobre el lector del marco, produciendo un bucle donde la ficción invade la realidad del lector-personaje."
         },
         {
           "letter": "B",
-          "text": "Es un término de la jerga juvenil y coloquial ecuatoriana que denota casa u hogar en entornos informales de Ibarra.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "La elipsis minimalista que suprime todo el conflicto",
+          "is_correct": false,
+          "feedback": "Incorrecto. No falta conflicto: hay dos tramas completas; lo característico es su espejo, no su omisión."
         },
         {
           "letter": "C",
-          "text": "Es un tecnicismo geográfico que describe la arena de Esmeraldas y Ibarra.",
+          "text": "La crónica realista con testigos verificables",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. El relato es una construcción metaficción, sin ningún pacto de referencialidad histórica."
         },
         {
           "letter": "D",
-          "text": "Es una palabra de la norma culta formal de Colegio Nacional Manta utilizada en el discurso literario clásico.",
+          "text": "El final abierto sin ningún tipo de desenlace",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "En el registro coloquial informal y la jerga popular de varias regiones del Ecuador (especialmente de la Costa), 'caleta' significa casa.\n\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.58,
-      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v18",
-      "statement": "En Portoviejo, el docente de Lengua del Colegio Nacional Bernardo Valdivieso explica que los habitantes de la Sierra suelen aspirar la 's' al final de las palabras y usar un tono cantado, mientras que en la Costa se tiende a elidir la 's' y hablar de manera más veloz. ¿Cómo se denominan estas diferencias de pronunciación?",
-      "context": "Fernando, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Portoviejo, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Errores patológicos del habla que requieren de asistencia médica en Portoviejo de inmediato.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Variedades diatópicas o geográficas, generadas por la distribución territorial y el relieve cultural de las regiones de Portoviejo.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "C",
-          "text": "Variedades diafásicas o de registro, que varían según la formalidad de la entrevista de trabajo en Portoviejo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Variedades diastráticas, que dependen de manera única del nivel socioeconómico de los estudiantes de Colegio Nacional Bernardo Valdivieso.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Las variedades diatópicas o geográficas (dialectos) son las variaciones de una misma lengua que dependen del área geográfica donde residen los hablantes.\n\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.56,
-      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v19",
-      "statement": "Durante una conversación informal en un mercado de Machala, María dice: '¡Ese guambra sí que es avispado!'. ¿Qué significados poseen los términos 'guambra' y 'avispado' en el español ecuatoriano cotidiano?",
-      "context": "María, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Machala, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "'Guambra' denota un objeto de arcilla en el Colegio Nacional Nueve de Octubre, y 'avispado' describe un color amarillo brillante.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Ambos términos expresan de manera formal términos científicos en Machala.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "'Guambra' significa niño o joven (quichuismo), y 'avispado' denota ser astuto, despierto o inteligente en Machala.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "D",
-          "text": "'Guambra' significa persona anciana de Machala, y 'avispado' se refiere a tener picaduras de insecto.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "'Guambra' es un quichuismo que significa niño, adolescente o joven; 'avispado' es un modismo coloquial ecuatoriano que significa astuto o hábil.\n\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.54,
-      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle-v20",
-      "statement": "Al estudiar la identidad nacional en Esmeraldas, se analiza el habla de la Amazonía ecuatoriana. Se observa que esta variedad posee rasgos de contacto lingüístico tanto del quichua como del dialecto de la Sierra y la Costa. ¿A qué se debe esta particularidad dialectal oriental?",
-      "context": "José, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Esmeraldas, estudia la riqueza dialectal y los quichuismos característicos de las regiones de Ecuador.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "A los flujos migratorios internos y al estrecho contacto cotidiano con diversas nacionalidades indígenas amazónicas cerca de Esmeraldas.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "B",
-          "text": "A un decreto legal emitido para unificar la pronunciación en el Colegio Nacional Maldonado de Esmeraldas.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "A la influencia directa de la televisión y la radio francesas en las zonas rurales cerca de Colegio Nacional Maldonado.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "A un proceso de aislamiento geográfico absoluto que impidió todo comercio con Esmeraldas.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Incorrecto. El desenlace existe y es brutal: la fusión de los dos niveles constituye el cierre del efecto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La variedad lingüística de la Amazonía combina características andinas y costeñas debido a la migración y colonización interna, junto con préstamos léxicos de lenguas ancestrales locales.\n\n---",
+      "explanation": "Analizar la mise en abyme exige identificar niveles narrativos (quien lee / quien es leído) y el punto de colapso entre ellos. Cortázar usa la estructura como máquina de vértigo: el lector del cuento se vuelve personaje del cuento que leía.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle-v14",
+      "statement": "Cuando Quiroga aconseja en su Decálogo (1927) creer en dificultades insuperables y trabajar la forma como un albañil, se puede analizar que su propuesta qué?",
+      "context": "El taller de escritura de un colegio de Guayaquil usa el Decálogo del perfecto cuentista (1927) de Quiroga como manual de estilo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prioriza la inspiración espontánea sobre cualquier disciplina de trabajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es exactamente lo contrario: el Decálogo desconfía de la musa y exige oficio tenaz y método."
+        },
+        {
+          "letter": "B",
+          "text": "Defiende la digresión larga como esencia del género breve",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuento se define por lo contrario: la economía y la tensión; la digresión pertenece a otra escala narrativa."
+        },
+        {
+          "letter": "C",
+          "text": "Subordina el estilo a la función: cada palabra debe servir al efecto final del relato",
+          "is_correct": true,
+          "feedback": "Correcto. La metáfora del albañil y la devoción por la forma apuntan a un texto donde ningún elemento es accesorio, heredera directa de Poe."
+        },
+        {
+          "letter": "D",
+          "text": "Recomienda copiar modelos clásicos sin variación personal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quiroga aconseja aprender de los maestros, pero exige la propia voz y la observación de la propia tierra y experiencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Decálogo de 1927 condensa una poética: concentración, efecto único y trabajo artesanal del lenguaje. Analizarlo como manifiesto del género permite vincular práctica de taller y teoría literaria en una sola clave.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle-v15",
+      "statement": "¿Qué análisis distingue mejor el cuento de la novela corta o nouvelle?",
+      "context": "Para el examen de un colegio de Cuenca comparan un cuento, una novela corta y una novela en términos estructurales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cuento siempre tiene animales y la novela corta siempre humanos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reparto de personajes no define géneros; Quiroga y de la Cuadra desmienten esa regla inventada."
+        },
+        {
+          "letter": "B",
+          "text": "El cuento exige final feliz y la novela corta final trágico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor del desenlace no es constitutivo: hay cuentos trágicos y nouvelle de cierre ambiguo."
+        },
+        {
+          "letter": "C",
+          "text": "El cuento concentra un solo efecto y un conflicto vertebral, mientras la novela corta admite más personajes, líneas secundarias y una respiración intermedia entre la concentración y la expansión",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia es de escala y densidad estructural: el cuento elimina todo lo accesorio; la nouvelle guarda concentración pero con mayor desarrollo."
+        },
+        {
+          "letter": "D",
+          "text": "La novela corta se escribe en verso y el cuento en prosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos pertenecen a la prosa narrativa; el metro no es un criterio de esta distinción genérica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La comparación aplicada a Los Sangurimas (1934) como novela corta y a \"El almohadón de plumas\" (1917) como cuento ilumina un continuo de formas breves: menos extensión exige más elipsis, y el criterio de Poe funciona como polo del espectro.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle-v16",
+      "statement": "Versión 1: \"Nadie en la aldea dudó jamás del don de curar de la abuela\". Versión 2: \"El médico no halló explicación, pero la abuela tampoco sabía cómo se había salvado el niño\". ¿Qué análisis es correcto?",
+      "context": "En un colegio de Quito revisan dos finales posibles para el mismo incidente fantástico del taller.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas versiones pertenecen al modo maravilloso",
+          "is_correct": false,
+          "feedback": "Incorrecto. La versión 2 mantiene la duda entre causa natural y sobrenatural, y eso justamente la saca del maravilloso."
+        },
+        {
+          "letter": "B",
+          "text": "La versión 1 es fantástica y la 2 es maravillosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invierte los términos: la aceptación sin asombro de la versión 1 define lo maravilloso, no lo fantástico."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos son extrañas porque hay un hecho milagroso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo extraño requiere una explicación racional diferida; ninguna versión la ofrece, y la 1 ni siquiera duda."
+        },
+        {
+          "letter": "D",
+          "text": "La versión 1 es maravillosa porque lo imposible se acepta, y la versión 2 es fantástica porque se sostiene la vacilación",
+          "is_correct": true,
+          "feedback": "Correcto. Aplica con precisión la tríada de Todorov: naturalización de la magia (maravilloso) frente a indecisión irresuelta (fantástico)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La prueba comparativa demuestra que el modo no depende del hecho (curación sobrenatural) sino del pacto de lectura: qué se acepta, qué se duda. Es el análisis estructural que exige la teoría de los géneros narrativos breves.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle-v17",
+      "statement": "El cuento de la estudiante resuelve su enigma en el último párrafo con un documento de archivo que explica racionalmente todo lo sobrenatural aparente. ¿Cuál es la evaluación más fundamentada de la etiqueta \"fantástico puro\"?",
+      "context": "Una estudiante de un colegio de Guayaquil presenta al concurso su cuento y sostiene que es \"fantástico puro\". El jurado debe evaluar ese juicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es incorrecta: al cerrarse con la explicación racional, el texto migra hacia lo extraño y disuelve la vacilación que define a lo fantástico",
+          "is_correct": true,
+          "feedback": "Correcto. Para Todorov, la resolución natural elimina el modo fantástico; el documento de archivo clausura la duda y reubica el relato."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta: basta con que aparezca un hecho aparentemente imposible",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo decisivo no es el hecho sino la indecisión sostenida ante él; un enigma explicado racionalmente no es fantástico."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta, porque lo fantástico exige personajes que acepten la magia sin asombro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa sería la definición de lo maravilloso; el criterio fantástico es la vacilación, no la aceptación."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta: ningún final puede anular un modo iniciado al principio del relato",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modo se juzga en la totalidad del pacto lector; el cierre reconfigura el efecto del conjunto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un error que se repite es confundir presencia de lo imposible con modo fantástico. La evaluación debe ponderar la duración de la vacilación hasta el final; el documento racional la interrumpe y por eso la etiqueta no se sostiene.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.52,
-      "bundle_id": "EC-LEN-11-2026-W04-variedades-linguisticas-ecuador-001-MASTERY-bundle",
+      "expected_success": 0.55,
+      "bundle_id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle-v18",
+      "statement": "¿Qué evaluación es más sólida sobre esa lectura?",
+      "context": "En un colegio de Quito, un estudiante resume \"Casa tomada\" (1946) afirmando: \"los hermanos abandonan la casa porque un grupo político armado los desalojó, eso dice el texto\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un resumen fiel: el cuento nombra explícitamente a los desalojadores",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto jamás identifica a \"los extraños\"; la lectura añade un referente que la superficie narrativa oculta deliberadamente."
+        },
+        {
+          "letter": "B",
+          "text": "Reduce la indeterminación del relato a una alegoría única: la lectura es plausible como hipótesis, pero el mérito del cuento está en no cerrarla",
+          "is_correct": true,
+          "feedback": "Correcto. Confunde interpretación posible con dato textual: la potencia de \"Casa tomada\" reside en la vacilación entre lo histórico, lo psicoanalítico y lo fantástico."
+        },
+        {
+          "letter": "C",
+          "text": "Es falsa de todo punto: el desalojo no ocurre en absoluto en el cuento",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desalojo sí ocurre narrativamente; lo que falta es su explicación, no el hecho."
+        },
+        {
+          "letter": "D",
+          "text": "Es irrelevante, porque a los cuentos nunca se les pueden aplicar lecturas políticas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las lecturas políticas son legítimas; lo que se discute es presentarla como información literal del texto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar interpretaciones exige separar lo dicho, lo sugerido y lo inferido. Una hipótesis alegórica es válida mientras reconozca que la indeterminación del final es un recurso estético deliberado de Cortázar, no una laguna del autor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle-v19",
+      "statement": "¿Qué valoración es más defendible sobre la vigencia del Decálogo para el taller escolar de microrrelatos?",
+      "context": "El periódico mural de un colegio de Cuenca convoca microrrelatos de 100 palabras y el club debate si el Decálogo del perfecto cuentista (1927) de Quiroga sigue siendo útil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es obsoleto: el microrrelato digital no requiere ninguna economía del lenguaje",
+          "is_correct": false,
+          "feedback": "Incorrecto. El microrrelato es la forma más económica de todas; sus exigencias de concentración radicalizan, no anulan, la lección de Quiroga."
+        },
+        {
+          "letter": "B",
+          "text": "Es inútil, porque Quiroga solo pensaba en novelas extensas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quiroga fue cuentista y teorizó el cuento; el Decálogo (1927) es un manual del género breve."
+        },
+        {
+          "letter": "C",
+          "text": "Es plenamente vigente en sus principios (efecto único, trabajo de forma, elipsis) aunque deba matizarse su rechazo de toda experimentación formal posterior",
+          "is_correct": true,
+          "feedback": "Correcto. Distingue lo nuclear de la poética de Quiroga de sus límites de época: la concentración sirve al microrrelato incluso cuando la vanguardia ya había ensanchado el mapa de formas."
+        },
+        {
+          "letter": "D",
+          "text": "Es decisivo como regla literal: cualquier cuento que incumpla un punto del Decálogo queda descalificado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Convertir un texto de taller en código normativo impide valorar grandes obras que transgredieron conscientemente esas recomendaciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar la vigencia de una poética demanda distinguir principios funcionales de preceptos históricos. La unidad de efecto y la elipsis siguen explicando el microrrelato; el canon de temas y modelos de Quiroga puede discutirse con fundamento.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la evaluación más rigurosa de esa tesis?",
+      "context": "En la clausura de la unidad de un colegio de Guayaquil, una estudiante propone: \"Los Sangurimas (1934) demuestra que el cuento fue el género mayor de la narrativa ecuatoriana\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta: Los Sangurimas es el cuento ecuatoriano más celebrado de los años treinta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La obra es una novela corta, no un cuento; la premisa se cae por error de clasificación genérica."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta: toda la narrativa de la generación de 1930 se escribió exclusivamente en formato de cuento",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa generación cultivó cuento y novela por igual; el exclusivismo es una exageración sin sustento."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta: el cuento no tuvo desarrollo alguno en el Ecuador del siglo XX",
+          "is_correct": false,
+          "feedback": "Incorrecto. Desmiente la evidencia: Los que se van (1929) y luego autores posteriores dan cuenta de una tradición cuentística real."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta: Los Sangurimas, como novela corta, muestra la riqueza de las formas breves ecuatorianas, pero probar el rango mayor del cuento exigiría apoyarse en antologías del género, no en una novela corta",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis falla en la identidad del argumento citado y en la lógica de la prueba: un caso de novela corta no puede avalar una jerarquía del cuento."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una afirmación crítico-literaria exige verificar datos (género y fecha de la obra) y coherencia lógica (qué puede probar qué evidencia). Distinguir cuento de novela corta no es pedantería: es la base de cualquier argumento sobre la tradición narrativa del país.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "EC-LEN-11-2026-W04-narrativa-cortas-cuento-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
       "cefr_level": null,

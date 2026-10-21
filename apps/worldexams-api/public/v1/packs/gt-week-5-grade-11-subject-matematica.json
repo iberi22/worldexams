@@ -13,13 +13,13 @@
       "context": "Un estudiante de bachillerato en Ciudad de Guatemala identifica las características de las ecuaciones de segundo grado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$ax + b = 0$",
           "is_correct": false,
           "feedback": "Esta es la forma general de una ecuación lineal o de primer grado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$ax^2 + bx + c = 0$",
           "is_correct": true,
           "feedback": "Correcto. Esta forma incluye el término cuadrático, el lineal y el independiente, con $a \\ne 0$."
@@ -37,7 +37,7 @@
           "feedback": "Esta es la ecuación de una línea recta en su forma pendiente-intercepto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Una ecuación cuadrática se caracteriza por tener como máximo exponente de la incógnita el número 2. El coeficiente $a$ no puede ser cero.",
       "difficulty": "4",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "Un arquitecto diseña un jardín cuadrado en Antigua Guatemala y conoce su área total.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x^2 = 144$",
           "is_correct": true,
           "feedback": "Correcto. El área de un cuadrado es el lado al cuadrado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2x = 144$",
           "is_correct": false,
           "feedback": "Esto representaría el doble del lado, no el área."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$4x = 144$",
           "is_correct": false,
           "feedback": "Esto representaría el perímetro del cuadrado."
@@ -127,7 +127,7 @@
           "feedback": "Esto es equivalente a $2x$, lo cual es incorrecto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Este es un ejemplo de una ecuación cuadrática incompleta pura ($ax^2 + c = 0$), donde solo existe el término cuadrático y el independiente.",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Esto ocurre cuando el discriminante es mayor que cero."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Una única solución real (o dos soluciones iguales).",
           "is_correct": true,
           "feedback": "Correcto. Si el discriminante es cero, la raíz desaparece y queda solo un valor."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ninguna solución real.",
           "is_correct": false,
           "feedback": "Esto ocurre cuando el discriminante es menor que cero."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Infinitas soluciones reales.",
           "is_correct": false,
           "feedback": "Una ecuación cuadrática nunca puede tener infinitas soluciones."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Cuando el discriminante es cero, el trinomio es un cuadrado perfecto y la parábola correspondiente solo toca el eje $x$ en un punto (vértice).",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Falta la solución negativa. Toda raíz cuadrada en una ecuación tiene dos valores posibles."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x = 5, x = -5$",
           "is_correct": true,
           "feedback": "Correcto. $x^2 = 25 \\Rightarrow x = \\pm \\sqrt{25} \\Rightarrow x = \\pm 5$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 12.5$",
           "is_correct": false,
           "feedback": "Se dividió 25 entre 2 en lugar de extraer la raíz cuadrada."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Dado que 25 es positivo, tiene dos raíces reales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Las ecuaciones cuadráticas puras se resuelven despejando $x^2$ y extrayendo la raíz cuadrada en ambos miembros, considerando los signos positivo y negativo.",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Un agricultor en Escuintla planta árboles en una disposición rectangular donde el número de filas es igual al número de árboles por fila.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$10$ árboles",
           "is_correct": false,
           "feedback": "$10 \\times 10 = 100$, no es suficiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$20$ árboles",
           "is_correct": true,
           "feedback": "Correcto. $x^2 = 400 \\Rightarrow x = 20$."
@@ -262,7 +262,7 @@
           "feedback": "Error al dividir por 2 en lugar de extraer raíz cuadrada."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El problema se modela con una ecuación cuadrática pura donde el área (total de árboles) es el producto del lado por sí mismo.",
       "difficulty": "6",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "No necesariamente; depende de los valores de $a$ y $b$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x = 0$",
           "is_correct": true,
           "feedback": "Correcto. Al factorizar $x(ax + b) = 0$, una solución siempre es $x = 0$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = -1$",
           "is_correct": false,
           "feedback": "No es una solución general para este tipo de ecuaciones."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No tiene soluciones reales.",
           "is_correct": false,
           "feedback": "Este tipo de ecuaciones siempre tiene al menos una solución real."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Al no tener término independiente ($c=0$), la variable $x$ es factor común, lo que garantiza que el cero sea una raíz de la ecuación.",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "En un taller de física en Quetzaltenango, se analiza el movimiento de un objeto lanzado hacia arriba.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 0, x = 2$",
           "is_correct": false,
           "feedback": "El segundo factor es $2x-10$, cuya raíz es 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 0, x = 5$",
           "is_correct": true,
           "feedback": "Correcto. $2x(x - 5) = 0 \\Rightarrow 2x = 0$ o $x - 5 = 0$."
@@ -397,7 +397,7 @@
           "feedback": "Se olvidó dividir 10 entre el coeficiente 2."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Se aplica la factorización por factor común para descomponer la ecuación en dos factores lineales.",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Un estudiante usa la fórmula cuadrática para resolver una ecuación que no es fácilmente factorizable.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$20$",
           "is_correct": false,
           "feedback": "Error al aplicar la fórmula $b^2 - 4ac$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$12$",
           "is_correct": true,
           "feedback": "Correcto. $(-4)^2 - 4(1)(1) = 16 - 4 = 12$."
@@ -442,7 +442,7 @@
           "feedback": "Error de signos en el cálculo de $b^2$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El discriminante se halla con la expresión $b^2 - 4ac$. Un valor positivo indica que existen dos soluciones reales e irracionales (en este caso).",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Un ingeniero hidráulico en Guatemala utiliza ecuaciones cuadráticas para calcular el flujo en tuberías.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = -2, x = -3$",
           "is_correct": false,
           "feedback": "Error en el signo final de las soluciones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 2, x = 3$",
           "is_correct": true,
           "feedback": "Correcto. $x = \\frac{5 \\pm \\sqrt{25 - 24}}{2} = \\frac{5 \\pm 1}{2}$."
@@ -487,7 +487,7 @@
           "feedback": "Aunque el proceso es correcto, las soluciones finales deben ser valores discretos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La fórmula cuadrática es un método infalible para hallar las raíces de cualquier ecuación de segundo grado, permitiendo verificar los resultados obtenidos por otros métodos.",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Se debe usar la mitad del coeficiente lineal elevada al cuadrado."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$100$",
           "is_correct": false,
           "feedback": "Este es el cuadrado de 10, pero se necesita el cuadrado de la mitad de 10."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$25$",
           "is_correct": true,
           "feedback": "Correcto. $(10/2)^2 = 5^2 = 25$."
@@ -577,7 +577,7 @@
           "feedback": "Este es el valor de la mitad, pero falta elevarlo al cuadrado."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Para completar el cuadrado en $x^2 + bx$, se suma $(b/2)^2$. Esto permite convertir el binomio en un cuadrado de binomio $(x + b/2)^2$.",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Esta sería la solución de $x^2-16=0$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x = 4$ (solución doble)",
           "is_correct": true,
           "feedback": "Correcto. Es un trinomio cuadrado perfecto $(x-4)^2 = 0$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 8, x = 2$",
           "is_correct": false,
           "feedback": "El producto de estos valores es 16, pero su suma es 10, no 8."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. El discriminante es cero, por lo que tiene una solución real."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Cuando el trinomio es un cuadrado perfecto, el discriminante es cero y la ecuación tiene una única solución real, también llamada raíz doble.",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "En un curso de física, se estudia el tiempo que tarda un proyectil en caer al suelo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$16$ s",
           "is_correct": false,
           "feedback": "Este es el valor de $t^2$, falta extraer la raíz cuadrada."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$4$ s",
           "is_correct": true,
           "feedback": "Correcto. $5t^2 = 80 \\Rightarrow t^2 = 16 \\Rightarrow t = 4$."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. No satisface la ecuación de caída libre."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El tiempo en problemas de caída libre suele resolverse mediante una ecuación cuadrática incompleta pura, considerando únicamente el valor positivo del tiempo.",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "Un matemático analiza la relación entre las raíces y los coeficientes de una ecuación cuadrática (Teorema de Vieta).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x^2 + 2x - 15 = 0$",
           "is_correct": true,
           "feedback": "Correcto. $(x-3)(x+5) = x^2 + 2x - 15$. La suma de raíces es $-b/a$ y el producto es $c/a$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x^2 - 2x - 15 = 0$",
           "is_correct": false,
           "feedback": "Aquí la suma de raíces sería 2, pero $3 + (-5) = -2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x^2 + 8x + 15 = 0$",
           "is_correct": false,
           "feedback": "Error en los signos de las raíces al reconstruir la ecuación."
@@ -757,7 +757,7 @@
           "feedback": "Los términos no coinciden con las raíces dadas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "A partir de las raíces $x_1, x_2$, se puede reconstruir la ecuación usando $(x - x_1)(x - x_2) = 0$ o bien mediante las relaciones de suma ($S = -b/a$) y producto ($P = c/a$).",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Se plantea un reto matemático sobre la suma de los inversos de las raíces de una ecuación cuadrática.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$10/7$",
           "is_correct": false,
           "feedback": "Esto es producto dividido entre suma. Se requiere suma dividida entre producto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$7/10$",
           "is_correct": true,
           "feedback": "Correcto. $1/x_1 + 1/x_2 = (x_1 + x_2) / (x_1 \\cdot x_2) = S/P = 7/10$."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Solo consideraste el producto de las raíces."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Utilizando las propiedades de las raíces, se puede hallar el valor de expresiones simétricas sin necesidad de conocer los valores individuales de las raíces.\nSuma de raíces $S = -b/a = 7$.\nProducto de raíces $P = c/a = 10$.\n$1/x_1 + 1/x_2 = (x_2 + x_1) / (x_1 x_2) = 7/10$.",
       "difficulty": "10",
       "images": [],

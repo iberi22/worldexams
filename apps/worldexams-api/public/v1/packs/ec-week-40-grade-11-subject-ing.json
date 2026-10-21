@@ -8,42 +8,42 @@
   },
   "questions": [
     {
-      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle-v1",
+      "statement": "You cannot send the notes today. Which reply is the most appropriate?",
+      "context": "Situation: A classmate asks you for your notes from the lesson you missed yesterday.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "text": "No.",
+          "is_correct": false,
+          "feedback": "No. A single word refusal closes the conversation and leaves the classmate without an alternative, so the situation becomes impolite."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "You could just copy them from the board like everybody else does.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. The reply shifts the problem back to the classmate and says nothing about whether the notes can be shared at all."
         },
         {
           "letter": "C",
-          "text": "entertainment",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "I'm sorry, I haven't finished rewriting them yet. I can bring them tomorrow morning.",
+          "is_correct": true,
+          "feedback": "Correct! It apologises, gives a reason and offers a clear alternative, which is what a friendly refusal with a solution sounds like."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "It is not that the notes are important, but that they are mine and I do not lend things.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. The sentence defends a position nobody raised and sounds confrontational in an ordinary classroom exchange."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "C",
+      "explanation": "In a spoken exchange a refusal is expected to carry three parts: a brief apology, a reason and an offer. Dropping any one of them leaves the listener without a social route forward, which is what makes a reply sound cold.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -53,87 +53,42 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle-v2",
+      "statement": "Which line should you say first at the baggage claim office?",
+      "context": "Situation: You have arrived at the airport and your suitcase has not appeared.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "This is a completely unacceptable situation and I want someone to explain it right now.",
+          "is_correct": false,
+          "feedback": "No. The opening is accusatory and starts the exchange on a hostile footing, which makes the explanation harder to obtain."
         },
         {
           "letter": "B",
-          "text": "baggage",
+          "text": "Where is my bag? I have been waiting here for a very long time indeed.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. The question is put as an accusation and the complaint about the wait comes before any useful information is offered."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "I would like to explain to you the exact reason why I am here today with this case.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. The sentence announces what will be said instead of saying it, so the agent gains nothing at the moment the help is needed."
         },
         {
           "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "destination",
+          "text": "Good morning. My suitcase has not arrived on the belt. Here is my baggage claim tag.",
           "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Correct! It greets, states the problem in a neutral way and hands over the document the agent needs to look up the flight."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "D",
+      "explanation": "Service encounters follow a predictable order: greeting, statement of the problem, supporting evidence. Starting before the evidence is offered forces the other person to ask for the information that was already available.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -143,42 +98,42 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle-v3",
+      "statement": "Which question keeps the conversation open and gets you what you need?",
+      "context": "Situation: At a restaurant you have just been told that the dish you ordered is not available.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "text": "So that means I have to sit here and wait for something I never ordered.",
+          "is_correct": false,
+          "feedback": "No. The sentence states a complaint and offers no question, so the waiter has nothing to answer and the exchange stalls."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "Why is it that nothing in this restaurant is ever available when I choose it?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. The question generalises about the whole restaurant, which is broader than the problem and sounds like an accusation."
         },
         {
           "letter": "C",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Could you tell me what you would recommend instead?",
+          "is_correct": true,
+          "feedback": "Correct! It is a polite request for information that lets the waiter solve the problem the two of you share at that moment."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "Is it possible that you people do not actually know what is in your own kitchen?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. The question attacks the competence of the staff rather than asking about the menu, so it makes an offer of help less likely."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "C",
+      "explanation": "Open questions in a service exchange ask for information the speaker cannot obtain alone. Using could would you is the standard way to make a request that gives the other person a role to play in solving the problem.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -188,42 +143,222 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle-v4",
+      "statement": "Which answer is most appropriate in this situation?",
+      "context": "Situation: A teacher asks why you did not hand in your work on the day it was due.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "text": "Everyone in the class failed, so I do not see why you are talking to me.",
+          "is_correct": false,
+          "feedback": "No. The answer shifts attention to other people and avoids the question, which makes the situation harder rather than easier."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "I was unwell that morning and finished it later. I can hand it in tomorrow and I am sorry for the delay.",
+          "is_correct": true,
+          "feedback": "Correct! It accounts for what happened, apologises and ends by proposing what will be done, which is what the teacher needs in order to decide."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "The assignment was not clear at all and I still do not understand what was asked.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. The answer is a claim about the task rather than an account of what happened, so it does not address the missed deadline."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "It does not matter what happened because you can simply give me another chance.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. The answer assumes the outcome and sounds demanding, which removes the chance of an agreement about when the work will come."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "B",
+      "explanation": "A defensible answer to an authority explains what happened without blaming anyone else and ends by proposing what will be done. That structure protects the relationship and makes a solution easier to discuss than an excuse alone.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle-v5",
+      "statement": "Which line is the most appropriate way to raise it?",
+      "context": "Situation: You want to leave a class ten minutes early and the teacher has not arrived yet.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am leaving now, and you were not here when the class started anyway.",
+          "is_correct": false,
+          "feedback": "No. The line announces a decision and adds a rebuke, so it turns a reasonable request into a confrontation."
+        },
+        {
+          "letter": "B",
+          "text": "Nobody else is here yet, so nobody will notice if I go.",
+          "is_correct": false,
+          "feedback": "No. The line depends on the absence of witnesses rather than on any permission, which is not a request at all."
+        },
+        {
+          "letter": "C",
+          "text": "You always start late and it is always me who suffers for it.",
+          "is_correct": false,
+          "feedback": "No. The generalisation from a single occasion makes the claim sound exaggerated, and it attacks the teacher instead of requesting anything."
+        },
+        {
+          "letter": "D",
+          "text": "Excuse me, would it be all right if I stepped out now? I have an appointment I cannot move.",
+          "is_correct": true,
+          "feedback": "Correct! It opens with a polite phrase, asks permission in the conditional and gives a reason that is easy to understand and accept."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Asking to leave is a request, and a request is made with the interrogative or the conditional rather than with an announcement. The reason can be given in one clause, since a long explanation invites negotiation instead of a decision.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle-v6",
+      "statement": "Which line best checks your understanding?",
+      "context": "Situation: You have understood a rule but you are not certain how it applies to your own situation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I understand the rule.",
+          "is_correct": false,
+          "feedback": "No. This claims full certainty, so any later difficulty looks like carelessness rather than a reasonable question."
+        },
+        {
+          "letter": "B",
+          "text": "So if my partner is absent, does the deadline stay the same or move?",
+          "is_correct": true,
+          "feedback": "Correct! It puts the specific case into words and offers two possibilities, so the rule can be confirmed or adjusted in one exchange."
+        },
+        {
+          "letter": "C",
+          "text": "Does it not make you nervous that the rule might be a mistake?",
+          "is_correct": false,
+          "feedback": "No. The question turns the doubt into a comment about other people and does not ask about the situation at hand."
+        },
+        {
+          "letter": "D",
+          "text": "Tell me the rule again from the beginning, because it is very complicated.",
+          "is_correct": false,
+          "feedback": "No. The sentence asks for the whole explanation again and criticises the rule, which is slower than asking about the single point of doubt."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Checking understanding means putting the specific case into words and asking for confirmation. That shortens the conversation, because the person who can answer deals with one question rather than restating everything.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle-v7",
+      "statement": "Which line is the most productive thing to say next?",
+      "context": "Situation: You need your classmate to repeat something the teacher said, but she did not hear it either.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You never listen to anything anyway, so it does not surprise me that you missed it.",
+          "is_correct": false,
+          "feedback": "No. The line blames the classmate and leaves the shared problem unsolved, so the conversation moves further from the information you both need."
+        },
+        {
+          "letter": "B",
+          "text": "It does not matter, we will both find out later from the board.",
+          "is_correct": false,
+          "feedback": "No. The line gives up on asking now and defers the problem without arranging any definite way of resolving it."
+        },
+        {
+          "letter": "C",
+          "text": "I am going to speak to the teacher about the whole class not paying attention.",
+          "is_correct": false,
+          "feedback": "No. The line announces a complaint about others and does not get you the instruction that you are missing."
+        },
+        {
+          "letter": "D",
+          "text": "Shall we both ask her at the end? Then we can compare what we heard.",
+          "is_correct": true,
+          "feedback": "Correct! It proposes a concrete plan and turns a shared difficulty into a task the two of you can both do."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "When two people have the same problem, the fastest solution is a joint action rather than separate requests. Suggesting shall we signals that the plan is shared, which makes agreement easier than an individual demand.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle-v8",
+      "statement": "Which line politely stops the explanation without offending the assistant?",
+      "context": "Situation: A shop assistant is explaining a product you have not asked about.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "That is enough. I am not interested in hearing any more about it.",
+          "is_correct": false,
+          "feedback": "No. The line is a command and cuts the assistant off, which is one of the quickest ways to create offence in a shop."
+        },
+        {
+          "letter": "B",
+          "text": "Are you finished? I have been standing here for a very long time.",
+          "is_correct": false,
+          "feedback": "No. The question is put as a complaint about time, which answers the explanation with an accusation instead of ending it politely."
+        },
+        {
+          "letter": "C",
+          "text": "Thank you, that is very helpful. I will think about it and let you know.",
+          "is_correct": true,
+          "feedback": "Correct! It gives thanks and then states what the speaker will do, so the exchange ends on the speaker's own decision rather than on the assistant's."
+        },
+        {
+          "letter": "D",
+          "text": "I did not ask about that, so please do not tell me about it again.",
+          "is_correct": false,
+          "feedback": "No. The sentence is correct but the tone is a reprimand, and a customer who wants to buy something rarely achieves it that way."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Polite interruption works by giving thanks before the redirection. The thanks is not insincere if it is followed by a definite statement of what you will do, because it ends the exchange on your own decision rather than on the assistant's.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -233,42 +368,357 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle-v9",
+      "statement": "Which line is the most suitable opening in this situation?",
+      "context": "Situation: You are introduced to someone at a school event and you have not met before.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
+          "text": "Hello, I do not think we have met. My name is Lucia, and I am in the second year.",
           "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "feedback": "Correct! It acknowledges that you do not know each other, gives your own information and invites the same in return."
         },
         {
           "letter": "B",
-          "text": "security",
+          "text": "I already know who you are, and I am surprised you work here.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. The line claims familiarity that the situation does not provide and begins with an implication that the person should not be there."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "You will have to explain yourself, because I have never seen you in this school before.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. The phrasing demands an account from a stranger and puts the other person in an awkward position at the very start."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "Everybody knows about you already, so there is no need to introduce yourself formally.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. The line claims shared knowledge that may not exist and refuses the introduction the other person is prepared to give."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "explanation": "A first introduction at a public event needs three things: an acknowledgement of the meeting, your own name and one detail that lets the other person place you. That is enough, and more than that sounds like an interrogation.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle-v10",
+      "statement": "Which line handles the problem most effectively?",
+      "context": "Situation: A group project has been divided and you have been given a task you cannot do.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I will do it, but I am telling you now that I am not happy about it.",
+          "is_correct": false,
+          "feedback": "No. The line accepts the task while registering a complaint, which leaves the group with a problem and no solution."
+        },
+        {
+          "letter": "B",
+          "text": "That is not my job, and I was told when the work was divided that it would not be.",
+          "is_correct": false,
+          "feedback": "No. The sentence appeals to an earlier arrangement that nobody mentioned now, so the group cannot act on it."
+        },
+        {
+          "letter": "C",
+          "text": "I suppose I will try, although I am quite sure it will not be right at the end.",
+          "is_correct": false,
+          "feedback": "No. The line agrees to something it predicts will fail and gives the group no information it can use to act."
+        },
+        {
+          "letter": "D",
+          "text": "I am not able to do this part well. Could we swap, or could someone take it and I will cover another task?",
+          "is_correct": true,
+          "feedback": "Correct! It states the limit plainly and offers two concrete options, so the group can decide instead of guessing what you can manage."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Naming a limitation and offering options solves more problems than agreeing reluctantly. The listener needs a decision to make, and a complaint without a proposal is a statement that something is wrong rather than a way forward.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle-v11",
+      "statement": "Which line is the least disruptive way to ask for clarification?",
+      "context": "Situation: A speaker is giving a talk and you have lost track of the argument.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sorry to interrupt, could you repeat the last part about the second stage?",
+          "is_correct": true,
+          "feedback": "Correct! It apologises for interrupting, names the specific section and asks for one repetition, which costs the speaker the least time."
+        },
+        {
+          "letter": "B",
+          "text": "What on earth is the point of all this? Could you start again from the beginning?",
+          "is_correct": false,
+          "feedback": "No. The line questions the whole talk and demands a restart, which the speaker cannot provide in the middle of a presentation."
+        },
+        {
+          "letter": "C",
+          "text": "Nobody in this room understands a single word of this presentation.",
+          "is_correct": false,
+          "feedback": "No. The generalisation from one person's difficulty to the whole audience makes the speaker defensive and does not identify the part that was unclear."
+        },
+        {
+          "letter": "D",
+          "text": "Speak louder, because the people at the back cannot hear anything at all.",
+          "is_correct": false,
+          "feedback": "No. The line changes the subject to volume and asserts something about the room that the speaker cannot verify from the front."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A clarification question names the specific part and asks for one repetition. That is easier for the speaker to satisfy than a request for the whole talk, so the interruption costs the presentation less time.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle-v12",
+      "statement": "Which line is the most persuasive opening for this conversation?",
+      "context": "Situation: You want to persuade a friend to join a school volunteering group.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The group visits the reading centre on Tuesdays for two hours, and I would enjoy the company if you came.",
+          "is_correct": true,
+          "feedback": "Correct! It gives the practical detail a friend actually wants to know and adds a personal reason that does not depend on the friend feeling obliged."
+        },
+        {
+          "letter": "B",
+          "text": "You should join because I have already joined and it would be strange not to.",
+          "is_correct": false,
+          "feedback": "No. The argument is about what looks right rather than what the activity does, so the friend's actual interests are not addressed."
+        },
+        {
+          "letter": "C",
+          "text": "Everybody is joining this group, and the people who are not joining are a very small number.",
+          "is_correct": false,
+          "feedback": "No. The appeal to numbers says nothing about what the work involves and puts pressure on the friend to conform."
+        },
+        {
+          "letter": "D",
+          "text": "I would rather you did not join, honestly, because the group needs more people like you.",
+          "is_correct": false,
+          "feedback": "No. The sentence starts by discouraging the very action it mentions and ends with a compliment that adds no information about the activity."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Persuasion works best when it answers the question the other person is really asking, which is usually what the time and the work involve. Specific practical detail persuades more reliably than pressure or appeal to numbers.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle-v13",
+      "statement": "Which line is most appropriate in this situation?",
+      "context": "Situation: You have made a mistake in a shared task and a teammate has noticed it.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "This is not what I did, so you should check your own work first.",
+          "is_correct": false,
+          "feedback": "No. The line denies first and blames second, so the teammate now has to prove a negative before anything can be corrected."
+        },
+        {
+          "letter": "B",
+          "text": "You are right, I used last year's figure. I have corrected it and put the source next to it.",
+          "is_correct": true,
+          "feedback": "Correct! It acknowledges the error precisely, names the cause and states the correction, so the teammate has nothing left to argue about."
+        },
+        {
+          "letter": "C",
+          "text": "It does not matter because the number is going to change anyway.",
+          "is_correct": false,
+          "feedback": "No. The sentence dismisses the problem on the grounds that it may disappear, and it leaves the wrong figure in place in the meantime."
+        },
+        {
+          "letter": "D",
+          "text": "I told you the data was not reliable, but nobody listens to me in this group.",
+          "is_correct": false,
+          "feedback": "No. The line turns an ordinary error into a grievance about the group and does nothing about the mistake itself."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Acknowledging an error and stating the correction converts a personal disagreement into a task the two people can finish together. It costs nothing in standing and it removes the reason the teammate would keep pressing the point.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle-v14",
+      "statement": "Which line manages the situation most effectively?",
+      "context": "Situation: On the phone you must give a colleague a long set of instructions while typing notes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wait a moment while I look at what I have written here on my screen.",
+          "is_correct": false,
+          "feedback": "No. The sentence leaves the listener guessing whether the connection has failed and adds a task instead of reducing one."
+        },
+        {
+          "letter": "B",
+          "text": "I will send you the steps in writing as well, so you do not have to rely on the call.",
+          "is_correct": true,
+          "feedback": "Correct! It keeps to the shared task, supplies the missing channel and removes the need for the colleague to remember a long sequence."
+        },
+        {
+          "letter": "C",
+          "text": "I am going to say all of this only one time, so please write it down carefully.",
+          "is_correct": false,
+          "feedback": "No. The warning raises the pressure and does nothing to make the information easier to record or check."
+        },
+        {
+          "letter": "D",
+          "text": "It is much easier if you simply know the process already, because then I would not have to explain it.",
+          "is_correct": false,
+          "feedback": "No. The sentence makes the colleague's lack of knowledge the problem and turns a communication task into a criticism."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "When information has to be preserved, the spoken channel is unreliable and a written copy removes the need to remember. Offering the written version is a practical solution rather than a request for the other person to try harder.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle-v15",
+      "statement": "Which line is the most useful response?",
+      "context": "Situation: A friend tells you a problem and you do not know what to suggest.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I do not know what I would do in that situation. Can you tell me more about what happened?",
+          "is_correct": true,
+          "feedback": "Correct! It admits the limit honestly and asks for the information it lacks, which turns an awkward silence into a normal part of a conversation."
+        },
+        {
+          "letter": "B",
+          "text": "I would not do anything like that, and I think you should stop worrying about it.",
+          "is_correct": false,
+          "feedback": "No. The reply dismisses the problem without knowing anything about it, and it makes the friend's concern sound unreasonable."
+        },
+        {
+          "letter": "C",
+          "text": "You should think about it for a while and then decide by yourself what to do.",
+          "is_correct": false,
+          "feedback": "No. The sentence returns the problem to the person who brought it, so the conversation gains nothing from your presence."
+        },
+        {
+          "letter": "D",
+          "text": "That is a difficult situation, and I am sure you already know the answer better than anyone.",
+          "is_correct": false,
+          "feedback": "No. The reassurance is flattering but empty, and it stops the conversation without helping the friend say more."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Saying that you do not know is honest and it opens the conversation rather than closing it, because it invites more detail. Advice given without information about the case is usually worse than a question that gets the information.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle-v16",
+      "statement": "Which line handles the question best?",
+      "context": "Situation: You are giving a short presentation and someone asks a question you cannot answer.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "That is a fair question and I do not have a confident answer. I will check it and send it to the group.",
+          "is_correct": true,
+          "feedback": "Correct! It credits the question, states the limit honestly and commits to a follow-up, which is a complete response in front of an audience."
+        },
+        {
+          "letter": "B",
+          "text": "That is not in my presentation, so it does not really belong here.",
+          "is_correct": false,
+          "feedback": "No. The sentence dismisses the question and implies that the questioner has chosen the wrong subject."
+        },
+        {
+          "letter": "C",
+          "text": "I am not sure, and I do not really want to guess in front of everybody.",
+          "is_correct": false,
+          "feedback": "No. The answer admits the gap but adds nothing about what will happen next, so the audience is left waiting."
+        },
+        {
+          "letter": "D",
+          "text": "There are many different opinions about that, so there is no correct answer at all.",
+          "is_correct": false,
+          "feedback": "No. The sentence claims the question is unanswerable when in fact the speaker simply has not prepared for it."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Admitting a limit and committing to find the answer is a complete response. It shows respect for the question and gives the audience something to hold on to, which is why it works better than either bluffing or dismissing.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -278,312 +728,42 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle-v17",
+      "statement": "Which line is the most effective way to end the exchange?",
+      "context": "Situation: A disagreement with a classmate has become personal and other students have joined in.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "text": "I can see that we are not going to agree today, so I will stop talking now.",
+          "is_correct": false,
+          "feedback": "No. The sentence withdraws without saying what happens next, and it invites the other side to describe the outcome as an argument won."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "The people who are agreeing with me are the ones who understand this topic.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. The sentence appeals to numbers and to expertise in order to win, which extends the personal nature of the argument rather than ending it."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "sightseeing",
+          "text": "I think we want different things here. I am willing to talk again when we have both cooled down.",
           "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Correct! It names the real difference, stops the exchange on a neutral footing and proposes a time, so neither side has to lose face."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "You are wrong about that and you know that you are wrong about it.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. Repeating the accusation in stronger words raises the stakes and gives the other side something to defend."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "Ending a personal disagreement means naming what the conflict is actually about and proposing a moment to continue. That separates the argument from the people and prevents the exchange from needing a winner.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -593,42 +773,42 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle-v18",
+      "statement": "Which line is the most appropriate in this situation?",
+      "context": "Situation: You need to borrow a pen from someone sitting next to you during an examination.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "text": "Give me a pen, you always have two and you never use them both.",
+          "is_correct": false,
+          "feedback": "No. The line demands the object and attacks the other student, which is unnecessary in a request that is easy to make politely."
         },
         {
           "letter": "B",
-          "text": "map",
+          "text": "I would like to request one of your two pens for a moment, if you are not using both.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. The line is grammatical but the bureaucratic wording makes a small request sound like a formal demand."
         },
         {
           "letter": "C",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Sorry to trouble you. Could I possibly borrow a pen just for this question?",
+          "is_correct": true,
+          "feedback": "Correct! It apologises, uses the modal could and gives a short reason, which is enough for a request that should not take more than a few seconds."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "You must have a spare pen in that case, so I will take one.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. The line assumes the answer and takes the object, which removes the other student's choice to say yes or no."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "A small request to a stranger or a peer needs an apology, a modal verb and a reason that is not longer than the request itself. Over-explanation makes a simple matter sound heavy and draws attention to the imposition.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -638,42 +818,42 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle-v19",
+      "statement": "Which reply is the most accurate and keeps the collaboration going?",
+      "context": "Situation: A classmate asks whether you have finished the shared report, and you have finished only your own part.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "text": "Yes, it is all finished.",
+          "is_correct": false,
+          "feedback": "No. The reply claims more than is true, so the classmate will rely on work that does not exist yet."
         },
         {
           "letter": "B",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "My sections are done, and I am finishing the summary tonight. I will send you the whole file by nine.",
+          "is_correct": true,
+          "feedback": "Correct! It states exactly what is done, what remains and when it will arrive, so the teammate knows what to rely on."
         },
         {
           "letter": "C",
-          "text": "briefcase",
+          "text": "I have not looked at the report at all, because I was busy with other things.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. The reply admits no progress without saying when there will be any, so the teammate has nothing to plan around."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "You have not done your own part yet, so do not worry about mine.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. The sentence turns the question back on the classmate and says nothing about the state of your own work."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "Accurate reporting in a shared task is more useful than an optimistic one. A speaker who says what is done and what is not gives the others the information they need to plan, which is what makes a collaboration run.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -683,222 +863,42 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle-v20",
+      "statement": "Which line is most effective in this situation?",
+      "context": "Situation: You must hand in an assignment in ten minutes and your printer has stopped working.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "text": "This is hopeless. Everything always fails at the last minute and nobody ever helps me.",
+          "is_correct": false,
+          "feedback": "No. The reply generalises about events and people and asks for nothing, so the deadline passes with no action taken."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "You will not believe what has happened to my printer at this exact moment.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. The line announces bad news and stops there, so it gives the listener no idea what you need them to do."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "I do not suppose anyone here has any idea how to fix a printer in ten minutes.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. The question is rhetorical and points at the listener's ignorance, which makes it less likely that anyone offers help."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "budget",
+          "text": "My printer has stopped. Could you send me your copy by email so I can print mine here before the deadline?",
           "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Correct! It states the problem, makes a specific request with a reason and asks the one action the other person can actually take."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "correct_answer": "D",
+      "explanation": "In a time pressure situation the effective line names the obstacle and asks for one specific action with a deadline attached. A complaint without a request gives the listener nothing to do, however true the complaint is.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W40-speaking-dialogues-situations-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",

@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the present perfect correctly?",
+      "context": "Present perfect with experiences, San Juan, grado 11, W05.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "She has visited Paris twice.",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "Correct. 'Has visited' is present perfect, and the sentence does not say when the trip happened, only that it has happened."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "She visited Paris twice.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The past simple sounds fine, but the unit calls for the present perfect for an experience with no specific date."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "She has visit Paris twice.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. After 'has' the verb goes in the past participle, and the participle of 'visit' is 'visited'."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "She is visited Paris twice.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The present continuous does not combine with a place, and the main verb would also be wrongly conjugated."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\n---",
+      "explanation": "El presente perfecto se forma con 'have' o 'has' mas el participio pasado. Se usa para hablar de experiencias de vida sin especificar el momento, y esa ausencia de fecha es justamente lo que lo distingue del pasado simple.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle",
       "periodo": 5,
@@ -54,40 +54,40 @@
     },
     {
       "id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'They ____ (not / decide) the destination yet.'",
+      "context": "Present perfect spelling rules, Ponce, grado 11, W05.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "haven't decide",
+          "is_correct": false,
+          "feedback": "Incorrect. After 'haven't' the verb goes in the past participle, not in its base form 'decide'."
         },
         {
           "letter": "B",
-          "text": "baggage",
+          "text": "didn't decide",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The past simple negative uses 'didn't' with the base form 'decide', not with the participle 'decided' used here."
         },
         {
           "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "haven't decided",
+          "is_correct": true,
+          "feedback": "Correct. The present perfect negative is 'have not' or 'haven't' plus the past participle 'decided'."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "don't decided",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Don't' belongs to the present simple and cannot be followed by a past participle."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "El presente perfecto tiene una sola negacion posible: 'have not' o 'haven't' seguido del participio. Cualquier combinacion con 'did' o 'do' corresponde a otros tiempos verbales y produce una frase que un hablante nativo no diria.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle",
       "periodo": 5,
@@ -99,40 +99,40 @@
     },
     {
       "id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'I ____ (write) three emails to the coordinator.'",
+      "context": "Present perfect with irregular participles, Carolina, grado 11, W05.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "text": "have wrote",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Wrote' is the past simple and cannot be used as a participle after 'have'."
         },
         {
           "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "have written",
+          "is_correct": true,
+          "feedback": "Correct. The participle of 'to write' is 'written', which is irregular and different from the past simple form 'wrote'."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "have writed",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Adding -ed to an irregular verb is not valid English, so the correct form is 'written'."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "am wrote",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Am' belongs to the present continuous and does not combine with the past simple 'wrote' as the main verb."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "Muchos verbos irregulares tienen un participio distinto tanto del presente como del pasado simple. 'To write' da 'wrote' en pasado y 'written' en participio, y con 'to see' ocurre lo mismo: 'saw' y 'seen'. La confusion entre estas dos formas es el error mas comun de la unidad.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle",
       "periodo": 5,
@@ -144,40 +144,40 @@
     },
     {
       "id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is correct?",
+      "context": "Present perfect with ever and never, Bayamon, grado 11, W05.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "text": "Did you ever ate roasted pig on the beach?",
+          "is_correct": false,
+          "feedback": "Incorrect. After 'did' the verb goes in the base form, so 'ate' does not belong and the sentence is incorrect."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "Have you ever eat roasted pig on the beach?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The present perfect requires the participle 'eaten', not the base form 'eat'."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "Do you ever ate roasted pig on the beach?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Do' is the present simple auxiliary and cannot be followed by the past form 'ate'."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Have you ever eaten roasted pig on the beach?",
+          "is_correct": true,
+          "feedback": "Correct. 'Ever' goes between the auxiliary and the participle to ask about a life experience."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "Los adverbios 'ever' y 'never' en presente perfecto ocupan la posicion intermedia: auxiliar, adverbio y participio. Al aparecer 'ever', la frase suele llevar una pregunta, porque se trata de preguntar por una experiencia en toda la vida.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle",
       "periodo": 5,
@@ -189,40 +189,40 @@
     },
     {
       "id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Why can't you say 'I have seen the movie yesterday'?",
+      "context": "Present perfect versus past simple, Arecibo, grado 11, W05.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "text": "'Yesterday' is a plural word, so the verb needs the -s of the third person.",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Yesterday' is a time adverb and has nothing to do with verb agreement."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "The present perfect always requires the past simple in the second half of the sentence.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The two forms cannot be mixed in the same sentence when one of them requires a specific finished time."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "'Seen' is not the correct participle of the verb 'to see'.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Seen' is the correct participle; the problem is the time expression 'yesterday'."
         },
         {
           "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "'Yesterday' is a finished past time, so the present perfect cannot be used with it.",
+          "is_correct": true,
+          "feedback": "Correct. The past simple requires a specific finished time, while the present perfect can only refer to the past without saying when."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "D",
+      "explanation": "El presente perfecto y el pasado simple no pueden convivir con las mismas expresiones de tiempo. Con 'yesterday', 'last year' o 'in 2019' se usa el pasado simple. Con 'already', 'yet', 'ever' o 'never' se usa el presente perfecto.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle",
       "periodo": 5,
@@ -234,40 +234,40 @@
     },
     {
       "id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'She ____ (just / finish) her project.'",
+      "context": "Present perfect with just, Humacao, grado 11, W05.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "text": "has just finish",
+          "is_correct": false,
+          "feedback": "Incorrect. The main verb must be in the past participle, so 'finish' is missing the -ed."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "has just finished",
+          "is_correct": true,
+          "feedback": "Correct. 'Just' goes between the auxiliary and the participle and shows that the action finished very recently."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "just has finished",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The adverb goes in mid-position, after the auxiliary, not at the beginning of the sentence."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "has finish just",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The order is auxiliary, adverb, participle; putting 'just' at the end breaks the present perfect structure."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Los adverbios de presente perfecto como 'just', 'already', 'still' y 'ever' van siempre entre el auxiliar y el participio. El orden 'auxiliar, adverbio, participio' es la estructura fija de este tiempo verbal.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle",
       "periodo": 5,
@@ -279,37 +279,37 @@
     },
     {
       "id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'We ____ (wait) for the results for an hour.'",
+      "context": "Present perfect with regular participles, Aguadilla, grado 11, W05.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
+          "text": "have waited",
           "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "feedback": "Correct. 'Have waited' is present perfect, and 'for' with a duration is compatible with this tense."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "have been waiting",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. That gerund belongs to the present perfect continuous, which is a different unit with a different emphasis."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "had waited",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Had' is the past perfect, which places the waiting at a point before another past event."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "are waiting",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The present continuous is used with ongoing durations, but here the sentence reports a result that is already complete."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "explanation": "Con 'for' y 'since' el presente perfecto es valido, y con duraciones que ya terminan tambien lo es. Lo que no es valido es mezclar el tiempo: usar 'had waited' llevaria la accion a un pasado mas remoto del que pide la frase.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct tag: 'You have already eaten, ____?'",
+      "context": "Present perfect with question tags, Guayanilla, grado 11, W05.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "didn't you",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Didn't' belongs to the past simple and does not fit the present perfect structure."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "have you not",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. A positive statement requires a negative tag, so the 'not' in the tag is unnecessary."
         },
         {
           "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "haven't you",
+          "is_correct": true,
+          "feedback": "Correct. A positive statement takes a negative tag, and the auxiliary 'have' is kept with the subject 'you'."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "don't you",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Don't' is the present simple auxiliary, not the present perfect one."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "El tag del presente perfecto usa el mismo 'have' de la frase principal, con la forma contracta 'not' si la frase es positiva. La estructura es 'have you', 'have they' o 'has she' segun el sujeto, seguida de 'not' cuando corresponde.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,40 +369,40 @@
     },
     {
       "id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'She has lived in Ponce ____ she was a child.'",
+      "context": "Present perfect with since and for, Trujillo Alto, grado 11, W05.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "text": "for",
+          "is_correct": false,
+          "feedback": "Incorrect. 'For' measures a duration, and 'was a child' is a point in time, not a measurable period."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "during",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'During' is used with specific periods such as 'during 2020' or 'during the summer'."
         },
         {
           "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "since",
+          "is_correct": true,
+          "feedback": "Correct. 'Since' introduces a starting point in time, and 'was a child' is a specific moment that works as that point."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "from",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'From' indicates an origin or starting point, but it does not combine with the present perfect the way 'since' does."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "La diferencia entre 'since' y 'for' es uno de los puntos que mas se confunden. 'Since' marca el inicio con un punto, como 'since 2019' o 'since she was a child'. 'For' marca una duracion, como 'for three years' o 'for an hour'.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle",
       "periodo": 5,
@@ -414,37 +414,37 @@
     },
     {
       "id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct question: '____ you ever been to Vieques?'",
+      "context": "Present perfect questions, Barceloneta, grado 11, W05.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
+          "text": "Have",
           "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "feedback": "Correct. The auxiliary 'have' opens the present perfect question, and the verb goes in the participle, which is 'been'."
         },
         {
           "letter": "B",
-          "text": "cancellation",
+          "text": "Do",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Do' forms present simple questions and does not combine with 'been', which is a participle."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "Did",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Did' belongs to the past simple and would require the base form 'be' after the auxiliary."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "Are",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Are' opens a question with 'to be' in the present, not a present perfect question, which requires 'been'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "explanation": "En las preguntas de presente perfecto el auxiliar 'have' o 'has' va al principio y el verbo principal aparece en participio pasado. Cuando ese participio es 'been', el auxiliar debe ser 'have' y nunca 'do', 'did' o 'are'.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,40 +459,40 @@
     },
     {
       "id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is NOT correct?",
+      "context": "Present perfect with specific times, Maunabo, grado 11, W05.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
+          "text": "I have finished my homework already.",
+          "is_correct": false,
+          "feedback": "This sentence is correct, because 'already' is a present perfect marker."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "I have finished my homework at nine o'clock.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. An exact time also marks a finished past, so the sentence should use 'finished' in the past simple."
         },
         {
           "letter": "C",
-          "text": "booking",
+          "text": "I have just finished my homework.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "This sentence is correct, because 'just' is typical of the present perfect."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "I have finished my homework last night.",
+          "is_correct": true,
+          "feedback": "Correct. This is the incorrect sentence: 'last night' is a finished past time and requires the past simple."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "D",
+      "explanation": "La regla general es que el presente perfecto no puede usarse con un tiempo pasado ya cerrado. Expresiones como 'last night', 'at nine o'clock' o 'in 2019' indican un momento definido y obligan al pasado simple.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle",
       "periodo": 5,
@@ -504,37 +504,37 @@
     },
     {
       "id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'He ____ (never / be) to El Yunque before.'",
+      "context": "Present perfect with the verb to go, Yauco, grado 11, W05.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "text": "has never be",
+          "is_correct": false,
+          "feedback": "Incorrect. The auxiliary is followed by the participle 'been', not the base form 'be'."
         },
         {
           "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "has never been",
+          "is_correct": true,
+          "feedback": "Correct. The participle of 'to be' is 'been', and with 'he' the auxiliary is 'has', followed by 'never'."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "have never been",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Have' agrees with I, you, we and they, and the subject of the sentence is 'he', in the third person."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "was never been",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Was' is the past simple of 'to be' and is not the present perfect auxiliary."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "'To be' es uno de los verbos que mas se confunden en presente perfecto. El participio es 'been', y la frase necesita un 'have' o 'has' delante. Un pasado de 'to be' como 'was' pertenece a otra unidad temporal.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,40 +549,40 @@
     },
     {
       "id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The teacher ____ (give) us extra homework.'",
+      "context": "Present perfect with third person, Cayey, grado 11, W05.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
+          "text": "has gave",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Gave' is the past simple and does not work as a participle after 'has'."
         },
         {
           "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "has given",
+          "is_correct": true,
+          "feedback": "Correct. The irregular participle of 'to give' is 'given', and with 'the teacher' the auxiliary is 'has'."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "have given",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Have' does not agree with the third-person singular subject 'the teacher'."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "has gived",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Gived' does not exist in English, because 'to give' is a fully irregular verb."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "Los verbos dar, ver y hacer tienen participios que cambian por completo la raiz. 'To give' da 'gave' y 'given', 'to see' da 'saw' y 'seen', y 'to do' da 'did' y 'done'. El participio es la forma que exige el presente perfecto.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle",
       "periodo": 5,
@@ -594,40 +594,40 @@
     },
     {
       "id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Question: 'Have you submitted the form?' Answer: '____'",
+      "context": "Present perfect in short answers, San Sebastian, grado 11, W05.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "text": "Yes, I did.",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Did' answers a past simple question, not one formed with 'have'."
         },
         {
           "letter": "B",
-          "text": "map",
+          "text": "Yes, I have submitted.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. It is a valid answer but not a short one; the short form leaves out the participle."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "Yes, I submitted.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Submitted' is past simple and does not match the question with the auxiliary 'have'."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Yes, I have.",
+          "is_correct": true,
+          "feedback": "Correct. The short answer repeats the auxiliary 'have' from the question, which is the expected form."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Las respuestas cortas siguen el auxiliar de la pregunta. Si la pregunta abre con 'have' o 'has', la respuesta abre igual, y si abre con 'did' la respuesta usa 'did'. Ese unico criterio decide entre 'have', 'has' y 'did'.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle",
       "periodo": 5,
@@ -639,37 +639,37 @@
     },
     {
       "id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the prepositions correctly?",
+      "context": "Present perfect with for versus since, Camuy, grado 11, W05.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "text": "He has worked at the hospital since five years.",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Since' is not used with a period of time: it needs a starting point, such as 'since 2019'."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "He has worked at the hospital for 2019.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. A year is a starting point, not a duration, so the correct preposition would be 'since'."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "He has worked at the hospital for five years.",
+          "is_correct": true,
+          "feedback": "Correct. 'For' measures duration and is followed by a period of time, such as 'five years' or 'two months'."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "He has worked at the hospital since five years ago.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Since five years ago' mixes a point in time with a duration; the natural English structure is 'for five years'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "La preposicion depende de lo que sigue. Si lo que sigue es una cantidad de tiempo se usa 'for'; si es una fecha, una hora o un evento se usa 'since'. La combinacion 'since five years ago' es la que mas errores produce en los exámenes.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -684,37 +684,37 @@
     },
     {
       "id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What does this sentence express? 'He has lived in Mayaguez since 2019.'",
+      "context": "Present perfect with ongoing situations, Luquillo, grado 11, W05.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
+          "text": "A situation that started in the past and is still true now.",
           "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "feedback": "Correct. The present perfect with 'since' describes a situation that began in the past and continues into the present."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "A completed action with a specific date.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. With a finished date, the present perfect would be replaced by the past simple, as in 'He lived there in 2019'."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "A future plan that has been decided.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The present perfect with 'since' does not express future plans; it describes a situation that has already started and is still true now."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "A habitual action that happened repeatedly.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Habitual actions are expressed with the present simple, not with 'has lived'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "explanation": "El presente perfecto tiene dos usos principales: experiences sin fecha y situaciones que empiezan en el pasado y siguen ahora. Con 'since' se expresa siempre la segunda, y esa es la clave para elegir el tiempo verbal en esta unidad.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -729,40 +729,40 @@
     },
     {
       "id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct form: 'I ____ (not / finish) the assignment yet.'",
+      "context": "Present perfect negatives with yet, Toa Baja, grado 11, W05.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
+          "text": "haven't finished",
           "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
+          "feedback": "Correct. 'Yet' goes at the end of the sentence and fits the present perfect negative to show that something has not happened."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "didn't finished",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. It mixes the past simple with the participle, and 'yet' also calls for the present perfect."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "don't finished",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Don't' is present simple and cannot be followed by the participle 'finished'."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "haven't finish",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. After the auxiliary you need the past participle 'finished', not the base form 'finish'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "explanation": "La palabra 'yet' solo se usa con presente perfecto, y suele ir al final de la oracion. En preguntas se traduce como 'ya' y en frases negativas como 'todavia no', pero gramaticalmente siempre acompaña a 'have' o 'has'.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle",
       "periodo": 5,
@@ -774,40 +774,40 @@
     },
     {
       "id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: '____ you ever seen the shark tank in Aguadilla?'",
+      "context": "Present perfect with the verb to see, Naguabo, grado 11, W05.",
       "options": [
         {
           "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
+          "text": "Did",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Did' belongs to the past simple and would require the base form 'see' after the auxiliary."
         },
         {
           "letter": "B",
-          "text": "warranty",
+          "text": "Do",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Do' forms the present simple and does not combine with the participle 'seen'."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "Has",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Has' is for the third person singular, and the subject of the question is 'you'."
         },
         {
           "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Have",
+          "is_correct": true,
+          "feedback": "Correct. With 'you' the auxiliary is 'have', and the irregular participle of 'to see' is 'seen'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "En el presente perfecto la concordancia del auxiliar depende del sujeto: 'have' para I, you, we y they, y 'has' para he, she e it. El participio es la misma forma para todos, y por eso 'seen' no cambia de forma.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle",
       "periodo": 5,
@@ -819,40 +819,40 @@
     },
     {
       "id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'Maria ____ (buy) the ticket online last week.'",
+      "context": "Present perfect with third person, Hatillo, grado 11, W05.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
+          "text": "has buyed",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Buyed' does not exist in English; the present perfect requires the irregular participle 'bought', not a form made with -ed."
         },
         {
           "letter": "B",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "bought",
+          "is_correct": true,
+          "feedback": "Correct. 'Last week' refers to a finished past, so it takes the irregular past simple 'bought', not the present perfect."
         },
         {
           "letter": "C",
-          "text": "prescription",
+          "text": "buyed",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Buyed' does not exist in English, because 'to buy' is irregular and its past form is 'bought'."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "boughted",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. You do not add -ed to an irregular verb; 'bought' is already the complete past simple form."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "Con 'last week' el pasado simple es la opcion mas natural, porque la expresion situa la compra en un momento definido. El presente perfecto solo seria preferible si el hablante quisiera sacar el enfasis de la fecha, algo poco habitual en esta frase.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle",
       "periodo": 5,
@@ -864,40 +864,40 @@
     },
     {
       "id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses 'since' with the right time expression?",
+      "context": "Present perfect with prepositions of time, Yabucoa, grado 11, W05.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "text": "I haven't seen him since Monday ago.",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Ago' does not combine with 'since', because 'since Monday' already sets the starting point."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "I didn't see him since Monday.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Since' requires the present perfect; with 'did', the sentence would need 'until' or a finished time reference."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "I haven't seen him since Monday.",
+          "is_correct": true,
+          "feedback": "Correct. 'Since' with a specific day marks the starting point, so it calls for the present perfect."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "I haven't see him since Monday.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. After 'haven't' the verb takes the participle, so 'see' must be 'seen'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "Las preposiciones de tiempo condicionan el tiempo verbal. 'Since' y 'for' obligan al presente perfecto, mientras que 'ago' y las fechas cerradas obligan al pasado simple. Mezclarlas, como en 'since Monday ago', produce una frase que no existe en ingles.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle",
       "periodo": 5,

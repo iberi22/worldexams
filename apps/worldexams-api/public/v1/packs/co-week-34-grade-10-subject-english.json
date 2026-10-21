@@ -19,27 +19,27 @@
           "feedback": "To enter."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "log out of",
           "is_correct": true,
           "feedback": "Correct. To exit or disconnect from an account."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "set up",
           "is_correct": false,
           "feedback": "To create."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "back up",
           "is_correct": false,
           "feedback": "To make a copy."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Log out of' is a common phrasal verb used for disconnecting from digital accounts.\r\n\r\n---",
-      "difficulty": "3",
+      "correct_answer": "D",
+      "explanation": "'Log out of' is a common phrasal verb used for disconnecting from digital accounts.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -65,13 +65,13 @@
           "feedback": "To escape."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "breaks into",
           "is_correct": true,
           "feedback": "Correct. To enter a computer system illegally."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "breaks up",
           "is_correct": false,
           "feedback": "To end a relationship."
@@ -83,9 +83,9 @@
           "feedback": "To stop working."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Break into' is the specific phrasal verb for illegal entry into a physical or digital space.\r\n\r\n---",
-      "difficulty": "3",
+      "correct_answer": "C",
+      "explanation": "'Break into' is the specific phrasal verb for illegal entry into a physical or digital space.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -111,13 +111,13 @@
           "feedback": "To stay informed."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "back / up",
           "is_correct": true,
           "feedback": "Correct. To make a copy of digital information."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "put / off",
           "is_correct": false,
           "feedback": "To postpone."
@@ -129,8 +129,8 @@
           "feedback": "To complete a form."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Back up' is a separable phrasal verb used for creating data redundancies.\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "'Back up' is a separable phrasal verb used for creating data redundancies.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -154,7 +154,7 @@
           "letter": "A",
           "text": "are / wouldn't give",
           "is_correct": false,
-          "feedback": "Mixed conditional, possible but B is for past-to-past."
+          "feedback": "'Are ... wouldn't give' is a mixed conditional; it would describe a habit that still holds, not the specific past mistake being recounted."
         },
         {
           "letter": "B",
@@ -166,18 +166,18 @@
           "letter": "C",
           "text": "were / won't give",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Were ... won't give' mixes a hypothetical past with a future consequence, so the two halves belong to different conditionals."
         },
         {
           "letter": "D",
           "text": "are / don't give",
           "is_correct": false,
-          "feedback": "Zero Conditional (general truth)."
+          "feedback": "'Are ... don't give' is the zero conditional for a general truth, which loses the past event the sentence describes."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Using the Third Conditional to analyze past cybersecurity failures.\r\n\r\n---",
-      "difficulty": "5",
+      "explanation": "Using the Third Conditional to analyze past cybersecurity failures.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -203,27 +203,27 @@
           "feedback": "To examine."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "carry / out",
           "is_correct": true,
           "feedback": "Correct. To perform or complete a task (like installation)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "set / off",
           "is_correct": false,
           "feedback": "To trigger."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "bring / about",
           "is_correct": false,
           "feedback": "To cause to happen."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Carry out' means to execute or perform a specific task, such as installing an update.\r\n\r\n---",
-      "difficulty": "5",
+      "correct_answer": "D",
+      "explanation": "'Carry out' means to execute or perform a specific task, such as installing an update.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -246,29 +246,29 @@
           "letter": "A",
           "text": "will be / used",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "'Will be' states the theft as a certainty, but the sentence warns about a risk that may or may not happen."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "could be / use",
           "is_correct": true,
           "feedback": "Correct First Conditional with modal for possibility."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "was / used",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "'Was' points to a completed past event and 'used' is past tense, so the sentence would describe something that already happened rather than a general risk."
         },
         {
           "letter": "D",
           "text": "would be / use",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Would be' belongs to the second conditional for a hypothetical case, not to a general warning about behaviour that could happen to anyone."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Using the First Conditional (could be + present) to warn about potential future digital risks.\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "Using the First Conditional (could be + present) to warn about potential future digital risks.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -292,7 +292,7 @@
           "letter": "A",
           "text": "looked up / click",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "'Looked up' means to consult a reference or check a definition, not to examine a message from end to end."
         },
         {
           "letter": "B",
@@ -304,18 +304,18 @@
           "letter": "C",
           "text": "broke into / look after",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Broke into' means to enter a place or system illegally, and 'look after' means to care for someone, so neither fits either blank."
         },
         {
           "letter": "D",
           "text": "set up / log on",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Set up' means to arrange or install something, and 'log on' is to sign in with a password, so the pair does not describe examining an email."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Go through' means to examine something in detail, which is essential for identifying digital scams.\r\n\r\n---",
-      "difficulty": "7",
+      "explanation": "'Go through' means to examine something in detail, which is essential for identifying digital scams.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -335,13 +335,13 @@
       "context": "A text about corporate security.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "set off / let",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Set off' means to set something alight or to start a journey, and 'let' would permit the hackers rather than stop them."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "set up / keep",
           "is_correct": true,
           "feedback": "Correct. To establish/install + to prevent."
@@ -350,18 +350,18 @@
           "letter": "C",
           "text": "brought up / stop",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Brought up' means to raise a topic, and 'stop' is too general for the specific function of a firewall."
         },
         {
           "letter": "D",
           "text": "broke down / prevent",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Broke down' means to stop working or to fall apart, the opposite of installing something that is meant to protect the server."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Set up' means to establish or install a system, a key phrasal verb in tech contexts.\r\n\r\n---",
-      "difficulty": "7",
+      "correct_answer": "A",
+      "explanation": "'Set up' means to establish or install a system, a key phrasal verb in tech contexts.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -384,29 +384,29 @@
           "letter": "A",
           "text": "implement / would remain",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Would remain' is the second conditional for a hypothetical, whereas 'unless' here introduces a condition that is expected to hold."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "implement / will remain",
           "is_correct": true,
           "feedback": "Correct First Conditional with 'unless'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "implemented / will remain",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "'Implemented' is past tense, so it would say the company already installed it rather than stating the ongoing requirement."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "had implemented / remained",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Had implemented ... remained' is a past-to-past pair that fits the third conditional, not an 'unless' clause about current practice."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Using 'unless' in a First Conditional to describe a necessary security measure and the consequence of not having it.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "Using 'unless' in a First Conditional to describe a necessary security measure and the consequence of not having it.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -427,33 +427,33 @@
       "context": "A formal discussion on cyber warfare.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "using / can",
           "is_correct": true,
           "feedback": "Correct inversion with 'Only by'."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "use / will",
           "is_correct": false,
-          "feedback": "Incorrect syntax for 'Only by'."
+          "feedback": "'Only by' is followed by a gerund, since 'by' takes a noun or an -ing form, so the bare 'use' is wrong."
+        },
+        {
+          "letter": "B",
+          "text": "using / -",
+          "is_correct": false,
+          "feedback": "With 'only' first, the subject and auxiliary have to invert, so the clause cannot end without an auxiliary such as 'can'."
         },
         {
           "letter": "C",
-          "text": "using / -",
-          "is_correct": false,
-          "feedback": "Missing auxiliary for inversion."
-        },
-        {
-          "letter": "D",
           "text": "used / did",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Used' is a past participle and 'did' would be needed for an inversion of the past, which is not the form this sentence requires."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Advanced B2 structure: Inversion after 'Only by + gerund' in a high-stakes security context.\r\n\r\n---",
-      "difficulty": "9",
+      "correct_answer": "D",
+      "explanation": "Advanced B2 structure: Inversion after 'Only by + gerund' in a high-stakes security context.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -476,7 +476,7 @@
           "letter": "A",
           "text": "must not leave",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "'Must not leave' can only describe a rule for the present or future, so it cannot criticise the past act described in the sentence."
         },
         {
           "letter": "B",
@@ -494,12 +494,12 @@
           "letter": "D",
           "text": "might not have left",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "'Might not have left' leaves open the possibility that he did not leave his computer unattended, which contradicts the semicolon clause that states it happened."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Using 'shouldn't have' to criticize past negligent behavior in a digital context.\r\n\r\n---",
-      "difficulty": "9",
+      "explanation": "Using 'shouldn't have' to criticize past negligent behavior in a digital context.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -522,29 +522,29 @@
           "letter": "A",
           "text": "was / wouldn't suffer",
           "is_correct": false,
-          "feedback": "Second conditional."
+          "feedback": "'Was ... wouldn't suffer' is the second conditional for a hypothetical in the past, but the sentence describes a consequence that is still going on today."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "had been / wouldn't be suffering",
           "is_correct": true,
           "feedback": "Correct Mixed Conditional (Past action -> Present ongoing result)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "had been / wouldn't have suffered",
           "is_correct": false,
-          "feedback": "Third conditional (Past result)."
+          "feedback": "'Wouldn't have suffered' closes the third conditional with a finished past result, whereas the damage here is an ongoing present condition."
         },
         {
           "letter": "D",
           "text": "were / didn't suffer",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Were ... didn't suffer' is a second conditional with a negative result and does not convey a situation that is still ongoing."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Mastery level: Using a Mixed Conditional to connect past corporate decisions to present-day reputation damage.\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "Mastery level: Using a Mixed Conditional to connect past corporate decisions to present-day reputation damage.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

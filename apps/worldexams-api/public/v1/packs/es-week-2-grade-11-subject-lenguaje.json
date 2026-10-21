@@ -13,31 +13,31 @@
       "context": "En una clase del bachillerato en Madrid, se debate sobre cómo las personas cambian su forma de hablar dependiendo de su entorno individual.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La lengua es el sistema abstracto y social compartido por la comunidad, mientras que el habla es la realización física e individual de dicho sistema.",
           "is_correct": true,
           "feedback": "Correcto. Saussure define la lengua como el sistema social abstracto y el habla como el uso individual y concreto de ese sistema."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La lengua es la realización de cada individuo con acento local y el habla es el diccionario de la RAE.",
           "is_correct": false,
           "feedback": "Incorrecto. Es al revés; la lengua es el modelo abstracto-social y el habla la expresión concreta e individual."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos conceptos son sinónimos idénticos y no existe distinción científica entre ellos.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una distinción nítida: uno es social y mental, el otro es individual y físico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La lengua se refiere exclusivamente al idioma escrito y el habla se limita a los ruidos sin sentido.",
           "is_correct": false,
           "feedback": "Incorrecto. La lengua abarca la competencia mental oral y escrita; el habla es la actualización voluntaria del signo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La dicotomía de Ferdinand de Saussure establece que la lengua es un código mental y social, mientras que el habla es el uso individual, físico e histórico que cada hablante hace de dicho código.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "Durante una mesa redonda en Barcelona sobre lexicografía, se analiza cómo se determinan las palabras correctas que entran al Diccionario de la Lengua Española (DLE).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Codificar y regular la norma culta del español de manera consensuada con las academias americanas, basándose en el uso histórico y actual.",
           "is_correct": true,
           "feedback": "Correcto. La RAE y la ASALE tienen una función panhispánica de codificar y orientar la norma del español, velando por su unidad sin ignorar el uso real."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Inventar palabras nuevas cada mañana para prohibir de forma terminante hablar en catalán u gallego.",
           "is_correct": false,
           "feedback": "Incorrecto. La RAE no inventa de forma caprichosa ni tiene competencias para regular las lenguas cooficiales de España."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Modificar de forma obligatoria la gramática interna del cerebro de todos los bebés nacidos en España mediante decretos leyes.",
           "is_correct": false,
           "feedback": "Incorrecto. La RAE emite normas y recomendaciones académicas, no leyes biológicas ni imposiciones cerebrales."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. La ortografía es uno de los campos normativos fundamentales regulados por la RAE."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La RAE, junto con la ASALE, ejerce una función reguladora y orientadora (prescriptiva y descriptiva) de la lengua española, buscando un equilibrio que asegure la unidad del idioma en el ámbito hispanohablante.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "Un corrector de textos editoriales en Zaragoza revisa un borrador de novela y detecta la frase: 'Contra más lo pensaba, más rabia le daba'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Es incorrecta y debe sustituirse por 'cuanto más', que es la forma adverbial estandarizada y correcta para las correlaciones proporcionales.",
           "is_correct": true,
           "feedback": "Correcto. La locución 'contra más' es un vulgarismo que la norma académica rechaza, prescribiendo en su lugar 'cuanto más'."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es correcta ya que la preposición 'contra' indica acumulación matemática positiva.",
           "is_correct": false,
           "feedback": "Incorrecto. 'Contra' denota oposición o choque, no tiene un valor correlativo proporcional en la norma culta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es una estructura culta y exclusiva del periodismo científico de Madrid.",
           "is_correct": false,
           "feedback": "Incorrecto. Al contrario, se clasifica como vulgarismo y se desaconseja en todos los niveles formales del español."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Se considera una variante poética obligatoria en las obras de la Generación del 27.",
           "is_correct": false,
           "feedback": "Incorrecto. Los autores de la Generación del 27 dominaban la norma culta y evitaban este tipo de vulgarismos vulgares en sus registros escritos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La construcción 'contra más' o 'contra menos' es una incorrección lingüística o vulgarismo. La norma culta estándar exige el uso del adverbio 'cuanto' ('cuanto más lo pensaba...').\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "En un bar de tapas de Sevilla, un cliente dice de forma coloquial: 'Hoy estoy muy cansao, nos hemos pegao una buena caminata'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Es un fenómeno fonético sumamente extendido en el registro coloquial del español de España, tolerable en la oralidad pero desaconsejado en textos formales.",
           "is_correct": true,
           "feedback": "Correcto. El debilitamiento y pérdida de la /d/ intervocálica en los participios masculinos ('cansao') es generalizado en el habla informal española, aunque la norma escrita culta exige su mantenimiento ('cansado')."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es una enfermedad neurológica que impide al emisor pronunciar la consonante dental 'd'.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un cambio fonético dialectal e informal común, no un trastorno físico de la articulación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se trata de una norma obligatoria dictada por la RAE en el año 2024 para simplificar el alfabeto español.",
           "is_correct": false,
           "feedback": "Incorrecto. La RAE sigue prescribiendo mantener la grafía 'd' y su pronunciación en textos cuidados y cultos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es un rasgo exclusivo y exclusivo del gallego medieval que se introdujo en Soria.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una tendencia fonética de la evolución del castellano y no un préstamo del gallego."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La elisión de la /d/ intervocálica en los participios terminados en '-ado' ('cansao', 'pegao') es un fenómeno de relajación articulatoria muy habitual en el español coloquial de España, que sin embargo se evita en la escritura y registros formales.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "Un lingüista compara las palabras para referirse al mismo animal doméstico en distintas lenguas de la Península Ibérica: 'perro' (castellano), 'gos' (catalán) y 'txakur' (euskera).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La arbitrariedad, porque la relación entre el significante y el significado no obedece a un vínculo natural, sino a una convención social.",
           "is_correct": true,
           "feedback": "Correcto. La arbitrariedad se demuestra en que una misma realidad conceptual (significado) tiene significantes totalmente distintos según la comunidad lingüística."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La linealidad, porque las letras de 'gos' se escriben una encima de otra formando una torre.",
           "is_correct": false,
           "feedback": "Incorrecto. La linealidad exige el transcurso en el tiempo y el espacio sucesivo de los fonemas y grafías, no torres de letras."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El laísmo geográfico, ya que se asocia con el uso incorrecto de pronombres de objeto en Bilbao.",
           "is_correct": false,
           "feedback": "Incorrecto. El laísmo es un fenómeno pronominal, no tiene relación con la arbitrariedad de los sustantivos bilingües."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Todas las lenguas vivas evolucionan y presentan mutabilidad diacrónica y diversidad de vocablos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La arbitrariedad del signo lingüístico postula que no hay una relación causal ni necesaria entre el concepto mental y la cadena de sonidos que lo representa; de ahí la existencia de múltiples lenguas en el mundo.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "Un corrector de estilo en Madrid examina el borrador de un discurso institucional y halla la oración: 'A María le vi paseando por la Puerta del Sol'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Es un caso de leísmo de persona femenino, considerado incorrecto por la RAE, que exige 'la' ('A María la vi') por funcionar como complemento directo.",
           "is_correct": true,
           "feedback": "Correcto. El pronombre adecuado para un complemento directo femenino singular de persona es 'la'. El leísmo femenino ('le vi a María') se considera incorrecto en la norma estándar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es plenamente correcto ya que el pronombre 'le' sustituye universalmente a cualquier complemento directo en España sin distinción de género.",
           "is_correct": false,
           "feedback": "Incorrecto. El leísmo de persona masculino singular ('a Pedro le vi') está admitido, pero el leísmo de persona femenino ('a María le vi') sigue rechazándose en la norma culta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es un ejemplo de loísmo culto que la RAE aconseja para los exámenes de selectividad de Toledo.",
           "is_correct": false,
           "feedback": "Incorrecto. El loísmo es el uso de 'lo' para objeto indirecto y es siempre incorrecto. Este caso es leísmo feminino."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Representa una perífrasis de infinitivo que anula la función de sujeto de María.",
           "is_correct": false,
           "feedback": "Incorrecto. 'Le vi' es una construcción verbal pronominalizada simple, no una perífrasis de infinitivo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La RAE admite el leísmo masculino singular de persona ('Le vi a él'), pero censura rigurosamente el leísmo femenino ('Le vi a ella'), el cual debe corregirse por el pronombre de acusativo 'La' ('La vi a ella').\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Durante una prueba escrita en Valencia, un alumno redacta la siguiente frase: 'Me alegro de que hayas venido, aunque pienso de que deberías haber avisado antes'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La primera es correcta ('alegrarse de algo'), pero la segunda incurre en dequeísmo, ya que el verbo 'pensar' exige un objeto directo sin preposición ('pienso que...').",
           "is_correct": true,
           "feedback": "Correcto. 'Alegrarse de que' es correcto (exige preposición 'de'). Sin embargo, 'pensar de que' es dequeísmo, porque 'pensar' es transitivo y se construye directamente con la conjunción ('pienso que')."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ambas son dequeísmos atroces que impiden de forma total la comprensión del texto escrito por el alumno.",
           "is_correct": false,
           "feedback": "Incorrecto. La primera es correcta porque el verbo de régimen 'alegrarse' pide la preposición 'de'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambas estructuras son correctas y obligatorias en el español culto peninsular de Toledo.",
           "is_correct": false,
           "feedback": "Incorrecto. 'Pensar de que' es un error normativo flagrante (dequeísmo) censurado por la gramática académica."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. No se omite ninguna preposición en 'alegrarse de que'; el verbo 'venir' no rige la preposición en ese nexo subordinado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El dequeísmo consiste en el uso indebido de la preposición 'de' antes del nexo 'que' cuando la sintaxis del verbo no lo requiere ('pienso de que' en lugar de 'pienso que'). Por el contrario, el verbo 'alegrarse' exige la preposición ('alegrarse de algo').\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "Un locutor de televisión en una retransmisión desde Zaragoza comenta: 'El nuevo alcalde detenta el cargo con gran dignidad desde las últimas elecciones democráticas'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Es inadecuado, ya que 'detentar' significa retener o ejercer un cargo o poder de manera ilegítima o usurpadora; para un cargo democrático legítimo debe usarse 'desempeñar' u 'ocupar'.",
           "is_correct": true,
           "feedback": "Correcto. 'Detentar' posee un matiz semántico peyorativo de usurpación o ilegitimidad. Usarlo para un cargo democrático legítimo es una incorrección léxica frecuente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es excelente, ya que es el único verbo que rige la preposición 'con' en la norma de Aragón.",
           "is_correct": false,
           "feedback": "Incorrecto. No rige preposición de forma obligatoria y semánticamente contradice la legitimidad democrática declarada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Constituye un vulgarismo morfológico derivado de conjugar mal el pretérito perfecto simple.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un verbo regular bien conjugado; el error no es morfológico, sino de precisión semántica léxica."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Se considera un arcaísmo medieval que la RAE ha prohibido escribir en papel prensa.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un verbo de uso moderno común, pero empleado erróneamente como sinónimo neutro de 'poseer'."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Semánticamente, 'detentar' implica la retención ilegítima de algo (usurpación). En un contexto de ejercicio democrático legítimo, lo correcto y preciso según la norma culta es utilizar verbos como 'desempeñar', 'ejercer' u 'ocupar'.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Un estudiante de bachillerato en Salamanca descompone la palabra 'librería' en sus unidades mínimas de significado para un ejercicio de morfología.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Las unidades con significado son monemas (lexemas y morfemas) en la primera articulación; y las de la segunda articulación son los fonemas (unidades mínimas sin significado pero con valor distintivo).",
           "is_correct": true,
           "feedback": "Correcto. La doble articulación distingue la primera articulación (monemas: lexema 'libr-' y morfema '-ería') y la segunda articulación (fonemas individuales: /l/, /i/, /b/...)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las de la primera articulación son los fonemas y las de la segunda son las frases completas en latín.",
           "is_correct": false,
           "feedback": "Incorrecto. Los fonemas pertenecen a la segunda articulación (unidades distintivas sin significado propio)."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. El español es una lengua flexiva e inflectiva rica en morfemas derivativos y flexivos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La doble articulación es una propiedad exclusiva del lenguaje humano. La primera articulación comprende los monemas (unidades mínimas con significado), y la segunda comprende los fonemas (unidades mínimas abstractas y distintivas, pero sin significado propio).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,31 +643,31 @@
       "context": "Un novelista de Barcelona dota a su personaje principal de tics verbales muy específicos, usando metáforas obsesivas con el mar y muletillas que nadie más emplea en la obra.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Idiolecto, que es el conjunto de rasgos lingüísticos y peculiaridades de uso que caracterizan el habla individual de un sujeto concreto.",
           "is_correct": true,
           "feedback": "Correcto. El idiolecto es el sistema lingüístico propio de un hablante individual, manifestado en su vocabulario, muletillas y entonaciones únicas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sociolecto, ya que representa la norma de un grupo social masivo que habita en las montañas de Soria.",
           "is_correct": false,
           "feedback": "Incorrecto. El sociolecto es propio de un grupo o estrato social colectivo, no de la individualidad de un personaje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ruido semántico causado por una mala traducción del catalán medieval.",
           "is_correct": false,
           "feedback": "Incorrecto. No es una interferencia ni error, sino la caracterización lingüística personal del personaje (idiolecto)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El dialecto andaluz oriental común en toda la cuenca del Guadalquivir.",
           "is_correct": false,
           "feedback": "Incorrecto. El dialecto es una variedad colectiva diatópica, mientras que el idiolecto es estrictamente individual."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Se llama idiolecto al uso personalizado e individual que un hablante hace de su lengua, abarcando su léxico, modismos, sintaxis y pronunciación particulares.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "En una clase de EBAU en Sevilla se debate sobre la expresión del género y el uso de fórmulas no sexistas en documentos oficiales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El género masculino es el término no marcado de la oposición de género en español, por lo que su uso genérico es inclusivo para designar colectivos mixtos.",
           "is_correct": true,
           "feedback": "Correcto. La RAE sostiene que el masculino gramatical, al ser el miembro no marcado, posee valor genérico colectivo e incluye por defecto a hombres y mujeres."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es una estructura obligatoriamente incorrecta que debe sancionarse penalmente según las leyes ortográficas vigentes en Madrid.",
           "is_correct": false,
           "feedback": "Incorrecto. La RAE no sanciona penalmente y de hecho defiende el uso del masculino genérico como correcto y económico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se trata de un arcaísmo que anula el significado de los complementos directos de las frases.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un mecanismo morfosintáctico activo y estándar del sistema del español moderno."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. No tiene ninguna relación con el loísmo (que es la confusión de pronombres átonos de objeto)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Morfológicamente, el español utiliza el género masculino como el miembro no marcado de la oposición de género. Esto le dota del valor inclusivo neutro para referirse a colectivos integrados por individuos de ambos sexos, según la doctrina de la RAE.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -778,31 +778,31 @@
       "context": "Un locutor de radio en una emisora de Salamanca emite el siguiente comentario: 'Me alegro que la ciudadanía se implique en el reciclaje'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Incurre en queísmo, al eludir la preposición 'de' que exige el verbo pronominal 'alegrarse' ('alegrarse de algo'). Lo correcto es: 'Me alegro de que...'.",
           "is_correct": true,
           "feedback": "Correcto. El queísmo es la supresión de la preposición 'de' antes del nexo subordinado 'que' cuando es exigida por el verbo de régimen o adjetivo. El verbo pronominal es 'alegrarse de'."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es plenamente correcto, dado que el pronombre reflexivo 'me' absorbe y anula la necesidad de usar cualquier preposición.",
           "is_correct": false,
           "feedback": "Incorrecto. El pronombre de tercera o primera persona no exime de cumplir el régimen sintáctico exigido por la construcción verbal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Constituye un laísmo de persona indirecto aceptado por la RAE en el año 2026.",
           "is_correct": false,
           "feedback": "Incorrecto. No tiene relación con el laísmo; es un error de omisión preposicional de nexo subordinado substantivo (queísmo)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es un ejemplo de redundancia fática para evitar que el ruido ambiental interfiera en la señal de radio.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un error gramatical interno de la construcción, no un recurso físico de modulación de la señal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El queísmo es una desviación de la norma culta que consiste en suprimir la preposición 'de' (u otras como 'en', 'a') exigida por el régimen verbal o nominal ante la conjunción 'que' subordinante. El verbo exige 'alegrarse de algo'.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Un profesor y un corrector editorial discuten acaloradamente sobre si se debe sancionar o no la ausencia de tilde en el adverbio 'solo' en un examen de acceso a la universidad (EBAU) en Toledo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La norma general prescribe escribir 'solo' sin tilde. No obstante, se permite tildarlo de forma opcional ('sólo') únicamente en aquellos raros casos de ambigüedad donde el hablante perciba riesgo de confusión.",
           "is_correct": true,
           "feedback": "Correcto. En la reforma ortográfica de la RAE se reafirmó la recomendación general de escribir 'solo' (adverbio y adjetivo) sin tilde, permitiendo la tilde opcional a criterio del redactor exclusivamente si hay riesgo real de ambigüedad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es obligatorio tildar siempre la palabra 'solo' en todas sus sílabas átonas bajo pena de suspenso inmediato.",
           "is_correct": false,
           "feedback": "Incorrecto. La tilde obligatoria general se eliminó en 2010. La tilde general es incorrecta hoy."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Como adjetivo ('estoy solo') nunca lleva tilde; la tilde diacrítica opcional solo afectaba al adverbio equivalente a 'solamente'."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La última aclaración ortográfica de la RAE mantiene la regla de que 'solo' (sea adverbio o adjetivo) no lleva tilde por ser palabra llana terminada en vocal. No obstante, se permite la tilde diacrítica en el adverbio ('sólo') si existe riesgo real de ambigüedad, recayendo la responsabilidad de la interpretación en el propio redactor del texto.",
       "difficulty": "10",
       "images": [],

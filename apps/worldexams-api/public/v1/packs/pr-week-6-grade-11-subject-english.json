@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the present perfect continuous correctly?",
+      "context": "Present perfect continuous, San Juan, grado 11, W06.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "She has been studying for the exam all morning.",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "Correct. 'Has been' plus the -ing form makes the present perfect continuous, and 'all morning' expresses duration."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "She is study for the exam all morning.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The -ing form is missing and only 'is' appears, which belongs to the present continuous, not to this unit."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "She has been study for the exam all morning.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. After 'has been' the verb takes the -ing form, not the base form 'study'."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "She has studied all morning yesterday.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'All morning' with 'yesterday' refers to a finished past and contradicts the continuous idea of an ongoing duration."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\n---",
+      "explanation": "El presente perfecto continuo se forma con 'have' o 'has' mas 'been' mas el gerundio. Expresa una accion que empezo en el pasado y que sigue en curso ahora, y suele acompanarse de expresiones de duracion como 'for', 'since' o 'all day'.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle",
       "periodo": 6,
@@ -54,40 +54,40 @@
     },
     {
       "id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'They ____ (run) on the beach every morning.'",
+      "context": "Present perfect continuous spelling, Ponce, grado 11, W06.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "have been runing",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Runing' fails to double the consonant, which the short stressed vowel of 'run' requires."
         },
         {
           "letter": "B",
-          "text": "baggage",
+          "text": "has been running",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Has' is for the third person singular, and the subject 'they' is plural."
         },
         {
           "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "have been running",
+          "is_correct": true,
+          "feedback": "Correct. 'Run' becomes 'running' by doubling the -n, and the auxiliary is 'have been' because the subject is plural."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "have been ran",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Ran' is the irregular past simple and cannot replace the -ing form in this unit."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "El gerundio de los verbos con vocal breve tensa duplica la consonante final, como en 'running', 'swimming' o 'beginning'. Ademas el presente perfecto continuo necesita un gerundio, nunca una forma de pasado como 'ran' o 'wrote'.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle",
       "periodo": 6,
@@ -99,40 +99,40 @@
     },
     {
       "id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'He ____ (work) in the same shop since 2015.'",
+      "context": "Present perfect continuous with since, Carolina, grado 11, W06.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "text": "has work",
+          "is_correct": false,
+          "feedback": "Incorrect. After 'has' the verb takes the participle 'worked', not the base form 'work' that appears here."
         },
         {
           "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "has been working",
+          "is_correct": true,
+          "feedback": "Correct. 'Since 2015' marks a starting point in the past and the action continues, which is the typical use of the continuous."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "has been work",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. After 'has been' the verb takes the -ing form 'working', and the present continuous does not combine with 'since' either."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "is working since 2015",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The present continuous does not combine with 'since', because 'since' requires a present perfect tense."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "El presente perfecto simple y el continuo pueden convivir con 'since' y 'for'. El continuo enfoca en la duracion de la accion, mientras que el simple enfoca en el estado o el resultado. Ambos son correctos y la eleccion depende de la intencion del hablante.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle",
       "periodo": 6,
@@ -144,40 +144,40 @@
     },
     {
       "id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct negative: 'I ____ (not / see) the doctor for a week.'",
+      "context": "Present perfect continuous negatives, Bayamon, grado 11, W06.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "text": "haven't been seeing",
+          "is_correct": false,
+          "feedback": "Incorrect. The continuous describes an ongoing process, but this sentence reports that the person has not been seen, not that someone is watching them."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "didn't seen",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. After 'did' the verb takes the base form, and 'for a week' also calls for the present perfect."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "don't see",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Don't' is present simple and does not combine with 'for a week', which requires the present perfect."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "haven't seen",
+          "is_correct": true,
+          "feedback": "Correct. The present perfect simple 'haven't seen' works with 'for' when it reports a situation rather than a process."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "Con 'for' o 'since' los dos presentes perfectos son posibles. Se elige el continuo cuando el foco esta en la duracion del proceso y el simple cuando el foco esta en el estado general o en la ausencia. Aqui lo natural es el simple.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle",
       "periodo": 6,
@@ -189,40 +189,40 @@
     },
     {
       "id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What is the difference between 'I have read the book' and 'I have been reading the book'?",
+      "context": "Present perfect continuous versus simple, Arecibo, grado 11, W06.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "text": "The first is for plural subjects and the second for singular subjects.",
+          "is_correct": false,
+          "feedback": "Incorrect. Both tenses work with any subject; the difference has nothing to do with person."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "The first is past and the second is present.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Both are present perfect; neither of them is past simple."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "The first is formal and the second is informal.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The difference is one of grammar and emphasis, not register: both are correct in an exam, and neither is more formal than the other."
         },
         {
           "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The first focuses on the result and the second on the duration of the activity.",
+          "is_correct": true,
+          "feedback": "Correct. The present perfect simple focuses on the result, and the continuous on the duration of the action."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "D",
+      "explanation": "La distincion clave de la unidad es el enfasis. El presente perfecto simple responde a la pregunta de que ha ocurrido, y el continuo responde a la de cuanto tiempo lleva ocurriendo. Con 'for', 'since' y 'all day' se suele preferir el continuo.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle",
       "periodo": 6,
@@ -234,40 +234,40 @@
     },
     {
       "id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'We ____ (wait) for the bus for forty minutes.'",
+      "context": "Present perfect continuous with for, Humacao, grado 11, W06.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "text": "had been waiting",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Had been' is the past perfect continuous, which places the waiting in a finished past."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "have been waiting",
+          "is_correct": true,
+          "feedback": "Correct. 'Have been waiting' expresses a duration of forty minutes with the action still in progress."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "have been waited",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The main verb must take the -ing form, and 'waited' is the participle used in the present perfect simple."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "are waiting for forty minutes",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The present continuous does not take 'for' plus a duration, which belongs to the present perfect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "La estructura 'have been' mas gerundio con 'for' mas duracion es la firma del presente perfecto continuo. Si la duracion ya se cumplio se usa el pasado perfecto continuo con 'had been', y si se trata de una situacion se usa el presente perfecto simple.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle",
       "periodo": 6,
@@ -279,37 +279,37 @@
     },
     {
       "id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'She ____ (write) her thesis all semester.'",
+      "context": "Present perfect continuous with the verb to write, Aguadilla, grado 11, W06.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
+          "text": "has been writing",
           "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "feedback": "Correct. The -ing form of 'to write' is 'writing', which drops the silent final -e, and 'all semester' indicates an ongoing period."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "has been writeing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The -ing form does not keep the -e; the correct form drops the silent final -e of 'write'."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "has been writting",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Write' ends in a silent -e, not in -t, so there is no -t to double in the -ing form."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "has been wrote",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Wrote' is the irregular past simple and cannot work as an -ing form."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "explanation": "Los verbos terminados en -w con vocal breve tensa duplican la consonante en el gerundio: 'write' da 'writing' y 'throw' da 'throwing'. Es la misma regla que rige el gerundio en el presente continuo, y se aplica igual en presente perfecto continuo.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which question is correct?",
+      "context": "Present perfect continuous questions, Guayanilla, grado 11, W06.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "How long are you waiting?",
+          "is_correct": false,
+          "feedback": "Incorrect. 'How long' is not used with the present continuous; a finished duration takes the past simple, as in 'How long did you wait'."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "How long you have been waiting?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Question word order requires the auxiliary before the subject: 'have' opens the question."
         },
         {
           "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "How long have you been waiting?",
+          "is_correct": true,
+          "feedback": "Correct. 'How long' asks for a duration, and 'have you been' plus the -ing form is the structure of the continuous."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "How long do you be waiting?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Do' does not combine with 'to be' plus the -ing form, and the required structure is 'have been'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "La pregunta 'How long' pide una duracion y por eso encaja con presente perfecto continuo o con pasado simple, nunca con presente continuo. El orden de la oracion interrogativa mantiene el auxiliar 'have' en primer lugar.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,37 +369,37 @@
     },
     {
       "id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The students ____ (study) for the test all night.'",
+      "context": "Present perfect continuous with third person, Trujillo Alto, grado 11, W06.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "text": "has been studying",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Has' is for the third person singular, and 'the students' is a plural subject."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "are studying",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The present continuous does not take the duration expression 'all night' in this construction."
         },
         {
           "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "have been studying",
+          "is_correct": true,
+          "feedback": "Correct. The subject is plural, so the auxiliary is 'have been', followed by the -ing form 'studying'."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "have been study",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The main verb after 'have been' must take the -ing form, not the base form."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "En el presente perfecto continuo el auxiliar es 'have been' para I, you, we y they, y 'has been' para he, she e it. Solo cambia el auxiliar; el gerundio del verbo principal es la misma forma para todas las personas.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,37 +414,37 @@
     },
     {
       "id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is correct?",
+      "context": "Present perfect continuous with for versus since, Barceloneta, grado 11, W06.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
+          "text": "She has been playing the piano since she was five.",
           "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "feedback": "Correct. 'Since' with a starting point in the past, plus the -ing form, makes a natural continuous sentence."
         },
         {
           "letter": "B",
-          "text": "cancellation",
+          "text": "She has been playing the piano since five years.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Since' does not take an amount of time; for that you use 'for five years'."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "She is playing the piano since she was five.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The present continuous does not combine with 'since', which requires a present perfect auxiliary."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "She had been playing the piano since five years ago.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Since' does not combine with 'ago', and the past perfect continuous also belongs to a different time context."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "explanation": "El presente perfecto continuo se usa con 'for' para duraciones y con 'since' para puntos de partida. Las dos preposiciones son incompatibles entre si: 'since' no admite cantidades y 'for' no admite fechas. 'Ago' es incompatible con 'since' en ingles.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,37 +459,37 @@
     },
     {
       "id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'I ____ (study) economics for three years.'",
+      "context": "Present perfect continuous with the verb to study, Maunabo, grado 11, W06.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
+          "text": "have been study",
+          "is_correct": false,
+          "feedback": "Incorrect. After 'have been' the verb takes the -ing form 'studying', not the base form 'study'."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "have been studied",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Studied' is the participle used in the present perfect simple, not an -ing form."
         },
         {
           "letter": "C",
-          "text": "booking",
+          "text": "am studying for three years ago",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Ago' refers to a finished past, and the present continuous does not take 'for' with a completed duration."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "have been studying",
+          "is_correct": true,
+          "feedback": "Correct. 'For three years' gives a duration, and the continuous shows that the action is still ongoing in the present."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "D",
+      "explanation": "Los verbos terminados en -y con consonante antes forman el gerundio cambiando la -y por -i, como 'study' que da 'studying'. Esa regla es identica en presente continuo y en presente perfecto continuo, porque ambos construyen el gerundio igual.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,82 @@
     },
     {
       "id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Question: 'How long have you lived here?' Answer: '____'",
+      "context": "Present perfect continuous in short answers, Yauco, grado 11, W06.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "text": "I have lived here for six years.",
+          "is_correct": false,
+          "feedback": "Incorrect. It is a possible reply to the question, but 'How long' asks for a duration, not a clause with a main verb."
         },
         {
           "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "For six years.",
+          "is_correct": true,
+          "feedback": "Correct. 'How long' is answered with 'for' plus the duration, and the verb is left out of the answer."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "Since six years.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Since' does not take amounts of time, so the answer with 'for' is the only valid one."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "Yes, I have.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. That answer belongs to a yes/no question, whereas 'How long' expects an amount of time."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Una pregunta de 'How long' espera una duracion, y la respuesta natural empieza con 'for'. Una pregunta de 'How much' espera una cantidad. La forma 'yes, I have' responde a preguntas cerradas y no encaja con ninguna de las dos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v13",
+      "statement": "Which is the correct gerund form of the verb 'to sit'?",
+      "context": "Present perfect continuous with spelling, Cayey, grado 11, W06.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "siting",
+          "is_correct": false,
+          "feedback": "Incorrect. After a short stressed vowel the final -t must be doubled, because a single -t produces a misspelled word."
+        },
+        {
+          "letter": "B",
+          "text": "sitting",
+          "is_correct": true,
+          "feedback": "Correct. 'Sit' ends in a short stressed vowel plus -t, and that consonant is doubled before adding -ing."
+        },
+        {
+          "letter": "C",
+          "text": "siteing",
+          "is_correct": false,
+          "feedback": "Incorrect. The -ing form does not turn the consonant into a vowel, nor does it keep a final -e on the base verb."
+        },
+        {
+          "letter": "D",
+          "text": "sat",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Sat' is the irregular past simple and has no role in a continuous tense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La duplicacion de consonante se aplica a los verbos con vocal breve tensa y consonante final: 'sit', 'run', 'swim' y 'begin' dan formas con consonante doble. Con vocal larga como en 'seat' o 'read' no se duplica nada.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -548,86 +593,41 @@
       "country": "pr"
     },
     {
-      "id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
       "id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'He ____ (have) problems with his back for months.'",
+      "context": "Present perfect continuous with the verb to have, San Sebastian, grado 11, W06.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "text": "has been have",
+          "is_correct": false,
+          "feedback": "Incorrect. After 'has been' the verb takes the -ing form 'having', not the base form 'have'."
         },
         {
           "letter": "B",
-          "text": "map",
+          "text": "has been haves",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Haves' is a malformed third-person present simple form and does not exist as an -ing form."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "has had",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Has had' is present perfect simple and does not express the duration of the process, which is what 'for months' calls for."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "has been having",
+          "is_correct": true,
+          "feedback": "Correct. 'Has been having' expresses that the problem has lasted for months and is still continuing in the present."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "El presente perfecto continuo puede usar verbos como 'to have', 'to live' o 'to work', que en presente perfecto simple darian una forma distinta. La eleccion entre 'has been having' y 'has had' depende de si se quiere Quite el enfasis en la duracion o en el estado.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle",
       "periodo": 6,
@@ -639,40 +639,40 @@
     },
     {
       "id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct question: '____ you been working on the project?'",
+      "context": "Present perfect continuous questions, Camuy, grado 11, W06.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "text": "Did",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Did' is the past simple auxiliary and would require the base form 'work' after it."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "Are",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Are' belongs to the present continuous, not to the present perfect continuous structure."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Have",
+          "is_correct": true,
+          "feedback": "Correct. With 'you' the auxiliary is 'have been', and the main verb takes the -ing form, as in 'working'."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "Has",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Has' agrees with he, she or it, and the subject of the question is 'you'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "Las preguntas de presente perfecto continuo mantienen el mismo auxiliar que las afirmaciones: 'have you been' para I, you, we y they, y 'has he been' para la tercera persona. El gerundio nunca lleva auxiliar propio.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle",
       "periodo": 6,
@@ -684,37 +684,127 @@
     },
     {
       "id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'I ____ (know) her for a long time.'",
+      "context": "Present perfect continuous with the verb to know, Luquillo, grado 11, W06.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
+          "text": "have known",
           "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "feedback": "Correct. 'Have known' is present perfect simple and is the natural form of 'to know' in this sentence."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "have been knowing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'To know' is a stative verb and is not normally used in the present perfect continuous."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "have been know",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. After 'have been' the verb takes the -ing form, and 'to know' does not allow that tense anyway."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "had been knowing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. It combines the past perfect continuous with a stative verb that does not allow that tense."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "explanation": "Los verbos de estado como 'to know', 'to love' y 'to believe' no se usan en presente perfecto continuo. Se expresan con presente perfecto simple, y la frase con 'for a long time' funciona perfectamente con esa forma.\n\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v17",
+      "statement": "Complete the sentence: 'It ____ (rain) since this morning.'",
+      "context": "Present perfect continuous with third person, Toa Baja, grado 11, W06.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has been raining",
+          "is_correct": true,
+          "feedback": "Correct. 'Since this morning' marks a starting point in the past, and 'has been raining' expresses that it is still raining now."
+        },
+        {
+          "letter": "B",
+          "text": "have been raining",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Have' goes with I, you, we and they, and the subject 'it' is third person singular."
+        },
+        {
+          "letter": "C",
+          "text": "has been rained",
+          "is_correct": false,
+          "feedback": "Incorrect. 'To rain' is intransitive, so it does not allow a passive form or a participle after 'been'."
+        },
+        {
+          "letter": "D",
+          "text": "is raining since this morning",
+          "is_correct": false,
+          "feedback": "Incorrect. The present continuous does not combine with 'since', which requires the present perfect continuous."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sujeto 'it' es siempre tercera persona singular, asi que el auxiliar es 'has been' en presente perfecto continuo. Los verbos meteorologicos como 'to rain' o 'to snow' admiten este tiempo porque describen procesos que pueden continuar.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v18",
+      "statement": "Which sentence is NOT correct?",
+      "context": "Present perfect continuous with time expressions, Naguabo, grado 11, W06.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I have lived in San Juan for ten years.",
+          "is_correct": false,
+          "feedback": "This sentence is correct, because 'live' is a stative verb and takes the present perfect simple."
+        },
+        {
+          "letter": "B",
+          "text": "I have been working in San Juan for ten years.",
+          "is_correct": false,
+          "feedback": "This sentence is correct, because 'work' is an activity verb and allows the present perfect continuous."
+        },
+        {
+          "letter": "C",
+          "text": "I have been studying in San Juan for ten years.",
+          "is_correct": false,
+          "feedback": "This sentence is correct, because 'study' is an activity verb and combines well with the duration."
+        },
+        {
+          "letter": "D",
+          "text": "I have been living in San Juan for ten years.",
+          "is_correct": true,
+          "feedback": "Correct. This is the incorrect sentence: 'live' is a stative verb and does not allow the present perfect continuous."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La diferencia entre verbos de actividad y de estado decide el tiempo verbal. 'To work', 'to study' y 'to read' son actividades y admiten el continuo. 'To live', 'to love' y 'to own' son estados y se expresan con presente perfecto simple.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -728,131 +818,41 @@
       "country": "pr"
     },
     {
-      "id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
-      "id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
       "id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'You ____ (not / read) the whole book; you only read two chapters.'",
+      "context": "Present perfect continuous with the verb to read, Hatillo, grado 11, W06.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
+          "text": "haven't been reading",
+          "is_correct": false,
+          "feedback": "Incorrect. The continuous would suggest that the reading is still in progress, but the prompt states that it is already finished."
         },
         {
           "letter": "B",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "haven't read",
+          "is_correct": true,
+          "feedback": "Correct. 'Haven't read' is present perfect simple and reports a result, which is what the prompt calls for."
         },
         {
           "letter": "C",
-          "text": "prescription",
+          "text": "didn't read",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The second clause already places the action in a finished past, but the negative calls for the present perfect by contrast."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "haven't been read",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'To read' is active here and does not allow a passive form with 'have been' after the subject."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "Cuando la frase informa de un resultado ya alcanzado, el presente perfecto simple es la opcion natural. El continuo se reserva para actions que siguen en curso, y por eso seria raro decir 'haven't been reading' si la lectura ya termino.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle",
       "periodo": 6,
@@ -864,40 +864,40 @@
     },
     {
       "id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses 'since' with a verb and a time expression that are compatible?",
+      "context": "Present perfect continuous with prepositions, Yabucoa, grado 11, W06.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "text": "They have lived in Arecibo for 2018.",
+          "is_correct": false,
+          "feedback": "Incorrect. 'For' requires a duration, not a date, and the stative verb does not allow the continuous either."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "They are living in Arecibo since 2018.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The present continuous does not combine with 'since', which belongs to the present perfect continuous."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "They have been living in Arecibo since 2018.",
+          "is_correct": true,
+          "feedback": "Correct. 'Since' with a specific date and an ongoing process form a natural present perfect continuous sentence."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "They have been living in Arecibo since 2018 years.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Since' cannot take an amount of time followed by 'years'; for a duration, use 'for'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "Conviene revisar dos cosas a la vez en estas frases: la preposicion de tiempo y la naturaleza del verbo. Un verbo de estado como 'to live' pide presente perfecto simple, y 'since' con una fecha concreta confirma esa eleccion.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle",
       "periodo": 6,

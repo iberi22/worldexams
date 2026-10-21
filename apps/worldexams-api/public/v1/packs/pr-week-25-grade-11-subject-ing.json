@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct preposition: 'The meeting starts ___ 9 a.m.'",
+      "context": "Semana W25 de ingles, grado 11: ejercicio 1 de 20 sobre prepositions of time at, in and on.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "at",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "Correct! 'At' is used with exact clock times, and '9 a.m.' is a precise point in the day."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "in",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'In' is used with longer periods such as months, years or parts of the day, not with a clock time."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "on",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'On' is used with days and dates, not with the hour of the day."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "for",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'For' measures duration, so it would answer for how long rather than at what time."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\n---",
+      "explanation": "'At' is used with exact clock times, and '9 a.m.' is a precise point in the day. In this item the choice that works is 'at', because it is the option that matches what the sentence and the task require.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle",
       "periodo": 25,
@@ -54,40 +54,40 @@
     },
     {
       "id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses 'in' correctly with a period of time?",
+      "context": "Semana W25 de ingles, grado 11: ejercicio 2 de 20 sobre prepositions of time at, in and on.",
       "options": [
         {
-          "letter": "A",
-          "text": "itinerary",
+          "letter": "B",
+          "text": "The storm arrived in December and caused damage across the island.",
           "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "feedback": "Correct! Months are long periods, and English uses 'in' before the name of a month."
         },
         {
-          "letter": "B",
-          "text": "baggage",
+          "letter": "A",
+          "text": "The storm arrived at December and caused damage across the island.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'At' is used for clock times and for specific points, not for the name of a month."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "The storm arrived on December and caused damage across the island.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'On' is used with days and dates, so it is not the preposition for a month."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "The storm arrived for December and caused damage across the island.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'For' would measure the length of time the storm lasted, not the period in which it arrived."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "Months are long periods, and English uses 'in' before the name of a month. In this item the choice that works is 'The storm arrived in December and caused damage across the island.', because it is the option that matches what the sentence and the task require.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle",
       "periodo": 25,
@@ -99,40 +99,40 @@
     },
     {
       "id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence with the correct preposition: 'She was born ___ 12 May 1998.'",
+      "context": "Semana W25 de ingles, grado 11: ejercicio 3 de 20 sobre prepositions of time at, in and on.",
       "options": [
         {
-          "letter": "A",
-          "text": "destination",
+          "letter": "C",
+          "text": "on",
           "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "feedback": "Correct! Full dates take 'on', because a specific day of a specific month is being named."
+        },
+        {
+          "letter": "A",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "No. 'In' would be correct for the month or the year alone, but not for a full date."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "at",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'At' is used with clock times and with particular points in space, not with dates."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "by",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'By' expresses a deadline or a limit, which has no place in this sentence."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
+      "correct_answer": "C",
+      "explanation": "Full dates take 'on', because a specific day of a specific month is being named. In this item the choice that works is 'on', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle",
       "periodo": 25,
@@ -144,37 +144,37 @@
     },
     {
       "id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses 'on' correctly with a day of the week?",
+      "context": "Semana W25 de ingles, grado 11: ejercicio 4 de 20 sobre prepositions of time at, in and on.",
       "options": [
         {
-          "letter": "A",
-          "text": "luggage",
+          "letter": "D",
+          "text": "The library closes early on Sundays during the summer.",
           "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "feedback": "Correct! Days of the week take 'on' in English, so 'on Sundays' is the correct form."
+        },
+        {
+          "letter": "A",
+          "text": "The library closes early in Sundays during the summer.",
+          "is_correct": false,
+          "feedback": "No. 'In' is used for months, years and parts of the day, not for a day of the week."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "The library closes early at Sundays during the summer.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'At' is used with clock times; no hour is named in this sentence."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "The library closes early for Sundays during the summer.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'For Sundays' would measure duration across several Sundays rather than naming the day."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "Days of the week take 'on' in English, so 'on Sundays' is the correct form. In this item the choice that works is 'The library closes early on Sundays during the summer.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -189,40 +189,40 @@
     },
     {
       "id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct sentence for the year of an event.",
+      "context": "Semana W25 de ingles, grado 11: ejercicio 5 de 20 sobre prepositions of time at, in and on.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "They moved to Arecibo in 2015.",
           "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "feedback": "Correct! Years are long periods, and English uses 'in' before a year number."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "They moved to Arecibo at 2015.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'At' is used with clock times and specific points, not with a year."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "They moved to Arecibo on 2015.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'On' is used with days and dates, not with a bare year."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "They moved to Arecibo for 2015.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'For' would state how long they stayed, not when the move took place."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "explanation": "Years are long periods, and English uses 'in' before a year number. In this item the choice that works is 'They moved to Arecibo in 2015.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle",
       "periodo": 25,
@@ -234,40 +234,40 @@
     },
     {
       "id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the correct preposition with a part of the day?",
+      "context": "Semana W25 de ingles, grado 11: ejercicio 6 de 20 sobre prepositions of time at, in and on.",
       "options": [
         {
-          "letter": "A",
-          "text": "customs",
+          "letter": "B",
+          "text": "The shop opens early in the morning and closes late at night.",
           "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "feedback": "Correct! 'In' is used with parts of the day such as the morning, while 'at' is used with 'night'."
         },
         {
-          "letter": "B",
-          "text": "security",
+          "letter": "A",
+          "text": "The shop opens early at the morning and closes late in the night.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'At the morning' is not used; 'the morning' needs 'in', though 'at night' takes no article."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "The shop opens early on the morning and closes late at the night.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'On the morning' is not the standard form; English uses 'in the morning'."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "The shop opens early of the morning and closes late of the night.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'Of' is not a preposition of time and cannot introduce these expressions."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "'In' is used with parts of the day such as the morning, while 'at' is used with 'night'. In this item the choice that works is 'The shop opens early in the morning and closes late at night.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle",
       "periodo": 25,
@@ -279,37 +279,37 @@
     },
     {
       "id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The exam takes place ___ Friday morning.'",
+      "context": "Semana W25 de ingles, grado 11: ejercicio 7 de 20 sobre prepositions of time at, in and on.",
       "options": [
         {
-          "letter": "A",
-          "text": "boarding pass",
+          "letter": "C",
+          "text": "on",
           "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "feedback": "Correct! 'On' is the preposition used with a day of the week, so 'on Friday morning' is correct."
+        },
+        {
+          "letter": "A",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "No. 'In' goes with 'the morning' but not with a named day, so 'in Friday' is wrong."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "at",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'At' is used with clock times, and no hour is given in this phrase."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "of",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'Of' expresses possession or measurement and never marks the time of an event."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "'On' is the preposition used with a day of the week, so 'on Friday morning' is correct. In this item the choice that works is 'on', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,40 +324,40 @@
     },
     {
       "id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses 'at' correctly with a particular occasion?",
+      "context": "Semana W25 de ingles, grado 11: ejercicio 8 de 20 sobre prepositions of time at, in and on.",
       "options": [
         {
-          "letter": "A",
-          "text": "sightseeing",
+          "letter": "D",
+          "text": "We met at the weekend and talked about the trip.",
           "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "feedback": "Correct! 'At the weekend' is the standard British and general form, with 'at' marking the occasion as a whole."
+        },
+        {
+          "letter": "A",
+          "text": "We met in the weekend and talked about the trip.",
+          "is_correct": false,
+          "feedback": "No. 'In the weekend' is not the usual form; the phrase takes 'at'."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "We met on the weekend and talked about the trip.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'On the weekend' would require a specific day, such as 'on Saturday'."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "We met for the weekend and talked about the trip.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'For the weekend' would measure duration, which is not what is meant here."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "'At the weekend' is the standard British and general form, with 'at' marking the occasion as a whole. In this item the choice that works is 'We met at the weekend and talked about the trip.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle",
       "periodo": 25,
@@ -369,40 +369,40 @@
     },
     {
       "id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that contrasts 'in' and 'on' correctly.",
+      "context": "Semana W25 de ingles, grado 11: ejercicio 9 de 20 sobre prepositions of time at, in and on.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
+          "text": "The festival takes place in June and the main concert happens on Saturday.",
           "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "feedback": "Correct! 'In' goes with the month and 'on' goes with the day, so both prepositions are used correctly."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "The festival takes place on June and the main concert happens in Saturday.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'On June' and 'in Saturday' both reverse the rule for months and days."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "The festival takes place at June and the main concert happens on Saturday.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'At June' is not used for a month; the month takes 'in'."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "The festival takes place in June and the main concert happens at Saturday.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'At Saturday' is not used for a day of the week; the day takes 'on'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\n---",
+      "explanation": "'In' goes with the month and 'on' goes with the day, so both prepositions are used correctly. In this item the choice that works is 'The festival takes place in June and the main concert happens on Saturday.', because it is the option that matches what the sentence and the task require.\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle",
       "periodo": 25,
@@ -414,40 +414,40 @@
     },
     {
       "id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence correctly distinguishes a duration from a point in time?",
+      "context": "Semana W25 de ingles, grado 11: ejercicio 10 de 20 sobre prepositions of time at, in and on.",
       "options": [
         {
-          "letter": "A",
-          "text": "delay",
+          "letter": "B",
+          "text": "The workshop lasted two hours and began at four in the afternoon.",
           "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "feedback": "Correct! 'For' or the bare plural expresses duration, and 'at' marks the starting point in time."
         },
         {
-          "letter": "B",
-          "text": "cancellation",
+          "letter": "A",
+          "text": "The workshop lasted at two hours and began in four in the afternoon.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'At two hours' would mark a clock time, but the sentence states a length of two hours, not a point."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "The workshop lasted in two hours and began at four in the afternoon.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'In two hours' would mean 'after two hours have passed', which is a different meaning."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "The workshop lasted on two hours and began in four in the afternoon.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'On two hours' and 'in four in the afternoon' both use the wrong prepositions for duration and for the afternoon."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "'For' or the bare plural expresses duration, and 'at' marks the starting point in time. In this item the choice that works is 'The workshop lasted two hours and began at four in the afternoon.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle",
       "periodo": 25,
@@ -459,37 +459,37 @@
     },
     {
       "id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The storm is expected ___ the middle of the afternoon.'",
+      "context": "Semana W25 de ingles, grado 11: ejercicio 11 de 20 sobre prepositions of time at, in and on.",
       "options": [
         {
-          "letter": "A",
-          "text": "check-in",
+          "letter": "C",
+          "text": "in",
           "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
+          "feedback": "Correct! 'In' is used with parts of the day, and 'the middle of the afternoon' is part of a day."
+        },
+        {
+          "letter": "A",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "No. 'At' is used with exact clock times, and no hour is named here."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "on",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'On' is used with days and dates, not with a part of a day."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "by",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'By' would mean no later than that point, which is not the meaning of a forecast."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "'In' is used with parts of the day, and 'the middle of the afternoon' is part of a day. In this item the choice that works is 'in', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,37 @@
     },
     {
       "id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses 'on' correctly with a specific date?",
+      "context": "Semana W25 de ingles, grado 11: ejercicio 12 de 20 sobre prepositions of time at, in and on.",
       "options": [
         {
-          "letter": "A",
-          "text": "layover",
+          "letter": "D",
+          "text": "The results will be published on 15 March.",
           "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "feedback": "Correct! Full dates take 'on', so 'on 15 March' is the correct preposition and number combination."
+        },
+        {
+          "letter": "A",
+          "text": "The results will be published in 15 March.",
+          "is_correct": false,
+          "feedback": "No. 'In' is used for a month or a year, but a numbered day needs 'on'."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "The results will be published at 15 March.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'At' is used with clock times, and a date is not a clock time."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "The results will be published for 15 March.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'For' would express a purpose or a duration, neither of which applies to a publication date."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Full dates take 'on', so 'on 15 March' is the correct preposition and number combination. In this item the choice that works is 'The results will be published on 15 March.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,40 +549,40 @@
     },
     {
       "id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence with the correct preposition for a night that is named.",
+      "context": "Semana W25 de ingles, grado 11: ejercicio 13 de 20 sobre prepositions of time at, in and on.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
+          "text": "The storm was at its worst last night.",
           "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
+          "feedback": "Correct! 'At night' takes no article and is the standard expression, so 'last night' needs no preposition at all."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "The storm was at its worst in last night.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'In last night' is not used; 'at night' is the fixed expression with no article."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "The storm was at its worst on last night.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'On last night' would suggest a specific named night, but 'night' is not a day name here."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "The storm was at its worst for last night.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'For last night' would measure duration and change the meaning of the sentence."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "explanation": "'At night' takes no article and is the standard expression, so 'last night' needs no preposition at all. In this item the choice that works is 'The storm was at its worst last night.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle",
       "periodo": 25,
@@ -594,37 +594,37 @@
     },
     {
       "id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the prepositions of time correctly in both halves?",
+      "context": "Semana W25 de ingles, grado 11: ejercicio 14 de 20 sobre prepositions of time at, in and on.",
       "options": [
         {
-          "letter": "A",
-          "text": "guidebook",
+          "letter": "B",
+          "text": "The class starts in August and ends on the last Friday of June.",
           "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "feedback": "Correct! The month takes 'in' and the named day takes 'on', which is the standard combination."
         },
         {
-          "letter": "B",
-          "text": "map",
+          "letter": "A",
+          "text": "The class starts at August and ends in the last Friday of June.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'At August' is wrong for a month, and 'in the last Friday' is wrong for a named day."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "The class starts on August and ends in the last Friday of June.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'On August' is wrong for a month; the month takes 'in'."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "The class starts in August and ends in the last Friday of June.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'In the last Friday' is wrong because a specific day of the week takes 'on', not 'in'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "The month takes 'in' and the named day takes 'on', which is the standard combination. In this item the choice that works is 'The class starts in August and ends on the last Friday of June.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -639,40 +639,40 @@
     },
     {
       "id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence with the correct preposition: 'They have lived here ___ 2019.'",
+      "context": "Semana W25 de ingles, grado 11: ejercicio 15 de 20 sobre prepositions of time at, in and on.",
       "options": [
         {
-          "letter": "A",
-          "text": "backpack",
+          "letter": "C",
+          "text": "since",
           "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "feedback": "Correct! 'Since' marks the starting point of a period that continues up to the present, and a year is such a point."
+        },
+        {
+          "letter": "A",
+          "text": "for",
+          "is_correct": false,
+          "feedback": "No. 'For' measures the length of a period, but it would be followed by a duration such as 'six years', not by a starting year."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "in",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'In' is used for closed periods such as months and years, but here the period is still open, so 'since' fits."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "from",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'From' would need a second element such as 'from 2019 to 2021' to close the period."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "'Since' marks the starting point of a period that continues up to the present, and a year is such a point. In this item the choice that works is 'since', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle",
       "periodo": 25,
@@ -684,40 +684,40 @@
     },
     {
       "id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence correctly uses 'for' with a duration?",
+      "context": "Semana W25 de ingles, grado 11: ejercicio 16 de 20 sobre prepositions of time at, in and on.",
       "options": [
         {
-          "letter": "A",
-          "text": "overseas",
+          "letter": "D",
+          "text": "The repair took three days and cost more than expected.",
           "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "feedback": "Correct! After 'took' the length of a period needs no preposition at all, which is the natural form here."
+        },
+        {
+          "letter": "A",
+          "text": "The repair took in three days and cost more than expected.",
+          "is_correct": false,
+          "feedback": "No. 'In three days' would mean the repair finished within three days, not that it lasted them."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "The repair took at three days and cost more than expected.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'At three days' would mark a clock time or a point, not a length."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "The repair took on three days and cost more than expected.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'On three days' would suggest a repeated occasion on three separate days."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "After 'took' the length of a period needs no preposition at all, which is the natural form here. In this item the choice that works is 'The repair took three days and cost more than expected.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle",
       "periodo": 25,
@@ -729,40 +729,40 @@
     },
     {
       "id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence with the correct preposition before a holiday period.",
+      "context": "Semana W25 de ingles, grado 11: ejercicio 17 de 20 sobre prepositions of time at, in and on.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
+          "text": "The family travels abroad in summer.",
           "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
+          "feedback": "Correct! 'In' is the preposition used with seasons when they are treated as general periods."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "The family travels abroad at summer.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'At summer' is not used; seasons take 'in' when no specific date is named."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "The family travels abroad on summer.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'On summer' would require a named day, such as 'on the first day of summer'."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "The family travels abroad for summer.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'For summer' would measure the length of the stay, which is a different meaning."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "explanation": "'In' is the preposition used with seasons when they are treated as general periods. In this item the choice that works is 'The family travels abroad in summer.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle",
       "periodo": 25,
@@ -774,40 +774,40 @@
     },
     {
       "id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses 'at' with a named event rather than a clock time?",
+      "context": "Semana W25 de ingles, grado 11: ejercicio 18 de 20 sobre prepositions of time at, in and on.",
       "options": [
         {
-          "letter": "A",
-          "text": "insurance",
+          "letter": "B",
+          "text": "Everyone arrived at the ceremony by noon.",
           "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
+          "feedback": "Correct! 'At' marks a particular occasion or event, and 'by noon' states the deadline on the other preposition."
         },
         {
-          "letter": "B",
-          "text": "warranty",
+          "letter": "A",
+          "text": "Everyone arrived in the ceremony by noon.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'In the ceremony' would place someone inside the event, which is not what 'arrived' means here."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "Everyone arrived on the ceremony by noon.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'On the ceremony' would require the ceremony to be a day or a date."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "Everyone arrived for the ceremony by noon.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'For the ceremony' states a purpose rather than an arrival at an occasion."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "'At' marks a particular occasion or event, and 'by noon' states the deadline on the other preposition. In this item the choice that works is 'Everyone arrived at the ceremony by noon.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle",
       "periodo": 25,
@@ -819,40 +819,40 @@
     },
     {
       "id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The shop is closed ___ Sundays and open ___ weekdays.'",
+      "context": "Semana W25 de ingles, grado 11: ejercicio 19 de 20 sobre prepositions of time at, in and on.",
       "options": [
         {
-          "letter": "A",
-          "text": "vaccination",
+          "letter": "C",
+          "text": "on, on",
           "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
+          "feedback": "Correct! Both are named days of the week, and English uses 'on' with each of them."
+        },
+        {
+          "letter": "A",
+          "text": "in, at",
+          "is_correct": false,
+          "feedback": "No. 'In' does not go with days of the week, so the first half of the sentence would be wrong."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "at, in",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'At' does not go with 'Sundays' either; the correct preposition for a day is 'on'."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "for, by",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'For' and 'by' do not introduce named days of the week in English."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "Both are named days of the week, and English uses 'on' with each of them. In this item the choice that works is 'on, on', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle",
       "periodo": 25,
@@ -864,40 +864,40 @@
     },
     {
       "id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is correct when the hour itself is named?",
+      "context": "Semana W25 de ingles, grado 11: ejercicio 20 de 20 sobre prepositions of time at, in and on.",
       "options": [
         {
-          "letter": "A",
-          "text": "jet lag",
+          "letter": "D",
+          "text": "The bus leaves at seven in the morning.",
           "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "feedback": "Correct! 'At' marks the clock hour and 'in' marks the part of the day, which is the standard pairing."
+        },
+        {
+          "letter": "A",
+          "text": "The bus leaves in seven at the morning.",
+          "is_correct": false,
+          "feedback": "No. 'In seven' would mean 'after seven hours have passed', and 'at the morning' is not used."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "The bus leaves on seven at the morning.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'On seven' would require a date, and no day of the month is named."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "The bus leaves for seven at the morning.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No. 'For seven' would measure duration and would change the meaning of the sentence."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "'At' marks the clock hour and 'in' marks the part of the day, which is the standard pairing. In this item the choice that works is 'The bus leaves at seven in the morning.', because it is the option that matches what the sentence and the task require.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle",
       "periodo": 25,

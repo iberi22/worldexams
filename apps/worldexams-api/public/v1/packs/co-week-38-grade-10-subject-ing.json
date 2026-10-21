@@ -16,30 +16,30 @@
           "letter": "A",
           "text": "because",
           "is_correct": false,
-          "feedback": "Needs a full clause."
+          "feedback": "\"Because\" must be followed by a full clause with a subject and a verb, but the blank is followed by the noun phrase \"the reduction of tariffs and transport costs\"."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "due to",
           "is_correct": true,
           "feedback": "Correct. Followed by a noun phrase to show cause."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "as",
           "is_correct": false,
-          "feedback": "Needs a full clause."
+          "feedback": "\"As\" either introduces a clause or means \"in the role of\"; neither sense connects a noun phrase as the cause of the increase."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "so that",
           "is_correct": false,
           "feedback": "Incorrect meaning (purpose)."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Due to' and 'because of' are followed by a noun phrase to express the reason for something.\r\n\r\n---",
-      "difficulty": "3",
+      "correct_answer": "D",
+      "explanation": "'Due to' and 'because of' are followed by a noun phrase to express the reason for something.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -59,13 +59,13 @@
       "context": "Discussing cultural exchange.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "in order",
           "is_correct": false,
           "feedback": "Needs 'to'."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "so that",
           "is_correct": true,
           "feedback": "Correct purpose connector followed by a clause."
@@ -74,18 +74,18 @@
           "letter": "C",
           "text": "for",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "\"Because of\" states a cause, but studying languages here is done for a purpose, and it is not followed by the clause a cause would need."
         },
         {
           "letter": "D",
           "text": "because of",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "\"Because of\" is a causal preposition followed by a noun; the sentence expresses purpose, not a reason that already existed."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'So that' is used to express purpose and is followed by a clause with a modal verb (can/could/will/would).\r\n\r\n---",
-      "difficulty": "3",
+      "correct_answer": "A",
+      "explanation": "'So that' is used to express purpose and is followed by a clause with a modal verb (can/could/will/would).\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -108,7 +108,7 @@
           "letter": "A",
           "text": "However",
           "is_correct": false,
-          "feedback": "Incorrect (contrast)."
+          "feedback": "\"However\" introduces a contrast, but the second clause is a result of the first one, not a contrast with it."
         },
         {
           "letter": "B",
@@ -120,7 +120,7 @@
           "letter": "C",
           "text": "Moreover",
           "is_correct": false,
-          "feedback": "Incorrect (addition)."
+          "feedback": "\"Moreover\" adds information, while the sentence needs a connector that draws a consequence from the closing businesses."
         },
         {
           "letter": "D",
@@ -130,7 +130,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Consequently' and 'as a result' are formal connectors used to introduce the consequence of a previous statement.\r\n\r\n---",
+      "explanation": "'Consequently' and 'as a result' are formal connectors used to introduce the consequence of a previous statement.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -172,12 +172,12 @@
           "letter": "D",
           "text": "for fear of",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "\"For fear of\" expresses a reason for avoiding something, but the sentence states the goal the nomads are travelling for."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Since' and 'as' can be used as synonyms for 'because' to introduce a reason clause.\r\n\r\n---",
-      "difficulty": "5",
+      "explanation": "'Since' and 'as' can be used as synonyms for 'because' to introduce a reason clause.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -203,13 +203,13 @@
           "feedback": "Needs a full clause."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "in order to",
           "is_correct": true,
           "feedback": "Correct purpose connector followed by an infinitive."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "with a view to",
           "is_correct": false,
           "feedback": "Needs a gerund."
@@ -218,12 +218,12 @@
           "letter": "D",
           "text": "because",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Because\" introduces a reason, but the clause after it states a purpose: what the regulations are meant to achieve."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'In order to' and 'so as to' are followed by an infinitive to express purpose.\r\n\r\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "'In order to' and 'so as to' are followed by an infinitive to express purpose.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -246,29 +246,29 @@
           "letter": "A",
           "text": "Furthermore",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Furthermore\" adds new information, but the investors' caution is a consequence of the unstable market."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Accordingly",
           "is_correct": true,
           "feedback": "Correct formal result connector."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Nevertheless",
           "is_correct": false,
-          "feedback": "Incorrect (contrast)."
+          "feedback": "\"Nevertheless\" introduces a contrast, while the clause states what follows from the instability."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Likewise",
           "is_correct": false,
-          "feedback": "Incorrect (similarity)."
+          "feedback": "\"Likewise\" links two similar statements, and there is no earlier point here to be similar to."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Accordingly' is a formal adverb used to show that an action is a logical response to a situation.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "'Accordingly' is a formal adverb used to show that an action is a logical response to a situation.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -295,27 +295,27 @@
           "feedback": "Needs 'to'."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "on account of",
           "is_correct": true,
           "feedback": "Correct formal reason connector followed by a noun phrase."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "because",
           "is_correct": false,
           "feedback": "Needs a full clause."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "so as to",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"So as to\" needs an infinitive, but the blank is followed by the noun \"its failure to comply\"."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'On account of' is a formal alternative to 'because of' or 'due to'.\r\n\r\n---",
-      "difficulty": "7",
+      "correct_answer": "D",
+      "explanation": "'On account of' is a formal alternative to 'because of' or 'due to'.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -335,13 +335,13 @@
       "context": "A text about corporate social responsibility.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "so as to",
           "is_correct": false,
-          "feedback": "Needs an infinitive."
+          "feedback": "\"So as to\" requires an infinitive, but the blank is followed by the gerund \"improving\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "with a view to",
           "is_correct": true,
           "feedback": "Correct formal purpose connector followed by a gerund."
@@ -350,18 +350,18 @@
           "letter": "C",
           "text": "in order to",
           "is_correct": false,
-          "feedback": "Needs an infinitive."
+          "feedback": "\"In order to\" also requires an infinitive after it, and \"improving\" is a gerund, so the connector does not fit."
         },
         {
           "letter": "D",
           "text": "since",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Since\" introduces a reason, while the sentence states the purpose of adopting the greener practices."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'With a view to' is a formal expression of purpose followed by the gerund form (-ing).\r\n\r\n---",
-      "difficulty": "7",
+      "correct_answer": "A",
+      "explanation": "'With a view to' is a formal expression of purpose followed by the gerund form (-ing).\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -387,26 +387,26 @@
           "feedback": "Correct contrast, but B is more specific for result."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Thus",
           "is_correct": true,
           "feedback": "Correct formal result connector."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Moreover",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Moreover\" adds extra information to what came before, while the sentence needs a connector that draws a consequence from the mixed results."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Provided",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Provided\" introduces a condition and needs a full clause with a subject and verb, so it cannot link the result stated here."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Thus' is a very formal connector used to introduce a result or conclusion.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "'Thus' is a very formal connector used to introduce a result or conclusion.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -427,33 +427,33 @@
       "context": "A sophisticated discussion on cultural homogenization.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "pervasive / that",
           "is_correct": true,
           "feedback": "Correct 'So + adjective + that' structure for result."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "much / that",
           "is_correct": false,
           "feedback": "'Much' is for quantity, 'pervasive' (adj) fits here."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "pervasive / as",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"As\" cannot open the result clause of a \"so ... that\" structure; that role belongs to \"that\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "such / that",
           "is_correct": false,
           "feedback": "'Such' needs a noun phrase."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Advanced B2 structure: 'So + adjective + that' to express degree and result.\r\n\r\n---",
-      "difficulty": "9",
+      "correct_answer": "D",
+      "explanation": "Advanced B2 structure: 'So + adjective + that' to express degree and result.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -476,13 +476,13 @@
           "letter": "A",
           "text": "because of",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Because of\" gives a plain cause with a noun phrase; the connector expected in this formal register also signals extent, which is what \"insofar as\" does."
         },
         {
           "letter": "B",
           "text": "owing to",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Owing to\" marks a straightforward cause and carries none of the formal, qualified tone the sentence uses here."
         },
         {
           "letter": "C",
@@ -494,12 +494,12 @@
           "letter": "D",
           "text": "so as to",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"So as to\" expresses purpose and needs an infinitive, so it cannot introduce the reason clause that follows."
         }
       ],
       "correct_answer": "C",
-      "explanation": "'Insofar as' is a formal B2/C1 connector used to explain the reason or extent to which something is true.\r\n\r\n---",
-      "difficulty": "9",
+      "explanation": "'Insofar as' is a formal B2/C1 connector used to explain the reason or extent to which something is true.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -519,32 +519,32 @@
       "context": "A complex sociological conclusion.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Much as / that",
           "is_correct": true,
           "feedback": "Correct sophisticated concession + result structure."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Since / as",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Since\" placed first would be read as giving a reason, and \"as\" cannot serve as the second half of a concession paired with a result."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Even if / so",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Even if\" introduces a hypothetical condition, and \"so\" cannot open the result half of this structure after the concession."
         },
         {
           "letter": "D",
           "text": "Although / then",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Although\" is a valid concessive, but \"then\" cannot function as the result connector that completes this sentence."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Mastery level: Using 'Much as' (concession) combined with 'so... that' (result) in a complex analysis of a global trend.\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "Mastery level: Using 'Much as' (concession) combined with 'so... that' (result) in a complex analysis of a global trend.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

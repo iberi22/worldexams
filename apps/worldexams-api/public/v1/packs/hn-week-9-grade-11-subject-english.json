@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"I live in Comayagua,\" she said. In other words, she said that she ___ in Comayagua.",
+      "context": "The present simple becomes the past simple in reported speech.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "lived",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "Correct! When the reporting verb is in the past, the present simple of the original shifts to the past simple."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "lives",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Lives would keep the original present tense, which only happens when the reporting verb is also present."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "has lived",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The present perfect would suggest the living is relevant to now, and the shift from a past reporting verb requires the past simple."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "is living",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A present continuous would be wrong because the shift applies to the tense of the original clause."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
+      "explanation": "The rule of backshift: when the reporting verb is in the past, the tense of the direct sentence moves one step back. Present simple becomes past simple.\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle",
       "periodo": 9,
@@ -54,40 +54,40 @@
     },
     {
       "id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"I finished the project,\" he said. She reported that he ___ the project.",
+      "context": "Past simple becomes past perfect in reported speech.",
       "options": [
         {
-          "letter": "A",
-          "text": "itinerary",
+          "letter": "B",
+          "text": "had finished",
           "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "feedback": "Correct! Backshifting a past simple event gives the past perfect."
         },
         {
-          "letter": "B",
-          "text": "baggage",
+          "letter": "A",
+          "text": "has finished",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The present perfect would be the result of backshifting a present tense, not of a past simple."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "was finishing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A past continuous would need an ongoing action in the original sentence, and finish is presented as complete."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "finishes",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Finishes is the original present form and has not been shifted at all."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "Every tense moves one step further into the past: present simple to past simple, and past simple to past perfect. The reporting time and the original time no longer coincide.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle",
       "periodo": 9,
@@ -99,40 +99,40 @@
     },
     {
       "id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "She says she ___ in La Paz for three months.",
+      "context": "The reporting verb is present, so no backshift is needed.",
       "options": [
         {
-          "letter": "A",
-          "text": "destination",
+          "letter": "C",
+          "text": "has been",
           "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "feedback": "Correct! With a present reporting verb the original tense is kept, and has been is the present perfect."
+        },
+        {
+          "letter": "A",
+          "text": "had been",
+          "is_correct": false,
+          "feedback": "Had been is the backshifted form and is only correct with a past reporting verb such as she said she had been."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "will be",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A future form would be the original tense only if the speaker had said will, and the time here is already past."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "is being",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A present continuous would be the original only if she had used that form, and she did not."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
+      "correct_answer": "C",
+      "explanation": "Backshift depends on the reporting verb. She says keeps the present, and she said would force the past perfect. The choice of reporting verb decides the tense of the report.\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle",
       "periodo": 9,
@@ -144,40 +144,40 @@
     },
     {
       "id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"I lost my pen,\" said Carlos. Carlos said that ___ had lost ___ pen.",
+      "context": "Pronouns and possessives change when a speaker is reported.",
       "options": [
         {
-          "letter": "A",
-          "text": "luggage",
+          "letter": "D",
+          "text": "he ... his",
           "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "feedback": "Correct! When the speaker reports his own words, the first person pronoun becomes third person and the possessive agrees."
+        },
+        {
+          "letter": "A",
+          "text": "I ... my",
+          "is_correct": false,
+          "feedback": "Keeping the first person would make the report sound as if the reporter were the speaker."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "he ... my",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The possessive must change with the person, so my cannot stay once the pronoun becomes he."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "they ... their",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A plural pronoun would contradict the single speaker named in the original sentence."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "Reporting someone else's words changes I to he or she, we to they, and my to his or her. The possessives always follow the new pronoun.\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle",
       "periodo": 9,
@@ -189,40 +189,40 @@
     },
     {
       "id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"This book is mine,\" said Ana. Ana said that ___ book was hers.",
+      "context": "Demonstratives change to point from the reporter's point of view.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "that ... her",
           "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "feedback": "Correct! This becomes that and mine becomes hers when the words are reported by someone else."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "this ... my",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Keeping this and my would preserve the original speaker's point of view, which reporting removes."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "these ... our",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "These is the plural of this, and the original is singular, while our does not match hers."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "those ... their",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Those is the plural demonstrative, and the sentence refers to a single book."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "explanation": "This becomes that and these become those in reported speech because the object is no longer near the reporter. Possessives shift in the same way: mine becomes his, hers or theirs.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle",
       "periodo": 9,
@@ -234,40 +234,40 @@
     },
     {
       "id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "He didn't say that he was tired. He said that he ___ tired.",
+      "context": "The verb say in a negative sentence, then reported.",
       "options": [
         {
-          "letter": "A",
-          "text": "customs",
+          "letter": "B",
+          "text": "wasn't",
           "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "feedback": "Correct! A negative main verb is not backshifted; the negative stays in the report and the clause keeps its tense."
         },
         {
-          "letter": "B",
-          "text": "security",
+          "letter": "A",
+          "text": "hadn't been",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A past perfect would backshift a past simple, but was is a present form and the negative did not changes."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "was not going to be",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That would add a future meaning the original sentence does not contain."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "has not been",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A present perfect would shift the time reference to now, and the original was is a simple present."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "The backshift applies to the tense of the reported clause, not to the negative auxiliary of the reporting verb. He didn't say that he was tired keeps the present simple.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle",
       "periodo": 9,
@@ -279,37 +279,37 @@
     },
     {
       "id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"I will meet her tomorrow at the square,\" he said. He said that he ___ meet her the next day at the square.",
+      "context": "Time and place words are adjusted in reported speech.",
       "options": [
         {
-          "letter": "A",
-          "text": "boarding pass",
+          "letter": "C",
+          "text": "would",
           "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "feedback": "Correct! A future will becomes would when the reporting verb is in the past, and tomorrow becomes the next day."
+        },
+        {
+          "letter": "A",
+          "text": "will",
+          "is_correct": false,
+          "feedback": "Keeping will would ignore the past tense of the reporting verb said."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "is going to",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Be going to is a different future form and does not correspond to the will of the original sentence."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "had been going to",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A past perfect would add two steps of backshift, which the original will does not require."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "Will becomes would in reported speech, and the demonstrative time expressions shift as well: now becomes then, tomorrow becomes the next day, today becomes that day.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"She must be at the office,\" he said. He said that she ___ be at the office.",
+      "context": "A modal in reported speech, with a deduction.",
       "options": [
         {
-          "letter": "A",
-          "text": "sightseeing",
+          "letter": "D",
+          "text": "must",
           "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "feedback": "Correct! Modal verbs have no past form of their own, so they stay unchanged in reported speech."
+        },
+        {
+          "letter": "A",
+          "text": "had to",
+          "is_correct": false,
+          "feedback": "Had to expresses obligation in the past, not the deduction that must expresses in the original."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "should",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Should expresses expectation, and the deduction of must is stronger than that."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "must have been",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A must with have plus participle would refer to a deduction about the past, which the present must does not."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "Modals and the auxiliaries do, does, did, have, is, are, was and were do not change form in reported speech. The meaning stays exactly the same as in the direct sentence.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,37 +369,37 @@
     },
     {
       "id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"Are you coming?\" she asked. She asked ___ she was coming.",
+      "context": "A yes or no question becomes an if or whether clause.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
+          "text": "if",
           "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "feedback": "Correct! A polar question becomes a conjunction clause introduced by if, with the word order of a statement."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "that",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That cannot introduce a question with a yes or no answer, and the word order would also be wrong."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "which",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Which asks for a choice between named options, and the original question is polar."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "what",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "What asks for the thing or the cause, not for a confirmation."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "explanation": "A polar question loses its question mark in reported speech. If replaces the auxiliary and the subject comes before it: she asked if she was coming.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,37 +414,37 @@
     },
     {
       "id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"Didn't you finish it?\" he asked. He asked ___ she had finished it.",
+      "context": "The negative question reported as a negative clause.",
       "options": [
         {
-          "letter": "A",
-          "text": "delay",
+          "letter": "B",
+          "text": "whether",
           "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "feedback": "Correct! Whether is the standard conjunction for reporting a polar question, and the polarity moves into the clause."
         },
         {
-          "letter": "B",
-          "text": "cancellation",
+          "letter": "A",
+          "text": "if not",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "If not would need the negative inside the main verb, and the sentence already places not in the auxiliary."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "that",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That cannot introduce a question clause, and the reported content is a question."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "why",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Why asks for a reason, and the original question asks for confirmation."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Whether and if both introduce reported polar questions. Whether is more formal and is the one used before to or before a clause that needs or not.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,37 +459,37 @@
     },
     {
       "id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"Where do you live?\" he asked. He asked ___ she lived.",
+      "context": "A wh question keeps its question word in reported speech.",
       "options": [
         {
-          "letter": "A",
-          "text": "check-in",
+          "letter": "C",
+          "text": "where",
           "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
+          "feedback": "Correct! A wh question keeps its question word and takes the word order of a statement."
+        },
+        {
+          "letter": "A",
+          "text": "if",
+          "is_correct": false,
+          "feedback": "If introduces polar questions, and a wh question needs its own question word."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "which",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Which asks for a choice between options, and the original question asks about a place."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "what",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "What asks for a thing, and the original question asks about a location."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "A wh question reports with its question word intact and the auxiliary after the subject. He asked where she lived is the standard pattern.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,37 @@
     },
     {
       "id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "He ___ me that he would be late for the meeting.",
+      "context": "The reporting verb tell, which requires a person as its object.",
       "options": [
         {
-          "letter": "A",
-          "text": "layover",
+          "letter": "D",
+          "text": "told",
           "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "feedback": "Correct! Tell takes a person as its object, and the past simple told is the past of tell."
+        },
+        {
+          "letter": "A",
+          "text": "said",
+          "is_correct": false,
+          "feedback": "Say does not normally take an indirect object, so said me that is not standard usage."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "spoke",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Speak cannot be followed by a that clause reporting someone's exact words."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "tells",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Tells is the present form, and the sentence reports words already spoken in the past."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Tell plus a person plus the clause is the structure for relaying someone's words to a third party. Say plus a clause is used without naming the person told.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,40 +549,40 @@
     },
     {
       "id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"Close the window, please,\" she said. She said that I ___ close the window.",
+      "context": "A command reported with a to infinitive.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
+          "text": "should",
           "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
+          "feedback": "Correct! A reported command uses should plus base verb, which carries the obligation of the original imperative."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "must",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Must would express a stronger obligation than the polite request in the original sentence."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "will",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A future form would report a prediction, and the original was an instruction."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "am going to",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Be going to expresses an intention, which is not the meaning of an instruction given to someone else."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "explanation": "Imperatives do not shift tense because they have none. In reported speech they take should plus base verb, or a to infinitive after verbs like ask and tell.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle",
       "periodo": 9,
@@ -594,40 +594,40 @@
     },
     {
       "id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"I'll help you with the bags,\" he said. He said that he ___ help her with the bags.",
+      "context": "An offer or a suggestion reported in the past.",
       "options": [
         {
-          "letter": "A",
-          "text": "guidebook",
+          "letter": "B",
+          "text": "would",
           "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "feedback": "Correct! An offer with I'll becomes he would when it is reported in the past."
         },
         {
-          "letter": "B",
-          "text": "map",
+          "letter": "A",
+          "text": "will",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Keeping will would ignore the past tense of the reporting verb said."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "had helped",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A past perfect would backshift twice, and the original I'll requires only one step back."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "is helping",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A present continuous would describe an action under way now, which the original offer does not."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Offers and promises shift exactly like any other future: I'll becomes he would, and we shall becomes they would. One step of backshift is the rule.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle",
       "periodo": 9,
@@ -639,40 +639,40 @@
     },
     {
       "id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"I was cooking when he called,\" she said. She said that she ___ cooking when he called.",
+      "context": "A past continuous in the original sentence.",
       "options": [
         {
-          "letter": "A",
-          "text": "backpack",
+          "letter": "C",
+          "text": "was",
           "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "feedback": "Correct! A past continuous normally stays as it is in reported speech, because there is no further past step for it."
+        },
+        {
+          "letter": "A",
+          "text": "had been",
+          "is_correct": false,
+          "feedback": "A past perfect would change the meaning from an ongoing action to a completed one, which is a different report."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "will be",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A future form would place the cooking after the call, reversing the original sequence."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "has been",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A present perfect would link the cooking to the present, and the scene is entirely in the past."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "Not every tense shifts. Past continuous, past perfect and modal verbs usually keep their form, because shifting them would change the meaning rather than the time reference.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle",
       "periodo": 9,
@@ -684,40 +684,40 @@
     },
     {
       "id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"I had already eaten,\" he said. He said that he ___ already eaten.",
+      "context": "A past perfect in the original sentence.",
       "options": [
         {
-          "letter": "A",
-          "text": "overseas",
+          "letter": "D",
+          "text": "had",
           "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "feedback": "Correct! The past perfect is already the most backward tense, so it stays unchanged in reported speech."
+        },
+        {
+          "letter": "A",
+          "text": "would have",
+          "is_correct": false,
+          "feedback": "A would have would add a hypothetical layer that the original plain statement does not contain."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "has",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A present perfect would move the eating towards the present, and the original is already in the past."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "will have",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A future perfect would project forward from a future point, and the reporting verb is in the past."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "The past perfect is the limit of backshifting. Once a tense is already the deepest past, reporting it in the past leaves it exactly as it was.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle",
       "periodo": 9,
@@ -729,40 +729,40 @@
     },
     {
       "id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "She didn't say she was ready. She said she ___ ready.",
+      "context": "Reporting the negative auxiliary of the reporting verb itself.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
+          "text": "wasn't",
           "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
+          "feedback": "Correct! The negation stays in the reported clause and the tense of was is not shifted."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "hadn't been",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A past perfect would backshift a past simple, but was in the original is a present form."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "is not",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Is not would keep the present tense, which is possible, but the sense of the report changes and was isn't correct."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "will not be",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A future negative would predict non-readiness, and the original was about a position already taken."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "explanation": "Negation does not move out of the reported clause. The reporter may say she didn't say, she said she wasn't or she denied it, and each version keeps the same tense inside the clause.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle",
       "periodo": 9,
@@ -774,40 +774,40 @@
     },
     {
       "id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"Who did you speak to?\" she asked. She asked ___ she had spoken to.",
+      "context": "A question with a preposition, where the preposition moves after the subject.",
       "options": [
         {
-          "letter": "A",
-          "text": "insurance",
+          "letter": "B",
+          "text": "who",
           "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
+          "feedback": "Correct! The question word who is kept and placed at the start of the reported clause, with the preposition to staying at the end."
         },
         {
-          "letter": "B",
-          "text": "warranty",
+          "letter": "A",
+          "text": "to who",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "In reported speech the preposition stays at the end of the clause, and to who is not a possible order in English."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "if",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "If introduces polar questions, and this is a wh question that already has its own question word."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "which",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Which asks for a choice between options, and the original question asks about a person."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "When a question begins with a preposition plus a question word, English reports it by moving the preposition to the end: who did you speak to becomes who she had spoken to.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle",
       "periodo": 9,
@@ -819,40 +819,40 @@
     },
     {
       "id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"You must submit the form today,\" the teacher said. The teacher said that we ___ submit the form that day.",
+      "context": "A statement reported with a past modal obligation.",
       "options": [
         {
-          "letter": "A",
-          "text": "vaccination",
+          "letter": "C",
+          "text": "must",
           "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
+          "feedback": "Correct! Modals keep their form in reported speech, and today becomes that day for the same reason."
+        },
+        {
+          "letter": "A",
+          "text": "had to",
+          "is_correct": false,
+          "feedback": "Had to is a reasonable paraphrase, but the direct report of the original must keeps the modal unchanged."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "should",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Should would weaken the obligation into advice, and the original is a firm requirement."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "would have to",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A conditional modal would report a possibility rather than the stated requirement."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "The tense of modals is fixed, but the time and place words still move. Today becomes that day and tonight becomes that night whenever the reporting verb is in the past.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle",
       "periodo": 9,
@@ -864,40 +864,40 @@
     },
     {
       "id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"The results will be published on Friday,\" they announced. They announced that the results ___ be published on the following Friday.",
+      "context": "A statement about the future reported much later.",
       "options": [
         {
-          "letter": "A",
-          "text": "jet lag",
+          "letter": "D",
+          "text": "would",
           "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "feedback": "Correct! A future will reported with a past verb becomes would, and the day reference is adjusted to the next Friday."
+        },
+        {
+          "letter": "A",
+          "text": "will",
+          "is_correct": false,
+          "feedback": "Keeping will would treat the announcement as a present statement, and announced is in the past."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "had been",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A past perfect would place the publication before the announcement, and the announcement comes first."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "are being",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A present continuous passive would put the publication now, and the report is about a future event."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "A future passive shifts its first auxiliary: will be published becomes would be published. The passive part of the verb never changes, only the auxiliary in front of it does.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle",
       "periodo": 9,

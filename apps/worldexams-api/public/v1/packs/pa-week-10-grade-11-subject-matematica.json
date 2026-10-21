@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. Esta representa la forma general de una función cuadrática de segundo grado."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$f(x) = mx + b$",
           "is_correct": true,
           "feedback": "Correcto. Donde m es la pendiente y b representa el intercepto con el eje vertical y."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = a^x$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta estructura corresponde a una función de tipo exponencial."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$f(x) = k/x$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta estructura representa una función de proporcionalidad inversa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Identificación de la representación algebraica estándar de la función lineal.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -64,25 +64,25 @@
           "feedback": "El foco es un punto interno de la curva usado en su definición, pero no es su punto extremo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Vértice",
           "is_correct": true,
           "feedback": "Correcto. El vértice es el punto donde la curva cambia de dirección y alcanza su valor límite."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Directriz",
           "is_correct": false,
           "feedback": "La directriz es una línea recta de referencia, no un punto perteneciente a la función."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Eje focal",
           "is_correct": false,
           "feedback": "El eje de simetría o eje focal es una recta, no un punto específico de la gráfica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Identificación de los elementos clave de la gráfica de una función cuadrática.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Un mensajero en Colón analiza la pendiente de una calle representada por una función lineal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Una recta vertical",
           "is_correct": false,
           "feedback": "Incorrecto. Las rectas verticales poseen una pendiente indefinida o infinita."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una recta horizontal",
           "is_correct": true,
           "feedback": "Correcto. Una inclinación nula indica que la función es constante y paralela al eje horizontal."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. La recta identidad tiene pendiente uno y pasa por el origen de coordenadas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Interpretación geométrica del valor de la pendiente en funciones lineales.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Un comerciante en Santiago utiliza una función para calcular ingresos basados en unidades vendidas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "150 balboas",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió sumar el valor del intercepto constante de la función de ingresos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "200 balboas",
           "is_correct": true,
           "feedback": "Correcto. 15(10) + 50 resulta en 150 + 50 = 200 balboas totales."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Este es el valor base cuando no se realiza ninguna venta (x=0)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Evaluación de funciones lineales en contextos de aplicación comercial y financiera.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. Esto sucedería solo si el coeficiente del término cuadrático fuera positivo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Hacia abajo",
           "is_correct": true,
           "feedback": "Correcto. Al ser el coeficiente principal negativo (-3), la curva es cóncava hacia abajo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Hacia la derecha",
           "is_correct": false,
           "feedback": "Incorrecto. Las funciones reales de x solo pueden tener aperturas verticales."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. La presencia del término de segundo grado garantiza una forma parabólica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Relación entre el signo del coeficiente principal y la concavidad de la función cuadrática.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Incorrecto. El valor del parámetro h cambia de signo al pasar a la coordenada del vértice."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Punto (4, 1)",
           "is_correct": true,
           "feedback": "Correcto. En la forma canónica a(x-h)^2 + k el vértice se ubica exactamente en (h, k)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Punto (4, -1)",
           "is_correct": false,
           "feedback": "Incorrecto. El parámetro k mantiene su signo original fuera del paréntesis de la función."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Se confundió el coeficiente de apertura con la coordenada horizontal del vértice."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Identificación de los elementos del vértice a partir de la forma canónica de la función cuadrática.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrecto. Se cometió un error en el cálculo de los productos de la fórmula."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "D = 0; una raíz única",
           "is_correct": true,
           "feedback": "Correcto. D = 16 - 16 = 0. Un valor nulo indica una sola solución real repetida."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "D = -8; ninguna raíz",
           "is_correct": false,
           "feedback": "Incorrecto. El valor del discriminante para esta función no es de carácter negativo."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Se realizó una operación aritmética errónea con los coeficientes dados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Uso del discriminante para determinar la naturaleza y cantidad de las raíces reales de una función cuadrática.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Un arquitecto analiza la intersección entre una pared recta y un arco parabólico decorativo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Solo en el origen (0, 0)",
           "is_correct": false,
           "feedback": "Incompleto. Existe un segundo punto de corte donde ambas expresiones coinciden."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En (0, 0) y en (2, 4)",
           "is_correct": true,
           "feedback": "Correcto. Al igualar x^2 = 2x se obtienen las dos soluciones para la variable x."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Existen dos puntos reales donde las igualdades se cumplen simultáneamente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Resolución de sistemas mixtos lineal-cuadráticos para hallar puntos de intersección en el plano.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. Esta función describiría un aumento de valor, no una pérdida o depreciación."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "V(t) = -1000t + 10000",
           "is_correct": true,
           "feedback": "Correcto. El valor inicial es el intercepto y la tasa de pérdida es la pendiente negativa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "V(t) = 10000(0.9)^t",
           "is_correct": false,
           "feedback": "Incorrecto. Esta fórmula corresponde a una depreciación exponencial, no a una lineal."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Se omitió incluir el valor del costo inicial del equipo en la función."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Modelado de problemas de depreciación mediante funciones lineales con pendiente de signo negativo.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Incorrecto. Se utilizó el valor del coeficiente b de forma directa sin la división necesaria."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "En la semana 4",
           "is_correct": true,
           "feedback": "Correcto. El máximo ocurre en el vértice de la parábola: t = -8 / (2*-1) = 4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En la semana 10",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor representa la altura inicial al momento de la siembra (t=0)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "En la semana 2",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error en el cálculo de la posición horizontal del vértice."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Aplicación del concepto de vértice para la optimización de valores máximos en funciones cuadráticas reales.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrecto. Esta sería la pendiente para una condición de paralelismo total."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Pendiente m = 3/2",
           "is_correct": false,
           "feedback": "Incorrecto. Solo representa el recíproco; falta aplicar el cambio de signo necesario."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Pendiente m = -3/2",
           "is_correct": true,
           "feedback": "Correcto. Las pendientes perpendiculares son recíprocas y de signos opuestos entre sí."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Solo representa la opuesta; falta aplicar el recíproco a la fracción."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Relación analítica entre las pendientes de rectas perpendiculares en el plano cartesiano.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. Esta expresión describe una relación lineal, no una curva parabólica."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La curva y = 2x^2",
           "is_correct": true,
           "feedback": "Correcto. Sustituyendo el punto: 8 = a(2^2) implica 8 = 4a, por lo que el coeficiente es dos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La curva y = x^2 + 4",
           "is_correct": false,
           "feedback": "Incorrecto. El vértice de esta función no coincidiría con el origen de coordenadas."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Al sustituir x=2 se obtendría una imagen de 32 en lugar de 8."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Determinación de coeficientes de una función cuadrática a partir de información de puntos específicos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrecto. Se cometió un error al plantear la igualdad para la utilidad neta."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "20 unidades",
           "is_correct": true,
           "feedback": "Correcto. (25x) - (5x + 100) = 300 implica 20x = 400, por lo que x es veinte."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor representaría el punto de equilibrio para una utilidad nula."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. No se cumple la condición de beneficio monetario requerida por el problema."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Resolución de problemas de optimización económica mediante el uso de modelos de funciones lineales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Incorrecto. Este tiempo corresponde al momento de alcanzar la altura máxima de vuelo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "En el segundo 4",
           "is_correct": false,
           "feedback": "Incorrecto. A los cuatro segundos el proyectil se encuentra aún a 25 metros de altura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En el segundo 5",
           "is_correct": true,
           "feedback": "Correcto. Resolviendo la ecuación h(t)=0 se obtiene la raíz positiva correspondiente al impacto."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. En este instante el objeto todavía se encuentra en su fase ascendente de vuelo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Resolución de problemas de cinemática mediante el cálculo de raíces de funciones cuadráticas aplicadas.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación |\n| --- | --- |\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

@@ -39,7 +39,7 @@
       ],
       "correct_answer": "B",
       "explanation": "The student identifies basic food groups.\n\n---",
-      "difficulty": "3",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -65,25 +65,25 @@
           "feedback": "Incorrect. \"Apple\" starts with a vowel sound."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "an",
           "is_correct": true,
           "feedback": "Correct! \"An\" is used before words starting with a vowel sound."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "some",
           "is_correct": false,
           "feedback": "Incorrect. While possible for plural, \"an\" is used for one specific apple."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "the some",
           "is_correct": false,
-          "feedback": "Incorrect structure."
+          "feedback": "Incorrect. The determiner and the pronoun cannot be stacked: \"the\" already fixes one particular apple, so the extra \"some\" makes the phrase ungrammatical."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student remembers the rule for indefinite articles.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -131,7 +131,7 @@
       ],
       "correct_answer": "C",
       "explanation": "The student understands the quantification of uncountable nouns.\n\n---",
-      "difficulty": "5",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -157,27 +157,27 @@
           "feedback": "Incorrect. Eating sweets is bad for teeth."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "shouldn't",
           "is_correct": true,
           "feedback": "Correct! \"Shouldn't\" provides correct negative advice for this context."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "must",
           "is_correct": false,
           "feedback": "Incorrect. This would be an obligation to do something bad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "can",
           "is_correct": false,
           "feedback": "Incorrect. Not the best modal for advice here."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student understands the pragmatic use of \"shouldn't\" for health advice.\n\n---",
-      "difficulty": "5",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -197,19 +197,19 @@
       "context": "Shopping for a party.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "some / some",
           "is_correct": true,
           "feedback": "Correct! \"Some\" can be used for uncountable (milk) and plural countable (eggs)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "a / some",
           "is_correct": false,
           "feedback": "Incorrect. Milk is uncountable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "an / an",
           "is_correct": false,
           "feedback": "Incorrect. Neither word works with \"an\"."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect. Eggs is plural."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "The student applies the use of \"some\" to different noun types.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -240,7 +240,7 @@
     {
       "id": "CO-ING-7-2026-W25-review-p3-health-006-v1",
       "statement": "How often does Sara exercise?",
-      "context": "A paragraph about Sara's habits.\n\"Sara usually exercises on Mondays and Thursdays. She drinks very little soda and she always eats salad for lunch. She feels very healthy.\"",
+      "context": "A paragraph about Sara's habits.\n\n\"Sara usually exercises on Mondays and Thursdays. She drinks very little soda and she always eats salad for lunch. She feels very healthy.\"",
       "options": [
         {
           "letter": "A",
@@ -269,7 +269,7 @@
       ],
       "correct_answer": "B",
       "explanation": "The student applies reading strategies to calculate frequency from specific data.\n\n---",
-      "difficulty": "7",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -295,13 +295,13 @@
           "feedback": "Incorrect. Tomatoes are countable."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "many",
           "is_correct": true,
           "feedback": "Correct! \"Many\" is for countable nouns."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "some",
           "is_correct": false,
           "feedback": "Incorrect. Not used with \"How\" for this question type."
@@ -310,12 +310,12 @@
           "letter": "D",
           "text": "any",
           "is_correct": false,
-          "feedback": "Incorrect. Not used with \"How\" for this question type."
+          "feedback": "Incorrect. \"Any\" belongs to negative and interrogative contexts, so in this affirmative question for a countable plural it does not fit."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student applies the correct interrogative quantifier for countable nouns.\n\n---",
-      "difficulty": "7",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -350,7 +350,7 @@
           "letter": "C",
           "text": "many",
           "is_correct": false,
-          "feedback": "Incorrect. Money is uncountable."
+          "feedback": "Incorrect. \"Many\" counts separate items, but money is an uncountable noun, so it can only be measured with \"much\" or \"a little\"."
         },
         {
           "letter": "D",
@@ -378,16 +378,16 @@
     {
       "id": "CO-ING-7-2026-W25-review-p3-health-009-v1",
       "statement": "What can you analyze about Juice A compared to Juice B?",
-      "context": "Comparing nutritional data.\n\"Juice A: 5g sugar, 20% Vitamin C. Juice B: 15g sugar, 10% Vitamin C.\"",
+      "context": "Comparing nutritional data.\n\n\"Juice A: 5g sugar, 20% Vitamin C. Juice B: 15g sugar, 10% Vitamin C.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Juice A is less healthy than Juice B.",
           "is_correct": false,
           "feedback": "Incorrect. It has less sugar and more vitamins."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Juice A has more nutritional value and less sugar.",
           "is_correct": true,
           "feedback": "Correct! 20% vs 10% Vitamin C and 5g vs 15g sugar."
@@ -405,9 +405,9 @@
           "feedback": "Incorrect. The numbers are different."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student analyzes and compares numeric data to determine the healthier option.\n\n---",
-      "difficulty": "9",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -424,7 +424,7 @@
     {
       "id": "CO-ING-7-2026-W25-review-p3-health-010-v1",
       "statement": "Which statement best evaluates the student's changes?",
-      "context": "Evaluating a student's reflection on health.\n\"I used to drink soda every day, but now I drink water. I also started walking to school instead of taking the bus. I have more energy now and I am never bored in class.\"",
+      "context": "Evaluating a student's reflection on health.\n\n\"I used to drink soda every day, but now I drink water. I also started walking to school instead of taking the bus. I have more energy now and I am never bored in class.\"",
       "options": [
         {
           "letter": "A",

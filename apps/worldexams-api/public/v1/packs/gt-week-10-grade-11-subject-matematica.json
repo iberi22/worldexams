@@ -421,13 +421,13 @@
           "letter": "A",
           "text": "Datos cuantitativos discretos",
           "is_correct": false,
-          "feedback": "Aquí se pueden calcular las tres medidas."
+          "feedback": "En datos cuantitativos discretos sí se pueden calcular las tres medidas, porque los valores son números contables y se pueden ordenar."
         },
         {
           "letter": "B",
           "text": "Datos cuantitativos continuos",
           "is_correct": false,
-          "feedback": "Aquí se pueden calcular las tres medidas."
+          "feedback": "En datos cuantitativos continuos también se pueden calcular las tres medidas; el que solo permite la moda son los cualitativos nominales."
         },
         {
           "letter": "C",
@@ -523,7 +523,7 @@
           "letter": "C",
           "text": "$1.5$ hijos",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "El promedio es $80/40=2$; el valor $1.5$ sale de dividir los $60$ hijos entre $40$ personas sin contar el grupo de tres hijos."
         },
         {
           "letter": "D",
@@ -703,13 +703,13 @@
           "letter": "C",
           "text": "$13$ años",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Con $13$ la suma sería $38$ y el promedio $38/3\\ne12$; la edad correcta se obtiene con $36-25=11$."
         },
         {
           "letter": "D",
           "text": "$9$ años",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Con $9$ la suma sería $34$ y el promedio $34/3\\ne12$; falta llegar a la suma total de $36$."
         }
       ],
       "correct_answer": "A",
@@ -793,13 +793,13 @@
           "letter": "C",
           "text": "$84$",
           "is_correct": false,
-          "feedback": "Error al ponderar los promedios."
+          "feedback": "Al ponderar, $20\\times80+30\\times90=4300$ y al dividir entre $50$ se obtiene $86$; el $84$ corresponde a otro reparto de pesos."
         },
         {
           "letter": "D",
           "text": "$88$",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "El promedio ponderado es $86$; el $88$ sobrepesa el promedio de la sección B."
         }
       ],
       "correct_answer": "B",

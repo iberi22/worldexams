@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-7-2026-W24-propaganda-publicidad-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la principal diferencia entre la **publicidad** y la **propaganda**?",
-      "context": "Aunque a menudo se usan como sinónimos, la publicidad y la propaganda tienen objetivos diferentes.\n**Expected_Success:** 0.85",
+      "context": "Aunque a menudo se usan como sinónimos, la publicidad y la propaganda tienen objetivos diferentes.",
       "options": [
         {
           "letter": "A",
@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. Ambas suelen requerir inversión en medios de comunicación."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La publicidad busca vender un producto o servicio, mientras que la propaganda busca promover ideas, ideologías o cambios sociales.",
           "is_correct": true,
           "feedback": "¡Correcto! La publicidad tiene un fin comercial y la propaganda un fin ideológico o cívico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La publicidad solo usa imágenes y la propaganda solo usa textos escritos.",
           "is_correct": false,
           "feedback": "Incorrecto. Ambas utilizan todos los recursos del lenguaje multimodal."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No hay ninguna diferencia, son exactamente lo mismo con nombres diferentes.",
           "is_correct": false,
           "feedback": "Incorrecto. Sus propósitos fundamentales (comercial vs. ideológico) las distinguen claramente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Publicidad: \"Compra estos tenis\". Propaganda: \"Vacúnate contra la gripe\" o \"Vota por este candidato\". La diferencia radica en la intención de la comunicación.",
       "difficulty": "4",
       "images": [],
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-7-2026-W24-propaganda-publicidad-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es la característica principal de un buen **eslogan**?",
-      "context": "El eslogan es una frase corta y memorable que identifica a una marca o campaña.\n**Expected_Success:** 0.80",
+      "context": "El eslogan es una frase corta y memorable que identifica a una marca o campaña.",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-7-2026-W24-propaganda-publicidad-001-MASTERY-bundle-v3",
       "statement": "Un comercial de una bebida achocolatada muestra a un niño colombiano que, después de tomar el producto, se convierte en un gran deportista y abraza a su mamá. ¿Qué recurso persuasivo está usando?",
-      "context": "La publicidad utiliza diversos recursos persuasivos, entre ellos la apelación a las emociones.\n**Expected_Success:** 0.75",
+      "context": "La publicidad utiliza diversos recursos persuasivos, entre ellos la apelación a las emociones.",
       "options": [
         {
           "letter": "A",
@@ -111,13 +111,13 @@
           "feedback": "Incorrecto. No muestra cifras ni estudios, sino una historia de vida."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Apelación a los sentimientos de afecto familiar y deseo de éxito personal.",
           "is_correct": true,
           "feedback": "¡Correcto! Se asocia el producto con la felicidad, el éxito y el amor materno para generar un vínculo emocional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Comparación directa con el precio de otras marcas de la competencia.",
           "is_correct": false,
           "feedback": "Incorrecto. El comercial no menciona el precio ni a otras marcas."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. El mensaje es puramente emocional y visual."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La publicidad emocional busca que el consumidor asocie el producto con sensaciones positivas, de modo que lo compre no solo por su función, sino por lo que lo hace sentir.",
       "difficulty": "6",
       "images": [],
@@ -148,16 +148,16 @@
     {
       "id": "CO-LEN-7-2026-W24-propaganda-publicidad-001-MASTERY-bundle-v4",
       "statement": "¿Cuál de los siguientes es un ejemplo de **propaganda**?",
-      "context": "La propaganda institucional busca mejorar los comportamientos de la ciudadanía en beneficio de todos.\n**Expected_Success:** 0.70",
+      "context": "La propaganda institucional busca mejorar los comportamientos de la ciudadanía en beneficio de todos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Un anuncio en Instagram sobre descuentos en hamburguesas.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto es publicidad comercial."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un cartel en el paradero del bus que dice: \"Tus impuestos se ven reflejados en este nuevo parque. Cuídalo\".",
           "is_correct": true,
           "feedback": "¡Correcto! Busca generar conciencia cívica y promover una idea de cuidado del bien público."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Es información publicitaria de ventas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La propaganda no intenta vender algo físico, sino una actitud o una creencia (en este caso, la valoración del parque y el pago de impuestos).",
       "difficulty": "6",
       "images": [],
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-7-2026-W24-propaganda-publicidad-001-MASTERY-bundle-v5",
       "statement": "Si ves una publicidad llena de colores neón, música urbana de moda y lenguaje juvenil, ¿quién es probablemente el **público objetivo**?",
-      "context": "El público objetivo o \"target\" es el grupo específico de personas al que se dirige un mensaje.\n**Expected_Success:** 0.65",
+      "context": "El público objetivo o \"target\" es el grupo específico de personas al que se dirige un mensaje.",
       "options": [
         {
           "letter": "A",
@@ -203,13 +203,13 @@
           "feedback": "Incorrecto. La estética y la música no coinciden con los intereses habituales de este grupo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Los médicos especialistas en enfermedades del corazón.",
           "is_correct": false,
           "feedback": "Incorrecto. El lenguaje juvenil no es el adecuado para la comunicación profesional médica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los adolescentes y jóvenes que siguen las tendencias actuales.",
           "is_correct": true,
           "feedback": "¡Correcto! El diseño y el ritmo están pensados para captar la atención de este rango de edad."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. El contexto visual no tiene relación con el trabajo en el campo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Adecuar el mensaje al público objetivo es clave para que la publicidad o propaganda sea efectiva. Cada grupo humano tiene códigos visuales y lingüísticos propios.",
       "difficulty": "6",
       "images": [],
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-7-2026-W24-propaganda-publicidad-001-MASTERY-bundle-v6",
       "statement": "Analiza el siguiente anuncio: \"Detergente 'Limpiecito': para que mamá descanse mientras la ropa queda blanca\". ¿Qué **estereotipo de género** refuerza esta publicidad?",
-      "context": "Los estereotipos son imágenes simplificadas y generalizadas sobre grupos de personas que la publicidad suele repetir.\n**Expected_Success:** 0.60",
+      "context": "Los estereotipos son imágenes simplificadas y generalizadas sobre grupos de personas que la publicidad suele repetir.",
       "options": [
         {
           "letter": "A",
@@ -255,19 +255,19 @@
           "feedback": "Incorrecto. El anuncio se centra en el descanso de la persona, no en la química del jabón."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Que las labores del hogar son responsabilidad exclusiva de las mujeres (mamá).",
           "is_correct": true,
           "feedback": "¡Correcto! Asocia directamente a la madre con la tarea de lavar, ignorando que otros miembros de la familia también pueden hacerlo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que el color blanco es el favorito de todas las familias colombianas.",
           "is_correct": false,
           "feedback": "Incorrecto. La blancura es el resultado del producto, no el estereotipo social analizado."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La publicidad contemporánea está siendo criticada por repetir estereotipos que limitan los roles de hombres y mujeres en la sociedad.",
       "difficulty": "8",
       "images": [],
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-7-2026-W24-propaganda-publicidad-001-MASTERY-bundle-v7",
       "statement": "¿Cuál de las siguientes situaciones representa un caso de **publicidad engañosa**?",
-      "context": "La publicidad engañosa ocurre cuando se ocultan datos negativos o se exageran las cualidades de un producto de forma falsa.\n**Expected_Success:** 0.55",
+      "context": "La publicidad engañosa ocurre cuando se ocultan datos negativos o se exageran las cualidades de un producto de forma falsa.",
       "options": [
         {
           "letter": "A",
@@ -295,25 +295,25 @@
           "feedback": "Incorrecto. Es una exageración publicitaria común (pufismo), pero no es un engaño sobre las propiedades reales."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Un yogur que se promociona como \"totalmente natural y sin azúcar\", pero en los ingredientes pequeños dice que contiene endulzantes artificiales.",
           "is_correct": true,
           "feedback": "¡Correcto! Hay una contradicción directa entre lo que se promete en grande y la realidad del producto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un comercial de carros donde el vehículo parece volar por encima del tráfico.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un recurso visual fantástico que el espectador entiende como ficción, no como promesa real de vuelo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una oferta que dice \"Hasta agotar existencias\" y el producto se acaba en dos días.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una condición de venta real y comunicada."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los consumidores tienen derecho a recibir información veraz. Ocultar ingredientes o mentir sobre los beneficios de salud son faltas graves a la ética publicitaria.",
       "difficulty": "8",
       "images": [],
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-7-2026-W24-propaganda-publicidad-001-MASTERY-bundle-v8",
       "statement": "En una propaganda de salud pública, aparece la imagen de un pulmón gris y marchito junto al eslogan: \"El tabaco te consume\". ¿Cómo interactúan la imagen y el texto aquí?",
-      "context": "En la publicidad y propaganda, la imagen suele ser más importante que el texto. Esto se llama lenguaje visual.\n**Expected_Success:** 0.50",
+      "context": "En la publicidad y propaganda, la imagen suele ser más importante que el texto. Esto se llama lenguaje visual.",
       "options": [
         {
           "letter": "A",
@@ -341,25 +341,25 @@
           "feedback": "Incorrecto. No hay humor, es un mensaje de advertencia serio."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La imagen refuerza el mensaje del texto mediante una metáfora visual impactante.",
           "is_correct": true,
           "feedback": "¡Correcto! La imagen muestra físicamente el daño que el texto describe con palabras."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El texto es redundante porque la imagen ya lo explica todo perfectamente.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto ancla el significado de la imagen para que no haya dudas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La imagen es puramente decorativa y no tiene relación con el eslogan.",
           "is_correct": false,
           "feedback": "Incorrecto. La imagen es el corazón del mensaje persuasivo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El texto y la imagen en los anuncios trabajan juntos (anclaje y relevo) para asegurar que el mensaje llegue con fuerza y claridad al receptor.",
       "difficulty": "8",
       "images": [],
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-7-2026-W24-propaganda-publicidad-001-MASTERY-bundle-v9",
       "statement": "Un famoso futbolista colombiano aparece en un comercial recomendando un banco nacional. Desde un punto de vista crítico, ¿qué relación real existe entre el futbolista y el banco?",
-      "context": "El uso de celebridades en la publicidad busca transferir el prestigio de la persona al producto.\n**Expected_Success:** 0.45",
+      "context": "El uso de celebridades en la publicidad busca transferir el prestigio de la persona al producto.",
       "options": [
         {
           "letter": "A",
@@ -387,13 +387,13 @@
           "feedback": "Incorrecto. Generalmente son solo contratos de imagen."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El futbolista ha estudiado finanzas y sabe que ese banco es el mejor técnicamente.",
           "is_correct": false,
           "feedback": "Incorrecto. Su experticia es el deporte, no la banca."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El banco usa la popularidad y confianza que la gente le tiene al futbolista para que esa confianza se traslade a la entidad financiera.",
           "is_correct": true,
           "feedback": "¡Correcto! Es una estrategia de persuasión por asociación de imagen positiva."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Es una explicación trivial que ignora la estrategia de marketing."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Identificar estas asociaciones nos permite ser consumidores más críticos, entendiendo que el éxito de una persona en un campo no garantiza la calidad de lo que promociona en otro.",
       "difficulty": "10",
       "images": [],
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-7-2026-W24-propaganda-publicidad-001-MASTERY-bundle-v10",
       "statement": "Un afiche de propaganda muestra a un candidato sonriendo con niños de diferentes razas y el texto: \"La unión que necesitamos\". ¿Qué recurso de manipulación emocional podría estar presente aquí?",
-      "context": "El análisis crítico de la propaganda política es fundamental para una democracia saludable.\n**Expected_Success:** 0.40",
+      "context": "El análisis crítico de la propaganda política es fundamental para una democracia saludable.",
       "options": [
         {
           "letter": "A",
@@ -433,13 +433,13 @@
           "feedback": "Incorrecto. No hay ninguna propuesta, solo una imagen emocional."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Uso de símbolos de inocencia (niños) y diversidad para generar una imagen de bondad y unidad sin dar razones políticas reales.",
           "is_correct": true,
           "feedback": "¡Correcto! Se apela a conceptos universales positivos (\"unión\", \"niños\") para evitar la discusión de temas difíciles o polémicos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Explicación técnica de cómo se logrará la integración social en el país.",
           "is_correct": false,
           "feedback": "Incorrecto. El afiche es visual y emocional, no técnico."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. El mensaje es positivo y no menciona oponentes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La propaganda a menudo utiliza imágenes \"incuestionables\" (como niños o la bandera) para blindar al candidato contra las críticas, asociándolo con la pureza y el patriotismo de forma automática.",
       "difficulty": "10",
       "images": [],

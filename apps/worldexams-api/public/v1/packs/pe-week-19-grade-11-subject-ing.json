@@ -9,37 +9,37 @@
   "questions": [
     {
       "id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'We flew ___ London to get to Lima.'",
+      "context": "A traveller describes a trip to another country.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "to",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "Correct. 'To' expresses the destination of a movement, which is the role it plays here."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "from to",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'From to' contains two prepositions that contradict each other unless the sentence has two reference points."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "in",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'In' describes containment inside a space and does not mark a destination."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "at",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'At' describes a static location rather than the endpoint of a movement."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
+      "explanation": "The preposition to marks the goal of a movement, while from marks its starting point and at marks a stationary position.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -54,41 +54,41 @@
     },
     {
       "id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The children ran ___ the field to reach the river.'",
+      "context": "A runner describes movement across a field.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "across of",
+          "is_correct": false,
+          "feedback": "Wrong. 'Across of' adds a second preposition that is not part of the expression."
         },
         {
           "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "across",
+          "is_correct": true,
+          "feedback": "Correct. 'Across' describes movement from one side to the other over a surface, which is what running does here."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "to across",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'To across' is not a valid combination, since across already expresses the direction of travel."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "in across",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'In across' stacks two prepositions before a single noun."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "Across expresses movement over a surface from one side to the other, and it does not require a further preposition.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -99,41 +99,41 @@
     },
     {
       "id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The balloon rose ___ the trees.'",
+      "context": "A description refers to movement upwards away from the ground.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "text": "at",
+          "is_correct": false,
+          "feedback": "Wrong. 'At' describes a point and cannot express a height relationship with a plural noun."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "in",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'In' would suggest the balloon was enclosed among the branches."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "above",
+          "is_correct": true,
+          "feedback": "Correct. 'Above' describes a position higher than the trees, which suits a rising balloon."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "among of",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Among of' is not a valid combination and would require 'among the trees' if that were the meaning."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
+      "correct_answer": "C",
+      "explanation": "Above, over and below describe vertical relationships, and among is a different relation that describes a position inside a group.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -144,40 +144,40 @@
     },
     {
       "id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'Turn ___ the second street on the left.'",
+      "context": "A driver describes turning into a road.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "text": "on",
+          "is_correct": false,
+          "feedback": "Wrong. 'On the second street' would describe continuing along the current street rather than changing."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "to",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'To' expresses movement towards a destination, and the instruction requires entering a different road."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "in",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'In' would describe a static position inside the street rather than the movement into it."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "into",
+          "is_correct": true,
+          "feedback": "Correct. 'Into' expresses movement from outside to inside a road or space, which is what turning into a street means."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "Into describes movement from outside into something, while in describes the resulting static position.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-bundle",
       "periodo": 19,
@@ -189,40 +189,40 @@
     },
     {
       "id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The train passed ___ the small town without stopping.'",
+      "context": "A traveller describes passing through a region without stopping.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "through",
           "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "feedback": "Correct. 'Through' describes movement entering at one side and leaving at the other without stopping, which is the sense here."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "to through",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'To through' is not a valid combination and would express a different direction."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "in through",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'In through' stacks two prepositions before one noun."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "across of",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Across of' adds an extra preposition and is not the correct expression."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\n---",
+      "explanation": "Through, across and along distinguish routes through a space, over a surface and following a line respectively.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-bundle",
       "periodo": 19,
@@ -234,40 +234,40 @@
     },
     {
       "id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'We walked ___ the river for several kilometres.'",
+      "context": "A hiker describes movement parallel to a path.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "text": "in",
+          "is_correct": false,
+          "feedback": "Wrong. 'In' would describe containment, which does not fit walking beside a river."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "along",
+          "is_correct": true,
+          "feedback": "Correct. 'Along' describes movement following the line or length of something such as a river."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "among of",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Among of' is not a valid combination and would require 'among the trees' if that were the case."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "into",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Into' expresses movement from outside into an enclosed space and is not used here."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Along is the preposition of linear movement, and it is not interchangeable with beside or near, which describe static position.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-bundle",
       "periodo": 19,
@@ -279,41 +279,41 @@
     },
     {
       "id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'Please bring the report ___ me when you arrive.'",
+      "context": "A grammar task tests movement towards a person rather than a place.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "text": "in",
+          "is_correct": false,
+          "feedback": "Wrong. 'In' describes containment and does not express direction towards a person."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "at",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'At' would express a static point and not the act of delivering something to someone."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "to",
+          "is_correct": true,
+          "feedback": "Correct. 'To' marks the recipient as well as the destination, so it is correct before a pronoun such as me."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "for to",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'For to' contains two prepositions where only one is needed and the meaning is contradictory."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "The same preposition that marks a destination also marks a recipient, since bringing something to a person is a movement towards them.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly uses 'away from'.",
+      "context": "A grammarian explains movement away from a starting point.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "The children ran away to the tree when the dog barked.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Away to' would describe movement towards the tree, which is the opposite of the intended meaning."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "The children ran from away the tree when the dog barked.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'From away' reverses the two parts of the fixed phrase."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "The children ran away the tree when the dog barked.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Away' without 'from' cannot take a noun after it in this construction."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The children ran away from the tree when the dog barked.",
+          "is_correct": true,
+          "feedback": "Correct. 'Away from' is a fixed phrase expressing movement that increases distance from a reference point."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "D",
+      "explanation": "Away from and away to express movement in opposite directions, so choosing the wrong one reverses the meaning of the sentence.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The lift moved ___ the tenth floor and stopped.'",
+      "context": "A description refers to movement between two levels.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
+          "text": "up to",
           "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "feedback": "Correct. 'Up to' is the fixed phrase expressing movement towards a higher level up to a certain point."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "up of",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Up of' is not a valid phrase in this context."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "up at",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Up at' would leave the noun phrase incomplete and is not the correct combination."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "up in",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Up in' does not express movement to a specific floor."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "explanation": "Directional phrases such as up to, down to and back to all require the second preposition to introduce the endpoint.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'After four years abroad, she finally came ___ Peru.'",
+      "context": "A traveller reports returning to a country from abroad.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "text": "back at",
+          "is_correct": false,
+          "feedback": "Wrong. 'Back at' would suggest a static location rather than movement to it."
         },
         {
           "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "back to",
+          "is_correct": true,
+          "feedback": "Correct. 'Back to' expresses the return to a place, and the preposition to is required before the country name."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "back of",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Back of' is not a valid phrase for returning to a country."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "back in",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Back in' would describe a resulting position inside the country rather than the movement of arrival."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "Back requires the same preposition as the direction it accompanies, so back to expresses arrival at a destination.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The cat crept ___ me while I was reading.'",
+      "context": "A report describes movement in the direction of the speaker.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
+          "text": "in towards",
+          "is_correct": false,
+          "feedback": "Wrong. 'In towards' stacks two prepositions and changes the meaning entirely."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "towards to",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Towards to' repeats the preposition and is ungrammatical."
         },
         {
           "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "towards",
+          "is_correct": true,
+          "feedback": "Correct. 'Towards' expresses movement in the direction of a person and needs no further preposition."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "of towards",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Of towards' is not a valid combination in English."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "Towards and toward are themselves prepositions, so they never take another preposition before their noun.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The bus is approaching the terminal ___ the south gate.'",
+      "context": "A traffic report describes a vehicle approaching a destination.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "text": "with of",
+          "is_correct": false,
+          "feedback": "Wrong. 'With of' is not a valid combination and reverses the usual order."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "of",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Of' would express possession or a relationship between nouns, not a route."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "by",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'By' expresses the means of transport and cannot introduce a route."
         },
         {
           "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "via",
+          "is_correct": true,
+          "feedback": "Correct. 'Via' expresses the route or intermediate point taken, which is the sense required here."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Via marks a route or intermediate point, which is different from by, that marks a means or agent.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'She walked past me without saying a word.'",
+      "context": "A description refers to movement past a person without stopping.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
+          "text": "walked past",
           "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
+          "feedback": "Correct. 'Past' is a preposition that expresses movement beyond a point and needs no further preposition before its object."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "walked to past",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'To past' is not a valid combination in English."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "walked in past",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'In past' would describe something located within the past in the temporal sense."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "walked past of",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Past of' is not a valid phrase; past is already a complete prepositional item."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\n---",
+      "explanation": "Past, through and across are prepositions that can stand alone before a noun, so no second preposition is required.\n\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly describes climbing over something rather than through it.",
+      "context": "A grammar exercise tests movement relative to a surface.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "text": "The climbers went in over the wall to reach the other side.",
+          "is_correct": false,
+          "feedback": "Wrong. 'In over' stacks two prepositions before a single noun and is ungrammatical."
         },
         {
           "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The climbers went over the wall to reach the other side.",
+          "is_correct": true,
+          "feedback": "Correct. 'Over' describes movement across the top of a barrier, which is the sense of climbing over a wall."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "The climbers went to over the wall to reach the other side.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'To over' reverses the expected order and is not a valid phrase."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "The climbers went over of the wall to reach the other side.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Over of' adds an unnecessary second preposition."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Over describes crossing the upper surface of something, which differs from through, that describes crossing inside it.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly distinguishes a vehicle from a route.",
+      "context": "An exercise examines movement with a vehicle as the means.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "text": "He travelled to Arequipa by the train last night.",
+          "is_correct": false,
+          "feedback": "Wrong. 'By the train' would refer to a specific train rather than the mode of transport in general."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "He travelled to Arequipa on train last night.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'On train' is not the correct combination for transport; by is used for the means."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "He travelled to Arequipa by train last night.",
+          "is_correct": true,
+          "feedback": "Correct. 'To' marks the destination and 'by train' names the means of transport without an article."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "He travelled by train to the Arequipa last night.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'The Arequipa' adds an article to a country name and misplaces the word order for the comparison."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "C",
+      "explanation": "By plus a mode of transport refers to how a journey was made, which is a different relationship from the route taken.\n\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The oil is exported ___ Peru to several countries.'",
+      "context": "A report describes movement away from a source.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "text": "away",
+          "is_correct": false,
+          "feedback": "Wrong. 'Away' with a noun would require 'away from', so 'away Peru' is incomplete."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "into of",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Into of' is not a valid combination and would express the opposite relationship."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "at",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'At' describes a location but not as the origin of a movement of goods."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "from",
+          "is_correct": true,
+          "feedback": "Correct. 'From' marks the place of origin, which is the starting point of the export journey."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Trade and transport verbs such as export and import take from for the origin and to for the destination.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly uses movement towards an abstract goal.",
+      "context": "A semantics exercise examines a preposition used with abstract movement.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
+          "text": "The programme aims to reduce waste by a third.",
           "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
+          "feedback": "Correct. 'Aims to' plus the infinitive is the standard construction for an objective, with no preposition before the verb."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "The programme aims for reduce waste by a third.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Aims for' is used with nouns such as 'a target', not with an infinitive."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "The programme aims reducing waste by a third.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Aims' is not followed directly by a gerund; the infinitive with to is required."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "The programme aims at reduce waste by a third.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Aims at' normally takes a noun rather than a bare infinitive."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "explanation": "Verbs of intention fix their complement pattern, so the aim verb takes an infinitive and the abstract nature of the goal changes nothing.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which set of instructions uses prepositions idiomatically throughout?",
+      "context": "A translator must keep prepositions consistent in a set of directions.",
       "options": [
         {
           "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
+          "text": "Go up of the stairs, turn left in the corner, and walk beside the corridor.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Up of the stairs' and 'in the corner' are not idiomatic, and beside the corridor describes position rather than movement."
         },
         {
           "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Go up the stairs, turn left at the corner, and walk along the corridor.",
+          "is_correct": true,
+          "feedback": "Correct. 'Up the stairs', 'at the corner' and 'along the corridor' are all idiomatic prepositional phrases for movement."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "Go in up the stairs, turn left at the corner, and walk across of the corridor.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'In up' and 'across of' both stack prepositions and are ungrammatical."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "Go up the stairs, turn left of the corner, and walk in the corridor.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Left of the corner' would mean to the left side of the corner, which is not a turning instruction."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "Consistent idiomatic usage means each phrase matches its own spatial relationship rather than reusing a single preposition throughout.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly describes movement downwards away from a height.",
+      "context": "An exam tests a preposition that expresses movement in a specified direction.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
+          "text": "They walked down of the hill before the sun set.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Down of' adds a preposition that is not part of the construction."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "They walked down at the hill before the sun set.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Down at' would suggest moving downwards to a fixed point, which is not the sense here."
         },
         {
           "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "They walked down the hill before the sun set.",
+          "is_correct": true,
+          "feedback": "Correct. 'Down the hill' expresses movement from the top of the hill towards its base, following the slope."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "They walked to down the hill before the sun set.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'To down' reverses the expected order and is not a valid phrase."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "Directional particles such as down, up and along take the noun directly to describe movement along a surface or slope.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the statement that best describes the difference between 'into' and 'onto'.",
+      "context": "A grammar task tests the difference between two prepositions of movement.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "text": "'Onto' describes a static position on a surface, while 'into' describes movement along a line.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Onto' describes movement to a surface and 'into' does not describe movement along a line."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "Both prepositions describe static position and can be used interchangeably with 'in' and 'on'.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Into and onto describe movement, whereas in and on describe the resulting static position."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "'Into' describes movement along a surface, while 'onto' describes movement inside a volume.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The descriptions of the two prepositions are reversed."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "'Into' describes movement to an interior point, while 'onto' describes movement to a surface.",
+          "is_correct": true,
+          "feedback": "Correct. This is the standard contrast, and it applies consistently to both movement and the resulting position."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "English marks the distinction between interior and surface on both verbs of movement and the corresponding static prepositions.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",

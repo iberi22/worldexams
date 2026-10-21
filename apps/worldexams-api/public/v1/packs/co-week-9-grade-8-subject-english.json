@@ -13,19 +13,19 @@
       "context": "Identifying people.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "who",
           "is_correct": true,
           "feedback": "Correct! We use \"who\" to refer to people."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "which",
           "is_correct": false,
           "feedback": "Incorrect. \"Which\" is for things or animals."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "where",
           "is_correct": false,
           "feedback": "Incorrect. \"Where\" is for places."
@@ -37,8 +37,8 @@
           "feedback": "Incorrect. \"When\" is for time."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Las oraciones de relativo (relative clauses) nos permiten dar información extra sobre alguien o algo. Usamos \"who\" específicamente para personas.\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "Las oraciones de relativo (relative clauses) nos permiten dar información extra sobre alguien o algo. Usamos \"who\" específicamente para personas.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -65,26 +65,26 @@
           "feedback": "Incorrect. A book is not a person."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "that",
           "is_correct": true,
           "feedback": "Correct! \"That\" can be used for both people and things in defining relative clauses."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "where",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Where\" points to a place, but \"this is the book\" refers to a thing, not to a location."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "whom",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Whom\" is used for people in the object position; the antecedent here is a book, so it cannot take \"whom\"."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "\"That\" es un pronombre relativo muy versátil que puede usarse tanto para objetos (cosas) como para personas en oraciones especificativas.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "\"That\" es un pronombre relativo muy versátil que puede usarse tanto para objetos (cosas) como para personas en oraciones especificativas.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -111,26 +111,26 @@
           "feedback": "Incorrect. While a library is a thing, here we refer to it as a location where an action happens."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "where",
           "is_correct": true,
           "feedback": "Correct! \"Where\" is the relative pronoun for places."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "who",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Who\" is used for people, and a library is a place, so it needs the locative relative pronoun."
         },
         {
           "letter": "D",
           "text": "that",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"That\" can join things to clauses, but after \"a place\" the clause describes a location, which is what \"where\" does."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Cuando nos referimos a un lugar como el sitio donde ocurre una acción, el pronombre relativo adecuado es \"where\".\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "Cuando nos referimos a un lugar como el sitio donde ocurre una acción, el pronombre relativo adecuado es \"where\".\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -157,26 +157,26 @@
           "feedback": "Incorrect. \"Who\" is strictly for humans."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "which",
           "is_correct": true,
           "feedback": "Correct! \"Which\" is used for animals and inanimate objects."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "where",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Where\" marks a place, but the relative pronoun here refers to the condor, which is an animal."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "whose",
           "is_correct": false,
           "feedback": "Incorrect. \"Whose\" is for possession."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para animales u objetos, el pronombre relativo estándar es \"which\", aunque también se podría usar \"that\" en este contexto.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "Para animales u objetos, el pronombre relativo estándar es \"which\", aunque también se podría usar \"that\" en este contexto.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -203,26 +203,26 @@
           "feedback": "Incorrect. \"Who\" doesn't show possession."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "whose",
           "is_correct": true,
           "feedback": "Correct! \"Whose\" is used to show possession (whose father = el padre del cual)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "which",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Which\" introduces a thing, not a person; the clause here describes a student's father."
         },
         {
           "letter": "D",
           "text": "whom",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Whom\" marks the object of a preposition for people, but possession is expressed with \"whose\"."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "\"Whose\" se traduce como \"cuyo/a\" o \"de quien\". Se usa para indicar que algo pertenece a la persona o cosa mencionada anteriormente.\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "\"Whose\" se traduce como \"cuyo/a\" o \"de quien\". Se usa para indicar que algo pertenece a la persona o cosa mencionada anteriormente.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -246,29 +246,29 @@
           "letter": "A",
           "text": "who",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Who\" refers to a person, and an arepa is a food, so it cannot be the antecedent of \"who\"."
         },
         {
           "letter": "B",
           "text": "where",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Where\" marks a place, but the clause describes what the arepa is made from, not where it is."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "that",
           "is_correct": true,
           "feedback": "Correct! Referring to an object (food)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "when",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"When\" marks a time, and the clause about corn states an ingredient rather than a moment."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "En definiciones de objetos culturales, usamos \"that\" o \"which\" para conectar el nombre del objeto con su descripción o proceso de fabricación.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "En definiciones de objetos culturales, usamos \"that\" o \"which\" para conectar el nombre del objeto con su descripción o proceso de fabricación.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -289,13 +289,13 @@
       "context": "Omitting the relative pronoun.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "The man who lives next door is a musician.",
           "is_correct": false,
           "feedback": "Incorrect. \"Who\" is the subject of \"lives\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "The movie (that) we watched yesterday was boring.",
           "is_correct": true,
           "feedback": "Correct! \"That\" is the object (we watched it), so it can be omitted."
@@ -313,8 +313,8 @@
           "feedback": "Incorrect. \"Where\" is rarely omitted this way."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "En inglés, podemos omitir \"who\", \"which\" o \"that\" solo cuando funcionan como el **objeto** de la oración de relativo (cuando hay otro sujeto después del pronombre).\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "En inglés, podemos omitir \"who\", \"which\" o \"that\" solo cuando funcionan como el **objeto** de la oración de relativo (cuando hay otro sujeto después del pronombre).\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -331,36 +331,36 @@
     },
     {
       "id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-v8",
-      "statement": "\"An orphan is a child whose parents are dead.\"\r\nWhat information does the relative clause provide?",
+      "statement": "\"An orphan is a child whose parents are dead.\"\nWhat information does the relative clause provide?",
       "context": "Understanding definitions.",
       "options": [
         {
           "letter": "A",
           "text": "It describes where the child lives.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "The clause says nothing about where the child lives; it identifies the parents as the ones who are dead."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "It gives essential information to define what an orphan is.",
           "is_correct": true,
           "feedback": "Correct! Without this clause, we don't know which child we mean."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "It is extra information that we can delete without changing the meaning.",
           "is_correct": false,
           "feedback": "Incorrect. It's a defining clause."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "It tells us the name of the child.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "The clause never gives a name, so it cannot be telling us who the child is called."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Las \"defining relative clauses\" (oraciones de relativo especificativas) son esenciales para el significado de la oración; sin ellas, el sustantivo principal no queda bien definido.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "Las \"defining relative clauses\" (oraciones de relativo especificativas) son esenciales para el significado de la oración; sin ellas, el sustantivo principal no queda bien definido.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -377,7 +377,7 @@
     },
     {
       "id": "CO-ING-8-2026-W09-relative-clauses-001-MASTERY-v9",
-      "statement": "Combine these two sentences:\r\n\"I lost the watch. My grandmother gave it to me.\"",
+      "statement": "Combine these two sentences:\n\"I lost the watch. My grandmother gave it to me.\"",
       "context": "Combining sentences.",
       "options": [
         {
@@ -396,17 +396,17 @@
           "letter": "C",
           "text": "I lost the watch where my grandmother gave to me.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Where\" marks a place, but the clause explains the origin of the watch, which points to a thing."
         },
         {
           "letter": "D",
           "text": "I lost the watch whose my grandmother gave to me.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Whose\" shows possession, and the grandmother gave the watch; she is not claiming to own it beforehand."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Para combinar oraciones, reemplazamos el objeto repetido (\"it\") por un pronombre relativo (\"that\" o \"which\") que conecte ambas ideas.\r\n\r\n---",
+      "explanation": "Para combinar oraciones, reemplazamos el objeto repetido (\"it\") por un pronombre relativo (\"that\" o \"which\") que conecte ambas ideas.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -439,20 +439,20 @@
           "feedback": "Incorrect. Formal but correct."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "This is the park who I used to play in.",
           "is_correct": true,
           "feedback": "Correct! Error found. \"Park\" is a place or thing, so \"who\" is wrong."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "The people whose car was stolen are very sad.",
           "is_correct": false,
           "feedback": "Incorrect. This is correct."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El nivel B1 requiere distinguir claramente entre referentes humanos (\"who\") y no humanos (\"which/that\") en cualquier estructura, por compleja que sea.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "El nivel B1 requiere distinguir claramente entre referentes humanos (\"who\") y no humanos (\"which/that\") en cualquier estructura, por compleja que sea.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -479,13 +479,13 @@
           "feedback": "Incorrect. Too simple."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "A pen is an instrument that uses ink to write on paper.",
           "is_correct": true,
           "feedback": "Correct! Precise use of a relative clause to define purpose."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "A pen is who you use to write.",
           "is_correct": false,
           "feedback": "Incorrect. Grammatically wrong."
@@ -494,11 +494,11 @@
           "letter": "D",
           "text": "Pen is a place where words are.",
           "is_correct": false,
-          "feedback": "Incorrect. Illogical."
+          "feedback": "A pen is an instrument used for writing, not a location, so calling it a place where words are reverses its meaning."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El uso de oraciones de relativo es fundamental para crear definiciones precisas y académicas (habilidad evaluada en B1).\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "El uso de oraciones de relativo es fundamental para crear definiciones precisas y académicas (habilidad evaluada en B1).\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

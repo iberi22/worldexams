@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "She ____ speak three languages, but she only speaks two.",
+      "context": "A student describes her own linguistic skills during a class interview.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "can",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "Correct! 'Can' expresses ability in the present, and the second clause limits how much of that ability is real."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "may",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'May' expresses permission or possibility, not skill."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "must",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Must' expresses obligation, which says nothing about capacity."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "should",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Should' expresses advice or expectation, not what a person is able to do."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\n---",
+      "explanation": "'Can' is the modal of ability in the present. Its negative and interrogative forms are built the same way, without an auxiliary 'to'.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle",
       "periodo": 21,
@@ -54,40 +54,40 @@
     },
     {
       "id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "You ____ drive if you want to go to the coast this weekend.",
+      "context": "A group of friends discusses a weekend trip to the Caribbean coast.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "could",
+          "is_correct": false,
+          "feedback": "'Could' would suggest the ability existed in the past."
         },
         {
           "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "can",
+          "is_correct": true,
+          "feedback": "Correct! 'Can' offers the possibility of driving here and now, since the plan is for the coming weekend."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "may",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'May' is used formally to give or ask for permission."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "might",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Might' expresses a small possibility, which is weaker than a clear ability."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "Ability in the present is 'can'. The past ability is 'could' and a remote possibility is 'might', so the time reference decides the modal.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle",
       "periodo": 21,
@@ -99,40 +99,40 @@
     },
     {
       "id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "As a child he ____ swim across the river, but he cannot do it now.",
+      "context": "A man remembers an ability he had as a child and no longer has.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "text": "can",
+          "is_correct": false,
+          "feedback": "'Can' would place the ability in the present, which the second clause denies."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "may",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'May' expresses permission, and no permission is discussed."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "could",
+          "is_correct": true,
+          "feedback": "Correct! 'Could' describes an ability that existed in the past and no longer holds."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "must",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Must' expresses obligation, which does not describe capacity at all."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "C",
+      "explanation": "'Could' is the past simple of the modal 'can'. Because the second clause is a present impossibility, the first must be past.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle",
       "periodo": 21,
@@ -144,40 +144,40 @@
     },
     {
       "id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The teacher says we ____ use our phones during the written test.",
+      "context": "A teacher gives a rule before an examination session.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "text": "might",
+          "is_correct": false,
+          "feedback": "'Might' would leave the possibility open, and a prohibition closes it."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "could",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Could' would describe a past ability."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "should",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Should' expresses a recommendation, and teachers prohibit rather than recommend."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "cannot",
+          "is_correct": true,
+          "feedback": "Correct! 'Cannot' states that the action is outside what the rules allow."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "Modal verbs never change form. 'Cannot' stays the same in every person, which is one of their defining features.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle",
       "periodo": 21,
@@ -189,40 +189,40 @@
     },
     {
       "id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "I am sorry, I ____ help you with the project today.",
+      "context": "A classmate apologises for turning down a request on a busy day.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "cannot",
           "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "feedback": "Correct! 'Cannot' explains a lack of capacity or availability."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "must not",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Must not' expresses a prohibition that somebody imposes."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "need not",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Need not' removes an obligation and does not explain an apology."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "should not",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Should not' gives advice against an action, but the speaker lacks the time, not the permission."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "explanation": "An apology followed by a reason about availability calls for 'cannot'. 'Must not' would place the limit outside the speaker.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle",
       "periodo": 21,
@@ -234,37 +234,37 @@
     },
     {
       "id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "____ you swim in the river, or are you afraid of the water?",
+      "context": "A friend asks about a swimming skill before an outing in a rural area.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "text": "Must",
+          "is_correct": false,
+          "feedback": "'Must' asks about an obligation, which is not the contrast being drawn."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Can",
+          "is_correct": true,
+          "feedback": "Correct! 'Can' is the modal used to ask about ability in the present."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "Should",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Should' asks whether something is advisable."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "Would",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Would' asks about a past habit or a hypothetical, not about a real skill."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "The interrogative of the modal 'can' inverts the subject and the modal, with no auxiliary 'do' and no change of form.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -279,37 +279,37 @@
     },
     {
       "id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Reading in English ____ me a lot of useful vocabulary for the exam.",
+      "context": "A student explains a habit that supports exam preparation.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "text": "may",
+          "is_correct": false,
+          "feedback": "'May' expresses permission, which is not the point of the sentence."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "must",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Must' would state an obligation."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "can",
+          "is_correct": true,
+          "feedback": "Correct! 'Can' is used in the present simple with 'me' as its subject to state a benefit."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "may not",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'May not' would state that no benefit exists, which the sentence denies."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "The subject of a modal can be any noun phrase, not only a person. The modal stays in the infinitive form after it.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "He ____ not swim when he was ten, so he took a course last year.",
+      "context": "A man narrates the reason why he signed up for a swimming course last year.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "can",
+          "is_correct": false,
+          "feedback": "'Can' would refer to the present, which the second clause contradicts."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "will",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Will' describes a future action."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "would",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Would' describes a past habit or a polite offer, not a past ability."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "could",
+          "is_correct": true,
+          "feedback": "Correct! 'Could' is the past form of the ability modal and matches the past time reference."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "Past ability is expressed with 'could' plus the bare infinitive. The course follows the inability, which confirms the past time frame.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,37 +369,37 @@
     },
     {
       "id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "She is a doctor, so she ____ help you with that injury.",
+      "context": "An injured student is advised to see the school doctor.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
+          "text": "can",
           "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "feedback": "Correct! 'Can' states a real and present professional ability."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "could",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Could' would point to a capacity in the past."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "might",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Might' would only suggest a possibility, weaker than what a doctor can do."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "would",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Would' would be used for a conditional or a past habit."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "explanation": "A modal expresses what is possible, permitted or necessary. The first two are excluded by the time frame and the third by the certainty of the statement.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,40 +414,40 @@
     },
     {
       "id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The baby ____ not walk yet, but he ____ crawl very well.",
+      "context": "A parent describes the motor development of a baby at home.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "text": "can ... can",
+          "is_correct": false,
+          "feedback": "'Can ... cannot' reverses the two facts."
         },
         {
           "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "cannot ... can",
+          "is_correct": true,
+          "feedback": "Correct! 'Cannot' states a missing capacity and 'can' a present one, which is the contrast described."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "can ... cannot",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Cannot ... cannot' denies both abilities."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "must ... can",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Must' would express obligation, which does not describe motor development."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Two coordinated clauses keep the same modal form in both. Here the first is negative and the second positive, which the pair of modals must reflect.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle",
       "periodo": 21,
@@ -459,37 +459,37 @@
     },
     {
       "id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "____ you help me carry these boxes, please?",
+      "context": "A student makes a polite request in the language laboratory.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
+          "text": "Must",
+          "is_correct": false,
+          "feedback": "'Must' is never used to ask for a favour; it states an obligation."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "Should",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Should' asks about advice."
         },
         {
           "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Could",
+          "is_correct": true,
+          "feedback": "Correct! 'Could' is the polite form of 'can' used to make a request."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "Need",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Need' is a main verb here, and the negative form would be a different construction."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "The past form of the modal is used for politeness in requests. The tense of the form does not refer to time; it softens the tone.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,37 @@
     },
     {
       "id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Students ____ not stay in the classroom during the fire drill.",
+      "context": "A notice lists the rules of a school evacuation procedure.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "text": "could",
+          "is_correct": false,
+          "feedback": "'Could' is a past ability modal, which does not express a rule."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "can",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Can' would state a possibility or an ability."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "may",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'May' expresses permission, and the sign forbids rather than allows."
         },
         {
           "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Correct! 'Must not' states a strict prohibition in a school rule."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "'Must not' and 'need not' are different: 'must not' forbids, while 'need not' merely says an obligation does not exist.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,40 +549,40 @@
     },
     {
       "id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "I ____ understand the recording, so I will read the transcript.",
+      "context": "A student changes from a listening task to a written support after a first attempt.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
+          "text": "cannot",
           "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
+          "feedback": "Correct! 'Cannot' states a real lack of comprehension."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "must not",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Must not' forbids an action, and no prohibition is mentioned."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "should not",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Should not' gives advice against listening again."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "need not",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Need not' removes an obligation and would not explain the change of method."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "explanation": "The explanation for changing method is a limitation of ability or comprehension, which 'cannot' expresses and the other three do not.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle",
       "periodo": 21,
@@ -594,37 +594,37 @@
     },
     {
       "id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The new students ____ read the instructions in English yet, so the teacher explains them twice.",
+      "context": "A teacher prepares instructions for a group that has just started an English course.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "text": "must not",
+          "is_correct": false,
+          "feedback": "'Must not' forbids an action, which is not described here."
         },
         {
           "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "cannot",
+          "is_correct": true,
+          "feedback": "Correct! 'Cannot' states that the ability is absent, and the teacher's repetition is the consequence."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "should not",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Should not' would give advice, but the sentence reports a lack of skill."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "need not",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Need not' removes an obligation and would not explain the teacher's behaviour."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "'Yet' at the end of the first clause marks an expected development that has not happened, which is a statement about a missing ability.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -639,40 +639,40 @@
     },
     {
       "id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Even after two years of training, Pedro ____ hear a very high note without a hearing aid.",
+      "context": "A student describes a physical limitation that training did not remove.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "text": "could",
+          "is_correct": false,
+          "feedback": "'Could' would place the limitation in the past, and it still holds now."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "may",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'May' expresses a possibility of hearing it, and no uncertainty is described."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "can",
+          "is_correct": true,
+          "feedback": "Correct! 'Cannot', contracted in the negative, states the permanent limitation of his hearing."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "must",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Must' would express an obligation, which is not the point of the sentence."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "The modal describes a capacity that is still absent in the present, so the negative of 'can' is the only form that fits.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle",
       "periodo": 21,
@@ -684,40 +684,40 @@
     },
     {
       "id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "You ____ swim in the sea during a storm, which is clearly dangerous.",
+      "context": "A group of students is on a school trip near an open beach.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "text": "cannot",
+          "is_correct": false,
+          "feedback": "'Cannot' would state an impossibility, but a storm does not make swimming physically impossible."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "must",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Must' would state an obligation to do it."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "need not",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Need not' would say the action is optional, which hides the risk."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "should not",
+          "is_correct": true,
+          "feedback": "Correct! 'Should not' gives advice against the action, and the danger is what makes the advice necessary."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "'Should not' is the modal of advice. When the risk comes from a bad decision rather than from a physical limit, advice is the correct choice.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle",
       "periodo": 21,
@@ -729,37 +729,37 @@
     },
     {
       "id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "You have studied the grammar, so you ____ be able to solve the exercise.",
+      "context": "A teacher comments on a student who has revised carefully for a test.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
+          "text": "should",
           "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
+          "feedback": "Correct! 'Should' expresses a reasonable expectation based on the effort made."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "must",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Must' would state a logical certainty, which is too strong."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "can",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Can' states an ability, but the sentence is reasoning about an expected result."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "will",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Will' would predict the future without the modal reasoning of expectation."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "explanation": "'Should' plus an infinitive expresses what is probable given the evidence. It is the modal of deduction, not of obligation.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -774,40 +774,40 @@
     },
     {
       "id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The hall ____ hold five hundred people, but the school booked only two rooms.",
+      "context": "A school organises a graduation ceremony in its main hall.",
       "options": [
         {
           "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
+          "text": "may",
+          "is_correct": false,
+          "feedback": "'May' expresses permission, and capacity is not permission."
         },
         {
           "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "can",
+          "is_correct": true,
+          "feedback": "Correct! 'Can' states a physical capacity of the building in the present."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "must",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Could' would place the capacity in the past."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "could",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Must' would express an obligation about the booking."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "Capacity of a place is expressed with 'can'. The second clause changes the plan but not the capacity of the building.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle",
       "periodo": 21,
@@ -819,40 +819,40 @@
     },
     {
       "id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "____ the new students all have dictionaries, they cannot check a single word.",
+      "context": "A teacher explains why a reading activity requires shared materials.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
+          "text": "Although",
+          "is_correct": false,
+          "feedback": "'Although' would need a contrast, and the second clause supports the first."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "Because",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Because' would give a reason, but the first clause is the condition, not the reason."
         },
         {
           "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Unless",
+          "is_correct": true,
+          "feedback": "Correct! 'Unless' states the condition without which the negative result in the main clause would not be true."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "So that",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'So that' introduces a purpose, and no goal is mentioned."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "The main clause carries the modal 'can' in a negative form, and 'unless' is the conditional that produces exactly that situation.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle",
       "periodo": 21,
@@ -864,40 +864,40 @@
     },
     {
       "id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "No student ____ stay out after ten o'clock without written permission.",
+      "context": "A boarding school states its evening regulation.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "text": "can",
+          "is_correct": false,
+          "feedback": "'Can not' would describe an inability, but a curfew is about permission."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "could",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Could' would place the permission in the past."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "must",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Must not' states a prohibition too, but the pair 'may ... permission' in the sentence is the matching collocation."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "may",
+          "is_correct": true,
+          "feedback": "Correct! 'May not' expresses a rule that forbids the action, and 'may' gives permission in its affirmative form."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "'May' is the modal of permission, so its negative expresses the removal of that permission. The presence of the word 'permission' confirms the choice.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle",
       "periodo": 21,
