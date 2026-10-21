@@ -124,3 +124,8 @@ These fill gaps the tables above leave open. They change no response shape above
   - Cells with `,`, `"` or line breaks are quoted.
   - The response has `Content-Disposition: attachment; filename="resultados-<groupId>.csv"`.
 - **CORS:** the shared allowlist helper now allows `PATCH` and `DELETE` as well.
+- **Abuse limits (rolling hour, counted in D1 table `inst_rate_events`, IPs stored only as SHA-256):** these come on top of the contract's limits, and every one of them answers `429 RATE_LIMITED`.
+  - `/auth/request`: 20 per IP.
+  - `/join`: 300 requests per IP, plus 200 joins per join code.
+  - After 20 unknown join codes from one IP, that IP gets `429` on `/join` for the rest of the hour, even with a valid code. This blocks code guessing without blocking a classroom behind one NAT.
+  - The values live in `INST_RATE_LIMITS` in `institutions.ts`.

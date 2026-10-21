@@ -45,6 +45,16 @@ export const PLAN_LIMITS: Record<
 
 export const INST_LOGIN_REQUESTS_PER_HOUR = 5;
 export const INST_RESULTS_PER_STUDENT_DAY = 60;
+// Abuse limits counted in `inst_rate_events` (D1, no KV), per rolling hour.
+// A classroom behind NAT shares one IP, so the per-IP totals stay generous; the
+// tight per-IP limit only counts join codes that do not exist (enumeration).
+export const INST_RATE_LIMITS = {
+  authRequestsPerIp: 20,
+  joinsPerIp: 300,
+  joinMissesPerIp: 20,
+  joinsPerCode: 200,
+  windowS: 3600,
+} as const;
 /** Cap on rows returned by the results endpoints (JSON adds `truncated`). */
 export const INST_RESULTS_MAX_ROWS = 10_000;
 
@@ -180,6 +190,48 @@ function planLimitError(request: Request, plan: InstPlan, resource: keyof (typeo
     plan,
     resource,
   });
+}
+
+async function clientIpHash(request: Request): Promise<string> {
+  const ip =
+    request.headers.get("cf-connecting-ip") ||
+    request.headers.get("x-forwarded-for")?.split(",")[0]?.trim() ||
+    "unknown";
+  return sha256Hex(ip);
+}
+
+/** Events in `bucket` inside the rolling window. */
+async function rateCount(db: D1Database, bucket: string): Promise<number> {
+  const since = nowS() - INST_RATE_LIMITS.windowS;
+  const count = await db
+    .prepare("SELECT COUNT(*) AS c FROM inst_rate_events WHERE bucket = ? AND created_at > ?")
+    .bind(bucket, since)
+    .first("c");
+  return Number(count) || 0;
+}
+
+/**
+ * Records one event in `bucket` unless it already holds `limit` events in the
+ * window; returns false when over the limit. Count and insert are one statement
+ * so concurrent requests cannot overshoot. Old events of the bucket are pruned.
+ */
+async function rateHit(db: D1Database, bucket: string, limit: number): Promise<boolean> {
+  const now = nowS();
+  const since = now - INST_RATE_LIMITS.windowS;
+  const [, insert] = await db.batch([
+    db.prepare("DELETE FROM inst_rate_events WHERE bucket = ? AND created_at <= ?").bind(bucket, since),
+    db
+      .prepare(
+        `INSERT INTO inst_rate_events (bucket, created_at)
+         SELECT ?, ? WHERE (SELECT COUNT(*) FROM inst_rate_events WHERE bucket = ? AND created_at > ?) < ?`
+      )
+      .bind(bucket, now, bucket, since, limit),
+  ]);
+  return changesOf(insert) === 1;
+}
+
+function rateLimited(request: Request): Response {
+  return fail(request, 429, "RATE_LIMITED", "Too many requests. Try again later.");
 }
 
 function utcDayStart(seconds: number): number {
@@ -449,6 +501,8 @@ async function authRequest(request: Request, env: InstEnv, db: D1Database): Prom
   const devLogin = env.INST_DEV_LOGIN === "1";
   const sender = createEmailSender(env);
   if (!sender && !devLogin) return fail(request, 503, "EMAIL_UNAVAILABLE");
+  const ipHash = await clientIpHash(request);
+  if (!(await rateHit(db, `auth:ip:${ipHash}`, INST_RATE_LIMITS.authRequestsPerIp))) return rateLimited(request);
 
   const now = nowS();
   const token = newToken();
@@ -851,6 +905,11 @@ async function studentJoin(request: Request, db: D1Database): Promise<Response> 
   }
   const anonymousId = body.anonymousId;
 
+  const ipHash = await clientIpHash(request);
+  const missBucket = `join-miss:ip:${ipHash}`;
+  if ((await rateCount(db, missBucket)) >= INST_RATE_LIMITS.joinMissesPerIp) return rateLimited(request);
+  if (!(await rateHit(db, `join:ip:${ipHash}`, INST_RATE_LIMITS.joinsPerIp))) return rateLimited(request);
+
   const group = await db
     .prepare(
       `SELECT g.id, g.name, g.grade, g.institution_id, i.name AS inst_name, i.country AS inst_country, i.plan AS inst_plan
@@ -859,7 +918,11 @@ async function studentJoin(request: Request, db: D1Database): Promise<Response> 
     )
     .bind(joinCode)
     .first<Row>();
-  if (!group) return fail(request, 404, "JOIN_CODE_NOT_FOUND");
+  if (!group) {
+    await rateHit(db, missBucket, INST_RATE_LIMITS.joinMissesPerIp);
+    return fail(request, 404, "JOIN_CODE_NOT_FOUND");
+  }
+  if (!(await rateHit(db, `join:code:${joinCode}`, INST_RATE_LIMITS.joinsPerCode))) return rateLimited(request);
 
   const findStudent = () =>
     db.prepare("SELECT * FROM students WHERE group_id = ? AND anonymous_id = ?").bind(group.id, anonymousId).first<Row>();

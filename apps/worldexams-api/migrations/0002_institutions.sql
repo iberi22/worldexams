@@ -94,6 +94,13 @@ CREATE TABLE IF NOT EXISTS results (
   FOREIGN KEY (assignment_id) REFERENCES assignments (id)
 );
 
+-- Abuse counters for /auth/request and /join (one row per attempt, pruned per
+-- bucket on write). `bucket` is e.g. `join:ip:<sha256(ip)>`, never a raw IP.
+CREATE TABLE IF NOT EXISTS inst_rate_events (
+  bucket TEXT NOT NULL,
+  created_at INTEGER NOT NULL
+);
+
 -- Foreign keys (UNIQUE columns already carry their own index:
 -- teachers.email, groups.join_code, students(group_id, anonymous_id)).
 CREATE INDEX IF NOT EXISTS idx_teachers_institution ON teachers (institution_id);
@@ -108,4 +115,5 @@ CREATE INDEX IF NOT EXISTS idx_results_assignment ON results (assignment_id);
 CREATE INDEX IF NOT EXISTS idx_results_group_created ON results (group_id, created_at);
 CREATE INDEX IF NOT EXISTS idx_results_student_created ON results (student_id, created_at);
 CREATE INDEX IF NOT EXISTS idx_inst_login_tokens_email_expires ON inst_login_tokens (email, expires_at);
+CREATE INDEX IF NOT EXISTS idx_inst_rate_events_bucket_created ON inst_rate_events (bucket, created_at);
 CREATE INDEX IF NOT EXISTS idx_inst_sessions_subject ON inst_sessions (subject_type, subject_id);
