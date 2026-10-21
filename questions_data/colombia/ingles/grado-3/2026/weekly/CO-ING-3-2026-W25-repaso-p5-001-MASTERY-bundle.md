@@ -18,190 +18,193 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-# MASTERY Bundle - Ingles: Repaso P5 (W25)
-**8 preguntas | Ingles | DBA MEN Colombia**
 
----
+# Bundle MASTERY: Repaso Periodo 5 (comida, gustos, juguetes y ropa) - Grado 3
+
+Repaso de las semanas 21 a 24: comidas y bebidas, gustos (like / don't like), juguetes y ropa.
+
 ## Question 1 [D3-D4]
 **ID:** CO-ING-3-2026-W25-repaso-p5-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Expected_Success:** 0.85
+**Contexto:** En el desayuno de muchas familias de Bogotá hay arepa con un alimento blanco encima.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+It is a white food made from milk. Many people in Colombia eat it on arepas. What is it?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'accommodation' is the word for a place where you live or stay on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system of moving people or goods between places, not the place you sleep in itself. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live. -->
-- [ ] C) currency
-  <!-- feedback: 'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in. -->
+- [ ] A) chicken
+  <!-- feedback: Incorrect. Chicken is meat from a bird; it is not made from milk. -->
+- [ ] B) soup
+  <!-- feedback: Incorrect. Soup is a hot liquid food in a bowl; it is not made from milk to put on arepas. -->
+- [ ] C) lemonade
+  <!-- feedback: Incorrect. Lemonade is a drink made with lemons, not a food made from milk. -->
+- [x] D) cheese
+  <!-- feedback: Correct. Cheese is a white food made from milk, and we eat it on arepas. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
+El queso se dice "cheese". Se hace con leche ("made from milk") y en Colombia lo comemos sobre la arepa. El pollo ("chicken") es carne, la sopa ("soup") es líquida y la limonada ("lemonade") es una bebida.
+
 ## Question 2 [D3-D4]
 **ID:** CO-ING-3-2026-W25-repaso-p5-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Lexico
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** En las tardes frías de Tunja, la abuela prepara una bebida caliente con pastillas de chocolate.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+It is a brown drink. You drink it hot, and it is made with chocolate. What is it?
 
 ### Opciones
-- [x] D) itinerary
-  <!-- feedback: Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' names only the place you are going to, without the route or the order of the whole journey. -->
-- [ ] C) passport
-  <!-- feedback: 'passport' is the official document that lets you cross a border, not the plan of where you go. -->
+- [x] A) hot chocolate
+  <!-- feedback: Correct. Hot chocolate is a brown, hot drink made with chocolate. -->
+- [ ] B) lemonade
+  <!-- feedback: Incorrect. Lemonade is a cold drink made with lemons, not with chocolate. -->
+- [ ] C) soup
+  <!-- feedback: Incorrect. Soup is food we eat with a spoon, and it is not made with chocolate. -->
+- [ ] D) ice cream
+  <!-- feedback: Incorrect. Ice cream is cold and frozen, so it is not a hot drink. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
+La bebida es café ("brown"), se toma caliente ("hot") y se hace con chocolate: "hot chocolate". El helado ("ice cream") es frío y la limonada se hace con limones, así que no cumplen las pistas.
+
 ## Question 3 [D5-D6]
 **ID:** CO-ING-3-2026-W25-repaso-p5-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.72
+**Contexto:** Sara vive en Tumaco, cerca del mar, y su comida preferida es el pescado frito.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Complete the sentence: "Sara ___ fish. It is her favorite food."
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: Correct! 'destination' is the place someone is going to or something is being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the act of reaching a place, not the place that is reached. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from the start to the end, not the place the trip finishes at. -->
+- [ ] A) like
+  <!-- feedback: Incorrect. "Like" without -s goes with I, you, we and they, not with Sara (she). -->
+- [x] B) likes
+  <!-- feedback: Correct. With "Sara" (she) the verb takes -s: "Sara likes fish". -->
+- [ ] C) don't like
+  <!-- feedback: Incorrect. Fish is her favorite food, so a negative is wrong; also "she" uses "doesn't", not "don't". -->
+- [ ] D) liking
+  <!-- feedback: Incorrect. "Liking" is not the present simple form; the sentence needs "likes". -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
+Con una persona en tercera persona (Sara = "she") el verbo lleva -s: "likes". Además, el texto dice que es su comida favorita, entonces le gusta. "Don't like" sería lo contrario y además no va con "she".
+
 ## Question 4 [D5-D6]
 **ID:** CO-ING-3-2026-W25-repaso-p5-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.68
+**Contexto:** En una excursión al Parque del Café, un amigo le pregunta a Tomas por las arañas.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Read the dialogue.
+Friend: "Do you like spiders?"
+Tomas: "No, ___"
 
 ### Opciones
-- [x] D) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel. -->
-- [ ] A) ticket
-  <!-- feedback: 'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in. -->
-- [ ] B) flight
-  <!-- feedback: 'flight' is the journey by plane itself, not the containers that hold your things. -->
-- [ ] C) reservation
-  <!-- feedback: 'reservation' is the booking you make for a seat or a room, not the bag you carry. -->
+- [ ] A) I do.
+  <!-- feedback: Incorrect. "I do" is the positive answer, so it does not go after "No". -->
+- [ ] B) I am not.
+  <!-- feedback: Incorrect. "I am not" answers "Are you...?" questions, not "Do you...?" questions. -->
+- [ ] C) I doesn't.
+  <!-- feedback: Incorrect. "Doesn't" goes with he, she or it; with "I" we say "don't". -->
+- [x] D) I don't.
+  <!-- feedback: Correct. A "Do you...?" question gets the short negative answer "No, I don't." -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
+La pregunta "Do you like...?" se responde con "Yes, I do." o "No, I don't.". Como Tomas dice "No", la forma correcta es "I don't". "I doesn't" está mal porque "doesn't" va con he/she.
+
 ## Question 5 [D7-D8]
 **ID:** CO-ING-3-2026-W25-repaso-p5-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Expected_Success:** 0.60
+**Contexto:** En la biblioteca de un colegio de Armenia hay un juguete en una caja con muchas fichas.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Read: "This toy has many small pieces. You put the pieces together to make a picture." What is it?
 
 ### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew. -->
-- [ ] B) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all. -->
-- [ ] C) commuter
-  <!-- feedback: 'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle. -->
-- [ ] D) tourist
-  <!-- feedback: 'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle. -->
+- [x] A) a puzzle
+  <!-- feedback: Correct. A puzzle has small pieces that you put together to make a picture. -->
+- [ ] B) a kite
+  <!-- feedback: Incorrect. A kite is one toy that flies in the sky; it has no pieces to join. -->
+- [ ] C) a ball
+  <!-- feedback: Incorrect. A ball is one round toy to kick or throw, not small pieces. -->
+- [ ] D) a teddy bear
+  <!-- feedback: Incorrect. A teddy bear is a soft toy animal; you do not put pieces together. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
+El rompecabezas se dice "puzzle". Tiene muchas fichas pequeñas ("small pieces") que se unen ("put together") para formar una imagen ("picture"). Los otros juguetes son de una sola pieza.
+
 ## Question 6 [D7-D8]
 **ID:** CO-ING-3-2026-W25-repaso-p5-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.56
+**Contexto:** Tomas y su hermana muestran sus juguetes en la clase de inglés en Popayán.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Read: "Tomas has a toy car. It is blue and small. His sister has a big pink teddy bear." What color is the teddy bear?
 
 ### Opciones
-- [x] D) customs
-  <!-- feedback: Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive. -->
-- [ ] A) security
-  <!-- feedback: 'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in. -->
-- [ ] B) terminal
-  <!-- feedback: 'terminal' is the building where you wait for your plane, not the place where your belongings are inspected. -->
-- [ ] C) gate
-  <!-- feedback: 'gate' is the door at the plane you walk through to board, not the place where officials check your things. -->
+- [ ] A) blue
+  <!-- feedback: Incorrect. Blue is the color of the toy car, not of the teddy bear. -->
+- [ ] B) red
+  <!-- feedback: Incorrect. The text does not say red; the teddy bear is pink. -->
+- [x] C) pink
+  <!-- feedback: Correct. The text says the sister has a big pink teddy bear. -->
+- [ ] D) green
+  <!-- feedback: Incorrect. Green is not in the text; the teddy bear is pink. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
+En el texto hay dos juguetes con colores distintos. El carro de Tomas es azul ("blue") y pequeño; el oso de peluche de su hermana es grande y rosado ("pink"). Hay que fijarse a qué juguete se refiere cada color.
+
 ## Question 7 [D9-D10]
 **ID:** CO-ING-3-2026-W25-repaso-p5-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.50
+**Contexto:** Hoy llueve mucho y hace frío en Bogotá, y Camila se está vistiendo para ir al colegio.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+It is cold and rainy in Bogota today. Which clothes are best for going to school?
 
 ### Opciones
-- [x] C) boarding pass
-  <!-- feedback: Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: 'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline. -->
-- [ ] B) receipt
-  <!-- feedback: 'receipt' is the proof that you paid for something, which is not permission to board a plane. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a leaflet with tourist information, not a travel document issued to a passenger. -->
+- [ ] A) a swimsuit and sandals
+  <!-- feedback: Incorrect. A swimsuit and sandals are for the beach or the pool, not for cold rain. -->
+- [x] B) a raincoat and boots
+  <!-- feedback: Correct. A raincoat and boots keep you dry and warm on a cold, rainy day. -->
+- [ ] C) shorts and a cap
+  <!-- feedback: Incorrect. Shorts leave your legs cold and wet, so they are for hot days. -->
+- [ ] D) a T-shirt and flip-flops
+  <!-- feedback: Incorrect. A T-shirt and flip-flops are for hot weather; your feet get wet in the rain. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
+Para elegir la ropa hay que mirar el clima: frío ("cold") y lluvioso ("rainy"). Un impermeable ("raincoat") y botas ("boots") protegen de la lluvia. El vestido de baño y las chanclas son para clima caliente.
+
 ## Question 8 [D9-D10]
 **ID:** CO-ING-3-2026-W25-repaso-p5-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.45
+**Contexto:** Valentina describe su uniforme del colegio en Cúcuta.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Read: "Valentina wears a white blouse, a blue skirt and black shoes to school." Which sentence is correct?
 
 ### Opciones
-- [x] D) sightseeing
-  <!-- feedback: Correct! 'sightseeing' means visiting the places of interest of a location as a traveler. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place. -->
-- [ ] B) hiking
-  <!-- feedback: 'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city. -->
-- [ ] C) camping
-  <!-- feedback: 'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place. -->
+- [ ] A) Her shoes are white.
+  <!-- feedback: Incorrect. Her shoes are black; white is the color of her blouse. -->
+- [ ] B) Her blouse is black.
+  <!-- feedback: Incorrect. Her blouse is white; black is the color of her shoes. -->
+- [x] C) Her skirt is blue.
+  <!-- feedback: Correct. The text says Valentina wears a blue skirt. -->
+- [ ] D) Her skirt is white.
+  <!-- feedback: Incorrect. Her skirt is blue; white goes with the blouse. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Cada prenda tiene su color: la blusa ("blouse") es blanca, la falda ("skirt") es azul y los zapatos ("shoes") son negros. Las opciones falsas mezclan los colores de las prendas; solo "Her skirt is blue" coincide.

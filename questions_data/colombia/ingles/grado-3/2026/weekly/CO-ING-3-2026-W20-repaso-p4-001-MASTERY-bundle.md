@@ -18,190 +18,195 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-# MASTERY Bundle - Ingles: Repaso P4 (W20)
-**8 preguntas | Ingles | DBA MEN Colombia**
 
----
+# Bundle MASTERY: Repaso Periodo 4 (animales, frutas y verduras, rutinas) - Grado 3
+
+Repaso de las semanas 16 a 19: mascotas y animales de granja, animales salvajes, frutas y verduras y rutinas diarias.
+
 ## Question 1 [D3-D4]
 **ID:** CO-ING-3-2026-W20-repaso-p4-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Expected_Success:** 0.85
+**Contexto:** En una finca de Boyacá, la familia de Andrés ordeña una vaca cada mañana para tener leche.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+This animal lives on a farm. It gives us milk and it says "moo". What is it?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'accommodation' is the word for a place where you live or stay on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system of moving people or goods between places, not the place you sleep in itself. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live. -->
-- [ ] C) currency
-  <!-- feedback: 'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in. -->
+- [ ] A) a dog
+  <!-- feedback: Incorrect. A dog is a pet that says "woof"; people do not get milk from a dog. -->
+- [x] B) a cow
+  <!-- feedback: Correct. A cow is the farm animal that gives milk and says "moo". -->
+- [ ] C) a hen
+  <!-- feedback: Incorrect. A hen is a farm bird that lays eggs and says "cluck", so it does not give milk. -->
+- [ ] D) a horse
+  <!-- feedback: Incorrect. A horse is a farm animal that people ride; it says "neigh", not "moo". -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
+Repasamos los animales de granja. La "cow" (vaca) vive en la finca, nos da leche ("milk") y hace "moo". La gallina ("hen") da huevos y el caballo ("horse") sirve para montar.
+
 ## Question 2 [D3-D4]
 **ID:** CO-ING-3-2026-W20-repaso-p4-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Lexico
+**ICFES:** Uso de la lengua
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Mariana vive en un apartamento en Pereira y tiene una mascota que duerme en el sofá.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Read the dialogue.
+Teacher: "Do you have a pet, Mariana?"
+Mariana: "Yes, I have a ___. It says 'meow'."
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' names only the place you are going to, without the route or the order of the whole journey. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official document that lets you cross a border, not the plan of where you go. -->
+- [ ] A) duck
+  <!-- feedback: Incorrect. A duck is a farm bird and its sound is "quack", not "meow". -->
+- [ ] B) pig
+  <!-- feedback: Incorrect. A pig lives on a farm and says "oink", so it does not match "meow". -->
+- [x] C) cat
+  <!-- feedback: Correct. A cat is a pet and the sound a cat makes is "meow". -->
+- [ ] D) rabbit
+  <!-- feedback: Incorrect. A rabbit can be a pet, but it hops and eats carrots; it does not say "meow". -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
+Para completar el diálogo hay que relacionar el sonido con el animal. El sonido "meow" es del gato, "cat". El pato ("duck") hace "quack" y el cerdo ("pig") hace "oink".
+
 ## Question 3 [D5-D6]
 **ID:** CO-ING-3-2026-W20-repaso-p4-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Expected_Success:** 0.72
+**Contexto:** En la selva del Amazonas, cerca de Leticia, vive un gran felino que caza de noche.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+This big wild cat lives in the Amazon jungle. It is yellow with black spots and it is a very fast hunter. What is it?
 
 ### Opciones
-- [x] A) destination
-  <!-- feedback: Correct! 'destination' is the place someone is going to or something is being sent to. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the act of reaching a place, not the place that is reached. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from the start to the end, not the place the trip finishes at. -->
+- [ ] A) a zebra
+  <!-- feedback: Incorrect. A zebra has black and white stripes, not spots, and it eats grass in Africa. -->
+- [ ] B) a sheep
+  <!-- feedback: Incorrect. A sheep is a farm animal with white wool; it is not a wild hunter. -->
+- [ ] C) a parrot
+  <!-- feedback: Incorrect. A parrot is a colorful bird with wings; it is not a big cat with spots. -->
+- [x] D) a jaguar
+  <!-- feedback: Correct. The jaguar is the big wild cat of the Amazon, yellow with black spots. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
+El "jaguar" es un animal salvaje ("wild animal") que vive en la selva colombiana. Es amarillo con manchas negras ("black spots"). La cebra tiene rayas ("stripes") y la oveja vive en la granja.
+
 ## Question 4 [D5-D6]
 **ID:** CO-ING-3-2026-W20-repaso-p4-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.68
+**Contexto:** En una clase en Villavicencio, los niños miran fotos de una serpiente del Llano.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Complete the sentence: "A snake is a long animal. It has no ___."
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel. -->
-- [ ] B) ticket
-  <!-- feedback: 'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in. -->
-- [ ] C) flight
-  <!-- feedback: 'flight' is the journey by plane itself, not the containers that hold your things. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you make for a seat or a room, not the bag you carry. -->
+- [ ] A) eyes
+  <!-- feedback: Incorrect. A snake has two eyes to see, so "no eyes" is false. -->
+- [ ] B) mouth
+  <!-- feedback: Incorrect. A snake has a mouth to eat, so "no mouth" is false. -->
+- [x] C) legs
+  <!-- feedback: Correct. A snake has no legs; it moves on its belly. -->
+- [ ] D) skin
+  <!-- feedback: Incorrect. A snake has skin with scales, so "no skin" is false. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
+La serpiente ("snake") no tiene patas: "It has no legs". Sí tiene ojos ("eyes"), boca ("mouth") y piel con escamas ("skin"). Por eso la única palabra que completa bien la oración es "legs".
+
 ## Question 5 [D7-D8]
 **ID:** CO-ING-3-2026-W20-repaso-p4-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.60
+**Contexto:** Sofia hace mercado con su mamá en la galería Alameda de Cali.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Read: "Sofia buys a fruit at the market. It is yellow and sweet. It has green leaves on top, like a crown." What does Sofia buy?
 
 ### Opciones
-- [x] C) passenger
-  <!-- feedback: Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all. -->
-- [ ] B) commuter
-  <!-- feedback: 'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle. -->
-- [ ] D) tourist
-  <!-- feedback: 'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle. -->
+- [ ] A) a lemon
+  <!-- feedback: Incorrect. A lemon is small and sour, and it has no crown of leaves on top. -->
+- [x] B) a pineapple
+  <!-- feedback: Correct. A pineapple is yellow, sweet and has green leaves on top like a crown. -->
+- [ ] C) a watermelon
+  <!-- feedback: Incorrect. A watermelon is green outside and red inside, and it has no crown. -->
+- [ ] D) a grape
+  <!-- feedback: Incorrect. A grape is very small and grows in groups; it has no leaves like a crown. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
+Hay que usar todas las pistas: amarilla, dulce ("sweet") y con hojas verdes arriba como una corona ("crown"). Esa fruta es la piña, "pineapple". El limón ("lemon") es ácido y la sandía ("watermelon") es roja por dentro.
+
 ## Question 6 [D7-D8]
 **ID:** CO-ING-3-2026-W20-repaso-p4-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.56
+**Contexto:** Leo prepara una ensalada para el almuerzo en su casa de Tunja.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Read: "Leo makes a salad with lettuce, onion and one more vegetable. It is long and orange. Rabbits love it." What is the vegetable?
 
 ### Opciones
-- [x] D) customs
-  <!-- feedback: Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive. -->
-- [ ] A) security
-  <!-- feedback: 'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in. -->
-- [ ] B) terminal
-  <!-- feedback: 'terminal' is the building where you wait for your plane, not the place where your belongings are inspected. -->
-- [ ] C) gate
-  <!-- feedback: 'gate' is the door at the plane you walk through to board, not the place where officials check your things. -->
+- [ ] A) a potato
+  <!-- feedback: Incorrect. A potato is a brown, round vegetable, not long and orange. -->
+- [ ] B) a cucumber
+  <!-- feedback: Incorrect. A cucumber is long, but it is green, not orange. -->
+- [ ] C) a strawberry
+  <!-- feedback: Incorrect. A strawberry is a small red fruit, not a long orange vegetable. -->
+- [x] D) a carrot
+  <!-- feedback: Correct. A carrot is a long orange vegetable and rabbits love to eat it. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
+La verdura es larga ("long") y naranja ("orange"), y a los conejos les encanta: es la zanahoria, "carrot". El pepino ("cucumber") también es largo pero es verde, y la fresa ("strawberry") es una fruta.
+
 ## Question 7 [D9-D10]
 **ID:** CO-ING-3-2026-W20-repaso-p4-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.50
+**Contexto:** Juan estudia en un colegio de Manizales y cuenta su rutina de la mañana.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Read: "Juan gets up at six. He takes a shower and gets dressed. Then he has breakfast and goes to school." What does Juan do BEFORE he has breakfast?
 
 ### Opciones
-- [x] A) boarding pass
-  <!-- feedback: Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane. -->
-- [ ] B) visa
-  <!-- feedback: 'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline. -->
-- [ ] C) receipt
-  <!-- feedback: 'receipt' is the proof that you paid for something, which is not permission to board a plane. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a leaflet with tourist information, not a travel document issued to a passenger. -->
+- [x] A) He gets dressed.
+  <!-- feedback: Correct. The text says he gets dressed and then he has breakfast, so dressing comes first. -->
+- [ ] B) He goes to school.
+  <!-- feedback: Incorrect. He goes to school after breakfast, as the word "then" in the text shows. -->
+- [ ] C) He goes to bed.
+  <!-- feedback: Incorrect. The text describes the morning; going to bed happens at night and is not mentioned. -->
+- [ ] D) He does his homework.
+  <!-- feedback: Incorrect. Homework is not part of the text, so we cannot say he does it before breakfast. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
+La palabra "before" significa "antes de". En el texto, Juan se levanta, se baña y se viste ("gets dressed") y luego ("then") desayuna. Ir al colegio ocurre después del desayuno, no antes.
+
 ## Question 8 [D9-D10]
 **ID:** CO-ING-3-2026-W20-repaso-p4-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.45
+**Contexto:** Son las ocho de la noche en la casa de Ana en Neiva y su mamá le pregunta qué hace.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Read the dialogue.
+Mom: "It is eight o'clock at night. What do you do now?"
+Ana: "___"
 
 ### Opciones
-- [x] D) sightseeing
-  <!-- feedback: Correct! 'sightseeing' means visiting the places of interest of a location as a traveler. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place. -->
-- [ ] B) hiking
-  <!-- feedback: 'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city. -->
-- [ ] C) camping
-  <!-- feedback: 'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place. -->
+- [x] A) I brush my teeth and go to bed.
+  <!-- feedback: Correct. At night, before sleeping, people brush their teeth and go to bed. -->
+- [ ] B) I wake up and eat breakfast.
+  <!-- feedback: Incorrect. We wake up and eat breakfast in the morning, not at eight at night. -->
+- [ ] C) I go to school by bus.
+  <!-- feedback: Incorrect. Children go to school in the morning, so this does not fit eight at night. -->
+- [ ] D) I have lunch at school.
+  <!-- feedback: Incorrect. Lunch is at midday, around twelve, not at eight o'clock at night. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+La pista es "at night" (de noche). La respuesta debe ser una actividad nocturna: "brush my teeth" (cepillarse los dientes) y "go to bed" (irse a dormir). Desayunar o ir al colegio son actividades de la mañana.

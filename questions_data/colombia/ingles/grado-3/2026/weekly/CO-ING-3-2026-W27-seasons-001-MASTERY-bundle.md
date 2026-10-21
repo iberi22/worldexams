@@ -18,190 +18,193 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-# MASTERY Bundle - Ingles: Seasons (W27)
-**8 preguntas | Ingles | DBA MEN Colombia**
 
----
+# Bundle MASTERY: Seasons (Estaciones del ano) - Grado 3
+
+Las cuatro estaciones (spring, summer, autumn/fall, winter), su clima y su ropa, comparadas con la temporada de lluvias y la temporada seca de Colombia.
+
 ## Question 1 [D3-D4]
 **ID:** CO-ING-3-2026-W27-seasons-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Expected_Success:** 0.85
+**Contexto:** Los niños de Bogotá ven en televisión países del norte donde en una estación cae nieve.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+In this season it is very cold, and in some countries it snows. What season is it?
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: Correct! 'accommodation' is the word for a place where you live or stay on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system of moving people or goods between places, not the place you sleep in itself. -->
-- [ ] C) entertainment
-  <!-- feedback: 'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in. -->
+- [x] A) winter
+  <!-- feedback: Correct. Winter is the coldest season, and in some countries it snows. -->
+- [ ] B) summer
+  <!-- feedback: Incorrect. Summer is the hottest season, so it does not snow. -->
+- [ ] C) spring
+  <!-- feedback: Incorrect. In spring the weather gets warmer and flowers grow. -->
+- [ ] D) autumn
+  <!-- feedback: Incorrect. In autumn the leaves fall; it gets cool, but the coldest season is winter. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
+En los países con cuatro estaciones, el invierno ("winter") es la estación más fría y a veces nieva ("it snows"). El verano ("summer") es caliente y en la primavera ("spring") crecen las flores.
+
 ## Question 2 [D3-D4]
 **ID:** CO-ING-3-2026-W27-seasons-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Lexico
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** En la clase de inglés en Medellín, la profesora muestra una foto de árboles con hojas rojas y cafés.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+In this season the leaves turn red, orange and brown and fall from the trees. In the United States people call it "fall". What is its other name?
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' names only the place you are going to, without the route or the order of the whole journey. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official document that lets you cross a border, not the plan of where you go. -->
+- [ ] A) winter
+  <!-- feedback: Incorrect. Winter comes after the leaves fall, and it is the cold season with snow. -->
+- [ ] B) spring
+  <!-- feedback: Incorrect. In spring new green leaves and flowers grow; leaves do not fall. -->
+- [x] C) autumn
+  <!-- feedback: Correct. Autumn is the season when the leaves fall; in the United States it is called "fall". -->
+- [ ] D) summer
+  <!-- feedback: Incorrect. In summer the trees are green and it is hot. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
+El otoño se dice "autumn" (inglés británico) o "fall" (inglés de Estados Unidos). "Fall" también significa caer, porque en esa estación las hojas caen de los árboles.
+
 ## Question 3 [D5-D6]
 **ID:** CO-ING-3-2026-W27-seasons-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.72
+**Contexto:** La familia de Juliana vive en España y en verano viaja a la playa de Valencia.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Complete the sentence: "In summer it is ___. We go to the beach and swim."
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: Correct! 'destination' is the place someone is going to or something is being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the act of reaching a place, not the place that is reached. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from the start to the end, not the place the trip finishes at. -->
+- [ ] A) snowy
+  <!-- feedback: Incorrect. Snow falls in winter, not in summer. -->
+- [ ] B) cold
+  <!-- feedback: Incorrect. Cold weather is typical of winter; summer is hot. -->
+- [x] C) hot
+  <!-- feedback: Correct. Summer is the hot season, so it is a good time to swim at the beach. -->
+- [ ] D) icy
+  <!-- feedback: Incorrect. Icy means covered with ice, and ice belongs to winter, not to summer. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
+En verano ("summer") hace calor: "it is hot". Por eso la gente va a la playa a nadar. Las palabras "snowy", "cold" e "icy" describen el invierno.
+
 ## Question 4 [D5-D6]
 **ID:** CO-ING-3-2026-W27-seasons-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Expected_Success:** 0.68
+**Contexto:** En un libro de inglés del colegio en Pereira hay un dibujo de un jardín con flores nuevas y pájaros.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Flowers grow and birds sing. The weather gets warm after the cold winter. What season is it?
 
 ### Opciones
-- [x] D) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel. -->
-- [ ] A) ticket
-  <!-- feedback: 'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in. -->
-- [ ] B) flight
-  <!-- feedback: 'flight' is the journey by plane itself, not the containers that hold your things. -->
-- [ ] C) reservation
-  <!-- feedback: 'reservation' is the booking you make for a seat or a room, not the bag you carry. -->
+- [ ] A) autumn
+  <!-- feedback: Incorrect. Autumn comes before winter, and in autumn leaves fall. -->
+- [ ] B) winter
+  <!-- feedback: Incorrect. Winter is the cold season; the text says the cold winter is over. -->
+- [ ] C) summer
+  <!-- feedback: Incorrect. Summer comes after spring; the season right after winter is spring. -->
+- [x] D) spring
+  <!-- feedback: Correct. Spring comes after winter: it gets warm and flowers grow. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
+La primavera ("spring") llega después del invierno: el clima se pone tibio ("warm"), crecen las flores y cantan los pájaros. El orden es "spring, summer, autumn, winter".
+
 ## Question 5 [D7-D8]
 **ID:** CO-ING-3-2026-W27-seasons-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.60
+**Contexto:** Colombia está cerca de la línea del Ecuador y por eso no tiene cuatro estaciones.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Read: "Colombia does not have four seasons. We have a rainy season and a dry season. In the rainy season it rains a lot." What do children take to school in the rainy season?
 
 ### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew. -->
-- [ ] B) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all. -->
-- [ ] C) commuter
-  <!-- feedback: 'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle. -->
-- [ ] D) tourist
-  <!-- feedback: 'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle. -->
+- [ ] A) a sled for the snow
+  <!-- feedback: Incorrect. A sled is for snow, and the text talks about rain in Colombia, not snow. -->
+- [ ] B) a swimsuit
+  <!-- feedback: Incorrect. A swimsuit is for the pool or the beach, not for walking to school in the rain. -->
+- [ ] C) gloves for the ice
+  <!-- feedback: Incorrect. The text describes rain, not ice, so gloves for ice are not needed. -->
+- [x] D) an umbrella
+  <!-- feedback: Correct. In the rainy season it rains a lot, so an umbrella keeps children dry. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
+Colombia está en la zona ecuatorial y no tiene las cuatro estaciones. Tiene temporada de lluvias ("rainy season") y temporada seca ("dry season"). Si llueve mucho, se necesita una sombrilla ("umbrella").
+
 ## Question 6 [D7-D8]
 **ID:** CO-ING-3-2026-W27-seasons-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.56
+**Contexto:** Emma, una niña colombiana, se fue a vivir a Canadá y allá llegó el invierno.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Emma lives in Canada. It is winter and it is snowing. Which clothes does she need?
 
 ### Opciones
-- [x] B) customs
-  <!-- feedback: Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive. -->
-- [ ] A) security
-  <!-- feedback: 'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in. -->
-- [ ] C) terminal
-  <!-- feedback: 'terminal' is the building where you wait for your plane, not the place where your belongings are inspected. -->
-- [ ] D) gate
-  <!-- feedback: 'gate' is the door at the plane you walk through to board, not the place where officials check your things. -->
+- [ ] A) shorts and sandals
+  <!-- feedback: Incorrect. Shorts and sandals are summer clothes; Emma's legs and feet will be cold. -->
+- [x] B) a coat, a scarf and gloves
+  <!-- feedback: Correct. A coat, a scarf and gloves keep the body warm in the cold winter. -->
+- [ ] C) a swimsuit and a hat
+  <!-- feedback: Incorrect. A swimsuit is for swimming in hot weather, not for snow. -->
+- [ ] D) a T-shirt and flip-flops
+  <!-- feedback: Incorrect. A T-shirt and flip-flops are for hot days; they do not protect from snow. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
+En el invierno de Canadá hace mucho frío y nieva. Se necesita ropa caliente: abrigo ("coat"), bufanda ("scarf") y guantes ("gloves"). Pantalones cortos o chanclas son ropa de verano.
+
 ## Question 7 [D9-D10]
 **ID:** CO-ING-3-2026-W27-seasons-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.50
+**Contexto:** Lucas viaja desde Cali para visitar a su primo en España durante las vacaciones de mitad de año.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Read: "Lucas visits his cousin in Spain in July. It is hot and sunny. They swim in the sea every day." What season is it in Spain?
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: 'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline. -->
-- [ ] B) receipt
-  <!-- feedback: 'receipt' is the proof that you paid for something, which is not permission to board a plane. -->
-- [ ] C) brochure
-  <!-- feedback: 'brochure' is a leaflet with tourist information, not a travel document issued to a passenger. -->
+- [ ] A) winter
+  <!-- feedback: Incorrect. Winter in Spain is cold, and the text says it is hot and sunny. -->
+- [x] B) summer
+  <!-- feedback: Correct. July in Spain is hot and sunny, and people swim in the sea: it is summer. -->
+- [ ] C) autumn
+  <!-- feedback: Incorrect. In autumn it gets cooler and leaves fall; the text describes very hot days. -->
+- [ ] D) spring
+  <!-- feedback: Incorrect. Spring in Spain is warm with flowers, but July with hot sea days is summer. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
+España tiene cuatro estaciones. En julio es verano ("summer"): hace calor ("hot"), hay sol ("sunny") y la gente nada en el mar. Las pistas del texto confirman que no es invierno ni otoño.
+
 ## Question 8 [D9-D10]
 **ID:** CO-ING-3-2026-W27-seasons-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.45
+**Contexto:** Carla y Diego conversan en el recreo de un colegio de Manizales sobre la estación que más les gusta.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Read the dialogue.
+Carla: "What is your favorite season?"
+Diego: "___"
 
 ### Opciones
-- [x] D) sightseeing
-  <!-- feedback: Correct! 'sightseeing' means visiting the places of interest of a location as a traveler. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place. -->
-- [ ] B) hiking
-  <!-- feedback: 'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city. -->
-- [ ] C) camping
-  <!-- feedback: 'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place. -->
+- [x] A) I like winter because I can play in the snow.
+  <!-- feedback: Correct. It names a season and gives a true reason: there is snow in winter. -->
+- [ ] B) I like summer because it is very cold.
+  <!-- feedback: Incorrect. Summer is hot, so "very cold" is a wrong reason. -->
+- [ ] C) I like spring because the leaves fall.
+  <!-- feedback: Incorrect. Leaves fall in autumn; in spring new leaves and flowers grow. -->
+- [ ] D) Yes, I do.
+  <!-- feedback: Incorrect. "Yes, I do" answers a yes/no question, but Carla asks "What...?" and wants a season. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+La pregunta "What is your favorite season?" pide el nombre de una estación. La mejor respuesta nombra una estación y da una razón verdadera: en invierno hay nieve. Las otras tienen datos falsos o no responden a "What".

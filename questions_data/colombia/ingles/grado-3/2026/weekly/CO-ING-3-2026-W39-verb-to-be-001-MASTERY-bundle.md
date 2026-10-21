@@ -18,190 +18,194 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-# MASTERY Bundle - Ingles: Verb To Be (W39)
-**8 preguntas | Ingles | DBA MEN Colombia**
 
----
+# Bundle MASTERY: Verbo to be - Grado 3
+
+Este bundle practica el verbo to be en inglés: am, is, are, sus negaciones y las preguntas con Is y Are.
+
 ## Question 1 [D3-D4]
 **ID:** CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.85
+**Contexto:** Simón estudia tercer grado en un colegio de Pereira y se presenta en clase de inglés.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Complete: "I ____ a student."
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: Correct! 'accommodation' is the word for a place where you live or stay on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system of moving people or goods between places, not the place you sleep in itself. -->
-- [ ] C) entertainment
-  <!-- feedback: 'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in. -->
+- [ ] A) is
+  <!-- feedback: Incorrect. Is goes with he, she and it; with I we use am. -->
+- [ ] B) are
+  <!-- feedback: Incorrect. Are goes with you, we and they; with I we use am. -->
+- [ ] C) be
+  <!-- feedback: Incorrect. Be is the base form of the verb; in a sentence with I it changes to am. -->
+- [x] D) am
+  <!-- feedback: Correct. With I the verb to be is always am: I am a student. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
+El pronombre "I" (yo) siempre va con "am": "I am a student" (yo soy estudiante). "Is" es para he, she, it y "are" para you, we, they.
+
 ## Question 2 [D3-D4]
 **ID:** CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**ICFES:** Lexico
+**ICFES:** Uso de la lengua
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Gabriela presenta a sus dos mejores amigas del barrio en Barranquilla.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Complete: "Lucia and Marta ____ my friends."
 
 ### Opciones
-- [x] D) itinerary
-  <!-- feedback: Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' names only the place you are going to, without the route or the order of the whole journey. -->
-- [ ] C) passport
-  <!-- feedback: 'passport' is the official document that lets you cross a border, not the plan of where you go. -->
+- [ ] A) is
+  <!-- feedback: Incorrect. Is is for one person; Lucia and Marta are two people, like they. -->
+- [x] B) are
+  <!-- feedback: Correct. Lucia and Marta are two people (they), and they goes with are. -->
+- [ ] C) am
+  <!-- feedback: Incorrect. Am is only for I, and here the subject is Lucia and Marta. -->
+- [ ] D) be
+  <!-- feedback: Incorrect. Be is the base form; with two people we must use are. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
+Lucia y Marta son dos personas, es decir "they" (ellas). Con "they" usamos "are": "Lucia and Marta are my friends".
+
 ## Question 3 [D5-D6]
 **ID:** CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.72
+**Contexto:** La familia Pérez tiene un perro café en su finca cerca de Fusagasugá.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Which sentence about the dog is correct?
 
 ### Opciones
-- [x] A) destination
-  <!-- feedback: Correct! 'destination' is the place someone is going to or something is being sent to. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the act of reaching a place, not the place that is reached. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from the start to the end, not the place the trip finishes at. -->
+- [x] A) It is brown.
+  <!-- feedback: Correct. A dog is it, and it goes with is. -->
+- [ ] B) It are brown.
+  <!-- feedback: Incorrect. Are is for you, we and they, not for it. -->
+- [ ] C) It am brown.
+  <!-- feedback: Incorrect. Am is only for I; with it we use is. -->
+- [ ] D) It be brown.
+  <!-- feedback: Incorrect. Be is the base form and does not change for it; the correct form is is. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
+Para animales y cosas usamos "it", y con "it" va "is": "It is brown" (es café). "Am" es solo para I y "are" para you, we y they.
+
 ## Question 4 [D5-D6]
 **ID:** CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.68
+**Contexto:** Es domingo en Medellín y los niños no van al colegio.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+It is Sunday. Complete: "We ____ at school today."
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel. -->
-- [ ] B) ticket
-  <!-- feedback: 'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in. -->
-- [ ] C) flight
-  <!-- feedback: 'flight' is the journey by plane itself, not the containers that hold your things. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you make for a seat or a room, not the bag you carry. -->
+- [ ] A) isn't
+  <!-- feedback: Incorrect. Isn't is the negative for he, she and it; with we we use aren't. -->
+- [x] B) aren't
+  <!-- feedback: Correct. Aren't is are + not, the negative for we: we aren't at school. -->
+- [ ] C) am not
+  <!-- feedback: Incorrect. Am not is the negative only for I, not for we. -->
+- [ ] D) not
+  <!-- feedback: Incorrect. Not alone is not enough; the sentence needs a form of to be like are + not. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
+Para negar con "we" usamos "are not", que se contrae como "aren't". Como es domingo, decimos "We aren't at school today" (hoy no estamos en el colegio).
+
 ## Question 5 [D7-D8]
 **ID:** CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.60
+**Contexto:** En el primer día de clases en Valledupar, un niño quiere saber quién es la profesora.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Which question is correct?
 
 ### Opciones
-- [x] D) passenger
-  <!-- feedback: Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all. -->
-- [ ] B) commuter
-  <!-- feedback: 'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle. -->
-- [ ] C) tourist
-  <!-- feedback: 'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle. -->
+- [ ] A) Are she your teacher?
+  <!-- feedback: Incorrect. Are goes with you, we and they; she needs is. -->
+- [ ] B) She your teacher is?
+  <!-- feedback: Incorrect. The word order is wrong: questions with to be start with the verb. -->
+- [x] C) Is she your teacher?
+  <!-- feedback: Correct. Questions with to be put the verb first: Is she...? -->
+- [ ] D) Am she your teacher?
+  <!-- feedback: Incorrect. Am is only for I, and the subject here is she. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
+Para preguntar con el verbo to be ponemos el verbo al inicio: "Is she your teacher?". Con "she" va "is"; "am" es solo para I y "are" para you, we, they.
+
 ## Question 6 [D7-D8]
 **ID:** CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.56
+**Contexto:** Después de jugar en el parque en Ibagué, la mamá le pregunta a Felipe cómo se siente.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Mom: "Are you tired?"
+Felipe: "____"
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive. -->
-- [ ] B) security
-  <!-- feedback: 'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in. -->
-- [ ] C) terminal
-  <!-- feedback: 'terminal' is the building where you wait for your plane, not the place where your belongings are inspected. -->
-- [ ] D) gate
-  <!-- feedback: 'gate' is the door at the plane you walk through to board, not the place where officials check your things. -->
+- [ ] A) Yes, you are.
+  <!-- feedback: Incorrect. Felipe talks about himself, so he must say I am, not you are. -->
+- [ ] B) Yes, I is.
+  <!-- feedback: Incorrect. I goes with am, so the short answer is Yes, I am. -->
+- [x] C) No, I'm not.
+  <!-- feedback: Correct. The question is about Felipe, and I'm not is I am + not. -->
+- [ ] D) No, I aren't.
+  <!-- feedback: Incorrect. Aren't is for we, you and they; with I the negative is I'm not. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
+Si te preguntan "Are you...?" respondes sobre ti: "Yes, I am" o "No, I'm not". "I'm not" es la forma corta de "I am not". Nunca decimos "I is" ni "I aren't".
+
 ## Question 7 [D9-D10]
 **ID:** CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.50
+**Contexto:** Pablo vive en Cali y escribe un texto corto sobre su familia para la clase de inglés.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Read Pablo's text: "My name is Pablo. I am from Cali. My sisters is nine years old."
+How do you correct the mistake?
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: 'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline. -->
-- [ ] C) receipt
-  <!-- feedback: 'receipt' is the proof that you paid for something, which is not permission to board a plane. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a leaflet with tourist information, not a travel document issued to a passenger. -->
+- [x] A) My sisters are nine years old.
+  <!-- feedback: Correct. Sisters is plural (they), so the verb must be are, not is. -->
+- [ ] B) I is from Cali.
+  <!-- feedback: Incorrect. "I am from Cali" was already correct; I goes with am, not is. -->
+- [ ] C) My name are Pablo.
+  <!-- feedback: Incorrect. "My name is Pablo" was already correct; name is one thing, so it uses is. -->
+- [ ] D) I are from Cali.
+  <!-- feedback: Incorrect. I goes with am; are is for you, we and they. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
+El error está en "My sisters is": "sisters" es plural (they), así que va "are": "My sisters are nine years old". Las frases "My name is Pablo" e "I am from Cali" ya estaban bien.
+
 ## Question 8 [D9-D10]
 **ID:** CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.45
+**Contexto:** Tom y Lina visitan Bogotá en julio y sienten mucho frío en Monserrate.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Read: "Tom and Lina are in Bogota. It is cold. Lina isn't happy because she is cold."
+Which sentence is true and correct?
 
 ### Opciones
-- [x] C) sightseeing
-  <!-- feedback: Correct! 'sightseeing' means visiting the places of interest of a location as a traveler. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place. -->
-- [ ] B) hiking
-  <!-- feedback: 'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place. -->
+- [ ] A) Tom and Lina is in Bogota.
+  <!-- feedback: Incorrect. Tom and Lina are two people, so the verb must be are, not is. -->
+- [ ] B) It isn't cold.
+  <!-- feedback: Incorrect. The text says "It is cold", so saying it isn't cold is false. -->
+- [ ] C) Lina is happy.
+  <!-- feedback: Incorrect. The text says Lina isn't happy, so this sentence is false. -->
+- [x] D) Lina isn't happy.
+  <!-- feedback: Correct. The text says Lina isn't happy because she is cold. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Hay que revisar dos cosas: si la oración dice lo mismo que el texto y si el verbo está bien. "Lina isn't happy" es verdadera y correcta. "Tom and Lina is" tiene error porque son dos personas.

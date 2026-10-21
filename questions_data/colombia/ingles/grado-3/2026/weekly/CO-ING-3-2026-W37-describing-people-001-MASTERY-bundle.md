@@ -18,190 +18,194 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-# MASTERY Bundle - Ingles: Describing People (W37)
-**8 preguntas | Ingles | DBA MEN Colombia**
 
----
+# Bundle MASTERY: Describir personas - Grado 3
+
+Este bundle practica cómo describir personas en inglés: tall, short, young, old, el cabello y cómo se sienten.
+
 ## Question 1 [D3-D4]
 **ID:** CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Expected_Success:** 0.85
+**Contexto:** La abuela de Martín vive en Santa Rosa de Cabal y cumplió 80 años el mes pasado.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which word is the opposite of "young"?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'accommodation' is the word for a place where you live or stay on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system of moving people or goods between places, not the place you sleep in itself. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live. -->
-- [ ] C) currency
-  <!-- feedback: 'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in. -->
+- [ ] A) tall
+  <!-- feedback: Incorrect. Tall describes height, and its opposite is short, not young. -->
+- [ ] B) happy
+  <!-- feedback: Incorrect. Happy describes a feeling, and its opposite is sad. -->
+- [x] C) old
+  <!-- feedback: Correct. Young means with few years and old means with many years, so they are opposites. -->
+- [ ] D) short
+  <!-- feedback: Incorrect. Short describes height or hair length, not age. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
+"Young" significa joven y su opuesto es "old", viejo o mayor. "Tall" y "short" hablan de la estatura y "happy" de un sentimiento, no de la edad.
+
 ## Question 2 [D3-D4]
 **ID:** CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Lexico
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Mario mide un metro y su papá, que trabaja en Pasto, mide un metro con ochenta.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Mario is 1 meter tall. His dad is 1.80 meters tall. Complete: "Mario is ____ and his dad is tall."
 
 ### Opciones
-- [x] A) itinerary
-  <!-- feedback: Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them. -->
-- [ ] B) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' names only the place you are going to, without the route or the order of the whole journey. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official document that lets you cross a border, not the plan of where you go. -->
+- [ ] A) old
+  <!-- feedback: Incorrect. Old describes age, and the sentence compares how tall they are. -->
+- [ ] B) curly
+  <!-- feedback: Incorrect. Curly describes hair with curls, not the height of a person. -->
+- [x] C) short
+  <!-- feedback: Correct. Mario is 1 meter and his dad is 1.80 meters, so Mario is short. -->
+- [ ] D) long
+  <!-- feedback: Incorrect. Long describes hair or objects, and we do not say a person is long. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
+Mario mide menos que su papá, por eso decimos que Mario es bajo, "short", y su papá es alto, "tall". Para personas no usamos "long": esa palabra es para el cabello o los objetos.
+
 ## Question 3 [D5-D6]
 **ID:** CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.72
+**Contexto:** Juliana vive en Neiva y su cabello le llega hasta la cintura.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Complete: "Juliana ____ long hair."
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! 'destination' is the place someone is going to or something is being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the act of reaching a place, not the place that is reached. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from the start to the end, not the place the trip finishes at. -->
+- [x] A) has
+  <!-- feedback: Correct. We use has with he or she to talk about hair: she has long hair. -->
+- [ ] B) is
+  <!-- feedback: Incorrect. We say she is tall, but for hair we use has, not is. -->
+- [ ] C) have
+  <!-- feedback: Incorrect. Have is for I, you, we and they; with Juliana (she) we use has. -->
+- [ ] D) are
+  <!-- feedback: Incorrect. Are is a form of to be for you, we and they, and hair needs has. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
+Para describir el cabello usamos el verbo tener: "has" con he o she. Decimos "She has long hair" (ella tiene el cabello largo). Para la estatura sí usamos "is": "She is tall".
+
 ## Question 4 [D5-D6]
 **ID:** CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Expected_Success:** 0.68
+**Contexto:** Valeria es una niña de Buenaventura con el cabello lleno de rizos.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Which word describes hair with many curls?
 
 ### Opciones
-- [x] D) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel. -->
-- [ ] A) ticket
-  <!-- feedback: 'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in. -->
-- [ ] B) flight
-  <!-- feedback: 'flight' is the journey by plane itself, not the containers that hold your things. -->
-- [ ] C) reservation
-  <!-- feedback: 'reservation' is the booking you make for a seat or a room, not the bag you carry. -->
+- [ ] A) straight
+  <!-- feedback: Incorrect. Straight hair has no curls; it is the opposite of curly. -->
+- [ ] B) long
+  <!-- feedback: Incorrect. Long tells how much hair there is, not if it has curls. -->
+- [ ] C) short
+  <!-- feedback: Incorrect. Short tells the length of the hair, not if it has curls. -->
+- [x] D) curly
+  <!-- feedback: Correct. Curly hair is hair with many curls. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
+"Curly" significa crespo o rizado, con muchos rizos ("curls"). "Straight" es liso. "Long" y "short" solo dicen si el cabello es largo o corto.
+
 ## Question 5 [D7-D8]
 **ID:** CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.60
+**Contexto:** Daniel es el hermano mayor de Paula y viven juntos en Montería.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Read: "My brother Daniel is 12 years old. He is tall and he has short black hair. He smiles a lot."
+Which sentence describes Daniel?
 
 ### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew. -->
-- [ ] B) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all. -->
-- [ ] C) commuter
-  <!-- feedback: 'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle. -->
-- [ ] D) tourist
-  <!-- feedback: 'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle. -->
+- [ ] A) He is short and has long hair.
+  <!-- feedback: Incorrect. The text says Daniel is tall and has short hair, the opposite of this. -->
+- [x] B) He is tall and has short hair.
+  <!-- feedback: Correct. The text says "He is tall and he has short black hair". -->
+- [ ] C) He is old and sad.
+  <!-- feedback: Incorrect. Daniel is 12, so he is young, and he smiles a lot, so he is not sad. -->
+- [ ] D) He has curly blond hair.
+  <!-- feedback: Incorrect. The text says his hair is short and black, not blond. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
+La lectura dice que Daniel es alto ("tall") y tiene el cabello corto y negro ("short black hair"). Como sonríe mucho, está feliz, y con 12 años es joven, no viejo.
+
 ## Question 6 [D7-D8]
 **ID:** CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.56
+**Contexto:** La profesora de un colegio de Yopal pide a los niños escribir una frase sobre su papá.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Which sentence is correct?
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive. -->
-- [ ] B) security
-  <!-- feedback: 'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in. -->
-- [ ] C) terminal
-  <!-- feedback: 'terminal' is the building where you wait for your plane, not the place where your belongings are inspected. -->
-- [ ] D) gate
-  <!-- feedback: 'gate' is the door at the plane you walk through to board, not the place where officials check your things. -->
+- [x] A) He is tall.
+  <!-- feedback: Correct. He + is + adjective is the correct way to describe height. -->
+- [ ] B) He has tall.
+  <!-- feedback: Incorrect. We use has with things like hair; for height we use is: he is tall. -->
+- [ ] C) He are tall.
+  <!-- feedback: Incorrect. Are goes with you, we and they; with he the verb is is. -->
+- [ ] D) He is long hair.
+  <!-- feedback: Incorrect. For hair we use has: he has long hair, not he is long hair. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
+Para la estatura usamos "is": "He is tall". Para el cabello usamos "has": "He has long hair". Con "he" nunca usamos "are".
+
 ## Question 7 [D9-D10]
 **ID:** CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.50
+**Contexto:** Carla y Sofia son primas de Barrancabermeja y hoy están en la fiesta de la familia.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Read: "Carla is happy. She has long curly hair. Sofia is sad. She has short straight hair."
+Who has short hair?
 
 ### Opciones
-- [x] A) boarding pass
-  <!-- feedback: Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane. -->
-- [ ] B) visa
-  <!-- feedback: 'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline. -->
-- [ ] C) receipt
-  <!-- feedback: 'receipt' is the proof that you paid for something, which is not permission to board a plane. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a leaflet with tourist information, not a travel document issued to a passenger. -->
+- [ ] A) Carla
+  <!-- feedback: Incorrect. Carla has long curly hair, so her hair is not short. -->
+- [ ] B) Carla and Sofia
+  <!-- feedback: Incorrect. Only one cousin has short hair, because Carla's hair is long. -->
+- [ ] C) Nobody
+  <!-- feedback: Incorrect. The text says Sofia has short straight hair, so somebody has short hair. -->
+- [x] D) Sofia
+  <!-- feedback: Correct. The text says Sofia has short straight hair. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
+En la lectura, Carla tiene el cabello largo y crespo ("long curly hair") y Sofia tiene el cabello corto y liso ("short straight hair"). Por eso la que tiene cabello corto es Sofia.
+
 ## Question 8 [D9-D10]
 **ID:** CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.45
+**Contexto:** En un parque de Envigado, un niño busca a su hermana menor entre muchas personas.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+A boy says: "Please find my sister. She is young and short, and she has long hair."
+Who is his sister?
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'sightseeing' means visiting the places of interest of a location as a traveler. -->
-- [ ] B) shopping
-  <!-- feedback: 'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place. -->
+- [ ] A) a tall woman with short hair
+  <!-- feedback: Incorrect. His sister is short and has long hair, and this woman is tall with short hair. -->
+- [x] B) a short girl with long hair
+  <!-- feedback: Correct. This girl is young, short and has long hair, like the boy says. -->
+- [ ] C) a short girl with short hair
+  <!-- feedback: Incorrect. This girl is short, but her hair is short and the sister has long hair. -->
+- [ ] D) an old woman with long hair
+  <!-- feedback: Incorrect. This woman has long hair, but she is old and the sister is young. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Hay que revisar las tres pistas: joven ("young"), baja ("short") y cabello largo ("long hair"). Solo "a short girl with long hair" cumple todas; las otras fallan en una pista.

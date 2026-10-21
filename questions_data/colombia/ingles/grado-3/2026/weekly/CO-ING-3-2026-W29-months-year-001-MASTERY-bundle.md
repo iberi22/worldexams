@@ -18,190 +18,193 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-# MASTERY Bundle - Ingles: Months Year (W29)
-**8 preguntas | Ingles | DBA MEN Colombia**
 
----
+# Bundle MASTERY: Months of the Year (Meses del ano) - Grado 3
+
+Los doce meses del año en inglés, su orden, los cumpleaños y fechas importantes de Colombia como el 20 de julio y la Navidad.
+
 ## Question 1 [D3-D4]
 **ID:** CO-ING-3-2026-W29-months-year-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Expected_Success:** 0.85
+**Contexto:** El primero de enero las familias de Cali celebran el comienzo del año nuevo.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which month is the first month of the year?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'accommodation' is the word for a place where you live or stay on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system of moving people or goods between places, not the place you sleep in itself. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live. -->
-- [ ] C) currency
-  <!-- feedback: 'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in. -->
+- [ ] A) December
+  <!-- feedback: Incorrect. December is the last month of the year, not the first. -->
+- [ ] B) June
+  <!-- feedback: Incorrect. June is the sixth month, in the middle of the year. -->
+- [ ] C) March
+  <!-- feedback: Incorrect. March is the third month, after January and February. -->
+- [x] D) January
+  <!-- feedback: Correct. January is the first month; the new year starts on January 1st. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
+El año empieza en enero, que en inglés es "January". El último mes es "December" (diciembre). Los meses en inglés siempre se escriben con mayúscula inicial.
+
 ## Question 2 [D3-D4]
 **ID:** CO-ING-3-2026-W29-months-year-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Lexico
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** En la clase de inglés en Bucaramanga, la profesora cuelga un calendario con todos los meses.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+How many months are there in one year?
 
 ### Opciones
-- [x] C) itinerary
-  <!-- feedback: Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' names only the place you are going to, without the route or the order of the whole journey. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official document that lets you cross a border, not the plan of where you go. -->
+- [ ] A) seven
+  <!-- feedback: Incorrect. Seven is the number of days in a week, not months in a year. -->
+- [ ] B) ten
+  <!-- feedback: Incorrect. Ten is two short; from January to December there are twelve months. -->
+- [ ] C) thirty
+  <!-- feedback: Incorrect. About thirty is the number of days in a month, not months in a year. -->
+- [x] D) twelve
+  <!-- feedback: Correct. A year has twelve months, from January to December. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
+Un año ("year") tiene doce meses: "twelve months". No hay que confundirlo con los siete días de la semana ni con los treinta días, más o menos, que tiene un mes.
+
 ## Question 3 [D5-D6]
 **ID:** CO-ING-3-2026-W29-months-year-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.72
+**Contexto:** Los niños de un colegio de Ibagué completan la lista de meses en el tablero.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Complete the list: "March, April, ___, June"
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! 'destination' is the place someone is going to or something is being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the act of reaching a place, not the place that is reached. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from the start to the end, not the place the trip finishes at. -->
+- [x] A) May
+  <!-- feedback: Correct. The order is March, April, May, June, so May is missing. -->
+- [ ] B) July
+  <!-- feedback: Incorrect. July comes after June, so it cannot go between April and June. -->
+- [ ] C) February
+  <!-- feedback: Incorrect. February comes before March, at the start of the list. -->
+- [ ] D) August
+  <!-- feedback: Incorrect. August comes after July, far after June. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
+El orden de los meses es "January, February, March, April, May, June, July, August, September, October, November, December". Entre abril ("April") y junio ("June") está mayo, "May".
+
 ## Question 4 [D5-D6]
 **ID:** CO-ING-3-2026-W29-months-year-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.68
+**Contexto:** En diciembre las calles de Medellín se llenan de alumbrados y las familias arman el pesebre.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Read: "In Colombia, many families have a Christmas tree with lights. Christmas Day is on the 25th of ___."
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel. -->
-- [ ] B) ticket
-  <!-- feedback: 'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in. -->
-- [ ] C) flight
-  <!-- feedback: 'flight' is the journey by plane itself, not the containers that hold your things. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you make for a seat or a room, not the bag you carry. -->
+- [ ] A) November
+  <!-- feedback: Incorrect. November comes before December; Christmas is in December. -->
+- [x] B) December
+  <!-- feedback: Correct. Christmas Day is on December 25th. -->
+- [ ] C) January
+  <!-- feedback: Incorrect. January is the start of a new year, after Christmas. -->
+- [ ] D) October
+  <!-- feedback: Incorrect. October is the month of Halloween, on October 31st, not Christmas. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
+La Navidad ("Christmas") se celebra el 25 de diciembre, "December 25th". En Colombia diciembre es el mes de los alumbrados y las novenas. Octubre ("October") es el mes de Halloween.
+
 ## Question 5 [D7-D8]
 **ID:** CO-ING-3-2026-W29-months-year-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.60
+**Contexto:** En Colombia, el Día de la Independencia hay desfiles y banderas en todas las ciudades.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Read: "Today is July 19th. Tomorrow is a holiday in Colombia: Independence Day." What is the date of Independence Day?
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all. -->
-- [ ] C) commuter
-  <!-- feedback: 'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle. -->
-- [ ] D) tourist
-  <!-- feedback: 'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle. -->
+- [ ] A) July 19th
+  <!-- feedback: Incorrect. July 19th is today in the text; the holiday is tomorrow. -->
+- [ ] B) July 18th
+  <!-- feedback: Incorrect. July 18th is the day before today, not tomorrow. -->
+- [x] C) July 20th
+  <!-- feedback: Correct. Tomorrow is the day after July 19th, so it is July 20th. -->
+- [ ] D) August 7th
+  <!-- feedback: Incorrect. August 7th is another holiday in Colombia, but the text says tomorrow, July 20th. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
+El texto dice que hoy es 19 de julio y que mañana ("tomorrow") es el Día de la Independencia. El día siguiente es el 20 de julio, "July 20th", fecha en que Colombia celebra su independencia.
+
 ## Question 6 [D7-D8]
 **ID:** CO-ING-3-2026-W29-months-year-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.56
+**Contexto:** En una fiesta en Pasto, un niño nuevo le pregunta a Martina cuándo cumple años.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Read the dialogue.
+Boy: "When is your birthday?"
+Martina: "___"
 
 ### Opciones
-- [x] D) customs
-  <!-- feedback: Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive. -->
-- [ ] A) security
-  <!-- feedback: 'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in. -->
-- [ ] B) terminal
-  <!-- feedback: 'terminal' is the building where you wait for your plane, not the place where your belongings are inspected. -->
-- [ ] C) gate
-  <!-- feedback: 'gate' is the door at the plane you walk through to board, not the place where officials check your things. -->
+- [x] A) It's in May.
+  <!-- feedback: Correct. "When" asks for a time, and "in May" says the month of her birthday. -->
+- [ ] B) I'm eight years old.
+  <!-- feedback: Incorrect. This tells her age; it answers "How old are you?", not "When". -->
+- [ ] C) Yes, it is.
+  <!-- feedback: Incorrect. "Yes, it is" answers a yes/no question, but "When" asks for a time. -->
+- [ ] D) I like cake.
+  <!-- feedback: Incorrect. This says what she likes, but it does not tell when her birthday is. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
+La pregunta "When is your birthday?" (¿cuándo es tu cumpleaños?) se responde con un mes o una fecha: "It's in May". "I'm eight years old" responde a la pregunta por la edad.
+
 ## Question 7 [D9-D10]
 **ID:** CO-ING-3-2026-W29-months-year-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.50
+**Contexto:** Lina y su hermano cumplen años en meses cercanos y lo cuentan en la clase de inglés en Cúcuta.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Read: "Lina's birthday is in the month after March. Her brother's birthday is in the month before March." When are their birthdays?
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: 'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline. -->
-- [ ] C) receipt
-  <!-- feedback: 'receipt' is the proof that you paid for something, which is not permission to board a plane. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a leaflet with tourist information, not a travel document issued to a passenger. -->
+- [ ] A) Lina: February. Her brother: April.
+  <!-- feedback: Incorrect. The months are swapped: February is before March, so it is the brother's month. -->
+- [x] B) Lina: April. Her brother: February.
+  <!-- feedback: Correct. The month after March is April, and the month before March is February. -->
+- [ ] C) Lina: May. Her brother: January.
+  <!-- feedback: Incorrect. May and January are two months away from March, not next to it. -->
+- [ ] D) Lina: March. Her brother: March.
+  <!-- feedback: Incorrect. "After" and "before" March mean they are not in March. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
+"After" significa después y "before" significa antes. El mes después de marzo es abril ("April") y el mes antes de marzo es febrero ("February"). Por eso Lina cumple en abril y su hermano en febrero.
+
 ## Question 8 [D9-D10]
 **ID:** CO-ING-3-2026-W29-months-year-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.45
+**Contexto:** Samuel escribe una tarjeta en inglés para invitar a sus amigos de Barranquilla a su cumpleaños.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Choose the correct sentence.
 
 ### Opciones
-- [x] C) sightseeing
-  <!-- feedback: Correct! 'sightseeing' means visiting the places of interest of a location as a traveler. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place. -->
-- [ ] B) hiking
-  <!-- feedback: 'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place. -->
+- [ ] A) My birthday are in October.
+  <!-- feedback: Incorrect. "Birthday" is one thing, so the verb must be "is", not "are". -->
+- [ ] B) My birthday is on October.
+  <!-- feedback: Incorrect. With a month alone we use "in"; "on" goes with a day or a full date. -->
+- [x] C) My birthday is in October.
+  <!-- feedback: Correct. Months start with a capital letter, and we say "in" with a month. -->
+- [ ] D) My birthday is in Octuber.
+  <!-- feedback: Incorrect. The spelling is wrong; the month is written O-c-t-o-b-e-r. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+En inglés los meses se escriben con mayúscula ("October"), se usa "in" con el mes ("in October") y "on" con una fecha completa ("on October 5th"). Además, con "birthday" el verbo es "is" y hay que escribir bien la palabra.
