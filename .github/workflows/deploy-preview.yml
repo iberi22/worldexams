@@ -54,8 +54,7 @@ jobs:
       # that dropped option feedback reached production.
       - name: Validate changed bundles (protocol v5.2)
         run: |
-          git fetch --no-tags --depth=200 origin main
-          BASE=$(git merge-base origin/main HEAD || echo origin/main)
+          BASE=$(bash scripts/ci-diff-base.sh)
           mapfile -t FILES < <(git diff --name-only --diff-filter=AM "$BASE" HEAD -- 'questions_data/**/*.md' | grep -- '-MASTERY-bundle\.md$' || true)
           if [ "${#FILES[@]}" -eq 0 ]; then echo "No changed bundles."; exit 0; fi
           echo "Validating ${#FILES[@]} bundle(s)"
@@ -63,8 +62,7 @@ jobs:
 
       - name: Language gate check (anti English leakage)
         run: |
-          git fetch --no-tags --depth=200 origin main
-          BASE=$(git merge-base origin/main HEAD || echo origin/main)
+          BASE=$(bash scripts/ci-diff-base.sh)
           mapfile -t FILES < <(git diff --name-only --diff-filter=AM "$BASE" HEAD -- 'questions_data/**/*.md' || true)
           if [ "${#FILES[@]}" -eq 0 ]; then echo "No changed questions_data files."; exit 0; fi
           echo "Checking language on ${#FILES[@]} file(s)"
