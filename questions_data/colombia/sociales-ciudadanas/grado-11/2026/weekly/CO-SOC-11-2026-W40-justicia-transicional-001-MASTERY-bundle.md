@@ -44,7 +44,7 @@ El Acuerdo Final para la Terminación del Conflicto y la Construcción de una Pa
   <!-- feedback: La firma del 24 de noviembre de 2016 no tuvo lugar en Cali. -->
 
 ### Explicacion Pedagogica
-Tras el rechazo del plebiscito del 2 de octubre de 2016 y una renegociación con incorporaciones de la oposición, el Acuerdo Final se firmó en el Teatro Colón de Bogotá el 24 de noviembre de 2016. Consta de cinco puntos: reforma rural integral, participación política, fin del conflicto, solución al problema de drogas ilícitas y víctimas, más implementación, verificación y refrendación, y fue convalidado por el Acto Legislativo 01 de 2017, el "Acto Legislativo para la Paz".
+Tras el rechazo del plebiscito del 2 de octubre de 2016 y una renegociación con incorporaciones de la oposición, el Acuerdo Final se firmó en el Teatro Colón de Bogotá el 24 de noviembre de 2016. Consta de cinco puntos: reforma rural integral, participación política, fin del conflicto, solución al problema de drogas ilícitas y víctimas, más implementación, verificación y refrendación. El Congreso lo refrendó el 29 y 30 de noviembre de 2016; el Acto Legislativo 01 de 2016, llamado "Acto Legislativo para la Paz", creó el procedimiento legislativo especial para implementarlo, y el Acto Legislativo 02 de 2017 le dio estabilidad jurídica durante los tres periodos presidenciales siguientes.
 
 ## Question 2 [D3-D4]
 **ID:** CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v2
