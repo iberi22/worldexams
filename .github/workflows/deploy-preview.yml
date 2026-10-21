@@ -328,7 +328,7 @@ jobs:
         working-directory: saberparatodos
         env:
           PLAYWRIGHT_BASE_URL: ${{ steps.resolve.outputs.url }}
-        run: npx playwright test tests/e2e/student-exam-journey.spec.ts --project=chromium
+        run: npx playwright test tests/e2e/student-exam-journey.spec.ts tests/e2e/party-host-player.spec.ts --project=chromium
 
       - name: Upload test results
         if: failure()

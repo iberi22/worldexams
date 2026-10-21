@@ -7,6 +7,8 @@
 import { connectionService } from '../services/connection';
 import { antiCheatService } from '../services/antiCheat';
 import { p2p } from '../../../lib/p2p-edge-mesh';
+import { rustBackend } from '../../../lib/rust-backend';
+import { ROOM_NOT_FOUND_MESSAGE, roomConfigFromDirectoryEntry } from '../services/roomConfig';
 import {
   getSupabaseMirrorUser,
   isSupabaseMirrorEnabled,
@@ -305,6 +307,30 @@ class RoomState {
     }
 
     return this.config.id;
+  }
+
+  /**
+   * Obtiene la configuración REAL de una sala por su código: el anuncio del
+   * host en el directorio mesh o, en modo local, el servidor Rust.
+   * Lanza un error si la sala no existe; nunca devuelve una config de relleno.
+   */
+  async resolveRoomConfig(roomCode: string, connectionMode: RoomConfig['connectionMode'] = 'edge-mesh'): Promise<RoomConfig> {
+    const code = String(roomCode || '').trim();
+    if (!code) throw new Error(ROOM_NOT_FOUND_MESSAGE);
+
+    if (connectionMode === 'local') {
+      try {
+        const config = await rustBackend.getPartyByCode(code);
+        return { ...config, id: config.id || code, connectionMode: 'local' };
+      } catch {
+        throw new Error(ROOM_NOT_FOUND_MESSAGE);
+      }
+    }
+
+    await this.fetchPublicRooms();
+    const room = this.publicRooms.find((candidate) => candidate.party_code === code);
+    if (!room) throw new Error(ROOM_NOT_FOUND_MESSAGE);
+    return roomConfigFromDirectoryEntry(room, connectionMode);
   }
 
   /**
