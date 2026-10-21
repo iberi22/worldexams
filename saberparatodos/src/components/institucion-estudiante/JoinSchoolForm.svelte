@@ -19,7 +19,17 @@
 
   let { onJoined }: Props = $props();
 
-  let code = $state('');
+  /** Teacher QR codes link to /perfil?colegio=CODE#mi-colegio. */
+  function codeFromUrl(): string {
+    if (typeof window === 'undefined') return '';
+    try {
+      return normalizeJoinCode(new URLSearchParams(window.location.search).get('colegio') || '');
+    } catch {
+      return '';
+    }
+  }
+
+  let code = $state(codeFromUrl());
   let nickname = $state(suggestNickname());
   let submitting = $state(false);
   let errorMsg = $state<string | null>(null);

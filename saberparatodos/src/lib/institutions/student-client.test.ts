@@ -114,9 +114,12 @@ describe('student-client: join / leave', () => {
 
   it('sends the bearer token on student endpoints', async () => {
     await joinWithMock();
-    fetchMock.mockResolvedValueOnce(jsonResponse(200, { assignments: [{ id: 'a1', done: false }] }));
+    fetchMock.mockResolvedValueOnce(
+      jsonResponse(200, { assignments: [{ id: 'a1', done: false, dueAt: '2026-11-01T23:59:00.000Z' }] })
+    );
     const list = await fetchAssignments();
     expect(list).toHaveLength(1);
+    expect(typeof list[0].dueAt).toBe('string');
     expect(fetchMock.mock.calls[1][1].headers.Authorization).toBe('Bearer tok_abc');
   });
 
@@ -187,6 +190,22 @@ describe('student-client: results and offline queue', () => {
     fetchMock.mockResolvedValueOnce(jsonResponse(503, { error: 'UNAVAILABLE' }));
     expect(await flushResultQueue()).toBe(0);
     expect(getQueuedResults()).toHaveLength(1);
+  });
+
+  it('turning sharing off clears the offline queue', async () => {
+    await joinWithMock();
+    setOnline(false);
+    await submitResult(RESULT, 'c1');
+    expect(getQueuedResults()).toHaveLength(1);
+
+    setShareWithSchool(false);
+    expect(getQueuedResults()).toHaveLength(0);
+    expect(localStorage.getItem(RESULT_QUEUE_KEY)).toBeNull();
+
+    setOnline(true);
+    setShareWithSchool(true);
+    expect(await flushResultQueue()).toBe(0);
+    expect(fetchMock).toHaveBeenCalledTimes(1); // only the join
   });
 
   it('dedupes by client id and caps the queue at 50', () => {

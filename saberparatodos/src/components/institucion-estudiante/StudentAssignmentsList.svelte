@@ -13,15 +13,14 @@
   let pending = $derived(assignments.filter((a) => !a.done));
   let done = $derived(assignments.filter((a) => a.done));
 
-  /** `dueAt` is epoch seconds or milliseconds depending on the API version. */
-  function dueDate(dueAt: number | null): Date | null {
+  /** `dueAt` is an ISO 8601 string (or null). */
+  function dueDate(dueAt: string | null): Date | null {
     if (!dueAt) return null;
-    const ms = dueAt < 1e12 ? dueAt * 1000 : dueAt;
-    const date = new Date(ms);
+    const date = new Date(dueAt);
     return Number.isNaN(date.getTime()) ? null : date;
   }
 
-  function formatDue(dueAt: number | null): string {
+  function formatDue(dueAt: string | null): string {
     const date = dueDate(dueAt);
     if (!date) return 'Sin fecha límite';
     return `Entrega: ${date.toLocaleDateString('es', { day: 'numeric', month: 'short' })}`;
