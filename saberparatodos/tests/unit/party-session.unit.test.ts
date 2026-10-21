@@ -130,15 +130,17 @@ describe('Party Mode host ⇄ player sessions (loopback transport)', () => {
     expect(err.code).toBe('room_not_found');
     expect(player.getState().config).toBeNull();
     expect(player.getState().error?.message).toBe(PARTY_ERROR_MESSAGES.room_not_found);
-    expect(player.getState().error?.message).toMatch(/Wi-Fi/);
+    expect(player.getState().error?.message).toMatch(/Revisa el código/);
+    expect(player.getState().error?.message).not.toMatch(/Wi-Fi/);
   });
 
-  it('reports transport unavailable with a same Wi-Fi hint', async () => {
+  it('reports transport unavailable with an internet hint (no Wi-Fi advice)', async () => {
     const broken: PartyTransport = new CompositePartyTransport([]);
     const player = new PartyPlayerSession({ transport: broken });
     const err = await player.join(config.code, 'Juli').catch((e) => e);
     expect(err.code).toBe('transport_unavailable');
-    expect(player.getState().error?.message).toMatch(/misma red Wi-Fi/);
+    expect(player.getState().error?.message).toMatch(/conexión a internet/);
+    expect(player.getState().error?.message).not.toMatch(/Wi-Fi/);
   });
 
   it('rejects a duplicated nickname', async () => {

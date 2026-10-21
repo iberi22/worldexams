@@ -92,6 +92,7 @@ test('host creates a room, player joins by link, game runs in sync to the podium
   await expect(codeEl).toHaveText(/^[A-Z2-9]{6}$/);
   const code = (await codeEl.textContent())!.trim();
   await expect(host.getByTestId('join-url')).toContainText(`/party?join=${code}`);
+  await expect(host.getByTestId('host-reach')).toHaveAttribute('data-reach', 'devices');
 
   // ── Player: open the join link, pick a nickname ────────────────────────
   await player.goto(`/party?join=${code}`);
@@ -156,12 +157,12 @@ test('player gets clear Spanish errors: room not found and host left', async ({ 
   await preparePartyContext(playerContext);
   const player = await openPage(playerContext);
 
-  // Nobody hosts this code → "room not found" with the same Wi-Fi hint.
+  // Nobody hosts this code → "room not found".
   await player.goto('/party?join=ZZZZZZ');
   await player.getByTestId('player-nickname').fill('Beto');
   await player.getByTestId('player-join').click();
-  await expect(player.getByTestId('player-error')).toContainText('No encontramos esa sala', { timeout: 15_000 });
-  await expect(player.getByTestId('player-error')).toContainText('misma red Wi-Fi');
+  await expect(player.getByTestId('player-error')).toContainText('No encontramos esa sala', { timeout: 25_000 });
+  await expect(player.getByTestId('player-error')).toContainText('Revisa el código');
 
   // Real room, then the host closes it → "host left".
   const host = await openPage(hostContext);
@@ -184,10 +185,14 @@ test('player gets clear Spanish errors: room not found and host left', async ({ 
   await playerContext.close();
 });
 
-test('default BroadcastChannel transport: host and player tabs in the same browser', async ({ browser }) => {
+test('without WebRTC: same-browser fallback with a visible warning', async ({ browser }) => {
   test.setTimeout(120_000);
-  // No bridge here: this runs the production transport selection.
+  // No bridge here: this runs the production transport selection. Without
+  // WebRTC there is no PeerJS, so the room falls back to this browser only.
   const context = await browser.newContext();
+  await context.addInitScript(() => {
+    delete (window as any).RTCPeerConnection;
+  });
   await context.route(/\/packs\/.*\.json/, (route) =>
     route.fulfill({ status: 200, contentType: 'application/json', body: JSON.stringify(PACK) }),
   );
@@ -200,6 +205,9 @@ test('default BroadcastChannel transport: host and player tabs in the same brows
   await host.getByTestId('host-subject').selectOption('matematicas');
   await host.getByTestId('host-create').click();
   const code = (await host.getByTestId('room-code').textContent())!.trim();
+  const reach = host.getByTestId('host-reach');
+  await expect(reach).toHaveAttribute('data-reach', 'local');
+  await expect(reach).toContainText('Solo pueden unirse pestañas de este mismo navegador');
 
   await player.goto('/party');
   await player.getByTestId('party-join-choice').click();

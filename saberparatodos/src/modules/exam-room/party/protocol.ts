@@ -139,11 +139,11 @@ export type PartyErrorCode =
 /** Mensajes de error en español, listos para la UI. */
 export const PARTY_ERROR_MESSAGES: Record<PartyErrorCode, string> = {
   room_not_found:
-    'No encontramos esa sala. Revisa el código con tu docente y asegúrate de estar conectado a la misma red Wi-Fi.',
+    'No encontramos esa sala. Revisa el código con tu docente y que la sala siga abierta en su pantalla. Necesitas conexión a internet para unirte desde otro dispositivo.',
   host_left:
     'El docente salió de la sala o perdió la conexión. Espera a que la vuelva a abrir o pídele un código nuevo.',
   transport_unavailable:
-    'No hay conexión disponible para jugar en vivo. Conéctate a la misma red Wi-Fi que el docente y vuelve a intentarlo.',
+    'No pudimos conectarte para jugar en vivo. Revisa tu conexión a internet y vuelve a intentarlo.',
   room_full: 'La sala está llena. Pídele al docente que amplíe el cupo.',
   nickname_taken: 'Ese apodo ya está en uso en esta sala. Elige otro.',
   kicked: 'El docente te retiró de la sala.',

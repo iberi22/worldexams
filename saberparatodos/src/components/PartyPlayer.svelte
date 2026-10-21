@@ -36,7 +36,7 @@
 
   function newSession(): PartyPlayerSession {
     session?.dispose();
-    const s = new PartyPlayerSession({ transport: createDefaultPartyTransport(), storage: sessionStorage });
+    const s = new PartyPlayerSession({ transport: createDefaultPartyTransport('player'), storage: sessionStorage });
     s.subscribe((state) => (player = state));
     session = s;
     return s;

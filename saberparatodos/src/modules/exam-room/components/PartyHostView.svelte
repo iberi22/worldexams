@@ -6,7 +6,7 @@
   import PartyScoreboard from './PartyScoreboard.svelte';
   import PartyPodium from './PartyPodium.svelte';
   import { PartyHostSession, type HostState, type SavedHostSession } from '../party/hostSession';
-  import { createDefaultPartyTransport } from '../party/transport';
+  import { createDefaultPartyTransport, supportsOtherDevices } from '../party/transport';
   import { loadPartyQuestions } from '../party/questionLoader';
   import { PARTY_ERROR_MESSAGES, buildJoinUrl } from '../party/protocol';
 
@@ -63,6 +63,14 @@
   );
   let secondsLeft = $derived(host?.deadline ? Math.max(0, Math.ceil((host.deadline - now) / 1000)) : 0);
   let onlinePlayers = $derived(host?.players.filter((p) => p.online) ?? []);
+  // Alcance real de la sala: otros dispositivos (PeerJS) o solo este navegador.
+  let reach = $derived<'devices' | 'pending' | 'local'>(
+    !host || supportsOtherDevices(host.transport)
+      ? 'devices'
+      : host.transport.pending.includes('peerjs')
+        ? 'pending'
+        : 'local',
+  );
 
   function attach(s: PartyHostSession) {
     session = s;
@@ -73,7 +81,7 @@
     countryCode = runtimeCountry();
     ticker = setInterval(() => (now = Date.now()), 250);
     if (resume) {
-      const s = new PartyHostSession({ transport: createDefaultPartyTransport(), storage: sessionStorage });
+      const s = new PartyHostSession({ transport: createDefaultPartyTransport('host'), storage: sessionStorage });
       attach(s);
       s.resume(resume).catch(() => {
         setupError = PARTY_ERROR_MESSAGES.transport_unavailable;
@@ -102,7 +110,7 @@
         setupError = PARTY_ERROR_MESSAGES.no_questions;
         return;
       }
-      const s = new PartyHostSession({ transport: createDefaultPartyTransport(), storage: sessionStorage });
+      const s = new PartyHostSession({ transport: createDefaultPartyTransport('host'), storage: sessionStorage });
       attach(s);
       try {
         await s.open(
@@ -269,8 +277,27 @@
           <p class="text-6xl sm:text-7xl font-black tracking-widest text-emerald-400 font-mono" data-testid="room-code">
             {config.code}
           </p>
+          {#if reach === 'local'}
+            <p
+              class="mt-6 text-sm text-amber-100 bg-amber-500/15 border border-amber-400/50 rounded-lg p-3 text-left"
+              role="alert"
+              data-testid="host-reach"
+              data-reach="local"
+            >
+              <strong>Solo pueden unirse pestañas de este mismo navegador.</strong>
+              Los celulares o computadores de los estudiantes no podrán entrar con este código ni con el QR,
+              porque no se pudo abrir la conexión entre dispositivos. Revisa la conexión a internet y crea la sala de nuevo.
+            </p>
+          {:else if reach === 'pending'}
+            <p class="mt-6 text-sm text-amber-200" data-testid="host-reach" data-reach="pending">
+              Activando la conexión para otros dispositivos…
+            </p>
+          {/if}
           {#if qrSvg}
-            <div class="mx-auto mt-6 w-48 h-48 bg-white rounded-xl p-2" aria-label="Código QR para unirse">
+            <div
+              class="mx-auto mt-6 w-48 h-48 bg-white rounded-xl p-2 {reach === 'local' ? 'opacity-40' : ''}"
+              aria-label="Código QR para unirse"
+            >
               {@html qrSvg}
             </div>
           {/if}
@@ -278,9 +305,11 @@
           <button type="button" onclick={copyLink} class="mt-2 text-xs uppercase tracking-widest text-emerald-300 hover:underline">
             {copied ? '¡Enlace copiado!' : 'Copiar enlace'}
           </button>
-          <p class="mt-4 text-xs opacity-50">
-            Los estudiantes abren el enlace o escriben el código en /party. Para jugar en vivo deben estar en la misma red Wi-Fi.
-          </p>
+          {#if reach === 'devices'}
+            <p class="mt-4 text-xs opacity-60" data-testid="host-reach" data-reach="devices">
+              Los estudiantes abren el enlace o escriben el código en /party desde cualquier dispositivo con internet.
+            </p>
+          {/if}
         </div>
 
         <FlashlightCard className="p-6">

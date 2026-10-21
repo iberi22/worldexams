@@ -8,7 +8,7 @@
 import type { ConnectionMode, RoomConfig } from '../types';
 
 export const ROOM_NOT_FOUND_MESSAGE =
-  'Sala no encontrada. Verifica el código y que estés en la misma red Wi-Fi que el anfitrión.';
+  'Sala no encontrada. Verifica el código con el anfitrión y que la sala siga abierta.';
 
 /** Entrada de `roomState.publicRooms` (anuncio del directorio mesh). */
 export interface DirectoryRoomEntry {

@@ -98,7 +98,8 @@ export class PartyPlayerSession {
   constructor(options: PlayerSessionOptions) {
     this.transport = options.transport;
     this.storage = options.storage ?? null;
-    this.joinTimeoutMs = options.joinTimeoutMs ?? 7000;
+    // PeerJS necesita la señalización y WebRTC antes de que llegue la respuesta del host.
+    this.joinTimeoutMs = options.joinTimeoutMs ?? 15000;
     this.joinRetryMs = options.joinRetryMs ?? 1500;
     this.heartbeatMs = options.heartbeatMs ?? 2500;
     this.hostTimeoutMs = options.hostTimeoutMs ?? 9000;
