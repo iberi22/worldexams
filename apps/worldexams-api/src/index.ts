@@ -13,6 +13,8 @@ export interface Env {
   /** KV efímero de rendezvous (opcional en dev: sin binding → solo memoria). */
   MESH_STATE?: KVNamespace
   RANKED_DB?: D1Database
+  /** "1" on branch previews: ranked start/submit answer 403 so a preview never writes the production D1. */
+  RANKED_READONLY?: string
   PACKS_RATE_LIMITER?: RateLimit
   BULK_API_KEY?: string
 }

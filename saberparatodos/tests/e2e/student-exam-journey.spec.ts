@@ -269,6 +269,10 @@ test('2. Ranking: la tabla oficial carga y no muestra error (regresión semanal)
   });
 
   await expect(page.getByTestId('ranked-leaderboard-error')).toHaveCount(0);
+  expect(
+    leaderboardResponses.some((r) => /^200 \S*\/v1\/leaderboard\?/.test(r)),
+    'GET /v1/leaderboard respondió 200'
+  ).toBe(true);
 });
 
 // ═════════════════════════════════════════════════════════════════════════
@@ -457,6 +461,7 @@ test.describe('3. Ranked con API mockeada', () => {
     const status = page.getByTestId('ranked-result-status');
     await expect(status).toHaveAttribute('data-status', 'flagged');
     await expect(status).toContainText('marcado por integridad');
+    await expect(status).toContainText('no entra al ranking');
     const body = norm(await page.locator('body').innerText());
     expect(body, 'el puntaje sigue visible con status flagged').toMatch(/\/\s*1000/);
 

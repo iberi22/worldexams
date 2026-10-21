@@ -152,6 +152,10 @@ export async function routeRanked(
   if (!env.RANKED_DB) {
     return json({ error: "RANKED_UNAVAILABLE" }, 503, {}, request);
   }
+  // Branch previews share the production D1: only the leaderboard read is served there.
+  if (env.RANKED_READONLY === "1" && url.pathname !== "/v1/leaderboard") {
+    return json({ error: "RANKED_READONLY" }, 403, {}, request);
+  }
   const db = env.RANKED_DB;
 
   if (url.pathname === "/v1/ranked/submit" && request.method === "POST") {
