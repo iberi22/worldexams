@@ -141,7 +141,7 @@ According to a recent report on urban development in Barranquilla, what is impli
   <!-- feedback: This calls the device irrelevant, but the report makes this the very focus of its argument, so saying it does not matter to the public contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the passive adds responsibility and context to the report rather than stripping meaning out of it. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Barranquilla.
   <!-- feedback: This restricts the device to specialists in a single city, but the report discusses this across media and public discourse, not as something used only by a group in one city. -->
 
 ### Explicacion Pedagogica
@@ -166,7 +166,7 @@ According to a recent report on urban development in Bogotá, what is implied ab
   <!-- feedback: This calls the device irrelevant, but the report makes this the very focus of its argument, so saying it does not matter to the public contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the passive adds responsibility and context to the report rather than stripping meaning out of it. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Barranquilla.
   <!-- feedback: This restricts the device to specialists in a single city, but the report discusses this across media and public discourse, not as something used only by a group in one city. -->
 
 ### Explicacion Pedagogica
@@ -214,7 +214,7 @@ According to a recent report on urban development in Pereira, what is implied ab
   <!-- feedback: This calls the device irrelevant, but the report makes this the very focus of its argument, so saying it does not matter to the public contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the passive adds responsibility and context to the report rather than stripping meaning out of it. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Pereira.
   <!-- feedback: This restricts the device to specialists in a single city, but the report discusses this across media and public discourse, not as something used only by a group in one city. -->
 
 ### Explicacion Pedagogica
@@ -239,7 +239,7 @@ According to a recent report on urban development in Cali, what is implied about
   <!-- feedback: This calls the device irrelevant, but the report makes this the very focus of its argument, so saying it does not matter to the public contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the passive adds responsibility and context to the report rather than stripping meaning out of it. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Bucaramanga.
   <!-- feedback: This restricts the device to specialists in a single city, but the report discusses this across media and public discourse, not as something used only by a group in one city. -->
 
 ### Explicacion Pedagogica
@@ -429,7 +429,7 @@ In a high-level debate about urban development, Alejandro says: 'I can't help bu
 ### Opciones
 - [x] A) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] B) They are literally looking for something in the trees of {city}.
+- [ ] B) They are literally looking for something in the trees of Manizales.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -454,7 +454,7 @@ In a high-level debate about urban development, Lucía says: 'I can't help but f
 ### Opciones
 - [x] B) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Barranquilla.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->

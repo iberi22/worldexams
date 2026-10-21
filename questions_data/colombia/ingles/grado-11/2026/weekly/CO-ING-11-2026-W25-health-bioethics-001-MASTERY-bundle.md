@@ -141,7 +141,7 @@ According to a recent report on health & bioethics in Bucaramanga, what is impli
   <!-- feedback: This calls the device irrelevant, but the report makes this the core of its argument about public opinion, so declaring it irrelevant contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the impersonal passive adds a layer of impersonal authority to the message rather than simplifying it. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Bucaramanga.
   <!-- feedback: This restricts the device to specialists in a single city, but the report shows this pattern across media and discourse, not as something confined to one city's institutions. -->
 
 ### Explicacion Pedagogica
@@ -166,7 +166,7 @@ According to a recent report on health & bioethics in Pereira, what is implied a
   <!-- feedback: This calls the device irrelevant, but the report makes this the core of its argument about public opinion, so declaring it irrelevant contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the impersonal passive adds a layer of impersonal authority to the message rather than simplifying it. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Cartagena.
   <!-- feedback: This restricts the device to specialists in a single city, but the report shows this pattern across media and discourse, not as something confined to one city's institutions. -->
 
 ### Explicacion Pedagogica
@@ -191,7 +191,7 @@ According to a recent report on health & bioethics in Manizales, what is implied
   <!-- feedback: This calls the device irrelevant, but the report makes this the core of its argument about public opinion, so declaring it irrelevant contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the impersonal passive adds a layer of impersonal authority to the message rather than simplifying it. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Bucaramanga.
   <!-- feedback: This restricts the device to specialists in a single city, but the report shows this pattern across media and discourse, not as something confined to one city's institutions. -->
 
 ### Explicacion Pedagogica
@@ -216,7 +216,7 @@ According to a recent report on health & bioethics in Medellín, what is implied
   <!-- feedback: This calls the device irrelevant, but the report makes this the core of its argument about public opinion, so declaring it irrelevant contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the impersonal passive adds a layer of impersonal authority to the message rather than simplifying it. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Barranquilla.
   <!-- feedback: This restricts the device to specialists in a single city, but the report shows this pattern across media and discourse, not as something confined to one city's institutions. -->
 
 ### Explicacion Pedagogica
@@ -241,7 +241,7 @@ According to a recent report on health & bioethics in Bogotá, what is implied a
   <!-- feedback: This calls the device irrelevant, but the report makes this the core of its argument about public opinion, so declaring it irrelevant contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the impersonal passive adds a layer of impersonal authority to the message rather than simplifying it. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Bogotá.
   <!-- feedback: This restricts the device to specialists in a single city, but the report shows this pattern across media and discourse, not as something confined to one city's institutions. -->
 
 ### Explicacion Pedagogica
@@ -431,7 +431,7 @@ In a high-level debate about health & bioethics, Sebastián says: 'I can't help 
 ### Opciones
 - [x] D) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Cartagena.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -456,7 +456,7 @@ In a high-level debate about health & bioethics, Lucía says: 'I can't help but 
 ### Opciones
 - [x] C) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Manizales.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -481,7 +481,7 @@ In a high-level debate about health & bioethics, Daniela says: 'I can't help but
 ### Opciones
 - [x] A) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] B) They are literally looking for something in the trees of {city}.
+- [ ] B) They are literally looking for something in the trees of Manizales.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -506,7 +506,7 @@ In a high-level debate about health & bioethics, Valentina says: 'I can't help b
 ### Opciones
 - [x] D) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Bucaramanga.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->

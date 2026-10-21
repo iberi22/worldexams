@@ -141,7 +141,7 @@ According to a recent report on comprehensive review 1 in Cartagena, what is imp
   <!-- feedback: Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: Integrating Advanced Structures add a layer of qualification rather than removing one, so it makes the argument harder, not simpler. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Medellín.
   <!-- feedback: The report presents Integrating Advanced Structures as common in journalism, advertising and everyday debate, so it is not restricted to academics. -->
 
 ### Explicacion Pedagogica
@@ -216,7 +216,7 @@ According to a recent report on comprehensive review 1 in Bucaramanga, what is i
   <!-- feedback: Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: Integrating Advanced Structures add a layer of qualification rather than removing one, so it makes the argument harder, not simpler. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Cartagena.
   <!-- feedback: The report presents Integrating Advanced Structures as common in journalism, advertising and everyday debate, so it is not restricted to academics. -->
 
 ### Explicacion Pedagogica
@@ -241,7 +241,7 @@ According to a recent report on comprehensive review 1 in Medellín, what is imp
   <!-- feedback: Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: Integrating Advanced Structures add a layer of qualification rather than removing one, so it makes the argument harder, not simpler. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Cartagena.
   <!-- feedback: The report presents Integrating Advanced Structures as common in journalism, advertising and everyday debate, so it is not restricted to academics. -->
 
 ### Explicacion Pedagogica
@@ -266,7 +266,7 @@ According to a recent report on comprehensive review 1 in Cali, what is implied 
   <!-- feedback: Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: Integrating Advanced Structures add a layer of qualification rather than removing one, so it makes the argument harder, not simpler. -->
-- [ ] C) It is only used by academic elites in {city}.
+- [ ] C) It is only used by academic elites in Medellín.
   <!-- feedback: The report presents Integrating Advanced Structures as common in journalism, advertising and everyday debate, so it is not restricted to academics. -->
 
 ### Explicacion Pedagogica
@@ -437,7 +437,7 @@ In a high-level debate about comprehensive review 1, Isabella says: 'I can't hel
 ### Opciones
 - [x] C) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Bucaramanga.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -462,7 +462,7 @@ In a high-level debate about comprehensive review 1, Mateo says: 'I can't help b
 ### Opciones
 - [x] B) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Cali.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -512,7 +512,7 @@ In a high-level debate about comprehensive review 1, Alejandro says: 'I can't he
 ### Opciones
 - [x] B) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Barranquilla.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
