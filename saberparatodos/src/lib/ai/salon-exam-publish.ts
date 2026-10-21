@@ -8,7 +8,6 @@ import {
   type ExamGenerateRequest,
   type ExamGenerateResult,
 } from './exam-generator';
-import { recordMejoraInterna } from '../mejora-interna-telemetry';
 
 export async function hostGenerateAndPublishExam(
   req: ExamGenerateRequest,
@@ -37,13 +36,6 @@ export async function hostGenerateAndPublishExam(
       }),
     );
   }
-
-  recordMejoraInterna('ai.salon.publish_exam', {
-    count: result.questions.length,
-    mode: result.mode,
-    grade: req.grade,
-    subject: req.subject,
-  });
 
   return result;
 }

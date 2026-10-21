@@ -1,7 +1,6 @@
 <script lang="ts">
   import { onMount } from 'svelte';
   import { isPWAInstalled, promptPWAInstall } from '../lib/pwa-detector';
-  import { recordMejoraInterna } from '../lib/mejora-interna-telemetry';
 
   const DISMISS_KEY = 'swal.pwa.installPrompt.dismissedAt';
   const DISMISS_COOLDOWN_MS = 7 * 24 * 60 * 60 * 1000;
@@ -32,9 +31,8 @@
   async function install() {
     if (!deferredPrompt || installing) return;
     installing = true;
-    const accepted = await promptPWAInstall(deferredPrompt);
+    await promptPWAInstall(deferredPrompt);
     installing = false;
-    recordMejoraInterna('pwa.install_prompt.result', { accepted });
     visible = false;
     deferredPrompt = null;
   }
@@ -46,12 +44,10 @@
       e.preventDefault();
       deferredPrompt = e;
       visible = true;
-      recordMejoraInterna('pwa.install_prompt.shown', {});
     };
     const onInstalled = () => {
       visible = false;
       deferredPrompt = null;
-      recordMejoraInterna('pwa.installed', {});
     };
 
     window.addEventListener('beforeinstallprompt', onPrompt);

@@ -67,6 +67,7 @@
     maybeUpdatePartySession,
   } from '../modules/exam-room/services/authPersistence';
   import { p2pService } from '../lib/p2p-service'; // Moved to top
+  import { buildPublicQuestionUrl } from '../lib/banco/permalink';
   import { getActiveExam, setActiveExam, clearActiveExam } from '../lib/active-exam'; // 🆕 Persistence
   // Canonical subject keys (emitted by IcfesExamHub) -> ExamConfigModal display names.
   const HUB_SUBJECT_LABELS = {
@@ -136,6 +137,15 @@
   let selectedGrade = $state(null);
   let selectedSubject = $state(null);
   let selectedArticle = $state(null);
+  // Public /preguntas/ page of the article's bundle (null when the id is not a canonical v5.2 bundle id)
+  let selectedArticleSeoUrl = $derived(
+    selectedArticle
+      ? buildPublicQuestionUrl({
+          id: selectedArticle.id,
+          bundleId: selectedArticle.bundleId || String(selectedArticle.category || '').split(' :: ')[1] || null,
+        })
+      : null
+  );
   let showRegistrationModal = $state(false);
   let lastExamData = $state(null);
   let userAnswers = $state({});
@@ -266,12 +276,6 @@
   // Derived: Exam questions based on generatedExamQuestions or filtered
   let examQuestions = $derived(generatedExamQuestions || filteredLocalQuestions);
 
-  $effect(() => {
-    console.log('App received questions:', questions?.length || 0);
-    console.log('App received universalPool:', universalPool?.totalQuestions || 0);
-  });
-
-
   // Auth & Lifecycle
   onMount(async () => {
     try {
@@ -378,7 +382,6 @@
     if (typeof window !== 'undefined' && 'serviceWorker' in navigator) {
        navigator.serviceWorker.addEventListener('message', (event) => {
          if (event.data && event.data.type === 'NEW_VERSION_AVAILABLE') {
-           console.log('✨ New version detected from Service Worker!');
            showUpdateModal = true;
          }
        });
@@ -388,7 +391,6 @@
     p2pService.onData((msg) => {
         if (msg.type === 'EXAM_RESULT') {
             const result = msg.payload;
-            console.log(`🏆 Result received from ${msg.senderId}:`, result);
 
             // 1. Store locally (Host or potentially Guest if P2P broadcasted EXAM_RESULT to all)
             const existing = JSON.parse(sessionStorage.getItem('party_results') || '[]');
@@ -402,7 +404,6 @@
 
                 // 2. If HOST, broadcast the updated leaderboard to everyone
                 if (isHost) {
-                    console.log('👑 Host broadcasting updated leaderboard...');
                     p2pService.broadcast('LEADERBOARD_UPDATE', existing);
                 }
             }
@@ -410,7 +411,6 @@
         else if (msg.type === 'LEADERBOARD_UPDATE') {
             // Guest receives full leaderboard from Host
             const leaderboard = msg.payload;
-            console.log('📊 Leaderboard update received:', leaderboard.length);
 
             sessionStorage.setItem('party_results', JSON.stringify(leaderboard));
             window.dispatchEvent(new CustomEvent('party-leaderboard-update', { detail: leaderboard }));
@@ -449,17 +449,8 @@
       : '';
     if (_subjectNorm.includes('diagnostico') || _subjectNorm.includes('ingles diagnostico')) {
         selectedGrade = 0;
-        console.log('🇬🇧 Enforcing English Diagnostic Mode (Grade 0)');
     }
 
-    console.log('🎯 Exam config received:', {
-      subject: config.subject,
-      grade: config.grade,
-      mode: config.mode,
-      count: config.count,
-      diagnosticMixPercent: config.diagnosticMixPercent,
-      period: config.period // 🆕 Log period
-    });
 
     // Room Mode - roomCode is already created by modal
     if (config.mode === 'ROOM' && config.roomCode) {
@@ -471,7 +462,6 @@
 
       // 🆕 Store startedAt for ExamView synchronization
       if (config.startedAt) {
-          console.log('🏁 Syncing start time:', config.startedAt);
           // We can use a shared state or just pass it to ExamView if we adjust ExamView props.
           // Let's passed it via examConfig
           examConfig.startedAt = config.startedAt;
@@ -480,7 +470,6 @@
       // 🆕 Use synced questions from Modal (Host or Guest)
       if (config.questions && config.questions.length > 0) {
           generatedExamQuestions = sanitizeIncomingQuestions(config.questions);
-          console.log('📦 Using synced questions:', generatedExamQuestions.length);
       }
 
       // Ensure questions are loaded (fallback logic)
@@ -490,12 +479,9 @@
 
       if (config.isHost) {
         // Host starts the exam
-        console.log('🎯 Anfitrión detectado, iniciando sala...');
         await handleRoomStart();
-        console.log('✅ handleRoomStart() completado');
       } else {
         // Guest waits in player view
-        console.log('👥 Invitado detectado, esperando inicio...');
         enterExamView();
       }
       return;
@@ -515,7 +501,6 @@
 
     // 🆕 Use pre-filtered questions if provided (e.g. Period Mode)
     if (config.questions && config.questions.length > 0) {
-         console.log('📦 Using pre-filtered questions:', config.questions.length);
          try {
              await minTimePromise;
          } catch (e) { /* ignore */ }
@@ -561,7 +546,6 @@
       const limitExceeded = config.count > 10;
       isAdaptiveMode = isEnglish && limitExceeded && (config.examMode === 'simulacro' || !config.examMode);
       if (isAdaptiveMode) {
-        console.log('🧠 Adaptive Mode Activated!');
         // Provide the entire filtered pool to the adaptive engine
         adaptivePool = result.pool;
       } else {
@@ -588,16 +572,11 @@
           return;
       }
 
-      console.log('🚀🚀🚀 handleRoomStart() INICIADO');
-      console.log('📊 generatedExamQuestions:', generatedExamQuestions?.length || 0);
 
       // 1. Generate Questions using local logic (reusing prepareExamQuestions/filter logic)
 
       // 🆕 Check if we already have synced questions (from handleExamConfigStart)
-      if (generatedExamQuestions && generatedExamQuestions.length > 0) {
-          console.log('🚀 Iniciando sala con preguntas sincronizadas:', generatedExamQuestions.length);
-      } else {
-          console.log('⚠️ No hay preguntas sincronizadas, usando fallback...');
+      if (!generatedExamQuestions || generatedExamQuestions.length === 0) {
           const roomResult = await prepareRoomQuestions(
             {
               grade: selectedGrade || 11,
@@ -619,7 +598,6 @@
           );
           loadedQuestions = roomResult.pool;
           generatedExamQuestions = roomResult.selectedQuestions;
-          console.log('📦 Preguntas de fallback generadas:', generatedExamQuestions.length);
       }
 
       const startedAt = new Date().toISOString();
@@ -647,9 +625,7 @@
       });
 
       // 3. Switch View to EXAM
-      console.log('🎬 Cambiando a vista EXAM...');
       enterExamView();
-      console.log('✅ Vista cambiada a:', AppView.EXAM);
 
       // 4. Initial broadcast handled by ExamView or here?
       // ExamView will need to handle "Room Mode"
@@ -674,7 +650,6 @@
   }
 
   async function handleGradeSelect(grade) {
-    console.log(`Grade selected from landing: ${grade}`);
     selectedGrade = grade;
     isLoadingQuestions = true;
     try {
@@ -713,7 +688,6 @@
     ).length >= 50; // Threshold
 
     if (hasEnough) {
-        console.log(`Optimization: Using cached questions for grade ${grade} and subject ${subject}`);
         return;
     }
 
@@ -763,20 +737,6 @@
   function finishExamWithNickname(examData, answers, nickname) {
     lastExamData = examData;
     userAnswers = answers;
-
-    try {
-      // Dynamic import avoids circular weight on landing
-      import('../lib/mejora-interna-telemetry').then(({ recordMejoraInterna }) => {
-        recordMejoraInterna('exam_finished', {
-          grade: examData?.grade,
-          subject: examData?.subject,
-          questionCount: Array.isArray(examData?.questions) ? examData.questions.length : undefined,
-          room: Boolean(roomCode),
-        });
-      }).catch(() => {});
-    } catch {
-      // ignore
-    }
 
     // Mark questions as answered in memory
     if (examData?.questions) {
@@ -829,7 +789,6 @@
         };
 
         // 🔥 BROADCAST to ALL participants (not just host)
-        console.log('Broadcasting result to all participants:', minimalResult);
         p2pService.broadcast('EXAM_RESULT', minimalResult);
 
         // Also save locally for immediate display
@@ -1264,7 +1223,6 @@
             onStartEnglishDiagnostic={async () => {
               isLoadingQuestions = true;
               try {
-                console.log('🇬🇧 Loading English questions from all grades (A1-B2+)...');
                 const englishQuestions = await fetchEnglishQuestionsAllGrades(100, true);
 
                 if (englishQuestions.length === 0) {
@@ -1361,7 +1319,6 @@
           onStartEnglish={async () => {
             isLoadingQuestions = true;
             try {
-              console.log('🇬🇧 Loading English questions from all grades (A1-B2+)...');
               const englishQuestions = await fetchEnglishQuestionsAllGrades(100, true);
 
               if (englishQuestions.length === 0) {
@@ -1496,7 +1453,6 @@
 
               if (uniqueNew.length > 0) {
                 loadedQuestions = [...loadedQuestions, ...uniqueNew];
-                console.log(`✅ Added ${uniqueNew.length} new questions to pool (${loadedQuestions.length} total)`);
               }
             } catch (err) {
               console.error('Error changing grade:', err);
@@ -1514,6 +1470,13 @@
       </div>
     {:else if view === AppView.ARTICLE}
       <div in:fly={{ x: 50, duration: 500 }} out:fade={{ duration: 200 }}>
+        {#if selectedArticleSeoUrl}
+          <div class="max-w-4xl mx-auto px-4 pt-4 text-sm">
+            <a href={selectedArticleSeoUrl} class="text-emerald-400 hover:text-emerald-300 underline">
+              Ver todas las preguntas de este bundle
+            </a>
+          </div>
+        {/if}
         <ArticleView
           question={selectedArticle}
           onBack={() => {

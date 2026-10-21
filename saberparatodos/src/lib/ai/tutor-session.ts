@@ -5,7 +5,6 @@
 
 import { getAiCore } from './ai-core-client';
 import { generateNanoTutorResponse } from './chrome-nano-provider';
-import { recordMejoraInterna } from '../mejora-interna-telemetry';
 import { saveTutorSession, syncSessionToXavier, type TutorSessionRecord } from './tutor-history';
 
 export interface TutorContext {
@@ -123,12 +122,6 @@ export class TutorSession {
     this.history.push(turn);
     this.updatedAt = Date.now();
     this.persist();
-
-    recordMejoraInterna('ai.tutor.turn', {
-      hasAudio: Boolean(audioWav),
-      userChars: userText.length,
-      assistantChars: assistantText.length,
-    });
     return turn;
   }
 

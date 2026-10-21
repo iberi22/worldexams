@@ -6,7 +6,6 @@
 import type { APIQuestion } from '../api-service';
 import { getQuestionPoolBySubject, getQuestionPool } from '../pack-storage';
 import { getAiCore } from './ai-core-client';
-import { recordMejoraInterna } from '../mejora-interna-telemetry';
 
 export interface LocalGeneratedQuestion {
   id: string;
@@ -250,12 +249,6 @@ export async function generateLocalExam(req: ExamGenerateRequest): Promise<ExamG
     }
 
     if (parsed.length >= Math.min(3, count) && parsed.every(validateLocalQuestion)) {
-      recordMejoraInterna('ai.exam_generator.ok', {
-        count: parsed.length,
-        grade: req.grade,
-        subject: req.subject,
-        mode: 'llm-validated',
-      });
       return { questions: parsed.slice(0, count), mode: 'llm-validated', metadata };
     }
   } catch {
@@ -263,12 +256,6 @@ export async function generateLocalExam(req: ExamGenerateRequest): Promise<ExamG
   }
 
   const fromPool = assembleFromPool({ ...req, count });
-  recordMejoraInterna('ai.exam_generator.pool_fallback', {
-    count: fromPool.length,
-    grade: req.grade,
-    subject: req.subject,
-  });
-
   return {
     questions: fromPool,
     mode: 'pool-assembled',
