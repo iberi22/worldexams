@@ -1,6 +1,7 @@
 <script lang="ts">
   import { onMount } from 'svelte';
   import { fetchUserProfile, saveUserProfile, deleteUserProfile, type UserProfile } from '../lib/user-profile';
+  import StudentInstitutionPanel from './institucion-estudiante/StudentInstitutionPanel.svelte';
 
   let profile = $state<UserProfile>({
     display_name: '',
@@ -314,4 +315,9 @@
       </div>
     </form>
   {/if}
+</div>
+
+<!-- Mi colegio: join with the teacher's code, assignments and opt-in result sharing -->
+<div id="mi-colegio" class="max-w-2xl mx-auto mt-6">
+  <StudentInstitutionPanel />
 </div>

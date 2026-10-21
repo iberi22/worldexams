@@ -1,105 +1,53 @@
 <script lang="ts">
   import {
-    getActiveAgreementForInstitution,
-    createAgreement,
+    getActiveLegacyAgreements,
     revokeAgreement,
     getStudentNodeHash,
     type InstitutionAgreement
   } from '../../lib/institution-handshake';
+  import StudentInstitutionPanel from '../institucion-estudiante/StudentInstitutionPanel.svelte';
 
   let {
     isOpen = false,
-    institutionId = 'COL-BOG-2026',
-    institutionName = 'Colegio Mayor',
     onClose = () => {}
   } = $props<{
     isOpen?: boolean;
+    /** @deprecated Ignored: the institution comes from the group the student joined. */
     institutionId?: string;
+    /** @deprecated Ignored: the institution comes from the group the student joined. */
     institutionName?: string;
     onClose?: () => void;
   }>();
 
-  let inputInstitutionId = $state(institutionId);
-  let inputInstitutionName = $state(institutionName);
-  let selectedScopes = $state<Array<'all' | 'mathematics' | 'reading' | 'sciences' | 'socials' | 'english'>>(['all']);
-  let validityDays = $state(30);
-  let activeAgreement = $state<InstitutionAgreement | null>(null);
+  let legacyAgreements = $state<InstitutionAgreement[]>([]);
   let feedbackMsg = $state<string | null>(null);
 
   const studentNodeHash = $derived(getStudentNodeHash());
 
   $effect(() => {
     if (isOpen) {
-      if (!inputInstitutionId && institutionId) {
-        inputInstitutionId = institutionId;
-      }
-      if (!inputInstitutionName && institutionName) {
-        inputInstitutionName = institutionName;
-      }
-      refreshAgreement();
+      legacyAgreements = getActiveLegacyAgreements();
     }
   });
 
-  function refreshAgreement() {
-    if (inputInstitutionId.trim()) {
-      activeAgreement = getActiveAgreementForInstitution(inputInstitutionId.trim());
-    } else {
-      activeAgreement = null;
-    }
-  }
-
-  function toggleScope(scope: 'all' | 'mathematics' | 'reading' | 'sciences' | 'socials' | 'english') {
-    if (scope === 'all') {
-      selectedScopes = ['all'];
-      return;
-    }
-    let updated = selectedScopes.filter(s => s !== 'all');
-    if (updated.includes(scope)) {
-      updated = updated.filter(s => s !== scope);
-    } else {
-      updated.push(scope);
-    }
-    if (updated.length === 0) {
-      updated = ['all'];
-    }
-    selectedScopes = updated;
-  }
-
-  function handleCreate() {
-    if (!inputInstitutionId.trim() || !inputInstitutionName.trim()) {
-      feedbackMsg = 'Por favor ingrese el ID y nombre de la institución.';
-      return;
-    }
-    const agr = createAgreement({
-      institutionId: inputInstitutionId,
-      institutionName: inputInstitutionName,
-      scope: selectedScopes,
-      validityDays
-    });
-    activeAgreement = agr;
-    feedbackMsg = 'Acuerdo P2P autorizado y registrado localmente.';
-  }
-
-  function handleRevoke() {
-    if (activeAgreement) {
-      revokeAgreement(activeAgreement.agreementId);
-      activeAgreement = null;
-      feedbackMsg = 'Acceso institucional revocado de forma inmediata.';
-    }
+  function handleRevokeLegacy(agreementId: string) {
+    revokeAgreement(agreementId);
+    legacyAgreements = getActiveLegacyAgreements();
+    feedbackMsg = 'Acuerdo local anterior revocado.';
   }
 </script>
 
 {#if isOpen}
-  <div class="fixed inset-0 z-50 flex items-center justify-center bg-black/80 backdrop-blur-sm p-4 select-none">
+  <div class="fixed inset-0 z-50 flex items-center justify-center bg-black/80 backdrop-blur-sm p-4">
     <div class="bg-[#121212] border border-white/20 rounded-3xl p-6 max-w-lg w-full space-y-5 shadow-2xl overflow-y-auto max-h-[90vh]">
       <!-- Header -->
       <div class="flex justify-between items-center border-b border-white/10 pb-3">
         <div class="flex items-center gap-2">
           <span class="text-xl">🏛️</span>
           <div>
-            <h3 class="text-base font-bold text-white">Acuerdo P2P Institucional</h3>
+            <h3 class="text-base font-bold text-white">Compartir con mi colegio</h3>
             <span class="text-[10px] font-mono text-emerald-400 font-bold uppercase tracking-wider">
-              Handshake Soberano de Consentimiento
+              Consentimiento revocable
             </span>
           </div>
         </div>
@@ -118,11 +66,11 @@
         <div class="flex items-center justify-between">
           <span class="text-xs font-bold text-emerald-400">Garantía Soberana (FERPA / GDPR)</span>
           <span class="text-[10px] font-mono text-emerald-300 bg-emerald-950/60 px-2 py-0.5 rounded-full border border-emerald-500/30">
-            0% PII | On-Device
+            0% PII | Opt-in
           </span>
         </div>
         <p class="text-[11px] text-white/80 leading-relaxed">
-          Solo se autoriza la exportación de <strong>índices cognitivos agregados</strong> (Proxy CI, Memoria de Trabajo WMI, Velocidad PSI). Los tiempos de reacción crudos y datos identificables jamás abandonan tu dispositivo.
+          Al final de cada sesión solo se envía un <strong>resumen agregado</strong> (aciertos, total y duración), y solo si te uniste a tu colegio y tienes activado compartir. Los tiempos de reacción crudos y datos identificables jamás abandonan tu dispositivo.
         </p>
       </div>
 
@@ -141,120 +89,31 @@
         </div>
       {/if}
 
-      <!-- Agreement State Display -->
-      {#if activeAgreement}
-        <div class="p-4 bg-emerald-950/30 border border-emerald-500/40 rounded-2xl space-y-3">
-          <div class="flex items-center justify-between">
-            <span class="inline-flex items-center gap-1.5 text-xs font-bold text-emerald-400">
-              <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
-              Acuerdo Activo Vigente
-            </span>
-            <span class="text-[10px] font-mono text-white/50">
-              Checksum: {activeAgreement.checksum}
-            </span>
-          </div>
+      <!-- Joined institution (API) or join flow -->
+      <StudentInstitutionPanel showAssignments={false} />
 
-          <div class="space-y-1 text-xs">
-            <p class="text-white font-bold">{activeAgreement.institutionName}</p>
-            <p class="text-white/60 font-mono text-[11px]">ID Institución: {activeAgreement.institutionId}</p>
-            <p class="text-white/60 text-[11px]">
-              Alcance: <strong class="text-emerald-300">{activeAgreement.scope.join(', ')}</strong>
-            </p>
-            <p class="text-white/40 text-[10px]">
-              Concedido: {new Date(activeAgreement.grantedAt).toLocaleDateString()} |
-              Expira: {new Date(activeAgreement.expiresAt).toLocaleDateString()}
-            </p>
-          </div>
-
-          <button
-            type="button"
-            onclick={handleRevoke}
-            class="w-full py-2.5 bg-rose-500/20 hover:bg-rose-500/30 border border-rose-500/50 text-rose-300 hover:text-rose-200 text-xs font-bold rounded-xl transition-all cursor-pointer flex items-center justify-center gap-2"
-          >
-            <span>🚫</span> Revocar Acceso Inmediatamente
-          </button>
-        </div>
-      {:else}
-        <!-- Create Agreement Form -->
-        <div class="space-y-3 p-4 bg-white/5 border border-white/10 rounded-2xl">
-          <h4 class="text-xs font-bold text-white uppercase tracking-wider">Autorizar Nueva Institución</h4>
-
-          <div class="space-y-2">
-            <div>
-              <label for="inst-id-input" class="block text-[10px] text-white/60 mb-1 font-semibold uppercase">
-                ID de la Institución
-              </label>
-              <input
-                id="inst-id-input"
-                type="text"
-                bind:value={inputInstitutionId}
-                oninput={refreshAgreement}
-                placeholder="Ej. COL-BOG-2026"
-                class="w-full bg-black/60 border border-white/20 rounded-xl px-3 py-2 text-xs text-white placeholder-white/30 focus:outline-none focus:border-emerald-500 font-mono"
-              />
-            </div>
-
-            <div>
-              <label for="inst-name-input" class="block text-[10px] text-white/60 mb-1 font-semibold uppercase">
-                Nombre de la Institución
-              </label>
-              <input
-                id="inst-name-input"
-                type="text"
-                bind:value={inputInstitutionName}
-                placeholder="Ej. Colegio Mayor de Bogotá"
-                class="w-full bg-black/60 border border-white/20 rounded-xl px-3 py-2 text-xs text-white placeholder-white/30 focus:outline-none focus:border-emerald-500"
-              />
-            </div>
-
-            <div>
-              <span class="block text-[10px] text-white/60 mb-1 font-semibold uppercase">
-                Alcance del Consentimiento
+      <!-- Legacy on-device agreements (pre-API handshake), still revocable -->
+      {#if legacyAgreements.length > 0}
+        <div class="p-4 bg-white/5 border border-white/10 rounded-2xl space-y-2">
+          <h4 class="text-xs font-bold text-white uppercase tracking-wider">Acuerdos locales anteriores</h4>
+          <p class="text-[11px] text-white/50">
+            Se crearon solo en este dispositivo y nunca enviaron datos. Ya no son necesarios: usa el código de tu colegio.
+          </p>
+          {#each legacyAgreements as agreement (agreement.agreementId)}
+            <div class="flex items-center justify-between gap-2 text-xs">
+              <span class="text-white/80 truncate">
+                {agreement.institutionName || agreement.institutionId}
+                <span class="font-mono text-white/40">({agreement.institutionId})</span>
               </span>
-              <div class="flex flex-wrap gap-1.5">
-                {#each (
-                  [{ id: 'all' as const, label: 'Todo' },
-                   { id: 'mathematics' as const, label: 'Matemáticas' },
-                   { id: 'reading' as const, label: 'Lectura' },
-                   { id: 'sciences' as const, label: 'Ciencias' },
-                   { id: 'socials' as const, label: 'Sociales' },
-                   { id: 'english' as const, label: 'Inglés' }]
-                ) as scopeItem}
-                  <button
-                    type="button"
-                    onclick={() => toggleScope(scopeItem.id)}
-                    class="px-2.5 py-1 text-[11px] rounded-lg border font-semibold transition-all cursor-pointer {selectedScopes.includes(scopeItem.id) ? 'bg-emerald-500/20 border-emerald-400 text-emerald-300' : 'bg-black/40 border-white/10 text-white/50 hover:text-white'}"
-                  >
-                    {scopeItem.label}
-                  </button>
-                {/each}
-              </div>
-            </div>
-
-            <div>
-              <label for="validity-input" class="block text-[10px] text-white/60 mb-1 font-semibold uppercase">
-                Vigencia (Días)
-              </label>
-              <select
-                id="validity-input"
-                bind:value={validityDays}
-                class="w-full bg-black/60 border border-white/20 rounded-xl px-3 py-2 text-xs text-white focus:outline-none focus:border-emerald-500"
+              <button
+                type="button"
+                onclick={() => handleRevokeLegacy(agreement.agreementId)}
+                class="shrink-0 px-2.5 py-1 bg-rose-500/20 hover:bg-rose-500/30 border border-rose-500/50 text-rose-300 text-[11px] font-bold rounded-lg cursor-pointer"
               >
-                <option value={15}>15 días</option>
-                <option value={30}>30 días</option>
-                <option value={90}>90 días</option>
-                <option value={365}>365 días (1 año)</option>
-              </select>
+                Revocar
+              </button>
             </div>
-          </div>
-
-          <button
-            type="button"
-            onclick={handleCreate}
-            class="w-full py-3 bg-emerald-500 hover:bg-emerald-400 text-black text-xs font-bold uppercase tracking-wider rounded-xl transition-all cursor-pointer shadow-lg shadow-emerald-500/20 flex items-center justify-center gap-2 mt-2"
-          >
-            <span>🔐</span> Autorizar y Firmar Acuerdo P2P
-          </button>
+          {/each}
         </div>
       {/if}
 
