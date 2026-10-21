@@ -376,15 +376,21 @@ async function playRankedExam(page: Page, fx: RankedFixture, submitStatus: 'vali
   await page.getByRole('button', { name: 'Entrar', exact: true }).click();
   await page.getByRole('button', { name: 'Comenzar ranked', exact: true }).click();
 
-  const options = page.locator('button:has(.flashlight-effect)');
-  await expect(options.first()).toBeVisible({ timeout: 30_000 });
+  // Esperar a que el examen esté en pantalla ANTES de adelantar el reloj. RankedExamView
+  // abre la medición de la pregunta 1 (dwellTracker.enter) justo antes de pasar a la fase
+  // 'exam'. Antes se esperaba `button:has(.flashlight-effect)`, que también encuentra las
+  // tarjetas FlashlightCard de la vista anterior: si /v1/ranked/start tardaba, el primer
+  // fastForward caía antes de enter() y la pregunta 1 quedaba con ~700 ms (flaky en CI).
+  const option = (letter: string) => page.getByTestId(`ranked-option-${letter}`);
+  await expect(page.locator('body')).toContainText(fx.questions[0].statement, { timeout: 30_000 });
+  await expect(option('A')).toBeVisible();
 
   for (let i = 0; i < 40; i++) {
     await page.clock.fastForward(5_000);
     await expect(page.locator('body')).toContainText(fx.questions[i].statement);
     // Pares: opción correcta. Impares: una incorrecta. Resultado esperado: 20/40.
     const correctIdx = LETTERS.indexOf(fx.key[fx.questions[i].id].letter);
-    await options.nth(i % 2 === 0 ? correctIdx : (correctIdx + 1) % 4).click();
+    await option(LETTERS[i % 2 === 0 ? correctIdx : (correctIdx + 1) % 4]).click();
     await page.getByRole('button', { name: i === 39 ? 'Terminar' : 'Siguiente', exact: true }).click();
   }
 
