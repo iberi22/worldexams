@@ -67,6 +67,7 @@
     maybeUpdatePartySession,
   } from '../modules/exam-room/services/authPersistence';
   import { p2pService } from '../lib/p2p-service'; // Moved to top
+  import { buildPublicQuestionUrl } from '../lib/banco/permalink';
   import { getActiveExam, setActiveExam, clearActiveExam } from '../lib/active-exam'; // 🆕 Persistence
   // Canonical subject keys (emitted by IcfesExamHub) -> ExamConfigModal display names.
   const HUB_SUBJECT_LABELS = {
@@ -136,7 +137,15 @@
   let selectedGrade = $state(null);
   let selectedSubject = $state(null);
   let selectedArticle = $state(null);
-  let selectedArticleSeoUrl = $state(null); // Public /preguntas/ page of the article's bundle, when known
+  // Public /preguntas/ page of the article's bundle (null when the id is not a canonical v5.2 bundle id)
+  let selectedArticleSeoUrl = $derived(
+    selectedArticle
+      ? buildPublicQuestionUrl({
+          id: selectedArticle.id,
+          bundleId: selectedArticle.bundleId || String(selectedArticle.category || '').split(' :: ')[1] || null,
+        })
+      : null
+  );
   let showRegistrationModal = $state(false);
   let lastExamData = $state(null);
   let userAnswers = $state({});
@@ -198,26 +207,9 @@
     selectedArticle = article;
     articleReturnView = returnView;
     setRevisarDeepLink(article.id);
-    resolveBundleSeoUrl(article);
     view = AppView.ARTICLE;
     if (typeof window !== 'undefined') {
       window.dispatchEvent(new CustomEvent('app-view-change', { detail: { view: AppView.ARTICLE } }));
-    }
-  }
-
-  // Lazy-loads the baked bundle index (~370 KB) only when an article is opened.
-  async function resolveBundleSeoUrl(article) {
-    selectedArticleSeoUrl = null;
-    const bundleId = article?.bundleId || String(article?.category || '').split(' :: ')[1] || '';
-    if (!bundleId) return;
-    try {
-      const { default: index } = await import('../lib/preguntas/preguntas-index.json');
-      const entry = index.bundles.find((b) => b.id === bundleId);
-      if (entry && selectedArticle?.id === article.id) {
-        selectedArticleSeoUrl = `/preguntas/${entry.country}/${entry.gradeSlug}/${entry.subject}/${entry.id}/`;
-      }
-    } catch (err) {
-      console.error('Failed to resolve bundle SEO page', err);
     }
   }
 
@@ -1489,7 +1481,6 @@
           question={selectedArticle}
           onBack={() => {
             selectedArticle = null;
-            selectedArticleSeoUrl = null;
             clearRevisarDeepLink();
             setView(articleReturnView || AppView.BLOG);
           }}
