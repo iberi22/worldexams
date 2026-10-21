@@ -414,6 +414,10 @@ export async function routeInstitutions(request: Request, env: InstEnv): Promise
   const method = request.method;
 
   if (!env.RANKED_DB) return fail(request, 503, "INST_UNAVAILABLE");
+  // Branch previews share the production D1: writes are refused before touching it.
+  if (env.RANKED_READONLY === "1" && method !== "GET") {
+    return json({ error: "READONLY_PREVIEW" }, 403, {}, request);
+  }
   const db = env.RANKED_DB;
 
   // --- Teacher auth (no session) ---
