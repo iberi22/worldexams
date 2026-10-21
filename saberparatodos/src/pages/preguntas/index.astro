@@ -9,6 +9,7 @@ import {
   type BundleEntry,
 } from '../../lib/preguntas/bundle-fetcher';
 import { t } from '../../lib/i18n';
+import { SPANISH_HOST } from '../../lib/preguntas/canonical';
 
 const entries: BundleEntry[] = await getAllBundles();
 
@@ -66,15 +67,14 @@ const toListItem = (e: BundleEntry) => {
 
 const listItems = matched.map(toListItem);
 
-const siteUrl = String(import.meta.env.PUBLIC_SITE_URL || Astro.site || 'https://worldexam.swal.network').replace(/\/+$/, '');
-const canonical = `${siteUrl}/preguntas/`;
+// Host canónico por idioma (lib/preguntas/canonical.ts).
+const canonical = `${SPANISH_HOST}/preguntas/`;
 const pageTitle = query
   ? `${t('preguntas.search.submit')}: “${query}” — ${t('preguntas.title')}`
   : t('preguntas.title');
 ---
 
-<Layout title={pageTitle} description={t('preguntas.description')}>
-  <link slot="head" rel="canonical" href={canonical} />
+<Layout title={pageTitle} description={t('preguntas.description')} canonical={canonical} hreflang="es">
   <div class="min-h-screen bg-[#0f172a] text-white">
     <main class="max-w-6xl mx-auto px-4 py-10">
       <header class="text-center max-w-3xl mx-auto mb-10">
