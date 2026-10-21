@@ -15,7 +15,7 @@ import {
 import { t } from '../../../../../../lib/i18n';
 import { buildQuizSchema, serializeJsonLd } from '../../../../../../lib/preguntas/quiz-schema';
 import { practiceUrlFor, subjectDisplayName } from '../../../../../../lib/preguntas/links';
-import { SPANISH_HOST, bundleLanguage, canonicalHostFor } from '../../../../../../lib/preguntas/canonical';
+import { SPANISH_HOST, bundleLanguage, canonicalHostFor, hreflangFor } from '../../../../../../lib/preguntas/canonical';
 import PracticeQuestion from '../../../../../../components/preguntas/PracticeQuestion.astro';
 
 export const getStaticPaths = async () => {
@@ -95,7 +95,7 @@ const quizSchema =
 Astro.response.headers.set('Cache-Control', 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400');
 ---
 
-<Layout title={pageTitle} description={pageDescription} image={ogImage} type="article" canonical={canonical}>
+<Layout title={pageTitle} description={pageDescription} image={ogImage} type="article" canonical={canonical} hreflang={hreflangFor(entry.country, contentLang)}>
   <script is:inline slot="head" type="application/ld+json" set:html={serializeJsonLd(breadcrumbSchema)} />
   {quizSchema && <script is:inline slot="head" type="application/ld+json" set:html={serializeJsonLd(quizSchema)} />}
 
