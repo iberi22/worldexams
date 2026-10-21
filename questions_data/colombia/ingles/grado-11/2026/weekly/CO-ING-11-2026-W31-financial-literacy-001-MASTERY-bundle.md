@@ -35,10 +35,10 @@ cefr_level: "C1+"
 In the context of financial literacy, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?
 
 ### Opciones
-- [x] B) exacerbate
-  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
 - [ ] A) alleviate
   <!-- feedback: Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed. -->
+- [x] B) exacerbate
+  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
 - [ ] C) mitigate
   <!-- feedback: Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied. -->
 - [ ] D) facilitate
@@ -127,23 +127,27 @@ The words 'nobody adds a single payment' remove any suggestion of active collect
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.70
-**Contexto:** Discussing financial literacy in Manizales.
+**Contexto:** Reading a short text about a school savings club in Manizales.
 
 ### Enunciado
-According to a recent report on financial literacy in Manizales, what is implied about the role of Inverted Conditionals in shaping public opinion?
+Read the text and answer the question.
+
+"At a public school in Manizales, the eleventh-grade class started a savings club in February. Each student puts aside 5,000 pesos every week in a shared account managed by two elected treasurers. Every month, the treasurers post a simple table on the classroom wall showing how much each member has saved. By November, the club hopes to pay for a trip to a visitor centre in the Los Nevados park without asking families for extra money. The teacher says the most important lesson is not the trip itself but the habit of saving small amounts regularly."
+
+According to the teacher, what is the most valuable result of the club?
 
 ### Opciones
-- [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
-- [ ] C) It is only used by academic elites in Cali.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [ ] A) Visiting the Los Nevados visitor centre in November.
+  <!-- feedback: Incorrect. The trip is the club's goal, but the teacher explicitly says the most important lesson is 'not the trip itself'. -->
+- [ ] B) Learning how to work as a treasurer.
+  <!-- feedback: Incorrect. Only two elected students are treasurers, while the teacher's lesson is meant for every member of the class. -->
+- [ ] C) Asking families to contribute more money.
+  <!-- feedback: Incorrect. The text says the opposite: the club wants to pay for the trip 'without asking families for extra money'. -->
+- [x] D) Developing the habit of saving small amounts regularly.
+  <!-- feedback: Correct. The last sentence states that the key lesson is 'the habit of saving small amounts regularly', which matches this option. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+This is a detail question about the speaker's opinion. The key is to separate the club's goal (the trip) from what the teacher values most. The phrase 'not the trip itself but...' signals a contrast, and the information after 'but' is the answer: regular saving as a habit.
 
 ---
 
@@ -152,23 +156,27 @@ This question requires inferential reading skills to understand how complex stru
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.67
-**Contexto:** Discussing financial literacy in Cali.
+**Contexto:** Reading a short text about 'buy now, pay later' apps in Cali.
 
 ### Enunciado
-According to a recent report on financial literacy in Cali, what is implied about the role of Inverted Conditionals in shaping public opinion?
+Read the text and answer the question.
+
+"Many young people in Cali now buy phones and sneakers with 'buy now, pay later' apps. The idea seems harmless: instead of paying 600,000 pesos at once, you pay four instalments of 150,000. However, if one payment is late, the app adds a fee of 30,000 pesos, and after two late payments the user can be reported to a credit bureau. A report like that can make it harder to rent an apartment or get a student loan years later. Financial advisers recommend reading the late-payment conditions before clicking 'accept'."
+
+What can be inferred about a user who misses two payments?
 
 ### Opciones
-- [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
-- [ ] C) It is only used by academic elites in Barranquilla.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [ ] A) They will pay less than 600,000 pesos in total.
+  <!-- feedback: Incorrect. Late payments add a 30,000-peso fee each time, so the total goes up, not down: 600,000 + 2 × 30,000 = 660,000. -->
+- [ ] B) They will have to return the phone immediately.
+  <!-- feedback: Incorrect. The text never mentions returning the product; the consequences it lists are fees and a credit report. -->
+- [ ] C) They will find it easier to get a student loan.
+  <!-- feedback: Incorrect. This is the opposite of the text, which says a credit report can make a student loan harder to get. -->
+- [x] D) They may have problems with future financial plans, such as renting a home.
+  <!-- feedback: Correct. Two late payments can lead to a credit report, and the text says such a report can make renting or borrowing harder later. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Inference questions ask you to connect two pieces of information. The text says two late payments lead to a credit bureau report, and in the next sentence that such a report causes problems with renting or loans. Joining both ideas gives the answer, even though no single sentence states it.
 
 ---
 
@@ -223,23 +231,27 @@ Complete this formal warning about a savings account: 'Should your income fall, 
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.58
-**Contexto:** Discussing financial literacy in Barranquilla.
+**Contexto:** Reading a short text about a neighbourhood shop in Barranquilla.
 
 ### Enunciado
-According to a recent report on financial literacy in Barranquilla, what is implied about the role of Inverted Conditionals in shaping public opinion?
+Read the text and answer the question.
+
+"Doña Marta has run a small neighbourhood shop in Barranquilla for twenty years. Like many shopkeepers, she lets regular customers take products 'fiado', which means they pay at the end of the week or month. She writes every debt in a notebook. Last year, the unpaid amounts grew so large that she almost could not afford to restock her shelves. Now she uses a simple rule: no customer can owe more than 50,000 pesos at a time. 'I still trust my neighbours,' she says, 'but I also need to keep my business afloat.'"
+
+In the last sentence, what does "keep my business afloat" mean?
 
 ### Opciones
-- [x] C) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
-- [ ] D) It is only used by academic elites in Manizales.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [ ] A) Move the shop closer to the river.
+  <!-- feedback: Incorrect. This reads 'afloat' literally, as if the shop were on water; the expression is figurative and refers to money. -->
+- [ ] B) Sell the business to a bigger company.
+  <!-- feedback: Incorrect. 'Keep' means she wants to continue owning the shop, so selling it contradicts the phrase. -->
+- [x] C) Keep the shop operating without financial collapse.
+  <!-- feedback: Correct. 'Keep something afloat' means to keep it from failing financially, which is why she limits debts to 50,000 pesos. -->
+- [ ] D) Stop selling products on credit completely.
+  <!-- feedback: Incorrect. She still trusts her neighbours and allows debts of up to 50,000 pesos, so credit has not stopped. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Vocabulary-in-context questions require using the surrounding sentences. Marta almost could not restock because of unpaid debts, and she created a limit to protect the shop. A boat that stays 'afloat' does not sink; a business that stays afloat does not go bankrupt.
 
 ---
 
@@ -248,23 +260,27 @@ This question requires inferential reading skills to understand how complex stru
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.55
-**Contexto:** Discussing financial literacy in Bogotá.
+**Contexto:** Reading a short guide about student loans in Bogotá.
 
 ### Enunciado
-According to a recent report on financial literacy in Bogotá, what is implied about the role of Inverted Conditionals in shaping public opinion?
+Read the text and answer the question.
+
+"Are you starting university in Bogotá next year? Before you sign a student loan, compare at least three options. Check the interest rate, but also ask when repayment begins: some loans require payments while you are still studying, while others wait until six months after graduation. Calculate the total amount you will return, not only the monthly payment. Finally, ask whether there are discounts for good grades. Free workshops on these topics are held every Saturday at 10 a.m. in the library of our Chapinero campus."
+
+What is the main purpose of this text?
 
 ### Opciones
-- [x] A) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] B) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
-- [ ] D) It is only used by academic elites in Barranquilla.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [x] A) To advise future students on how to choose a student loan carefully.
+  <!-- feedback: Correct. The text is a list of steps (compare, check, calculate, ask) addressed to future students, which is advice about choosing a loan. -->
+- [ ] B) To advertise one bank's loan with the lowest interest rate.
+  <!-- feedback: Incorrect. No bank or specific loan is named; the text tells readers to compare at least three options. -->
+- [ ] C) To explain why university education in Bogotá is expensive.
+  <!-- feedback: Incorrect. The text never discusses the causes of university costs; it focuses on how to evaluate loans. -->
+- [ ] D) To inform students that all loans start repayment after graduation.
+  <!-- feedback: Incorrect. The text says some loans require payments while you are still studying, so not all of them wait until graduation. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+To find the purpose of a text, look at its form and audience. This one uses a direct question to the reader and several imperatives (compare, check, calculate, ask), which is typical of advice. The final line about workshops supports the same purpose rather than changing it.
 
 ---
 
@@ -279,10 +295,10 @@ This question requires inferential reading skills to understand how complex stru
 Complete the following sentence about financial literacy: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Inverted Conditionals)
 
 ### Opciones
-- [x] B) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
 - [ ] A) has
   <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
+- [x] B) had
+  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
 - [ ] C) was
   <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
 - [ ] D) did
@@ -301,20 +317,20 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 **Contexto:** Discussing financial literacy in Barranquilla.
 
 ### Enunciado
-Complete the following sentence about financial literacy: 'Not until the compound interest is shown net of tax __________ the projection look attractive to a cautious saver.' (Topic: 'not until' with an inverted clause)
+Complete the following sentence about financial literacy: 'Not until the compound interest was shown net of tax __________ the projection look attractive to a cautious saver.'
 
 ### Opciones
 - [ ] A) had
-  <!-- feedback: 'Not until' inverts the main clause, placing the auxiliary before the subject 'the projection'. 'Had the projection looked' would leave the subject first, which the pattern forbids. -->
+  <!-- feedback: Incorrect. 'Had' needs a past participle ('had the projection looked'), but the verb after the gap is the base form 'look'. -->
 - [x] B) did
-  <!-- feedback: 'Not until interest is shown did the projection look attractive'. The auxiliary is fronted to invert the clause, which is the defining feature of the structure. -->
+  <!-- feedback: Correct. After a fronted 'Not until...' clause in the past, the main clause inverts with 'did' + base form: 'did the projection look'. -->
 - [ ] C) was
-  <!-- feedback: 'Was' would suggest a passive or a singular subject. The subject is singular but the verb is active, so a passive reading is not available. -->
-- [ ] D) do
-  <!-- feedback: 'Do' is present tense and cannot invert a past sequence in which the interest had already been calculated. -->
+  <!-- feedback: Incorrect. 'Was' combines with an adjective or an -ing form, so 'was the projection look' leaves the base verb 'look' without a valid auxiliary. -->
+- [ ] D) has
+  <!-- feedback: Incorrect. 'Has' requires a participle and present-perfect time, which clashes with the past 'was shown' and with the base form 'look'. -->
 
-### Explicación Pedagógica
-Inversion with 'not until' frontes the auxiliary so that the subject follows the verb: 'not until X did Y happen'. The auxiliary 'did' carries the tense of the main clause while the subject 'the projection' is delayed. Selecting a perfect or passive auxiliary would state a relation of time or voice that the sentence does not express.
+### Explicacion Pedagogica
+'Not until' at the start of a sentence makes the main clause invert. Because the time is past ('was shown') and the main verb appears in base form ('look'), the auxiliary must be 'did': 'Not until the interest was shown net of tax did the projection look attractive.'
 
 ---
 
@@ -427,17 +443,17 @@ Read this statement: 'Had Lina checked the repayment schedule, she would have no
 In a high-level debate about financial literacy, Sebastián says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Sebastián mean?
 
 ### Opciones
-- [x] D) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
 - [ ] A) They are literally looking for something in the trees of Pereira.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
+  <!-- feedback: Incorrect. This reads the idiom literally; nobody in the debate is searching real trees, because the expression is figurative and describes a mistaken line of action. -->
 - [ ] B) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
+  <!-- feedback: Incorrect. 'Barking' here does not describe a loud or aggressive tone; the idiom is about choosing the wrong objective, not about how people speak. -->
 - [ ] C) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+  <!-- feedback: Incorrect. The word 'tree' belongs to a fixed expression, so the speaker is not proposing a project with trees; the speaker is criticising the approach under discussion. -->
+- [x] D) The current strategy is directed towards the wrong objective.
+  <!-- feedback: Correct. 'Bark up the wrong tree' means aiming your effort at the wrong cause or target, so the speaker is saying the current plan on financial literacy points in the wrong direction. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+The idiom 'bark up the wrong tree' comes from hunting dogs that bark at a tree after the animal has escaped to another one. In a debate about financial literacy, it means the group's effort is aimed at the wrong cause or solution. The literal words (barking, trees) are not part of the message, so any option that mentions real trees or noise misreads the idiom.
 
 ---
 
@@ -446,23 +462,28 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.31
-**Contexto:** Discussing financial literacy in Cali.
+**Contexto:** A conversation about personal budgets in Cali.
 
 ### Enunciado
-In a high-level debate about financial literacy, Daniela says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Daniela mean?
+Read the dialogue.
+
+Andrés: "My salary didn't go up this year, but my rent did."
+Paula: "Then you'll have to cut back on eating out."
+
+What does Paula suggest?
 
 ### Opciones
-- [x] C) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of Bogotá.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] B) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] D) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [ ] A) Andrés should eat out more often to relax.
+  <!-- feedback: Incorrect. 'Cut back on' means to reduce, so Paula is suggesting less eating out, not more. -->
+- [ ] B) Andrés should cancel his rent contract.
+  <!-- feedback: Incorrect. The phrasal verb applies to 'eating out', not to the rent; Paula says nothing about the contract. -->
+- [x] C) Andrés should reduce how much he spends on restaurants.
+  <!-- feedback: Correct. 'Cut back on something' means to do or spend less of it, so she advises spending less on eating out. -->
+- [ ] D) Andrés should go back to the restaurant to complain.
+  <!-- feedback: Incorrect. 'Back' in 'cut back on' does not mean returning to a place; the whole phrasal verb means reduce. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+The phrasal verb 'cut back on' means to reduce the amount of something you use or spend. In the dialogue, Andrés's costs rose while his income stayed the same, so Paula logically suggests reducing a non-essential expense: eating at restaurants.
 
 ---
 
@@ -471,23 +492,28 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.28
-**Contexto:** Discussing financial literacy in Cartagena.
+**Contexto:** A conversation about a fisherman's income in Cartagena.
 
 ### Enunciado
-In a high-level debate about financial literacy, Mariana says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mariana mean?
+Read the dialogue.
+
+Reporter: "How has the season been for you?"
+Luis: "The fishing season was bad, so it's been hard to make ends meet."
+
+What does Luis mean?
 
 ### Opciones
-- [x] A) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] B) They are literally looking for something in the trees of Cartagena.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] C) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] D) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [x] A) He is struggling to pay for basic expenses with the money he earns.
+  <!-- feedback: Correct. 'Make ends meet' means to have just enough money to cover basic needs, and a bad season reduced his income. -->
+- [ ] B) He cannot finish repairing the ends of his fishing nets.
+  <!-- feedback: Incorrect. This reads 'ends' literally; in the idiom, the 'ends' are income and expenses, not parts of a net. -->
+- [ ] C) He is having trouble meeting new clients.
+  <!-- feedback: Incorrect. 'Meet' in this idiom does not refer to meeting people; it means making income and costs match. -->
+- [ ] D) He earns more than enough and saves the rest.
+  <!-- feedback: Incorrect. 'It's been hard' shows difficulty, which is the opposite of earning more than he needs. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+'Make ends meet' is a common idiom about money: it means earning just enough to pay for essential costs such as food and rent. The word 'hard' and the bad fishing season both show that Luis's income is barely covering his expenses.
 
 ---
 
@@ -496,22 +522,27 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.25
-**Contexto:** Discussing financial literacy in Manizales.
+**Contexto:** A conversation about saving money in Manizales.
 
 ### Enunciado
-In a high-level debate about financial literacy, Valentina says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Valentina mean?
+Read the dialogue.
+
+Grandmother: "Don't spend all your bonus on the concert, mija. Put some aside for a rainy day."
+Sara: "Okay, I'll save half of it."
+
+What is the grandmother advising?
 
 ### Opciones
-- [x] B) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of Pereira.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] C) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] D) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [ ] A) Buy an umbrella before the rainy season starts.
+  <!-- feedback: Incorrect. This takes 'rainy day' literally; the idiom refers to a future time of need, not to the weather. -->
+- [x] B) Save part of the money for unexpected future needs.
+  <!-- feedback: Correct. 'Save for a rainy day' means to keep money for a difficult moment in the future, and Sara answers by saving half. -->
+- [ ] C) Go to the concert only if it does not rain.
+  <!-- feedback: Incorrect. The grandmother talks about how much money to spend, not about the weather on the day of the concert. -->
+- [ ] D) Spend the whole bonus quickly before prices go up.
+  <!-- feedback: Incorrect. 'Don't spend all your bonus' and 'put some aside' both mean keeping money, the opposite of spending it all. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+'Put something aside' means to save it, and 'for a rainy day' means for a future moment when you might need it, such as an emergency. Sara's reply ('I'll save half') confirms the meaning, which is a useful strategy: check how the other speaker reacts.
 
 ---
