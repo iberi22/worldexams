@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "In which class do you add and subtract numbers?",
+      "context": "En una escuela de Popayán, los niños suman y restan números en el tablero.",
       "options": [
         {
-          "letter": "C",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the word for a place where you live or stay on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
+          "text": "Art",
           "is_correct": false,
-          "feedback": "'transportation' is the system of moving people or goods between places, not the place you sleep in itself."
+          "feedback": "Incorrect. In Art you paint and draw pictures, not add numbers."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "Math",
+          "is_correct": true,
+          "feedback": "Correct. Math is the class of numbers, where you add and subtract."
+        },
+        {
+          "letter": "C",
+          "text": "Music",
           "is_correct": false,
-          "feedback": "'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live."
+          "feedback": "Incorrect. In Music you sing and play instruments, not subtract numbers."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "Spanish",
           "is_correct": false,
-          "feedback": "'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in."
+          "feedback": "Incorrect. In Spanish class you read and write in Spanish, not do sums."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "\"Math\" es la clase de matemáticas, donde sumamos (\"add\") y restamos (\"subtract\"). \"Art\" es artes, \"Music\" es música y \"Spanish\" es la clase de español.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -55,36 +55,36 @@
     },
     {
       "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "In which class do you sing songs and play the drums?",
+      "context": "En un colegio de Santa Marta, los estudiantes cantan y tocan tambores para el día de la familia.",
       "options": [
         {
-          "letter": "D",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "Science",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "Incorrect. In Science you study plants, animals and experiments, not songs."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "P.E.",
           "is_correct": false,
-          "feedback": "'destination' names only the place you are going to, without the route or the order of the whole journey."
+          "feedback": "Incorrect. P.E. means Physical Education: you run and play games, not play drums."
         },
         {
           "letter": "C",
-          "text": "passport",
+          "text": "Music",
+          "is_correct": true,
+          "feedback": "Correct. Music is the class where you sing songs and play instruments like drums."
+        },
+        {
+          "letter": "D",
+          "text": "Math",
           "is_correct": false,
-          "feedback": "'passport' is the official document that lets you cross a border, not the plan of where you go."
+          "feedback": "Incorrect. Math is about numbers, and drums are musical instruments."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "\"Music\" es la clase de música. Allí cantamos canciones (\"sing songs\") y tocamos instrumentos como el tambor (\"drums\"). \"P.E.\" es educación física y \"Science\" es ciencias.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: \"I paint and draw pictures. My favorite subject is ____.\"",
+      "context": "Isabella vive en Cartago y en clase pinta flores y dibuja paisajes con colores.",
       "options": [
         {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' is the place someone is going to or something is being sent to."
+          "letter": "A",
+          "text": "Science",
+          "is_correct": false,
+          "feedback": "Incorrect. Science is about nature and experiments; painting pictures belongs to another class."
         },
         {
-          "letter": "A",
-          "text": "departure",
+          "letter": "B",
+          "text": "English",
           "is_correct": false,
-          "feedback": "'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself."
+          "feedback": "Incorrect. English is the class where you learn words in English, not paint."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "Social Studies",
           "is_correct": false,
-          "feedback": "'arrival' is the act of reaching a place, not the place that is reached."
+          "feedback": "Incorrect. Social Studies is about cities, maps and people, not drawing pictures."
         },
         {
           "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "'journey' is the whole trip from the start to the end, not the place the trip finishes at."
+          "text": "Art",
+          "is_correct": true,
+          "feedback": "Correct. In Art class you paint and draw, so Art is the subject that matches."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "La frase \"My favorite subject is...\" significa \"Mi materia favorita es...\". Si la niña pinta y dibuja (\"paint and draw\"), su materia favorita es \"Art\", la clase de artes.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.72,
       "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Pedro: \"What is your favorite subject?\"\nLuisa: \"____\"",
+      "context": "Pedro y Luisa son compañeros en un colegio de Armenia y conversan en el descanso.",
       "options": [
         {
-          "letter": "C",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in."
+          "text": "My favorite subject is Science.",
+          "is_correct": true,
+          "feedback": "Correct. Pedro asks about a subject, and Science is a school subject."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "My favorite color is blue.",
           "is_correct": false,
-          "feedback": "'flight' is the journey by plane itself, not the containers that hold your things."
+          "feedback": "Incorrect. Blue is a color, but Pedro asks about a school subject."
+        },
+        {
+          "letter": "C",
+          "text": "I have a pencil.",
+          "is_correct": false,
+          "feedback": "Incorrect. A pencil is a school object, not a subject or class."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "It is Monday.",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you make for a seat or a room, not the bag you carry."
+          "feedback": "Incorrect. Monday is a day of the week, and the question asks for a subject."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "\"What is your favorite subject?\" pregunta por tu materia favorita. La respuesta debe nombrar una materia, como \"Science\" (ciencias). Un color, un objeto o un día no responden la pregunta.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.68,
       "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Valentina studies plants and animals in class. Today she looks at a leaf and a small bug.\"\nWhat class is it?",
+      "context": "Valentina estudia en Florencia, Caquetá, cerca de la selva, y observa plantas y animales en clase.",
       "options": [
         {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "Spanish",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all."
+          "feedback": "Incorrect. In Spanish class you read stories; studying a leaf and a bug is not the topic."
         },
         {
           "letter": "B",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle."
+          "text": "Science",
+          "is_correct": true,
+          "feedback": "Correct. Science is the class where you study plants, animals and nature."
         },
         {
           "letter": "C",
-          "text": "tourist",
+          "text": "P.E.",
           "is_correct": false,
-          "feedback": "'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle."
+          "feedback": "Incorrect. In P.E. you move your body and play sports, not study a leaf."
+        },
+        {
+          "letter": "D",
+          "text": "Music",
+          "is_correct": false,
+          "feedback": "Incorrect. In Music you sing and play instruments, not look at bugs."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Si en la clase se estudian plantas (\"plants\") y animales (\"animals\"), es la clase de ciencias: \"Science\". La hoja (\"leaf\") y el insecto (\"bug\") son pistas de la naturaleza.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.6,
       "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: \"In P.E. class, students ____.\"",
+      "context": "En un colegio de Cúcuta, la clase de educación física es en la cancha del colegio.",
       "options": [
         {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive."
+          "letter": "A",
+          "text": "read stories in Spanish",
+          "is_correct": false,
+          "feedback": "Incorrect. Reading stories in Spanish is what you do in Spanish class."
         },
         {
-          "letter": "A",
-          "text": "security",
+          "letter": "B",
+          "text": "draw a map of Colombia",
           "is_correct": false,
-          "feedback": "'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in."
+          "feedback": "Incorrect. Drawing a map of Colombia belongs to Social Studies."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "count numbers to one hundred",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for your plane, not the place where your belongings are inspected."
+          "feedback": "Incorrect. Counting numbers is an activity of Math class."
         },
         {
           "letter": "D",
-          "text": "gate",
-          "is_correct": false,
-          "feedback": "'gate' is the door at the plane you walk through to board, not the place where officials check your things."
+          "text": "run and play games",
+          "is_correct": true,
+          "feedback": "Correct. P.E. is Physical Education, and in it you run and play games."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "\"P.E.\" significa \"Physical Education\", es decir, educación física. En esta clase corremos (\"run\") y jugamos (\"play games\"). Leer cuentos, dibujar mapas y contar pertenecen a otras materias.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.56,
       "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read Juan's schedule:\nMonday: Math and English\nTuesday: Art and Music\nWednesday: P.E. and Science\nJuan wants to take his paints to school. Which day should he take them?",
+      "context": "Juan estudia en Pasto y mira su horario para saber qué llevar al colegio cada día.",
       "options": [
         {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane."
+          "letter": "A",
+          "text": "Monday",
+          "is_correct": false,
+          "feedback": "Incorrect. On Monday Juan has Math and English, and there is no Art class that day."
         },
         {
-          "letter": "A",
-          "text": "visa",
+          "letter": "B",
+          "text": "Wednesday",
           "is_correct": false,
-          "feedback": "'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline."
+          "feedback": "Incorrect. On Wednesday Juan has P.E. and Science, so he does not need paints."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'receipt' is the proof that you paid for something, which is not permission to board a plane."
+          "text": "Tuesday",
+          "is_correct": true,
+          "feedback": "Correct. Paints are for Art class, and Juan has Art on Tuesday."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "Friday",
           "is_correct": false,
-          "feedback": "'brochure' is a leaflet with tourist information, not a travel document issued to a passenger."
+          "feedback": "Incorrect. Friday is not on Juan's schedule, so we do not know about Art that day."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Las pinturas (\"paints\") se usan en la clase de artes (\"Art\"). En el horario, \"Art\" aparece el martes (\"Tuesday\"). Por eso Juan debe llevar las pinturas ese día.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.5,
       "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Sara says: \"I like learning about the cities, rivers and people of Colombia.\"\nWhich subject is best for her?",
+      "context": "Sara vive en Leticia y le encanta aprender sobre los ríos, las ciudades y la gente de Colombia.",
       "options": [
         {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' means visiting the places of interest of a location as a traveler."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place."
+          "text": "Social Studies",
+          "is_correct": true,
+          "feedback": "Correct. Social Studies teaches about cities, rivers, maps and people of a country."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "Math",
           "is_correct": false,
-          "feedback": "'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city."
+          "feedback": "Incorrect. Math is about numbers and shapes, not the cities and people of Colombia."
+        },
+        {
+          "letter": "C",
+          "text": "English",
+          "is_correct": false,
+          "feedback": "Incorrect. English teaches a language; cities and rivers are the topic of another subject."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "P.E.",
           "is_correct": false,
-          "feedback": "'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place."
+          "feedback": "Incorrect. P.E. is about exercise and sports, not learning about Colombia's rivers."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "correct_answer": "A",
+      "explanation": "\"Social Studies\" es la clase de ciencias sociales: allí aprendemos sobre ciudades (\"cities\"), ríos (\"rivers\") y personas (\"people\"). Por eso es la mejor materia para Sara.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.45,
       "bundle_id": "CO-ING-3-2026-W33-school-subjects-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",

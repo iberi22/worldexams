@@ -388,9 +388,9 @@
         },
         {
           "letter": "B",
-          "text": "Relación de concesión.",
-          "is_correct": true,
-          "feedback": "¡Correcto! Expresa una dificultad u obstáculo que no impide el cumplimiento de la acción principal."
+          "text": "Relación de comparación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se están comparando dos elementos en cuanto a su grado o cualidad."
         },
         {
           "letter": "C",
@@ -400,12 +400,12 @@
         },
         {
           "letter": "D",
-          "text": "Relación de comparación.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No se están comparando dos elementos en cuanto a su grado o cualidad."
+          "text": "Relación de concesión.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Expresa una dificultad u obstáculo que no impide el cumplimiento de la acción principal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las subordinadas concesivas indican un hecho que se opone a la acción principal pero no logra anularla. Se introducen por nexos como \"aunque\", \"a pesar de que\" o \"pese a que\".",
       "difficulty": "10",
       "images": [],

@@ -13,16 +13,16 @@
       "context": "Un estudiante en un instituto de Madrid estudia la forma de las funciones de segundo grado.",
       "options": [
         {
-          "letter": "B",
-          "text": "Hipérbola",
-          "is_correct": false,
-          "feedback": "La hipérbola corresponde a funciones racionales de tipo y=k/x."
-        },
-        {
           "letter": "A",
           "text": "Parábola",
           "is_correct": true,
           "feedback": "Correcto. Es la curva simétrica en forma de U (o U invertida) característica de los polinomios de grado 2."
+        },
+        {
+          "letter": "B",
+          "text": "Hipérbola",
+          "is_correct": false,
+          "feedback": "La hipérbola corresponde a funciones racionales de tipo y=k/x."
         },
         {
           "letter": "C",
@@ -58,16 +58,16 @@
       "context": "Se analiza el punto más bajo de una trayectoria en una clase en Barcelona.",
       "options": [
         {
-          "letter": "B",
-          "text": "Foco",
-          "is_correct": false,
-          "feedback": "El foco es un punto interno de la parábola pero no pertenece a la curva."
-        },
-        {
           "letter": "A",
           "text": "Vértice",
           "is_correct": true,
           "feedback": "Correcto. El vértice es el punto de inflexión donde la función cambia de decreciente a creciente (o viceversa)."
+        },
+        {
+          "letter": "B",
+          "text": "Foco",
+          "is_correct": false,
+          "feedback": "El foco es un punto interno de la parábola pero no pertenece a la curva."
         },
         {
           "letter": "C",
@@ -109,12 +109,6 @@
           "feedback": "Se ha olvidado dividir por 2a."
         },
         {
-          "letter": "D",
-          "text": "3",
-          "is_correct": true,
-          "feedback": "Correcto. Usando la fórmula $x_v = -b / 2a$: $x_v = -(-6) / (2 \\cdot 1) = 3$."
-        },
-        {
           "letter": "B",
           "text": "-3",
           "is_correct": false,
@@ -125,6 +119,12 @@
           "text": "0",
           "is_correct": false,
           "feedback": "Este sería el valor si b fuera cero."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. Usando la fórmula $x_v = -b / 2a$: $x_v = -(-6) / (2 \\cdot 1) = 3$."
         }
       ],
       "correct_answer": "D",
@@ -148,16 +148,16 @@
       "context": "Un examen en Sevilla pregunta por el efecto del coeficiente $a$ en la gráfica.",
       "options": [
         {
-          "letter": "B",
-          "text": "Hacia arriba (convexa).",
-          "is_correct": false,
-          "feedback": "Esto ocurre si a > 0."
-        },
-        {
           "letter": "A",
           "text": "Hacia abajo (cóncava).",
           "is_correct": true,
           "feedback": "Correcto. Un coeficiente principal negativo invierte la parábola, situando el vértice en el máximo."
+        },
+        {
+          "letter": "B",
+          "text": "Hacia arriba (convexa).",
+          "is_correct": false,
+          "feedback": "Esto ocurre si a > 0."
         },
         {
           "letter": "C",
@@ -199,12 +199,6 @@
           "feedback": "Olvida que hay dos raíces y que debe extraer la raíz cuadrada."
         },
         {
-          "letter": "D",
-          "text": "En (2, 0) y (-2, 0).",
-          "is_correct": true,
-          "feedback": "Correcto. $x^2 - 4 = 0 \\Rightarrow x^2 = 4 \\Rightarrow x = \\pm 2$."
-        },
-        {
           "letter": "B",
           "text": "En (0, 2) y (0, -2).",
           "is_correct": false,
@@ -215,6 +209,12 @@
           "text": "No corta al eje X.",
           "is_correct": false,
           "feedback": "El discriminante es positivo ($16$), por lo que sí corta."
+        },
+        {
+          "letter": "D",
+          "text": "En (2, 0) y (-2, 0).",
+          "is_correct": true,
+          "feedback": "Correcto. $x^2 - 4 = 0 \\Rightarrow x^2 = 4 \\Rightarrow x = \\pm 2$."
         }
       ],
       "correct_answer": "D",
@@ -238,6 +238,12 @@
       "context": "Se analiza el punto de corte con el eje vertical para un lanzamiento.",
       "options": [
         {
+          "letter": "A",
+          "text": "(0, 7)",
+          "is_correct": true,
+          "feedback": "Correcto. Sustituyendo x = 0, el resultado es 7."
+        },
+        {
           "letter": "B",
           "text": "(0, 0)",
           "is_correct": false,
@@ -248,12 +254,6 @@
           "text": "(7, 0)",
           "is_correct": false,
           "feedback": "Confusión entre coordenadas x e y."
-        },
-        {
-          "letter": "A",
-          "text": "(0, 7)",
-          "is_correct": true,
-          "feedback": "Correcto. Sustituyendo x = 0, el resultado es 7."
         },
         {
           "letter": "D",
@@ -283,16 +283,16 @@
       "context": "Un estudiante analiza la relación entre el discriminante y el número de cortes con el eje X.",
       "options": [
         {
-          "letter": "B",
-          "text": "Corta al eje X en dos puntos distintos.",
-          "is_correct": false,
-          "feedback": "Esto requiere discriminante positivo."
-        },
-        {
           "letter": "A",
           "text": "El vértice de la parábola está sobre el eje X (un único punto de corte).",
           "is_correct": true,
           "feedback": "Correcto. La parábola es tangente al eje."
+        },
+        {
+          "letter": "B",
+          "text": "Corta al eje X en dos puntos distintos.",
+          "is_correct": false,
+          "feedback": "Esto requiere discriminante positivo."
         },
         {
           "letter": "C",
@@ -328,16 +328,16 @@
       "context": "Un proyectil lanzado en un campo de prácticas en Murcia sigue la trayectoria $h(t) = -5t^2 + 20t$.",
       "options": [
         {
-          "letter": "B",
-          "text": "t = 4 s",
-          "is_correct": false,
-          "feedback": "Este es el tiempo total de vuelo hasta volver al suelo."
-        },
-        {
           "letter": "A",
           "text": "t = 2 s",
           "is_correct": true,
           "feedback": "Correcto. $t_v = -20 / (2 \\cdot -5) = -20 / -10 = 2$."
+        },
+        {
+          "letter": "B",
+          "text": "t = 4 s",
+          "is_correct": false,
+          "feedback": "Este es el tiempo total de vuelo hasta volver al suelo."
         },
         {
           "letter": "C",
@@ -373,16 +373,16 @@
       "context": "Un estudiante en San Sebastián halla el valor mínimo de una función de coste.",
       "options": [
         {
-          "letter": "B",
-          "text": "x = 2",
-          "is_correct": false,
-          "feedback": "Esta es la posición del mínimo, no el valor mínimo de la función."
-        },
-        {
           "letter": "A",
           "text": "y = 6",
           "is_correct": true,
           "feedback": "Correcto. El vértice está en $x=2$. Evaluando: $f(2) = 2^2 - 4(2) + 10 = 4 - 8 + 10 = 6$."
+        },
+        {
+          "letter": "B",
+          "text": "x = 2",
+          "is_correct": false,
+          "feedback": "Esta es la posición del mínimo, no el valor mínimo de la función."
         },
         {
           "letter": "C",
@@ -469,16 +469,16 @@
           "feedback": "El coeficiente principal es positivo."
         },
         {
-          "letter": "C",
-          "text": "Siempre positivo.",
-          "is_correct": true,
-          "feedback": "Correcto. El discriminante es negativo ($4-20=-16$), por lo que no corta al eje X. Como abre hacia arriba, siempre está por encima del eje."
-        },
-        {
           "letter": "B",
           "text": "Positivo para x > 0 y negativo para x < 0.",
           "is_correct": false,
           "feedback": "Esto sería una función impar o lineal."
+        },
+        {
+          "letter": "C",
+          "text": "Siempre positivo.",
+          "is_correct": true,
+          "feedback": "Correcto. El discriminante es negativo ($4-20=-16$), por lo que no corta al eje X. Como abre hacia arriba, siempre está por encima del eje."
         },
         {
           "letter": "D",
@@ -514,12 +514,6 @@
           "feedback": "Es una recta, no una parábola."
         },
         {
-          "letter": "D",
-          "text": "$y = 2x^2$",
-          "is_correct": true,
-          "feedback": "Correcto. $y = ax^2$. Sustituyendo (2,8): $8 = a(2^2) \\Rightarrow 8 = 4a \\Rightarrow a = 2$."
-        },
-        {
           "letter": "B",
           "text": "$y = x^2 + 4$",
           "is_correct": false,
@@ -530,6 +524,12 @@
           "text": "$y = 8x^2$",
           "is_correct": false,
           "feedback": "No cumple el punto (2,8): 8(4) = 32 ≠ 8."
+        },
+        {
+          "letter": "D",
+          "text": "$y = 2x^2$",
+          "is_correct": true,
+          "feedback": "Correcto. $y = ax^2$. Sustituyendo (2,8): $8 = a(2^2) \\Rightarrow 8 = 4a \\Rightarrow a = 2$."
         }
       ],
       "correct_answer": "D",
@@ -598,16 +598,16 @@
       "context": "Un arquitecto en Málaga diseña un puente con un arco parabólico que corta al suelo en los puntos $x = 0$ y $x = 10$.",
       "options": [
         {
-          "letter": "B",
-          "text": "$y = x(x-10)$",
-          "is_correct": false,
-          "feedback": "La altura máxima sería negativa (hacia abajo)."
-        },
-        {
           "letter": "A",
           "text": "$y = -0,2x(x-10)$",
           "is_correct": true,
           "feedback": "Correcto. Vértice en x=5. $5 = a(5)(5-10) \\Rightarrow 5 = -25a \\Rightarrow a = -0,2$."
+        },
+        {
+          "letter": "B",
+          "text": "$y = x(x-10)$",
+          "is_correct": false,
+          "feedback": "La altura máxima sería negativa (hacia abajo)."
         },
         {
           "letter": "C",
@@ -739,12 +739,6 @@
           "feedback": "La parábola no pasa por el origen."
         },
         {
-          "letter": "D",
-          "text": "1 unidad",
-          "is_correct": true,
-          "feedback": "Correcto. El punto más cercano es el vértice (0, 1), cuya distancia al origen es exactamente 1."
-        },
-        {
           "letter": "B",
           "text": "$\\sqrt{2}$ unidades",
           "is_correct": false,
@@ -755,6 +749,12 @@
           "text": "2 unidades",
           "is_correct": false,
           "feedback": "Valor incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "1 unidad",
+          "is_correct": true,
+          "feedback": "Correcto. El punto más cercano es el vértice (0, 1), cuya distancia al origen es exactamente 1."
         }
       ],
       "correct_answer": "D",
@@ -778,16 +778,16 @@
       "context": "Se plantea una familia de parábolas que dependen de un parámetro $k$.",
       "options": [
         {
-          "letter": "B",
-          "text": "$k > 4$",
-          "is_correct": false,
-          "feedback": "Tendría raíces reales, por lo que tocaría o cruzaría el eje X."
-        },
-        {
           "letter": "A",
           "text": "$-4 < k < 4$",
           "is_correct": true,
           "feedback": "Correcto. Requiere discriminante negativo: $k^2 - 16 < 0 \\Rightarrow k^2 < 16 \\Rightarrow |k| < 4$."
+        },
+        {
+          "letter": "B",
+          "text": "$k > 4$",
+          "is_correct": false,
+          "feedback": "Tendría raíces reales, por lo que tocaría o cruzaría el eje X."
         },
         {
           "letter": "C",
@@ -823,16 +823,16 @@
       "context": "Un estudiante de ingeniería analiza la suma de las áreas de cuadrados cuyos lados dependen de una variable $x$.",
       "options": [
         {
-          "letter": "B",
-          "text": "$y = x^2 + 6x + 8$",
-          "is_correct": false,
-          "feedback": "La suma sería -6."
-        },
-        {
           "letter": "A",
           "text": "$y = x^2 - 6x + 8$",
           "is_correct": true,
           "feedback": "Correcto. Por relaciones de Vieta: $x^2 - (suma)x + producto = 0$."
+        },
+        {
+          "letter": "B",
+          "text": "$y = x^2 + 6x + 8$",
+          "is_correct": false,
+          "feedback": "La suma sería -6."
         },
         {
           "letter": "C",
@@ -868,22 +868,22 @@
       "context": "Un reto sobre el desplazamiento de parábolas en el plano.",
       "options": [
         {
+          "letter": "A",
+          "text": "$y = (x-3)^2 - 2$",
+          "is_correct": false,
+          "feedback": "El -2 desplaza hacia abajo."
+        },
+        {
           "letter": "B",
           "text": "$y = (x+3)^2 + 2$",
           "is_correct": false,
           "feedback": "El signo +3 desplaza a la izquierda."
         },
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$y = (x-3)^2 + 2$",
           "is_correct": true,
           "feedback": "Correcto. Desplazamiento horizontal h=+3 (resta en la x) y vertical k=+2 (suma fuera)."
-        },
-        {
-          "letter": "C",
-          "text": "$y = (x-3)^2 - 2$",
-          "is_correct": false,
-          "feedback": "El -2 desplaza hacia abajo."
         },
         {
           "letter": "D",
@@ -892,7 +892,7 @@
           "feedback": "No corresponde a los desplazamientos indicados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las traslaciones de funciones se reflejan en su expresión analítica. Un desplazamiento de $h$ unidades en el eje X se escribe como $(x - h)$ y un desplazamiento de $k$ unidades en el eje Y como $+ k$.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

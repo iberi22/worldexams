@@ -13,12 +13,6 @@
       "context": "Discussing economic trends in Cartagena.",
       "options": [
         {
-          "letter": "C",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
           "text": "alleviate",
           "is_correct": false,
@@ -29,6 +23,12 @@
           "text": "mitigate",
           "is_correct": false,
           "feedback": "Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied."
+        },
+        {
+          "letter": "C",
+          "text": "exacerbate",
+          "is_correct": true,
+          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
         },
         {
           "letter": "D",
@@ -151,16 +151,16 @@
       "context": "Discussing economic trends in Pereira.",
       "options": [
         {
-          "letter": "B",
-          "text": "undermines",
-          "is_correct": true,
-          "feedback": "'Undermine' means to weaken something that was relied upon, and a large downward revision calls into question the figures that were built on the original number. The clause names exactly what loses authority as a result."
-        },
-        {
           "letter": "A",
           "text": "corroborates",
           "is_correct": false,
           "feedback": "'Corroborate' means to confirm a statement with supporting evidence, and a downward revision is the opposite of confirmation. The sentence describes trust being damaged rather than reinforced."
+        },
+        {
+          "letter": "B",
+          "text": "undermines",
+          "is_correct": true,
+          "feedback": "'Undermine' means to weaken something that was relied upon, and a large downward revision calls into question the figures that were built on the original number. The clause names exactly what loses authority as a result."
         },
         {
           "letter": "C",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W06-economic-trends-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on economic trends in Bogotá, what is implied about the role of Participle Clauses in shaping public opinion?",
-      "context": "Discussing economic trends in Bogotá.",
+      "statement": "Read the text and answer the question.\n\n\"Money sent home by Colombians living abroad, known as remittances, has become one of the country's largest sources of foreign currency. In recent years, remittances have brought in more dollars than coffee exports. In cities such as Pereira and Dosquebradas, many families use this money to pay for food, school fees and house improvements. Economists warn, however, that families can become dependent on these transfers if local jobs are not created.\"\n\nWhat is the main idea of the text?",
+      "context": "Reading an economics article about remittances sent to families in Pereira.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats Participle Clauses as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Coffee exports are Colombia's most important source of money.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "The text says remittances have brought in more dollars than coffee exports, so coffee is not presented as the most important source."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Families in Pereira do not need local jobs.",
           "is_correct": false,
-          "feedback": "Participle Clauses add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "Economists warn that local jobs are necessary to avoid dependence on remittances."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Barranquilla.",
+          "text": "Colombians abroad are returning home to start businesses.",
           "is_correct": false,
-          "feedback": "The report presents Participle Clauses as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "The text talks about money sent home, not about people returning or starting businesses."
+        },
+        {
+          "letter": "D",
+          "text": "Remittances are economically important but can create dependence.",
+          "is_correct": true,
+          "feedback": "The text first shows how important remittances are and then, with 'however', presents the economists' warning about dependence."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Many informative texts follow a 'positive fact + however + risk' structure. The best main-idea answer keeps both sides, while distractors either contradict a figure (coffee) or invent information (returning migrants).\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-11-2026-W06-economic-trends-001-MASTERY-bundle-v6",
-      "statement": "According to a recent report on economic trends in Manizales, what is implied about the role of Participle Clauses in shaping public opinion?",
-      "context": "Discussing economic trends in Manizales.",
+      "statement": "Read the text and answer the question.\n\n\"Doña Rosa has sold arepas outside a school in Bucaramanga for fifteen years. In 2022, the prices of corn, cheese and cooking gas rose so quickly that she changed her price three times in six months. 'Each time, I lost some customers, because the students only have a few coins,' she says. Now she makes her arepas a little smaller instead of raising the price again.\"\n\nWhat can be inferred about Doña Rosa's decision?",
+      "context": "Reading a profile of an arepa vendor in Bucaramanga during a period of high inflation.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats Participle Clauses as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
+          "letter": "A",
+          "text": "She wants her customers to eat healthier food.",
+          "is_correct": false,
+          "feedback": "Health is never mentioned. Her decision is connected to the cost of ingredients and to losing customers."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "letter": "B",
+          "text": "She hopes to cover her rising costs without losing more customers.",
+          "is_correct": true,
+          "feedback": "Raising prices made her lose customers, so making smaller arepas 'instead of raising the price' is a way to pay for expensive ingredients while keeping buyers."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "The price of corn and cheese has fallen.",
           "is_correct": false,
-          "feedback": "Participle Clauses add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "If ingredients were cheaper, she would not need to change the size of her arepas. The text describes rising prices."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bucaramanga.",
+          "text": "She plans to close her business soon.",
           "is_correct": false,
-          "feedback": "The report presents Participle Clauses as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "She is adapting her product to continue selling, which suggests she wants to keep the business open."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Inference requires connecting cause and effect: rising ingredient prices, lost customers after each price increase, and then a new strategy. Economists call this strategy 'shrinkflation', which is a common reaction to inflation.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -285,36 +285,36 @@
     },
     {
       "id": "CO-ING-11-2026-W06-economic-trends-001-MASTERY-bundle-v7",
-      "statement": "According to a recent report on economic trends in Pereira, what is implied about the role of Participle Clauses in shaping public opinion?",
-      "context": "Discussing economic trends in Pereira.",
+      "statement": "Read the text and answer the question.\n\n\"Digital payments have boomed in Colombia over the last five years. Many small shops in Medellín that once accepted only cash now display a QR code next to the cash register. Shop owners say that customers spend more when they do not need to carry cash, and that fewer robberies happen when there is less money in the shop. However, older customers often still prefer to pay with coins and notes.\"\n\nIn the text, the word \"boomed\" means:",
+      "context": "Reading a report about digital payments in small shops in Medellín.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats Participle Clauses as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
+          "letter": "A",
+          "text": "exploded dangerously",
+          "is_correct": false,
+          "feedback": "A 'boom' can be a loud noise, but here the subject is digital payments, and the text describes growth in their use, not an explosion."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "letter": "B",
+          "text": "grown very quickly",
+          "is_correct": true,
+          "feedback": "The text supports this meaning: shops that 'once accepted only cash' now use QR codes, which shows a fast increase in digital payments."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "become illegal",
           "is_correct": false,
-          "feedback": "Participle Clauses add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "Shops display QR codes openly and owners describe benefits, so digital payments are clearly legal."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Cali.",
+          "text": "stayed the same",
           "is_correct": false,
-          "feedback": "The report presents Participle Clauses as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "The text describes a clear change from cash to QR codes, so the situation did not stay the same."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "In economics, 'boom' means a period of rapid growth, the opposite of a 'slump'. The before-and-after description ('once accepted only cash ... now display a QR code') is the context clue that confirms this meaning.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -377,36 +377,36 @@
     },
     {
       "id": "CO-ING-11-2026-W06-economic-trends-001-MASTERY-bundle-v9",
-      "statement": "According to a recent report on economic trends in Cali, what is implied about the role of Participle Clauses in shaping public opinion?",
-      "context": "Discussing economic trends in Cali.",
+      "statement": "Read the text and answer the question.\n\n\"In 2024, international coffee prices reached their highest level in decades because of poor harvests in Brazil and Vietnam. For many coffee growers in Huila and Antioquia, it was the best year they could remember. However, the high prices also attracted thieves, and some farms hired night guards to protect their stored beans. Cooperatives advised farmers to save part of their income, because prices can fall as quickly as they rise.\"\n\nAccording to the text, why did international coffee prices rise?",
+      "context": "Reading a news story about high coffee prices and farmers in Huila and Antioquia.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "Because Brazil and Vietnam had poor harvests.",
           "is_correct": true,
-          "feedback": "The report treats Participle Clauses as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
+          "feedback": "The first sentence gives the cause directly: prices rose 'because of poor harvests in Brazil and Vietnam'."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Because Colombian farms hired more guards.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "Hiring guards was a consequence of high prices (thieves), not the cause of them."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Because cooperatives saved part of their income.",
           "is_correct": false,
-          "feedback": "Participle Clauses add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "Cooperatives advised saving as a precaution; saving money does not raise coffee prices."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bogotá.",
+          "text": "Because Colombian farmers produced less coffee.",
           "is_correct": false,
-          "feedback": "The report presents Participle Clauses as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "The text does not say Colombian production fell; it was 'the best year' for many local growers."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Questions with 'why' require separating causes from consequences. In this text, poor harvests abroad are the cause, while thefts, night guards and savings advice are consequences of the high prices.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -423,36 +423,36 @@
     },
     {
       "id": "CO-ING-11-2026-W06-economic-trends-001-MASTERY-bundle-v10",
-      "statement": "According to a recent report on economic trends in Cartagena, what is implied about the role of Participle Clauses in shaping public opinion?",
-      "context": "Discussing economic trends in Cartagena.",
+      "statement": "Read the text and answer the question.\n\n\"Thousands of young people in Bogotá now work as delivery riders for mobile apps. The job offers something many of them value: they can choose their own hours. But this freedom has a cost. Most riders have no health insurance from the companies, and an accident can mean weeks without income. In my view, flexible work is not the problem; the problem is flexible work without protection. A fair system should offer both.\"\n\nWhat is the writer's opinion about app delivery work?",
+      "context": "Reading an opinion column about app delivery riders in Bogotá.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats Participle Clauses as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "It should be banned because it is too dangerous.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "The writer never suggests banning the work; he wants it to include protection."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "It is perfect because riders choose their hours.",
           "is_correct": false,
-          "feedback": "Participle Clauses add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "The writer recognises this advantage but says 'this freedom has a cost', so he does not think it is perfect."
+        },
+        {
+          "letter": "C",
+          "text": "It should keep its flexibility but include protection for workers.",
+          "is_correct": true,
+          "feedback": "'Flexible work is not the problem; the problem is flexible work without protection' and 'A fair system should offer both' express this view."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Medellín.",
+          "text": "It is only suitable for older workers.",
           "is_correct": false,
-          "feedback": "The report presents Participle Clauses as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "The text talks about young people and does not say the job suits older workers better."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Phrases such as 'In my view' introduce the writer's opinion. Students should read the whole sentence carefully, because the writer separates what he accepts (flexibility) from what he criticises (lack of protection).\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -469,36 +469,36 @@
     },
     {
       "id": "CO-ING-11-2026-W06-economic-trends-001-MASTERY-bundle-v11",
-      "statement": "Complete the following sentence about economic trends: 'Retail sales having fallen for two quarters, __________ the case for a further cut in rates.' (Topic: a dangling participle whose subject is the preceding clause)",
-      "context": "Discussing economic trends in Manizales.",
+      "statement": "Complete the following sentence about economic trends: '__________ for two quarters, retail sales gave the central bank a strong reason to cut interest rates again.' (Topic: perfect participle clauses)",
+      "context": "Reading an economic bulletin about retail sales and interest rates in Manizales.",
       "options": [
         {
-          "letter": "B",
-          "text": "strengthened",
-          "is_correct": true,
-          "feedback": "When a clause begins with a noun phrase followed by 'having', the main verb belongs to that subject. 'Retail sales' are the subject here, and a fall in them strengthens rather than weakens the argument for cutting rates."
+          "letter": "A",
+          "text": "Fallen",
+          "is_correct": false,
+          "feedback": "A past participle alone at the start of a clause has a passive meaning ('having been fallen'), which is impossible with the intransitive verb 'fall'."
         },
         {
-          "letter": "A",
-          "text": "weakened",
-          "is_correct": false,
-          "feedback": "'Weakened' would contradict the reasoning set up by the opening. Falling retail sales are precisely the evidence for a rate cut, so they make the case stronger rather than weaker."
+          "letter": "B",
+          "text": "Having fallen",
+          "is_correct": true,
+          "feedback": "The perfect participle shows an action completed before the main verb, and its subject is the subject of the main clause: retail sales had fallen, then they gave the bank a reason."
         },
         {
           "letter": "C",
-          "text": "complicated",
+          "text": "Being fallen",
           "is_correct": false,
-          "feedback": "'Complicated' implies the case became harder to make, and the two quarters of decline produce a straightforward evidential link. Nothing in the sentence suggests the reasoning has been obscured."
+          "feedback": "'Being' + past participle forms a passive, and 'fall' has no passive form. The sales fell by themselves; nobody 'fell' them."
         },
         {
           "letter": "D",
-          "text": "repeated",
+          "text": "Had fallen",
           "is_correct": false,
-          "feedback": "'Repeated' would treat the main clause as a bare noun phrase with no verb, and the sentence requires a full verb after the dangling participle. The two quarters are reported in the opening, not restated by the main clause."
+          "feedback": "'Had fallen' is a finite verb, so the sentence would have two main clauses joined only by a comma, which is a run-on sentence."
         }
       ],
       "correct_answer": "B",
-      "explanation": "A clause opening with 'having' takes over the subject of the main verb, which is the source of the error this item targets. At C1+ the reliable move is to ask who the subject is at that moment, because the answer determines the meaning of the main verb more than any sense the verb carries on its own.\n\n---",
+      "explanation": "A perfect participle clause ('Having + past participle') replaces a full clause such as 'After retail sales had fallen'. It must share its subject with the main clause, which is why the subject 'retail sales' appears right after the comma.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -519,12 +519,6 @@
       "context": "Discussing economic trends in Cartagena.",
       "options": [
         {
-          "letter": "D",
-          "text": "are",
-          "is_correct": true,
-          "feedback": "'Seldom' is a negative frequency adverbial, and the main clause must be inverted: the plural auxiliary 'are' moves in front of the subject, giving 'seldom are a country's export figures revised'. The figures are the thing being revised, so a plural auxiliary is required."
-        },
-        {
           "letter": "A",
           "text": "is",
           "is_correct": false,
@@ -541,6 +535,12 @@
           "text": "being",
           "is_correct": false,
           "feedback": "A gerund cannot serve as the inverted auxiliary that follows 'seldom'. The verb of the passive must be the finite 'are revised', so 'being' leaves the clause without a main verb."
+        },
+        {
+          "letter": "D",
+          "text": "are",
+          "is_correct": true,
+          "feedback": "'Seldom' is a negative frequency adverbial, and the main clause must be inverted: the plural auxiliary 'are' moves in front of the subject, giving 'seldom are a country's export figures revised'. The figures are the thing being revised, so a plural auxiliary is required."
         }
       ],
       "correct_answer": "D",
@@ -561,36 +561,36 @@
     },
     {
       "id": "CO-ING-11-2026-W06-economic-trends-001-MASTERY-bundle-v13",
-      "statement": "Complete the following sentence about economic trends: 'Output in the mining regions having recovered, __________ the national figure for the quarter still came in below forecast.' (Topic: participial clause with a contrastive subject against the main clause)",
-      "context": "Discussing economic trends in Barranquilla.",
+      "statement": "Complete the following sentence about economic trends: '__________ output in the mining regions had recovered, the national figure for the quarter came in below forecast.' (Topic: clauses of contrast)",
+      "context": "Reading a quarterly report on regional output in Barranquilla.",
       "options": [
         {
-          "letter": "D",
-          "text": "it",
-          "is_correct": true,
-          "feedback": "After a clause opening with a noun phrase plus 'having', the main clause needs a subject, and 'it' stands for the whole situation just described. The contrast between regional recovery and the national shortfall is built on that anaphoric reference."
-        },
-        {
           "letter": "A",
-          "text": "this",
+          "text": "Because",
           "is_correct": false,
-          "feedback": "'This' can only point at the immediately preceding noun phrase, which is regional output, and the main clause is about the national figure. Pointing at the wrong element would destroy the contrast the sentence sets up."
+          "feedback": "'Because' introduces a cause, but regional recovery cannot cause a national figure to be lower; the two ideas contrast."
         },
         {
           "letter": "B",
-          "text": "which",
+          "text": "Unless",
           "is_correct": false,
-          "feedback": "'Which' introduces a relative clause and would leave the main clause without a subject of its own. Nothing in the sentence relates back to the participial opening in the way a relative clause would require."
+          "feedback": "'Unless' means 'if not' and introduces a condition. The sentence reports two facts that both happened, not a condition."
         },
         {
           "letter": "C",
-          "text": "such",
+          "text": "So that",
           "is_correct": false,
-          "feedback": "'Such' introduces a result clause such as 'such was the case', and no such continuation appears here. The main clause simply needs a pronoun to refer to the situation that has just been described."
+          "feedback": "'So that' introduces a purpose, and the recovery in mining regions was not done in order to produce a low national figure."
+        },
+        {
+          "letter": "D",
+          "text": "Although",
+          "is_correct": true,
+          "feedback": "'Although' introduces a contrast between two true facts: mining output recovered, yet the national figure was still below forecast."
         }
       ],
       "correct_answer": "D",
-      "explanation": "A participial clause at the start of a sentence does not leave the main clause subjectless, and supplying the right reference is what this item tests. At C1+ students should ask what the sentence is making a claim about after the opening, since that claim is what the subject must name.\n\n---",
+      "explanation": "Subordinating conjunctions express different logical relations: cause (because), condition (unless), purpose (so that) and contrast (although). Reading both clauses and asking how they relate is the reliable way to choose the connector.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -607,36 +607,36 @@
     },
     {
       "id": "CO-ING-11-2026-W06-economic-trends-001-MASTERY-bundle-v14",
-      "statement": "Complete the following sentence about economic trends: 'Sooner __________ the statistical office release the revised series than have economists debate last quarter's growth rate on the old numbers.' (Topic: comparative inversion with 'sooner...than')",
-      "context": "Discussing economic trends in Manizales.",
+      "statement": "Complete the following sentence about economic trends: 'No sooner __________ the statistical office released the revised series than economists began to debate last quarter's growth rate again.' (Topic: inversion with 'no sooner ... than')",
+      "context": "Reading a news story about revised growth statistics in Colombia.",
       "options": [
-        {
-          "letter": "D",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "'Sooner...than' forms a comparative structure, and 'than have' carries the auxiliary forward by inversion: 'sooner had the statistical office released the revised series than have economists debated'. The past perfect is what the two actions require."
-        },
         {
           "letter": "A",
           "text": "has",
           "is_correct": false,
-          "feedback": "A present perfect would mean the office has not yet released the series, and the comparative 'sooner...than' would then have nothing to measure against. The sentence assumes the release and the debate are both completed events."
+          "feedback": "'Has' forms the present perfect, but the sentence describes a completed past sequence ('began'), which requires the past perfect."
         },
         {
           "letter": "B",
           "text": "does",
           "is_correct": false,
-          "feedback": "'Does' belongs to the present simple and would leave the past perfect 'have released' with no past auxiliary in front of the subject. The two halves of the comparison need matching past forms, which is what 'had' supplies."
+          "feedback": "'Does' needs the base form of the verb ('does release'), and here the verb is the past participle 'released'."
         },
         {
           "letter": "C",
-          "text": "will",
+          "text": "was",
           "is_correct": false,
-          "feedback": "'Will' places the release in the future, but the whole sentence weighs two past events against each other. A future auxiliary in the first half would destroy the comparison with 'than have economists debated'."
+          "feedback": "'Was released' would be passive, but the office is the subject that releases the series, so an active perfect form is needed."
+        },
+        {
+          "letter": "D",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "After 'No sooner', the auxiliary comes before the subject: 'No sooner had the office released ... than economists began'. The past perfect shows the first action finished just before the second."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Comparative inversion with 'sooner...than' is a C1 pattern in which the auxiliary of the second half travels back to the first. Students should read the structure as a single tense shared by both actions, and recognise that the first half receives the auxiliary that the second half displays.\n\n---",
+      "explanation": "'No sooner ... than' expresses that one event happened immediately after another. The first clause inverts the past perfect auxiliary ('had' + subject + past participle), while the 'than' clause uses the past simple in normal word order.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -653,36 +653,36 @@
     },
     {
       "id": "CO-ING-11-2026-W06-economic-trends-001-MASTERY-bundle-v15",
-      "statement": "Complete the following sentence about economic trends: 'The committee having found no error in the methodology, __________ its recommendation with only two dissenting votes.' (Topic: perfect participle clause joined to the main clause by a pronoun subject)",
-      "context": "Discussing economic trends in Pereira.",
+      "statement": "Complete the following sentence about economic trends: 'The committee having found no error in the methodology, the recommendation __________ with only two votes against.' (Topic: absolute participle clauses with a passive main verb)",
+      "context": "Reading the minutes of an economic committee meeting in Pereira.",
       "options": [
         {
           "letter": "A",
-          "text": "carried",
+          "text": "was approved",
           "is_correct": true,
-          "feedback": "The pronoun in the main clause refers back to the committee named in the participial opening, and a committee is what carries a recommendation to a vote. The low dissent is what makes the carrying notable."
+          "feedback": "The main clause has its own subject, 'the recommendation', and a recommendation receives approval, so the passive 'was approved' is needed."
         },
         {
           "letter": "B",
-          "text": "was carried",
+          "text": "approved",
           "is_correct": false,
-          "feedback": "'Was carried' would make the recommendation the subject, but the opening already names the committee and the vote described belongs to that body. The sentence attributes the act to the committee, not to the document."
+          "feedback": "The active 'approved' would mean the recommendation approved something, but a recommendation cannot vote; it is the thing being approved."
         },
         {
           "letter": "C",
-          "text": "carrying",
+          "text": "approving",
           "is_correct": false,
-          "feedback": "'Carrying' is a participle and cannot function as the main verb of the clause after the comma. The structure requires a finite verb, since the participial opening has already used its own participle."
+          "feedback": "'Approving' is a participle, not a finite verb, so the main clause would have no complete verb."
         },
         {
           "letter": "D",
-          "text": "carried out",
+          "text": "to be approved",
           "is_correct": false,
-          "feedback": "'Carried out' means performed or executed, and a recommendation is not an action carried out. What happened is that the committee advanced it to a vote, which is what the plain verb describes."
+          "feedback": "An infinitive cannot be the main verb of a sentence; 'the recommendation to be approved' leaves the sentence without a finite verb."
         }
       ],
       "correct_answer": "A",
-      "explanation": "A participial clause at the front of a sentence usually supplies the subject for the main clause through a pronoun, and this item tests both who that subject is and what it did. At C1+ students should read the opening as the main clause's subject rather than as background colour.\n\n---",
+      "explanation": "In an absolute clause ('The committee having found...'), the participle has its own subject, so the main clause needs a separate subject and a finite verb. Students must then decide whether that subject performs or receives the action.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -699,20 +699,20 @@
     },
     {
       "id": "CO-ING-11-2026-W06-economic-trends-001-MASTERY-bundle-v16",
-      "statement": "Complete the following sentence about economic trends: 'Rarely __________ a central bank both cut rates and praise the move in the same statement, since doing so would signal that the previous cuts had been too timid.' (Topic: inversion with 'rarely' in the present perfect)",
+      "statement": "Complete the following sentence about economic trends: 'Rarely __________ a central bank both cut rates and praise the move in the same statement, since doing so would signal that the previous cuts had been too timid.' (Topic: inversion with 'rarely' in the present simple)",
       "context": "Discussing economic trends in Cartagena.",
       "options": [
         {
           "letter": "A",
           "text": "does",
           "is_correct": true,
-          "feedback": "'Rarely' at the start of a main clause forces inversion, and with the present perfect that means the auxiliary 'has' contracts to 'does' before a base verb: 'rarely does a central bank cut and praise'. The tense of the auxiliary is what changes, not the main verb."
+          "feedback": "Correct. 'Rarely' at the start of the clause forces inversion; the sentence describes a general habit in the present simple, so the auxiliary 'does' goes before the subject and the main verbs stay in the base form: 'rarely does a central bank cut and praise'."
         },
         {
           "letter": "B",
           "text": "has",
           "is_correct": false,
-          "feedback": "The auxiliary 'has' has to come before the subject in an inverted clause, and the main verb 'cut' is already in the bare base form, not in the past participle 'cut'. A perfect would need 'has cut', so 'has' alone cannot work here."
+          "feedback": "Incorrect. 'Has' would make a present perfect, which needs past participles: 'rarely has a central bank cut rates and praised the move'. Here the second verb is the base form 'praise', so the clause is present simple and needs 'does'."
         },
         {
           "letter": "C",
@@ -728,7 +728,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "When inversion is combined with a compound tense, English inserts 'do' as the carrier of the tense: 'does' for the present, 'did' for the past. The main verb then appears in its base form, so C1+ students must shift attention from the lexical verb to the auxiliary doing the work.\n\n---",
+      "explanation": "After a negative adverbial such as 'rarely', English inverts the auxiliary and the subject. In the present simple and past simple there is no auxiliary, so 'do' is inserted ('does' for the present, 'did' for the past) and the main verb stays in its base form. In compound tenses the existing auxiliary moves instead: 'rarely has a bank praised', 'rarely will a bank praise'.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -749,16 +749,16 @@
       "context": "Discussing economic trends in Manizales.",
       "options": [
         {
-          "letter": "B",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
           "text": "They are literally looking for something in the trees of Medellín.",
           "is_correct": false,
           "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+        },
+        {
+          "letter": "B",
+          "text": "The current strategy is directed towards the wrong objective.",
+          "is_correct": true,
+          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
         },
         {
           "letter": "C",
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-ING-11-2026-W06-economic-trends-001-MASTERY-bundle-v18",
-      "statement": "In a high-level debate about economic trends, Nicolás says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Nicolás mean?",
-      "context": "Discussing economic trends in Cartagena.",
+      "statement": "Read the conversation.\n\nFather: \"With the price of food going up again, we'll have to tighten our belts this year.\"\nDaughter: \"Does that mean no trip to Santa Marta?\"\n\nWhat does the father mean?",
+      "context": "A family in Bogotá talks about rising food prices.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Cartagena.",
+          "text": "The family needs to buy new belts.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "This is a literal reading. The father connects the expression to food prices, not to clothes."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The family will earn more money this year.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Rising prices are a problem for the family; the idiom is about spending less, not earning more."
         },
         {
           "letter": "C",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "The family will travel to Santa Marta more often.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "The daughter's question suggests the trip may be cancelled, which shows the family will spend less."
+        },
+        {
+          "letter": "D",
+          "text": "The family must spend less money.",
+          "is_correct": true,
+          "feedback": "'Tighten your belt' means to reduce spending because money is limited; the daughter understands this and asks if the trip will be cancelled."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "Economic idioms such as 'tighten your belt' are common in everyday English. The daughter's reaction is a pragmatic clue: she connects the father's words to a possible cancelled trip, which confirms the meaning of reducing expenses.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -837,36 +837,36 @@
     },
     {
       "id": "CO-ING-11-2026-W06-economic-trends-001-MASTERY-bundle-v19",
-      "statement": "In a high-level debate about economic trends, Alejandro says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Alejandro mean?",
-      "context": "Discussing economic trends in Bucaramanga.",
+      "statement": "Read the conversation.\n\nReporter: \"How has inflation affected your restaurant?\"\nOwner: \"With rent and ingredients so expensive, we can barely make ends meet.\"\n\nWhat does the owner mean?",
+      "context": "A reporter interviews a restaurant owner in Cartagena about inflation.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Cartagena.",
+          "text": "The restaurant is making large profits.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "'Barely' means 'almost not', so the owner describes a difficult situation, not large profits."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The owner has trouble ending meetings with suppliers on time.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "This reads 'ends' and 'meet' literally. The idiom is about money, not about meetings."
         },
         {
           "letter": "C",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "The owner is planning to open a second restaurant.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Nothing in the answer refers to expansion; the owner is describing financial difficulty."
+        },
+        {
+          "letter": "D",
+          "text": "The restaurant earns only just enough money to cover its costs.",
+          "is_correct": true,
+          "feedback": "'Make ends meet' means to have enough money for basic expenses, and 'barely' shows the restaurant almost cannot do it because of high rent and ingredient costs."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Make ends meet' combined with 'barely' or 'hardly' describes serious financial pressure. Understanding the adverb is as important as understanding the idiom, because it changes the degree of the difficulty.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -887,12 +887,6 @@
       "context": "Discussing economic trends in Cartagena.",
       "options": [
         {
-          "letter": "D",
-          "text": "He is dismissing a published statistic on the grounds that it rests on a base that has since changed.",
-          "is_correct": true,
-          "feedback": "'I would put that number nowhere' rejects the figure, and the clause after 'because' supplies his reason: the comparison base has been revised. He is not disputing the arithmetic but the basis on which it was calculated."
-        },
-        {
           "letter": "A",
           "text": "He is confirming that growth was stronger than reported.",
           "is_correct": false,
@@ -909,6 +903,12 @@
           "text": "He is quoting the statistics office directly.",
           "is_correct": false,
           "feedback": "The four per cent figure is reported by Alejandro himself and then rejected. Nothing in the sentence attributes the number to an institution or repeats a source's wording."
+        },
+        {
+          "letter": "D",
+          "text": "He is dismissing a published statistic on the grounds that it rests on a base that has since changed.",
+          "is_correct": true,
+          "feedback": "'I would put that number nowhere' rejects the figure, and the clause after 'because' supplies his reason: the comparison base has been revised. He is not disputing the arithmetic but the basis on which it was calculated."
         }
       ],
       "correct_answer": "D",

@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which animal says \"oink, oink\"?",
+      "context": "En una finca de Fusagasugá, Mariana escucha a un animal rosado que come en el barro.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the word for a place where you live or stay on holiday."
+          "text": "dog",
+          "is_correct": false,
+          "feedback": "Incorrect. A dog says \"woof, woof\", not \"oink\"."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "fish",
           "is_correct": false,
-          "feedback": "'transportation' is the system of moving people or goods between places, not the place you sleep in itself."
+          "feedback": "Incorrect. A fish lives in water and makes no \"oink\" sound."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "hen",
           "is_correct": false,
-          "feedback": "'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live."
+          "feedback": "Incorrect. A hen says \"cluck, cluck\", a different sound from \"oink\"."
         },
         {
           "letter": "D",
-          "text": "currency",
-          "is_correct": false,
-          "feedback": "'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in."
+          "text": "pig",
+          "is_correct": true,
+          "feedback": "Correct. The pig is the pink farm animal that says \"oink, oink\"."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "En inglés los animales hacen sonidos distintos a los del español. El cerdo o marrano se dice \"pig\" y su sonido es \"oink, oink\". El perro dice \"woof\" y la gallina dice \"cluck\".",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -55,36 +55,36 @@
     },
     {
       "id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which pet lives in water?",
+      "context": "En un apartamento de Cali, Sebastián tiene una pecera con una mascota de color naranja.",
       "options": [
         {
-          "letter": "B",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them."
+          "letter": "A",
+          "text": "cat",
+          "is_correct": false,
+          "feedback": "Incorrect. A cat lives on land and does not like to get wet."
         },
         {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "letter": "B",
+          "text": "fish",
+          "is_correct": true,
+          "feedback": "Correct. A fish lives in water and swims in a fish tank or a river."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "horse",
           "is_correct": false,
-          "feedback": "'destination' names only the place you are going to, without the route or the order of the whole journey."
+          "feedback": "Incorrect. A horse is a big farm animal that walks and runs on land, not in water."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "pig",
           "is_correct": false,
-          "feedback": "'passport' is the official document that lets you cross a border, not the plan of where you go."
+          "feedback": "Incorrect. A pig lives on a farm, on land, and does not live in water."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "explanation": "\"Fish\" significa pez. Los peces viven en el agua y pueden ser mascotas en una pecera. El gato (\"cat\"), el caballo (\"horse\") y el cerdo (\"pig\") viven en la tierra.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: \"The ______ gives us eggs.\"",
+      "context": "En la finca de su abuela en Santander, Juan recoge los huevos del gallinero para el desayuno.",
       "options": [
         {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' is the place someone is going to or something is being sent to."
+          "letter": "A",
+          "text": "cow",
+          "is_correct": false,
+          "feedback": "Incorrect. A cow gives us milk, not eggs."
         },
         {
-          "letter": "A",
-          "text": "departure",
+          "letter": "B",
+          "text": "horse",
           "is_correct": false,
-          "feedback": "'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself."
+          "feedback": "Incorrect. A horse helps on the farm and people ride it, but it does not lay eggs."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the act of reaching a place, not the place that is reached."
+          "text": "hen",
+          "is_correct": true,
+          "feedback": "Correct. A hen is a female chicken, and hens lay the eggs we eat."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "dog",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from the start to the end, not the place the trip finishes at."
+          "feedback": "Incorrect. A dog is a pet that plays and guards the house, and it does not lay eggs."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "\"Hen\" significa gallina. Las gallinas ponen los huevos (\"eggs\") que comemos en el desayuno, por ejemplo en los huevos pericos. También se puede decir \"chicken\" para el ave en general.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.75,
       "bundle_id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: \"A ______ has wool. We make ruanas and sweaters with it.\"",
+      "context": "En Nariño, la abuela de Camila teje una ruana con la lana de los animales de su finca.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
+          "text": "sheep",
           "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel."
+          "feedback": "Correct. A sheep has soft white wool, and people use it to make ruanas and sweaters."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "fish",
           "is_correct": false,
-          "feedback": "'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in."
+          "feedback": "Incorrect. A fish has scales and lives in water, so it has no wool."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "hen",
           "is_correct": false,
-          "feedback": "'flight' is the journey by plane itself, not the containers that hold your things."
+          "feedback": "Incorrect. A hen has feathers and gives eggs, not wool."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "cat",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you make for a seat or a room, not the bag you carry."
+          "feedback": "Incorrect. A cat has fur, but we do not make sweaters from a pet cat."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "\"Sheep\" significa oveja. La oveja tiene lana (\"wool\") y con ella se tejen ruanas y sacos, como en Boyacá y Nariño. Ojo: \"sheep\" es igual en singular y plural: \"one sheep, two sheep\".",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Grandpa: \"Let's ride on the farm!\"\nAna: \"Ride what?\"\nGrandpa: \"The ______. It is big and it runs fast.\"",
+      "context": "Ana visita la finca de su abuelo en el Eje Cafetero y él le propone dar un paseo por las montañas.",
       "options": [
         {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "fish",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all."
+          "feedback": "Incorrect. A fish is small and lives in water, so nobody can ride it."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "hen",
           "is_correct": false,
-          "feedback": "'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle."
+          "feedback": "Incorrect. A hen is a small bird that gives eggs, too small for a person to ride."
+        },
+        {
+          "letter": "C",
+          "text": "horse",
+          "is_correct": true,
+          "feedback": "Correct. A horse is big and fast, and people ride horses on farms."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "cat",
           "is_correct": false,
-          "feedback": "'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle."
+          "feedback": "Incorrect. A cat is a small pet, so a person cannot ride it."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "explanation": "Las pistas son \"ride\" (montar), \"big\" (grande) y \"runs fast\" (corre rápido). El único animal grande y rápido que se puede montar es el caballo, que en inglés se dice \"horse\".",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.65,
       "bundle_id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"On my grandpa's finca there are three cows, two pigs and five sheep. The cows give us milk.\"\nHow many pigs are there?",
+      "context": "Un niño de Duitama describe los animales de la finca de su abuelo en Boyacá.",
       "options": [
         {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive."
+          "letter": "A",
+          "text": "three",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says \"three cows\"; three is the number of cows, not pigs."
         },
         {
-          "letter": "A",
-          "text": "security",
+          "letter": "B",
+          "text": "five",
           "is_correct": false,
-          "feedback": "'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in."
+          "feedback": "Incorrect. The number five goes with \"sheep\" in the text, not with pigs."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "one",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for your plane, not the place where your belongings are inspected."
+          "feedback": "Incorrect. The word \"one\" does not appear next to any animal in the text."
         },
         {
           "letter": "D",
-          "text": "gate",
-          "is_correct": false,
-          "feedback": "'gate' is the door at the plane you walk through to board, not the place where officials check your things."
+          "text": "two",
+          "is_correct": true,
+          "feedback": "Correct. The text says \"two pigs\", so there are 2 pigs on the finca."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "En el texto cada número va justo antes del animal: \"three cows\" (tres vacas), \"two pigs\" (dos cerdos) y \"five sheep\" (cinco ovejas). Para encontrar la respuesta hay que buscar el número que acompaña a \"pigs\", y es \"two\".",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.6,
       "bundle_id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"I have a pet. It is small. It has four legs and a long tail. It says 'meow' and it likes milk.\"\nWhat is the pet?",
+      "context": "En Neiva, Lucía escribe una adivinanza sobre su mascota para que sus compañeros la descubran.",
       "options": [
         {
-          "letter": "B",
-          "text": "boarding pass",
+          "letter": "A",
+          "text": "a cat",
           "is_correct": true,
-          "feedback": "Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane."
+          "feedback": "Correct. A cat is small, has four legs and a long tail, and says \"meow\"."
         },
         {
-          "letter": "A",
-          "text": "visa",
+          "letter": "B",
+          "text": "a dog",
           "is_correct": false,
-          "feedback": "'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline."
+          "feedback": "Incorrect. A dog also has four legs and a tail, but it says \"woof\", not \"meow\"."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "a bird",
           "is_correct": false,
-          "feedback": "'receipt' is the proof that you paid for something, which is not permission to board a plane."
+          "feedback": "Incorrect. A bird has two legs and wings, so it does not match \"four legs\"."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "a pig",
           "is_correct": false,
-          "feedback": "'brochure' is a leaflet with tourist information, not a travel document issued to a passenger."
+          "feedback": "Incorrect. A pig says \"oink\", and its tail is short and curly, not long."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Hay que usar todas las pistas. El perro también tiene cuatro patas y cola, pero la pista decisiva es el sonido: \"meow\" (miau) es el sonido del gato. Por eso la mascota es \"a cat\".",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.5,
       "bundle_id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is true?",
+      "context": "En una clase de inglés en Sincelejo, los niños revisan oraciones sobre lo que nos dan los animales de la finca.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' means visiting the places of interest of a location as a traveler."
+          "text": "Sheep give us eggs.",
+          "is_correct": false,
+          "feedback": "Incorrect. Sheep give us wool; eggs come from hens."
         },
         {
           "letter": "B",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place."
+          "text": "Cows give us milk.",
+          "is_correct": true,
+          "feedback": "Correct. Cows give milk, which we drink and use to make cheese."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "Horses give us eggs.",
           "is_correct": false,
-          "feedback": "'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city."
+          "feedback": "Incorrect. Horses do not lay eggs; we ride them and they carry things."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "Fish give us wool.",
           "is_correct": false,
-          "feedback": "'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place."
+          "feedback": "Incorrect. Fish have scales, not wool; wool comes from sheep."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "correct_answer": "B",
+      "explanation": "Cada animal de la finca nos da algo distinto: la vaca (\"cow\") da leche (\"milk\"), la gallina (\"hen\") da huevos (\"eggs\") y la oveja (\"sheep\") da lana (\"wool\"). Solo la oración \"Cows give us milk\" es verdadera.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.45,
       "bundle_id": "CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",

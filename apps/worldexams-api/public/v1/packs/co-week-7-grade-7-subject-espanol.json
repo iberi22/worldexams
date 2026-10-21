@@ -13,16 +13,16 @@
       "context": "El siglo XIX en Colombia fue un periodo de grandes cambios tras la Independencia. La literatura reflejó la búsqueda de una identidad propia para la nueva nación.",
       "options": [
         {
-          "letter": "B",
-          "text": "Renacimiento y Barroco",
-          "is_correct": false,
-          "feedback": "Incorrecto. Estos movimientos corresponden a la época de la Conquista y la Colonia."
-        },
-        {
           "letter": "A",
           "text": "Romanticismo y Costumbrismo",
           "is_correct": true,
           "feedback": "¡Correcto! Ambos movimientos marcaron la producción literaria del siglo XIX colombiano."
+        },
+        {
+          "letter": "B",
+          "text": "Renacimiento y Barroco",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos movimientos corresponden a la época de la Conquista y la Colonia."
         },
         {
           "letter": "C",
@@ -105,16 +105,16 @@
       "context": "Valentina lee un texto del siglo XIX que defiende los ideales de libertad y critica fuertemente las injusticias sociales de la época.",
       "options": [
         {
-          "letter": "B",
-          "text": "Porque era obligatorio por ley que los escritores fueran políticos.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No había tal ley, era una elección de los autores."
-        },
-        {
           "letter": "A",
           "text": "Porque los escritores estaban comprometidos con la construcción de la nueva nación y usaban sus obras para proponer ideas sociales.",
           "is_correct": true,
           "feedback": "¡Correcto! La literatura se veía como una herramienta de formación ciudadana."
+        },
+        {
+          "letter": "B",
+          "text": "Porque era obligatorio por ley que los escritores fueran políticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No había tal ley, era una elección de los autores."
         },
         {
           "letter": "C",
@@ -151,6 +151,12 @@
       "context": "En el análisis literario del siglo XIX, se habla frecuentemente de la importancia del \"sentimiento patriótico\".",
       "options": [
         {
+          "letter": "A",
+          "text": "Mediante la exaltación de los paisajes nacionales, los héroes de la independencia y las tradiciones locales.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se buscaba dar valor a lo propio frente a lo extranjero."
+        },
+        {
           "letter": "B",
           "text": "Escribiendo solo sobre las guerras ganadas por otros países.",
           "is_correct": false,
@@ -161,12 +167,6 @@
           "text": "Prohibiendo el uso de palabras que no fueran de origen indígena.",
           "is_correct": false,
           "feedback": "Incorrecto. El español siguió siendo la lengua principal, aunque se rescataron términos locales."
-        },
-        {
-          "letter": "A",
-          "text": "Mediante la exaltación de los paisajes nacionales, los héroes de la independencia y las tradiciones locales.",
-          "is_correct": true,
-          "feedback": "¡Correcto! Se buscaba dar valor a lo propio frente a lo extranjero."
         },
         {
           "letter": "D",
@@ -197,16 +197,16 @@
       "context": "Santiago encuentra un poema que dice: \"¡Oh, libertad, que en los montes de los Andes resuenas con eco de gloria!\".",
       "options": [
         {
-          "letter": "B",
-          "text": "Costumbrismo y vida cotidiana campesina.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El lenguaje es muy elevado y abstracto para ser costumbrista."
-        },
-        {
           "letter": "A",
           "text": "Romanticismo y temática de libertad y nacionalismo.",
           "is_correct": true,
           "feedback": "¡Correcto! El uso de exclamaciones y la exaltación de conceptos como libertad son típicos del romanticismo patriótico."
+        },
+        {
+          "letter": "B",
+          "text": "Costumbrismo y vida cotidiana campesina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje es muy elevado y abstracto para ser costumbrista."
         },
         {
           "letter": "C",
@@ -243,16 +243,16 @@
       "context": "A pesar de la búsqueda de independencia, los autores colombianos del siglo XIX seguían muy influenciados por los autores europeos, especialmente franceses y españoles.",
       "options": [
         {
-          "letter": "B",
-          "text": "Querían ser como los europeos pero escribían en contra de ellos.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No escribían contra la cultura europea, sino contra su dominio político."
-        },
-        {
           "letter": "A",
           "text": "Buscaban una identidad propia e independiente, pero seguían usando los modelos y estilos literarios europeos.",
           "is_correct": true,
           "feedback": "¡Correcto! Se independizaron políticamente, pero la influencia cultural tardó más en cambiar."
+        },
+        {
+          "letter": "B",
+          "text": "Querían ser como los europeos pero escribían en contra de ellos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No escribían contra la cultura europea, sino contra su dominio político."
         },
         {
           "letter": "C",
@@ -295,16 +295,16 @@
           "feedback": "Incorrecto. Este no era el rol asignado a la mujer en la literatura de esa época."
         },
         {
-          "letter": "C",
-          "text": "Como un ser idealizado, frágil y puro, asociado a menudo con la naturaleza y la melancolía.",
-          "is_correct": true,
-          "feedback": "¡Correcto! Es la visión de la \"amada ideal\" que el hombre debe proteger o lamentar."
-        },
-        {
           "letter": "B",
           "text": "Como una profesional independiente que no quería casarse.",
           "is_correct": false,
           "feedback": "Incorrecto. Los valores de la época ponían el matrimonio y el hogar como el centro de la vida femenina."
+        },
+        {
+          "letter": "C",
+          "text": "Como un ser idealizado, frágil y puro, asociado a menudo con la naturaleza y la melancolía.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la visión de la \"amada ideal\" que el hombre debe proteger o lamentar."
         },
         {
           "letter": "D",
@@ -341,16 +341,16 @@
           "feedback": "Incorrecto. El costumbrismo valoraba precisamente la diversidad de acentos regionales."
         },
         {
-          "letter": "C",
-          "text": "Darle estatus literario al habla popular y regional, reconociendo su riqueza y valor.",
-          "is_correct": true,
-          "feedback": "¡Correcto! Palabras que se consideraban \"malas\" o \"campesinas\" empezaron a aparecer en los libros."
-        },
-        {
           "letter": "B",
           "text": "Traducir todas las obras al idioma muisca para recuperar las raíces.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque hubo interés, el objetivo no fue cambiar el idioma nacional."
+        },
+        {
+          "letter": "C",
+          "text": "Darle estatus literario al habla popular y regional, reconociendo su riqueza y valor.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Palabras que se consideraban \"malas\" o \"campesinas\" empezaron a aparecer en los libros."
         },
         {
           "letter": "D",
@@ -381,16 +381,16 @@
       "context": "Un fragmento de un ensayo del siglo XIX dice: \"Nuestra literatura debe ser el espejo de nuestra tierra y no el eco de las voces de ultramar\".",
       "options": [
         {
+          "letter": "A",
+          "text": "A las canciones que cantaban los marineros durante la travesía del Atlántico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se refiere a la música, sino a la teoría y práctica literaria."
+        },
+        {
           "letter": "B",
           "text": "A los sonidos del mar Caribe que distraen a los escritores.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una metáfora sobre el origen de las ideas, no sobre sonidos reales."
-        },
-        {
-          "letter": "A",
-          "text": "A la influencia excesiva de los modelos literarios de Europa; propone una literatura original y basada en la realidad local.",
-          "is_correct": true,
-          "feedback": "¡Correcto! Es el llamado a la independencia cultural."
         },
         {
           "letter": "C",
@@ -400,12 +400,12 @@
         },
         {
           "letter": "D",
-          "text": "A las canciones que cantaban los marineros durante la travesía del Atlántico.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No se refiere a la música, sino a la teoría y práctica literaria."
+          "text": "A la influencia excesiva de los modelos literarios de Europa; propone una literatura original y basada en la realidad local.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es el llamado a la independencia cultural."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Este llamado a la \"originalidad\" fue el gran motor del siglo XIX. Aunque usaran géneros europeos, los autores se esforzaron por llenarlos con \"sangre\" colombiana: nuestros problemas, nuestros paisajes y nuestra forma de ver la vida.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -433,16 +433,16 @@
           "feedback": "Incorrecto. Colombia ha seguido siendo un país muy abierto a la literatura universal."
         },
         {
-          "letter": "C",
-          "text": "El olvido total de las tradiciones indígenas en favor de lo europeo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Aunque fue un siglo muy hispanista, se sentaron las bases para el rescate posterior de lo indígena."
-        },
-        {
           "letter": "B",
           "text": "La consolidación de Colombia como un país de gran tradición literaria y gramatical en el continente.",
           "is_correct": true,
           "feedback": "¡Correcto! A Colombia se le llamó \"La Atenas Sudamericana\" por su alto nivel cultural en esa época."
+        },
+        {
+          "letter": "C",
+          "text": "El olvido total de las tradiciones indígenas en favor de lo europeo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque fue un siglo muy hispanista, se sentaron las bases para el rescate posterior de lo indígena."
         },
         {
           "letter": "D",

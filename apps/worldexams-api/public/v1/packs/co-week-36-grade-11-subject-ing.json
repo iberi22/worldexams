@@ -13,12 +13,6 @@
       "context": "Discussing innovation & startups in Cali.",
       "options": [
         {
-          "letter": "D",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
           "text": "alleviate",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "facilitate",
           "is_correct": false,
           "feedback": "Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide."
+        },
+        {
+          "letter": "D",
+          "text": "exacerbate",
+          "is_correct": true,
+          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
         }
       ],
       "correct_answer": "D",
@@ -59,16 +59,16 @@
       "context": "Discussing innovation & startups in Bogotá.",
       "options": [
         {
-          "letter": "B",
-          "text": "launch",
-          "is_correct": true,
-          "feedback": "'Launch' means to put a product on the market, which is what the founders decided to do despite the risk."
-        },
-        {
           "letter": "A",
           "text": "license",
           "is_correct": false,
           "feedback": "'License' means to grant permission to use intellectual property, and no rights or patents are mentioned."
+        },
+        {
+          "letter": "B",
+          "text": "launch",
+          "is_correct": true,
+          "feedback": "'Launch' means to put a product on the market, which is what the founders decided to do despite the risk."
         },
         {
           "letter": "C",
@@ -105,12 +105,6 @@
       "context": "Discussing innovation & startups in Bucaramanga.",
       "options": [
         {
-          "letter": "D",
-          "text": "absorb",
-          "is_correct": true,
-          "feedback": "'Absorb' means to take on a cost or impact oneself, which is what happens when a smaller budget is adopted."
-        },
-        {
           "letter": "A",
           "text": "negotiate",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "allocate",
           "is_correct": false,
           "feedback": "'Allocate' means to distribute for a purpose, and no distribution of money is described as the reaction."
+        },
+        {
+          "letter": "D",
+          "text": "absorb",
+          "is_correct": true,
+          "feedback": "'Absorb' means to take on a cost or impact oneself, which is what happens when a smaller budget is adopted."
         }
       ],
       "correct_answer": "D",
@@ -151,12 +151,6 @@
       "context": "Discussing innovation & startups in Bucaramanga.",
       "options": [
         {
-          "letter": "C",
-          "text": "seed",
-          "is_correct": true,
-          "feedback": "'Seed funding' is the term for the early capital a new company raises to get started, and without it the startup cannot grow."
-        },
-        {
           "letter": "A",
           "text": "outstanding",
           "is_correct": false,
@@ -167,6 +161,12 @@
           "text": "residual",
           "is_correct": false,
           "feedback": "'Residual' means what remains after something is taken, which does not describe the kind of capital a startup needs."
+        },
+        {
+          "letter": "C",
+          "text": "seed",
+          "is_correct": true,
+          "feedback": "'Seed funding' is the term for the early capital a new company raises to get started, and without it the startup cannot grow."
         },
         {
           "letter": "D",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W36-innovation-startups-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on innovation & startups in Medellín, what is implied about the role of Verb-Noun Collocations in shaping public opinion?",
-      "context": "Discussing innovation & startups in Medellín.",
+      "statement": "Read the text and answer the question.\n\n\"Two engineering students from Medellín noticed that their university threw away thousands of plastic bottles every week. In 2023 they founded a small company that melts the plastic and turns it into chairs and desks for rural schools. At first, banks refused to lend them money because they had no business experience. They entered a city innovation contest, won second prize and used the money to buy their first machine. Today the company employs twelve people.\"\n\nAccording to the text, how did the founders get the money for their first machine?",
+      "context": "Reading a short text about a recycling startup in Medellín.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "By winning a prize in an innovation contest.",
           "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "feedback": "Correct. The text says they won second prize in a city contest and 'used the money to buy their first machine'."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Through a loan from a bank.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. The banks refused to lend them money because they had no business experience."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "By selling desks to their university.",
           "is_correct": false,
-          "feedback": "Incorrect. Verb-Noun Collocations give a text its nuance and precision, so they does not make the message simpler to grasp."
+          "feedback": "Incorrect. The university only provided the plastic waste; the desks go to rural schools, and the sales came later."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Cali.",
+          "text": "With money from their families.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. Family support is never mentioned in the text."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "This detail question requires following the sequence of events: an obstacle (banks said no), an action (entering a contest) and a result (prize money for the machine). The distractor about banks is attractive because banks appear in the text, but it is contradicted by the word 'refused'.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-11-2026-W36-innovation-startups-001-MASTERY-bundle-v6",
-      "statement": "According to a recent report on innovation & startups in Bogotá, what is implied about the role of Verb-Noun Collocations in shaping public opinion?",
-      "context": "Discussing innovation & startups in Bogotá.",
+      "statement": "Read the text and answer the question.\n\n\"In 2022, a Bogotá startup launched an app that promised to deliver groceries in fifteen minutes. Investors were excited, and the company opened six small warehouses in different neighbourhoods. But customers usually bought only a few items, and each delivery cost more than the company earned from it. Eighteen months later, the startup closed four warehouses and changed its promise to 'delivery in one hour'.\"\n\nWhat can be inferred from the text?",
+      "context": "Reading a short text about a delivery startup in Bogotá.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "Very fast delivery was too expensive for the company to maintain.",
           "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "feedback": "Correct. Each delivery cost more than it earned, and the company then closed warehouses and slowed its promise, which shows the model was too costly."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Customers complained that fifteen minutes was too slow.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. No customer complaints appear, and the company made delivery slower, not faster."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "The company had problems because investors were not interested.",
           "is_correct": false,
-          "feedback": "Incorrect. Verb-Noun Collocations give a text its nuance and precision, so they does not make the message simpler to grasp."
+          "feedback": "Incorrect. The text says investors 'were excited', so lack of interest was not the problem."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Manizales.",
+          "text": "The startup now delivers in fifteen minutes in more neighbourhoods.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. It closed four of its six warehouses and changed the promise to one hour."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "An inference combines facts the text gives separately: deliveries lost money, and later the company reduced its warehouses and its speed promise. Together these facts show that the fifteen-minute model was not financially sustainable, even though the text never says 'too expensive'.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -289,16 +289,16 @@
       "context": "Discussing innovation & startups in Bogotá.",
       "options": [
         {
-          "letter": "B",
-          "text": "A fixed phrase where a verb and a noun keep a specific meaning together",
-          "is_correct": true,
-          "feedback": "'Launch a product' and 'drive growth' are learned combinations whose meaning is fixed and not the sum of the two parts."
-        },
-        {
           "letter": "A",
           "text": "Any verb followed immediately by a noun",
           "is_correct": false,
           "feedback": "Most verb-noun pairs are ordinary word order, as in 'eat lunch', and carry no special combined sense."
+        },
+        {
+          "letter": "B",
+          "text": "A fixed phrase where a verb and a noun keep a specific meaning together",
+          "is_correct": true,
+          "feedback": "'Launch a product' and 'drive growth' are learned combinations whose meaning is fixed and not the sum of the two parts."
         },
         {
           "letter": "C",
@@ -331,36 +331,36 @@
     },
     {
       "id": "CO-ING-11-2026-W36-innovation-startups-001-MASTERY-bundle-v8",
-      "statement": "According to a recent report on innovation & startups in Cartagena, what is implied about the role of Verb-Noun Collocations in shaping public opinion?",
-      "context": "Discussing innovation & startups in Cartagena.",
+      "statement": "Read the text and answer the question.\n\n\"Lucía started a business in Cartagena renting bicycles to tourists. When the pandemic stopped tourism, she had almost no customers. Instead of closing, she decided to pivot: she used the same bicycles to deliver food and medicine to elderly people in the walled city. The new service became so popular that, when tourists returned, she kept both businesses running.\"\n\nIn the text, what does \"pivot\" mean?",
+      "context": "Reading a short text about a small business in Cartagena.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "Change the direction of a business to respond to a new situation.",
           "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "feedback": "Correct. Lucía moved from renting bicycles to deliveries when tourism stopped, which is what 'pivot' means in business."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Repair the bicycles so they can turn more easily.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. This takes 'pivot' as a physical turning point; the text talks about changing the service, not repairing bikes."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Sell the business to another owner.",
           "is_correct": false,
-          "feedback": "Incorrect. Verb-Noun Collocations give a text its nuance and precision, so they does not make the message simpler to grasp."
+          "feedback": "Incorrect. Lucía kept running the business herself and later had two services."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Manizales.",
+          "text": "Close the business for a short time.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The text says 'Instead of closing', so she did the opposite of closing."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "In startup vocabulary, to 'pivot' is to change a business model while keeping some of its resources. The colon after 'pivot' introduces the explanation: Lucía used the same bicycles for a new kind of service. 'Instead of closing' rules out the idea of stopping.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -381,12 +381,6 @@
       "context": "Discussing innovation & startups in Bogotá.",
       "options": [
         {
-          "letter": "C",
-          "text": "The language is fixed, so changing the pattern sounds wrong",
-          "is_correct": true,
-          "feedback": "Because 'drive growth' is the established pairing, replacing it with a longer structure produces something native speakers would judge as incorrect."
-        },
-        {
           "letter": "A",
           "text": "The verb can be swapped for any synonym",
           "is_correct": false,
@@ -397,6 +391,12 @@
           "text": "The noun can be replaced by a pronoun freely",
           "is_correct": false,
           "feedback": "Pronoun substitution is a normal transformation of any noun phrase and says nothing about whether the pairing is fixed."
+        },
+        {
+          "letter": "C",
+          "text": "The language is fixed, so changing the pattern sounds wrong",
+          "is_correct": true,
+          "feedback": "Because 'drive growth' is the established pairing, replacing it with a longer structure produces something native speakers would judge as incorrect."
         },
         {
           "letter": "D",
@@ -427,16 +427,16 @@
       "context": "Discussing innovation & startups in Bogotá.",
       "options": [
         {
-          "letter": "B",
-          "text": "Each is a verb-noun collocation of the kind used in business English",
-          "is_correct": true,
-          "feedback": "All three pair a verb with its object in the conventional way business English uses them, so they belong to the same collocational class."
-        },
-        {
           "letter": "A",
           "text": "Each contains a phrasal verb with an adverbial particle",
           "is_correct": false,
           "feedback": "None of the three has a verb plus particle, as in 'cut down', so the shared feature is not a phrasal verb."
+        },
+        {
+          "letter": "B",
+          "text": "Each is a verb-noun collocation of the kind used in business English",
+          "is_correct": true,
+          "feedback": "All three pair a verb with its object in the conventional way business English uses them, so they belong to the same collocational class."
         },
         {
           "letter": "C",
@@ -473,12 +473,6 @@
       "context": "Discussing innovation & startups in Manizales.",
       "options": [
         {
-          "letter": "D",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -495,6 +489,12 @@
           "text": "did",
           "is_correct": false,
           "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+        },
+        {
+          "letter": "D",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
         }
       ],
       "correct_answer": "D",
@@ -519,12 +519,6 @@
       "context": "Discussing innovation & startups in Cali.",
       "options": [
         {
-          "letter": "D",
-          "text": "does",
-          "is_correct": true,
-          "feedback": "'Rarely' is a negative-frequency adverb and it takes an affirmative auxiliary, so 'does a start-up survive' is correct."
-        },
-        {
           "letter": "A",
           "text": "a start-up does",
           "is_correct": false,
@@ -541,6 +535,12 @@
           "text": "survives a start-up",
           "is_correct": false,
           "feedback": "'Survives' is not inverted, and 'a start-up' is the subject here, not the object of the verb."
+        },
+        {
+          "letter": "D",
+          "text": "does",
+          "is_correct": true,
+          "feedback": "'Rarely' is a negative-frequency adverb and it takes an affirmative auxiliary, so 'does a start-up survive' is correct."
         }
       ],
       "correct_answer": "D",
@@ -565,12 +565,6 @@
       "context": "Discussing innovation & startups in Cali.",
       "options": [
         {
-          "letter": "C",
-          "text": "did",
-          "is_correct": true,
-          "feedback": "Fronting the negative phrase 'Not until' forces inversion, so the auxiliary 'did' moves ahead of the subject 'the company'."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -581,6 +575,12 @@
           "text": "was",
           "is_correct": false,
           "feedback": "'Was' cannot be inverted to open this clause and does not mark the licensing as the later of two events."
+        },
+        {
+          "letter": "C",
+          "text": "did",
+          "is_correct": true,
+          "feedback": "Fronting the negative phrase 'Not until' forces inversion, so the auxiliary 'did' moves ahead of the subject 'the company'."
         },
         {
           "letter": "D",
@@ -611,16 +611,16 @@
       "context": "Discussing innovation & startups in Medellín.",
       "options": [
         {
-          "letter": "B",
-          "text": "did",
-          "is_correct": true,
-          "feedback": "Fronting 'Not until' triggers inversion, so the auxiliary 'did' comes before the subject 'the engineers'."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
           "feedback": "'Has' would not create the inversion that 'Not until' requires, so the delay before the announcement is lost."
+        },
+        {
+          "letter": "B",
+          "text": "did",
+          "is_correct": true,
+          "feedback": "Fronting 'Not until' triggers inversion, so the auxiliary 'did' comes before the subject 'the engineers'."
         },
         {
           "letter": "C",
@@ -657,12 +657,6 @@
       "context": "Discussing innovation & startups in Cali.",
       "options": [
         {
-          "letter": "D",
-          "text": "does",
-          "is_correct": true,
-          "feedback": "'Rarely does' is the inversion that follows a fronted negative adverb, so 'does a founder manage' is the required pattern."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -679,6 +673,12 @@
           "text": "does not",
           "is_correct": false,
           "feedback": "'Does not' would claim that no founder ever succeeded, whereas 'rarely' says it almost never happened."
+        },
+        {
+          "letter": "D",
+          "text": "does",
+          "is_correct": true,
+          "feedback": "'Rarely does' is the inversion that follows a fronted negative adverb, so 'does a founder manage' is the required pattern."
         }
       ],
       "correct_answer": "D",
@@ -703,12 +703,6 @@
       "context": "Discussing innovation & startups in Pereira.",
       "options": [
         {
-          "letter": "C",
-          "text": "was",
-          "is_correct": true,
-          "feedback": "'So uncertain' is an intensifier in the formal register and it takes an affirmative auxiliary, so 'was' follows it correctly."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -719,6 +713,12 @@
           "text": "had",
           "is_correct": false,
           "feedback": "'Had' would place the uncertainty entirely in the past without the inversion the fronted intensifier requires."
+        },
+        {
+          "letter": "C",
+          "text": "was",
+          "is_correct": true,
+          "feedback": "'So uncertain' is an intensifier in the formal register and it takes an affirmative auxiliary, so 'was' follows it correctly."
         },
         {
           "letter": "D",
@@ -749,32 +749,32 @@
       "context": "Discussing innovation & startups in Medellín.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
           "text": "They are literally looking for something in the trees of Barranquilla.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads the idiom literally; nobody in the debate is searching real trees, because the expression is figurative and describes a mistaken line of action."
         },
         {
           "letter": "B",
           "text": "The approach is too noisy and aggressive.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. 'Barking' here does not describe a loud or aggressive tone; the idiom is about choosing the wrong objective, not about how people speak."
         },
         {
           "letter": "C",
           "text": "A new environmental project involving trees should be started.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The word 'tree' belongs to a fixed expression, so the speaker is not proposing a project with trees; the speaker is criticising the approach under discussion."
+        },
+        {
+          "letter": "D",
+          "text": "The current strategy is directed towards the wrong objective.",
+          "is_correct": true,
+          "feedback": "Correct. 'Bark up the wrong tree' means aiming your effort at the wrong cause or target, so the speaker is saying the current plan on innovation & startups points in the wrong direction."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "The idiom 'bark up the wrong tree' comes from hunting dogs that bark at a tree after the animal has escaped to another one. In a debate about innovation & startups, it means the group's effort is aimed at the wrong cause or solution. The literal words (barking, trees) are not part of the message, so any option that mentions real trees or noise misreads the idiom.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-ING-11-2026-W36-innovation-startups-001-MASTERY-bundle-v18",
-      "statement": "In a high-level debate about innovation & startups, Valentina says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Valentina mean?",
-      "context": "Discussing innovation & startups in Medellín.",
+      "statement": "Read the dialogue.\n\nEngineer: \"The investors loved the design, but the prototype broke in the first test.\"\nFounder: \"Well, it's back to the drawing board, then.\"\n\nWhat does the founder mean?",
+      "context": "A conversation between an engineer and a founder in Medellín.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Manizales.",
+          "text": "The team will draw a picture to show the investors.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This is a literal reading; the idiom is not about drawing pictures for anyone."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The team will sell the prototype as it is.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. The prototype failed its first test, so selling it unchanged makes no sense in the dialogue."
         },
         {
           "letter": "C",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "The investors want their money back.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. 'Back' in the idiom does not refer to money; the investors actually 'loved the design'."
+        },
+        {
+          "letter": "D",
+          "text": "The team must start planning the design again.",
+          "is_correct": true,
+          "feedback": "Correct. 'Back to the drawing board' means to start again after a plan fails, which follows the broken prototype."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Back to the drawing board' is used when an attempt fails and you have to start planning again from the beginning. The cause in the dialogue is the failed test; the founder's 'then' signals a consequence, so the team will redesign.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -837,36 +837,36 @@
     },
     {
       "id": "CO-ING-11-2026-W36-innovation-startups-001-MASTERY-bundle-v19",
-      "statement": "In a high-level debate about innovation & startups, Alejandro says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Alejandro mean?",
-      "context": "Discussing innovation & startups in Pereira.",
+      "statement": "Read the dialogue.\n\nTeacher: \"Your challenge this term is to reduce the plastic waste in the school cafeteria.\"\nStudent: \"Give us a week, and we'll come up with a solution.\"\n\nWhat does the student promise?",
+      "context": "A conversation about a school challenge in Pereira.",
       "options": [
         {
-          "letter": "B",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "letter": "A",
+          "text": "To carry a solution up the stairs.",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Up' here does not describe physical movement; the phrasal verb is about ideas."
         },
         {
-          "letter": "A",
-          "text": "They are literally looking for something in the trees of Pereira.",
-          "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "letter": "B",
+          "text": "To think of or create a solution.",
+          "is_correct": true,
+          "feedback": "Correct. 'Come up with' means to produce an idea or plan, which is what the students will do in a week."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "To copy the solution of another school.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. Nothing suggests copying; 'come up with' implies creating an idea yourself."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "To refuse to look for a solution.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The student accepts the challenge and asks for time, the opposite of refusing."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Come up with' is a phrasal verb that means to think of an idea, plan or answer. It is very common when talking about innovation and problem solving. The phrase 'Give us a week' shows that the students need time to create something.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -883,36 +883,36 @@
     },
     {
       "id": "CO-ING-11-2026-W36-innovation-startups-001-MASTERY-bundle-v20",
-      "statement": "In a high-level debate about innovation & startups, Sebastián says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Sebastián mean?",
-      "context": "Discussing innovation & startups in Bogotá.",
+      "statement": "Read the dialogue.\n\nFounder: \"We've built a food delivery app.\"\nMentor: \"Every app in this market looks the same. If you want investors to notice you, you need to think outside the box.\"\n\nWhat does the mentor advise?",
+      "context": "A conversation between a mentor and a founder in Bogotá.",
       "options": [
         {
-          "letter": "B",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "letter": "A",
+          "text": "Work outside the office more often.",
+          "is_correct": false,
+          "feedback": "Incorrect. This interprets 'outside' literally; the idiom is about ways of thinking, not places to work."
         },
         {
-          "letter": "A",
-          "text": "They are literally looking for something in the trees of Bucaramanga.",
-          "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "letter": "B",
+          "text": "Find original ideas that are different from the usual ones.",
+          "is_correct": true,
+          "feedback": "Correct. 'Think outside the box' means to think creatively, which answers the problem that every app 'looks the same'."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Put the product in a better box.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. 'Box' here is not packaging; it represents the usual, limited way of thinking."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Do exactly what the other apps do.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The mentor criticises the fact that all apps look the same, so copying them is the opposite of the advice."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Think outside the box' means to think in an original or creative way rather than following normal ideas. The mentor's first sentence identifies the problem (all apps look the same), so the advice is to make the product different.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

@@ -13,16 +13,16 @@
       "context": "En una fiesta de pueblo en los Andes colombianos, un trovador canta: \"En la punta de aquel cerro / yo tengo mi ranchito, / allí vivo muy tranquilo / con mi perro y mi gatito\".",
       "options": [
         {
-          "letter": "B",
-          "text": "Diez versos que riman todos entre sí.",
-          "is_correct": false,
-          "feedback": "Esto sería una décima, no una copla."
-        },
-        {
           "letter": "A",
           "text": "Cuatro versos de arte menor que suelen rimar el segundo con el cuarto.",
           "is_correct": true,
           "feedback": "La copla se basa en la sencillez de la cuarteta, facilitando la improvisación y el canto."
+        },
+        {
+          "letter": "B",
+          "text": "Diez versos que riman todos entre sí.",
+          "is_correct": false,
+          "feedback": "Esto sería una décima, no una copla."
         },
         {
           "letter": "C",
@@ -105,16 +105,16 @@
       "context": "Lee esta copla picante: \"Por aquí pasó una danta / con el rabo bien parado, / el que no lo crea que vaya / y le mire el otro lado\".",
       "options": [
         {
-          "letter": "B",
-          "text": "Enseñar zoología sobre la anatomía de las dantas.",
-          "is_correct": false,
-          "feedback": "La danta es solo una excusa para el chiste y el juego de palabras."
-        },
-        {
           "letter": "A",
           "text": "Generar risa y complicidad entre los asistentes a una reunión social.",
           "is_correct": true,
           "feedback": "La copla popular a menudo usa el doble sentido y el humor para entretener y relajar el ambiente."
+        },
+        {
+          "letter": "B",
+          "text": "Enseñar zoología sobre la anatomía de las dantas.",
+          "is_correct": false,
+          "feedback": "La danta es solo una excusa para el chiste y el juego de palabras."
         },
         {
           "letter": "C",
@@ -151,6 +151,12 @@
       "context": "Considera el refrán: \"Mucho tilín tilín y nada de paletas\".",
       "options": [
         {
+          "letter": "A",
+          "text": "Cuando una persona promete hacer muchas cosas importantes pero al final no cumple ninguna.",
+          "is_correct": true,
+          "feedback": "El \"tilín tilín\" es el ruido (promesa) y la \"paleta\" es el resultado real que falta."
+        },
+        {
           "letter": "B",
           "text": "Cuando un heladero tiene muchas paletas para vender y hace mucho ruido.",
           "is_correct": false,
@@ -161,12 +167,6 @@
           "text": "Cuando alguien regala paletas a todos sus amigos sin hacer ruido.",
           "is_correct": false,
           "feedback": "El refrán critica precisamente la falta de resultados frente a mucha bulla."
-        },
-        {
-          "letter": "A",
-          "text": "Cuando una persona promete hacer muchas cosas importantes pero al final no cumple ninguna.",
-          "is_correct": true,
-          "feedback": "El \"tilín tilín\" es el ruido (promesa) y la \"paleta\" es el resultado real que falta."
         },
         {
           "letter": "D",
@@ -203,16 +203,16 @@
           "feedback": "Aunque rima, la opción B es la respuesta tradicional más conocida y pícara."
         },
         {
-          "letter": "C",
-          "text": "\"...la próxima vez que pase / sin maceta, por favor\".",
-          "is_correct": true,
-          "feedback": "Introduce un giro humorístico (la flor venía con todo y maceta) que es típico del ingenio popular."
-        },
-        {
           "letter": "B",
           "text": "\"...las flores son muy bonitas / y de muy lindo color\".",
           "is_correct": false,
           "feedback": "Es una frase plana que no tiene el remate ingenioso propio de la copla."
+        },
+        {
+          "letter": "C",
+          "text": "\"...la próxima vez que pase / sin maceta, por favor\".",
+          "is_correct": true,
+          "feedback": "Introduce un giro humorístico (la flor venía con todo y maceta) que es típico del ingenio popular."
         },
         {
           "letter": "D",
@@ -335,6 +335,12 @@
       "context": "Compara estos dos refranes que parecen decir cosas opuestas:\n\n1. \"Al que madruga, Dios lo ayuda\".\n\n2. \"No por mucho madrugar amanece más temprano\".",
       "options": [
         {
+          "letter": "A",
+          "text": "Que cada refrán se aplica a una situación diferente: uno premia la diligencia y el otro advierte sobre la impaciencia.",
+          "is_correct": true,
+          "feedback": "La sabiduría popular reconoce que la realidad es compleja y que un consejo no sirve para todos los momentos."
+        },
+        {
           "letter": "B",
           "text": "Que los refranes son mentiras porque se contradicen entre sí.",
           "is_correct": false,
@@ -345,12 +351,6 @@
           "text": "Que uno de los dos refranes está mal escrito y debe ser borrado.",
           "is_correct": false,
           "feedback": "Ambos son válidos y forman parte del patrimonio cultural."
-        },
-        {
-          "letter": "A",
-          "text": "Que cada refrán se aplica a una situación diferente: uno premia la diligencia y el otro advierte sobre la impaciencia.",
-          "is_correct": true,
-          "feedback": "La sabiduría popular reconoce que la realidad es compleja y que un consejo no sirve para todos los momentos."
         },
         {
           "letter": "D",
@@ -427,6 +427,12 @@
       "context": "Imagina que un político usa constantemente refranes populares en sus discursos para convencer a la gente del campo de que voten por él.",
       "options": [
         {
+          "letter": "A",
+          "text": "Es necesario que los refranes sean incluidos en las leyes para que sean más fáciles de leer.",
+          "is_correct": false,
+          "feedback": "Los refranes tienen su espacio en la oralidad y la cultura, no en la técnica jurídica."
+        },
+        {
           "letter": "B",
           "text": "Es excelente porque demuestra que el político sabe mucho sobre literatura oral.",
           "is_correct": false,
@@ -439,19 +445,13 @@
           "feedback": "El problema no es el lenguaje, sino la intención detrás de su uso."
         },
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Puede ser una forma de manipulación para generar una falsa cercanía y confianza emocional sin dar propuestas reales.",
           "is_correct": true,
           "feedback": "El uso instrumental de la cultura popular puede servir para ocultar la falta de planes concretos de gobierno."
-        },
-        {
-          "letter": "D",
-          "text": "Es necesario que los refranes sean incluidos en las leyes para que sean más fáciles de leer.",
-          "is_correct": false,
-          "feedback": "Los refranes tienen su espacio en la oralidad y la cultura, no en la técnica jurídica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La evaluación final conecta la tradición oral con la vida ciudadana. El estudiante debe ser capaz de notar cuándo los recursos de la cultura popular se usan de manera genuina o cuándo se usan para persuadir de forma superficial o engañosa.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :---: | :--- |\n| Técnico | 30/30 | Estructura v5.2 correcta. |\n| Curricular | 40/40 | Análisis profundo de copla y refrán para grado 7. |\n| Contexto | 20/20 | Ejemplos locales colombianos y situaciones de la vida real. |\n| Redacción | 10/10 | Enunciados claros y explicaciones pedagógicas útiles. |\n| **Total** | **100/100** | |",
       "difficulty": "10",
       "images": [],

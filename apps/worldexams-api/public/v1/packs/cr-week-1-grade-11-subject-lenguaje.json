@@ -785,9 +785,9 @@
         },
         {
           "letter": "B",
-          "text": "Razonamiento circular (petición de principio), al repetir la misma premisa sin aportar pruebas externas ni argumentos de desarrollo.",
-          "is_correct": true,
-          "feedback": "Correcto. El fragmento da vueltas sobre el mismo concepto de 'agua limpia' y 'río limpio' sin avanzar lógicamente en razones concretas de preservación."
+          "text": "Sesgo geográfico al mencionar únicamente la provincia de Cartago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mencionar una región específica pertinente al contexto de la tesis no constituye un defecto lógico-argumentativo."
         },
         {
           "letter": "C",
@@ -797,12 +797,12 @@
         },
         {
           "letter": "D",
-          "text": "Sesgo geográfico al mencionar únicamente la provincia de Cartago.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Mencionar una región específica pertinente al contexto de la tesis no constituye un defecto lógico-argumentativo."
+          "text": "Razonamiento circular (petición de principio), al repetir la misma premisa sin aportar pruebas externas ni argumentos de desarrollo.",
+          "is_correct": true,
+          "feedback": "Correcto. El fragmento da vueltas sobre el mismo concepto de 'agua limpia' y 'río limpio' sin avanzar lógicamente en razones concretas de preservación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La petición de principio o razonamiento circular ocurre cuando la conclusión de un argumento ya está implícita o explícitamente contenida en las premisas de partida.\n\n---",
       "difficulty": "9",
       "images": [],

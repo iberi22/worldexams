@@ -13,12 +13,6 @@
       "context": "Discussing scientific innovations in Cartagena.",
       "options": [
         {
-          "letter": "D",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
           "text": "alleviate",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "facilitate",
           "is_correct": false,
           "feedback": "Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide."
+        },
+        {
+          "letter": "D",
+          "text": "exacerbate",
+          "is_correct": true,
+          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
         }
       ],
       "correct_answer": "D",
@@ -59,16 +59,16 @@
       "context": "Discussing scientific innovations in Cartagena.",
       "options": [
         {
-          "letter": "B",
-          "text": "discard",
-          "is_correct": true,
-          "feedback": "'To discard something is to throw it away as worthless. Inconsistent results mean the procedure cannot be trusted, and building the apparatus again is exactly what happens when the earlier version is discarded and replaced."
-        },
-        {
           "letter": "A",
           "text": "retain",
           "is_correct": false,
           "feedback": "'To retain' is to keep something, the direct opposite of what the sentence describes. If the team had kept the procedure, there would be no reason to start again from the ground up."
+        },
+        {
+          "letter": "B",
+          "text": "discard",
+          "is_correct": true,
+          "feedback": "'To discard something is to throw it away as worthless. Inconsistent results mean the procedure cannot be trusted, and building the apparatus again is exactly what happens when the earlier version is discarded and replaced."
         },
         {
           "letter": "C",
@@ -105,12 +105,6 @@
       "context": "Discussing scientific innovations in Barranquilla.",
       "options": [
         {
-          "letter": "C",
-          "text": "undermines",
-          "is_correct": true,
-          "feedback": "'Undermine' means to weaken something that was relied upon, and results nobody has independently reproduced leave every later claim resting on an unverified base. The clause names what is lost as a direct consequence."
-        },
-        {
           "letter": "A",
           "text": "corroborates",
           "is_correct": false,
@@ -121,6 +115,12 @@
           "text": "anticipates",
           "is_correct": false,
           "feedback": "'Anticipate' means to expect something in advance, and the sentence concerns confidence in results already published. Nothing here concerns a prediction about future work."
+        },
+        {
+          "letter": "C",
+          "text": "undermines",
+          "is_correct": true,
+          "feedback": "'Undermine' means to weaken something that was relied upon, and results nobody has independently reproduced leave every later claim resting on an unverified base. The clause names what is lost as a direct consequence."
         },
         {
           "letter": "D",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W09-scientific-innovations-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on scientific innovations in Bogotá, what is implied about the role of Compound Adjectives & Nouns in shaping public opinion?",
-      "context": "Discussing scientific innovations in Bogotá.",
+      "statement": "Read the text and answer the question.\n\n\"Since 2015, scientists in Medellín and Bello have released mosquitoes carrying Wolbachia, a natural bacterium that makes it harder for the insects to transmit dengue. The mosquitoes breed with local ones, and the bacterium passes to the next generations. Researchers reported a large drop in dengue cases in the treated areas compared with previous years. The method does not use chemicals, and it is now being studied in other Colombian cities.\"\n\nWhat is the text mainly about?",
+      "context": "Reading a science news article about mosquitoes with Wolbachia in Medellín and Bello.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. Compound adjectives and compound nouns is the point here: a compound such as \"evidence-based\" fuses two ideas into one word and fixes the meaning before the noun arrives, so the claim then reads as established knowledge instead of mere opinion. Reading that implication is what the question asks."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Why dengue cases increased in Medellín.",
           "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report treats this kind of precision as central to shaping public opinion, so calling it irrelevant contradicts the text."
+          "feedback": "The text reports a drop in dengue cases in the treated areas, not an increase."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "How chemicals are used to kill mosquitoes.",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the compound adds a second layer of meaning to the claim rather than simplifying the message."
+          "feedback": "The text says the method 'does not use chemicals'."
+        },
+        {
+          "letter": "C",
+          "text": "A biological method that has helped reduce dengue in Medellín and Bello.",
+          "is_correct": true,
+          "feedback": "The text explains the method (mosquitoes with a natural bacterium), its result (fewer dengue cases) and its expansion to other cities."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Pereira.",
+          "text": "A new vaccine against dengue tested in Bello.",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report describes the device as ordinary in media and discourse, not as jargon limited to one city's specialists."
+          "feedback": "The method uses mosquitoes and bacteria, not a vaccine given to people."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Science news usually presents a method, a result and future steps. A good summary mentions the method and its result, while distractors often contradict a detail ('does not use chemicals') or confuse the method with a different one.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -243,12 +243,6 @@
       "context": "Discussing scientific innovations in Barranquilla.",
       "options": [
         {
-          "letter": "D",
-          "text": "Each one closes a different loophole that had made earlier findings unreliable.",
-          "is_correct": true,
-          "feedback": "Peer review means independent experts checked the method, open access means anyone can inspect the data, and pre-registration means the hypothesis was fixed before the results appeared. Together they attack three separate ways a result can be misleading, and that is why all three are listed."
-        },
-        {
           "letter": "A",
           "text": "The three labels together mean the findings have already been proven beyond any doubt.",
           "is_correct": false,
@@ -265,6 +259,12 @@
           "text": "The three labels are the minimum required for the results to be published anywhere.",
           "is_correct": false,
           "feedback": "The report does not state a publication requirement. The phrase 'insist on all three' signals a methodological standard the lab holds itself to, not a rule imposed by a journal or an editor."
+        },
+        {
+          "letter": "D",
+          "text": "Each one closes a different loophole that had made earlier findings unreliable.",
+          "is_correct": true,
+          "feedback": "Peer review means independent experts checked the method, open access means anyone can inspect the data, and pre-registration means the hypothesis was fixed before the results appeared. Together they attack three separate ways a result can be misleading, and that is why all three are listed."
         }
       ],
       "correct_answer": "D",
@@ -285,36 +285,36 @@
     },
     {
       "id": "CO-ING-11-2026-W09-scientific-innovations-001-MASTERY-bundle-v7",
-      "statement": "According to a recent report on scientific innovations in Medellín, what is implied about the role of Compound Adjectives & Nouns in shaping public opinion?",
-      "context": "Discussing scientific innovations in Medellín.",
+      "statement": "Read the text and answer the question.\n\n\"Every year, Colombian coffee farms throw away tons of coffee pulp, the red fruit that surrounds the bean. A group of researchers in Manizales has found a way to dry and grind this pulp into a flour rich in fibre. Bakeries in the city now use it to make cookies and bread. The researchers say the farmers who sell their pulp earn extra money from something they once paid to get rid of.\"\n\nWhat can be inferred about coffee pulp before this innovation?",
+      "context": "Reading a report about flour made from coffee pulp in Manizales.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. Compound adjectives and compound nouns is the point here: a compound such as \"evidence-based\" fuses two ideas into one word and fixes the meaning before the noun arrives, so the claim then reads as established knowledge instead of mere opinion. Reading that implication is what the question asks."
+          "letter": "A",
+          "text": "It was the most valuable part of the coffee fruit.",
+          "is_correct": false,
+          "feedback": "Farms threw the pulp away, so it was not considered valuable."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report treats this kind of precision as central to shaping public opinion, so calling it irrelevant contradicts the text."
+          "letter": "B",
+          "text": "It was usually considered waste with no commercial value.",
+          "is_correct": true,
+          "feedback": "Farms 'throw away tons' of pulp and even 'paid to get rid of' it, which shows it was treated as waste before the flour was invented."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "It was already sold to bakeries in Manizales.",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the compound adds a second layer of meaning to the claim rather than simplifying the message."
+          "feedback": "Bakeries use the pulp 'now', after the researchers' discovery, not before."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Cali.",
+          "text": "It was used to make coffee stronger.",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report describes the device as ordinary in media and discourse, not as jargon limited to one city's specialists."
+          "feedback": "The text does not mention any use of the pulp in the coffee drink."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "The phrases 'throw away' and 'once paid to get rid of' describe the past situation, while 'now' describes the present. Comparing both moments allows the reader to infer how the innovation changed the value of the pulp.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -331,36 +331,36 @@
     },
     {
       "id": "CO-ING-11-2026-W09-scientific-innovations-001-MASTERY-bundle-v8",
-      "statement": "According to a recent report on scientific innovations in Bucaramanga, what is implied about the role of Compound Adjectives & Nouns in shaping public opinion?",
-      "context": "Discussing scientific innovations in Bucaramanga.",
+      "statement": "Read the text and answer the question.\n\n\"Researchers at a Colombian agricultural institute have developed a new variety of rice that can survive several days under water. Floods often destroy rice crops in Córdoba and Tolima, leaving farmers with nothing to sell. In field trials, the hardy new variety produced good harvests even after heavy rains. Scientists now plan to share the seeds with small farmers' associations at low cost.\"\n\nIn the text, the word \"hardy\" is closest in meaning to:",
+      "context": "Reading an article about a flood-tolerant rice variety for farmers in Córdoba and Tolima.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. Compound adjectives and compound nouns is the point here: a compound such as \"evidence-based\" fuses two ideas into one word and fixes the meaning before the noun arrives, so the claim then reads as established knowledge instead of mere opinion. Reading that implication is what the question asks."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "expensive",
           "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report treats this kind of precision as central to shaping public opinion, so calling it irrelevant contradicts the text."
+          "feedback": "The seeds will be shared 'at low cost', so the text does not suggest that the variety is expensive."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "difficult to grow",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the compound adds a second layer of meaning to the claim rather than simplifying the message."
+          "feedback": "The variety produced good harvests in difficult conditions, which shows it is easy to grow, not difficult."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Barranquilla.",
+          "text": "fast-growing",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report describes the device as ordinary in media and discourse, not as jargon limited to one city's specialists."
+          "feedback": "The text says nothing about how fast the rice grows; it focuses on surviving floods."
+        },
+        {
+          "letter": "D",
+          "text": "strong and able to survive difficult conditions",
+          "is_correct": true,
+          "feedback": "The rice 'can survive several days under water' and produced good harvests 'even after heavy rains', which describes a hardy, resistant plant."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "When a new adjective describes something already explained, the earlier explanation is the context clue. Here the first sentence (surviving under water) gives the meaning of 'hardy' before the word appears.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -377,36 +377,36 @@
     },
     {
       "id": "CO-ING-11-2026-W09-scientific-innovations-001-MASTERY-bundle-v9",
-      "statement": "According to a recent report on scientific innovations in Manizales, what is implied about the role of Compound Adjectives & Nouns in shaping public opinion?",
-      "context": "Discussing scientific innovations in Manizales.",
+      "statement": "Read the text and answer the question.\n\n\"In 2007, students and professors at Universidad Sergio Arboleda in Bogotá launched Libertad 1, the first Colombian satellite to reach space. It was a tiny cube, only ten centimetres on each side. Its mission was simple: to send signals to Earth that radio stations could receive. Although it was small, it showed that a Colombian university could design, build and operate a space project. Since then, other Colombian institutions have built small satellites.\"\n\nAccording to the text, what did Libertad 1 demonstrate?",
+      "context": "Reading a history of space science about Libertad 1, a satellite built in Bogotá.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "That a Colombian university could design and operate a space project.",
           "is_correct": true,
-          "feedback": "Correct. Compound adjectives and compound nouns is the point here: a compound such as \"evidence-based\" fuses two ideas into one word and fixes the meaning before the noun arrives, so the claim then reads as established knowledge instead of mere opinion. Reading that implication is what the question asks."
+          "feedback": "The text states that 'it showed that a Colombian university could design, build and operate a space project'."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "That Colombia could send astronauts into space.",
           "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report treats this kind of precision as central to shaping public opinion, so calling it irrelevant contradicts the text."
+          "feedback": "Libertad 1 was a ten-centimetre cube that sent signals; no astronauts are mentioned."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "That large satellites are cheaper than small ones.",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the compound adds a second layer of meaning to the claim rather than simplifying the message."
+          "feedback": "The text does not compare prices, and Libertad 1 was a small satellite."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bucaramanga.",
+          "text": "That radio stations could build satellites.",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report describes the device as ordinary in media and discourse, not as jargon limited to one city's specialists."
+          "feedback": "Radio stations only received the signals; the satellite was built by a university."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Verbs like 'showed' or 'demonstrated' in the text usually point to the answer of questions about significance. Students should match the question's verb with its synonym in the passage.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -473,12 +473,6 @@
       "context": "Discussing scientific innovations in Barranquilla.",
       "options": [
         {
-          "letter": "C",
-          "text": "self-consistent",
-          "is_correct": true,
-          "feedback": "'Self-consistent' means that its parts agree with one another, which is what an explanation must be to be worth proposing. The clause about no reading holding up under repetition describes the absence of that internal agreement."
-        },
-        {
           "letter": "A",
           "text": "self-secure",
           "is_correct": false,
@@ -489,6 +483,12 @@
           "text": "self-concealing",
           "is_correct": false,
           "feedback": "'Self-concealing' would describe something that hides itself, and the sentence is about internal agreement rather than concealment. Nothing in the clause suggests the team suspects the data of hiding anything."
+        },
+        {
+          "letter": "C",
+          "text": "self-consistent",
+          "is_correct": true,
+          "feedback": "'Self-consistent' means that its parts agree with one another, which is what an explanation must be to be worth proposing. The clause about no reading holding up under repetition describes the absence of that internal agreement."
         },
         {
           "letter": "D",
@@ -519,12 +519,6 @@
       "context": "Discussing scientific innovations in Manizales.",
       "options": [
         {
-          "letter": "C",
-          "text": "precondition",
-          "is_correct": true,
-          "feedback": "A precondition is a condition that must be satisfied before the process can proceed, which is what the trailing 'that' clause describes as binding on every laboratory. 'A precondition' is also a natural appositive after a comma."
-        },
-        {
           "letter": "A",
           "text": "preconditioning",
           "is_correct": false,
@@ -535,6 +529,12 @@
           "text": "preconception",
           "is_correct": false,
           "feedback": "'Preconception' means a belief formed in advance, and the clause is about a temperature the laboratories had to maintain. The two words share a prefix but belong to unrelated senses, which is the trap this option sets."
+        },
+        {
+          "letter": "C",
+          "text": "precondition",
+          "is_correct": true,
+          "feedback": "A precondition is a condition that must be satisfied before the process can proceed, which is what the trailing 'that' clause describes as binding on every laboratory. 'A precondition' is also a natural appositive after a comma."
         },
         {
           "letter": "D",
@@ -565,16 +565,16 @@
       "context": "Discussing scientific innovations in Cali.",
       "options": [
         {
-          "letter": "B",
-          "text": "replicate",
-          "is_correct": true,
-          "feedback": "'Replicate' is what a reader has to do with a finding to check it, and the notebooks are precisely what would make that possible. The gerund form 'replicating' is also the only one of the options that fits the verb pattern."
-        },
-        {
           "letter": "A",
           "text": "replicate the",
           "is_correct": false,
           "feedback": "A determiner cannot stand alone as the blank, since the verb already has its complement to hold. 'Replicate' needs a noun or a gerund after it, and no noun is supplied in this sentence."
+        },
+        {
+          "letter": "B",
+          "text": "replicate",
+          "is_correct": true,
+          "feedback": "'Replicate' is what a reader has to do with a finding to check it, and the notebooks are precisely what would make that possible. The gerund form 'replicating' is also the only one of the options that fits the verb pattern."
         },
         {
           "letter": "C",
@@ -611,16 +611,16 @@
       "context": "Discussing scientific innovations in Barranquilla.",
       "options": [
         {
-          "letter": "B",
-          "text": "does",
-          "is_correct": true,
-          "feedback": "'Rarely' in front of a main clause triggers inversion, and 'does' is the auxiliary that carries the present tense here: 'rarely does a replication attempt succeed'. The lexical verb 'succeed' stays in its base form because the auxiliary already carries the tense."
-        },
-        {
           "letter": "A",
           "text": "do",
           "is_correct": false,
           "feedback": "'Do' is the plural auxiliary, but the subject 'a replication attempt' is singular. The auxiliary has to agree with the subject it precedes, and a singular subject takes 'does'."
+        },
+        {
+          "letter": "B",
+          "text": "does",
+          "is_correct": true,
+          "feedback": "'Rarely' in front of a main clause triggers inversion, and 'does' is the auxiliary that carries the present tense here: 'rarely does a replication attempt succeed'. The lexical verb 'succeed' stays in its base form because the auxiliary already carries the tense."
         },
         {
           "letter": "C",
@@ -703,12 +703,6 @@
       "context": "Discussing scientific innovations in Pereira.",
       "options": [
         {
-          "letter": "D",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -725,6 +719,12 @@
           "text": "did",
           "is_correct": false,
           "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+        },
+        {
+          "letter": "D",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
         }
       ],
       "correct_answer": "D",
@@ -749,12 +749,6 @@
       "context": "Discussing scientific innovations in Bogotá.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
           "text": "They are literally looking for something in the trees of Cartagena.",
           "is_correct": false,
@@ -771,6 +765,12 @@
           "text": "A new environmental project involving trees should be started.",
           "is_correct": false,
           "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+        },
+        {
+          "letter": "D",
+          "text": "The current strategy is directed towards the wrong objective.",
+          "is_correct": true,
+          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
         }
       ],
       "correct_answer": "D",
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-ING-11-2026-W09-scientific-innovations-001-MASTERY-bundle-v18",
-      "statement": "In a high-level debate about scientific innovations, Alejandro says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Alejandro mean?",
-      "context": "Discussing scientific innovations in Medellín.",
+      "statement": "Read what the supervisor says.\n\nSupervisor: \"The cell cultures are very sensitive this week. Please keep an eye on the temperature while I'm at the conference in Cali.\"\n\nWhat does the supervisor ask?",
+      "context": "A laboratory supervisor in Bogotá gives instructions before travelling to a conference.",
       "options": [
         {
-          "letter": "B",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "letter": "A",
+          "text": "To put one eye near the microscope all day.",
+          "is_correct": false,
+          "feedback": "This is a literal reading of 'eye'. The supervisor is asking for attention, not a physical position."
         },
         {
-          "letter": "A",
-          "text": "They are literally looking for something in the trees of Medellín.",
-          "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "letter": "B",
+          "text": "To watch and check the temperature regularly.",
+          "is_correct": true,
+          "feedback": "'Keep an eye on' means to watch something carefully; the sensitive cultures explain why the temperature must be checked."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "To change the temperature as much as possible.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Sensitive cultures need stable conditions, and the idiom refers to watching, not changing."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "To travel to the conference in Cali.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "The supervisor is the one going to the conference; the assistant must stay and watch the lab."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Keep an eye on' is a frequent expression for monitoring something. The reason given ('very sensitive') and the time clause ('while I'm at the conference') show the speaker is delegating a responsibility.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -837,36 +837,36 @@
     },
     {
       "id": "CO-ING-11-2026-W09-scientific-innovations-001-MASTERY-bundle-v19",
-      "statement": "In a high-level debate about scientific innovations, Santiago says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Santiago mean?",
-      "context": "Discussing scientific innovations in Bogotá.",
+      "statement": "Read what the astronomer says.\n\nAstronomer: \"A total solar eclipse visible from our town happens once in a blue moon, so the whole observatory team will be working that day.\"\n\nWhat does the astronomer mean?",
+      "context": "An astronomer at an observatory in Villa de Leyva talks about a rare eclipse.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Cali.",
+          "text": "The eclipse can only be seen when the Moon is blue.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "This is a literal reading. 'Once in a blue moon' does not refer to the colour of the Moon."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The eclipse happens every month.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "If it happened every month, there would be no reason for the whole team to work that day."
         },
         {
           "letter": "C",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "The observatory will be closed during the eclipse.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "The whole team will be working, so the observatory will be open and active."
+        },
+        {
+          "letter": "D",
+          "text": "The event is very rare.",
+          "is_correct": true,
+          "feedback": "'Once in a blue moon' means very rarely; the rarity explains why the whole team will work on that special day."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "Frequency idioms such as 'once in a blue moon' are useful in science contexts. The consequence ('so the whole team will be working') supports the meaning: something unusual deserves special attention.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -883,36 +883,36 @@
     },
     {
       "id": "CO-ING-11-2026-W09-scientific-innovations-001-MASTERY-bundle-v20",
-      "statement": "In a high-level debate about scientific innovations, Nicolás says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Nicolás mean?",
-      "context": "Discussing scientific innovations in Barranquilla.",
+      "statement": "Read what the researcher says.\n\nResearcher: \"We ran out of samples before we could repeat the experiment, so the results are still preliminary.\"\n\nWhy are the results preliminary?",
+      "context": "A researcher in Bucaramanga explains why her results are not final.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Cartagena.",
+          "text": "The samples ran away from the laboratory.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "This reads 'ran' literally. Samples cannot move; 'run out of' is a phrasal verb about quantity."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The researchers had too many samples to analyse.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "This is the opposite: they had none left."
         },
         {
           "letter": "C",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "The experiment was repeated many times.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "The researcher says they could not repeat the experiment."
+        },
+        {
+          "letter": "D",
+          "text": "There were no samples left to repeat the experiment.",
+          "is_correct": true,
+          "feedback": "'Run out of' means to use all of something; without samples, the experiment could not be repeated, so the results are not final."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "In science, results become reliable when experiments are repeated. The phrasal verb 'run out of' explains why this did not happen, and 'so' introduces the consequence: the results are still preliminary.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

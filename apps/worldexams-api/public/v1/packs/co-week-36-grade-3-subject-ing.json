@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "You open your bag and you see your book inside it. The book is ____ the bag.",
+      "context": "Mariana guarda su cuaderno dentro de la mochila antes de salir para el colegio en Duitama.",
       "options": [
         {
-          "letter": "C",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the word for a place where you live or stay on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' is the system of moving people or goods between places, not the place you sleep in itself."
+          "text": "in",
+          "is_correct": true,
+          "feedback": "Correct. In means inside something, and the book is inside the bag."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "on",
           "is_correct": false,
-          "feedback": "'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live."
+          "feedback": "Incorrect. On means on top of something, but the book is inside the bag."
+        },
+        {
+          "letter": "C",
+          "text": "under",
+          "is_correct": false,
+          "feedback": "Incorrect. Under means below something, and the book is not below the bag."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "behind",
           "is_correct": false,
-          "feedback": "'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in."
+          "feedback": "Incorrect. Behind means at the back of something, but the book is inside the bag."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "La preposición \"in\" significa dentro de. Si abrimos la mochila y el libro está adentro, decimos \"The book is in the bag\". \"On\" es encima, \"under\" es debajo y \"behind\" es detrás.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -55,36 +55,36 @@
     },
     {
       "id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The cup is on top of the table. Complete: \"The cup is ____ the table.\"",
+      "context": "En la mesa del comedor de una casa en Chía hay una taza de chocolate caliente encima de la mesa.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them."
+          "text": "under",
+          "is_correct": false,
+          "feedback": "Incorrect. Under means below the table, but the cup is on top of it."
         },
         {
           "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "text": "on",
+          "is_correct": true,
+          "feedback": "Correct. On means on top of a surface, like a cup on the table."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "in",
           "is_correct": false,
-          "feedback": "'destination' names only the place you are going to, without the route or the order of the whole journey."
+          "feedback": "Incorrect. In means inside something, and a cup cannot be inside a flat table."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "between",
           "is_correct": false,
-          "feedback": "'passport' is the official document that lets you cross a border, not the plan of where you go."
+          "feedback": "Incorrect. Between needs two things on each side, and here there is only the table."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "\"On\" significa encima de una superficie y tocándola. La taza está sobre la mesa, por eso decimos \"The cup is on the table\". \"Between\" necesita dos objetos, uno a cada lado.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The chair is over the dog. The dog is below the chair. Where is the dog?",
+      "context": "El perro de la familia Rojas, en Zipaquirá, duerme debajo de una silla de la cocina.",
       "options": [
         {
-          "letter": "D",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' is the place someone is going to or something is being sent to."
-        },
-        {
           "letter": "A",
-          "text": "departure",
+          "text": "on the chair",
           "is_correct": false,
-          "feedback": "'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself."
+          "feedback": "Incorrect. On the chair means sitting on top of it, but the chair is over the dog."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "in the chair",
           "is_correct": false,
-          "feedback": "'arrival' is the act of reaching a place, not the place that is reached."
+          "feedback": "Incorrect. In means inside, and a dog cannot be inside a chair."
         },
         {
           "letter": "C",
-          "text": "journey",
+          "text": "under the chair",
+          "is_correct": true,
+          "feedback": "Correct. Under means below, and the dog is below the chair."
+        },
+        {
+          "letter": "D",
+          "text": "next to the chair",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from the start to the end, not the place the trip finishes at."
+          "feedback": "Incorrect. Next to means at the side, but the dog is below the chair."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Si la silla está encima del perro y el perro está abajo (\"below\"), usamos \"under\": \"The dog is under the chair\". \"Next to\" significa al lado, no debajo.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.72,
       "bundle_id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The box is on the left. The bag is on the right. The ball is in the middle. Complete: \"The ball is ____ the box and the bag.\"",
+      "context": "En el salón de un colegio de Sogamoso hay una caja a la izquierda, una mochila a la derecha y una pelota en el medio.",
       "options": [
         {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "in",
           "is_correct": false,
-          "feedback": "'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in."
+          "feedback": "Incorrect. In means inside one thing, but the ball is in the middle of two things."
         },
         {
           "letter": "B",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "'flight' is the journey by plane itself, not the containers that hold your things."
+          "text": "between",
+          "is_correct": true,
+          "feedback": "Correct. Between means in the middle of two things: the box and the bag."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "under",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you make for a seat or a room, not the bag you carry."
+          "feedback": "Incorrect. Under means below something, and the ball is at the side of both things."
+        },
+        {
+          "letter": "D",
+          "text": "on",
+          "is_correct": false,
+          "feedback": "Incorrect. On means on top of something, but the ball is in the middle, not on top."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "\"Between\" significa entre dos cosas. La pelota está en el medio de la caja y la mochila, por eso decimos \"The ball is between the box and the bag\".",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.68,
       "bundle_id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Ana sits in front of Luis. Luis sits behind Ana.\"\nWho sits at the back?",
+      "context": "En el bus escolar de Bello, Ana y Luis se sientan en una fila, uno detrás del otro.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew."
+          "text": "Ana",
+          "is_correct": false,
+          "feedback": "Incorrect. Ana sits in front of Luis, so she is at the front, not at the back."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "the teacher",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all."
+          "feedback": "Incorrect. The text does not talk about a teacher; it talks about Ana and Luis."
         },
         {
           "letter": "C",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle."
+          "text": "Luis",
+          "is_correct": true,
+          "feedback": "Correct. Behind means at the back, and Luis sits behind Ana."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "nobody",
           "is_correct": false,
-          "feedback": "'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle."
+          "feedback": "Incorrect. Luis sits behind Ana, so somebody is at the back."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "\"Behind\" significa detrás y \"in front of\" significa delante. Luis está detrás de Ana (\"behind Ana\"), entonces el que está atrás es Luis y Ana está adelante.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.6,
       "bundle_id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"In our classroom, the map is on the wall. The trash can is under the desk. The pencils are in the box.\"\nWhere is the map?",
+      "context": "La profesora de un colegio de Quibdó describe dónde están las cosas del salón.",
       "options": [
         {
-          "letter": "D",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "under the desk",
           "is_correct": false,
-          "feedback": "'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in."
+          "feedback": "Incorrect. The trash can is under the desk, not the map."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "in the box",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for your plane, not the place where your belongings are inspected."
+          "feedback": "Incorrect. The pencils are in the box, not the map."
         },
         {
           "letter": "C",
-          "text": "gate",
+          "text": "next to the door",
           "is_correct": false,
-          "feedback": "'gate' is the door at the plane you walk through to board, not the place where officials check your things."
+          "feedback": "Incorrect. The text does not mention the door, so this is not the place of the map."
+        },
+        {
+          "letter": "D",
+          "text": "on the wall",
+          "is_correct": true,
+          "feedback": "Correct. The text says \"the map is on the wall\"."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "explanation": "Hay que buscar la palabra \"map\" en la lectura: \"the map is on the wall\", el mapa está en la pared. Las otras opciones son lugares de otros objetos (\"trash can\", \"pencils\") o no aparecen.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.56,
       "bundle_id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"The cat is in front of the TV. The dog is behind the sofa.\"\nWhich sentence is true?",
+      "context": "En la sala de una casa en Palmira, el gato y el perro tienen cada uno su lugar favorito.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
+          "text": "The dog is behind the sofa.",
           "is_correct": true,
-          "feedback": "Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane."
+          "feedback": "Correct. The text says exactly this: the dog is behind the sofa."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "The cat is behind the TV.",
           "is_correct": false,
-          "feedback": "'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline."
+          "feedback": "Incorrect. The cat is in front of the TV, which is the opposite of behind."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "The dog is in front of the sofa.",
           "is_correct": false,
-          "feedback": "'receipt' is the proof that you paid for something, which is not permission to board a plane."
+          "feedback": "Incorrect. The dog is behind the sofa, not in front of it."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "The cat is under the TV.",
           "is_correct": false,
-          "feedback": "'brochure' is a leaflet with tourist information, not a travel document issued to a passenger."
+          "feedback": "Incorrect. The text says in front of the TV; under means below."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "explanation": "Para evaluar cada oración comparamos con el texto. El gato está delante del televisor (\"in front of the TV\") y el perro detrás del sofá (\"behind the sofa\"). Solo la opción A coincide.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.5,
       "bundle_id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"There are three boxes in a line: red, blue, green. The blue box is in the middle.\"\nWhich sentence is true?",
+      "context": "En una tienda de Tuluá hay tres cajas en una fila: roja, azul y verde, en ese orden.",
       "options": [
         {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' means visiting the places of interest of a location as a traveler."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "The red box is between the blue box and the green box.",
           "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place."
+          "feedback": "Incorrect. The red box is at one end of the line, so it is not in the middle."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "The green box is between the red box and the blue box.",
           "is_correct": false,
-          "feedback": "'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city."
+          "feedback": "Incorrect. The green box is at the other end, so it is not in the middle."
+        },
+        {
+          "letter": "C",
+          "text": "The blue box is under the red box.",
+          "is_correct": false,
+          "feedback": "Incorrect. The boxes are in a line, side by side; under means below."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place."
+          "text": "The blue box is between the red box and the green box.",
+          "is_correct": true,
+          "feedback": "Correct. The blue box is in the middle, so it is between the red and the green boxes."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "correct_answer": "D",
+      "explanation": "La caja azul (\"blue box\") está en el medio de la fila roja, azul, verde. Estar en el medio de dos cosas se dice \"between\": \"The blue box is between the red box and the green box\".",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.45,
       "bundle_id": "CO-ING-3-2026-W36-prepositions-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",

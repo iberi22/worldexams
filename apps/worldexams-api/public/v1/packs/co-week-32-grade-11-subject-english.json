@@ -13,12 +13,6 @@
       "context": "Discussing youth culture in Bucaramanga.",
       "options": [
         {
-          "letter": "D",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
           "text": "alleviate",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "facilitate",
           "is_correct": false,
           "feedback": "Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide."
+        },
+        {
+          "letter": "D",
+          "text": "exacerbate",
+          "is_correct": true,
+          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
         }
       ],
       "correct_answer": "D",
@@ -59,12 +59,6 @@
       "context": "Discussing youth culture in Cartagena.",
       "options": [
         {
-          "letter": "C",
-          "text": "aggravate",
-          "is_correct": true,
-          "feedback": "'Aggravate' means to make a bad situation worse, and years of neglect certainly deepen the problem."
-        },
-        {
           "letter": "A",
           "text": "remedy",
           "is_correct": false,
@@ -75,6 +69,12 @@
           "text": "clarify",
           "is_correct": false,
           "feedback": "'Clarify' means to make something easier to understand, and the problem here is safety, not confusion."
+        },
+        {
+          "letter": "C",
+          "text": "aggravate",
+          "is_correct": true,
+          "feedback": "'Aggravate' means to make a bad situation worse, and years of neglect certainly deepen the problem."
         },
         {
           "letter": "D",
@@ -105,12 +105,6 @@
       "context": "Discussing youth culture in Bogotá.",
       "options": [
         {
-          "letter": "C",
-          "text": "reduce",
-          "is_correct": true,
-          "feedback": "'Reduce' means to make something smaller in number, and opening centres should lower the figure of idle young people."
-        },
-        {
           "letter": "A",
           "text": "expand",
           "is_correct": false,
@@ -121,6 +115,12 @@
           "text": "provoke",
           "is_correct": false,
           "feedback": "'Provoke' means to trigger a reaction, and the sentence presents the centres as solving a problem rather than causing one."
+        },
+        {
+          "letter": "C",
+          "text": "reduce",
+          "is_correct": true,
+          "feedback": "'Reduce' means to make something smaller in number, and opening centres should lower the figure of idle young people."
         },
         {
           "letter": "D",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W32-youth-culture-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on youth culture in Cartagena, what is implied about the role of Register & Slang in shaping public opinion?",
-      "context": "Discussing youth culture in Cartagena.",
+      "statement": "Read the text and answer the question.\n\n\"Every Friday afternoon, a group of teenagers meets in a community hall in Cartagena to practise champeta. The group was started three years ago by Yesenia, a former student who wanted young people to have a safe place to spend their free time. Today it has forty members, and some of them have performed at local festivals. Yesenia says that dancing has also taught them discipline: anyone who misses two practices in a row has to explain why to the rest of the group.\"\n\nWhat is the text mainly about?",
+      "context": "Reading a short text about a youth dance group in Cartagena.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "A dance group that gives young people a safe and disciplined activity.",
           "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "feedback": "Correct. The text describes the group's origin, its members and the discipline it teaches, which together form the main idea."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "The history of champeta music in the Caribbean.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. Champeta is only the style the group dances; the text gives no information about the history of the music."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "A national competition that Yesenia won.",
           "is_correct": false,
-          "feedback": "Incorrect. Register & Slang gives a text its nuance and precision, so it does not make the message simpler to grasp."
+          "feedback": "Incorrect. The text mentions performances at local festivals, but no competition or prize won by Yesenia."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Barranquilla.",
+          "text": "Why teenagers in Cartagena prefer football to dance.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. Football is never mentioned, and the text is about teenagers who choose to dance."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "A main-idea question asks for the option that covers the whole text, not just one detail. Every sentence here describes the dance group: why it began (a safe place), how it has grown (forty members, festivals) and what it teaches (discipline). Options about music history or football go beyond the text.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-11-2026-W32-youth-culture-001-MASTERY-bundle-v6",
-      "statement": "According to a recent report on youth culture in Pereira, what is implied about the role of Register & Slang in shaping public opinion?",
-      "context": "Discussing youth culture in Pereira.",
+      "statement": "Read the text and answer the question.\n\n\"A youth organisation in Pereira asked 300 secondary students how they spend their evenings. Most said they use their phones for about four hours after school, mainly for videos and chats. However, when asked what they would do if their neighbourhood had a free sports field or music studio open until 9 p.m., more than half said they would go at least twice a week. The organisation plans to present these results to the city council next month.\"\n\nWhat does the organisation probably want the city council to do?",
+      "context": "Reading a short text about a youth survey in Pereira.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Ban mobile phones in secondary schools.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. The survey describes phone use, but nothing in the text suggests the organisation wants a ban."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Pay students to answer more surveys.",
           "is_correct": false,
-          "feedback": "Incorrect. Register & Slang gives a text its nuance and precision, so it does not make the message simpler to grasp."
+          "feedback": "Incorrect. The survey is only the evidence; the text never discusses paying students."
+        },
+        {
+          "letter": "C",
+          "text": "Open more free sports or music spaces in the evenings.",
+          "is_correct": true,
+          "feedback": "Correct. The key result is that most students would use free evening spaces, so presenting it to the council suggests a request for them."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Medellín.",
+          "text": "Reduce the number of sports fields in the city.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. This contradicts the survey result, which shows young people want more places for sport, not fewer."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "To infer a purpose, connect the evidence with the action. The organisation highlights that students would use free sports fields or music studios, and then takes these results to the city council, the body that can create such spaces. The word 'However' marks this result as the important one.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -289,16 +289,16 @@
       "context": "Discussing youth culture in Cartagena.",
       "options": [
         {
-          "letter": "B",
-          "text": "Register shifting",
-          "is_correct": true,
-          "feedback": "Moving between a formal and an informal register depending on the audience is precisely register shifting, which the report treats as normal rather than careless."
-        },
-        {
           "letter": "A",
           "text": "Code breaking",
           "is_correct": false,
           "feedback": "'Code breaking' is not the term for moving between registers; the change here is systematic and context-driven, not a breakdown of a shared code."
+        },
+        {
+          "letter": "B",
+          "text": "Register shifting",
+          "is_correct": true,
+          "feedback": "Moving between a formal and an informal register depending on the audience is precisely register shifting, which the report treats as normal rather than careless."
         },
         {
           "letter": "C",
@@ -331,36 +331,36 @@
     },
     {
       "id": "CO-ING-11-2026-W32-youth-culture-001-MASTERY-bundle-v8",
-      "statement": "According to a recent report on youth culture in Medellín, what is implied about the role of Register & Slang in shaping public opinion?",
-      "context": "Discussing youth culture in Medellín.",
+      "statement": "Read the text and answer the question.\n\n\"In Comuna 13, young guides lead visitors through streets covered with colourful graffiti. Many of the guides grew up in the area when it was known for violence. Today, they explain the meaning of each mural and tell stories of how art helped the neighbourhood turn the page. Tourists pay for the tours, and part of the money goes to art workshops for children. One guide, Kevin, says: 'We don't hide our past; we use it to show that change is possible.'\"\n\nIn the text, what does \"turn the page\" mean?",
+      "context": "Reading a short text about young tour guides in Medellín.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "letter": "A",
+          "text": "Read a book about the history of the city.",
+          "is_correct": false,
+          "feedback": "Incorrect. This interprets 'page' literally; no book is mentioned, and the expression describes a change in the neighbourhood."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "letter": "B",
+          "text": "Leave a difficult past behind and start a new stage.",
+          "is_correct": true,
+          "feedback": "Correct. 'Turn the page' means to move on from a bad period, which fits a neighbourhood that changed from violence to art."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Paint over all the old murals.",
           "is_correct": false,
-          "feedback": "Incorrect. Register & Slang gives a text its nuance and precision, so it does not make the message simpler to grasp."
+          "feedback": "Incorrect. The murals are still there and the guides explain them, so nothing was covered or erased."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Barranquilla.",
+          "text": "Forget the past completely and never talk about it.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. Kevin says 'we don't hide our past', so the guides still talk about it; turning the page is not forgetting."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "The idiom 'turn the page' means to start a new and better period after a difficult one. The context supports it: the area was 'known for violence', and art helped it change. Kevin's quote also eliminates the idea of forgetting the past, which is a common wrong interpretation.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -377,36 +377,36 @@
     },
     {
       "id": "CO-ING-11-2026-W32-youth-culture-001-MASTERY-bundle-v9",
-      "statement": "According to a recent report on youth culture in Bogotá, what is implied about the role of Register & Slang in shaping public opinion?",
-      "context": "Discussing youth culture in Bogotá.",
+      "statement": "Read the text and answer the question.\n\n\"Every Sunday, more than a hundred kilometres of Bogotá's main roads close to cars from 7 a.m. to 2 p.m. During the Ciclovía, thousands of young people ride bicycles, skate or simply walk with friends. For eighteen-year-old Sara, it is the best part of the week: 'At school we are always in a hurry, but on Sunday mornings nobody tells us where to go.' Some drivers complain about the closures, but surveys show that most residents want the Ciclovía to continue.\"\n\nAccording to the text, why does Sara like the Ciclovía?",
+      "context": "Reading a short text about the Sunday Ciclovía in Bogotá.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Because she can drive faster on Sundays.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. The roads are closed to cars during the Ciclovía, so nobody drives on them."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Because it is the only time she sees her school friends.",
           "is_correct": false,
-          "feedback": "Incorrect. Register & Slang gives a text its nuance and precision, so it does not make the message simpler to grasp."
+          "feedback": "Incorrect. Sara mentions school only to compare its hurry with Sunday's freedom; she never says she sees friends only then."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Bogotá.",
+          "text": "Because it lasts all day on Sundays.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The text gives fixed hours, from 7 a.m. to 2 p.m., so it does not last all day."
+        },
+        {
+          "letter": "D",
+          "text": "Because it gives her a feeling of freedom she does not have during the school week.",
+          "is_correct": true,
+          "feedback": "Correct. Sara contrasts school, where they are 'always in a hurry', with Sundays, when 'nobody tells us where to go'."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Detail questions are answered with a specific part of the text, here Sara's quotation. She contrasts the pressure of school with the freedom of Sunday mornings. The other options either contradict facts in the text (cars, hours) or add information that is not there.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -427,12 +427,6 @@
       "context": "Discussing youth culture in Cartagena.",
       "options": [
         {
-          "letter": "C",
-          "text": "Semantic shift",
-          "is_correct": true,
-          "feedback": "When a word develops a new meaning beyond its original one, the process is a semantic shift, which is how online slang keeps adding vocabulary."
-        },
-        {
           "letter": "A",
           "text": "Phonetic transcription",
           "is_correct": false,
@@ -443,6 +437,12 @@
           "text": "Syntactic reduction",
           "is_correct": false,
           "feedback": "Syntactic reduction is the omission of function words, a change in sentence structure rather than in word meaning."
+        },
+        {
+          "letter": "C",
+          "text": "Semantic shift",
+          "is_correct": true,
+          "feedback": "When a word develops a new meaning beyond its original one, the process is a semantic shift, which is how online slang keeps adding vocabulary."
         },
         {
           "letter": "D",
@@ -473,12 +473,6 @@
       "context": "Discussing youth culture in Medellín.",
       "options": [
         {
-          "letter": "C",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -489,6 +483,12 @@
           "text": "was",
           "is_correct": false,
           "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+        },
+        {
+          "letter": "C",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
         },
         {
           "letter": "D",
@@ -565,32 +565,32 @@
       "context": "Discussing youth culture in Barranquilla.",
       "options": [
         {
-          "letter": "D",
-          "text": "did",
-          "is_correct": true,
-          "feedback": "Fronting the negative phrase 'Not for years' triggers inversion, so the auxiliary 'did' comes before the subject 'the school'."
-        },
-        {
           "letter": "A",
-          "text": "has",
+          "text": "did",
           "is_correct": false,
-          "feedback": "'Has' would not create the inversion that 'Not for years' requires, so the long delay is not expressed."
+          "feedback": "Incorrect. 'Did' must be followed by a base form ('did the school offer'), but the verb in the sentence is the participle 'offered'."
         },
         {
           "letter": "B",
-          "text": "was",
+          "text": "do",
           "is_correct": false,
-          "feedback": "'Was' cannot be inverted to open this clause and does not place the absence of courses after the school."
+          "feedback": "Incorrect. 'Do' is a plural present auxiliary and also needs a base form, so it agrees neither with 'the school' nor with 'offered'."
         },
         {
           "letter": "C",
-          "text": "did not",
+          "text": "does",
           "is_correct": false,
-          "feedback": "'Did not' would claim the school never offered photography, whereas the sentence stresses that it happened only recently."
+          "feedback": "Incorrect. 'Does' agrees with 'the school', but it needs the base form 'offer', not the participle 'offered'."
+        },
+        {
+          "letter": "D",
+          "text": "has",
+          "is_correct": true,
+          "feedback": "Correct. 'Has' + participle forms the present perfect, and after the fronted 'Not for years' it inverts: 'has the school offered'."
         }
       ],
       "correct_answer": "D",
-      "explanation": "'Not for years' is a fronted negative time expression, and it obliges subject-auxiliary inversion: 'not for years did the school offer a single course'.\n\n---",
+      "explanation": "A fronted negative time phrase such as 'Not for years' triggers subject-auxiliary inversion. The auxiliary must match the verb form already in the sentence: 'offered' is a past participle, so the auxiliary is perfect 'has', giving 'Not for years has the school offered a single course in photography.'\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -611,12 +611,6 @@
       "context": "Discussing youth culture in Pereira.",
       "options": [
         {
-          "letter": "D",
-          "text": "did",
-          "is_correct": true,
-          "feedback": "Fronting 'Only after' is a negative adverbial that triggers inversion, giving 'did the number... drop' and stressing the late timing."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -633,6 +627,12 @@
           "text": "did not",
           "is_correct": false,
           "feedback": "'Did not' would assert that the drop did not happen, but the sentence describes a real drop that followed the campaign."
+        },
+        {
+          "letter": "D",
+          "text": "did",
+          "is_correct": true,
+          "feedback": "Fronting 'Only after' is a negative adverbial that triggers inversion, giving 'did the number... drop' and stressing the late timing."
         }
       ],
       "correct_answer": "D",
@@ -657,16 +657,16 @@
       "context": "Discussing youth culture in Bogotá.",
       "options": [
         {
-          "letter": "B",
-          "text": "have",
-          "is_correct": true,
-          "feedback": "Fronting 'Only since' is a restrictive time phrase, and it takes the present perfect auxiliary 'have' in the inversion."
-        },
-        {
           "letter": "A",
           "text": "had",
           "is_correct": false,
           "feedback": "'Had' would place the meeting in the past, whereas 'since' with the present perfect covers the period up to now."
+        },
+        {
+          "letter": "B",
+          "text": "have",
+          "is_correct": true,
+          "feedback": "Fronting 'Only since' is a restrictive time phrase, and it takes the present perfect auxiliary 'have' in the inversion."
         },
         {
           "letter": "C",
@@ -703,12 +703,6 @@
       "context": "Discussing youth culture in Bucaramanga.",
       "options": [
         {
-          "letter": "C",
-          "text": "was",
-          "is_correct": true,
-          "feedback": "'So badly' is an intensifier in the formal register and it takes an affirmative auxiliary, so 'was' follows it correctly."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -719,6 +713,12 @@
           "text": "had",
           "is_correct": false,
           "feedback": "'Had' would require a second past event to precede, which the sentence does not contain."
+        },
+        {
+          "letter": "C",
+          "text": "was",
+          "is_correct": true,
+          "feedback": "'So badly' is an intensifier in the formal register and it takes an affirmative auxiliary, so 'was' follows it correctly."
         },
         {
           "letter": "D",
@@ -749,32 +749,32 @@
       "context": "Discussing youth culture in Bogotá.",
       "options": [
         {
-          "letter": "C",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
           "text": "They are literally looking for something in the trees of Cartagena.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads the idiom literally; nobody in the debate is searching real trees, because the expression is figurative and describes a mistaken line of action."
         },
         {
           "letter": "B",
           "text": "The approach is too noisy and aggressive.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. 'Barking' here does not describe a loud or aggressive tone; the idiom is about choosing the wrong objective, not about how people speak."
+        },
+        {
+          "letter": "C",
+          "text": "The current strategy is directed towards the wrong objective.",
+          "is_correct": true,
+          "feedback": "Correct. 'Bark up the wrong tree' means aiming your effort at the wrong cause or target, so the speaker is saying the current plan on youth culture points in the wrong direction."
         },
         {
           "letter": "D",
           "text": "A new environmental project involving trees should be started.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The word 'tree' belongs to a fixed expression, so the speaker is not proposing a project with trees; the speaker is criticising the approach under discussion."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "The idiom 'bark up the wrong tree' comes from hunting dogs that bark at a tree after the animal has escaped to another one. In a debate about youth culture, it means the group's effort is aimed at the wrong cause or solution. The literal words (barking, trees) are not part of the message, so any option that mentions real trees or noise misreads the idiom.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-ING-11-2026-W32-youth-culture-001-MASTERY-bundle-v18",
-      "statement": "In a high-level debate about youth culture, Santiago says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Santiago mean?",
-      "context": "Discussing youth culture in Cali.",
+      "statement": "Read the dialogue.\n\nJuan: \"Are you doing anything after the salsa class?\"\nMafe: \"Not really. I'll probably just hang out with my cousins at the park.\"\n\nWhat will Mafe do?",
+      "context": "A conversation about weekend plans in Cali.",
       "options": [
         {
-          "letter": "B",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "letter": "A",
+          "text": "Hang her clothes outside to dry.",
+          "is_correct": false,
+          "feedback": "Incorrect. This reads 'hang' literally; 'hang out with someone' is an informal phrasal verb about spending time together."
         },
         {
-          "letter": "A",
-          "text": "They are literally looking for something in the trees of Bogotá.",
-          "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "letter": "B",
+          "text": "Spend relaxed free time with her cousins, without a fixed plan.",
+          "is_correct": true,
+          "feedback": "Correct. 'Hang out' means to spend time casually with people, and 'not really' shows she has no special plan."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Leave the city with her cousins.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. 'Out' does not mean leaving the city here; she will stay at the park."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Organise a formal event at the park.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. 'Hang out' is informal and describes relaxing, not organising an event."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Hang out (with someone)' is an informal phrasal verb that means to spend time with people in a relaxed way. Mafe's answer 'Not really' and the word 'just' show that she has no important plan, which matches the casual meaning of the phrasal verb.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -837,36 +837,36 @@
     },
     {
       "id": "CO-ING-11-2026-W32-youth-culture-001-MASTERY-bundle-v19",
-      "statement": "In a high-level debate about youth culture, Daniela says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Daniela mean?",
-      "context": "Discussing youth culture in Cali.",
+      "statement": "Juliana texts her friend after a concert: \"That concert was lit!\" Later, she has to describe the same concert in a school report.\n\nWhich sentence keeps her meaning in an appropriate formal register?",
+      "context": "Changing register from a text message to a school report in Cali.",
       "options": [
         {
           "letter": "A",
-          "text": "The current strategy is directed towards the wrong objective.",
+          "text": "The concert was extremely exciting and full of energy.",
           "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "feedback": "Correct. This keeps the positive meaning of the slang word 'lit' (exciting, energetic) and uses vocabulary suitable for a report."
         },
         {
           "letter": "B",
-          "text": "They are literally looking for something in the trees of Barranquilla.",
+          "text": "Honestly, the concert was lit.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. 'Lit' and 'honestly' are informal, so the register is still that of a text message, not a report."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The concert had a lot of lights turned on.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. This interprets 'lit' literally as 'illuminated', but in slang it means exciting, so the meaning changes."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "The concert was boring and badly organised.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. This is formal, but it reverses her opinion: 'lit' is strong praise, not criticism."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "Register is the level of formality we choose for a situation. Slang like 'lit' (very exciting) is fine with friends but not in a school report. A good rewrite keeps the meaning and changes only the register, which is why the literal reading and the opposite opinion are both wrong.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -883,36 +883,36 @@
     },
     {
       "id": "CO-ING-11-2026-W32-youth-culture-001-MASTERY-bundle-v20",
-      "statement": "In a high-level debate about youth culture, Mariana says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mariana mean?",
-      "context": "Discussing youth culture in Cartagena.",
+      "statement": "Read the dialogue.\n\nCamilo: \"Daniel and I always choose the same songs for our band, and we never need to explain why.\"\nTeacher: \"You two are really on the same wavelength.\"\n\nWhat does the teacher mean?",
+      "context": "A conversation about two band members in Cartagena.",
       "options": [
         {
           "letter": "A",
-          "text": "The current strategy is directed towards the wrong objective.",
+          "text": "Camilo and Daniel think in a similar way and understand each other easily.",
           "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "feedback": "Correct. 'Be on the same wavelength' means to share ideas or feelings, which matches choosing the same songs without explanation."
         },
         {
           "letter": "B",
-          "text": "They are literally looking for something in the trees of Cartagena.",
+          "text": "They listen to the same radio station.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This is a literal reading of 'wavelength'; the idiom refers to people's way of thinking, not radio signals."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "They play their instruments at the same volume.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. The idiom is not about sound or volume; it describes mutual understanding."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "They should stop working together.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The teacher's comment is positive and describes good connection, so it does not suggest separating."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'To be on the same wavelength' is an idiom meaning that two people think alike and understand each other without effort. Camilo's comment that they 'never need to explain why' gives the context that supports the figurative meaning.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

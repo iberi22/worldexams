@@ -382,15 +382,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Junk food is very nutritious and good for your heart.",
-          "is_correct": false,
-          "feedback": "Incorrect. Junk food is the opposite of nutritious."
-        },
-        {
-          "letter": "B",
           "text": "Fresh fruits are very nutritious and provide vitamins.",
           "is_correct": true,
           "feedback": "Correct! \"Nutritious\" and \"vitamins\" correctly describe fresh fruits."
+        },
+        {
+          "letter": "B",
+          "text": "Junk food is very nutritious and good for your heart.",
+          "is_correct": false,
+          "feedback": "Incorrect. Junk food is the opposite of nutritious."
         },
         {
           "letter": "C",
@@ -405,7 +405,7 @@
           "feedback": "Incorrect. Sugar usually gives a short burst of energy followed by a crash."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student analyzes the accuracy of statements combining food items and health descriptors.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -440,18 +440,18 @@
         },
         {
           "letter": "C",
-          "text": "No, because it contains an excessive amount of sugar.",
-          "is_correct": true,
-          "feedback": "Correct! 50 grams of sugar is very high and unhealthy."
-        },
-        {
-          "letter": "D",
           "text": "No, because it is new.",
           "is_correct": false,
           "feedback": "Incorrect. Being \"new\" is not a health-related reason."
+        },
+        {
+          "letter": "D",
+          "text": "No, because it contains an excessive amount of sugar.",
+          "is_correct": true,
+          "feedback": "Correct! 50 grams of sugar is very high and unhealthy."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "The student evaluates the nutritional information provided in a simulated advertisement to make a healthy decision.",
       "difficulty": "10",
       "images": [],

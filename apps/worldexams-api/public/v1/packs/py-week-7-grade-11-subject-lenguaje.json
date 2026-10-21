@@ -103,12 +103,6 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "C",
-          "text": "ademas",
-          "is_correct": true,
-          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Pedro Juan Caballero y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
-        },
-        {
           "letter": "A",
           "text": "sin embargo",
           "is_correct": false,
@@ -119,6 +113,12 @@
           "text": "por lo tanto",
           "is_correct": false,
           "feedback": "Incorrecto. 'Por lo tanto' es conclusivo: la segunda proposicion deduce una consecuencia de la primera. Aqui no hay deduccion, sino dos caracteristicas de Pedro Juan Caballero que se acumulan sin derivarse una de otra."
+        },
+        {
+          "letter": "C",
+          "text": "ademas",
+          "is_correct": true,
+          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Pedro Juan Caballero y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
         },
         {
           "letter": "D",
@@ -148,16 +148,16 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "Los estudiantes del Colegio Nacional Pilar estudian mucho.",
-          "is_correct": true,
-          "feedback": "Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'."
-        },
-        {
           "letter": "A",
           "text": "Los estudiantes de la escuela estudian poco.",
           "is_correct": false,
           "feedback": "Incorrecto. La oracion esta bien redactada y con buena concordancia, pero 'la escuela' es un nombre comun que puede designar cualquier centro; el enunciado pide el nombre propio completo de la institucion, y aqui no aparece."
+        },
+        {
+          "letter": "B",
+          "text": "Los estudiantes del Colegio Nacional Pilar estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'."
         },
         {
           "letter": "C",
@@ -554,15 +554,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Sin embargo",
-          "is_correct": true,
-          "feedback": "El conector 'sin embargo' marca contraste, por eso se opone a lo dicho antes."
-        },
-        {
-          "letter": "B",
           "text": "Además",
           "is_correct": false,
           "feedback": "Esta palabra concatena ideas de acuerdo, de modo que no se opone a la anterior."
+        },
+        {
+          "letter": "B",
+          "text": "Sin embargo",
+          "is_correct": true,
+          "feedback": "El conector 'sin embargo' marca contraste, por eso se opone a lo dicho antes."
         },
         {
           "letter": "C",
@@ -577,7 +577,7 @@
           "feedback": "Esta fórmula introduce una conclusión, y no una idea que contradiga a la anterior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los conectores de contraste permiten defender una postura que se opone a la expresión previa.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -644,9 +644,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Funciona como objeto directo del verbo 'deseo'",
-          "is_correct": true,
-          "feedback": "Es correcto: el infinitivo completa directamente al verbo principal y ocupa la posición de objeto directo."
+          "text": "Funciona como atenuante de la afirmación",
+          "is_correct": false,
+          "feedback": "El atenuante aparecería con 'quizá' o 'tal vez', y aquí esa función no aparece."
         },
         {
           "letter": "B",
@@ -662,12 +662,12 @@
         },
         {
           "letter": "D",
-          "text": "Funciona como atenuante de la afirmación",
-          "is_correct": false,
-          "feedback": "El atenuante aparecería con 'quizá' o 'tal vez', y aquí esa función no aparece."
+          "text": "Funciona como objeto directo del verbo 'deseo'",
+          "is_correct": true,
+          "feedback": "Es correcto: el infinitivo completa directamente al verbo principal y ocupa la posición de objeto directo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El infinitivo puede ocupar la posición de objeto directo, de sujeto o de complemento del nombre según el elemento del que dependa, y esa dependencia determina su función.",
       "difficulty": "8",
       "images": [],
@@ -689,9 +689,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Femenino plural",
-          "is_correct": true,
-          "feedback": "Es correcto: 'manzanas' es femenino plural, de modo que los adjetivos que lo modifican deben compartir esa forma."
+          "text": "Femenino singular",
+          "is_correct": false,
+          "feedback": "El plural del sustantivo se transmite obligatoriamente a los modificadores."
         },
         {
           "letter": "B",
@@ -701,9 +701,9 @@
         },
         {
           "letter": "C",
-          "text": "Femenino singular",
-          "is_correct": false,
-          "feedback": "El plural del sustantivo se transmite obligatoriamente a los modificadores."
+          "text": "Femenino plural",
+          "is_correct": true,
+          "feedback": "Es correcto: 'manzanas' es femenino plural, de modo que los adjetivos que lo modifican deben compartir esa forma."
         },
         {
           "letter": "D",
@@ -712,7 +712,7 @@
           "feedback": "El español no tiene género neutro, y el sustantivo determina el género de sus adjetivos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La concordancia adjetival es obligatoria en género y número: los adjetivos que acompañan a un sustantivo toman la forma de ese sustantivo.",
       "difficulty": "8",
       "images": [],
@@ -734,15 +734,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Las casas blancas tienen patios amplios.",
-          "is_correct": true,
-          "feedback": "Es correcta: tanto el artículo como el sustantivo, el adjetivo y el verbo concuerdan en femenino plural."
-        },
-        {
-          "letter": "B",
           "text": "La casas blancas tienen patios amplios.",
           "is_correct": false,
           "feedback": "El artículo y el sustantivo no concuerdan en número: el plural exige 'las'."
+        },
+        {
+          "letter": "B",
+          "text": "Las casas blancas tienen patios amplios.",
+          "is_correct": true,
+          "feedback": "Es correcta: tanto el artículo como el sustantivo, el adjetivo y el verbo concuerdan en femenino plural."
         },
         {
           "letter": "C",
@@ -757,7 +757,7 @@
           "feedback": "El artículo y el sustantivo no concuerdan en género: 'casa' es femenino y pide 'las'."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La concordancia de artículo y sustantivo es uno de los errores más frecuentes, y afecta a ambos elementos a la vez: si uno cambia, el otro debe cambiar con él.",
       "difficulty": "10",
       "images": [],
@@ -779,9 +779,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "La 'a'",
-          "is_correct": true,
-          "feedback": "Es correcto: en las palabras agudas terminadas en consonante se acentúa la última vocal, que es la 'a' de este ejemplo."
+          "text": "La tilde sobre la consonante final",
+          "is_correct": false,
+          "feedback": "Las tildes se colocan sobre vocales, nunca sobre consonantes."
         },
         {
           "letter": "B",
@@ -797,12 +797,12 @@
         },
         {
           "letter": "D",
-          "text": "La tilde sobre la consonante final",
-          "is_correct": false,
-          "feedback": "Las tildes se colocan sobre vocales, nunca sobre consonantes."
+          "text": "La 'a'",
+          "is_correct": true,
+          "feedback": "Es correcto: en las palabras agudas terminadas en consonante se acentúa la última vocal, que es la 'a' de este ejemplo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En las palabras agudas terminadas en consonante la tilde se coloca sobre la última vocal, precisamente para señalar cuál es la sílaba tónica.",
       "difficulty": "10",
       "images": [],
@@ -824,9 +824,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "El agua",
-          "is_correct": true,
-          "feedback": "Es correcta: 'el agua' es una excepción, porque el artículo sigue al género del sustantivo, que es femenino."
+          "text": "Los agua",
+          "is_correct": false,
+          "feedback": "El plural sería 'las aguas'; en singular el artículo es 'el'."
         },
         {
           "letter": "B",
@@ -836,9 +836,9 @@
         },
         {
           "letter": "C",
-          "text": "Los agua",
-          "is_correct": false,
-          "feedback": "El plural sería 'las aguas'; en singular el artículo es 'el'."
+          "text": "El agua",
+          "is_correct": true,
+          "feedback": "Es correcta: 'el agua' es una excepción, porque el artículo sigue al género del sustantivo, que es femenino."
         },
         {
           "letter": "D",
@@ -847,7 +847,7 @@
           "feedback": "El artículo indeterminado solo acompaña a sustantivos masculino singular, y el sustantivo 'agua' es femenino."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las palabras que empiezan por 'a' o 'h' muda siguen el género del sustantivo y no el sonido. 'El agua' y 'el área' conservan el artículo masculino.",
       "difficulty": "10",
       "images": [],
@@ -868,16 +868,16 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "El agua es esencial para la vida y debe cuidarse",
-          "is_correct": true,
-          "feedback": "Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen."
-        },
-        {
           "letter": "A",
           "text": "El agua solo se usa para beber",
           "is_correct": false,
           "feedback": "Incorrecto. Reduce el agua a un solo uso domestico. El texto la presenta como recurso vital para la vida en general, no unicamente como algo con que beber."
+        },
+        {
+          "letter": "B",
+          "text": "El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen."
         },
         {
           "letter": "C",

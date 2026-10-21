@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v1",
-      "statement": "Qual dos seguintes números pertence ao conjunto dos números irracionais ($\\mathbb{I}$)?",
-      "context": "Um estudante de São Paulo está revisando a classificação dos números reais para sua preparação para o ENEM.",
+      "statement": "Dentre os números abaixo, qual deles é um exemplo clássico de um número irracional ($\\mathbb{I}$)?",
+      "context": "Um aluno do ensino médio em Belo Horizonte estuda a classificação de diferentes números reais para o ENEM.",
       "options": [
         {
           "letter": "A",
-          "text": "$0,333...$",
+          "text": "$0,777...$",
           "is_correct": false,
-          "feedback": "Este é uma dízima periódica, que pode ser representada pela fração 1/3, logo é um número racional."
+          "feedback": "Dízimas periódicas podem ser escritas como frações, logo são racionais."
         },
         {
           "letter": "B",
-          "text": "$\\sqrt{16}$",
+          "text": "$\\sqrt{25}$",
           "is_correct": false,
-          "feedback": "A raiz quadrada de 16 é 4, que é um número inteiro e racional."
+          "feedback": "A raiz quadrada de 25 é 5, que é um número inteiro e portanto racional."
         },
         {
           "letter": "C",
-          "text": "$\\sqrt{5}$",
+          "text": "$\\sqrt{3}$",
           "is_correct": true,
-          "feedback": "Raízes quadradas de números que não são quadrados perfeitos resultam em decimais infinitos e não periódicos, caracterizando os irracionais."
+          "feedback": "A raiz quadrada de 3 não é exata, resultando em um decimal infinito não periódico, caracterizando um irracional."
         },
         {
           "letter": "D",
-          "text": "$-\\frac{2}{5}$",
+          "text": "$-\\frac{3}{4}$",
           "is_correct": false,
-          "feedback": "Frações de inteiros com denominador não nulo pertencem ao conjunto dos números racionais."
+          "feedback": "Frações formadas por números inteiros pertencem ao conjunto dos racionais."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Os números irracionais são aqueles que possuem representação decimal infinita e não periódica. O número $\\sqrt{5}$ não pode ser escrito na forma de fração $a/b$, onde $a$ e $b$ são inteiros, ao contrário das dízimas periódicas ou frações simples.",
+      "explanation": "Um número irracional não pode ser escrito na forma de uma fração de dois números inteiros. O número $\\sqrt{3}$ possui infinitas casas decimais e não apresenta um período que se repete, portanto é irracional.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,36 +54,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v2",
-      "statement": "Sobre os conjuntos numéricos, é correto afirmar que:",
-      "context": "Durante uma aula de matemática em Curitiba, o professor define a relação entre os diferentes conjuntos numéricos.",
+      "statement": "Qual das alternativas a seguir descreve corretamente a relação de inclusão entre os conjuntos numéricos?",
+      "context": "Durante uma feira de ciências no Rio de Janeiro, um grupo de estudantes apresenta um painel sobre a hierarquia dos conjuntos numéricos.",
       "options": [
         {
           "letter": "A",
-          "text": "Todo número real é um número racional.",
+          "text": "O conjunto dos números racionais está contido no dos inteiros.",
           "is_correct": false,
-          "feedback": "Incorreto, pois existem os números irracionais que são reais mas não racionais."
+          "feedback": "Incorreto. É o conjunto dos inteiros que está contido no dos racionais."
         },
         {
           "letter": "B",
-          "text": "O conjunto dos números naturais ($\\mathbb{N}$) está contido no conjunto dos números inteiros ($\\mathbb{Z}$).",
+          "text": "O conjunto dos números naturais é um subconjunto do conjunto dos números inteiros.",
           "is_correct": true,
-          "feedback": "Correto, pois todos os números naturais (0, 1, 2...) também são números inteiros."
+          "feedback": "Correto. Todos os números naturais (0, 1, 2, ...) também são inteiros."
         },
         {
           "letter": "C",
-          "text": "Os números inteiros não são números reais.",
+          "text": "O conjunto dos números reais é formado apenas pelos números racionais.",
           "is_correct": false,
-          "feedback": "Incorreto, o conjunto dos reais engloba racionais (incluindo inteiros) e irracionais."
+          "feedback": "Incorreto. Os reais englobam tanto racionais quanto irracionais."
         },
         {
           "letter": "D",
-          "text": "O número zero não pertence ao conjunto dos números inteiros.",
+          "text": "Os números irracionais são um subconjunto dos números inteiros.",
           "is_correct": false,
-          "feedback": "Incorreto, o zero é um elemento fundamental do conjunto dos números inteiros."
+          "feedback": "Incorreto. Irracionais e inteiros são conjuntos disjuntos."
         }
       ],
       "correct_answer": "B",
-      "explanation": "A estrutura dos conjuntos numéricos é hierárquica: $\\mathbb{N} \\subset \\mathbb{Z} \\subset \\mathbb{Q} \\subset \\mathbb{R}$. Portanto, todo número que é natural também é, necessariamente, um número inteiro.",
+      "explanation": "A relação correta de inclusão básica dos conjuntos numéricos é $\\mathbb{N} \\subset \\mathbb{Z} \\subset \\mathbb{Q} \\subset \\mathbb{R}$. Portanto, todo número natural é também um número inteiro, mas nem todo inteiro é natural.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,36 +99,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v3",
-      "statement": "Considere os conjuntos $A = \\{x \\in \\mathbb{Z} \\mid -3 < x \\leq 2\\}$ e $B = \\{0, 1, 2, 3\\}$. Qual é o conjunto resultante da interseção $A \\cap B$?",
-      "context": "Em um laboratório de química no Rio de Janeiro, um cientista observa temperaturas registradas em uma escala que utiliza números inteiros negativos.",
+      "statement": "Considere o conjunto dos números inteiros $\\mathbb{Z}$. Qual alternativa representa corretamente o subconjunto dos inteiros não negativos menores que 4?",
+      "context": "Uma loja em Salvador organiza os códigos de seus produtos usando subconjuntos de números inteiros.",
       "options": [
         {
           "letter": "A",
-          "text": "$\\{-2, -1, 0, 1, 2\\}$",
+          "text": "$\\{1, 2, 3\\}$",
           "is_correct": false,
-          "feedback": "Este é apenas o conjunto A. A interseção deve conter apenas elementos que estão em ambos."
+          "feedback": "Esta opção exclui o zero, que é um inteiro não negativo."
         },
         {
           "letter": "B",
-          "text": "$\\{0, 1, 2\\}$",
+          "text": "$\\{0, 1, 2, 3\\}$",
           "is_correct": true,
-          "feedback": "Estes são os únicos elementos que pertencem simultaneamente a A e a B."
+          "feedback": "Os inteiros não negativos começam do zero, e os menores que 4 são 0, 1, 2 e 3."
         },
         {
           "letter": "C",
-          "text": "$\\{0, 1, 2, 3\\}$",
+          "text": "$\\{0, 1, 2, 3, 4\\}$",
           "is_correct": false,
-          "feedback": "O número 3 pertence a B, mas não pertence a A, pois x deve ser menor ou igual a 2."
+          "feedback": "O número 4 não deve ser incluído pois o enunciado diz \"menores que 4\" (estritamente menor)."
         },
         {
           "letter": "D",
-          "text": "$\\{-2, -1, 0, 1, 2, 3\\}$",
+          "text": "$\\{-1, 0, 1, 2, 3\\}$",
           "is_correct": false,
-          "feedback": "Este seria o conjunto união A U B, não a interseção."
+          "feedback": "O número -1 é negativo, logo não atende ao critério de \"não negativos\"."
         }
       ],
       "correct_answer": "B",
-      "explanation": "O conjunto $A$ contém os elementos $\\{-2, -1, 0, 1, 2\\}$. O conjunto $B$ contém $\\{0, 1, 2, 3\\}$. A interseção $A \\cap B$ seleciona apenas os elementos comuns: $0, 1$ e $2$.",
+      "explanation": "Os números inteiros não negativos são aqueles que são maiores ou iguais a zero: $0, 1, 2, 3, 4, \\dots$ Os elementos desse conjunto que são estritamente menores que 4 formam o conjunto $\\{0, 1, 2, 3\\}$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -144,36 +144,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v4",
-      "statement": "Seja $\\mathbb{N}^*$ o conjunto dos números naturais excluindo o zero. Qual é a representação correta do conjunto dos números naturais pares maiores que 5 e menores ou iguais a 12?",
-      "context": "Uma empresa de logística em Belo Horizonte organiza seus códigos de rastreamento baseando-se em subconjuntos de números naturais.",
+      "statement": "Sendo $\\mathbb{N}$ o conjunto dos números naturais, como se representa o conjunto dos números naturais ímpares maiores que 3 e menores ou iguais a 9?",
+      "context": "Um sistema de segurança bancária em Recife gera senhas baseando-se em números ímpares dentro de um intervalo específico.",
       "options": [
         {
           "letter": "A",
-          "text": "$\\{6, 8, 10\\}$",
+          "text": "$\\{5, 7\\}$",
           "is_correct": false,
-          "feedback": "Faltou o número 12, já que o enunciado diz \"menores ou iguais\"."
+          "feedback": "Falta o número 9, que é incluído pela condição \"menores ou iguais a 9\"."
         },
         {
           "letter": "B",
-          "text": "$\\{5, 6, 8, 10, 12\\}$",
+          "text": "$\\{3, 5, 7, 9\\}$",
           "is_correct": false,
-          "feedback": "O número 5 não é par e o enunciado diz \"maiores que 5\"."
+          "feedback": "O número 3 não pode ser incluído, pois a condição é \"maiores que 3\"."
         },
         {
           "letter": "C",
-          "text": "$\\{6, 8, 10, 12\\}$",
+          "text": "$\\{5, 7, 9\\}$",
           "is_correct": true,
-          "feedback": "Estes são os números pares no intervalo aberto em 5 e fechado em 12."
+          "feedback": "Estes são os números ímpares que satisfazem simultaneamente $x > 3$ e $x \\leq 9$."
         },
         {
           "letter": "D",
-          "text": "$\\{7, 9, 11\\}$",
+          "text": "$\\{4, 6, 8\\}$",
           "is_correct": false,
-          "feedback": "Estes são números ímpares, não pares."
+          "feedback": "Estes são números pares, não ímpares como pedido no enunciado."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Para listar os elementos, devemos satisfazer três condições: ser natural par, ser estritamente maior que 5 ($x > 5$) e ser menor ou igual a 12 ($x \\leq 12$). Os valores são 6, 8, 10 e 12.",
+      "explanation": "Devemos encontrar os naturais ímpares no intervalo $3 < x \\leq 9$. O próximo natural ímpar após 3 é 5, seguido por 7, e finalmente o 9, que está incluído por ser \"menor ou igual a 9\".",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -189,36 +189,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v5",
-      "statement": "Considere o intervalo real $I = [ -2, 5 )$. Qual das seguintes afirmações sobre os elementos de $I$ é verdadeira?",
-      "context": "Um analista financeiro analisa as variações da bolsa de valores e utiliza intervalos reais para descrever as flutuações de preços.",
+      "statement": "Se a temperatura em graus Celsius oscilou no intervalo real $T = [ 22, 30 )$, qual afirmação sobre a temperatura é verdadeira?",
+      "context": "Um meteorologista em Manaus analisa a variação da temperatura ao longo do dia utilizando intervalos reais.",
       "options": [
         {
           "letter": "A",
-          "text": "O número 5 pertence ao intervalo $I$.",
+          "text": "A temperatura atingiu exatamente 30 graus.",
           "is_correct": false,
-          "feedback": "O colchete virado para fora (ou parêntese) indica que o intervalo é aberto em 5, logo o 5 não está incluído."
+          "feedback": "O parêntese indica intervalo aberto em 30, então a temperatura nunca atingiu exatamente 30 graus."
         },
         {
           "letter": "B",
-          "text": "O número $-2$ pertence ao intervalo $I$.",
+          "text": "A temperatura atingiu exatamente 22 graus.",
           "is_correct": true,
-          "feedback": "O colchete fechado indica que o limite inferior -2 está incluído no conjunto."
+          "feedback": "O colchete indica que o extremo 22 faz parte do conjunto, então a temperatura foi de 22 graus em algum momento."
         },
         {
           "letter": "C",
-          "text": "O intervalo $I$ contém apenas números inteiros.",
+          "text": "A temperatura assumiu apenas valores inteiros.",
           "is_correct": false,
-          "feedback": "Como é um intervalo real, ele contém infinitos números racionais e irracionais entre -2 e 5."
+          "feedback": "Sendo um intervalo real, inclui todos os decimais entre 22 e 30."
         },
         {
           "letter": "D",
-          "text": "O número $-3$ faz parte de $I$.",
+          "text": "A temperatura pode ter sido de 21 graus.",
           "is_correct": false,
-          "feedback": "-3 é menor que o limite inferior -2, portanto está fora do intervalo."
+          "feedback": "21 está fora do intervalo, pois é menor que o limite inferior de 22."
         }
       ],
       "correct_answer": "B",
-      "explanation": "A notação $[a, b)$ representa um intervalo fechado à esquerda (inclui $a$) e aberto à direita (exclui $b$). Assim, $-2 \\in I$ e $5 \\notin I$.",
+      "explanation": "O intervalo $[ 22, 30 )$ é fechado em 22 e aberto em 30, o que significa que inclui todos os números reais $x$ tais que $22 \\leq x < 30$. Portanto, o número 22 pertence ao intervalo, mas o 30 não.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v6",
-      "statement": "Em um grupo de 100 jovens, 60 usam a Rede A, 50 usam a Rede B e 20 usam ambas. Quantos jovens não usam nenhuma das duas redes?",
-      "context": "Em um estudo sociológico em Salvador, pesquisou-se a preferência por dois tipos de redes sociais entre jovens.",
+      "statement": "Foram entrevistados 120 estudantes: 75 usam o aplicativo X, 65 usam o aplicativo Y e 30 usam ambos. Quantos estudantes não usam nenhum dos dois aplicativos?",
+      "context": "Em uma pesquisa com estudantes de Fortaleza sobre aplicativos de transporte, analisou-se o uso dos aplicativos X e Y.",
       "options": [
         {
           "letter": "A",
           "text": "0",
           "is_correct": false,
-          "feedback": "Somando os que usam pelo menos uma rede, o total é menor que 100, então há quem não use nenhuma."
+          "feedback": "Se fosse 0, a união daria 120, mas o cálculo da união resulta em 110."
         },
         {
           "letter": "B",
           "text": "10",
           "is_correct": true,
-          "feedback": "Total usando A ou B = (60 + 50) - 20 = 90. Jovens que não usam nenhuma = 100 - 90 = 10."
+          "feedback": "Total usando pelo menos um = 75 + 65 - 30 = 110. Não usam nenhum = 120 - 110 = 10."
         },
         {
           "letter": "C",
           "text": "20",
           "is_correct": false,
-          "feedback": "Se fosse 20, o total de usuários seria 80, o que não condiz com os dados."
+          "feedback": "Um erro de cálculo na subtração da interseção pode levar a esse valor."
         },
         {
           "letter": "D",
           "text": "30",
           "is_correct": false,
-          "feedback": "Cálculo incorreto da união dos conjuntos."
+          "feedback": "Este é apenas o número de alunos que usam ambos, não os que não usam nenhum."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Utilizamos o Princípio da Inclusão-Exclusão para achar a união: $n(A \\cup B) = n(A) + n(B) - n(A \\cap B)$. Logo, $n(A \\cup B) = 60 + 50 - 20 = 90$. O número de jovens fora da união é $100 - 90 = 10$.",
+      "explanation": "Usando o Princípio da Inclusão-Exclusão, o número de estudantes que usa pelo menos um dos aplicativos é $n(X \\cup Y) = n(X) + n(Y) - n(X \\cap Y) = 75 + 65 - 30 = 110$. Como o total é 120, os que não usam nenhum são $120 - 110 = 10$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v7",
-      "statement": "Dos 120 alunos do 3º ano, 70 estão no clube de Esportes e 60 no de Música. Sabendo que todos os alunos participam de pelo menos um dos clubes, quantos alunos participam de ambos?",
-      "context": "Uma escola em Brasília está organizando seus alunos em clubes de esporte e música.",
+      "statement": "Há 150 alunos matriculados, sendo que 90 fazem Teatro e 80 fazem Dança. Se todos os alunos fazem pelo menos um dos cursos, quantos fazem simultaneamente Teatro e Dança?",
+      "context": "Uma escola em São Luís oferece cursos extracurriculares de Teatro e Dança para um grupo de alunos.",
       "options": [
         {
           "letter": "A",
-          "text": "10",
+          "text": "20",
           "is_correct": true,
-          "feedback": "n(A U B) = n(A) + n(B) - n(A ∩ B). 120 = 70 + 60 - x => 120 = 130 - x => x = 10."
+          "feedback": "n(A U B) = n(A) + n(B) - n(A ∩ B). 150 = 90 + 80 - x => 150 = 170 - x => x = 20."
         },
         {
           "letter": "B",
-          "text": "20",
+          "text": "30",
           "is_correct": false,
-          "feedback": "Se 20 participassem de ambos, a união seria 70 + 60 - 20 = 110, mas o total é 120."
+          "feedback": "Se fossem 30 na interseção, o total de alunos seria 140, mas o enunciado diz 150."
         },
         {
           "letter": "C",
-          "text": "30",
+          "text": "10",
           "is_correct": false,
-          "feedback": "Erro no cálculo da interseção baseado no total de alunos."
+          "feedback": "Com interseção de 10, a união seria 160, ultrapassando o total de alunos."
         },
         {
           "letter": "D",
-          "text": "5",
+          "text": "0",
           "is_correct": false,
-          "feedback": "Valor incompatível com o total de 120 alunos distribuídos nos dois clubes."
+          "feedback": "Se nenhum aluno fizesse os dois, o total seria 90 + 80 = 170, contradizendo o total de 150."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Como todos participam de pelo menos um clube, a união é igual ao total de alunos (120). Pela fórmula $n(A \\cup B) = n(A) + n(B) - n(A \\cap B)$, temos $120 = 70 + 60 - n(A \\cap B)$, resultando em 10 alunos na interseção.",
+      "explanation": "A fórmula da união de dois conjuntos é $n(A \\cup B) = n(A) + n(B) - n(A \\cap B)$. Sabemos que $n(A \\cup B) = 150$ porque todos os alunos fazem pelo menos um curso. Substituindo os valores, temos $150 = 90 + 80 - x$, resultando em $150 = 170 - x$, portanto $x = 20$ alunos fazem ambos.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v8",
-      "statement": "Qual é a fração geratriz da dízima periódica $0,444...$?",
-      "context": "Um arquiteto em Porto Alegre precisa definir a medida de um terreno que é expressa pela dízima periódica $0,444...$ metros.",
+      "statement": "Qual é a representação em fração geratriz da dízima periódica $0,555...$?",
+      "context": "Um marceneiro em Belém trabalha com medidas que frequentemente resultam em dízimas periódicas ao dividir peças inteiras, como $0,555...$ metros.",
       "options": [
         {
           "letter": "A",
-          "text": "$\\frac{4}{10}$",
+          "text": "$\\frac{5}{10}$",
           "is_correct": false,
-          "feedback": "4/10 é igual a 0,4, que é um decimal exato, não uma dízima periódica."
+          "feedback": "5/10 simplifica para 1/2 ou 0,5 exato, não uma dízima periódica."
         },
         {
           "letter": "B",
-          "text": "$\\frac{4}{9}$",
+          "text": "$\\frac{5}{9}$",
           "is_correct": true,
-          "feedback": "Para dízimas simples onde o período é um único algarismo x, a fração é x/9."
+          "feedback": "Correto. Para uma dízima simples com período de um algarismo, coloca-se o período sobre 9."
         },
         {
           "letter": "C",
-          "text": "$\\frac{2}{5}$",
+          "text": "$\\frac{1}{5}$",
           "is_correct": false,
-          "feedback": "2/5 é igual a 0,4, decimal exato."
+          "feedback": "1/5 é equivalente ao decimal exato 0,2."
         },
         {
           "letter": "D",
-          "text": "$\\frac{44}{100}$",
+          "text": "$\\frac{55}{100}$",
           "is_correct": false,
-          "feedback": "44/100 é 0,44, decimal exato."
+          "feedback": "55/100 representa o decimal finito 0,55, que é diferente da dízima periódica infinita."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Para converter uma dízima periódica simples em fração, colocamos o período no numerador e, para cada algarismo do período, um algarismo 9 no denominador. No caso de $0,444...$, o período é 4, resultando em $4/9$.",
+      "explanation": "Para dízimas periódicas simples da forma $0,xxx...$, a fração geratriz é obtida colocando o algarismo do período no numerador e o número 9 no denominador. Para $0,555...$, o período é 5, logo a fração é $5/9$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v9",
-      "statement": "Considere o conjunto $S = \\{x \\in \\mathbb{R} \\mid x^2 = 7\\}$. A quais conjuntos numéricos pertencem os elementos de $S$?",
-      "context": "Um programador em Recife está criando um algoritmo para filtrar números em uma lista de dados bancários.",
+      "statement": "O conjunto solução $S = \\{x \\in \\mathbb{R} \\mid x^2 = 11\\}$ é formado por elementos que pertencem a quais conjuntos numéricos?",
+      "context": "Um engenheiro de software em Campinas está validando uma fórmula que resolve a equação $x^2 = 11$.",
       "options": [
         {
           "letter": "A",
-          "text": "Naturais e Racionais.",
+          "text": "Naturais e Inteiros.",
           "is_correct": false,
-          "feedback": "As soluções são ±√7, que não são nem naturais nem racionais."
+          "feedback": "As soluções são $±\\sqrt{11}$, que não são números inteiros nem naturais."
         },
         {
           "letter": "B",
-          "text": "Inteiros e Irracionais.",
+          "text": "Inteiros e Racionais.",
           "is_correct": false,
-          "feedback": "São irracionais, mas não são inteiros."
+          "feedback": "Como 11 não é quadrado perfeito, as raízes não podem ser expressas como frações, logo não são racionais."
         },
         {
           "letter": "C",
           "text": "Reais e Irracionais.",
           "is_correct": true,
-          "feedback": "±√7 são números irracionais e, consequentemente, números reais."
+          "feedback": "As raízes $±\\sqrt{11}$ são irracionais, e consequentemente reais, pois os irracionais são um subconjunto dos reais."
         },
         {
           "letter": "D",
-          "text": "Apenas Racionais.",
+          "text": "Racionais e Reais.",
           "is_correct": false,
-          "feedback": "Raízes de números que não são quadrados perfeitos não podem ser escritas como frações de inteiros."
+          "feedback": "O conjunto não possui elementos racionais."
         }
       ],
       "correct_answer": "C",
-      "explanation": "A equação $x^2 = 7$ tem como soluções $x = \\sqrt{7}$ e $x = -\\sqrt{7}$. Como 7 não é um quadrado perfeito, suas raízes quadradas são números irracionais. Todo número irracional também é um número real.",
+      "explanation": "A equação $x^2 = 11$ tem como soluções $x = \\sqrt{11}$ e $x = -\\sqrt{11}$. O número 11 não é um quadrado perfeito, então suas raízes quadradas não podem ser representadas como uma fração de inteiros, o que as define como números irracionais (e por extensão, reais).",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v10",
-      "statement": "Se $A = [1, 4]$ e $B = [2, 6]$, qual é o conjunto resultante da diferença $A - B$?",
-      "context": "Um topógrafo em Manaus mede a diferença de altitude entre dois pontos usando números reais.",
+      "statement": "Se o primeiro intervalo é $M = [2, 5]$ e o segundo é $N = [3, 7]$, qual é o intervalo resultante da diferença de conjuntos $M - N$?",
+      "context": "Em um estudo ambiental em Goiânia, biólogos analisam duas faixas de pH ideais para o cultivo de diferentes espécies de plantas aquáticas.",
       "options": [
         {
           "letter": "A",
-          "text": "$[1, 2)$",
+          "text": "$[2, 3)$",
           "is_correct": true,
-          "feedback": "A - B retira de A todos os elementos que também estão em B. Como B começa em 2, o 2 é removido, restando o intervalo de 1 até quase 2."
+          "feedback": "A diferença M - N remove de M os elementos presentes em N. Os números a partir de 3 estão em N, sobrando o intervalo fechado em 2 e aberto em 3."
         },
         {
           "letter": "B",
-          "text": "$[1, 2]$",
+          "text": "$[2, 3]$",
           "is_correct": false,
-          "feedback": "Incorreto, pois o número 2 pertence ao conjunto B, então ele deve ser removido de A."
+          "feedback": "O número 3 pertence a N, então ele precisa ser removido de M, tornando o intervalo aberto."
         },
         {
           "letter": "C",
-          "text": "$(4, 6]$",
+          "text": "$(5, 7]$",
           "is_correct": false,
-          "feedback": "Este seria o conjunto B - A."
+          "feedback": "Este intervalo corresponde à diferença N - M, não M - N."
         },
         {
           "letter": "D",
-          "text": "$[1, 6]$",
+          "text": "$[2, 7]$",
           "is_correct": false,
-          "feedback": "Este seria o conjunto união A U B."
+          "feedback": "Este seria o resultado da união dos dois conjuntos, não da diferença."
         }
       ],
       "correct_answer": "A",
-      "explanation": "A diferença $A - B$ consiste nos elementos que pertencem a $A$ mas NÃO pertencem a $B$. Como $A = \\{x \\in \\mathbb{R} \\mid 1 \\leq x \\leq 4\\}$ e $B = \\{x \\in \\mathbb{R} \\mid 2 \\leq x \\leq 6\\}$, os elementos de $A$ a partir de 2 (inclusive) devem ser retirados. Sobram os números de 1 (inclusive) até 2 (exclusivo).",
+      "explanation": "A diferença $M - N$ é formada pelos elementos que pertencem exclusivamente a $M$. O conjunto $M$ vai de 2 até 5. Como $N$ contém os números de 3 até 7, devemos subtrair de $M$ os elementos a partir do 3. Resta a faixa de 2 (inclusive) até 3 (exclusivo).",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v11",
-      "statement": "Seja o conjunto universo $U = \\mathbb{R}$ e o conjunto $A = \\{x \\in \\mathbb{R} \\mid x > 3\\}$. Qual é o conjunto complementar de $A$ em relação a $U$ (denotado por $A^c$ ou $\\complement_U A$)?",
-      "context": "Um engenheiro civil em Fortaleza analisa a resistência de materiais, onde os valores críticos pertencem ao conjunto complementar de um intervalo de segurança.",
+      "statement": "Considere o conjunto universo $U = \\mathbb{R}$ e o conjunto $C = \\{x \\in \\mathbb{R} \\mid x > 5\\}$. Qual é a representação correta do conjunto complementar de $C$, denotado por $C^c$?",
+      "context": "Um urbanista de São Paulo planeja zonas de restrição de tráfego de caminhões onde a massa do veículo é superior a 5 toneladas.",
       "options": [
         {
           "letter": "A",
-          "text": "$\\{x \\in \\mathbb{R} \\mid x < 3\\}$",
+          "text": "$\\{x \\in \\mathbb{R} \\mid x < 5\\}$",
           "is_correct": false,
-          "feedback": "O complementar deve incluir também o valor 3, já que 3 não está em A."
+          "feedback": "Esta opção falha em incluir o número 5, que não pertence a C e deve estar no complementar."
         },
         {
           "letter": "B",
-          "text": "$\\{x \\in \\mathbb{R} \\mid x \\leq 3\\}$",
+          "text": "$\\{x \\in \\mathbb{R} \\mid x \\leq 5\\}$",
           "is_correct": true,
-          "feedback": "O complementar de \"maior que\" é \"menor ou igual a\"."
+          "feedback": "O complementar de \"estritamente maior que\" engloba tudo o que é \"menor ou igual a\"."
         },
         {
           "letter": "C",
-          "text": "$\\{x \\in \\mathbb{R} \\mid x \\geq 3\\}$",
+          "text": "$\\{x \\in \\mathbb{R} \\mid x \\geq 5\\}$",
           "is_correct": false,
-          "feedback": "Este conjunto incluiria valores que já estão em A (como x > 3)."
+          "feedback": "Este conjunto incluiria todos os valores maiores que 5, que já pertencem a C."
         },
         {
           "letter": "D",
-          "text": "$\\{3\\}$",
+          "text": "$\\{5\\}$",
           "is_correct": false,
-          "feedback": "O complementar contém todos os números reais menores ou iguais a 3, não apenas o 3."
+          "feedback": "O complementar contém infinitos números, todos menores ou iguais a 5, não somente o número 5."
         }
       ],
       "correct_answer": "B",
-      "explanation": "O complementar de um conjunto $A$ em um universo $U$ contém todos os elementos de $U$ que não estão em $A$. Se $A$ é o intervalo aberto $(3, +\\infty)$, seu complementar é o intervalo fechado $(-\\infty, 3]$.",
+      "explanation": "O complementar de um conjunto num universo abrange tudo o que não pertence a ele. Se o conjunto $C$ contém todos os reais estritamente maiores que 5 (intervalo aberto $(5, +\\infty)$), seu complementar precisa conter todos os reais menores que 5 e também o próprio 5 (intervalo $(-\\infty, 5]$).",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v12",
-      "statement": "Considere as afirmações:\nI. O produto de dois números irracionais é sempre irracional.\nII. A soma de um número racional com um irracional é sempre irracional.\nIII. Entre dois números racionais distintos existe sempre outro número racional.\nQuais estão corretas?",
-      "context": "Em um concurso público nacional, uma questão de raciocínio lógico envolve a manipulação de propriedades de números inteiros e racionais.",
+      "statement": "Analise as sentenças a seguir:\nI. A soma de dois números irracionais será sempre um número irracional.\nII. Todo número inteiro pode ser escrito como um número racional.\nIII. O quadrado de um número irracional pode resultar em um número racional.\nQuais afirmações estão corretas?",
+      "context": "Durante uma avaliação preparatória para o ENEM, um estudante deve julgar a veracidade de três afirmações sobre operações com conjuntos numéricos.",
       "options": [
         {
           "letter": "A",
           "text": "Apenas I.",
           "is_correct": false,
-          "feedback": "I está incorreta: por exemplo, √2 * √2 = 2, que é racional."
+          "feedback": "A afirmação I é falsa, pois a soma de $(\\sqrt{2}) + (-\\sqrt{2}) = 0$, que é racional."
         },
         {
           "letter": "B",
           "text": "I e II.",
           "is_correct": false,
-          "feedback": "I é falsa, invalidando esta opção."
+          "feedback": "A afirmação I é falsa, o que invalida esta opção."
         },
         {
           "letter": "C",
           "text": "II e III.",
           "is_correct": true,
-          "feedback": "II é uma propriedade fundamental e III reflete a densidade dos números racionais na reta real."
+          "feedback": "II é correta (ex: 5 = 5/1). III também é correta (ex: $(\\sqrt{3})^2 = 3$)."
         },
         {
           "letter": "D",
           "text": "I, II e III.",
           "is_correct": false,
-          "feedback": "I é falsa."
+          "feedback": "A primeira afirmação é incorreta."
         }
       ],
       "correct_answer": "C",
-      "explanation": "I é falsa pois o produto de irracionais pode ser racional (ex: $\\sqrt{2} \\cdot \\sqrt{2} = 2$). II é verdadeira: se $r + i = q$ (racional), então $i = q - r$ seria racional, o que é uma contradição. III é verdadeira devido à propriedade da densidade dos racionais.",
+      "explanation": "A afirmação I é falsa porque a soma de números irracionais opostos resulta em zero (racional). A II é verdadeira, pois qualquer inteiro $z$ pode ser escrito como $z/1$. A III é verdadeira porque $(\\sqrt{a})^2 = a$, convertendo o irracional em um racional se $a$ for racional.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v13",
-      "statement": "Em uma amostra, 10 pessoas consomem as três marcas, 20 consomem X e Y, 25 consomem Y e Z, e 15 consomem X e Z. Quantas pessoas consomem EXCLUSIVAMENTE as marcas X e Y?",
-      "context": "Uma pesquisa de mercado em Goiânia avaliou o consumo de três marcas de leite: X, Y e Z.",
+      "statement": "Em um levantamento, 12 pessoas assinam os três serviços, 25 assinam filmes e séries, 30 assinam séries e esportes, e 20 assinam filmes e esportes. Quantas pessoas assinam EXCLUSIVAMENTE filmes e séries?",
+      "context": "Uma pesquisa em Porto Alegre avaliou as assinaturas de serviços de streaming de filmes, séries e esportes.",
       "options": [
         {
           "letter": "A",
-          "text": "10",
+          "text": "13",
           "is_correct": true,
-          "feedback": "Consomem X e Y (20) menos os que consomem as três (10) = 10."
+          "feedback": "Exclusivamente filmes e séries é a interseção dupla (25) menos a tripla (12), resultando em 13."
         },
         {
           "letter": "B",
-          "text": "20",
+          "text": "25",
           "is_correct": false,
-          "feedback": "20 é o total que consome X e Y, incluindo quem também consome Z."
+          "feedback": "25 é o número total na interseção de filmes e séries, incluindo os que assinam esportes."
         },
         {
           "letter": "C",
-          "text": "30",
+          "text": "37",
           "is_correct": false,
-          "feedback": "Valor incoerente com os dados da interseção."
+          "feedback": "Este valor resulta de uma soma indevida das interseções em vez de uma subtração."
         },
         {
           "letter": "D",
-          "text": "5",
+          "text": "8",
           "is_correct": false,
-          "feedback": "Cálculo incorreto da subtração das interseções."
+          "feedback": "Resultado de um cálculo incorreto das interseções duplas."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Para encontrar quem consome exclusivamente X e Y, devemos pegar o total da interseção de X com Y e subtrair os indivíduos que também consomem a marca Z (interseção tripla). Assim: $n(X \\cap Y) - n(X \\cap Y \\cap Z) = 20 - 10 = 10$.",
+      "explanation": "Para achar a quantidade de pessoas que assinam exclusivamente filmes e séries (sem assinar esportes), toma-se o total da interseção (Filmes $\\cap$ Séries) e subtrai-se os que pertencem à interseção tripla: $25 - 12 = 13$ pessoas.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v14",
-      "statement": "Se um conjunto $A$ possui 5 elementos, quantos subconjuntos possui o conjunto das partes de $A$, denotado por $\\mathcal{P}(A)$?",
-      "context": "Um matemático em Florianópolis estuda a cardinalidade de conjuntos finitos e as relações de subconjuntos.",
+      "statement": "Se o conjunto de permissões possíveis $P$ tem 6 elementos, qual é o número total de subconjuntos que podem ser formados, correspondente ao número de elementos do conjunto das partes $\\mathcal{P}(P)$?",
+      "context": "Um analista de sistemas em Natal desenvolve combinações de permissões para um software, onde cada usuário pode ter diferentes conjuntos de acessos.",
       "options": [
         {
           "letter": "A",
-          "text": "5",
+          "text": "12",
           "is_correct": false,
-          "feedback": "5 é apenas o número de elementos de A."
+          "feedback": "O cálculo não é multiplicar o número de elementos por 2 (6 * 2)."
         },
         {
           "letter": "B",
-          "text": "10",
+          "text": "36",
           "is_correct": false,
-          "feedback": "Incorreto. O número de subconjuntos é uma potência de 2."
+          "feedback": "O cálculo não é elevar o número de elementos ao quadrado ($6^2$)."
         },
         {
           "letter": "C",
-          "text": "32",
+          "text": "64",
           "is_correct": true,
-          "feedback": "O número de subconjuntos de um conjunto com n elementos é 2^n. Logo, 2^5 = 32."
+          "feedback": "A fórmula correta para o número de subconjuntos é $2^n$. Com $n=6$, temos $2^6 = 64$."
         },
         {
           "letter": "D",
-          "text": "25",
+          "text": "6",
           "is_correct": false,
-          "feedback": "O número de subconjuntos não é n²."
+          "feedback": "6 é apenas o número original de elementos no conjunto, não no conjunto das partes."
         }
       ],
       "correct_answer": "C",
-      "explanation": "O conjunto das partes de $A$ contém todos os subconjuntos possíveis de $A$. Se $n(A) = n$, então $n(\\mathcal{P}(A)) = 2^n$. Para $n = 5$, temos $2^5 = 32$.",
+      "explanation": "O conjunto das partes de um conjunto com $n$ elementos possui $2^n$ subconjuntos (incluindo o conjunto vazio e o próprio conjunto). Para um conjunto com 6 elementos, o total de subconjuntos é $2^6 = 64$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v15",
-      "statement": "Dados $A = \\{x \\in \\mathbb{R} \\mid x^2 - 5x + 6 = 0\\}$ e $B = \\{x \\in \\mathbb{R} \\mid 1 < x \\leq 3\\}$, qual é o conjunto $A \\cap B$?",
-      "context": "Um investidor de Belo Horizonte está comparando o rendimento de duas aplicações financeiras representadas por conjuntos de taxas possíveis.",
+      "statement": "Sendo os conjuntos $F = \\{x \\in \\mathbb{R} \\mid x^2 - 7x + 10 = 0\\}$ e $G = \\{x \\in \\mathbb{R} \\mid 3 \\leq x < 6\\}$, qual é o conjunto interseção $F \\cap G$?",
+      "context": "Um engenheiro químico em Vitória ajusta os parâmetros ideais de temperatura de uma reação industrial limitando as variáveis a um intervalo seguro.",
       "options": [
         {
           "letter": "A",
           "text": "$\\{2\\}$",
           "is_correct": false,
-          "feedback": "Faltou o elemento 3, que também resolve a equação e está no intervalo B."
+          "feedback": "O número 2 é raiz da equação, mas é menor que 3, então não pertence a G."
         },
         {
           "letter": "B",
-          "text": "$\\{3\\}$",
+          "text": "$\\{2, 5\\}$",
           "is_correct": false,
-          "feedback": "Faltou o elemento 2, que também resolve a equação e está no intervalo B."
+          "feedback": "Embora ambas sejam raízes, 2 não está no intervalo de G."
         },
         {
           "letter": "C",
-          "text": "$\\{2, 3\\}$",
+          "text": "$\\{5\\}$",
           "is_correct": true,
-          "feedback": "As raízes da equação são 2 e 3, e ambas pertencem ao intervalo (1, 3]."
+          "feedback": "A equação tem raízes 2 e 5. Apenas o 5 pertence ao intervalo fechado em 3 e aberto em 6."
         },
         {
           "letter": "D",
-          "text": "$\\{1, 2, 3\\}$",
+          "text": "$\\{3, 4, 5\\}$",
           "is_correct": false,
-          "feedback": "O número 1 não resolve a equação de A e o intervalo B é aberto em 1."
+          "feedback": "Os números 3 e 4 estão no intervalo G, mas não são raízes da equação de F."
         }
       ],
       "correct_answer": "C",
-      "explanation": "As raízes de $x^2 - 5x + 6 = 0$ são $x = 2$ e $x = 3$. O conjunto $B$ contém todos os números reais entre 1 (exclusivo) e 3 (inclusive). Como 2 e 3 satisfazem as condições de $B$, a interseção é $\\{2, 3\\}$.",
+      "explanation": "A equação do segundo grau $x^2 - 7x + 10 = 0$ tem raízes $x = 2$ e $x = 5$, que formam o conjunto $F$. O conjunto $G$ é o intervalo $[3, 6)$. Como apenas o número 5 satisfaz ambas as condições (estar em $F$ e pertencer ao intervalo $G$), a interseção é o conjunto $\\{5\\}$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v16",
-      "statement": "Simplifique a expressão de conjuntos: $(A \\cap B) \\cup (A \\cap B^c)$, onde $B^c$ é o complementar de $B$.",
-      "context": "Em um laboratório de informática em Campinas, estuda-se a lógica de conjuntos aplicada a bancos de dados.",
+      "statement": "Considere os conjuntos não vazios $X$ e $Y$. Utilizando propriedades das operações com conjuntos, simplifique a expressão $(X \\cup Y) \\cap (X \\cup Y^c)$, onde $Y^c$ é o complementar de $Y$.",
+      "context": "Um professor de teoria da computação na UFMG apresenta um problema de simplificação de expressões booleanas usando a teoria dos conjuntos.",
       "options": [
         {
           "letter": "A",
-          "text": "$A$",
+          "text": "$X$",
           "is_correct": true,
-          "feedback": "Pela propriedade distributiva, (A ∩ B) U (A ∩ B^c) = A ∩ (B U B^c) = A ∩ U = A."
+          "feedback": "Pela distributividade, a expressão é equivalente a $X \\cup (Y \\cap Y^c)$. Como a interseção de Y e Y^c é vazia, resta apenas X."
         },
         {
           "letter": "B",
-          "text": "$B$",
+          "text": "$Y$",
           "is_correct": false,
-          "feedback": "A expressão resulta nos elementos de A, independentemente de B."
+          "feedback": "A expressão simplificada isola o conjunto X, e não o Y."
         },
         {
           "letter": "C",
-          "text": "$A \\cup B$",
+          "text": "$X \\cap Y$",
           "is_correct": false,
-          "feedback": "A união com o complementar de B dentro da interseção reduz o resultado apenas a A."
+          "feedback": "A simplificação resulta apenas em X, não em sua interseção com Y."
         },
         {
           "letter": "D",
-          "text": "$\\emptyset$ (Conjunto vazio)",
+          "text": "Universo ($U$)",
           "is_correct": false,
-          "feedback": "A expressão não é vazia, a menos que A seja vazio."
+          "feedback": "O resultado é o conjunto X, não todo o conjunto universo."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Utilizando a propriedade distributiva da união em relação à interseção: $A \\cap (B \\cup B^c)$. Como $B \\cup B^c$ é o conjunto universo ($U$), temos $A \\cap U$, que resulta no próprio conjunto $A$.",
+      "explanation": "Usando a lei distributiva da união sobre a interseção na forma inversa, temos $(X \\cup Y) \\cap (X \\cup Y^c) = X \\cup (Y \\cap Y^c)$. A interseção de um conjunto com seu complementar é o conjunto vazio ($\\emptyset$). Assim, a união de $X$ com $\\emptyset$ é o próprio conjunto $X$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v17",
-      "statement": "Considere $a$ um número racional não nulo e $b$ um número irracional. Avalie a natureza das seguintes operações e assinale a afirmação correta:",
-      "context": "Um professor de matemática de uma universidade em Minas Gerais propõe um desafio sobre a natureza dos números reais e irracionais.",
+      "statement": "Sejam $p$ um número racional e $q$ um número irracional. Avalie o resultado das operações a seguir e assinale a única alternativa que sempre resulta em um número irracional, assumindo $p \\neq 0$ nas multiplicações/divisões.",
+      "context": "Em uma olimpíada regional de matemática em Cuiabá, alunos devem argumentar sobre as propriedades operacionais envolvendo números mistos.",
       "options": [
         {
           "letter": "A",
-          "text": "$a \\cdot b$ pode resultar em um número racional.",
+          "text": "$q^2$",
           "is_correct": false,
-          "feedback": "Falso. O produto de um racional não nulo por um irracional é sempre irracional."
+          "feedback": "Errado. A raiz quadrada de 3 é irracional, mas o seu quadrado é 3, que é racional."
         },
         {
           "letter": "B",
-          "text": "$\\frac{b}{a}$ é sempre um número racional.",
+          "text": "$q \\cdot q$",
           "is_correct": false,
-          "feedback": "Falso. A divisão de um irracional por um racional não nulo é sempre irracional."
+          "feedback": "Idem alternativa anterior, pois $q \\cdot q = q^2$, que pode ser um número racional."
         },
         {
           "letter": "C",
-          "text": "$a + b$ é necessariamente um número irracional.",
+          "text": "$p - q$",
           "is_correct": true,
-          "feedback": "Verdadeiro. A soma de um racional com um irracional nunca resultará em um racional."
+          "feedback": "Correto. A diferença, assim como a soma, entre um racional e um irracional resulta sempre em um irracional."
         },
         {
           "letter": "D",
-          "text": "$b^2$ é sempre um número irracional.",
+          "text": "$p \\cdot q$ se $p=0$",
           "is_correct": false,
-          "feedback": "Falso. Se b = √2 (irracional), b² = 2 (racional)."
+          "feedback": "Se $p=0$, então $0 \\cdot q = 0$, que é um número racional."
         }
       ],
       "correct_answer": "C",
-      "explanation": "A soma de um número racional com um irracional é sempre irracional. Se fosse racional ($a + b = r$), então $b = r - a$ seria racional (pois a diferença de dois racionais é racional), o que contradiz o fato de $b$ ser irracional.",
+      "explanation": "Se a diferença $p - q$ resultasse num racional $r$, então poderíamos escrever $q = p - r$. Sendo a subtração de dois racionais sempre um número racional, chegaríamos à conclusão falsa de que $q$ é racional. Logo, a diferença entre um racional e um irracional é sempre irracional.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v18",
-      "statement": "Seja $A_n = [0, 1/n]$ para cada $n \\in \\mathbb{N}^*$. Qual é o resultado da interseção infinita $\\bigcap_{n=1}^{\\infty} A_n$?",
-      "context": "Durante uma olimpíada de matemática, alunos do ensino médio de todo o Brasil resolvem problemas complexos sobre intervalos e conjuntos infinitos.",
+      "statement": "Defina os intervalos $I_k = \\left[- \\frac{1}{k}, \\frac{1}{k}\\right]$ para todo número natural $k > 0$. Qual é o conjunto que representa a interseção de todos esses intervalos, ou seja, $\\bigcap_{k=1}^{\\infty} I_k$?",
+      "context": "Um estudo avançado sobre o conceito de limites em um curso preparatório no Espírito Santo explora conjuntos que se reduzem infinitamente.",
       "options": [
         {
           "letter": "A",
           "text": "$\\emptyset$",
           "is_correct": false,
-          "feedback": "A interseção não é vazia, pois o número 0 pertence a todos os intervalos A_n."
+          "feedback": "O conjunto não é vazio pois o número zero faz parte de todos os intervalos da sequência."
         },
         {
           "letter": "B",
           "text": "$\\{0\\}$",
           "is_correct": true,
-          "feedback": "0 é o único elemento comum a todos os intervalos [0, 1/n] conforme n cresce ao infinito."
+          "feedback": "O número zero é o único elemento presente em todos os intervalos $[-1/k, 1/k]$ conforme k aumenta infinitamente."
         },
         {
           "letter": "C",
-          "text": "$[0, 1]$",
+          "text": "$[-1, 1]$",
           "is_correct": false,
-          "feedback": "Este é apenas o primeiro intervalo (n=1). A interseção diminui conforme n aumenta."
+          "feedback": "Esse é apenas o primeiro intervalo (k=1) e a interseção de todos vai restringir os valores."
         },
         {
           "letter": "D",
-          "text": "$(0, 1)$",
+          "text": "$(-1, 1)$",
           "is_correct": false,
-          "feedback": "Incorreto. O valor 0 está incluído em todos os intervalos fechados."
+          "feedback": "Não pode ser um intervalo aberto desse tamanho pois, para k=2 por exemplo, o limite é 1/2."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Cada conjunto $A_n$ é um intervalo $[0, 1/n]$. À medida que $n$ aumenta, o limite superior $1/n$ aproxima-se de 0, mas nunca fica abaixo de 0. O único número que está presente em todos os intervalos simultaneamente é o 0.",
+      "explanation": "Cada intervalo da sequência é simétrico e contido no anterior. Conforme $k$ cresce ao infinito, a amplitude do intervalo diminui, aproximando seus extremos do zero. Como 0 está em todo $I_k$, a interseção infinita resulta unicamente no conjunto unitário $\\{0\\}$.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v19",
-      "statement": "Considere o conjunto $X = \\{ q \\in \\mathbb{Q} \\mid q^2 < 2 \\}$. No conjunto dos números racionais $\\mathbb{Q}$, este conjunto possui um elemento máximo?",
-      "context": "Um pesquisador avançado em São José dos Campos investiga as propriedades de conjuntos numéricos aplicadas à física quântica.",
+      "statement": "Defina o conjunto $W = \\{ r \\in \\mathbb{Q} \\mid r^2 < 5 \\}$. Ao avaliar este subconjunto no universo dos números racionais, podemos afirmar que ele possui um elemento que atua como limite superior e que pertence a $\\mathbb{Q}$?",
+      "context": "Um aluno dedicado na preparação para a prova do ITA, em São José dos Campos, analisa propriedades de supremos nos conjuntos de números racionais.",
       "options": [
         {
           "letter": "A",
-          "text": "Sim, o elemento máximo é $\\sqrt{2}$.",
+          "text": "Sim, o máximo do conjunto é exatamente $\\sqrt{5}$.",
           "is_correct": false,
-          "feedback": "√2 não pertence ao conjunto Q, logo não pode ser o máximo de um subconjunto de Q."
+          "feedback": "A raiz quadrada de 5 não é um número racional, logo não pode pertencer ao universo $\\mathbb{Q}$."
         },
         {
           "letter": "B",
-          "text": "Não, para qualquer $q \\in X$, existe sempre outro racional $r \\in X$ tal que $r > q$.",
+          "text": "Não, pois não existe um número racional cujo quadrado seja igual a 5 para servir de supremo no conjunto dos racionais.",
           "is_correct": true,
-          "feedback": "No conjunto dos racionais, o conjunto dos números cujo quadrado é menor que 2 não possui um limite superior que seja racional (o supremo é √2, que é irracional)."
+          "feedback": "A propriedade fundamental da completude mostra que há buracos em $\\mathbb{Q}$. Como $\\sqrt{5}$ não é racional, não há supremo em $\\mathbb{Q}$."
         },
         {
           "letter": "C",
-          "text": "Sim, o elemento máximo é $1,414$.",
+          "text": "Sim, o número 2,236 é o limite superior que pertence ao conjunto.",
           "is_correct": false,
-          "feedback": "1,414² = 1,999396. Existe 1,4141 que também está em X e é maior."
+          "feedback": "2,236 ao quadrado é 4,999696. Existem outros racionais maiores, como 2,23606, que também pertencem a W."
         },
         {
           "letter": "D",
-          "text": "Sim, o elemento máximo é $1,41$.",
+          "text": "Sim, o conjunto é finito, logo possui um maior elemento.",
           "is_correct": false,
-          "feedback": "Existem infinitos racionais maiores que 1,41 cujo quadrado é menor que 2."
+          "feedback": "O conjunto W contém infinitos números racionais, não sendo finito."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Esta é uma propriedade fundamental que distingue os racionais dos reais (completude). O conjunto $X$ é limitado superiormente em $\\mathbb{Q}$, mas não possui um supremo (e, portanto, nem um máximo) que seja um número racional.",
+      "explanation": "No universo dos números racionais $\\mathbb{Q}$, conjuntos que deveriam ter como limite um número irracional (como $\\sqrt{5}$) não possuem extremo superior racional. Sempre podemos encontrar um racional um pouco maior dentro do conjunto, e isso reflete a propriedade de que $\\mathbb{Q}$ não é completo.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "BR-MAT-3EM-2026-W01-conjuntos-numericos-001-MASTERY-bundle-v20",
-      "statement": "Seja $S$ um conjunto com $n$ elementos. Se o número de subconjuntos de $S$ com um número par de elementos é $X$ e o número de subconjuntos com um número ímpar de elementos é $Y$, qual é a relação entre $X$ e $Y$?",
-      "context": "Em um exame de alto nível para ingressar no ITA (Instituto Tecnológico de Aeronáutica), avalia-se a profundidade do conhecimento em teoria dos conjuntos.",
+      "statement": "Seja $C$ um conjunto finito e não vazio com $k$ elementos. Considere que $P$ é o total de subconjuntos de $C$ com um número par de elementos (incluindo o conjunto vazio) e $I$ é o total de subconjuntos com um número ímpar de elementos. Qual é a igualdade correta entre $P$ e $I$?",
+      "context": "Em um simulado do IME (Instituto Militar de Engenharia), os candidatos enfrentam uma questão abstrata sobre análise combinatória e conjuntos.",
       "options": [
         {
           "letter": "A",
-          "text": "$X = Y + 1$",
+          "text": "$P = I + 1$",
           "is_correct": false,
-          "feedback": "Esta relação não é válida para conjuntos em geral."
+          "feedback": "Embora o vazio seja par, o total de pares e ímpares compensa nos coeficientes binomiais, sendo falso que há um a mais."
         },
         {
           "letter": "B",
-          "text": "$X = Y$",
-          "is_correct": true,
-          "feedback": "Em qualquer conjunto não vazio, o número de subconjuntos de cardinalidade par é igual ao de cardinalidade ímpar (ambos iguais a 2^(n-1))."
+          "text": "$P = I - 1$",
+          "is_correct": false,
+          "feedback": "Não há desequilíbrio na quantidade. Ambas as metades têm $2^{k-1}$ subconjuntos."
         },
         {
           "letter": "C",
-          "text": "$X = 2Y$",
+          "text": "$P = 2I$",
           "is_correct": false,
-          "feedback": "Se X = Y, então X = 2Y só seria verdade se Y = 0, o que nunca acontece num conjunto não vazio."
+          "feedback": "Relação multiplicativa incorreta para contagem de subconjuntos."
         },
         {
           "letter": "D",
-          "text": "$X = Y/2$",
-          "is_correct": false,
-          "feedback": "Se X = Y, então X = Y/2 só seria verdade se Y = 0, o que nunca acontece num conjunto não vazio."
+          "text": "$P = I$",
+          "is_correct": true,
+          "feedback": "A soma alternada dos coeficientes do binômio de Newton iguala a zero, provando que o total de subconjuntos pares e ímpares é igual."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para um conjunto com $n \\geq 1$ elementos, a soma alternada dos coeficientes binomiais $\\binom{n}{0} - \\binom{n}{1} + \\binom{n}{2} - ... = 0$. Isso implica que a soma dos coeficientes com índices pares é igual à soma dos coeficientes com índices ímpares, ou seja, $X = Y = 2^{n-1}$.",
+      "correct_answer": "D",
+      "explanation": "Usando o teorema binomial, sabemos que $(1 - 1)^k = \\sum (-1)^j \\binom{k}{j} = 0$ para $k \\ge 1$. Isso implica que a soma dos coeficientes binomiais pares é exatamente igual à soma dos coeficientes ímpares. Portanto, o número de subconjuntos com quantidade par de elementos ($P$) e ímpar ($I$) é o mesmo, ambos valendo $2^{k-1}$.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -1775,9 +1775,9 @@
         },
         {
           "letter": "B",
-          "text": "$X = Y$",
-          "is_correct": true,
-          "feedback": "Em qualquer conjunto não vazio, o número de subconjuntos de cardinalidade par é igual ao de cardinalidade ímpar (ambos iguais a 2^(n-1))."
+          "text": "$X = Y/2$",
+          "is_correct": false,
+          "feedback": "Se X = Y, então Y/2 só seria igual a X quando Y = 0, o que contraria o fato de ambos valerem 2^(n-1)."
         },
         {
           "letter": "C",
@@ -1787,12 +1787,12 @@
         },
         {
           "letter": "D",
-          "text": "$X = Y/2$",
-          "is_correct": false,
-          "feedback": "Se X = Y, então Y/2 só seria igual a X quando Y = 0, o que contraria o fato de ambos valerem 2^(n-1)."
+          "text": "$X = Y$",
+          "is_correct": true,
+          "feedback": "Em qualquer conjunto não vazio, o número de subconjuntos de cardinalidade par é igual ao de cardinalidade ímpar (ambos iguais a 2^(n-1))."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para um conjunto com $n \\geq 1$ elementos, a soma alternada dos coeficientes binomiais $\\binom{n}{0} - \\binom{n}{1} + \\binom{n}{2} - ... = 0$. Isso implica que a soma dos coeficientes com índices pares é igual à soma dos coeficientes com índices ímpares, ou seja, $X = Y = 2^{n-1}$.",
       "difficulty": "10",
       "images": [],

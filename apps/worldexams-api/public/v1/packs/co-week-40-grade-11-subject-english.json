@@ -13,16 +13,16 @@
       "context": "Discussing comprehensive review 3 in Cali.",
       "options": [
         {
-          "letter": "B",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
           "text": "alleviate",
           "is_correct": false,
           "feedback": "Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed."
+        },
+        {
+          "letter": "B",
+          "text": "exacerbate",
+          "is_correct": true,
+          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
         },
         {
           "letter": "C",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W40-comprehensive-review-3-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on comprehensive review 3 in Medellín, what is implied about the role of Final Assessment Prep in shaping public opinion?",
-      "context": "Discussing comprehensive review 3 in Medellín.",
+      "statement": "Read the text and answer the question.\n\n\"Every August, Medellín celebrates the Flower Festival. Its most famous event is the parade of the silleteros, farmers from the area of Santa Elena who carry huge flower arrangements on their backs. Some arrangements weigh more than 70 kilograms. The tradition began when farmers carried flowers down the mountain on their backs to sell them in the city. Today, the silleteros pass the skill from parents to children, and many families have taken part for several generations.\"\n\nAccording to the text, how did the silletero tradition begin?",
+      "context": "Reading a short text about the Flower Festival in Medellín.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "As a sports competition between villages.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. The text never mentions a competition; the arrangements are carried in a parade."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "As a celebration of the end of the school year.",
           "is_correct": false,
-          "feedback": "Incorrect. Final Assessment Prep gives a text its nuance and precision, so it does not make the message simpler to grasp."
+          "feedback": "Incorrect. Schools are not mentioned; the festival is described as taking place in August."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Cartagena.",
+          "text": "As a parade organised by the city government.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The parade is today's event, but the text says the tradition started with farmers' work."
+        },
+        {
+          "letter": "D",
+          "text": "Farmers carried flowers down to the city to sell them.",
+          "is_correct": true,
+          "feedback": "Correct. The text says 'The tradition began when farmers carried flowers down the mountain... to sell them in the city'."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Questions about origins are answered by expressions like 'began', 'started' or 'originally'. Here the sentence with 'began' explains that the parade comes from a practical activity: farmers carrying flowers on their backs to sell in Medellín.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-11-2026-W40-comprehensive-review-3-001-MASTERY-bundle-v6",
-      "statement": "According to a recent report on comprehensive review 3 in Cali, what is implied about the role of Final Assessment Prep in shaping public opinion?",
-      "context": "Discussing comprehensive review 3 in Cali.",
+      "statement": "Read the text and answer the question.\n\n\"More than 500 bird species have been recorded within the municipality of Cali, which makes it one of the best cities in the world for birdwatching. Experts explain that the city's location, between the Western Andes and the Cauca River valley, creates many different habitats where birds can thrive. Every year, the city organises a birdwatching fair that attracts visitors from Colombia and abroad.\"\n\nIn the text, \"thrive\" means...",
+      "context": "Reading a short text about birdwatching in Cali.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "disappear slowly.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. This is the opposite; the text explains why so many species are found in Cali."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "migrate to other countries.",
           "is_correct": false,
-          "feedback": "Incorrect. Final Assessment Prep gives a text its nuance and precision, so it does not make the message simpler to grasp."
+          "feedback": "Incorrect. The text talks about birds living in Cali's habitats, not leaving for other countries."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Cali.",
+          "text": "be hunted by people.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. Hunting is never mentioned, and the context is positive."
+        },
+        {
+          "letter": "D",
+          "text": "grow and live successfully.",
+          "is_correct": true,
+          "feedback": "Correct. Many different habitats explain why more than 500 species do well in Cali, which is the meaning of 'thrive'."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "The meaning of 'thrive' can be guessed from the positive context: Cali has more than 500 species and is one of the best cities for birdwatching because its habitats are varied. A word that explains this success must mean doing well or flourishing.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -331,36 +331,36 @@
     },
     {
       "id": "CO-ING-11-2026-W40-comprehensive-review-3-001-MASTERY-bundle-v8",
-      "statement": "According to a recent report on comprehensive review 3 in Barranquilla, what is implied about the role of Final Assessment Prep in shaping public opinion?",
-      "context": "Discussing comprehensive review 3 in Barranquilla.",
+      "statement": "Read the text and answer the question.\n\n\"The Carnival of Barranquilla takes place during the four days before Ash Wednesday, but preparations start months earlier. Dance groups rehearse in the streets after work, and families sew costumes at home. Many dancers are not professionals: they are teachers, taxi drivers or students. In 2003, UNESCO recognised the carnival as a Masterpiece of the Oral and Intangible Heritage of Humanity.\"\n\nWhat can be inferred about the carnival?",
+      "context": "Reading a short text about the Carnival of Barranquilla.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "It depends on the effort of many ordinary citizens, not only professional artists.",
           "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "feedback": "Correct. Families make costumes, and many dancers are teachers, taxi drivers or students who rehearse after work."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "It lasts for several months.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. The carnival itself lasts four days; it is the preparation that takes months."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "It is organised only by professional dancers.",
           "is_correct": false,
-          "feedback": "Incorrect. Final Assessment Prep gives a text its nuance and precision, so it does not make the message simpler to grasp."
+          "feedback": "Incorrect. The text says many dancers 'are not professionals'."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bucaramanga.",
+          "text": "It began in 2003.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. 2003 is the year of UNESCO's recognition, not the year the carnival started."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "The inference comes from several details pointing in the same direction: rehearsals 'after work', costumes sewn at home and dancers with ordinary jobs. Watch out for the dates: the four days are the event, the months are preparation, and 2003 is a recognition, not a beginning.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -377,36 +377,36 @@
     },
     {
       "id": "CO-ING-11-2026-W40-comprehensive-review-3-001-MASTERY-bundle-v9",
-      "statement": "According to a recent report on comprehensive review 3 in Bogotá, what is implied about the role of Final Assessment Prep in shaping public opinion?",
-      "context": "Discussing comprehensive review 3 in Bogotá.",
+      "statement": "Read the notice and answer the question.\n\n\"Free Sundays! On the last Sunday of every month, entrance to our museum is free for all visitors. Because these days are very popular, we recommend arriving early, as the number of people inside at the same time is limited. Large bags must be left in the lockers at the entrance. Photography without flash is permitted in most rooms. Guided tours in English are available at 11 a.m.\"\n\nWhat is the main purpose of this notice?",
+      "context": "Reading a notice at a museum in Bogotá.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "To announce that the museum will close permanently.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. The notice invites people to visit and describes regular free days, so the museum is not closing."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "To explain the history of the museum's collection.",
           "is_correct": false,
-          "feedback": "Incorrect. Final Assessment Prep gives a text its nuance and precision, so it does not make the message simpler to grasp."
+          "feedback": "Incorrect. The notice says nothing about the collection's history."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Cali.",
+          "text": "To advertise guided tours in English only.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The tours are one detail at the end; most of the notice is about the free days and the rules."
+        },
+        {
+          "letter": "D",
+          "text": "To inform visitors about free entry days and the rules they must follow.",
+          "is_correct": true,
+          "feedback": "Correct. The notice explains when entry is free and lists rules about capacity, bags and photography."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "To identify a notice's purpose, look at its title and at what most of the sentences do. The title 'Free Sundays!' and the instructions about arrival, bags and photos show that it informs visitors about free entry and how to behave. A single detail, like the tours, is not the main purpose.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -473,16 +473,16 @@
       "context": "Discussing comprehensive review 3 in Cartagena.",
       "options": [
         {
-          "letter": "B",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
           "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
+        },
+        {
+          "letter": "B",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
         },
         {
           "letter": "C",
@@ -749,32 +749,32 @@
       "context": "Discussing comprehensive review 3 in Medellín.",
       "options": [
         {
-          "letter": "C",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
           "text": "They are literally looking for something in the trees of Cartagena.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads the idiom literally; nobody in the debate is searching real trees, because the expression is figurative and describes a mistaken line of action."
         },
         {
           "letter": "B",
           "text": "The approach is too noisy and aggressive.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. 'Barking' here does not describe a loud or aggressive tone; the idiom is about choosing the wrong objective, not about how people speak."
+        },
+        {
+          "letter": "C",
+          "text": "The current strategy is directed towards the wrong objective.",
+          "is_correct": true,
+          "feedback": "Correct. 'Bark up the wrong tree' means aiming your effort at the wrong cause or target, so the speaker is saying the current plan on comprehensive review 3 points in the wrong direction."
         },
         {
           "letter": "D",
           "text": "A new environmental project involving trees should be started.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The word 'tree' belongs to a fixed expression, so the speaker is not proposing a project with trees; the speaker is criticising the approach under discussion."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "The idiom 'bark up the wrong tree' comes from hunting dogs that bark at a tree after the animal has escaped to another one. In a debate about comprehensive review 3, it means the group's effort is aimed at the wrong cause or solution. The literal words (barking, trees) are not part of the message, so any option that mentions real trees or noise misreads the idiom.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -837,36 +837,36 @@
     },
     {
       "id": "CO-ING-11-2026-W40-comprehensive-review-3-001-MASTERY-bundle-v19",
-      "statement": "In a high-level debate about comprehensive review 3, Valentina says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Valentina mean?",
-      "context": "Discussing comprehensive review 3 in Cartagena.",
+      "statement": "Read the dialogue.\n\nTourist: \"Does it ever get cold in Cartagena?\"\nGuide: \"Only once in a blue moon. Most of the year it's hot and humid, so bring light clothes.\"\n\nWhat does the guide mean?",
+      "context": "A conversation between a tourist and a guide in Cartagena.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Barranquilla.",
+          "text": "It gets cold every time there is a full moon.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads 'blue moon' literally; the idiom describes frequency, not the moon's phases."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "It gets cold every night.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. The guide says most of the year is hot and humid, which contradicts cold nights."
         },
         {
           "letter": "C",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "It is cold for most of the year.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The guide says the opposite: 'Most of the year it's hot and humid'."
+        },
+        {
+          "letter": "D",
+          "text": "It almost never gets cold.",
+          "is_correct": true,
+          "feedback": "Correct. 'Once in a blue moon' means very rarely, which fits the advice to bring light clothes."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Once in a blue moon' is an idiom meaning 'very rarely'. The guide's next sentence supports this meaning: the weather is usually hot and humid. Using the following sentence to confirm an idiom is a useful strategy in reading tasks.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -883,36 +883,36 @@
     },
     {
       "id": "CO-ING-11-2026-W40-comprehensive-review-3-001-MASTERY-bundle-v20",
-      "statement": "In a high-level debate about comprehensive review 3, Isabella says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Isabella mean?",
-      "context": "Discussing comprehensive review 3 in Bogotá.",
+      "statement": "Read the dialogue.\n\nPablo: \"I've read this question three times and I still can't figure out what it's asking.\"\nTeacher: \"Try underlining the key words first.\"\n\nWhat is Pablo's problem?",
+      "context": "A conversation in an English class in Bogotá.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Manizales.",
+          "text": "He cannot write numbers on the question.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. 'Figure' can mean a number, but 'figure out' is a phrasal verb about understanding."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "He cannot draw a picture of the question.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. 'Figure' can mean an image, but the phrasal verb has nothing to do with drawing."
         },
         {
           "letter": "C",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "He has decided to skip the question.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. Pablo has read it three times and the teacher gives him a strategy, so he has not skipped it."
+        },
+        {
+          "letter": "D",
+          "text": "He cannot understand what the question is asking.",
+          "is_correct": true,
+          "feedback": "Correct. 'Figure out' means to understand or solve something after thinking about it."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Figure out' is a phrasal verb meaning to understand or solve something through thinking. The context makes this clear: Pablo has read the question several times without understanding it, and the teacher suggests a reading strategy to help him.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

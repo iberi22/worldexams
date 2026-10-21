@@ -250,15 +250,15 @@
         },
         {
           "letter": "B",
-          "text": "do",
-          "is_correct": true,
-          "feedback": "Correct! \"What time\" asks about a routine with \"you\" as the subject, so the auxiliary is the plural form \"do\"."
-        },
-        {
-          "letter": "C",
           "text": "does",
           "is_correct": false,
           "feedback": "Incorrect. \"Does\" is the third person singular auxiliary, and the subject of this question is \"you\"."
+        },
+        {
+          "letter": "C",
+          "text": "do",
+          "is_correct": true,
+          "feedback": "Correct! \"What time\" asks about a routine with \"you\" as the subject, so the auxiliary is the plural form \"do\"."
         },
         {
           "letter": "D",
@@ -267,7 +267,7 @@
           "feedback": "Incorrect. \"Is\" is the auxiliary of \"be\", and this question has the full verb \"wake up\" after the blank."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "This question evaluates the student's ability to apply the topic of Review: Daily Routines at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
       "difficulty": "8",
       "images": [],

@@ -65,12 +65,6 @@
           "feedback": "To have a good relationship."
         },
         {
-          "letter": "D",
-          "text": "fit in",
-          "is_correct": true,
-          "feedback": "Correct. To feel like you belong to a group."
-        },
-        {
           "letter": "B",
           "text": "take over",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "look after",
           "is_correct": false,
           "feedback": "To take care of."
+        },
+        {
+          "letter": "D",
+          "text": "fit in",
+          "is_correct": true,
+          "feedback": "Correct. To feel like you belong to a group."
         }
       ],
       "correct_answer": "D",
@@ -111,16 +111,16 @@
           "feedback": "To manage with difficulty."
         },
         {
-          "letter": "C",
-          "text": "get over",
-          "is_correct": true,
-          "feedback": "Correct. To overcome a problem or difficulty."
-        },
-        {
           "letter": "B",
           "text": "go through",
           "is_correct": false,
           "feedback": "To experience or examine."
+        },
+        {
+          "letter": "C",
+          "text": "get over",
+          "is_correct": true,
+          "feedback": "Correct. To overcome a problem or difficulty."
         },
         {
           "letter": "D",
@@ -157,16 +157,16 @@
           "feedback": "To invent."
         },
         {
-          "letter": "C",
-          "text": "play up",
-          "is_correct": true,
-          "feedback": "Correct. To emphasize or exaggerate something."
-        },
-        {
           "letter": "B",
           "text": "give in",
           "is_correct": false,
           "feedback": "To surrender."
+        },
+        {
+          "letter": "C",
+          "text": "play up",
+          "is_correct": true,
+          "feedback": "Correct. To emphasize or exaggerate something."
         },
         {
           "letter": "D",
@@ -249,16 +249,16 @@
           "feedback": "To resemble a relative."
         },
         {
-          "letter": "C",
-          "text": "pick up",
-          "is_correct": true,
-          "feedback": "Correct. To learn something without formal study."
-        },
-        {
           "letter": "B",
           "text": "bring up",
           "is_correct": false,
           "feedback": "To mention or raise a child."
+        },
+        {
+          "letter": "C",
+          "text": "pick up",
+          "is_correct": true,
+          "feedback": "Correct. To learn something without formal study."
         },
         {
           "letter": "D",
@@ -295,16 +295,16 @@
           "feedback": "To admire."
         },
         {
-          "letter": "C",
-          "text": "look down on",
-          "is_correct": true,
-          "feedback": "Correct. To think that you are better than someone."
-        },
-        {
           "letter": "B",
           "text": "look forward to",
           "is_correct": false,
           "feedback": "To be excited about."
+        },
+        {
+          "letter": "C",
+          "text": "look down on",
+          "is_correct": true,
+          "feedback": "Correct. To think that you are better than someone."
         },
         {
           "letter": "D",
@@ -341,12 +341,6 @@
           "feedback": "To support."
         },
         {
-          "letter": "D",
-          "text": "break away from",
-          "is_correct": true,
-          "feedback": "Correct. To stop being part of a group or following a custom."
-        },
-        {
           "letter": "B",
           "text": "keep up with",
           "is_correct": false,
@@ -357,6 +351,12 @@
           "text": "run out of",
           "is_correct": false,
           "feedback": "To have no more left."
+        },
+        {
+          "letter": "D",
+          "text": "break away from",
+          "is_correct": true,
+          "feedback": "Correct. To stop being part of a group or following a custom."
         }
       ],
       "correct_answer": "D",
@@ -387,16 +387,16 @@
           "feedback": "To have as a main purpose."
         },
         {
-          "letter": "C",
-          "text": "live up to",
-          "is_correct": true,
-          "feedback": "Correct. To reach an expected standard."
-        },
-        {
           "letter": "B",
           "text": "live through",
           "is_correct": false,
           "feedback": "To experience a difficult time."
+        },
+        {
+          "letter": "C",
+          "text": "live up to",
+          "is_correct": true,
+          "feedback": "Correct. To reach an expected standard."
         },
         {
           "letter": "D",
@@ -427,16 +427,10 @@
       "context": "A sophisticated discussion on social dynamics.",
       "options": [
         {
-          "letter": "C",
+          "letter": "A",
           "text": "delve into",
           "is_correct": true,
           "feedback": "Correct. To investigate or research something in depth."
-        },
-        {
-          "letter": "A",
-          "text": "fall for",
-          "is_correct": false,
-          "feedback": "To be deceived."
         },
         {
           "letter": "B",
@@ -445,13 +439,19 @@
           "feedback": "To improve knowledge of something."
         },
         {
+          "letter": "C",
+          "text": "fall for",
+          "is_correct": false,
+          "feedback": "To be deceived."
+        },
+        {
           "letter": "D",
           "text": "catch on to",
           "is_correct": false,
           "feedback": "To understand something."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Advanced B2 vocabulary: 'Delve into' is a formal phrasal verb used for deep investigation.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -525,12 +525,6 @@
           "feedback": "'Keeping to' means limiting oneself, so it does not express clinging to an old prejudice, and 'making new ways' is not the phrasal pair meant."
         },
         {
-          "letter": "D",
-          "text": "holding on / opening up to",
-          "is_correct": true,
-          "feedback": "'Going back to' suggests returning, and 'taking in new ways' means absorbing ideas rather than opening oneself to a different mindset."
-        },
-        {
           "letter": "B",
           "text": "going back / taking in",
           "is_correct": false,
@@ -541,6 +535,12 @@
           "text": "giving up / looking for",
           "is_correct": false,
           "feedback": "'Giving up on prejudices' means stopping the effort entirely, which is the opposite of the change the sentence calls for."
+        },
+        {
+          "letter": "D",
+          "text": "holding on / opening up to",
+          "is_correct": true,
+          "feedback": "'Going back to' suggests returning, and 'taking in new ways' means absorbing ideas rather than opening oneself to a different mindset."
         }
       ],
       "correct_answer": "D",

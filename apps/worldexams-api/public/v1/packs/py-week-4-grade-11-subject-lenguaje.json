@@ -103,12 +103,6 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "ademas",
-          "is_correct": true,
-          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Ciudad del Este y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
-        },
-        {
           "letter": "A",
           "text": "sin embargo",
           "is_correct": false,
@@ -125,6 +119,12 @@
           "text": "aunque",
           "is_correct": false,
           "feedback": "Incorrecto. 'Aunque' introduce una concesion: lo que va detras se opone a lo esperado. La segunda proposicion no contradice la primera, la completa, asi que este conector tampoco corresponde."
+        },
+        {
+          "letter": "D",
+          "text": "ademas",
+          "is_correct": true,
+          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Ciudad del Este y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
         }
       ],
       "correct_answer": "D",
@@ -554,15 +554,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "'Sin embargo' es un conector coordinante y 'aunque' es una conjunción subordinante",
-          "is_correct": true,
-          "feedback": "Es correcto: 'sin embargo' enlaza dos proposiciones del mismo rango, mientras que 'aunque' subordina una a la otra y establece una relación de subordinación."
-        },
-        {
-          "letter": "B",
           "text": "Ambas cumplen la misma función y son intercambiables",
           "is_correct": false,
           "feedback": "No son intercambiables en todos los contextos: uno coordina y el otro subordina."
+        },
+        {
+          "letter": "B",
+          "text": "'Sin embargo' es un conector coordinante y 'aunque' es una conjunción subordinante",
+          "is_correct": true,
+          "feedback": "Es correcto: 'sin embargo' enlaza dos proposiciones del mismo rango, mientras que 'aunque' subordina una a la otra y establece una relación de subordinación."
         },
         {
           "letter": "C",
@@ -577,7 +577,7 @@
           "feedback": "Ninguno de los dos expresa causa o condición: ambos señalan contraste u oposición."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El modo de relación determina la estructura: la coordinación presenta dos proposiciones equivalentes, mientras que la subordinación establece una jerarquía entre ellas.",
       "difficulty": "8",
       "images": [],
@@ -598,12 +598,6 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "C",
-          "text": "Los estudiantes del Colegio Nacional de la Capital estudian mucho.",
-          "is_correct": true,
-          "feedback": "Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'."
-        },
-        {
           "letter": "A",
           "text": "Los estudiantes de la escuela estudian poco.",
           "is_correct": false,
@@ -614,6 +608,12 @@
           "text": "Los estudiantes del instituto no estudian nada.",
           "is_correct": false,
           "feedback": "Incorrecto. 'El instituto' vuelve a sustituir el nombre propio por una denominacion generica. La negacion 'no estudian nada' es correcta, pero no aporta el dato que el enunciado evalua."
+        },
+        {
+          "letter": "C",
+          "text": "Los estudiantes del Colegio Nacional de la Capital estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'."
         },
         {
           "letter": "D",
@@ -644,9 +644,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "La proposición 'que llegó tarde'",
-          "is_correct": true,
-          "feedback": "Es correcto: ese grupo se intercala entre el sujeto y el verbo y queda delimitado por dos comas."
+          "text": "El adverbio 'tarde'",
+          "is_correct": false,
+          "feedback": "'Tarde' forma parte del inciso, pero no es el elemento que lo introduce."
         },
         {
           "letter": "B",
@@ -662,12 +662,12 @@
         },
         {
           "letter": "D",
-          "text": "El adverbio 'tarde'",
-          "is_correct": false,
-          "feedback": "'Tarde' forma parte del inciso, pero no es el elemento que lo introduce."
+          "text": "La proposición 'que llegó tarde'",
+          "is_correct": true,
+          "feedback": "Es correcto: ese grupo se intercala entre el sujeto y el verbo y queda delimitado por dos comas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El inciso es un grupo de palabras que se intercala en la oración y puede eliminarse sin alterar su sentido esencial. Va siempre entre dos comas.",
       "difficulty": "8",
       "images": [],
@@ -689,9 +689,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Compré un libro en la librería.",
-          "is_correct": true,
-          "feedback": "Es correcta: el artículo indeterminado acompaña a un sustantivo contable singular y concuerda con él."
+          "text": "Compré un agua en la librería.",
+          "is_correct": false,
+          "feedback": "El artículo indeterminado no acompaña a 'agua', que es femenino y además se escribe con 'el'."
         },
         {
           "letter": "B",
@@ -701,9 +701,9 @@
         },
         {
           "letter": "C",
-          "text": "Compré un agua en la librería.",
-          "is_correct": false,
-          "feedback": "El artículo indeterminado no acompaña a 'agua', que es femenino y además se escribe con 'el'."
+          "text": "Compré un libro en la librería.",
+          "is_correct": true,
+          "feedback": "Es correcta: el artículo indeterminado acompaña a un sustantivo contable singular y concuerda con él."
         },
         {
           "letter": "D",
@@ -712,7 +712,7 @@
           "feedback": "La concordancia es correcta, pero aquí la atención está en el adjetivo y no en el uso del artículo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El artículo indeterminado se usa con sustantivos contables en singular cuando el referente no se conoce o se presenta por primera vez.",
       "difficulty": "8",
       "images": [],
@@ -734,15 +734,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Es un cuantificador que modifica al verbo y expresa frecuencia",
-          "is_correct": true,
-          "feedback": "Es correcto: 'cada día' cuantifica la repetición de la acción y responde a con qué frecuencia se realiza."
-        },
-        {
-          "letter": "B",
           "text": "Es un artículo determinado que introduce un sustantivo",
           "is_correct": false,
           "feedback": "No hay artículo aquí: la expresión es un sintagma adverbial de frecuencia."
+        },
+        {
+          "letter": "B",
+          "text": "Es un cuantificador que modifica al verbo y expresa frecuencia",
+          "is_correct": true,
+          "feedback": "Es correcto: 'cada día' cuantifica la repetición de la acción y responde a con qué frecuencia se realiza."
         },
         {
           "letter": "C",
@@ -757,7 +757,7 @@
           "feedback": "No hay ninguna preposición, de modo que no se forma un complemento preposicional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los cuantificadores de frecuencia como 'cada día', 'todos los días' o 'a menudo' se colocan junto al verbo y constituyen un sintagma adverbial.",
       "difficulty": "10",
       "images": [],
@@ -779,9 +779,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Es una relación de consecuencia entre dos proposiciones",
-          "is_correct": true,
-          "feedback": "Es correcto: 'por lo tanto' introduce la consecuencia que se deduce de lo expuesto anteriormente."
+          "text": "Es una relación temporal",
+          "is_correct": false,
+          "feedback": "No indica ningún momento ni duración: la relación es lógica, no temporal."
         },
         {
           "letter": "B",
@@ -797,12 +797,12 @@
         },
         {
           "letter": "D",
-          "text": "Es una relación temporal",
-          "is_correct": false,
-          "feedback": "No indica ningún momento ni duración: la relación es lógica, no temporal."
+          "text": "Es una relación de consecuencia entre dos proposiciones",
+          "is_correct": true,
+          "feedback": "Es correcto: 'por lo tanto' introduce la consecuencia que se deduce de lo expuesto anteriormente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los conectores lógicos permiten hacer explícita la estructura del razonamiento, distinguiendo causa, consecuencia, oposición y condición.",
       "difficulty": "10",
       "images": [],
@@ -824,9 +824,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Es indispensable que el documento esté firmado.",
-          "is_correct": true,
-          "feedback": "Es correcta: la completiva regida por la estructura impersonal cubre la posición de sujeto."
+          "text": "Cuando el documento esté firmado, lo revisaremos.",
+          "is_correct": false,
+          "feedback": "Es una subordinada adverbial temporal, porque indica cuándo se hará la revisión."
         },
         {
           "letter": "B",
@@ -836,9 +836,9 @@
         },
         {
           "letter": "C",
-          "text": "Cuando el documento esté firmado, lo revisaremos.",
-          "is_correct": false,
-          "feedback": "Es una subordinada adverbial temporal, porque indica cuándo se hará la revisión."
+          "text": "Es indispensable que el documento esté firmado.",
+          "is_correct": true,
+          "feedback": "Es correcta: la completiva regida por la estructura impersonal cubre la posición de sujeto."
         },
         {
           "letter": "D",
@@ -847,7 +847,7 @@
           "feedback": "Aquí la completiva funciona como sujeto, pero la opción anterior es la que reúne la estructura buscada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las subordinadas sustantivas completan a un verbo o a una estructura impersonal y pueden ocupar la posición de sujeto, objeto directo o atributo.",
       "difficulty": "10",
       "images": [],
@@ -868,16 +868,16 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "El agua es esencial para la vida y debe cuidarse",
-          "is_correct": true,
-          "feedback": "Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen."
-        },
-        {
           "letter": "A",
           "text": "El agua solo se usa para beber",
           "is_correct": false,
           "feedback": "Incorrecto. Reduce el agua a un solo uso domestico. El texto la presenta como recurso vital para la vida en general, no unicamente como algo con que beber."
+        },
+        {
+          "letter": "B",
+          "text": "El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen."
         },
         {
           "letter": "C",

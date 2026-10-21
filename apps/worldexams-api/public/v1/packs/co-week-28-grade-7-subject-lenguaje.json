@@ -382,15 +382,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Que la bebida tiene un alto contenido de azúcares y colorantes.",
-          "is_correct": false,
-          "feedback": "Este es un dato técnico que el anuncio suele ocultar o minimizar visualmente."
-        },
-        {
-          "letter": "B",
           "text": "Que el consumo del producto está directamente vinculado con el éxito social, la belleza y la felicidad extrema.",
           "is_correct": true,
           "feedback": "La multimodalidad se usa aquí para crear una asociación simbólica entre la bebida y un estilo de vida aspiracional."
+        },
+        {
+          "letter": "B",
+          "text": "Que la bebida tiene un alto contenido de azúcares y colorantes.",
+          "is_correct": false,
+          "feedback": "Este es un dato técnico que el anuncio suele ocultar o minimizar visualmente."
         },
         {
           "letter": "C",
@@ -405,7 +405,7 @@
           "feedback": "La playa es solo un escenario estético, el anuncio no comunica acciones ambientales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El análisis crítico de textos multimodales busca desvelar las ideologías y los valores que se transmiten sutilmente a través de la imagen y el sonido, especialmente en la publicidad.",
       "difficulty": "10",
       "images": [],
@@ -440,18 +440,18 @@
         },
         {
           "letter": "C",
-          "text": "Es fallido porque existe una \"competencia\" entre el fondo y el texto, lo que dificulta la lectura y el procesamiento de la información.",
-          "is_correct": true,
-          "feedback": "El contraste entre figura y fondo es clave en el diseño visual. Aquí, el texto gris sobre una imagen detallada se pierde."
-        },
-        {
-          "letter": "D",
           "text": "Es adecuado siempre y cuando el profesor lea el texto en voz alta para los estudiantes.",
           "is_correct": false,
           "feedback": "Si el diseño visual falla, la diapositiva no cumple su función como apoyo multimodal independiente."
+        },
+        {
+          "letter": "D",
+          "text": "Es fallido porque existe una \"competencia\" entre el fondo y el texto, lo que dificulta la lectura y el procesamiento de la información.",
+          "is_correct": true,
+          "feedback": "El contraste entre figura y fondo es clave en el diseño visual. Aquí, el texto gris sobre una imagen detallada se pierde."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La efectividad de un texto multimodal depende del equilibrio entre sus componentes. Cuando un modo (la imagen de fondo) domina sobre otro (el texto informativo) sin un contraste adecuado, el propósito comunicativo se ve comprometido.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :---: | :--- |\n| Técnico | 30/30 | Formato v5.2 correcto, IDs y estructura validados. |\n| Curricular | 40/40 | Tema de análisis multimodal abordado con profundidad para grado 7. |\n| Contexto | 20/20 | Ejemplos locales (café colombiano, Armenia, Pasto, Bogotá) y situaciones cotidianas. |\n| Redacción | 10/10 | Preguntas claras y explicaciones pedagógicas sólidas. |\n| **Total** | **100/100** | |",
       "difficulty": "10",
       "images": [],

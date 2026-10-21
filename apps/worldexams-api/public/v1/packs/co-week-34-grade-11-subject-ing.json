@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W34-biodiversity-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on biodiversity in Bucaramanga, what is implied about the role of Complex Noun Phrases in shaping public opinion?",
-      "context": "Discussing biodiversity in Bucaramanga.",
+      "statement": "Read the text and answer the question.\n\n\"Near Bucaramanga, the dry forests of the Chicamocha Canyon are home to a small brown bird called Niceforo's wren. It lives nowhere else in the world, and it is one of the most threatened birds in Colombia. The main danger is the loss of the low bushes where it builds its nests, as land is cleared for goats and crops. A local foundation now pays some farmers to leave strips of native vegetation on their land. Biologists say these strips work like small bridges between patches of forest.\"\n\nWhy does the foundation pay farmers?",
+      "context": "Reading a short text about an endangered bird near Bucaramanga.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats Complex Noun Phrases as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "To raise more goats in the canyon.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "Incorrect. Clearing land for goats is described as the main danger to the bird, so the foundation would not pay for more goats."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "To cut the low bushes and use them for firewood.",
           "is_correct": false,
-          "feedback": "Complex Noun Phrases add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "Incorrect. The bushes are where the wren builds its nests, so cutting them would increase the threat instead of reducing it."
+        },
+        {
+          "letter": "C",
+          "text": "To keep strips of native vegetation that connect patches of forest.",
+          "is_correct": true,
+          "feedback": "Correct. The text says farmers are paid to leave native vegetation, and biologists compare these strips to bridges between forest patches."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bogotá.",
+          "text": "To catch the birds and move them to a zoo.",
           "is_correct": false,
-          "feedback": "The report presents Complex Noun Phrases as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "Incorrect. Nothing in the text mentions capturing the wren; the strategy is to protect its habitat where it lives."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "To answer, find the sentence about the foundation and connect it with the problem described before it. The wren is threatened because its bushes are cleared, so paying farmers to keep native vegetation directly addresses that cause. The final sentence explains why the strips matter: they connect habitats.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-11-2026-W34-biodiversity-001-MASTERY-bundle-v6",
-      "statement": "According to a recent report on biodiversity in Cartagena, what is implied about the role of Complex Noun Phrases in shaping public opinion?",
-      "context": "Discussing biodiversity in Cartagena.",
+      "statement": "Read the text and answer the question.\n\n\"Around the Ciénaga de la Virgen near Cartagena, mangrove forests grow where fresh water meets the sea. Their tangled roots protect the coast from waves and give young fish a safe place to grow. In recent decades, many mangroves were cut down to build houses and roads. Now, groups of local fishermen are planting new mangrove seedlings. 'If the mangroves disappear, the fish disappear, and so does our work,' explains Rafael, one of the volunteers.\"\n\nWhat can be inferred about why the fishermen plant mangroves?",
+      "context": "Reading a short text about mangroves near Cartagena.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats Complex Noun Phrases as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "They want to sell the wood to build houses.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "Incorrect. Cutting mangroves for construction is what caused the problem; the fishermen are planting them, not harvesting them."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "The national government ordered them to do it.",
           "is_correct": false,
-          "feedback": "Complex Noun Phrases add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "Incorrect. The text calls Rafael a volunteer and mentions no order from any government."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Barranquilla.",
+          "text": "They need more space to build roads.",
           "is_correct": false,
-          "feedback": "The report presents Complex Noun Phrases as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "Incorrect. Roads replaced mangroves in the past, so planting mangroves would take space away from roads, not create it."
+        },
+        {
+          "letter": "D",
+          "text": "Healthy mangroves help protect their source of income.",
+          "is_correct": true,
+          "feedback": "Correct. Mangroves shelter young fish, and Rafael says that without mangroves the fish, and their work, disappear."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "The inference comes from linking two ideas: mangrove roots are a nursery for young fish, and Rafael says that losing the fish means losing 'our work'. So the fishermen protect mangroves because their jobs depend on them, even though the text never uses the word 'income'.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -331,36 +331,36 @@
     },
     {
       "id": "CO-ING-11-2026-W34-biodiversity-001-MASTERY-bundle-v8",
-      "statement": "According to a recent report on biodiversity in Barranquilla, what is implied about the role of Complex Noun Phrases in shaping public opinion?",
-      "context": "Discussing biodiversity in Barranquilla.",
+      "statement": "Read the text and answer the question.\n\n\"The Magdalena River carries water, sand and nutrients from the Andes to the Caribbean near Barranquilla. In the wetlands where it meets the sea, scientists have recorded manatees, caimans and more than a hundred species of birds. However, these wetlands are fragile. When rubbish and chemicals from factories reach the water, fish die and the animals that eat them must move elsewhere. Environmental groups are asking companies to treat their waste before it is released into the river.\"\n\nIn the text, what does \"fragile\" mean?",
+      "context": "Reading a short text about wetlands near Barranquilla.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats Complex Noun Phrases as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Very large and difficult to cross.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "Incorrect. The text describes how pollution harms the wetlands, not their size or how hard they are to cross."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Full of tourists all year.",
           "is_correct": false,
-          "feedback": "Complex Noun Phrases add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "Incorrect. Tourists are never mentioned; 'fragile' describes how the ecosystem reacts to damage."
+        },
+        {
+          "letter": "C",
+          "text": "Easily damaged or harmed.",
+          "is_correct": true,
+          "feedback": "Correct. The sentence after 'fragile' shows that rubbish and chemicals quickly kill fish and drive animals away, so the wetlands are easily damaged."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Cartagena.",
+          "text": "Dangerous for people to visit.",
           "is_correct": false,
-          "feedback": "The report presents Complex Noun Phrases as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "Incorrect. The danger in the text is to the animals and the water, not to human visitors."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "'However' signals a contrast: the wetlands are rich in life, but they are fragile. The next sentence gives an example of that fragility, since pollution kills fish and forces animals to leave. Reading the example after a difficult word is an effective way to guess its meaning.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -377,36 +377,36 @@
     },
     {
       "id": "CO-ING-11-2026-W34-biodiversity-001-MASTERY-bundle-v9",
-      "statement": "According to a recent report on biodiversity in Manizales, what is implied about the role of Complex Noun Phrases in shaping public opinion?",
-      "context": "Discussing biodiversity in Manizales.",
+      "statement": "Read the text and answer the question.\n\n\"Above Manizales, at more than 3,500 metres, lies the páramo, a cold ecosystem full of plants called frailejones. These plants grow very slowly, often about one centimetre a year, and they capture water from fog and release it little by little into streams. Much of the water used in nearby towns starts in the páramo. For this reason, park rangers ask visitors to stay on marked trails, because a single footstep can damage a plant that took decades to grow.\"\n\nAccording to the text, why do rangers ask visitors to stay on the trails?",
+      "context": "Reading a short text about the páramo near Manizales.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats Complex Noun Phrases as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Because the trails lead to the best places for photos.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "Incorrect. Photography is never mentioned; the rangers' reason is the protection of the plants."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Because visitors could get lost in the fog.",
           "is_correct": false,
-          "feedback": "Complex Noun Phrases add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "Incorrect. Fog is mentioned as a source of water for the plants, not as a danger to visitors."
+        },
+        {
+          "letter": "C",
+          "text": "Because stepping on slow-growing plants can damage them for many years.",
+          "is_correct": true,
+          "feedback": "Correct. The last sentence says one footstep can damage a plant that took decades to grow, since frailejones grow about 1 cm a year."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Manizales.",
+          "text": "Because the frailejones are dangerous to touch.",
           "is_correct": false,
-          "feedback": "The report presents Complex Noun Phrases as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "Incorrect. The text presents the plants as vulnerable, not as dangerous to people."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "The answer is in the sentence that begins 'For this reason', which connects the rule (stay on the trails) to its cause. Because frailejones grow so slowly and are important for the water supply, a small amount of damage takes decades to recover.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -473,12 +473,6 @@
       "context": "Discussing biodiversity in Medellín.",
       "options": [
         {
-          "letter": "C",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -489,6 +483,12 @@
           "text": "was",
           "is_correct": false,
           "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+        },
+        {
+          "letter": "C",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
         },
         {
           "letter": "D",
@@ -749,32 +749,32 @@
       "context": "Discussing biodiversity in Cali.",
       "options": [
         {
-          "letter": "B",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
           "text": "They are literally looking for something in the trees of Medellín.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads the idiom literally; nobody in the debate is searching real trees, because the expression is figurative and describes a mistaken line of action."
+        },
+        {
+          "letter": "B",
+          "text": "The current strategy is directed towards the wrong objective.",
+          "is_correct": true,
+          "feedback": "Correct. 'Bark up the wrong tree' means aiming your effort at the wrong cause or target, so the speaker is saying the current plan on biodiversity points in the wrong direction."
         },
         {
           "letter": "C",
           "text": "The approach is too noisy and aggressive.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. 'Barking' here does not describe a loud or aggressive tone; the idiom is about choosing the wrong objective, not about how people speak."
         },
         {
           "letter": "D",
           "text": "A new environmental project involving trees should be started.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The word 'tree' belongs to a fixed expression, so the speaker is not proposing a project with trees; the speaker is criticising the approach under discussion."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "The idiom 'bark up the wrong tree' comes from hunting dogs that bark at a tree after the animal has escaped to another one. In a debate about biodiversity, it means the group's effort is aimed at the wrong cause or solution. The literal words (barking, trees) are not part of the message, so any option that mentions real trees or noise misreads the idiom.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-ING-11-2026-W34-biodiversity-001-MASTERY-bundle-v18",
-      "statement": "In a high-level debate about biodiversity, Valentina says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Valentina mean?",
-      "context": "Discussing biodiversity in Manizales.",
+      "statement": "Read the dialogue.\n\nNatalia: \"Why is the university counting the frogs in the páramo every month?\"\nResearcher: \"Several species are disappearing. If we don't act now, some of them could die out completely.\"\n\nWhat does \"die out\" mean here?",
+      "context": "A conversation about frog monitoring in Manizales.",
       "options": [
         {
           "letter": "A",
-          "text": "The current strategy is directed towards the wrong objective.",
+          "text": "Stop existing completely as a species.",
           "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "feedback": "Correct. 'Die out' means to disappear until no members of a species remain, and 'completely' reinforces that meaning."
         },
         {
           "letter": "B",
-          "text": "They are literally looking for something in the trees of Manizales.",
+          "text": "Leave the páramo and live in the city.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. 'Out' does not mean moving to another place here; the phrasal verb refers to extinction."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Die only during the dry season.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. 'Die out' describes a permanent loss of a whole species, not deaths during one season."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Become larger in number.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. This is the opposite meaning; the researcher says the species are 'disappearing'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "The phrasal verb 'die out' means to become less common until it disappears completely, and it is often used for species, languages or traditions. The context 'several species are disappearing' and the word 'completely' point to extinction.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -883,36 +883,36 @@
     },
     {
       "id": "CO-ING-11-2026-W34-biodiversity-001-MASTERY-bundle-v20",
-      "statement": "In a high-level debate about biodiversity, Mateo says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mateo mean?",
-      "context": "Discussing biodiversity in Cali.",
+      "statement": "Read the dialogue.\n\nTomás: \"Our class planted fifty trees along the Cali River this weekend!\"\nTeacher: \"That's wonderful, but compared with the forest lost every year, it's just a drop in the ocean. We need bigger changes too.\"\n\nWhat does the teacher mean?",
+      "context": "A conversation about tree planting in Cali.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Manizales.",
+          "text": "The trees will be washed into the sea.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads 'drop in the ocean' literally; the idiom describes size, not water carrying the trees away."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Planting trees is a waste of time and should stop.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. The teacher calls it 'wonderful', so she values the action; she only says it is not enough."
         },
         {
           "letter": "C",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "The river has too much water.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The idiom does not refer to the amount of water in the river."
+        },
+        {
+          "letter": "D",
+          "text": "The action is positive but very small compared with the size of the problem.",
+          "is_correct": true,
+          "feedback": "Correct. 'A drop in the ocean' means a very small amount compared with what is needed, and 'we need bigger changes too' confirms this."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'A drop in the ocean' is an idiom for a contribution that is tiny compared with the whole problem. The teacher praises the students ('That's wonderful') and then uses 'but' to add that much larger actions are needed. Understanding the contrast is essential to interpret her attitude.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

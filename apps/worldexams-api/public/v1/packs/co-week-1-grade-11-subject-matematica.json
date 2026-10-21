@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle-v1",
-      "statement": "¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 1$?",
-      "context": "En la ciudad de Bogotá, se analiza el crecimiento de una población de bacterias.",
+      "statement": "Cada relación está escrita como pares (entrada, salida). ¿Cuál de ellas representa una función de la entrada?",
+      "context": "En un colegio de Medellín se registran parejas (código del estudiante, número de su salón) para organizar la jornada.",
       "options": [
         {
-          "letter": "B",
-          "text": "3",
-          "is_correct": true,
-          "feedback": "Se evalúa la función reemplazando x por 1."
+          "letter": "A",
+          "text": "$(1,4),\\ (1,5),\\ (2,6)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La entrada 1 tiene dos salidas distintas (4 y 5); una función asigna exactamente una salida a cada entrada."
         },
         {
-          "letter": "A",
-          "text": "2",
-          "is_correct": false,
-          "feedback": "Falta sumar 1."
+          "letter": "B",
+          "text": "$(1,4),\\ (2,4),\\ (3,5)$",
+          "is_correct": true,
+          "feedback": "Correcto. Cada entrada (1, 2 y 3) aparece una sola vez; que dos entradas compartan la salida 4 está permitido en una función."
         },
         {
           "letter": "C",
-          "text": "4",
+          "text": "$(0,1),\\ (3,2),\\ (0,7)$",
           "is_correct": false,
-          "feedback": "Se sumó 2 en lugar de 1."
+          "feedback": "Incorrecto. La entrada 0 se repite con salidas 1 y 7, así que esa entrada no tiene una imagen única."
         },
         {
           "letter": "D",
-          "text": "5",
+          "text": "$(5,1),\\ (6,2),\\ (5,3)$",
           "is_correct": false,
-          "feedback": "No se multiplicó por 2."
+          "feedback": "Incorrecto. La entrada 5 se asocia con 1 y con 3; repetir una entrada con salidas distintas rompe la definición de función."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y se realiza la operación aritmética. En este caso, $2(1) + 1 = 3$.",
+      "explanation": "Una relación es función cuando cada elemento de la entrada tiene una y solo una salida. Se revisa si alguna primera coordenada se repite con segundas coordenadas diferentes: en A se repite 1, en C se repite 0 y en D se repite 5. En B las entradas 1, 2 y 3 son distintas; que 1 y 2 vayan ambas a 4 no viola la definición (eso solo impide que sea inyectiva).",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Numerico",
-      "expected_success": 0.8,
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
       "bundle_id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -55,42 +55,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle-v2",
-      "statement": "¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 2$?",
-      "context": "En la ciudad de Bogotá, se analiza el crecimiento de una población de bacterias.",
+      "statement": "Un usuario consumió 3,5 gigas adicionales en el mes. ¿Cuánto paga, es decir, cuánto vale $C(3{,}5)$?",
+      "context": "Un operador de telefonía en Bogotá cobra $C(g) = 15\\,000 + 4\\,000g$ pesos al mes, donde $g$ son las gigas adicionales consumidas.",
       "options": [
         {
-          "letter": "B",
-          "text": "5",
-          "is_correct": true,
-          "feedback": "Se evalúa la función reemplazando x por 2."
+          "letter": "A",
+          "text": "19 000 COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se tomó una sola giga: $15\\,000 + 4\\,000 = 19\\,000$; hay que multiplicar 4 000 por 3,5."
         },
         {
-          "letter": "A",
-          "text": "4",
+          "letter": "B",
+          "text": "66 500 COP",
           "is_correct": false,
-          "feedback": "Falta sumar 1."
+          "feedback": "Incorrecto. Se multiplicó todo el cargo por 3,5: $(15\\,000 + 4\\,000)(3{,}5)$; el cargo fijo de 15 000 no depende de las gigas."
         },
         {
           "letter": "C",
-          "text": "6",
-          "is_correct": false,
-          "feedback": "Se sumó 2 en lugar de 1."
+          "text": "29 000 COP",
+          "is_correct": true,
+          "feedback": "Correcto. $C(3{,}5) = 15\\,000 + 4\\,000(3{,}5) = 15\\,000 + 14\\,000 = 29\\,000$ pesos."
         },
         {
           "letter": "D",
-          "text": "11",
+          "text": "14 000 COP",
           "is_correct": false,
-          "feedback": "No se multiplicó por 2."
+          "feedback": "Incorrecto. Ese es solo el cobro variable $4\\,000(3{,}5)$; se olvidó sumar el cargo fijo de 15 000 COP."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y se realiza la operación aritmética. En este caso, $2(2) + 1 = 5$.",
+      "correct_answer": "C",
+      "explanation": "Evaluar una función es reemplazar la variable por el valor dado y respetar el orden de operaciones. Aquí $C(3{,}5) = 15\\,000 + 4\\,000 \\cdot 3{,}5$. Primero el producto: $4\\,000 \\cdot 3{,}5 = 14\\,000$; luego la suma con el cargo fijo: $15\\,000 + 14\\,000 = 29\\,000$ COP.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Understand",
       "icfes_type": "Numerico",
-      "expected_success": 0.8,
+      "expected_success": 0.83,
       "bundle_id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -101,41 +101,41 @@
     },
     {
       "id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle-v3",
-      "statement": "¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 3$?",
-      "context": "En la ciudad de Bogotá, se analiza el crecimiento de una población de bacterias.",
+      "statement": "¿Cuál es el dominio de $f(x) = \\frac{\\sqrt{x-4}}{x-9}$ en los números reales?",
+      "context": "Un ingeniero en Barranquilla usa $f(x) = \\dfrac{\\sqrt{x-4}}{x-9}$ para modelar la presión en una tubería, y necesita saber qué valores de $x$ puede usar.",
       "options": [
         {
-          "letter": "C",
-          "text": "7",
-          "is_correct": true,
-          "feedback": "Se evalúa la función reemplazando x por 3."
-        },
-        {
           "letter": "A",
-          "text": "6",
+          "text": "$[4, \\infty)$",
           "is_correct": false,
-          "feedback": "Falta sumar 1."
+          "feedback": "Incorrecto. Se tuvo en cuenta la raíz, pero se olvidó que el denominador se anula en $x = 9$, donde $f$ no está definida."
         },
         {
           "letter": "B",
-          "text": "8",
+          "text": "$\\mathbb{R} - \\{9\\}$",
           "is_correct": false,
-          "feedback": "Se sumó 2 en lugar de 1."
+          "feedback": "Incorrecto. Se excluyó solo el cero del denominador; los valores $x < 4$ dan raíz de un número negativo, que no es real."
+        },
+        {
+          "letter": "C",
+          "text": "$(4, 9) \\cup (9, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se excluyó $x = 4$ sin razón: $\\sqrt{4-4} = 0$ es válido y $f(4) = 0/(-5) = 0$ existe."
         },
         {
           "letter": "D",
-          "text": "12",
-          "is_correct": false,
-          "feedback": "No se multiplicó por 2."
+          "text": "$[4, 9) \\cup (9, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. La raíz exige $x - 4 \\ge 0$, es decir $x \\ge 4$, y el denominador exige $x \\neq 9$."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y se realiza la operación aritmética. En este caso, $2(3) + 1 = 7$.",
+      "correct_answer": "D",
+      "explanation": "El dominio reúne dos condiciones. Raíz cuadrada: $x - 4 \\ge 0 \\Rightarrow x \\ge 4$. Denominador distinto de cero: $x - 9 \\neq 0 \\Rightarrow x \\neq 9$. La intersección es $[4, 9) \\cup (9, \\infty)$. El extremo 4 se incluye porque $f(4) = 0$ está definido.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Numerico",
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
       "expected_success": 0.8,
       "bundle_id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle",
       "periodo": 1,
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle-v4",
-      "statement": "¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 4$?",
-      "context": "En la ciudad de Bogotá, se analiza el crecimiento de una población de bacterias.",
+      "statement": "¿Cuál es el rango de $E(x) = x^2 + 3$ cuando $x$ recorre todos los números reales?",
+      "context": "En un laboratorio de la Universidad del Valle en Cali, la energía de un sistema se modela con $E(x) = x^2 + 3$ julios, con $x$ real.",
       "options": [
         {
-          "letter": "D",
-          "text": "9",
-          "is_correct": true,
-          "feedback": "Se evalúa la función reemplazando x por 4."
-        },
-        {
           "letter": "A",
-          "text": "8",
-          "is_correct": false,
-          "feedback": "Falta sumar 1."
+          "text": "$[3, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. Como $x^2 \\ge 0$, se tiene $x^2 + 3 \\ge 3$, y el valor 3 se alcanza en $x = 0$."
         },
         {
           "letter": "B",
-          "text": "10",
+          "text": "$\\mathbb{R}$",
           "is_correct": false,
-          "feedback": "Se sumó 2 en lugar de 1."
+          "feedback": "Incorrecto. Ese es el dominio; la salida nunca es menor que 3 porque $x^2$ no puede ser negativo."
         },
         {
           "letter": "C",
-          "text": "13",
+          "text": "$[0, \\infty)$",
           "is_correct": false,
-          "feedback": "No se multiplicó por 2."
+          "feedback": "Incorrecto. Ese es el rango de $x^2$; al sumar 3 toda la gráfica sube 3 unidades, así que el mínimo es 3."
+        },
+        {
+          "letter": "D",
+          "text": "$(3, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 3 sí pertenece al rango porque $E(0) = 0 + 3 = 3$; el intervalo debe ser cerrado en 3."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y se realiza la operación aritmética. En este caso, $2(4) + 1 = 9$.",
+      "correct_answer": "A",
+      "explanation": "El rango es el conjunto de salidas. Para todo real, $x^2 \\ge 0$; sumando 3 queda $E(x) \\ge 3$. El mínimo 3 se alcanza en $x = 0$, y para cualquier $y \\ge 3$ existe $x = \\sqrt{y - 3}$ con $E(x) = y$. Por eso el rango es $[3, \\infty)$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Numerico",
-      "expected_success": 0.8,
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
       "bundle_id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 5$?",
-      "context": "En la ciudad de Bogotá, se analiza el crecimiento de una población de bacterias.",
+      "statement": "El precio final es $(I \\circ D)(120\\,000) = I(D(120\\,000))$. ¿Cuál es ese precio?",
+      "context": "En un almacén de Cali aplican primero un descuento $D(p) = p - 20\\,000$ y luego el IVA $I(p) = 1{,}19p$ sobre un artículo de $p = 120\\,000$ pesos.",
       "options": [
         {
-          "letter": "C",
-          "text": "11",
-          "is_correct": true,
-          "feedback": "Se evalúa la función reemplazando x por 5."
-        },
-        {
           "letter": "A",
-          "text": "10",
-          "is_correct": false,
-          "feedback": "Falta sumar 1."
+          "text": "119 000 COP",
+          "is_correct": true,
+          "feedback": "Correcto. $D(120\\,000) = 100\\,000$ y luego $I(100\\,000) = 1{,}19 \\cdot 100\\,000 = 119\\,000$."
         },
         {
           "letter": "B",
-          "text": "12",
+          "text": "122 800 COP",
           "is_correct": false,
-          "feedback": "Se sumó 2 en lugar de 1."
+          "feedback": "Incorrecto. Se aplicó el IVA primero y el descuento después: $1{,}19 \\cdot 120\\,000 - 20\\,000$, que es $D(I(p))$ y no $I(D(p))$."
+        },
+        {
+          "letter": "C",
+          "text": "142 800 COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo se aplicó el IVA, $1{,}19 \\cdot 120\\,000$; se omitió la función interna $D$."
         },
         {
           "letter": "D",
-          "text": "9",
+          "text": "100 000 COP",
           "is_correct": false,
-          "feedback": "No se multiplicó por 2."
+          "feedback": "Incorrecto. Solo se calculó $D(120\\,000)$; faltó aplicar la función externa $I$ a ese resultado."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y se realiza la operación aritmética. En este caso, $2(5) + 1 = 11$.",
+      "correct_answer": "A",
+      "explanation": "En $(I \\circ D)(p)$ se aplica primero la función de adentro, $D$, y luego $I$. Paso 1: $D(120\\,000) = 120\\,000 - 20\\,000 = 100\\,000$. Paso 2: $I(100\\,000) = 1{,}19 \\cdot 100\\,000 = 119\\,000$ COP. El orden importa: $D(I(120\\,000)) = 122\\,800$, otro valor.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Numerico",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
       "bundle_id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle-v6",
-      "statement": "¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 6$?",
-      "context": "En la ciudad de Bogotá, se analiza el crecimiento de una población de bacterias.",
+      "statement": "¿Cuál expresión da $C$ en función de $F$?",
+      "context": "Una agencia de turismo en Bogotá convierte temperaturas con $F = 1{,}8C + 32$ y quiere la fórmula inversa para pasar de grados Fahrenheit a Celsius.",
       "options": [
         {
-          "letter": "C",
-          "text": "13",
-          "is_correct": true,
-          "feedback": "Se evalúa la función reemplazando x por 6."
-        },
-        {
           "letter": "A",
-          "text": "12",
+          "text": "$C = 1{,}8F - 32$",
           "is_correct": false,
-          "feedback": "Falta sumar 1."
+          "feedback": "Incorrecto. Se cambiaron las letras sin despejar; la inversa deshace las operaciones en orden contrario: restar 32 y luego dividir entre 1,8."
         },
         {
           "letter": "B",
-          "text": "14",
+          "text": "$C = \\dfrac{F}{1{,}8} - 32$",
           "is_correct": false,
-          "feedback": "Se sumó 2 en lugar de 1."
+          "feedback": "Incorrecto. Se dividió antes de restar 32; como el 32 se sumó al final, debe quitarse primero: $(F - 32)/1{,}8$."
+        },
+        {
+          "letter": "C",
+          "text": "$C = \\dfrac{F - 32}{1{,}8}$",
+          "is_correct": true,
+          "feedback": "Correcto. De $F = 1{,}8C + 32$ se resta 32 y se divide entre 1,8: $C = (F-32)/1{,}8$."
         },
         {
           "letter": "D",
-          "text": "10",
+          "text": "$C = \\dfrac{F + 32}{1{,}8}$",
           "is_correct": false,
-          "feedback": "No se multiplicó por 2."
+          "feedback": "Incorrecto. Al pasar el 32 al otro lado se conservó el signo; debe restarse porque en la fórmula original se suma."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y se realiza la operación aritmética. En este caso, $2(6) + 1 = 13$.",
+      "explanation": "Para hallar la inversa se despeja la variable original. $F = 1{,}8C + 32 \\Rightarrow F - 32 = 1{,}8C \\Rightarrow C = \\frac{F-32}{1{,}8}$. Comprobación: si $C = 20$, $F = 68$, y $\\frac{68 - 32}{1{,}8} = 20$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Numerico",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.72,
       "bundle_id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle-v7",
-      "statement": "¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 7$?",
-      "context": "En la ciudad de Bogotá, se analiza el crecimiento de una población de bacterias.",
+      "statement": "Una familia consumió 20 m³ en el mes. ¿Cuánto paga por el consumo?",
+      "context": "El acueducto de un municipio antioqueño cobra 3 000 pesos por m³ en los primeros 13 m³ (consumo básico) y 4 500 pesos por cada m³ que exceda los 13.",
       "options": [
         {
-          "letter": "D",
-          "text": "15",
-          "is_correct": true,
-          "feedback": "Se evalúa la función reemplazando x por 7."
-        },
-        {
           "letter": "A",
-          "text": "14",
-          "is_correct": false,
-          "feedback": "Falta sumar 1."
+          "text": "70 500 COP",
+          "is_correct": true,
+          "feedback": "Correcto. $13 \\cdot 3\\,000 + (20 - 13) \\cdot 4\\,500 = 39\\,000 + 31\\,500 = 70\\,500$."
         },
         {
           "letter": "B",
-          "text": "16",
+          "text": "90 000 COP",
           "is_correct": false,
-          "feedback": "Se sumó 2 en lugar de 1."
+          "feedback": "Incorrecto. Se cobraron los 20 m³ a la tarifa alta, $20 \\cdot 4\\,500$; los primeros 13 m³ van a 3 000."
         },
         {
           "letter": "C",
-          "text": "11",
+          "text": "60 000 COP",
           "is_correct": false,
-          "feedback": "No se multiplicó por 2."
+          "feedback": "Incorrecto. Se cobraron los 20 m³ a la tarifa básica, $20 \\cdot 3\\,000$; el exceso de 7 m³ se cobra a 4 500."
+        },
+        {
+          "letter": "D",
+          "text": "129 000 COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó $13 \\cdot 3\\,000 + 20 \\cdot 4\\,500$, cobrando dos veces los primeros 13 m³; la tarifa alta solo aplica al exceso."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y se realiza la operación aritmética. En este caso, $2(7) + 1 = 15$.",
+      "correct_answer": "A",
+      "explanation": "La tarifa es una función a trozos: $T(x) = 3\\,000x$ si $x \\le 13$ y $T(x) = 39\\,000 + 4\\,500(x - 13)$ si $x > 13$. Como $20 > 13$, se usa el segundo trozo: $T(20) = 39\\,000 + 4\\,500 \\cdot 7 = 39\\,000 + 31\\,500 = 70\\,500$ COP.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Numerico",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.7,
       "bundle_id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle-v8",
-      "statement": "¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 8$?",
-      "context": "En la ciudad de Bogotá, se analiza el crecimiento de una población de bacterias.",
+      "statement": "Si el volumen $V$ cambia de forma lineal con las horas $h$, ¿qué función lo describe?",
+      "context": "En una finca de Boyacá se registra el agua de un tanque mientras se riega: a las 0 h hay 1 200 L, a las 2 h hay 1 050 L y a las 5 h hay 825 L.",
       "options": [
         {
-          "letter": "B",
-          "text": "17",
-          "is_correct": true,
-          "feedback": "Se evalúa la función reemplazando x por 8."
+          "letter": "A",
+          "text": "$V(h) = 1\\,200 - 150h$",
+          "is_correct": false,
+          "feedback": "Incorrecto. 150 L es lo que baja en 2 horas; la pendiente por hora es $-150/2 = -75$ L/h."
         },
         {
-          "letter": "A",
-          "text": "16",
+          "letter": "B",
+          "text": "$V(h) = 1\\,200 + 75h$",
           "is_correct": false,
-          "feedback": "Falta sumar 1."
+          "feedback": "Incorrecto. El signo de la pendiente está mal: el volumen disminuye, así que la razón de cambio es negativa."
         },
         {
           "letter": "C",
-          "text": "18",
+          "text": "$V(h) = 1\\,050 - 75h$",
           "is_correct": false,
-          "feedback": "Se sumó 2 en lugar de 1."
+          "feedback": "Incorrecto. 1 050 es el volumen a las 2 h; el valor inicial (en $h = 0$) es 1 200 L."
         },
         {
           "letter": "D",
-          "text": "12",
-          "is_correct": false,
-          "feedback": "No se multiplicó por 2."
+          "text": "$V(h) = 1\\,200 - 75h$",
+          "is_correct": true,
+          "feedback": "Correcto. Pendiente $(1\\,050 - 1\\,200)/(2 - 0) = -75$, intercepto 1 200; además $V(5) = 1\\,200 - 375 = 825$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y se realiza la operación aritmética. En este caso, $2(8) + 1 = 17$.",
+      "correct_answer": "D",
+      "explanation": "Una función lineal es $V(h) = mh + b$. La pendiente es $m = \\frac{1\\,050 - 1\\,200}{2 - 0} = -75$ L/h y $b = V(0) = 1\\,200$. Se comprueba con el tercer dato: $V(5) = 1\\,200 - 75 \\cdot 5 = 825$ L, que coincide con la tabla.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Numerico",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.68,
       "bundle_id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -377,42 +377,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle-v9",
-      "statement": "¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 9$?",
-      "context": "En la ciudad de Bogotá, se analiza el crecimiento de una población de bacterias.",
+      "statement": "¿Cuál es la ganancia diaria máxima que puede obtener?",
+      "context": "Un vendedor de jugos en Cartagena estima su ganancia diaria con $G(x) = -2x^2 + 120x - 1\\,000$, en miles de pesos, donde $x$ es el precio del vaso en miles de pesos.",
       "options": [
         {
           "letter": "A",
-          "text": "19",
-          "is_correct": true,
-          "feedback": "Se evalúa la función reemplazando x por 9."
+          "text": "30 mil pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. 30 es el precio que maximiza, $x = -120/(2 \\cdot (-2))$; la pregunta pide la ganancia $G(30)$."
         },
         {
           "letter": "B",
-          "text": "18",
+          "text": "$-1\\,000$ mil pesos",
           "is_correct": false,
-          "feedback": "Falta sumar 1."
+          "feedback": "Incorrecto. Se usó $x = 60$ al calcular el vértice sin el factor 2 ($-120/(-2)$); $G(60) = -1\\,000$ no es el máximo."
         },
         {
           "letter": "C",
-          "text": "20",
-          "is_correct": false,
-          "feedback": "Se sumó 2 en lugar de 1."
+          "text": "800 mil pesos",
+          "is_correct": true,
+          "feedback": "Correcto. Vértice en $x = 30$ y $G(30) = -2(900) + 3\\,600 - 1\\,000 = 800$."
         },
         {
           "letter": "D",
-          "text": "13",
+          "text": "4 400 mil pesos",
           "is_correct": false,
-          "feedback": "No se multiplicó por 2."
+          "feedback": "Incorrecto. Se tomó $-2 \\cdot 30^2$ como $+1\\,800$; el término cuadrático resta: $-1\\,800 + 3\\,600 - 1\\,000 = 800$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y se realiza la operación aritmética. En este caso, $2(9) + 1 = 19$.",
+      "correct_answer": "C",
+      "explanation": "Como $a = -2 < 0$, la parábola abre hacia abajo y el máximo está en el vértice: $x = -\\frac{b}{2a} = -\\frac{120}{2(-2)} = 30$. Entonces $G(30) = -2(30)^2 + 120(30) - 1\\,000 = -1\\,800 + 3\\,600 - 1\\,000 = 800$ mil pesos.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Numerico",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.66,
       "bundle_id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -423,42 +423,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 10$?",
-      "context": "En la ciudad de Bogotá, se analiza el crecimiento de una población de bacterias.",
+      "statement": "El área es $A(x) = x(500 - 2x)$. ¿Cuál es el dominio que tiene sentido en esta situación?",
+      "context": "Una cooperativa del Huila tiene 500 m de malla para cercar un corral rectangular junto a un río; el lado del río no se cerca y $x$ es el ancho perpendicular al río.",
       "options": [
         {
           "letter": "A",
-          "text": "21",
-          "is_correct": true,
-          "feedback": "Se evalúa la función reemplazando x por 10."
+          "text": "$(0, 500)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si $x > 250$, el largo $500 - 2x$ es negativo; con dos anchos de $x$ la malla se agota en $x = 250$."
         },
         {
           "letter": "B",
-          "text": "20",
+          "text": "$[0, \\infty)$",
           "is_correct": false,
-          "feedback": "Falta sumar 1."
+          "feedback": "Incorrecto. Solo hay 500 m de malla, así que $x$ no puede crecer sin límite, y con $x = 0$ no hay corral."
         },
         {
           "letter": "C",
-          "text": "22",
-          "is_correct": false,
-          "feedback": "Se sumó 2 en lugar de 1."
+          "text": "$(0, 250)$",
+          "is_correct": true,
+          "feedback": "Correcto. Se necesita $x > 0$ y largo $500 - 2x > 0$, es decir $x < 250$."
         },
         {
           "letter": "D",
-          "text": "14",
+          "text": "$(0, 125]$",
           "is_correct": false,
-          "feedback": "No se multiplicó por 2."
+          "feedback": "Incorrecto. 125 es el ancho que maximiza el área, no el límite del dominio; anchos entre 125 y 250 también forman corrales válidos."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y se realiza la operación aritmética. En este caso, $2(10) + 1 = 21$.",
+      "correct_answer": "C",
+      "explanation": "Las medidas del corral deben ser positivas: ancho $x > 0$ y largo $500 - 2x > 0 \\Rightarrow x < 250$. Por eso el dominio contextual es $(0, 250)$, aunque la expresión algebraica $x(500-2x)$ esté definida para todo real. El valor $x = 125$ da el área máxima, pero no limita el dominio.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Numerico",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.64,
       "bundle_id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -469,42 +469,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle-v11",
-      "statement": "¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 11$?",
-      "context": "En la ciudad de Bogotá, se analiza el crecimiento de una población de bacterias.",
+      "statement": "Con base en la tabla, ¿cuál afirmación es correcta?",
+      "context": "Un estudiante de Pereira resume en una tabla la función $f$: para $x = -2, -1, 0, 1, 2$ obtiene $f(x) = 3, 0, -1, 0, 3$.",
       "options": [
         {
-          "letter": "D",
-          "text": "23",
-          "is_correct": true,
-          "feedback": "Se evalúa la función reemplazando x por 11."
-        },
-        {
           "letter": "A",
-          "text": "22",
-          "is_correct": false,
-          "feedback": "Falta sumar 1."
+          "text": "$f$ no es inyectiva porque $f(-1) = f(1) = 0$; por eso no tiene inversa en ese dominio.",
+          "is_correct": true,
+          "feedback": "Correcto. Dos entradas distintas comparten la salida 0, así que la inversa no podría asignar a 0 una única entrada."
         },
         {
           "letter": "B",
-          "text": "24",
+          "text": "$f$ tiene inversa porque cada $x$ tiene una sola imagen.",
           "is_correct": false,
-          "feedback": "Se sumó 2 en lugar de 1."
+          "feedback": "Incorrecto. Eso solo prueba que $f$ es función; para tener inversa además debe ser inyectiva, y $f(-2) = f(2) = 3$ lo impide."
         },
         {
           "letter": "C",
-          "text": "15",
+          "text": "$f$ no es función porque la salida 0 aparece dos veces.",
           "is_correct": false,
-          "feedback": "No se multiplicó por 2."
+          "feedback": "Incorrecto. Repetir salidas está permitido; lo prohibido es que una entrada tenga dos salidas, y aquí cada $x$ tiene una."
+        },
+        {
+          "letter": "D",
+          "text": "$f$ es creciente en todo su dominio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. De $x = -2$ a $x = 0$ los valores bajan de 3 a $-1$, así que $f$ decrece en esa parte."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y se realiza la operación aritmética. En este caso, $2(11) + 1 = 23$.",
+      "correct_answer": "A",
+      "explanation": "Ser función significa que cada entrada tiene una salida; ser inyectiva significa que salidas iguales vienen de entradas iguales. La tabla cumple lo primero, pero $f(-1) = f(1) = 0$ y $f(-2) = f(2) = 3$ muestran que no es inyectiva. Sin inyectividad no existe la inversa en ese dominio, porque $f^{-1}(0)$ tendría dos valores.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Numerico",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.62,
       "bundle_id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -515,42 +515,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle-v12",
-      "statement": "¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 12$?",
-      "context": "En la ciudad de Bogotá, se analiza el crecimiento de una población de bacterias.",
+      "statement": "Si la pieza pasa primero por $g$ y luego por $f$, el resultado es $(f \\circ g)(x)$. ¿Cuál es su expresión?",
+      "context": "En una fábrica de Itagüí, la máquina $g$ resta 3 cm a una pieza, $g(x) = x - 3$, y la máquina $f$ calcula el área de un cuadrado de lado $x$, $f(x) = x^2$.",
       "options": [
         {
           "letter": "A",
-          "text": "25",
-          "is_correct": true,
-          "feedback": "Se evalúa la función reemplazando x por 12."
+          "text": "$x^2 - 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es $(g \\circ f)(x) = g(x^2)$: se aplicó primero $f$; en $f \\circ g$ primero actúa $g$."
         },
         {
           "letter": "B",
-          "text": "24",
+          "text": "$x^2 - 9$",
           "is_correct": false,
-          "feedback": "Falta sumar 1."
+          "feedback": "Incorrecto. Se elevó cada término por separado, $(x-3)^2 \\neq x^2 - 9$; falta el término doble $-6x$ y el signo de 9 es positivo."
         },
         {
           "letter": "C",
-          "text": "26",
+          "text": "$x^3 - 3x^2$",
           "is_correct": false,
-          "feedback": "Se sumó 2 en lugar de 1."
+          "feedback": "Incorrecto. Ese es el producto $f(x) \\cdot g(x) = x^2(x-3)$, no la composición."
         },
         {
           "letter": "D",
-          "text": "16",
-          "is_correct": false,
-          "feedback": "No se multiplicó por 2."
+          "text": "$x^2 - 6x + 9$",
+          "is_correct": true,
+          "feedback": "Correcto. $f(g(x)) = (x - 3)^2 = x^2 - 6x + 9$ por el cuadrado de un binomio."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y se realiza la operación aritmética. En este caso, $2(12) + 1 = 25$.",
+      "correct_answer": "D",
+      "explanation": "En la composición $f \\circ g$ se reemplaza la $x$ de $f$ por $g(x)$: $f(g(x)) = (x - 3)^2$. Al desarrollar el binomio, $(x-3)^2 = x^2 - 2 \\cdot 3x + 9 = x^2 - 6x + 9$. Como $(g \\circ f)(x) = x^2 - 3$ es diferente, la composición no es conmutativa.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Numerico",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.6,
       "bundle_id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -561,42 +561,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle-v13",
-      "statement": "¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 13$?",
-      "context": "En la ciudad de Bogotá, se analiza el crecimiento de una población de bacterias.",
+      "statement": "¿Qué modelo describe exactamente los cuatro datos?",
+      "context": "Un emprendimiento de artesanías en Pasto registra sus seguidores (en cientos) al final de cada mes $t$: $t = 0, 1, 2, 3$ da $y = 5, 8, 13, 20$.",
       "options": [
         {
           "letter": "A",
-          "text": "27",
-          "is_correct": true,
-          "feedback": "Se evalúa la función reemplazando x por 13."
+          "text": "$y = 3t + 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sirve para $t = 0$ y $t = 1$, pero $y(2) = 11 \\neq 13$; las diferencias 3, 5, 7 no son constantes, así que no es lineal."
         },
         {
           "letter": "B",
-          "text": "26",
-          "is_correct": false,
-          "feedback": "Falta sumar 1."
+          "text": "$y = t^2 + 2t + 5$",
+          "is_correct": true,
+          "feedback": "Correcto. Da 5, 8, 13 y 20; las segundas diferencias son constantes (2), señal de un modelo cuadrático."
         },
         {
           "letter": "C",
-          "text": "28",
+          "text": "$y = 5(1{,}6)^t$",
           "is_correct": false,
-          "feedback": "Se sumó 2 en lugar de 1."
+          "feedback": "Incorrecto. Coincide en $t = 1$, pero $5(1{,}6)^2 = 12{,}8 \\neq 13$; los cocientes $8/5$ y $13/8$ no son iguales."
         },
         {
           "letter": "D",
-          "text": "17",
+          "text": "$y = t^2 + 5$",
           "is_correct": false,
-          "feedback": "No se multiplicó por 2."
+          "feedback": "Incorrecto. Para $t = 1$ da $6 \\neq 8$; le falta el término lineal $2t$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y se realiza la operación aritmética. En este caso, $2(13) + 1 = 27$.",
+      "correct_answer": "B",
+      "explanation": "Las primeras diferencias son $8-5 = 3$, $13-8 = 5$, $20-13 = 7$ y las segundas son $2, 2$: un modelo cuadrático $y = at^2 + bt + c$ con $2a = 2$, así $a = 1$. Con $c = y(0) = 5$ y $y(1) = 1 + b + 5 = 8$ se obtiene $b = 2$. Verificación: $y(3) = 9 + 6 + 5 = 20$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Numerico",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.58,
       "bundle_id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -607,42 +607,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle-v14",
-      "statement": "¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 14$?",
-      "context": "En la ciudad de Bogotá, se analiza el crecimiento de una población de bacterias.",
+      "statement": "Un conductor pagó 9 000 pesos. ¿Cuánto tiempo estuvo parqueado?",
+      "context": "Un parqueadero de Bucaramanga cobra $P(t) = 3\\,000$ si $0 < t \\le 1$ y $P(t) = 3\\,000 + 2\\,000(t - 1)$ si $1 < t \\le 8$, con $t$ en horas y $P$ en pesos.",
       "options": [
         {
-          "letter": "B",
-          "text": "29",
+          "letter": "A",
+          "text": "4 h",
           "is_correct": true,
-          "feedback": "Se evalúa la función reemplazando x por 14."
+          "feedback": "Correcto. $3\\,000 + 2\\,000(t - 1) = 9\\,000 \\Rightarrow t - 1 = 3 \\Rightarrow t = 4$."
         },
         {
-          "letter": "A",
-          "text": "28",
+          "letter": "B",
+          "text": "3 h",
           "is_correct": false,
-          "feedback": "Falta sumar 1."
+          "feedback": "Incorrecto. Se planteó $3\\,000 + 2\\,000t = 9\\,000$ olvidando el $-1$; con $t = 3$ el parqueadero cobra $3\\,000 + 4\\,000 = 7\\,000$."
         },
         {
           "letter": "C",
-          "text": "30",
+          "text": "4,5 h",
           "is_correct": false,
-          "feedback": "Se sumó 2 en lugar de 1."
+          "feedback": "Incorrecto. Se dividió $9\\,000/2\\,000$ ignorando la primera hora de 3 000; $P(4{,}5) = 10\\,000$."
         },
         {
           "letter": "D",
-          "text": "18",
+          "text": "5,5 h",
           "is_correct": false,
-          "feedback": "No se multiplicó por 2."
+          "feedback": "Incorrecto. Se resolvió $2\\,000(t - 1) = 9\\,000$ sin restar el cargo inicial de 3 000; $P(5{,}5) = 12\\,000$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y se realiza la operación aritmética. En este caso, $2(14) + 1 = 29$.",
+      "correct_answer": "A",
+      "explanation": "Como 9 000 es mayor que 3 000, el tiempo está en el segundo trozo. Se resuelve $3\\,000 + 2\\,000(t-1) = 9\\,000$: $2\\,000(t-1) = 6\\,000$, $t - 1 = 3$, $t = 4$ h. Comprobación: $P(4) = 3\\,000 + 2\\,000 \\cdot 3 = 9\\,000$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Numerico",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.56,
       "bundle_id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -653,42 +653,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 15$?",
-      "context": "En la ciudad de Bogotá, se analiza el crecimiento de una población de bacterias.",
+      "statement": "¿Cuál es $f^{-1}(x)$, con $x \\ge 1$?",
+      "context": "En Manizales se diseña una rampa con perfil $f(x) = (x - 2)^2 + 1$ para $x \\ge 2$, y se necesita la función inversa para calcular la posición a partir de la altura.",
       "options": [
         {
-          "letter": "C",
-          "text": "31",
-          "is_correct": true,
-          "feedback": "Se evalúa la función reemplazando x por 15."
-        },
-        {
           "letter": "A",
-          "text": "30",
+          "text": "$f^{-1}(x) = 2 - \\sqrt{x - 1}$",
           "is_correct": false,
-          "feedback": "Falta sumar 1."
+          "feedback": "Incorrecto. Esa rama da valores menores o iguales a 2; como el dominio de $f$ es $x \\ge 2$, la inversa debe tomar la raíz positiva."
         },
         {
           "letter": "B",
-          "text": "32",
+          "text": "$f^{-1}(x) = 2 + \\sqrt{x - 1}$",
+          "is_correct": true,
+          "feedback": "Correcto. De $y = (x-2)^2 + 1$: $x - 2 = \\sqrt{y - 1}$ (positivo porque $x \\ge 2$), luego $x = 2 + \\sqrt{y-1}$."
+        },
+        {
+          "letter": "C",
+          "text": "$f^{-1}(x) = \\sqrt{x - 1} - 2$",
           "is_correct": false,
-          "feedback": "Se sumó 2 en lugar de 1."
+          "feedback": "Incorrecto. Al despejar se restó 2 en lugar de sumarlo: de $x - 2 = \\sqrt{y-1}$ sale $x = \\sqrt{y-1} + 2$."
         },
         {
           "letter": "D",
-          "text": "19",
+          "text": "$f^{-1}(x) = 2 + \\sqrt{x + 1}$",
           "is_correct": false,
-          "feedback": "No se multiplicó por 2."
+          "feedback": "Incorrecto. El 1 se pasó con el signo equivocado: de $y = (x-2)^2 + 1$ queda $(x-2)^2 = y - 1$."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y se realiza la operación aritmética. En este caso, $2(15) + 1 = 31$.",
+      "correct_answer": "B",
+      "explanation": "Se escribe $y = (x-2)^2 + 1$ y se despeja: $(x-2)^2 = y - 1$, $x - 2 = \\pm\\sqrt{y-1}$. Como $x \\ge 2$, se toma el signo positivo: $x = 2 + \\sqrt{y-1}$. Intercambiando variables, $f^{-1}(x) = 2 + \\sqrt{x-1}$ con $x \\ge 1$. Prueba: $f^{-1}(f(5)) = f^{-1}(10) = 2 + 3 = 5$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Numerico",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.54,
       "bundle_id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -699,42 +699,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle-v16",
-      "statement": "¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 16$?",
-      "context": "En la ciudad de Bogotá, se analiza el crecimiento de una población de bacterias.",
+      "statement": "¿Qué evaluación del procedimiento de Julián es correcta?",
+      "context": "En una tarea de un colegio de Tunja, Julián halló el dominio de $f(x) = \\sqrt{9 - x^2}$ así: Paso 1: $9 - x^2 \\ge 0$; Paso 2: $x^2 \\le 9$; Paso 3: $x \\le 3$; conclusión: dominio $(-\\infty, 3]$.",
       "options": [
         {
-          "letter": "B",
-          "text": "33",
-          "is_correct": true,
-          "feedback": "Se evalúa la función reemplazando x por 16."
+          "letter": "A",
+          "text": "Es correcto: el dominio es $(-\\infty, 3]$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $x = -4$, $9 - 16 = -7 < 0$ y la raíz no es real; el dominio no puede incluir valores menores que $-3$."
         },
         {
-          "letter": "A",
-          "text": "32",
+          "letter": "B",
+          "text": "El error está en el paso 1: debe ser $9 - x^2 > 0$, con dominio $(-3, 3)$.",
           "is_correct": false,
-          "feedback": "Falta sumar 1."
+          "feedback": "Incorrecto. La raíz cuadrada de 0 existe, así que la desigualdad es $\\ge 0$ y los extremos $\\pm 3$ se incluyen."
         },
         {
           "letter": "C",
-          "text": "34",
+          "text": "El error está en el paso 1: debe ser $9 - x^2 \\le 0$.",
           "is_correct": false,
-          "feedback": "Se sumó 2 en lugar de 1."
+          "feedback": "Incorrecto. La raíz cuadrada exige radicando no negativo, $9 - x^2 \\ge 0$; el paso 1 está bien."
         },
         {
           "letter": "D",
-          "text": "20",
-          "is_correct": false,
-          "feedback": "No se multiplicó por 2."
+          "text": "El error está en el paso 3: de $x^2 \\le 9$ se sigue $-3 \\le x \\le 3$, y el dominio es $[-3, 3]$.",
+          "is_correct": true,
+          "feedback": "Correcto. $x^2 \\le 9$ equivale a $|x| \\le 3$; Julián olvidó la cota inferior $-3$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y se realiza la operación aritmética. En este caso, $2(16) + 1 = 33$.",
+      "correct_answer": "D",
+      "explanation": "La condición $9 - x^2 \\ge 0$ y su forma $x^2 \\le 9$ son correctas. El error es al sacar raíz: $\\sqrt{x^2} = |x|$, así que $x^2 \\le 9 \\Leftrightarrow |x| \\le 3 \\Leftrightarrow -3 \\le x \\le 3$. El dominio correcto es $[-3, 3]$; por ejemplo $x = -5$ daría $\\sqrt{-16}$, que no es real.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Numerico",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.52,
       "bundle_id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -745,42 +745,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle-v17",
-      "statement": "¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 17$?",
-      "context": "En la ciudad de Bogotá, se analiza el crecimiento de una población de bacterias.",
+      "statement": "¿Para qué distancias es más barata la empresa B?",
+      "context": "En Bogotá dos plataformas de transporte cobran por viaje de $k$ kilómetros: la empresa A, $4\\,000 + 1\\,500k$ pesos, y la empresa B, $7\\,000 + 1\\,200k$ pesos.",
       "options": [
         {
-          "letter": "D",
-          "text": "35",
-          "is_correct": true,
-          "feedback": "Se evalúa la función reemplazando x por 17."
-        },
-        {
           "letter": "A",
-          "text": "34",
+          "text": "Para menos de 10 km.",
           "is_correct": false,
-          "feedback": "Falta sumar 1."
+          "feedback": "Incorrecto. Con $k = 5$, A cobra 11 500 y B cobra 13 000; para distancias cortas pesa más el cargo fijo mayor de B."
         },
         {
           "letter": "B",
-          "text": "36",
+          "text": "Nunca, porque B tiene el cargo fijo más alto.",
           "is_correct": false,
-          "feedback": "Se sumó 2 en lugar de 1."
+          "feedback": "Incorrecto. El cargo fijo no decide solo: B cobra 300 pesos menos por km y, con $k = 20$, cuesta 31 000 contra 34 000 de A."
         },
         {
           "letter": "C",
-          "text": "21",
+          "text": "Para más de 10 km.",
+          "is_correct": true,
+          "feedback": "Correcto. $7\\,000 + 1\\,200k < 4\\,000 + 1\\,500k \\Leftrightarrow 3\\,000 < 300k \\Leftrightarrow k > 10$."
+        },
+        {
+          "letter": "D",
+          "text": "Para más de 2,5 km.",
           "is_correct": false,
-          "feedback": "No se multiplicó por 2."
+          "feedback": "Incorrecto. Se dividió $3\\,000/1\\,200$; la diferencia por km entre las tarifas es $1\\,500 - 1\\,200 = 300$, así que el corte es $3\\,000/300 = 10$."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y se realiza la operación aritmética. En este caso, $2(17) + 1 = 35$.",
+      "correct_answer": "C",
+      "explanation": "Se comparan las dos funciones lineales: B es menor cuando $7\\,000 + 1\\,200k < 4\\,000 + 1\\,500k$. Restando, $3\\,000 < 300k$, es decir $k > 10$. En $k = 10$ ambas cuestan 19 000 pesos; antes de ese punto conviene A y después conviene B.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Numerico",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.5,
       "bundle_id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -791,42 +791,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle-v18",
-      "statement": "¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 18$?",
-      "context": "En la ciudad de Bogotá, se analiza el crecimiento de una población de bacterias.",
+      "statement": "¿Cuál afirmación sobre $f$ es verdadera?",
+      "context": "En un curso preuniversitario de Neiva se discute la función $f(x) = \\dfrac{1}{x - 2}$.",
       "options": [
         {
           "letter": "A",
-          "text": "37",
-          "is_correct": true,
-          "feedback": "Se evalúa la función reemplazando x por 18."
+          "text": "Su dominio es $\\mathbb{R}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x = 2$ el denominador es 0 y $f$ no está definida; el dominio es $\\mathbb{R} - \\{2\\}$."
         },
         {
           "letter": "B",
-          "text": "36",
+          "text": "Su rango es $\\mathbb{R}$.",
           "is_correct": false,
-          "feedback": "Falta sumar 1."
+          "feedback": "Incorrecto. Una fracción con numerador 1 nunca vale 0, así que el rango es $\\mathbb{R} - \\{0\\}$."
         },
         {
           "letter": "C",
-          "text": "38",
+          "text": "$f(0) = \\frac{1}{2}$.",
           "is_correct": false,
-          "feedback": "Se sumó 2 en lugar de 1."
+          "feedback": "Incorrecto. $f(0) = \\frac{1}{0 - 2} = -\\frac{1}{2}$; se perdió el signo del denominador."
         },
         {
           "letter": "D",
-          "text": "22",
-          "is_correct": false,
-          "feedback": "No se multiplicó por 2."
+          "text": "$f$ es inyectiva y su inversa es $f^{-1}(x) = \\frac{1}{x} + 2$.",
+          "is_correct": true,
+          "feedback": "Correcto. De $y = \\frac{1}{x-2}$: $x - 2 = \\frac{1}{y}$, así $x = \\frac{1}{y} + 2$, una única preimagen para cada $y \\neq 0$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y se realiza la operación aritmética. En este caso, $2(18) + 1 = 37$.",
+      "correct_answer": "D",
+      "explanation": "Se revisa cada afirmación. Dominio: $x \\neq 2$. Rango: $\\frac{1}{x-2} = 0$ no tiene solución, luego el 0 queda excluido. $f(0) = -\\frac{1}{2}$. Para la inversa: $y = \\frac{1}{x-2} \\Rightarrow x - 2 = \\frac{1}{y} \\Rightarrow x = \\frac{1}{y} + 2$; como el despeje da un solo valor, $f$ es inyectiva y $f^{-1}(x) = \\frac{1}{x} + 2$.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Numerico",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.48,
       "bundle_id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -837,42 +837,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle-v19",
-      "statement": "¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 19$?",
-      "context": "En la ciudad de Bogotá, se analiza el crecimiento de una población de bacterias.",
+      "statement": "¿Qué conclusión es correcta?",
+      "context": "En el estadio Atanasio Girardot de Medellín se analiza un tiro libre cuya altura es $h(x) = -0{,}02x^2 + 0{,}8x$ metros, con $x$ la distancia horizontal; la barrera mide 2 m y está a 9 m, y el arco (travesaño a 2,44 m) está a 30 m.",
       "options": [
         {
-          "letter": "D",
-          "text": "39",
-          "is_correct": true,
-          "feedback": "Se evalúa la función reemplazando x por 19."
-        },
-        {
           "letter": "A",
-          "text": "38",
+          "text": "El balón no supera la barrera porque $h(9) < 2$.",
           "is_correct": false,
-          "feedback": "Falta sumar 1."
+          "feedback": "Incorrecto. $h(9) = -0{,}02(81) + 0{,}8(9) = -1{,}62 + 7{,}2 = 5{,}58$ m, mucho más que 2 m."
         },
         {
           "letter": "B",
-          "text": "40",
-          "is_correct": false,
-          "feedback": "Se sumó 2 en lugar de 1."
+          "text": "Supera la barrera, pero pasa por encima del travesaño, porque $h(30) = 6$ m.",
+          "is_correct": true,
+          "feedback": "Correcto. $h(9) = 5{,}58 > 2$ y $h(30) = -18 + 24 = 6 > 2{,}44$, así que el balón va por encima del arco."
         },
         {
           "letter": "C",
-          "text": "23",
+          "text": "Entra al arco porque alcanza su altura máxima de 8 m a los 20 m y después baja.",
           "is_correct": false,
-          "feedback": "No se multiplicó por 2."
+          "feedback": "Incorrecto. El máximo sí es $h(20) = 8$ m, pero bajar no basta: a los 30 m la altura todavía es 6 m, mayor que 2,44 m."
+        },
+        {
+          "letter": "D",
+          "text": "Entra al arco porque $h(30) = 2$ m.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó mal $h(30)$: $-0{,}02 \\cdot 900 = -18$ y $0{,}8 \\cdot 30 = 24$, así que $h(30) = 6$ m."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y se realiza la operación aritmética. En este caso, $2(19) + 1 = 39$.",
+      "correct_answer": "B",
+      "explanation": "Se evalúa el modelo en los puntos clave. Barrera: $h(9) = 5{,}58$ m $> 2$ m, la supera. Vértice: $x = -\\frac{0{,}8}{2(-0{,}02)} = 20$, $h(20) = 8$ m. Arco: $h(30) = -0{,}02(900) + 0{,}8(30) = 6$ m $> 2{,}44$ m. El balón pasa la barrera pero sale por encima del travesaño.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Numerico",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.47,
       "bundle_id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -883,42 +883,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 20$?",
-      "context": "En la ciudad de Bogotá, se analiza el crecimiento de una población de bacterias.",
+      "statement": "¿Cuál conclusión sobre los planes es válida?",
+      "context": "Una distribuidora de Bucaramanga ofrece a sus vendedores dos planes según las ventas mensuales $s$: Plan 1, $1\\,200\\,000 + 0{,}04s$ pesos; Plan 2, $0{,}10s$ pesos.",
       "options": [
         {
-          "letter": "D",
-          "text": "41",
-          "is_correct": true,
-          "feedback": "Se evalúa la función reemplazando x por 20."
-        },
-        {
           "letter": "A",
-          "text": "40",
+          "text": "El plan 2 siempre paga más porque su porcentaje es mayor.",
           "is_correct": false,
-          "feedback": "Falta sumar 1."
+          "feedback": "Incorrecto. Con ventas de 10 000 000, el plan 2 paga 1 000 000 y el plan 1 paga 1 600 000; el porcentaje mayor no compensa el salario fijo."
         },
         {
           "letter": "B",
-          "text": "42",
-          "is_correct": false,
-          "feedback": "Se sumó 2 en lugar de 1."
+          "text": "El plan 2 paga más solo si las ventas superan 20 000 000 COP.",
+          "is_correct": true,
+          "feedback": "Correcto. $0{,}10s > 1\\,200\\,000 + 0{,}04s \\Leftrightarrow 0{,}06s > 1\\,200\\,000 \\Leftrightarrow s > 20\\,000\\,000$."
         },
         {
           "letter": "C",
-          "text": "24",
+          "text": "Los planes pagan igual con ventas de 12 000 000 COP.",
           "is_correct": false,
-          "feedback": "No se multiplicó por 2."
+          "feedback": "Incorrecto. Se dividió $1\\,200\\,000/0{,}10$ sin restar el 4 % del plan 1; en 12 000 000 el plan 1 paga 1 680 000 y el plan 2 paga 1 200 000."
+        },
+        {
+          "letter": "D",
+          "text": "El plan 1 paga más cuando las ventas superan 20 000 000 COP.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sentido está invertido: por encima de 20 000 000, la pendiente mayor (0,10) hace que el plan 2 supere al plan 1."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y se realiza la operación aritmética. En este caso, $2(20) + 1 = 41$.",
+      "correct_answer": "B",
+      "explanation": "Los planes son funciones lineales con pendientes 0,04 y 0,10. Se igualan: $1\\,200\\,000 + 0{,}04s = 0{,}10s \\Rightarrow 0{,}06s = 1\\,200\\,000 \\Rightarrow s = 20\\,000\\,000$. Para $s > 20\\,000\\,000$ gana el plan 2 porque crece más rápido; para ventas menores conviene el plan 1 por su parte fija.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Numerico",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.45,
       "bundle_id": "CO-MAT-11-2026-W01-funciones-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",

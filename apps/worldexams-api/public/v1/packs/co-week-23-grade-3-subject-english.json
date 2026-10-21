@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W23-toys-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "It is round. You kick it and play soccer with it. What is it?",
+      "context": "En el recreo de un colegio de Barranquilla, los niños juegan fútbol en la cancha.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the word for a place where you live or stay on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' is the system of moving people or goods between places, not the place you sleep in itself."
+          "text": "a ball",
+          "is_correct": true,
+          "feedback": "Correct. A ball is round and we kick it to play soccer."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "a kite",
           "is_correct": false,
-          "feedback": "'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live."
+          "feedback": "Incorrect. A kite flies in the sky with a string; you do not kick it."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "a doll",
           "is_correct": false,
-          "feedback": "'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in."
+          "feedback": "Incorrect. A doll looks like a little person; it is not round for soccer."
+        },
+        {
+          "letter": "D",
+          "text": "a puzzle",
+          "is_correct": false,
+          "feedback": "Incorrect. A puzzle has many pieces to put together; you do not kick it."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "La \"ball\" (pelota o balón) es redonda (\"round\") y se patea (\"kick\") para jugar fútbol. La cometa (\"kite\") vuela, la muñeca (\"doll\") parece una persona y el rompecabezas (\"puzzle\") tiene fichas.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W23-toys-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -55,36 +55,36 @@
     },
     {
       "id": "CO-ING-3-2026-W23-toys-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "It flies high in the sky on a windy day. You hold it with a long string. What is it?",
+      "context": "En agosto hace mucho viento en Villa de Leyva y las familias van a elevar cometas.",
       "options": [
         {
-          "letter": "B",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them."
+          "letter": "A",
+          "text": "a car",
+          "is_correct": false,
+          "feedback": "Incorrect. A toy car has wheels and moves on the floor; it does not fly."
         },
         {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "letter": "B",
+          "text": "a kite",
+          "is_correct": true,
+          "feedback": "Correct. A kite flies in the sky when it is windy, and you hold its string."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "a yo-yo",
           "is_correct": false,
-          "feedback": "'destination' names only the place you are going to, without the route or the order of the whole journey."
+          "feedback": "Incorrect. A yo-yo has a string, but it goes up and down in your hand; it does not fly."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "a teddy bear",
           "is_correct": false,
-          "feedback": "'passport' is the official document that lets you cross a border, not the plan of where you go."
+          "feedback": "Incorrect. A teddy bear is a soft toy animal that you hug; it cannot fly."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "explanation": "La cometa se dice \"kite\" en inglés. Vuela alto (\"flies high\") cuando hay viento (\"windy\") y se sostiene con una cuerda larga (\"string\"). El yo-yo también tiene cuerda, pero no vuela.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-3-2026-W23-toys-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: \"I have a ___. It has two wheels and I ride it in the park.\"",
+      "context": "Daniel recibe un regalo de cumpleaños en Bucaramanga y lo usa en el parque.",
       "options": [
         {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' is the place someone is going to or something is being sent to."
+          "letter": "A",
+          "text": "doll",
+          "is_correct": false,
+          "feedback": "Incorrect. A doll has no wheels and you do not ride it; you play with it like a baby."
         },
         {
-          "letter": "A",
-          "text": "departure",
+          "letter": "B",
+          "text": "puzzle",
           "is_correct": false,
-          "feedback": "'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself."
+          "feedback": "Incorrect. A puzzle has pieces, not wheels, and you cannot ride it."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "kite",
           "is_correct": false,
-          "feedback": "'arrival' is the act of reaching a place, not the place that is reached."
+          "feedback": "Incorrect. A kite has no wheels; it flies in the wind."
         },
         {
           "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "'journey' is the whole trip from the start to the end, not the place the trip finishes at."
+          "text": "bike",
+          "is_correct": true,
+          "feedback": "Correct. A bike has two wheels and you ride it."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Las pistas son \"two wheels\" (dos ruedas) y \"I ride it\" (la monto). El juguete es la bicicleta, \"bike\". La estructura \"I have a...\" sirve para decir qué juguete tenemos: \"I have a bike\".",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.72,
       "bundle_id": "CO-ING-3-2026-W23-toys-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-3-2026-W23-toys-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read the dialogue.\nTeacher: \"Is it your teddy bear, Valeria?\"\nValeria: \"Yes, ___\"",
+      "context": "Al final de la clase en Pasto, la profesora encuentra un oso de peluche en una silla.",
       "options": [
         {
-          "letter": "C",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "I am.",
           "is_correct": false,
-          "feedback": "'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in."
+          "feedback": "Incorrect. \"I am\" answers questions with \"Are you...?\", not \"Is it...?\""
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "it is.",
+          "is_correct": true,
+          "feedback": "Correct. A question with \"Is it...?\" gets the short answer \"Yes, it is.\""
+        },
+        {
+          "letter": "C",
+          "text": "it isn't.",
           "is_correct": false,
-          "feedback": "'flight' is the journey by plane itself, not the containers that hold your things."
+          "feedback": "Incorrect. \"It isn't\" is a negative answer, so it does not go after \"Yes\"."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "they are.",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you make for a seat or a room, not the bag you carry."
+          "feedback": "Incorrect. \"They are\" is plural; the question asks about one teddy bear with \"it\"."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "A la pregunta \"Is it your...?\" (¿es tuyo...?) se responde \"Yes, it is.\" o \"No, it isn't.\". Como Valeria dice \"Yes\", la respuesta completa es \"Yes, it is.\". \"I am\" responde a \"Are you...?\".",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.68,
       "bundle_id": "CO-ING-3-2026-W23-toys-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-3-2026-W23-toys-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Mateo's favorite toy is a spinning top. It is made of wood. He spins it on the floor with a string.\" What does Mateo do with his toy?",
+      "context": "Mateo vive en Medellín y su abuelo le regaló un trompo de madera.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew."
+          "text": "He flies it in the sky.",
+          "is_correct": false,
+          "feedback": "Incorrect. We fly a kite in the sky, but the text says the top spins on the floor."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "He rides it to school.",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all."
+          "feedback": "Incorrect. We ride a bike; a spinning top is too small to ride."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "He puts the pieces together.",
           "is_correct": false,
-          "feedback": "'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle."
+          "feedback": "Incorrect. We put pieces together in a puzzle; a spinning top has no pieces."
         },
         {
           "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle."
+          "text": "He spins it on the floor.",
+          "is_correct": true,
+          "feedback": "Correct. The text says he spins the top on the floor with a string."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "El \"spinning top\" es el trompo, un juguete tradicional colombiano. El texto dice \"He spins it on the floor\": lo hace girar en el piso con una cuerda. Elevar es para la cometa y armar es para el rompecabezas.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.6,
       "bundle_id": "CO-ING-3-2026-W23-toys-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-3-2026-W23-toys-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct sentence.",
+      "context": "Isabella escribe en su cuaderno de inglés sobre su juguete favorito en Cartagena.",
       "options": [
         {
-          "letter": "C",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "I has a doll.",
           "is_correct": false,
-          "feedback": "'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in."
+          "feedback": "Incorrect. \"Has\" is used with he or she; with \"I\" the verb is \"have\"."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "I have a dolls.",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for your plane, not the place where your belongings are inspected."
+          "feedback": "Incorrect. \"A\" means one, so the noun must be singular: \"a doll\", not \"a dolls\"."
+        },
+        {
+          "letter": "C",
+          "text": "I have a doll.",
+          "is_correct": true,
+          "feedback": "Correct. With \"I\" we use \"have\", and \"a\" goes before one thing: \"a doll\"."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "I a doll have.",
           "is_correct": false,
-          "feedback": "'gate' is the door at the plane you walk through to board, not the place where officials check your things."
+          "feedback": "Incorrect. The word order is wrong; the verb \"have\" goes after \"I\"."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "explanation": "La oración correcta sigue el orden sujeto + verbo + objeto: \"I have a doll\". Con \"I\" se usa \"have\" (no \"has\"), y después de \"a\" el sustantivo va en singular (\"doll\", no \"dolls\").",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.56,
       "bundle_id": "CO-ING-3-2026-W23-toys-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-3-2026-W23-toys-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Laura has a puzzle, a yo-yo and two dolls. Her brother has a red car and a ball.\" Which sentence is TRUE?",
+      "context": "Laura y su hermano ordenan la caja de juguetes en su casa de Ibagué.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane."
+          "text": "Laura has a red car.",
+          "is_correct": false,
+          "feedback": "Incorrect. The red car belongs to her brother, not to Laura."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "Her brother has a yo-yo.",
           "is_correct": false,
-          "feedback": "'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline."
+          "feedback": "Incorrect. The yo-yo belongs to Laura; her brother has a car and a ball."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'receipt' is the proof that you paid for something, which is not permission to board a plane."
+          "text": "Laura has two dolls.",
+          "is_correct": true,
+          "feedback": "Correct. The text says Laura has two dolls."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "Her brother has a puzzle.",
           "is_correct": false,
-          "feedback": "'brochure' is a leaflet with tourist information, not a travel document issued to a passenger."
+          "feedback": "Incorrect. The puzzle belongs to Laura, so this sentence is false."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Hay que separar los juguetes de cada niño. Laura tiene rompecabezas, yo-yo y dos muñecas (\"two dolls\"). Su hermano tiene un carro rojo (\"red car\") y una pelota. Solo \"Laura has two dolls\" es verdadera.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.5,
       "bundle_id": "CO-ING-3-2026-W23-toys-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-3-2026-W23-toys-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Pablo finds a ball in the classroom. He wants to know if it belongs to his friend Sara. What does he ask her?",
+      "context": "Pablo encuentra un balón en el salón de clase en Santa Marta y quiere devolverlo a su dueño.",
       "options": [
         {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' means visiting the places of interest of a location as a traveler."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place."
+          "text": "Is it your ball?",
+          "is_correct": true,
+          "feedback": "Correct. \"Is it your ball?\" asks if the ball belongs to Sara."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "Is it a ball?",
           "is_correct": false,
-          "feedback": "'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city."
+          "feedback": "Incorrect. This asks what the object is, but Pablo already knows it is a ball."
+        },
+        {
+          "letter": "C",
+          "text": "Where is the ball?",
+          "is_correct": false,
+          "feedback": "Incorrect. Pablo has the ball in his hands, so he does not need to ask where it is."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "Do you like balls?",
           "is_correct": false,
-          "feedback": "'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place."
+          "feedback": "Incorrect. This asks about what Sara likes, not about who owns the ball."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "correct_answer": "A",
+      "explanation": "Para preguntar de quién es algo usamos \"Is it your...?\" (¿es tuyo...?). Pablo ya sabe que es un balón y sabe dónde está; lo que quiere saber es si es de Sara: \"Is it your ball?\".",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.45,
       "bundle_id": "CO-ING-3-2026-W23-toys-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",

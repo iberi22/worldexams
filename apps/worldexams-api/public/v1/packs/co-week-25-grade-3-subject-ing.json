@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W25-repaso-p5-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "It is a white food made from milk. Many people in Colombia eat it on arepas. What is it?",
+      "context": "En el desayuno de muchas familias de Bogotá hay arepa con un alimento blanco encima.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the word for a place where you live or stay on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
+          "text": "chicken",
           "is_correct": false,
-          "feedback": "'transportation' is the system of moving people or goods between places, not the place you sleep in itself."
+          "feedback": "Incorrect. Chicken is meat from a bird; it is not made from milk."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "soup",
           "is_correct": false,
-          "feedback": "'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live."
+          "feedback": "Incorrect. Soup is a hot liquid food in a bowl; it is not made from milk to put on arepas."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "lemonade",
           "is_correct": false,
-          "feedback": "'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in."
+          "feedback": "Incorrect. Lemonade is a drink made with lemons, not a food made from milk."
+        },
+        {
+          "letter": "D",
+          "text": "cheese",
+          "is_correct": true,
+          "feedback": "Correct. Cheese is a white food made from milk, and we eat it on arepas."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "explanation": "El queso se dice \"cheese\". Se hace con leche (\"made from milk\") y en Colombia lo comemos sobre la arepa. El pollo (\"chicken\") es carne, la sopa (\"soup\") es líquida y la limonada (\"lemonade\") es una bebida.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W25-repaso-p5-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -55,36 +55,36 @@
     },
     {
       "id": "CO-ING-3-2026-W25-repaso-p5-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "It is a brown drink. You drink it hot, and it is made with chocolate. What is it?",
+      "context": "En las tardes frías de Tunja, la abuela prepara una bebida caliente con pastillas de chocolate.",
       "options": [
         {
-          "letter": "D",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "text": "hot chocolate",
+          "is_correct": true,
+          "feedback": "Correct. Hot chocolate is a brown, hot drink made with chocolate."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "lemonade",
           "is_correct": false,
-          "feedback": "'destination' names only the place you are going to, without the route or the order of the whole journey."
+          "feedback": "Incorrect. Lemonade is a cold drink made with lemons, not with chocolate."
         },
         {
           "letter": "C",
-          "text": "passport",
+          "text": "soup",
           "is_correct": false,
-          "feedback": "'passport' is the official document that lets you cross a border, not the plan of where you go."
+          "feedback": "Incorrect. Soup is food we eat with a spoon, and it is not made with chocolate."
+        },
+        {
+          "letter": "D",
+          "text": "ice cream",
+          "is_correct": false,
+          "feedback": "Incorrect. Ice cream is cold and frozen, so it is not a hot drink."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "La bebida es café (\"brown\"), se toma caliente (\"hot\") y se hace con chocolate: \"hot chocolate\". El helado (\"ice cream\") es frío y la limonada se hace con limones, así que no cumplen las pistas.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-3-2026-W25-repaso-p5-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: \"Sara ___ fish. It is her favorite food.\"",
+      "context": "Sara vive en Tumaco, cerca del mar, y su comida preferida es el pescado frito.",
       "options": [
         {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' is the place someone is going to or something is being sent to."
-        },
-        {
           "letter": "A",
-          "text": "departure",
+          "text": "like",
           "is_correct": false,
-          "feedback": "'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself."
+          "feedback": "Incorrect. \"Like\" without -s goes with I, you, we and they, not with Sara (she)."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "likes",
+          "is_correct": true,
+          "feedback": "Correct. With \"Sara\" (she) the verb takes -s: \"Sara likes fish\"."
+        },
+        {
+          "letter": "C",
+          "text": "don't like",
           "is_correct": false,
-          "feedback": "'arrival' is the act of reaching a place, not the place that is reached."
+          "feedback": "Incorrect. Fish is her favorite food, so a negative is wrong; also \"she\" uses \"doesn't\", not \"don't\"."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "liking",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from the start to the end, not the place the trip finishes at."
+          "feedback": "Incorrect. \"Liking\" is not the present simple form; the sentence needs \"likes\"."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Con una persona en tercera persona (Sara = \"she\") el verbo lleva -s: \"likes\". Además, el texto dice que es su comida favorita, entonces le gusta. \"Don't like\" sería lo contrario y además no va con \"she\".",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.72,
       "bundle_id": "CO-ING-3-2026-W25-repaso-p5-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-3-2026-W25-repaso-p5-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read the dialogue.\nFriend: \"Do you like spiders?\"\nTomas: \"No, ___\"",
+      "context": "En una excursión al Parque del Café, un amigo le pregunta a Tomas por las arañas.",
       "options": [
         {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "I do.",
           "is_correct": false,
-          "feedback": "'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in."
+          "feedback": "Incorrect. \"I do\" is the positive answer, so it does not go after \"No\"."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "I am not.",
           "is_correct": false,
-          "feedback": "'flight' is the journey by plane itself, not the containers that hold your things."
+          "feedback": "Incorrect. \"I am not\" answers \"Are you...?\" questions, not \"Do you...?\" questions."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "I doesn't.",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you make for a seat or a room, not the bag you carry."
+          "feedback": "Incorrect. \"Doesn't\" goes with he, she or it; with \"I\" we say \"don't\"."
+        },
+        {
+          "letter": "D",
+          "text": "I don't.",
+          "is_correct": true,
+          "feedback": "Correct. A \"Do you...?\" question gets the short negative answer \"No, I don't.\""
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "La pregunta \"Do you like...?\" se responde con \"Yes, I do.\" o \"No, I don't.\". Como Tomas dice \"No\", la forma correcta es \"I don't\". \"I doesn't\" está mal porque \"doesn't\" va con he/she.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.68,
       "bundle_id": "CO-ING-3-2026-W25-repaso-p5-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-3-2026-W25-repaso-p5-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"This toy has many small pieces. You put the pieces together to make a picture.\" What is it?",
+      "context": "En la biblioteca de un colegio de Armenia hay un juguete en una caja con muchas fichas.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "a puzzle",
           "is_correct": true,
-          "feedback": "Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew."
+          "feedback": "Correct. A puzzle has small pieces that you put together to make a picture."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "a kite",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all."
+          "feedback": "Incorrect. A kite is one toy that flies in the sky; it has no pieces to join."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "a ball",
           "is_correct": false,
-          "feedback": "'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle."
+          "feedback": "Incorrect. A ball is one round toy to kick or throw, not small pieces."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "a teddy bear",
           "is_correct": false,
-          "feedback": "'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle."
+          "feedback": "Incorrect. A teddy bear is a soft toy animal; you do not put pieces together."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "explanation": "El rompecabezas se dice \"puzzle\". Tiene muchas fichas pequeñas (\"small pieces\") que se unen (\"put together\") para formar una imagen (\"picture\"). Los otros juguetes son de una sola pieza.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "CO-ING-3-2026-W25-repaso-p5-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-3-2026-W25-repaso-p5-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Tomas has a toy car. It is blue and small. His sister has a big pink teddy bear.\" What color is the teddy bear?",
+      "context": "Tomas y su hermana muestran sus juguetes en la clase de inglés en Popayán.",
       "options": [
         {
-          "letter": "D",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "blue",
           "is_correct": false,
-          "feedback": "'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in."
+          "feedback": "Incorrect. Blue is the color of the toy car, not of the teddy bear."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "red",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for your plane, not the place where your belongings are inspected."
+          "feedback": "Incorrect. The text does not say red; the teddy bear is pink."
         },
         {
           "letter": "C",
-          "text": "gate",
+          "text": "pink",
+          "is_correct": true,
+          "feedback": "Correct. The text says the sister has a big pink teddy bear."
+        },
+        {
+          "letter": "D",
+          "text": "green",
           "is_correct": false,
-          "feedback": "'gate' is the door at the plane you walk through to board, not the place where officials check your things."
+          "feedback": "Incorrect. Green is not in the text; the teddy bear is pink."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "En el texto hay dos juguetes con colores distintos. El carro de Tomas es azul (\"blue\") y pequeño; el oso de peluche de su hermana es grande y rosado (\"pink\"). Hay que fijarse a qué juguete se refiere cada color.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.56,
       "bundle_id": "CO-ING-3-2026-W25-repaso-p5-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-3-2026-W25-repaso-p5-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "It is cold and rainy in Bogota today. Which clothes are best for going to school?",
+      "context": "Hoy llueve mucho y hace frío en Bogotá, y Camila se está vistiendo para ir al colegio.",
       "options": [
         {
-          "letter": "C",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane."
-        },
-        {
           "letter": "A",
-          "text": "visa",
+          "text": "a swimsuit and sandals",
           "is_correct": false,
-          "feedback": "'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline."
+          "feedback": "Incorrect. A swimsuit and sandals are for the beach or the pool, not for cold rain."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "a raincoat and boots",
+          "is_correct": true,
+          "feedback": "Correct. A raincoat and boots keep you dry and warm on a cold, rainy day."
+        },
+        {
+          "letter": "C",
+          "text": "shorts and a cap",
           "is_correct": false,
-          "feedback": "'receipt' is the proof that you paid for something, which is not permission to board a plane."
+          "feedback": "Incorrect. Shorts leave your legs cold and wet, so they are for hot days."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "a T-shirt and flip-flops",
           "is_correct": false,
-          "feedback": "'brochure' is a leaflet with tourist information, not a travel document issued to a passenger."
+          "feedback": "Incorrect. A T-shirt and flip-flops are for hot weather; your feet get wet in the rain."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Para elegir la ropa hay que mirar el clima: frío (\"cold\") y lluvioso (\"rainy\"). Un impermeable (\"raincoat\") y botas (\"boots\") protegen de la lluvia. El vestido de baño y las chanclas son para clima caliente.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.5,
       "bundle_id": "CO-ING-3-2026-W25-repaso-p5-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-3-2026-W25-repaso-p5-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Valentina wears a white blouse, a blue skirt and black shoes to school.\" Which sentence is correct?",
+      "context": "Valentina describe su uniforme del colegio en Cúcuta.",
       "options": [
         {
-          "letter": "D",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' means visiting the places of interest of a location as a traveler."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "Her shoes are white.",
           "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place."
+          "feedback": "Incorrect. Her shoes are black; white is the color of her blouse."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "Her blouse is black.",
           "is_correct": false,
-          "feedback": "'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city."
+          "feedback": "Incorrect. Her blouse is white; black is the color of her shoes."
         },
         {
           "letter": "C",
-          "text": "camping",
+          "text": "Her skirt is blue.",
+          "is_correct": true,
+          "feedback": "Correct. The text says Valentina wears a blue skirt."
+        },
+        {
+          "letter": "D",
+          "text": "Her skirt is white.",
           "is_correct": false,
-          "feedback": "'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place."
+          "feedback": "Incorrect. Her skirt is blue; white goes with the blouse."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "correct_answer": "C",
+      "explanation": "Cada prenda tiene su color: la blusa (\"blouse\") es blanca, la falda (\"skirt\") es azul y los zapatos (\"shoes\") son negros. Las opciones falsas mezclan los colores de las prendas; solo \"Her skirt is blue\" coincide.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.45,
       "bundle_id": "CO-ING-3-2026-W25-repaso-p5-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
