@@ -29,7 +29,7 @@
       <span class="text-2xl">🎧</span>
       <div>
         <h3 class="text-sm font-bold uppercase tracking-wider text-white">Estación Psicoacústica (Ondas Binaurales)</h3>
-        <p class="text-[10px] text-white/50">Estimulación por arrastre de frecuencias (Web Audio API en tiempo real)</p>
+        <p class="text-[10px] text-white/50">Sonidos de fondo generados con Web Audio API. Uso opcional para crear un ambiente de concentración.</p>
       </div>
     </div>
     {#if isPlaying}
@@ -59,6 +59,9 @@
   </div>
 
   <p class="text-[10px] text-white/40 text-center font-mono">
-    💡 <em>Para obtener el efecto binaural completo, se recomienda el uso de auriculares estéreo.</em>
+    💡 <em>Los tonos binaurales requieren auriculares estéreo. Usa un volumen bajo.</em>
+  </p>
+  <p class="text-[10px] text-white/40 text-center">
+    La evidencia científica sobre efectos cognitivos de los tonos binaurales es limitada e inconsistente: úsalos solo si te resultan agradables.
   </p>
 </div>

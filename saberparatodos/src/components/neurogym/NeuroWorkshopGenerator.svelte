@@ -93,7 +93,7 @@
 
 ## 🎯 1. Objetivos Pedagógicos
 - Desplegar estímulos cognitivos desconectados (*unplugged*) para fortalecer funciones ejecutivas en el aula.
-- Incrementar la **plasticidad cerebral** mediante ejercicios de sincronización hemisférica y memoria de trabajo.
+- Practicar la **atención, la memoria de trabajo y la velocidad de procesamiento** con ejercicios colaborativos.
 - Evaluar cualitativamente la **resiliencia atencional** y la autorregulación en entornos colaborativos.
 
 ---
@@ -195,7 +195,7 @@ ${dynamicsSection}
   <h2>🎯 1. Objetivos Pedagógicos</h2>
   <ul>
     <li>Desplegar estímulos cognitivos desenchufados (*unplugged*) para fortalecer funciones ejecutivas en el aula.</li>
-    <li>Incrementar la plasticidad cerebral mediante ejercicios de sincronización hemisférica y memoria de trabajo.</li>
+    <li>Practicar la atención, la memoria de trabajo y la velocidad de procesamiento con ejercicios colaborativos.</li>
     <li>Evaluar cualitativamente la resiliencia atencional y la autorregulación.</li>
   </ul>
 

@@ -7,7 +7,10 @@
 
   interface Props {
     totalTrials?: number;
+    /** Aciertos consecutivos necesarios para que cambie la regla oculta. */
+    switchAfter?: number;
     onComplete?: (stats: {
+      correctTrials: number;
       ruleSwitchesSuccess: number;
       totalRuleTrials: number;
       perseverativeErrors: number;
@@ -15,7 +18,7 @@
     }) => void;
   }
 
-  let { totalTrials = 15, onComplete }: Props = $props();
+  let { totalTrials = 15, switchAfter = 5, onComplete }: Props = $props();
 
   type Dimension = 'color' | 'shape' | 'number';
   const colors = ['#ef4444', '#3b82f6', '#10b981', '#f59e0b']; // red, blue, green, yellow
@@ -36,6 +39,8 @@
   let trialIndex = $state(0);
   let ruleSwitches = $state(0);
   let perseverativeErrors = $state(0);
+  let correctTrials = $state(0);
+  let locked = $state(false);
 
   // Timing & Latency tracking upon rule changes
   let lastRuleShiftTimestamp = $state<number | null>(null);
@@ -72,6 +77,8 @@
   }
 
   function handleSelectTarget(targetIdx: number) {
+    if (locked || trialIndex >= totalTrials) return;
+    locked = true;
     const target = targetCards[targetIdx];
     const now = performance.now();
     let isMatch = false;
@@ -84,6 +91,7 @@
       neuroAudio.playSuccess();
       feedback = 'correct';
       consecutiveCorrect++;
+      correctTrials++;
 
       // Record rule switch latency if this is the first correct answer after a rule switch
       if (lastRuleShiftTimestamp !== null) {
@@ -92,8 +100,8 @@
         lastRuleShiftTimestamp = null;
       }
 
-      // Shift unseen rule every 5 correct trials
-      if (consecutiveCorrect >= 5) {
+      // Cambio de regla oculta tras `switchAfter` aciertos seguidos
+      if (consecutiveCorrect >= switchAfter) {
         consecutiveCorrect = 0;
         previousRule = currentRule;
         const dims: Dimension[] = ['color', 'shape', 'number'];
@@ -126,7 +134,8 @@
         : 0;
 
       onComplete?.({
-        ruleSwitchesSuccess: Math.max(1, ruleSwitches),
+        correctTrials,
+        ruleSwitchesSuccess: ruleSwitches,
         totalRuleTrials: totalTrials,
         perseverativeErrors,
         avgRuleSwitchLatencyMs: avgLatency
@@ -135,7 +144,17 @@
       setTimeout(() => {
         feedback = null;
         generateNextCard();
+        locked = false;
       }, 400);
+    }
+  }
+
+  function handleKeydown(event: KeyboardEvent) {
+    if (event.repeat) return;
+    const idx = ['1', '2', '3', '4'].indexOf(event.key);
+    if (idx !== -1) {
+      event.preventDefault();
+      handleSelectTarget(idx);
     }
   }
 
@@ -143,6 +162,8 @@
     generateNextCard();
   });
 </script>
+
+<svelte:window onkeydown={handleKeydown} />
 
 <div class="flex flex-col items-center gap-6 w-full max-w-xl mx-auto select-none">
   <div class="text-center">
@@ -169,7 +190,7 @@
             ></div>
           {/each}
         </div>
-        <span class="text-[9px] text-white/40 font-mono mt-1">Pila {idx + 1}</span>
+        <span class="text-[9px] text-white/40 font-mono mt-1">Pila {idx + 1} · tecla {idx + 1}</span>
       </button>
     {/each}
   </div>
@@ -186,7 +207,7 @@
       {/each}
     </div>
     {#if feedback}
-      <span class="text-xs font-bold uppercase tracking-widest {feedback === 'correct' ? 'text-emerald-400' : 'text-red-400'} animate-bounce mt-1">
+      <span aria-live="polite" class="text-xs font-bold uppercase tracking-widest {feedback === 'correct' ? 'text-emerald-400' : 'text-red-400'} animate-bounce mt-1">
         {feedback === 'correct' ? '¡Correcto!' : '¡Incorrecto!'}
       </span>
     {/if}

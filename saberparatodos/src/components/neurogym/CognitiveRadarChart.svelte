@@ -13,7 +13,7 @@
 
   // 5 Ejes cognitivos
   const axes = $derived([
-    { label: 'Razonamiento (IQ)', score: profile.overallIQProxy.standardScore },
+    { label: 'Razonamiento abstracto', score: profile.overallIQProxy.standardScore },
     { label: 'Memoria Trabajo', score: profile.workingMemory.standardScore },
     { label: 'Velocidad (PSI)', score: profile.processingSpeed.standardScore },
     { label: 'Agilidad Motora', score: profile.motorAgility.standardScore },
