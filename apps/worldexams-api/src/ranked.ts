@@ -17,7 +17,19 @@ const RANKED_PACKS_PER_AREA = 3;
 const RANKED_MIN_POOL_PER_AREA = 24;
 
 const PLACEHOLDER_RE = /Pregunta de prueba \d+|Explicaci[oó]n detallada de la pregunta/i;
-const RANKED_SESSION_TTL_S = 90 * 60; // 90 min
+
+// The exam clock is 60 minutes on the client; the server keeps a short grace
+// window so a submit that arrives at the buzzer still lands. The stored
+// `expires_at` is duration + grace.
+export const RANKED_EXAM_DURATION_S = 60 * 60;
+export const RANKED_SUBMIT_GRACE_S = 120;
+const RANKED_SESSION_TTL_S = RANKED_EXAM_DURATION_S + RANKED_SUBMIT_GRACE_S;
+
+// A classroom behind NAT can share one public IP, so the per-IP daily cap must
+// stay high enough not to block real students; the per-device cap (5/day) is
+// what actually limits one student.
+export const RANKED_MAX_STARTS_PER_IP_DAY = 200;
+const RANKED_MAX_STARTS_PER_DEVICE_DAY = 5;
 
 // Unresolved template placeholder: `{city}`, `{student_name}`. LaTeX groups
 // such as `\frac{a}{b}`, `\text{cal}`, `x^{2}`, `\sqrt{x-3}` and `_{i}`
@@ -58,6 +70,16 @@ export function questionHasUnresolvedPlaceholder(question: any): boolean {
     if (hasUnresolvedPlaceholder(option?.feedback)) return true;
   }
   return false;
+}
+
+// Colombia runs on a fixed UTC-5 with no DST. Deriving the season from a UTC
+// clock would file the 23:00-04:59 local window into the wrong month.
+const COLOMBIA_UTC_OFFSET_S = -5 * 60 * 60;
+
+/** Season (`YYYY-MM`) for an epoch-second timestamp, in Colombia local time. */
+export function seasonFor(epochSeconds: number): string {
+  const shifted = new Date((epochSeconds + COLOMBIA_UTC_OFFSET_S) * 1000);
+  return `${shifted.getUTCFullYear()}-${String(shifted.getUTCMonth() + 1).padStart(2, "0")}`;
 }
 
 // Mulberry32 PRNG
@@ -143,7 +165,12 @@ export async function routeRanked(
     }
 
     const now = Math.floor(Date.now() / 1000);
-    if (now > (sessionRes.expires_at as number)) {
+    // Deadline = creation + exam duration + grace. Using created_at (not the
+    // stored expires_at) keeps the rule independent of the column's value.
+    if (
+      now >
+      Number(sessionRes.created_at) + RANKED_EXAM_DURATION_S + RANKED_SUBMIT_GRACE_S
+    ) {
       return json({ error: "EXPIRED" }, 400, {}, request);
     }
 
@@ -191,31 +218,59 @@ export async function routeRanked(
       });
     }
 
+    // Integrity: the client counters are the primary signal, the server clock
+    // is the only signal that cannot be forged, and the client median is a
+    // secondary bot signal (hence the stricter 1500 ms threshold).
+    const { tabSwitches = 0, focusLoss = 0, fullscreenExits = 0, copyPaste = 0, devtools = 0 } = integrity;
+    msArray.sort((a, b) => a - b);
+    const medianMs =
+      msArray.length > 0
+        ? msArray.length % 2 !== 0
+          ? msArray[Math.floor(msArray.length / 2)]
+          : (msArray[msArray.length / 2 - 1] + msArray[msArray.length / 2]) / 2
+        : 0;
+    // Server-side wall clock: client-reported ms can be forged.
+    const elapsedS = now - Number(sessionRes.created_at);
+
     let status = "valid";
+    let reason: string | null = null;
     if (answered < MIN_ANSWERED) {
       status = "not_eligible_min_questions";
-    } else {
-      const { tabSwitches = 0, focusLoss = 0, fullscreenExits = 0, copyPaste = 0, devtools = 0 } = integrity;
-      if (tabSwitches > 2 || fullscreenExits > 2 || copyPaste > 0 || devtools > 0) {
-        status = "flagged";
-      } else {
-        msArray.sort((a, b) => a - b);
-        const medianMs = msArray.length > 0 ? (msArray.length % 2 !== 0 ? msArray[Math.floor(msArray.length / 2)] : (msArray[msArray.length / 2 - 1] + msArray[msArray.length / 2]) / 2) : 0;
-        // Server-side wall clock: client-reported ms can be forged.
-        const elapsedS = now - Number(sessionRes.created_at);
-        if (medianMs < 4000 || elapsedS < answered * MIN_SECONDS_PER_ANSWER) {
-          status = "flagged";
-        }
-      }
+    } else if (tabSwitches > 2) {
+      status = "flagged";
+      reason = "tab_switches";
+    } else if (fullscreenExits > 2) {
+      status = "flagged";
+      reason = "fullscreen_exits";
+    } else if (copyPaste > 0) {
+      status = "flagged";
+      reason = "copy_paste";
+    } else if (devtools > 0) {
+      status = "flagged";
+      reason = "devtools";
+    } else if (elapsedS < answered * MIN_SECONDS_PER_ANSWER) {
+      status = "flagged";
+      reason = "server_too_fast";
+    } else if (medianMs < 1500) {
+      status = "flagged";
+      reason = "client_median_too_fast";
     }
 
     const score = Math.round(1000 * correct / 40);
-    const season = new Date().toISOString().substring(0, 7); // YYYY-MM
+    const season = seasonFor(now);
 
-    await db
-      .prepare("UPDATE ranked_sessions SET submitted_at = ? WHERE id = ?")
+    // Atomic claim: only one submit can win the `submitted_at IS NULL` race.
+    // A check-then-write here let two concurrent submits both insert a result.
+    const updateResult = await db
+      .prepare(
+        "UPDATE ranked_sessions SET submitted_at = ? WHERE id = ? AND submitted_at IS NULL"
+      )
       .bind(now, sessionId)
       .run();
+    const changes = Number((updateResult as any)?.meta?.changes ?? 0);
+    if (changes !== 1) {
+      return json({ error: "ALREADY_SUBMITTED" }, 409, {}, request);
+    }
 
     await db
       .prepare(
@@ -231,7 +286,7 @@ export async function routeRanked(
         correct,
         answered,
         status,
-        JSON.stringify(integrity),
+        JSON.stringify({ ...integrity, reason }),
         now
       )
       .run();
@@ -244,6 +299,7 @@ export async function routeRanked(
         answered,
         total: 40,
         review,
+        ...(status === "flagged" && reason ? { flagReason: reason } : {}),
       },
       200,
       {},
@@ -293,7 +349,7 @@ export async function routeRanked(
       .bind(deviceId, todayStart)
       .first("c");
     const deviceCount = Number(deviceCountRes) || 0;
-    if (deviceCount >= 5) {
+    if (deviceCount >= RANKED_MAX_STARTS_PER_DEVICE_DAY) {
       return json({ error: "RATE_LIMITED", message: "Max starts per device exceeded." }, 429, {}, request);
     }
 
@@ -304,7 +360,7 @@ export async function routeRanked(
       .bind(ipHash, todayStart)
       .first("c");
     const ipCount = Number(ipCountRes) || 0;
-    if (ipCount >= 30) {
+    if (ipCount >= RANKED_MAX_STARTS_PER_IP_DAY) {
       return json({ error: "RATE_LIMITED", message: "Max starts per IP exceeded." }, 429, {}, request);
     }
 
@@ -475,8 +531,7 @@ export async function routeRanked(
   if (url.pathname === "/v1/leaderboard" && request.method === "GET") {
     let season = url.searchParams.get("season");
     if (!season || !/^\d{4}-\d{2}$/.test(season)) {
-      const now = new Date();
-      season = `${now.getUTCFullYear()}-${String(now.getUTCMonth() + 1).padStart(2, "0")}`;
+      season = seasonFor(Math.floor(Date.now() / 1000));
     }
 
     let limit = parseInt(url.searchParams.get("limit") || "50", 10);

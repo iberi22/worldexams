@@ -31,7 +31,11 @@ class FakeD1 {
           });
         } else if (query.includes("UPDATE ranked_sessions SET submitted_at")) {
           const session = this.tables.ranked_sessions.find(s => s.id === boundParams[1]);
-          if (session) session.submitted_at = boundParams[0];
+          if (session && session.submitted_at == null) {
+            session.submitted_at = boundParams[0];
+            return { success: true, meta: { changes: 1 } };
+          }
+          return { success: true, meta: { changes: 0 } };
         } else if (query.includes("INSERT INTO ranked_results")) {
           this.tables.ranked_results.push({
             session_id: boundParams[0],
