@@ -35,12 +35,12 @@ cefr_level: "C1+"
 In the context of review p1, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?
 
 ### Opciones
-- [x] C) exacerbate
-  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
 - [ ] A) alleviate
   <!-- feedback: Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed. -->
 - [ ] B) mitigate
   <!-- feedback: Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied. -->
+- [x] C) exacerbate
+  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
 - [ ] D) facilitate
   <!-- feedback: Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide. -->
 
@@ -60,10 +60,10 @@ This question tests advanced vocabulary (verbs of change and impact) suitable fo
 In the context of review p1, which word best completes the following sentence: 'The review committee noted that the sample had been selected after the results were known, which could __________ the validity of every conclusion drawn from it'?
 
 ### Opciones
-- [x] B) undermine
-  <!-- feedback: 'Undermine' means to weaken the strength of a claim or conclusion, which is exactly what a sample chosen with knowledge of the outcome does. The clause 'every conclusion drawn from it' tells the student the target is the reasoning, not the data itself. -->
 - [ ] A) corroborate
   <!-- feedback: 'Corroborate' means to confirm a claim with supporting evidence, and selecting a sample after seeing results removes independence rather than providing it. The word names the opposite of what the procedure does. -->
+- [x] B) undermine
+  <!-- feedback: 'Undermine' means to weaken the strength of a claim or conclusion, which is exactly what a sample chosen with knowledge of the outcome does. The clause 'every conclusion drawn from it' tells the student the target is the reasoning, not the data itself. -->
 - [ ] C) streamline
   <!-- feedback: 'Streamline' means to make a process more efficient by removing waste, and nothing in the sentence concerns efficiency. The issue is the soundness of a conclusion, not the neatness of a method. -->
 - [ ] D) extrapolate
@@ -85,14 +85,14 @@ C1+ academic vocabulary is often about the status of a claim rather than its con
 In the context of review p1, which word best completes the following sentence: 'The two examiners disagreed about whether the essay met the standard, a disagreement that would __________ have to be settled by a third reader'?
 
 ### Opciones
-- [x] D) in effect
-  <!-- feedback: The phrase 'in effect' marks a consequence that follows in practice without anyone announcing it. The disagreement is described as unavoidable given that two examiners read the same essay differently, which is what makes a third reader necessary rather than optional. -->
 - [ ] A) in theory
   <!-- feedback: 'In theory' would set the outcome apart from practice, and the sentence says the opposite: the third reader is genuinely required because the disagreement is real, not merely formal. -->
 - [ ] B) on balance
   <!-- feedback: 'On balance' introduces a weighing of considerations, and the sentence describes a clash between two readings of one text with no weighing undertaken or completed. -->
 - [ ] C) in retrospect
   <!-- feedback: 'In retrospect' means looking back, and nothing in the sentence indicates a later reconsideration. The third reader is needed at the moment the examiners disagree, not afterwards. -->
+- [x] D) in effect
+  <!-- feedback: The phrase 'in effect' marks a consequence that follows in practice without anyone announcing it. The disagreement is described as unavoidable given that two examiners read the same essay differently, which is what makes a third reader necessary rather than optional. -->
 
 ### Explicacion Pedagogica
 At C1+ fixed adverbial phrases are a graded part of the syllabus, and the item turns on choosing the one whose register matches the argument. Each distractor is a real phrase, but only 'in effect' describes an outcome that follows necessarily from the situation described.
@@ -127,23 +127,27 @@ Which connector introduces a concession, as in '___ the route was longer, we arr
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.70
-**Contexto:** Discussing review p1 in Pereira.
+**Contexto:** Reading a city guide about the Ciclovía in Bogotá.
 
 ### Enunciado
-According to a recent report on review p1 in Pereira, what is implied about the role of General Advanced Review in shaping public opinion?
+Read the text and answer the question.
+
+"Every Sunday and public holiday, more than 120 kilometres of Bogotá's main roads close to cars from 7 a.m. to 2 p.m. During these hours, the Ciclovía belongs to cyclists, runners, skaters and families with children. The idea started in 1974 and has been copied by cities in Mexico, the United States and other countries. Supporters say it improves public health and brings people from different social classes together in the same space."
+
+What is the text mainly about?
 
 ### Opciones
-- [x] C) It serves as a critical tool for nuanced communication.
-  <!-- feedback: The report treats General Advanced Review as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: General Advanced Review add a layer of qualification rather than removing one, so it makes the argument harder, not simpler. -->
-- [ ] D) It is only used by academic elites in Cali.
-  <!-- feedback: The report presents General Advanced Review as common in journalism, advertising and everyday debate, so it is not restricted to academics. -->
+- [ ] A) The problems that the Ciclovía causes for car drivers.
+  <!-- feedback: Cars are mentioned only to say the roads close to them; no problems for drivers are described. -->
+- [ ] B) A new law that will close Bogotá's roads every day.
+  <!-- feedback: The Ciclovía started in 1974 and happens on Sundays and holidays, not every day. -->
+- [x] C) Bogotá's Ciclovía, how it works and why it is valued.
+  <!-- feedback: The text explains when and where it happens, who uses it, its international influence and its benefits. -->
+- [ ] D) The history of cycling competitions in Colombia.
+  <!-- feedback: The Ciclovía is a recreational space, not a competition, and no races are mentioned. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+This review item combines the themes of sustainability and urban life. A main-idea answer must be broad enough to cover the description, the history and the benefits, without adding information that is not in the text.
 
 ---
 
@@ -152,23 +156,27 @@ This question requires inferential reading skills to understand how complex stru
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.67
-**Contexto:** Discussing review p1 in Cartagena.
+**Contexto:** Reading a story from a public library in Sincelejo about digital skills for older adults.
 
 ### Enunciado
-According to a recent report on review p1 in Cartagena, what is implied about the role of General Advanced Review in shaping public opinion?
+Read the text and answer the question.
+
+"At a library in Sincelejo, teenagers volunteer every Wednesday to teach older adults how to use smartphones. Doña Elvira, 72, wanted to learn video calls so she could see her grandson, who studies in Spain. After four classes, she called him for the first time. 'Now I check the news on my phone too,' she says, 'but my teacher told me to look at the source before believing anything.'"
+
+What can be inferred about Doña Elvira's teacher?
 
 ### Opciones
-- [x] C) It serves as a critical tool for nuanced communication.
-  <!-- feedback: The report treats General Advanced Review as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: General Advanced Review add a layer of qualification rather than removing one, so it makes the argument harder, not simpler. -->
-- [ ] D) It is only used by academic elites in Bucaramanga.
-  <!-- feedback: The report presents General Advanced Review as common in journalism, advertising and everyday debate, so it is not restricted to academics. -->
+- [ ] A) The teacher studies in Spain with her grandson.
+  <!-- feedback: The grandson studies in Spain; the teacher is one of the teenage volunteers at the library in Sincelejo. -->
+- [ ] B) The teacher thinks older adults should not read news online.
+  <!-- feedback: The teacher helped her use the phone and gave advice on reading news carefully, not a prohibition. -->
+- [x] C) The teacher taught her to be careful about unreliable information.
+  <!-- feedback: The advice 'look at the source before believing anything' shows the teacher included media literacy in the lessons. -->
+- [ ] D) The teacher is 72 years old.
+  <!-- feedback: Doña Elvira is 72; the volunteers who teach are teenagers. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+This review item connects technology and media ethics. The inference comes from reported advice ('my teacher told me to...'), which reveals what the teacher considered important beyond the technical skills.
 
 ---
 
@@ -200,23 +208,27 @@ The third conditional describes an unreal past situation using 'had applied' and
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.61
-**Contexto:** Discussing review p1 in Bucaramanga.
+**Contexto:** Reading a travel article about Comuna 13 in Medellín.
 
 ### Enunciado
-According to a recent report on review p1 in Bucaramanga, what is implied about the role of General Advanced Review in shaping public opinion?
+Read the text and answer the question.
+
+"Twenty years ago, Comuna 13 in Medellín was known mainly for violence. Today, it is one of the city's most visited places. Outdoor escalators, colourful murals and hip-hop tours led by local young people attract thousands of tourists every month. Small businesses selling coffee, ice cream and art are thriving. Some residents worry that rising rents could push long-time families out, but most agree the neighbourhood's image has changed."
+
+In the text, the word "thriving" means:
 
 ### Opciones
-- [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: The report treats General Advanced Review as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: General Advanced Review add a layer of qualification rather than removing one, so it makes the argument harder, not simpler. -->
-- [ ] C) It is only used by academic elites in Barranquilla.
-  <!-- feedback: The report presents General Advanced Review as common in journalism, advertising and everyday debate, so it is not restricted to academics. -->
+- [ ] A) closing down
+  <!-- feedback: If businesses were closing, the text would not describe the area as one of the most visited places with thousands of tourists. -->
+- [ ] B) moving to another city
+  <!-- feedback: Nothing suggests that businesses are leaving; the text describes activity inside Comuna 13. -->
+- [ ] C) receiving government money
+  <!-- feedback: The text does not mention any government funding for the businesses. -->
+- [x] D) doing very well and growing
+  <!-- feedback: Thousands of tourists every month create many customers, so small businesses are successful and growing. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+This review item connects economic trends and urban change. The word 'thriving' is explained by the surrounding context: many visitors create demand, and the contrast with the past ('known mainly for violence') shows positive change.
 
 ---
 
@@ -248,23 +260,27 @@ When reporting the Monday promise later, 'will' becomes 'would' and 'tomorrow' b
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.55
-**Contexto:** Discussing review p1 in Barranquilla.
+**Contexto:** Reading an email from a Colombian student to an exchange student arriving in Bogotá.
 
 ### Enunciado
-According to a recent report on review p1 in Barranquilla, what is implied about the role of General Advanced Review in shaping public opinion?
+Read the text and answer the question.
+
+"Hi Lucas, I'm so glad you're coming to Bogotá for the exchange programme! A few tips before you arrive: bring a warm jacket, because nights here can be cold, even though Colombia is near the equator. Download a transport app to plan your trips, and always carry a little cash for small shops. Most importantly, don't be shy about speaking Spanish. People will appreciate your effort. See you in February! Mariana"
+
+What is the main purpose of Mariana's message?
 
 ### Opciones
-- [x] A) It serves as a critical tool for nuanced communication.
-  <!-- feedback: The report treats General Advanced Review as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication. -->
-- [ ] B) It is largely irrelevant to the general public.
-  <!-- feedback: Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on. -->
-- [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: General Advanced Review add a layer of qualification rather than removing one, so it makes the argument harder, not simpler. -->
-- [ ] D) It is only used by academic elites in Manizales.
-  <!-- feedback: The report presents General Advanced Review as common in journalism, advertising and everyday debate, so it is not restricted to academics. -->
+- [x] A) To give Lucas practical advice before his trip.
+  <!-- feedback: Mariana writes 'A few tips before you arrive' and gives advice about clothes, transport, cash and language. -->
+- [ ] B) To invite Lucas to study Spanish in a course.
+  <!-- feedback: She encourages him to speak Spanish, but she does not invite him to any course. -->
+- [ ] C) To complain about the cold weather in Bogotá.
+  <!-- feedback: She mentions cold nights only to explain why he should bring a jacket; it is advice, not a complaint. -->
+- [ ] D) To ask Lucas to bring cash from his country.
+  <!-- feedback: She tells him to carry cash for small shops in Bogotá, not to bring money from his country. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+This review item connects cultural exchange and everyday communication. Phrases like 'A few tips' and imperative verbs ('bring', 'download', 'carry') show that the purpose of the email is to give practical advice.
 
 ---
 
@@ -279,14 +295,14 @@ This question requires inferential reading skills to understand how complex stru
 Complete the following sentence about review p1: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: General Advanced Review)
 
 ### Opciones
-- [x] D) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
 - [ ] A) has
   <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
 - [ ] B) was
   <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
 - [ ] C) did
   <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
+- [x] D) had
+  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
 
 ### Explicacion Pedagogica
 This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.
@@ -427,14 +443,14 @@ This question is built so that each distractor corresponds to one specific misre
 In a high-level debate about review p1, Mariana says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mariana mean?
 
 ### Opciones
-- [x] D) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
 - [ ] A) They are literally looking for something in the trees of Barranquilla.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
 - [ ] C) A new environmental project involving trees should be started.
   <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [x] D) The current strategy is directed towards the wrong objective.
+  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
 
 ### Explicacion Pedagogica
 Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
@@ -446,23 +462,27 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.31
-**Contexto:** Discussing review p1 in Cali.
+**Contexto:** Two students in Bogotá work late on a review presentation.
 
 ### Enunciado
-In a high-level debate about review p1, Daniela says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Daniela mean?
+Read what Camilo says at 9 p.m.
+
+Camilo: "We've finished most of the slides. Let's call it a day and continue tomorrow morning."
+
+What does Camilo suggest?
 
 ### Opciones
-- [x] B) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of Cali.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] C) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] D) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [ ] A) Naming the presentation 'A Day of Review'.
+  <!-- feedback: This reads 'call it' literally as giving a name. The idiom is about stopping work. -->
+- [x] B) Stopping work for now.
+  <!-- feedback: 'Call it a day' means to stop working for the day; 'continue tomorrow morning' confirms that they will finish later. -->
+- [ ] C) Working through the night to finish.
+  <!-- feedback: Camilo proposes to continue the next morning, which is the opposite of working all night. -->
+- [ ] D) Presenting the slides the same night.
+  <!-- feedback: He says they have finished most, not all, of the slides, and he wants to continue tomorrow. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+'Call it a day' is common in school and work contexts. The second part of the sentence ('continue tomorrow morning') is a clear clue that the speaker wants to stop temporarily, not abandon the task.
 
 ---
 
@@ -471,23 +491,28 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.28
-**Contexto:** Discussing review p1 in Pereira.
+**Contexto:** Two members of an environmental committee in Manizales discuss a meeting.
 
 ### Enunciado
-In a high-level debate about review p1, Nicolás says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Nicolás mean?
+Read the conversation.
+
+Ana: "Should we put off the meeting with the environmental committee?"
+Diego: "Yes, half of the members are sick. Let's move it to next Friday."
+
+What does Ana propose?
 
 ### Opciones
-- [x] B) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of Cali.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] C) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] D) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [ ] A) Cancelling the committee permanently.
+  <!-- feedback: 'Put off' means to delay, not to cancel; Diego's answer moves the meeting to another day. -->
+- [x] B) Postponing the meeting to a later date.
+  <!-- feedback: The phrasal verb 'put off' means to postpone, and Diego confirms it by moving the meeting to next Friday. -->
+- [ ] C) Turning off the lights in the meeting room.
+  <!-- feedback: This confuses 'put off' with 'turn off'. The object of the verb is 'the meeting', not the lights. -->
+- [ ] D) Inviting more members to the meeting.
+  <!-- feedback: Ana's question is about the date of the meeting, not about the number of participants. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+'Put off' (postpone) is often confused with 'turn off' (stop a machine) or 'call off' (cancel). The reply 'Let's move it to next Friday' is the clue that the meeting is delayed, not cancelled.
 
 ---
 
@@ -502,10 +527,10 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 In a high-level debate about review p1, Mariana says: 'Examiners mark the same script differently every time the rubric changes, and I say that as a rule of thumb rather than a demonstrated finding.' What is she doing?
 
 ### Opciones
-- [x] B) She is reporting a recurring pattern while explicitly declining to present it as proven evidence.
-  <!-- feedback: The final clause draws a firm line between a rule she has observed and a finding she can demonstrate. She states the pattern and marks its limits at the same time, which is exactly what the two phrases together do. -->
 - [ ] A) She is retracting a claim she had already proved.
   <!-- feedback: A retraction would state that a proven claim proved false. Here she is qualifying a claim she never presented as established, so nothing is withdrawn. -->
+- [x] B) She is reporting a recurring pattern while explicitly declining to present it as proven evidence.
+  <!-- feedback: The final clause draws a firm line between a rule she has observed and a finding she can demonstrate. She states the pattern and marks its limits at the same time, which is exactly what the two phrases together do. -->
 - [ ] C) She is insisting that every rubric produces identical marks.
   <!-- feedback: The sentence describes the opposite, that marks differ whenever the rubric changes, and 'as a rule of thumb' explicitly prevents the generalisation from being absolute. -->
 - [ ] D) She is asking the other speakers to publish their marking records.
