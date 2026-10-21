@@ -676,7 +676,7 @@
               onClick={() => handleSelect(option.id)}
               className="cursor-pointer hover:border-emerald-500/40 transition-all duration-200 rounded-xl overflow-hidden group"
             >
-              <div class="py-4 px-5 sm:py-5 sm:px-6 flex items-center gap-4"> <!-- 📱 Increased padding for touch -->
+              <div class="py-4 px-5 sm:py-5 sm:px-6 flex items-center gap-4" data-testid={`practice-option-${option.id}`}> <!-- 📱 Increased padding for touch -->
                 <div class={`
                   w-8 h-8 sm:w-9 sm:h-9 flex items-center justify-center rounded-lg text-sm font-bold transition-all duration-300 shrink-0 border
                   ${selectedOption === option.id
@@ -723,7 +723,7 @@
       </button>
 
       <!-- Center: Status -->
-      <div class="text-[10px] sm:text-xs font-mono opacity-40 shrink-0 text-center">
+      <div class="text-[10px] sm:text-xs font-mono opacity-40 shrink-0 text-center" data-testid="practice-question-counter">
         <span class="hidden xs:inline">Pregunta</span> {currentIdx + 1} / {activeQuestions.length}
       </div>
 
