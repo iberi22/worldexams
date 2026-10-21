@@ -1,7 +1,7 @@
 <script lang="ts">
   import { onMount } from 'svelte';
   import {
-    dueDateToTimestamp,
+    dueDateToIso,
     formatDate,
     isUnauthorized,
     teacherErrorMessage,
@@ -78,7 +78,7 @@
         grade: group.grade,
         subject: subject || null,
         questionCount: count,
-        dueAt: dueDate ? dueDateToTimestamp(dueDate) : null,
+        dueAt: dueDate ? dueDateToIso(dueDate) : null,
       });
       assignments = [...assignments, assignment];
       onCountChange(assignments.length);

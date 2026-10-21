@@ -18,6 +18,16 @@ import type {
 } from './types';
 
 export const TEACHER_SESSION_KEY = 'inst.teacher.session';
+
+/** Countries the institutions API accepts (CONTRACT, W2.04 clarifications). */
+export const INSTITUTION_COUNTRIES = [
+  'co', 'mx', 'ar', 'br', 'cl', 'pe', 'ec', 'pa', 'cr', 'gt',
+  'do', 'sv', 'hn', 'ni', 'es', 'pr', 'gq', 'uy', 'py', 'bo',
+] as const;
+
+export function isInstitutionCountry(code: string | null | undefined): boolean {
+  return (INSTITUTION_COUNTRIES as readonly string[]).includes(String(code ?? '').toLowerCase());
+}
 export const DEFAULT_API_ORIGIN = 'https://api.saberparatodos.space';
 
 /** Display-side mirror of the API `PLAN_LIMITS` (the API enforces them). */
@@ -93,12 +103,15 @@ export function clearTeacherSession(): void {
 export class InstApiError extends Error {
   readonly status: number;
   readonly code: string;
+  /** `PLAN_LIMIT` carries the exhausted resource: `groups`, `students` or `activeAssignments`. */
+  readonly resource?: string;
 
-  constructor(status: number, code: string, message?: string) {
+  constructor(status: number, code: string, message?: string, resource?: string) {
     super(message || code);
     this.name = 'InstApiError';
     this.status = status;
     this.code = code;
+    this.resource = resource;
   }
 }
 
@@ -114,6 +127,10 @@ const ERROR_MESSAGES: Record<string, string> = {
   UNAUTHORIZED: 'Tu sesión expiró. Vuelve a entrar con tu correo.',
   INVALID_TOKEN: 'El enlace no es válido, ya se usó o expiró. Pide uno nuevo.',
   TOKEN_EXPIRED: 'El enlace expiró. Pide uno nuevo.',
+  TOKEN_USED: 'Este enlace ya se usó. Pide uno nuevo.',
+  INVALID_EMAIL: 'Escribe un correo válido.',
+  NO_INSTITUTION: 'Primero crea tu institución.',
+  BODY_TOO_LARGE: 'Los datos enviados son demasiado grandes.',
   RATE_LIMITED: 'Demasiados intentos. Espera un momento antes de volver a intentarlo.',
   NOT_FOUND: 'No encontramos ese recurso. Puede que ya no exista.',
   CONFLICT: 'Ese cambio entra en conflicto con datos existentes.',
@@ -132,9 +149,20 @@ const STATUS_FALLBACK: Record<number, string> = {
 };
 
 /** Spanish message for any error thrown by the client. */
+const PLAN_LIMIT_MESSAGES: Record<string, string> = {
+  groups: 'Llegaste al límite de grupos de tu plan. Archiva un grupo o escríbenos para ampliar el plan.',
+  students: 'Tu institución llegó al límite de estudiantes del plan. Escríbenos para ampliar el plan.',
+  activeAssignments:
+    'Llegaste al límite de tareas activas de tu plan. Espera a que venza alguna o escríbenos para ampliar el plan.',
+};
+
 export function teacherErrorMessage(error: unknown): string {
   if (error instanceof InstApiError) {
+    if (error.status === 401 && ERROR_MESSAGES[error.code] && error.code !== 'UNAUTHORIZED') return ERROR_MESSAGES[error.code];
     if (error.status === 401) return ERROR_MESSAGES.UNAUTHORIZED;
+    if (error.code === 'PLAN_LIMIT' && error.resource && PLAN_LIMIT_MESSAGES[error.resource]) {
+      return PLAN_LIMIT_MESSAGES[error.resource];
+    }
     const known = ERROR_MESSAGES[error.code] ?? ERROR_MESSAGES[STATUS_FALLBACK[error.status] ?? ''];
     if (known) return known;
   }
@@ -183,9 +211,11 @@ export function createTeacherClient(options: TeacherClientOptions = {}): Teacher
     }
 
     if (!response.ok) {
-      const payload = (await response.json().catch(() => null)) as { error?: string; message?: string } | null;
+      const payload = (await response.json().catch(() => null)) as
+        | { error?: string; message?: string; resource?: string }
+        | null;
       const code = payload?.error || STATUS_FALLBACK[response.status] || `HTTP_${response.status}`;
-      throw new InstApiError(response.status, code, payload?.message);
+      throw new InstApiError(response.status, code, payload?.message, payload?.resource);
     }
     return response;
   }
@@ -233,14 +263,15 @@ export function createTeacherClient(options: TeacherClientOptions = {}): Teacher
 // Helpers shared by the components
 // ---------------------------------------------------------------------------
 
-/** Accepts unix seconds or milliseconds and returns milliseconds. */
-export function toEpochMs(value: number | null | undefined): number | null {
-  if (value === null || value === undefined || !Number.isFinite(value)) return null;
-  return value < 1e12 ? value * 1000 : value;
+/** ISO-8601 timestamp from the API → epoch milliseconds, or null when missing or invalid. */
+export function parseTimestamp(value: string | null | undefined): number | null {
+  if (typeof value !== 'string' || !value.trim()) return null;
+  const ms = Date.parse(value);
+  return Number.isNaN(ms) ? null : ms;
 }
 
-export function formatDate(value: number | null | undefined, locale = 'es'): string {
-  const ms = toEpochMs(value);
+export function formatDate(value: string | null | undefined, locale = 'es'): string {
+  const ms = parseTimestamp(value);
   if (ms === null) return '—';
   try {
     return new Date(ms).toLocaleDateString(locale, { day: 'numeric', month: 'short', year: 'numeric' });
@@ -249,11 +280,12 @@ export function formatDate(value: number | null | undefined, locale = 'es'): str
   }
 }
 
-/** `YYYY-MM-DD` from a date input → unix seconds at the end of that local day. */
-export function dueDateToTimestamp(value: string): number | null {
+/** `YYYY-MM-DD` from a date input → ISO-8601 UTC string for the end of that local day. */
+export function dueDateToIso(value: string): string | null {
   if (!/^\d{4}-\d{2}-\d{2}$/.test(value)) return null;
   const [y, m, d] = value.split('-').map(Number);
-  return Math.floor(new Date(y, m - 1, d, 23, 59, 59).getTime() / 1000);
+  const date = new Date(y, m - 1, d, 23, 59, 59);
+  return Number.isNaN(date.getTime()) ? null : date.toISOString();
 }
 
 export function planUsageLabel(plan: InstitutionPlan, used: number): string {
@@ -268,10 +300,12 @@ export function canCreateGroup(plan: InstitutionPlan, used: number): boolean {
 }
 
 /**
- * Query param the student join flow (W2.06) reads. `?join=` is already taken by exam rooms,
- * so the institution code travels as `?colegio=`.
+ * The student panel lives at `/perfil#mi-colegio` and reads the code from `?colegio=` (W2.06).
+ * `?join=` is already taken by exam rooms.
  */
+export const JOIN_PATH = '/perfil';
 export const JOIN_QUERY_PARAM = 'colegio';
+export const JOIN_HASH = '#mi-colegio';
 
 export function joinUrl(joinCode: string, siteOrigin?: string): string {
   const origin =
@@ -279,5 +313,5 @@ export function joinUrl(joinCode: string, siteOrigin?: string): string {
     (typeof window !== 'undefined' && /^https?:/.test(window.location?.origin ?? '')
       ? window.location.origin
       : 'https://saberparatodos.space');
-  return `${origin.replace(/\/+$/, '')}/?${JOIN_QUERY_PARAM}=${encodeURIComponent(joinCode)}`;
+  return `${origin.replace(/\/+$/, '')}${JOIN_PATH}?${JOIN_QUERY_PARAM}=${encodeURIComponent(joinCode)}${JOIN_HASH}`;
 }
