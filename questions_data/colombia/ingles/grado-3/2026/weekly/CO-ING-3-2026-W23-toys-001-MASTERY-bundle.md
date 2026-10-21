@@ -18,190 +18,193 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-# MASTERY Bundle - Ingles: Toys (W23)
-**8 preguntas | Ingles | DBA MEN Colombia**
 
----
+# Bundle MASTERY: Toys (Juguetes) - Grado 3
+
+Vocabulario de juguetes y las expresiones "I have a..." e "Is it your...?" en contextos colombianos.
+
 ## Question 1 [D3-D4]
 **ID:** CO-ING-3-2026-W23-toys-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Expected_Success:** 0.85
+**Contexto:** En el recreo de un colegio de Barranquilla, los niños juegan fútbol en la cancha.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+It is round. You kick it and play soccer with it. What is it?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'accommodation' is the word for a place where you live or stay on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system of moving people or goods between places, not the place you sleep in itself. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live. -->
-- [ ] C) currency
-  <!-- feedback: 'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in. -->
+- [x] A) a ball
+  <!-- feedback: Correct. A ball is round and we kick it to play soccer. -->
+- [ ] B) a kite
+  <!-- feedback: Incorrect. A kite flies in the sky with a string; you do not kick it. -->
+- [ ] C) a doll
+  <!-- feedback: Incorrect. A doll looks like a little person; it is not round for soccer. -->
+- [ ] D) a puzzle
+  <!-- feedback: Incorrect. A puzzle has many pieces to put together; you do not kick it. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
+La "ball" (pelota o balón) es redonda ("round") y se patea ("kick") para jugar fútbol. La cometa ("kite") vuela, la muñeca ("doll") parece una persona y el rompecabezas ("puzzle") tiene fichas.
+
 ## Question 2 [D3-D4]
 **ID:** CO-ING-3-2026-W23-toys-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Lexico
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** En agosto hace mucho viento en Villa de Leyva y las familias van a elevar cometas.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+It flies high in the sky on a windy day. You hold it with a long string. What is it?
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' names only the place you are going to, without the route or the order of the whole journey. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official document that lets you cross a border, not the plan of where you go. -->
+- [ ] A) a car
+  <!-- feedback: Incorrect. A toy car has wheels and moves on the floor; it does not fly. -->
+- [x] B) a kite
+  <!-- feedback: Correct. A kite flies in the sky when it is windy, and you hold its string. -->
+- [ ] C) a yo-yo
+  <!-- feedback: Incorrect. A yo-yo has a string, but it goes up and down in your hand; it does not fly. -->
+- [ ] D) a teddy bear
+  <!-- feedback: Incorrect. A teddy bear is a soft toy animal that you hug; it cannot fly. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
+La cometa se dice "kite" en inglés. Vuela alto ("flies high") cuando hay viento ("windy") y se sostiene con una cuerda larga ("string"). El yo-yo también tiene cuerda, pero no vuela.
+
 ## Question 3 [D5-D6]
 **ID:** CO-ING-3-2026-W23-toys-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.72
+**Contexto:** Daniel recibe un regalo de cumpleaños en Bucaramanga y lo usa en el parque.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Complete the sentence: "I have a ___. It has two wheels and I ride it in the park."
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! 'destination' is the place someone is going to or something is being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the act of reaching a place, not the place that is reached. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from the start to the end, not the place the trip finishes at. -->
+- [ ] A) doll
+  <!-- feedback: Incorrect. A doll has no wheels and you do not ride it; you play with it like a baby. -->
+- [ ] B) puzzle
+  <!-- feedback: Incorrect. A puzzle has pieces, not wheels, and you cannot ride it. -->
+- [ ] C) kite
+  <!-- feedback: Incorrect. A kite has no wheels; it flies in the wind. -->
+- [x] D) bike
+  <!-- feedback: Correct. A bike has two wheels and you ride it. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
+Las pistas son "two wheels" (dos ruedas) y "I ride it" (la monto). El juguete es la bicicleta, "bike". La estructura "I have a..." sirve para decir qué juguete tenemos: "I have a bike".
+
 ## Question 4 [D5-D6]
 **ID:** CO-ING-3-2026-W23-toys-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.68
+**Contexto:** Al final de la clase en Pasto, la profesora encuentra un oso de peluche en una silla.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Read the dialogue.
+Teacher: "Is it your teddy bear, Valeria?"
+Valeria: "Yes, ___"
 
 ### Opciones
-- [x] C) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel. -->
-- [ ] A) ticket
-  <!-- feedback: 'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in. -->
-- [ ] B) flight
-  <!-- feedback: 'flight' is the journey by plane itself, not the containers that hold your things. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you make for a seat or a room, not the bag you carry. -->
+- [ ] A) I am.
+  <!-- feedback: Incorrect. "I am" answers questions with "Are you...?", not "Is it...?" -->
+- [x] B) it is.
+  <!-- feedback: Correct. A question with "Is it...?" gets the short answer "Yes, it is." -->
+- [ ] C) it isn't.
+  <!-- feedback: Incorrect. "It isn't" is a negative answer, so it does not go after "Yes". -->
+- [ ] D) they are.
+  <!-- feedback: Incorrect. "They are" is plural; the question asks about one teddy bear with "it". -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
+A la pregunta "Is it your...?" (¿es tuyo...?) se responde "Yes, it is." o "No, it isn't.". Como Valeria dice "Yes", la respuesta completa es "Yes, it is.". "I am" responde a "Are you...?".
+
 ## Question 5 [D7-D8]
 **ID:** CO-ING-3-2026-W23-toys-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.60
+**Contexto:** Mateo vive en Medellín y su abuelo le regaló un trompo de madera.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Read: "Mateo's favorite toy is a spinning top. It is made of wood. He spins it on the floor with a string." What does Mateo do with his toy?
 
 ### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew. -->
-- [ ] B) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all. -->
-- [ ] C) commuter
-  <!-- feedback: 'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle. -->
-- [ ] D) tourist
-  <!-- feedback: 'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle. -->
+- [ ] A) He flies it in the sky.
+  <!-- feedback: Incorrect. We fly a kite in the sky, but the text says the top spins on the floor. -->
+- [ ] B) He rides it to school.
+  <!-- feedback: Incorrect. We ride a bike; a spinning top is too small to ride. -->
+- [ ] C) He puts the pieces together.
+  <!-- feedback: Incorrect. We put pieces together in a puzzle; a spinning top has no pieces. -->
+- [x] D) He spins it on the floor.
+  <!-- feedback: Correct. The text says he spins the top on the floor with a string. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
+El "spinning top" es el trompo, un juguete tradicional colombiano. El texto dice "He spins it on the floor": lo hace girar en el piso con una cuerda. Elevar es para la cometa y armar es para el rompecabezas.
+
 ## Question 6 [D7-D8]
 **ID:** CO-ING-3-2026-W23-toys-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.56
+**Contexto:** Isabella escribe en su cuaderno de inglés sobre su juguete favorito en Cartagena.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Choose the correct sentence.
 
 ### Opciones
-- [x] C) customs
-  <!-- feedback: Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive. -->
-- [ ] A) security
-  <!-- feedback: 'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in. -->
-- [ ] B) terminal
-  <!-- feedback: 'terminal' is the building where you wait for your plane, not the place where your belongings are inspected. -->
-- [ ] D) gate
-  <!-- feedback: 'gate' is the door at the plane you walk through to board, not the place where officials check your things. -->
+- [ ] A) I has a doll.
+  <!-- feedback: Incorrect. "Has" is used with he or she; with "I" the verb is "have". -->
+- [ ] B) I have a dolls.
+  <!-- feedback: Incorrect. "A" means one, so the noun must be singular: "a doll", not "a dolls". -->
+- [x] C) I have a doll.
+  <!-- feedback: Correct. With "I" we use "have", and "a" goes before one thing: "a doll". -->
+- [ ] D) I a doll have.
+  <!-- feedback: Incorrect. The word order is wrong; the verb "have" goes after "I". -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
+La oración correcta sigue el orden sujeto + verbo + objeto: "I have a doll". Con "I" se usa "have" (no "has"), y después de "a" el sustantivo va en singular ("doll", no "dolls").
+
 ## Question 7 [D9-D10]
 **ID:** CO-ING-3-2026-W23-toys-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.50
+**Contexto:** Laura y su hermano ordenan la caja de juguetes en su casa de Ibagué.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Read: "Laura has a puzzle, a yo-yo and two dolls. Her brother has a red car and a ball." Which sentence is TRUE?
 
 ### Opciones
-- [x] A) boarding pass
-  <!-- feedback: Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane. -->
-- [ ] B) visa
-  <!-- feedback: 'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline. -->
-- [ ] C) receipt
-  <!-- feedback: 'receipt' is the proof that you paid for something, which is not permission to board a plane. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a leaflet with tourist information, not a travel document issued to a passenger. -->
+- [ ] A) Laura has a red car.
+  <!-- feedback: Incorrect. The red car belongs to her brother, not to Laura. -->
+- [ ] B) Her brother has a yo-yo.
+  <!-- feedback: Incorrect. The yo-yo belongs to Laura; her brother has a car and a ball. -->
+- [x] C) Laura has two dolls.
+  <!-- feedback: Correct. The text says Laura has two dolls. -->
+- [ ] D) Her brother has a puzzle.
+  <!-- feedback: Incorrect. The puzzle belongs to Laura, so this sentence is false. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
+Hay que separar los juguetes de cada niño. Laura tiene rompecabezas, yo-yo y dos muñecas ("two dolls"). Su hermano tiene un carro rojo ("red car") y una pelota. Solo "Laura has two dolls" es verdadera.
+
 ## Question 8 [D9-D10]
 **ID:** CO-ING-3-2026-W23-toys-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.45
+**Contexto:** Pablo encuentra un balón en el salón de clase en Santa Marta y quiere devolverlo a su dueño.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Pablo finds a ball in the classroom. He wants to know if it belongs to his friend Sara. What does he ask her?
 
 ### Opciones
-- [x] C) sightseeing
-  <!-- feedback: Correct! 'sightseeing' means visiting the places of interest of a location as a traveler. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place. -->
-- [ ] B) hiking
-  <!-- feedback: 'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place. -->
+- [x] A) Is it your ball?
+  <!-- feedback: Correct. "Is it your ball?" asks if the ball belongs to Sara. -->
+- [ ] B) Is it a ball?
+  <!-- feedback: Incorrect. This asks what the object is, but Pablo already knows it is a ball. -->
+- [ ] C) Where is the ball?
+  <!-- feedback: Incorrect. Pablo has the ball in his hands, so he does not need to ask where it is. -->
+- [ ] D) Do you like balls?
+  <!-- feedback: Incorrect. This asks about what Sara likes, not about who owns the ball. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Para preguntar de quién es algo usamos "Is it your...?" (¿es tuyo...?). Pablo ya sabe que es un balón y sabe dónde está; lo que quiere saber es si es de Sara: "Is it your ball?".
