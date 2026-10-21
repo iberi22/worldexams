@@ -56,7 +56,8 @@ export interface StudentAssignment {
   grade: number;
   subject: string | null;
   questionCount: number;
-  dueAt: number | null;
+  /** ISO 8601 date-time, or null when the task has no deadline. */
+  dueAt: string | null;
   done: boolean;
 }
 
@@ -227,11 +228,13 @@ export function isSharingWithSchool(): boolean {
   return getStudentSession()?.shareWithSchool === true;
 }
 
+/** Turning sharing off also discards queued results: nothing pending may leave later. */
 export function setShareWithSchool(enabled: boolean): StudentSession | null {
   const session = getStudentSession();
   if (!session) return null;
   const updated = { ...session, shareWithSchool: enabled };
   saveStudentSession(updated);
+  if (!enabled) saveQueue([]);
   return updated;
 }
 

@@ -1,5 +1,14 @@
 import { describe, it, expect, beforeEach, afterEach, vi } from 'vitest';
-import { reportResultToSchool, markAssignmentStarted, perAreaFromAnswers, PENDING_ASSIGNMENT_KEY } from './report-result';
+import {
+  reportResultToSchool,
+  markAssignmentStarted,
+  perAreaFromAnswers,
+  sanitizePerArea,
+  toSubjectId,
+  PENDING_ASSIGNMENT_KEY,
+  MAX_AREAS,
+  MAX_AREA_KEY_LENGTH
+} from './report-result';
 import { STUDENT_SESSION_KEY, getQueuedResults, setShareWithSchool } from './student-client';
 
 const SESSION = {
@@ -116,5 +125,53 @@ describe('perAreaFromAnswers', () => {
       { q1: 'A', q2: 'c', q3: 'c' }
     );
     expect(perArea).toEqual({ Numerico: { total: 2, correct: 1 }, Geometria: { total: 1, correct: 1 } });
+  });
+});
+
+describe('API-safe payloads', () => {
+  it('maps display subject names to [a-z0-9_-] ids or omits them', async () => {
+    expect(toSubjectId('Matemáticas')).toBe('matematicas');
+    expect(toSubjectId('Inglés Diagnóstico')).toMatch(/^[a-z0-9_-]+$/);
+    expect(toSubjectId('Speed Challenge')).toBe('speed_challenge');
+    expect(toSubjectId('¿?!')).toBeUndefined();
+    expect(toSubjectId('x'.repeat(41))).toBeUndefined();
+
+    joined();
+    await reportResultToSchool({ source: 'practice', subject: 'Inglés Diagnóstico', grade: 7, total: 10, correct: 5, durationS: 60 });
+    await reportResultToSchool({ source: 'practice', subject: '¿?!', grade: 7, total: 10, correct: 5, durationS: 60 });
+    const [first, second] = sentBodies();
+    expect(first.subject).toMatch(/^[a-z0-9_-]{1,40}$/);
+    expect(second).not.toHaveProperty('subject');
+  });
+
+  it('sanitizes area keys (no ":" or ",", max 40 chars) and keeps at most 20 areas', async () => {
+    const raw: Record<string, { total: number; correct: number }> = {
+      'Numérico: variacional, espacial': { total: 3, correct: 2 },
+      ['L'.repeat(80)]: { total: 1, correct: 1 }
+    };
+    for (let i = 0; i < 30; i++) raw[`Area ${i}`] = { total: 1, correct: 0 };
+
+    const clean = sanitizePerArea(raw)!;
+    const keys = Object.keys(clean);
+    expect(keys.length).toBe(MAX_AREAS);
+    for (const key of keys) {
+      expect(key).not.toMatch(/[:,]/);
+      expect(key.length).toBeLessThanOrEqual(MAX_AREA_KEY_LENGTH);
+    }
+    expect(clean['Numérico variacional espacial']).toEqual({ total: 3, correct: 2 });
+
+    joined();
+    await reportResultToSchool({ source: 'practice', grade: 7, total: 33, correct: 3, durationS: 60, perArea: raw });
+    const sent = sentBodies()[0].perArea;
+    expect(Object.keys(sent)).toHaveLength(MAX_AREAS);
+    expect(Object.keys(sent).every((k) => !/[:,]/.test(k) && k.length <= MAX_AREA_KEY_LENGTH)).toBe(true);
+  });
+
+  it('clamps grade to 1..12', async () => {
+    joined();
+    await reportResultToSchool({ source: 'practice', grade: 0, total: 10, correct: 5, durationS: 60 });
+    await reportResultToSchool({ source: 'practice', grade: 15, total: 10, correct: 5, durationS: 60 });
+    await reportResultToSchool({ source: 'practice', grade: -3, total: 10, correct: 5, durationS: 60 });
+    expect(sentBodies().map((b) => b.grade)).toEqual([7, 12, 1]);
   });
 });

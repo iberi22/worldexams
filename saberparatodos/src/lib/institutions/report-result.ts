@@ -16,6 +16,7 @@ import {
   type StudentResultInput,
   type SubmitOutcome
 } from './student-client';
+import { normalizeSubjectKey } from '../question-transformer';
 
 export const PENDING_ASSIGNMENT_KEY = 'inst.student.pendingAssignment';
 /** An assignment opened with "Empezar" counts for the next practice within this window. */
@@ -87,6 +88,49 @@ function clampInt(value: unknown, min: number, max: number): number {
   return Math.min(max, Math.max(min, n));
 }
 
+export const MAX_AREA_KEY_LENGTH = 40;
+export const MAX_AREAS = 20;
+const SUBJECT_ID_PATTERN = /^[a-z0-9_-]{1,40}$/;
+
+/**
+ * The API only accepts subject ids (`[a-z0-9_-]`). Exams carry display names
+ * ('Matemáticas', 'Inglés Diagnóstico'), so map them to the app's canonical
+ * subject key; anything that still does not fit is omitted.
+ */
+export function toSubjectId(value: string | null | undefined): string | undefined {
+  if (!value) return undefined;
+  const id = normalizeSubjectKey(String(value));
+  return SUBJECT_ID_PATTERN.test(id) ? id : undefined;
+}
+
+/** Strips separators the API rejects (':' ','), control chars, and caps the length. */
+export function sanitizeAreaKey(value: string): string {
+  return String(value || '')
+    .replace(/[\u0000-\u001f\u007f:,]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .slice(0, MAX_AREA_KEY_LENGTH)
+    .trim();
+}
+
+/** Sanitized keys, merged on collision, keeping the MAX_AREAS areas with most questions. */
+export function sanitizePerArea(perArea: PerArea | null | undefined): PerArea | undefined {
+  if (!perArea) return undefined;
+  const merged: PerArea = {};
+  for (const [rawKey, value] of Object.entries(perArea)) {
+    const key = sanitizeAreaKey(rawKey);
+    const total = clampInt(value?.total, 0, 200);
+    if (!key || total === 0) continue;
+    const bucket = (merged[key] ||= { total: 0, correct: 0 });
+    bucket.total = Math.min(200, bucket.total + total);
+    bucket.correct = Math.min(bucket.total, bucket.correct + clampInt(value?.correct, 0, total));
+  }
+  const kept = Object.entries(merged)
+    .sort((a, b) => b[1].total - a[1].total)
+    .slice(0, MAX_AREAS);
+  return kept.length > 0 ? Object.fromEntries(kept) : undefined;
+}
+
 /** Builds `{area: {total, correct}}` from practice questions and the student's answers. */
 export function perAreaFromAnswers(
   questions: Array<{ id: string | number; correctOptionId?: string; competency?: string; topic?: string }>,
@@ -102,7 +146,7 @@ export function perAreaFromAnswers(
     bucket.total++;
     if (correct) bucket.correct++;
   }
-  return Object.keys(perArea).length > 0 ? perArea : undefined;
+  return sanitizePerArea(perArea);
 }
 
 /**
@@ -117,8 +161,8 @@ export async function reportResultToSchool(report: SchoolResultReport): Promise<
 
     const total = clampInt(report.total, 0, 200);
     if (total === 0) return 'skipped';
-    const grade = clampInt(report.grade || session.group.grade, 0, 13);
-    const subject = report.subject ? String(report.subject) : undefined;
+    const grade = clampInt(report.grade || session.group.grade || 1, 1, 12);
+    const subject = toSubjectId(report.subject);
 
     const body: StudentResultInput = {
       source: report.source,
@@ -128,7 +172,8 @@ export async function reportResultToSchool(report: SchoolResultReport): Promise<
       durationS: clampInt(report.durationS, 0, 14400)
     };
     if (subject) body.subject = subject;
-    if (report.perArea && Object.keys(report.perArea).length > 0) body.perArea = report.perArea;
+    const perArea = sanitizePerArea(report.perArea);
+    if (perArea) body.perArea = perArea;
 
     if (report.source === 'practice') {
       const assignmentId = takePendingAssignment(grade, subject);
