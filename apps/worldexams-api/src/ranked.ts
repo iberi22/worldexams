@@ -19,6 +19,47 @@ const RANKED_MIN_POOL_PER_AREA = 24;
 const PLACEHOLDER_RE = /Pregunta de prueba \d+|Explicaci[oó]n detallada de la pregunta/i;
 const RANKED_SESSION_TTL_S = 90 * 60; // 90 min
 
+// Unresolved template placeholder: `{city}`, `{student_name}`. LaTeX groups
+// such as `\frac{a}{b}`, `\text{cal}`, `x^{2}`, `\sqrt{x-3}` and `_{i}`
+// are NOT placeholders, so the detector must not fire on them.
+const UNRESOLVED_PLACEHOLDER_RE = /\{[a-z_]{3,}\}/g;
+const LATEX_COMMAND_TAIL_RE = /\\[a-zA-Z]+$/;
+
+/**
+ * True when `text` contains an unresolved `{word}` template placeholder.
+ *
+ * LaTeX groups are excluded: a group preceded by a LaTeX command (`\frac{`,
+ * `\text{`, `\mathrm{`), by `^`/`_` (superscripts/subscripts) or by `}` is
+ * math, not a template. Only lowercase groups of 3+ chars count, which keeps
+ * `{a}` and `{b}` (common in formulas) out of the detector.
+ */
+export function hasUnresolvedPlaceholder(text: unknown): boolean {
+  if (typeof text !== "string" || text.length === 0) return false;
+  UNRESOLVED_PLACEHOLDER_RE.lastIndex = 0;
+  let match: RegExpExecArray | null;
+  while ((match = UNRESOLVED_PLACEHOLDER_RE.exec(text)) !== null) {
+    const start = match.index;
+    if (LATEX_COMMAND_TAIL_RE.test(text.slice(0, start))) continue;
+    const prev = start > 0 ? text[start - 1] : "";
+    if (prev === "^" || prev === "_" || prev === "}") continue;
+    return true;
+  }
+  return false;
+}
+
+/** True when any user-visible field of a pack question has an unresolved placeholder. */
+export function questionHasUnresolvedPlaceholder(question: any): boolean {
+  if (!question) return false;
+  if (hasUnresolvedPlaceholder(question.statement)) return true;
+  if (hasUnresolvedPlaceholder(question.context)) return true;
+  if (hasUnresolvedPlaceholder(question.explanation)) return true;
+  for (const option of question.options || []) {
+    if (hasUnresolvedPlaceholder(option?.text)) return true;
+    if (hasUnresolvedPlaceholder(option?.feedback)) return true;
+  }
+  return false;
+}
+
 // Mulberry32 PRNG
 export function mulberry32(a: number) {
   return function () {
@@ -27,6 +68,13 @@ export function mulberry32(a: number) {
     t ^= t + Math.imul(t ^ (t >>> 7), t | 61);
     return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
   };
+}
+
+/** Random hex string of `bytes` bytes (crypto.getRandomValues, Workers-safe). */
+function randomHex(bytes: number): string {
+  const buffer = new Uint8Array(bytes);
+  crypto.getRandomValues(buffer);
+  return Array.from(buffer, (b) => b.toString(16).padStart(2, "0")).join("");
 }
 
 export function shuffle<T>(array: T[], prng: () => number) {
@@ -73,6 +121,10 @@ export async function routeRanked(
     const { sessionId, answers, integrity } = body;
     if (!sessionId || !Array.isArray(answers) || !integrity) {
       return json({ error: "INVALID_BODY" }, 400, {}, request);
+    }
+    // A ranked exam is 40 questions; a larger payload is a forged request.
+    if (answers.length > 80) {
+      return json({ error: "TOO_MANY_ANSWERS" }, 400, {}, request);
     }
 
     const sessionRes = await db
@@ -131,6 +183,11 @@ export async function routeRanked(
         correctLetter: keyEntry.correctLetter,
         feedback: keyEntry.feedback,
         explanation: keyEntry.explanation,
+        // Sessions created before optionFeedback existed have no such field;
+        // the client must still receive a well-formed array.
+        optionFeedback: Array.isArray(keyEntry.optionFeedback)
+          ? keyEntry.optionFeedback
+          : [],
       });
     }
 
@@ -251,8 +308,11 @@ export async function routeRanked(
       return json({ error: "RATE_LIMITED", message: "Max starts per IP exceeded." }, 429, {}, request);
     }
 
-    // Sample questions
-    const seed = Math.floor(Math.random() * 2147483647);
+    // Sample questions. The seed drives question selection, so it must come
+    // from crypto rather than Math.random (predictable from the client).
+    const seedBuffer = new Uint32Array(1);
+    crypto.getRandomValues(seedBuffer);
+    const seed = seedBuffer[0];
     const prng = mulberry32(seed);
 
     const areas = [
@@ -287,7 +347,12 @@ export async function routeRanked(
           if (!id || seenIds.has(id)) continue;
           const correctCount = (q.options || []).filter((o: any) => o?.is_correct).length;
           const text = `${q.statement || ""} ${q.explanation || ""}`;
-          if ((q.options || []).length !== 4 || correctCount !== 1 || PLACEHOLDER_RE.test(text)) continue;
+          if (
+            (q.options || []).length !== 4 ||
+            correctCount !== 1 ||
+            PLACEHOLDER_RE.test(text) ||
+            questionHasUnresolvedPlaceholder(q)
+          ) continue;
           seenIds.add(id);
           areaPools[area].push({ ...q, subject: area });
         }
@@ -323,6 +388,12 @@ export async function routeRanked(
     shuffle(selectedQuestions, prng);
     const finalQuestions = selectedQuestions.slice(0, 40);
 
+    // Do not create a session the student cannot finish: a pool below the
+    // minimum answered threshold would force a not_eligible result.
+    if (finalQuestions.length < MIN_ANSWERED) {
+      return json({ error: "POOL_INSUFFICIENT" }, 503, {}, request);
+    }
+
     const answerKey: any[] = [];
     const clientQuestions = finalQuestions.map((q) => {
       const norm = normalizePackQuestion(q);
@@ -330,22 +401,27 @@ export async function routeRanked(
       const shuffledOptions = [...options];
       shuffle(shuffledOptions, prng);
 
+      // The client only gets `{ letter, text }`. Shipping feedback here leaked
+      // the correct option's explanation before the exam was submitted. The
+      // four-option feedback travels in the answer key (stored in D1) and is
+      // returned only by /submit, once the answers are locked in.
+      const optionFeedback = shuffledOptions.map((opt, i) => ({
+        letter: String.fromCharCode(65 + i), // A, B, C, D
+        feedback: opt.feedback || "",
+      }));
+
       const letteredOptions = shuffledOptions.map((opt, i) => {
-        const letter = String.fromCharCode(65 + i); // A, B, C, D
+        const letter = String.fromCharCode(65 + i);
         if (opt.is_correct) {
           answerKey.push({
             questionId: norm.id,
             correctLetter: letter,
             feedback: opt.feedback || "",
             explanation: norm.explanation || "",
+            optionFeedback,
           });
         }
-        // The client needs the feedback for every option, not just the correct
-        // one. The four-option feedback standard exists so the student learns
-        // why each distractor is wrong, and ranked was throwing three of the
-        // four away before they left the API. The answer key keeps the correct
-        // option's feedback, because that is the one the session grades with.
-        return { letter, text: opt.text, feedback: opt.feedback || "" };
+        return { letter, text: opt.text };
       });
 
 
@@ -358,7 +434,9 @@ export async function routeRanked(
       };
     });
 
-    const sessionId = await sha256(`${deviceId}:${now}:${seed}`);
+    // 32 random bytes = 256 bits of hex. Deriving the id from raw randomness
+    // keeps the seed out of the hash input entirely.
+    const sessionId = randomHex(32);
     const expiresAt = now + RANKED_SESSION_TTL_S;
 
     await db
@@ -369,7 +447,7 @@ export async function routeRanked(
       .bind(
         sessionId,
         deviceId,
-        nickname,
+        nickname.trim(),
         ipHash,
         seed,
         JSON.stringify(clientQuestions.map((q) => q.id)),
