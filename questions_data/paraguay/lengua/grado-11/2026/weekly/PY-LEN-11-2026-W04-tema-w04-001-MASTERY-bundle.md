@@ -98,8 +98,7 @@ El conector 'ademas' anade informacion.
 - [ ] D) La reunión, que, fue trasladada, se realizará el viernes. <!-- feedback: La coma interior tras el relativo es incorrecta porque parte la construcción que debería ir unida. -->
 
 ### Explicacion Pedagogica
-Un inciso se delimita con dos comas que lo separan del resto. Si solo se coloca la de apertura, la oración queda sintácticamente inacabada.## Explicacion Pedagogica
-La opcion A sigue las normas ortograficas correctamente.
+Un inciso se delimita con dos comas que lo separan del resto. Si solo se coloca la de apertura, la oración queda sintácticamente inacabada.
 ## Question 5 [D5-D6]
 **ID:** PY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v5
 **Bloom:** Analyze
@@ -279,7 +278,7 @@ El conector 'ademas' anade informacion.
 **Contexto:** Clase de lenguaje en PY.
 
 ### Enunciado
-¿Cual oracion esta correctamente escrita?
+En una noticia escolar hay que identificar el colegio de forma inequívoca. ¿Cuál oración lo logra?
 
 ### Opciones
 - [ ] A) Los estudiantes de la escuela estudian poco. <!-- feedback: Incorrecto. La oracion esta bien redactada y con buena concordancia, pero 'la escuela' es un nombre comun que puede designar cualquier centro; el enunciado pide el nombre propio completo de la institucion, y aqui no aparece. -->
@@ -288,7 +287,7 @@ El conector 'ademas' anade informacion.
 - [ ] D) Los estudiantes del instituto estudian mucho. <!-- feedback: Incorrecto. Comparte con la correcta la concordancia y el verbo 'estudian mucho', y se diferencia en un solo punto decisivo: emplea 'el instituto', un nombre comun, en lugar del nombre oficial completo. -->
 
 ### Explicacion Pedagogica
-La opcion A sigue las normas ortograficas correctamente.
+'Colegio Nacional de la Capital' es un nombre propio: identifica un colegio concreto y por eso cada palabra significativa va con mayúscula inicial. 'La escuela' o 'el instituto' son nombres comunes que pueden designar cualquier centro, así que esas oraciones, aunque tengan buena concordancia, no identifican la institución.
 
 ---
 
