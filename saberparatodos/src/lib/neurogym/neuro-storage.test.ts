@@ -40,7 +40,7 @@ describe('NeuroGym Sovereign Local Storage Engine', () => {
 
     const radar = await getLatestCognitiveRadar();
     expect(radar).not.toBeNull();
-    expect(radar?.labels).toContain('Razonamiento (IQ)');
+    expect(radar?.labels).toContain('Razonamiento abstracto');
     expect(radar?.values.length).toBe(7);
     expect(radar?.values[0]).toBe(profile.overallIQProxy.standardScore);
   });

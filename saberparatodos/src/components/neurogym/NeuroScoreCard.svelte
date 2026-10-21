@@ -4,16 +4,20 @@
   interface Props {
     profile: FullCognitiveProfile;
     onReset: () => void;
+    /** Claves del perfil medidas realmente; las demás se muestran como "no medido". */
+    measuredDomains?: string[];
   }
 
-  let { profile, onReset }: Props = $props();
+  let { profile, onReset, measuredDomains }: Props = $props();
+
+  const isMeasured = (key: string) => !measuredDomains || measuredDomains.includes(key);
 
   const domains = [
-    { title: 'Proxy CI (Razonamiento Fluido)', data: profile.overallIQProxy, color: 'text-emerald-400', border: 'border-emerald-500/30', bg: 'bg-emerald-500/10' },
-    { title: 'Memoria de Trabajo (Span)', data: profile.workingMemory, color: 'text-cyan-400', border: 'border-cyan-500/30', bg: 'bg-cyan-500/10' },
-    { title: 'Velocidad de Procesamiento (PSI)', data: profile.processingSpeed, color: 'text-yellow-400', border: 'border-yellow-500/30', bg: 'bg-yellow-500/10' },
-    { title: 'Agilidad Motora & Control', data: profile.motorAgility, color: 'text-purple-400', border: 'border-purple-500/30', bg: 'bg-purple-500/10' },
-    { title: 'Flexibilidad Analítica', data: profile.analyticalFlexibility, color: 'text-pink-400', border: 'border-pink-500/30', bg: 'bg-pink-500/10' }
+    { key: 'overallIQProxy', title: 'Razonamiento abstracto (matrices)', data: profile.overallIQProxy, color: 'text-emerald-400', border: 'border-emerald-500/30', bg: 'bg-emerald-500/10' },
+    { key: 'workingMemory', title: 'Memoria de Trabajo (Span)', data: profile.workingMemory, color: 'text-cyan-400', border: 'border-cyan-500/30', bg: 'bg-cyan-500/10' },
+    { key: 'processingSpeed', title: 'Velocidad de Procesamiento', data: profile.processingSpeed, color: 'text-yellow-400', border: 'border-yellow-500/30', bg: 'bg-yellow-500/10' },
+    { key: 'motorAgility', title: 'Agilidad Motora & Control', data: profile.motorAgility, color: 'text-purple-400', border: 'border-purple-500/30', bg: 'bg-purple-500/10' },
+    { key: 'analyticalFlexibility', title: 'Flexibilidad Analítica', data: profile.analyticalFlexibility, color: 'text-pink-400', border: 'border-pink-500/30', bg: 'bg-pink-500/10' }
   ];
 </script>
 
@@ -23,12 +27,12 @@
     <span class="text-xs uppercase tracking-widest text-emerald-400 font-mono font-bold">Perfil Neuropsicológico Baremado</span>
     <h2 class="text-3xl sm:text-4xl font-black text-white">Resultados de Evaluación Cognitiva</h2>
     <p class="text-xs text-white/60 max-w-lg mx-auto">
-      Métricas estandarizadas en escala psicométrica normalizada (Media=100, SD=15). Todos los cálculos se generaron de forma soberana on-device.
+      Escala de referencia (media 100, DE 15) calculada en tu dispositivo. Es orientativa: no es un diagnóstico clínico ni una medida de CI.
     </p>
 
-    <!-- Highlight Overall IQ Proxy -->
+    <!-- Razonamiento abstracto (matrices) -->
     <div class="inline-flex flex-col items-center p-4 bg-emerald-500/15 border border-emerald-400/40 rounded-2xl mt-2">
-      <span class="text-[10px] uppercase tracking-widest text-emerald-300 font-bold">Puntaje Estándar Compuesto</span>
+      <span class="text-[10px] uppercase tracking-widest text-emerald-300 font-bold">Razonamiento abstracto</span>
       <span class="text-5xl font-black text-emerald-400 my-1">{profile.overallIQProxy.standardScore}</span>
       <span class="text-xs text-white/80 font-semibold">
         Nivel: {profile.overallIQProxy.levelDescription} (Percentil {profile.overallIQProxy.percentile}%)
@@ -39,6 +43,12 @@
   <!-- Domain Breakdown -->
   <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
     {#each domains as dom}
+      {#if !isMeasured(dom.key)}
+        <div class="p-4 rounded-2xl border border-white/10 bg-white/5 space-y-1">
+          <h4 class="text-xs font-bold uppercase tracking-wider text-white/60">{dom.title}</h4>
+          <p class="text-[10px] text-white/40">No medido en esta evaluación. Entrénalo en la pestaña Juegos para ver tu progreso.</p>
+        </div>
+      {:else}
       <div class="p-4 rounded-2xl border {dom.border} {dom.bg} space-y-2">
         <div class="flex items-center justify-between">
           <h4 class="text-xs font-bold uppercase tracking-wider text-white/90">{dom.title}</h4>
@@ -53,6 +63,7 @@
           {dom.data.clinicalSummary}
         </p>
       </div>
+      {/if}
     {/each}
   </div>
 
@@ -60,7 +71,7 @@
   <div class="p-6 bg-white/5 border border-white/15 rounded-3xl space-y-4">
     <div class="flex items-center gap-2">
       <span class="text-xl">🏋️‍♂️</span>
-      <h3 class="text-sm font-bold uppercase tracking-widest text-white">Plan de Gimnasio Cerebral Recomendado</h3>
+      <h3 class="text-sm font-bold uppercase tracking-widest text-white">Plan de entrenamiento recomendado</h3>
     </div>
     <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
       {#each profile.recommendedDailyWorkout as w}

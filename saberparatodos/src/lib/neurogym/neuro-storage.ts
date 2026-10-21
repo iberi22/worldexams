@@ -104,7 +104,7 @@ export async function getLatestCognitiveRadar(): Promise<CognitiveRadarData | nu
   const latest = history[0].profile;
   return {
     labels: [
-      'Razonamiento (IQ)',
+      'Razonamiento abstracto',
       'Memoria Trabajo',
       'Velocidad (PSI)',
       'Agilidad Motora',

@@ -15,7 +15,8 @@ describe('neurogym stimulus — Wisconsin Card Sorting', () => {
     const path = 'src/components/neurogym/stimuli/CardSortingStimulus.svelte';
     const content = await fs.readFile(path, 'utf-8');
     expect(content).toContain('Clasificación de Tarjetas');
-    expect(content).toContain('consecutiveCorrect >= 5');
+    expect(content).toContain('consecutiveCorrect >= switchAfter');
+    expect(content).toContain('switchAfter = 5');
     expect(content).toContain('perseverativeErrors');
     expect(content).toContain('avgRuleSwitchLatencyMs');
     expect(content).toContain('neuroAudio.playSuccess()');

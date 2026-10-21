@@ -20,7 +20,7 @@ Herramienta: WorldExams NeuroGym (Baremación Psicométrica Estandarizada)
 
 1. ÍNDICES GENERALES
 -------------------
-- Razonamiento Abstracto (Proxy CI): ${profile.overallIQProxy.standardScore} (${profile.overallIQProxy.levelDescription}, Percentil ${profile.overallIQProxy.percentile}%)
+- Razonamiento Abstracto (matrices): ${profile.overallIQProxy.standardScore} (${profile.overallIQProxy.levelDescription}, Percentil ${profile.overallIQProxy.percentile}%)
 - Memoria de Trabajo (Span): ${profile.workingMemory.standardScore} (${profile.workingMemory.levelDescription})
 - Velocidad de Procesamiento (PSI): ${profile.processingSpeed.standardScore} (${profile.processingSpeed.levelDescription})
 - Agilidad Motora & Control: ${profile.motorAgility.standardScore} (${profile.motorAgility.levelDescription})

@@ -13,7 +13,7 @@ describe('CognitiveRadarChart Svelte Component', () => {
   });
 
   it('maps the 5 required cognitive axes from the profile', () => {
-    expect(code).toContain("label: 'Razonamiento (IQ)'");
+    expect(code).toContain("label: 'Razonamiento abstracto'");
     expect(code).toContain('profile.overallIQProxy.standardScore');
 
     expect(code).toContain("label: 'Memoria Trabajo'");

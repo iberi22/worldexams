@@ -36,9 +36,14 @@
     nLevel?: number;
     totalTrials?: number;
     onComplete?: (stats: DualNBackStats) => void;
+    /** Modo incrustado (NeuroTrainingSession): N fijo y sin tarjeta de resultados propia. */
+    embedded?: boolean;
   }
 
-  let { nLevel = 2, totalTrials = 20, onComplete }: Props = $props();
+  let { nLevel = 2, totalTrials = 20, onComplete, embedded = false }: Props = $props();
+
+  /** Probabilidad de forzar una coincidencia por modalidad (con azar puro sería ~1/9). */
+  const MATCH_PROBABILITY = 0.3;
 
   // Active N Level configuration (range 1..4)
   let selectedN = $state(Math.min(4, Math.max(1, nLevel)));
@@ -187,10 +192,15 @@
     positionFeedback = null;
     audioFeedback = null;
 
-    // Generar estímulo visual (grilla 3x3: 0..8)
-    const pos = Math.floor(Math.random() * 9);
-    // Generar estímulo auditivo (tono / letra: 0..7)
-    const soundIdx = Math.floor(Math.random() * LETTERS.length);
+    // Generar estímulo visual (grilla 3x3: 0..8) y auditivo (letra: 0..7),
+    // forzando coincidencias N-atrás con MATCH_PROBABILITY para que haya objetivos.
+    const canMatch = trialIndex >= selectedN;
+    const pos = canMatch && Math.random() < MATCH_PROBABILITY
+      ? positionHistory[trialIndex - selectedN]
+      : Math.floor(Math.random() * 9);
+    const soundIdx = canMatch && Math.random() < MATCH_PROBABILITY
+      ? audioHistory[trialIndex - selectedN]
+      : Math.floor(Math.random() * LETTERS.length);
 
     positionHistory = [...positionHistory, pos];
     audioHistory = [...audioHistory, soundIdx];
@@ -293,7 +303,7 @@
       </span>
 
       <!-- N-Level Selector (available when idle) -->
-      {#if !isRunning}
+      {#if !isRunning && !embedded}
         <div class="flex items-center gap-1">
           <span class="text-[10px] text-white/50 uppercase font-mono mr-1">N:</span>
           {#each [1, 2, 3, 4] as level}
@@ -306,7 +316,7 @@
             </button>
           {/each}
         </div>
-      {:else}
+      {:else if isRunning}
         <span class="text-xs font-mono font-semibold text-white/70">
           Ensayo {trialIndex + 1} / {totalTrials}
         </span>
@@ -403,7 +413,7 @@
   {/if}
 
   <!-- Stats Display Card upon completion -->
-  {#if finalStats}
+  {#if finalStats && !embedded}
     <div class="w-full p-5 bg-black/90 border border-emerald-500/40 rounded-3xl space-y-4 shadow-2xl">
       <div class="flex items-center justify-between border-b border-white/10 pb-3">
         <div>

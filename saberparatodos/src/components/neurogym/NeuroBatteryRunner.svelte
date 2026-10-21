@@ -15,6 +15,20 @@
     type RawCognitiveScores
   } from '../../lib/neurogym/scoring-cognitive';
   import { neuroAudio } from '../../lib/neurogym/audio-synthesizer';
+  import { saveNeuroSession } from '../../lib/neurogym/neuro-storage';
+
+  interface Props {
+    /** Se llama tras guardar el perfil en el dispositivo. */
+    onBatteryFinished?: (profile: FullCognitiveProfile) => void;
+  }
+
+  let { onBatteryFinished }: Props = $props();
+
+  /**
+   * Dominios que esta batería corta mide de verdad. El resto del perfil usa
+   * valores de referencia poblacionales y se marca como "no medido".
+   */
+  const MEASURED_DOMAINS = ['overallIQProxy', 'processingSpeed'];
 
   let currentPhase = $state<'intro' | 'raven' | 'stroop' | 'reaction' | 'results'>('intro');
   let currentTrialIndex = $state(0);
@@ -34,6 +48,9 @@
   let currentRavenItem = $state<RavenMatrixItem>(generateRavenMatrix(1, 2));
   let currentStroopItem = $state<StroopItem>(generateStroopTrial(1));
   let stroopTimes: number[] = [];
+  let stroopCongruentTimes: number[] = [];
+  let stroopIncongruentTimes: number[] = [];
+  let stroopErrors = 0;
   let reactionTimes: number[] = [];
   let trialStartTime = $state(0);
 
@@ -52,6 +69,10 @@
       neuroAudio.playError();
     }
     rawData.fluidReasoningRaw.total++;
+    rawData.fluidReasoningRaw.avgTimeMs = Math.round(
+      (rawData.fluidReasoningRaw.avgTimeMs * (rawData.fluidReasoningRaw.total - 1) + (performance.now() - trialStartTime)) /
+        rawData.fluidReasoningRaw.total
+    );
     currentTrialIndex++;
 
     if (currentTrialIndex < 3) {
@@ -62,6 +83,9 @@
       currentPhase = 'stroop';
       currentTrialIndex = 0;
       stroopTimes = [];
+      stroopCongruentTimes = [];
+      stroopIncongruentTimes = [];
+      stroopErrors = 0;
       currentStroopItem = generateStroopTrial(1);
       trialStartTime = performance.now();
     }
@@ -70,10 +94,12 @@
   function handleStroopAnswer(selectedKey: string) {
     const elapsed = performance.now() - trialStartTime;
     stroopTimes.push(elapsed);
+    (currentStroopItem.isCongruent ? stroopCongruentTimes : stroopIncongruentTimes).push(elapsed);
 
     if (selectedKey === currentStroopItem.correctColorKey) {
       neuroAudio.playSuccess();
     } else {
+      stroopErrors++;
       neuroAudio.playError();
     }
 
@@ -84,6 +110,11 @@
     } else {
       const avg = stroopTimes.reduce((a, b) => a + b, 0) / stroopTimes.length;
       rawData.processingSpeed.avgReactionMs = Math.round(avg);
+      rawData.processingSpeed.errorRate = stroopErrors / stroopTimes.length;
+      if (stroopCongruentTimes.length > 0 && stroopIncongruentTimes.length > 0) {
+        const mean = (xs: number[]) => xs.reduce((a, b) => a + b, 0) / xs.length;
+        rawData.processingSpeed.stroopInterferenceMs = Math.max(0, Math.round(mean(stroopIncongruentTimes) - mean(stroopCongruentTimes)));
+      }
       // Transition to Reaction
       currentPhase = 'reaction';
       currentTrialIndex = 0;
@@ -109,6 +140,10 @@
       }
       finalProfile = computeCognitiveProfile(rawData);
       currentPhase = 'results';
+      const profile = finalProfile;
+      saveNeuroSession(profile)
+        .then(() => onBatteryFinished?.(profile))
+        .catch(() => onBatteryFinished?.(profile));
     }
   }
 
@@ -126,7 +161,8 @@
       </div>
       <h1 class="text-3xl sm:text-5xl font-black text-white">WorldExams NeuroGym</h1>
       <p class="text-xs sm:text-sm text-white/60 max-w-xl mx-auto leading-relaxed">
-        Batería psicométrica interactiva avalada para medir y entrenar <strong>Razonamiento Abstracto (Proxy CI)</strong>, <strong>Memoria de Trabajo</strong>, <strong>Control Inhibitorio</strong> y <strong>Velocidad de Reacción</strong>.
+        Evaluación corta y orientativa de <strong>razonamiento abstracto</strong>, <strong>control inhibitorio</strong> y <strong>velocidad de reacción</strong>.
+        No es un diagnóstico ni una prueba de CI; sirve como punto de partida para el entrenamiento.
       </p>
 
       <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 max-w-2xl mx-auto text-left pt-2">
@@ -181,6 +217,6 @@
       <ReactionMotorPad onCompleteTrial={handleReactionTrial} />
     </div>
   {:else if currentPhase === 'results' && finalProfile}
-    <NeuroScoreCard profile={finalProfile} onReset={handleReset} />
+    <NeuroScoreCard profile={finalProfile} onReset={handleReset} measuredDomains={MEASURED_DOMAINS} />
   {/if}
 </div>
