@@ -38,6 +38,7 @@ Lee: "El zorro le dijo al pato: bájate del estanque, que aquí no te van a mole
   <!-- feedback: Es incorrecta porque las gallinas no aparecen en la frase que da el enunciado. -->
 - [ ] D) Al perro del granjero.
   <!-- feedback: Es incorrecta porque el perro no aparece en la frase, solo están el zorro y el pato. -->
+
 ### Explicacion Pedagogica
 La comprensión literal recupera quién habla con quién en una fábula. Reconocer a los personajes y la intención de cada uno es el punto de partida para entender la enseñanza.
 
@@ -58,6 +59,7 @@ La moraleja decía: "Con la fuerza no se gana cualquiera". ¿Qué quiere decir e
   <!-- feedback: Es incorrecta porque la enseñanza rechaza esa idea y por eso dice que no cualquiera gana. -->
 - [ ] D) Que hay que pedir ayuda siempre.
   <!-- feedback: Es incorrecta porque esa opción habla de pedir ayuda y no explica lo que significa la fuerza en la frase. -->
+
 ### Explicacion Pedagogica
 La moraleja es la enseñanza que deja una fábula. Entenderla es identificar la idea general que el autor quiere transmitir más allá de la historia.
 
@@ -78,6 +80,7 @@ La fábula dice: "La zorra se llevó el huevo sin que nadie lo notara". ¿Qué e
   <!-- feedback: Es correcta porque esa expresión significa justamente hacer algo sin que nadie lo note. -->
 - [ ] D) El huevo.
   <!-- feedback: Es incorrecta porque "el huevo" es lo que se llevó la zorra, no el modo de hacerlo. -->
+
 ### Explicacion Pedagogica
 Comprender una frase equivale a saber qué palabra reemplaza una expresión. Reconocer el sentido de cada palabra ayuda a entender mejor el cuento.
 
@@ -98,6 +101,7 @@ Si una fábula termina con "no descuides a tus amigos", ¿cuál es la intención
   <!-- feedback: Es incorrecta porque el texto no busca describir un paisaje, sino enseñar con la moraleja. -->
 - [ ] D) Hacer reír sin enseñar nada.
   <!-- feedback: Es incorrecta porque la moraleja sí enseña, así que el objetivo no es solo hacer reír. -->
+
 ### Explicacion Pedagogica
 Un texto narrativo puede tener una intención que va más allá de contar eventos. Las fábulas usan la historia para dejar una enseñanza sobre cómo actuar.
 
@@ -118,6 +122,7 @@ La fábula cuenta que el león empezó a rugir y todos los animales le tuvieron 
   <!-- feedback: Es incorrecta porque los animales sabían quién era el león, por eso le tenían miedo. -->
 - [ ] D) Que el león no comía carne.
   <!-- feedback: Es incorrecta porque el enunciado no menciona qué come el león, así que esa opción no explica nada. -->
+
 ### Explicacion Pedagogica
 Explicar un hecho de una fábula es conectar la causa con el efecto. El enunciado da el efecto y el lector deduce la causa a partir de lo que el texto cuenta.
 
@@ -138,6 +143,7 @@ El loro pensaba: "Si no digo nada, nadie se fija en mí". ¿Qué revela esa fras
   <!-- feedback: Es correcta porque la frase muestra que el loro tiene miedo de que lo descubran y por eso se esconde. -->
 - [ ] D) Que el loro no podía volar.
   <!-- feedback: Es incorrecta porque el texto no dice nada sobre si el loro puede volar. -->
+
 ### Explicacion Pedagogica
 Un personaje puede revelar algo sobre sí mismo en una sola frase. Analizar esa frase permite ver cómo el texto muestra los sentimientos del animal.
 
@@ -158,6 +164,7 @@ Una fábula dice: "El lobo llegó hasta el corral de las gallinas". La otra dice
   <!-- feedback: Es incorrecta porque los animales y los lugares son distintos en cada fábula. -->
 - [ ] D) Que el zorro y el lobo son el mismo animal.
   <!-- feedback: Es incorrecta porque son dos animales distintos, aunque los dos aparecen en las fábulas. -->
+
 ### Explicacion Pedagogica
 Comparar dos fábulas permite encontrar la estructura que comparten. Cuando varias historias tienen el mismo orden de acciones, se reconoce un esquema que ayuda a anticipar el final.
 
@@ -172,11 +179,12 @@ El grupo escribió: "El loro dijo que no iba a decir nada y luego contó el secr
 ### Opciones
 - [ ] A) Que la fábula no tiene personajes animales.
   <!-- feedback: Es incorrecta porque el loro es un personaje animal, así que sí hay personaje de ese tipo. -->
-- [x] B) Que la fábula enseña algo sobre la confianza.
-  <!-- feedback: Es correcta porque contar el secreto de un amigo enseña que no conviene confiar en quien habla de más. -->
+- [ ] B) Que la fábula termina sin ninguna moraleja.
+  <!-- feedback: Es incorrecta porque el enunciado no dice que la fábula termine sin moraleja. -->
 - [ ] C) Que la fábula es muy larga para cuarto grado.
   <!-- feedback: Es incorrecta porque el enunciado no mide la extensión de la fábula. -->
-- [ ] D) Que la fábula termina sin ninguna moraleja.
-  <!-- feedback: Es incorrecta porque el enunciado no dice que la fábula termine sin moraleja. -->
+- [x] D) Que la fábula enseña algo sobre la confianza.
+  <!-- feedback: Es correcta porque contar el secreto de un amigo enseña que no conviene confiar en quien habla de más. -->
+
 ### Explicacion Pedagogica
 Evaluar una fábula escrita por uno mismo es comprobar si su historia deja una enseñanza clara. Si los personajes hacen algo que contradice la moraleja, el texto necesita revisión.

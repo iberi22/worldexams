@@ -103,14 +103,14 @@ Aplicar los avances técnicos del siglo XV para explicar cómo fue posible reali
 ¿Cuál fue una consecuencia importante del encuentro entre Europa y América para los pueblos indígenas?
 
 ### Opciones
-- [x] D) La introducción de nuevas enfermedades contra las cuales no tenían defensas, lo que redujo enormemente su población.
-  <!-- feedback: Epidemias como la viruela causaron una gran mortalidad entre los pueblos originarios. -->
 - [ ] A) La independencia inmediata de todos los territorios indígenas sin ningún conflicto posterior.
   <!-- feedback: El proceso posterior fue de dominio colonial, no de independencia inmediata. -->
 - [ ] B) El abandono total de sus lenguas y religiones por decisión voluntaria y pacífica.
   <!-- feedback: El proceso fue en gran parte coercitivo y desigual. -->
 - [ ] C) El aumento de la población indígena en todo el continente gracias a nuevas medicinas.
   <!-- feedback: El efecto demográfico inmediato fue una fuerte disminución de la población indígena. -->
+- [x] D) La introducción de nuevas enfermedades contra las cuales no tenían defensas, lo que redujo enormemente su población.
+  <!-- feedback: Epidemias como la viruela causaron una gran mortalidad entre los pueblos originarios. -->
 
 ### Explicacion Pedagogica
 Aplicar el concepto de encuentro cultural para identificar consecuencias demográficas y sociales en los pueblos originarios.
@@ -126,10 +126,10 @@ Aplicar el concepto de encuentro cultural para identificar consecuencias demogr�
 ¿Cuál de los siguientes productos fue llevado a América por los europeos durante los viajes de exploración?
 
 ### Opciones
-- [x] B) El trigo y el ganado bovino, que se aclimataron en distintas regiones de América.
-  <!-- feedback: El trigo y el ganado bovino fueron introducidos por los europeos en América. -->
 - [ ] A) La papa y el maíz, que ya eran cultivados por pueblos indígenas.
   <!-- feedback: La papa y el maíz ya existían en América antes del encuentro. -->
+- [x] B) El trigo y el ganado bovino, que se aclimataron en distintas regiones de América.
+  <!-- feedback: El trigo y el ganado bovino fueron introducidos por los europeos en América. -->
 - [ ] C) El cacao, que era consumido únicamente en las islas del Caribe.
   <!-- feedback: El cacao ya era cultivado por pueblos mesoamericanos antes de la llegada europea. -->
 - [ ] D) La quinua, propia de los Andes desde tiempos prehispánicos.
@@ -149,12 +149,12 @@ Aplicar el intercambio de productos para distinguir los alimentos llevados a Am�
 ¿Qué análisis se puede hacer sobre las dos formas de nombrar el hecho histórico?
 
 ### Opciones
-- [x] A) Cada nombre refleja una mirada diferente: la europea destaca el hallazgo, la indígena resalta el impacto negativo sobre sus comunidades.
-  <!-- feedback: Las palabras revelan perspectivas distintas sobre un mismo proceso histórico. -->
+- [ ] A) Solo la versión europea es válida, porque fue escrita por personas educadas de la época.
+  <!-- feedback: La visión indígena es igualmente válida como fuente histórica. -->
 - [ ] B) Las dos versiones son exactamente iguales, porque cuentan lo mismo sin diferencias.
   <!-- feedback: Las dos versiones enfatizan aspectos distintos del mismo proceso. -->
-- [ ] C) Solo la versión europea es válida, porque fue escrita por personas educadas de la época.
-  <!-- feedback: La visión indígena es igualmente válida como fuente histórica. -->
+- [x] C) Cada nombre refleja una mirada diferente: la europea destaca el hallazgo, la indígena resalta el impacto negativo sobre sus comunidades.
+  <!-- feedback: Las palabras revelan perspectivas distintas sobre un mismo proceso histórico. -->
 - [ ] D) El término "invasión" no tiene relación con los pueblos originarios.
   <!-- feedback: El término "invasión" refleja precisamente el impacto sobre los pueblos originarios. -->
 
@@ -172,10 +172,10 @@ Analizar cómo los nombres de un hecho histórico reflejan distintas perspectiva
 ¿Qué análisis se puede hacer sobre el efecto globalizador de los viajes de exploración?
 
 ### Opciones
-- [x] B) Los viajes de exploración iniciaron un proceso de conexión global que mezcló culturas, pero también generó desigualdades entre regiones.
-  <!-- feedback: El encuentro produjo intercambios culturales y, a la vez, relaciones de poder desiguales. -->
 - [ ] A) Los viajes no cambiaron nada en la economía mundial, porque cada región siguió produciendo lo mismo.
   <!-- feedback: El comercio global se transformó profundamente a partir de estos viajes. -->
+- [x] B) Los viajes de exploración iniciaron un proceso de conexión global que mezcló culturas, pero también generó desigualdades entre regiones.
+  <!-- feedback: El encuentro produjo intercambios culturales y, a la vez, relaciones de poder desiguales. -->
 - [ ] C) América no influyó en la economía mundial porque solo exportaba productos sin valor.
   <!-- feedback: América aportó productos muy valiosos como el oro, la plata y alimentos como la papa y el maíz. -->
 - [ ] D) La conexión entre continentes benefició por igual a todas las sociedades involucradas.
@@ -195,14 +195,14 @@ Analizar el inicio de la globalización a partir de los viajes de exploración y
 ¿Por qué es importante estudiar hoy los viajes de exploración y el descubrimiento de América desde varias perspectivas?
 
 ### Opciones
-- [x] D) Porque permite comprender el origen de la diversidad cultural actual y reflexionar sobre el respeto a las diferencias y los derechos de los pueblos originarios.
-  <!-- feedback: Estudiar el pasado ayuda a valorar la diversidad y a promover el respeto en el presente. -->
 - [ ] A) Porque solo interesa a los historiadores profesionales y no al ciudadano común.
   <!-- feedback: Comprender el pasado histórico es relevante para toda la ciudadanía. -->
 - [ ] B) Porque conocer el pasado no tiene relación con la vida cotidiana actual.
   <!-- feedback: El pasado explica muchos aspectos de la sociedad actual, como la diversidad cultural. -->
 - [ ] C) Porque es un tema sin relación con la formación ciudadana de los estudiantes.
   <!-- feedback: La formación ciudadana incluye el conocimiento crítico del pasado común. -->
+- [x] D) Porque permite comprender el origen de la diversidad cultural actual y reflexionar sobre el respeto a las diferencias y los derechos de los pueblos originarios.
+  <!-- feedback: Estudiar el pasado ayuda a valorar la diversidad y a promover el respeto en el presente. -->
 
 ### Explicacion Pedagogica
 Evaluar la importancia de estudiar críticamente el descubrimiento de América para la formación ciudadana y el respeto cultural.

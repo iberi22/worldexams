@@ -38,10 +38,10 @@ What word describes the presence of dirty or harmful substances in the air, wate
 ### Opciones
 - [ ] A) Nature
   <!-- feedback: Incorrect. This is the general natural world. -->
-- [x] C) Pollution
-  <!-- feedback: Correct! Pollution refers to contamination of the environment. -->
 - [ ] B) Weather
   <!-- feedback: Incorrect. This refers to atmospheric conditions. -->
+- [x] C) Pollution
+  <!-- feedback: Correct! Pollution refers to contamination of the environment. -->
 - [ ] D) Energy
   <!-- feedback: Incorrect. This is a physical capacity to work. -->
 
@@ -63,10 +63,10 @@ Which of these is a major cause of air pollution in big cities like Bogotá?
 ### Opciones
 - [ ] A) Planting trees
   <!-- feedback: Incorrect. This helps clean the air. -->
-- [x] C) Car exhaust and smoke
-  <!-- feedback: Correct! Fumes from vehicles and factories are major air pollutants. -->
 - [ ] B) Recycling plastic
   <!-- feedback: Incorrect. This helps the environment. -->
+- [x] C) Car exhaust and smoke
+  <!-- feedback: Correct! Fumes from vehicles and factories are major air pollutants. -->
 - [ ] D) Using solar energy
   <!-- feedback: Incorrect. This is a clean energy source. -->
 
@@ -136,14 +136,14 @@ The student understands the relationship between an environmental problem and it
 "Governments ________ pass laws to protect the endangered animals in the Amazon."
 
 ### Opciones
-- [x] D) should
-  <!-- feedback: Correct! Suggests a necessary and positive action for the environment. -->
 - [ ] A) shouldn't
   <!-- feedback: Incorrect. This would be bad advice. -->
 - [ ] B) can't
   <!-- feedback: Incorrect. They are able to do it, and they should. -->
 - [ ] C) won't
   <!-- feedback: Incorrect. This is a negative future prediction, not advice. -->
+- [x] D) should
+  <!-- feedback: Correct! Suggests a necessary and positive action for the environment. -->
 
 ### Explicacion Pedagogica
 The student applies modal verbs to express environmental recommendations.
@@ -164,12 +164,12 @@ What is one consequence of cutting down trees according to the text?
 ### Opciones
 - [ ] A) The trees produce more oxygen.
   <!-- feedback: Incorrect. We lose the oxygen. -->
-- [x] D) Animals lose their natural habitats.
-  <!-- feedback: Correct! The text says it's "destroying the homes" of species. -->
 - [ ] B) The rainforest becomes colder.
   <!-- feedback: Incorrect. Usually, it contributes to warming. -->
 - [ ] C) More species appear.
   <!-- feedback: Incorrect. They are being affected negatively. -->
+- [x] D) Animals lose their natural habitats.
+  <!-- feedback: Correct! The text says it's "destroying the homes" of species. -->
 
 ### Explicacion Pedagogica
 The student applies reading strategies to identify specific consequences of an environmental problem.
@@ -215,10 +215,10 @@ Why is global warming a threat to coastal cities?
 ### Opciones
 - [ ] A) Because there will be more fish.
   <!-- feedback: More fish would be a benefit rather than a threat, and warming seas actually drive some fish away from coastal waters. -->
-- [x] C) Because rising sea levels can cause flooding of homes.
-  <!-- feedback: Correct! "Sea levels rise" and "houses might go under water" explain the threat. -->
 - [ ] B) Because the water will be too hot for swimming.
   <!-- feedback: Incorrect. Not the main threat mentioned. -->
+- [x] C) Because rising sea levels can cause flooding of homes.
+  <!-- feedback: Correct! "Sea levels rise" and "houses might go under water" explain the threat. -->
 - [ ] D) Because it won't rain anymore.
   <!-- feedback: Incorrect. Not mentioned. -->
 
@@ -264,12 +264,12 @@ The student analyzes various behaviors to identify which one aligns best with th
 What is the main message of this slogan?
 
 ### Opciones
-- [ ] A) We should live in trash cans.
-  <!-- feedback: Living in a trash can is a literal reading of the words 'our home' and 'trash'; a slogan is meant figuratively, and nothing here suggests it. -->
+- [x] A) We must respect our planet and stop contaminating it.
+  <!-- feedback: Correct! "Respect our home" and "Stop pollution" capture the essence. -->
 - [ ] B) Pollution is only a problem on the streets.
   <!-- feedback: Incorrect. The Earth is a global home. -->
-- [x] C) We must respect our planet and stop contaminating it.
-  <!-- feedback: Correct! "Respect our home" and "Stop pollution" capture the essence. -->
+- [ ] C) We should live in trash cans.
+  <!-- feedback: Living in a trash can is a literal reading of the words 'our home' and 'trash'; a slogan is meant figuratively, and nothing here suggests it. -->
 - [ ] D) The Earth is too small for everyone.
   <!-- feedback: Incorrect. Not the point of the slogan. -->
 

@@ -244,10 +244,10 @@ What is true based on the son's answer?
   <!-- feedback: Incorrect. He says "I cleaned the floor". -->
 - [ ] B) He organized his desk.
   <!-- feedback: Incorrect. He says "I didn't organize my desk". -->
-- [x] C) His desk is still messy.
-  <!-- feedback: Correct! Since he didn't organize it, it remains as it was (likely messy). -->
-- [ ] D) He didn't do anything.
+- [ ] C) He didn't do anything.
   <!-- feedback: Incorrect. He cleaned the floor. -->
+- [x] D) His desk is still messy.
+  <!-- feedback: Correct! Since he didn't organize it, it remains as it was (likely messy). -->
 
 ### Explicacion Pedagogica
 The student analyzes affirmative and negative past statements to infer the current state of a situation.

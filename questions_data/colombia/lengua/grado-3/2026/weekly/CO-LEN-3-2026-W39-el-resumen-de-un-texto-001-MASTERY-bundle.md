@@ -38,6 +38,7 @@ Esta semana los estudiantes leen un texto completo y escriben un resumen breve q
   <!-- feedback: Correcto. El resumen conserva la idea principal y deja fuera los detalles, por eso es más breve que el texto original. -->
 - [ ] D) Una lista de las palabras más difíciles que tiene el texto
   <!-- feedback: Incorrecto. Un resumen trata sobre el contenido del texto y no sobre las palabras difíciles que ese texto contiene. -->
+
 ### Explicacion Pedagogica
 Resumir es contar lo esencial con menos palabras. El resumen no copia ni inventa: mantiene la idea principal del texto original y omite los detalles que solo apoyan esa idea.
 ## Question 2 [D3-D4]
@@ -57,6 +58,7 @@ La noticia de Florencia dice: "En Armenia, los productores de café tuvieron una
   <!-- feedback: Incorrecto. Las lluvias de marzo son un dato de apoyo que explica el resultado, y no la idea central de la noticia. -->
 - [ ] D) El color del café y el nombre de la finca donde se cosechó
   <!-- feedback: Incorrecto. Esos son detalles que la noticia no destaca, así que no son lo que un resumen debe conservar. -->
+
 ### Explicacion Pedagogica
 Un buen resumen conserva la idea principal y descarta los detalles. En esta noticia lo esencial es el resultado de la cosecha, mientras que las lluvias de marzo solo sirven de apoyo.
 ## Question 3 [D5-D6]
@@ -76,6 +78,7 @@ El texto de Riohacha dice: "Los manglares de la costa colombiana son bosques que
   <!-- feedback: Incorrecto. Esa versión cambia el contenido al llamarlos árboles y no menciona el riesgo de la tala, que es una idea central del texto. -->
 - [ ] D) Las raíces de los manglares filtran la sal y por eso son un peligro para la costa
   <!-- feedback: Incorrecto. Esa versión inventa una relación equivocada, porque filtrar la sal no es un peligro sino una adaptación de los manglares. -->
+
 ### Explicacion Pedagogica
 Resumir bien exige decir lo importante con palabras más cortas. La mejor versión conserva la definición y el riesgo, y deja atrás la información sobre las aves porque no es el centro del texto.
 ## Question 4 [D5-D6]
@@ -95,6 +98,7 @@ Un texto de Guateque dice: "El dorso azul pequeño se alimenta de insectos. Su c
   <!-- feedback: Incorrecto. Esa frase sirve como resumen, porque describe el ave y el lugar sin contradecir lo que dice el texto. -->
 - [x] D) El dorso azul pequeño se alimenta de semillas y vive en la sabana
   <!-- feedback: Correcto. El texto dice que come insectos y que está en las quebradas, así que esa opción inventa dos datos que no aparecen. -->
+
 ### Explicacion Pedagogica
 Un resumen nunca puede inventar información. Si una frase añade datos que el texto no menciona, como semillas o sabana, ya no resume: cambia el contenido original.
 ## Question 5 [D5-D6]
@@ -114,6 +118,7 @@ Un texto de Barrancabermeja tiene seis párrafos y su resumen tiene cinco línea
   <!-- feedback: Correcto. Esa es la relación correcta: menos extensión y el mismo contenido esencial, sin perder lo importante. -->
 - [ ] D) El resumen debe tener la mitad de los datos del texto, sin importar cuáles
   <!-- feedback: Incorrecto. No se trata de quitar la mitad de los datos al azar, sino de quitar los que no son la idea principal. -->
+
 ### Explicacion Pedagogica
 La relación entre un texto y su resumen es de extensión y de contenido: el resumen es más corto y conserva lo esencial. Sacar datos al azar puede dejar fuera justo la idea que el texto quería comunicar.
 ## Question 6 [D7-D8]
@@ -125,14 +130,15 @@ La relación entre un texto y su resumen es de extensión y de contenido: el res
 ### Enunciado
 El texto de Ocaña dice: "El caimán del Magdalena es un reptil que vive en el río y se alimenta de peces. Su mordida es la más fuerte de todos los reptiles." Un resumen dice: "El caimán del Magdalena es un reptil fuerte que se alimenta de peces." ¿Qué problema tiene ese resumen?
 ### Opciones
-- [ ] A) Es demasiado largo y por eso no cumple la función de resumen
-  <!-- feedback: Incorrecto. El resumen es breve y correctamente más corto que el texto, así que no falla por su extensión. -->
-- [x] B) Cambia un dato: el texto habla de la mordida y el resumen dice que el animal entero es fuerte
+- [x] A) Cambia un dato: el texto habla de la mordida y el resumen dice que el animal entero es fuerte
   <!-- feedback: Correcto. "Fuerte" en el resumen se refiere al animal completo, mientras que el texto solo afirma algo sobre su mordida. -->
+- [ ] B) Es demasiado largo y por eso no cumple la función de resumen
+  <!-- feedback: Incorrecto. El resumen es breve y correctamente más corto que el texto, así que no falla por su extensión. -->
 - [ ] C) Usa la palabra reptil, que el texto original nunca menciona
   <!-- feedback: Incorrecto. El texto sí presenta al caimán como un reptil, de modo que esa palabra sí está respaldada por el original. -->
 - [ ] D) No menciona qué come el caimán y por eso el resumen está incompleto
   <!-- feedback: Incorrecto. El resumen sí dice que se alimenta de peces, así que ese dato principal sí está conservado. -->
+
 ### Explicacion Pedagogica
 Un resumen debe ser fiel al texto original. Al decir que el caimán es fuerte, el resumen desplaza ese adjetivo a todo el animal, cuando el texto solo afirma algo sobre su mordida.
 ## Question 7 [D7-D8]
@@ -152,6 +158,7 @@ Un texto de San Gil dice que el parque nacional protege muchos árboles, que all
   <!-- feedback: Correcto. Conserva las tres ideas del texto: la protección de los árboles, las aves que viven allí y el cuidado de los visitantes. -->
 - [ ] D) Los árboles del parque son más altos que los de otras regiones del país
   <!-- feedback: Incorrecto. El texto no compara la altura de los árboles, así que ese resumen agrega una idea que no está en el original. -->
+
 ### Explicacion Pedagogica
 Comparar resúmenes permite ver cuál conserva mejor lo esencial. El mejor es el que mantiene las ideas centrales, y el peor es el que inventa datos o deja fuera la idea principal del texto.
 ## Question 8 [D7-D8]
@@ -171,5 +178,6 @@ El texto de Garzón sobre el páramo tiene cinco párrafos. ¿Cuál de estos tex
   <!-- feedback: Incorrecto. Empezar por lo más pequeño invierte la estructura del texto, porque lo general debe ir antes que lo particular. -->
 - [x] D) Un párrafo que comienza por por qué es importante el páramo y luego da el dato principal que lo explica
   <!-- feedback: Correcto. Así el resumen entrega la idea central de entrada y añade el dato que la sostiene, sin inventar nada. -->
+
 ### Explicacion Pedagogica
 Un buen resumen se puede escribir sin volver al texto original. Empezar por la idea más importante y añadir el dato que la apoya es la forma más segura de conservar el contenido sin alargarlo.

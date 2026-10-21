@@ -72,10 +72,10 @@ La funcion expresiva se centra en el emisor y expresa sentimientos.
 Identifica el conector: Hernandarias es hermosa, ____ su gente es acogedora.
 
 ### Opciones
-- [x] D) ademas <!-- feedback: Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Hernandarias y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro. -->
 - [ ] A) sin embargo <!-- feedback: Incorrecto. 'Sin embargo' es adversativo: introduce una idea que se opone a lo que se habia dicho. En esta oracion las dos proposiciones se refuerzan, porque la gente de Hernandarias no contradice a su ciudad, asi que una oposicion seria falsa. -->
 - [ ] B) por lo tanto <!-- feedback: Incorrecto. 'Por lo tanto' es conclusivo: la segunda proposicion deduce una consecuencia de la primera. Aqui no hay deduccion, sino dos caracteristicas de Hernandarias que se acumulan sin derivarse una de otra. -->
 - [ ] C) aunque <!-- feedback: Incorrecto. 'Aunque' introduce una concesion: lo que va detras se opone a lo esperado. La segunda proposicion no contradice la primera, la completa, asi que este conector tampoco corresponde. -->
+- [x] D) ademas <!-- feedback: Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Hernandarias y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro. -->
 
 ### Explicacion Pedagogica
 El conector 'ademas' anade informacion.
@@ -93,9 +93,9 @@ El conector 'ademas' anade informacion.
 ¿Cual oracion esta correctamente escrita?
 
 ### Opciones
-- [x] C) Los estudiantes del Colegio Nacional del Alto Parana estudian mucho. <!-- feedback: Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'. -->
 - [ ] A) Los estudiantes de la escuela estudian poco. <!-- feedback: Incorrecto. La oracion esta bien redactada y con buena concordancia, pero 'la escuela' es un nombre comun que puede designar cualquier centro; el enunciado pide el nombre propio completo de la institucion, y aqui no aparece. -->
 - [ ] B) Los estudiantes del instituto no estudian nada. <!-- feedback: Incorrecto. 'El instituto' vuelve a sustituir el nombre propio por una denominacion generica. La negacion 'no estudian nada' es correcta, pero no aporta el dato que el enunciado evalua. -->
+- [x] C) Los estudiantes del Colegio Nacional del Alto Parana estudian mucho. <!-- feedback: Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'. -->
 - [ ] D) Los estudiantes del instituto estudian mucho. <!-- feedback: Incorrecto. Comparte con la correcta la concordancia y el verbo 'estudian mucho', y se diferencia en un solo punto decisivo: emplea 'el instituto', un nombre comun, en lugar del nombre oficial completo. -->
 
 ### Explicacion Pedagogica
@@ -266,8 +266,8 @@ La funcion expresiva se centra en el emisor y expresa sentimientos.
 ¿Qué elemento introduce el sujeto tácito en la oración "Se estudia mucho aquí"?
 
 ### Opciones
-- [x] A) El pronombre átono "se", que marca la impersonalidad y oculta al agente <!-- feedback: Es correcto: el "se" átono impide identificar a quién corresponde la acción de estudiar. -->
-- [ ] B) El artículo "mucho", que actúa como sujeto <!-- feedback: "Mucho" es un cuantificador adverbial y no puede funcionar como sujeto. -->
+- [ ] A) El artículo "mucho", que actúa como sujeto <!-- feedback: "Mucho" es un cuantificador adverbial y no puede funcionar como sujeto. -->
+- [x] B) El pronombre átono "se", que marca la impersonalidad y oculta al agente <!-- feedback: Es correcto: el "se" átono impide identificar a quién corresponde la acción de estudiar. -->
 - [ ] C) El adverbio "aquí", que ocupa la función de sujeto <!-- feedback: Ese adverbio es un complemento del lugar y responde a dónde, no a quién. -->
 - [ ] D) El verbo "estudia", que funciona como sujeto <!-- feedback: El verbo es el núcleo del predicado, no el sujeto de la oración. -->
 
@@ -285,10 +285,10 @@ El conector 'ademas' anade informacion.
 ¿Cual oracion esta correctamente escrita?
 
 ### Opciones
-- [x] D) Los estudiantes del Colegio Nacional Lambare estudian mucho. <!-- feedback: Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'. -->
 - [ ] A) Los estudiantes de la escuela estudian poco. <!-- feedback: Incorrecto. La oracion esta bien redactada y con buena concordancia, pero 'la escuela' es un nombre comun que puede designar cualquier centro; el enunciado pide el nombre propio completo de la institucion, y aqui no aparece. -->
 - [ ] B) Los estudiantes del instituto no estudian nada. <!-- feedback: Incorrecto. 'El instituto' vuelve a sustituir el nombre propio por una denominacion generica. La negacion 'no estudian nada' es correcta, pero no aporta el dato que el enunciado evalua. -->
 - [ ] C) Los estudiantes del instituto estudian mucho. <!-- feedback: Incorrecto. Comparte con la correcta la concordancia y el verbo 'estudian mucho', y se diferencia en un solo punto decisivo: emplea 'el instituto', un nombre comun, en lugar del nombre oficial completo. -->
+- [x] D) Los estudiantes del Colegio Nacional Lambare estudian mucho. <!-- feedback: Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'. -->
 
 ### Explicacion Pedagogica
 La opcion A sigue las normas ortograficas correctamente.
@@ -306,10 +306,10 @@ La opcion A sigue las normas ortograficas correctamente.
 ¿Cuál es la diferencia entre el se impersonal y el se de la pasiva refleja?
 
 ### Opciones
-- [x] A) El impersonal no tiene sujeto y el de la pasiva refleja lo tiene, y ese sujeto realiza la acción <!-- feedback: Es correcta: en la pasiva refleja el sujeto aparece y ejecuta la acción, mientras que en la impersonal queda oculto. -->
+- [ ] A) El impersonal solo se usa con verbos transitivos y la pasiva refleja solo con intransitivos <!-- feedback: La selección del verbo no es lo que distingue ambas construcciones. -->
 - [ ] B) Los dos son exactamente iguales y no hay diferencia entre ellos <!-- feedback: Sí hay diferencia: la pasiva refleja tiene sujeto y la impersonal no. -->
 - [ ] C) El impersonal expresa repetición y la pasiva refleja expresa una sola vez <!-- feedback: El valor aspectual del pronombre es secundario; lo decisivo es la presencia o ausencia de sujeto. -->
-- [ ] D) El impersonal solo se usa con verbos transitivos y la pasiva refleja solo con intransitivos <!-- feedback: La selección del verbo no es lo que distingue ambas construcciones. -->
+- [x] D) El impersonal no tiene sujeto y el de la pasiva refleja lo tiene, y ese sujeto realiza la acción <!-- feedback: Es correcta: en la pasiva refleja el sujeto aparece y ejecuta la acción, mientras que en la impersonal queda oculto. -->
 
 ### Explicacion Pedagogica
 La pasiva refleja tiene la estructura sujeto más se más verbo transitivo, mientras que la impersonal emplea un verbo impersonal y oculta el agente.## Explicacion Pedagogica
@@ -325,9 +325,9 @@ Las oraciones subordinadas adjetivas complementan a un nombre.
 ¿Cuál de las oraciones contiene una subordinada adjetiva correctamente equilibrada?
 
 ### Opciones
-- [x] A) Los libros que están en la mesa son míos. <!-- feedback: Es correcta: la proposición "que están en la mesa" modifica al sustantivo y está entre el determinante y él. -->
+- [ ] A) Que están en la mesa son los libros. <!-- feedback: Aquí la proposición inicial ocupa la posición de sujeto y es sustantiva. -->
 - [ ] B) Los libros que están en la mesa, son míos. <!-- feedback: La coma no corresponde porque entre el determinante y el sustantivo no puede abrirse un inciso. -->
-- [ ] C) Que están en la mesa son los libros. <!-- feedback: Aquí la proposición inicial ocupa la posición de sujeto y es sustantiva. -->
+- [x] C) Los libros que están en la mesa son míos. <!-- feedback: Es correcta: la proposición "que están en la mesa" modifica al sustantivo y está entre el determinante y él. -->
 - [ ] D) Los libros que están en la mesa, los comprado ayer, son míos. <!-- feedback: La segunda proposición relativa está mal formada porque "comprado" no concuerda con el antecedente plural. -->
 
 ### Explicacion Pedagogica
@@ -344,8 +344,8 @@ Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.
 ¿Qué conjunción introduce una relación de consecuencia?
 
 ### Opciones
-- [x] A) Por lo tanto <!-- feedback: Es correcta: "por lo tanto" enlaza la consecuencia que se deduce de lo expuesto antes. -->
-- [ ] B) Aunque <!-- feedback: Introduce una relación concessiva, con un dato que se opone a lo esperado. -->
+- [ ] A) Aunque <!-- feedback: Introduce una relación concessiva, con un dato que se opone a lo esperado. -->
+- [x] B) Por lo tanto <!-- feedback: Es correcta: "por lo tanto" enlaza la consecuencia que se deduce de lo expuesto antes. -->
 - [ ] C) Para <!-- feedback: Introduce finalidad, el objetivo que se busca con la acción principal. -->
 - [ ] D) Salvo <!-- feedback: Introduce una excepción, es decir, un caso que queda fuera de lo general. -->
 
@@ -363,9 +363,9 @@ La metafora identifica un termino real con uno imaginario por su semejanza.
 ¿Cuál de las oraciones presenta una estructura pasiva refleja?
 
 ### Opciones
-- [x] A) Se venden frutas en el mercado. <!-- feedback: Es correcta: el sujeto "frutas" aparece y realiza la acción de venderse, que es la pasiva refleja. -->
+- [ ] A) Se habla mucho en clase. <!-- feedback: Es impersonal, porque no hay sujeto que ejecute la acción de hablar. -->
 - [ ] B) Llegan frutas al mercado. <!-- feedback: Es una oración activa: el sujeto "frutas" recibe la acción pero no lleva el pronombre "se". -->
-- [ ] C) Se habla mucho en clase. <!-- feedback: Es impersonal, porque no hay sujeto que ejecute la acción de hablar. -->
+- [x] C) Se venden frutas en el mercado. <!-- feedback: Es correcta: el sujeto "frutas" aparece y realiza la acción de venderse, que es la pasiva refleja. -->
 - [ ] D) El mercado vende frutas. <!-- feedback: Es activa: el sujeto es quien ejecuta la acción, no quien la recibe. -->
 
 ### Explicacion Pedagogica
@@ -382,8 +382,8 @@ Las palabras esdrújulas llevan tilde siempre, sin excepción, en la antepenúlt
 ¿Cuál de las opciones presenta el uso correcto de la coma con un vocativo?
 
 ### Opciones
-- [x] A) María, trae el cuaderno por favor. <!-- feedback: Es correcta: el vocativo se separa con comas y aquí aparece al principio de la oración. -->
-- [ ] B) María trae, el cuaderno por favor. <!-- feedback: La coma no corresponde: el vocativo no introduce el objeto directo de esa manera. -->
+- [ ] A) María trae, el cuaderno por favor. <!-- feedback: La coma no corresponde: el vocativo no introduce el objeto directo de esa manera. -->
+- [x] B) María, trae el cuaderno por favor. <!-- feedback: Es correcta: el vocativo se separa con comas y aquí aparece al principio de la oración. -->
 - [ ] C) Que trae el cuaderno, María. <!-- feedback: Aquí no hay vocativo, sino una proposición relativa, de modo que la coma no cumple esa función. -->
 - [ ] D) María trae el cuaderno, por favor. <!-- feedback: La coma separa un elemento que no es vocativo, y aquí funciona como pausa hipotética. -->
 
@@ -401,8 +401,8 @@ Lorca utiliza la estructura del romance tradicional para crear un poema narrativ
 ¿Cuál es el valor del condicional simple en la oración "¿Vienes a la fiesta esta noche?"?
 
 ### Opciones
-- [x] A) Expresa una invitación o cortesía, no una hipótesis <!-- feedback: Es correcta: en la pregunta el condicional cumple la función de invitación cortés. -->
-- [ ] B) Expresa una hipótesis sobre el pasado <!-- feedback: La hipótesis sobre el pasado se construiría con pluscuamperfecto de subjuntivo, no con condicional simple. -->
+- [ ] A) Expresa una hipótesis sobre el pasado <!-- feedback: La hipótesis sobre el pasado se construiría con pluscuamperfecto de subjuntivo, no con condicional simple. -->
+- [x] B) Expresa una invitación o cortesía, no una hipótesis <!-- feedback: Es correcta: en la pregunta el condicional cumple la función de invitación cortés. -->
 - [ ] C) Afirma un hecho que ya ocurrió <!-- feedback: El condicional no afirma hechos pasados consumados; por eso se usa aquí para pedir. -->
 - [ ] D) Expresa una obligación legal <!-- feedback: La obligación se marcaría con "deber" más infinitivo. -->
 

@@ -257,12 +257,12 @@ Los humedales son ecosistemas clave. Al destruirlos, perdemos su capacidad de ab
 ### Opciones
 - [ ] A) Porque mantener un parque nacional genera más puestos de trabajo para guardaparques.
   <!-- feedback: Es un beneficio social, pero no el argumento ecológico principal. -->
-- [x] B) Porque al proteger el hábitat y sus interacciones se asegura la supervivencia de miles de especies y los procesos naturales.
-  <!-- feedback: ¡Correcto! El enfoque ecosistémico protege la red de la vida en su totalidad. -->
+- [ ] B) Porque las plantas del parque nacional producen todo el oxígeno que necesita Argentina.
+  <!-- feedback: Es una exageración científica; el oxígeno se produce globalmente, aunque los bosques locales ayudan. -->
 - [ ] C) Porque es más barato poner una cerca grande que muchas cercas chiquitas para cada animal.
   <!-- feedback: No es una justificación científica ni ética adecuada. -->
-- [ ] D) Porque las plantas del parque nacional producen todo el oxígeno que necesita Argentina.
-  <!-- feedback: Es una exageración científica; el oxígeno se produce globalmente, aunque los bosques locales ayudan. -->
+- [x] D) Porque al proteger el hábitat y sus interacciones se asegura la supervivencia de miles de especies y los procesos naturales.
+  <!-- feedback: ¡Correcto! El enfoque ecosistémico protege la red de la vida en su totalidad. -->
 
 ### Explicación Pedagógica
 Las especies no viven aisladas. El yaguareté necesita presas, las presas necesitan plantas, y las plantas necesitan polinizadores y un suelo sano. Proteger el ecosistema garantiza que todas estas relaciones vitales continúen funcionando.

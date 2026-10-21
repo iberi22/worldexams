@@ -438,10 +438,10 @@ Com base nessa análise, avalie qual distorção das funções da linguagem ocor
   <!-- feedback: Incorreto. O jornalismo de cliques rápidos não foca em explicar didaticamente as regras da gramática ou dicionários. -->
 - [ ] B) Ocorre o predomínio virtuoso da função fática que estreita os laços amigáveis e científicos do leitor com os donos de jornais.
   <!-- feedback: Incorreto. Trata-se de uma distorção financeira de audiência de rede e não de uma polidez social de respeito mútuo. -->
-- [x] C) A função referencial (transmissão objetiva dos fatos) é enfraquecida e mascarada em favor de uma função conativa disfarçada (seduzir o leitor para obter a ação do clique).
-  <!-- feedback: Correto! O foco deixa de ser informar os fatos com precisão de dados (referencial) e passa a ser a manipulação da atenção do leitor para clicar (conativa). -->
-- [ ] D) Há o predomínio absoluto da função poética clássica das vanguardas estéticas modernistas do início do século XX na internet.
+- [ ] C) Há o predomínio absoluto da função poética clássica das vanguardas estéticas modernistas do início do século XX na internet.
   <!-- feedback: Incorreto. A elaboração das manchetes de fofocas não possui fins artísticos literários de alta complexidade estética. -->
+- [x] D) A função referencial (transmissão objetiva dos fatos) é enfraquecida e mascarada em favor de uma função conativa disfarçada (seduzir o leitor para obter a ação do clique).
+  <!-- feedback: Correto! O foco deixa de ser informar os fatos com precisão de dados (referencial) e passa a ser a manipulação da atenção do leitor para clicar (conativa). -->
 
 ### Explicacion Pedagogica
 As manchetes "caça-cliques" (clickbait) representam uma quebra da ética jornalística ao usar recursos apelativos e sensacionalistas para forçar o clique do usuário (ação do receptor - conativa). A função referencial (informativa) é relegada a segundo plano ou distorcida para criar suspense artificial.

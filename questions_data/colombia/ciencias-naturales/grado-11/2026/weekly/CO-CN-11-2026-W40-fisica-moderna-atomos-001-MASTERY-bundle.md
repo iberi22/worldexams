@@ -40,7 +40,7 @@ El modelo atómico de Thomson (1904) proponía que el átomo era:
 - [x] D) Una esfera positiva uniforme con electrones incrustados (modelo del pudín).
   <!-- feedback: Thomson imaginó una "masa positiva" con electrones inmersos. -->
 - [ ] B) Una nube difusa de protones solamente.
-  <!-- feedback: No incluía electrones en su esquema. -->
+  <!-- feedback: Incorrecto. Thomson no propuso una nube de protones: su modelo era una masa de carga positiva con electrones incrustados, y el protón como partícula no se identificó hasta 1919-1920 con Rutherford. -->
 - [ ] C) Un conglomerado de quarks aislados.
   <!-- feedback: Los quarks son partículas aún más fundamentales. -->
 
@@ -203,7 +203,7 @@ La diferencia entre fisión y fusión nuclear es:
 - [ ] C) La fisión solo ocurre en estrellas y la fusión solo en reactores de centrales nucleares.
   <!-- feedback: Es incorrecta porque están intercambiadas: la fusión es la que ocurre en las estrellas, como el Sol, y la fisión es la que se aprovecha en los reactores de las centrales nucleares y en las armas. -->
 - [ ] D) No hay diferencia: ambas son iguales.
-  <!-- feedback: Son procesos distintos. -->
+  <!-- feedback: Incorrecto. Son procesos opuestos: la fisión parte un núcleo pesado en núcleos más ligeros y la fusión une núcleos ligeros en uno más pesado. -->
 
 ### Explicacion Pedagogica
 Fisión y fusión son reacciones nucleares con diferencias fundamentales en reactivos, productos y condiciones: la fisión divide un núcleo pesado (uranio o plutonio) liberando energía y neutrones, y la fusión une núcleos ligeros (deuterio y tritio) para formar un núcleo más pesado, como ocurre en el Sol y en las estrellas.

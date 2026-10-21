@@ -392,9 +392,9 @@ Simplificando a expressão (1 − cos²x)/sen x para x no primeiro quadrante, ob
 
 ### Opciones
 - [ ] A) cos x <!-- feedback: Incorreto: (1 − cos²x) = sen²x, e a divisão por sen x resulta em sen x. -->
-- [x] B) sen x <!-- feedback: Correto: como 1 − cos²x = sen²x, a expressão vale sen²x/sen x = sen x. -->
+- [ ] B) 1/sen x <!-- feedback: Incorreto: esse é o resultado se o numerador fosse 1 + cos²x. -->
 - [ ] C) tan x <!-- feedback: Incorreto: tan x = sen x/cos x. -->
-- [ ] D) 1/sen x <!-- feedback: Incorreto: esse é o resultado se o numerador fosse 1 + cos²x. -->
+- [x] D) sen x <!-- feedback: Correto: como 1 − cos²x = sen²x, a expressão vale sen²x/sen x = sen x. -->
 
 ### Explicacion Pedagogica
 Usando a relação fundamental, 1 − cos²x = sen²x. Substituindo, a expressão se torna sen²x/sen x = sen x, válida para sen x ≠ 0.

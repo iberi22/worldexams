@@ -240,14 +240,14 @@ Los derechos sociales, como la salud y la educación, son prioritarios porque ga
 ¿Cuál de las siguientes opciones evalúa mejor el impacto de esta iniciativa en los derechos sociales de la comunidad?
 
 ### Opciones
-- [x] A) Contribuye a garantizar el derecho a la alimentación de las personas vulnerables
-  <!-- feedback: Correcto. El comedor popular asegura que las personas de escasos recursos tengan acceso a alimentos, garantizando así su derecho a la alimentación digna. -->
+- [ ] A) Es innecesario porque todas las personas tienen comida suficiente
+  <!-- feedback: Incorrecto. Muchas personas en Colombia no tienen acceso suficiente a alimentos; el comedor popular responde a una necesidad real de la comunidad. -->
 - [ ] B) Afecta el derecho a la propiedad de los vecinos del barrio
   <!-- feedback: Incorrecto. El comedor popular no afecta la propiedad privada; es una iniciativa comunitaria que busca garantizar un derecho social, no vulnerar otros derechos. -->
 - [ ] C) Depende de la voluntad de los vecinos y no del Estado
   <!-- feedback: Incorrecto. Aunque la participación comunitaria es importante, el derecho a la alimentación es una obligación del Estado; la iniciativa complementa pero no sustituye esa responsabilidad. -->
-- [ ] D) Es innecesario porque todas las personas tienen comida suficiente
-  <!-- feedback: Incorrecto. Muchas personas en Colombia no tienen acceso suficiente a alimentos; el comedor popular responde a una necesidad real de la comunidad. -->
+- [x] D) Contribuye a garantizar el derecho a la alimentación de las personas vulnerables
+  <!-- feedback: Correcto. El comedor popular asegura que las personas de escasos recursos tengan acceso a alimentos, garantizando así su derecho a la alimentación digna. -->
 
 ### Explicacion Pedagogica
 El derecho a la alimentación es un derecho social fundamental que garantiza que todas las personas tengan acceso a alimentos suficientes y nutritivos. Las iniciativas comunitarias como los comedores populares complementan la acción del Estado y ayudan a proteger a las personas más vulnerables.

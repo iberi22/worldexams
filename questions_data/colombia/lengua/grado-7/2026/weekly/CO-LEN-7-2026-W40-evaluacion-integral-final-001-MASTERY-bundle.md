@@ -182,8 +182,8 @@ La conexión entre paremiología (refranes) y narrativa (leyendas) muestra la co
 ¿Cuál es la respuesta más acertada desde una perspectiva de identidad y riqueza cultural nacional?
 
 ### Opciones
-- [ ] A) El crítico tiene razón, internet reemplaza la necesidad de tener una cultura propia. <!-- feedback: Internet es un medio, no un sustituto de las raíces y la identidad cultural. -->
-- [x] B) La afirmación es errónea, pues la diversidad étnica y oral es lo que nos da una voz única y auténtica en el concierto mundial. <!-- feedback: Ignorar nuestras raíces nos haría copias de otras culturas; lo propio es nuestro valor diferenciador. -->
+- [x] A) La afirmación es errónea, pues la diversidad étnica y oral es lo que nos da una voz única y auténtica en el concierto mundial. <!-- feedback: Ignorar nuestras raíces nos haría copias de otras culturas; lo propio es nuestro valor diferenciador. -->
+- [ ] B) El crítico tiene razón, internet reemplaza la necesidad de tener una cultura propia. <!-- feedback: Internet es un medio, no un sustituto de las raíces y la identidad cultural. -->
 - [ ] C) Los indígenas y los afros deberían dejar de escribir para dedicarse a programar software. <!-- feedback: Es un prejuicio que asume que la cultura y la tecnología son excluyentes. -->
 - [ ] D) Solo deberíamos estudiar la literatura extranjera porque es la que más se vende. <!-- feedback: El valor de la literatura no se mide solo por las ventas comerciales, sino por su profundidad humana y social. -->
 
@@ -203,8 +203,8 @@ La evaluación crítica de posturas intelectuales permite al estudiante defender
 ### Opciones
 - [ ] A) Que ahora sé que Colombia tiene muchos paisajes bonitos para ir de vacaciones. <!-- feedback: Es una visión turística superficial, no un análisis literario o ciudadano profundo. -->
 - [ ] B) Que aprendí a escribir poemas con rima para ganar los concursos del colegio. <!-- feedback: Es un logro técnico personal, pero no aborda la formación ciudadana y cultural integral. -->
-- [x] C) El reconocimiento de que nuestra nación es pluriétnica y multicultural, y que cada voz (escrita u oral) merece respeto y valoración. <!-- feedback: Es la conclusión fundamental que promueve la convivencia, la empatía y la justicia social en un país diverso. -->
-- [ ] D) Que los libros de antes son mejores que los de ahora porque no tenían errores. <!-- feedback: Es un juicio nostálgico que no evalúa el contenido ni el impacto social del aprendizaje. -->
+- [ ] C) Que los libros de antes son mejores que los de ahora porque no tenían errores. <!-- feedback: Es un juicio nostálgico que no evalúa el contenido ni el impacto social del aprendizaje. -->
+- [x] D) El reconocimiento de que nuestra nación es pluriétnica y multicultural, y que cada voz (escrita u oral) merece respeto y valoración. <!-- feedback: Es la conclusión fundamental que promueve la convivencia, la empatía y la justicia social en un país diverso. -->
 
 ### Explicacion Pedagogica
 La evaluación final de la asignatura de Lengua en séptimo grado busca que el estudiante se reconozca como parte de una comunidad diversa. El respeto por la palabra del otro es la base de la democracia y la paz en Colombia.

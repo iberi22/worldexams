@@ -40,6 +40,7 @@ Cual de los siguientes ejemplos corresponde a un cambio físico de la materia?
   <!-- feedback: Incorrecto. Se forma óxido de hierro, una sustancia nueva; es un cambio químico. -->
 - [ ] D) Digerir un alimento en el estómago.
   <!-- feedback: Incorrecto. La digestión es un conjunto de cambios químicos que transforman los alimentos. -->
+
 ### Explicacion Pedagogica
 Cambio físico: altera forma o estado, pero no la composicion química de la materia.
 
@@ -52,14 +53,15 @@ Cambio físico: altera forma o estado, pero no la composicion química de la mat
 ### Enunciado
 Que evidencia confirma que el horneado del pan es un cambio químico y no uno físico?
 ### Opciones
-- [x] C) Se forman sustancias nuevas como dioxido de carbono y alcohol, no presentes inicialmente.
-  <!-- feedback: Correcto. La fermentacion y el horneado producen nuevas sustancias químicas. -->
 - [ ] A) La masa cambia de color pero mantiene su composicion.
   <!-- feedback: Incorrecto. Mantener la composicion es caracteristica de un cambio físico. -->
 - [ ] B) La masa se derrite como un solido que pasa a liquido.
   <!-- feedback: Incorrecto. El derretimiento es físico, no describe el horneado. -->
+- [x] C) Se forman sustancias nuevas como dioxido de carbono y alcohol, no presentes inicialmente.
+  <!-- feedback: Correcto. La fermentacion y el horneado producen nuevas sustancias químicas. -->
 - [ ] D) La masa simplemente se seca sin reaccionar.
   <!-- feedback: Incorrecto. Durante el horneado ocurren reacciones químicas complejas, no solo secado. -->
+
 ### Explicacion Pedagogica
 Un cambio químico transforma unas sustancias en otras con composiciones diferentes, mientras que un cambio físico conserva la composicion.
 
@@ -80,6 +82,7 @@ Cuál es la explicacion correcta de por que la masa del producto (óxido de magn
   <!-- feedback: Incorrecto. El recipiente solo aporta calor, no materia al producto. -->
 - [ ] D) La masa del óxido es igual a la del magnesio porque la combustion no cambia la masa.
   <!-- feedback: Incorrecto. La masa total se conserva, pero la del solido aumenta por adicion de oxígeno. -->
+
 ### Explicacion Pedagogica
 Ley de conservacion de la masa (Lavoisier): la masa total del sistema cerrado permanece constante. La masa del producto aumenta al fijar oxígeno.
 
@@ -100,6 +103,7 @@ Que tipo de cambio se produce en la superficie de la moneda y por que se evidenc
   <!-- feedback: Incorrecto. La temperatura ambiente no derrite al cobre. -->
 - [ ] D) Cambio químico reversible donde el óxido retorna al cobre con facilidad.
   <!-- feedback: Incorrecto. La formacion del óxido verde es dificilmente reversible en condiciones normales. -->
+
 ### Explicacion Pedagogica
 La corrosion del cobre en ambientes salinos es una reacción química lenta que forma óxido cuproso o cuprico, evidente por el color verde caracteristico.
 
@@ -120,6 +124,7 @@ Como se clasifican los cambios de estado solido $\to$ liquido $\to$ gas observad
   <!-- feedback: Incorrecto. Los cambios físicos también involucran calor sin alterar la composicion. -->
 - [ ] D) No son considerados cambios de la materia.
   <!-- feedback: Incorrecto. Si son cambios de la materia: cambios de estado o cambios físicos. -->
+
 ### Explicacion Pedagogica
 Cambios de estado (fusion, ebullicion, sublimacion, etc.) son cambios físicos: la composicion molecular del agua permanece constante.
 
@@ -140,6 +145,7 @@ Que análisis se obtiene al comparar la masa de la vela antes y despues de arder
   <!-- feedback: Incorrecto. La materia no se crea; la masa se conserva. -->
 - [ ] D) La masa solo cambia cuando hay liquido presente.
   <!-- feedback: Incorrecto. La conservacion es general, independiente del estado físico. -->
+
 ### Explicacion Pedagogica
 Ley de Lavoisier: en sistema cerrado, la masa total se conserva durante una reacción química.
 
@@ -152,14 +158,15 @@ Ley de Lavoisier: en sistema cerrado, la masa total se conserva durante una reac
 ### Enunciado
 Cuál es el análisis correcto de los indicadores de reacción química observados en este experimento?
 ### Opciones
-- [x] D) Hay formacion de un gas (burbujas de $CO_2$) y liberacion de calor, evidencias claras de cambio químico.
-  <!-- feedback: Correcto. La liberacion de gas y el cambio de temperatura son signos de reacción química. -->
 - [ ] A) Las burbujas y el calor son evidencia de un simple cambio físico de las sustancias.
   <!-- feedback: Incorrecto. La produccion de un gas nuevo indica una transformacion química. -->
 - [ ] B) La reacción no ocurre porque los ácidos y las bases nunca reaccionan entre si.
   <!-- feedback: Incorrecto. Los ácidos y las bases si reaccionan: es la reacción de neutralizacion. -->
 - [ ] C) Las burbujas son aire atrapado y el calor proviene de la mano del experimentador.
   <!-- feedback: Incorrecto. El gas generado es $CO_2$ y el calor es propio de la reacción exotermica. -->
+- [x] D) Hay formacion de un gas (burbujas de $CO_2$) y liberacion de calor, evidencias claras de cambio químico.
+  <!-- feedback: Correcto. La liberacion de gas y el cambio de temperatura son signos de reacción química. -->
+
 ### Explicacion Pedagogica
 Evidencias de cambio químico: cambio de color, desprendimiento de gas, variacion de temperatura, formacion de precipitado o cambio de olor.
 
@@ -180,6 +187,7 @@ Cuál es el análisis correcto del papel de los cambios físicos y químicos en 
   <!-- feedback: Incorrecto. Implica multiples transformaciones fisicas y químicas. -->
 - [ ] D) El cambio de aroma es unicamente psicologico, sin base material.
   <!-- feedback: Incorrecto. El aroma surge de nuevas moléculas formadas por reacciones químicas. -->
+
 ### Explicacion Pedagogica
 El procesamiento de alimentos combina cambios físicos (molienda, fusion) y químicos (reacción de Maillard, caramelizacion) que generan sabor, aroma y color.
 
@@ -192,14 +200,15 @@ El procesamiento de alimentos combina cambios físicos (molienda, fusion) y quí
 ### Enunciado
 Cuál es la diferencia fundamental entre una combustion completa y una combustion incompleta de un hidrocarburo como el metano?
 ### Opciones
-- [x] D) La combustion completa produce $CO_2$ y $H_2O$; la incompleta produce $CO$ (y a veces $C$ o hollin).
-  <!-- feedback: Correcto. La combustion incompleta ocurre con poco oxígeno y genera $CO$, un gas toxico. -->
 - [ ] A) La combustion completa produce monoxido de carbono y la incompleta solo vapor de agua.
   <!-- feedback: Incorrecto. Es al reves: la completa produce $CO_2$; la incompleta produce $CO$. -->
 - [ ] B) No existen diferencias químicas entre ambas, solo cambia el color de la llama.
   <!-- feedback: Incorrecto. Los productos y la toxicidad son diferentes. -->
 - [ ] C) La combustion incompleta consume mas oxígeno que la completa.
   <!-- feedback: Incorrecto. La completa consume mas oxígeno y produce mas $CO_2$. -->
+- [x] D) La combustion completa produce $CO_2$ y $H_2O$; la incompleta produce $CO$ (y a veces $C$ o hollin).
+  <!-- feedback: Correcto. La combustion incompleta ocurre con poco oxígeno y genera $CO$, un gas toxico. -->
+
 ### Explicacion Pedagogica
 Combustion completa: hidrocarburo $+$ $O_2 \to CO_2 + H_2O$. Incompleta: falta oxígeno y se genera $CO$, $C$ o hollin.
 
@@ -212,14 +221,15 @@ Combustion completa: hidrocarburo $+$ $O_2 \to CO_2 + H_2O$. Incompleta: falta o
 ### Enunciado
 Cual de los siguientes argumentos justifica mejor la prohibicion de plasticos de un solo uso en los colegios desde la perspectiva de los cambios químicos?
 ### Opciones
-- [x] C) Los plasticos sufren degradacion química lenta liberando microplasticos y sustancias toxicas al ambiente.
-  <!-- feedback: Correcto. La degradacion química de los plasticos genera contaminantes persistentes. -->
 - [ ] A) Los plasticos desaparecen inmediatamente al contacto con el suelo, sin dejar residuos.
   <!-- feedback: Incorrecto. Los plasticos persisten durante siglos en el ambiente. -->
 - [ ] B) Los plasticos son biodegradables en pocos minutos en cualquier ambiente.
   <!-- feedback: Incorrecto. La mayoria de los plasticos comerciales son muy estables y no biodegradables rapidamente. -->
+- [x] C) Los plasticos sufren degradacion química lenta liberando microplasticos y sustancias toxicas al ambiente.
+  <!-- feedback: Correcto. La degradacion química de los plasticos genera contaminantes persistentes. -->
 - [ ] D) Los plasticos no sufren cambios químicos porque son inertes para siempre.
   <!-- feedback: Incorrecto. Sufren foto-degradacion, oxidacion y otros procesos lentos. -->
+
 ### Explicacion Pedagogica
 Los plasticos experimentan degradacion química lenta que libera aditivos y microplasticos, con efectos sobre la salud y los ecosistemas.
 
@@ -232,14 +242,15 @@ Los plasticos experimentan degradacion química lenta que libera aditivos y micr
 ### Enunciado
 Cuál es la evaluacion correcta del cambio químico que realiza el cloro en el agua potable y su justificacion sanitaria?
 ### Opciones
-- [x] B) El cloro reacciona con microorganismos patogenos, oxidandolos y eliminando el riesgo biologico del agua.
-  <!-- feedback: Correcto. El cloro desinfecta por oxidacion química de agentes patogenos. -->
 - [ ] A) El cloro se mezcla fisicamente sin reaccionar, por lo que no elimina bacterias.
   <!-- feedback: Incorrecto. El cloro si reacciona quimicamente y oxida la materia organica y los microorganismos. -->
+- [x] B) El cloro reacciona con microorganismos patogenos, oxidandolos y eliminando el riesgo biologico del agua.
+  <!-- feedback: Correcto. El cloro desinfecta por oxidacion química de agentes patogenos. -->
 - [ ] C) El cloro solo mejora el sabor del agua sin efecto microbiologico.
   <!-- feedback: Incorrecto. Su funcion principal es la desinfeccion microbiologica. -->
 - [ ] D) El cloro es inutil contra bacterias, solo sirve para aclarar el agua.
   <!-- feedback: Incorrecto. Es uno de los desinfectantes mas usados globalmente por su eficacia. -->
+
 ### Explicacion Pedagogica
 La clorinacion es una reacción de oxidacion que elimina bacterias, virus y protozoarios, garantizando agua microbiologicamente segura para el consumo humano.
 
@@ -252,13 +263,14 @@ La clorinacion es una reacción de oxidacion que elimina bacterias, virus y prot
 ### Enunciado
 Cual de las siguientes evaluaciones cientificas justifica mejor el reciclaje de papel desde la perspectiva de cambios físicos y químicos?
 ### Opciones
-- [x] A) Reciclar papel reduce el número de reacciones químicas industriales necesarias para producir pulpa virgen, ahorrando energía.
-  <!-- feedback: Correcto. Reutilizar fibras disminuye procesos químicos y consumo energetico industrial. -->
-- [ ] B) Reciclar papel implica cambios químicos prohibidos por la ley.
+- [ ] A) Reciclar papel implica cambios químicos prohibidos por la ley.
   <!-- feedback: Incorrecto. El reciclaje es una práctica ambiental promovida por la ley. -->
+- [x] B) Reciclar papel reduce el número de reacciones químicas industriales necesarias para producir pulpa virgen, ahorrando energía.
+  <!-- feedback: Correcto. Reutilizar fibras disminuye procesos químicos y consumo energetico industrial. -->
 - [ ] C) El papel reciclado no sufre ningun cambio físico ni químico.
   <!-- feedback: Incorrecto. Se somete a procesos físicos y químicos de re-pulpeo y blanqueado. -->
 - [ ] D) El reciclaje aumenta las emisiones de $CO_2$ sin reducir el impacto ambiental.
   <!-- feedback: Incorrecto. Disminuye las emisiones globales al reducir la produccion industrial. -->
+
 ### Explicacion Pedagogica
 Reciclar papel reduce la demanda de madera, agua y energía, disminuyendo las emisiones y los cambios químicos industriales asociados a su fabricacion.

@@ -148,14 +148,14 @@ Los cinco estantes contienen la misma cantidad de libros, entonces la cuenta dir
 ¿Qué relación hay entre 6 × 7 y 7 × 6?
 
 ### Opciones
-- [x] A) Son iguales, porque cambiar el número de filas y de sillas no cambia el total
-  <!-- feedback: Correcto. 6 × 7 = 42 y 7 × 6 = 42, porque las dimensiones se pueden intercambiar y el total de sillas sigue igual. -->
+- [ ] A) Son diferentes, porque la multiplicación no se puede cambiar de orden
+  <!-- feedback: Incorrecto. La multiplicación sí cambia de orden sin alterar el resultado, porque cumple la propiedad conmutativa. -->
 - [ ] B) Son diferentes, porque una de las dos cuentas vale más
   <!-- feedback: Incorrecto. Ninguna de las dos cuentas vale más, porque las dos describen el mismo arreglo de filas y de sillas. -->
 - [ ] C) Son iguales solo si las filas y las sillas fueran la misma cantidad
   <!-- feedback: Incorrecto. La propiedad se cumple aunque sean distintas, porque lo que se intercambia es el orden y no el valor. -->
-- [ ] D) Son diferentes, porque la multiplicación no se puede cambiar de orden
-  <!-- feedback: Incorrecto. La multiplicación sí cambia de orden sin alterar el resultado, porque cumple la propiedad conmutativa. -->
+- [x] D) Son iguales, porque cambiar el número de filas y de sillas no cambia el total
+  <!-- feedback: Correcto. 6 × 7 = 42 y 7 × 6 = 42, porque las dimensiones se pueden intercambiar y el total de sillas sigue igual. -->
 
 ### Explicacion Pedagogica
 Cambiar el orden de los factores en una multiplicación no cambia el resultado. En el arreglo de sillas, 6 filas de 7 sillas ocupan el mismo lugar que 7 filas de 6 sillas, y en los dos casos se cuentan 42 sillas. Por eso 6 × 7 = 7 × 6 = 42.

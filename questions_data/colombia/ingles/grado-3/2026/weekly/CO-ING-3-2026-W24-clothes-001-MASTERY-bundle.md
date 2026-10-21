@@ -171,12 +171,12 @@ The word 'socks' refers to the clothing worn on the feet inside shoes. Knowing t
 It is a cold and rainy school morning in Tunja. What heavy clothes do you wear over your shirt to stay warm?
 
 ### Opciones
-- [x] A) jacket
-  <!-- feedback: Correct! A 'jacket' is a warm outer piece of clothing with sleeves, worn over your shirt. -->
+- [ ] A) shoulder
+  <!-- feedback: 'shoulder' is the body part where the arm joins the body, not a clothing item. -->
 - [ ] B) lip
   <!-- feedback: 'lip' is part of the mouth, not a heavy piece of clothing worn to stay warm. -->
-- [ ] C) shoulder
-  <!-- feedback: 'shoulder' is the body part where the arm joins the body, not a clothing item. -->
+- [x] C) jacket
+  <!-- feedback: Correct! A 'jacket' is a warm outer piece of clothing with sleeves, worn over your shirt. -->
 - [ ] D) stomach
   <!-- feedback: 'stomach' is a part of the body, not a piece of clothing worn over a shirt. -->
 

@@ -164,12 +164,12 @@ How did they get to the city center?
 ### Opciones
 - [ ] A) They had breakfast.
   <!-- feedback: Incorrect. This was before the trip. -->
-- [x] B) They took the bus.
-  <!-- feedback: Correct! "Took" is the past of "take". -->
+- [ ] B) They walked.
+  <!-- feedback: Incorrect. The text says they "took the bus". -->
 - [ ] C) They bought a car.
   <!-- feedback: Incorrect. They bought souvenirs. -->
-- [ ] D) They walked.
-  <!-- feedback: Incorrect. The text says they "took the bus". -->
+- [x] D) They took the bus.
+  <!-- feedback: Correct! "Took" is the past of "take". -->
 
 ### Explicacion Pedagogica
 The student applies reading skills to understand actions described with irregular past verbs.

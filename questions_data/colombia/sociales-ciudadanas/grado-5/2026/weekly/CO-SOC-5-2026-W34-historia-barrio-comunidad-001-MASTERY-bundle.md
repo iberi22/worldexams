@@ -174,12 +174,12 @@ Análisis del papel de la organización comunitaria en la transformación histó
 ### Opciones
 - [ ] A) Creerle al folleto nuevo solo porque está impreso en colores.
   <!-- feedback: Lo impreso y colorido también puede tener errores o intereses comerciales. -->
-- [x] B) Buscar más evidencias, como fotos, actas y otros testimonios, antes de concluir.
-  <!-- feedback: Contrastar varias fuentes independientes es el método para verificar la historia. -->
+- [ ] B) Inventar una tercera versión que combine las dos para no pelear.
+  <!-- feedback: Inventar una versión mezcla hechos con ficción y falsea la memoria del barrio. -->
 - [ ] C) Quedarse con la primera versión que escuchó sin preguntar más.
   <!-- feedback: Aceptar la primera versión sin verificar impide descubrir cuál tiene sustento. -->
-- [ ] D) Inventar una tercera versión que combine las dos para no pelear.
-  <!-- feedback: Inventar una versión mezcla hechos con ficción y falsea la memoria del barrio. -->
+- [x] D) Buscar más evidencias, como fotos, actas y otros testimonios, antes de concluir.
+  <!-- feedback: Contrastar varias fuentes independientes es el método para verificar la historia. -->
 
 ### Explicacion Pedagogica
 Análisis crítico de fuentes contradictorias mediante la búsqueda y contraste de evidencias históricas.

@@ -174,12 +174,12 @@ Con esa información, ¿por qué se afirma que mirar el cielo de noche es como m
 ### Opciones
 - [ ] A) Porque las estrellas se mueven hacia atrás en el cielo.
   <!-- feedback: Error: las estrellas no retroceden; lo que importa es el tiempo que viaja su luz. -->
-- [x] B) Porque la luz de estrellas lejanas tarda mucho en llegar y por eso vemos cómo eran hace tiempo.
-  <!-- feedback: Es correcta: si la luz tarda años en viajar, la imagen que observamos muestra el estado antiguo de la estrella. -->
+- [ ] B) Porque el telescopio del observatorio guarda imágenes viejas.
+  <!-- feedback: Error: el telescopio no guarda imágenes; capta la luz que llega en ese momento. -->
 - [ ] C) Porque la Tierra gira en sentido contrario al de las estrellas.
   <!-- feedback: Error: la rotación de la Tierra explica el movimiento aparente del cielo, no el retraso de la luz. -->
-- [ ] D) Porque el telescopio del observatorio guarda imágenes viejas.
-  <!-- feedback: Error: el telescopio no guarda imágenes; capta la luz que llega en ese momento. -->
+- [x] D) Porque la luz de estrellas lejanas tarda mucho en llegar y por eso vemos cómo eran hace tiempo.
+  <!-- feedback: Es correcta: si la luz tarda años en viajar, la imagen que observamos muestra el estado antiguo de la estrella. -->
 
 ### Explicacion Pedagogica
 La luz viaja a una velocidad enorme, pero finita. Cuando observamos estrellas muy lejanas, vemos la luz que salió de ellas hace mucho tiempo, así que contemplamos una imagen del pasado de esas estrellas.

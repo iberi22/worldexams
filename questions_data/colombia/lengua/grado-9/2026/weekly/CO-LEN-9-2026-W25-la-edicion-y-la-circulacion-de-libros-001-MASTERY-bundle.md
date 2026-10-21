@@ -219,10 +219,10 @@ Para saber a quién se dirige una edición, hay que observar los recursos que ha
 ¿Qué explica esa situación sobre la relación entre disponibilidad y circulación de un libro?
 
 ### Opciones
-- [ ] A) Explica que el libro fue retirado del mercado por decisión de la editora.
-  <!-- feedback: La falta de un ejemplar en una librería no implica una retirada del mercado. -->
-- [x] B) Explica que la disponibilidad depende del canal de difusión, y que cada punto de venta maneja su propio inventario.
+- [x] A) Explica que la disponibilidad depende del canal de difusión, y que cada punto de venta maneja su propio inventario.
   <!-- feedback: El agotamiento es local: cada librería o biblioteca administra un stock propio. -->
+- [ ] B) Explica que el libro fue retirado del mercado por decisión de la editora.
+  <!-- feedback: La falta de un ejemplar en una librería no implica una retirada del mercado. -->
 - [ ] C) Explica que el libro solo existe mientras haya ejemplares en un punto de venta.
   <!-- feedback: El derecho de publicación y la obra existen con independencia del inventario de un punto de venta. -->
 - [ ] D) Explica que la calidad de la edición cambia según la librería que lo vende.

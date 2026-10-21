@@ -151,12 +151,12 @@ Aplicar la intención comunicativa de los textos expositivos: informar y explica
 ### Opciones
 - [ ] A) Indica que ambos ecosistemas están en el mismo tipo de clima.
   <!-- feedback: El conector "por el contrario" señala diferencia, no igualdad de condiciones. -->
-- [x] B) Muestra que los manglares y los páramos son ecosistemas opuestos en clima y ubicación.
-  <!-- feedback: El conector opone las condiciones cálidas y saladas del manglar con las condiciones frías del páramo. -->
+- [ ] B) Resume la información principal del texto en pocas palabras.
+  <!-- feedback: Resumir corresponde a otros conectores, no a "por el contrario". -->
 - [ ] C) Introduce un ejemplo idéntico al mencionado antes.
   <!-- feedback: "Por el contrario" no sirve para repetir, sino para contrastar la información previa. -->
-- [ ] D) Resume la información principal del texto en pocas palabras.
-  <!-- feedback: Resumir corresponde a otros conectores, no a "por el contrario". -->
+- [x] D) Muestra que los manglares y los páramos son ecosistemas opuestos en clima y ubicación.
+  <!-- feedback: El conector opone las condiciones cálidas y saladas del manglar con las condiciones frías del páramo. -->
 
 ### Explicacion Pedagogica
 Analizar el papel de los conectores de contraste en un texto expositivo para identificar diferencias entre dos ecosistemas.

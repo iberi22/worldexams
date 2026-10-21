@@ -146,12 +146,12 @@ Lee la intervención de la mamá en este diálogo sobre un trabajo del colegio.
 ¿Qué busca la mamá con la forma en que habla?
 
 ### Opciones
-- [ ] A) Avisar que ya no quiere recibir trabajos de los niños, porque así los obliga a dejar la clase
-  <!-- feedback: Incorrecto. La mamá pide un trabajo nuevo y no dice que haya dejado de recibir trabajos. -->
+- [x] A) Llamar la atención sobre la calidad del trabajo y dejar clara la consecuencia de no mejorarlo
+  <!-- feedback: Correcto. La frase inicial señala el problema y la última anuncia que no habrá otra oportunidad, así que avisa y expone la consecuencia. -->
 - [ ] B) Contar que ella hizo ese mismo trabajo de niña, porque lo dice al comienzo
   <!-- feedback: Incorrecto. La intervención no menciona ningún trabajo de la infancia de la mamá. -->
-- [x] C) Llamar la atención sobre la calidad del trabajo y dejar clara la consecuencia de no mejorarlo
-  <!-- feedback: Correcto. La frase inicial señala el problema y la última anuncia que no habrá otra oportunidad, así que avisa y expone la consecuencia. -->
+- [ ] C) Avisar que ya no quiere recibir trabajos de los niños, porque así los obliga a dejar la clase
+  <!-- feedback: Incorrecto. La mamá pide un trabajo nuevo y no dice que haya dejado de recibir trabajos. -->
 - [ ] D) Enseñar a los niños a escribir trabajos, porque explica con detalle cómo se hace uno
   <!-- feedback: Incorrecto. La intervención no enseña a escribir, y solo evalúa un trabajo que ya fue entregado. -->
 

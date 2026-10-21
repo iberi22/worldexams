@@ -40,6 +40,7 @@ Este bundle contiene 12 preguntas sobre **transformaciones-geometricas-plano** p
   <!-- feedback: Incorrecto. Cambia las distancias, así que no es rígida. -->
 - [ ] D) Una proyección cualquiera.
   <!-- feedback: Incorrecto. Las proyecciones generalmente no conservan distancias. -->
+
 ### Explicacion Pedagogica
 Las transformaciones rígidas o isometrías son las traslaciones, rotaciones y reflexiones; todas conservan distancias y ángulos. La homotecia es de similaridad (no rígida) y los escalados no uniformes deforman la imagen.
 
@@ -54,12 +55,13 @@ Las transformaciones rígidas o isometrías son las traslaciones, rotaciones y r
 ### Opciones
 - [ ] A) $(1, 5)$
   <!-- feedback: Incorrecto. Restaste el vector en lugar de sumarlo. -->
-- [x] D) $(5, 3)$
-  <!-- feedback: Correcto. $(3 + 2, 4 + (-1)) = (5, 3)$. -->
 - [ ] B) $(6, 4)$
   <!-- feedback: Incorrecto. Solo trasladaste la primera componente. -->
 - [ ] C) $(3, 4)$
   <!-- feedback: Incorrecto. El punto no cambió; no se aplicó la traslación. -->
+- [x] D) $(5, 3)$
+  <!-- feedback: Correcto. $(3 + 2, 4 + (-1)) = (5, 3)$. -->
+
 ### Explicacion Pedagogica
 Una traslación con vector $\vec{v} = (a, b)$ mapea el punto $(x, y)$ a $(x + a, y + b)$. Aquí, $(3, 4) + (2, -1) = (5, 3)$.
 
@@ -76,10 +78,11 @@ Una traslación con vector $\vec{v} = (a, b)$ mapea el punto $(x, y)$ a $(x + a,
   <!-- feedback: Incorrecto. El punto no cambió; la reflexión no se aplicó. -->
 - [ ] B) $(-2, 5)$
   <!-- feedback: Incorrecto. Reflejaste respecto al eje $y$ en lugar del eje $x$. -->
-- [x] D) $(2, -5)$
-  <!-- feedback: Correcto. Reflejar respecto al eje $x$ cambia el signo de la coordenada $y$: $(x, y) \to (x, -y)$. -->
 - [ ] C) $(5, 2)$
   <!-- feedback: Incorrecto. Intercambiaste las coordenadas como si fuera una reflexión sobre la recta $y = x$. -->
+- [x] D) $(2, -5)$
+  <!-- feedback: Correcto. Reflejar respecto al eje $x$ cambia el signo de la coordenada $y$: $(x, y) \to (x, -y)$. -->
+
 ### Explicacion Pedagogica
 La reflexión respecto al eje $x$ conserva la coordenada $x$ y cambia el signo de la coordenada $y$: $(x, y) \to (x, -y)$. Aquí $(2, 5) \to (2, -5)$.
 
@@ -92,14 +95,15 @@ La reflexión respecto al eje $x$ conserva la coordenada $x$ y cambia el signo d
 ### Enunciado
 ¿Cuáles son las coordenadas del punto rotado $P'$?
 ### Opciones
+- [x] A) $(0, 1)$
+  <!-- feedback: Correcto. Una rotación de $90°$ antihoraria lleva $(x, y)$ a $(-y, x)$, así que $(1, 0) \to (0, 1)$. -->
 - [ ] B) $(1, 0)$
   <!-- feedback: Incorrecto. El punto no cambió; no se aplicó la rotación. -->
 - [ ] C) $(-1, 0)$
   <!-- feedback: Incorrecto. Es una rotación de $180°$ alrededor del origen. -->
-- [x] A) $(0, 1)$
-  <!-- feedback: Correcto. Una rotación de $90°$ antihoraria lleva $(x, y)$ a $(-y, x)$, así que $(1, 0) \to (0, 1)$. -->
 - [ ] D) $(0, -1)$
   <!-- feedback: Incorrecto. Obtuviste el resultado de una rotación horaria, no antihoraria. -->
+
 ### Explicacion Pedagogica
 Una rotación de $90°$ en sentido antihorario con centro en el origen envía $(x, y)$ a $(-y, x)$. Aplicado a $(1, 0)$ se obtiene $(-0, 1) = (0, 1)$.
 
@@ -120,6 +124,7 @@ Una rotación de $90°$ en sentido antihorario con centro en el origen envía $(
   <!-- feedback: Incorrecto. Intercambiaste las coordenadas y cambiaste un signo. -->
 - [ ] D) $(5, 2)$
   <!-- feedback: Incorrecto. Sumaste $k$ en lugar de multiplicar. -->
+
 ### Explicacion Pedagogica
 La homotecia con centro en el origen y factor $k$ mapea $(x, y)$ a $(kx, ky)$. Aquí $k = 3$, así que $(2, -1) \to (6, -3)$. Si $k > 0$, el sentido se conserva; si $k < 0$, se invierte.
 
@@ -134,12 +139,13 @@ La homotecia con centro en el origen y factor $k$ mapea $(x, y)$ a $(kx, ky)$. A
 ### Opciones
 - [ ] A) $(1, 1)$
   <!-- feedback: Incorrecto. No se aplicó la reflexión; el punto no cambió. -->
-- [ ] C) $(-1, 1)$
-  <!-- feedback: Incorrecto. Reflejaste respecto al eje $y$ en lugar de la recta $y = x$. -->
 - [x] B) $(1, 1)$ con componentes intercambiadas, es decir, sigue siendo $(1, 1)$.
   <!-- feedback: Correcto. La reflexión sobre $y = x$ intercambia las coordenadas: $(x, y) \to (y, x)$. Aquí $(1, 1) \to (1, 1)$. -->
+- [ ] C) $(-1, 1)$
+  <!-- feedback: Incorrecto. Reflejaste respecto al eje $y$ en lugar de la recta $y = x$. -->
 - [ ] D) $(-1, -1)$
   <!-- feedback: Incorrecto. Reflejaste respecto al origen, no respecto a $y = x$. -->
+
 ### Explicacion Pedagogica
 La reflexión respecto a la recta $y = x$ intercambia las coordenadas del punto: $(x, y) \to (y, x)$. Para $(1, 1)$ el resultado es el mismo $(1, 1)$, ya que está sobre la recta. Para $B = (4, 1)$, la imagen sería $(1, 4)$; para $C = (2, 4)$, sería $(4, 2)$.
 
@@ -160,6 +166,7 @@ La reflexión respecto a la recta $y = x$ intercambia las coordenadas del punto:
   <!-- feedback: Incorrecto. La homotecia con factor $-1$ es una rotación de $180°$ alrededor del origen, no es lo mismo. -->
 - [ ] D) La transformación identidad.
   <!-- feedback: Incorrecto. Las dos operaciones no se cancelan; ambas se aplican. -->
+
 ### Explicacion Pedagogica
 Componer una traslación $T(a, b)$ con una reflexión $R_x$ sobre el eje $x$ da como resultado $R_x \circ T(a, b)(x, y) = R_x(x + a, y + b) = (x + a, -y - b)$, que es equivalente a aplicar primero la reflexión y luego la traslación $(a, -b)$. Esto muestra que el orden de las transformaciones sí importa.
 
@@ -174,12 +181,13 @@ Componer una traslación $T(a, b)$ con una reflexión $R_x$ sobre el eje $x$ da 
 ### Opciones
 - [ ] A) La posición de cada vértice individual.
   <!-- feedback: Incorrecto. Los vértices se mueven a nuevas posiciones; eso no se conserva. -->
-- [ ] C) El color del cuadrado, si es que tenía uno.
-  <!-- feedback: Incorrecto. La pregunta es sobre propiedades geométricas, no de color. -->
 - [x] B) La forma y el tamaño del cuadrado, además de las longitudes de sus lados y la igualdad de sus ángulos.
   <!-- feedback: Correcto. Las rotaciones son isometrías: conservan distancias, ángulos y, por tanto, la forma y el tamaño. -->
+- [ ] C) El color del cuadrado, si es que tenía uno.
+  <!-- feedback: Incorrecto. La pregunta es sobre propiedades geométricas, no de color. -->
 - [ ] D) El área exacta del cuadrado, aunque cambie su posición.
   <!-- feedback: Incorrecto. Sí se conserva el área, pero la afirmación es incompleta porque hay otras propiedades que también se conservan. -->
+
 ### Explicacion Pedagogica
 Las rotaciones son movimientos rígidos: conservan distancias entre puntos, medidas de ángulos, perímetros y áreas. Lo único que cambia es la posición y orientación de la figura en el plano.
 
@@ -192,14 +200,15 @@ Las rotaciones son movimientos rígidos: conservan distancias entre puntos, medi
 ### Enunciado
 Si primero aplica la homotecia y luego la reflexión, ¿cuál es el punto final $Q''$?
 ### Opciones
+- [x] A) $(-6, 2)$
+  <!-- feedback: Correcto. Primero la homotecia: $(3, 1) \to (6, 2)$; luego la reflexión sobre el eje $y$: $(6, 2) \to (-6, 2)$. -->
 - [ ] B) $(6, 2)$
   <!-- feedback: Incorrecto. Solo aplicaste la homotecia, te faltó la reflexión sobre el eje $y$. -->
 - [ ] C) $(3, 1)$
   <!-- feedback: Incorrecto. No se aplicaron las transformaciones. -->
-- [x] A) $(-6, 2)$
-  <!-- feedback: Correcto. Primero la homotecia: $(3, 1) \to (6, 2)$; luego la reflexión sobre el eje $y$: $(6, 2) \to (-6, 2)$. -->
 - [ ] D) $(6, -2)$
   <!-- feedback: Incorrecto. Reflejaste sobre el eje $x$ en lugar del eje $y$. -->
+
 ### Explicacion Pedagogica
 Componer $H_2$ (homotecia de factor $2$) con $R_y$ (reflexión sobre el eje $y$) da: $R_y(H_2(3, 1)) = R_y(6, 2) = (-6, 2)$. El orden de aplicación es clave: primero la homotecia, después la reflexión.
 
@@ -214,12 +223,13 @@ Componer $H_2$ (homotecia de factor $2$) con $R_y$ (reflexión sobre el eje $y$)
 ### Opciones
 - [ ] A) Es falsa porque dos reflexiones nunca se cancelan.
   <!-- feedback: Incorrecto. Sí se cancelan cuando se hacen sobre el mismo eje. -->
-- [ ] C) Es verdadera solo si las reflexiones son sobre ejes distintos.
-  <!-- feedback: Incorrecto. Sobre ejes distintos no se cancelan, sino que producen una rotación o traslación. -->
 - [x] B) Es verdadera si se trata de la misma reflexión sobre el mismo eje, porque aplicarla dos veces regresa cada punto a su posición original.
   <!-- feedback: Correcto. La composición de una reflexión consigo misma sobre el mismo eje equivale a la identidad. -->
+- [ ] C) Es verdadera solo si las reflexiones son sobre ejes distintos.
+  <!-- feedback: Incorrecto. Sobre ejes distintos no se cancelan, sino que producen una rotación o traslación. -->
 - [ ] D) Es verdadera únicamente en geometría plana, no en el espacio.
   <!-- feedback: Incorrecto. La afirmación es válida tanto en el plano como en el espacio. -->
+
 ### Explicacion Pedagogica
 Una reflexión es una transformación involutiva: aplicarla dos veces sobre el mismo eje da como resultado la identidad, ya que cada punto regresa a su posición original. En cambio, dos reflexiones sobre ejes paralelos producen una traslación, y dos reflexiones sobre ejes que se cortan producen una rotación.
 
@@ -234,12 +244,13 @@ Una reflexión es una transformación involutiva: aplicarla dos veces sobre el m
 ### Opciones
 - [ ] A) No hay diferencia, ambos factores producen el mismo resultado.
   <!-- feedback: Incorrecto. El signo del factor sí afecta la orientación. -->
-- [x] B) Con $k = 0.5$ la figura se reduce a la mitad conservando la orientación; con $k = -0.5$ se reduce y se rota $180°$ alrededor del centro de la homotecia.
-  <!-- feedback: Correcto. Un factor positivo conserva la orientación; un factor negativo la invierte (equivale a una rotación de $180°$ además del escalado). -->
-- [ ] C) Con $k = -0.5$ la figura aumenta de tamaño en lugar de reducirse.
+- [ ] B) Con $k = -0.5$ la figura aumenta de tamaño en lugar de reducirse.
   <!-- feedback: Incorrecto. El signo afecta la orientación, no el tamaño. -->
+- [x] C) Con $k = 0.5$ la figura se reduce a la mitad conservando la orientación; con $k = -0.5$ se reduce y se rota $180°$ alrededor del centro de la homotecia.
+  <!-- feedback: Correcto. Un factor positivo conserva la orientación; un factor negativo la invierte (equivale a una rotación de $180°$ además del escalado). -->
 - [ ] D) Ninguna de las dos cambia el tamaño; solo lo aparentan.
   <!-- feedback: Incorrecto. El valor absoluto del factor sí escala el tamaño. -->
+
 ### Explicacion Pedagogica
 En una homotecia con factor $k$, si $|k| > 1$ la figura se agranda; si $0 < |k| < 1$ se reduce. El signo determina la orientación: si $k > 0$, la imagen queda en el mismo lado del centro; si $k < 0$, queda en el lado opuesto, lo que equivale a una rotación de $180°$ además del escalado.
 
@@ -260,5 +271,6 @@ En una homotecia con factor $k$, si $|k| > 1$ la figura se agranda; si $0 < |k| 
   <!-- feedback: Correcto. El grupo de simetría del cuadrado (diedro de orden 8) incluye la identidad, tres reflexiones (sobre los ejes vertical, horizontal y las dos diagonales) y cuatro rotaciones. -->
 - [ ] D) Todas las homotecias con centro en el origen.
   <!-- feedback: Incorrecto. Solo la homotecia con factor $1$ (la identidad) deja invariante al cuadrado. -->
+
 ### Explicacion Pedagogica
 El grupo de simetría del cuadrado (diedro $D_4$) tiene $8$ elementos: la identidad, tres reflexiones (sobre el eje vertical que pasa por el centro, sobre el eje horizontal y sobre las dos diagonales) y cuatro rotaciones ($0°$, $90°$, $180°$ y $270°$) alrededor de su centro. Cualquier otra transformación rígida, o cualquier homotecia con $|k| \neq 1$, no deja invariante al cuadrado.

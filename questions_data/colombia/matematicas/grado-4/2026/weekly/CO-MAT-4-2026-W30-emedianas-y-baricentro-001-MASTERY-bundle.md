@@ -157,6 +157,7 @@ Si el baricentro de un triángulo divide a una mediana en dos partes, ¿cuál es
   <!-- feedback: Incorrecto. Si fueran iguales, el punto sería el punto medio de la mediana, pero el baricentro no está en el punto medio. -->
 - [ ] D) La parte más larga es el doble de la más corta (ver explicación)
   <!-- feedback: Incorrecto. Esta opción es igual a A, que es la respuesta correcta. La proporción 2:1 es la propiedad del baricentro. -->
+
 ### Explicacion Pedagogica
 El baricentro divide cada mediana en una proporción 2:1. La parte que va del vértice al baricentro mide el doble que la parte que va del baricentro al punto medio del lado. Esto significa que si una mediana mide 9 cm, la parte hacia el vértice mide 6 cm y la parte hacia el lado mide 3 cm. Esta propiedad es útil para calcular distancias en problemas geométricos.
 
@@ -198,10 +199,10 @@ Los dos triángulos son semejantes porque sus lados son proporcionales: 6÷3 = 2
   <!-- feedback: Incorrecto. El baricentro no depende del tamaño de los ángulos, sino de la posición de los vértices. La distancia del baricentro a cada vértice depende de la longitud de las medianas. -->
 - [ ] B) No, porque el baricentro siempre está a la misma distancia de los tres vértices
   <!-- feedback: Incorrecto. El baricentro no está a la misma distancia de los vértices, excepto en el triángulo equilátero. En general, las distancias son diferentes. -->
-- [x] C) No, porque la posición del baricentro depende de la forma del triángulo, no del tamaño de los ángulos
-  <!-- feedback: Correcto. El baricentro se determina por la intersección de las medianas, que depende de la posición de los vértices, no de la medida de los ángulos. -->
-- [ ] D) Sí, porque el baricentro es el centro de masa y los vértices más grandes pesan más
+- [ ] C) Sí, porque el baricentro es el centro de masa y los vértices más grandes pesan más
   <!-- feedback: Incorrecto. El baricentro es el centro de masa, pero la masa se distribuye uniformemente en el área del triángulo, no en los vértices. -->
+- [x] D) No, porque la posición del baricentro depende de la forma del triángulo, no del tamaño de los ángulos
+  <!-- feedback: Correcto. El baricentro se determina por la intersección de las medianas, que depende de la posición de los vértices, no de la medida de los ángulos. -->
 
 ### Explicacion Pedagogica
 La posición del baricentro depende exclusivamente de la posición de los vértices del triángulo, no del tamaño de sus ángulos. El baricentro es el punto de intersección de las medianas, y su ubicación relativa a los vértices depende de la longitud de las medianas. En un triángulo equilátero, el baricentro está a la misma distancia de los tres vértices, pero en triángulos escalenos, las distancias son diferentes. La afirmación del estudiante es incorrecta porque confunde el tamaño angular con la posición geométrica.

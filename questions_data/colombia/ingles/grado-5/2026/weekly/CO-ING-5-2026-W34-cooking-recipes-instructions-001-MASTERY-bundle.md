@@ -40,6 +40,7 @@ Which words are cooking ingredients?
   <!-- feedback: Shirt, pants and socks are clothes, not ingredients. -->
 - [ ] D) Car, bus and bike.
   <!-- feedback: Car, bus and bike are transport, not ingredients. -->
+
 ### Explicacion Pedagogica
 Esta pregunta presenta vocabulario básico de ingredientes en inglés. También conecta las palabras con la preparación de arepas colombianas.
 
@@ -60,6 +61,7 @@ What are "cut", "mix" and "eat" in a recipe?
   <!-- feedback: Cut, mix and eat tell the reader what action to do. -->
 - [ ] D) Colors of the food.
   <!-- feedback: These words are verbs, not colors of food. -->
+
 ### Explicacion Pedagogica
 Los verbos de acción son la base de las recetas en inglés. También se comprende que los imperativos indican qué hacer paso a paso.
 
@@ -80,6 +82,7 @@ Choose the correct imperative to complete the instruction.
   <!-- feedback: "Grated" is past tense and is not used for instructions. -->
 - [ ] D) Grating.
   <!-- feedback: "Grating" is the -ing form and is not an imperative. -->
+
 ### Explicacion Pedagogica
 El imperativo usa el verbo en forma base sin sujeto. También se practica con verbos de cocina como grate en recetas familiares.
 
@@ -100,6 +103,7 @@ What is the correct order to make arepas?
   <!-- feedback: This order follows first, then and finally in the recipe. -->
 - [ ] D) Eat the arepas, mix, cook.
   <!-- feedback: Eating is after cooking, not part of the preparation order. -->
+
 ### Explicacion Pedagogica
 Leer recetas exige seguir conectores como first, then y finally. También se aplica la secuencia correcta para preparar arepas colombianas.
 
@@ -120,6 +124,7 @@ Which verb means to cook in hot oil?
   <!-- feedback: To bake means to cook in the oven with dry heat. -->
 - [ ] D) Wash.
   <!-- feedback: To wash means to clean with water, not to cook. -->
+
 ### Explicacion Pedagogica
 Los verbos boil, fry y bake describen formas distintas de cocinar. También se amplía el vocabulario culinario con acciones visibles en casa.
 
@@ -134,12 +139,13 @@ What can you conclude about these arepas?
 ### Opciones
 - [ ] A) They are sweet because they have sugar.
   <!-- feedback: The recipe says do not add sugar, so they are not sweet. -->
-- [x] B) They have cheese and salt but no sugar.
-  <!-- feedback: The ingredient list includes cheese and salt and excludes sugar. -->
+- [ ] B) They are made only with water.
+  <!-- feedback: The recipe lists flour, cheese and salt, not only water. -->
 - [ ] C) They need no corn flour or cheese.
   <!-- feedback: The recipe asks for 2 cups of flour and 1 cup of cheese. -->
-- [ ] D) They are made only with water.
-  <!-- feedback: The recipe lists flour, cheese and salt, not only water. -->
+- [x] D) They have cheese and salt but no sugar.
+  <!-- feedback: The ingredient list includes cheese and salt and excludes sugar. -->
+
 ### Explicacion Pedagogica
 Analizar ingredientes permite distinguir lo que lleva y lo que no lleva una receta. También se trabaja la lectura detallada de cantidades en inglés.
 
@@ -160,6 +166,7 @@ Which statement explains the difference?
   <!-- feedback: Both sentences are in the present, not in the past. -->
 - [ ] D) The first is an instruction, the second describes a person.
   <!-- feedback: The roles are reversed; the imperative has no subject. -->
+
 ### Explicacion Pedagogica
 El imperativo omite el sujeto y usa el verbo base para ordenar. También se contrasta con el presente simple que sí incluye sujeto.
 
@@ -180,5 +187,6 @@ Which recipe is the best for a fifth grader?
   <!-- feedback: These steps are safe, ordered and easy for a child with help. -->
 - [ ] D) Burn the fruits, add soap, serve cold stones.
   <!-- feedback: These steps are dangerous and use things that are not food. -->
+
 ### Explicacion Pedagogica
 Evaluar recetas implica revisar orden, claridad y seguridad. También se promueve cocinar con un adulto y lavar bien las frutas colombianas.

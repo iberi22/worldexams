@@ -464,12 +464,12 @@ A la luz de los antecedentes de la época, ¿cómo se evalúa el contexto geopol
 ### Opciones
 - [ ] A) Chile impuso libremente sus condiciones territoriales absolutas al haber conquistado el puerto de Buenos Aires en 1880.
   <!-- feedback: Incorrecto. Chile jamás invadió o conquistó Buenos Aires; el conflicto central estaba en las fronteras de la Patagonia oriental y el Estrecho de Magallanes. -->
-- [x] B) Chile priorizó resguardar sus intereses bélicos en el norte en plena Guerra del Pacífico, cediendo su pretensión sobre la Patagonia oriental a cambio del control del Estrecho de Magallanes.
-  <!-- feedback: Correcto. El gobierno de Aníbal Pinto firmó el Tratado de 1881 bajo la presión de estar librando la Guerra del Pacífico contra Perú y Bolivia, evitando un conflicto simultáneo en dos frentes con Argentina. -->
+- [ ] B) Ambos países acordaron que la Patagonia occidental sería administrada en conjunto por una gobernación binacional perpetua.
+  <!-- feedback: Incorrecto. La Patagonia occidental (costera y andina) quedó bajo estricta soberanía soberana exclusiva de Chile y la oriental bajo la de Argentina. -->
 - [ ] C) El Tratado fue producto directo de un arbitraje internacional vinculante ordenado por el Imperio Británico en favor de las colonias.
   <!-- feedback: Incorrecto. El Tratado de 1881 fue una negociación bilateral directa, no un laudo arbitral monárquico inglés (estos ocurrieron en años posteriores para valles específicos). -->
-- [ ] D) Ambos países acordaron que la Patagonia occidental sería administrada en conjunto por una gobernación binacional perpetua.
-  <!-- feedback: Incorrecto. La Patagonia occidental (costera y andina) quedó bajo estricta soberanía soberana exclusiva de Chile y la oriental bajo la de Argentina. -->
+- [x] D) Chile priorizó resguardar sus intereses bélicos en el norte en plena Guerra del Pacífico, cediendo su pretensión sobre la Patagonia oriental a cambio del control del Estrecho de Magallanes.
+  <!-- feedback: Correcto. El gobierno de Aníbal Pinto firmó el Tratado de 1881 bajo la presión de estar librando la Guerra del Pacífico contra Perú y Bolivia, evitando un conflicto simultáneo en dos frentes con Argentina. -->
 
 ### Explicacion Pedagogica
 El Tratado de 1881 con Argentina fijó la frontera de altas cumbres divisorias de aguas hasta el paralelo 52, consolidando el control chileno sobre el Estrecho de Magallanes pero renunciando a reclamos históricos sobre la Patagonia oriental. Chile aceptó esta negociación para evitar una conflagración bélica simultánea con Argentina mientras sus tropas ocupaban Lima.

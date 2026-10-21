@@ -36,9 +36,9 @@ This bundle explores educational models and reforms using B2-level grammar, focu
 
 ### Opciones
 - [ ] A) did / had <!-- feedback: 'Did' does not invert with 'never' and 'had' cannot follow 'the students' in this structure. -->
-- [x] D) have / had <!-- feedback: A negative fronted phrase ('Never') triggers inversion: the auxiliary 'have' precedes the subject, and 'had' is the past participle of 'have'. -->
 - [ ] B) have / have <!-- feedback: The second blank needs the past participle 'had'; 'have' would leave the verb unfinished. -->
 - [ ] C) had / did <!-- feedback: 'Had' cannot open the inversion and 'did' would be left without a base verb. -->
+- [x] D) have / had <!-- feedback: A negative fronted phrase ('Never') triggers inversion: the auxiliary 'have' precedes the subject, and 'had' is the past participle of 'have'. -->
 
 ### Explicación Pedagógica
 When a sentence begins with a negative adverbial like 'Never', the auxiliary verb comes before the subject (Inversion).
@@ -56,10 +56,10 @@ When a sentence begins with a negative adverbial like 'Never', the auxiliary ver
 "Only in this school ____ students ____ allowed to use tablets during the exams."
 
 ### Opciones
-- [x] D) are <!-- feedback: A fronted 'Only' phrase triggers subject-auxiliary inversion, giving 'are students allowed'. -->
 - [ ] A) do <!-- feedback: 'Do' would need a base verb after it, and the sentence describes a state, not an action. -->
 - [ ] B) have <!-- feedback: 'Have' would need a past participle, but the blank is followed by the subject directly. -->
 - [ ] C) will <!-- feedback: 'Will' would predict a future situation, while the sentence describes an existing restriction. -->
+- [x] D) are <!-- feedback: A fronted 'Only' phrase triggers subject-auxiliary inversion, giving 'are students allowed'. -->
 
 ### Explicación Pedagógica
 'Only in/at...' phrases at the beginning of a sentence trigger inversion of the verb 'to be' or the auxiliary.
@@ -77,8 +77,8 @@ When a sentence begins with a negative adverbial like 'Never', the auxiliary ver
 "Rarely ____ a teacher ____ such a profound impact on their students' lives."
 
 ### Opciones
-- [ ] B) does / has <!-- feedback: 'Does' must be followed by the base form 'have', so 'has' is wrong after it. -->
 - [x] A) does / have <!-- feedback: A fronted 'Rarely' triggers inversion: 'does' precedes the subject and the main verb reverts to the base form 'have'. -->
+- [ ] B) does / has <!-- feedback: 'Does' must be followed by the base form 'have', so 'has' is wrong after it. -->
 - [ ] C) has / have <!-- feedback: 'Has' would leave no room for the base verb that inversion requires. -->
 - [ ] D) did / has <!-- feedback: 'Did' would need a past form, and 'has' would be ungrammatical after it. -->
 
@@ -99,9 +99,9 @@ Using 'Rarely' at the start of a sentence requires 'do/does/did' inversion for p
 
 ### Opciones
 - [ ] A) did / received <!-- feedback: 'Received' after 'did' would have to be the base form 'receive', and 'did' is the wrong auxiliary for a past perfect. -->
-- [x] D) did / receive <!-- feedback: 'Not until' triggers inversion with 'did', and the main verb returns to the base form 'receive'. -->
 - [ ] B) had / received <!-- feedback: A past perfect is possible here but 'had received' still leaves the clause uninverted. -->
 - [ ] C) has / received <!-- feedback: 'Has received' is present perfect, which cannot follow the fronted 'Not until' with inversion. -->
+- [x] D) did / receive <!-- feedback: 'Not until' triggers inversion with 'did', and the main verb returns to the base form 'receive'. -->
 
 ### Explicación Pedagógica
 'Not until' at the beginning of a sentence triggers inversion in the main clause.
@@ -120,9 +120,9 @@ Using 'Rarely' at the start of a sentence requires 'do/does/did' inversion for p
 
 ### Opciones
 - [ ] A) they knew <!-- feedback: 'they knew' leaves the clause in normal order, but a fronted 'Little' requires inversion. -->
-- [x] D) did they know <!-- feedback: With a fronted 'Little' the subject 'they' follows the auxiliary 'did'. -->
 - [ ] B) they did know <!-- feedback: 'they did know' is emphatic but it is not the inversion a fronted negative requires. -->
 - [ ] C) had they known <!-- feedback: 'had they known' is the past perfect, which would place the unawareness in the past. -->
+- [x] D) did they know <!-- feedback: With a fronted 'Little' the subject 'they' follows the auxiliary 'did'. -->
 
 ### Explicación Pedagógica
 'Little' is used as a negative adverbial at the beginning of a sentence to mean 'not at all' or 'not much', triggering inversion.
@@ -140,8 +140,8 @@ Using 'Rarely' at the start of a sentence requires 'do/does/did' inversion for p
 "No sooner ____ the bells ____ than the students rushed out of the classrooms."
 
 ### Opciones
-- [ ] B) did / rang <!-- feedback: 'Did / rang' would need the base form after 'did', and it loses the completion implied by 'no sooner'. -->
 - [x] A) had / rung <!-- feedback: The 'No sooner... than' structure puts the event in the past perfect before 'than'. -->
+- [ ] B) did / rang <!-- feedback: 'Did / rang' would need the base form after 'did', and it loses the completion implied by 'no sooner'. -->
 - [ ] C) have / rung <!-- feedback: 'Have rung' is the present perfect, which cannot precede 'than' in this completed-sequence structure. -->
 - [ ] D) were / ringing <!-- feedback: 'Were ringing' is progressive and does not express the completed action before 'than'. -->
 
@@ -162,9 +162,9 @@ Using 'Rarely' at the start of a sentence requires 'do/does/did' inversion for p
 
 ### Opciones
 - [ ] A) could / managed <!-- feedback: 'Could' after 'Only by' would need the base form, and 'managed' is not that base form. -->
-- [x] D) did / manage <!-- feedback: A fronted 'Only by' phrase triggers inversion: 'did the community manage', with the base verb after the subject. -->
 - [ ] B) they / managed <!-- feedback: 'they managed' leaves the clause in normal order, but a fronted 'Only by' requires inversion. -->
 - [ ] C) had / manage <!-- feedback: 'Had' would require a past participle, and 'manage' is not a participle. -->
+- [x] D) did / manage <!-- feedback: A fronted 'Only by' phrase triggers inversion: 'did the community manage', with the base verb after the subject. -->
 
 ### Explicación Pedagógica
 'Only by' + gerund at the start of a sentence triggers inversion in the main clause.
@@ -183,9 +183,9 @@ Using 'Rarely' at the start of a sentence requires 'do/does/did' inversion for p
 
 ### Opciones
 - [ ] A) are / - <!-- feedback: 'Are / -' lacks the modal the sentence needs, and a bare hyphen cannot fill the second blank. -->
-- [x] D) should / be allowed <!-- feedback: 'Under no circumstances' is a negative fronted phrase, so the modal 'should' precedes the subject and 'be allowed' follows. -->
 - [ ] B) they should / be <!-- feedback: 'they should' leaves the clause uninverted, which a fronted negative requires. -->
 - [ ] C) must / - <!-- feedback: 'Must / -' is incomplete: the second blank needs the passive 'be allowed'. -->
+- [x] D) should / be allowed <!-- feedback: 'Under no circumstances' is a negative fronted phrase, so the modal 'should' precedes the subject and 'be allowed' follows. -->
 
 ### Explicación Pedagógica
 'Under no circumstances' is a strong negative adverbial phrase that requires inversion, often used with modals like 'should' or 'must'.
@@ -204,9 +204,9 @@ Using 'Rarely' at the start of a sentence requires 'do/does/did' inversion for p
 
 ### Opciones
 - [ ] A) is / also <!-- feedback: 'Is / also' cannot work with 'improve' as the second verb of the correlative structure. -->
-- [x] D) does / also <!-- feedback: In the 'Not only... but also' correlative, inversion puts 'does' before the subject and the base verb 'improve' after it. -->
-- [ ] B) did / also <!-- feedback: 'Did' would need a past form, but the sentence is in the present simple. -->
+- [x] B) does / also <!-- feedback: In the 'Not only... but also' correlative, inversion puts 'does' before the subject and the base verb 'improve' after it. -->
 - [ ] C) has / also <!-- feedback: 'Has' would need a past participle, and 'improve' is not one. -->
+- [ ] D) did / also <!-- feedback: 'Did' would need a past form, but the sentence is in the present simple. -->
 
 ### Explicación Pedagógica
 Using 'Not only' at the beginning of a sentence requires inversion in the first clause.
@@ -246,9 +246,9 @@ Using 'Not only' at the beginning of a sentence requires inversion in the first 
 
 ### Opciones
 - [ ] A) is / being <!-- feedback: 'Is / being' is not the passive needed here, and 'being' requires a following participle. -->
-- [x] D) has / been <!-- feedback: A fronted 'Seldom' triggers inversion, so 'has' precedes the subject and the passive 'been addressed' follows. -->
-- [ ] B) did / be <!-- feedback: 'Did / be' is ungrammatical: 'be' cannot follow 'did' as a passive. -->
+- [x] B) has / been <!-- feedback: A fronted 'Seldom' triggers inversion, so 'has' precedes the subject and the passive 'been addressed' follows. -->
 - [ ] C) was / be <!-- feedback: 'Was / be' is ungrammatical for the same reason. -->
+- [ ] D) did / be <!-- feedback: 'Did / be' is ungrammatical: 'be' cannot follow 'did' as a passive. -->
 
 ### Explicación Pedagógica
 Combining 'Seldom' with the passive voice and Present Perfect to emphasize the rarity of an event.
@@ -266,9 +266,9 @@ Combining 'Seldom' with the passive voice and Present Perfect to emphasize the r
 "Only if we redefine the purpose of school ____ we ____ hope to prepare students for the 21st century."
 
 ### Opciones
-- [x] C) can / - <!-- feedback: A fronted 'Only if' clause triggers inversion, giving 'can we'. -->
 - [ ] A) we / can <!-- feedback: 'we / can' leaves the clause in normal order, but a fronted conditional requires inversion. -->
 - [ ] B) will / be <!-- feedback: 'will / be' would predict a future state, while the sentence describes a condition in the present. -->
+- [x] C) can / - <!-- feedback: A fronted 'Only if' clause triggers inversion, giving 'can we'. -->
 - [ ] D) did / - <!-- feedback: 'Did' would require a past form and would leave no room for the infinitive 'hope'. -->
 
 ### Explicación Pedagógica

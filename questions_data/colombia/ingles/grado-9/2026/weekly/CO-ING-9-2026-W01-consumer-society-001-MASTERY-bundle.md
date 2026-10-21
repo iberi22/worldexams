@@ -277,8 +277,8 @@ What is the primary message conveyed by the use of the Present Perfect Continuou
 ### Opciones
 - [ ] A) They innovated once in the past. <!-- feedback: Incorrect. That would be Past Simple. -->
 - [ ] B) They will innovate in the future. <!-- feedback: Incorrect. That would be a future form. -->
-- [x] C) They have a long-standing and ongoing commitment to innovation. <!-- feedback: Correct! It emphasizes the duration and current persistence of their work. -->
-- [ ] D) They have just finished their last innovation. <!-- feedback: Incorrect. That would be Present Perfect Simple. -->
+- [ ] C) They have just finished their last innovation. <!-- feedback: Incorrect. That would be Present Perfect Simple. -->
+- [x] D) They have a long-standing and ongoing commitment to innovation. <!-- feedback: Correct! It emphasizes the duration and current persistence of their work. -->
 
 ### Explicacion Pedagogica
 Las empresas utilizan el Presente Perfecto Continuo en su publicidad para sugerir una tradición de trabajo constante que no se ha detenido y que sigue beneficiando al cliente hoy en día.

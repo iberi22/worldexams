@@ -38,12 +38,12 @@ Which form of the verb "to be" is used for the plural subjects "We", "You", and 
 ### Opciones
 - [ ] A) Was
   <!-- feedback: Incorrect. "Was" is for singular subjects like I, He, She, and It. -->
-- [x] D) Were
-  <!-- feedback: Correct! "Were" is the past plural form of "to be". -->
 - [ ] B) Am
   <!-- feedback: Incorrect. "Am" is a present form. -->
 - [ ] C) Is
   <!-- feedback: Incorrect. "Is" is a present form. -->
+- [x] D) Were
+  <!-- feedback: Correct! "Were" is the past plural form of "to be". -->
 
 ### Explicacion Pedagogica
 The student identifies the correct past conjugation of the verb "to be" for plural pronouns.
@@ -63,12 +63,12 @@ What is the negative contraction of "was not"?
 ### Opciones
 - [ ] A) Weren't
   <!-- feedback: Incorrect. "Weren't" is the contraction of "were not". -->
-- [x] D) Wasn't
-  <!-- feedback: Correct! "Wasn't" is the short form of "was not". -->
 - [ ] B) Don't
   <!-- feedback: Incorrect. "Don't" is used for the Present Simple. -->
 - [ ] C) Isn't
   <!-- feedback: Incorrect. "Isn't" is used for the Present Simple. -->
+- [x] D) Wasn't
+  <!-- feedback: Correct! "Wasn't" is the short form of "was not". -->
 
 ### Explicacion Pedagogica
 The student remembers the correct negative contraction for the third person singular in the past.
@@ -138,12 +138,12 @@ The student understands the inversion of subject and verb "to be" required for p
 ### Opciones
 - [ ] A) was
   <!-- feedback: Incorrect. "We" is plural and requires "were". -->
-- [x] D) were
-  <!-- feedback: Correct! "Were" is the past plural form for "We". -->
 - [ ] B) are
   <!-- feedback: Incorrect. "Are" is present, but the context is "last night". -->
 - [ ] C) was'nt
   <!-- feedback: Incorrect. The context (winning) implies they WERE happy, not that they weren't. -->
+- [x] D) were
+  <!-- feedback: Correct! "Were" is the past plural form for "We". -->
 
 ### Explicacion Pedagogica
 The student applies the correct past conjugation of "to be" based on a plural subject and a positive context.
@@ -164,12 +164,12 @@ According to the text, how was the weather?
 ### Opciones
 - [ ] A) It were beautiful.
   <!-- feedback: Incorrect. "Weather" is singular and requires "was". -->
-- [x] D) It was very hot.
-  <!-- feedback: Correct! The text explicitly says "The weather was very hot". -->
 - [ ] B) It wasn't hot.
   <!-- feedback: Incorrect. The text says it was hot. -->
 - [ ] C) They were hot.
   <!-- feedback: Incorrect. "They" is for plural; weather is singular. -->
+- [x] D) It was very hot.
+  <!-- feedback: Correct! The text explicitly says "The weather was very hot". -->
 
 ### Explicacion Pedagogica
 The student applies reading strategies to identify a specific past description in a text.
@@ -216,10 +216,10 @@ Choose the correct sentence that compares the past and the present.
   <!-- feedback: Incorrect. "Now" requires the present "am". -->
 - [ ] B) Last year I am 11, now I was 12.
   <!-- feedback: Incorrect. The tenses are reversed. -->
-- [x] D) Last year I was 11, now I am 12.
-  <!-- feedback: Correct! "Was" for the past and "am" for the present. -->
 - [ ] C) Last year I were 11, now I am 12.
   <!-- feedback: Incorrect. "Were" is not used with "I". -->
+- [x] D) Last year I was 11, now I am 12.
+  <!-- feedback: Correct! "Was" for the past and "am" for the present. -->
 
 ### Explicacion Pedagogica
 The student analyzes the temporal markers (last year, now) to select the correct verb tenses.
@@ -240,11 +240,11 @@ What can we analyze about the grandfather's childhood?
 ### Opciones
 - [ ] A) He was lazy.
   <!-- feedback: Incorrect. The text says he was "very active". -->
-- [x] D) Technology was different in his time.
-  <!-- feedback: Correct! The text says there were no cell phones. -->
 - [ ] B) There were many cell phones in the past.
   <!-- feedback: Incorrect. The text says there were NONE. -->
-- [ ] C) He were always at home.
+- [x] C) Technology was different in his time.
+  <!-- feedback: Correct! The text says there were no cell phones. -->
+- [ ] D) He were always at home.
   <!-- feedback: Incorrect. His favorite place was the park. -->
 
 ### Explicacion Pedagogica
@@ -264,12 +264,12 @@ The student analyzes a text about the past to identify a logical deduction or fa
 Which of the following evaluations best describes the text?
 
 ### Opciones
+- [x] A) It is a biographical summary of a successful and globally recognized historical figure.
+  <!-- feedback: Correct! The past tense and the mention of the Nobel Prize and world popularity support this. -->
 - [ ] B) It is a text about a person who is currently writing popular books.
   <!-- feedback: Incorrect. The use of "was" indicates he is a historical figure. -->
 - [ ] C) It is a text about a writer who was only famous in Aracataca.
   <!-- feedback: Incorrect. It says his books were popular "all over the world". -->
-- [x] A) It is a biographical summary of a successful and globally recognized historical figure.
-  <!-- feedback: Correct! The past tense and the mention of the Nobel Prize and world popularity support this. -->
 - [ ] D) It is a text about why García Márquez was not a good writer.
   <!-- feedback: Incorrect. The text lists his successes. -->
 

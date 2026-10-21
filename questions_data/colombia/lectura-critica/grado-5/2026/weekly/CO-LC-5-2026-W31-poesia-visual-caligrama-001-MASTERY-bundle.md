@@ -199,10 +199,10 @@ Analizar el carácter híbrido del caligrama para reconocer que combina poesía 
   <!-- feedback: El verso no habla de la pelota, así que no hay coherencia entre dibujo y tema del poema. -->
 - [ ] B) Un dibujo de árbol sin ningún verso escrito debajo ni dentro.
   <!-- feedback: Aunque el dibujo es bonito, no hay poema escrito, por lo que falla el criterio de los versos. -->
-- [x] C) Un caligrama en forma de colibrí con los versos "aleteo verde, suspiro de flor, bebo la lluvia y vuelo con el sol" escritos siguiendo sus alas.
-  <!-- feedback: El dibujo del colibrí coincide con el tema del poema, los versos son breves y siguen el contorno del ave. -->
-- [ ] D) Un caligrama con muchos tachones, manchas de tinta y letras ilegibles en varias direcciones.
+- [ ] C) Un caligrama con muchos tachones, manchas de tinta y letras ilegibles en varias direcciones.
   <!-- feedback: Aunque haya figura, los tachones y la mala letra rompen la legibilidad y el cuidado de los versos. -->
+- [x] D) Un caligrama en forma de colibrí con los versos "aleteo verde, suspiro de flor, bebo la lluvia y vuelo con el sol" escritos siguiendo sus alas.
+  <!-- feedback: El dibujo del colibrí coincide con el tema del poema, los versos son breves y siguen el contorno del ave. -->
 
 ### Explicacion Pedagogica
 Evaluar un caligrama aplicando criterios claros de coherencia, calidad poética y legibilidad para el lector.

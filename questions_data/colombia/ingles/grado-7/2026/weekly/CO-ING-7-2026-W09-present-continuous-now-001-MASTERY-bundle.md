@@ -239,12 +239,12 @@ Choose the sentence with the correct spelling for the verb "run".
 ### Opciones
 - [ ] A) The dog is runing in the garden.
   <!-- feedback: Incorrect. For C-V-C verbs, the last consonant must be doubled. -->
-- [x] B) The dog is running in the garden.
-  <!-- feedback: Correct! Double 'n' before adding -ing for "run". -->
+- [ ] B) The dog is runs in the garden.
+  <!-- feedback: Incorrect. You cannot use the present simple 's' form with "is". -->
 - [ ] C) The dog is runneing in the garden.
   <!-- feedback: Incorrect. You don't need to add an 'e' before 'ing'. -->
-- [ ] D) The dog is runs in the garden.
-  <!-- feedback: Incorrect. You cannot use the present simple 's' form with "is". -->
+- [x] D) The dog is running in the garden.
+  <!-- feedback: Correct! Double 'n' before adding -ing for "run". -->
 
 ### Explicacion Pedagogica
 The student analyzes the CVC rule (consonant-vowel-consonant) for doubling consonants in the -ing form.

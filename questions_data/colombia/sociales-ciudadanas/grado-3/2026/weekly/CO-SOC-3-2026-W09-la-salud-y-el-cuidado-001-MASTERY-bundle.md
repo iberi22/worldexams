@@ -191,12 +191,12 @@ El lugar donde se ubican los servicios de salud tiene un efecto directo sobre qu
 ¿Qué actuación demuestra mejor que ese niño es ciudadano respetuoso y responsable?
 
 ### Opciones
-- [ ] A) Decirle a todos que su compañero es frágil
-  <!-- feedback: Incorrecto. Hacer pública la condición de salud de un compañero hiere su dignidad y no evita que sufra. -->
+- [x] A) Avisarle con voz suave y buscar a un adulto que pueda ayudar
+  <!-- feedback: Correcto. Avisarle sin humillarlo y pedir ayuda a un adulto evita el daño sin exponerlo delante de todos. -->
 - [ ] B) Ignorar la situación porque no es asunto suyo
   <!-- feedback: Incorrecto. Ignorar un riesgo grave cerca de una persona también es una falta de responsabilidad. -->
-- [x] C) Avisarle con voz suave y buscar a un adulto que pueda ayudar
-  <!-- feedback: Correcto. Avisarle sin humillarlo y pedir ayuda a un adulto evita el daño sin exponerlo delante de todos. -->
+- [ ] C) Decirle a todos que su compañero es frágil
+  <!-- feedback: Incorrecto. Hacer pública la condición de salud de un compañero hiere su dignidad y no evita que sufra. -->
 - [ ] D) Empujarlo para que suelte el producto
   <!-- feedback: Incorrecto. Empujar puede golpearlo y es una forma agresiva de resolver; la ayuda se hace hablando y llamando a un adulto. -->
 

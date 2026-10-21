@@ -119,10 +119,10 @@ Lee la frase del acuerdo del equipo de fútbol del colegio.
 Según cómo está construida la frase, ¿qué parte enuncia la consecuencia de la norma?
 
 ### Opciones
-- [ ] A) La parte del sujeto, porque allí se menciona a los jugadores
-  <!-- feedback: Incorrecto. El sujeto nombra a quién se aplica la norma, y no es la parte que anuncia qué pasa si se cumple. -->
-- [x] B) La parte del predicado, porque ahí se dice qué ocurre si la condición se cumple
+- [x] A) La parte del predicado, porque ahí se dice qué ocurre si la condición se cumple
   <!-- feedback: Correcto. El verbo puede empezar y lo que lo acompaña dependen de la frase que empieza con si, así que el predicado expresa la consecuencia. -->
+- [ ] B) La parte del sujeto, porque allí se menciona a los jugadores
+  <!-- feedback: Incorrecto. El sujeto nombra a quién se aplica la norma, y no es la parte que anuncia qué pasa si se cumple. -->
 - [ ] C) La palabra tiempo, porque es la que resuelve el conflicto del equipo
   <!-- feedback: Incorrecto. Tiempo solo indica la hora, y no es la parte de la frase que expresa la consecuencia de la condición. -->
 - [ ] D) La palabra acuerdo, porque es la que define la relación del equipo

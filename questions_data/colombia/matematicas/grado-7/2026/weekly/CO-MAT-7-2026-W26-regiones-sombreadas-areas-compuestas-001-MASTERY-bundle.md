@@ -34,12 +34,13 @@ Este bundle contiene 10 preguntas sobre **regiones-sombreadas-areas-compuestas**
 ### Opciones
 - [ ] A) Sumar el área exterior con el área interior
   <!-- feedback: Incorrecto. Sumar incluiría dos veces la zona interior, que no lleva baldosa. -->
-- [x] D) Restar el área de la figura interior al área de la figura exterior
-  <!-- feedback: Correcto. La región sombreada es lo que queda del exterior al quitar el interior: área exterior menos área interior. -->
 - [ ] B) Multiplicar el área exterior por el área interior
   <!-- feedback: Incorrecto. Multiplicar áreas no tiene significado geométrico en este caso. -->
 - [ ] C) Dividir el área exterior entre el área interior
   <!-- feedback: Incorrecto. Dividir áreas da una razón, no el área de la región. -->
+- [x] D) Restar el área de la figura interior al área de la figura exterior
+  <!-- feedback: Correcto. La región sombreada es lo que queda del exterior al quitar el interior: área exterior menos área interior. -->
+
 ### Explicacion Pedagogica
 Cuando una figura está dentro de otra y la región sombreada es el borde entre ambas, su área es la diferencia: área de la figura grande menos área de la figura pequeña.
 
@@ -52,14 +53,15 @@ Cuando una figura está dentro de otra y la región sombreada es el borde entre 
 ### Enunciado
 ¿Qué operación permite hallar el área pintada de azul?
 ### Opciones
-- [x] B) Calcular el área del rectángulo y restarle el área del círculo
-  <!-- feedback: Correcto. Lo pintado es todo el cartel menos el logo: 10 × 6 menos pi × r². -->
 - [ ] A) Calcular el área del círculo y sumarle el área del rectángulo
   <!-- feedback: Incorrecto. Sumar contaría el logo como pintado, lo cual es falso. -->
+- [x] B) Calcular el área del rectángulo y restarle el área del círculo
+  <!-- feedback: Correcto. Lo pintado es todo el cartel menos el logo: 10 × 6 menos pi × r². -->
 - [ ] C) Calcular solo el área del círculo
   <!-- feedback: Incorrecto. Esa es justo la zona que NO va pintada. -->
 - [ ] D) Calcular el perímetro del rectángulo más el del círculo
   <!-- feedback: Incorrecto. Los perímetros miden contornos, no superficies pintadas. -->
+
 ### Explicacion Pedagogica
 El área pintada es la región sombreada: figura total menos figura excluida. Primero se halla el área del rectángulo (base × altura) y se le resta el área del círculo (pi × r²).
 
@@ -80,6 +82,7 @@ El área pintada es la región sombreada: figura total menos figura excluida. Pr
   <!-- feedback: Incorrecto. Esa es solo el área de la alfombra, que no se lava. -->
 - [ ] D) 40 m²
   <!-- feedback: Incorrecto. Ese es el tapete completo, sin descontar la alfombra. -->
+
 ### Explicacion Pedagogica
 Zona a lavar = área exterior menos área interior = (8 × 5) - (3 × 3) = 40 - 9 = 31 m².
 
@@ -92,14 +95,15 @@ Zona a lavar = área exterior menos área interior = (8 × 5) - (3 × 3) = 40 - 
 ### Enunciado
 Usando pi = 3,14, ¿cuál es el área que se enchaqueta?
 ### Opciones
-- [x] D) 349,76 m²
-  <!-- feedback: Correcto. Plaza 20 × 20 = 400 menos fuente 3,14 × 16 = 50,24; 400 - 50,24 = 349,76 m². -->
 - [ ] A) 450,24 m²
   <!-- feedback: Incorrecto. Ese valor suma la fuente en vez de restarla. -->
 - [ ] B) 50,24 m²
   <!-- feedback: Incorrecto. Esa es solo el área de la fuente, que no se enchaqueta. -->
 - [ ] C) 400 m²
   <!-- feedback: Incorrecto. Ese es el área total sin descontar la fuente. -->
+- [x] D) 349,76 m²
+  <!-- feedback: Correcto. Plaza 20 × 20 = 400 menos fuente 3,14 × 16 = 50,24; 400 - 50,24 = 349,76 m². -->
+
 ### Explicacion Pedagogica
 Área a enchaquetar = 20² - pi × 4² = 400 - 3,14 × 16 = 400 - 50,24 = 349,76 m².
 
@@ -114,12 +118,13 @@ Usando pi = 3,14, ¿cuál es el área que se enchaqueta?
 ### Opciones
 - [ ] A) 24 cm²
   <!-- feedback: Incorrecto. Ese valor resta las áreas en vez de sumar las partes que forman la L. -->
-- [x] D) 56 cm²
-  <!-- feedback: Correcto. Las partes se suman sin traslapo: 10 × 4 = 40 más 4 × 4 = 16, total 56 cm². -->
 - [ ] B) 40 cm²
   <!-- feedback: Incorrecto. Esa es solo el área del rectángulo, falta el cuadrado. -->
 - [ ] C) 64 cm²
   <!-- feedback: Incorrecto. Ese valor supone un cuadrado de lado mayor al real. -->
+- [x] D) 56 cm²
+  <!-- feedback: Correcto. Las partes se suman sin traslapo: 10 × 4 = 40 más 4 × 4 = 16, total 56 cm². -->
+
 ### Explicacion Pedagogica
 Una figura compuesta por partes que no se traslapan tiene área igual a la suma de las áreas: 40 + 16 = 56 cm².
 
@@ -134,12 +139,13 @@ Una figura compuesta por partes que no se traslapan tiene área igual a la suma 
 ### Opciones
 - [ ] A) 1 152 cm²
   <!-- feedback: Incorrecto. Ese valor multiplica las dimensiones externas con las internas, sin sentido geométrico. -->
-- [x] D) 288 cm²
-  <!-- feedback: Correcto. Área externa 30 × 24 = 720 menos abertura 24 × 18 = 432; 720 - 432 = 288 cm². -->
 - [ ] B) 432 cm²
   <!-- feedback: Incorrecto. Esa es el área de la abertura (la foto), que no se pinta. -->
 - [ ] C) 720 cm²
   <!-- feedback: Incorrecto. Ese es el rectángulo completo, sin descontar la abertura. -->
+- [x] D) 288 cm²
+  <!-- feedback: Correcto. Área externa 30 × 24 = 720 menos abertura 24 × 18 = 432; 720 - 432 = 288 cm². -->
+
 ### Explicacion Pedagogica
 El marco es la región entre dos rectángulos: (30 × 24) - (24 × 18) = 720 - 432 = 288 cm² de superficie dorada.
 
@@ -160,6 +166,7 @@ El marco es la región entre dos rectángulos: (30 × 24) - (24 × 18) = 720 - 4
   <!-- feedback: Incorrecto. Ese es el jardín completo, sin descontar el sendero. -->
 - [ ] D) 12 m²
   <!-- feedback: Incorrecto. Esa es solo el área del sendero, que no lleva grama. -->
+
 ### Explicacion Pedagogica
 Área con grama = área del triángulo menos área del sendero = 48 - 12 = 36 m².
 
@@ -180,6 +187,7 @@ Usando pi = 3,14, ¿cuál es el área total del vidrio?
   <!-- feedback: Incorrecto. Ese es solo el rectángulo, falta la parte semicircular. -->
 - [ ] D) 23 304 cm²
   <!-- feedback: Incorrecto. Ese valor duplica el semicírculo como si fuera un círculo entero. -->
+
 ### Explicacion Pedagogica
 La figura compuesta suma sus partes: rectángulo 12 000 cm² más medio círculo de radio 60 (5 652 cm²), total 17 652 cm² de vidrio.
 
@@ -192,14 +200,15 @@ La figura compuesta suma sus partes: rectángulo 12 000 cm² más medio círculo
 ### Enunciado
 ¿Es correcta la afirmación del contratista?
 ### Opciones
-- [x] C) Sí, porque 100 - 78,5 = 21,5 m², que es menor que 22 m²
-  <!-- feedback: Correcto. Cuadrado 10 × 10 = 100 menos círculo 3,14 × 25 = 78,5 da 21,5 m² en las esquinas. -->
 - [ ] A) No, porque el área de las esquinas es 78,5 m²
   <!-- feedback: Incorrecto. 78,5 m² es el área del círculo, no la de las esquinas. -->
 - [ ] B) Sí, porque el círculo inscrito ocupa todo el cuadrado y no quedan esquinas
   <!-- feedback: Incorrecto. El círculo inscrito deja cuatro esquinas libres que sí tienen área. -->
+- [x] C) Sí, porque 100 - 78,5 = 21,5 m², que es menor que 22 m²
+  <!-- feedback: Correcto. Cuadrado 10 × 10 = 100 menos círculo 3,14 × 25 = 78,5 da 21,5 m² en las esquinas. -->
 - [ ] D) No, porque 100 + 78,5 = 178,5 m² supera ampliamente 22 m²
   <!-- feedback: Incorrecto. Las áreas no se suman: las esquinas son el cuadrado menos el círculo. -->
+
 ### Explicacion Pedagogica
 Esquinas = 10² - pi × 5² = 100 - 78,5 = 21,5 m². Como 21,5 < 22, la afirmación del contratista es correcta.
 
@@ -212,13 +221,14 @@ Esquinas = 10² - pi × 5² = 100 - 78,5 = 21,5 m². Como 21,5 < 22, la afirmaci
 ### Enunciado
 ¿Qué diseño deja mayor área de tela? Evalúe con cálculos.
 ### Opciones
-- [ ] A) El A, porque al recortar un triángulo más grande queda más tela que con el rectángulo pequeño
-  <!-- feedback: Incorrecto. Recortar más deja MENOS tela: el triángulo quita 16 cm² y el rectángulo solo 8 cm². -->
-- [x] D) El B, porque deja 64 - 8 = 56 cm² frente a 64 - 16 = 48 cm² del A
+- [x] A) El B, porque deja 64 - 8 = 56 cm² frente a 64 - 16 = 48 cm² del A
   <!-- feedback: Correcto. Ambos parten de 64 cm²; al recortar 8 frente a 16, el diseño B conserva más tela (56 > 48). -->
 - [ ] B) El A, porque el triángulo siempre conserva más área que el rectángulo
   <!-- feedback: Incorrecto. No hay regla general así; aquí el triángulo recorta 16 cm², más que los 8 cm² del rectángulo. -->
 - [ ] C) Ambos dejan lo mismo porque parten del mismo cuadrado
   <!-- feedback: Incorrecto. Partir del mismo cuadrado no iguala el resultado si los recortes difieren. -->
+- [ ] D) El A, porque al recortar un triángulo más grande queda más tela que con el rectángulo pequeño
+  <!-- feedback: Incorrecto. Recortar más deja MENOS tela: el triángulo quita 16 cm² y el rectángulo solo 8 cm². -->
+
 ### Explicacion Pedagogica
 Tela restante = 64 menos recorte. Diseño A: 64 - 16 = 48 cm². Diseño B: 64 - 8 = 56 cm². El diseño B deja mayor área de tela.

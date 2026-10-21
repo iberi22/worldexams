@@ -30,14 +30,15 @@ Bundle semanal para ordenar inicio, nudo y desenlace y comprender la secuencia d
 ### Enunciado
 Lee el inicio: "Había una vez un niño llamado Santiago que vivía en una finca cerca de Manizales". Según el inicio, ¿quién es el personaje y dónde vive?
 ### Opciones
-- [x] D) Santiago, un niño que vive en una finca cerca de Manizales.
-  <!-- feedback: Es correcta porque repite el nombre y el lugar que dice el inicio. -->
 - [ ] A) Valentina, una niña que vive en Bogotá.
   <!-- feedback: Es incorrecta porque Valentina es quien lee, no el personaje del cuento. -->
 - [ ] B) Un pescador que vive en Cartagena.
   <!-- feedback: Es incorrecta porque no se menciona pescador ni Cartagena. -->
 - [ ] C) Un tendero que vive en Pereira.
   <!-- feedback: Es incorrecta porque no aparece ningún tendero en el inicio. -->
+- [x] D) Santiago, un niño que vive en una finca cerca de Manizales.
+  <!-- feedback: Es correcta porque repite el nombre y el lugar que dice el inicio. -->
+
 ### Explicacion Pedagogica
 El inicio del cuento presenta a los personajes y el lugar. Recuperar esos datos explícitos es el primer paso para seguir la secuencia narrativa y disfrutar la comunicación de la historia.
 
@@ -50,14 +51,15 @@ El inicio del cuento presenta a los personajes y el lugar. Recuperar esos datos 
 ### Enunciado
 El profesor escribe: "Inicio: se presentan los personajes. Nudo: aparece un problema. Desenlace: se resuelve el problema". ¿Qué se entiende de esta explicación?
 ### Opciones
-- [x] B) Que todo cuento tiene un orden: presentación, problema y solución.
-  <!-- feedback: Es correcta porque resume con claridad las tres partes en orden. -->
 - [ ] A) Que los cuentos no tienen orden ni final.
   <!-- feedback: Es incorrecta porque la explicación muestra un orden claro. -->
+- [x] B) Que todo cuento tiene un orden: presentación, problema y solución.
+  <!-- feedback: Es correcta porque resume con claridad las tres partes en orden. -->
 - [ ] C) Que el nudo es el título del cuento.
   <!-- feedback: Es incorrecta porque el nudo es el problema, no el título. -->
 - [ ] D) Que el desenlace es el inicio de otro cuento.
   <!-- feedback: Es incorrecta porque el desenlace cierra el mismo cuento. -->
+
 ### Explicacion Pedagogica
 Comprender la estructura permite anticipar lo que sigue en la lectura. Inicio, nudo y desenlace forman la secuencia básica que también ayuda a contar anécdotas con orden y buena ortografía.
 
@@ -78,6 +80,7 @@ Lee estos hechos desordenados: 1. Juan recupera la cometa con ayuda de Mariana. 
   <!-- feedback: Es incorrecta porque la primera elevada debe ir antes de la pérdida. -->
 - [ ] D) 2 - 3 - 1: se la lleva el viento, la elevan y la recuperan.
   <!-- feedback: Es incorrecta porque altera la causa y el efecto de los hechos. -->
+
 ### Explicacion Pedagogica
 Ordenar hechos exige aplicar la lógica de causa y efecto. Primero ocurre la acción inicial, después el problema y al final la solución. Este ejercicio también fortalece la descripción ordenada de sucesos.
 
@@ -90,14 +93,15 @@ Ordenar hechos exige aplicar la lógica de causa y efecto. Primero ocurre la acc
 ### Enunciado
 Lee el fragmento: "Mariana buscó bajo los puestos de frutas y preguntó a los vendedores, con el corazón acelerado". ¿A qué parte del cuento pertenece este fragmento?
 ### Opciones
-- [x] B) Al nudo, porque muestra el problema y el esfuerzo por resolverlo.
-  <!-- feedback: Es correcta porque la búsqueda angustiosa es el desarrollo del conflicto. -->
 - [ ] A) Al inicio, porque presenta a los personajes por primera vez.
   <!-- feedback: Es incorrecta porque aquí ya existe un problema en marcha. -->
+- [x] B) Al nudo, porque muestra el problema y el esfuerzo por resolverlo.
+  <!-- feedback: Es correcta porque la búsqueda angustiosa es el desarrollo del conflicto. -->
 - [ ] C) Al desenlace, porque ya se encontró la mochila.
   <!-- feedback: Es incorrecta porque todavía la está buscando. -->
 - [ ] D) Al título, porque resume toda la historia.
   <!-- feedback: Es incorrecta porque es una escena, no el título. -->
+
 ### Explicacion Pedagogica
 Identificar el nudo requiere reconocer las marcas del problema: la pérdida, la búsqueda y la emoción. Ubicar cada fragmento en su parte ayuda a seguir la secuencia completa del cuento.
 
@@ -118,6 +122,7 @@ Lee el final: "Santiago encontró sus colores bajo la cama, terminó el dibujo y
   <!-- feedback: Es incorrecta porque el texto afirma que terminó el dibujo. -->
 - [ ] D) Que Santiago vendió el dibujo por 5000 pesos.
   <!-- feedback: Es incorrecta porque lo regaló a su mamá, no lo vendió. -->
+
 ### Explicacion Pedagogica
 El desenlace muestra la solución del conflicto y el cambio de ánimo. Deducir ese cierre permite comprobar si la secuencia quedó completa y también anima a escribir finales con buena comunicación de sentimientos.
 
@@ -138,6 +143,7 @@ Cuento: "Valentina cuidaba una planta de café que se estaba marchitando". Final
   <!-- feedback: Es incorrecta porque la magia repentina es menos creíble que el cuidado explicado. -->
 - [ ] D) Que ninguno de los dos finales cierra la historia.
   <!-- feedback: Es incorrecta porque ambos proponen un cierre, aunque de distinta calidad. -->
+
 ### Explicacion Pedagogica
 Analizar desenlaces permite valorar la coherencia: una buena solución se prepara con pistas y acciones del personaje. El final 2 muestra esfuerzo y aprendizaje, mientras el final 1 rompe la lógica con una salida fácil. Este análisis también mejora la escritura de cuentos propios.
 
@@ -150,14 +156,15 @@ Analizar desenlaces permite valorar la coherencia: una buena solución se prepar
 ### Enunciado
 Inicio 1: "Había una vez un niño". Inicio 2: "En vacaciones, Santiago viajó con su familia de Bogotá a Cartagena y descubrió una playa llena de pelícanos". ¿Cuál inicio funciona mejor y por qué?
 ### Opciones
-- [x] D) El inicio 2, porque presenta personaje, lugar y una situación interesante.
-  <!-- feedback: Es correcta porque da información concreta que invita a seguir leyendo. -->
 - [ ] A) El inicio 1, porque es más largo y detallado.
   <!-- feedback: Es incorrecta porque es más corto y no da ningún detalle. -->
 - [ ] B) Los dos son iguales de efectivos.
   <!-- feedback: Es incorrecta porque el segundo ofrece datos y el primero es muy vago. -->
 - [ ] C) Ninguno sirve como inicio de cuento.
   <!-- feedback: Es incorrecta porque el inicio 2 sí cumple la función de presentar la historia. -->
+- [x] D) El inicio 2, porque presenta personaje, lugar y una situación interesante.
+  <!-- feedback: Es correcta porque da información concreta que invita a seguir leyendo. -->
+
 ### Explicacion Pedagogica
 Un buen inicio ubica al lector con personajes y ambientes precisos. Analizar la diferencia enseña que los detalles concretos, como la ciudad y los pelícanos, despiertan curiosidad. Esta destreza también enriquece la descripción en textos propios.
 
@@ -170,13 +177,14 @@ Un buen inicio ubica al lector con personajes y ambientes precisos. Analizar la 
 ### Enunciado
 Hechos: Santiago perdió el balón en el recreo, lo buscó con sus amigos y lo encontró detrás del arco. ¿Cuál versión cuenta mejor la anécdota?
 ### Opciones
-- [x] A) En el recreo perdimos el balón, lo buscamos con calma por toda la cancha y lo encontramos detrás del arco.
-  <!-- feedback: Es correcta porque mantiene inicio, nudo y desenlace en orden claro y completo. -->
+- [ ] A) El balón es redondo y nos gusta jugar con él.
+  <!-- feedback: Es incorrecta porque describe el objeto pero no cuenta lo que pasó. -->
 - [ ] B) Encontramos el balón y después lo perdimos en el recreo.
   <!-- feedback: Es incorrecta porque invierte el orden y confunde al lector. -->
-- [ ] C) El balón es redondo y nos gusta jugar con él.
-  <!-- feedback: Es incorrecta porque describe el objeto pero no cuenta lo que pasó. -->
+- [x] C) En el recreo perdimos el balón, lo buscamos con calma por toda la cancha y lo encontramos detrás del arco.
+  <!-- feedback: Es correcta porque mantiene inicio, nudo y desenlace en orden claro y completo. -->
 - [ ] D) Nunca jugamos ni perdimos nada en el recreo.
   <!-- feedback: Es incorrecta porque niega los hechos que se quieren contar. -->
+
 ### Explicacion Pedagogica
 Evaluar una narración exige verificar el orden lógico y que no falte ninguna parte. La mejor versión conserva la secuencia completa y usa conectores claros. Contar bien una anécdota también es una forma de cuidar la comunicación oral y escrita.

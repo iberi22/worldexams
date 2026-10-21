@@ -30,14 +30,15 @@ Bundle semanal para usar pronombres demostrativos y posesivos al señalar objeto
 ### Enunciado
 Si un libro está muy cerca de la profesora, ¿cuál palabra demostrativa corresponde usar?
 ### Opciones
-- [x] C) Este.
-  <!-- feedback: Es correcta porque "este" señala lo que está cerca de quien habla. -->
 - [ ] A) Ese.
   <!-- feedback: Es incorrecta porque "ese" señala lo que está cerca del oyente. -->
 - [ ] B) Aquel.
   <!-- feedback: Es incorrecta porque "aquel" señala lo que está lejos de ambos. -->
+- [x] C) Este.
+  <!-- feedback: Es correcta porque "este" señala lo que está cerca de quien habla. -->
 - [ ] D) Mío.
   <!-- feedback: Es incorrecta porque "mío" indica pertenencia y no distancia. -->
+
 ### Explicacion Pedagogica
 Los demostrativos señalan la distancia entre el hablante y lo que menciona. "Este" se usa para lo que está cerca de quien habla, "ese" para lo que está cerca de quien escucha y "aquel" para lo que está lejos de los dos. Reconocer estas tres palabras ayuda a señalar objetos con precisión.
 
@@ -50,14 +51,15 @@ Los demostrativos señalan la distancia entre el hablante y lo que menciona. "Es
 ### Enunciado
 ¿Qué se entiende sobre las palabras "mi" y "tu" en la oración de Daniel?
 ### Opciones
-- [x] D) Que son palabras posesivas que indican a quién pertenece cada objeto.
-  <!-- feedback: Es correcta porque "mi" señala lo de Daniel y "tu" lo del compañero. -->
 - [ ] A) Que son palabras demostrativas que señalan la distancia de los objetos.
   <!-- feedback: Es incorrecta porque no indican distancia, sino pertenencia. -->
 - [ ] B) Que son nombres propios de personas.
   <!-- feedback: Es incorrecta porque no nombran a ninguna persona. -->
 - [ ] C) Que son verbos que indican acciones.
   <!-- feedback: Es incorrecta porque no expresan acciones ni se conjugan. -->
+- [x] D) Que son palabras posesivas que indican a quién pertenece cada objeto.
+  <!-- feedback: Es correcta porque "mi" señala lo de Daniel y "tu" lo del compañero. -->
+
 ### Explicacion Pedagogica
 Las palabras posesivas expresan a quién pertenece algo. "Mi" indica que el objeto es del hablante y "tu" que pertenece a la persona con quien se habla. Distinguirlas de los demostrativos, que señalan distancia, permite usar el lenguaje con mayor claridad.
 
@@ -70,14 +72,15 @@ Las palabras posesivas expresan a quién pertenece algo. "Mi" indica que el obje
 ### Enunciado
 ¿Por qué Valentina usa la palabra "ese" y no "este"?
 ### Opciones
-- [x] D) Porque el cuaderno está cerca de su hermano y no de ella.
-  <!-- feedback: Es correcta porque "ese" señala lo que está próximo a quien escucha. -->
 - [ ] A) Porque el cuaderno le pertenece a ella.
   <!-- feedback: Es incorrecta porque la pertenencia se expresa con otras palabras. -->
 - [ ] B) Porque el cuaderno está muy lejos de los dos.
   <!-- feedback: Es incorrecta porque el cuaderno está junto a su hermano. -->
 - [ ] C) Porque "ese" se usa siempre para lo que es nuestro.
   <!-- feedback: Es incorrecta porque "ese" no indica pertenencia. -->
+- [x] D) Porque el cuaderno está cerca de su hermano y no de ella.
+  <!-- feedback: Es correcta porque "ese" señala lo que está próximo a quien escucha. -->
+
 ### Explicacion Pedagogica
 Aplicar los demostrativos exige observar dónde está el objeto y a quién se dirige la palabra. Valentina pide el cuaderno que está cerca de su hermano, por eso usa "ese". Si el objeto estuviera cerca de ella, diría "este". Este detalle hace que las instrucciones se entiendan bien.
 
@@ -90,14 +93,15 @@ Aplicar los demostrativos exige observar dónde está el objeto y a quién se di
 ### Enunciado
 Mario responde: "Es la mía". ¿Qué indica la respuesta de Mario?
 ### Opciones
-- [x] D) Que la cartuchera le pertenece a Mario.
-  <!-- feedback: Es correcta porque "mía" expresa que el objeto es del hablante. -->
 - [ ] A) Que la cartuchera está lejos de Mario.
   <!-- feedback: Es incorrecta porque "mía" no informa sobre distancia. -->
 - [ ] B) Que la cartuchera es de la profesora.
   <!-- feedback: Es incorrecta porque la profesora pregunta, no responde. -->
 - [ ] C) Que la cartuchera no tiene dueño.
   <!-- feedback: Es incorrecta porque Mario afirma que es suya. -->
+- [x] D) Que la cartuchera le pertenece a Mario.
+  <!-- feedback: Es correcta porque "mía" expresa que el objeto es del hablante. -->
+
 ### Explicacion Pedagogica
 Aplicar los posesivos permite responder con precisión a una pregunta sobre pertenencia. Al decir "es la mía", Mario aclara que la cartuchera le pertenece. Usar correctamente estas palabras evita confusiones cuando varios compañeros tienen objetos parecidos.
 
@@ -110,14 +114,15 @@ Aplicar los posesivos permite responder con precisión a una pregunta sobre pert
 ### Enunciado
 ¿Cuál palabra indica que el afiche pertenece a los dos amigos?
 ### Opciones
-- [x] D) Nuestro.
-  <!-- feedback: Es correcta porque "nuestro" expresa que el objeto pertenece a varios, incluido el hablante. -->
 - [ ] A) Este.
   <!-- feedback: Es incorrecta porque "este" señala cercanía, no pertenencia. -->
 - [ ] B) Aquel.
   <!-- feedback: Es incorrecta porque "aquel" señala distancia, no pertenencia. -->
 - [ ] C) Afiche.
   <!-- feedback: Es incorrecta porque "afiche" es el nombre del objeto. -->
+- [x] D) Nuestro.
+  <!-- feedback: Es correcta porque "nuestro" expresa que el objeto pertenece a varios, incluido el hablante. -->
+
 ### Explicacion Pedagogica
 Los posesivos también expresan pertenencia cuando el objeto es de varias personas. "Nuestro" indica que el afiche es de los dos amigos que hablan. Reconocer estas formas amplía el vocabulario y permite hablar con claridad sobre lo que se comparte en el colegio.
 
@@ -130,14 +135,15 @@ Los posesivos también expresan pertenencia cuando el objeto es de varias person
 ### Enunciado
 Pedro dice: "Aquella maqueta es la más antigua". Sofía responde: "Entonces está muy cerca de nosotros". ¿Quién interpreta bien la palabra demostrativa y por qué?
 ### Opciones
-- [x] C) Pedro, porque "aquella" señala algo que está lejos de quien habla.
-  <!-- feedback: Es correcta porque "aquella" indica mayor distancia respecto del hablante. -->
 - [ ] A) Sofía, porque "aquella" señala lo que está muy cerca.
   <!-- feedback: Es incorrecta porque la cercanía se señala con "esta". -->
 - [ ] B) Sofía, porque "aquella" y "esta" significan lo mismo.
   <!-- feedback: Es incorrecta porque expresan distancias diferentes. -->
+- [x] C) Pedro, porque "aquella" señala algo que está lejos de quien habla.
+  <!-- feedback: Es correcta porque "aquella" indica mayor distancia respecto del hablante. -->
 - [ ] D) Pedro, porque "aquella" indica que la maqueta es de él.
   <!-- feedback: Es incorrecta porque ese demostrativo no expresa pertenencia. -->
+
 ### Explicacion Pedagogica
 Analizar demostrativos exige comparar la distancia que señala cada palabra. "Aquella" indica lo más lejano, "esa" lo intermedio y "esta" lo más cercano. Sofía confunde ese valor con la cercanía. Distinguir estos matices mejora la comprensión y el uso preciso del lenguaje.
 
@@ -158,6 +164,7 @@ Analizar demostrativos exige comparar la distancia que señala cada palabra. "Aq
   <!-- feedback: Es incorrecta porque no funcionan como nombres propios. -->
 - [ ] D) Indicar que todos los cuadernos son del mismo dueño.
   <!-- feedback: Es incorrecta porque el aviso habla de cada estudiante por separado. -->
+
 ### Explicacion Pedagogica
 Analizar un aviso permite ver cómo los posesivos organizan la información. "Su" y "sus" relacionan los útiles con cada estudiante en particular y refuerzan la idea de responsabilidad. Comprender esta función ayuda a leer normas escolares y a entender a quién corresponde cada indicación.
 
@@ -170,13 +177,14 @@ Analizar un aviso permite ver cómo los posesivos organizan la información. "Su
 ### Enunciado
 ¿Cuál oración usa correctamente estas palabras?
 ### Opciones
-- [x] D) Este cuaderno es mío y ese lápiz es tuyo.
-  <!-- feedback: Es correcta porque "mío" y "tuyo" concuerdan con el género de cada objeto. -->
 - [ ] A) Este cuaderno es mío y ese lápiz es mía.
   <!-- feedback: Es incorrecta porque "mía" no concuerda con el género masculino de "lápiz". -->
-- [ ] B) Este cuaderno es tuyo y ese lápiz es tuyo mío.
-  <!-- feedback: Es incorrecta porque acumula dos posesivos incompatibles en el mismo objeto. -->
+- [x] B) Este cuaderno es mío y ese lápiz es tuyo.
+  <!-- feedback: Es correcta porque "mío" y "tuyo" concuerdan con el género de cada objeto. -->
 - [ ] C) Este cuaderno es mío y ese lápiz es mi.
   <!-- feedback: Es incorrecta porque la forma correcta antepuesta no funciona como posesivo solo. -->
+- [ ] D) Este cuaderno es tuyo y ese lápiz es tuyo mío.
+  <!-- feedback: Es incorrecta porque acumula dos posesivos incompatibles en el mismo objeto. -->
+
 ### Explicacion Pedagogica
 Evaluar una oración exige revisar la concordancia y el sentido de cada palabra. La forma correcta usa "mío" para el cuaderno y "tuyo" para el lápiz, respetando el género de cada sustantivo. Revisar estas terminaciones evita errores frecuentes al escribir y mejora la claridad de los textos.

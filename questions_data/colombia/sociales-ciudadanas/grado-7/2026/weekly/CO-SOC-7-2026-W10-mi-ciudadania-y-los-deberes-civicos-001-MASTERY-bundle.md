@@ -241,10 +241,10 @@ Evaluar una propuesta que limita la participación exige preguntarse si respeta 
 Un colegio pide a cada alumno una de tres actividades y solo una es obligatoria. ¿Qué consecuecia tiene esa regla para la ciudadanía de los estudiantes?
 
 ### Opciones
-- [ ] A) Es neutra, porque las tres actividades valen lo mismo entre sí.
-  <!-- feedback: Que las actividades valgan lo mismo no dice nada sobre si se está ofreciendo o no un espacio real de decisión al estudiante. -->
-- [x] B) Reduce la participación, porque deja poco margen para elegir la propia.
+- [x] A) Reduce la participación, porque deja poco margen para elegir la propia.
   <!-- feedback: Es correcta porque si una sola opción es obligatoria, el estudiante no elige libremente a cuál acercarse y su margen de decisión es mínimo. -->
+- [ ] B) Es neutra, porque las tres actividades valen lo mismo entre sí.
+  <!-- feedback: Que las actividades valgan lo mismo no dice nada sobre si se está ofreciendo o no un espacio real de decisión al estudiante. -->
 - [ ] C) Aumenta la participación, porque obliga a todos a hacer algo por el barrio.
   <!-- feedback: Obligar no equivale a abrir participación; si la opción se impone, el estudiante cumple pero no ha elegido cómo participar. -->
 - [ ] D) Es negativa, porque ninguna de las actividades sirve como deber cívico.

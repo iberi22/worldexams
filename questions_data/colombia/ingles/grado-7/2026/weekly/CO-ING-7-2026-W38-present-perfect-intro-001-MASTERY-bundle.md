@@ -36,12 +36,12 @@ This bundle introduces the Present Perfect tense (have/has + past participle) to
 Which auxiliary verb is used to form the Present Perfect?
 
 ### Opciones
+- [x] A) Have / Has
+  <!-- feedback: Correct! Present Perfect uses have or has as an auxiliary. -->
 - [ ] B) Do / Does
   <!-- feedback: Incorrect. This is for Present Simple. -->
 - [ ] C) Was / Were
   <!-- feedback: Incorrect. This is for Past Continuous or Past of be. -->
-- [x] A) Have / Has
-  <!-- feedback: Correct! Present Perfect uses have or has as an auxiliary. -->
 - [ ] D) Will
   <!-- feedback: Incorrect. This is for future. -->
 
@@ -61,12 +61,12 @@ The student identifies the basic auxiliary verb for the Present Perfect tense.
 What form of the main verb is required in the Present Perfect tense?
 
 ### Opciones
+- [x] A) Past Participle (e.g., eaten)
+  <!-- feedback: Correct. The Present Perfect is built with 'have' or 'has' followed by the past participle, the third column of the verb table. -->
 - [ ] B) Base form (e.g., eat)
   <!-- feedback: The base form follows 'do', 'does' or a modal such as 'can', not the auxiliary 'have'. -->
 - [ ] C) Past form (e.g., ate)
   <!-- feedback: The past form is used on its own in the Past Simple, as in 'I ate', not after 'have'. -->
-- [x] A) Past Participle (e.g., eaten)
-  <!-- feedback: Correct. The Present Perfect is built with 'have' or 'has' followed by the past participle, the third column of the verb table. -->
 - [ ] D) Continuous form (e.g., eating)
   <!-- feedback: The continuous form needs 'be' plus 'ing', as in 'I am eating', which is the Present Perfect Continuous. -->
 
@@ -86,10 +86,10 @@ The student identifies the specific morphological form of the verb used in this 
 Complete: "I ________ (see) the movie 'Encanto' three times."
 
 ### Opciones
-- [ ] B) have saw
-  <!-- feedback: 'Saw' is the past form used in the Past Simple; the participle of 'see' is 'seen'. -->
 - [x] A) have seen
   <!-- feedback: Correct. The Present Perfect is 'have' plus the past participle 'seen'. -->
+- [ ] B) have saw
+  <!-- feedback: 'Saw' is the past form used in the Past Simple; the participle of 'see' is 'seen'. -->
 - [ ] C) has seen
   <!-- feedback: 'Has' goes with a third person singular subject such as 'she', but the subject here is 'I'. -->
 - [ ] D) am seen
@@ -113,10 +113,10 @@ The student understands the combination of auxiliary and participle for the firs
 ### Opciones
 - [ ] A) have traveled
   <!-- feedback: Incorrect. "Sister" (she) needs "has". -->
-- [x] C) has traveled
-  <!-- feedback: Correct! "Has" for third person singular and the participle "traveled". -->
 - [ ] B) has travel
   <!-- feedback: Incorrect. Needs the participle form. -->
+- [x] C) has traveled
+  <!-- feedback: Correct! "Has" for third person singular and the participle "traveled". -->
 - [ ] D) have travel
   <!-- feedback: Incorrect auxiliary and verb form. -->
 
@@ -138,12 +138,12 @@ The student understands the subject-verb agreement rule within the Present Perfe
 ### Opciones
 - [ ] A) were
   <!-- feedback: Incorrect. This would be a specific past event. -->
-- [x] D) have been
-  <!-- feedback: Correct! Used to talk about visiting a place at some point in life. -->
 - [ ] B) has been
   <!-- feedback: Incorrect auxiliary for "they". -->
 - [ ] C) have be
   <!-- feedback: Incorrect verb form. -->
+- [x] D) have been
+  <!-- feedback: Correct! Used to talk about visiting a place at some point in life. -->
 
 ### Explicacion Pedagogica
 The student applies the Present Perfect to express a life experience (being in a place).
@@ -165,12 +165,12 @@ What instrument(s) has Valentina played in her life?
 ### Opciones
 - [ ] A) Only the guitar.
   <!-- feedback: Incorrect. She also tried the piano. -->
-- [x] D) Both the guitar and the piano.
-  <!-- feedback: Correct! She mentions playing/trying both. -->
 - [ ] B) Only the piano.
   <!-- feedback: Incorrect. She plays the guitar. -->
 - [ ] C) None of them.
   <!-- feedback: Incorrect. She mentions two. -->
+- [x] D) Both the guitar and the piano.
+  <!-- feedback: Correct! She mentions playing/trying both. -->
 
 ### Explicacion Pedagogica
 The student applies reading strategies to identify experiences expressed in the Present Perfect.
@@ -188,10 +188,10 @@ The student applies reading strategies to identify experiences expressed in the 
 Choose the correct negative sentence in the Present Perfect.
 
 ### Opciones
-- [ ] B) I haven't saw that movie.
-  <!-- feedback: Incorrect participle. -->
 - [x] A) I haven't seen that movie.
   <!-- feedback: Correct! Negative auxiliary + correct participle. -->
+- [ ] B) I haven't saw that movie.
+  <!-- feedback: Incorrect participle. -->
 - [ ] C) I didn't seen that movie.
   <!-- feedback: Incorrect auxiliary for participle. -->
 - [ ] D) I not have seen that movie.
@@ -217,10 +217,10 @@ Which sentence describes an experience at an UNSPECIFIED time?
   <!-- feedback: Incorrect. Time is specified (last year). -->
 - [ ] B) I saw my friend two hours ago.
   <!-- feedback: Incorrect. Time is specified (two hours ago). -->
-- [x] D) I have visited Cali several times.
-  <!-- feedback: Correct! The specific times are not mentioned, only the fact of the experience. -->
 - [ ] C) I am visiting Cali now.
   <!-- feedback: Incorrect. This is happening now. -->
+- [x] D) I have visited Cali several times.
+  <!-- feedback: Correct! The specific times are not mentioned, only the fact of the experience. -->
 
 ### Explicacion Pedagogica
 The student analyzes the difference between specific past time (Simple) and general life experience (Perfect).
@@ -239,9 +239,9 @@ The student analyzes the difference between specific past time (Simple) and gene
 What can we analyze about Mateo's life from this list?
 
 ### Opciones
-- [ ] B) He is a very lazy person.
+- [ ] A) He is a very lazy person.
   <!-- feedback: Incorrect. His achievements show activity. -->
-- [x] A) He is an active person with diverse interests and international experiences.
+- [x] B) He is an active person with diverse interests and international experiences.
   <!-- feedback: Correct! Sport, language, and travel are diverse and active. -->
 - [ ] C) He only cares about sports.
   <!-- feedback: Incorrect. He also learned a language and traveled. -->
@@ -266,14 +266,14 @@ Candidate: "Yes, I have worked in many school teams. We have completed many proj
 Does the candidate have experience working with others?
 
 ### Opciones
-- [x] D) Yes, they have experience in collaborative tasks and leadership roles.
-  <!-- feedback: Correct! "Worked in many school teams" and "been the leader" support this. -->
 - [ ] A) No, they only worked by themselves.
   <!-- feedback: Incorrect. They mention teams. -->
 - [ ] B) Yes, but they only worked on one project.
   <!-- feedback: Incorrect. They mention "many projects". -->
 - [ ] C) No, because school teams are not real experience.
   <!-- feedback: Incorrect. In a school context, it is valid experience. -->
+- [x] D) Yes, they have experience in collaborative tasks and leadership roles.
+  <!-- feedback: Correct! "Worked in many school teams" and "been the leader" support this. -->
 
 ### Explicacion Pedagogica
 The student evaluates the evidence provided in a perfect tense response to confirm a candidate's background and skills.

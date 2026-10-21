@@ -229,9 +229,9 @@ Complete: "Our school in Salta ___ a big playground."
 
 ### Opciones
 - [ ] A) is <!-- feedback: Incorrect. The school is not the playground. -->
-- [x] B) has got <!-- feedback: Correct. The school (it) possesses a playground. -->
+- [ ] B) are <!-- feedback: 'Are' would need a plural subject to match. The school is one single thing, and what it has is a playground. -->
 - [ ] C) have got <!-- feedback: Incorrect. "Have got" is for plural subjects. -->
-- [ ] D) are <!-- feedback: 'Are' would need a plural subject to match. The school is one single thing, and what it has is a playground. -->
+- [x] D) has got <!-- feedback: Correct. The school (it) possesses a playground. -->
 
 ### Explicación Pedagógica
 "Our school" es un sujeto singular (it), por lo tanto requiere "has got" para expresar posesión.

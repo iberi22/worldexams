@@ -158,10 +158,10 @@ La seguridad vial necesita tres patas: infraestructura (reductores, señales), c
 ### Enunciado
 ¿Quién tiene la razón en esta discusión y por qué?
 ### Opciones
-- [ ] A) Mariana, porque los carros siempre deben frenar y el peatón puede cruzar donde quiera.
-  <!-- feedback: Incorrecto: aunque los conductores deben prevenir, el peatón no puede cruzar imprudentemente en cualquier punto. -->
-- [x] B) El hermano, porque el peatón tiene derechos pero también deberes que debe cumplir.
+- [x] A) El hermano, porque el peatón tiene derechos pero también deberes que debe cumplir.
   <!-- feedback: Correcto: la vía es un espacio compartido: el peatón tiene prioridad en la cebra, pero debe cruzar por lugares permitidos y sin distracciones. -->
+- [ ] B) Mariana, porque los carros siempre deben frenar y el peatón puede cruzar donde quiera.
+  <!-- feedback: Incorrecto: aunque los conductores deben prevenir, el peatón no puede cruzar imprudentemente en cualquier punto. -->
 - [ ] C) Ninguno, porque los niños no tienen ni derechos ni deberes en la vía.
   <!-- feedback: Incorrecto: los niños son actores viales con derechos a la protección y deberes según su edad. -->
 - [ ] D) Mariana, porque usar el celular al cruzar ayuda a estar más atento.
@@ -183,10 +183,10 @@ Evaluando impacto y viabilidad, ¿qué combinación es la mejor estrategia?
   <!-- feedback: Incorrecto: los puentes peatonales sí protegen, aunque requieren obra e inversión de la alcaldía. -->
 - [ ] B) Solo la 3, porque con carteles los conductores siempre obedecen.
   <!-- feedback: Incorrecto: los carteles solos rara vez cambian conductas sin acompañamiento ni control. -->
-- [x] C) Combinar las tres: acción inmediata con brigadas, cultura con la campaña y solución definitiva con el puente peatonal.
-  <!-- feedback: Correcto: las brigadas protegen ya, la campaña ataca la doble fila y el puente es la solución de largo plazo; juntas cubren todos los frentes. -->
-- [ ] D) Ninguna, porque los accidentes escolares son imposibles de prevenir.
+- [ ] C) Ninguna, porque los accidentes escolares son imposibles de prevenir.
   <!-- feedback: Incorrecto: la mayoría de accidentes escolares se previenen con organización, cultura y infraestructura. -->
+- [x] D) Combinar las tres: acción inmediata con brigadas, cultura con la campaña y solución definitiva con el puente peatonal.
+  <!-- feedback: Correcto: las brigadas protegen ya, la campaña ataca la doble fila y el puente es la solución de largo plazo; juntas cubren todos los frentes. -->
 
 ### Explicacion Pedagogica
 Los problemas ciudadanos complejos exigen estrategias combinadas: medidas inmediatas (brigadas), cambios culturales (campaña contra la doble fila) y soluciones estructurales (puente peatonal pedido por derecho de petición). Evaluar propuestas implica mirar tiempo, costo y efecto: juntas, las tres campañas protegen hoy y construyen seguridad para el futuro.

@@ -40,6 +40,7 @@ Este bundle contiene 10 preguntas sobre **probabilidad-experimental-frecuencias*
   <!-- feedback: Incorrecto. Ese es el total de ensayos, solo el denominador del cálculo. -->
 - [ ] D) Una suposición sin datos sobre lo que podría pasar
   <!-- feedback: Incorrecto. La probabilidad experimental exige datos reales del experimento. -->
+
 ### Explicacion Pedagogica
 La probabilidad experimental se obtiene observando: P = (veces que ocurrió el suceso) ÷ (total de ensayos). Si en 40 lanzamientos salen 22 caras, P(cara) = 22/40 = 0,55.
 
@@ -60,6 +61,7 @@ La probabilidad experimental se obtiene observando: P = (veces que ocurrió el s
   <!-- feedback: Incorrecto. Ese cociente compara caras con sellos, no es una probabilidad. -->
 - [ ] D) 50/27
   <!-- feedback: Incorrecto. Ese cociente invierte el cálculo: supera 1 y no puede ser probabilidad. -->
+
 ### Explicacion Pedagogica
 P experimental = éxitos ÷ ensayos = 27 ÷ 50 = 0,54, es decir 54 %. El valor está cerca del 50 % teórico, como es usual con 50 ensayos.
 
@@ -80,6 +82,7 @@ P experimental = éxitos ÷ ensayos = 27 ÷ 50 = 0,54, es decir 54 %. El valor e
   <!-- feedback: Incorrecto. Ese cociente supera 1 y no representa ninguna probabilidad. -->
 - [ ] D) 1/6 porque todos los dados tienen esa probabilidad
   <!-- feedback: Incorrecto. 1/6 es la probabilidad teórica; aquí piden la experimental con los datos. -->
+
 ### Explicacion Pedagogica
 P experimental = 18 ÷ 120 = 0,15 = 15 %. Note que difiere un poco del valor teórico 1/6 ≈ 16,7 %: con 120 ensayos caben estas fluctuaciones.
 
@@ -100,6 +103,7 @@ P experimental = 18 ÷ 120 = 0,15 = 15 %. Note que difiere un poco del valor te�
   <!-- feedback: Incorrecto. Esa es una razón entre partes, no la frecuencia relativa del suceso. -->
 - [ ] D) 80/32 porque el total de giros va en el numerador
   <!-- feedback: Incorrecto. Ese cociente supera 1 y no puede ser una probabilidad. -->
+
 ### Explicacion Pedagogica
 P experimental(rojo) = 32 ÷ 80 = 0,4 = 40 %. Si el rojo ocupara teóricamente la mitad de la ruleta, este 40 % sugeriría revisar si la ruleta está equilibrada.
 
@@ -120,6 +124,7 @@ P experimental(rojo) = 32 ÷ 80 = 0,4 = 40 %. Si el rojo ocupara teóricamente l
   <!-- feedback: Incorrecto. Ese cociente supera 1 y no es una probabilidad válida. -->
 - [ ] D) 24/16 comparando aciertos con fallos
   <!-- feedback: Incorrecto. Esa es la razón aciertos-fallos, no la frecuencia relativa. -->
+
 ### Explicacion Pedagogica
 P experimental(encestar) = 24 ÷ 40 = 0,6 = 60 %. Con ese dato el entrenador estima que de cada 10 tiros libres encestará unos 6.
 
@@ -140,6 +145,7 @@ Al comparar ambos valores, ¿qué se puede afirmar?
   <!-- feedback: Incorrecto. Con 120 ensayos, obtener 25 en vez de 20 entra en la variación normal del azar. -->
 - [ ] D) La teórica está mal porque el experimento dio otro valor
   <!-- feedback: Incorrecto. La teórica 1/6 es correcta para un dado justo; el experimento solo muestra una muestra. -->
+
 ### Explicacion Pedagogica
 El valor esperado era 120 × 1/6 = 20 apariciones y se observaron 25. Esa desviación de 5 en 120 ensayos es compatible con el azar y no prueba que el dado esté cargado.
 
@@ -160,6 +166,7 @@ El valor esperado era 120 × 1/6 = 20 apariciones y se observaron 25. Esa desvia
   <!-- feedback: Incorrecto. No hay evidencia de error: con 20 ensayos, obtener 70 % de caras es perfectamente posible por azar. -->
 - [ ] D) Porque la moneda cambia su comportamiento con el uso
   <!-- feedback: Incorrecto. La moneda no tiene memoria ni cambia; lo que cambia es la precisión de la estimación. -->
+
 ### Explicacion Pedagogica
 Muestras pequeñas fluctúan mucho (70 % con 20 ensayos es normal por azar); muestras grandes se estabilizan (51,6 % con 500 ensayos). Por eso la probabilidad experimental es más confiable con más datos.
 
@@ -180,6 +187,7 @@ Muestras pequeñas fluctúan mucho (70 % con 20 ensayos es normal por azar); mue
   <!-- feedback: Incorrecto. Ese cociente supera 1 y no es una frecuencia relativa. -->
 - [ ] D) 200/102 porque el total de ensayos va en el numerador
   <!-- feedback: Incorrecto. Ese cociente invierte el cálculo y supera 1. -->
+
 ### Explicacion Pedagogica
 P experimental(sello) = 102 ÷ 200 = 0,51. Estar a 0,01 del valor teórico con 200 ensayos es evidencia de que la moneda está bien equilibrada.
 
@@ -194,12 +202,13 @@ P experimental(sello) = 102 ÷ 200 = 0,51. Estar a 0,01 del valor teórico con 2
 ### Opciones
 - [ ] A) Sí, porque con 5 caras seguidas la probabilidad del sello sube a más del 90 %
   <!-- feedback: Incorrecto. Los giros son independientes: la historia no cambia la probabilidad del siguiente giro. -->
-- [x] B) No, cada giro es independiente y la probabilidad del sello sigue siendo la misma de siempre
-  <!-- feedback: Correcto. La ruleta no tiene memoria (falacia del jugador): 5 caras seguidas no alteran el siguiente resultado. -->
+- [ ] B) No, porque después de 5 caras lo más probable es que salga otra cara
+  <!-- feedback: Incorrecto. Tampoco hay "rachas obligadas": la probabilidad de cara sigue siendo la misma. -->
 - [ ] C) Sí, porque las frecuencias siempre se equilibran en el giro siguiente
   <!-- feedback: Incorrecto. El equilibrio ocurre a largo plazo con cientos de giros, nunca está garantizado en el siguiente. -->
-- [ ] D) No, porque después de 5 caras lo más probable es que salga otra cara
-  <!-- feedback: Incorrecto. Tampoco hay "rachas obligadas": la probabilidad de cara sigue siendo la misma. -->
+- [x] D) No, cada giro es independiente y la probabilidad del sello sigue siendo la misma de siempre
+  <!-- feedback: Correcto. La ruleta no tiene memoria (falacia del jugador): 5 caras seguidas no alteran el siguiente resultado. -->
+
 ### Explicacion Pedagogica
 En eventos independientes, los resultados pasados no influyen en los futuros. Creer que el sello "está en deuda" es la falacia del jugador: cada giro mantiene su probabilidad original.
 
@@ -212,13 +221,14 @@ En eventos independientes, los resultados pasados no influyen en los futuros. Cr
 ### Enunciado
 ¿Bastan esos datos para afirmar que el dado está cargado? Evalúe.
 ### Opciones
-- [x] A) No, con solo 60 ensayos una desviación así puede deberse al azar; se necesitan muchos más lanzamientos para concluir
-  <!-- feedback: Correcto. Lo esperado era 10 apariciones y salieron 15: con muestras pequeñas estas fluctuaciones son normales. -->
+- [ ] A) Sí, porque 15 es múltiplo de 5 y los dados cargados siempre dan múltiplos de 5
+  <!-- feedback: Incorrecto. No existe ninguna regla así; es una superstición sin fundamento. -->
 - [ ] B) Sí, porque 25 % es mayor que 16,7 % y cualquier diferencia prueba la trampa
   <!-- feedback: Incorrecto. Toda muestra difiere algo del valor teórico; la pregunta es si la diferencia supera lo esperable por azar. -->
-- [ ] C) Sí, porque 15 es múltiplo de 5 y los dados cargados siempre dan múltiplos de 5
-  <!-- feedback: Incorrecto. No existe ninguna regla así; es una superstición sin fundamento. -->
+- [x] C) No, con solo 60 ensayos una desviación así puede deberse al azar; se necesitan muchos más lanzamientos para concluir
+  <!-- feedback: Correcto. Lo esperado era 10 apariciones y salieron 15: con muestras pequeñas estas fluctuaciones son normales. -->
 - [ ] D) No, porque la probabilidad experimental nunca puede superar a la teórica
   <!-- feedback: Incorrecto. La experimental supera o queda por debajo de la teórica constantemente por fluctuación del azar. -->
+
 ### Explicacion Pedagogica
 Con 60 ensayos, el valor esperado del 6 es 10 y la desviación típica ronda 3, así que observar 15 entra dentro de lo posible por azar. Para acusar al dado harían falta cientos de lanzamientos con sesgo persistente.

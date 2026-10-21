@@ -269,10 +269,10 @@ Which items on this list are abstract uncountable nouns?
   <!-- feedback: Incorrect. These are concrete and countable. -->
 - [ ] B) Music and sodas.
   <!-- feedback: Incorrect. Sodas are concrete. -->
-- [x] C) Happiness and fun.
-  <!-- feedback: Correct! These are abstract concepts that cannot be counted. -->
-- [ ] D) Pizzas and music.
+- [ ] C) Pizzas and music.
   <!-- feedback: Incorrect. Pizzas are concrete. -->
+- [x] D) Happiness and fun.
+  <!-- feedback: Correct! These are abstract concepts that cannot be counted. -->
 
 ### Explicacion Pedagogica
 The student evaluates and distinguishes between concrete/countable and abstract/uncountable nouns in a creative context.

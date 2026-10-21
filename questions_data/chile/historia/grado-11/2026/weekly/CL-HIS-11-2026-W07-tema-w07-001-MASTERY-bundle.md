@@ -488,12 +488,12 @@ El fin del ciclo concertacionista en 2010 cerró dos décadas de gobernabilidad 
 ### Opciones
 - [ ] A) La prohibición legal decretada por el Congreso para que los temporeros agrícolas viajaran a Santiago.
   <!-- feedback: Incorrecto. No se impusieron restricciones dictatoriales de desplazamiento interno civil en el país transicional democrático. -->
-- [x] B) La inestabilidad contractual temporal del empleo ligada a cosechas breves, carencia de cotizaciones de previsión social (AFP) seguras, salarios precarios y prolongadas jornadas físicas expuestos a pesticidas químicos sin resguardo.
-  <!-- feedback: Correcto. El boom agroexportador frutícola basó parte de sus ganancias en la flexibilización laboral. Los temporeros sufren de una severa estacionalidad, contratos de informalidad laboral que merman sus fondos AFP de jubilación y exposición a agrotóxicos sin fiscalización efectiva, perpetuando brechas agrarias de clases chilenas. -->
+- [ ] B) La obligación patronal de pagar los salarios de temporeros exclusivamente en fichas canjeables de pulperías.
+  <!-- feedback: Incorrecto. El pago en fichas y las pulperías de oficinas salitreras fueron desterrados e ilegalizados de forma inamovible desde principios del siglo XX en Chile. -->
 - [ ] C) La estatización forzosa de todas las viñas de exportación de Talca ordenadora de la CORA de Temuco.
   <!-- feedback: Incorrecto. El Estado de Chile transicional garantizaba de forma irrestricta la propiedad privada exportadora de los viñedos y frutícolas, ajeno a expropiaciones de la CORA. -->
-- [ ] D) La obligación patronal de pagar los salarios de temporeros exclusivamente en fichas canjeables de pulperías.
-  <!-- feedback: Incorrecto. El pago en fichas y las pulperías de oficinas salitreras fueron desterrados e ilegalizados de forma inamovible desde principios del siglo XX en Chile. -->
+- [x] D) La inestabilidad contractual temporal del empleo ligada a cosechas breves, carencia de cotizaciones de previsión social (AFP) seguras, salarios precarios y prolongadas jornadas físicas expuestos a pesticidas químicos sin resguardo.
+  <!-- feedback: Correcto. El boom agroexportador frutícola basó parte de sus ganancias en la flexibilización laboral. Los temporeros sufren de una severa estacionalidad, contratos de informalidad laboral que merman sus fondos AFP de jubilación y exposición a agrotóxicos sin fiscalización efectiva, perpetuando brechas agrarias de clases chilenas. -->
 
 ### Explicacion Pedagogica
 El modelo agroexportador chileno reprodujo bajo ropajes modernos dinámicas de asimetría rural históricas. La temporera o temporero agrícola encarnó la flexibilidad contractual del mercado globalizado neoliberal, demostrando que la inserción exitosa de Chile en mercados de Europa y EE.UU. coexistió con la precarización e inestabilidad de la mano de obra agraria del Valle Central.

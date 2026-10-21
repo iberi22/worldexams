@@ -38,6 +38,7 @@ Aprende a dar tu opinión con razones claras y a reconocer los argumentos de los
   <!-- feedback: Es incorrecta porque un nombre propio no expresa ninguna idea personal. -->
 - [ ] D) Una orden que da el profesor.
   <!-- feedback: Es incorrecta porque una orden no es un punto de vista sobre un tema. -->
+
 ### Explicacion Pedagogica
 La opinión expresa lo que alguien piensa o siente, mientras que el hecho se puede comprobar. Recordar esta diferencia permite reconocer cuándo un texto informa y cuándo busca convencer.
 
@@ -58,6 +59,7 @@ La opinión expresa lo que alguien piensa o siente, mientras que el hecho se pue
   <!-- feedback: Es incorrecta porque ninguno de los dos es la idea principal del texto. -->
 - [ ] D) En la oración no hay opinión ni razón.
   <!-- feedback: Es incorrecta porque el texto presenta claramente las dos partes. -->
+
 ### Explicacion Pedagogica
 En un texto argumentativo la opinión es la idea que se defiende y la razón es el motivo que la sostiene, unido por palabras como "porque". Comprender esa estructura permite leer y escribir textos con sentido.
 
@@ -70,14 +72,15 @@ En un texto argumentativo la opinión es la idea que se defiende y la razón es 
 ### Enunciado
 ¿Cuál de las dos expresiones es una opinión?
 ### Opciones
-- [x] D) "El recreo es muy corto", porque expresa un punto de vista.
-  <!-- feedback: Es correcta porque la palabra "muy" muestra la valoración de quien escribe. -->
 - [ ] A) "El recreo dura veinte minutos", porque se puede medir.
   <!-- feedback: Es incorrecta porque un tiempo medible es un hecho comprobable. -->
 - [ ] B) Las dos son hechos comprobables.
   <!-- feedback: Es incorrecta porque solo una se puede comprobar con un reloj. -->
 - [ ] C) Ninguna expresa una idea personal.
   <!-- feedback: Es incorrecta porque una de las dos sí valora la duración. -->
+- [x] D) "El recreo es muy corto", porque expresa un punto de vista.
+  <!-- feedback: Es correcta porque la palabra "muy" muestra la valoración de quien escribe. -->
+
 ### Explicacion Pedagogica
 Aplicar la diferencia entre hecho y opinión permite leer con criterio: los minutos se miden, pero "muy corto" depende de cada persona. Distinguirlos evita presentar una valoración como si fuera un dato.
 
@@ -90,14 +93,15 @@ Aplicar la diferencia entre hecho y opinión permite leer con criterio: los minu
 ### Enunciado
 ¿Cuál razón apoya mejor la opinión "debemos reciclar en el colegio"?
 ### Opciones
-- [x] D) Porque así cuidamos el ambiente y reducimos la basura.
-  <!-- feedback: Es correcta porque relaciona el reciclaje con un beneficio real y claro. -->
 - [ ] A) Porque a mí me gusta el color verde.
   <!-- feedback: Es incorrecta porque un gusto personal no explica el beneficio de reciclar. -->
 - [ ] B) Porque los viernes no hay clase.
   <!-- feedback: Es incorrecta porque el horario no se relaciona con el reciclaje. -->
 - [ ] C) Porque el patio es grande.
   <!-- feedback: Es incorrecta porque el tamaño del patio no justifica reciclar. -->
+- [x] D) Porque así cuidamos el ambiente y reducimos la basura.
+  <!-- feedback: Es correcta porque relaciona el reciclaje con un beneficio real y claro. -->
+
 ### Explicacion Pedagogica
 Una buena razón se conecta directamente con la opinión y ofrece un beneficio comprensible. Aplicar este criterio mejora la escritura de textos argumentativos escolares y hace más convincente lo que se afirma.
 
@@ -110,14 +114,15 @@ Una buena razón se conecta directamente con la opinión y ofrece un beneficio c
 ### Enunciado
 ¿Cuál razón apoya mejor la opinión de María?
 ### Opciones
-- [x] C) Con dos mil pesos puede comprar también una fruta y un pan.
-  <!-- feedback: Es correcta porque compara precios y muestra que el jugo cuesta más que otros alimentos. -->
 - [ ] A) Porque el jugo es de color naranja.
   <!-- feedback: Es incorrecta porque el color no se relaciona con el precio. -->
 - [ ] B) Porque la tienda está cerca del salón.
   <!-- feedback: Es incorrecta porque la cercanía no determina si algo es caro. -->
+- [x] C) Con dos mil pesos puede comprar también una fruta y un pan.
+  <!-- feedback: Es correcta porque compara precios y muestra que el jugo cuesta más que otros alimentos. -->
 - [ ] D) Porque hay muchos estudiantes en el patio.
   <!-- feedback: Es incorrecta porque la cantidad de estudiantes no modifica el precio. -->
+
 ### Explicacion Pedagogica
 Aplicar una razón adecuada exige comparar y explicar: dos mil pesos por un jugo se puede juzgar frente a lo que valen otros alimentos. Así la opinión deja de ser un simple gusto y se vuelve un argumento.
 
@@ -130,14 +135,15 @@ Aplicar una razón adecuada exige comparar y explicar: dos mil pesos por un jugo
 ### Enunciado
 Al analizar los dos argumentos, ¿cuál tiene una razón mejor construida?
 ### Opciones
-- [x] D) El de Ana, porque explica un beneficio con un motivo claro.
-  <!-- feedback: Es correcta porque la razón se conecta con el aprendizaje y lo explica. -->
 - [ ] A) El de Luis, porque el juego es más importante que todo.
   <!-- feedback: Es incorrecta porque es una afirmación sin motivo que la respalde. -->
 - [ ] B) El de Luis, porque solo dice que no le gusta la tarea.
   <!-- feedback: Es incorrecta porque un gusto personal no explica el beneficio o el daño de la tarea. -->
 - [ ] C) Ninguno, porque los dos son opiniones sin ningún motivo.
   <!-- feedback: Es incorrecta porque al menos uno de los dos presenta una razón. -->
+- [x] D) El de Ana, porque explica un beneficio con un motivo claro.
+  <!-- feedback: Es correcta porque la razón se conecta con el aprendizaje y lo explica. -->
+
 ### Explicacion Pedagogica
 Analizar argumentos es comparar las razones que los sostienen. Un argumento mejora cuando su motivo se relaciona con el tema y aporta información. Distinguir esto enseña a discutir con respeto y con pruebas.
 
@@ -150,14 +156,15 @@ Analizar argumentos es comparar las razones que los sostienen. Un argumento mejo
 ### Enunciado
 Al analizar el argumento, ¿qué falla en él?
 ### Opciones
-- [x] C) Generaliza a partir de un solo caso.
-  <!-- feedback: Es correcta porque toma una experiencia aislada y la aplica a todos los perros. -->
 - [ ] A) Usa demasiados datos comprobados.
   <!-- feedback: Es incorrecta porque justamente le faltan datos para sostener la afirmación. -->
 - [ ] B) Consulta a un experto antes de opinar.
   <!-- feedback: Es incorrecta porque no consulta a nadie, solo cuenta su experiencia. -->
+- [x] C) Generaliza a partir de un solo caso.
+  <!-- feedback: Es correcta porque toma una experiencia aislada y la aplica a todos los perros. -->
 - [ ] D) Cita a varios vecinos del barrio.
   <!-- feedback: Es incorrecta porque el argumento se apoya solo en un caso personal. -->
+
 ### Explicacion Pedagogica
 Un argumento débil generaliza con pocos casos o con palabras absolutas como "todos". Analizar este error ayuda a pedir más información antes de aceptar una conclusión.
 
@@ -170,13 +177,14 @@ Un argumento débil generaliza con pocos casos o con palabras absolutas como "to
 ### Enunciado
 ¿Cuál texto presenta mejor una opinión con razones?
 ### Opciones
-- [x] A) "Las bibliotecas del barrio deben abrir los sábados porque muchos estudiantes quieren leer y estudiar ese día."
-  <!-- feedback: Es correcta porque da una opinión clara y un motivo que la apoya. -->
-- [ ] B) "Las bibliotecas son aburridas y ya."
+- [ ] A) "Las bibliotecas son aburridas y ya."
   <!-- feedback: Es incorrecta porque no explica por qué lo piensa ni ofrece razones. -->
+- [x] B) "Las bibliotecas del barrio deben abrir los sábados porque muchos estudiantes quieren leer y estudiar ese día."
+  <!-- feedback: Es correcta porque da una opinión clara y un motivo que la apoya. -->
 - [ ] C) "Todo el mundo dice que las bibliotecas del barrio son malas."
   <!-- feedback: Es incorrecta porque se apoya en lo que dicen otros sin dar motivos. -->
 - [ ] D) "Las bibliotecas existen en algunos barrios de la ciudad."
   <!-- feedback: Es incorrecta porque solo informa un hecho y no expresa una opinión con razones. -->
+
 ### Explicacion Pedagogica
 Evaluar un texto argumentativo exige buscar una opinión clara y razones que la sostengan. El texto con mayor calidad une la idea principal con un motivo comprensible para el lector.

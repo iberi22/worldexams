@@ -72,9 +72,9 @@ La funcion expresiva se centra en el emisor y expresa sentimientos.
 Identifica el conector: Pedro Juan Caballero es hermosa, ____ su gente es acogedora.
 
 ### Opciones
-- [x] C) ademas <!-- feedback: Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Pedro Juan Caballero y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro. -->
 - [ ] A) sin embargo <!-- feedback: Incorrecto. 'Sin embargo' es adversativo: introduce una idea que se opone a lo que se habia dicho. En esta oracion las dos proposiciones se refuerzan, porque la gente de Pedro Juan Caballero no contradice a su ciudad, asi que una oposicion seria falsa. -->
 - [ ] B) por lo tanto <!-- feedback: Incorrecto. 'Por lo tanto' es conclusivo: la segunda proposicion deduce una consecuencia de la primera. Aqui no hay deduccion, sino dos caracteristicas de Pedro Juan Caballero que se acumulan sin derivarse una de otra. -->
+- [x] C) ademas <!-- feedback: Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Pedro Juan Caballero y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro. -->
 - [ ] D) aunque <!-- feedback: Incorrecto. 'Aunque' introduce una concesion: lo que va detras se opone a lo esperado. La segunda proposicion no contradice la primera, la completa, asi que este conector tampoco corresponde. -->
 
 ### Explicacion Pedagogica
@@ -93,8 +93,8 @@ El conector 'ademas' anade informacion.
 ¿Cual oracion esta correctamente escrita?
 
 ### Opciones
-- [x] B) Los estudiantes del Colegio Nacional Pilar estudian mucho. <!-- feedback: Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'. -->
 - [ ] A) Los estudiantes de la escuela estudian poco. <!-- feedback: Incorrecto. La oracion esta bien redactada y con buena concordancia, pero 'la escuela' es un nombre comun que puede designar cualquier centro; el enunciado pide el nombre propio completo de la institucion, y aqui no aparece. -->
+- [x] B) Los estudiantes del Colegio Nacional Pilar estudian mucho. <!-- feedback: Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'. -->
 - [ ] C) Los estudiantes del instituto no estudian nada. <!-- feedback: Incorrecto. 'El instituto' vuelve a sustituir el nombre propio por una denominacion generica. La negacion 'no estudian nada' es correcta, pero no aporta el dato que el enunciado evalua. -->
 - [ ] D) Los estudiantes del instituto estudian mucho. <!-- feedback: Incorrecto. Comparte con la correcta la concordancia y el verbo 'estudian mucho', y se diferencia en un solo punto decisivo: emplea 'el instituto', un nombre comun, en lugar del nombre oficial completo. -->
 
@@ -268,8 +268,8 @@ La funcion expresiva se centra en el emisor y expresa sentimientos.
 Une con la relación lógica correcta. ¿Qué conector introduce una idea opuesta a la anterior?
 
 ### Opciones
-- [x] A) Sin embargo  <!-- feedback: El conector 'sin embargo' marca contraste, por eso se opone a lo dicho antes. -->
-- [ ] B) Además  <!-- feedback: Esta palabra concatena ideas de acuerdo, de modo que no se opone a la anterior. -->
+- [ ] A) Además  <!-- feedback: Esta palabra concatena ideas de acuerdo, de modo que no se opone a la anterior. -->
+- [x] B) Sin embargo  <!-- feedback: El conector 'sin embargo' marca contraste, por eso se opone a lo dicho antes. -->
 - [ ] C) Por eso  <!-- feedback: Esta expresión expresa una consecuencia, no una contradicción del planteamiento previo. -->
 - [ ] D) Por lo tanto  <!-- feedback: Esta fórmula introduce una conclusión, y no una idea que contradiga a la anterior. -->
 
@@ -310,10 +310,10 @@ La opcion A sigue las normas ortograficas correctamente.
 ¿Qué función sintáctica tiene el infinitivo en la oración 'Deseo aprenderGerman'?
 
 ### Opciones
-- [x] A) Funciona como objeto directo del verbo 'deseo' <!-- feedback: Es correcto: el infinitivo completa directamente al verbo principal y ocupa la posición de objeto directo. -->
+- [ ] A) Funciona como atenuante de la afirmación <!-- feedback: El atenuante aparecería con 'quizá' o 'tal vez', y aquí esa función no aparece. -->
 - [ ] B) Funciona como sujeto de la oración <!-- feedback: El sujeto es gramaticalmente el núcleo de la frase; aquí el infinitivo aparece en posición de objeto. -->
 - [ ] C) Funciona como complemento del nombre que lo precede <!-- feedback: No hay ningún nombre al que el infinitivo pueda calificar dentro de esta estructura. -->
-- [ ] D) Funciona como atenuante de la afirmación <!-- feedback: El atenuante aparecería con 'quizá' o 'tal vez', y aquí esa función no aparece. -->
+- [x] D) Funciona como objeto directo del verbo 'deseo' <!-- feedback: Es correcto: el infinitivo completa directamente al verbo principal y ocupa la posición de objeto directo. -->
 
 ### Explicacion Pedagogica
 El infinitivo puede ocupar la posición de objeto directo, de sujeto o de complemento del nombre según el elemento del que dependa, y esa dependencia determina su función.## Explicacion Pedagogica
@@ -329,9 +329,9 @@ Las oraciones subordinadas adjetivas complementan a un nombre.
 ¿Qué género y número tienen los adjetivos que concuerdan con 'manzanas'?
 
 ### Opciones
-- [x] A) Femenino plural <!-- feedback: Es correcto: 'manzanas' es femenino plural, de modo que los adjetivos que lo modifican deben compartir esa forma. -->
+- [ ] A) Femenino singular <!-- feedback: El plural del sustantivo se transmite obligatoriamente a los modificadores. -->
 - [ ] B) Masculino plural <!-- feedback: El género lo determina el sustantivo, que aquí es femenino y no masculino. -->
-- [ ] C) Femenino singular <!-- feedback: El plural del sustantivo se transmite obligatoriamente a los modificadores. -->
+- [x] C) Femenino plural <!-- feedback: Es correcto: 'manzanas' es femenino plural, de modo que los adjetivos que lo modifican deben compartir esa forma. -->
 - [ ] D) Neutro plural <!-- feedback: El español no tiene género neutro, y el sustantivo determina el género de sus adjetivos. -->
 
 ### Explicacion Pedagogica
@@ -348,8 +348,8 @@ Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.
 ¿Cuál de las oraciones presenta una concordancia correcta con el artículo?
 
 ### Opciones
-- [x] A) Las casas blancas tienen patios amplios. <!-- feedback: Es correcta: tanto el artículo como el sustantivo, el adjetivo y el verbo concuerdan en femenino plural. -->
-- [ ] B) La casas blancas tienen patios amplios. <!-- feedback: El artículo y el sustantivo no concuerdan en número: el plural exige 'las'. -->
+- [ ] A) La casas blancas tienen patios amplios. <!-- feedback: El artículo y el sustantivo no concuerdan en número: el plural exige 'las'. -->
+- [x] B) Las casas blancas tienen patios amplios. <!-- feedback: Es correcta: tanto el artículo como el sustantivo, el adjetivo y el verbo concuerdan en femenino plural. -->
 - [ ] C) Las casas blanca tienen patios amplios. <!-- feedback: El adjetivo está en singular y debe concordar con el sustantivo plural. -->
 - [ ] D) Los casa blancas tienen patios amplios. <!-- feedback: El artículo y el sustantivo no concuerdan en género: 'casa' es femenino y pide 'las'. -->
 
@@ -367,10 +367,10 @@ La metafora identifica un termino real con uno imaginario por su semejanza.
 ¿Qué elemento debe llevar tilde en la palabra 'árbol'?
 
 ### Opciones
-- [x] A) La 'a' <!-- feedback: Es correcto: en las palabras agudas terminadas en consonante se acentúa la última vocal, que es la 'a' de este ejemplo. -->
+- [ ] A) La tilde sobre la consonante final <!-- feedback: Las tildes se colocan sobre vocales, nunca sobre consonantes. -->
 - [ ] B) Ninguna vocal, porque es llana <!-- feedback: Es aguda terminada en consonante, de modo que la regla de las llanas no se aplica. -->
 - [ ] C) La 'o', porque es la sílaba más abierta <!-- feedback: La sílaba tónica es la última, la que contiene la 'a', y no la que contiene la 'o'. -->
-- [ ] D) La tilde sobre la consonante final <!-- feedback: Las tildes se colocan sobre vocales, nunca sobre consonantes. -->
+- [x] D) La 'a' <!-- feedback: Es correcto: en las palabras agudas terminadas en consonante se acentúa la última vocal, que es la 'a' de este ejemplo. -->
 
 ### Explicacion Pedagogica
 En las palabras agudas terminadas en consonante la tilde se coloca sobre la última vocal, precisamente para señalar cuál es la sílaba tónica.## Explicacion Pedagogica
@@ -386,9 +386,9 @@ Las palabras esdrújulas llevan tilde siempre, sin excepción, en la antepenúlt
 ¿Cuál es el artículo adecuado ante el sustantivo 'agua'?
 
 ### Opciones
-- [x] A) El agua <!-- feedback: Es correcta: 'el agua' es una excepción, porque el artículo sigue al género del sustantivo, que es femenino. -->
+- [ ] A) Los agua <!-- feedback: El plural sería 'las aguas'; en singular el artículo es 'el'. -->
 - [ ] B) La agua <!-- feedback: Es el error más frecuente: el género del agua es femenino, de modo que el artículo correcto es 'el'. -->
-- [ ] C) Los agua <!-- feedback: El plural sería 'las aguas'; en singular el artículo es 'el'. -->
+- [x] C) El agua <!-- feedback: Es correcta: 'el agua' es una excepción, porque el artículo sigue al género del sustantivo, que es femenino. -->
 - [ ] D) Un agua <!-- feedback: El artículo indeterminado solo acompaña a sustantivos masculino singular, y el sustantivo 'agua' es femenino. -->
 
 ### Explicacion Pedagogica
@@ -405,8 +405,8 @@ Lorca utiliza la estructura del romance tradicional para crear un poema narrativ
 En el Colegio Nacional Hernandarias de Hernandarias, analizando un texto. ¿Cual es la idea principal?
 
 ### Opciones
-- [x] B) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen. -->
 - [ ] A) El agua solo se usa para beber <!-- feedback: Incorrecto. Reduce el agua a un solo uso domestico. El texto la presenta como recurso vital para la vida en general, no unicamente como algo con que beber. -->
+- [x] B) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen. -->
 - [ ] C) El agua no es importante <!-- feedback: Incorrecto. Contradice de frente al texto: si el agua careciera de importancia, no tendria sentido que el texto insistiera en su cuidado. Una idea principal entre las opciones no puede negar lo que el propio texto afirma. -->
 - [ ] D) El agua es un recurso infinito <!-- feedback: Incorrecto. Afirma que el agua es inagotable y con ello borra la necesidad de cuidarla, que es justamente la tesis que el texto sostiene. -->
 

@@ -34,10 +34,10 @@ Este bundle contiene 12 preguntas sobre áreas sombreadas y composición de figu
 ¿Qué se entiende por "área sombreada" en una figura compuesta?
 
 ### Opciones
-- [x] B) La región delimitada por la combinación o superposición de varias figuras planas y resaltada con un color o tramado distinto en el dibujo.
-  <!-- feedback: Correcto: la región resaltada corresponde a la combinación de varias figuras básicas del plano. -->
 - [ ] A) El área de toda la figura, calculada únicamente como el producto del largo por el ancho total.
   <!-- feedback: Equivocado: esa fórmula solo aplica a un rectángulo completo, no a figuras compuestas con huecos o adiciones. -->
+- [x] B) La región delimitada por la combinación o superposición de varias figuras planas y resaltada con un color o tramado distinto en el dibujo.
+  <!-- feedback: Correcto: la región resaltada corresponde a la combinación de varias figuras básicas del plano. -->
 - [ ] C) El área de la pieza más pequeña del dibujo, independiente de las demás formas.
   <!-- feedback: Incorrecto: la pieza más chica por sí sola no representa la zona sombreada si no se combina con las demás. -->
 - [ ] D) La longitud del contorno exterior de la figura, sin importar su forma interna.
@@ -57,10 +57,10 @@ El área sombreada es la región interior limitada por la combinación de figura
 Para hallar el área de una figura compuesta por un rectángulo y un semicírculo adosado a uno de sus lados, ¿cuál es la estrategia correcta?
 
 ### Opciones
-- [x] B) Calcular el área del rectángulo (base por altura) y el área del semicírculo ($\pi \cdot r^2 / 2$), y luego sumar ambos resultados.
-  <!-- feedback: Estrategia correcta: cada parte se calcula con su propia fórmula y los resultados se suman. -->
 - [ ] A) Multiplicar la base del rectángulo por el radio del semicírculo y dividir entre dos.
   <!-- feedback: Mezclas dimensiones de figuras distintas sin fórmula que las respalde; esa operación no representa un área válida. -->
+- [x] B) Calcular el área del rectángulo (base por altura) y el área del semicírculo ($\pi \cdot r^2 / 2$), y luego sumar ambos resultados.
+  <!-- feedback: Estrategia correcta: cada parte se calcula con su propia fórmula y los resultados se suman. -->
 - [ ] C) Calcular únicamente el área del rectángulo porque el semicírculo ya representa "la mitad" del rectángulo.
   <!-- feedback: Incorrecto: el semicírculo es una región adicional; omitirlo deja el área incompleta. -->
 - [ ] D) Sumar el perímetro del rectángulo con el área del semicírculo, porque ambas son medidas de la misma figura.
@@ -126,14 +126,14 @@ El área de un triángulo es la mitad del producto de su base por su altura: A =
 La jardinera es un cuadrado de 6 m de lado y en el centro se ubica una fuente circular de 2 m de radio. ¿Cuál es el área aproximada del cuadrado que NO está ocupada por la fuente? (Use $\pi \approx 3{,}14$)
 
 ### Opciones
-- [x] D) $36 - 4\pi \approx 23{,}44 \text{ m}^2$
-  <!-- feedback: Correcto: A_cuadrado = 6² = 36 m²; A_fuente = π · 2² = 4π; diferencia = 36 − 4π ≈ 23,44. -->
 - [ ] A) $36 \text{ m}^2$
   <!-- feedback: No restaste el círculo; ese sería el área del cuadrado completo. -->
 - [ ] B) $4\pi \approx 12{,}57 \text{ m}^2$
   <!-- feedback: Calculaste solo el área del círculo, pero olvidaste restarla del área del cuadrado. -->
 - [ ] C) $36 + 4\pi \approx 48{,}57 \text{ m}^2$
   <!-- feedback: Sumaste en lugar de restar, lo que da un valor mayor que el área total del cuadrado. -->
+- [x] D) $36 - 4\pi \approx 23{,}44 \text{ m}^2$
+  <!-- feedback: Correcto: A_cuadrado = 6² = 36 m²; A_fuente = π · 2² = 4π; diferencia = 36 − 4π ≈ 23,44. -->
 
 ### Explicacion Pedagogica
 Para hallar el área sombreada cuando hay un "hueco" interior, se aplica A_sombreada = A_total − A_hueco. Aquí, A_total = 6 · 6 = 36 m² y A_hueco = π · 2² = 4π. Por tanto, A = 36 − 4π ≈ 23,44 m². Verificar la operación de resta es clave en problemas con figuras compuestas.
@@ -149,10 +149,10 @@ Para hallar el área sombreada cuando hay un "hueco" interior, se aplica A_sombr
 Un marco rectangular tiene dimensiones exteriores 30 cm × 24 cm y un hueco interior rectangular de 26 cm × 20 cm. ¿Cuál es el área del marco?
 
 ### Opciones
-- [x] B) 200 cm²
-  <!-- feedback: Correcto: A_ext = 30 · 24 = 720 cm²; A_int = 26 · 20 = 520 cm²; A_marco = 720 − 520 = 200 cm². -->
 - [ ] A) 720 cm²
   <!-- feedback: Calculaste solo el área del rectángulo exterior, sin restar el hueco central. -->
+- [x] B) 200 cm²
+  <!-- feedback: Correcto: A_ext = 30 · 24 = 720 cm²; A_int = 26 · 20 = 520 cm²; A_marco = 720 − 520 = 200 cm². -->
 - [ ] C) 520 cm²
   <!-- feedback: Calculaste solo el área del hueco interior; el marco es la diferencia entre los dos rectángulos. -->
 - [ ] D) 96 cm²
@@ -218,14 +218,14 @@ El área de un anillo circular se calcula como la diferencia entre las áreas de
 El terreno es un trapecio isósceles con bases de 20 m y 12 m, y altura de 8 m. Dentro de él se ubica una piscina triangular cuya base coincide con la base menor del trapecio y cuya altura es 4 m. ¿Cuál es el área del terreno disponible fuera de la piscina?
 
 ### Opciones
-- [x] D) 104 m²
-  <!-- feedback: Correcto: A_trap = (20 + 12) · 8 / 2 = 128 m²; A_pisc = 12 · 4 / 2 = 24 m²; diferencia = 128 − 24 = 104 m². -->
 - [ ] A) 152 m²
   <!-- feedback: Sumaste 128 + 24 = 152; contar dos veces la piscina sobreestima el área disponible. -->
 - [ ] B) 128 m²
   <!-- feedback: Calculaste el área total del trapecio sin descontar la piscina interior. -->
 - [ ] C) 24 m²
   <!-- feedback: Calculaste únicamente el área de la piscina; falta restarla al área del trapecio. -->
+- [x] D) 104 m²
+  <!-- feedback: Correcto: A_trap = (20 + 12) · 8 / 2 = 128 m²; A_pisc = 12 · 4 / 2 = 24 m²; diferencia = 128 − 24 = 104 m². -->
 
 ### Explicacion Pedagogica
 El área disponible se obtiene restando el área de la piscina (triángulo) al área del trapecio. Se aplican A_trapecio = (B + b) · h / 2 y A_triángulo = (b · h) / 2. Para nuestro caso: A = 128 − 24 = 104 m². Es fundamental identificar qué figura se suma y qué figura se resta en cada configuración compuesta.
@@ -241,10 +241,10 @@ El área disponible se obtiene restando el área de la piscina (triángulo) al �
 El parque tiene forma de semicírculo de 14 m de diámetro. En el centro se dispone un jardín circular de 4 m de diámetro. ¿Cuál es el área aproximada del parque destinada a juegos, sin contar el jardín? (Use $\pi \approx 3{,}14$)
 
 ### Opciones
-- [x] B) $\dfrac{41\pi}{2} \approx 64{,}37 \text{ m}^2$
-  <!-- feedback: Correcto: A_semicírculo = π · 7² / 2 = 49π / 2; A_jardín = π · 2² = 4π; diferencia = (49π − 8π) / 2 = 41π / 2 ≈ 64,37. -->
 - [ ] A) $\dfrac{49\pi}{2} \approx 76{,}93 \text{ m}^2$
   <!-- feedback: Calculaste solo el área del semicírculo; falta descontar el jardín interior. -->
+- [x] B) $\dfrac{41\pi}{2} \approx 64{,}37 \text{ m}^2$
+  <!-- feedback: Correcto: A_semicírculo = π · 7² / 2 = 49π / 2; A_jardín = π · 2² = 4π; diferencia = (49π − 8π) / 2 = 41π / 2 ≈ 64,37. -->
 - [ ] C) $4\pi \approx 12{,}57 \text{ m}^2$
   <!-- feedback: Calculaste únicamente el área del jardín central, no el área disponible para juegos. -->
 - [ ] D) $\dfrac{53\pi}{2} \approx 83{,}17 \text{ m}^2$
@@ -264,12 +264,12 @@ El área disponible para juegos se obtiene restando el área del jardín circula
 El piso de la zona de calentamiento es un semicírculo de 14 m de diámetro. Dentro del semicírculo, en el centro, se ubica una zona circular de colchonetas de 6 m de diámetro. La zona libre alrededor (entre el borde del semicírculo y la zona de colchonetas) se debe cubrir con baldosas que cuestan COP $56.000 por $\text{m}^2$ instalado. Determine el costo total del embaldosado. (Use $\pi \approx 3{,}14$)
 
 ### Opciones
-- [x] A) Aproximadamente COP $2.726.000
-  <!-- feedback: Correcto: A_semicírculo = π · 7² / 2 = 49π / 2 ≈ 76,93 m²; A_colchonetas = π · 3² = 9π ≈ 28,26 m²; A_baldosa = 49π / 2 − 9π = 31π / 2 ≈ 48,69 m²; costo = 48,69 · 56.000 ≈ 2.726.640. -->
+- [ ] A) Aproximadamente COP $1.583.000
+  <!-- feedback: Subestimaste: tomaste solo una porción del semicírculo o aplicaste un radio incorrecto para la resta. -->
 - [ ] B) Aproximadamente COP $4.308.000
   <!-- feedback: Calculaste el costo de cubrir todo el semicírculo sin descontar el área de las colchonetas. -->
-- [ ] C) Aproximadamente COP $1.583.000
-  <!-- feedback: Subestimaste: tomaste solo una porción del semicírculo o aplicaste un radio incorrecto para la resta. -->
+- [x] C) Aproximadamente COP $2.726.000
+  <!-- feedback: Correcto: A_semicírculo = π · 7² / 2 = 49π / 2 ≈ 76,93 m²; A_colchonetas = π · 3² = 9π ≈ 28,26 m²; A_baldosa = 49π / 2 − 9π = 31π / 2 ≈ 48,69 m²; costo = 48,69 · 56.000 ≈ 2.726.640. -->
 - [ ] D) Aproximadamente COP $3.500.000
   <!-- feedback: Sobrestimaste el área real; al verificar el resultado es muy superior al valor correcto, por lo que se descarta. -->
 

@@ -118,8 +118,8 @@ La opcion A sigue las normas ortograficas correctamente.
 En la oracion 'La novela que leimos es un clasico'. ¿Que funcion cumple la subordinada?
 
 ### Opciones
-- [x] B) Adjetiva o de relativo <!-- feedback: Correcto. La subordinada ocupa el lugar de un adjetivo y califica al sustantivo, indicandolo que es de ese tipo. -->
 - [ ] A) Sustantiva <!-- feedback: Incorrecto. Seria sustantiva si ocupara el lugar de un sustantivo completo de la oracion. Aqui no ocupa ese lugar: se limita a calificar al sustantivo. -->
+- [x] B) Adjetiva o de relativo <!-- feedback: Correcto. La subordinada ocupa el lugar de un adjetivo y califica al sustantivo, indicandolo que es de ese tipo. -->
 - [ ] C) Adverbial <!-- feedback: Incorrecto. Seria adverbial si modificara al verbo respondiendo a cuando, por que o de que manera. Aqui no responde a nada de eso, sino que senala de que tipo es el sustantivo. -->
 - [ ] D) Coordinada copulativa <!-- feedback: Incorrecto. No hay coordinacion alguna: la copulativa une dos sujetos o dos verbos con 'y'. Esa subordinada depende de un sustantivo, de modo que no coordina con nada. -->
 
@@ -160,9 +160,9 @@ Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.
 ¿Que figura literaria se emplea en 'tu voz fue un rio de plata'?
 
 ### Opciones
-- [x] C) Metafora <!-- feedback: Correcto. La identificacion es directa y no hay nexo comparativo: un termino real se presenta como otro por semejanza, sin 'como' ni 'parecido a'. -->
 - [ ] A) Comparacion <!-- feedback: Incorrecto. Una comparacion necesita un nexo explicito ('como', 'parecido a', 'semejante a') que aqui no aparece; la imagen se establece por identificacion directa. -->
 - [ ] B) Hiparbole <!-- feedback: Incorrecto. No hay exageracion ni aumento del sentido para reforzar un efecto: la imagen se limita a aproximar dos cosas sin exceder lo verosimil. -->
+- [x] C) Metafora <!-- feedback: Correcto. La identificacion es directa y no hay nexo comparativo: un termino real se presenta como otro por semejanza, sin 'como' ni 'parecido a'. -->
 - [ ] D) Personificacion <!-- feedback: Incorrecto. No se atribuye accion, emocion ni voluntad a un elemento no humano; lo que se compara son partes de la persona, que siguen siendo suyas. -->
 
 ### Explicacion Pedagogica
@@ -202,9 +202,9 @@ Las palabras esdrújulas llevan tilde siempre, sin excepción, en la antepenúlt
 ¿El 'Romance de San Cristobal' de Mariano Roque Alonso es un poema de tipo?
 
 ### Opciones
-- [x] C) Narrativo-lirico con elementos del romance tradicional <!-- feedback: Correcto. El poema cuenta un suceso en el que aparece un nombre propio y conserva el ritmo versificado del romance tradicional, de modo que combina narracion y lirismo. -->
 - [ ] A) Exclusivamente dramatico <!-- feedback: Incorrecto. No hay personajes dialogando ni conflicto teatral: el suceso se narra en verso, no se representa ante un publico. -->
 - [ ] B) Poema epico clasico <!-- feedback: Incorrecto. Lo epico narra hazañas de grandes personajes en tono heroico, y aqui el poema canta un suceso breve de un tema tradicional. -->
+- [x] C) Narrativo-lirico con elementos del romance tradicional <!-- feedback: Correcto. El poema cuenta un suceso en el que aparece un nombre propio y conserva el ritmo versificado del romance tradicional, de modo que combina narracion y lirismo. -->
 - [ ] D) Ensayo filosofico en verso <!-- feedback: Incorrecto. No desarrolla una reflexion argumentada sobre una idea; recupera un motivo del folclore y lo canta, no lo razona. -->
 
 ### Explicacion Pedagogica
@@ -282,9 +282,9 @@ La funcion expresiva se centra en el emisor y expresa sentimientos.
 Identifica el conector: Aregua es hermosa, ____ su gente es acogedora.
 
 ### Opciones
-- [x] C) ademas <!-- feedback: Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Aregua y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro. -->
 - [ ] A) sin embargo <!-- feedback: Incorrecto. 'Sin embargo' es adversativo: introduce una idea que se opone a lo que se habia dicho. En esta oracion las dos proposiciones se refuerzan, porque la gente de Aregua no contradice a su ciudad, asi que una oposicion seria falsa. -->
 - [ ] B) por lo tanto <!-- feedback: Incorrecto. 'Por lo tanto' es conclusivo: la segunda proposicion deduce una consecuencia de la primera. Aqui no hay deduccion, sino dos caracteristicas de Aregua que se acumulan sin derivarse una de otra. -->
+- [x] C) ademas <!-- feedback: Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Aregua y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro. -->
 - [ ] D) aunque <!-- feedback: Incorrecto. 'Aunque' introduce una concesion: lo que va detras se opone a lo esperado. La segunda proposicion no contradice la primera, la completa, asi que este conector tampoco corresponde. -->
 
 ### Explicacion Pedagogica
@@ -324,10 +324,10 @@ La opcion A sigue las normas ortograficas correctamente.
 En la oracion 'El cuaderno que compre es nuevo'. ¿Que funcion cumple la subordinada?
 
 ### Opciones
-- [x] A) Adjetiva o de relativo <!-- feedback: Correcto. La subordinada ocupa el lugar de un adjetivo y califica al sustantivo, indicandolo que es de ese tipo. -->
+- [ ] A) Coordinada copulativa <!-- feedback: Incorrecto. No hay coordinacion alguna: la copulativa une dos sujetos o dos verbos con 'y'. Esa subordinada depende de un sustantivo, de modo que no coordina con nada. -->
 - [ ] B) Sustantiva <!-- feedback: Incorrecto. Seria sustantiva si ocupara el lugar de un sustantivo completo de la oracion. Aqui no ocupa ese lugar: se limita a calificar al sustantivo. -->
 - [ ] C) Adverbial <!-- feedback: Incorrecto. Seria adverbial si modificara al verbo respondiendo a cuando, por que o de que manera. Aqui no responde a nada de eso, sino que senala de que tipo es el sustantivo. -->
-- [ ] D) Coordinada copulativa <!-- feedback: Incorrecto. No hay coordinacion alguna: la copulativa une dos sujetos o dos verbos con 'y'. Esa subordinada depende de un sustantivo, de modo que no coordina con nada. -->
+- [x] D) Adjetiva o de relativo <!-- feedback: Correcto. La subordinada ocupa el lugar de un adjetivo y califica al sustantivo, indicandolo que es de ese tipo. -->
 
 ### Explicacion Pedagogica
 Las oraciones subordinadas adjetivas complementan a un nombre.
@@ -345,8 +345,8 @@ Las oraciones subordinadas adjetivas complementan a un nombre.
 ¿Cual de estas palabras lleva tilde por ser esdrijula?
 
 ### Opciones
-- [x] A) lapiz <!-- feedback: Correcto. 'Lapiz' conserva tres silabas con el acento en la antepenultima, de modo que es esdrijula y lleva tilde siempre. -->
-- [ ] B) ciudad <!-- feedback: Incorrecto. 'Ciudad' es llana y terminada en 'd', que si lleva tilde, pero lo hace por la regla de las llanas, no por ser esdrijula. -->
+- [ ] A) ciudad <!-- feedback: Incorrecto. 'Ciudad' es llana y terminada en 'd', que si lleva tilde, pero lo hace por la regla de las llanas, no por ser esdrijula. -->
+- [x] B) lapiz <!-- feedback: Correcto. 'Lapiz' conserva tres silabas con el acento en la antepenultima, de modo que es esdrijula y lleva tilde siempre. -->
 - [ ] C) joven <!-- feedback: Incorrecto. 'Joven' es llana y terminada en 'n', que nunca lleva tilde, y ademas tiene dos silabas, no tres. -->
 - [ ] D) examen <!-- feedback: Incorrecto. 'Examen' tambien es esdrijula y lleva tilde, pero la palabra pedida se presenta sin tilde en la opcion, de modo que la grafia es incorrecta. -->
 
@@ -366,10 +366,10 @@ Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.
 ¿Cuál es la forma correcta de escribir un vocativo que dirige la palabra al profesor?
 
 ### Opciones
-- [x] A) Profésor, lea el texto por favor. <!-- feedback: Es la forma correcta: el vocativo 'profesor' no lleva tilde diacrítica porque no es una palabra llana terminada en vocal. -->
+- [ ] A) Profesores, lean el texto por favor. <!-- feedback: El plural no exime de la regla: 'profesores' en vocativo sigue escribiéndose sin tilde diacrítica. -->
 - [ ] B) Prófesor, lea el texto por favor. <!-- feedback: La tilde diacrítica está errónea: los vocativos de dos sílabas llanas terminadas en vocal se escriben sin tilde. -->
 - [ ] C) Profesór, lea el texto por favor. <!-- feedback: El vocativo no es un sustantivo y por eso no lleva tilde diacrítica ni tilde de palabra llana. -->
-- [ ] D) Profesores, lean el texto por favor. <!-- feedback: El plural no exime de la regla: 'profesores' en vocativo sigue escribiéndose sin tilde diacrítica. -->
+- [x] D) Profésor, lea el texto por favor. <!-- feedback: Es la forma correcta: el vocativo 'profesor' no lleva tilde diacrítica porque no es una palabra llana terminada en vocal. -->
 
 ### Explicacion Pedagogica
 El vocativo no lleva tilde diacrítica en ningún caso, porque se dirige a la persona y no cumple la regla de las palabras llanas. El plural no cambia esa norma, de modo que 'profesores' se escribe igual.## Explicacion Pedagogica
@@ -385,8 +385,8 @@ La metafora identifica un termino real con uno imaginario por su semejanza.
 ¿Cómo se escribe correctamente en plural la palabra 'lapiz' según las reglas de acentuación?
 
 ### Opciones
-- [x] B) lapices <!-- feedback: Correcto. Al pasar a plural, 'lápiz' deja de ser esdrijulo y queda llana terminada en 's', que no lleva tilde. -->
 - [ ] A) lápices <!-- feedback: Incorrecto. La tilde sobra: al pasar a plural la palabra queda llana terminada en 's', y las llanas terminadas en 's' nunca llevan tilde. -->
+- [x] B) lapices <!-- feedback: Correcto. Al pasar a plural, 'lápiz' deja de ser esdrijulo y queda llana terminada en 's', que no lleva tilde. -->
 - [ ] C) lápíces <!-- feedback: Incorrecto. Una palabra terminada en 's' jamas es aguda: la tilde no puede caer sobre la 'i' final, de modo que esa escritura es imposible. -->
 - [ ] D) lápice's <!-- feedback: Incorrecto. El apostrofo es un signo de vocativo o tratamiento, no de acentuacion, y el plural de 'lápiz' se forma con '-es', sin ningun signo. -->
 
@@ -406,10 +406,10 @@ Las palabras esdrújulas llevan tilde siempre, sin excepción, en la antepenúlt
 ¿Qué tipo de relación establece el conector 'por eso' entre las dos proposiciones?
 
 ### Opciones
-- [x] A) Causal, porque la segunda proposición explica la causa de la primera <!-- feedback: Es correcto: 'por eso' introduce la consecuencia, y en este caso la lluvia es la causa de que no salieran. -->
+- [ ] A) Condicional, porque expresa una hipótesis <!-- feedback: No hay hipótesis alguna: las dos proposiciones se presentan como hechos encadenados por causa y efecto. -->
 - [ ] B) Adversativa, porque se opone a lo expuesto antes <!-- feedback: Un conector adversativo como 'sin embargo' presentaría oposición; aquí hay consecuencia, no contraste. -->
 - [ ] C) Final, porque indica el propósito de la acción <!-- feedback: La finalidad se marcaría con 'para' o 'con el fin de', no con 'por eso'. -->
-- [ ] D) Condicional, porque expresa una hipótesis <!-- feedback: No hay hipótesis alguna: las dos proposiciones se presentan como hechos encadenados por causa y efecto. -->
+- [x] D) Causal, porque la segunda proposición explica la causa de la primera <!-- feedback: Es correcto: 'por eso' introduce la consecuencia, y en este caso la lluvia es la causa de que no salieran. -->
 
 ### Explicacion Pedagogica
 Los conectores causales como 'porque', 'ya que' o 'por eso' enlazan dos proposiciones donde la segunda es la consecuencia de la primera, formando una oración compuesta.## Explicacion Pedagogica
@@ -425,9 +425,9 @@ Lorca utiliza la estructura del romance tradicional para crear un poema narrativ
 En el Colegio Nacional San Ignacio Guazu de San Ignacio, analizando un texto. ¿Cual es la idea principal?
 
 ### Opciones
-- [x] C) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen. -->
 - [ ] A) El agua solo se usa para beber <!-- feedback: Incorrecto. Reduce el agua a un solo uso domestico. El texto la presenta como recurso vital para la vida en general, not unicamente como algo con que beber. -->
 - [ ] B) El agua no es importante <!-- feedback: Incorrecto. Contradice de frente al texto: si el agua careciera de importancia, no tendria sentido que el texto insistiera en su cuidado. Una idea principal entre las opciones no puede negar lo que el propio texto afirma. -->
+- [x] C) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen. -->
 - [ ] D) El agua es un recurso infinito <!-- feedback: Incorrecto. Afirma que el agua es inagotable y con ello borra la necesidad de cuidarla, que es justamente la tesis que el texto sostiene. -->
 
 ### Explicacion Pedagogica

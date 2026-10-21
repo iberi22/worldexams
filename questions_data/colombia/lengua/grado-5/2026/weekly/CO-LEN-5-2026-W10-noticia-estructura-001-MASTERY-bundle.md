@@ -30,14 +30,15 @@ Aprende a reconocer el titular, la entrada, el cuerpo y el cierre en noticias ce
 ### Enunciado
 En una noticia, ¿qué es el titular?
 ### Opciones
-- [x] D) El título breve que anuncia lo más importante del hecho.
-  <!-- feedback: Es correcta porque el titular resume la noticia y atrae la atención del lector. -->
 - [ ] A) La lista de precios de la tienda escolar.
   <!-- feedback: Es incorrecta porque los precios no forman parte de la estructura de la noticia. -->
 - [ ] B) El dibujo decorativo sin relación con el hecho.
   <!-- feedback: Es incorrecta porque la imagen acompaña, pero no reemplaza al título informativo. -->
 - [ ] C) La firma del tendero del barrio.
   <!-- feedback: Es incorrecta porque la firma no anuncia el hecho noticioso. -->
+- [x] D) El título breve que anuncia lo más importante del hecho.
+  <!-- feedback: Es correcta porque el titular resume la noticia y atrae la atención del lector. -->
+
 ### Explicacion Pedagogica
 La noticia tiene una estructura fija: titular, entrada, cuerpo y cierre. El titular va al inicio con letras destacadas y responde de forma breve a lo ocurrido. Reconocerlo permite ubicar rápidamente el tema de cualquier noticia.
 
@@ -50,14 +51,15 @@ La noticia tiene una estructura fija: titular, entrada, cuerpo y cierre. El titu
 ### Enunciado
 Lee la entrada: "Ayer, los estudiantes de quinto de la escuela El Pinar ganaron el concurso de lectura en la biblioteca". ¿Qué información entrega la entrada?
 ### Opciones
-- [x] B) Resume quiénes, cuándo y dónde ocurrió el hecho principal.
-  <!-- feedback: Es correcta porque la entrada concentra los datos básicos para entender la noticia. -->
 - [ ] A) Presenta la opinión del tendero sobre los precios.
   <!-- feedback: Es incorrecta porque la entrada informa hechos y no opiniones sobre precios. -->
+- [x] B) Resume quiénes, cuándo y dónde ocurrió el hecho principal.
+  <!-- feedback: Es correcta porque la entrada concentra los datos básicos para entender la noticia. -->
 - [ ] C) Describe el clima de toda la semana en la ciudad.
   <!-- feedback: Es incorrecta porque el clima no es el hecho principal de esta noticia. -->
 - [ ] D) Enumera los útiles que necesita cada estudiante.
   <!-- feedback: Es incorrecta porque la lista de útiles no resume el hecho noticioso. -->
+
 ### Explicacion Pedagogica
 La entrada es el primer párrafo después del titular y responde a las preguntas básicas: qué pasó, quiénes participaron, cuándo y dónde. Comprender su función permite leer noticias con rapidez, pues con solo el titular y la entrada ya se capta lo esencial.
 
@@ -70,14 +72,15 @@ La entrada es el primer párrafo después del titular y responde a las preguntas
 ### Enunciado
 Según la entrada, ¿qué hecho ocurrió?
 ### Opciones
-- [x] B) Cuarenta vecinos recogieron residuos el sábado en el malecón.
-  <!-- feedback: Es correcta porque identifica a los actores, la acción, el tiempo y el lugar del hecho. -->
 - [ ] A) Los vecinos celebraron una fiesta el sábado en el malecón.
   <!-- feedback: Es incorrecta porque la noticia habla de limpieza, no de una fiesta. -->
+- [x] B) Cuarenta vecinos recogieron residuos el sábado en el malecón.
+  <!-- feedback: Es correcta porque identifica a los actores, la acción, el tiempo y el lugar del hecho. -->
 - [ ] C) Santiago recogió residuos solo durante toda la semana.
   <!-- feedback: Es incorrecta porque fueron cuarenta vecinos y el hecho ocurrió el sábado. -->
 - [ ] D) El malecón se cerró para siempre por los residuos.
   <!-- feedback: Es incorrecta porque la noticia no anuncia ningún cierre definitivo. -->
+
 ### Explicacion Pedagogica
 Aplicar la lectura inferencial a la entrada exige juntar los datos dispersos: quién, qué, cuándo y dónde. Esta estrategia sirve para resumir noticias del barrio, la ciudad y el país sin agregar información inventada.
 
@@ -90,14 +93,15 @@ Aplicar la lectura inferencial a la entrada exige juntar los datos dispersos: qu
 ### Enunciado
 ¿Qué función cumple el cuerpo de la noticia?
 ### Opciones
-- [x] D) Amplía los detalles del hecho con datos, testimonios y explicaciones.
-  <!-- feedback: Es correcta porque el cuerpo desarrolla lo anunciado en el titular y la entrada. -->
 - [ ] A) Repite solamente el titular con letras más grandes.
   <!-- feedback: Es incorrecta porque el cuerpo agrega información nueva y no repite el título. -->
 - [ ] B) Presenta cuentos inventados sin relación con el hecho.
   <!-- feedback: Es incorrecta porque la noticia informa hechos reales, no ficción. -->
 - [ ] C) Esconde los datos para que el lector no entienda nada.
   <!-- feedback: Es incorrecta porque su propósito es aclarar y completar la información. -->
+- [x] D) Amplía los detalles del hecho con datos, testimonios y explicaciones.
+  <!-- feedback: Es correcta porque el cuerpo desarrolla lo anunciado en el titular y la entrada. -->
+
 ### Explicacion Pedagogica
 El cuerpo es la parte más larga de la noticia y organiza los detalles en orden de importancia. Incluye cifras, lugares, horarios y voces de testigos. Reconocer su función ayuda a buscar datos precisos dentro del texto.
 
@@ -110,14 +114,15 @@ El cuerpo es la parte más larga de la noticia y organiza los detalles en orden 
 ### Enunciado
 ¿Qué comunica el cierre de esta noticia?
 ### Opciones
-- [x] B) Informa lo que seguirá después del hecho narrado.
-  <!-- feedback: Es correcta porque el cierre proyecta la consecuencia o el paso siguiente del hecho. -->
 - [ ] A) Anuncia una receta de cocina para celebrar el triunfo.
   <!-- feedback: Es incorrecta porque la receta no tiene relación con el hecho deportivo. -->
+- [x] B) Informa lo que seguirá después del hecho narrado.
+  <!-- feedback: Es correcta porque el cierre proyecta la consecuencia o el paso siguiente del hecho. -->
 - [ ] C) Repite los precios de las boletas de todo el año.
   <!-- feedback: Es incorrecta porque los precios no son el desenlace del hecho. -->
 - [ ] D) Describe el uniforme sin decir qué pasará después.
   <!-- feedback: Es incorrecta porque el cierre debe orientar sobre el futuro del hecho. -->
+
 ### Explicacion Pedagogica
 El cierre finaliza la noticia con una consecuencia, un anuncio o una invitación relacionada con el hecho. Aplicar su reconocimiento permite saber cómo termina la historia y qué esperar después, lo cual completa la comprensión global.
 
@@ -138,6 +143,7 @@ Al comparar los textos, ¿cuál es una noticia y por qué?
   <!-- feedback: Es incorrecta porque esa fórmula abre cuentos, no noticias. -->
 - [ ] D) Los dos son noticias porque ambos tienen título y personajes.
   <!-- feedback: Es incorrecta porque solo el texto 2 cumple con informar un hecho real. -->
+
 ### Explicacion Pedagogica
 Analizar un texto para saber si es noticia exige comprobar si narra un hecho real, actual y de interés común. El cuento crea mundos imaginarios, mientras la noticia responde a lo ocurrido en la comunidad. Esta distinción forma lectores críticos frente a los medios.
 
@@ -150,14 +156,15 @@ Analizar un texto para saber si es noticia exige comprobar si narra un hecho rea
 ### Enunciado
 ¿Cuál es el orden correcto de las partes de la noticia?
 ### Opciones
-- [x] D) Titular: "Ciclovía dominical llega a tres barrios"; entrada: "Ayer la alcaldía confirmó la ruta y los horarios"; cuerpo: "Los talleres inician a las nueve".
-  <!-- feedback: Es correcta porque ordena de lo general a los detalles según la estructura. -->
 - [ ] A) Titular: "Los talleres inician a las nueve"; entrada: "Ciclovía dominical llega a tres barrios"; cuerpo: "Ayer la alcaldía confirmó la ruta y los horarios".
   <!-- feedback: Es incorrecta porque coloca un detalle como titular y desordena la jerarquía. -->
 - [ ] B) Titular: "Ayer la alcaldía confirmó la ruta y los horarios"; entrada: "Los talleres inician a las nueve"; cuerpo: "Ciclovía dominical llega a tres barrios".
   <!-- feedback: Es incorrecta porque el titular debe ser breve y general, no un párrafo de entrada. -->
 - [ ] C) Titular: "Ciclovía dominical llega a tres barrios"; entrada: "Los talleres inician a las nueve"; cuerpo: "Ayer la alcaldía confirmó la ruta".
   <!-- feedback: Es incorrecta porque adelanta un detalle antes de presentar los datos básicos del hecho. -->
+- [x] D) Titular: "Ciclovía dominical llega a tres barrios"; entrada: "Ayer la alcaldía confirmó la ruta y los horarios"; cuerpo: "Los talleres inician a las nueve".
+  <!-- feedback: Es correcta porque ordena de lo general a los detalles según la estructura. -->
+
 ### Explicacion Pedagogica
 La noticia organiza la información en pirámide: primero lo esencial en el titular y la entrada, después los detalles en el cuerpo. Analizar el orden enseña a redactar noticias claras y a detectar textos desordenados que confunden al lector.
 
@@ -170,13 +177,14 @@ La noticia organiza la información en pirámide: primero lo esencial en el titu
 ### Enunciado
 ¿Cuál noticia está mejor construida?
 ### Opciones
-- [x] D) Titular: "Quinto cosecha su primera huerta". Entrada: "Ayer los estudiantes de quinto recogieron tomate y lechuga en la huerta escolar". Cuerpo: detalles del peso, los cursos invitados y el destino de la cosecha. Cierre: "La próxima semana venderán la cosecha en la feria con precios desde dos mil pesos".
-  <!-- feedback: Es correcta porque presenta estructura completa, datos reales y cierre con proyección clara. -->
 - [ ] A) Titular: "Cosas". Entrada: "Pasaron cosas ayer". Cuerpo: "Todo estuvo bien y chévere". Cierre: "Fin".
   <!-- feedback: Es incorrecta porque es vaga, sin datos ni estructura informativa. -->
 - [ ] B) Titular: "Había una vez una lechuga mágica que cantaba". Entrada: "La lechuga voló ayer". Cuerpo: "Habló con un duende". Cierre: "Colorín colorado".
   <!-- feedback: Es incorrecta porque es un cuento fantástico y no una noticia real. -->
-- [ ] C) Titular: "Quinto cosecha su primera huerta". Entrada: "Ayer los estudiantes de quinto recogieron tomate y lechuga". Cuerpo: lista de precios de juguetes sin relación. Cierre: receta de un pastel.
+- [x] C) Titular: "Quinto cosecha su primera huerta". Entrada: "Ayer los estudiantes de quinto recogieron tomate y lechuga en la huerta escolar". Cuerpo: detalles del peso, los cursos invitados y el destino de la cosecha. Cierre: "La próxima semana venderán la cosecha en la feria con precios desde dos mil pesos".
+  <!-- feedback: Es correcta porque presenta estructura completa, datos reales y cierre con proyección clara. -->
+- [ ] D) Titular: "Quinto cosecha su primera huerta". Entrada: "Ayer los estudiantes de quinto recogieron tomate y lechuga". Cuerpo: lista de precios de juguetes sin relación. Cierre: receta de un pastel.
   <!-- feedback: Es incorrecta porque el cuerpo y el cierre se apartan del hecho anunciado. -->
+
 ### Explicacion Pedagogica
 Evaluar una noticia exige revisar la coherencia de todas sus partes: titular atractivo, entrada con datos básicos, cuerpo con detalles pertinentes y cierre con proyección. La opción correcta mantiene el mismo hecho de principio a fin e informa con precisión a la comunidad escolar.

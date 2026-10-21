@@ -38,12 +38,12 @@ This comprehensive review bundle covers the main grammatical and lexical topics 
 ### Opciones
 - [ ] A) ride
   <!-- feedback: Incorrect. Needs third person 's'. -->
-- [x] D) rides
-  <!-- feedback: Correct! Present Simple third person. -->
 - [ ] B) riding
   <!-- feedback: Incorrect. Continuous form. -->
 - [ ] C) is ride
   <!-- feedback: The third person singular takes "is", and a main verb needs the base form "ride", not the bare infinitive after an auxiliary. -->
+- [x] D) rides
+  <!-- feedback: Correct! Present Simple third person. -->
 
 ### Explicacion Pedagogica
 The student identifies the correct present simple conjugation for a singular subject.
@@ -61,10 +61,10 @@ The student identifies the correct present simple conjugation for a singular sub
 "We ________ very happy with the results of the final project last week."
 
 ### Opciones
-- [ ] B) was
-  <!-- feedback: Incorrect. "We" is plural. -->
 - [x] A) were
   <!-- feedback: Correct! Past plural of "to be". -->
+- [ ] B) was
+  <!-- feedback: Incorrect. "We" is plural. -->
 - [ ] C) are
   <!-- feedback: Incorrect. Present tense. -->
 - [ ] D) been
@@ -86,14 +86,14 @@ The student remembers the past conjugation of "to be" for plural subjects.
 "If you feel sick, you ________ go to the doctor."
 
 ### Opciones
-- [x] D) should
-  <!-- feedback: Correct! Modal for giving advice. -->
 - [ ] A) mustn't
   <!-- feedback: "Mustn't" forbids the action outright, whereas the sentence recommends going to the doctor. -->
 - [ ] B) shouldn't
   <!-- feedback: The modal has to be positive here, because the sentence advises the action instead of warning against it. -->
 - [ ] C) will
   <!-- feedback: Incorrect. Not the standard modal for advice. -->
+- [x] D) should
+  <!-- feedback: Correct! Modal for giving advice. -->
 
 ### Explicacion Pedagogica
 The student understands the communicative function of "should".
@@ -111,10 +111,10 @@ The student understands the communicative function of "should".
 "I ________ buy a new computer next month."
 
 ### Opciones
-- [ ] B) am going
-  <!-- feedback: Incorrect. Missing "to". -->
 - [x] A) am going to
   <!-- feedback: Correct! Future plan/intention. -->
+- [ ] B) am going
+  <!-- feedback: Incorrect. Missing "to". -->
 - [ ] C) going to
   <!-- feedback: Incorrect. Missing auxiliary. -->
 - [ ] D) will going to
@@ -162,12 +162,12 @@ The student applies the "interrupted past action" rule.
 Which of Lucia's achievements is mentioned as a specific event in the past?
 
 ### Opciones
+- [x] A) Winning a science prize.
+  <!-- feedback: Correct! This is a specific past event ("Last year... won"). -->
 - [ ] B) Visiting five countries.
   <!-- feedback: Incorrect. This is a general life experience (Present Perfect). -->
 - [ ] C) Speaking three languages.
   <!-- feedback: Incorrect. This is a current ability (Present Simple). -->
-- [x] A) Winning a science prize.
-  <!-- feedback: Correct! This is a specific past event ("Last year... won"). -->
 - [ ] D) Traveling next year.
   <!-- feedback: Incorrect. Not mentioned. -->
 
@@ -187,14 +187,14 @@ The student applies reading strategies to distinguish between general experience
 "You ________ be quiet in the library; it is a rule."
 
 ### Opciones
-- [x] D) must
-  <!-- feedback: Correct! Strong obligation/rule. -->
 - [ ] A) don't have to
   <!-- feedback: Incorrect. It is mandatory. -->
 - [ ] B) shouldn't
   <!-- feedback: Incorrect. Contradicts the rule. -->
 - [ ] C) can
   <!-- feedback: Incorrect. While possible, "must" is better for rules. -->
+- [x] D) must
+  <!-- feedback: Correct! Strong obligation/rule. -->
 
 ### Explicacion Pedagogica
 The student applies the correct modal for expressing a formal rule.
@@ -214,12 +214,12 @@ Choose the grammatically perfect sentence.
 ### Opciones
 - [ ] A) I have already did my homework.
   <!-- feedback: Incorrect participle. -->
-- [x] D) I have already done my homework.
-  <!-- feedback: Correct! Auxiliary + participle "done". -->
 - [ ] B) I has already done my homework.
   <!-- feedback: Incorrect auxiliary for "I". -->
 - [ ] C) I have already do my homework.
   <!-- feedback: Incorrect verb form. -->
+- [x] D) I have already done my homework.
+  <!-- feedback: Correct! Auxiliary + participle "done". -->
 
 ### Explicacion Pedagogica
 The student analyzes the Present Perfect structure for grammatical accuracy.
@@ -238,13 +238,13 @@ The student analyzes the Present Perfect structure for grammatical accuracy.
 What can we analyze about Andrés and Mateo?
 
 ### Opciones
-- [x] D) They have different athletic skills and Andrés has a specific plan for his sport.
-  <!-- feedback: Correct! Soccer vs swimming (different skills) and Andrés joining the team (plan). -->
 - [ ] A) Mateo is going to join the soccer team.
   <!-- feedback: Incorrect. Andrés is. -->
 - [ ] B) Neither of them likes sports.
   <!-- feedback: Incorrect. Both are athletic. -->
-- [ ] C) Andrés is a swimmer.
+- [x] C) They have different athletic skills and Andrés has a specific plan for his sport.
+  <!-- feedback: Correct! Soccer vs swimming (different skills) and Andrés joining the team (plan). -->
+- [ ] D) Andrés is a swimmer.
   <!-- feedback: Incorrect. Mateo is. -->
 
 ### Explicacion Pedagogica

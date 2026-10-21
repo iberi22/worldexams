@@ -267,12 +267,12 @@ Which word best describes the tone of this speaker?
 ### Opciones
 - [ ] A) Angry
   <!-- feedback: Incorrect. The tone is supportive and committed. -->
-- [x] B) Sincere
-  <!-- feedback: Correct! The use of "promise" and the repetition of "will" for commitment show sincerity. -->
+- [ ] B) Unsure
+  <!-- feedback: Incorrect. "Will" and "Never" show certainty in the commitment. -->
 - [ ] C) Bored
   <!-- feedback: Incorrect. These are strong commitments. -->
-- [ ] D) Unsure
-  <!-- feedback: Incorrect. "Will" and "Never" show certainty in the commitment. -->
+- [x] D) Sincere
+  <!-- feedback: Correct! The use of "promise" and the repetition of "will" for commitment show sincerity. -->
 
 ### Explicacion Pedagogica
 The student evaluates the communicative intent and tone of a series of promises made using the future auxiliary "will".

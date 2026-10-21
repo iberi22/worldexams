@@ -429,9 +429,9 @@ La descomposición en fracciones simples depende de la factorización del denomi
 
 ### Opciones
 - [ ] A) Calculando $P(0)$. <!-- feedback: $P(0)$ nos da el término independiente únicamente. -->
-- [x] B) Calculando $P(1)$. <!-- feedback: Correcto. Al sustituir x por 1, todas las potencias de x se vuelven 1, quedando solo la suma de los coeficientes. -->
+- [ ] B) Sumando los exponentes de los términos. <!-- feedback: No existe tal propiedad para hallar la suma de coeficientes. -->
 - [ ] C) Calculando el coeficiente principal. <!-- feedback: Solo daría un término, no la suma. -->
-- [ ] D) Sumando los exponentes de los términos. <!-- feedback: No existe tal propiedad para hallar la suma de coeficientes. -->
+- [x] D) Calculando $P(1)$. <!-- feedback: Correcto. Al sustituir x por 1, todas las potencias de x se vuelven 1, quedando solo la suma de los coeficientes. -->
 
 ### Explicacion Pedagogica
 Evaluar un polinomio en 1 es un truco algebraico muy útil: $P(1) = a_n(1)^n + ... + a_0 = a_n + ... + a_0$, que es exactamente la suma de todos sus coeficientes.

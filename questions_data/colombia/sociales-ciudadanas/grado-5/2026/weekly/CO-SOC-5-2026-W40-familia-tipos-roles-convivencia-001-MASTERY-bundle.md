@@ -118,12 +118,12 @@ Los niños tienen derecho a la educación, la recreación y la protección. Cola
 ### Opciones
 - [ ] A) Ninguno, porque las personas mayores ya no aportan nada a la familia.
   <!-- feedback: Incorrecto: despreciar a los mayores es discriminatorio; su aporte es valioso. -->
-- [x] B) Transmiten la memoria, las tradiciones y los valores a las nuevas generaciones.
-  <!-- feedback: Correcto: los abuelos guardan historias, recetas, música y enseñanzas que forman la identidad familiar. -->
+- [ ] B) Deben vivir aislados para no molestar a la familia.
+  <!-- feedback: Incorrecto: aislar a los mayores es abandono; tienen derecho al afecto y la compañía. -->
 - [ ] C) Solo sirven para dar dinero a los nietos cuando los papás no tienen.
   <!-- feedback: Incorrecto: su valor no es económico sino afectivo y cultural. -->
-- [ ] D) Deben vivir aislados para no molestar a la familia.
-  <!-- feedback: Incorrecto: aislar a los mayores es abandono; tienen derecho al afecto y la compañía. -->
+- [x] D) Transmiten la memoria, las tradiciones y los valores a las nuevas generaciones.
+  <!-- feedback: Correcto: los abuelos guardan historias, recetas, música y enseñanzas que forman la identidad familiar. -->
 
 ### Explicacion Pedagogica
 Los adultos mayores son portadores de memoria: conservan relatos, tradiciones, oficios y valores que dan identidad a la familia y a la región. Escucharlos y cuidarlos es un deber de gratitud y, además, protege el patrimonio cultural. El respeto a los mayores sostiene la convivencia entre generaciones.

@@ -37,14 +37,14 @@ creador: "Jules-Agent"
 Según el autor del texto, ¿qué elemento tecnológico está diseñado utilizando principios de la psicología conductista?
 
 ### Opciones
-- [x] D) El infinito desplazamiento ('infinite scroll') y los algoritmos de recomendación.
-  <!-- feedback: ¡Correcto! El texto menciona explícitamente estas herramientas como mecanismos para maximizar el tiempo de permanencia. -->
 - [ ] A) Los teclados físicos y las pantallas de alta resolución.
   <!-- feedback: Incorrecto. El texto se enfoca en las dinámicas del software e interacción digital. -->
 - [ ] B) Los cables de fibra óptica e infraestructura de internet.
   <!-- feedback: Incorrecto. La infraestructura no es objeto del argumento del texto. -->
 - [ ] C) Los libros digitales y enciclopedias en línea.
   <!-- feedback: Incorrecto. El autor no menciona libros digitales en el extracto. -->
+- [x] D) El infinito desplazamiento ('infinite scroll') y los algoritmos de recomendación.
+  <!-- feedback: ¡Correcto! El texto menciona explícitamente estas herramientas como mecanismos para maximizar el tiempo de permanencia. -->
 
 ### Explicacion Pedagogica
 Identificación explícita de datos en un texto argumentativo periodístico o de opinión.
@@ -60,14 +60,14 @@ Identificación explícita de datos en un texto argumentativo periodístico o de
 ¿Qué entidades deben promover la alfabetización crítica según la propuesta del autor?
 
 ### Opciones
-- [x] D) Las instituciones educativas.
-  <!-- feedback: ¡Correcto! El texto propone expresamente que las instituciones educativas promuevan la alfabetización crítica. -->
 - [ ] A) Las multinacionales de software.
   <!-- feedback: Incorrecto. El autor les pide regulación a los Estados, no alfabetización educativa. -->
 - [ ] B) Las tiendas de aplicaciones móviles.
   <!-- feedback: Incorrecto. No es una entidad mencionada en la solución educativa propuesta. -->
 - [ ] C) Los fabricantes de teléfonos inteligentes.
   <!-- feedback: Incorrecto. El texto cita a las escuelas e institutos como responsables de la educación crítica. -->
+- [x] D) Las instituciones educativas.
+  <!-- feedback: ¡Correcto! El texto propone expresamente que las instituciones educativas promuevan la alfabetización crítica. -->
 
 ### Explicacion Pedagogica
 Extracción de afirmaciones directas sobre los agentes de cambio señalados en el ensayo de opinión.
@@ -83,12 +83,12 @@ Extracción de afirmaciones directas sobre los agentes de cambio señalados en e
 ¿Cuál es la tesis central que defiende el autor en este artículo de opinión?
 
 ### Opciones
-- [x] C) La adicción a las pantallas en jóvenes requiere tanto regulación estatal como alfabetización crítica educativa, superando la culpa individual.
-  <!-- feedback: ¡Correcto! Sintetiza la postura integral del autor frente a las causas sistémicas e intervenciones requeridas. -->
 - [ ] A) Las redes sociales deben ser prohibidas definitivamente para cualquier persona menor de 18 años.
   <!-- feedback: Incorrecto. El autor habla de regulación y educación, no de prohibición absoluta. -->
 - [ ] B) La responsabilidad de la adicción digital recae exclusivamente en los padres de familia.
   <!-- feedback: Incorrecto. El texto refuta el enfoque puramente individual o moral. -->
+- [x] C) La adicción a las pantallas en jóvenes requiere tanto regulación estatal como alfabetización crítica educativa, superando la culpa individual.
+  <!-- feedback: ¡Correcto! Sintetiza la postura integral del autor frente a las causas sistémicas e intervenciones requeridas. -->
 - [ ] D) La tecnología no genera ningún impacto negativo en la psicología de los jóvenes contemporáneos.
   <!-- feedback: Incorrecto. El autor señala claramente el 'secuestro de la atención humana'. -->
 
@@ -106,10 +106,10 @@ Determinar la tesis principal en un artículo de opinión implica articular la h
 ¿Qué sentido tiene la expresión "secuestrar la atención humana" en el contexto del texto?
 
 ### Opciones
-- [x] B) Retener e hiperestimular la concentración del usuario mediante diseño adictivo para evitar que abandone la plataforma.
-  <!-- feedback: ¡Correcto! Corresponde a una metáfora para describir cómo la atención es capturada de forma no del todo consciente. -->
 - [ ] A) Cometer un delito de rapto físico a las personas que usan computadores.
   <!-- feedback: Incorrecto. Se trata de un uso figurado en el ámbito de la psicología del consumidor. -->
+- [x] B) Retener e hiperestimular la concentración del usuario mediante diseño adictivo para evitar que abandone la plataforma.
+  <!-- feedback: ¡Correcto! Corresponde a una metáfora para describir cómo la atención es capturada de forma no del todo consciente. -->
 - [ ] C) Bloquear el acceso a internet en ciudades enteras.
   <!-- feedback: Incorrecto. La frase alude al plano individual de la atención mental. -->
 - [ ] D) Obligar a los usuarios a pagar rescates de dinero para usar redes sociales.
@@ -129,14 +129,14 @@ Comprensión del lenguaje figurado y metafórico en artículos de opinión y deb
 ¿Qué tipo de conector lógico cumple la función de la palabra **"Sin embargo"** en el desarrollo del argumento?
 
 ### Opciones
-- [x] D) Conector adversativo o de oposición, que introduce un matiz limitativo a la responsabilidad de las empresas tecnológicas.
-  <!-- feedback: ¡Correcto! 'Sin embargo' conecta la crítica a las Big Tech con la necesidad de no responsabilizarlas únicamente a ellas. -->
 - [ ] A) Conector causal, que explica el motivo técnico por el cual funcionan los algoritmos.
   <!-- feedback: Incorrecto. Los conectores causales son 'porque', 'debido a que', etc. -->
 - [ ] B) Conector temporal, que marca una secuencia cronológica de eventos pasados.
   <!-- feedback: Incorrecto. No señala secuencia en el tiempo. -->
 - [ ] C) Conector ilustrativo, que introduce un ejemplo concreto de aplicación móvil.
   <!-- feedback: Incorrecto. 'Sin embargo' no introduce ejemplos sino contrastes. -->
+- [x] D) Conector adversativo o de oposición, que introduce un matiz limitativo a la responsabilidad de las empresas tecnológicas.
+  <!-- feedback: ¡Correcto! 'Sin embargo' conecta la crítica a las Big Tech con la necesidad de no responsabilizarlas únicamente a ellas. -->
 
 ### Explicacion Pedagogica
 Análisis del papel semántico de los conectores lógicos argumentativos en la estructuración discursiva.
@@ -152,10 +152,10 @@ Análisis del papel semántico de los conectores lógicos argumentativos en la e
 Si una persona afirma: "La adicción al teléfono es simplemente una falta de voluntad de los adolescentes", ¿cómo respondería el autor del texto usando sus propios argumentos?
 
 ### Opciones
-- [x] B) Argumentaría que existen mecanismos tecnológicos sofisticados diseñados deliberadamente para manipular la conducta y dificultar el autocontrol.
-  <!-- feedback: ¡Correcto! El autor rechaza la explicación del 'fallo moral individual' mostrando las causas estructurales. -->
 - [ ] A) Estaría totalmente de acuerdo con esa persona y pediría castigar a los jóvenes.
   <!-- feedback: Incorrecto. El texto afirma explícitamente lo contrario desde la primera línea. -->
+- [x] B) Argumentaría que existen mecanismos tecnológicos sofisticados diseñados deliberadamente para manipular la conducta y dificultar el autocontrol.
+  <!-- feedback: ¡Correcto! El autor rechaza la explicación del 'fallo moral individual' mostrando las causas estructurales. -->
 - [ ] C) Diría que los teléfonos no producen ninguna clase de adicción.
   <!-- feedback: Incorrecto. El texto reconoce la existencia real de la adicción. -->
 - [ ] D) Afirmaría que el problema es que los jóvenes leen demasiados libros físicos.
@@ -175,10 +175,10 @@ Aplicación de las premisas de un argumento para refutar posturas contradictoria
 ¿Cuál de las siguientes estrategias de argumentación predomina en el texto analizado?
 
 ### Opciones
-- [x] B) Argumentación causal y de propuesta de solución (diagnóstico del problema tecnológico + corresponsabilidad estatal y educativa).
-  <!-- feedback: ¡Correcto! El texto articula las causas del fenómeno y plantea la respuesta institucional coordinada. -->
 - [ ] A) Argumentación por anécdota personal narrativa sin datos ni conceptos generales.
   <!-- feedback: Incorrecto. El texto no narra ninguna historia personal. -->
+- [x] B) Argumentación causal y de propuesta de solución (diagnóstico del problema tecnológico + corresponsabilidad estatal y educativa).
+  <!-- feedback: ¡Correcto! El texto articula las causas del fenómeno y plantea la respuesta institucional coordinada. -->
 - [ ] C) Argumentación por apelación a la emoción estética de la poesía.
   <!-- feedback: Incorrecto. El tono es analítico, persuasivo y sociopolítico, no poético. -->
 - [ ] D) Argumentación basada en datos estadísticos porcentuales de encuestas en Colombia.
@@ -198,10 +198,10 @@ Identificación de la estructura argumentativa y tipología de razonamiento empl
 ¿Cuál es la intención comunicativa predominante en este artículo de opinión?
 
 ### Opciones
-- [x] B) Persuadir al lector sobre la necesidad de asumir una postura crítica frente al diseño adictivo de las tecnologías y exigir respuestas regulatorias.
-  <!-- feedback: ¡Correcto! Los artículos de opinión buscan convencer e incitar a la reflexión y acción ciudadana. -->
 - [ ] A) Describir detalladamente los pasos técnicos para programar una aplicación móvil.
   <!-- feedback: Incorrecto. No es un manual de programación. -->
+- [x] B) Persuadir al lector sobre la necesidad de asumir una postura crítica frente al diseño adictivo de las tecnologías y exigir respuestas regulatorias.
+  <!-- feedback: ¡Correcto! Los artículos de opinión buscan convencer e incitar a la reflexión y acción ciudadana. -->
 - [ ] C) Entretener con una ficción fantástica sobre robots del futuro.
   <!-- feedback: Incorrecto. El texto aborda una problemática social y actual. -->
 - [ ] D) Vender al público una nueva marca de teléfonos celulares sin pantallas.
@@ -221,14 +221,14 @@ Reconocimiento del propósito pragmático e intencionalidad del género discursi
 ¿Qué presupuesto o supuesto implícito subyace a la frase *"devuelva al ciudadano el control sobre su tiempo y su mente"*?
 
 ### Opciones
-- [x] D) Que actualmente la soberanía del tiempo y la capacidad de atención individual están comprometidas por las plataformas digitales.
-  <!-- feedback: ¡Correcto! Si hay que 'devolver' el control, es porque se asume que se ha perdido parcialmente. -->
 - [ ] A) Que las personas nunca han tenido capacidad de elegir qué hacer con su tiempo.
   <!-- feedback: Incorrecto. El verbo 'devolver' supone que antes existía esa autonomía. -->
 - [ ] B) Que el tiempo dedicado a las pantallas es siempre más valioso que el tiempo libre sin tecnología.
   <!-- feedback: Incorrecto. El autor cuestiona el sesgo del diseño adictivo. -->
 - [ ] C) Que la mente humana funciona de la misma manera que un procesador de computadora.
   <!-- feedback: Incorrecto. El supuesto es la pérdida de la autonomía de la atención. -->
+- [x] D) Que actualmente la soberanía del tiempo y la capacidad de atención individual están comprometidas por las plataformas digitales.
+  <!-- feedback: ¡Correcto! Si hay que 'devolver' el control, es porque se asume que se ha perdido parcialmente. -->
 
 ### Explicacion Pedagogica
 Explicitación de presupuestos o premisas implícitas detrás de afirmaciones concluyentes en la lectura crítica.
@@ -244,12 +244,12 @@ Explicitación de presupuestos o premisas implícitas detrás de afirmaciones co
 ¿Hasta qué punto es válida o inválida esta crítica frente al contenido real del texto?
 
 ### Opciones
-- [x] C) Es parcialmente inválida, porque el autor no le quita toda la responsabilidad a la sociedad, sino que propone capacitar a los jóvenes mediante alfabetización crítica para ejercer autonomía.
-  <!-- feedback: ¡Excelente! La inclusión de la 'alfabetización crítica' demuestra que el autor cree en la capacidad de formación y autonomía de los jóvenes. -->
 - [ ] A) Es completamente válida, porque el autor afirma que la tecnología es un monstruo imposible de combatir.
   <!-- feedback: Incorrecto. El autor plantea soluciones concretas (regulación y educación). -->
 - [ ] B) Es válida, porque el texto recomienda que los jóvenes dejen de estudiar.
   <!-- feedback: Incorrecto. El autor defiende el rol fundamental de la escuela. -->
+- [x] C) Es parcialmente inválida, porque el autor no le quita toda la responsabilidad a la sociedad, sino que propone capacitar a los jóvenes mediante alfabetización crítica para ejercer autonomía.
+  <!-- feedback: ¡Excelente! La inclusión de la 'alfabetización crítica' demuestra que el autor cree en la capacidad de formación y autonomía de los jóvenes. -->
 - [ ] D) Es inválida, porque el texto fue escrito por un programa informático.
   <!-- feedback: Incorrecto. La validez de la crítica depende del contenido lógico del texto, no de especulaciones sobre la autoría. -->
 
@@ -267,12 +267,12 @@ Evaluación de la validez de contraargumentos externos mediante el cotejo riguro
 ¿Cómo se alinea esta medida legislativa colombiana con las tesis del artículo de opinión?
 
 ### Opciones
-- [x] C) Se alinea plenamente con la exigencia de que los Estados regulen la arquitectura digital de las plataformas.
-  <!-- feedback: ¡Correcto! Representa la aplicación concreta del argumento sobre el deber de regulación pública del Estado. -->
 - [ ] A) Contradice abiertamente lo propuesto en el texto sobre la educación.
   <!-- feedback: Incorrecto. La regulación estatal y la educación son medidas complementarias en el texto. -->
 - [ ] B) Demuestra que las empresas tecnológicas no tienen ninguna influencia en los jóvenes.
   <!-- feedback: Incorrecto. Si se prohíben por ley esos algoritmos es justamente porque se reconoce su poder manipulador. -->
+- [x] C) Se alinea plenamente con la exigencia de que los Estados regulen la arquitectura digital de las plataformas.
+  <!-- feedback: ¡Correcto! Representa la aplicación concreta del argumento sobre el deber de regulación pública del Estado. -->
 - [ ] D) Resulta irrelevante porque el texto sostiene que la ley no sirve para nada.
   <!-- feedback: Incorrecto. El texto exige expresamente "que los Estados regulen". -->
 
@@ -292,14 +292,14 @@ Transferencia intertextual y evaluación del grado de convergencia entre posicio
 ¿Cuál es la diferencia sustancial en la concepción de la tecnología entre la Visión A y la Visión B?
 
 ### Opciones
-- [x] D) La Visión A reconoce que la tecnología tiene una carga de diseño intencionada que condiciona la conducta, mientras la Visión B asume erróneamente la tecnología como un objeto neutral.
+- [x] A) La Visión A reconoce que la tecnología tiene una carga de diseño intencionada que condiciona la conducta, mientras la Visión B asume erróneamente la tecnología como un objeto neutral.
   <!-- feedback: ¡Excelente! Muestra el contraste crítico entre la neutralidad tecnológica ingenua y el análisis del diseño orientado a la persuasión. -->
-- [ ] A) La Visión A apoya el monopolio de las empresas tecnológicas y la Visión B quiere destruirlas.
-  <!-- feedback: Incorrecto. Ninguna de las dos posturas propone la destrucción física de empresas. -->
 - [ ] B) La Visión A considera que la educación no sirve y la Visión B apoya la educación obligatoria.
   <!-- feedback: Incorrecto. La Visión A defiende la alfabetización crítica explícitamente. -->
 - [ ] C) Ambas visiones dicen exactamente lo mismo con palabras diferentes.
   <!-- feedback: Incorrecto. Tienen puntos de partida éticos y sociológicos opuestos sobre la neutralidad de la técnica. -->
+- [ ] D) La Visión A apoya el monopolio de las empresas tecnológicas y la Visión B quiere destruirlas.
+  <!-- feedback: Incorrecto. Ninguna de las dos posturas propone la destrucción física de empresas. -->
 
 ### Explicacion Pedagogica
 Juicio crítico comparativo sobre los modelos epistemológicos detrás de la evaluación de tecnologías digitales contemporáneas.

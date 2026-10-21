@@ -148,14 +148,14 @@ Primero se calcula una octava parte de la hoja dividiendo 24 entre 8: eso da 3 l
 ¿Por qué 3/4, 6/8 y 9/12 son fracciones equivalentes?
 
 ### Opciones
-- [x] A) Porque si se dividen las tres entre 1, 2 y 3 respectivamente todas dan 0,75
-  <!-- feedback: Correcto. 3 ÷ 4 = 0,75, 6 ÷ 8 = 0,75 y 9 ÷ 12 = 0,75, y por eso las tres valen lo mismo. -->
+- [ ] A) Porque el denominador siempre es el doble del numerador
+  <!-- feedback: Incorrecto. Esa regla solo se cumple en 6/12, porque en 3/4 el denominador no es el doble del numerador. -->
 - [ ] B) Porque todas tienen el mismo número de cifras
   <!-- feedback: Incorrecto. La cantidad de cifras no interviene, y por ejemplo 1/2 y 3/4 tienen igual número de cifras y no son equivalentes. -->
 - [ ] C) Porque sus numeradores son 3, 6 y 9, que son múltiplos entre sí
   <!-- feedback: Incorrecto. Solo el numerador no alcanza, porque 1/2 y 1/4 no son equivalentes aunque el numerador sea el mismo. -->
-- [ ] D) Porque el denominador siempre es el doble del numerador
-  <!-- feedback: Incorrecto. Esa regla solo se cumple en 6/12, porque en 3/4 el denominador no es el doble del numerador. -->
+- [x] D) Porque si se dividen las tres entre 1, 2 y 3 respectivamente todas dan 0,75
+  <!-- feedback: Correcto. 3 ÷ 4 = 0,75, 6 ÷ 8 = 0,75 y 9 ÷ 12 = 0,75, y por eso las tres valen lo mismo. -->
 
 ### Explicacion Pedagogica
 La forma segura de comprobar la equivalencia es dividir. Si en las tres fracciones el cociente entre numerador y denominador da lo mismo, entonces representan la misma cantidad. Aquí 3 ÷ 4, 6 ÷ 8 y 9 ÷ 12 dan todos 0,75, así que las tres son equivalentes y valen tres cuartas partes del mismo todo.

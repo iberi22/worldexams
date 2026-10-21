@@ -40,6 +40,7 @@ Este bundle de 10 preguntas conduce a los estudiantes de sexto grado a reconocer
   <!-- feedback: Correcto. La energía es la capacidad de producir cambios en los cuerpos o en los sistemas. -->
 - [ ] D) El color que tiene un objeto cuando le llega luz
   <!-- feedback: Incorrecto. El color es una propiedad óptica, no la energía del objeto. -->
+
 ### Explicacion Pedagogica
 En ciencias naturales, la energía es la capacidad de un cuerpo o de un sistema para producir cambios, mover otros objetos, generar calor, emitir luz o transformar sustancias; todas las formas de energía cumplen esa definición general.
 
@@ -60,6 +61,7 @@ En ciencias naturales, la energía es la capacidad de un cuerpo o de un sistema 
   <!-- feedback: Incorrecto. Esos son estados de la materia, no formas de energía. -->
 - [ ] D) Arriba, abajo, izquierda y derecha
   <!-- feedback: Incorrecto. Esas son direcciones, no formas de energía. -->
+
 ### Explicacion Pedagogica
 La energía se presenta en distintas formas: la cinética está asociada al movimiento, la potencial a la posición, la térmica al calor, la química a los enlaces, la luminosa a la luz y la eléctrica al movimiento de cargas; en la vida real, varias se manifiestan juntas.
 
@@ -80,6 +82,7 @@ La energía se presenta en distintas formas: la cinética está asociada al movi
   <!-- feedback: Incorrecto. Al detenerse la energía cinética es prácticamente cero y ya no hay ganancia de potencial. -->
 - [ ] D) Cuando la pelota va muy rápido en una pendiente
   <!-- feedback: Incorrecto. A alta velocidad domina la energía cinética, no la potencial. -->
+
 ### Explicacion Pedagogica
 La energía potencial gravitatoria depende de la masa, de la gravedad y, sobre todo, de la altura: mientras más alto esté el cuerpo respecto a un nivel de referencia, mayor será su energía potencial gravitatoria almacenada.
 
@@ -100,6 +103,7 @@ La energía potencial gravitatoria depende de la masa, de la gravedad y, sobre t
   <!-- feedback: Incorrecto. El panel no genera movimiento mecánico directamente. -->
 - [ ] D) Energía sonora
   <!-- feedback: Incorrecto. El panel solar no produce sonido de forma útil. -->
+
 ### Explicacion Pedagogica
 Los paneles solares fotovoltaicos transforman la energía luminosa del Sol en energía eléctrica; esa electricidad se puede usar de inmediato o almacenar en baterías para alimentar bombillas y aparatos en las noches.
 
@@ -120,6 +124,7 @@ Los paneles solares fotovoltaicos transforman la energía luminosa del Sol en en
   <!-- feedback: Incorrecto. Las plantas y los animales no son fuentes significativas de energía nuclear. -->
 - [ ] D) Energía cinética
   <!-- feedback: Incorrecto. Un alimento en reposo no tiene energía cinética aprovechable para el cuerpo. -->
+
 ### Explicacion Pedagogica
 Los alimentos almacenan energía química en sus enlaces moleculares; el cuerpo, al digerir los nutrientes, libera esa energía y la transforma en energía térmica, mecánica y eléctrica para sostener la vida.
 
@@ -140,6 +145,7 @@ Los alimentos almacenan energía química en sus enlaces moleculares; el cuerpo,
   <!-- feedback: Incorrecto. La gravedad terrestre actúa siempre sobre la pelota, en todas las direcciones y momentos. -->
 - [ ] D) La pelota pierde masa en cada rebote y por eso ya no sube igual
   <!-- feedback: Incorrecto. La masa de la pelota se mantiene prácticamente constante durante el experimento. -->
+
 ### Explicacion Pedagogica
 En cada rebote, una parte de la energía mecánica se transforma en calor y sonido al chocar contra el suelo, y esa energía ya no retorna como energía potencial; por eso la pelota alcanza cada vez una altura menor hasta detenerse.
 
@@ -160,6 +166,7 @@ En cada rebote, una parte de la energía mecánica se transforma en calor y soni
   <!-- feedback: Correcto. El calor específico del agua es alto y eso hace que tarde más en calentarse. -->
 - [ ] D) La arena tiene fuego por dentro bajo la superficie
   <!-- feedback: Incorrecto. La arena no tiene fuego interno; absorbe energía solar en la superficie. -->
+
 ### Explicacion Pedagogica
 El calor específico es una propiedad de cada material: indica cuánta energía se necesita para elevar su temperatura; el agua tiene un calor específico alto, por eso se calienta más lento que la arena bajo la misma cantidad de luz solar.
 
@@ -180,6 +187,7 @@ El calor específico es una propiedad de cada material: indica cuánta energía 
   <!-- feedback: Correcto. La disponibilidad distingue unas de otras para efectos prácticos y ambientales. -->
 - [ ] D) Las renovables son siempre caras y por eso no se usan
   <!-- feedback: Incorrecto. El costo no define la categoría; muchas renovables son económicamente viables. -->
+
 ### Explicacion Pedagogica
 Las fuentes renovables se reponen de forma continua por ciclos naturales (radiación solar, viento, ciclo del agua), mientras que las no renovables (carbón, petróleo, gas) se formaron en tiempos geológicos muy largos y se acaban al usarlas.
 
@@ -200,6 +208,7 @@ Las fuentes renovables se reponen de forma continua por ciclos naturales (radiac
   <!-- feedback: Correcto. A igual trabajo realizado, gastar menos energía es la opción más eficiente. -->
 - [ ] D) Los tres son igualmente eficientes porque entregan energía
   <!-- feedback: Incorrecto. La eficiencia energética se compara con el trabajo útil producido por unidad de energía consumida. -->
+
 ### Explicacion Pedagogica
 Evaluar eficiencia energética implica comparar el trabajo útil logrado con la energía consumida: si tres prototipos hacen la misma tarea, el que consume menos energía es el más eficiente y la mejor decisión desde el punto de vista energético.
 
@@ -214,11 +223,12 @@ Evaluar eficiencia energética implica comparar el trabajo útil logrado con la 
 ### Opciones
 - [ ] A) La leña siempre es mejor porque se consigue gratis en el bosque
   <!-- feedback: Incorrecto. La leña gratis oculta costos ambientales y de salud por humo que no son gratuitos. -->
-- [x] B) Los paneles solares tienen un costo inicial alto, pero aprovechan una fuente renovable y reducen el impacto ambiental, además de generar ahorro a mediano plazo
-  <!-- feedback: Correcto. Considera costos, disponibilidad y ambiente: la opción con energía solar es más sostenible a futuro. -->
+- [ ] B) Los paneles solares son malos porque dependen del clima y no funcionan nada
+  <!-- feedback: Incorrecto. Si bien dependen del Sol, en muchas regiones entregan electricidad útil, sobre todo si se combina con baterías. -->
 - [ ] C) La leña y los paneles solares dan exactamente el mismo resultado a corto y largo plazo
   <!-- feedback: Incorrecto. Son fuentes con características, costos e impactos muy distintos. -->
-- [ ] D) Los paneles solares son malos porque dependen del clima y no funcionan nada
-  <!-- feedback: Incorrecto. Si bien dependen del Sol, en muchas regiones entregan electricidad útil, sobre todo si se combina con baterías. -->
+- [x] D) Los paneles solares tienen un costo inicial alto, pero aprovechan una fuente renovable y reducen el impacto ambiental, además de generar ahorro a mediano plazo
+  <!-- feedback: Correcto. Considera costos, disponibilidad y ambiente: la opción con energía solar es más sostenible a futuro. -->
+
 ### Explicacion Pedagogica
 Evaluar bien implica considerar varias dimensiones al mismo tiempo: la disponibilidad, el costo inicial, el impacto ambiental y la salud; los paneles solares, aunque cuestan más al inicio, aprovechan una fuente renovable y reducen problemas asociados al humo de la leña.

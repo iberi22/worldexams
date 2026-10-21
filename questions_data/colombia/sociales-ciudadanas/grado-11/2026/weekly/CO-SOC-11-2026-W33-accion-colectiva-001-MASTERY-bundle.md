@@ -473,12 +473,12 @@ La relación entre las acciones colectivas ordinarias y el Sistema Integral de V
 ### Opciones
 - [ ] A) Las vías transicionales desplazaron por completo a los mecanismos constitucionales ordinarios de reparación
   <!-- feedback: Las vías administrativas y judiciales ordinarias siguen vigentes; la jurisdicción transicional es complementaria y especializada. -->
-- [x] B) Los mecanismos colectivos y la Ruta de reparación son sendas complementarias: las acciones ciudadanas ordinarias siguen vivas frente a responsables y obligaciones no asumidas por el sistema transicional
-  <!-- feedback: Correcto. La coexistencia de vías es principio del diseño del Acuerdo Final. -->
+- [ ] B) La tutela de derechos de víctimas está prohibida mientras exista la Unidad de Búsqueda
+  <!-- feedback: No existe tal prohibición: la tutela continúa siendo mecanismo válido para proteger derechos fundamentales de las víctimas. -->
 - [ ] C) Las víctimas deben elegir una sola vía y pierden las demás si participan en alguna
   <!-- feedback: La renuncia a otras vías no es requisito; sí debe evitarse la doble indemnización del mismo perjuicio. -->
-- [ ] D) La tutela de derechos de víctimas está prohibida mientras exista la Unidad de Búsqueda
-  <!-- feedback: No existe tal prohibición: la tutela continúa siendo mecanismo válido para proteger derechos fundamentales de las víctimas. -->
+- [x] D) Los mecanismos colectivos y la Ruta de reparación son sendas complementarias: las acciones ciudadanas ordinarias siguen vivas frente a responsables y obligaciones no asumidas por el sistema transicional
+  <!-- feedback: Correcto. La coexistencia de vías es principio del diseño del Acuerdo Final. -->
 
 ### Explicacion Pedagogica
 El Acuerdo Final de 2016 construyó un sistema integral (JEP, Comisión de la Verdad, Unidad de Búsqueda de Personas dadas por Desaparecidas, medidas de reparación) sin extinguir las garantías constitucionales ordinarias: tutela, acción popular, justicia contenciosa y penal permanecen. Evaluar el sistema exige comprender el principio de complementariedad y la prohibición de revictimización: la participación de las víctimas no es optativa ni sustituible por decisiones verticales del Estado.

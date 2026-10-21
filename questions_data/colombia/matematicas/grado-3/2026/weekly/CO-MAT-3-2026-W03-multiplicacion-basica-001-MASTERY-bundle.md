@@ -197,12 +197,12 @@ Evalúa la afirmación de don Ramiro: ¿es correcta? Muestra los cálculos y el 
 ### Opciones
 - [ ] A) Sí, porque 8 x 500 = 4.000 pesos, que es todo lo que cobra
   <!-- feedback: Incorrecto. El cálculo de los bolillos sí es correcto, pero así te estás olvidando de las 3 empanadas que también vas a vender. -->
-- [x] B) No, porque 8 x 500 = 4.000 y 3 x 1.200 = 3.600, y el total es 7.600 pesos
-  <!-- feedback: ¡Correcto! Faltaba sumar las empanadas: 4.000 + 3.600 = 7.600 pesos, que es lo que don Ramiro recibe en realidad. -->
+- [ ] B) Sí, porque 3 x 1.200 = 3.600 y al restarlo de 4.000 da 400 pesos
+  <!-- feedback: Incorrecto. Las empanadas no se restan, se suman, porque también son dinero que entra en la caja. -->
 - [ ] C) No, porque 8 bolillos y 3 empanadas son 11 artículos y eso da 11.000 pesos
   <!-- feedback: Incorrecto. El número de artículos (11) no es el precio, porque cada bolillo y cada empanada tienen un valor distinto. -->
-- [ ] D) Sí, porque 3 x 1.200 = 3.600 y al restarlo de 4.000 da 400 pesos
-  <!-- feedback: Incorrecto. Las empanadas no se restan, se suman, porque también son dinero que entra en la caja. -->
+- [x] D) No, porque 8 x 500 = 4.000 y 3 x 1.200 = 3.600, y el total es 7.600 pesos
+  <!-- feedback: ¡Correcto! Faltaba sumar las empanadas: 4.000 + 3.600 = 7.600 pesos, que es lo que don Ramiro recibe en realidad. -->
 
 ### Explicacion Pedagogica
 Cuando hay dos o más precios distintos en un mismo problema, primero se calcula el valor de cada grupo y después se suman los resultados. Los bolillos valen 8 x 500 = 4.000 pesos y las empanadas valen 3 x 1.200 = 3.600 pesos. Al sumar: 4.000 + 3.600 = 7.600 pesos. El error de don Ramiro fue contar solo una parte de lo que vende, y ese es el error más común en estos problemas: atacar un solo precio y olvidar el otro. La comprobación final es sencilla: con 4.000 pesos más 3.600 pesos se reunen 7.600 pesos, y ese es el dinero que entra en la caja.

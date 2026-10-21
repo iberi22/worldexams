@@ -30,14 +30,15 @@ Bundle semanal para interpretar refranes y dichos populares de Colombia y aplica
 ### Enunciado
 La abuela dice: "Más vale pájaro en mano que cien volando". ¿Qué recomienda el refrán?
 ### Opciones
-- [x] B) Valorar lo que ya se tiene en lugar de arriesgarlo por algo inseguro.
-  <!-- feedback: Es correcta porque el pájaro en mano representa lo seguro y los cien volando lo que no se tiene. -->
 - [ ] A) Soltar el pájaro para que vuele libre.
   <!-- feedback: Es incorrecta porque el refrán aconseja lo contrario: no soltar lo que ya se tiene. -->
+- [x] B) Valorar lo que ya se tiene en lugar de arriesgarlo por algo inseguro.
+  <!-- feedback: Es correcta porque el pájaro en mano representa lo seguro y los cien volando lo que no se tiene. -->
 - [ ] C) Cazar cien pájaros en un solo día.
   <!-- feedback: Es incorrecta porque el refrán no propone cazar, sino valorar lo seguro. -->
 - [ ] D) No acercarse nunca a los árboles del patio.
   <!-- feedback: Es incorrecta porque el refrán no habla de peligros en los árboles. -->
+
 ### Explicacion Pedagogica
 Los refranes son dichos populares que guardan una enseñanza. "Más vale pájaro en mano que cien volando" recuerda que conviene valorar lo que ya se tiene antes de arriesgarlo por algo que todavía no es seguro. Reconocerlos es parte de la tradición oral colombiana.
 
@@ -50,14 +51,15 @@ Los refranes son dichos populares que guardan una enseñanza. "Más vale pájaro
 ### Enunciado
 Su mamá le dijo: "Al mal tiempo, buena cara". ¿Qué quiso decirle con ese dicho?
 ### Opciones
-- [x] B) Que mantuviera buen ánimo aunque las cosas no salieran como quería.
-  <!-- feedback: Es correcta porque el dicho invita a conservar el ánimo ante las dificultades. -->
 - [ ] A) Que debía mirar el cielo antes de salir de casa.
   <!-- feedback: Es incorrecta porque el dicho no habla de observar el clima. -->
+- [x] B) Que mantuviera buen ánimo aunque las cosas no salieran como quería.
+  <!-- feedback: Es correcta porque el dicho invita a conservar el ánimo ante las dificultades. -->
 - [ ] C) Que la lluvia de ese día fue la más fuerte del año.
   <!-- feedback: Es incorrecta porque el dicho no compara lluvias. -->
 - [ ] D) Que el uniforme se había dañado con el agua.
   <!-- feedback: Es incorrecta porque el dicho se refiere al ánimo y no a la ropa. -->
+
 ### Explicacion Pedagogica
 Comprender un dicho exige ir más allá de las palabras exactas. "Al mal tiempo, buena cara" no habla del clima, sino de la actitud: cuando algo sale mal, conviene responder con ánimo y no con queja. Este tipo de expresiones se escuchan mucho en las familias colombianas.
 
@@ -78,6 +80,7 @@ Comprender un dicho exige ir más allá de las palabras exactas. "Al mal tiempo,
   <!-- feedback: Es incorrecta porque ese refrán habla de llegar tarde, no de ahorrar. -->
 - [ ] D) "Perro que ladra no muerde".
   <!-- feedback: Es incorrecta porque ese refrán habla de quien amenaza sin actuar. -->
+
 ### Explicacion Pedagogica
 Aplicar un refrán consiste en encontrar la situación que mejor corresponde a su enseñanza. María ahorró poco a poco y así reunió el dinero, igual que la gallina que llena su buche grano a grano. Este ejercicio ayuda a usar el lenguaje figurado en contextos reales.
 
@@ -98,6 +101,7 @@ Aplicar un refrán consiste en encontrar la situación que mejor corresponde a s
   <!-- feedback: Es incorrecta porque ese refrán habla de agrupar cosas semejantes. -->
 - [ ] D) "Ojos que no ven, corazón que no siente".
   <!-- feedback: Es incorrecta porque ese refrán habla de no sufrir por lo que no se sabe. -->
+
 ### Explicacion Pedagogica
 Aplicar un refrán exige reconocer la causa de un problema. El estudiante dejó la tarea para después y por eso se atrasó, tal como advierte "No dejes para mañana lo que puedas hacer hoy". Usar estos dichos permite aconsejar con pocas palabras y hacerse entender.
 
@@ -118,6 +122,7 @@ Aplicar un refrán exige reconocer la causa de un problema. El estudiante dejó 
   <!-- feedback: Es incorrecta porque ese refrán habla de levantarse temprano. -->
 - [ ] D) "Más vale pájaro en mano que cien volando".
   <!-- feedback: Es incorrecta porque ese refrán habla de valorar lo seguro frente a lo dudoso. -->
+
 ### Explicacion Pedagogica
 Relacionar un dicho con una situación permite comprobar si la enseñanza encaja. Sofía no guardó dinero y por eso no pudo comprar el cuaderno; "El que guarda, siempre tiene" resume esa advertencia. Los refranes transmiten consejos que se aprenden escuchando a la familia y a los vecinos.
 
@@ -138,6 +143,7 @@ Relacionar un dicho con una situación permite comprobar si la enseñanza encaja
   <!-- feedback: Es incorrecta porque el dicho critica el descuido, no lo aconseja. -->
 - [ ] D) Que el dicho no tiene ninguna relación con la situación.
   <!-- feedback: Es incorrecta porque el descuido del compañero sí corresponde a la advertencia. -->
+
 ### Explicacion Pedagogica
 Analizar un dicho exige distinguir su sentido literal del figurado. El camarón no es el compañero y la corriente no es el río: ambos representan el descuido y la oportunidad perdida. Comprender esta comparación permite usar los refranes como consejos claros y oportunos.
 
@@ -150,14 +156,15 @@ Analizar un dicho exige distinguir su sentido literal del figurado. El camarón 
 ### Enunciado
 ¿Cuál interpretación del refrán es la más acertada?
 ### Opciones
-- [x] A) Que cambiar la apariencia no basta si no se cambia de verdad.
-  <!-- feedback: Es correcta porque la ropa fina no transforma lo que la persona es en realidad. -->
+- [ ] A) Que a las monas les gusta disfrazarse de personas.
+  <!-- feedback: Es incorrecta porque el refrán no describe el gusto de un animal. -->
 - [ ] B) Que los animales no deben usar ropa.
   <!-- feedback: Es incorrecta porque el refrán usa la mona como ejemplo figurado. -->
 - [ ] C) Que la seda es una tela muy costosa en Colombia.
   <!-- feedback: Es incorrecta porque el refrán no trata del precio de las telas. -->
-- [ ] D) Que a las monas les gusta disfrazarse de personas.
-  <!-- feedback: Es incorrecta porque el refrán no describe el gusto de un animal. -->
+- [x] D) Que cambiar la apariencia no basta si no se cambia de verdad.
+  <!-- feedback: Es correcta porque la ropa fina no transforma lo que la persona es en realidad. -->
+
 ### Explicacion Pedagogica
 Analizar un refrán consiste en descubrir su enseñanza general. "Aunque la mona se vista de seda, mona se queda" enseña que las apariencias no cambian la esencia de una persona. Distinguir el ejemplo figurado de la lección ayuda a interpretar correctamente el lenguaje popular.
 
@@ -170,13 +177,14 @@ Analizar un refrán consiste en descubrir su enseñanza general. "Aunque la mona
 ### Enunciado
 Historia: "Lucía practicó la flauta todos los días durante tres meses y logró tocar la canción completa en el acto del colegio". ¿Cuál refrán resume mejor el final de la historia?
 ### Opciones
-- [x] C) "El que persevera, alcanza".
-  <!-- feedback: Es correcta porque la constancia diaria llevó a Lucía a lograr su meta. -->
 - [ ] A) "Ojos que no ven, corazón que no siente".
   <!-- feedback: Es incorrecta porque el cuento habla de esfuerzo, no de ignorar algo. -->
 - [ ] B) "No por mucho madrugar amanece más temprano".
   <!-- feedback: Es incorrecta porque la historia sí muestra un resultado gracias a la constancia. -->
+- [x] C) "El que persevera, alcanza".
+  <!-- feedback: Es correcta porque la constancia diaria llevó a Lucía a lograr su meta. -->
 - [ ] D) "En casa del herrero, cuchillo de palo".
   <!-- feedback: Es incorrecta porque ese refrán habla de lo que falta donde debería sobrar. -->
+
 ### Explicacion Pedagogica
 Evaluar el mejor refrán exige revisar la idea central del relato. Lucía alcanzó su meta gracias a la práctica diaria, así que "El que persevera, alcanza" resume mejor el final. Comparar varios refranes y escoger el más adecuado fortalece la comprensión y la expresión de ideas.

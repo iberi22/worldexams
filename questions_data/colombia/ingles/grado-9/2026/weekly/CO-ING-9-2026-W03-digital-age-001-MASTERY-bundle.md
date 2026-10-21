@@ -270,9 +270,9 @@ A nivel B2, el estudiante debe reconocer que el Pasado Perfecto Continuo no solo
 
 ### Opciones
 - [ ] A) had rejected / have <!-- feedback: Incorrect. Tenses don't match. -->
-- [x] B) had rejected / had <!-- feedback: Correct! Rejection happened before the pandemic, and the realization followed. -->
+- [ ] B) were rejecting / were having <!-- feedback: Incorrect. "Have" (possession) is a stative verb. -->
 - [ ] C) rejected / had rejected <!-- feedback: Incorrect. The sequence is inverted. -->
-- [ ] D) were rejecting / were having <!-- feedback: Incorrect. "Have" (possession) is a stative verb. -->
+- [x] D) had rejected / had <!-- feedback: Correct! Rejection happened before the pandemic, and the realization followed. -->
 
 ### Explicacion Pedagogica
 Esta pregunta requiere evaluar el orden cronológico lógico: primero se rechaza una idea (*had rejected*), luego llega un cambio externo, y finalmente se tiene una necesidad (*had*).

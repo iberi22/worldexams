@@ -466,14 +466,14 @@ El idiolecto representa el estilo lingüístico singular y único de una persona
 A partir de las explicaciones conceptuales, ¿cuál de las opciones define con precisión este aspecto?
 
 ### Opciones
-- [x] A) La internalización cultural y social de la cosmovisión comunitaria.
-  <!-- feedback: Adquirir la lengua materna permite asimilar la herencia cultural andina. -->
+- [ ] A) El aprendizaje artificial y de memoria en plataformas digitales.
+  <!-- feedback: consiste en un adiestramiento robótico de software de red. -->
 - [ ] B) La transmisión genética biológica de los fonemas del español.
   <!-- feedback: es un proceso puramente celular y hereditario al nacer. -->
 - [ ] C) La prohibición absoluta del bilingüismo en las familias.
   <!-- feedback: restringe la capacidad cognitiva de aprender lenguas originarias. -->
-- [ ] D) El aprendizaje artificial y de memoria en plataformas digitales.
-  <!-- feedback: consiste en un adiestramiento robótico de software de red. -->
+- [x] D) La internalización cultural y social de la cosmovisión comunitaria.
+  <!-- feedback: Adquirir la lengua materna permite asimilar la herencia cultural andina. -->
 
 ### Explicacion Pedagogica
 Adquirir la lengua materna permite asimilar la herencia cultural andina. Este análisis permite comprender las dicotomías saussureanas en la sociedad de Tupiza.

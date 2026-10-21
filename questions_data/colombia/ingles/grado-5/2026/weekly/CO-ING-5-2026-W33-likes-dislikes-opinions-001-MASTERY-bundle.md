@@ -40,6 +40,7 @@ Which words are sports?
   <!-- feedback: Guitar, drums and piano are musical instruments, not sports. -->
 - [ ] D) Dog, cat and bird.
   <!-- feedback: Dog, cat and bird are animals, not sports. -->
+
 ### Explicacion Pedagogica
 Esta pregunta repasa vocabulario básico de deportes en inglés. También ayuda a clasificar palabras de deportes, comidas y música sin confusión.
 
@@ -60,6 +61,7 @@ What does Sara mean?
   <!-- feedback: "Love" means a very strong like for an activity. -->
 - [ ] D) She does not know vallenato.
   <!-- feedback: She mentions vallenato at parties, so she knows this music. -->
+
 ### Explicacion Pedagogica
 El verbo love expresa un gusto muy fuerte por una actividad. También se diferencia de like y hate en opiniones personales en inglés.
 
@@ -80,6 +82,7 @@ Choose the correct form to complete the sentence.
   <!-- feedback: "Played" is past tense and is not used after "like" here. -->
 - [ ] D) plays.
   <!-- feedback: "Plays" is third person present and is not correct after "like". -->
+
 ### Explicacion Pedagogica
 Los verbos like, love y hate se combinan con la forma -ing del verbo. También se practica esta regla con actividades deportivas cotidianas.
 
@@ -100,6 +103,7 @@ What does Luisa like and dislike?
   <!-- feedback: "Loves" shows her like and "hates" shows her strong dislike. -->
 - [ ] D) She hates comics and hates reading.
   <!-- feedback: She loves reading comics, so this option is incorrect. -->
+
 ### Explicacion Pedagogica
 La lectura exige identificar gustos con love y disgustos con hate. También se trabaja la comprensión literal de frases cortas sobre pasatiempos.
 
@@ -120,6 +124,7 @@ What is the correct short answer if his friend loves bandeja paisa?
   <!-- feedback: "Yes, I do" answers the question and "I love it" gives the opinion. -->
 - [ ] D) No, I love it not.
   <!-- feedback: "Love it not" has incorrect word order in English. -->
+
 ### Explicacion Pedagogica
 Las respuestas cortas con Yes I do y No I do not son esenciales. También se añade una opinión con love para expresar gustos por comidas colombianas.
 
@@ -140,6 +145,7 @@ Which rule is correct about these sentences?
   <!-- feedback: Hate also uses -ing here, not past tense. -->
 - [ ] D) Like and hate never use verbs after them.
   <!-- feedback: Both sentences have verbs after like and hate. -->
+
 ### Explicacion Pedagogica
 El análisis confirma que like y hate piden verbo con ing. También se observan ejemplos con música y televisión para fijar la estructura.
 
@@ -160,6 +166,7 @@ Who has a different opinion about spicy ají if two friends love it?
   <!-- feedback: Playing guitar is music and does not talk about ají. -->
 - [ ] D) All friends have the same opinion.
   <!-- feedback: Hate and love are opposite, so opinions are different. -->
+
 ### Explicacion Pedagogica
 Comparar opiniones exige distinguir like, love y hate en contexto. También se analizan gustos sobre deportes, música y comida colombiana.
 
@@ -176,9 +183,10 @@ Which question best asks for an opinion?
   <!-- feedback: This is an order, not a question about opinions. -->
 - [ ] B) You like cumbia or not, answer.
   <!-- feedback: This question is rude and the grammar is not polite. -->
-- [x] C) What is your favorite music? Do you like cumbia?
-  <!-- feedback: These questions are polite and clearly ask for an opinion. -->
-- [ ] D) Cumbia is bad, right?
+- [ ] C) Cumbia is bad, right?
   <!-- feedback: This sentence pushes a negative opinion instead of asking openly. -->
+- [x] D) What is your favorite music? Do you like cumbia?
+  <!-- feedback: These questions are polite and clearly ask for an opinion. -->
+
 ### Explicacion Pedagogica
 Pedir opiniones requiere preguntas abiertas y un tono cortés. También se valora proponer opciones sin imponer el propio gusto musical.

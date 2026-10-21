@@ -34,12 +34,12 @@ creador: "Jules-Agent"
 ¿En qué órgano del sistema digestivo se inicia el proceso de digestión mediante la masticación y la saliva?
 
 ### Opciones
-- [x] C) En la boca.
-  <!-- feedback: La boca realiza la digestión mecánica (dientes) y química inicial (enzimas salivales). -->
 - [ ] A) En el esófago.
   <!-- feedback: El esófago es un conducto de transporte por movimientos peristálticos, no un órgano de masticación. -->
 - [ ] B) En el intestino delgado.
   <!-- feedback: El intestino delgado absorbe nutrientes en etapas posteriores del proceso digestivo. -->
+- [x] C) En la boca.
+  <!-- feedback: La boca realiza la digestión mecánica (dientes) y química inicial (enzimas salivales). -->
 - [ ] D) En el hígado.
   <!-- feedback: El hígado produce bilis y procesa sustancias, pero no interviene en la masticación inicial. -->
 
@@ -57,12 +57,12 @@ Identificación del órgano inicial de la digestión humana y sus funciones prim
 ¿Cuál es el nombre del conducto muscular que conecta la faringe con el estómago?
 
 ### Opciones
-- [x] C) Esófago.
-  <!-- feedback: El esófago conduce el bolo alimenticio hacia el estómago mediante movimientos peristálticos. -->
 - [ ] A) Tráquea.
   <!-- feedback: La tráquea pertenece al sistema respiratorio y conduce aire a los pulmones. -->
 - [ ] B) Intestino grueso.
   <!-- feedback: El intestino grueso absorbe agua y forma la materia fecal en la etapa final. -->
+- [x] C) Esófago.
+  <!-- feedback: El esófago conduce el bolo alimenticio hacia el estómago mediante movimientos peristálticos. -->
 - [ ] D) Páncreas.
   <!-- feedback: El páncreas es una glándula anexa que secreta jugos pancreáticos, no un tubo conductor. -->
 
@@ -80,10 +80,10 @@ Reconocimiento de la anatomía del tubo digestivo y diferenciación con conducto
 ¿Qué tipo de digestión predomina cuando la acidez gástrica y las enzimas descomponen las proteínas en el estómago?
 
 ### Opciones
-- [x] B) Digestión química.
-  <!-- feedback: La acción de enzimas y ácidos para transformar moléculas complejas en simples es digestión química. -->
 - [ ] A) Digestión mecánica.
   <!-- feedback: La digestión mecánica se refiere a la trituración física por dientes o paredes musculares. -->
+- [x] B) Digestión química.
+  <!-- feedback: La acción de enzimas y ácidos para transformar moléculas complejas en simples es digestión química. -->
 - [ ] C) Absorción intestinal.
   <!-- feedback: La absorción intestinal ocurre principalmente en el intestino delgado, no en el estómago. -->
 - [ ] D) Excreción renal.
@@ -103,10 +103,10 @@ Diferenciación conceptual entre digestión mecánica (física) y química (enzi
 ¿Cuál es la función principal de las vellosidades en el intestino delgado?
 
 ### Opciones
-- [x] B) Aumentar la superficie de contacto para absorber los nutrientes hacia el torrente sanguíneo.
-  <!-- feedback: Las vellosidades amplían el área disponible para transferir agua, vitaminas y nutrientes a la sangre. -->
 - [ ] A) Producir saliva para ablandar los alimentos duros.
   <!-- feedback: La saliva es producida por las glándulas salivales situadas en la cavidad bucal. -->
+- [x] B) Aumentar la superficie de contacto para absorber los nutrientes hacia el torrente sanguíneo.
+  <!-- feedback: Las vellosidades amplían el área disponible para transferir agua, vitaminas y nutrientes a la sangre. -->
 - [ ] C) Destruir los glóbulos rojos viejos que pasan por la digestión.
   <!-- feedback: El bazo y el hígado se encargan de reciclar los glóbulos rojos viejos. -->
 - [ ] D) Almacenar aire para la respiración celular del cuerpo.
@@ -126,10 +126,10 @@ Relación entre la estructura anatómica (vellosidades intestinales) y la funci�
 ¿En la digestión de qué tipo de nutrientes interviene fundamentalmente la bilis al emulsionarlos?
 
 ### Opciones
-- [x] B) Grasas o lípidos.
-  <!-- feedback: La bilis emulsiona las grasas en pequeñas gotas facilitando la acción de las lipasas. -->
 - [ ] A) Glúcidos o azúcares sencillos.
   <!-- feedback: Los glúcidos son digeridos por amilasas salivales y pancreáticas. -->
+- [x] B) Grasas o lípidos.
+  <!-- feedback: La bilis emulsiona las grasas en pequeñas gotas facilitando la acción de las lipasas. -->
 - [ ] C) Sales minerales.
   <!-- feedback: Las sales minerales se absorben directamente sin necesidad de emulsión biliar. -->
 - [ ] D) Proteínas de la carne.
@@ -195,14 +195,14 @@ Análisis del orden secuencial de los procesos digestivos desde la ingesta hasta
 ¿Cuál es la justificación biológica que respalda la efectividad del consumo de fibra en el sistema digestivo?
 
 ### Opciones
-- [x] B) La fibra retiene agua en el intestino grueso, aumentando el volumen de las heces y facilitando su evacuación constante.
-  <!-- feedback: La fibra insoluble no se digiere totalmente y actúa como esponja hidratando la masa fecal para un tránsito fluido. -->
 - [ ] A) La fibra destruye todos los ácidos gástricos producidos por el estómago.
   <!-- feedback: La fibra no destruye los jugos gástricos; cumple una función mecánica de tránsito en el intestino. -->
+- [ ] B) La fibra reemplaza la función de bombeo del corazón.
+  <!-- feedback: Afirmación errónea que confunde el sistema digestivo con el sistema circulatorio. -->
 - [ ] C) La fibra se convierte directamente en glucosa pura en la cavidad bucal.
   <!-- feedback: La fibra (celulosa) no es digerida por amilasas humanas en la boca. -->
-- [ ] D) La fibra reemplaza la función de bombeo del corazón.
-  <!-- feedback: Afirmación errónea que confunde el sistema digestivo con el sistema circulatorio. -->
+- [x] D) La fibra retiene agua en el intestino grueso, aumentando el volumen de las heces y facilitando su evacuación constante.
+  <!-- feedback: La fibra insoluble no se digiere totalmente y actúa como esponja hidratando la masa fecal para un tránsito fluido. -->
 
 ### Explicacion Pedagogica
 Evaluación crítica de recomendaciones nutricionales mediante el análisis biológico del tránsito de la fibra dietaria.

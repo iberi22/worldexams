@@ -499,12 +499,12 @@ En la definición formal de $\lim_{x \to a} f(x) = L$, para un $\epsilon > 0$ da
 ### Opciones
 - [ ] A) $\delta = \epsilon$
   <!-- feedback: Incorrecto. Esto no satisface la pendiente de la función. -->
-- [x] B) $\delta = \epsilon/2$
-  <!-- feedback: Correcto. $|(2x-1) - 5| = |2x-6| = 2|x-3|$. Queremos $2|x-3| < \epsilon$, lo cual se cumple si $|x-3| < \epsilon/2$. -->
+- [ ] B) $\delta = \sqrt{\epsilon}$
+  <!-- feedback: Incorrecto. Relación típica de funciones cuadráticas, no lineales. -->
 - [ ] C) $\delta = 2\epsilon$
   <!-- feedback: Incorrecto. El error sería mayor que $\epsilon$. -->
-- [ ] D) $\delta = \sqrt{\epsilon}$
-  <!-- feedback: Incorrecto. Relación típica de funciones cuadráticas, no lineales. -->
+- [x] D) $\delta = \epsilon/2$
+  <!-- feedback: Correcto. $|(2x-1) - 5| = |2x-6| = 2|x-3|$. Queremos $2|x-3| < \epsilon$, lo cual se cumple si $|x-3| < \epsilon/2$. -->
 
 ### Explicacion Pedagogica
 Demostración de la comprensión de la definición rigurosa de límite mediante el cálculo del parámetro delta para una función lineal.

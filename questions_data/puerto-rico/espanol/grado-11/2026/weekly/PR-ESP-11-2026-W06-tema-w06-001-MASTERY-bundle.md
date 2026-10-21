@@ -438,8 +438,8 @@ La evaluación crítica de la ortografía va más allá del castigo escolar o de
 ### Opciones
 - [ ] A) de que / z / en base a <!-- feedback: Incorrecto. Mantiene el error de deísmo agramatical "es obligatorio de que" y de nuevo recurre a la locución prepositiva viciosa calco del italiano "en base a". -->
 - [ ] B) que / s / en base a <!-- feedback: Incorrecto. Aunque corrige el deísmo ("es obligatorio que"), escribe "realisará" con "s" (error ortográfico) y cae en el solecismo de estilo "en base a". -->
-- [x] C) que / z / en <!-- feedback: ¡Correcto! Se elimina de forma idónea el deísmo ("Es obligatorio que", no "obligatorio de que"). El verbo "realizará" se escribe con "z" de realizar. Se utiliza de manera perfecta la locución prepositiva correcta "con base en" (es decir: con base -en- las normativas), completando el texto con impecable idoneidad gramatical. -->
-- [ ] D) de que / c / en relación a de gratis <!-- feedback: Incorrecto. Acumula múltiples e insalvables solecismos de deísmo, ortografía verbal con c ("realicará") y de nuevo utiliza el vicio vulgar de preposición "de gratis". -->
+- [ ] C) de que / c / en relación a de gratis <!-- feedback: Incorrecto. Acumula múltiples e insalvables solecismos de deísmo, ortografía verbal con c ("realicará") y de nuevo utiliza el vicio vulgar de preposición "de gratis". -->
+- [x] D) que / z / en <!-- feedback: ¡Correcto! Se elimina de forma idónea el deísmo ("Es obligatorio que", no "obligatorio de que"). El verbo "realizará" se escribe con "z" de realizar. Se utiliza de manera perfecta la locución prepositiva correcta "con base en" (es decir: con base -en- las normativas), completando el texto con impecable idoneidad gramatical. -->
 
 ### Explicacion Pedagogica
 El rigor de la redacción formal de directrices exige la erradicación del deísmo ("Es obligatorio que") y de locuciones prepositivas agramaticales de estilo ("en base a" o "con base a"). Se consagra como locución prepositiva correcta y elegante del español académico "con base en" o "sobre la base de", unida a la impecable flexión ortográfica de los verbos del idioma ("realizará" con "z").

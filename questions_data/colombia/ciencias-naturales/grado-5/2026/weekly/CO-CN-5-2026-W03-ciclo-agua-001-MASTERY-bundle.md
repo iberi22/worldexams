@@ -34,12 +34,12 @@ Procesos de evaporación, condensación, precipitación, escorrentía y conserva
 ¿Cómo se llama la etapa del ciclo del agua impulsada por el calor del Sol donde el agua se transforma en gas?
 
 ### Opciones
-- [x] C) Evaporación.
-  <!-- feedback: La evaporación ocurre cuando la energía solar transforma el agua líquida superficial en vapor de agua. -->
 - [ ] A) Infiltración.
   <!-- feedback: La infiltración es la penetración del agua líquida en los poros del suelo hacia los acuíferos. -->
 - [ ] B) Solidificación.
   <!-- feedback: La solidificación es la conversión de agua líquida en hielo por pérdida de temperatura. -->
+- [x] C) Evaporación.
+  <!-- feedback: La evaporación ocurre cuando la energía solar transforma el agua líquida superficial en vapor de agua. -->
 - [ ] D) Precipitación.
   <!-- feedback: La precipitación es la caída de agua en forma de lluvia, nieve o granizo desde las nubes. -->
 
@@ -57,14 +57,14 @@ Identificación de los procesos físicos impulsores de las etapas del ciclo biog
 ¿Qué estructura visible en el cielo se origina debido al proceso de condensación del vapor de agua?
 
 ### Opciones
-- [x] D) Las nubes.
-  <!-- feedback: Las nubes son agrupaciones de gotas microscópicas de agua o cristales de hielo formados por condensación. -->
 - [ ] A) Las rocas volcánicas.
   <!-- feedback: Las rocas no se forman por condensación atmosférica del agua. -->
 - [ ] B) Los vientos alisios.
   <!-- feedback: Los vientos son masas de aire en movimiento originadas por diferencias de presión. -->
 - [ ] C) Los terremotos subterráneos.
   <!-- feedback: Los terremotos ocurren por movimientos de placas tectónicas en la litosfera. -->
+- [x] D) Las nubes.
+  <!-- feedback: Las nubes son agrupaciones de gotas microscópicas de agua o cristales de hielo formados por condensación. -->
 
 ### Explicacion Pedagogica
 Comprensión de la formación de nubes a partir de la condensación del vapor de agua en la alta atmósfera.
@@ -103,14 +103,14 @@ Reconocimiento de las modalidades de precipitación atmosférica en el ciclo hid
 ¿Qué proceso biológico vegetal contribuye activamente al retorno del agua a la atmósfera en forma de vapor?
 
 ### Opciones
-- [x] D) Transpiración vegetal.
-  <!-- feedback: La transpiración vegetal libera agua en forma de vapor contribuyendo a la humedad atmosférica. -->
 - [ ] A) Fotosíntesis oscura.
   <!-- feedback: La fotosíntesis produce glucosa y oxígeno, no es el proceso exclusivo de liberación masiva de vapor. -->
 - [ ] B) Infiltración profunda.
   <!-- feedback: La infiltración es el descenso del agua en el suelo, no la salida hacia la atmósfera. -->
 - [ ] C) Germinación de semillas.
   <!-- feedback: La germinación es el desarrollo del embrión vegetal para dar origen a una nueva planta. -->
+- [x] D) Transpiración vegetal.
+  <!-- feedback: La transpiración vegetal libera agua en forma de vapor contribuyendo a la humedad atmosférica. -->
 
 ### Explicacion Pedagogica
 Comprensión de la contribución de los seres vivos (transpiración de la cobertura vegetal) al ciclo hídrico.
@@ -126,14 +126,14 @@ Comprensión de la contribución de los seres vivos (transpiración de la cobert
 ¿Cómo se denomina este desplazamiento superficial de las aguas de lluvia hacia los cauces fluviales?
 
 ### Opciones
-- [x] D) Escorrentía.
-  <!-- feedback: La escorrentía es la circulación de agua de lluvia sobre la superficie terrestre hacia ríos y mares. -->
 - [ ] A) Condensación.
   <!-- feedback: La condensación es el cambio de gas a líquido en las nubes. -->
 - [ ] B) Congelación.
   <!-- feedback: La congelación es el paso de líquido a hielo por temperaturas bajo 0 °C. -->
 - [ ] C) Evaporación.
   <!-- feedback: La evaporación es el ascenso del vapor de agua al aire. -->
+- [x] D) Escorrentía.
+  <!-- feedback: La escorrentía es la circulación de agua de lluvia sobre la superficie terrestre hacia ríos y mares. -->
 
 ### Explicacion Pedagogica
 Identificación de la escorrentía como mecanismo de drenaje y transporte de agua superficial.
@@ -172,14 +172,14 @@ Análisis del impacto de la cobertura vegetal y la impermeabilización del suelo
 ¿Qué impacto negativo directo provoca la deforestación en el ciclo del agua de esta cuenca hidrográfica?
 
 ### Opciones
-- [x] D) Reduce la evapotranspiración, disminuye las lluvias locales y aumenta los riesgos de erosión por escorrentía sin freno.
-  <!-- feedback: Sin árboles disminuye el vapor devuelto a la atmósfera y la capa vegetal retenedora, erosionando el suelo. -->
 - [ ] A) Aumenta la producción de glaciares en las cumbres montañosas.
   <!-- feedback: La deforestación no genera la creación de glaciares; al contrario, altera el microclima aumentando temperaturas. -->
-- [ ] B) Detiene por completo la evaporación del agua de todos los mares del planeta.
-  <!-- feedback: La evaporación marina continúa por acción del Sol independientemente de la vegetación continental. -->
+- [x] B) Reduce la evapotranspiración, disminuye las lluvias locales y aumenta los riesgos de erosión por escorrentía sin freno.
+  <!-- feedback: Sin árboles disminuye el vapor devuelto a la atmósfera y la capa vegetal retenedora, erosionando el suelo. -->
 - [ ] C) Transforma el agua dulce de los ríos en agua salada instantáneamente.
   <!-- feedback: La salinidad depende de minerales disueltos, no directamente de la presencia inmediata de árboles. -->
+- [ ] D) Detiene por completo la evaporación del agua de todos los mares del planeta.
+  <!-- feedback: La evaporación marina continúa por acción del Sol independientemente de la vegetación continental. -->
 
 ### Explicacion Pedagogica
 Análisis de las consecuencias ecológicas de las actividades humanas sobre las fases del ciclo hidrológico.
@@ -195,12 +195,12 @@ Análisis de las consecuencias ecológicas de las actividades humanas sobre las 
 ¿Cuál es el argumento ecológico de mayor peso que justifica la posición del equipo de ecólogos?
 
 ### Opciones
-- [x] C) Canalizar destruye las zonas de inundación natural, reduce la infiltración a acuíferos y aumenta las inundaciones severas aguas abajo.
-  <!-- feedback: Eliminar la sinuosidad y lecho natural reduce la absorción, acelera el caudal y genera destructivas avenidas torrenciales en partes bajas. -->
 - [ ] A) El concreto disuelve todo el oxígeno del aire evitando que llueva en el departamento.
   <!-- feedback: El concreto no disuelve el oxígeno atmosférico ni detiene la condensación en nubes altiplánicas. -->
 - [ ] B) Los ríos rectos impiden que los peces puedan nadar en cualquier dirección.
   <!-- feedback: Aunque altera hábitats acuáticos, la razón de mayor impacto hidrológico es el riesgo de inundaciones y falta de recarga hídrica. -->
+- [x] C) Canalizar destruye las zonas de inundación natural, reduce la infiltración a acuíferos y aumenta las inundaciones severas aguas abajo.
+  <!-- feedback: Eliminar la sinuosidad y lecho natural reduce la absorción, acelera el caudal y genera destructivas avenidas torrenciales en partes bajas. -->
 - [ ] D) El ciclo del agua solo funciona en ríos con agua salada.
   <!-- feedback: El ciclo hidrológico involucra aguas continentales dulces y marinas saladas por igual. -->
 

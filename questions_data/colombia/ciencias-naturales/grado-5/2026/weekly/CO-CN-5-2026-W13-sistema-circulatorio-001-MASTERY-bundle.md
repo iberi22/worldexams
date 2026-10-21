@@ -34,14 +34,14 @@ Anatomía y función del corazón, composición de la sangre y tipos de vasos sa
 ¿Cuál es el órgano encargado de bombear la sangre a todo el cuerpo?
 
 ### Opciones
-- [x] D) El corazón.
-  <!-- feedback: El corazón es el órgano muscular que impulsa la sangre por todo el cuerpo. -->
 - [ ] A) Los pulmones.
   <!-- feedback: Los pulmones realizan el intercambio de gases, pero no bombean la sangre. -->
 - [ ] B) El estómago.
   <!-- feedback: El estómago participa en la digestión de los alimentos, no en la circulación. -->
 - [ ] C) Los riñones.
   <!-- feedback: Los riñones filtran la sangre, pero no la impulsan por el cuerpo. -->
+- [x] D) El corazón.
+  <!-- feedback: El corazón es el órgano muscular que impulsa la sangre por todo el cuerpo. -->
 
 ### Explicacion Pedagogica
 Identificación del corazón como el órgano central que impulsa la sangre a través de los vasos sanguíneos.
@@ -57,14 +57,14 @@ Identificación del corazón como el órgano central que impulsa la sangre a tra
 ¿Cuál es la función principal de la sangre en el cuerpo humano?
 
 ### Opciones
-- [x] D) Transportar oxígeno y nutrientes a las células y recoger los desechos.
-  <!-- feedback: La sangre actúa como medio de transporte de sustancias por todo el organismo. -->
 - [ ] A) Producir la energía que el cuerpo necesita para moverse.
   <!-- feedback: La energía proviene de los alimentos y el oxígeno, no de la sangre directamente. -->
 - [ ] B) Digerir los alimentos dentro del estómago.
   <!-- feedback: La digestión ocurre en el sistema digestivo, no en la sangre. -->
 - [ ] C) Sostener los huesos del esqueleto.
   <!-- feedback: Los huesos se sostienen por su propia estructura, no por la sangre. -->
+- [x] D) Transportar oxígeno y nutrientes a las células y recoger los desechos.
+  <!-- feedback: La sangre actúa como medio de transporte de sustancias por todo el organismo. -->
 
 ### Explicacion Pedagogica
 Comprensión de la sangre como tejido transportador de oxígeno, nutrientes y desechos a todas las células.
@@ -80,14 +80,14 @@ Comprensión de la sangre como tejido transportador de oxígeno, nutrientes y de
 ¿Cuál es la función de las arterias en el sistema circulatorio?
 
 ### Opciones
-- [x] D) Llevar la sangre desde el corazón hacia los demás órganos.
-  <!-- feedback: Las arterias conducen la sangre impulsada por el corazón hacia los tejidos. -->
 - [ ] A) Llevar la sangre desde los órganos hasta el corazón.
   <!-- feedback: Esa es la función de las venas, no de las arterias. -->
 - [ ] B) Producir los glóbulos blancos que defienden el cuerpo.
   <!-- feedback: Los glóbulos blancos se forman en la médula ósea, no en las paredes de las arterias. -->
 - [ ] C) Almacenar el aire que respiramos.
   <!-- feedback: El aire se aloja en los pulmones, no en las arterias. -->
+- [x] D) Llevar la sangre desde el corazón hacia los demás órganos.
+  <!-- feedback: Las arterias conducen la sangre impulsada por el corazón hacia los tejidos. -->
 
 ### Explicacion Pedagogica
 Aplicación del conocimiento sobre los vasos sanguíneos para distinguir la función de las arterias en la circulación.
@@ -103,14 +103,14 @@ Aplicación del conocimiento sobre los vasos sanguíneos para distinguir la func
 ¿Por qué el corazón late más rápido durante el ejercicio?
 
 ### Opciones
-- [x] D) Porque el cuerpo necesita llevar más oxígeno y nutrientes a los músculos que trabajan.
-  <!-- feedback: Al aumentar la actividad muscular, la sangre debe transportar más oxígeno y energía. -->
 - [ ] A) Porque los músculos dejan de necesitar sangre mientras se mueven.
   <!-- feedback: Durante el ejercicio los músculos requieren más sangre, no menos. -->
 - [ ] B) Porque el corazón se detiene para tomar un descanso.
   <!-- feedback: Si el corazón se detuviera, la circulación cesaría por completo. -->
 - [ ] C) Porque la sangre se convierte en aire dentro del pecho.
   <!-- feedback: La sangre no se transforma en aire; transporta el oxígeno que llega de los pulmones. -->
+- [x] D) Porque el cuerpo necesita llevar más oxígeno y nutrientes a los músculos que trabajan.
+  <!-- feedback: Al aumentar la actividad muscular, la sangre debe transportar más oxígeno y energía. -->
 
 ### Explicacion Pedagogica
 Explicación de la relación entre la actividad física, la demanda de oxígeno y el aumento de la frecuencia cardíaca.
@@ -126,14 +126,14 @@ Explicación de la relación entre la actividad física, la demanda de oxígeno 
 ¿Qué componente de la sangre participa en la coagulación y ayuda a cerrar la herida?
 
 ### Opciones
-- [x] D) Las plaquetas.
+- [x] A) Las plaquetas.
   <!-- feedback: Las plaquetas forman coágulos que sellan las heridas y detienen el sangrado. -->
-- [ ] A) El plasma.
-  <!-- feedback: El plasma es el componente líquido que transporta células y sustancias. -->
 - [ ] B) Los glóbulos rojos.
   <!-- feedback: Los glóbulos rojos transportan oxígeno, pero no forman coágulos. -->
 - [ ] C) Los bronquios.
   <!-- feedback: Los bronquios pertenecen al sistema respiratorio, no a la sangre. -->
+- [ ] D) El plasma.
+  <!-- feedback: El plasma es el componente líquido que transporta células y sustancias. -->
 
 ### Explicacion Pedagogica
 Identificación de las plaquetas como células encargadas de la coagulación y el cierre de las heridas.
@@ -149,14 +149,14 @@ Identificación de las plaquetas como células encargadas de la coagulación y e
 ¿Qué conclusión explica mejor la diferencia de grosor entre arterias y venas?
 
 ### Opciones
-- [x] D) Las arterias soportan mayor presión porque la sangre sale impulsada por el corazón.
-  <!-- feedback: La presión del bombeo cardíaco exige paredes más gruesas y resistentes en las arterias. -->
 - [ ] A) Las venas son más gruesas porque llevan más sangre que las arterias.
   <!-- feedback: No es el volumen lo que determina el grosor, sino la presión a la que circula la sangre. -->
-- [ ] B) El grosor depende del color de la sangre que transportan.
-  <!-- feedback: El color de la sangre no determina la estructura de la pared del vaso. -->
+- [x] B) Las arterias soportan mayor presión porque la sangre sale impulsada por el corazón.
+  <!-- feedback: La presión del bombeo cardíaco exige paredes más gruesas y resistentes en las arterias. -->
 - [ ] C) Las arterias son delgadas para que la sangre fluya más despacio.
   <!-- feedback: Las arterias son gruesas precisamente para resistir la presión del flujo. -->
+- [ ] D) El grosor depende del color de la sangre que transportan.
+  <!-- feedback: El color de la sangre no determina la estructura de la pared del vaso. -->
 
 ### Explicacion Pedagogica
 Análisis comparativo de la estructura de arterias y venas en relación con la presión sanguínea.
@@ -172,12 +172,12 @@ Análisis comparativo de la estructura de arterias y venas en relación con la p
 ¿Qué se puede concluir sobre la relación entre el corazón, los pulmones y los vasos sanguíneos?
 
 ### Opciones
-- [x] C) Forman un circuito cerrado donde el corazón impulsa la sangre que lleva oxígeno y recoge desechos.
-  <!-- feedback: La circulación es un circuito continuo que conecta el corazón, los pulmones y todos los tejidos. -->
 - [ ] A) Cada órgano trabaja de forma aislada sin conectarse con los demás.
   <!-- feedback: La circulación exige la conexión permanente entre corazón, pulmones y vasos. -->
 - [ ] B) La sangre solo circula por los pulmones y nunca llega a las piernas.
   <!-- feedback: La sangre llega a todas las regiones del cuerpo, incluidas las extremidades. -->
+- [x] C) Forman un circuito cerrado donde el corazón impulsa la sangre que lleva oxígeno y recoge desechos.
+  <!-- feedback: La circulación es un circuito continuo que conecta el corazón, los pulmones y todos los tejidos. -->
 - [ ] D) El corazón solo funciona cuando la persona está dormida.
   <!-- feedback: El corazón late de manera continua durante toda la vida, despierto o dormido. -->
 

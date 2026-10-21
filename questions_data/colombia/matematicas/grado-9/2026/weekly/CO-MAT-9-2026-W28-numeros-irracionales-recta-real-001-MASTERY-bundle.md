@@ -32,14 +32,15 @@ Este bundle contiene 12 preguntas sobre **numeros-irracionales-recta-real** para
 ### Enunciado
 ¿Cuál de los siguientes números es irracional?
 ### Opciones
-- [x] C) La raíz cuadrada de 2
-  <!-- feedback: Correcto. La raíz cuadrada de 2 no puede expresarse como fracción de enteros. -->
 - [ ] A) Tres cuartos (3/4)
   <!-- feedback: Incorrecto. Tres cuartos es una fracción de enteros, por lo tanto es racional. -->
 - [ ] B) Cero punto cinco (0.5)
   <!-- feedback: Incorrecto. Este decimal termina y equivale a 1/2, por lo tanto es racional. -->
+- [x] C) La raíz cuadrada de 2
+  <!-- feedback: Correcto. La raíz cuadrada de 2 no puede expresarse como fracción de enteros. -->
 - [ ] D) Menos seis (-6)
   <!-- feedback: Incorrecto. Todo número entero es racional. -->
+
 ### Explicacion Pedagogica
 Un número irracional no puede escribirse como cociente de dos enteros; la raíz cuadrada de 2 es el ejemplo clásico.
 
@@ -52,14 +53,15 @@ Un número irracional no puede escribirse como cociente de dos enteros; la raíz
 ### Enunciado
 ¿Qué caracteriza a un número irracional?
 ### Opciones
-- [x] C) No puede expresarse como fracción de enteros y su expansión decimal es infinita no periódica
-  <!-- feedback: Correcto. Esa es la definición precisa de número irracional. -->
 - [ ] A) Siempre es un número negativo
   <!-- feedback: Incorrecto. Hay irracionales positivos como pi y la raíz cuadrada de 2. -->
 - [ ] B) Es el cociente de dos números enteros
   <!-- feedback: Incorrecto. Esa es la definición de número racional. -->
+- [x] C) No puede expresarse como fracción de enteros y su expansión decimal es infinita no periódica
+  <!-- feedback: Correcto. Esa es la definición precisa de número irracional. -->
 - [ ] D) Su expansión decimal siempre termina
   <!-- feedback: Incorrecto. Si el decimal termina, el número es racional. -->
+
 ### Explicacion Pedagogica
 Los irracionales tienen decimales infinitos sin periodo que se repita, por eso no admiten forma de fracción exacta.
 
@@ -72,14 +74,15 @@ Los irracionales tienen decimales infinitos sin periodo que se repita, por eso n
 ### Enunciado
 Con esa aproximación, ¿dónde se ubica correctamente la raíz cuadrada de 5?
 ### Opciones
-- [x] D) Entre 2 y 3, más cerca de 2
-  <!-- feedback: Correcto. Como 2.236 está entre 2 y 3 y más próximo a 2. -->
 - [ ] A) Entre 3 y 4
   <!-- feedback: Incorrecto. La raíz cuadrada de 9 es 3, y 5 es menor que 9. -->
 - [ ] B) Entre 1 y 2
   <!-- feedback: Incorrecto. La raíz cuadrada de 4 es 2, y 5 es mayor que 4. -->
 - [ ] C) Es exactamente igual a 2.5
   <!-- feedback: Incorrecto. 2.5 al cuadrado es 6.25, no 5. -->
+- [x] D) Entre 2 y 3, más cerca de 2
+  <!-- feedback: Correcto. Como 2.236 está entre 2 y 3 y más próximo a 2. -->
+
 ### Explicacion Pedagogica
 Como 4 < 5 < 9, la raíz cuadrada de 5 está entre 2 y 3; con 2.236 se confirma que está más cerca de 2.
 
@@ -92,14 +95,15 @@ Como 4 < 5 < 9, la raíz cuadrada de 5 está entre 2 y 3; con 2.236 se confirma 
 ### Enunciado
 ¿Cuál de los siguientes números es racional?
 ### Opciones
-- [x] C) La raíz cuadrada de 9
-  <!-- feedback: Correcto. La raíz cuadrada de 9 es 3, que es un número entero y racional. -->
 - [ ] A) La raíz cuadrada de 7
   <!-- feedback: Incorrecto. Como 7 no es cuadrado perfecto, su raíz es irracional. -->
 - [ ] B) El número pi
   <!-- feedback: Incorrecto. Pi es irracional, con decimales infinitos no periódicos. -->
+- [x] C) La raíz cuadrada de 9
+  <!-- feedback: Correcto. La raíz cuadrada de 9 es 3, que es un número entero y racional. -->
 - [ ] D) Cero punto uno cero uno cero cero uno cero cero cero uno, con patrón creciente de ceros
   <!-- feedback: Incorrecto. Ese decimal infinito no periódico es irracional. -->
+
 ### Explicacion Pedagogica
 La raíz cuadrada de un cuadrado perfecto es entera; la raíz cuadrada de 9 es 3, racional, mientras las demás opciones son irracionales.
 
@@ -120,6 +124,7 @@ La raíz cuadrada de un cuadrado perfecto es entera; la raíz cuadrada de 9 es 3
   <!-- feedback: Incorrecto. Menos 2.236 es mayor que menos 3. -->
 - [ ] D) Entre 2 y 3
   <!-- feedback: Incorrecto. Olvidaste el signo negativo del número. -->
+
 ### Explicacion Pedagogica
 Multiplicar por menos uno invierte el orden: si 2 < raíz de 5 < 3, entonces menos 3 < menos raíz de 5 < menos 2.
 
@@ -140,6 +145,7 @@ Multiplicar por menos uno invierte el orden: si 2 < raíz de 5 < 3, entonces men
   <!-- feedback: Incorrecto. 6.414 es solo una aproximación con tres decimales. -->
 - [ ] D) Cero
   <!-- feedback: Incorrecto. La suma de dos positivos no puede ser cero. -->
+
 ### Explicacion Pedagogica
 Sumar un racional (5) con un irracional (raíz de 2) nunca elimina la parte decimal infinita no periódica; el resultado sigue siendo irracional.
 
@@ -152,14 +158,15 @@ Sumar un racional (5) con un irracional (raíz de 2) nunca elimina la parte deci
 ### Enunciado
 Usando raíz de 2 como 1.414 y pi medios como 1.571, ¿cuál es el orden correcto de menor a mayor?
 ### Opciones
-- [x] D) Raíz de 2 < 1.5 < pi medios
-  <!-- feedback: Correcto. Se cumple 1.414 < 1.5 < 1.571. -->
 - [ ] A) 1.5 < raíz de 2 < pi medios
   <!-- feedback: Incorrecto. 1.5 es mayor que 1.414, no menor. -->
 - [ ] B) Pi medios < 1.5 < raíz de 2
   <!-- feedback: Incorrecto. Pi medios es el mayor de los tres, no el menor. -->
 - [ ] C) Raíz de 2 < pi medios < 1.5
   <!-- feedback: Incorrecto. Pi medios vale 1.571, que es mayor que 1.5. -->
+- [x] D) Raíz de 2 < 1.5 < pi medios
+  <!-- feedback: Correcto. Se cumple 1.414 < 1.5 < 1.571. -->
+
 ### Explicacion Pedagogica
 Al convertir a decimales se comparan directamente: 1.414 < 1.500 < 1.571, lo que define el orden en la recta real.
 
@@ -172,14 +179,15 @@ Al convertir a decimales se comparan directamente: 1.414 < 1.500 < 1.571, lo que
 ### Enunciado
 ¿Cuántos números irracionales hay entre 1.4 y 1.5?
 ### Opciones
-- [x] C) Infinitos
-  <!-- feedback: Correcto. Entre dos reales distintos siempre hay infinitos irracionales por la densidad. -->
 - [ ] A) Ninguno
   <!-- feedback: Incorrecto. La raíz cuadrada de 2 (1.414) ya está en ese intervalo. -->
 - [ ] B) Exactamente uno
   <!-- feedback: Incorrecto. Además de la raíz de 2 hay muchos más, como 1.4142135 con más cifras. -->
+- [x] C) Infinitos
+  <!-- feedback: Correcto. Entre dos reales distintos siempre hay infinitos irracionales por la densidad. -->
 - [ ] D) Solo la raíz cuadrada de 2
   <!-- feedback: Incorrecto. Ese es un ejemplo, pero existen infinitos más en el intervalo. -->
+
 ### Explicacion Pedagogica
 Los irracionales son densos en la recta real: entre cualquier par de números distintos hay infinitos irracionales.
 
@@ -192,14 +200,15 @@ Los irracionales son densos en la recta real: entre cualquier par de números di
 ### Enunciado
 ¿Qué comparación entre la raíz cuadrada de 50 y 7 es correcta?
 ### Opciones
-- [x] C) La raíz de 50 es mayor que 7, porque 50 es mayor que 49
-  <!-- feedback: Correcto. Como 7 al cuadrado es 49 y 50 > 49, la raíz de 50 supera a 7. -->
 - [ ] A) La raíz de 50 es menor que 7
   <!-- feedback: Incorrecto. 7 al cuadrado es 49, menor que 50. -->
 - [ ] B) La raíz de 50 es igual a 7
   <!-- feedback: Incorrecto. Solo la raíz de 49 es exactamente 7. -->
+- [x] C) La raíz de 50 es mayor que 7, porque 50 es mayor que 49
+  <!-- feedback: Correcto. Como 7 al cuadrado es 49 y 50 > 49, la raíz de 50 supera a 7. -->
 - [ ] D) La raíz de 50 es mayor que 8
   <!-- feedback: Incorrecto. 8 al cuadrado es 64, muy superior a 50. -->
+
 ### Explicacion Pedagogica
 Elevar al cuadrado preserva el orden en positivos: 49 < 50 implica 7 < raíz de 50; además raíz de 50 es 5 veces raíz de 2, cerca de 7.07.
 
@@ -220,6 +229,7 @@ Elevar al cuadrado preserva el orden en positivos: 49 < 50 implica 7 < raíz de 
   <!-- feedback: Incorrecto. 3.14 es un truncamiento; pi tiene más cifras decimales. -->
 - [ ] D) A la izquierda de 3
   <!-- feedback: Incorrecto. Pi es mayor que 3. -->
+
 ### Explicacion Pedagogica
 En la recta real, el mayor queda a la derecha: pi (3.1416) supera a 3.14, así que su punto está a la derecha.
 
@@ -232,14 +242,15 @@ En la recta real, el mayor queda a la derecha: pi (3.1416) supera a 3.14, así q
 ### Enunciado
 ¿Cuál es la evaluación correcta de la afirmación de Lucía?
 ### Opciones
-- [x] C) Es falsa: los decimales infinitos periódicos como 0.333 son racionales
-  <!-- feedback: Correcto. 0.333 equivale a 1/3, una fracción exacta. -->
 - [ ] A) Es verdadera: ningún decimal infinito puede ser fracción
   <!-- feedback: Incorrecto. Los periódicos infinitos sí admiten forma de fracción. -->
-- [ ] B) Es verdadera solo para los números negativos
+- [x] B) Es falsa: los decimales infinitos periódicos como 0.333 son racionales
+  <!-- feedback: Correcto. 0.333 equivale a 1/3, una fracción exacta. -->
+- [ ] C) Es verdadera solo para los números negativos
   <!-- feedback: Incorrecto. El signo no determina si un decimal es periódico o no. -->
 - [ ] D) Es falsa porque pi es racional
   <!-- feedback: Incorrecto. Pi sí es irracional; el contraejemplo correcto es 0.333. -->
+
 ### Explicacion Pedagogica
 La clave es el periodo: infinitos con periodo (0.333, 0.4545) son racionales; solo los infinitos no periódicos son irracionales.
 
@@ -252,13 +263,14 @@ La clave es el periodo: infinitos con periodo (0.333, 0.4545) son racionales; so
 ### Enunciado
 ¿Cuál es el error cometido?
 ### Opciones
-- [x] D) Es incorrecto: la suma vale cerca de 3.146, mientras la raíz de 5 vale cerca de 2.236
-  <!-- feedback: Correcto. Las raíces no se suman por dentro del radical. -->
 - [ ] A) No hay error: la igualdad es correcta
   <!-- feedback: Incorrecto. Al elevar 3.146 al cuadrado se obtiene cerca de 9.9, no 5. -->
 - [ ] B) El error es que el resultado correcto es la raíz de 6
   <!-- feedback: Incorrecto. La raíz de 6 viene de multiplicar, no de sumar. -->
 - [ ] C) El error es que el resultado correcto es 5
   <!-- feedback: Incorrecto. Sumar radicales no equivale a sumar los radicandos. -->
+- [x] D) Es incorrecto: la suma vale cerca de 3.146, mientras la raíz de 5 vale cerca de 2.236
+  <!-- feedback: Correcto. Las raíces no se suman por dentro del radical. -->
+
 ### Explicacion Pedagogica
 1.414 + 1.732 = 3.146, distinto de 2.236; las raíces de sumandos no se combinan sumando los radicandos.

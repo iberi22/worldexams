@@ -462,12 +462,12 @@ La pendiente resbaladiza consiste en argumentar que si realizamos una acción, o
 ### Opciones
 - [ ] A) Contradicción flagrante entre la primera premisa sobre la vida y la conclusión.
   <!-- feedback: Incorrecto. No hay contradicción; las ideas son coherentes temáticamente entre sí. -->
-- [x] B) Razonamiento circular (petición de principio), al repetir la misma premisa sin aportar pruebas externas ni argumentos de desarrollo.
-  <!-- feedback: Correcto. El fragmento da vueltas sobre el mismo concepto de 'agua limpia' y 'río limpio' sin avanzar lógicamente en razones concretas de preservación. -->
+- [ ] B) Sesgo geográfico al mencionar únicamente la provincia de Cartago.
+  <!-- feedback: Incorrecto. Mencionar una región específica pertinente al contexto de la tesis no constituye un defecto lógico-argumentativo. -->
 - [ ] C) Uso excesivo de tecnicismos que entorpecen la comprensión lectora general.
   <!-- feedback: Incorrecto. El lenguaje es sencillo y no utiliza ningún tecnicismo químico ni fórmulas científicas. -->
-- [ ] D) Sesgo geográfico al mencionar únicamente la provincia de Cartago.
-  <!-- feedback: Incorrecto. Mencionar una región específica pertinente al contexto de la tesis no constituye un defecto lógico-argumentativo. -->
+- [x] D) Razonamiento circular (petición de principio), al repetir la misma premisa sin aportar pruebas externas ni argumentos de desarrollo.
+  <!-- feedback: Correcto. El fragmento da vueltas sobre el mismo concepto de 'agua limpia' y 'río limpio' sin avanzar lógicamente en razones concretas de preservación. -->
 
 ### Explicacion Pedagogica
 La petición de principio o razonamiento circular ocurre cuando la conclusión de un argumento ya está implícita o explícitamente contenida en las premisas de partida.
