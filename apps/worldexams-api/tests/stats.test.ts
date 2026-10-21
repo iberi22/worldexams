@@ -114,7 +114,7 @@ describe("stats helpers", () => {
       generatedAt: "x",
       hosts: DEFAULT_STATS_HOSTS,
     });
-    expect(out.totals).toEqual({ pageLoads: 15, visits: 5 });
+    expect(out.totals).toEqual({ pageLoads: 15, visits: 5, countries: 1 });
     expect(out.byCountry).toEqual([{ country: "CO", iso2: "CO", pageLoads: 15, visits: 5, pct: 100 }]);
     expect(out.byDay).toHaveLength(7);
   });
@@ -129,7 +129,7 @@ describe("GET /v1/stats/traffic", () => {
 
     expect(body.days).toBe(7);
     expect(body.generatedAt).toBe("2026-10-20T15:42:00.000Z");
-    expect(body.totals).toEqual({ pageLoads: 80, visits: 50 });
+    expect(body.totals).toEqual({ pageLoads: 80, visits: 50, countries: 2 });
     expect(body.byCountry[0]).toEqual({ country: "CO", iso2: "CO", pageLoads: 60, visits: 35, pct: 75 });
     expect(body.byCountry[1]).toMatchObject({ country: "MX", iso2: "MX", pct: 18.8 });
     expect(body.byCountry[2].iso2).toBeUndefined();
@@ -204,6 +204,29 @@ describe("GET /v1/stats/traffic", () => {
     expect(body.topPaths).toContainEqual({ path: "/informes/bot/:token", pageLoads: 10 });
     expect(body.topPaths.every((p: any) => p.pageLoads >= 3)).toBe(true);
     expect(body.topReferrers.every((r: any) => r.pageLoads >= 3)).toBe(true);
+  });
+
+  it("folds countries under 3 loads into OTROS and counts them before suppression", async () => {
+    const account = {
+      ...sampleAccount(),
+      w0_countries: [
+        { count: 70, sum: { visits: 40 }, dimensions: { countryName: "CO" } },
+        { count: 4, sum: { visits: 3 }, dimensions: { countryName: "MX" } },
+        { count: 2, sum: { visits: 2 }, dimensions: { countryName: "UY" } },
+        { count: 1, sum: { visits: 1 }, dimensions: { countryName: "IS" } },
+        { count: 2, sum: { visits: 2 }, dimensions: { countryName: "XX" } },
+        { count: 1, sum: { visits: 1 }, dimensions: { countryName: "PE" } },
+      ],
+    };
+    const res = await handleTrafficStats(req(), env, { fetch: vi.fn(async () => graphqlOk(account)) as any, cache: null, now: () => NOW });
+    const body: any = await res.json();
+    expect(body.byCountry.map((c: any) => c.country)).toEqual(["CO", "MX", "OTROS"]);
+    expect(body.byCountry[2]).toEqual({ country: "OTROS", pageLoads: 6, visits: 6, pct: 7.5 });
+    expect(body.byCountry[2].iso2).toBeUndefined();
+    const text = JSON.stringify(body.byCountry);
+    for (const code of ["UY", "IS", "PE", "XX"]) expect(text).not.toContain(code);
+    // CO, MX, UY, IS, PE: counted before folding; XX (unknown) is not a country.
+    expect(body.totals.countries).toBe(5);
   });
 
   it("returns 503 STATS_NOT_CONFIGURED without token or account id", async () => {

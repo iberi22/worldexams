@@ -28,7 +28,8 @@ export interface TrafficStats {
   generatedAt: string
   days: number
   hosts: string[]
-  totals: { pageLoads: number; visits: number }
+  /** `countries` counts every country seen, before small ones are folded into OTROS. */
+  totals: { pageLoads: number; visits: number; countries: number }
   byCountry: Array<{ country: string; iso2?: string; pageLoads: number; visits: number; pct: number }>
   byDay: Array<{ date: string; pageLoads: number }>
   topPaths: Array<{ path: string; pageLoads: number }>
@@ -46,8 +47,10 @@ const HOUR_MS = 60 * 60 * 1000
 const MAX_WINDOW_DAYS = 30
 const TOP_PATHS = 15
 const TOP_REFERRERS = 10
-/** Paths and referrers below this many page loads are not published (k-anonymity floor). */
+/** Paths, referrers and countries below this many page loads are not published on their own (k-anonymity floor). */
 export const MIN_PUBLISHED_LOADS = 3
+/** Bucket for countries under MIN_PUBLISHED_LOADS. */
+export const OTHER_COUNTRIES = "OTROS"
 /** Routes whose dynamic segment is a secret (e.g. per-student report links). */
 const SECRET_ROUTES = ["/informes/bot/"]
 /** A segment that looks like a token: 16+ alphanumeric chars, or a UUID. */
@@ -178,18 +181,33 @@ export function aggregateTraffic(
     if (date > lastDate) byDay.push({ date, pageLoads: v.pageLoads })
   }
 
-  return {
-    generatedAt: opts.generatedAt,
-    days: opts.days,
-    hosts: opts.hosts,
-    totals,
-    byCountry: sorted(countries).map(([code, v]) => ({
+  // Small countries are folded into one OTROS row so a single visit cannot single out a country.
+  const byCountry: TrafficStats["byCountry"] = []
+  const other = { pageLoads: 0, visits: 0 }
+  for (const [code, v] of sorted(countries)) {
+    if (v.pageLoads < MIN_PUBLISHED_LOADS) {
+      other.pageLoads += v.pageLoads
+      other.visits += v.visits
+      continue
+    }
+    byCountry.push({
       country: code,
       ...(/^[A-Z]{2}$/.test(code) && code !== "XX" ? { iso2: code } : {}),
       pageLoads: v.pageLoads,
       visits: v.visits,
       pct: pct(v.pageLoads, totals.pageLoads),
-    })),
+    })
+  }
+  if (other.pageLoads > 0) {
+    byCountry.push({ country: OTHER_COUNTRIES, ...other, pct: pct(other.pageLoads, totals.pageLoads) })
+  }
+
+  return {
+    generatedAt: opts.generatedAt,
+    days: opts.days,
+    hosts: opts.hosts,
+    totals: { ...totals, countries: Array.from(countries.keys()).filter((c) => /^[A-Z]{2}$/.test(c) && c !== "XX").length },
+    byCountry,
     byDay,
     topPaths: sorted(paths).filter(([, v]) => v.pageLoads >= MIN_PUBLISHED_LOADS).slice(0, TOP_PATHS).map(([path, v]) => ({ path, pageLoads: v.pageLoads })),
     byDevice: sorted(devices).map(([device, v]) => ({ device, pageLoads: v.pageLoads, pct: pct(v.pageLoads, totals.pageLoads) })),

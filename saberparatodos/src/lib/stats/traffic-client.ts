@@ -10,7 +10,8 @@ export interface TrafficStats {
   generatedAt: string;
   days: number;
   hosts?: string[];
-  totals: { pageLoads: number; visits: number };
+  /** `countries` counts every country seen, before small ones are folded into OTROS. */
+  totals: { pageLoads: number; visits: number; countries?: number };
   byCountry: Array<{ country: string; iso2?: string; pageLoads: number; visits: number; pct: number }>;
   byDay: Array<{ date: string; pageLoads: number }>;
   topPaths: Array<{ path: string; pageLoads: number }>;
@@ -51,6 +52,7 @@ let regionNames: Intl.DisplayNames | null | undefined;
 
 /** Spanish country name for an ISO alpha-2 code; falls back to the raw value. */
 export function countryLabel(entry: { country: string; iso2?: string }): string {
+  if (entry.country === 'OTROS') return 'Otros países (menos de 3 visitas cada uno)';
   if (!entry.iso2) return entry.country === 'XX' || !entry.country ? 'Desconocido' : entry.country;
   if (regionNames === undefined) {
     try {

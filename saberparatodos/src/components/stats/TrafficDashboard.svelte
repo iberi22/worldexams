@@ -46,7 +46,7 @@
     (data?.byDevice ?? []).map((d) => ({ key: d.device, label: deviceLabel(d.device), value: d.pageLoads, pct: d.pct })),
   );
   const referrerRows = $derived((data?.topReferrers ?? []).map((r) => ({ key: r.host, label: r.host, value: r.pageLoads })));
-  const countriesCount = $derived((data?.byCountry ?? []).filter((c) => c.iso2).length);
+  const countriesCount = $derived(data?.totals.countries ?? (data?.byCountry ?? []).filter((c) => c.iso2).length);
 
   const updated = $derived(
     data
@@ -136,7 +136,7 @@
 
   <p class="text-xs text-white/40 leading-relaxed" style="margin-top: 2rem">
     Datos de Cloudflare Web Analytics; solo navegadores reales, muestreados; sin cookies ni datos personales.
-    Solo se publican agregados (por país, día, página, dispositivo y sitio de referencia); las páginas y sitios con menos de 3 visitas y los enlaces privados (como los informes personales) no se muestran. Las cifras de solicitudes
+    Solo se publican agregados (por país, día, página, dispositivo y sitio de referencia); los países con menos de 3 visitas se agrupan en «Otros países»; las páginas y sitios con menos de 3 visitas y los enlaces privados (como los informes personales) no se muestran. Las cifras de solicitudes
     del servidor, que incluyen bots, no se usan aquí.
   </p>
 </div>
