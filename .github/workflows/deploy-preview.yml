@@ -238,6 +238,23 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           SAFE_REF: ${{ needs.validate-and-build.outputs.safe_ref }}
 
+      # The preview shares the production D1: prove ranked writes are refused.
+      - name: Assert preview ranked API is read-only
+        run: |
+          URL="https://worldexams-api-preview-${SAFE_REF}.iberi22.workers.dev"
+          for attempt in 1 2 3 4 5 6; do
+            START=$(curl -s -o /dev/null -w '%{http_code}' -X POST -H 'Content-Type: application/json' -d '{}' "$URL/v1/ranked/start" || true)
+            SUBMIT=$(curl -s -o /dev/null -w '%{http_code}' -X POST -H 'Content-Type: application/json' -d '{}' "$URL/v1/ranked/submit" || true)
+            BOARD=$(curl -s -o /dev/null -w '%{http_code}' "$URL/v1/leaderboard?limit=1" || true)
+            echo "attempt $attempt: POST /v1/ranked/start=$START POST /v1/ranked/submit=$SUBMIT GET /v1/leaderboard=$BOARD"
+            if [ "$START" = 403 ] && [ "$SUBMIT" = 403 ] && [ "$BOARD" = 200 ]; then exit 0; fi
+            sleep 10
+          done
+          echo "::error::The preview API must answer 403 on ranked start/submit and 200 on the leaderboard"
+          exit 1
+        env:
+          SAFE_REF: ${{ needs.validate-and-build.outputs.safe_ref }}
+
   # NOTE 2026-09-03: smoke-test heredaba fallo de deploy-api-preview (no había URL
   # de API). Ahora tolerante: si deploy-preview falló, smoke-test se omite con
   # warning pero NO bloquea merge.
