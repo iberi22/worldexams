@@ -1,0 +1,33 @@
+---
+/**
+ * /institucion — Teacher / institution panel (W2.05).
+ * Server-rendered per request because the country comes from the tenant (Astro.locals.country);
+ * all data is loaded client-side with the teacher session (docs/institutions/CONTRACT.md).
+ */
+import Layout from '../../layouts/Layout.astro';
+import TeacherPanel from '../../components/institucion/TeacherPanel.svelte';
+import { resolveRuntimeCountryConfig, supportedCountries } from '../../config';
+
+export const prerender = false;
+
+const countryConfig = resolveRuntimeCountryConfig(Astro.locals.country);
+const countries = supportedCountries.map((c) => ({
+  code: c.code,
+  name: c.name,
+  flag: c.flag,
+  subjects: c.subjects.map((s) => ({ id: s.id, name: s.name })),
+  grades: c.grades.map((g) => ({ id: g.id, name: g.name })),
+}));
+---
+
+<Layout
+  title={`Panel para colegios | ${countryConfig.product.siteName}`}
+  description="Panel gratuito para docentes y colegios: grupos, códigos de ingreso, tareas y resultados de tus estudiantes."
+  noindex={true}
+>
+  <div class="min-h-screen bg-gradient-to-b from-gray-950 via-[#0a0a0f] to-black px-4 py-10 text-white sm:px-6 lg:px-8">
+    <div class="mx-auto w-full max-w-5xl">
+      <TeacherPanel client:load countries={countries} defaultCountry={countryConfig.code} />
+    </div>
+  </div>
+</Layout>
