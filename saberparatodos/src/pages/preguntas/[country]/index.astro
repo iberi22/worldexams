@@ -13,7 +13,7 @@ import {
   type BundleEntry,
 } from '../../../lib/preguntas/bundle-fetcher';
 import { t } from '../../../lib/i18n';
-import { canonicalUrlFor, baseLanguage, countryLanguage } from '../../../lib/preguntas/canonical';
+import { canonicalUrlFor, hreflangFor } from '../../../lib/preguntas/canonical';
 
 export async function getStaticPaths() {
   const entries = await getAllBundles();
@@ -58,8 +58,7 @@ const pageDescription = `${bundles.length} bundles de preguntas (${totalQuestion
 Astro.response.headers.set('Cache-Control', 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400');
 ---
 
-<Layout title={pageTitle} description={pageDescription} canonical={canonical}>
-  <link slot="head" rel="alternate" hreflang={baseLanguage(countryLanguage(country ?? ''))} href={canonical} />
+<Layout title={pageTitle} description={pageDescription} canonical={canonical} hreflang={hreflangFor(country ?? '')}>
   <meta slot="head" property="og:title" content={pageTitle} />
   <meta slot="head" property="og:description" content={pageDescription} />
   <meta slot="head" property="og:type" content="website" />

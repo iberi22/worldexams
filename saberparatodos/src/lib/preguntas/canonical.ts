@@ -60,6 +60,25 @@ export function canonicalUrlFor(path: string, country: string, language?: string
   return `${canonicalHostFor(country, language)}${clean}`;
 }
 
+/**
+ * Valor de hreflang / <html lang> de una página de examen: el idioma del
+ * contenido, nunca el país del visitante. Español lleva región del país
+ * (`es-CO`); otro idioma va tal cual (`en`, `pt-BR`, `fr`).
+ */
+export function hreflangFor(country: string, language?: string | null): string {
+  const countryTag = countryLanguage(country);
+  const tag = String(language || countryTag).trim();
+  if (baseLanguage(tag) === 'es' && !/[-_]/.test(tag)) {
+    return baseLanguage(countryTag) === 'es' && /[-_]/.test(countryTag) ? countryTag : 'es';
+  }
+  return tag;
+}
+
+/** Idioma de la página para Layout: el de la página si lo declara, si no el del país en runtime. */
+export function resolvePageLanguage(pageLanguage: string | null | undefined, runtimeLanguage: string): string {
+  return String(pageLanguage ?? '').trim() || runtimeLanguage;
+}
+
 /** Host al que corresponde una petición (para sitemap/robots); hosts desconocidos → español. */
 export function hostForRequest(url: URL): string {
   return url.hostname === new URL(INTERNATIONAL_HOST).hostname ? INTERNATIONAL_HOST : SPANISH_HOST;
