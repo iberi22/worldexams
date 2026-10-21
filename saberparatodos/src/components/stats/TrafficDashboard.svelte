@@ -136,7 +136,7 @@
 
   <p class="text-xs text-white/40 leading-relaxed" style="margin-top: 2rem">
     Datos de Cloudflare Web Analytics; solo navegadores reales, muestreados; sin cookies ni datos personales.
-    Solo se publican agregados (por país, día, página, dispositivo y sitio de referencia). Las cifras de solicitudes
+    Solo se publican agregados (por país, día, página, dispositivo y sitio de referencia); las páginas y sitios con menos de 3 visitas y los enlaces privados (como los informes personales) no se muestran. Las cifras de solicitudes
     del servidor, que incluyen bots, no se usan aquí.
   </p>
 </div>

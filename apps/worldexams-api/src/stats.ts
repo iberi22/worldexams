@@ -46,6 +46,12 @@ const HOUR_MS = 60 * 60 * 1000
 const MAX_WINDOW_DAYS = 30
 const TOP_PATHS = 15
 const TOP_REFERRERS = 10
+/** Paths and referrers below this many page loads are not published (k-anonymity floor). */
+export const MIN_PUBLISHED_LOADS = 3
+/** Routes whose dynamic segment is a secret (e.g. per-student report links). */
+const SECRET_ROUTES = ["/informes/bot/"]
+/** A segment that looks like a token: 16+ alphanumeric chars, or a UUID. */
+const TOKEN_SEGMENT_RE = /^(?:[A-Za-z0-9]{16,}|[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12})$/i
 const HOST_RE = /^[a-z0-9.-]+$/i
 const ACCOUNT_RE = /^[a-z0-9]+$/i
 
@@ -97,10 +103,21 @@ export function buildTrafficQuery(accountId: string, hosts: string[], windows: A
 }`
 }
 
-/** Only the path: no query string, no fragment, bounded length. */
+/**
+ * Only the path: no query string, no fragment, bounded length. Secret dynamic
+ * segments collapse to `:token`, so a private link (/informes/bot/<token>) never
+ * becomes public.
+ */
 export function sanitizePath(raw: string | null | undefined): string {
   let path = String(raw ?? "").split(/[?#]/)[0].trim()
   if (!path.startsWith("/")) path = `/${path}`
+  for (const route of SECRET_ROUTES) {
+    if (path.toLowerCase().startsWith(route) && path.length > route.length) return `${route}:token`
+  }
+  path = path
+    .split("/")
+    .map((seg) => (TOKEN_SEGMENT_RE.test(seg) ? ":token" : seg))
+    .join("/")
   return path.length > 200 ? path.slice(0, 200) : path
 }
 
@@ -174,9 +191,9 @@ export function aggregateTraffic(
       pct: pct(v.pageLoads, totals.pageLoads),
     })),
     byDay,
-    topPaths: sorted(paths).slice(0, TOP_PATHS).map(([path, v]) => ({ path, pageLoads: v.pageLoads })),
+    topPaths: sorted(paths).filter(([, v]) => v.pageLoads >= MIN_PUBLISHED_LOADS).slice(0, TOP_PATHS).map(([path, v]) => ({ path, pageLoads: v.pageLoads })),
     byDevice: sorted(devices).map(([device, v]) => ({ device, pageLoads: v.pageLoads, pct: pct(v.pageLoads, totals.pageLoads) })),
-    topReferrers: sorted(referrers).slice(0, TOP_REFERRERS).map(([host, v]) => ({ host, pageLoads: v.pageLoads })),
+    topReferrers: sorted(referrers).filter(([, v]) => v.pageLoads >= MIN_PUBLISHED_LOADS).slice(0, TOP_REFERRERS).map(([host, v]) => ({ host, pageLoads: v.pageLoads })),
   }
 }
 
