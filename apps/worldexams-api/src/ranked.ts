@@ -9,12 +9,20 @@ import {
   resolveWeekPackNames,
   __resetPackCaches,
 } from "./index";
+import {
+  RANKED_EXCLUDED_WEEKS,
+  isRankedExcluded,
+} from "./ranked-exclusions";
 
 const MIN_ANSWERED = 31;
 const MIN_SECONDS_PER_ANSWER = 4;
 // Ranked sampling budget: packs loaded per area (each is one subrequest).
-const RANKED_PACKS_PER_AREA = 3;
-const RANKED_MIN_POOL_PER_AREA = 24;
+// 4 packs x 5 areas = 20 subrequests, inside the Workers limit.
+const RANKED_PACKS_PER_AREA = 4;
+// Diversity: at most this many questions per pack for the area's quota, so a
+// session spans 4 distinct weeks instead of ~2.
+const RANKED_QUESTIONS_PER_PACK = 2;
+const RANKED_AREA_TARGET = 8;
 
 const PLACEHOLDER_RE = /Pregunta de prueba \d+|Explicaci[oó]n detallada de la pregunta/i;
 
@@ -57,6 +65,20 @@ export function hasUnresolvedPlaceholder(text: unknown): boolean {
     return true;
   }
   return false;
+}
+
+/**
+ * Normalizes a statement for dedup: lowercase, collapse whitespace, digits to
+ * `#` and `$...$` math groups to a single token. Two questions that only differ
+ * in casing, spacing, numbers or math content are treated as the same question.
+ */
+export function normalizeStatementForDedup(text: unknown): string {
+  return String(text || "")
+    .toLowerCase()
+    .replace(/\$[^$]*\$/g, " $MATH$ ")
+    .replace(/\d+/g, "#")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
 /** True when any user-visible field of a pack question has an unresolved placeholder. */
@@ -378,29 +400,48 @@ export async function routeRanked(
       "ciencias_naturales",
       "ingles",
     ];
-    let allCandidates: any[] = [];
     const areaPools: Record<string, any[]> = {};
+    const selectedQuestions: any[] = [];
+    const areaCounts: Record<string, number> = {};
+    const selectedIds = new Set<string>();
 
     // Manifest-based sampling: pick a few random weeks per area and load only those
     // packs (every asset read is a subrequest; loading all 40 weeks × 5 areas
     // exceeded the Workers subrequest limit and left areas empty in production).
     const manifest = await getPackManifest(env, url.origin);
-    const weeks = Array.from({ length: 40 }, (_, i) => i + 1);
+    const allWeeks = Array.from({ length: 40 }, (_, i) => i + 1);
+    // Global statement dedup: a question already kept for one area is never
+    // offered again, even if another area's pack repeats it.
+    const seenStatements = new Set<string>();
 
     for (const area of areas) {
       areaPools[area] = [];
+      areaCounts[area] = 0;
       const aliases = getSubjectPackAliases(area);
       const prefixes = getCountryPackPrefixes(country);
-      const weekPacks = weeks
-        .map((week) => resolveWeekPackNames(manifest, prefixes, aliases, grade, week)[0])
-        .filter((name): name is string => Boolean(name) && (!manifest || manifest.has(name)));
+      // Weeks the exclusion list marks as not exam-ready are dropped before any
+      // asset read, so they never cost a subrequest either.
+      const excludedWeeks = RANKED_EXCLUDED_WEEKS[area] || [];
+      const allowedWeeks = allWeeks.filter((week) => !excludedWeeks.includes(week));
+      const weekPacks = allowedWeeks
+        .map((week) => ({
+          week,
+          name: resolveWeekPackNames(manifest, prefixes, aliases, grade, week)[0],
+        }))
+        .filter(
+          (entry): entry is { week: number; name: string } =>
+            Boolean(entry.name) && (!manifest || manifest.has(entry.name))
+        );
       shuffle(weekPacks, prng);
 
       const seenIds = new Set<string>();
-      for (const name of weekPacks.slice(0, RANKED_PACKS_PER_AREA)) {
+      const perPack: Array<{ week: number; questions: any[] }> = [];
+      for (const { week, name } of weekPacks.slice(0, RANKED_PACKS_PER_AREA)) {
+        const packQuestions: any[] = [];
         for (const q of await loadPackQuestions(env, url.origin, name)) {
           const id = String(q?.id || "");
           if (!id || seenIds.has(id)) continue;
+          if (isRankedExcluded(area, week, id)) continue;
           const correctCount = (q.options || []).filter((o: any) => o?.is_correct).length;
           const text = `${q.statement || ""} ${q.explanation || ""}`;
           if (
@@ -409,35 +450,64 @@ export async function routeRanked(
             PLACEHOLDER_RE.test(text) ||
             questionHasUnresolvedPlaceholder(q)
           ) continue;
+          const statementKey = normalizeStatementForDedup(q.statement);
+          if (seenStatements.has(statementKey)) continue;
           seenIds.add(id);
-          areaPools[area].push({ ...q, subject: area });
+          seenStatements.add(statementKey);
+          packQuestions.push({ ...q, subject: area, __packWeek: week });
         }
-        if (areaPools[area].length >= RANKED_MIN_POOL_PER_AREA) break;
+        perPack.push({ week, questions: packQuestions });
       }
-      shuffle(areaPools[area], prng);
-    }
 
-    const selectedQuestions: any[] = [];
-    const areaCounts: Record<string, number> = {};
+      // First pass: at most RANKED_QUESTIONS_PER_PACK per pack, so the area's 8
+      // questions come from 4 distinct weeks. If a pack yielded fewer valid
+      // questions, top up from the same packs (diversity is a cap, not a floor).
+      const chosen: any[] = [];
+      const chosenIds = new Set<string>();
+      for (const pack of perPack) {
+        let taken = 0;
+        for (const q of pack.questions) {
+          if (chosen.length >= RANKED_AREA_TARGET || taken >= RANKED_QUESTIONS_PER_PACK) break;
+          chosen.push(q);
+          chosenIds.add(String(q.id));
+          taken++;
+        }
+      }
+      if (chosen.length < RANKED_AREA_TARGET) {
+        for (const pack of perPack) {
+          for (const q of pack.questions) {
+            if (chosen.length >= RANKED_AREA_TARGET) break;
+            const id = String(q.id);
+            if (chosenIds.has(id)) continue;
+            chosen.push(q);
+            chosenIds.add(id);
+          }
+        }
+      }
 
-    for (const area of areas) {
-      areaCounts[area] = 0;
-      const target = 8;
-      const pool = areaPools[area];
-      while (pool.length > 0 && areaCounts[area] < target) {
-        selectedQuestions.push(pool.pop());
+      for (const q of chosen) {
+        selectedQuestions.push(q);
+        selectedIds.add(String(q.id));
         areaCounts[area]++;
       }
+      // Whatever was not chosen stays available for the global deficit filler.
+      areaPools[area] = perPack
+        .flatMap((pack) => pack.questions)
+        .filter((q) => !chosenIds.has(String(q.id)));
     }
 
     let deficit = 40 - selectedQuestions.length;
     if (deficit > 0) {
       const remainder = Object.values(areaPools).flat();
       shuffle(remainder, prng);
-      for (let i = 0; i < deficit && i < remainder.length; i++) {
-        const q = remainder[i];
+      for (const q of remainder) {
+        if (deficit <= 0) break;
+        const id = String(q.id);
+        if (selectedIds.has(id)) continue;
         selectedQuestions.push(q);
+        selectedIds.add(id);
         areaCounts[q.subject] = (areaCounts[q.subject] || 0) + 1;
+        deficit--;
       }
     }
 
