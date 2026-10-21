@@ -4,7 +4,9 @@ import {
   markAssignmentStarted,
   perAreaFromAnswers,
   sanitizePerArea,
+  sanitizeAreaKey,
   toSubjectId,
+  examAttemptKey,
   PENDING_ASSIGNMENT_KEY,
   MAX_AREAS,
   MAX_AREA_KEY_LENGTH
@@ -173,5 +175,94 @@ describe('API-safe payloads', () => {
     await reportResultToSchool({ source: 'practice', grade: 15, total: 10, correct: 5, durationS: 60 });
     await reportResultToSchool({ source: 'practice', grade: -3, total: 10, correct: 5, durationS: 60 });
     expect(sentBodies().map((b) => b.grade)).toEqual([7, 12, 1]);
+  });
+});
+
+describe('judge review round 2', () => {
+  // Real (assignment.subject, exam display subject) pairs seen in the app.
+  const REAL_PAIRS: Array<[string, string]> = [
+    ['matematica', 'Matemáticas'],
+    ['ciencias', 'Ciencias Naturales'],
+    ['sociales', 'Sociales y Ciudadanas'],
+    ['lengua', 'Lectura Crítica']
+  ];
+
+  it.each(REAL_PAIRS)('links assignment subject %s to an exam in %s', async (assignmentSubject, examSubject) => {
+    joined();
+    markAssignmentStarted({ id: `asg_${assignmentSubject}`, grade: 7, subject: assignmentSubject });
+    await reportResultToSchool({ source: 'practice', subject: examSubject, grade: 7, total: 10, correct: 6, durationS: 300 });
+    expect(sentBodies()[0]).toMatchObject({ source: 'assignment', assignmentId: `asg_${assignmentSubject}` });
+    expect(localStorage.getItem(PENDING_ASSIGNMENT_KEY)).toBeNull();
+  });
+
+  it('keeps the pending assignment when the subject really differs', async () => {
+    joined();
+    markAssignmentStarted({ id: 'asg_mat', grade: 7, subject: 'matematica' });
+    await reportResultToSchool({ source: 'practice', subject: 'Ciencias Naturales', grade: 7, total: 10, correct: 6, durationS: 300 });
+    expect(sentBodies()[0].source).toBe('practice');
+    expect(sentBodies()[0]).not.toHaveProperty('assignmentId');
+    expect(localStorage.getItem(PENDING_ASSIGNMENT_KEY)).not.toBeNull();
+  });
+
+  it('a remounted results view does not report the same attempt again', async () => {
+    joined();
+    const examData = {
+      subject: 'Matemáticas',
+      grade: 7,
+      totalTimeMs: 312_456,
+      questions: [{ questionId: 'q1' }, { questionId: 'q2' }]
+    };
+    const userAnswers = { q1: 'a', q2: 'c' };
+    const report = () =>
+      reportResultToSchool({
+        source: 'practice',
+        subject: examData.subject,
+        grade: examData.grade,
+        total: 2,
+        correct: 1,
+        durationS: 312,
+        attemptKey: examAttemptKey(examData, userAnswers)
+      });
+
+    expect(await report()).toBe('sent');
+    // Same exam data after "discuss question" -> back to results.
+    expect(await report()).toBe('skipped');
+    expect(fetchMock).toHaveBeenCalledTimes(1);
+
+    // A different attempt is still reported.
+    const other = examAttemptKey({ ...examData, totalTimeMs: 200_000 }, userAnswers);
+    expect(other).not.toBe(examAttemptKey(examData, userAnswers));
+    await reportResultToSchool({ source: 'practice', grade: 7, total: 2, correct: 2, durationS: 200, attemptKey: other });
+    expect(fetchMock).toHaveBeenCalledTimes(2);
+  });
+
+  it('the attempt key is stable and ignores answer order', () => {
+    const exam = { subject: 'Matemáticas', grade: 7, totalTimeMs: 1, questions: [{ questionId: 'q1' }] };
+    expect(examAttemptKey(exam, { q1: 'a', q2: 'b' })).toBe(examAttemptKey(exam, { q2: 'b', q1: 'a' }));
+    expect(examAttemptKey(exam, { q1: 'a' })).not.toBe(examAttemptKey(exam, { q1: 'b' }));
+  });
+
+  it('area keys only keep what the API accepts', async () => {
+    const API_AREA_KEY_RE = /^[\p{L}\p{N} _-]{1,40}$/u; // apps/worldexams-api/src/institutions.ts
+    expect(sanitizeAreaKey('Competencia Lectora (Inferencial)')).toBe('Competencia Lectora Inferencial');
+    for (const label of ['Competencia Lectora (Inferencial)', 'Números/Álgebra: «variación»', 'Física & Química', 'Ñandú? 1.2']) {
+      expect(sanitizeAreaKey(label)).toMatch(API_AREA_KEY_RE);
+    }
+
+    joined();
+    const perArea = perAreaFromAnswers(
+      [
+        { id: 'q1', correctOptionId: 'a', competency: 'Competencia Lectora (Inferencial)' },
+        { id: 'q2', correctOptionId: 'b', competency: 'Competencia Lectora (Literal)' }
+      ],
+      { q1: 'a', q2: 'a' }
+    );
+    await reportResultToSchool({ source: 'practice', grade: 7, total: 2, correct: 1, durationS: 60, perArea });
+    const sent = sentBodies()[0].perArea;
+    expect(sent).toEqual({
+      'Competencia Lectora Inferencial': { total: 1, correct: 1 },
+      'Competencia Lectora Literal': { total: 1, correct: 0 }
+    });
+    expect(Object.keys(sent).every((k) => API_AREA_KEY_RE.test(k))).toBe(true);
   });
 });
