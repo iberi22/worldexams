@@ -20,6 +20,11 @@ import argparse
 sys.stdout.reconfigure(encoding="utf-8")
 
 random.seed(2026)
+try:
+    from answer_position import balanced_letters, reorder_to_letter
+except Exception:
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from answer_position import balanced_letters, reorder_to_letter
 
 BASE_DIR = r"E:\scripts-python\worldexams"
 QUESTIONS_DATA = os.path.join(BASE_DIR, "questions_data")
@@ -255,6 +260,10 @@ def build_bundle(cc, subj_key, week_num, topic):
     generator = GEN_MAP.get(subj_key, gen_math)
     questions = [generator(i, topic, cc, cities) for i in range(1, BUNDLE_SIZE + 1)]
     bundle_id = f"{c_upper}-{subj_code}-11-2026-W{week_num:02d}-{topic}-001-MASTERY"
+    _letters = balanced_letters(bundle_id, BUNDLE_SIZE)
+    for _idx, _q in enumerate(questions):
+        _ci = next(j for j, o in enumerate(_q["options"]) if o[2])
+        _q["options"] = reorder_to_letter(_q["options"], _ci, _letters[_idx])
     fm = {"id": bundle_id, "country": country, "exam": exam, "grado": 11,
           "asignatura": subj_name, "tema": topic, "semana": int(week_num),
           "protocol_version": "5.2", "year": 2026, "bundle_size": BUNDLE_SIZE,
