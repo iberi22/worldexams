@@ -593,14 +593,16 @@
           </div>
         </div>
 
-        <p class="text-xs sm:text-sm uppercase tracking-widest opacity-60">
+        <p class="text-xs sm:text-sm uppercase tracking-widest opacity-60" data-testid="results-summary">
           {correctCount} de {questions.length} Correctas
         </p>
       </div>
 
       <!-- Score Display -->
       {#if examScore}
-        <ScoreDisplay {examScore} {runtimeCountry} />
+        <div data-testid="results-score">
+          <ScoreDisplay {examScore} {runtimeCountry} />
+        </div>
         <div class="max-w-2xl mx-auto -mt-2 px-1">
           <div class="rounded-xl border border-white/10 bg-white/[0.03] p-4 space-y-2">
             <p class="text-[10px] font-bold uppercase tracking-widest text-white/45">Cómo leer tu puntaje</p>
@@ -640,7 +642,7 @@
       {/if}
 
       <!-- Detailed Review -->
-      <div class="space-y-4 sm:space-y-6">
+      <div class="space-y-4 sm:space-y-6" data-testid="results-review-list">
         {#each questions as q, i}
           {@const u = String(userAnswers[q.id] || '').trim().toLowerCase()}
           {@const c = String(q.correctOptionId || '').trim().toLowerCase()}

@@ -3,20 +3,55 @@
   import { fade, fly } from 'svelte/transition';
 
   let visible = $state(false);
+  let reducedMotion = $state(false);
+
+  const STORAGE_KEY = 'saberparatodos_local_mode_ack';
+
+  function readAck(): boolean {
+    try {
+      if (typeof sessionStorage !== 'undefined' && sessionStorage.getItem(STORAGE_KEY) === 'true') return true;
+    } catch {}
+    try {
+      if (typeof localStorage !== 'undefined' && localStorage.getItem(STORAGE_KEY) === 'true') return true;
+    } catch {}
+    return false;
+  }
+
+  function writeAck() {
+    try {
+      if (typeof sessionStorage !== 'undefined') sessionStorage.setItem(STORAGE_KEY, 'true');
+    } catch {}
+    try {
+      if (typeof localStorage !== 'undefined') localStorage.setItem(STORAGE_KEY, 'true');
+    } catch {}
+  }
 
   onMount(() => {
-    // Check if user has acknowledged the notice
-    const acknowledged = localStorage.getItem('saberparatodos_local_mode_ack');
-    if (!acknowledged) {
-      // Show delay to be visible quickly on first load
-      setTimeout(() => {
-        visible = true;
-      }, 1500);
+    try {
+      reducedMotion = typeof window !== 'undefined' && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    } catch {
+      reducedMotion = false;
     }
+
+    if (readAck()) return;
+
+    const showTimer = setTimeout(() => {
+      visible = true;
+    }, 1500);
+
+    const hideTimer = setTimeout(() => {
+      visible = false;
+      writeAck();
+    }, 8000);
+
+    return () => {
+      clearTimeout(showTimer);
+      clearTimeout(hideTimer);
+    };
   });
 
   function dismiss() {
-    localStorage.setItem('saberparatodos_local_mode_ack', 'true');
+    writeAck();
     visible = false;
   }
 </script>
@@ -25,7 +60,7 @@
   <div
     class="fixed bottom-6 right-6 z-[200] max-w-[320px]"
     role="alert"
-    transition:fly={{ y: 20, duration: 400 }}
+    transition:fly={{ y: 20, duration: reducedMotion ? 0 : 400 }}
     data-testid="local-mode-notice"
   >
     <div
@@ -72,6 +107,10 @@
 {/if}
 
 <style>
+  @media (prefers-reduced-motion: reduce) {
+    div::after { animation: none; }
+  }
+
   /* Subtle glass shimmer effect */
   div::after {
     content: '';
