@@ -1,6 +1,27 @@
 import { getDeviceHash } from '../leaderboard-service';
+import type { DwellTimeState } from './dwell-time';
 
-export type RankedErrorCode = 'RATE_LIMITED' | 'UNAVAILABLE' | 'ALREADY_SUBMITTED' | 'NETWORK' | 'UNKNOWN';
+export type RankedErrorCode =
+  | 'RATE_LIMITED'
+  | 'UNAVAILABLE'
+  | 'ALREADY_SUBMITTED'
+  | 'NETWORK'
+  | 'UNKNOWN'
+  | 'POOL_INSUFFICIENT';
+
+/** Spanish copy for every ranked error code. */
+export const RANKED_ERROR_MESSAGES: Record<RankedErrorCode, string> = {
+  RATE_LIMITED: 'Demasiadas solicitudes. Espera un momento e inténtalo de nuevo.',
+  UNAVAILABLE: 'El módulo de ranked no está disponible ahora. Intenta más tarde.',
+  ALREADY_SUBMITTED: 'Este intento ya fue enviado.',
+  NETWORK: 'Error de conexión. Revisa tu internet e inténtalo de nuevo.',
+  UNKNOWN: 'Ocurrió un error inesperado. Intenta de nuevo.',
+  POOL_INSUFFICIENT: 'No hay suficientes preguntas disponibles ahora. Intenta más tarde.'
+};
+
+export function rankedErrorMessage(code: RankedErrorCode, fallback?: string): string {
+  return RANKED_ERROR_MESSAGES[code] ?? fallback ?? RANKED_ERROR_MESSAGES.UNKNOWN;
+}
 
 export class RankedError extends Error {
   code: RankedErrorCode;
@@ -53,6 +74,7 @@ export interface RankedSubmitResponse {
     correctLetter: string;
     feedback: string;
     explanation: string;
+    optionFeedback: Array<{ letter: string; feedback: string }>;
   }[];
 }
 
@@ -109,6 +131,11 @@ export async function startRanked(nickname: string, country?: string, grade?: nu
       if (response.status === 429) {
         throw new RankedError('Rate limited', 'RATE_LIMITED');
       } else if (response.status === 503) {
+        // 503 means either an empty question pool or the ranked DB being down.
+        const body = await response.json().catch(() => null);
+        if (body?.error === 'POOL_INSUFFICIENT') {
+          throw new RankedError('Insufficient question pool', 'POOL_INSUFFICIENT');
+        }
         throw new RankedError('Ranked module unavailable', 'UNAVAILABLE');
       }
       throw new RankedError(`HTTP error! status: ${response.status}`, 'UNKNOWN');
@@ -188,6 +215,10 @@ export interface ActiveRankedSession {
   expiresAt: string | number;
   questions: RankedQuestion[];
   answers: RankedAnswer[];
+  /** Restored on reload so the student keeps their place in the exam. */
+  currentIdx?: number;
+  /** Visible-time accumulator per question, restored across reloads. */
+  dwell?: DwellTimeState;
 }
 
 const SESSION_KEY = 'worldexams_ranked_active';
