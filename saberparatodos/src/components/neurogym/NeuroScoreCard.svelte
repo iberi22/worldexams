@@ -6,9 +6,19 @@
     onReset: () => void;
     /** Claves del perfil medidas realmente; las demás se muestran como "no medido". */
     measuredDomains?: string[];
+    /** Evaluación anterior del mismo dispositivo, para comparar contra tu propio historial. */
+    previousProfile?: FullCognitiveProfile | null;
   }
 
-  let { profile, onReset, measuredDomains }: Props = $props();
+  let { profile, onReset, measuredDomains, previousProfile = null }: Props = $props();
+
+  function deltaText(key: keyof FullCognitiveProfile): string | null {
+    const prev = previousProfile?.[key] as { standardScore?: number } | undefined;
+    const curr = profile[key] as { standardScore?: number } | undefined;
+    if (typeof prev?.standardScore !== 'number' || typeof curr?.standardScore !== 'number') return null;
+    const d = curr.standardScore - prev.standardScore;
+    return d === 0 ? 'Igual que tu evaluación anterior' : `${d > 0 ? '+' : ''}${d} pts frente a tu evaluación anterior`;
+  }
 
   const isMeasured = (key: string) => !measuredDomains || measuredDomains.includes(key);
 
@@ -24,10 +34,11 @@
 <div class="max-w-3xl mx-auto space-y-6">
   <!-- Header Card -->
   <div class="p-6 bg-gradient-to-br from-emerald-950/40 via-black to-purple-950/40 border border-white/20 rounded-3xl text-center space-y-3 shadow-2xl">
-    <span class="text-xs uppercase tracking-widest text-emerald-400 font-mono font-bold">Perfil Neuropsicológico Baremado</span>
-    <h2 class="text-3xl sm:text-4xl font-black text-white">Resultados de Evaluación Cognitiva</h2>
+    <span class="text-xs uppercase tracking-widest text-emerald-400 font-mono font-bold">Tu progreso personal</span>
+    <h2 class="text-3xl sm:text-4xl font-black text-white">Resultados de tu evaluación</h2>
     <p class="text-xs text-white/60 max-w-lg mx-auto">
-      Escala de referencia (media 100, DE 15) calculada en tu dispositivo. Es orientativa: no es un diagnóstico clínico ni una medida de CI.
+      Puntos calculados en tu dispositivo para comparar contigo mismo en el tiempo. No te compara con otras personas
+      y no es un diagnóstico ni una medida de CI.
     </p>
 
     <!-- Razonamiento abstracto (matrices) -->
@@ -35,7 +46,7 @@
       <span class="text-[10px] uppercase tracking-widest text-emerald-300 font-bold">Razonamiento abstracto</span>
       <span class="text-5xl font-black text-emerald-400 my-1">{profile.overallIQProxy.standardScore}</span>
       <span class="text-xs text-white/80 font-semibold">
-        Nivel: {profile.overallIQProxy.levelDescription} (Percentil {profile.overallIQProxy.percentile}%)
+        {deltaText('overallIQProxy') ?? 'Primera evaluación: será tu punto de partida'}
       </span>
     </div>
   </div>
@@ -54,11 +65,9 @@
           <h4 class="text-xs font-bold uppercase tracking-wider text-white/90">{dom.title}</h4>
           <span class="text-xs font-mono font-bold {dom.color}">{dom.data.standardScore} pts</span>
         </div>
-        <div class="flex items-center justify-between text-[10px] text-white/60">
-          <span>Percentil: <strong>{dom.data.percentile}%</strong></span>
-          <span>Stanine: <strong>{dom.data.stanine}/9</strong></span>
-          <span class="font-bold {dom.color}">{dom.data.levelDescription}</span>
-        </div>
+        <p class="text-[10px] text-white/60">
+          {deltaText(dom.key as keyof FullCognitiveProfile) ?? 'Primera evaluación: será tu punto de partida'}
+        </p>
         <p class="text-[10px] text-white/50 leading-relaxed border-t border-white/10 pt-2">
           {dom.data.clinicalSummary}
         </p>
