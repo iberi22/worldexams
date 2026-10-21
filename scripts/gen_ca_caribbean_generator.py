@@ -10,6 +10,11 @@ Bundle ID: {COUNTRY}-{SUBJ}-{GRADE}-2026-W{NN}-{TOPIC}-001-MASTERY
 """
 
 import os, sys, random, json, argparse
+try:
+    from answer_position import balanced_letters, reorder_to_letter
+except Exception:
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from answer_position import balanced_letters, reorder_to_letter
 from pathlib import Path
 
 sys.stdout.reconfigure(encoding='utf-8')
@@ -327,6 +332,10 @@ def build_bundle(ccode, subj_key, subj_info, week_num, config, cities):
     for i in range(1, BUNDLE_SIZE + 1):
         q = generator(i, week_num, topic, ccode, cities, subj_key)
         questions.append(q)
+    _letters = balanced_letters(bundle_id, BUNDLE_SIZE)
+    for _idx, _q in enumerate(questions):
+        _ci = next(j for j, o in enumerate(_q["options"]) if o[2])
+        _q["options"] = reorder_to_letter(_q["options"], _ci, _letters[_idx])
     
     # Build frontmatter
     fm = {
