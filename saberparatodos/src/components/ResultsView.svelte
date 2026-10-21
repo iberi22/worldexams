@@ -45,6 +45,7 @@
   import { getDomainStatus, VALIDATION_STATUSES } from '../lib/questions/validation-registry';
   import { countryConfig as defaultCountryConfig, type CountryConfig as RuntimeCountryConfig } from '../config';
   import TutorPanel from './ai/TutorPanel.svelte';
+  import { reportResultToSchool, perAreaFromAnswers } from '../lib/institutions/report-result';
 
   // Props (Svelte 5 Runes)
   interface Props {
@@ -318,6 +319,8 @@
         }
 
         await saveExamResultLocal(examData, localAnswers);
+        // Opt-in school sharing; no-op unless joined with sharing on. Ranked exams use RankedExamView, never this view.
+        void reportResultToSchool({ source: 'practice', subject: examData?.subject, grade: examData?.grade, total: totalQuestions, correct: correctCount, durationS: (examData?.totalTimeMs || 0) / 1000, perArea: perAreaFromAnswers(safeQuestions, userAnswers), ranked: false });
         hasGitHub = await hasGitHubAuth();
         await hydrateVideoMetadata();
 
