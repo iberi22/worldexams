@@ -158,25 +158,13 @@
 
   async function handleJoinRoom() {
     try {
-      const mockConfig = {
-        id: roomCode,
-        name: 'Sala Demo',
-        hostId: 'host-id',
-        hostName: 'Host',
-        maxPlayers: 100,
-        timePerQuestion: 60,
-        totalQuestions: 20,
-        grado: 11,
-        asignatura: 'Matemáticas',
-        connectionMode: preferredConnectionMode(),
-        createdAt: new Date(),
-      };
-
-      await roomState.joinRoom(roomCode, playerName, mockConfig);
+      // Config real publicada por el anfitrión (directorio mesh o servidor local).
+      const config = await roomState.resolveRoomConfig(roomCode.trim(), preferredConnectionMode());
+      await roomState.joinRoom(config.id, playerName, config);
       view = 'lobby';
     } catch (error) {
       console.error('Error joining room:', error);
-      alert('Error al unirse a la sala. Verifica el código.');
+      alert(error instanceof Error ? error.message : 'Error al unirse a la sala. Verifica el código.');
     }
   }
 
