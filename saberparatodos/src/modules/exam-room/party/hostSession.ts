@@ -7,7 +7,7 @@
  */
 
 import type { AppQuestion } from '../../../lib/api-service';
-import type { PartyTransport } from './transport';
+import type { PartyTransport, TransportStatus } from './transport';
 import {
   PARTY_LIMITS,
   PARTY_PROTOCOL_VERSION,
@@ -55,7 +55,8 @@ export interface HostState {
   answeredCount: number;
   expectedCount: number;
   scoreboard: ScoreboardEntry[];
-  transportKind: string;
+  /** Canales activos/pendientes: la UI avisa si solo hay juego en este navegador. */
+  transport: TransportStatus;
   error: string | null;
 }
 
@@ -100,6 +101,7 @@ export class PartyHostSession {
   private revealTimer: ReturnType<typeof setTimeout> | null = null;
   private heartbeatTimer: ReturnType<typeof setInterval> | null = null;
   private unsubscribeTransport: (() => void) | null = null;
+  private unsubscribeStatus: (() => void) | null = null;
   private listeners = new Set<Listener>();
 
   constructor(options: HostSessionOptions) {
@@ -132,7 +134,7 @@ export class PartyHostSession {
       answeredCount: this.answers.get(this.currentIndex)?.size ?? 0,
       expectedCount: this.expectedCount(),
       scoreboard: buildScoreboard(this.playerList()),
-      transportKind: this.transport.kind,
+      transport: this.transport.getStatus?.() ?? { active: [this.transport.kind], pending: [] },
       error: this.error,
     };
   }
@@ -231,9 +233,7 @@ export class PartyHostSession {
   close(): void {
     if (this.status === 'open') this.broadcast({ type: 'room_closed' });
     this.clearTimers();
-    this.unsubscribeTransport?.();
-    this.unsubscribeTransport = null;
-    this.transport.disconnect();
+    this.releaseTransport();
     this.status = 'closed';
     try {
       this.storage?.removeItem(HOST_STORAGE_KEY);
@@ -246,17 +246,26 @@ export class PartyHostSession {
   /** Detiene timers sin avisar a los jugadores (p. ej. al desmontar por recarga). */
   dispose(): void {
     this.clearTimers();
-    this.unsubscribeTransport?.();
-    this.unsubscribeTransport = null;
-    this.transport.disconnect();
+    this.releaseTransport();
     this.listeners.clear();
   }
 
   // ─── Conexión ─────────────────────────────────────────────────────────
 
+  private releaseTransport(): void {
+    this.unsubscribeTransport?.();
+    this.unsubscribeTransport = null;
+    this.unsubscribeStatus?.();
+    this.unsubscribeStatus = null;
+    this.transport.disconnect();
+  }
+
   private async connect(): Promise<void> {
     if (!this.config) return;
     this.status = 'connecting';
+    this.unsubscribeStatus?.();
+    // PeerJS se suma después del canal local: refrescar la UI cuando cambie.
+    this.unsubscribeStatus = this.transport.onStatusChange?.(() => this.emit()) ?? null;
     this.emit();
     try {
       await this.transport.connect(this.config.code);

@@ -1,6 +1,5 @@
-import { describe, it, expect, vi } from 'vitest';
-import { readFileSync } from 'node:fs';
-import { fileURLToPath } from 'node:url';
+import { describe, it, expect, vi, afterEach } from 'vitest';
+import { mount, unmount, flushSync, tick } from 'svelte';
 
 (globalThis as any).$state = (val: any) => val;
 
@@ -43,10 +42,15 @@ vi.mock('../../src/lib/rust-backend', () => ({
       };
     }),
   },
-  detectBackendMode: vi.fn(),
+  detectBackendMode: vi.fn().mockResolvedValue('edge-mesh'),
+}));
+
+vi.mock('../../src/lib/local-mesh-pairing', () => ({
+  localMeshPairing: { announceRoom: vi.fn(), startScanning: vi.fn(), stopScanning: vi.fn(), subscribe: vi.fn(() => () => {}) },
 }));
 
 import { roomState } from '../../src/modules/exam-room/stores/roomState.svelte';
+import RoomApp from '../../src/modules/exam-room/components/RoomApp.svelte';
 import {
   ROOM_NOT_FOUND_MESSAGE,
   roomConfigFromDirectoryEntry,
@@ -82,16 +86,49 @@ describe('Room config propagation (/sala-examenes join)', () => {
     expect(() => roomConfigFromDirectoryEntry({ party_code: 'X', exam_config: {} })).toThrow(/anuncio incompleto/);
   });
 
-  it('has no reachable mock config in the join paths', () => {
-    const files = [
-      '../../src/modules/exam-room/components/RoomApp.svelte',
-      '../../src/components/ExamRoomHost.svelte',
-      '../../src/components/PartyPlayer.svelte',
-      '../../src/modules/exam-room/components/PartyHostView.svelte',
-    ];
-    for (const rel of files) {
-      const source = readFileSync(fileURLToPath(new URL(rel, import.meta.url)), 'utf8');
-      expect(source, rel).not.toMatch(/mockConfig|Sala Demo|coming soon/i);
-    }
+});
+
+describe('RoomApp join (/sala-examenes) uses the host config', () => {
+  let app: ReturnType<typeof mount> | null = null;
+
+  afterEach(() => {
+    if (app) unmount(app);
+    app = null;
+    document.body.innerHTML = '';
+    vi.restoreAllMocks();
+  });
+
+  async function openJoinForm(code: string, name: string) {
+    window.history.replaceState({}, '', `/sala-examenes?join=${code}`);
+    app = mount(RoomApp, { target: document.body });
+    // detectBackendMode resolves → join view (from ?join=CODE)
+    await vi.waitFor(() => expect(document.body.textContent).toContain('Unirse a una Sala'));
+    const nameInput = document.querySelector<HTMLInputElement>('input[placeholder="Ej: Juan Pérez"]')!;
+    nameInput.value = name;
+    nameInput.dispatchEvent(new Event('input', { bubbles: true }));
+    flushSync();
+    const button = [...document.querySelectorAll('button')].find((b) => b.textContent?.includes('Unirse a Sala'))!;
+    button.click();
+    await tick();
+  }
+
+  it('joins with the config announced by the host', async () => {
+    const joinRoom = vi.spyOn(roomState, 'joinRoom').mockResolvedValue(undefined);
+    await openJoinForm('SALA-REAL', 'Juli');
+
+    await vi.waitFor(() => expect(joinRoom).toHaveBeenCalledTimes(1));
+    const [code, name, config] = joinRoom.mock.calls[0];
+    expect(code).toBe('SALA-REAL');
+    expect(name).toBe('Juli');
+    expect(config).toMatchObject({ name: 'Química 9B', grado: 9, asignatura: 'ciencias', maxPlayers: 35 });
+  });
+
+  it('does not join an unknown room and shows "room not found"', async () => {
+    const joinRoom = vi.spyOn(roomState, 'joinRoom').mockResolvedValue(undefined);
+    const alert = vi.spyOn(window, 'alert').mockImplementation(() => {});
+    await openJoinForm('NOPE42', 'Juli');
+
+    await vi.waitFor(() => expect(alert).toHaveBeenCalledWith(ROOM_NOT_FOUND_MESSAGE));
+    expect(joinRoom).not.toHaveBeenCalled();
   });
 });
