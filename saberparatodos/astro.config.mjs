@@ -17,6 +17,7 @@ export default defineConfig({
         !page.includes('/tutor/') &&
         !page.includes('/institucion/') &&
         !page.includes('/cuentos/') &&
+        !page.includes('/preguntas/') &&
         !page.includes('/api/'),
     }),
   ],
