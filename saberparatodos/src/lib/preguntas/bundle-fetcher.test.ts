@@ -68,7 +68,7 @@ describe('preguntas links and sitemap', () => {
     expect(subjectDisplayName({ country: 'nowhere', subject: 'ciencias-naturales' })).toBe('Ciencias Naturales');
   });
 
-  it('lists listing pages and every bundle page', () => {
+  it('lists listing pages and every bundle page on the Spanish host', () => {
     const entry = {
       id: 'AR-1',
       countryDir: 'argentina',
@@ -82,9 +82,9 @@ describe('preguntas links and sitemap', () => {
       total: 10,
       alignment: '',
     };
-    const xml = buildPreguntasSitemap('https://s.dev/', [entry], (e) => `/preguntas/x/${e.id}/`);
-    expect(xml).toContain('<loc>https://s.dev/preguntas/</loc>');
-    expect(xml).toContain('<loc>https://s.dev/preguntas/argentina/grado-6/ciencias-naturales/</loc>');
-    expect(xml).toContain('<loc>https://s.dev/preguntas/x/AR-1/</loc>');
+    const xml = buildPreguntasSitemap('https://saberparatodos.space/', [entry], (e) => `/preguntas/x/${e.id}/`);
+    expect(xml).toContain('<loc>https://saberparatodos.space/preguntas/</loc>');
+    expect(xml).toContain('<loc>https://saberparatodos.space/preguntas/argentina/grado-6/ciencias-naturales/</loc>');
+    expect(xml).toContain('<loc>https://saberparatodos.space/preguntas/x/AR-1/</loc>');
   });
 });

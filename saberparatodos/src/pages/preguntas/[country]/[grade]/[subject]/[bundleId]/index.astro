@@ -15,6 +15,7 @@ import {
 import { t } from '../../../../../../lib/i18n';
 import { buildQuizSchema, serializeJsonLd } from '../../../../../../lib/preguntas/quiz-schema';
 import { practiceUrlFor, subjectDisplayName } from '../../../../../../lib/preguntas/links';
+import { SPANISH_HOST, bundleLanguage, canonicalHostFor } from '../../../../../../lib/preguntas/canonical';
 import PracticeQuestion from '../../../../../../components/preguntas/PracticeQuestion.astro';
 
 export const getStaticPaths = async () => {
@@ -46,6 +47,8 @@ const display = getCountryDisplay(entry.country);
 const questions: BundleQuestion[] | null = await getBundleQuestions(entry);
 const revisar = (Astro.url.searchParams.get('revisar') ?? '').trim();
 const lang = display.language || 'es';
+// Idioma del bundle (ingles → en, Brasil → pt-BR…): decide el host canónico.
+const contentLang = bundleLanguage(entry);
 
 const subjectName = subjectDisplayName(entry);
 const gradeName = gradeLabel(entry);
@@ -53,9 +56,10 @@ const title = `${entry.tema ? toTitleCase(entry.tema) : `${subjectName} ${entry.
 const pageTitle = `${title} — ${subjectName} ${gradeName}, ${display.name} | WorldExams`;
 const pageDescription = `Bundle ${entry.week} de ${subjectName} para ${gradeName} en ${display.name}${entry.alignment ? ` (${entry.alignment})` : ''}: ${entry.total} preguntas con explicación pedagógica.`;
 
-const siteUrl = String(import.meta.env.PUBLIC_SITE_URL || Astro.site || 'https://worldexam.swal.network').replace(/\/+$/, '');
-const canonical = `${siteUrl}${bundleUrl(entry)}`;
-const ogImage = `${siteUrl}/og-image.png`;
+const canonicalHost = canonicalHostFor(entry.country, contentLang);
+const countryHost = canonicalHostFor(entry.country);
+const canonical = `${canonicalHost}${bundleUrl(entry)}`;
+const ogImage = `${canonicalHost}/og-image.png`;
 const subjectListUrl = `/preguntas/${entry.country}/${entry.gradeSlug}/${entry.subject}/`;
 const practiceUrl = practiceUrlFor(entry, subjectName);
 
@@ -63,11 +67,11 @@ const breadcrumbSchema = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: t('preguntas.breadcrumb.home'), item: `${siteUrl}/` },
-    { '@type': 'ListItem', position: 2, name: t('preguntas.breadcrumb.preguntas'), item: `${siteUrl}/preguntas/` },
-    { '@type': 'ListItem', position: 3, name: display.name, item: `${siteUrl}/preguntas/${entry.country}/` },
-    { '@type': 'ListItem', position: 4, name: gradeName, item: `${siteUrl}/preguntas/${entry.country}/${entry.gradeSlug}/` },
-    { '@type': 'ListItem', position: 5, name: subjectName, item: `${siteUrl}${subjectListUrl}` },
+    { '@type': 'ListItem', position: 1, name: t('preguntas.breadcrumb.home'), item: `${SPANISH_HOST}/` },
+    { '@type': 'ListItem', position: 2, name: t('preguntas.breadcrumb.preguntas'), item: `${SPANISH_HOST}/preguntas/` },
+    { '@type': 'ListItem', position: 3, name: display.name, item: `${countryHost}/preguntas/${entry.country}/` },
+    { '@type': 'ListItem', position: 4, name: gradeName, item: `${countryHost}/preguntas/${entry.country}/${entry.gradeSlug}/` },
+    { '@type': 'ListItem', position: 5, name: subjectName, item: `${canonicalHost}${subjectListUrl}` },
     { '@type': 'ListItem', position: 6, name: title, item: canonical },
   ],
 };
@@ -78,12 +82,12 @@ const quizSchema =
         url: canonical,
         name: `${title} — ${subjectName} ${gradeName}`,
         description: pageDescription,
-        inLanguage: lang,
+        inLanguage: contentLang,
         educationalLevel: gradeName,
         subject: subjectName,
         alignment: entry.alignment,
         publisherName: 'WorldExams',
-        publisherUrl: `${siteUrl}/`,
+        publisherUrl: `${canonicalHost}/`,
         questions,
       })
     : null;
