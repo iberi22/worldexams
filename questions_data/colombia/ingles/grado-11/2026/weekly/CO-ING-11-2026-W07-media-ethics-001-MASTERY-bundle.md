@@ -35,14 +35,14 @@ cefr_level: "C1+"
 In the context of media ethics, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?
 
 ### Opciones
-- [x] D) exacerbate
-  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
 - [ ] A) alleviate
   <!-- feedback: Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed. -->
 - [ ] B) mitigate
   <!-- feedback: Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied. -->
 - [ ] C) facilitate
   <!-- feedback: Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide. -->
+- [x] D) exacerbate
+  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
 
 ### Explicacion Pedagogica
 This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.
@@ -85,10 +85,10 @@ C1+ vocabulary items reward reading the time scale of a process as carefully as 
 In the context of media ethics, which word best completes the following sentence: 'When an outlet repeats a rumour that turns out to be false, editors should __________ the correction to the rumour itself, not merely bury it in the corrections column'?
 
 ### Opciones
-- [x] B) foreground
-  <!-- feedback: 'Foreground' means to place something in a prominent position. The contrast is between putting the correction where the rumour circulated and hiding it at the end, and only this word names that first practice. -->
 - [ ] A) bury
   <!-- feedback: 'Bury' is precisely what the sentence tells editors not to do, and the phrase 'not merely bury it' removes it as a possible answer. Choosing it would contradict the instruction the sentence gives. -->
+- [x] B) foreground
+  <!-- feedback: 'Foreground' means to place something in a prominent position. The contrast is between putting the correction where the rumour circulated and hiding it at the end, and only this word names that first practice. -->
 - [ ] C) retract
   <!-- feedback: 'Retract' names the act of withdrawing the claim, and the sentence is about where a correction is placed rather than whether one is issued. The verb for withdrawing cannot occupy a slot describing presentation. -->
 - [ ] D) attribute
@@ -127,23 +127,27 @@ Accountability requires journalists to take responsibility for their reporting a
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.70
-**Contexto:** Discussing media ethics in Barranquilla.
+**Contexto:** Reading a local news story from Sucre about a false video shared during heavy rains.
 
 ### Enunciado
-According to a recent report on media ethics in Barranquilla, what is implied about the role of Cleft Sentences in shaping public opinion?
+Read the text and answer the question.
+
+"During heavy rains in a town in Sucre, a video of a broken dam spread quickly on WhatsApp groups. Many families left their homes in panic at night. Hours later, journalists from a local radio station discovered that the video had been recorded in another country years earlier. The station now runs a weekly programme that teaches listeners how to check where a video comes from before sharing it."
+
+What is the text mainly about?
 
 ### Opciones
-- [x] B) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
-- [ ] D) It is only used by academic elites in Bucaramanga.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [ ] A) How dams are built in the Caribbean region.
+  <!-- feedback: The dam appears only in the false video; the text gives no information about building dams. -->
+- [x] B) How a false video caused panic and led to an effort to teach fact-checking.
+  <!-- feedback: The text describes the false video, the panic it caused, the journalists' discovery and the new programme to teach listeners to verify videos. -->
+- [ ] C) Why radio is more popular than WhatsApp in Sucre.
+  <!-- feedback: The text does not compare the popularity of radio and WhatsApp. -->
+- [ ] D) Why families refused to leave their homes during the heavy rains.
+  <!-- feedback: The text says families did leave their homes, in panic, because of the video. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+A main-idea answer must include the problem and the response in a narrative text. Here the problem is misinformation and the response is a fact-checking programme, which connects to media ethics and responsible sharing.
 
 ---
 
@@ -152,23 +156,27 @@ This question requires inferential reading skills to understand how complex stru
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.67
-**Contexto:** Discussing media ethics in Cali.
+**Contexto:** Reading a note from an editor in Cali about a decision on an accident photograph.
 
 ### Enunciado
-According to a recent report on media ethics in Cali, what is implied about the role of Cleft Sentences in shaping public opinion?
+Read the text and answer the question.
+
+"A newspaper in Cali had to decide whether to publish a photograph of a young man injured in a traffic accident. The image was powerful and would attract many readers online. The editor chose to publish a photo of the damaged motorbike instead. 'A picture can inform without exposing someone on the worst day of their life,' she wrote in a note to readers."
+
+What can be inferred about the editor?
 
 ### Opciones
-- [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
-- [ ] C) It is only used by academic elites in Barranquilla.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [ ] A) She wanted to attract as many readers as possible.
+  <!-- feedback: The editor rejected the image that 'would attract many readers', so attracting readers was not her priority. -->
+- [ ] B) She thought the accident was not newsworthy.
+  <!-- feedback: She still published the story with a photo of the motorbike, so she considered the accident news. -->
+- [ ] C) She did not have any photographs of the accident.
+  <!-- feedback: The text says she had to decide whether to publish a photograph of the injured man, so she had one. -->
+- [x] D) She considered the injured man's dignity more important than a dramatic image.
+  <!-- feedback: Her note says a picture can inform 'without exposing someone on the worst day of their life', showing she chose to protect the man's privacy. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Media ethics often involves balancing public interest and personal dignity. The editor's choice of a different photo, explained in her own words, lets the reader infer her values even though she does not use the word 'dignity'.
 
 ---
 
@@ -246,23 +254,27 @@ The cleft isolates the headline as the source of the misleading message while pr
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.55
-**Contexto:** Discussing media ethics in Medellín.
+**Contexto:** Reading a media literacy guide for teenagers about advertising on social media.
 
 ### Enunciado
-According to a recent report on media ethics in Medellín, what is implied about the role of Cleft Sentences in shaping public opinion?
+Read the text and answer the question.
+
+"Have you noticed that some posts by your favourite influencers include the words 'paid partnership' or '#ad'? In Colombia, the Superintendence of Industry and Commerce has published guidelines saying that influencers should make it clear when a brand pays them to promote a product. The idea is simple: followers have the right to know if an opinion is sincere or if it is advertising. So next time you see a product review, look for the label before you decide to buy."
+
+What is the main purpose of the text?
 
 ### Opciones
-- [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
-- [ ] C) It is only used by academic elites in Manizales.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [ ] A) To sell products through influencers.
+  <!-- feedback: The text does not promote any product; it teaches readers to identify advertising. -->
+- [ ] B) To criticise all influencers for lying.
+  <!-- feedback: The text explains a rule about labels; it does not accuse all influencers of lying. -->
+- [ ] C) To explain how to become a paid influencer.
+  <!-- feedback: The reader is addressed as a follower who sees posts, not as someone who wants to work as an influencer. -->
+- [x] D) To help readers recognise when online content is advertising.
+  <!-- feedback: The text explains what labels like '#ad' mean, why they exist, and ends with advice: 'look for the label before you decide to buy'. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Informative texts with advice for the reader usually end with an instruction ('look for the label'). That final sentence often reveals the purpose: here, to help young people identify paid content and make informed decisions.
 
 ---
 
@@ -277,12 +289,12 @@ This question requires inferential reading skills to understand how complex stru
 Complete the following sentence about media ethics: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Cleft Sentences)
 
 ### Opciones
-- [x] C) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
 - [ ] A) has
   <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
 - [ ] B) was
   <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
+- [x] C) had
+  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
 - [ ] D) did
   <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
 
@@ -302,10 +314,10 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 Compare 'The retraction appeared on Tuesday' with 'It was on Tuesday that the retraction appeared.' What does the second sentence add?
 
 ### Opciones
-- [x] B) It places the day, rather than the action, in focus.
-  <!-- feedback: The cleft moves 'on Tuesday' into the position after 'It was', which is exactly what the focus slot is for. The retraction and its date are unchanged; only which element is treated as given information differs. -->
 - [ ] A) It establishes that the retraction was published by mistake.
   <!-- feedback: The cleft reorganises information structure and says nothing about intention or accident. Choosing it would read a grammatical device as evidence about the circumstances of publication. -->
+- [x] B) It places the day, rather than the action, in focus.
+  <!-- feedback: The cleft moves 'on Tuesday' into the position after 'It was', which is exactly what the focus slot is for. The retraction and its date are unchanged; only which element is treated as given information differs. -->
 - [ ] C) It changes the tense of the sentence from past to present.
   <!-- feedback: Both sentences keep 'appeared' in the past simple. The cleft never alters tense, and the comparison is about focus rather than about when the verb is situated. -->
 - [ ] D) It proves that readers accepted the retraction.
@@ -327,12 +339,12 @@ A cleft keeps the propositional content intact and moves one element into focus,
 Compare 'A source refused to speak' with 'It was a source who refused to speak.' What does the second sentence add?
 
 ### Opciones
-- [x] C) It foregrounds the role of the person who declined, rather than the act of declining.
-  <!-- feedback: The cleft substitutes 'a source' into the focus slot after 'It was', so the role becomes the new information. The refusal itself is unchanged, and only the information structure shifts. -->
 - [ ] A) It implies that the refusal was hostile.
   <!-- feedback: The cleft carries no evaluation of tone or intention. Reading hostility into it would mean attributing an attitude that the sentence never states in either version. -->
 - [ ] B) It shows that the refusal happened more than once.
   <!-- feedback: Both sentences use the singular 'a source' and a single past verb. A cleft cannot introduce repetition that the underlying proposition does not contain. -->
+- [x] C) It foregrounds the role of the person who declined, rather than the act of declining.
+  <!-- feedback: The cleft substitutes 'a source' into the focus slot after 'It was', so the role becomes the new information. The refusal itself is unchanged, and only the information structure shifts. -->
 - [ ] D) It explains why the journalist later withdrew the story.
   <!-- feedback: No later decision appears in either sentence. The cleft operates within one proposition, and it cannot supply a consequence or a sequence that is absent from the comparison. -->
 
@@ -352,12 +364,12 @@ The recurring trap in cleft items is reading the device as if it carried extra f
 Compare 'The photograph was cropped before publication' with 'It was before publication that the photograph was cropped.' What does the second sentence add?
 
 ### Opciones
-- [x] C) It brings the timing of the decision into focus, without adding a claim about who cropped it.
-  <!-- feedback: The cleft moves 'before publication' into the focus slot, so the sequence becomes the new information. It attributes nothing new: the second version has no agent, and the crop remains exactly as described in the first. -->
 - [ ] A) It shows that the cropping was intentional.
   <!-- feedback: Neither version states an intention, and the cleft version is in fact the one that names no one at all. Reading deliberate purpose into the focus shift would invent a fact. -->
 - [ ] B) It changes the crop into a permanent alteration.
   <!-- feedback: 'Permanent' appears nowhere in either sentence, and a cleft cannot turn a described act into an enduring state. The proposition is identical in both versions. -->
+- [x] C) It brings the timing of the decision into focus, without adding a claim about who cropped it.
+  <!-- feedback: The cleft moves 'before publication' into the focus slot, so the sequence becomes the new information. It attributes nothing new: the second version has no agent, and the crop remains exactly as described in the first. -->
 - [ ] D) It proves the photograph was misleading once cropped.
   <!-- feedback: Whether the crop misled readers is a separate judgement that neither sentence makes. A grammatical rearrangement supplies no evidence about the effect on an audience. -->
 
@@ -442,23 +454,28 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.31
-**Contexto:** Discussing media ethics in Bogotá.
+**Contexto:** Two students in Medellín discuss a health claim found on a website.
 
 ### Enunciado
-In a high-level debate about media ethics, Isabella says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Isabella mean?
+Read the conversation.
+
+Carolina: "This website says chocolate cures the flu."
+Javier: "I'd take that with a pinch of salt. It doesn't mention any scientific studies."
+
+What does Javier mean?
 
 ### Opciones
-- [x] D) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of Cali.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] B) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] C) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [ ] A) Carolina should add salt to her chocolate.
+  <!-- feedback: This is a literal reading. Javier is talking about how to judge the claim, not about cooking. -->
+- [ ] B) The website is a reliable source of health information.
+  <!-- feedback: Javier points out that the site mentions no studies, which suggests it is not reliable. -->
+- [ ] C) Carolina should eat chocolate to cure the flu.
+  <!-- feedback: Javier doubts the claim, so he is not recommending chocolate as a cure. -->
+- [x] D) Carolina should be sceptical about the claim.
+  <!-- feedback: 'Take something with a pinch of salt' means not to believe it completely; Javier explains why: there is no scientific evidence. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+'Take it with a pinch (or grain) of salt' is a useful expression for discussing unreliable information. In this dialogue the second sentence gives the reason for doubt, which is a key habit in media literacy.
 
 ---
 
@@ -467,23 +484,27 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.28
-**Contexto:** Discussing media ethics in Bogotá.
+**Contexto:** A newspaper editor in Bogotá decides how to handle a celebrity rumour.
 
 ### Enunciado
-In a high-level debate about media ethics, Nicolás says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Nicolás mean?
+Read what the editor says.
+
+Editor: "Every outlet is publishing the rumour about the singer's arrest. We are not going to jump on the bandwagon until the police confirm it."
+
+What does the editor decide?
 
 ### Opciones
-- [x] C) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of Pereira.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] B) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] D) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [ ] A) To publish the rumour first, before other outlets.
+  <!-- feedback: Other outlets are already publishing it, and the editor refuses to follow them, so this is the opposite of the decision. -->
+- [ ] B) To send a reporter to travel with the singer's band.
+  <!-- feedback: This reads 'bandwagon' literally as a vehicle for a band. The idiom is about following a trend. -->
+- [x] C) Not to follow what other media are doing until the information is confirmed.
+  <!-- feedback: 'Jump on the bandwagon' means to join something because it is popular; the editor refuses to do this without police confirmation. -->
+- [ ] D) To stop reporting news about famous people forever.
+  <!-- feedback: The editor only waits 'until the police confirm it', so the decision is temporary, not permanent. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+Responsible journalism requires verification before publication. The idiom 'jump on the bandwagon' describes copying what others do, and the time clause 'until the police confirm it' shows the condition for publishing.
 
 ---
 
@@ -492,22 +513,28 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.25
-**Contexto:** Discussing media ethics in Bucaramanga.
+**Contexto:** A teacher in Tunja comments on a student's analysis of clickbait.
 
 ### Enunciado
-In a high-level debate about media ethics, Alejandro says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Alejandro mean?
+Read the conversation.
+
+Student: "I think the problem with clickbait is that the headline promises one thing and the article says another."
+Teacher: "You've hit the nail on the head."
+
+What does the teacher mean?
 
 ### Opciones
-- [x] D) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of Pereira.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] B) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] C) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [ ] A) The student has made a serious mistake.
+  <!-- feedback: The idiom is a compliment; it expresses agreement, not criticism. -->
+- [ ] B) The student should be more careful with tools.
+  <!-- feedback: This is a literal reading of 'nail' and 'head'. The conversation is about clickbait, not about tools. -->
+- [ ] C) The student's idea is interesting but not relevant.
+  <!-- feedback: The teacher's expression means the idea is exactly right, so it is fully relevant. -->
+- [x] D) The student has described the problem exactly.
+  <!-- feedback: 'Hit the nail on the head' means to describe something precisely; the teacher agrees with the student's definition of clickbait. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+Teachers and colleagues often use 'hit the nail on the head' to praise an accurate idea. Recognising positive feedback expressed through idioms is part of understanding the speaker's intention in a conversation.
 
 ---
+

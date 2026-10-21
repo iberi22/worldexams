@@ -35,14 +35,14 @@ cefr_level: "C1+"
 In the context of technological breakthroughs, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?
 
 ### Opciones
-- [x] D) exacerbate
-  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
 - [ ] A) alleviate
   <!-- feedback: Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed. -->
 - [ ] B) mitigate
   <!-- feedback: Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied. -->
 - [ ] C) facilitate
   <!-- feedback: Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide. -->
+- [x] D) exacerbate
+  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
 
 ### Explicacion Pedagogica
 This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.
@@ -60,10 +60,10 @@ This question tests advanced vocabulary (verbs of change and impact) suitable fo
 In the context of technological breakthroughs, which word best completes the following sentence: 'The prototype __________ by the engineering team last March is now being tested on real patients'?
 
 ### Opciones
-- [x] B) developed
-  <!-- feedback: 'Developed by the engineering team' is a reduced relative clause, the standard C1 way of saying that the team designed and built the prototype without repeating a full 'which was' construction. -->
 - [ ] A) developing
   <!-- feedback: A gerund before 'by' would leave the clause incomplete: 'developing by the team' is not a verb phrase, so it cannot modify 'the prototype' on its own. -->
+- [x] B) developed
+  <!-- feedback: 'Developed by the engineering team' is a reduced relative clause, the standard C1 way of saying that the team designed and built the prototype without repeating a full 'which was' construction. -->
 - [ ] C) designing
   <!-- feedback: The participle is grammatically valid, but the timeline contradicts the sentence. The prototype was built last March and is now being tested, so it must be described as completed, not as the act of designing it. -->
 - [ ] D) development
@@ -110,12 +110,12 @@ Business and research writing at C1+ describes delay as a resource consumed rath
 In the context of technological breakthroughs, which word best completes the following sentence: 'Robotics firms warn that the shortage of skilled technicians may ultimately __________ their own expansion plans'?
 
 ### Opciones
-- [x] C) constrain
-  <!-- feedback: 'To constrain is to limit or hold back within a set of limits. A shortage of technicians sets exactly that kind of external limit on how fast a firm can grow, so 'constrain their own plans' is the natural collocation. -->
 - [ ] A) accelerate
   <!-- feedback: 'Accelerate' means to make something happen faster. A shortage of workers works in the opposite direction, so the plans would slow down rather than speed up. -->
 - [ ] B) compensate
   <!-- feedback: 'To compensate for something' is to make up for a loss. A shortage would limit growth, but the sentence says the shortage threatens the plans, not that the firms are making up for damage already done. -->
+- [x] C) constrain
+  <!-- feedback: 'To constrain is to limit or hold back within a set of limits. A shortage of technicians sets exactly that kind of external limit on how fast a firm can grow, so 'constrain their own plans' is the natural collocation. -->
 - [ ] D) celebrate
   <!-- feedback: 'Celebrate' marks something as an achievement. Plans that are at risk of being held back are the opposite of an achievement, so the verb contradicts the warning in the sentence. -->
 
@@ -129,23 +129,27 @@ C1+ lexical precision means choosing between near-synonyms by their collocation 
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.70
-**Contexto:** Discussing technological breakthroughs in Manizales.
+**Contexto:** Reading a health news story about medical drones in Guaviare.
 
 ### Enunciado
-According to a recent report on technological breakthroughs in Manizales, what is implied about the role of Advanced Passive Voice in shaping public opinion?
+Read the text and answer the question.
+
+"In parts of Guaviare, the nearest hospital can be six hours away by river. Since 2024, a pilot project has used drones to deliver vaccines and blood samples between rural health posts and the hospital in San José del Guaviare. A flight that replaces a long boat trip takes about 40 minutes. Nurses say the drones cannot carry patients or large equipment, but for small, urgent packages they have saved valuable time."
+
+What is the main idea of the text?
 
 ### Opciones
-- [x] C) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
-- [ ] D) It is only used by academic elites in Cali.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [ ] A) Drones have replaced boats for all transport in Guaviare.
+  <!-- feedback: The nurses say drones cannot carry patients or large equipment, so boats are still needed. 'All transport' exaggerates the text. -->
+- [ ] B) Patients in Guaviare now travel to the hospital by drone.
+  <!-- feedback: The text explicitly says the drones cannot carry patients; they transport vaccines and samples. -->
+- [x] C) Drones are helping rural health posts send small urgent items faster.
+  <!-- feedback: The text explains what the drones carry (vaccines, samples), how much time they save (40 minutes instead of hours) and their limit (small packages only). -->
+- [ ] D) The hospital in San José del Guaviare needs more nurses.
+  <!-- feedback: Nurses are quoted as a source of opinion, but the text says nothing about a shortage of nurses. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Main-idea options often include an exaggeration (all transport) or a detail that contradicts the text (patients). The best answer includes the limitation the nurses mention, which shows careful reading of the final sentence.
 
 ---
 
@@ -154,23 +158,27 @@ This question requires inferential reading skills to understand how complex stru
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.67
-**Contexto:** Discussing technological breakthroughs in Bogotá.
+**Contexto:** Reading a university news story from Popayán about a translation app for the Nasa language.
 
 ### Enunciado
-According to a recent report on technological breakthroughs in Bogotá, what is implied about the role of Advanced Passive Voice in shaping public opinion?
+Read the text and answer the question.
+
+"A team at a university in Popayán is developing a mobile app that translates basic health questions between Spanish and Nasa Yuwe, the language of the Nasa people. Doctors in rural clinics often need help from a family member to communicate with older patients. The team recorded more than 3,000 phrases with Nasa speakers before writing any code. 'The technology was the easy part,' says one developer. 'Listening to the community took us two years.'"
+
+What does the developer suggest?
 
 ### Opciones
-- [x] A) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] B) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
-- [ ] D) It is only used by academic elites in Medellín.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [x] A) Working with the community was more difficult than building the app.
+  <!-- feedback: By calling the technology 'the easy part' and saying listening took two years, the developer implies that the community work was the hardest and longest stage. -->
+- [ ] B) The app was finished in a few weeks.
+  <!-- feedback: The text mentions two years of work with the community, and the app is still being developed, so 'a few weeks' is not supported. -->
+- [ ] C) Nasa speakers did not want to participate.
+  <!-- feedback: The team recorded more than 3,000 phrases with Nasa speakers, which shows the community did participate. -->
+- [ ] D) Doctors in rural clinics speak Nasa Yuwe fluently.
+  <!-- feedback: The text says doctors need help from family members to communicate, which means they do not speak the language well. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+When a speaker calls one part 'the easy part', the reader can infer that another part was harder. Comparing the two time references (code vs. two years of listening) confirms the implied contrast.
 
 ---
 
@@ -179,23 +187,27 @@ This question requires inferential reading skills to understand how complex stru
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.64
-**Contexto:** Discussing technological breakthroughs in Bucaramanga.
+**Contexto:** Reading a report about 3D-printed prosthetic hands made in Bucaramanga.
 
 ### Enunciado
-According to a recent report on technological breakthroughs in Bucaramanga, what is implied about the role of Advanced Passive Voice in shaping public opinion?
+Read the text and answer the question.
+
+"Losing a hand in an accident can change a worker's life. Traditional prosthetic hands can cost more than 20 million pesos, a price most rural families cannot pay. A foundation in Bucaramanga now uses 3D printers to make plastic hands for about 300,000 pesos. The printed hands are less strong than professional ones, but they are light, easy to repair and affordable. Children especially benefit, because they grow quickly and need a new prosthesis every year."
+
+In the text, the word "affordable" means:
 
 ### Opciones
-- [x] B) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
-- [ ] D) It is only used by academic elites in Pereira.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [ ] A) easy to repair
+  <!-- feedback: 'Easy to repair' is listed as a separate quality in the same sentence, so it cannot be the meaning of 'affordable'. -->
+- [x] B) cheap enough for people to buy
+  <!-- feedback: The text contrasts 20 million pesos, which families 'cannot pay', with about 300,000 pesos, so 'affordable' describes a price people are able to pay. -->
+- [ ] C) very strong
+  <!-- feedback: The text says the printed hands are 'less strong' than professional ones, so 'affordable' cannot mean strong. -->
+- [ ] D) light in weight
+  <!-- feedback: 'Light' is another quality in the same list. A word in a list usually adds a new idea instead of repeating one. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+When a word appears in a list, the other items in the list are usually different qualities, so they make good distractors. The price comparison earlier in the text is the context that explains the meaning of 'affordable'.
 
 ---
 
@@ -229,23 +241,27 @@ Inferential reading of causal clauses at C1+ means tracking why a condition is s
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.58
-**Contexto:** Discussing technological breakthroughs in Cali.
+**Contexto:** Reading an article about satellite internet in rural schools in Boyacá.
 
 ### Enunciado
-According to a recent report on technological breakthroughs in Cali, what is implied about the role of Advanced Passive Voice in shaping public opinion?
+Read the text and answer the question.
+
+"When the pandemic closed schools in 2020, students in the rural areas of Boyacá had a serious problem: many homes had no internet connection. Some teachers recorded lessons on the local radio station, while others printed worksheets and delivered them by motorbike. Today, a satellite internet project connects 40 rural schools in the department. Teachers say the connection is still slow on rainy days, but students can now send homework online and join video classes with schools in Tunja."
+
+According to the text, what problem still exists with the satellite internet?
 
 ### Opciones
-- [x] B) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
-- [ ] D) It is only used by academic elites in Cartagena.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [ ] A) It only works in the city of Tunja.
+  <!-- feedback: The satellite internet connects rural schools; Tunja is mentioned as a place students can connect with, not as the only place it works. -->
+- [x] B) The connection becomes slow when it rains.
+  <!-- feedback: The teachers say 'the connection is still slow on rainy days'; the word 'still' signals a problem that continues today. -->
+- [ ] C) Students cannot send homework online.
+  <!-- feedback: The text says students 'can now send homework online', so this is the opposite of the information given. -->
+- [ ] D) Teachers must deliver it by motorbike.
+  <!-- feedback: Motorbikes were used in 2020 to deliver printed worksheets, not internet. This option mixes two different parts of the text. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Words like 'still' and 'now' help readers separate past problems from present ones. A common trap is an option that takes a detail from the past (motorbike deliveries) and presents it as a current situation.
 
 ---
 
@@ -254,23 +270,27 @@ This question requires inferential reading skills to understand how complex stru
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.55
-**Contexto:** Discussing technological breakthroughs in Barranquilla.
+**Contexto:** Reading a student's opinion article in Ibagué about artificial intelligence and homework.
 
 ### Enunciado
-According to a recent report on technological breakthroughs in Barranquilla, what is implied about the role of Advanced Passive Voice in shaping public opinion?
+Read the text and answer the question.
+
+"Artificial intelligence tools can now write an essay in seconds. Some teachers in my school in Ibagué want to ban them completely. I understand their fear, but I think a ban will not work, because students can use these tools at home. A better solution is to teach us how to use them responsibly: to check facts, to give credit, and to write our own ideas first. Technology is not the enemy of learning; using it without thinking is."
+
+What is the writer's position on AI tools?
 
 ### Opciones
-- [x] A) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] B) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
-- [ ] D) It is only used by academic elites in Pereira.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [x] A) Students should learn to use them responsibly instead of having them banned.
+  <!-- feedback: The writer rejects the ban ('will not work') and proposes 'a better solution': teaching responsible use, with concrete examples such as checking facts. -->
+- [ ] B) Schools should ban them completely.
+  <!-- feedback: This is the teachers' position, which the writer understands but disagrees with. -->
+- [ ] C) They always provide accurate facts.
+  <!-- feedback: The writer says students must learn 'to check facts', which suggests the tools can be wrong. -->
+- [ ] D) They are the enemy of learning.
+  <!-- feedback: The last sentence says 'Technology is not the enemy of learning'; the problem is using it without thinking. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Opinion texts often present another group's view first and then the writer's own view after 'but'. Students should distinguish whose opinion each sentence expresses before choosing the answer.
 
 ---
 
@@ -285,10 +305,10 @@ This question requires inferential reading skills to understand how complex stru
 Complete the following sentence about technological breakthroughs: 'The chip was __________ at twice the thickness of the earlier design, which is why the heat had to be vented through a separate layer.' (Topic: past participle used as an adjective in a passive relative clause)
 
 ### Opciones
-- [x] B) fabricated
-  <!-- feedback: 'Fabricate' means to manufacture a physical object, and a chip is made rather than assembled from parts. The participle follows 'was' as a passive adjective, and the thickness mentioned is a property of a manufactured item. -->
 - [ ] A) conceived
   <!-- feedback: 'Conceive' means to form the idea of something, which applies to a design on paper rather than to a physical object. A chip with a stated thickness is a manufactured thing, not an idea. -->
+- [x] B) fabricated
+  <!-- feedback: 'Fabricate' means to manufacture a physical object, and a chip is made rather than assembled from parts. The participle follows 'was' as a passive adjective, and the thickness mentioned is a property of a manufactured item. -->
 - [ ] C) predicted
   <!-- feedback: 'Predict' means to say what will happen, and the sentence describes something that was actually produced. Nothing here concerns a forecast or a projection. -->
 - [ ] D) assembled
@@ -310,12 +330,12 @@ Participles after 'was' do not all mean the same kind of action, and choosing be
 Complete the following sentence about technological breakthroughs: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Advanced Passive Voice)
 
 ### Opciones
-- [x] C) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
 - [ ] A) has
   <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
 - [ ] B) was
   <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
+- [x] C) had
+  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
 - [ ] D) did
   <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
 
@@ -360,10 +380,10 @@ A duration given in the sentence is usually the signal for the continuous, and t
 Complete the following sentence about technological breakthroughs: 'It was not until the funding was renewed that the lab __________ a technician for the spectroscopy work.' (Topic: subject-verb inversion after an emphatic negative clause)
 
 ### Opciones
-- [x] B) could hire
-  <!-- feedback: After an emphatic negative opening such as 'It was not until... that', the subject and verb invert, so 'technician' and 'could hire' swap places. A modal makes the ability to recruit available once the money arrived. -->
 - [ ] A) can hire
   <!-- feedback: 'Can' is present, and the sentence establishes a past situation resolved at a point in time. The period of not hiring belonged to the past, so the modal has to be the past form. -->
+- [x] B) could hire
+  <!-- feedback: After an emphatic negative opening such as 'It was not until... that', the subject and verb invert, so 'technician' and 'could hire' swap places. A modal makes the ability to recruit available once the money arrived. -->
 - [ ] C) could have hired
   <!-- feedback: 'Could have hired' would place the hiring even earlier than the funding, which reverses the causal order the sentence states. The clause says the ability arrived only after the renewal. -->
 - [ ] D) might hire
@@ -385,14 +405,14 @@ Emphasis structures invert the subject and verb, and the tense is often what stu
 Complete the following sentence about technological breakthroughs: 'Only when the trial results were verified by an external lab __________ the new treatment be considered safe for wider use.' (Topic: cleft sentences with 'only')
 
 ### Opciones
-- [x] D) could
-  <!-- feedback: 'Only when...' makes a restrictive conditional, and the rest of the sentence needs a modal: 'could the new treatment be considered safe'. The perfect 'have been considered' would place the condition in the past, which the sentence does not do. -->
 - [ ] A) would
   <!-- feedback: 'Would' would form a second conditional and point to an unreal or hypothetical situation. Here the condition is presented as a real, verified requirement for a decision about safety, which is exactly what 'could' expresses. -->
 - [ ] B) must
   <!-- feedback: 'Must' expresses obligation, so the sentence would say the treatment is required to be considered safe. The clause only states what becomes possible once the verification happens, not what someone is obliged to do. -->
 - [ ] C) should
   <!-- feedback: 'Should' is used for advice, recommendations or expected outcomes, and it would suggest that somebody ought to make the treatment safe. Nothing in the sentence recommends an action; it sets a condition for a possibility. -->
+- [x] D) could
+  <!-- feedback: 'Only when...' makes a restrictive conditional, and the rest of the sentence needs a modal: 'could the new treatment be considered safe'. The perfect 'have been considered' would place the condition in the past, which the sentence does not do. -->
 
 ### Explicacion Pedagogica
 A cleft sentence with 'only' is a C1 device for controlling emphasis: everything that follows 'only' is presented as the decisive condition. Choosing the right modal means asking whether the clause describes a possibility, an obligation, a recommendation or a hypothetical, one of which is what this item tests.
@@ -404,23 +424,23 @@ A cleft sentence with 'only' is a C1 device for controlling emphasis: everything
 **Bloom:** Analyze
 **ICFES:** Structural Cloze
 **Expected_Success:** 0.37
-**Contexto:** Discussing technological breakthroughs in Medellín.
+**Contexto:** Reading a university report about replacing old laboratory equipment in Medellín.
 
 ### Enunciado
-Complete the following sentence about technological breakthroughs: 'The report notes that the equipment __________ the university two years ago has since been replaced, and the original was never decommissioned properly.' (Topic: reduced relative clause introduced by a noun phrase)
+Complete the following sentence about technological breakthroughs: 'The report notes that the scanner, __________ the university bought two years ago, has already been replaced by a faster model.' (Topic: non-defining relative clauses)
 
 ### Opciones
-- [x] C) which
-  <!-- feedback: A non-defining relative clause about a specific piece of equipment is introduced by 'which' or 'that', and the comma before it signals the non-defining form. The clause adds information about an item already identified rather than defining which one is meant. -->
 - [ ] A) what
-  <!-- feedback: 'What' introduces a clause acting as a subject or object, not a relative clause identifying a noun. A defining clause here would need to come without a comma and would not permit an item already referred to. -->
+  <!-- feedback: 'What' means 'the thing that' and cannot refer back to a noun already mentioned. 'The scanner, what the university bought' is not correct English. -->
 - [ ] B) where
-  <!-- feedback: 'Where' refers to a place, and no location is involved in the relative information about the equipment or its replacement. The clause comments on the object rather than on a site. -->
+  <!-- feedback: 'Where' refers to a place. The clause describes an object the university bought, so it needs a pronoun for a thing, not for a location. -->
+- [x] C) which
+  <!-- feedback: 'Which' introduces a non-defining clause about a thing, and here it is the object of 'bought': 'the scanner, which the university bought two years ago, has already been replaced'. -->
 - [ ] D) whose
-  <!-- feedback: 'Whose' introduces a clause showing possession, and the clause here describes what happened to the equipment rather than who owns it. The subject of the relative clause is 'the university', which cannot follow 'whose'. -->
+  <!-- feedback: 'Whose' shows possession and must be followed by a noun ('whose screen'). Here the verb 'the university bought' needs an object pronoun, not a possessive. -->
 
 ### Explicacion Pedagogica
-At C1+ a comma before a relative clause tells the student that the clause is non-defining and that the noun is already identified. That punctuation removes any need to choose between 'which' and 'that' and narrows the question to the relative pronoun itself.
+Non-defining relative clauses go between commas and add extra information about a noun. For things we use 'which' (never 'that' after a comma). To check, remove the clause: 'The scanner has already been replaced' must still be a complete sentence.
 
 ---
 
@@ -435,10 +455,10 @@ At C1+ a comma before a relative clause tells the student that the clause is non
 In a high-level debate about technological breakthroughs, Santiago says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Santiago mean?
 
 ### Opciones
-- [x] B) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
 - [ ] A) They are literally looking for something in the trees of Bucaramanga.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
+- [x] B) The current strategy is directed towards the wrong objective.
+  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
 - [ ] D) A new environmental project involving trees should be started.
@@ -454,23 +474,29 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.31
-**Contexto:** Discussing technological breakthroughs in Medellín.
+**Contexto:** Two engineering students in Bucaramanga discuss a failed battery test.
 
 ### Enunciado
-In a high-level debate about technological breakthroughs, Sebastián says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Sebastián mean?
+Read the conversation.
+
+Daniel: "The prototype battery overheated during the final test."
+Valeria: "So we're back to square one?"
+Daniel: "Not completely. The software still works."
+
+What does Valeria's question mean?
 
 ### Opciones
-- [x] A) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] B) They are literally looking for something in the trees of Bucaramanga.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] C) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] D) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [x] A) She wonders if they have to start the project again from the beginning.
+  <!-- feedback: 'Back to square one' means returning to the starting point after a failure; Daniel's answer 'Not completely' shows that only part of the work is lost. -->
+- [ ] B) She wants to move the test to a different room.
+  <!-- feedback: This is a literal reading of 'square'. Valeria reacts to the failed test, not to the location. -->
+- [ ] C) She thinks the battery needs a square shape.
+  <!-- feedback: The idiom has nothing to do with shape. It is a fixed expression about progress in a project. -->
+- [ ] D) She believes the project is finished successfully.
+  <!-- feedback: The battery overheated, so the test failed; her question expresses worry, not success. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+In dialogues, the response often clarifies the meaning of an idiom. Daniel's 'Not completely. The software still works' answers the question of whether all progress was lost, which confirms the meaning of 'back to square one'.
 
 ---
 
@@ -479,23 +505,27 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.28
-**Contexto:** Discussing technological breakthroughs in Pereira.
+**Contexto:** A teacher in Pasto gives instructions for an innovation project with farmers in Nariño.
 
 ### Enunciado
-In a high-level debate about technological breakthroughs, Lucía says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Lucía mean?
+Read what the teacher says.
+
+Teacher: "Your team has two weeks to come up with an idea for an app that helps farmers in Nariño."
+
+What does the teacher ask the team to do?
 
 ### Opciones
-- [x] B) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of Medellín.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] C) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] D) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [ ] A) Travel up to Nariño to meet the farmers.
+  <!-- feedback: This interprets 'come up' as physical movement. The object of the verb is 'an idea', not a place. -->
+- [x] B) Think of and propose an original idea.
+  <!-- feedback: The phrasal verb 'come up with' means to think of or produce a plan or idea; the deadline of two weeks refers to creating that idea. -->
+- [ ] C) Copy an app that already exists.
+  <!-- feedback: 'Come up with' implies creating something new, which is the opposite of copying an existing app. -->
+- [ ] D) Download an app on the farmers' phones.
+  <!-- feedback: The app does not exist yet; the team must first produce the idea for it. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+Phrasal verbs with two particles, like 'come up with', usually have a meaning that cannot be guessed from 'come' or 'up'. The object that follows ('an idea') is the best clue to the meaning.
 
 ---
 
@@ -504,22 +534,27 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.25
-**Contexto:** Discussing technological breakthroughs in Manizales.
+**Contexto:** A project manager in Bogotá talks about starting a robotics lab before funding arrives.
 
 ### Enunciado
-In a high-level debate about technological breakthroughs, Daniela says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Daniela mean?
+Read what the manager says.
+
+Manager: "The funding for the robotics lab won't arrive until June, but let's get the ball rolling by choosing the team now."
+
+What does the manager propose?
 
 ### Opciones
-- [x] A) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] B) They are literally looking for something in the trees of Cartagena.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] C) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] D) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [x] A) Starting the first steps of the project before the money arrives.
+  <!-- feedback: 'Get the ball rolling' means to start an activity; the manager proposes choosing the team now, even though the funding comes later. -->
+- [ ] B) Buying sports equipment for the robotics lab.
+  <!-- feedback: 'Ball' is part of the idiom, not a real object. The lab is for robots, not for sports. -->
+- [ ] C) Waiting until June to make any decisions.
+  <!-- feedback: The word 'but' and the word 'now' show that the manager does not want to wait. -->
+- [ ] D) Cancelling the project because of the delay.
+  <!-- feedback: The manager wants to begin the project, not cancel it; the delay is only in the funding. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+Idioms of starting ('get the ball rolling', 'kick off') often appear after a contrast with a delay or obstacle. Here 'but ... now' shows the manager's intention to begin immediately despite the late funding.
 
 ---
+
