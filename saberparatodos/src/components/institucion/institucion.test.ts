@@ -2,6 +2,7 @@ import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
 import { cleanup, fireEvent, render, waitFor, within } from '@testing-library/svelte';
 import { createMockTeacherApi } from '../../lib/institutions/mock-adapter';
 import { InstApiError, TEACHER_SESSION_KEY } from '../../lib/institutions/teacher-client';
+import AssignmentsTab from './AssignmentsTab.svelte';
 import LoginForm from './LoginForm.svelte';
 import ResultsTab from './ResultsTab.svelte';
 import StudentsTab from './StudentsTab.svelte';
@@ -24,6 +25,8 @@ const countries: CountryOption[] = [
     ],
   },
   { code: 'MX', name: 'México', flag: '🇲🇽', subjects: [], grades: [{ id: 9, name: '3° Secundaria' }] },
+  // Not accepted by the institutions API: must never be offered.
+  { code: 'US', name: 'United States', flag: '🇺🇸', subjects: [], grades: [{ id: 12, name: 'Grade 12' }] },
 ];
 
 async function signedInMock(options: Parameters<typeof createMockTeacherApi>[0] = {}) {
@@ -127,6 +130,8 @@ describe('TeacherPanel', () => {
     });
 
     expect(await findByText('Crea tu institución')).toBeTruthy();
+    const countryOptions = Array.from((getByLabelText('País') as HTMLSelectElement).options).map((o) => o.value);
+    expect(countryOptions).toEqual(['co', 'mx']);
     await fireEvent.input(getByLabelText('Nombre de la institución'), { target: { value: 'Colegio San José' } });
     await fireEvent.input(getByLabelText('Ciudad'), { target: { value: 'Medellín' } });
     await fireEvent.click(getByRole('button', { name: 'Crear institución' }));
@@ -192,6 +197,7 @@ describe('StudentsTab', () => {
       props: { api, group, institutionName: 'Colegio Demo', onUnauthorized: vi.fn() },
     });
     await findByText('Tito');
+    expect(queryByText(/Se unió —/)).toBeNull();
 
     const [, titoCode] = getAllByLabelText('Código de estudiante');
     await fireEvent.input(titoCode, { target: { value: '1102' } });
@@ -206,6 +212,50 @@ describe('StudentsTab', () => {
     await fireEvent.click(confirm);
     expect(remove).toHaveBeenCalledWith(group.id, 's_2');
     await waitFor(() => expect(queryByText('Tito')).toBeNull());
+  });
+});
+
+describe('AssignmentsTab', () => {
+  it('sends dueAt as an ISO-8601 string and shows ISO dates from the API', async () => {
+    const api = createMockTeacherApi({ seeded: true });
+    const create = vi.spyOn(api, 'createAssignment');
+    const group = api.state.groups[0];
+    const { findByText, getByLabelText, getByRole, getAllByText } = render(AssignmentsTab, {
+      props: { api, group, country: countries[0], countryCode: 'co', onUnauthorized: vi.fn() },
+    });
+    await findByText('Repaso de funciones');
+    expect(getAllByText(/Vence/)[0].textContent).not.toMatch(/Vence —/);
+
+    await fireEvent.input(getByLabelText('Título'), { target: { value: 'Taller de álgebra' } });
+    await fireEvent.change(getByLabelText('Asignatura'), { target: { value: 'matematicas' } });
+    await fireEvent.input(getByLabelText(/Número de preguntas/), { target: { value: '30' } });
+    await fireEvent.input(getByLabelText(/Fecha límite/), { target: { value: '2030-03-15' } });
+    await fireEvent.click(getByRole('button', { name: 'Crear tarea' }));
+
+    expect(create).toHaveBeenCalledTimes(1);
+    const body = create.mock.calls[0][1];
+    expect(body).toMatchObject({ title: 'Taller de álgebra', country: 'co', grade: 11, subject: 'matematicas', questionCount: 30 });
+    expect(typeof body.dueAt).toBe('string');
+    expect(Number.isNaN(Date.parse(body.dueAt as string))).toBe(false);
+    expect(await findByText('Taller de álgebra')).toBeTruthy();
+  });
+
+  it('sends dueAt null when no date is chosen and rejects out-of-range counts', async () => {
+    const api = createMockTeacherApi({ seeded: true });
+    const create = vi.spyOn(api, 'createAssignment');
+    const group = api.state.groups[0];
+    const { getByLabelText, getByRole, findByRole } = render(AssignmentsTab, {
+      props: { api, group, country: countries[0], countryCode: 'co', onUnauthorized: vi.fn() },
+    });
+    await fireEvent.input(getByLabelText('Título'), { target: { value: 'Sin fecha' } });
+    await fireEvent.input(getByLabelText(/Número de preguntas/), { target: { value: '61' } });
+    await fireEvent.click(getByRole('button', { name: 'Crear tarea' }));
+    expect((await findByRole('alert')).textContent).toMatch(/entre 10 y 60/);
+    expect(create).not.toHaveBeenCalled();
+
+    await fireEvent.input(getByLabelText(/Número de preguntas/), { target: { value: '10' } });
+    await fireEvent.click(getByRole('button', { name: 'Crear tarea' }));
+    expect(create.mock.calls[0][1].dueAt).toBeNull();
   });
 });
 

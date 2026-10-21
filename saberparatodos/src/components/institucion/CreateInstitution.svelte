@@ -1,5 +1,10 @@
 <script lang="ts">
-  import { isUnauthorized, teacherErrorMessage } from '../../lib/institutions/teacher-client';
+  import {
+    INSTITUTION_COUNTRIES,
+    isInstitutionCountry,
+    isUnauthorized,
+    teacherErrorMessage,
+  } from '../../lib/institutions/teacher-client';
   import type { Institution, Teacher, TeacherApi } from '../../lib/institutions/types';
   import ErrorNotice from './ErrorNotice.svelte';
   import { ui, type CountryOption } from './ui';
@@ -20,10 +25,13 @@
     onUnauthorized: () => void;
   } = $props();
 
+  const allowedCountries = $derived(countries.filter((c) => isInstitutionCountry(c.code)));
+
+  // svelte-ignore state_referenced_locally
   let teacherName = $state(teacher.name ?? '');
   let name = $state('');
   // svelte-ignore state_referenced_locally
-  let country = $state(defaultCountry.toLowerCase());
+  let country = $state(isInstitutionCountry(defaultCountry) ? defaultCountry.toLowerCase() : INSTITUTION_COUNTRIES[0]);
   let city = $state('');
   let saving = $state(false);
   let error = $state('');
@@ -31,7 +39,7 @@
   async function submit(event: SubmitEvent) {
     event.preventDefault();
     error = '';
-    if (name.trim().length < 2 || city.trim().length < 2) {
+    if (name.trim().length < 2 || city.trim().length < 1) {
       error = 'Escribe el nombre de la institución y la ciudad.';
       return;
     }
@@ -71,7 +79,7 @@
       <div>
         <label class={ui.label} for="inst-country">País</label>
         <select id="inst-country" class={ui.input} bind:value={country}>
-          {#each countries as option (option.code)}
+          {#each allowedCountries as option (option.code)}
             <option value={option.code.toLowerCase()}>{option.flag} {option.name}</option>
           {/each}
         </select>

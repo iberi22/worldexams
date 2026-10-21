@@ -5,7 +5,10 @@ import {
   canCreateGroup,
   clearTeacherSession,
   createTeacherClient,
-  dueDateToTimestamp,
+  INSTITUTION_COUNTRIES,
+  dueDateToIso,
+  formatDate,
+  isInstitutionCountry,
   isUnauthorized,
   joinUrl,
   loadTeacherSession,
@@ -13,7 +16,7 @@ import {
   resolveInstApiBase,
   saveTeacherSession,
   teacherErrorMessage,
-  toEpochMs,
+  parseTimestamp,
 } from './teacher-client';
 
 function jsonResponse(body: unknown, status = 200): Response {
@@ -110,12 +113,13 @@ describe('createTeacherClient', () => {
   });
 
   it('maps contract error codes', async () => {
-    const fetchMock = vi.fn().mockResolvedValue(jsonResponse({ error: 'PLAN_LIMIT' }, 409));
+    const fetchMock = vi.fn().mockResolvedValue(jsonResponse({ error: 'PLAN_LIMIT', resource: 'groups' }, 409));
     const client = createTeacherClient({ baseUrl: base, fetch: fetchMock, getToken: () => 't' });
     const error = await client.createGroup({ name: 'x', grade: 6 }).catch((e) => e);
     expect(error).toBeInstanceOf(InstApiError);
     expect(error.code).toBe('PLAN_LIMIT');
-    expect(teacherErrorMessage(error)).toMatch(/límite de tu plan/);
+    expect(error.resource).toBe('groups');
+    expect(teacherErrorMessage(error)).toMatch(/límite de grupos/);
   });
 
   it('flags 401 as unauthorized even without a body', async () => {
@@ -148,16 +152,46 @@ describe('helpers', () => {
     expect(planUsageLabel('district', 5)).toContain('sin límite');
   });
 
-  it('timestamps', () => {
-    expect(toEpochMs(1_700_000_000)).toBe(1_700_000_000_000);
-    expect(toEpochMs(1_700_000_000_000)).toBe(1_700_000_000_000);
-    expect(toEpochMs(null)).toBeNull();
-    expect(dueDateToTimestamp('bad')).toBeNull();
-    const due = dueDateToTimestamp('2026-11-03') as number;
-    expect(new Date(due * 1000).getDate()).toBe(3);
+  it('parses ISO-8601 timestamps from the API', () => {
+    expect(parseTimestamp('2026-10-21T05:00:00.000Z')).toBe(Date.UTC(2026, 9, 21, 5));
+    expect(parseTimestamp('2026-10-21T05:00:00Z')).toBe(Date.UTC(2026, 9, 21, 5));
+    expect(parseTimestamp(null)).toBeNull();
+    expect(parseTimestamp('nope')).toBeNull();
+    expect(formatDate('2026-10-21T12:00:00Z')).toMatch(/21/);
+    expect(formatDate('2026-10-21T12:00:00Z')).not.toBe('—');
+    expect(formatDate(null)).toBe('—');
   });
 
-  it('join url', () => {
-    expect(joinUrl('ABC234', 'https://saberparatodos.space/')).toBe('https://saberparatodos.space/?colegio=ABC234');
+  it('due dates go out as ISO-8601 strings, never numbers', () => {
+    expect(dueDateToIso('bad')).toBeNull();
+    const due = dueDateToIso('2026-11-03') as string;
+    expect(typeof due).toBe('string');
+    expect(due).toMatch(/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d{3}Z$/);
+    const local = new Date(due);
+    expect([local.getFullYear(), local.getMonth(), local.getDate(), local.getHours()]).toEqual([2026, 10, 3, 23]);
+  });
+
+  it('join url points at the student panel in /perfil', () => {
+    expect(joinUrl('ABC234', 'https://saberparatodos.space/')).toBe(
+      'https://saberparatodos.space/perfil?colegio=ABC234#mi-colegio'
+    );
+  });
+
+  it('only the API countries are accepted', () => {
+    expect(INSTITUTION_COUNTRIES).toHaveLength(20);
+    expect(isInstitutionCountry('CO')).toBe(true);
+    expect(isInstitutionCountry('us')).toBe(false);
+    expect(isInstitutionCountry('US')).toBe(false);
+  });
+
+  it('PLAN_LIMIT message names the exhausted resource', () => {
+    expect(teacherErrorMessage(new InstApiError(409, 'PLAN_LIMIT', undefined, 'students'))).toMatch(/límite de estudiantes/);
+    expect(teacherErrorMessage(new InstApiError(409, 'PLAN_LIMIT', undefined, 'activeAssignments'))).toMatch(/tareas activas/);
+    expect(teacherErrorMessage(new InstApiError(409, 'PLAN_LIMIT', undefined, 'groups'))).toMatch(/límite de grupos/);
+  });
+
+  it('verify errors keep their specific message despite 401', () => {
+    expect(teacherErrorMessage(new InstApiError(401, 'TOKEN_USED'))).toMatch(/ya se usó/);
+    expect(teacherErrorMessage(new InstApiError(401, 'TOKEN_EXPIRED'))).toMatch(/expiró/);
   });
 });

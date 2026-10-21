@@ -7,17 +7,20 @@
 import Layout from '../../layouts/Layout.astro';
 import TeacherPanel from '../../components/institucion/TeacherPanel.svelte';
 import { resolveRuntimeCountryConfig, supportedCountries } from '../../config';
+import { INSTITUTION_COUNTRIES, isInstitutionCountry } from '../../lib/institutions/teacher-client';
 
 export const prerender = false;
 
 const countryConfig = resolveRuntimeCountryConfig(Astro.locals.country);
-const countries = supportedCountries.map((c) => ({
+// Only the countries the institutions API accepts (no 'us').
+const countries = supportedCountries.filter((c) => isInstitutionCountry(c.code)).map((c) => ({
   code: c.code,
   name: c.name,
   flag: c.flag,
   subjects: c.subjects.map((s) => ({ id: s.id, name: s.name })),
   grades: c.grades.map((g) => ({ id: g.id, name: g.name })),
 }));
+const defaultCountry = isInstitutionCountry(countryConfig.code) ? countryConfig.code.toLowerCase() : INSTITUTION_COUNTRIES[0];
 ---
 
 <Layout
@@ -27,7 +30,7 @@ const countries = supportedCountries.map((c) => ({
 >
   <div class="min-h-screen bg-gradient-to-b from-gray-950 via-[#0a0a0f] to-black px-4 py-10 text-white sm:px-6 lg:px-8">
     <div class="mx-auto w-full max-w-5xl">
-      <TeacherPanel client:load countries={countries} defaultCountry={countryConfig.code} />
+      <TeacherPanel client:load countries={countries} defaultCountry={defaultCountry} />
     </div>
   </div>
 </Layout>

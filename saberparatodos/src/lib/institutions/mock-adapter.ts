@@ -3,7 +3,7 @@
  * Used by the component tests and by the panel when `PUBLIC_INST_MOCK=1` (local only),
  * so the teacher side works before the API (W2.04) is deployed.
  */
-import { InstApiError, PLAN_LIMITS } from './teacher-client';
+import { InstApiError, PLAN_LIMITS, isInstitutionCountry } from './teacher-client';
 import type {
   Assignment,
   Group,
@@ -35,8 +35,9 @@ export interface MockOptions {
   seeded?: boolean;
 }
 
-function nowSeconds(): number {
-  return Math.floor(Date.now() / 1000);
+/** ISO-8601 UTC string `offsetS` seconds from now, like the API returns. */
+function isoAt(offsetS = 0): string {
+  return new Date(Date.now() + offsetS * 1000).toISOString();
 }
 
 let counter = 0;
@@ -76,12 +77,11 @@ export function createMockTeacherApi(options: MockOptions = {}): TeacherApi & { 
       plan: options.plan ?? 'free',
     };
     state.sessionToken = 'mock-session';
-    const group: Group = { id: 'g_demo', name: '11-A', grade: 11, joinCode: 'K7M2QX', createdAt: nowSeconds() };
+    const group: Group = { id: 'g_demo', name: '11-A', grade: 11, joinCode: 'K7M2QX', createdAt: isoAt() };
     state.groups.push(group);
-    const t = nowSeconds();
     state.students[group.id] = [
-      { id: 's_1', nickname: 'Luna', studentCode: '1101', joinedAt: t - 86400 * 5, lastResultAt: t - 3600, avgPct: 0 },
-      { id: 's_2', nickname: 'Tito', studentCode: null, joinedAt: t - 86400 * 4, lastResultAt: t - 7200, avgPct: 0 },
+      { id: 's_1', nickname: 'Luna', studentCode: '1101', joinedAt: isoAt(-86400 * 5), lastResultAt: isoAt(-3600), avgPct: 0 },
+      { id: 's_2', nickname: 'Tito', studentCode: null, joinedAt: isoAt(-86400 * 4), lastResultAt: isoAt(-7200), avgPct: 0 },
     ];
     state.assignments[group.id] = [
       {
@@ -92,14 +92,14 @@ export function createMockTeacherApi(options: MockOptions = {}): TeacherApi & { 
         grade: 11,
         subject: 'matematicas',
         questionCount: 20,
-        dueAt: t + 86400 * 3,
-        createdAt: t - 86400,
+        dueAt: isoAt(86400 * 3),
+        createdAt: isoAt(-86400),
       },
     ];
     state.results[group.id] = [
-      row('s_1', 'Luna', '1101', 'assignment', 'matematicas', 20, 16, 900, t - 3600),
-      row('s_2', 'Tito', null, 'assignment', 'matematicas', 20, 11, 1200, t - 7200),
-      row('s_1', 'Luna', '1101', 'practice', 'lectura-critica', 10, 9, 400, t - 9000),
+      row('s_1', 'Luna', '1101', 'assignment', 'matematicas', 20, 16, 900, isoAt(-3600)),
+      row('s_2', 'Tito', null, 'assignment', 'matematicas', 20, 11, 1200, isoAt(-7200)),
+      row('s_1', 'Luna', '1101', 'practice', 'lectura-critica', 10, 9, 400, isoAt(-9000)),
     ];
   }
 
@@ -112,7 +112,7 @@ export function createMockTeacherApi(options: MockOptions = {}): TeacherApi & { 
     total: number,
     correct: number,
     durationS: number,
-    createdAt: number
+    createdAt: string
   ): ResultRow {
     return { studentId, nickname, studentCode, source, subject, total, correct, pct: pct(correct, total), durationS, createdAt };
   }
@@ -175,15 +175,20 @@ export function createMockTeacherApi(options: MockOptions = {}): TeacherApi & { 
     async createInstitution({ name, country, city }) {
       const teacher = requireTeacher();
       if (state.institution) throw new InstApiError(409, 'INSTITUTION_EXISTS');
-      state.institution = { id: id('i'), name, country, city, plan: options.plan ?? 'free', createdAt: nowSeconds() };
+      if (!isInstitutionCountry(country)) throw new InstApiError(400, 'INVALID_INPUT');
+      state.institution = { id: id('i'), name, country: country.toLowerCase(), city, plan: options.plan ?? 'free', createdAt: isoAt() };
       teacher.role = 'owner';
       return state.institution;
     },
 
     async createGroup({ name, grade }) {
-      const institution = requireInstitution();
-      if (state.groups.length >= PLAN_LIMITS[institution.plan].groups) throw new InstApiError(409, 'PLAN_LIMIT');
-      const group: Group = { id: id('g'), name, grade, joinCode: joinCode(), createdAt: nowSeconds() };
+      requireTeacher();
+      if (!state.institution) throw new InstApiError(409, 'NO_INSTITUTION');
+      const institution = state.institution;
+      if (state.groups.length >= PLAN_LIMITS[institution.plan].groups) {
+        throw new InstApiError(409, 'PLAN_LIMIT', undefined, 'groups');
+      }
+      const group: Group = { id: id('g'), name, grade, joinCode: joinCode(), createdAt: isoAt() };
       state.groups.push(group);
       state.students[group.id] = [];
       state.assignments[group.id] = [];
@@ -192,7 +197,8 @@ export function createMockTeacherApi(options: MockOptions = {}): TeacherApi & { 
     },
 
     async listGroups() {
-      requireInstitution();
+      requireTeacher();
+      if (!state.institution) return [];
       return state.groups.map((g) => ({
         ...g,
         studentCount: state.students[g.id]?.length ?? 0,
@@ -210,7 +216,7 @@ export function createMockTeacherApi(options: MockOptions = {}): TeacherApi & { 
         return {
           ...s,
           avgPct: mine.length ? pct(correct, total) : null,
-          lastResultAt: mine.length ? Math.max(...mine.map((r) => r.createdAt)) : null,
+          lastResultAt: mine.length ? mine.map((r) => r.createdAt).sort().at(-1) ?? null : null,
         };
       });
     },
@@ -232,10 +238,18 @@ export function createMockTeacherApi(options: MockOptions = {}): TeacherApi & { 
     async createAssignment(groupId, input) {
       const group = requireGroup(groupId);
       const institution = requireInstitution();
-      const active = Object.values(state.assignments).flat().length;
-      if (active >= PLAN_LIMITS[institution.plan].activeAssignments) throw new InstApiError(409, 'PLAN_LIMIT');
+      if (input.dueAt !== null && (typeof input.dueAt !== 'string' || Number.isNaN(Date.parse(input.dueAt)))) {
+        throw new InstApiError(400, 'INVALID_INPUT');
+      }
+      const now = Date.now();
+      const active = Object.values(state.assignments)
+        .flat()
+        .filter((a) => a.dueAt === null || Date.parse(a.dueAt) > now).length;
+      if (active >= PLAN_LIMITS[institution.plan].activeAssignments) {
+        throw new InstApiError(409, 'PLAN_LIMIT', undefined, 'activeAssignments');
+      }
       if (input.questionCount < 10 || input.questionCount > 60) throw new InstApiError(400, 'INVALID_INPUT');
-      const assignment: Assignment = { ...input, id: id('a'), groupId: group.id, createdAt: nowSeconds(), completedCount: 0 };
+      const assignment: Assignment = { ...input, id: id('a'), groupId: group.id, createdAt: isoAt(), completedCount: 0 };
       state.assignments[groupId] = [...(state.assignments[groupId] ?? []), assignment];
       return assignment;
     },
@@ -264,14 +278,15 @@ export function createMockTeacherApi(options: MockOptions = {}): TeacherApi & { 
         bySubject[key] = entry;
       }
       const avgPct = rows.length ? Math.round(rows.reduce((acc, r) => acc + r.pct, 0) / rows.length) : null;
-      return { rows, summary: { students: new Set(rows.map((r) => r.studentId)).size, avgPct, bySubject } };
+      rows.sort((a, b) => b.createdAt.localeCompare(a.createdAt));
+      return { rows, summary: { students: new Set(rows.map((r) => r.studentId)).size, avgPct, bySubject }, truncated: false };
     },
 
     async downloadResultsCsv(groupId) {
       requireGroup(groupId);
       const header = 'nickname,student_code,source,subject,total,correct,pct,duration_s,created_at_iso';
       const lines = (state.results[groupId] ?? []).map((r) =>
-        [r.nickname, r.studentCode ?? '', r.source, r.subject ?? '', r.total, r.correct, r.pct, r.durationS, new Date(r.createdAt * 1000).toISOString()].join(',')
+        [r.nickname, r.studentCode ?? '', r.source, r.subject ?? '', r.total, r.correct, r.pct, r.durationS, r.createdAt].join(',')
       );
       return new Blob(['﻿' + [header, ...lines].join('\n')], { type: 'text/csv;charset=utf-8' });
     },

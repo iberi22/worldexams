@@ -7,8 +7,8 @@ export type InstitutionPlan = 'free' | 'school' | 'district';
 export type TeacherRole = 'owner' | 'teacher';
 export type ResultSource = 'assignment' | 'practice' | 'neurogym';
 
-/** Unix timestamp. The API stores INTEGER columns; read with `toEpochMs`. */
-export type Timestamp = number;
+/** ISO-8601 UTC string, as the API returns it (CONTRACT, W2.04 clarifications). Read with `parseTimestamp`. */
+export type Timestamp = string;
 
 export interface Institution {
   id: string;
@@ -92,6 +92,8 @@ export interface ResultsSummary {
 export interface ResultsResponse {
   rows: ResultRow[];
   summary: ResultsSummary;
+  /** True when the API capped the rows (10,000, newest first). */
+  truncated?: boolean;
 }
 
 export interface AuthRequestResponse {

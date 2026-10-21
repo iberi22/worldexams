@@ -20,6 +20,7 @@
   type SortKey = 'nickname' | 'studentCode' | 'subject' | 'source' | 'pct' | 'durationS' | 'createdAt';
 
   let rows = $state<ResultRow[]>([]);
+  let truncated = $state(false);
   let assignments = $state<Assignment[]>([]);
   let assignmentId = $state('');
   let subjectFilter = $state('');
@@ -77,7 +78,9 @@
     loading = true;
     error = '';
     try {
-      rows = (await api.getResults(group.id, assignmentId || undefined)).rows;
+      const response = await api.getResults(group.id, assignmentId || undefined);
+      rows = response.rows;
+      truncated = Boolean(response.truncated);
     } catch (e) {
       fail(e);
     } finally {
@@ -190,6 +193,12 @@
         </li>
       {/each}
     </ul>
+  {/if}
+
+  {#if truncated}
+    <p class="text-xs text-amber-200" role="status">
+      Se muestran los resultados más recientes (máximo 10.000). Filtra por tarea para ver un periodo concreto.
+    </p>
   {/if}
 
   {#if loading}
