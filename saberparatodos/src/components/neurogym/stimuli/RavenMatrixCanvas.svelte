@@ -11,7 +11,7 @@
 
 <div class="flex flex-col items-center gap-6 w-full max-w-xl mx-auto">
   <div class="text-center">
-    <span class="text-xs uppercase tracking-widest text-emerald-400 font-bold">Matrices Lógicas Abstractas (Proxy IQ)</span>
+    <span class="text-xs uppercase tracking-widest text-emerald-400 font-bold">Matrices Lógicas Abstractas</span>
     <p class="text-xs text-white/50 mt-1">Identifica el patrón geométrico y selecciona la figura que completa la cuadrícula.</p>
   </div>
 

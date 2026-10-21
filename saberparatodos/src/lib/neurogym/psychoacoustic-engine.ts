@@ -15,28 +15,28 @@ export interface BrainwaveConfig {
 
 export const BRAINWAVE_PRESETS: Record<BrainwaveTarget, BrainwaveConfig> = {
   alpha_focus: {
-    name: 'Enfoque Profundo (Alpha 10Hz)',
+    name: 'Enfoque (Alpha 10Hz)',
     carrierHz: 216,
     beatHz: 10,
-    description: 'Reduce el ruido mental y optimiza la lectura comprensiva y resolución analítica.'
+    description: 'Tono binaural suave de 10 Hz como fondo para tareas de lectura y concentración.'
   },
   beta_speed: {
-    name: 'Agilidad & Procesamiento (Beta 18Hz)',
+    name: 'Ritmo rápido (Beta 18Hz)',
     carrierHz: 250,
     beatHz: 18,
-    description: 'Aumenta la velocidad de procesamiento perceptivo y respuesta motora rápida.'
+    description: 'Tono binaural de 18 Hz como fondo para ejercicios rápidos.'
   },
   gamma_memory: {
-    name: 'Consolidación & Memoria (Gamma 40Hz)',
+    name: 'Memoria (Gamma 40Hz)',
     carrierHz: 300,
     beatHz: 40,
-    description: 'Estimula la vinculación de información multidimensional en memoria de trabajo.'
+    description: 'Tono binaural de 40 Hz como fondo para ejercicios de memoria.'
   },
   theta_creativity: {
-    name: 'Pensamiento Lateral & Creatividad (Theta 6Hz)',
+    name: 'Creatividad (Theta 6Hz)',
     carrierHz: 180,
     beatHz: 6,
-    description: 'Favorece la intuición lógica y enfoques no lineales ante problemas complejos.'
+    description: 'Tono binaural lento de 6 Hz como fondo para pausas y tareas creativas.'
   }
 };
 

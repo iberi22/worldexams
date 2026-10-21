@@ -11,10 +11,13 @@
     spanLength?: number;
     seed?: number;
     delayMs?: number;
+    /** Permite repetir la secuencia (desactivar en rondas puntuadas). */
+    allowReplay?: boolean;
     onComplete?: (success: boolean, maxSpan: number) => void;
   }
 
-  let { spanLength = 4, seed = 1, delayMs, onComplete }: Props = $props();
+  let { spanLength = 4, seed = 1, delayMs, allowReplay = true, onComplete }: Props = $props();
+  let destroyed = false;
 
   let item = $state<CorsiSequenceItem>(generateCorsiSequence(spanLength, seed));
   let phase = $state<'memorize' | 'recall' | 'feedback'>('memorize');
@@ -48,6 +51,7 @@
     await new Promise(r => setTimeout(r, 500));
 
     for (let i = 0; i < item.blockSequence.length; i++) {
+      if (destroyed) return;
       const blockIdx = item.blockSequence[i];
       activeBlock = blockIdx;
       neuroAudio.playNBackLetterTone(blockIdx);
@@ -101,6 +105,9 @@
     // Re-iniciar secuencia si cambian spanLength o seed
     item = generateCorsiSequence(spanLength, seed);
     playSequence();
+    return () => {
+      destroyed = true;
+    };
   });
 </script>
 
@@ -123,6 +130,7 @@
       >
         {is3D ? '🧊 Vista 3D' : '📐 Vista 2D'}
       </button>
+      {#if allowReplay}
       <button
         type="button"
         disabled={phase === 'memorize'}
@@ -132,10 +140,11 @@
       >
         🔄 Repetir
       </button>
+      {/if}
     </div>
   </div>
 
-  <div class="text-center">
+  <div class="text-center" aria-live="polite">
     <p class="text-xs text-white/80 font-medium">
       {#if phase === 'memorize'}
         👀 <span class="text-cyan-300 font-bold">Memoriza</span> la secuencia de bloques que se iluminan...

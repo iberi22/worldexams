@@ -5,15 +5,17 @@
 
   interface Props {
     onComplete?: (success: boolean, latencyMs: number) => void;
+    /** Orientación objetivo en grados (múltiplos de 15°). */
+    targetAngle?: { x: number; y: number };
   }
 
-  let { onComplete }: Props = $props();
+  let { onComplete, targetAngle: targetProp }: Props = $props();
 
   let canvasElem: HTMLCanvasElement;
   let engine: WebGPUSpatialEngine;
   let capabilities = $state<WebGPUCapabilities | null>(null);
 
-  let targetAngle = $state({ x: 30, y: 45, z: 0 });
+  let targetAngle = $derived({ x: normalize(targetProp?.x ?? 30), y: normalize(targetProp?.y ?? 45), z: 0 });
   let userAngle = $state({ x: 0, y: 0, z: 0 });
   let startTime = 0;
   let isMatched = $state(false);
@@ -24,25 +26,44 @@
     }
   }
 
+  function normalize(deg: number): number {
+    return ((deg % 360) + 360) % 360;
+  }
+
   function handleRotate(axis: 'x' | 'y', delta: number) {
-    if (axis === 'x') userAngle.x = (userAngle.x + delta) % 360;
-    if (axis === 'y') userAngle.y = (userAngle.y + delta) % 360;
+    if (isMatched) return;
+    if (axis === 'x') userAngle.x = normalize(userAngle.x + delta);
+    if (axis === 'y') userAngle.y = normalize(userAngle.y + delta);
     neuroAudio.playTone(300 + Math.abs(userAngle.y) * 2, 0.05);
     renderLoop();
     checkAlignment();
   }
 
   function checkAlignment() {
-    const diffX = Math.abs((userAngle.x % 360) - targetAngle.x);
-    const diffY = Math.abs((userAngle.y % 360) - targetAngle.y);
+    const diffX = Math.abs(normalize(userAngle.x) - targetAngle.x);
+    const diffY = Math.abs(normalize(userAngle.y) - targetAngle.y);
 
-    if ((diffX < 15 || diffX > 345) && (diffY < 15 || diffY > 345)) {
+    if (!isMatched && (diffX < 15 || diffX > 345) && (diffY < 15 || diffY > 345)) {
       isMatched = true;
       neuroAudio.playSuccess();
       const latency = Math.round(performance.now() - startTime);
       setTimeout(() => {
         onComplete?.(true, latency);
       }, 800);
+    }
+  }
+
+  function handleKeydown(event: KeyboardEvent) {
+    const map: Record<string, ['x' | 'y', number]> = {
+      ArrowUp: ['x', -15],
+      ArrowDown: ['x', 15],
+      ArrowLeft: ['y', -15],
+      ArrowRight: ['y', 15]
+    };
+    const action = map[event.key];
+    if (action) {
+      event.preventDefault();
+      handleRotate(action[0], action[1]);
     }
   }
 
@@ -54,18 +75,23 @@
   });
 </script>
 
+<svelte:window onkeydown={handleKeydown} />
+
 <div class="flex flex-col items-center gap-4 w-full max-w-xl mx-auto select-none">
   <div class="text-center">
     <div class="flex items-center justify-center gap-2">
       <span class="text-xs uppercase tracking-widest text-emerald-400 font-bold">Juego 3D de Rotación Mental</span>
       {#if capabilities}
         <span class="text-[9px] font-mono px-2 py-0.5 rounded border {capabilities.supported ? 'bg-emerald-500/20 border-emerald-500/40 text-emerald-300' : 'bg-white/10 border-white/20 text-white/50'}">
-          {capabilities.supported ? '⚡ WebGPU Active' : '🎨 Canvas2D Fallback'}
+          {capabilities.supported ? '⚡ WebGPU activo' : '🎨 Modo Canvas 2D'}
         </span>
       {/if}
     </div>
     <p class="text-xs text-white/60 mt-1">
       Gira el poliedro 3D hasta alinearlo con la orientación objetivo (X: {targetAngle.x}°, Y: {targetAngle.y}°).
+    </p>
+    <p class="text-[10px] text-white/40 font-mono mt-1" aria-live="polite">
+      Orientación actual: X {userAngle.x}° · Y {userAngle.y}° — usa las flechas del teclado
     </p>
   </div>
 
