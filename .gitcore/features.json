@@ -545,6 +545,22 @@
       "github_issue": null,
       "verified_by": "vitest root 713 PASS + tsc 0 + astro build OK",
       "last_tested": "2026-09-23"
+    },
+    {
+      "id": "feat-ranked-exam",
+      "category": "exam",
+      "description": "Examen ranked: 40 preguntas (8 por área, CO grado 11), corrección en servidor, D1 worldexams-ranked y ranking mensual.",
+      "passes": false,
+      "verified_by": null,
+      "priority": "P1",
+      "progress_pct": 0.0,
+      "implemented_in": "apps/worldexams-api/src/ranked.ts, saberparatodos/src/components/ranked/RankedExamView.svelte, saberparatodos/src/lib/ranked/ranked-client.ts",
+      "evidence": "Implementado en la ola 16 (2026-09-27) sin entrada en el ledger; tests en apps/worldexams-api/tests/ranked*.test.ts. Se registra para que verify-pipeline lo valide.",
+      "caveat": "Endurecimiento pendiente en el sprint de estabilidad #1709.",
+      "name": "Examen ranked",
+      "status": "planned",
+      "github_issue": 1709,
+      "last_tested": null
     }
   ],
   "verification_commands": {
