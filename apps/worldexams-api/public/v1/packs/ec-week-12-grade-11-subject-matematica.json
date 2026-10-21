@@ -13,13 +13,13 @@
       "context": "Un estudiante de ingeniería en la Escuela Politécnica del Litoral (ESPOL) estudia la interpretación geométrica del cálculo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El área bajo la curva en ese punto.",
           "is_correct": false,
           "feedback": "Incorrecto. El área bajo la curva se asocia con la integral."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La pendiente de la recta tangente a la curva en ese punto.",
           "is_correct": true,
           "feedback": "Correcto. La derivada representa la tasa de cambio instantánea, que gráficamente es la pendiente de la tangente."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La concavidad se relaciona con la segunda derivada."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La derivada es el límite de la pendiente de las rectas secantes, lo que resulta en la pendiente de la recta tangente en el punto de tangencia.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Aplicación de la regla de la potencia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$5x^6$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó 1 al exponente en lugar de restarlo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$5x^4$",
           "is_correct": true,
           "feedback": "Correcto. Según la regla de la potencia $\\frac{d}{dx}x^n = nx^{n-1}$."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Intercambió los valores de la base y el exponente en la regla."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La regla de la potencia establece que para derivar $x^n$, se baja el exponente como coeficiente y se disminuye el grado en una unidad.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Derivada de una función constante.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "0",
           "is_correct": true,
           "feedback": "Correcto. La derivada de cualquier constante es cero, ya que no hay cambio en su valor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2\\pi$",
           "is_correct": false,
           "feedback": "Incorrecto. Aplicó la regla de la potencia a una constante como si fuera una variable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\pi$",
           "is_correct": false,
           "feedback": "Incorrecto. La derivada no mantiene el valor de la base constante."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Error conceptual sobre la tasa de cambio de las constantes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Dado que una función constante representa una línea horizontal, su pendiente (derivada) es siempre cero.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Un arquitecto en Cuenca diseña un arco parabólico cuya altura sigue la función $h(x) = -2x^2 + 8x$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$h'(x) = -4x^2 + 8$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó restar 1 al exponente en el primer término."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$h'(x) = -4x + 8$",
           "is_correct": true,
           "feedback": "Correcto. Derivando término a término: $-2(2x^{2-1}) + 8(1x^{1-1}) = -4x + 8$."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Omitió la derivada del término lineal $8x$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Uso de la linealidad de la derivada (regla de la suma y del múltiplo constante) para polinomios sencillos.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. Solo derivó el primer factor."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$3x^2 - 6x + 1$",
           "is_correct": true,
           "feedback": "Correcto. Expandiendo: $x^3 - 3x^2 + x - 3$. Derivando: $3x^2 - 6x + 1$. También se obtiene por regla del producto: $(2x)(x-3) + (x^2+1)(1)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2x^2 - 6x$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la expansión o aplicación de la regla."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Olvidó la derivada del término lineal $x$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La derivada de un producto no es el producto de las derivadas. Se debe aplicar la regla del producto: $(uv)' = u'v + uv'$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Incorrecto. No se simplifican las derivadas del numerador y denominador."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\frac{1}{(x + 1)^2}$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la regla del cociente: $\\frac{(1)(x+1) - (x)(1)}{(x+1)^2} = \\frac{x+1-x}{(x+1)^2} = \\frac{1}{(x+1)^2}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{2x + 1}{(x + 1)^2}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo en la fórmula del numerador."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\frac{1}{x^2 + 1}$",
           "is_correct": false,
           "feedback": "Incorrecto. El denominador debe ser el cuadrado del original."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La regla del cociente es esencial para funciones racionales: $(\\frac{u}{v})' = \\frac{u'v - uv'}{v^2}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Incorrecto. Valor donde la aceleración es cero, no la velocidad."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$t = 1$ s y $t = 3$ s",
           "is_correct": true,
           "feedback": "Correcto. Velocidad $v(t) = s'(t) = 3t^2 - 12t + 9$. Igualando a cero: $3(t^2 - 4t + 3) = 0 \\Rightarrow 3(t-1)(t-3) = 0$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$t = 3$ s solamente",
           "is_correct": false,
           "feedback": "Incorrecto. Omitió una de las raíces de la ecuación cuadrática."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. En $t=0$ la velocidad es 9 m/s."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La velocidad es la primera derivada de la función de posición respecto al tiempo. Los puntos donde la velocidad es cero se llaman puntos de reposo instantáneo.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Encontrar la ecuación de la recta tangente a una curva en el sector financiero de Quito.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$y = 5x + 4$",
           "is_correct": false,
           "feedback": "Incorrecto. Punto de intersección con el eje y calculado erróneamente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$y = 5x - 1$",
           "is_correct": true,
           "feedback": "Correcto. $f(1) = 4$. Pendiente $f'(x) = 2x + 3 \\Rightarrow f'(1) = 5$. Recta: $y - 4 = 5(x - 1) \\Rightarrow y = 5x - 1$."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Error de signo al despejar la ecuación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La ecuación de la recta tangente requiere el valor de la función (punto) y el valor de la derivada (pendiente) en $x=c$.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrecto. Valor de la velocidad, no de la aceleración."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "12 m/s²",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la evaluación de la segunda derivada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "14 m/s²",
           "is_correct": true,
           "feedback": "Correcto. $v(t) = 6t^2 - 10t$; $a(t) = 12t - 10$. En $t=2$: $12(2) - 10 = 14$."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Olvidó restar el término constante de la aceleración."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La aceleración instantánea es la segunda derivada de la posición con respecto al tiempo, o la primera derivada de la velocidad.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Puntos donde la derivada no existe.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. La función es suave en 0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 4$",
           "is_correct": true,
           "feedback": "Correcto. En $x=4$ hay un \"pico\" o esquina donde los límites laterales de la pendiente no coinciden."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Las funciones con valor absoluto suelen tener puntos de no derivabilidad en sus raíces."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La derivabilidad requiere que la curva sea suave. Los \"puntos angulosos\" o cúspides son lugares donde la derivada no existe a pesar de que la función sea continua.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Derivada de una función con potencias fraccionarias negativas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$-\\frac{1}{3x^{2/3}}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en el exponente resultante."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$-\\frac{1}{3x^{4/3}}$",
           "is_correct": true,
           "feedback": "Correcto. $x^{-1/3}$ derivado es $(-1/3)x^{-4/3}$."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Confundió la regla de la potencia con la de raíces."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La aplicación rigurosa de la regla de la potencia $nx^{n-1}$ funciona para cualquier número real $n$, incluyendo fracciones negativas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Incorrecto. Solo derivó el interior."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "10",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la evaluación."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "25",
           "is_correct": false,
           "feedback": "Incorrecto. Valor de la función, no de la derivada."
         },
         {
-          "letter": "D",
+          "letter": "B",
           "text": "30",
           "is_correct": true,
           "feedback": "Correcto. $f(x) = 9x^2 + 12x + 4$. Derivada $f'(x) = 18x + 12$. En $x=1$: $18+12 = 30$."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "Verificación de resultados mediante expansión algebraica antes de introducir reglas de composición más complejas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrecto. No consideró la regla del cociente."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "50",
           "is_correct": true,
           "feedback": "Correcto. $P'(x) = \\frac{200x(x^2+1) - 100x^2(2x)}{(x^2+1)^2} = \\frac{200x^3+200x-200x^3}{(x^2+1)^2} = \\frac{200x}{(x^2+1)^2}$. En $x=1$: $200/4 = 50$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. La producción sigue aumentando en ese punto."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Error en la simplificación del numerador."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Aplicación de la regla del cociente para determinar la productividad marginal en un modelo económico racional.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Un sensor en una estación meteorológica en el Chimborazo registra la temperatura $T(t)$ tal que su derivada es $T'(t) = k(25 - T(t))$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0.1 °C/unidad de tiempo",
           "is_correct": false,
           "feedback": "Incorrecto. No multiplicó por la diferencia de temperatura."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1.0 °C/unidad de tiempo",
           "is_correct": true,
           "feedback": "Correcto. $T' = 0.1(25 - 15) = 0.1(10) = 1.0$."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. La temperatura está aumentando hacia el equilibrio."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Interpretación de ecuaciones diferenciales sencillas como tasas de cambio instantáneas proporcionales a una diferencia de valores.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorrecto. Olvidó la alternancia de signos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\frac{(-1)^n n!}{x^{n+1}}$",
           "is_correct": true,
           "feedback": "Correcto. $f' = -1/x^2$, $f'' = 2/x^3$, $f''' = -6/x^4$. El patrón es $(-1)^n n! x^{-(n+1)}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(-1)^n \\frac{1}{x^n}$",
           "is_correct": false,
           "feedback": "Incorrecto. Omitió el factorial en el numerador."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\frac{1}{x^{n+1}}$",
           "is_correct": false,
           "feedback": "Incorrecto. No consideró ni los coeficientes ni los signos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Reconocimiento de patrones inductivos en derivadas sucesivas de funciones potencia con exponentes negativos.\n\n---",
       "difficulty": "10",
       "images": [],

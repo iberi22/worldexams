@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Roleplay: You meet your teacher in the corridor. Which greeting opens the dialogue politely?",
+      "context": "Lucia is rehearsing polite greetings for a roleplay exam.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "text": "Good morning, Mrs Ruiz, how are you?",
+          "is_correct": false,
+          "feedback": "Correct! Good morning, Mrs Ruiz, how are you is polite because the greeting plus title and question shows respect to a teacher."
         },
         {
           "letter": "B",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Yo, give me your notes right now.",
+          "is_correct": true,
+          "feedback": "The phrase Yo, give me your notes is wrong because slang plus a blunt demand sounds rude and unsuitable for greeting a teacher."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "Whatever, I am busy at the moment.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The phrase Whatever, I am busy now is wrong because it dismisses the listener and fails to open any friendly conversation."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "Shut up and listen to me now.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The phrase Shut up and listen to me is wrong because it is aggressive and cannot function as a polite greeting in any roleplay."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "Polite greetings open conversations with friendly phrases. Good morning and How are you suit formal and semi formal roleplays with teachers.",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -54,36 +54,126 @@
     },
     {
       "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Roleplay: You need help in a shop. Which request sounds polite and appropriate?",
+      "context": "Marco is learning how to make polite requests in dialogues.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "Could you help me with this bag, please?",
+          "is_correct": false,
+          "feedback": "Correct! Could you help me with this bag please is polite because the modal plus please turns a need into a respectful request."
         },
         {
           "letter": "B",
-          "text": "baggage",
+          "text": "Give me that bag right now.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The order Give me that bag now is wrong because the imperative plus now sounds like a command and lacks any polite softening."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "What is your problem today?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The question What is your problem today is wrong because it challenges the listener instead of requesting help with the bag."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "I do not need anyone here.",
+          "is_correct": true,
+          "feedback": "The statement I do not need anyone here is wrong because it rejects help and performs the opposite function of a polite request."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Polite requests use Could you, Would you mind or Please with soft intonation. Direct orders sound rude in service roleplays and shops.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v3",
+      "statement": "Friends plan a holiday. Which line makes a friendly suggestion?",
+      "context": "Sara is practising suggestions for a group holiday roleplay.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Shall we visit the old castle tomorrow?",
+          "is_correct": true,
+          "feedback": "Correct! Shall we visit the old castle tomorrow is a suggestion because Shall we invites friends to agree on a joint holiday plan."
+        },
+        {
+          "letter": "B",
+          "text": "Clean your room at once, please.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The order Clean your room at once is wrong because it commands action at home and makes no holiday proposal to the group."
+        },
+        {
+          "letter": "C",
+          "text": "What time is breakfast today?",
+          "is_correct": false,
+          "feedback": "The question What time is breakfast today is wrong because it only asks for information and proposes no shared activity."
+        },
+        {
+          "letter": "D",
+          "text": "I hate castles and old museums.",
+          "is_correct": false,
+          "feedback": "The statement I hate castles and museums is wrong because it expresses dislike and blocks rather than suggesting a group plan."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
+      "explanation": "Suggestions in speaking use Shall we, How about or Why not with a proposal. They invite agreement rather than giving orders to friends.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v4",
+      "statement": "A: City buses are very useful. B: ??? Which reply agrees politely?",
+      "context": "Pablo is studying how to agree politely in conversations.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I agree, buses save money and cut traffic.",
+          "is_correct": false,
+          "feedback": "Correct! I agree, buses save money and cut traffic is polite agreement because it confirms the idea and adds a clear supporting reason."
+        },
+        {
+          "letter": "B",
+          "text": "No way, that idea is completely stupid.",
+          "is_correct": false,
+          "feedback": "The phrase No way, that is stupid is wrong because it rudely rejects the partner and breaks polite agreement in the dialogue."
+        },
+        {
+          "letter": "C",
+          "text": "Sorry, I was not listening at all.",
+          "is_correct": true,
+          "feedback": "The phrase I was not listening at all is wrong because it admits inattention and fails to confirm or support the bus idea."
+        },
+        {
+          "letter": "D",
+          "text": "Buses are boring, so stop talking.",
+          "is_correct": false,
+          "feedback": "The phrase Buses are boring, stop talking is wrong because it dismisses the topic and closes rather than agreeing with the partner."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Agreeing phrases include I agree, Exactly and Good point. They confirm the partner idea before adding reasons, which keeps turn taking smooth.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -98,127 +188,37 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
       "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "A: Morning study is best. Which reply disagrees politely and keeps the dialogue open?",
+      "context": "Elena is learning to disagree without sounding rude.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "I see your point, but night study suits me better.",
           "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "feedback": "Correct! I see your point, but night study suits me better is polite because the softener respects the partner before presenting a contrast."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "You are totally wrong, you idiot.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The phrase You are totally wrong, idiot is wrong because insults and absolute rejection destroy polite disagreement in any dialogue."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "Silence now, I know everything here.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The phrase Silence, I know everything here is wrong because it orders silence and claims superiority instead of softening opposition."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "Whatever, nobody cares about exams.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The phrase Whatever, nobody cares about exams is wrong because dismissal avoids reasons and fails to disagree constructively."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\n---",
+      "explanation": "Polite disagreement softens opposition with I see your point but or I am not sure. It respects the partner before giving a different view.",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -234,81 +234,36 @@
     },
     {
       "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Phone roleplay: You did not hear the address. What do you say to clarify?",
+      "context": "Diego is rehearsing how to ask for clarification on the phone.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "text": "Sorry, could you repeat the address slowly?",
+          "is_correct": false,
+          "feedback": "Correct! Sorry, could you repeat the address slowly is clarification because it names the problem and politely asks the speaker to say it again."
         },
         {
           "letter": "B",
-          "text": "security",
+          "text": "Fine, I got everything perfectly, bye.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The phrase Fine, I got everything perfectly is wrong because claiming full understanding blocks the clarification the situation clearly needs."
         },
         {
           "letter": "C",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "gate",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "boarding pass",
+          "text": "Stop talking now, I am very busy.",
           "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The phrase Stop talking, I am very busy is wrong because it ends the call rudely instead of requesting a slower repetition."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "I know Madrid far better than you.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The phrase I know Madrid better than you is wrong because boasting about the city never asks for repetition of the unclear address."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "C",
+      "explanation": "Clarification requests use Sorry, Could you repeat or What do you mean. They signal misunderstanding and invite the speaker to explain again.",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -323,37 +278,82 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v7",
+      "statement": "Roleplay at the clinic. The doctor asks what is wrong. Which patient opening works best?",
+      "context": "Carmen is practising turn taking in a doctor roleplay.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "I have had a sore throat for three days.",
+          "is_correct": false,
+          "feedback": "Correct! I have had a sore throat for three days is effective because it gives the symptom plus duration that the doctor needs for diagnosis."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "Hello doctor, nice weather we have today.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The greeting Hello, nice weather today is wrong because weather chat delays symptoms and wastes the short medical appointment time."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "Give me strong medicine immediately now.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The demand Give me medicine immediately now is wrong because requesting drugs before describing symptoms breaks the normal doctor sequence."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "I really love hospitals and injections.",
+          "is_correct": true,
+          "feedback": "The joke I love hospitals and injections is wrong because humour about liking hospitals gives no useful symptom information at all."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "D",
+      "explanation": "Patients describe symptoms clearly with I have a pain and how long. Doctors then ask follow up questions, so clear symptom reports open well.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v8",
+      "statement": "Shop roleplay is over. Which line closes the conversation politely?",
+      "context": "Andres is learning how to close a dialogue politely.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Thanks for your help, see you soon.",
+          "is_correct": false,
+          "feedback": "Correct! Thanks for your help, see you soon is polite closing because thanks plus a future wish ends the shop exchange warmly and completely."
+        },
+        {
+          "letter": "B",
+          "text": "Go away now, I am done with you.",
+          "is_correct": true,
+          "feedback": "The phrase Go away, I am done now is wrong because ordering the assistant away after help sounds rude and abrupt."
+        },
+        {
+          "letter": "C",
+          "text": "You talk too much today, stop it.",
+          "is_correct": false,
+          "feedback": "The phrase You talk too much today is wrong because criticising the assistant cannot close a helpful exchange politely."
+        },
+        {
+          "letter": "D",
+          "text": "Wait here, I may return later.",
+          "is_correct": false,
+          "feedback": "The phrase Wait here, I may return is wrong because it leaves the ending open and fails to thank for the help received."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Closings summarise and thank with Thanks for your help and See you soon. Abrupt goodbyes sound rude after a helpful service exchange.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,40 +369,40 @@
     },
     {
       "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Line: What time does the train to Sevilla leave? What is the function of this line?",
+      "context": "Lucia is identifying the function of short dialogue lines.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "text": "Asking for information about times.",
+          "is_correct": false,
+          "feedback": "Correct! Asking for information is right because What time does it leave requests a timetable fact rather than apologising or offering."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "Apologising for a serious mistake.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The label apologising is wrong because no sorry or excuse appears and no fault is admitted in the station question."
         },
         {
           "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Offering help with heavy bags.",
+          "is_correct": true,
+          "feedback": "The label offering help is wrong because the speaker requests facts instead of proposing assistance to the other person."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "Complaining about a terrible service.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The label complaining is wrong because no dissatisfaction or criticism is expressed in the neutral timetable question."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "Identifying function means naming what the line does. Asking What time does it leave checks information, so its function is asking for details.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle",
       "periodo": 34,
@@ -414,36 +414,81 @@
     },
     {
       "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Roleplay in a restaurant. Which line orders food politely?",
+      "context": "Marco is memorising useful phrases for restaurant roleplays.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
+          "text": "I would like a salad and some water.",
           "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "feedback": "Correct! I would like a salad and some water is polite ordering because would like softens the order into a courteous restaurant request."
         },
         {
           "letter": "B",
-          "text": "cancellation",
+          "text": "Bring me food fast, I am hungry.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The order Bring food fast, I am hungry is wrong because the command plus hurry sounds rude to waiters in a restaurant."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "This place smells badly today.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The complaint This place smells badly today is wrong because criticising the room cannot order salad or water politely."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "Where is the toilet in this place?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The question Where is the toilet Paper is wrong because asking for facilities never orders the salad and water the roleplay needs."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
+      "explanation": "Ordering food politely uses I would like and Could we have. Pointing and shouting bypass polite service language expected in restaurants.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v11",
+      "statement": "A: Where do you train for basketball? B: ??? Choose the coherent next line.",
+      "context": "Sara is choosing the natural next line in a dialogue.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "At the sports centre, near the park.",
+          "is_correct": false,
+          "feedback": "Correct! At the sports centre near the park answers where because it gives the training place that the where question directly requests."
+        },
+        {
+          "letter": "B",
+          "text": "At midnight, together with the owls.",
+          "is_correct": false,
+          "feedback": "The reply At midnight with owls is wrong because a night time plus animals cannot answer a where question about training location."
+        },
+        {
+          "letter": "C",
+          "text": "Because I really like blue shirts.",
+          "is_correct": false,
+          "feedback": "The reply Because I like blue shirts is wrong because a reason about shirts answers why rather than where training happens."
+        },
+        {
+          "letter": "D",
+          "text": "I do not remember anything today.",
+          "is_correct": true,
+          "feedback": "The reply I do not remember anything today is wrong because forgetting everything avoids answering and breaks dialogue coherence."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Next lines must match the question type. Where questions need places, so At the sports centre directly answers the training location question.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -458,128 +503,38 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
       "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Friends choose a film. Which line is rude and breaks roleplay rules?",
+      "context": "Pablo is spotting rude lines that break roleplay rules.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "text": "Shut up, your idea is rubbish.",
+          "is_correct": false,
+          "feedback": "Correct! Shut up, your idea is rubbish is the rude line because the insult plus order breaks polite turn taking and respect rules."
         },
         {
           "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "currency",
+          "text": "How about watching a comedy film?",
           "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The polite suggestion How about a comedy film is not rude because it proposes an option softly and respects partner choice."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "Good idea, I really love comedies.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The polite agreement Good idea, I love comedies is not rude because it confirms warmly and supports the partner proposal."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "What time does the film start?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The clarification What time starts the film is not rude because it requests neutral information needed to plan the evening."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "Roleplays test register and politeness. Interrupting with orders or insults fails, while softeners and please keep the exchange appropriate.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -593,38 +548,83 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v13",
+      "statement": "A: You lost my book! Which apology works best in the roleplay?",
+      "context": "Elena is evaluating apologies in a lost book dialogue.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "text": "I am sorry, I lost it, I will buy a new one.",
+          "is_correct": false,
+          "feedback": "Correct! I am sorry, I will buy you a new one is best because sorry plus responsibility plus repair completes a full sincere apology."
         },
         {
           "letter": "B",
-          "text": "map",
+          "text": "I never borrowed any book from you.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The denial I never borrowed any book is wrong because refusing responsibility after losing the book blocks any sincere apology."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "Books are boring anyway, just forget it.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The joke Books are boring, forget it is wrong because dismissing books as boring shows no regret and offers no repair for loss."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "You should keep your books much safer.",
+          "is_correct": true,
+          "feedback": "The blame You should keep books safer is wrong because shifting fault to the owner reverses the apology and sounds unfair."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Full apologies admit fault, show regret and offer repair. I am sorry, it was my fault plus I will buy a new one covers all three steps.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v14",
+      "statement": "You must interrupt a friend urgently. Which interruption stays polite?",
+      "context": "Diego is analysing interruptions that stay polite.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sorry to interrupt, but the bus leaves soon.",
+          "is_correct": false,
+          "feedback": "Correct! Sorry to interrupt, but the bus leaves soon is polite because sorry plus urgent reason justifies pausing without shouting."
+        },
+        {
+          "letter": "B",
+          "text": "Be quiet now, it is my turn to speak.",
+          "is_correct": false,
+          "feedback": "The shout Be quiet, it is my turn now is wrong because ordering silence and claiming the turn interrupts aggressively and rudely."
+        },
+        {
+          "letter": "C",
+          "text": "I have nothing to say about this today.",
+          "is_correct": true,
+          "feedback": "The whisper I have nothing to say today is wrong because withdrawing from talk performs no interruption function at all."
+        },
+        {
+          "letter": "D",
+          "text": "Your story is too long and rather dull.",
+          "is_correct": false,
+          "feedback": "The laugh Your story is too long and dull is wrong because mocking length insults the speaker instead of pausing politely."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Polite interruptions use Sorry to interrupt but with a brief reason. They pause the partner respectfully instead of shouting over them.",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -639,36 +639,126 @@
     },
     {
       "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "A: Would you like to come to my party on Saturday? Choose the warm acceptance.",
+      "context": "Carmen is practising invitations and responses for parties.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "text": "I would love to come, what time is it?",
+          "is_correct": false,
+          "feedback": "Correct! I would love to come, what time is it shows acceptance because love plus a time question confirms attendance and plans arrival."
         },
         {
           "letter": "B",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "No, parties are stupid and boring.",
+          "is_correct": true,
+          "feedback": "The refusal No, parties are stupid and boring is wrong because rejection plus insult performs refusal rather than warm acceptance."
         },
         {
           "letter": "C",
-          "text": "briefcase",
+          "text": "Where exactly do you live in town?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The question Where do you live exactly is wrong because asking the address alone never confirms whether you will attend the party."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "Music at parties is always too loud.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The complaint Music is always too loud is wrong because criticising volume avoids accepting and sounds negative about the event."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Accepting invitations shows joy plus confirmation. I would love to come, what time confirms attendance warmly and checks practical details.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v16",
+      "statement": "Interview: Why are you a good worker? Which answer keeps a formal register?",
+      "context": "Andres is judging register in a job interview roleplay.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I arrived on time because I value punctuality.",
+          "is_correct": true,
+          "feedback": "Correct! I arrived on time because I value punctuality is formal because full grammar plus value shows respect suited to an interview."
+        },
+        {
+          "letter": "B",
+          "text": "I dunno, interviews and stuff are boring.",
+          "is_correct": false,
+          "feedback": "The slang I dunno, stuff is boring here is wrong because dunno and stuff mark informal slang unsuitable for a job interview."
+        },
+        {
+          "letter": "C",
+          "text": "Yeah cool, whatever you say, man.",
+          "is_correct": false,
+          "feedback": "The phrase Yeah, cool, whatever you say is wrong because yeah plus cool plus dismissal shows careless informal register."
+        },
+        {
+          "letter": "D",
+          "text": "Just hire me now, do not ask questions.",
+          "is_correct": false,
+          "feedback": "The order Just hire me, do not ask is wrong because demanding hiring without questions breaks respectful interview behaviour."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\n---",
+      "explanation": "Formal interviews need full sentences and respectful vocabulary. Slang like gonna or cool lowers register and harms the candidate image.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v17",
+      "statement": "Which line uses a question tag to invite agreement softly?",
+      "context": "Lucia is checking question tags that keep dialogues friendly.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The park is lovely, is not it?",
+          "is_correct": false,
+          "feedback": "Correct! The park is lovely, is not it invites agreement because the tag turns a statement into a soft friendly check for opinion."
+        },
+        {
+          "letter": "B",
+          "text": "Open the window right now.",
+          "is_correct": false,
+          "feedback": "The blunt order Open the window now is wrong because an imperative command gives no tag and invites no soft agreement."
+        },
+        {
+          "letter": "C",
+          "text": "Water boils at one hundred degrees.",
+          "is_correct": true,
+          "feedback": "The fact Water boils at one hundred degrees is wrong because a scientific fact states truth rather than inviting friendly agreement."
+        },
+        {
+          "letter": "D",
+          "text": "Your taste in parks is awful.",
+          "is_correct": false,
+          "feedback": "The insult Your taste in parks is awful is wrong because criticism attacks the partner instead of softly inviting shared opinion."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Question tags like is not it and do you invite opinions softly. They turn statements into friendly checks rather than blunt declarations.",
       "difficulty": "7",
       "images": [],
       "tags": [],
@@ -683,128 +773,38 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
       "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Call about homework notes. Which ending is clear and polite?",
+      "context": "Marco is evaluating how to end a phone call clearly.",
       "options": [
         {
           "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
+          "text": "I will send the notes tonight, thanks for calling.",
+          "is_correct": false,
+          "feedback": "Correct! I will send the notes tonight, thanks for calling is clear because the promise plus thanks confirms action and closes warmly."
         },
         {
           "letter": "B",
-          "text": "warranty",
+          "text": "Bye.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The abrupt Bye with no promise is wrong because hanging up without confirming the notes leaves the phone task unresolved."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "Calls are annoying, please do not call again.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The complaint Calls are annoying, do not call is wrong because rejecting future calls ends rudely and never confirms the notes promise."
         },
         {
           "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Maybe something will happen very soon.",
+          "is_correct": true,
+          "feedback": "The vague Maybe something will happen soon is wrong because vagueness confirms no action and leaves the caller without clear closure."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "Clear phone endings confirm action plus thanks. I will send the notes tonight, thanks for calling combines promise with polite closure.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -819,36 +819,36 @@
     },
     {
       "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Tourist: How do I get to the station? Which direction response works best?",
+      "context": "Sara is tackling a tricky roleplay on giving directions.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
+          "text": "Go straight on and turn left at the bank.",
           "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
+          "feedback": "Correct! Go straight and turn left at the bank is helpful because straight plus landmark gives an ordered visual route to the station."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "It is over there somewhere, I think.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The vague It is over there somewhere is wrong because over there gives no steps or landmarks and leaves the tourist lost."
         },
         {
           "letter": "C",
-          "text": "prescription",
+          "text": "I never walk around this town myself.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The refusal I never walk around this town is wrong because avoiding personal habits gives no route to the requested station."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "Why do you travel so much these days?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The question Why do you travel so much is wrong because asking motives answers no direction and ignores the where request."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\n---",
+      "explanation": "Good directions use sequence plus landmarks. Go straight, turn left at the bank is clear, while vague over there leaves listeners lost.",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Ana wants football, Luis wants cinema. As mediator, what do you say to balance both?",
+      "context": "Pablo is facing the hardest task on mediating opinions.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "text": "You both want fun, so match in the morning, film later.",
+          "is_correct": false,
+          "feedback": "Correct! You both want fun, so match plus film works because it names shared goals and offers a compromise satisfying both partners."
         },
         {
           "letter": "B",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Ana is right, forget football completely.",
+          "is_correct": true,
+          "feedback": "The siding Ana is right, forget football is wrong because taking one side abandons mediation and leaves one partner completely ignored."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "Stop arguing now, I am leaving this place.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The avoidance Stop arguing, I am leaving now is wrong because leaving ends talk without balancing views or proposing any compromise."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "Arguments are fun, so continue shouting loudly.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The joke Arguments are fun, continue shouting is wrong because encouraging shouting fuels conflict rather than mediating toward agreement."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
+      "correct_answer": "B",
+      "explanation": "Mediating balances both views then proposes compromise. You both want fun, so a morning match plus an afternoon film satisfies each partner fairly.",
       "difficulty": "10",
       "images": [],
       "tags": [],

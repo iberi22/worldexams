@@ -39,7 +39,7 @@
       ],
       "correct_answer": "B",
       "explanation": "The student identifies the basic morphological rule for short superlative adjectives.\n\n---",
-      "difficulty": "3",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -80,7 +80,7 @@
           "letter": "D",
           "text": "Much",
           "is_correct": false,
-          "feedback": "Incorrect. This is a quantifier."
+          "feedback": "Incorrect. \"Much\" measures quantity or degree, it does not build the superlative."
         }
       ],
       "correct_answer": "C",
@@ -131,7 +131,7 @@
       ],
       "correct_answer": "B",
       "explanation": "The student understands and applies the superlative form in a group comparison context.\n\n---",
-      "difficulty": "5",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -177,7 +177,7 @@
       ],
       "correct_answer": "C",
       "explanation": "The student understands the syntactic requirement of the definite article \"the\" in superlative constructions.\n\n---",
-      "difficulty": "5",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -240,7 +240,7 @@
     {
       "id": "CO-ING-7-2026-W27-superlatives-006-v1",
       "statement": "According to the text, which animal has the record for speed?",
-      "context": "A text about animal records.\n\"The cheetah is the fastest animal on land. The blue whale is the largest animal in the ocean. The elephant is the heaviest land mammal.\"",
+      "context": "A text about animal records.\n\n\"The cheetah is the fastest animal on land. The blue whale is the largest animal in the ocean. The elephant is the heaviest land mammal.\"",
       "options": [
         {
           "letter": "A",
@@ -269,7 +269,7 @@
       ],
       "correct_answer": "A",
       "explanation": "The student applies reading skills to match superlative descriptors to specific subjects.\n\n---",
-      "difficulty": "7",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -315,7 +315,7 @@
       ],
       "correct_answer": "C",
       "explanation": "The student applies the irregular superlative form for the adjective \"good\".\n\n---",
-      "difficulty": "7",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -378,7 +378,7 @@
     {
       "id": "CO-ING-7-2026-W27-superlatives-009-v1",
       "statement": "What can we analyze about Laptop C?",
-      "context": "Comparing three products.\n\"Laptop A is $500. Laptop B is $800. Laptop C is $400. Laptop C is also the smallest and the lightest.\"",
+      "context": "Comparing three products.\n\n\"Laptop A is $500. Laptop B is $800. Laptop C is $400. Laptop C is also the smallest and the lightest.\"",
       "options": [
         {
           "letter": "A",
@@ -407,7 +407,7 @@
       ],
       "correct_answer": "B",
       "explanation": "The student analyzes numeric and descriptive data using superlative logic to identify a true statement.\n\n---",
-      "difficulty": "9",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -424,7 +424,7 @@
     {
       "id": "CO-ING-7-2026-W27-superlatives-010-v1",
       "statement": "Which word best summarizes the status of the Amazon according to the text?",
-      "context": "Evaluating a travel guide summary.\n\"The Amazon Rainforest is the most diverse ecosystem on Earth. It has the largest variety of plants and the most unique animal species. Protecting it is our most important mission.\"",
+      "context": "Evaluating a travel guide summary.\n\n\"The Amazon Rainforest is the most diverse ecosystem on Earth. It has the largest variety of plants and the most unique animal species. Protecting it is our most important mission.\"",
       "options": [
         {
           "letter": "A",

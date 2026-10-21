@@ -13,13 +13,13 @@
       "context": "Un profesor de selectividad en un instituto de Madrid analiza cómo clasificar los textos según el público al que van dirigidos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El divulgativo se dirige a un receptor amplio sin conocimientos específicos previos del tema, con léxico accesible; mientras que el especializado se dirige a expertos y requiere un léxico técnico denso.",
           "is_correct": true,
           "feedback": "Correcto. Los textos divulgativos informan a un público amplio con léxico accesible; los especializados exigen competencia técnica del receptor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El divulgativo prohíbe el uso de la tercera persona gramatical y el especializado se escribe obligatoriamente en verso.",
           "is_correct": false,
           "feedback": "Incorrecto. Ambos usan la prosa objetiva y la tercera persona, independientemente de su nivel técnico."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Mantener su distinción es clave para evaluar la adecuación lingüística del emisor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El texto expositivo se divide en divulgativo (público general, fin informativo general, aclaraciones frecuentes) y especializado (público experto, tecnicismos abundantes, léxico riguroso y sintaxis compleja).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,31 +103,31 @@
       "context": "Un texto explicativo sobre el cambio climático detalla primero la subida de las emisiones de carbono, el deshielo de los glaciares y el aumento de sequías, para concluir afirmando al final: 'Por todo ello, la emergencia climática global es innegable'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Sintetizante o inductiva, ya que parte de hechos concretos o explicaciones parciales para culminar en la tesis o conclusión general al final del texto.",
           "is_correct": true,
           "feedback": "Correcto. La estructura sintetizante o inductiva recopila datos u observaciones particulares al inicio y deriva la idea principal al final como síntesis lógica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Analizante o deductiva, porque enuncia la definición de la atmósfera en la primera palabra escrita.",
           "is_correct": false,
           "feedback": "Incorrecto. En este caso la idea de síntesis de la emergencia climática corona el final del fragmento, no el inicio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Estructura encuadrada, la cual exige de forma estricta omitir las conclusiones finales.",
           "is_correct": false,
           "feedback": "Incorrecto. La encuadrada sitúa la tesis al inicio, la analiza y la retoma o reformula en la conclusión final."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un laísmo de cosa canario que altera la concordancia gramatical del género.",
           "is_correct": false,
           "feedback": "Incorrecto. No tiene relación alguna con los pronombres átonos de objeto directo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La estructura sintetizante o inductiva conduce al receptor a través de una serie de premisas, explicaciones o ejemplos parciales, extrayendo la conclusión o tesis general en la parte de cierre.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Un corrector de estilo en un manual de geografía de España prefiere sustituir la oración 'El río se desborda con frecuencia' por 'La frecuencia de los desbordamientos fluviales es alta'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Nominalización, que consiste en transformar verbos o adjetivos en sustantivos para dotar al discurso de mayor abstracción y carácter estático.",
           "is_correct": true,
           "feedback": "Correcto. La nominalización ('desbordamientos' por 'se desborda') es un rasgo típico de los textos científicos y expositivos, que aporta densidad y abstracción conceptual."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Personificación de los ríos que ríen a carcajadas metálicas.",
           "is_correct": false,
           "feedback": "Incorrecto. No se atribuyen rasgos humanos a realidades inertes, se formaliza la sintaxis mediante sustantivos."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Es un cambio de categoría gramatical lícito y gramatical, libre de dequeísmo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las nominalizaciones abundan en el registro expositivo científico. Al sustituir acciones dinámicas (verbos) por conceptos fijos (sustantivos abstractos), se dota al discurso de mayor densidad intelectual y abstracción.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "En un fragmento sobre astrofísica de Madrid se lee: 'La energía oscura compone el mayor misterio del universo actual (TESIS)... los astrónomos miden el fondo cósmico... por lo tanto, la naturaleza íntima de la energía oscura sigue oculta para la ciencia peninsular (REFORMULACIÓN)'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Estructura encuadrada, que sitúa la tesis o idea principal al inicio del texto, ofrece explicaciones intermedias y la retoma o reformula en la conclusión final.",
           "is_correct": true,
           "feedback": "Correcto. La estructura encuadrada enmarca el texto repitiendo o reformulando la tesis inicial en el párrafo de cierre tras el análisis intermedio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Estructura paralela, donde no hay idea principal en ninguna de las páginas del libro.",
           "is_correct": false,
           "feedback": "Incorrecto. La paralela carece de tesis de encuadre, exponiendo ideas sucesivas de idéntica jerarquía sin reformularlas al final."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Estructura sintetizante pura, la cual prohíbe de forma terminante declarar tesis al inicio.",
           "is_correct": false,
           "feedback": "Incorrecto. La sintetizante pura solo enuncia la tesis al final, careciendo de la declaración inicial característica del encuadre."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Es un asunto puramente estructural de la macroestructura del texto y no un vicio pronominal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La estructura encuadrada presenta un carácter circular sumamente didáctico. El emisor expone una idea inicial (deducción), aporta explicaciones detalladas y la reafirma en el cierre (inducción), facilitando la fijación conceptual.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Un estudiante compara dos textos en Valencia. El Texto A es una noticia de prensa titulada 'Nuevas bacterias en los ríos' y el Texto B es una tesis de doctorado titulada 'Aislamiento e identificación taxonómica de cepas bacterianas anaerobias en humedales fluviales'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El Texto A es un texto expositivo divulgativo de carácter periodístico; el Texto B es un texto expositivo especializado de carácter científico.",
           "is_correct": true,
           "feedback": "Correcto. La noticia (Texto A) busca informar a un público general con léxico común; la tesis doctoral (Texto B) se dirige a expertos con densidad terminológica científica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ambos son textos expositivos especializados de uso obligatorio en las escuelas de ingeniería de Soria.",
           "is_correct": false,
           "feedback": "Incorrecto. Una noticia periodística común nunca califica como especializada en ingeniería."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. El Texto B es académicamente modélico y cumple con el régimen preposicional estándar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La tipología expositiva discrimina entre textos divulgativos (como el periodismo de información o libros de texto escolares) y especializados (como monografías científicas, patentes y tesis doctorales) en función de la competencia exigida al receptor.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Un texto expositivo de Zaragoza explica un concepto matemático de la siguiente manera: 'Los números primos son aquellos que solo poseen dos divisores, a saber, el uno y ellos mismos'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Conector explicativo o de reformulación, que sirve para aclarar o detallar de forma precisa el concepto expuesto con anterioridad.",
           "is_correct": true,
           "feedback": "Correcto. Conectores como 'a saber', 'es decir' u 'o sea' sirven para introducir explicaciones o aclaraciones aclaratorias en la exposición."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Verbo transitivo en modo imperativo que ordena de forma directa al lector que estudie matemáticas.",
           "is_correct": false,
           "feedback": "Incorrecto. 'A saber' es una locución conjuntiva o conector adverbial explicativo y no una orden verbal imperativa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un queísmo pronominal involuntario provocado por el número uno.",
           "is_correct": false,
           "feedback": "Incorrecto. Carece de relación con el queísmo (omisión de preposiciones exigidas)."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Introduce el detalle preciso de los dos divisores, por lo que une y concreta la idea en lugar de desviarla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los conectores explicativos o reformuladores son cruciales en los textos expositivos para garantizar la claridad y la progresión temática, guiando al lector en la correcta interpretación de los tecnicismos o definiciones anteriores.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,31 +373,31 @@
       "context": "Un geógrafo de Barcelona expone: 'El territorio peninsular español comprende tres grandes zonas climáticas: en primer lugar, el clima oceánico lluvioso del norte; en segundo lugar, el clima mediterráneo cálido en el este e interior; y por último, el clima de montaña en las cordilleras'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Estructura paralela o de clasificación, donde se exponen diversos conceptos situados en el mismo plano de igualdad e importancia jerárquica.",
           "is_correct": true,
           "feedback": "Correcto. La estructura paralela clasifica o enumera conceptos o ideas de igual jerarquía de manera organizada (en este caso, los tres climas de España)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Estructura encuadrada circular, que concluye obligatoriamente hablando de la gastronomía de Cádiz.",
           "is_correct": false,
           "feedback": "Incorrecto. No concluye retomando una tesis inicial de encuadre; es una pura enumeración clasificada paralela."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Estructura sintetizante inductiva, la cual exige de forma estricta un final de suspense literario.",
           "is_correct": false,
           "feedback": "Incorrecto. La exposición geográfica carece de fines literarios de suspense o tramas policiales inductivas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un dequeísmo sintáctico de tipo condicional.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un fragmento sintácticamente impecable."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La estructura paralela (o de clasificación/enumeración) presenta ideas o hechos sucesivos con idéntico valor conceptual y sin jerarquía de subordinación entre sí, facilitando la asimilación ordenada de clasificaciones.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "En un fragmento de informática sobre inteligencia artificial se emplean términos de reciente cuño como 'algoritmo generativo', 'red neuronal profunda' y 'aprendizaje por refuerzo'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Tecnicismos, que son palabras con significado denotativo unívoco y preciso que componen la terminología específica de una ciencia o técnica.",
           "is_correct": true,
           "feedback": "Correcto. Los tecnicismos son los vocablos unívocos y monosémicos de cada disciplina científica o técnica, indispensables para la precisión de la exposición."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Arcaísmos medievales de uso exclusivo en la provincia de Toledo.",
           "is_correct": false,
           "feedback": "Incorrecto. Son neologismos y términos científicos modernos digitales, totalmente opuestos a los arcaísmos caídos en desuso."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Aunque 'red neuronal' tiene un origen metafórico biológico, en informática funciona como tecnicismo denotativo monosémico preciso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los tecnicismos garantizan la monosemia (un solo significado para cada significante) y la univocidad en el discurso expositivo de especialidad, desterrando la ambigüedad y la connotación propias de la lírica.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Un fragmento de geología de Barcelona reza: 'Se observaron (1) alteraciones en los estratos arcillosos. Se supone (2) que el agua subterránea causó la erosión'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La primera (1) es una pasiva refleja ('alteraciones' concuerda en plural con 'se observaron'); la segunda (2) es una oración impersonal con 'se' introductora de una oración subordinada sustantiva.",
           "is_correct": true,
           "feedback": "Correcto. En (1) hay pasiva refleja por concordancia obligatoria de sujeto paciente plural ('Se observaron alteraciones / Fueron observadas alteraciones'). En (2) la estructura es impersonal con 'se' e introduce una subordinada substantiva de sujeto ('Se supone que... / Es supuesto que...')."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ambas son oraciones impersonales laístas del español de Toledo.",
           "is_correct": false,
           "feedback": "Incorrecto. Las estructuras con 'se' de pasiva e impersonalidad no representan fenómenos de laísmo pronominal átono."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. No hay preposición 'de' antes del nexo subordinado, lo que demuestra la total corrección formal de las frases."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La gramática de la RAE distingue entre las pasivas reflejas (que admiten concordancia en plural: 'Se abren las puertas') y las impersonales con 'se' (que carecen de sujeto sintáctico expreso y se conjugan siempre en tercera persona del singular: 'Se vive bien aquí'). Ambas se emplean en la exposición científica para garantizar la impersonalidad.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "En un texto académico de Soria se expone el funcionamiento de la fotosíntesis: 'La fotosíntesis es (1) la conversión de materia inorgánica en orgánica. Por ejemplo, (2) las plantas absorben dióxido de carbono. En resumidas cuentas, (3) transforma la energía de la luz'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "(1) representa la definición esencial; (2) es una ejemplificación práctica; y (3) es una reformulación de carácter conclusivo o resumen.",
           "is_correct": true,
           "feedback": "Correcto. El texto expositivo académico se teje entrelazando definiciones nucleares (1), ejemplificaciones ilustrativas (2) y reformulaciones o síntesis conclusivas (3) para asegurar la claridad docente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las tres oraciones son caricaturas satíricas medievales que impiden comprender la fotosíntesis.",
           "is_correct": false,
           "feedback": "Incorrecto. Tienen un propósito puramente expositivo, informativo y docente, ajeno a la caricatura o deformación satírica dramática."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Representan un loísmo verbal canario prohibido por las leyes del Ministerio de Educación.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay ninguna confusión pronominal de objeto directo en los nexos analizados."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Son recursos racionales y lógicos de estructuración del discurso explicativo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para guiar con éxito la progresión temática, el emisor de un texto expositivo combina definiciones (para fijar conceptos), ejemplificaciones (para concretar abstracciones) y reformulaciones (para recapitular ideas clave).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Un fragmento de geografía física de Sevilla afirma: 'La atmósfera terrestre retiene (1) el calor del Sol. Los vientos distribuyen (2) esta energía de forma global'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Presente con valor atemporal o gnomónico, que enuncia verdades científicas o universales desprovistas de límites temporales concretos.",
           "is_correct": true,
           "feedback": "Correcto. El presente de indicativo atemporal o gnomónico ('retiene', 'distribuyen') se utiliza en las ciencias para expresar hechos, leyes o verdades científicas estables de validez universal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Presente de indicativo con valor de futuro imperativo obligatorio.",
           "is_correct": false,
           "feedback": "Incorrecto. Expresa leyes descriptivas actuales permanentes de la física, no órdenes obligatorias de futuro."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Son formas verbales simples de indicativo que expresan certeza fáctica, no conjetura o conjetura de posibilidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El presente gnomónico o atemporal es el tiempo verbal por excelencia de la prosa científica y expositiva de leyes. Al despojar al verbo de límites temporales concretos (pasado o futuro), asimila el enunciado a una verdad de validez permanente.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "En una clase de bachillerato en Salamanca, se analiza la progresión de la información de un texto: 'El lince ibérico es un felino amenazado. Este mamífero carnívoro habita en Doñana... Su dieta se basa en conejos...'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Progresión temática de tema constante, donde el mismo sujeto o tema (el lince ibérico) se repite al inicio de cada oración y recibe nuevos reas o informaciones en cada enunciado.",
           "is_correct": true,
           "feedback": "Correcto. El tema ('lince', 'este mamífero', 'su dieta') permanece constante en la posición inicial, añadiéndose nuevos datos (reofemas) en cada frase sucesiva."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Progresión de tema lineal, donde el rema de una frase se convierte de forma obligatoria en el tema de la siguiente.",
           "is_correct": false,
           "feedback": "Incorrecto. En la lineal, la información nueva de la frase anterior pasa a ser el sujeto de la siguiente; aquí el lince sigue siendo el centro constante del sujeto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Progresión por cajas chinas poéticas medievales que anula el significado del texto.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un concepto clásico de lingüística de la comunicación que organiza la cohesión sintáctica del discurso formal escrito."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Se trata de un dequeísmo de progresión que elude el uso de verbos transitivos.",
           "is_correct": false,
           "feedback": "Incorrecto. La progresión temática analiza el orden de la información (tema/rema) y no errores preposicionales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La cohesión y claridad de un texto expositivo depende de la progresión temática. En la progresión de tema constante, un mismo tema sirve de hilo conductor sintáctico y recibe nuevas informaciones (remas) sucesivamente.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Un folleto informativo sobre el reciclaje urbano distribuido por el Ayuntamiento de Valencia organiza las instrucciones en párrafos precedidos por: 'En primer lugar...', 'En segundo lugar...', 'Por último...'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Ordenadores de la información o marcadores de orden, que estructuran la secuencia lógica de los párrafos y guían de forma clara al lector en el proceso explicativo.",
           "is_correct": true,
           "feedback": "Correcto. Marcadores discursivos como 'en primer lugar', 'en segundo lugar' u 'por último' son ordenadores que secuencian y jerarquizan de forma espacial o lógica los contenidos del texto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Complementos circunstanciales de lugar que exigen de forma obligatoria un laísmo pronominal de persona.",
           "is_correct": false,
           "feedback": "Incorrecto. Son conectores de ordenación textual supraoracional y carecen de relación con funciones de complemento verbal u de laísmo."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. No son adjetivos de base atributiva nominal; son locuciones conectoras discursivas fijas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los marcadores de ordenación discursiva pertenecen a la cohesión textual. Su presencia es indispensable en la tipología expositiva e instructiva para estructurar las fases del razonamiento o los pasos de un método de manera transparente.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "Un artículo de divulgación científica publicado por el CSIC en Madrid expone la estructura interna de la Tierra detallando las propiedades del manto y el núcleo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Predominio absoluto de la función representativa o referencial, ya que el emisor busca transmitir información objetiva y unívoca sobre la realidad material.",
           "is_correct": true,
           "feedback": "Correcto. Los textos científicos y expositivos priorizan la función representativa o referencial al centrarse en transmitir datos e ideas objetivas y lógicas sobre el referente exterior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Hegemonía de la función poética combinada con la emotiva para declarar los amores secretos del autor.",
           "is_correct": false,
           "feedback": "Incorrecto. La lírica e intimidad sentimental del emisor quedan excluidas de la prosa de divulgación del CSIC, dominada por la racionalidad neutra."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Función fática pura para verificar si la señal de radio de Madrid funciona bien.",
           "is_correct": false,
           "feedback": "Incorrecto. La función fática se orienta al canal y carece de virtualidad para transmitir conocimientos geofísicos complejos de la Tierra."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Función metalingüística orientada exclusivamente a prohibir el uso de la tilde diacrítica en 'solo'.",
           "is_correct": false,
           "feedback": "Incorrecto. La metalingüística trata sobre las reglas del código de la lengua, no sobre la geofísica del núcleo terrestre."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El fin de los textos de base expositiva es la transmisión rigurosa de conocimientos verídicos sobre el entorno. Por consiguiente, la función referencial o representativa organiza de forma prioritaria la morfología, sintaxis y semántica del discurso.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "Un folleto de divulgación médica para prevenir la diabetes entre escolares de Zaragoza abunda en tecnicismos biológicos complejos y nombres de enzimas microscópicas en latín sin ofrecer aclaraciones ni glosarios prácticos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Es totalmente inadecuado, ya que el emisor ha confundido el registro especializado con el divulgativo, empleando una densidad terminológica incomprensible para escolares que hace fracasar el fin preventivo de la campaña.",
           "is_correct": true,
           "feedback": "Correcto. Para que un texto expositivo cumpla su función con éxito debe adecuarse a la competencia lingüística de sus receptores. El exceso de tecnicismos indescifrables para escolares produce ruido semántico por falta de adecuación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es adecuado, ya que los niños de Zaragoza deben de memorizar los nombres de las enzimas en latín para poder jugar en el patio de recreo.",
           "is_correct": false,
           "feedback": "Incorrecto. Un folleto preventivo no es una prueba escolar obligatoria de latín clásico, sino una herramienta de salud pública práctica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demuestra un uso excelente del estilo directo libre en las novelas policiales.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un texto explicativo científico-médico, no un pasaje dramático de ficción policial novelística."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Al contrario, las directrices educativas y sanitarias promueven un lenguaje claro, inclusivo y accesible para todos los ciudadanos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La adecuación es una de las propiedades textuales esenciales. Un texto expositivo de carácter divulgativo dirigido a niños debe adecuar su léxico, sintaxis y recursos aclaratorios (glosarios, ejemplos) para garantizar una decodificación exitosa sin pérdidas de información preventiva.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Un redactor de contenidos de una web de naturaleza en Doñana decide presentar una guía sobre el lince ibérico con una estructura analizante (tesis al inicio, seguida de explicaciones pormenorizadas).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La analizante es altamente eficaz para la lectura digital rápida, ya que sitúa la información nuclear y la definición al principio, facilitando que el usuario comprenda el tema de inmediato antes de decidir leer los detalles secundarios.",
           "is_correct": true,
           "feedback": "Correcto. En la lectura digital predomina el escaneo rápido. Situar la tesis al inicio (estructura analizante/deductiva) optimiza la comprensión y captura la atención del receptor de forma inmediata frente a la sintetizante inductiva."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La sintetizante inductiva sería mejor porque obliga al lector a buscar las palabras en catalán medieval para descubrir el nombre del lince.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un despropósito pedagógico que dificultaría de forma innecesaria e inútil la decodificación en castellano."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Los felinos son el referente real, ajenos a imperativos o exigencias retóricas en el título de la página web."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La elección de la macroestructura textual debe adecuarse al medio y fin. Para páginas web de información rápida, la estructura analizante (deductiva) resulta óptima al situar la idea principal (tesis) en la cabecera, favoreciendo la legibilidad inmediata frente a la sintetizante que reserva la conclusión para el final.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Un grupo de expertos evalúa un borrador de libro de texto de Biología de 2º de Bachillerato redactado bajo la LOMLOE en Zaragoza. El borrador contiene explicaciones lógicas de la mitosis con abundante apoyo visual de esquemas numerados y un glosario con los tecnicismos más arduos definidos de forma precisa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Es excelente, ya que la combinación de un orden lógico claro, esquemas gráficos (códigos no verbales complementarios) y glosarios técnicos facilita la asimilación gradual y rigurosa de los contenidos explicados.",
           "is_correct": true,
           "feedback": "Correcto. Un texto expositivo docente modélico debe estructurarse con claridad lógica y apoyarse en glosarios y códigos visuales no verbales de andamiaje para asegurar la asimilación del receptor en formación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es deficiente, puesto que la LOMLOE prohíbe el uso de imágenes impresas en color de células de mitosis.",
           "is_correct": false,
           "feedback": "Incorrecto. La LOMLOE promueve de forma decidida el uso de recursos visuales, la alfabetización multimodal y las tecnologías digitales interactivas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es incorrecto porque la mitosis celular exige de forma indispensable ser descrita mediante un diálogo cómico en estilo directo libre entre los cromosomas.",
           "is_correct": false,
           "feedback": "Incorrecto. Sería una inadecuación tipológica grave que empañaría el rigor y el aprendizaje de la ciencia biológica de bachillerato."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Las tildes diacríticas solo operan en determinados monosílabos homónimos para diferenciarlos y no de forma caprichosa en topónimos de Aragón."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El discurso expositivo de carácter docente (libros de texto de bachillerato de la LOMLOE) debe diseñarse de forma multimodal. La inclusión de glosarios léxicos y diagramas visuales (códigos no verbales de anclaje) es una práctica modélica que dota de andamiaje cognitivo al alumno de bachillerato para asimilar la densidad de los tecnicismos científicos de la mitosis celular.",
       "difficulty": "10",
       "images": [],

@@ -13,19 +13,19 @@
       "context": "Un estudiante de bachillerato en Guatemala analiza las ecuaciones de trayectoria de diferentes objetos en movimiento.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Hipérbola",
           "is_correct": false,
           "feedback": "Una hipérbola es la gráfica de ciertas funciones racionales, no cuadráticas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Elipse",
           "is_correct": false,
           "feedback": "Una elipse es una curva cerrada; la función cuadrática produce una curva abierta."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Parábola",
           "is_correct": true,
           "feedback": "Correcto. La gráfica de toda función de segundo grado es una parábola."
@@ -37,7 +37,7 @@
           "feedback": "Una recta es la representación de una función lineal, no cuadrática."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La parábola es una curva simétrica cuyo eje de simetría pasa por el vértice. Su orientación depende del signo del coeficiente cuadrático $a$.",
       "difficulty": "4",
       "images": [],
@@ -64,25 +64,25 @@
           "feedback": "Este es el valor de $b$, no de $m$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La pendiente de la recta.",
           "is_correct": true,
           "feedback": "Correcto. $m$ indica la inclinación y el sentido (creciente o decreciente) de la recta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El intercepto con el eje $x$.",
           "is_correct": false,
           "feedback": "El intercepto con $x$ se halla igualando la función a cero."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El área bajo la curva.",
           "is_correct": false,
           "feedback": "Este concepto pertenece al cálculo integral, no a los parámetros básicos de la recta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La pendiente $m$ se define como la razón del cambio en $y$ respecto al cambio en $x$ ($\\Delta y / \\Delta x$).",
       "difficulty": "4",
       "images": [],
@@ -115,19 +115,19 @@
           "feedback": "Si $a > 0$, la parábola abre hacia arriba."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$a$ es menor que cero ($a < 0$).",
           "is_correct": true,
           "feedback": "Correcto. Un coeficiente cuadrático negativo invierte la orientación de la parábola."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$a$ es un número imaginario.",
           "is_correct": false,
           "feedback": "En funciones reales de variable real, los coeficientes deben ser reales."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El signo del coeficiente principal $a$ determina la concavidad de la parábola: positivo para arriba (mínimo) y negativo para abajo (máximo).",
       "difficulty": "4",
       "images": [],
@@ -154,13 +154,13 @@
           "feedback": "El costo variable es el coeficiente 25."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Los costos fijos (alquiler, servicios, etc.).",
           "is_correct": true,
           "feedback": "Correcto. Es el costo que se paga aunque la producción sea cero ($x=0$)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El número de unidades vendidas.",
           "is_correct": false,
           "feedback": "Esto lo representa la variable $x$."
@@ -172,7 +172,7 @@
           "feedback": "La ganancia requiere restar costos de los ingresos, no es un valor constante en esta función."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En modelos lineales de costo, el intercepto $b$ representa el costo inicial o fijo, y la pendiente $m$ representa el costo marginal o variable por unidad.",
       "difficulty": "4",
       "images": [],
@@ -199,25 +199,25 @@
           "feedback": "Aplicaste mal la fórmula $-b/2a$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x = 3$",
           "is_correct": true,
           "feedback": "Correcto. $x_v = -(-6) / (2 \\times 1) = 6 / 2 = 3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = -3$",
           "is_correct": false,
           "feedback": "Olvidaste el signo negativo inicial de la fórmula."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 5$",
           "is_correct": false,
           "feedback": "Este es el intercepto con el eje $y$, no la coordenada del vértice."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La coordenada $x$ del vértice se calcula con la fórmula $x = -b / 2a$. Este punto es el eje de simetría de la parábola.",
       "difficulty": "6",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "No, se debe extraer raíz cuadrada de 4."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x = 2$ y $x = -2$",
           "is_correct": true,
           "feedback": "Correcto. $x^2 - 4 = 0 \\Rightarrow x^2 = 4 \\Rightarrow x = \\pm 2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 0$ y $x = 4$",
           "is_correct": false,
           "feedback": "Incorrecto. Al evaluar 0, el resultado es -4."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No tiene interceptos con el eje $x$.",
           "is_correct": false,
           "feedback": "Incorrecto. Como el término independiente es negativo y $a$ es positivo, la parábola cruza el eje $x$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los interceptos con el eje $x$ se obtienen igualando la función a cero y resolviendo la ecuación resultante.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Aquí la pendiente es 5 y el intercepto es 3, al revés de lo solicitado."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$y = 3x + 5$",
           "is_correct": true,
           "feedback": "Correcto. Usando la forma $y = mx + b$, donde $b$ es el valor de $y$ cuando $x=0$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$y = 3x - 5$",
           "is_correct": false,
           "feedback": "El intercepto es positivo según el punto dado $(0, 5)$."
@@ -307,7 +307,7 @@
           "feedback": "La pendiente debe ser positiva ($m = 3$)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Si el punto dado tiene $x=0$, su coordenada $y$ es directamente el intercepto $b$. Basta con sustituir $m$ y $b$ en la ecuación canónica.",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Para la segunda se cumple, pero para la primera $2(3) = 6$, no 6... espera, sí se cumple. Pero revisa el despeje. $2x = -x + 6 \\Rightarrow 3x = 6 \\Rightarrow x = 2$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$(2, 4)$",
           "is_correct": true,
           "feedback": "Correcto. $2x = -x + 6 \\Rightarrow 3x = 6 \\Rightarrow x = 2$. Luego $y = 2(2) = 4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(4, 8)$",
           "is_correct": false,
           "feedback": "No satisface la segunda ecuación: $-4 + 6 = 2 \\ne 8$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(0, 0)$",
           "is_correct": false,
           "feedback": "Solo satisface la primera ecuación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El punto de intersección de dos funciones es el punto donde sus valores son iguales. Se resuelve igualando ambas expresiones.",
       "difficulty": "6",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Este es el tiempo total de vuelo aproximado, no el del punto máximo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$2$ s",
           "is_correct": true,
           "feedback": "Correcto. $t_v = -20 / (2 \\times -5) = -20 / -10 = 2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$10$ s",
           "is_correct": false,
           "feedback": "Error al aplicar la fórmula del vértice."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$1$ s",
           "is_correct": false,
           "feedback": "Incorrecto. La altura sigue aumentando después de 1 segundo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En problemas de proyectiles, el tiempo para la altura máxima corresponde a la coordenada $t$ del vértice de la parábola.",
       "difficulty": "8",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Este es el valor de $x$ donde ocurre el máximo, no el valor máximo de la función ($y$)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$5$",
           "is_correct": true,
           "feedback": "Correcto. $x_v = -8 / (2 \\times -2) = 2$. Evaluando $f(2) = -2(4) + 8(2) - 3 = -8 + 16 - 3 = 5$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$-3$",
           "is_correct": false,
           "feedback": "Este es el intercepto con $y$, no el valor máximo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$13$",
           "is_correct": false,
           "feedback": "Error en el cálculo al evaluar la función en el vértice."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El valor máximo o mínimo de una función cuadrática es la coordenada $y$ de su vértice ($y_v = f(x_v)$).",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "Un geómetra estudia la relación entre rectas perpendiculares en un plano de construcción.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$-2/3$",
           "is_correct": false,
           "feedback": "Esta sería la pendiente de una recta paralela."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$2/3$",
           "is_correct": false,
           "feedback": "Solo se cambió el signo, no se invirtió la fracción."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$3/2$",
           "is_correct": true,
           "feedback": "Correcto. Las pendientes de rectas perpendiculares son recíprocas y opuestas ($m_1 \\cdot m_2 = -1$)."
@@ -667,7 +667,7 @@
           "feedback": "Se invirtió la fracción pero no se cambió el signo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La condición de perpendicularidad entre dos rectas es que el producto de sus pendientes sea igual a $-1$.",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Un agrónomo en Guatemala utiliza una función cuadrática para modelar el rendimiento de una cosecha basado en la cantidad de fertilizante.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 5, x = -5$",
           "is_correct": false,
           "feedback": "Esta es la solución de $x^2-25=0$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 0, x = 5$",
           "is_correct": true,
           "feedback": "Correcto. Factorizando $x(x - 5) = 0$."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. No satisfacen la ecuación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Al faltar el término independiente, la función se factoriza fácilmente por factor común, indicando que una de las raíces es siempre cero.",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Incorrecto. Se deben hallar las raíces de la función."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Entre $x = 2$ y $x = 8$",
           "is_correct": true,
           "feedback": "Correcto. Raíces: $-(x-2)(x-8) = 0 \\Rightarrow x=2, x=8$. Como abre hacia abajo, los valores positivos están entre las raíces."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Para cualquier $x$ mayor que $8$.",
           "is_correct": false,
           "feedback": "Para $x > 8$, el beneficio es negativo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Solo para $x = 5$.",
           "is_correct": false,
           "feedback": "En $x=5$ se obtiene el beneficio máximo, pero hay ganancias en todo el intervalo $(2, 8)$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La resolución de desigualdades cuadráticas se apoya en el hallazgo de las raíces y el análisis de la concavidad de la parábola.",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "El signo dentro del paréntesis se invierte para el vértice."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Vértice $(4, 7)$, abre hacia arriba.",
           "is_correct": true,
           "feedback": "Correcto. En la forma $a(x-h)^2 + k$, el vértice es $(h, k)$. Como $a=3 > 0$, abre hacia arriba."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Vértice $(4, 7)$, abre hacia abajo.",
           "is_correct": false,
           "feedback": "$a$ es positivo, debe abrir hacia arriba."
@@ -802,7 +802,7 @@
           "feedback": "El valor de $k$ conserva su signo en la coordenada del vértice."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La forma vértice de una función cuadrática permite identificar el punto extremo y la concavidad de manera inmediata sin necesidad de cálculos adicionales.",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "$x^2 - 4x + 3 = 0 \\Rightarrow (x-3)(x-1) = 0$. Hay dos puntos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "En $(1, 3)$ y $(3, 7)$",
           "is_correct": true,
           "feedback": "Correcto. $x^2 - 2x + 4 = 2x + 1 \\Rightarrow x^2 - 4x + 3 = 0 \\Rightarrow x=1, x=3$. Evaluando en la recta: $y(1)=3, y(3)=7$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En $(0, 1)$ y $(2, 5)$",
           "is_correct": false,
           "feedback": "Estos puntos no satisfacen la ecuación de la parábola."
@@ -847,7 +847,7 @@
           "feedback": "Falso. El discriminante de la ecuación resultante es positivo ($16 - 12 = 4$)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La intersección de funciones de distinto tipo se halla igualando sus expresiones y resolviendo la ecuación resultante (en este caso, cuadrática).",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "$6(2)^2 = 6(4) = 24 \\ne 12$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$f(x) = 3x^2$",
           "is_correct": true,
           "feedback": "Correcto. Como el vértice es $(0,0)$, la forma es $ax^2$. $12 = a(2)^2 \\Rightarrow 12 = 4a \\Rightarrow a = 3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = x^2 + 8$",
           "is_correct": false,
           "feedback": "El vértice de esta función no está en el origen."
@@ -892,7 +892,7 @@
           "feedback": "No cumple ninguna de las dos condiciones dadas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para determinar los coeficientes de una función, se utiliza la forma canónica o general y se sustituyen las coordenadas de los puntos conocidos para despejar las incógnitas.",
       "difficulty": "10",
       "images": [],

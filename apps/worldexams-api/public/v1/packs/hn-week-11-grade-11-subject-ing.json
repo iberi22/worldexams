@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The documents ___ every morning by the administration office.",
+      "context": "The present simple passive.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "are checked",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "Correct! The subject is the thing that receives the action, so the present simple passive is are plus participle."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "check",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A bare base form would leave the verb without an auxiliary, and the sentence needs a passive structure."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "is checked",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Is builds the singular, and the plural subject documents requires are."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "were checked",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A past passive would place the checking in the past, and every morning describes a routine."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
+      "explanation": "In the present simple passive the auxiliary is am, is or are and it agrees with the subject. The main verb always appears as a past participle.\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle",
       "periodo": 11,
@@ -54,40 +54,40 @@
     },
     {
       "id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The bridge ___ two years ago.",
+      "context": "The past simple passive.",
       "options": [
         {
-          "letter": "A",
-          "text": "itinerary",
+          "letter": "B",
+          "text": "was repaired",
           "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "feedback": "Correct! A past passive uses was or were plus the past participle."
         },
         {
-          "letter": "B",
-          "text": "baggage",
+          "letter": "A",
+          "text": "has repaired",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A present perfect would link the repair to now, but two years ago closes the action in the past."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "is repairing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A present continuous would place the repair under way now, which the past time denies."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "repaired",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A bare participle would be the past simple only in the active, and the subject is not the one repairing."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "The past simple passive takes was or were plus past participle. The agent is normally introduced by by, though it is often left out when it is obvious.\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle",
       "periodo": 11,
@@ -99,40 +99,40 @@
     },
     {
       "id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "While the road ___ , a heavy lorry arrived.",
+      "context": "The past continuous passive.",
       "options": [
         {
-          "letter": "A",
-          "text": "destination",
+          "letter": "C",
+          "text": "was being repaired",
           "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "feedback": "Correct! The past continuous passive is was or were plus being plus participle."
+        },
+        {
+          "letter": "A",
+          "text": "was repaired",
+          "is_correct": false,
+          "feedback": "That would present the repair as a single completed event with no sense of it being under way."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "has been repaired",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A present perfect would place the repair inside the present period, which the past scene denies."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "is being repaired",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A present continuous would place the repair now, and the whole scene is in the past."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "C",
+      "explanation": "Continuous passives are built with be plus being plus participle. A past continuous situation therefore needs was being plus the participle.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle",
       "periodo": 11,
@@ -144,40 +144,40 @@
     },
     {
       "id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The classroom ___ at the moment. Students are arriving.",
+      "context": "The present continuous passive.",
       "options": [
         {
-          "letter": "A",
-          "text": "luggage",
+          "letter": "D",
+          "text": "is being cleaned",
           "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "feedback": "Correct! The present continuous passive is is or are plus being plus participle."
+        },
+        {
+          "letter": "A",
+          "text": "has cleaned",
+          "is_correct": false,
+          "feedback": "A present perfect would suggest the cleaning is already finished, but at the moment shows it is under way."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "was cleaned",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A past passive would place the cleaning in a completed past, and the sentence is about now."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "is cleaned",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A present simple passive would describe a routine, and at the moment asks about a specific action in progress."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "The present continuous passive describes an action happening right now. The time expression at the moment is the clearest possible signal for the continuous form.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle",
       "periodo": 11,
@@ -189,40 +189,40 @@
     },
     {
       "id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The results ___ tomorrow morning.",
+      "context": "The future simple passive.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "will be published",
           "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "feedback": "Correct! The future passive uses will plus be plus past participle."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "will publish",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That is the active form, which would make the results the ones doing the publishing."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "are published",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A present passive would need a routine or a timetable in the present."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "have been published",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A present perfect passive would suggest they are already out, and tomorrow is still ahead."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "explanation": "Future passives are simple to build: will be plus the participle. The subject of the future passive is always the thing affected.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle",
       "periodo": 11,
@@ -234,40 +234,40 @@
     },
     {
       "id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The sample ___ before the results are announced.",
+      "context": "The negative form of a passive.",
       "options": [
         {
-          "letter": "A",
-          "text": "customs",
+          "letter": "B",
+          "text": "cannot be identified",
           "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "feedback": "Correct! A modal plus be plus participle builds the passive in the negative."
         },
         {
-          "letter": "B",
-          "text": "security",
+          "letter": "A",
+          "text": "is not identify",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The main verb must be a past participle, and identify in the base form is wrong."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "does not identified",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A passive cannot be built with the auxiliary do, which carries active tenses."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "was not identified",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A past passive would place the identification in the past, and the sentence is about the future."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Modal passives follow a fixed order: modal plus be plus past participle. The modal never changes and the participle never changes.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle",
       "periodo": 11,
@@ -279,37 +279,37 @@
     },
     {
       "id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The tickets ___ before the departure.",
+      "context": "The subject of the passive is plural.",
       "options": [
         {
-          "letter": "A",
-          "text": "boarding pass",
+          "letter": "C",
+          "text": "were printed",
           "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "feedback": "Correct! A past passive with a plural subject takes were plus participle."
+        },
+        {
+          "letter": "A",
+          "text": "was printed",
+          "is_correct": false,
+          "feedback": "Was builds the singular, and the subject tickets is plural."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "are printing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A present continuous would place the printing now, and the tickets are printed before departure."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "printed",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A bare participle would be the active past simple, with the tickets doing the printing."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "Agreement in the passive depends on the subject, not on the agent. Whenever the subject is plural, the auxiliary is are, were, have been or will be.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "___ the application ___ yet?",
+      "context": "The present perfect passive.",
       "options": [
         {
-          "letter": "A",
-          "text": "sightseeing",
+          "letter": "D",
+          "text": "Has ... been received",
           "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "feedback": "Correct! The present perfect passive is have or has plus been plus participle, and yet is a present perfect marker."
+        },
+        {
+          "letter": "A",
+          "text": "Has ... received",
+          "is_correct": false,
+          "feedback": "That is the active form, and in the active the receiver cannot be the subject of the sentence."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "Have ... been receiving",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The present perfect continuous passive would be have plus been being plus participle, which is not used here."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "Did ... receive",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Did cannot build a perfect structure, and the question is about the present state."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "The present perfect passive is used when the present state of the thing affected matters. Yet and already belong naturally to this tense.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,37 +369,37 @@
     },
     {
       "id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The mural ___ by a group of local artists last year.",
+      "context": "The agent is named in a passive sentence.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
+          "text": "was painted",
           "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "feedback": "Correct! A past passive with an agent introduced by by is the standard structure."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "painted",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A bare participle would put the artists in the subject position, and they are not painting."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "has painted",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A present perfect would place the painting inside the present period, and last year closes it."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "is painting",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A present continuous would mean the mural is painting itself, which is not a possible reading."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "explanation": "By introduces the agent of a passive. It is used when the agent is worth mentioning and omitted when the action or the doer is obvious.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,37 +414,37 @@
     },
     {
       "id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "___ the fee ___ in two instalments?",
+      "context": "A question in the present simple passive.",
       "options": [
         {
-          "letter": "A",
-          "text": "delay",
+          "letter": "B",
+          "text": "Is ... paid",
           "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "feedback": "Correct! A polar question in the present passive takes the auxiliary is before the subject and the participle after."
         },
         {
-          "letter": "B",
-          "text": "cancellation",
+          "letter": "A",
+          "text": "Do ... pay",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Do builds active questions, and a passive question needs the be auxiliary."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "Are ... paying",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A continuous passive would need being, and the fee is a payment made in one action."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "Was ... paid",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A past passive would refer to a completed payment, and the question is about the general arrangement."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "In a passive question the auxiliary comes before the subject and the participle closes the structure. The whole pattern mirrors the affirmative.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,37 +459,37 @@
     },
     {
       "id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The teacher praised the student because she ___ a good report.",
+      "context": "Choosing between an active and a passive structure.",
       "options": [
         {
-          "letter": "A",
-          "text": "check-in",
+          "letter": "C",
+          "text": "had written",
           "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
+          "feedback": "Correct! The active is natural here, and the past perfect shows the report was finished before the praise."
+        },
+        {
+          "letter": "A",
+          "text": "would be written by her",
+          "is_correct": false,
+          "feedback": "A would would build a conditional, and the praise is a statement about what really happened."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "has written",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A present perfect would place the writing inside the present period, and the praise is in the past."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "is writing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A present continuous would mean the report is still being written, which the praise denies."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "The teacher is the natural subject of a compliment, so the active is better here. The passive is used when the doer is unknown or unimportant.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,37 @@
     },
     {
       "id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "By the time the police arrived, the stolen bikes ___ already recovered.",
+      "context": "The past perfect passive.",
       "options": [
         {
-          "letter": "A",
-          "text": "layover",
+          "letter": "D",
+          "text": "had been",
           "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "feedback": "Correct! The past perfect passive is had plus been plus past participle."
+        },
+        {
+          "letter": "A",
+          "text": "were",
+          "is_correct": false,
+          "feedback": "A past simple passive would leave the two past events without a clear order."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "have been",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A present perfect would measure up to now, and the police arriving is the past reference point."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "had",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Had alone would need the participle after be, and the be is what is missing here."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "The past perfect passive is the passive counterpart of the past perfect. It is formed with had plus been plus the participle, exactly as it is with had plus participle in the active.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,40 +549,40 @@
     },
     {
       "id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "By June the new wing ___ completely by then.",
+      "context": "The future perfect passive.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
+          "text": "will have been finished",
           "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
+          "feedback": "Correct! The future perfect passive is will plus have plus been plus participle."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "will have finished",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That is the active form, and the subject would have to be the one doing the finishing."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "will be finished",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A future simple would place the completion at the deadline without the backward view the by clause needs."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "had been finished",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A past perfect would look back from a past point, and June is still ahead."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "explanation": "By plus a future deadline requires the future perfect. In the passive this becomes will have been plus the participle, which is one word longer than the active.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle",
       "periodo": 11,
@@ -594,40 +594,40 @@
     },
     {
       "id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The results ___ when the fire alarm went off.",
+      "context": "The past continuous passive in a longer narrative.",
       "options": [
         {
-          "letter": "A",
-          "text": "guidebook",
+          "letter": "B",
+          "text": "were being announced",
           "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "feedback": "Correct! A past continuous passive takes were plus being plus participle."
         },
         {
-          "letter": "B",
-          "text": "map",
+          "letter": "A",
+          "text": "were announced",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A past simple passive would present the announcement as a single finished event."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "have been announced",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A present perfect would link the announcement to now, and the scene is in the past."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "are being announced",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A present continuous would place the announcement now, which the alarm interrupts in the past."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "An action under way at a past moment takes the past continuous passive. The being is what distinguishes this from a completed past passive.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle",
       "periodo": 11,
@@ -639,40 +639,40 @@
     },
     {
       "id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The hall ___ for the party, but the manager refused.",
+      "context": "A passive with a modal in the past.",
       "options": [
         {
-          "letter": "A",
-          "text": "backpack",
+          "letter": "C",
+          "text": "could be booked",
           "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "feedback": "Correct! The past of can is could, so the modal passive is could be plus participle."
+        },
+        {
+          "letter": "A",
+          "text": "can be booked",
+          "is_correct": false,
+          "feedback": "Can would place the possibility in the present, but the refusal is in the past."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "would be booked",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Would would build a conditional, and the sentence reports a past situation."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "must be booked",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Must would express an obligation, which is different from the possibility that was denied."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "Modal passives keep the modal in front of be. The only change is the modal's own form, so can becomes could and will becomes would.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle",
       "periodo": 11,
@@ -684,40 +684,40 @@
     },
     {
       "id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Each application ___ by two teachers and then by the director.",
+      "context": "The subject of the passive is the one doing the receiving.",
       "options": [
         {
-          "letter": "A",
-          "text": "overseas",
+          "letter": "D",
+          "text": "is checked",
           "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "feedback": "Correct! Each is singular, so the present simple passive takes is plus participle."
+        },
+        {
+          "letter": "A",
+          "text": "are checked",
+          "is_correct": false,
+          "feedback": "Are would be correct for a plural subject, but each counts as singular in English."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "is checking",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A continuous would suggest the applications check themselves, which is impossible."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "has checked",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A present perfect would mean the applications do the checking, which reverses the roles."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Each, every, one and none are grammatically singular even when they look like plurals. A passive with each as its subject always takes is or was.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle",
       "periodo": 11,
@@ -729,40 +729,40 @@
     },
     {
       "id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "This time tomorrow the documents ___ by the new system.",
+      "context": "The future continuous passive.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
+          "text": "will be being processed",
           "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
+          "feedback": "Correct! The future continuous passive is will plus be plus being plus participle."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "will be processed",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A future simple would place the processing at the moment rather than showing it under way."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "are being processed",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A present continuous would place the processing now, and this time tomorrow is still ahead."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "will have been processed",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A future perfect would look back from the future point, and the process is still running at it."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "explanation": "The future continuous passive is a three-part structure: will, be, being and then the participle. It is uncommon in speech but perfectly correct in formal description.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle",
       "periodo": 11,
@@ -774,40 +774,40 @@
     },
     {
       "id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Someone has scratched the door. The door ___ during the night.",
+      "context": "Choosing the passive because the agent is unknown.",
       "options": [
         {
-          "letter": "A",
-          "text": "insurance",
+          "letter": "B",
+          "text": "was scratched",
           "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
+          "feedback": "Correct! The passive is right because the person responsible is deliberately unknown."
         },
         {
-          "letter": "B",
-          "text": "warranty",
+          "letter": "A",
+          "text": "scratched",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The active would make the door the agent of scratching, which is not the meaning."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "has scratched",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The active present perfect would also make the door the agent."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "is scratching",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A continuous would suggest the door is acting on its own, and during the night is a closed period."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "English uses the passive for two main reasons: the doer is unknown or unimportant, and the action matters more than the person who did it. Cracked doors in crime reports are the classic case.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle",
       "periodo": 11,
@@ -819,40 +819,40 @@
     },
     {
       "id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The new law ___ by the president last Monday.",
+      "context": "The subject is a thing that cannot do the action, so the passive is forced.",
       "options": [
         {
-          "letter": "A",
-          "text": "vaccination",
+          "letter": "C",
+          "text": "was signed",
           "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
+          "feedback": "Correct! A law is signed rather than signing, so the passive is the only possible structure."
+        },
+        {
+          "letter": "A",
+          "text": "signed",
+          "is_correct": false,
+          "feedback": "The active would claim that the law itself signed itself, which is not a possible reading."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "has signed",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The active present perfect would have the same impossible meaning."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "was signing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A past continuous would also make the law the agent of the action."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "Some subjects cannot perform the action, and those verbs are almost always passive. A law is signed, a decision is taken, a prize is awarded.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle",
       "periodo": 11,
@@ -864,40 +864,40 @@
     },
     {
       "id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"The repairs will be finished on Friday,\" he said. He said that the repairs ___ be finished on Friday.",
+      "context": "A passive in reported speech, where the auxiliary shifts.",
       "options": [
         {
-          "letter": "A",
-          "text": "jet lag",
+          "letter": "D",
+          "text": "would",
           "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "feedback": "Correct! In a reported passive, the first auxiliary shifts from will to would, while be finished is untouched."
+        },
+        {
+          "letter": "A",
+          "text": "will",
+          "is_correct": false,
+          "feedback": "Keeping will would ignore the past tense of the reporting verb he said."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Are would introduce a present passive, and the report is about a future event."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "had been",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A past perfect would shift twice, and the original will needs only one step back."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "Backshift in a passive sentence affects the first auxiliary only. Will be finished becomes would be finished, and the passive part of the verb never changes.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle",
       "periodo": 11,

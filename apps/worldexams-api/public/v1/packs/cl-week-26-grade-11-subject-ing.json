@@ -19,13 +19,13 @@
           "feedback": "Incorrect. Global citizenship goes beyond borders."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "transcends",
           "is_correct": true,
           "feedback": "Correct. Transcends means to go beyond the range or limits of."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "obeys",
           "is_correct": false,
           "feedback": "Incorrect. While laws are obeyed, the 'identity' is what transcends."
@@ -37,9 +37,9 @@
           "feedback": "Incorrect. It recognizes borders but places identity beyond them."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Transcends' is the appropriate verb for describing how an identity or idea goes beyond physical limits.\n\n---",
-      "difficulty": "3",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "are protecting",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Are protecting' is the active voice and would make the human rights do the protecting."
         },
         {
           "letter": "B",
           "text": "are being protected",
           "is_correct": true,
-          "feedback": "Correct. Present continuous passive for an ongoing state."
+          "feedback": "Correct. 'Are being protected' is the present continuous passive, used for protection that is under way at the moment."
         },
         {
           "letter": "C",
           "text": "protected",
           "is_correct": false,
-          "feedback": "Incorrect. Past simple."
+          "feedback": "'Protected' on its own would be past simple, but the protection is happening now."
         },
         {
           "letter": "D",
           "text": "have protected",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Have protected' is the Present Perfect active, which would require the rights to be the ones doing the protecting."
         }
       ],
       "correct_answer": "B",
@@ -129,7 +129,7 @@
       ],
       "correct_answer": "B",
       "explanation": "The second conditional 'if + past simple' describes the likely result of an imaginary increase in global cooperation.\n\n---",
-      "difficulty": "5",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -193,13 +193,13 @@
       "context": "Discussion on \"civic engagement\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "private",
           "is_correct": false,
           "feedback": "Incorrect. Focus is on 'public' concern."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "public",
           "is_correct": true,
           "feedback": "Correct. Civic engagement is about the community and society."
@@ -217,7 +217,7 @@
           "feedback": "Incorrect. Issues addressed are usually important."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Public' concern describes the shared social or political issues that civic engagement aims to improve.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrect. Agencies are often government-run."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "NGO",
           "is_correct": true,
           "feedback": "Correct. Non-Governmental Organization."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Corporation",
           "is_correct": false,
           "feedback": "Incorrect. A corporation is usually for-profit."
@@ -262,9 +262,9 @@
           "feedback": "Incorrect. An embassy is a government office abroad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'NGO' is the acronym for organizations that work on social or environmental issues without government control.\n\n---",
-      "difficulty": "3",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -283,19 +283,19 @@
       "context": "Recommendation for global awareness.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "learn",
           "is_correct": true,
           "feedback": "Correct. Subjunctive base form after 'recommended'."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "learns",
           "is_correct": false,
           "feedback": "Incorrect. Third person singular not used in formal subjunctive."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "to learn",
           "is_correct": false,
           "feedback": "Incorrect. Doesn't fit 'that' clause."
@@ -307,9 +307,9 @@
           "feedback": "Incorrect. Gerund."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "The base form 'learn' is used in the subjunctive mood to express a recommendation.\n\n---",
-      "difficulty": "4",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -354,7 +354,7 @@
       ],
       "correct_answer": "B",
       "explanation": "'Advocacy' is the specific term for active support and promotion of a cause.\n\n---",
-      "difficulty": "5",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -379,13 +379,13 @@
           "feedback": "Incorrect. Past continuous doesn't emphasize duration as well here."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "had been volunteering",
           "is_correct": true,
           "feedback": "Correct. Past perfect continuous for duration before a past point."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "has been volunteering",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect continuous."
@@ -397,9 +397,9 @@
           "feedback": "Incorrect. Past simple."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The past perfect continuous describes a continuous action (volunteering) leading up to a specific past event (being hired).\n\n---",
-      "difficulty": "4",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -424,13 +424,13 @@
           "feedback": "Incorrect. Based on superiority."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "superior",
           "is_correct": true,
           "feedback": "Correct. Superiority is the belief that one's culture is better than others."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "inferior",
           "is_correct": false,
           "feedback": "Incorrect. Judge others as inferior, but view *one's own* as superior."
@@ -442,7 +442,7 @@
           "feedback": "Incorrect. It is a biased view."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Superior' correctly identifies the biased perspective that characterizes ethnocentrism.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -466,30 +466,30 @@
           "letter": "A",
           "text": "Apathy",
           "is_correct": false,
-          "feedback": "Incorrect. Lack of interest."
-        },
-        {
-          "letter": "B",
-          "text": "Empathy",
-          "is_correct": true,
-          "feedback": "Correct. Ability to understand others."
+          "feedback": "'Apathy' is the absence of interest or concern, the opposite of understanding others."
         },
         {
           "letter": "C",
+          "text": "Empathy",
+          "is_correct": true,
+          "feedback": "Correct. 'Empathy' is the ability to understand and share what people from other backgrounds are feeling."
+        },
+        {
+          "letter": "B",
           "text": "Envy",
           "is_correct": false,
-          "feedback": "Incorrect. Jealousy."
+          "feedback": "'Envy' is jealousy of what someone else has, which has nothing to do with understanding them."
         },
         {
           "letter": "D",
           "text": "Greed",
           "is_correct": false,
-          "feedback": "Incorrect. Selfish desire."
+          "feedback": "'Greed' is a selfish desire for more, which also works against empathy."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Empathy' is fundamental for understanding and connecting with the global community.\n\n---",
-      "difficulty": "3",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -511,30 +511,30 @@
           "letter": "A",
           "text": "who",
           "is_correct": false,
-          "feedback": "Incorrect. Subject pronoun."
-        },
-        {
-          "letter": "B",
-          "text": "whose",
-          "is_correct": true,
-          "feedback": "Correct. Possessive relative pronoun for 'migrants' safety'."
-        },
-        {
-          "letter": "C",
-          "text": "that",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Who' is used as a subject pronoun, but the blank needs to show possession of 'safety'."
         },
         {
           "letter": "D",
+          "text": "whose",
+          "is_correct": true,
+          "feedback": "Correct. 'Whose' is the possessive relative pronoun that links the migrants to the safety that is at risk."
+        },
+        {
+          "letter": "B",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "'That' introduces a defining clause about 'migrants' themselves and cannot express possession."
+        },
+        {
+          "letter": "C",
           "text": "which",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Which' is used for things, not for people, and it does not express possession either."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Whose' is used to show possession, linking the migrants to the safety that is at risk.\n\n---",
-      "difficulty": "4",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -556,30 +556,30 @@
           "letter": "A",
           "text": "wealth",
           "is_correct": false,
-          "feedback": "Incorrect. Money-focused."
+          "feedback": "'Wealth' refers to money and property, and the definition is about rights and chances rather than possessions."
         },
         {
           "letter": "B",
           "text": "opportunities",
           "is_correct": true,
-          "feedback": "Correct. Refers to chances for success."
+          "feedback": "Correct. 'Opportunities' is part of the definition: social justice means everyone gets a fair chance at success."
         },
         {
           "letter": "C",
           "text": "outcomes",
           "is_correct": false,
-          "feedback": "Incorrect. Not the standard phrase."
+          "feedback": "'Outcomes' is not the standard word in this definition; the sentence names the chances people are given, not the results."
         },
         {
           "letter": "D",
           "text": "status",
           "is_correct": false,
-          "feedback": "Incorrect. Position."
+          "feedback": "'Status' means social position or rank, and social justice is about equal rights rather than rank."
         }
       ],
       "correct_answer": "B",
       "explanation": "'Opportunities' is a core part of the definition of social justice, emphasizing fair chances for all.\n\n---",
-      "difficulty": "5",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -598,33 +598,33 @@
       "context": "Advice on cross-cultural interaction.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "if",
           "is_correct": false,
-          "feedback": "Incorrect. 'If you understand' would mean don't judge if you *do* understand."
+          "feedback": "'If' would reverse the logic and mean 'do not judge in the case that you understand', which is not what the sentence says."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "unless",
           "is_correct": true,
-          "feedback": "Correct. 'Unless' means 'if not'."
+          "feedback": "Correct. 'Unless' means 'if not', so the sentence says you should not judge until you understand the context."
         },
         {
           "letter": "C",
           "text": "although",
           "is_correct": false,
-          "feedback": "Incorrect. Contrast."
+          "feedback": "'Although' expresses a contrast between two true statements, not the condition the sentence sets."
         },
         {
           "letter": "D",
           "text": "whether",
           "is_correct": false,
-          "feedback": "Incorrect. Choice."
+          "feedback": "'Whether' introduces a choice between possibilities and does not express the condition described."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Unless' sets the condition that understanding context must happen before judgment can be fair.\n\n---",
-      "difficulty": "4",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -643,33 +643,33 @@
       "context": "Conclusion of an essay on \"active citizenship\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "ignoring",
           "is_correct": false,
-          "feedback": "Incorrect. Opposite of active."
+          "feedback": "'Ignoring' the well-being of others is the opposite of taking an active role."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "taking responsibility",
           "is_correct": true,
-          "feedback": "Correct. Implies active care and effort."
+          "feedback": "Correct. 'Taking responsibility' means accepting an active duty to care for others, which is what the conclusion describes."
         },
         {
           "letter": "C",
           "text": "avoiding",
           "is_correct": false,
-          "feedback": "Incorrect. Negative."
+          "feedback": "'Avoiding' the community means staying out of it, which is not active citizenship."
         },
         {
           "letter": "D",
           "text": "resenting",
           "is_correct": false,
-          "feedback": "Incorrect. Negative feeling."
+          "feedback": "'Resenting' is a hostile feeling towards others, not the commitment the sentence describes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Taking responsibility' is the proactive behavior that defines active global citizenship.\n\n---",
-      "difficulty": "6",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -691,30 +691,30 @@
           "letter": "A",
           "text": "fact",
           "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "stereotype",
-          "is_correct": true,
-          "feedback": "Correct. Oversimplified and often biased idea."
-        },
-        {
-          "letter": "C",
-          "text": "news",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Fact' means something true and verifiable; the definition given is of an idea that is not accurate."
         },
         {
           "letter": "D",
+          "text": "stereotype",
+          "is_correct": true,
+          "feedback": "Correct. A 'stereotype' is a fixed, oversimplified idea about a group of people that people hold widely."
+        },
+        {
+          "letter": "B",
+          "text": "news",
+          "is_correct": false,
+          "feedback": "'News' is a report of recent events and says nothing about a held image of a kind of person."
+        },
+        {
+          "letter": "C",
           "text": "slogan",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'A slogan' is a short catchy phrase, not a belief about a type of person."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Stereotype' is the term for the reductive generalizations made about groups of people.\n\n---",
-      "difficulty": "3",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -759,7 +759,7 @@
       ],
       "correct_answer": "B",
       "explanation": "The 'wish + past perfect' structure is used to express regret about a past lack of action or knowledge.\n\n---",
-      "difficulty": "4",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -804,7 +804,7 @@
       ],
       "correct_answer": "B",
       "explanation": "'Mutual understanding' is the primary positive outcome sought through cultural diplomacy.\n\n---",
-      "difficulty": "5",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -829,13 +829,13 @@
           "feedback": "Incorrect. Backshifted in reported speech."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "had",
           "is_correct": true,
           "feedback": "Correct. Backshifted from 'has' to 'had'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "will have",
           "is_correct": false,
           "feedback": "Incorrect. Future."
@@ -847,9 +847,9 @@
           "feedback": "Incorrect. Present perfect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "In reported speech, we backshift the tense of the original statement to show it was said in the past.\n\n---",
-      "difficulty": "4",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -868,33 +868,33 @@
       "context": "Final thought on humanity.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "humanity",
           "is_correct": true,
-          "feedback": "Correct. The quality of being human."
+          "feedback": "Correct. 'Humanity' is the quality of being human, and the sentence argues that this shared nature matters more than national or cultural divisions."
+        },
+        {
+          "letter": "A",
+          "text": "wealth",
+          "is_correct": false,
+          "feedback": "'Wealth' is money and property, and the sentence contrasts shared humanity with national and cultural differences, not with riches."
         },
         {
           "letter": "B",
-          "text": "wealth",
+          "text": "power",
           "is_correct": false,
-          "feedback": "Incorrect. Unrelated to the social point."
+          "feedback": "'Power' tends to divide people rather than unite them, which is the opposite of the common humanity the sentence defends."
         },
         {
           "letter": "C",
-          "text": "power",
-          "is_correct": false,
-          "feedback": "Incorrect. Power often divides."
-        },
-        {
-          "letter": "D",
           "text": "greed",
           "is_correct": false,
-          "feedback": "Incorrect. Negative."
+          "feedback": "'Greed' is a selfish desire, and the sentence is arguing for a shared bond rather than for selfish interest."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "'Shared humanity' is the central concept in global citizenship that emphasizes commonality over division.",
-      "difficulty": "6",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",

@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which opening sentence is most appropriate for a descriptive paragraph about a familiar market?",
+      "context": "A student is asked to describe a place they know well.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "Every Saturday morning the market on Calle Unión fills with the noise of sellers and the smell of bread.",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "Correct. This sentence introduces the setting with time, place and vivid sensory detail, which is what a descriptive paragraph needs."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "There are many people in the market and the market is in the city.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentence is generic, gives no concrete detail and repeats the noun twice."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "I think the market is nice and it sells things.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The judgement is unsupported and the repetition of 'the market' adds no description."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "The market is a market and it is very busy on Saturdays.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentence repeats the noun and states nothing about the market itself."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
+      "explanation": "A descriptive opening establishes place and atmosphere through concrete detail rather than through bare claims.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-bundle",
       "periodo": 35,
@@ -54,40 +54,40 @@
     },
     {
       "id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence adds the most vivid sensory detail to a description?",
+      "context": "A student is asked to describe a place they know well.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "The bread is available for purchase at the bakery.",
+          "is_correct": false,
+          "feedback": "Wrong. The sentence reports only the fact of sale, with no sensory information."
         },
         {
           "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The bread arrives still warm, and the counter is dusted with flour.",
+          "is_correct": true,
+          "feedback": "Correct. Warmth and flour on a surface describe the scene through touch and sight, which is what vivid description means."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "There are several kinds of bread sold in the bakery.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentence is a plain enumeration with no sensory detail."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "The bakery sells bread to customers who visit it.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentence describes the transaction rather than what the place looks or feels like."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "Sensory description depends on concrete impressions of sight, sound, smell, touch and taste, not on stating what a place sells.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-bundle",
       "periodo": 35,
@@ -99,41 +99,41 @@
     },
     {
       "id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly compares two things in a description.",
+      "context": "A student is writing a descriptive paragraph about a landscape.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "text": "The road is narrow than it appears from the ridge above.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Narrow than' omits the comparative element, since than cannot stand on its own."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "The road is more narrow than it appears from the ridge above.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'More narrow' misuses the more pattern with a short adjective that takes -er."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The road is far narrower than it appears from the ridge above.",
+          "is_correct": true,
+          "feedback": "Correct. 'Far narrower than' is the correct comparative, with an intensifier before the comparative form."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "The road is the narrowest than it appears from the ridge above.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'The narrowest' is a superlative and cannot be followed by than."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
+      "correct_answer": "C",
+      "explanation": "Description frequently uses comparison, and the comparative form must be the correct one for the adjective.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -144,40 +144,40 @@
     },
     {
       "id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that describes a person's appearance without giving a value judgement.",
+      "context": "A student is writing a descriptive paragraph about a person.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "text": "Her grey hair is tied back, which is the mark of a real teacher.",
+          "is_correct": false,
+          "feedback": "Wrong. The clause makes an unsupported claim about what the appearance signifies."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "Her grey hair is tied back, and that proves she is intelligent.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Drawing a character conclusion from grey hair is an inference, not a description."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "Her grey hair is tied back, and she is a stubborn old woman.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Stubborn' and 'old woman' are judgements and go beyond what can be seen."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Her grey hair is tied back, and she wears thick-rimmed glasses.",
+          "is_correct": true,
+          "feedback": "Correct. This sentence reports only observable features, which is what neutral description requires."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "Pure description confines itself to observable features; evaluation and inference belong to a different part of the writing.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-bundle",
       "periodo": 35,
@@ -189,41 +189,41 @@
     },
     {
       "id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which plan gives the best structure for a description of a room?",
+      "context": "A student is organising a descriptive paragraph.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "Begin with the overall impression, move to the main pieces of furniture, and finish with the light in the room.",
           "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "feedback": "Correct. This moves from general to particular and ends with an atmospheric detail, which is a coherent descriptive structure."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "Begin with three judgements about the room, then give the measurements of the door.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The judgements come before any description, so the reader has nothing concrete to attach them to."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "Begin with a story about the previous owner of the room, then describe the floor.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The history of the room is narrative material and does not belong in a description of the space."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "Begin with the light, then list every object alphabetically, then repeat the overall impression.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Alphabetical order is a list, not a description, and the closing repetition adds nothing."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\n---",
+      "explanation": "Descriptive writing typically moves from a general impression through particular details to a concluding detail that restores the mood.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -234,40 +234,40 @@
     },
     {
       "id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the adjective that belongs in a literary description rather than a technical one.",
+      "context": "A student is choosing vocabulary for a description.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "text": "The stones are calibrated to within two millimetres of tolerance.",
+          "is_correct": false,
+          "feedback": "Wrong. A tolerance figure is technical measurement rather than description."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The stones are worn smooth by centuries of footsteps.",
+          "is_correct": true,
+          "feedback": "Correct. 'Worn smooth by footsteps' describes appearance and history together, which is the register of literary description."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "The stones are located at an altitude of three thousand metres.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. An altitude figure is a specification rather than an impression."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "The stones are covered in a layer of siliceous deposit.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Naming a deposit describes material composition, which is a scientific register."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Literary description works through visible appearance and accumulated human history, not through measurements or material composition.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-bundle",
       "periodo": 35,
@@ -279,41 +279,41 @@
     },
     {
       "id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The sentence 'The garden was beautiful.' needs to be developed. Which revision turns it into a description?",
+      "context": "A student is asked to improve a descriptive paragraph.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "text": "The garden was beautiful because the garden had flowers.",
+          "is_correct": false,
+          "feedback": "Wrong. The revision explains that flowers cause beauty but still names no specific flower or feature."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "The garden was very beautiful and it was a very nice garden.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The revision repeats 'garden' and 'beautiful' without adding any concrete detail."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Late roses had spilled over the low wall, and the path was thick with fallen petals.",
+          "is_correct": true,
+          "feedback": "Correct. The revision replaces the bare judgement with concrete visual detail that lets the reader see the garden."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "The garden, being beautiful, was beautiful as well as green.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The revision repeats the adjective and adds only an unsupported colour claim."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "A bare evaluative adjective contributes nothing on its own; description replaces it with particulars the reader can picture.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which set of words is consistent in register throughout a paragraph describing a village?",
+      "context": "A student is checking the register of a description.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "utilisation, remedial, apportionment, contingency",
+          "is_correct": false,
+          "feedback": "Wrong. These are formal administrative abstractions that clash with the subject described."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "super, amazing, brilliant, definitely good",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The register shifts from positive to emphatic and finally to a blunt general judgement."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "granular, infrastructure, habitational units, equanimity",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. These are technical and clinical terms that do not describe a village accessibly."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "cobbles, lanterns, doorways, quiet",
+          "is_correct": true,
+          "feedback": "Correct. These are plain, concrete nouns with a consistent descriptive register suitable for the subject."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "D",
+      "explanation": "A consistent register means every word belongs to the same register, whether plain, literary or technical.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that characterises a person through action rather than appearance.",
+      "context": "A student is writing a description of a person for a character sketch.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
+          "text": "She always checked the labels before returning a book to its shelf.",
           "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "feedback": "Correct. The sentence shows a habit through behaviour, which reveals character without labelling it."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "She was the kind of person who was always helping other people.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentence labels the person directly instead of letting action show the quality."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "She looked like her grandmother, who had lived in the same street.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentence records a resemblance and adds no behaviour or judgement of character."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "She had straight dark hair and a long narrow face.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentence describes physical features only and characterises nobody."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "explanation": "Characterisation through action is more effective than labelling because the reader draws the conclusion from the behaviour itself.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that describes the weather without naming it.",
+      "context": "A student is writing about weather for a descriptive piece.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "text": "The weather was very bad and it rained all day.",
+          "is_correct": false,
+          "feedback": "Wrong. The sentence names the weather directly and adds no description."
         },
         {
           "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Rain arrived sideways and turned the street into a moving mirror.",
+          "is_correct": true,
+          "feedback": "Correct. The sentence shows the rain through its effect and movement rather than naming a condition."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "Rain was falling, which was the weather condition of the day.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The phrase 'weather condition' is technical wording rather than description."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "The climate of the region is wet and the rain was heavy.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentence gives a general classification instead of describing the particular day."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "The most effective description shows the condition through its consequences rather than naming the condition itself.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which set of sentences is most suitable for a landscape description?",
+      "context": "A student is asked to describe a landscape in about eighty words.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
+          "text": "The valley contains farms, and the farms are on the side, and the farms are many.",
+          "is_correct": false,
+          "feedback": "Wrong. The sentence repeats 'farms' three times without describing anything about them."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "The area has an altitude of four thousand metres; the average temperature is twelve degrees; the terrain is described as flat.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentences give statistics rather than a picture of the landscape."
         },
         {
           "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The valley floor lies flat and brown; terraced fields step up the far side; a single track climbs between them.",
+          "is_correct": true,
+          "feedback": "Correct. The three sentences move across the landscape and use concrete nouns, giving the reader a clear picture in few words."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "There is a valley, and there are fields, and there are tracks in it.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentences begin with 'there' repeatedly, which reads as an unfocused list."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "C",
+      "explanation": "Effective description in a tight word limit depends on varied concrete vocabulary arranged in a deliberate order.\n\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is least appropriate in a description that is meant to be objective?",
+      "context": "A student is deciding whether a description is too subjective.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "text": "The path narrows where the cliff edge approaches.",
+          "is_correct": false,
+          "feedback": "Wrong. The sentence describes a measurable change in the terrain without any evaluation."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "The path is lined with low stone walls.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentence reports an observable physical feature without evaluation."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "The narrowest path continues for a further two kilometres along the cliff.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'The narrowest' is a measurable superlative and is objective."
         },
         {
           "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The most beautiful stretch of the coast lies just north of the town.",
+          "is_correct": true,
+          "feedback": "Correct. 'The most beautiful' is a subjective ranking and does not belong in a passage aiming at objectivity."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Objectivity depends on whether the wording reports a measurable fact or expresses a personal preference.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which closing sentence best completes a paragraph describing a market that opened with early light?",
+      "context": "A student is ending a descriptive paragraph.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
+          "text": "By seven the stalls were up, and the first customers were arguing cheerfully over the price of tomatoes.",
           "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
+          "feedback": "Correct. This returns to the atmosphere established at the beginning and adds a concrete detail, which closes a description effectively."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "The market is a market that sells fruit and vegetables.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The closing is tautological and describes nothing."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "There are many stalls and many customers in the market.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The closing reverts to a generic enumeration and repeats the noun."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "The market closed at six in the evening.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The closing gives a logistical fact and ends the atmosphere established earlier."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\n---",
+      "explanation": "A strong description closes by returning to the mood of the opening rather than by adding unrelated information.\n\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which statement best explains why listing measurements is weaker than describing appearance?",
+      "context": "A student is comparing two descriptive styles.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "text": "Measurements are always numerically inaccurate in student writing.",
+          "is_correct": false,
+          "feedback": "Wrong. The weakness is not inaccuracy; a correct measurement still fails to describe anything."
         },
         {
           "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Measurements state facts about a thing without conveying how it looks or feels to the reader.",
+          "is_correct": true,
+          "feedback": "Correct. This identifies the communicative difference, since a figure reports a property without creating an impression."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "Listing measurements takes more space, so it cannot be used in a short text.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Measurements are compact, so they save rather than consume space."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "Describing appearance requires more vocabulary than any other type of writing.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Describing appearance does not require more vocabulary than other kinds of writing."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "Comparing two styles is best done on communicative grounds, since the question is what each style gives to the reader.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that uses figurative language appropriately within a factual description.",
+      "context": "A student is revising a description of a house.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "text": "The veranda boards are twelve centimetres wide and badly weathered.",
+          "is_correct": false,
+          "feedback": "Wrong. The sentence gives a measurement and a general condition, which is specification rather than depiction."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "The veranda boards have oxidised and lost their protective coating.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentence is a technical observation about oxidation rather than a description of appearance."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The veranda boards had silvered with age until they shone like old mirrors.",
+          "is_correct": true,
+          "feedback": "Correct. The comparison to old mirrors describes appearance vividly while staying consistent with the description."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "The veranda is the veranda and the boards are boards.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentence is tautological and describes nothing at all."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "A figure of speech earns its place in description when it clarifies how something looks rather than when it merely decorates the sentence.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which justification best explains the use of a single long sentence to describe a busy market?",
+      "context": "A teacher asks a student to justify a writing choice.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "text": "Short sentences cannot be used in a description because they describe nothing.",
+          "is_correct": false,
+          "feedback": "Wrong. Short sentences can describe effectively and are frequently used to great effect."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "A single sentence uses fewer words, so it leaves room for more detail elsewhere.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. A single long sentence usually uses more words rather than fewer."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "Long sentences are always easier to read and are therefore the better choice for all audiences.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Long sentences are harder to read, so the claim is inaccurate in general."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The length mimics the uninterrupted movement and noise of a crowded market, which a series of short sentences would not convey.",
+          "is_correct": true,
+          "feedback": "Correct. This ties the structural choice to the effect the writer wants, which is the reasoning a justification requires."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "D",
+      "explanation": "A justified writing choice explains the intended effect on the reader rather than appealing to a general rule about length.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence belongs in a description rather than in a narration?",
+      "context": "A student is asked to distinguish description from narration in a single paragraph.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
+          "text": "The clinic smelled of chlorine, and the clock above the door had stopped at four.",
           "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
+          "feedback": "Correct. The sentence fixes a static impression of a place through smell and a visible detail, which is description."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "The waiting had gone on for hours, and she had counted every minute.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentence narrates the experience of an event over a period."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "At that moment she remembered that she had left her bag in the car.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentence narrates an act of remembering set in time."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "She opened the door and went in to see whether anyone was still waiting.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentence narrates a sequence of actions by a character."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "explanation": "Description presents a scene while it is happening; narration reports what characters do, think or remember over time.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which revision best removes repetition while keeping the description intact?",
+      "context": "A student is checking a description for repetition.",
       "options": [
         {
           "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
+          "text": "The hall had wooden benches and the benches were filling up when we reached the top of the stairs.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Benches' and 'up' are both repeated where a pronoun or a relative clause would serve."
         },
         {
           "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The hall's wooden benches were already filling up when we reached the top of the stairs.",
+          "is_correct": true,
+          "feedback": "Correct. The revision names the benches once and adds a specific time reference, so no word is repeated without cause."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "There were wooden benches in the hall and they were filling up when we arrived.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The revision is grammatical but remains vague, adding 'there were' and losing the movement implied by 'filling up'."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "The hall had wooden benches which were filling up and the hall was full of people.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Hall' and 'people' repeat information already given, and 'full' contradicts the benches still filling."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "Removing repetition means replacing a repeated noun with a pronoun or a relative clause while keeping every detail.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that uses sound in the description of a workshop.",
+      "context": "A student is describing a sound to make a description more complete.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
+          "text": "There was a sound in the workshop when the cutting stopped.",
+          "is_correct": false,
+          "feedback": "Wrong. 'A sound' is a bare label that says nothing about what was heard."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "The plane was in the workshop and it was quiet in there.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentence mentions the plane and the quiet but gives no sense of an interrupted noise."
         },
         {
           "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The plane finished its cut and the workshop went quiet for a second.",
+          "is_correct": true,
+          "feedback": "Correct. The sentence shows the sound through its absence, which is a more precise effect than naming the noise."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "The workshop was a place where sounds happened during the day.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentence generalises about the place instead of describing anything in it."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "Sound is described best through its quality, its source or its interruption, rather than by labelling it as sound.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence stays closest to observable description rather than moving into interpretation?",
+      "context": "A student is checking whether a description stays within what can be seen.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "text": "The fence had been repaired so often that it seemed to say something about its owners.",
+          "is_correct": false,
+          "feedback": "Wrong. Reading a character into the fence is interpretation at several removes from what is visible."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "The fence had been repaired so often that it looked as though it had given up.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The clause about giving up is a personification that interprets the fence's condition."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "The fence had been repaired so often that it was clearly neglected.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Neglected' is a judgement about the owners rather than a description of the fence."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The fence had been repaired so often that every post leaned slightly to the left.",
+          "is_correct": true,
+          "feedback": "Correct. Every post leaning to the left is a visible fact, and no judgement is added."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "Description stays with observation until it explicitly adds a judgement, and the exam must judge that boundary.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",

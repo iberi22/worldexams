@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which opening is appropriate for a formal email to a school principal?",
+      "context": "A student must write to a school principal to request a change of class.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "Dear Mr Sanchez,",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "Correct! 'Dear' plus a title and a surname is the standard formal opening in English."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "Hey Sam,",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Hey' is an informal greeting used between friends."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "Hi there,",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Hi there' is a casual greeting that does not suit a formal exchange."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "Hello friend,",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Hello friend' states a relationship that a principal letter does not have."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\n---",
+      "explanation": "The opening line sets the register of the whole message. A title and a surname with 'dear' is the convention for formal English correspondence.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle",
       "periodo": 38,
@@ -54,40 +54,40 @@
     },
     {
       "id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which closing is appropriate for a formal email to a school principal?",
+      "context": "A student finishes an email addressed by name to the head of a school.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "Bye for now,",
+          "is_correct": false,
+          "feedback": "'Bye for now' is a casual farewell between peers."
         },
         {
           "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Yours sincerely,",
+          "is_correct": true,
+          "feedback": "Correct! 'Yours sincerely' is the standard formal closing when the recipient is named."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "See you later,",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'See you later' implies a future meeting and is informal."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "Love,",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Love' expresses affection and does not belong in formal correspondence."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "English uses paired conventions: 'dear' plus a name takes 'yours sincerely', while a formal opening without a name takes 'yours faithfully'.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle",
       "periodo": 38,
@@ -99,40 +99,40 @@
     },
     {
       "id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which subject line is most appropriate for an email requesting a change of class?",
+      "context": "A student writes an email about a class change and must fill in the subject field.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "text": "Hello",
+          "is_correct": false,
+          "feedback": "'Hello' is a greeting and not a subject."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "Something important",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Something important' is vague and gives the reader no idea of the content."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Request for a change of class",
+          "is_correct": true,
+          "feedback": "Correct! The subject states the topic precisely and lets the reader identify the email at a glance."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "Question about stuff",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Question about stuff' is informal and imprecise in both content and tone."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "C",
+      "explanation": "The subject line is a summary in a few words. It is the first thing the reader sees and it decides whether the message is opened.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle",
       "periodo": 38,
@@ -144,40 +144,40 @@
     },
     {
       "id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is the most formal way to begin the body of a request?",
+      "context": "A student addresses a request to an authority figure in writing.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "text": "I want to change class, can I?",
+          "is_correct": false,
+          "feedback": "The first sentence is a direct question that is too blunt for a request to a superior."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "Hey, so I need a new class, you know.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The second sentence is spoken register and does not belong in a formal email."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "I am telling you that I am asking about a class.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The third sentence is verbose without adding information, and it states nothing about the request."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "I am writing to ask whether it would be possible to transfer to another class.",
+          "is_correct": true,
+          "feedback": "Correct! 'I am writing to ask whether' is a conventional and appropriately indirect opening for a formal request."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "D",
+      "explanation": "Formal English softens a request with hedged verbs and indirect wording. The politeness is grammatical, not merely a matter of politeness words.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle",
       "periodo": 38,
@@ -189,40 +189,40 @@
     },
     {
       "id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which modal is most appropriate in a formal request?",
+      "context": "A student asks a school to authorise something and must phrase the ask politely.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "It would be possible to",
           "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "feedback": "Correct! 'Would be' is a hedged construction that leaves the decision with the recipient."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "You must do it",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'You must' imposes an obligation and is not a request."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "You have to do it now",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'You have to' also imposes an obligation and is too direct in this context."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "It is a must for you to do it",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'It is a must' is spoken register and does not appear in formal written English."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "explanation": "Modals of possibility are how English makes a request polite. A modal of obligation in the request would defeat its purpose.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle",
       "periodo": 38,
@@ -234,40 +234,40 @@
     },
     {
       "id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence correctly states the reason for a request?",
+      "context": "A student explains to a school why a timetable change is needed.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "text": "I am writing because of clash my work.",
+          "is_correct": false,
+          "feedback": "'Because of' is followed by a noun, not by a clause with a verb."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "I am writing because my current timetable clashes with my part-time work.",
+          "is_correct": true,
+          "feedback": "Correct! 'Because' is followed by a complete clause with a subject, a verb and an object."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "I am writing because my work clash.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A clause after 'because' needs a subject, and this one has none."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "I am writing because of my work is clashing.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Because of' cannot be followed by a clause, so the structure is not possible."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "'Because' introduces a clause and 'because of' introduces a noun phrase. Using the wrong one makes the sentence ungrammatical.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle",
       "periodo": 38,
@@ -279,37 +279,37 @@
     },
     {
       "id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which phrase is suitable for asking the reader to reply in a formal email?",
+      "context": "A student asks a school office to acknowledge an email.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "text": "Reply fast please.",
+          "is_correct": false,
+          "feedback": "'Reply fast please' is a spoken-style request that is too informal for a formal email."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "Answer me soon.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Answer me soon' is a direct order in tone and does not suit the register."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "I would be grateful for a response at your earliest convenience.",
+          "is_correct": true,
+          "feedback": "Correct! The hedged construction asks for a reply without imposing a deadline on the recipient."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "You must reply now.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'You must reply now' imposes an obligation and is not a request at all."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "Hedged requests in English use 'would', 'grateful' and modal verbs. A polite email asks rather than instructs.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence correctly acknowledges information received?",
+      "context": "A student replies to a message already received and refers to it in the answer.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "Thanks for the mail.",
+          "is_correct": false,
+          "feedback": "'Thanks for the mail' is informal and calls an email a letter in a casual way."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "I got your message, ok?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Ok' is spoken register and does not belong in a formal email."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "You sent me an email before.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The last sentence states the fact without thanking the sender for it."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Thank you for your email of 3 May.",
+          "is_correct": true,
+          "feedback": "Correct! 'Thank you for' plus a precise reference to the date is the formal way of acknowledging a message."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "Giving the date of the message you are answering is standard practice in formal correspondence and helps the reader find the earlier email.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,37 +369,37 @@
     },
     {
       "id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is appropriate for ending a request that asks the reader to do something?",
+      "context": "A student closes an email that asks a school to take a decision.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
+          "text": "I look forward to hearing from you.",
           "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "feedback": "Correct! 'I look forward to hearing from you' is a standard formal way of closing a message that expects a reply."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "Write me soon, ok?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Write me soon' is a spoken-style order, not a formal closing."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "Waiting for your answer.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Waiting for your answer' states a fact in a way that reads as impatience."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "You know what to do.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'You know what to do' is informal and slightly rude in a request to a superior."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "explanation": "A formal closing sentence keeps the register consistent and signals politely that the writer is waiting for a response.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,40 +414,40 @@
     },
     {
       "id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which element is NOT part of the layout of a formal email?",
+      "context": "A student checks the standard layout of a formal email before sending it.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "text": "The recipient's name in the opening line",
+          "is_correct": false,
+          "feedback": "The recipient's name in the opening line is part of the standard layout."
         },
         {
           "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "A signature written in capitals with the word 'bye'",
+          "is_correct": true,
+          "feedback": "Correct! 'Bye' is informal and does not belong in the signature block of a formal email."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "A subject line above the greeting",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The subject line belongs above the greeting."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "A closing phrase before the signature",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The closing phrase belongs before the signature."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Layout is part of the register. A correct structure with an informal word in it still reads as an informal message.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle",
       "periodo": 38,
@@ -459,37 +459,37 @@
     },
     {
       "id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which verb is the most formal for requesting information in a letter?",
+      "context": "A student chooses the verb of the request in a letter to an institution.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
+          "text": "ask",
+          "is_correct": false,
+          "feedback": "'Ask' is neutral and would not by itself mark the message as formal."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "check",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Check' is a spoken expression rather than the verb of a formal request."
         },
         {
           "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "inquire",
+          "is_correct": true,
+          "feedback": "Correct! 'Inquire' is the formal verb used in written correspondence to request information."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "find out",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Find out' is a phrasal verb of neutral or informal register, not the verb of a formal letter."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "A single verb can carry the register. Choosing 'inquire' rather than 'ask' signals formality without adding words.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,37 @@
     },
     {
       "id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is written in the passive voice and suitable for a formal report?",
+      "context": "An office reports a completed administrative step in a formal document.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "text": "We received the documents on time.",
+          "is_correct": false,
+          "feedback": "The first sentence is active and names the agent, which a formal report often avoids."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "The documents receive on time.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Receive' is a base form and cannot form a passive clause on its own."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "The documents receiving on time.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Receiving' is a participle and cannot serve as the verb of a finite passive clause."
         },
         {
           "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The documents were received on time.",
+          "is_correct": true,
+          "feedback": "Correct! 'Were received' is the past simple passive, which focuses on the action rather than on the agent."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Formal reports often use the passive to keep the process in the foreground and the person performing it in the background.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,40 +549,40 @@
     },
     {
       "id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which phrase avoids direct criticism of a third person in a formal email?",
+      "context": "A student has to explain an absence in a message to a teacher or a principal.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
+          "text": "I was unable to attend the meeting as it had been scheduled earlier.",
           "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
+          "feedback": "Correct! The sentence states the fact and the circumstance without accusing anybody of a mistake."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "I did not come because the meeting was badly scheduled.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The second sentence blames the person who set the meeting and is not appropriate in a formal message."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "The meeting was scheduled badly, so I skipped it.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The third sentence names a fault directly and uses informal wording."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "I could not go, the meeting was at a terrible time.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The last sentence is a spoken complaint with a subjective adjective."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "explanation": "Formal correspondence reports a circumstance rather than judging a person. Neutral wording protects the relationship and the writer.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle",
       "periodo": 38,
@@ -594,40 +594,40 @@
     },
     {
       "id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is the best way to give a reason for a late reply?",
+      "context": "A student answers an email several days after receiving it.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "text": "Sorry, was busy, no time.",
+          "is_correct": false,
+          "feedback": "The first sentence is spoken register and gives no reason."
         },
         {
           "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "I apologise for the delay in replying; I was away from school last week.",
+          "is_correct": true,
+          "feedback": "Correct! The sentence apologises formally and gives a clear, verifiable reason."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "I was busy so I did not answer.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The third sentence blames the student rather than explaining the situation."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "I had no time, that is why.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The last sentence is informal and does not apologise at all."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "A short apology followed by a factual reason is the standard way of handling a late reply in a formal exchange.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle",
       "periodo": 38,
@@ -639,40 +639,40 @@
     },
     {
       "id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which connector is most appropriate when adding a request to an existing explanation?",
+      "context": "A student writes to a school office and needs to add a second request to an explanation already given.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "text": "Anyway",
+          "is_correct": false,
+          "feedback": "'Anyway' is a spoken discourse marker and is not used in a formal message."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "So whatever",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'So whatever' is a spoken phrase that closes a discussion rather than adding to it."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "In addition",
+          "is_correct": true,
+          "feedback": "Correct! 'In addition' formally introduces a further point in an explanation."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "Well",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Well' is a conversational filler and has no place in a formal email."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "The connective has to match the register as well as the relationship between the ideas.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle",
       "periodo": 38,
@@ -684,37 +684,37 @@
     },
     {
       "id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which structure is used to state a condition politely in a formal request?",
+      "context": "A student makes a request that depends on a decision taken by someone else.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "text": "If it is possible give it to me.",
+          "is_correct": false,
+          "feedback": "The first sentence is an order written without articles or capital letters."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "If possible, give me the paper.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The second sentence drops the article and turns the request into a command."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "If can be, approve this.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The third sentence is not a grammatical English structure."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "If this is possible, I would be grateful for your approval.",
+          "is_correct": true,
+          "feedback": "Correct! The conditional structure defers to the recipient and the hedged second clause makes the request polite."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "A condition plus a hedged main clause is one of the standard polite patterns of written English.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -729,40 +729,40 @@
     },
     {
       "id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses a formal expression of regret correctly?",
+      "context": "An institution notifies a candidate of an unsuccessful application.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
+          "text": "I regret to inform you that the application was not accepted.",
           "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
+          "feedback": "Correct! 'I regret to inform you that' is a fixed formal expression used to deliver unwelcome news."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "I regret say you no.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The second sentence omits the infinitive and the articles."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "Sorry, no, you not accept.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The third sentence lacks the articles and the auxiliary and is not written English."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "I am sad that maybe not accept the application.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The fourth sentence uses 'maybe' and a passive with a bare infinitive, which is not correct."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "explanation": "Formal English uses fixed expressions to soften bad news. Inventing a new wording of that kind produces a less appropriate register.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle",
       "periodo": 38,
@@ -774,40 +774,40 @@
     },
     {
       "id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which attachment sentence is correct in a formal email?",
+      "context": "A student sends a document together with a message to a school office.",
       "options": [
         {
           "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
+          "text": "I put the certificate, you see it attached.",
+          "is_correct": false,
+          "feedback": "The first sentence is spoken register and does not name the attachment properly."
         },
         {
           "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Please find attached the certificate of participation.",
+          "is_correct": true,
+          "feedback": "Correct! 'Please find attached' is the standard formula used to refer to a document sent with a formal message."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "Attached is the certificate, look it.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The third sentence is a spoken instruction rather than a formal reference."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "The certificate is attach, check it.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The fourth sentence uses a verb form that is not correct and an imperative without a subject."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "Referring to an attachment is a fixed part of formal correspondence, and the formula carries the politeness of the message.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle",
       "periodo": 38,
@@ -819,37 +819,37 @@
     },
     {
       "id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which email would be most appropriate for reporting a problem in a school laboratory?",
+      "context": "A student must report a laboratory fault to the person in charge in writing.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
+          "text": "Subject: help. hi the sink is broke again, can u fix it tmrw?",
+          "is_correct": false,
+          "feedback": "The first message has no capitalisation, abbreviations and a chatty request."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "Subject: Sink. It does not work. Fix it.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The second message is an order without articles and without any politeness."
         },
         {
           "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Subject: Lab 3 sink not working. Dear Ms Ordonez, I am writing to report that the sink in laboratory 3 is not draining properly. Yours sincerely, Luis Vega",
+          "is_correct": true,
+          "feedback": "Correct! The message has a precise subject, a formal greeting, a factual report and a formal closing."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "Subject: Laboratory. There is a sink. It has a problem.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The fourth message states the problem so vaguely that the reader cannot act on it."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "A formal complaint about a facility needs four things: a clear subject, a polite opening, a factual description and a formal closing.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -864,40 +864,40 @@
     },
     {
       "id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence states a purpose correctly in a formal email?",
+      "context": "A student writes to a school office to confirm an arrangement already agreed.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "text": "I am write for confirm the date.",
+          "is_correct": false,
+          "feedback": "'Am write' is not a possible form of the verb 'be' with a gerund complement."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "I am writing for to confirm the date.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'For to confirm' places a preposition and an infinitive marker together, which is not a possible structure."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "I am writing the date confirm.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Writing the date confirm' has no infinitive and does not express a purpose."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "I am writing to confirm the date of the appointment.",
+          "is_correct": true,
+          "feedback": "Correct! 'I am writing to' is the standard formula for stating the aim of a formal message."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "Stating the purpose of a message is one of the first duties of a formal letter, and English has a fixed formula for it.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle",
       "periodo": 38,

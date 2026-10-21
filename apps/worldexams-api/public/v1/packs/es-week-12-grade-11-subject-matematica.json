@@ -19,13 +19,13 @@
           "feedback": "La existencia de f(a) es necesaria para la continuidad, pero no para la existencia del límite."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que existan los límites laterales y sean iguales entre sí.",
           "is_correct": true,
           "feedback": "Correcto. Para que exista el límite global, el límite por la izquierda y por la derecha deben coincidir."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que el límite sea siempre un número entero.",
           "is_correct": false,
           "feedback": "El límite puede ser cualquier número real o incluso infinito."
@@ -37,7 +37,7 @@
           "feedback": "La monotonía no es un requisito para la existencia de un límite."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La definición de límite requiere que el comportamiento de la función sea el mismo al acercarse por ambos lados del punto. Si $\\lim_{x \\to a^-} f(x) = \\lim_{x \\to a^+} f(x) = L$, entonces existe el límite y vale $L$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "En una clase de 1º de Bachillerato en Madrid, se clasifican las discontinuidades de las funciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Discontinuidad evitable.",
           "is_correct": false,
           "feedback": "En la evitable, los límites laterales son iguales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Discontinuidad inevitable de salto finito.",
           "is_correct": true,
           "feedback": "Correcto. Al haber una diferencia finita entre los límites laterales, se produce un \"salto\"."
@@ -82,7 +82,7 @@
           "feedback": "Término más general que suele referirse a la inexistencia de límites laterales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las discontinuidades de salto finito ocurren típicamente en funciones definidas a trozos donde las ramas no \"encajan\" en el punto de unión, a pesar de tener valores definidos en ambos lados.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Al acercarse a 0 con valores muy pequeños positivos, el cociente se hace muy grande."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$+\\infty$",
           "is_correct": true,
           "feedback": "Correcto. Al dividir 1 por números positivos cada vez más cercanos a 0 (como 0,001), el resultado crece sin límite."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$-\\infty$",
           "is_correct": false,
           "feedback": "Esto ocurriría si nos acercáramos por la izquierda (valores negativos)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1",
           "is_correct": false,
           "feedback": "El valor 1 solo se alcanza cuando x = 1."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Este límite describe una asíntota vertical. Al ser el denominador positivo y tender a cero, la fracción tiende a infinito positivo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "Un estudiante de Ciencias en Barcelona debe resolver un límite que presenta una indeterminación del tipo $0/0$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Error al simplificar; la expresión no se anula."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "2",
           "is_correct": false,
           "feedback": "Error de cálculo tras la simplificación."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "4",
           "is_correct": true,
           "feedback": "Correcto. Factorizando el numerador: $(x-2)(x+2)/(x-2) = x+2$. Al sustituir x=2, obtenemos 4."
@@ -217,7 +217,7 @@
           "feedback": "Es una indeterminación evitable, por lo que el límite sí existe."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Para resolver indeterminaciones $0/0$ en funciones racionales, se factorizan numerador y denominador para simplificar los factores que producen el cero (en este caso $x-2$).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "Sustituyendo k=1 daría 4 en la primera rama y 5 en la segunda."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "2",
           "is_correct": true,
           "feedback": "Correcto. Rama izquierda: $3+k$. Rama derecha: $2(3)-1 = 5$. Igualando: $3+k=5 \\Rightarrow k=2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5",
           "is_correct": false,
           "feedback": "Este es el valor que debe alcanzar la función, no el valor de k."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "-1",
           "is_correct": false,
           "feedback": "Resultado de un error en el despeje."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para que una función a trozos sea continua, los límites laterales en el punto de cambio deben ser iguales. Resolvemos la ecuación resultante para hallar el parámetro desconocido.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -340,19 +340,19 @@
           "feedback": "En la evitable el límite debe ser finito."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Tiene una discontinuidad inevitable de salto infinito.",
           "is_correct": true,
           "feedback": "Correcto. La presencia de límites infinitos define este tipo de discontinuidad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es derivable en ese punto.",
           "is_correct": false,
           "feedback": "Si no es continua, no puede ser derivable."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Una asíntota vertical implica siempre una discontinuidad inevitable de salto infinito, ya que la función no puede alcanzar un valor real en ese punto.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Error al simplificar la fracción resultante."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "1/2",
           "is_correct": true,
           "feedback": "Correcto. Al multiplicar por el conjugado $(\\sqrt{x+1}+1)$, el numerador queda $x$. Al simplificar con la $x$ del denominador, queda $1/(\\sqrt{x+1}+1)$, que vale $1/2$ en $x=0$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1",
           "is_correct": false,
           "feedback": "Error de cálculo al sustituir el valor final."
@@ -397,7 +397,7 @@
           "feedback": "Es una indeterminación salvable mediante técnicas algebraicas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La técnica del conjugado es esencial para eliminar raíces cuadradas que generan indeterminaciones $0/0$. Se basa en el producto notable $(a-b)(a+b) = a^2 - b^2$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Un matemático estudia la función $f(x) = \\frac{\\text{sen}(x)}{x}$ cerca del origen, un límite fundamental en el cálculo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "El seno de x y x crecen casi de forma idéntica cerca de cero."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1",
           "is_correct": true,
           "feedback": "Correcto. Es un límite trigonométrico fundamental que demuestra la equivalencia de infinitésimos."
@@ -487,7 +487,7 @@
           "feedback": "No hay relación directa con el valor de pi en este límite."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Este límite es la base para derivar funciones trigonométricas. Indica que para ángulos muy pequeños expresados en radianes, el seno del ángulo es aproximadamente igual al ángulo mismo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Se analiza una función racional $f(x) = \\frac{x^2 - 1}{x^2 - 3x + 2}$ para encontrar sus asíntotas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 1$",
           "is_correct": true,
           "feedback": "Correcto. $x=1$ anula tanto numerador como denominador. Al simplificar $(x-1)(x+1)/[(x-1)(x-2)]$, el factor $(x-1)$ desaparece."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 2$",
           "is_correct": false,
           "feedback": "En $x=2$ solo se anula el denominador, produciendo una asíntota vertical (salto infinito)."
@@ -532,7 +532,7 @@
           "feedback": "La anulación simultánea en x=1 indica que es evitable."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Una discontinuidad es evitable si el límite existe y es finito. En funciones racionales, esto ocurre cuando el valor anula un factor común en numerador y denominador.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Un arquitecto en Valencia diseña una rampa cuyo perfil está definido por $f(x) = \\frac{ax^2}{x^2 + 1}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1",
           "is_correct": false,
           "feedback": "La altura máxima sería 1."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5",
           "is_correct": true,
           "feedback": "Correcto. El límite cuando $x \\to \\infty$ es $a$. Si queremos que sea 5, entonces $a = 5$."
@@ -622,7 +622,7 @@
           "feedback": "La altura máxima sería 10."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Este es un problema de aplicación de asíntotas horizontales. El valor del límite en el infinito representa el valor de estabilización de la función.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Bolzano no habla de monotonía."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que existe al menos un punto $c$ en $(0, 2)$ tal que $f(c) = 0$.",
           "is_correct": true,
           "feedback": "Correcto. Al haber un cambio de signo en una función continua, esta debe cruzar el eje X."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que el valor máximo de la función es 5.",
           "is_correct": false,
           "feedback": "Bolzano no identifica extremos absolutos."
@@ -712,7 +712,7 @@
           "feedback": "Este es el Teorema de Rolle, no el de Bolzano."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El Teorema de Bolzano es una herramienta fundamental para demostrar la existencia de soluciones en ecuaciones que no se pueden resolver analíticamente de forma sencilla.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Los grados de las funciones dentro del logaritmo son distintos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "2/3",
           "is_correct": true,
           "feedback": "Correcto. Por propiedades: $\\ln(x^2...)/\\ln(x^3...) \\approx \\ln(x^2)/\\ln(x^3) = (2\\ln x)/(3\\ln x) = 2/3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Ambas funciones crecen a infinito con velocidades comparables."
@@ -757,7 +757,7 @@
           "feedback": "Error al colocar los exponentes de la aproximación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En el infinito, el logaritmo de un polinomio se comporta como el logaritmo de su término de mayor grado. Las leyes de los logaritmos permiten extraer los exponentes como coeficientes, simplificando el límite.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,31 +778,31 @@
       "context": "Un investigador analiza la continuidad de la función $f(x) = \\frac{1}{1 + e^{1/x}}$ en el punto $x = 0$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Salto finito de 0 a 1.",
           "is_correct": true,
           "feedback": "Correcto. Por la derecha: $e^{+\\infty} \\to \\infty$, $1/\\infty \\to 0$. Por la izquierda: $e^{-\\infty} \\to 0$, $1/(1+0) \\to 1$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ambos límites son $+\\infty$.",
           "is_correct": false,
           "feedback": "La función está acotada entre 0 y 1."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La función es continua.",
           "is_correct": false,
           "feedback": "Los límites laterales son distintos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El límite no existe porque oscila.",
           "is_correct": false,
           "feedback": "Los límites laterales son constantes bien definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Este es un ejemplo avanzado donde la función exponencial con exponente racional genera comportamientos asimétricos. Es crucial para entender cómo los límites laterales pueden diferir radicalmente.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -835,19 +835,19 @@
           "feedback": "Error al simplificar el límite."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$2\\sqrt{a}$",
           "is_correct": true,
           "feedback": "Correcto. Factorizando: $(x-\\sqrt{a})(x+\\sqrt{a})/(x-\\sqrt{a}) = x+\\sqrt{a}$. En $x=\\sqrt{a}$, vale $\\sqrt{a}+\\sqrt{a} = 2\\sqrt{a}$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$a^2$",
           "is_correct": false,
           "feedback": "Error dimensional y conceptual en la simplificación."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La continuidad evitable permite asignar un valor a un punto anteriormente indefinido. El valor correcto es el límite de la función en dicho punto.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Este es Bolzano (con cambio de signo)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que la función alcanza un máximo y un mínimo absolutos en el intervalo.",
           "is_correct": true,
           "feedback": "Correcto. Una función continua en un compacto siempre está acotada y alcanza sus valores extremos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que la función es derivable en todo el intervalo.",
           "is_correct": false,
           "feedback": "La continuidad no implica derivabilidad (ej. valor absoluto)."
@@ -892,7 +892,7 @@
           "feedback": "No impone restricciones sobre el signo de los valores de la función."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El Teorema de Weierstrass es fundamental para asegurar que los problemas de optimización (buscar máximos y mínimos) tienen solución garantizada bajo condiciones de continuidad y dominio cerrado.\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "How do you report the direct question 'Where are you going?'",
+      "context": "Reported speech questions, San Juan, grado 11, W18.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "She asked me where I was going.",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "Correct. In the indirect clause the word order is that of a statement, and the pronouns are adjusted to the asker's point of view."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "She asked me where were I going.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Reported speech does not keep the inversion of the subject and the auxiliary verb."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "She asked where am I going.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Without 'me' the question loses its addressee, and 'am I' is direct-question word order."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "She asked me where is I going.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The form 'is I' is impossible in English, and reported speech requires statement word order."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\n---",
+      "explanation": "Al informar de una pregunta desaparece la interrogacion: se elimina la inversion del sujeto y el verbo auxiliar, y el orden se convierte en el de una oracion afirmativa. El signo de interrogacion tambien desaparece.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle",
       "periodo": 18,
@@ -54,40 +54,40 @@
     },
     {
       "id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report the question: 'Are you coming to the concert?'",
+      "context": "Reported speech with yes-no questions, Ponce, grado 11, W18.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "She asked that I was coming to the concert.",
+          "is_correct": false,
+          "feedback": "Incorrect. A yes/no question is introduced with 'if' or 'whether', not with 'that'."
         },
         {
           "letter": "B",
-          "text": "baggage",
+          "text": "She asked if were I coming to the concert.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Reported speech keeps statement word order and does not invert the subject and the auxiliary."
         },
         {
           "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "She asked if I was coming to the concert.",
+          "is_correct": true,
+          "feedback": "Correct. Yes/no questions are introduced with 'if' or 'whether' and do not need subject inversion."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "She asked I was coming to the concert.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The connector 'if' or 'whether' is missing, and it is required to introduce a yes/no question."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "Las preguntas de si o no se introducen con 'if' o 'whether'. El verbo se coloca en su forma afirmativa dentro de la subordinada, y el punto y coma o el signo de interrogacion del discurso directo no se trasladan.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle",
       "periodo": 18,
@@ -99,40 +99,40 @@
     },
     {
       "id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report the question: 'What time does the meeting start?'",
+      "context": "Reported speech with wh- questions, Carolina, grado 11, W18.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "text": "He asked what time did the meeting start.",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Did' belongs to the direct question and does not appear in reported speech."
         },
         {
           "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "He asked what time the meeting started.",
+          "is_correct": true,
+          "feedback": "Correct. The verb backshifts to the past simple and the question word stays at the start of the subordinate clause."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "He asked what time the meeting did start.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The auxiliary 'did' disappears completely, and only the past simple of the main verb remains."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "He asked at what time start the meeting.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The order is question word + subject + verb, not verb + subject as in direct speech."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "En las preguntas indirectas con interrogativo, la palabra de pregunta se coloca al principio de la subordinada y el resto sigue el orden de una frase afirmativa. El auxiliar 'do' o 'does' desaparece y queda solo la forma de pasado del verbo.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle",
       "periodo": 18,
@@ -144,40 +144,40 @@
     },
     {
       "id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report the question: 'Do you know where the library is?'",
+      "context": "Reported speech with tense changes, Bayamon, grado 11, W18.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "text": "She asked if did I know where the library was.",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Did' does not appear in reported speech because the verb 'knew' already conveys the past."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "She asked if I knew where is the library.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The second question keeps statement word order, not the inversion of direct speech."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "She asked that I knew where the library was.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. A yes/no question is not introduced with 'that' but with 'if' or 'whether'."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "She asked if I knew where the library was.",
+          "is_correct": true,
+          "feedback": "Correct. The main question is introduced with 'if', and the subordinate clause keeps its statement structure in the past."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "Una pregunta puede contener a la vez un 'if' y un interrogativo indirecto. En ese caso el 'if' introduce la pregunta de si o no y el interrogativo se mantiene dentro de la subordinada, en orden de afirmacion.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle",
       "periodo": 18,
@@ -189,40 +189,40 @@
     },
     {
       "id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report the question: 'Who wrote this essay?'",
+      "context": "Reported speech with who, Arecibo, grado 11, W18.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "text": "She asked who wrote this essay.",
+          "is_correct": false,
+          "feedback": "Incorrect. It is possible if the context requires the past simple, but since the action is already completed, 'had written' is the natural choice."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "She asked that who had written that essay.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. A question with a question word does not need 'that' and does not allow a connector before 'who'."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "She asked who did written that essay.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Did' is not used in reported speech, and 'did written' is an impossible form in English."
         },
         {
           "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "She asked who had written that essay.",
+          "is_correct": true,
+          "feedback": "Correct. The past perfect is used when the question refers to an action that happened before the moment of asking."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "D",
+      "explanation": "El 'who' interrogativo puede nombrar un sujeto o un objeto, y en ambos casos el discurso indirecto mantiene el orden afirmativo. Cuando la pregunta se refiere a una accion pasada, el pasado perfecto expresa mejor la antecedencia.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle",
       "periodo": 18,
@@ -234,40 +234,40 @@
     },
     {
       "id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report the question: 'Why did you leave the meeting early?'",
+      "context": "Reported speech with why, Humacao, grado 11, W18.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "text": "He asked why did I leave the meeting early.",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Did' belongs to direct speech and does not carry over into reported speech."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "He asked why I had left the meeting early.",
+          "is_correct": true,
+          "feedback": "Correct. 'Why' introduces the subordinate clause, and the past perfect shows that the departure had already happened."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "He asked why I did left the meeting early.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. It keeps an auxiliary that does not belong in reported speech, and 'did left' is a form English does not allow."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "He asked that why I had left the meeting early.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. You do not put 'that' before an indirect question word like 'why'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "'Why', 'how', 'when', 'where', 'who' y 'what' se convierten en conectores indirectos y se mantienen en la misma posicion que tenian en la pregunta original, al principio de la subordinada.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle",
       "periodo": 18,
@@ -279,37 +279,37 @@
     },
     {
       "id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report the question: 'Where are you staying?'",
+      "context": "Reported speech with where, Aguadilla, grado 11, W18.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
+          "text": "He asked where I was staying.",
           "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "feedback": "Correct. 'Was staying' is the past continuous and describes the situation as it was at the moment of the question."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "He asked where was I staying.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Reported speech does not invert the subject and the auxiliary verb the way a direct question does."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "He asked where I am staying.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Am staying' is present continuous and is not backshifted, even though the narrative frame is in the past."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "He asked that where I was staying.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The question word goes in initial position and cannot be preceded by 'that'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "explanation": "Los pronombres se ajustan a la perspectiva del hablante que reporta. Si quien pregunta es otra persona, 'you' se convierte en 'I', y esa es la razon por la que la mayoria de estos ejercicios aparece en primera persona.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report the question: 'How do you say this word in English?'",
+      "context": "Reported speech with how, Guayanilla, grado 11, W18.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "He asked how do I say that word in English.",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Do' belongs to the direct question and disappears in reported speech."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "He asked how I do say that word in English.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The auxiliary 'do' is not kept after 'I' in reported speech."
         },
         {
           "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "He asked how I said that word in English.",
+          "is_correct": true,
+          "feedback": "Correct. The past simple 'said' replaces 'do say', and the demonstrative 'that' adjusts the reference."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "He asked that how I said that word in English.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The question word 'How' cannot be preceded by the connector 'that'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "El verbo principal retrocede por la regla habitual y los auxiliares de la pregunta desaparecen por completo. Lo que permanece es el interrogativo indirecto, que funciona como un sustantivo dentro de la subordinada.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,37 +369,37 @@
     },
     {
       "id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report the question: 'You finished the project, didn't you?'",
+      "context": "Reported speech with tag questions, Trujillo Alto, grado 11, W18.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "text": "He asked if I finished the project or not.",
+          "is_correct": false,
+          "feedback": "Incorrect. It is a possible form, but 'or not' is an addition that was not in the original sentence."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "He asked that I had finished the project.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The tag turns the sentence into a question, so it requires 'if' instead of 'that'."
         },
         {
           "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "He asked if I had finished the project.",
+          "is_correct": true,
+          "feedback": "Correct. A tag question is a yes/no question, so it is introduced with 'if'."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "He asked had I finished the project.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The past tense cannot open the subordinate clause without a connector to introduce it."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "Una pregunta con tag sigue siendo una pregunta de si o no, asi que se introduce con 'if' o 'whether' y el tag desaparece. El contenido afirmativo o negativo de la oracion se traslada intacto.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,37 +414,37 @@
     },
     {
       "id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses 'whether' correctly?",
+      "context": "Reported speech with whether, Barceloneta, grado 11, W18.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
+          "text": "She asked whether or not I had finished the report.",
           "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "feedback": "Correct. 'Whether or not' introduces a yes/no question, and the subordinate clause uses statement word order."
         },
         {
           "letter": "B",
-          "text": "cancellation",
+          "text": "She asked whether or not had I finished the report.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Reported speech does not invert the subject and the auxiliary, so 'had I' is incorrect."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "She asked whether did I finish the report or not.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Did' belongs to direct speech and is not kept in reported speech."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "She asked if or not I had finished the report.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'If or not' does not exist in English; the fixed structure is 'whether or not' or simply 'if'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "explanation": "'Whether or not' es la estructura estandar para introducir una pregunta de si o no con enfasis en la propia decision. Admite su colocacion al principio o al final de la subordinada, pero nunca entre el sujeto y el verbo.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,37 +459,37 @@
     },
     {
       "id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report the question: 'Can you help me with this?'",
+      "context": "Reported speech with modals in questions, Maunabo, grado 11, W18.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
+          "text": "He asked if I can help him with that.",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Can' must backshift to 'could' when the reported speech frame is in the past."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "He asked that I could help him with that.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. A yes/no question is introduced with 'if' or 'whether', not with 'that'."
         },
         {
           "letter": "C",
-          "text": "booking",
+          "text": "He asked if I could helping him with that.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. After 'could' the verb takes the base form 'help', not the gerund 'helping'."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "He asked if I could help him with that.",
+          "is_correct": true,
+          "feedback": "Correct. 'Can' backshifts to 'could', the pronoun is adjusted, and 'this' becomes 'that' because of the change in perspective."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "D",
+      "explanation": "La conversion de una pregunta de si o no con modal sigue el mismo esquema que la afirmacion: 'can' pasa a 'could' y los pronombres y demostrativos se ajustan al nuevo hablante que transmite la informacion.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,82 @@
     },
     {
       "id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which punctuation change is made when reporting a question?",
+      "context": "Reported speech with punctuation, Yauco, grado 11, W18.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "text": "The question mark is kept at the end of the sentence.",
+          "is_correct": false,
+          "feedback": "Incorrect. The question mark belongs to the direct question and disappears when the speech is reported."
         },
         {
           "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The question mark is replaced by a full stop.",
+          "is_correct": true,
+          "feedback": "Correct. Reported speech is not a question, so it ends with a semicolon or a period."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "A colon replaces the question mark.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. No colon is added; the change is to a final period."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "No change is made to the punctuation.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The sentence is no longer a question, so it needs a different punctuation mark."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Al indirectar el discurso la oracion pierde su caracter interrogativo en todos los planos: desaparece la inversion, el signo de interrogacion y el orden de la pregunta. El resultado es una oracion afirmativa con subordinada.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle-v13",
+      "statement": "Report the question: 'Will you go to the party?'",
+      "context": "Reported speech with future questions, Cayey, grado 11, W18.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She asked if I will go to the party.",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Will' refers to the future and must become 'would' in past reported speech."
+        },
+        {
+          "letter": "B",
+          "text": "She asked if I would go to the party.",
+          "is_correct": true,
+          "feedback": "Correct. 'Will' backshifts to 'would', and the yes/no question is introduced with 'if'."
+        },
+        {
+          "letter": "C",
+          "text": "She asked that I would go to the party.",
+          "is_correct": false,
+          "feedback": "Incorrect. The connector must be 'if' or 'whether' because the original sentence is a question."
+        },
+        {
+          "letter": "D",
+          "text": "She asked would I go to the party.",
+          "is_correct": false,
+          "feedback": "Incorrect. Without 'if' or 'whether', the subordinate clause has no connector to introduce it properly."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pregunta original es de si o no aunque su verbo sea un auxiliar temporal. Lo que determina el conector no es el verbo sino la presencia o ausencia de un interrogativo en el discurso directo.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -548,86 +593,41 @@
       "country": "pr"
     },
     {
-      "id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
       "id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report the question: 'What are you studying at university?'",
+      "context": "Reported speech with what, San Sebastian, grado 11, W18.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "text": "He asked what was I studying at university.",
+          "is_correct": false,
+          "feedback": "Incorrect. The inversion of direct speech is always removed in reported speech."
         },
         {
           "letter": "B",
-          "text": "map",
+          "text": "He asked what I am studying at university.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The present continuous is not backshifted, which makes it inconsistent with the past frame of 'asked'."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "He asked that what I was studying at university.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. An indirect question that starts with a question word is not introduced with 'that'."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "He asked what I was studying at university.",
+          "is_correct": true,
+          "feedback": "Correct. The past continuous expresses the action in progress as it was perceived at the moment of asking."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Los verbos en presente continuo retroceden a pasado continuo cuando el discurso indirecto se introduce en pasado. Esa conversion mantiene la idea de una accion en curso en el momento en que se formulo la pregunta.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle",
       "periodo": 18,
@@ -639,37 +639,37 @@
     },
     {
       "id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which reporting verb is most appropriate for an informal question?",
+      "context": "Reported speech with reporting verbs, Camuy, grado 11, W18.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "text": "inquire",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Inquire' has a more careful, formal tone, and the prompt asks for the everyday verb for an informal question."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "interrogate",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Interrogate' implies questioning under pressure, and that tone does not fit an ordinary question."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "ask",
+          "is_correct": true,
+          "feedback": "Correct. 'Ask' is the most neutral verb and works for both formal and informal questions."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "demand",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Demand' expresses an insistent requirement, not a simple request for information."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "'Ask' es el verbo de habla mas versatile y funciona con preguntas de cualquier tipo. 'Inquire' tiene un registro mas cuidado, mientras que 'interrogate' y 'demand' cargan con connotaciones de presion o exigencia.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -684,37 +684,172 @@
     },
     {
       "id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence reports a question correctly in an indirect statement?",
+      "context": "Reported speech in short answers, Luquillo, grado 11, W18.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
+          "text": "She asked whether the results had been published.",
           "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "feedback": "Correct. 'Whether' introduces a yes/no question, and 'had been' expresses the action that happened before the inquiry."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "She asked if the results have been published.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Have been' is present perfect and does not backshift within a past-tense frame."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "She asked that the results had been published.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The question is introduced with 'if' or 'whether', not with the connector used for statements."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "She asked had the results been published.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Had' cannot open the subordinate clause without a preceding connector to introduce it."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "explanation": "La estructura basica es siempre verbo de habla mas 'if' o 'whether' mas subordinada en orden afirmativo. Sin ese conector, la oracion queda incompleta o se convierte en una pregunta directa.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle-v17",
+      "statement": "Report the question: 'Don't you remember my name?'",
+      "context": "Reported speech with negative questions, Toa Baja, grado 11, W18.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He asked if I didn't remember his name.",
+          "is_correct": true,
+          "feedback": "Correct. The negation from the direct speech carries over to the past form of the main verb."
+        },
+        {
+          "letter": "B",
+          "text": "He asked if I didn't remember my name.",
+          "is_correct": false,
+          "feedback": "Incorrect. The possessive must be adjusted to the new speaker, so 'my' becomes 'his'."
+        },
+        {
+          "letter": "C",
+          "text": "He asked whether I don't remember his name.",
+          "is_correct": false,
+          "feedback": "Incorrect. The verb must backshift to the past to stay consistent with 'asked'."
+        },
+        {
+          "letter": "D",
+          "text": "He asked that I didn't remember his name.",
+          "is_correct": false,
+          "feedback": "Incorrect. A yes/no question is introduced with 'if' or 'whether', not with 'that'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La negacion en discurso indirecto se expresa con la negacion del verbo principal en pasado. Los posesivos y pronombres se ajustan a la vez, de modo que un mismo ejercicio suele requerir los dos cambios simultaneamente.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle-v18",
+      "statement": "Report the question: 'Whose bag is this?'",
+      "context": "Reported speech with whose, Naguabo, grado 11, W18.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He asked whose bag is this.",
+          "is_correct": false,
+          "feedback": "Incorrect. The verb does not backshift, so the tense is inconsistent with the past-tense frame."
+        },
+        {
+          "letter": "B",
+          "text": "He asked whose is this bag.",
+          "is_correct": false,
+          "feedback": "Incorrect. Statement word order requires the subject before the verb: 'whose bag it was'."
+        },
+        {
+          "letter": "C",
+          "text": "He asked that whose bag it was.",
+          "is_correct": false,
+          "feedback": "Incorrect. A question word like 'whose' cannot be preceded by the connector 'that'."
+        },
+        {
+          "letter": "D",
+          "text": "He asked whose bag it was.",
+          "is_correct": true,
+          "feedback": "Correct. 'Was' backshifts to past simple, and the demonstrative 'this' becomes 'it' in the subordinate clause."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "'Whose' se comporta como los demas interrogativos indirectos: ocupa la posicion inicial de la subordinada y el resto de la oracion sigue el orden afirmativo, con el verbo principal en su forma de pasado.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle-v19",
+      "statement": "Report the question: 'What if I fail the exam?'",
+      "context": "Reported speech with what if, Hatillo, grado 11, W18.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He asked what will happen if I fail the exam.",
+          "is_correct": false,
+          "feedback": "Incorrect. The question is hypothetical, so it calls for a conditional rather than the future simple."
+        },
+        {
+          "letter": "B",
+          "text": "He asked what would happen if I failed the exam.",
+          "is_correct": true,
+          "feedback": "Correct. The hypothetical question is kept with a second conditional, and the verb backshifts to 'failed'."
+        },
+        {
+          "letter": "C",
+          "text": "He asked that what would happen if I failed the exam.",
+          "is_correct": false,
+          "feedback": "Incorrect. The question word 'what' introduces the subordinate clause and is not combined with 'that'."
+        },
+        {
+          "letter": "D",
+          "text": "He asked what would happen if I would fail the exam.",
+          "is_correct": false,
+          "feedback": "Incorrect. The 'if' clause does not take 'would', because in a second conditional it uses the past simple."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las preguntas hipoteticas con 'what if' se trasladan a un condicional tipo dos. El condicional mantiene su estructura completa: pasado simple en la clausula de 'if' y 'would' mas infinitivo en la principal.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -728,176 +863,41 @@
       "country": "pr"
     },
     {
-      "id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
-      "id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
-      "id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
       "id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report the question: 'Had you finished the report before you left?'",
+      "context": "Reported speech with past perfect questions, Yabucoa, grado 11, W18.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "text": "She asked if I finished the report before I left.",
+          "is_correct": false,
+          "feedback": "Incorrect. The past perfect keeps the sense of an earlier action and is not reduced to the past simple."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "She asked had I finished the report before I left.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Had' cannot open the subordinate clause because the connector 'if' is missing."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "She asked if I had finished the report before I left.",
+          "is_correct": true,
+          "feedback": "Correct. The past perfect is kept, and the pronouns are adjusted to the new speaker of the report."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "She asked that I had finished the report before I left.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. A yes/no question requires 'if' or 'whether', not the connector 'that'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "Cuando el discurso directo ya esta en pasado perfecto, ese tiempo se conserva. Lo que se ajusta son los pronombres, que pasan a la perspectiva de quien formula la pregunta en el relato.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle",
       "periodo": 18,

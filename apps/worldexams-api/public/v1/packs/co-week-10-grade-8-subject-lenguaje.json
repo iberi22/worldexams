@@ -10,16 +10,16 @@
     {
       "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v1",
       "statement": "¿Cómo se denomina al narrador que participa en la historia como personaje principal y cuenta los hechos desde su propio punto de vista utilizando la primera persona?",
-      "context": "Al leer textos antiguos, es fundamental identificar el tipo de narrador para entender desde qué perspectiva se cuenta la historia.\n**Expected_Success:** 0.88",
+      "context": "Al leer textos antiguos, es fundamental identificar el tipo de narrador para entender desde qué perspectiva se cuenta la historia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Narrador omnisciente",
           "is_correct": false,
           "feedback": "El narrador omnisciente lo sabe todo pero no participa en la acción y suele usar la tercera persona."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Narrador protagonista",
           "is_correct": true,
           "feedback": "Correcto. El protagonista narra sus propias vivencias en primera persona."
@@ -37,7 +37,7 @@
           "feedback": "Este narrador se dirige a un \"tú\", creando un efecto de diálogo o apelación, pero no es el más común en relatos de vivencias personales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El uso del narrador protagonista es común en las crónicas personales y diarios de viaje, permitiendo una conexión directa con las emociones y percepciones del autor.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -56,16 +56,16 @@
     {
       "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es la función principal de un texto que describe detalladamente las características geográficas y climáticas de una región recién descubierta?",
-      "context": "Los textos informativos y expositivos buscan transmitir datos objetivos sobre un tema específico sin incluir opiniones personales del autor.\n**Expected_Success:** 0.85",
+      "context": "Los textos informativos y expositivos buscan transmitir datos objetivos sobre un tema específico sin incluir opiniones personales del autor.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Función apelativa",
           "is_correct": false,
           "feedback": "La función apelativa busca convencer o dar órdenes al lector."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Función referencial o informativa",
           "is_correct": true,
           "feedback": "Correcto. Busca informar sobre la realidad de manera objetiva."
@@ -83,7 +83,7 @@
           "feedback": "La función poética busca crear belleza estética a través del lenguaje."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La función referencial es la base de los textos científicos, históricos y técnicos, donde la precisión de la información es más importante que el estilo decorativo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v3",
       "statement": "En el fragmento anterior, ¿cuál es el propósito comunicativo de los personajes mencionados (los dioses)?",
-      "context": "\"Entonces los dioses dijeron: 'Hágase así. Que se llene el vacío. Que esta agua se retire y deje espacio, que surja la tierra'.\" (Fragmento adaptado del Popol Vuh).\n**Expected_Success:** 0.82",
+      "context": "\"Entonces los dioses dijeron: 'Hágase así. Que se llene el vacío. Que esta agua se retire y deje espacio, que surja la tierra'.\" (Fragmento adaptado del Popol Vuh).",
       "options": [
         {
           "letter": "A",
@@ -148,16 +148,16 @@
     {
       "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v4",
       "statement": "Al leer el fragmento de Colón, ¿qué actitud se infiere en el narrador frente a lo que está observando por primera vez?",
-      "context": "\"Vimos árboles muy verdes y aguas muchas y frutas de diversas maneras. La gente andaba toda desnuda como su madre los parió\". (Cristóbal Colón, Diario de a bordo).\n**Expected_Success:** 0.78",
+      "context": "\"Vimos árboles muy verdes y aguas muchas y frutas de diversas maneras. La gente andaba toda desnuda como su madre los parió\". (Cristóbal Colón, Diario de a bordo).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Indiferencia total por la naturaleza.",
           "is_correct": false,
           "feedback": "La mención detallada de árboles, aguas y frutas indica interés."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Asombro y curiosidad ante lo desconocido y exótico.",
           "is_correct": true,
           "feedback": "Correcto. Colón resalta la diferencia con lo conocido en Europa."
@@ -175,7 +175,7 @@
           "feedback": "El tono es de descubrimiento y registro de lo hallado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La literatura del descubrimiento se caracteriza por el \"asombro ante la alteridad\" (lo otro), donde el narrador intenta traducir una realidad nueva a su propio lenguaje.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v5",
       "statement": "Si un autor colonial escribe que \"es obligación de la Corona proteger a los indígenas porque son seres humanos con alma\", ¿cuál es la tesis principal de su argumento?",
-      "context": "Los textos argumentativos presentan una tesis (idea principal) que el autor defiende mediante razones o argumentos sólidos.\n**Expected_Success:** 0.75",
+      "context": "Los textos argumentativos presentan una tesis (idea principal) que el autor defiende mediante razones o argumentos sólidos.",
       "options": [
         {
           "letter": "A",
@@ -203,13 +203,13 @@
           "feedback": "El argumento se centra en la condición humana, no en la economía."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Los indígenas deben aprender a leer y escribir español rápidamente.",
           "is_correct": false,
           "feedback": "No se menciona la educación en el argumento dado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La defensa de la dignidad humana de los indígenas como base de su protección legal.",
           "is_correct": true,
           "feedback": "Correcto. El autor vincula la humanidad del indígena con el deber de protección."
@@ -221,7 +221,7 @@
           "feedback": "La tesis se enfoca en el derecho del indígena, no en el poder totalitario del rey."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Identificar la tesis permite comprender la intención política o moral del autor, especialmente en textos históricos de debate social.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v6",
       "statement": "¿Cómo influyó el contexto de la Inquisición en el hecho de que muchos textos indígenas fueran escritos de forma simbólica u oculta?",
-      "context": "En el análisis literario, el \"contexto de producción\" se refiere a las circunstancias sociales e históricas en las que se escribió una obra.\n**Expected_Success:** 0.70",
+      "context": "En el análisis literario, el \"contexto de producción\" se refiere a las circunstancias sociales e históricas en las que se escribió una obra.",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v7",
       "statement": "¿Qué recurso retórico utiliza el autor al descalificar las versiones de otros escritores para validar la suya propia?",
-      "context": "\"La historia que aquí contamos es verdadera, no como las fábulas que otros inventan para ganar fama\". (Fray Bartolomé de las Casas).\n**Expected_Success:** 0.65",
+      "context": "\"La historia que aquí contamos es verdadera, no como las fábulas que otros inventan para ganar fama\". (Fray Bartolomé de las Casas).",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v8",
       "statement": "En un mito donde el Sol y la Luna son hermanos que pelean por el dominio del cielo, ¿qué elemento de la realidad se está intentando explicar de forma literaria?",
-      "context": "Muchos relatos míticos utilizan la \"personificación\" (dar rasgos humanos a objetos o animales) para explicar fenómenos naturales.\n**Expected_Success:** 0.60",
+      "context": "Muchos relatos míticos utilizan la \"personificación\" (dar rasgos humanos a objetos o animales) para explicar fenómenos naturales.",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es la ventaja de los códices mayas (que combinan dibujos con glifos) frente a un texto que solo contiene letras alfabéticas?",
-      "context": "Un texto multimodal es aquel que combina diferentes sistemas de signos, como palabras, imágenes o jeroglíficos, para transmitir un mensaje.\n**Expected_Success:** 0.55",
+      "context": "Un texto multimodal es aquel que combina diferentes sistemas de signos, como palabras, imágenes o jeroglíficos, para transmitir un mensaje.",
       "options": [
         {
           "letter": "A",
@@ -393,19 +393,19 @@
           "feedback": "En los códices, la imagen es parte esencial de la información narrada."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Permiten una comunicación más rica que incluye símbolos visuales, colores y conceptos complejos simultáneamente.",
           "is_correct": true,
           "feedback": "Correcto. La multimodalidad amplía las capas de significado del mensaje."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que se pueden imprimir más rápido en las imprentas modernas.",
           "is_correct": false,
           "feedback": "Los códices eran hechos a mano; la rapidez de impresión no es una ventaja de su formato original."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La lectura crítica de textos multimodales requiere entender cómo la imagen y la palabra se complementan para crear un mensaje completo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v10",
       "statement": "Si un cronista español describe a los indígenas como \"niños que necesitan ser guiados\", ¿qué visión ideológica está imponiendo a través de su lenguaje?",
-      "context": "El análisis crítico de un texto implica cuestionar las intenciones ocultas del autor y la ideología que hay detrás de sus palabras.\n**Expected_Success:** 0.50",
+      "context": "El análisis crítico de un texto implica cuestionar las intenciones ocultas del autor y la ideología que hay detrás de sus palabras.",
       "options": [
         {
           "letter": "A",
@@ -439,19 +439,19 @@
           "feedback": "Llamarlos \"niños\" despoja a los líderes de su autoridad adulta y política."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Una visión paternalista que justifica la dominación y el control sobre el otro.",
           "is_correct": true,
           "feedback": "Correcto. Al infantilizar al indígena, se justifica la necesidad de un \"tutor\" o dominador."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una crítica científica sobre la baja estatura de los habitantes de América.",
           "is_correct": false,
           "feedback": "El término es metafórico/social, no una observación biológica sobre el crecimiento."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El lenguaje no es neutro; el uso de metáforas como la infancia para referirse a pueblos enteros es una herramienta poderosa de justificación política y social.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -470,7 +470,7 @@
     {
       "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v11",
       "statement": "Cuando un poeta moderno escribe un poema sobre el \"descubrimiento de sí mismo\" usando las mismas metáforas de barcos y tormentas que usaba Colón, ¿qué tipo de relación está creando?",
-      "context": "La intertextualidad ocurre cuando un texto hace referencia a otro, ya sea de forma directa (cita) o indirecta (alusión).\n**Expected_Success:** 0.45",
+      "context": "La intertextualidad ocurre cuando un texto hace referencia a otro, ya sea de forma directa (cita) o indirecta (alusión).",
       "options": [
         {
           "letter": "A",
@@ -479,13 +479,13 @@
           "feedback": "El uso de metáforas comunes para temas distintos es intertextualidad, no necesariamente plagio."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Un error de anacronismo por usar palabras viejas en temas nuevos.",
           "is_correct": false,
           "feedback": "La literatura a menudo reutiliza símbolos antiguos para darles nuevos significados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una relación intertextual que enriquece el poema moderno con el peso histórico del viaje original.",
           "is_correct": true,
           "feedback": "Correcto. Conecta la experiencia personal con el gran relato del descubrimiento."
@@ -497,7 +497,7 @@
           "feedback": "La intertextualidad es un recurso literario sofisticado, no una falta de creatividad."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La intertextualidad permite que los textos \"hablen\" entre sí a través del tiempo, creando una red de significados compartidos por la cultura.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -516,7 +516,7 @@
     {
       "id": "CO-LEN-8-2026-W10-analisis-lectura-001-MASTERY-bundle-v12",
       "statement": "¿Cuál es el valor literario de mezclar la historia oficial con relatos de la vida privada y anécdotas populares en una crónica?",
-      "context": "Los textos del periodo colonial colombiano, como \"El Carnero\" de Juan Rodríguez Freyle, mezclan hechos históricos con chismes y anécdotas de la época.\n**Expected_Success:** 0.40",
+      "context": "Los textos del periodo colonial colombiano, como \"El Carnero\" de Juan Rodríguez Freyle, mezclan hechos históricos con chismes y anécdotas de la época.",
       "options": [
         {
           "letter": "A",

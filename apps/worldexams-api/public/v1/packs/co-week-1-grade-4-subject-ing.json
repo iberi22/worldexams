@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "Hello",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. 'Hello' is the English equivalent of 'Hola', the everyday greeting used to open a conversation."
         },
         {
           "letter": "B",
           "text": "Goodbye",
           "is_correct": false,
-          "feedback": "No, that's 'Adiós'."
+          "feedback": "'Goodbye' is how you say 'Adiós', the word for leaving, so it cannot greet someone."
         },
         {
           "letter": "C",
           "text": "Please",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Please' is 'por favor', the polite word used to make a request, not a greeting."
         },
         {
           "letter": "D",
           "text": "Thanks",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Thanks' means 'gracias' and is used to show gratitude, not to greet a person."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "friend",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Friend' names a person you spend time with; after 'My' the sentence needs the word for what belongs to you, which is 'name'."
         },
         {
           "letter": "B",
           "text": "name",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. 'Name' completes the fixed expression 'My name is Ana', the way you introduce yourself."
         },
         {
           "letter": "C",
           "text": "age",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Age' does follow 'My' as in 'My age is nine', but the reply 'I am Ana' tells who the person is, not how old she is."
         },
         {
           "letter": "D",
           "text": "color",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Color' follows 'My' as in 'My favorite color is blue'; here the sentence introduces a person, so it needs 'name'."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "tall",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Tall' describes height, but the reply talks about a number of years, so the question must be 'How old are you?'"
         },
         {
           "letter": "B",
           "text": "happy",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Happy' describes a feeling, and 'I am 9 years old' answers a question about age, not about mood."
         },
         {
           "letter": "C",
           "text": "old",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. 'Old' is the adjective that follows 'How ... are you?' when the answer gives a number of years."
         },
         {
           "letter": "D",
           "text": "many",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Many' counts countable objects and needs a noun after it, as in 'How many books do you have?'"
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "see",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Nice to see you' is said to someone you already know and have just caught sight of; the phrase for an introduction is 'meet'."
         },
         {
           "letter": "B",
           "text": "hear",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You do not say 'Nice to hear you' to someone you are being introduced to; 'hear' refers to sounds."
         },
         {
           "letter": "C",
           "text": "play",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Play' needs an activity after it, as in 'nice to play with you', so it does not fit this fixed phrase."
         },
         {
           "letter": "D",
           "text": "meet",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. 'Meet' is the verb of introduction, so 'Nice to meet you' is the phrase, and 'Nice to meet you too' is the standard reply."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "am",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. 'Am' is the present simple of 'be' used with the pronoun 'I', so 'I am from Colombia' answers the question."
         },
         {
           "letter": "B",
           "text": "is",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Is' goes with 'he', 'she', 'it' in the present simple, but the subject of this answer is 'I'."
         },
         {
           "letter": "C",
           "text": "are",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Are' is used with 'you', 'we' and 'they'; the subject here is 'I'."
         },
         {
           "letter": "D",
           "text": "be",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Be' is the bare infinitive, and a complete sentence needs the conjugated form 'am', not 'be'."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "Hello night",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Good night' is the farewell used before going to sleep, so 'Hello night' is not an English phrase."
         },
         {
           "letter": "B",
           "text": "Good morning",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. 'Good morning' is the greeting used from sunrise until about noon, and 8:00 AM falls in that period."
         },
         {
           "letter": "C",
           "text": "Good night",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Good night' is said at night when going to bed, not in the morning at 8:00."
         },
         {
           "letter": "D",
           "text": "Good afternoon",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Good afternoon' is used after noon, roughly from 12:00 to 6:00 PM, so it does not fit 8:00 AM."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "at",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'At' is used with a point or a specific address, as in 'I live at 45 Street'; before a city name you use 'in'."
         },
         {
           "letter": "B",
           "text": "to",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'To' marks the destination of a movement, as in 'I go to Bogota', but 'live' describes a state, not a movement."
         },
         {
           "letter": "C",
           "text": "in",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. 'In' is the preposition used before the name of a city or a country, so 'I live in Bogota' is right."
         },
         {
           "letter": "D",
           "text": "on",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'On' is used with streets and surfaces, as in 'on Fifth Avenue', not with the name of a city."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "Hi",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Hi' is a short informal greeting used to say hello, so it belongs in the group of greetings."
         },
         {
           "letter": "B",
           "text": "Good morning",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Good morning' is the greeting used before noon, so it is a greeting."
         },
         {
           "letter": "C",
           "text": "Hello",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Hello' is the everyday greeting used both to greet a person and to answer the phone."
         },
         {
           "letter": "D",
           "text": "Apple",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. 'Apple' is a fruit, not a greeting, so it is the word that does not belong."
         }
       ],
       "correct_answer": "D",

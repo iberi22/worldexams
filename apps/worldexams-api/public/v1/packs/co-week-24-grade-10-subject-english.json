@@ -13,13 +13,13 @@
       "context": "General advice for a healthy life.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "might",
           "is_correct": false,
           "feedback": "Too weak for general advice."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "should",
           "is_correct": true,
           "feedback": "Correct. Standard modal for giving advice."
@@ -28,7 +28,7 @@
           "letter": "C",
           "text": "would",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "'Would' belongs to the second conditional for a hypothetical case, and this sentence states practical diet advice rather than an imagined situation."
         },
         {
           "letter": "D",
@@ -37,9 +37,9 @@
           "feedback": "Possible, but B is the standard neutral choice."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Should' is the most common modal used to give advice or express a recommendation.\r\n\r\n---",
-      "difficulty": "3",
+      "correct_answer": "A",
+      "explanation": "'Should' is the most common modal used to give advice or express a recommendation.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -65,27 +65,27 @@
           "feedback": "Incorrect syntax ('should to' is wrong)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "ought",
           "is_correct": true,
           "feedback": "Correct. 'Ought to' is a synonym for 'should' and requires 'to'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "had better",
           "is_correct": false,
           "feedback": "Does not take 'to'."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "must",
           "is_correct": false,
           "feedback": "Too strong, and doesn't take 'to'."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Ought to' is a formal alternative to 'should' and is always followed by the full infinitive ('to' + verb).\r\n\r\n---",
-      "difficulty": "3",
+      "correct_answer": "D",
+      "explanation": "'Ought to' is a formal alternative to 'should' and is always followed by the full infinitive ('to' + verb).\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -108,7 +108,7 @@
           "letter": "A",
           "text": "should to",
           "is_correct": false,
-          "feedback": "Incorrect grammar."
+          "feedback": "A modal is followed either by a bare infinitive or by 'to' plus a verb, so 'should to' combines two patterns that cannot meet."
         },
         {
           "letter": "B",
@@ -130,7 +130,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Had better' is used for strong advice, often implying a negative consequence if the advice is not followed.\r\n\r\n---",
+      "explanation": "'Had better' is used for strong advice, often implying a negative consequence if the advice is not followed.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -151,13 +151,13 @@
       "context": "An article about mental health.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "must",
           "is_correct": false,
           "feedback": "Too strong for a suggestion."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "should",
           "is_correct": true,
           "feedback": "Correct. Common in suggestions."
@@ -172,12 +172,12 @@
           "letter": "D",
           "text": "will",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Will' states a certain future prediction, but an expert report that only 'suggests' is recommending rather than announcing."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Using 'should' to summarize professional recommendations in an informative text.\r\n\r\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "Using 'should' to summarize professional recommendations in an informative text.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -197,19 +197,19 @@
       "context": "Discussing stress management.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "should",
           "is_correct": false,
           "feedback": "Incorrect syntax ('should not to' is wrong)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "had better",
           "is_correct": false,
           "feedback": "Incorrect syntax ('had better not to' is wrong)."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "ought",
           "is_correct": true,
           "feedback": "Correct. 'Ought not to' is the negative form."
@@ -221,9 +221,9 @@
           "feedback": "Too weak."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The negative form 'ought not to' is used for formal advice against an action.\r\n\r\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "The negative form 'ought not to' is used for formal advice against an action.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -243,13 +243,13 @@
       "context": "A health blog entry.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "would",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Would' belongs to the second conditional for a hypothetical situation and does not state the firm advice this sentence needs."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "had better",
           "is_correct": true,
           "feedback": "Correct strong advice."
@@ -258,17 +258,17 @@
           "letter": "C",
           "text": "should to",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Should' cannot be followed directly by 'to'; a modal is either followed by a bare infinitive or by 'to' plus a noun."
         },
         {
           "letter": "D",
           "text": "ought",
           "is_correct": false,
-          "feedback": "Missing 'to'."
+          "feedback": "'Ought' has to be used with 'to', as in 'ought to avoid', so the bare form is incomplete."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Using 'had better' for authoritative or urgent health advice in a blog or article.\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "Using 'had better' for authoritative or urgent health advice in a blog or article.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -289,13 +289,13 @@
       "context": "Reflecting on past advice.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "shouldn't eat",
           "is_correct": false,
           "feedback": "This is for present/future."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "shouldn't have eaten",
           "is_correct": true,
           "feedback": "Correct. 'Shouldn't have' + past participle for past regret/advice."
@@ -304,18 +304,18 @@
           "letter": "C",
           "text": "ought not eat",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "'Ought' needs 'to' before the infinitive, and even 'ought not to eat' would be about the present, not about what happened last night."
         },
         {
           "letter": "D",
           "text": "didn't have to eat",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "'Didn't have to' means there was no obligation, which is not what the speaker is criticising; the eating certainly happened."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Should (not) have' + past participle is used to express regret or criticism about a past action.\r\n\r\n---",
-      "difficulty": "7",
+      "correct_answer": "A",
+      "explanation": "'Should (not) have' + past participle is used to express regret or criticism about a past action.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -335,13 +335,13 @@
       "context": "A text on hydration.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "should",
           "is_correct": false,
-          "feedback": "Incorrect with 'to'."
+          "feedback": "This modal is followed directly by 'to' and the infinitive, so 'should to drink' doubles the marker. 'Should drink' would be right, but the sentence already supplies the 'to'."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "ought",
           "is_correct": true,
           "feedback": "Correct formal advice structure."
@@ -350,18 +350,18 @@
           "letter": "C",
           "text": "must",
           "is_correct": false,
-          "feedback": "Incorrect with 'to'."
+          "feedback": "'Must' can only mean obligation here, and it leaves no room for the 'though needs vary' clause that qualifies the claim."
         },
         {
           "letter": "D",
           "text": "had better",
           "is_correct": false,
-          "feedback": "Incorrect with 'to'."
+          "feedback": "'Had better' takes the bare infinitive and adds urgency, which clashes with 'it is often said', a distant and impersonal report."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Using 'ought to' in formal or general health statements.\r\n\r\n---",
-      "difficulty": "7",
+      "correct_answer": "A",
+      "explanation": "Using 'ought to' in formal or general health statements.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -402,11 +402,11 @@
           "letter": "D",
           "text": "would rather",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "'Would rather' expresses a preference for one option over another, as in 'I would rather walk', and it needs a second alternative to compare against."
         }
       ],
       "correct_answer": "B",
-      "explanation": "B2 complexity: Using 'might as well' to suggest an alternative in a low-pressure way.\r\n\r\n---",
+      "explanation": "B2 complexity: Using 'might as well' to suggest an alternative in a low-pressure way.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -427,19 +427,19 @@
       "context": "A formal health warning.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "had better / could be",
           "is_correct": true,
           "feedback": "Correct strong advice + possibility."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "should / must be",
           "is_correct": false,
           "feedback": "'Should not' is possible but A is stronger. 'Must be' is too certain."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "ought / might be",
           "is_correct": false,
           "feedback": "Missing 'to'."
@@ -448,12 +448,12 @@
           "letter": "D",
           "text": "would / can be",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Would not' is the second conditional and 'can be' states general possibility, so neither half carries the strong warning about a specific set of symptoms."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Advanced B2 structure: Combining 'had better' with modals of possibility to provide nuanced health warnings.\r\n\r\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "Advanced B2 structure: Combining 'had better' with modals of possibility to provide nuanced health warnings.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -476,16 +476,16 @@
           "letter": "A",
           "text": "should do",
           "is_correct": false,
-          "feedback": "Incorrect tense."
-        },
-        {
-          "letter": "B",
-          "text": "ought to do",
-          "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "'Should do' can only point forward, but the sentence criticises what the government failed to do years ago."
         },
         {
           "letter": "C",
+          "text": "ought to do",
+          "is_correct": false,
+          "feedback": "'Ought to do' has the same problem: it describes what should happen, not what should have happened at a past moment."
+        },
+        {
+          "letter": "B",
           "text": "should have done",
           "is_correct": true,
           "feedback": "Correct. Criticism of a past lack of action."
@@ -494,12 +494,12 @@
           "letter": "D",
           "text": "had better do",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "'Had better' gives advice for the present, and it does not take a past reference the way 'should have done' does."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Using 'should have done' to criticize past institutional decisions regarding public health.\r\n\r\n---",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "Using 'should have done' to criticize past institutional decisions regarding public health.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -528,23 +528,23 @@
           "letter": "B",
           "text": "is / make",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "After 'it is strongly recommended that', English requires the subjunctive 'be', not the indicative 'is'."
         },
         {
           "letter": "C",
           "text": "was / to make",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Was' would point at a past recommendation, and 'to make' is a to-infinitive where the sentence needs a gerund after the preposition."
         },
         {
           "letter": "D",
           "text": "should be / made",
           "is_correct": false,
-          "feedback": "'Made' is incorrect here."
+          "feedback": "'Should be' would add a modal to a structure that already carries the verb of recommendation, and 'made' is a past participle where a gerund belongs."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Mastery level: Using the subjunctive 'be' in a formal recommendation and the gerund after 'before' in a medical context.\r\n\r\n---",
+      "explanation": "Mastery level: Using the subjunctive 'be' in a formal recommendation and the gerund after 'before' in a medical context.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

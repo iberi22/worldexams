@@ -13,31 +13,31 @@
       "context": "Un profesor de literatura de un instituto de Salamanca enseña las bases del análisis narrativo para preparar la EBAU.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La estructura externa se organiza formalmente en capítulos, párrafos o tratados; mientras que la interna se refiere al orden del contenido (planteamiento, nudo y desenlace).",
           "is_correct": true,
           "feedback": "Correcto. La estructura externa es el armazón formal visible (capítulos, partes), mientras que la interna atañe a la disposición dramática de la trama."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La externa se refiere al color del papel impreso del libro y la interna son las pesadillas secretas del novelista.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una distinción absurda sin base científica en la teoría de los textos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambas estructuras son idénticas y el análisis literario moderno desaconseja diferenciarlas en bachillerato.",
           "is_correct": false,
           "feedback": "Incorrecto. La distinción es un estándar clave del comentario de texto de selectividad en España."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La estructura externa es exclusiva de los poemas rimados y la interna atañe solo a las fórmulas de física y química.",
           "is_correct": false,
           "feedback": "Incorrecto. Los textos narrativos tienen ambas estructuras de forma intrínseca en su prosa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La estructura externa organiza el libro físicamente (capítulos, tomos, escenas). La estructura interna organiza conceptualmente el desarrollo de la acción dramática (habitualmente planteamiento, nudo y desenlace, aunque existan variaciones de orden).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "En una clase de refuerzo en Valencia se analiza una novela contemporánea española donde el narrador relata hechos de los que no forma parte directa, pero sabe qué piensan y sienten todos los personajes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Narrador omnisciente o heterodiegético, que narra en tercera persona y posee un conocimiento total de los hechos y la psicología de los personajes.",
           "is_correct": true,
           "feedback": "Correcto. El narrador omnisciente se sitúa fuera de la diégesis (heterodiegético) y tiene un saber absoluto y sabelotodo del universo narrativo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Narrador protagonista u homodiegético, que escribe su diario íntimo en primera persona del plural.",
           "is_correct": false,
           "feedback": "Incorrecto. Si fuera protagonista narraría sus propias andanzas en primera persona, no se mantendría fuera con omnisciencia sobre otros."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Narrador testigo de bajo nivel de éxito de Doñana.",
           "is_correct": false,
           "feedback": "Incorrecto. El narrador testigo observa desde dentro pero carece de acceso a la mente de los demás personajes."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. El narrador omnisciente es una figura activa que modula el tono mediante valoraciones y adjetivos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El narrador omnisciente (heterodiegético de tercera persona) no participa en los hechos que narra, pero posee un conocimiento ilimitado, conociendo el pasado, futuro y el fuero interno de los personajes.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,31 +103,31 @@
       "context": "Un novelista en Toledo diseña una trama de suspense temporal y distingue entre la sucesión real cronológica de los hechos y la forma en que los presenta en el libro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El tiempo de la historia (los sucesos en orden cronológico real) y el tiempo del discurso (el orden en que el narrador dispone los hechos en el texto).",
           "is_correct": true,
           "feedback": "Correcto. El tiempo de la historia es la secuencia cronológica lineal de los acontecimientos; el del discurso es la disposición artística y anacrónica de los mismos en la novela."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El tiempo meteorológico de la estación de Atocha y el tiempo sintáctico del subjuntivo.",
           "is_correct": false,
           "feedback": "Incorrecto. No confundir el tiempo climatológico o gramatical con los tiempos de la narratología."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El tiempo de la física cuántica medieval y el tiempo de la RAE.",
           "is_correct": false,
           "feedback": "Incorrecto. Son conceptos narratológicos estandarizados ajenos a la física cuántica medieval."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Son idénticos, puesto que un texto literario tiene prohibido alterar el orden del reloj físico.",
           "is_correct": false,
           "feedback": "Incorrecto. La literatura se sirve de la manipulación temporal (anacronías) de forma libre y habitual para generar suspense."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La narratología separa el tiempo de la historia (la lógica cronológica de la causa-efecto) del tiempo del discurso (el orden estético, que puede incluir saltos temporales como anticipaciones o retornos al pasado).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Un relato policial de Barcelona pasa bruscamente de contar los detalles de la adolescencia del detective en los años noventa a situarlo en la comisaría en el año 2026.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Elipsis narrativa, que consiste en omitir un periodo de tiempo que carece de interés para la trama, acelerando el ritmo.",
           "is_correct": true,
           "feedback": "Correcto. La elipsis narrativa silencia un lapso temporal de la historia, permitiendo al discurso dar un salto inmediato hacia adelante."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Digresión moral, que consiste en meter diálogos en catalán sobre la gastronomía local.",
           "is_correct": false,
           "feedback": "Incorrecto. La digresión interrumpe la trama para dar una opinión reflexiva, no causa un salto en la acción física."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. La elipsis no depende del presente histórico ni congela los modos verbales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La elipsis es un procedimiento de síntesis temporal por el cual el narrador suprime segmentos de la historia, permitiendo que el tiempo del discurso avance velozmente sin narrar acontecimientos irrelevantes.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Un fragmento literario comienza así: 'Subí lentamente las escaleras del viejo caserón de Santiago de Compostela. El frío gallego calaba mis huesos y sentía en el bolsillo de mi abrigo el peso de la llave oxidada'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Primera persona singular, con narrador protagonista u homodiegético, que participa directamente como personaje central de la acción.",
           "is_correct": true,
           "feedback": "Correcto. El uso de la primera persona ('subí', 'mis huesos', 'mi abrigo') indica que el narrador es el protagonista de sus propios acontecimientos (homodiegético)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tercera persona omnisciente, heterodiegético, que observa desde las nubes de Galicia.",
           "is_correct": false,
           "feedback": "Incorrecto. El narrador habla desde su propia subjetividad y experiencia en primera persona, no como un ser omnisciente ajeno a la acción física."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Toda narración exige la presencia de una voz narrativa (narrador) como filtro comunicativo de los hechos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El narrador homodiegético es aquel que forma parte de la historia (diégesis) como personaje. Si coincide con el centro de la acción, se clasifica específicamente como narrador protagonista en primera persona.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "En una novela costumbrista ambientada en Sevilla, un personaje menor llamado 'El Tío Paco' aparece siempre refunfuñando las mismas tres frases hechas, sin mostrar ningún cambio psicológico ni evolución en las doscientas páginas del libro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Personaje plano, por estar definido por un solo rasgo o idea y carecer de evolución psicológica o transformación a lo largo de la obra.",
           "is_correct": true,
           "feedback": "Correcto. Los personajes planos (o caricaturescos) se diseñan en torno a una idea única o rasgo fijo, sin complejidad ni evolución dramática."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Personaje redondo, debido a su profunda y tortuosa contradicción interna existencial.",
           "is_correct": false,
           "feedback": "Incorrecto. Los redondos muestran múltiples facetas, evolucionan con los acontecimientos y resultan psicológicamente complejos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Protagonista absoluto, puesto que las novelas de Sevilla giran únicamente en torno al Tío Paco.",
           "is_correct": false,
           "feedback": "Incorrecto. El Tío Paco se define como un personaje secundario o comparsa menor, no como el protagonista."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Los personajes planos no representan villanos ortográficos de instituciones académicas de forma obligatoria."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "E.M. Forster propuso clasificar a los personajes en 'planos' (aquellos construidos en torno a una sola cualidad, fáciles de recordar por carecer de cambio) y 'redondos' (complejos, multidimensionales y con capacidad de cambiar con la trama).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "Una novela histórica comienza con el siguiente enunciado: 'Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Prolepsis o flashforward, ya que la narración se anticipa en el tiempo para contar un hecho que ocurrirá en el futuro de la historia.",
           "is_correct": true,
           "feedback": "Correcto. El enunciado sitúa momentáneamente el discurso en un punto futuro ('Muchos años después, frente al pelotón...') antes de replegarse al pasado de la historia ('aquella tarde remota...'). Es una anticipación proléptica compleja."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Elipsis absoluta, porque se eliminan todos los verbos del modo subjuntivo peninsular.",
           "is_correct": false,
           "feedback": "Incorrecto. Los verbos se mantienen perfectamente; no hay supresión formal del modo sino un salto narrativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sincronía pura, porque el coronel Buendía vive físicamente en el Metro de Madrid en el mismo instante.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una anacronía literaria (prolepsis de futuro), no un suceso sincrónico cotidiano."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Dequeísmo gramatical por omitir la preposición 'de' antes del pronombre 'que'.",
           "is_correct": false,
           "feedback": "Incorrecto. El fragmento es sintácticamente modélico, libre de dequeísmo o queísmo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La prolepsis consiste en la anticipación de un hecho futuro en la cronología de la historia, interrumpiendo el flujo temporal ordinario del discurso con fines de intriga o misterio.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Una famosa novela corta comienza de la siguiente manera: 'Gregor Samsa se despertó una mañana convertido en un monstruoso insecto. No sabía cómo había llegado a esa situación, pero...'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "In media res, que consiste en comenzar el relato directamente en mitad de la acción dramática o conflicto, sin presentación previa de personajes o antecedentes.",
           "is_correct": true,
           "feedback": "Correcto. El inicio 'in media res' (en mitad del asunto) omite el planteamiento tradicional y arroja al lector en el núcleo del conflicto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Apertura in extremis, porque la historia empieza obligatoriamente por el entierro final del protagonista en Zaragoza.",
           "is_correct": false,
           "feedback": "Incorrecto. 'In extremis' es empezar por el mismísimo desenlace o fin cronológico absoluto de la vida del protagonista, lo cual no ocurre aquí."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Comienzo de caja china, ya que se describe la vida de las hormigas de Madrid de manera científica.",
           "is_correct": false,
           "feedback": "Incorrecto. Gregor se despierta convertido en insecto de forma literaria y no como un tratado de entomología."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Se emplean las letras normales en castellano; la elipsis narrativa no suprime caracteres gráficos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El comienzo 'in media res' es un recurso clásico que dinamiza el interés del receptor al arrancar la historia directamente en el nudo de la acción, posponiendo la explicación de los antecedentes o el planteamiento.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "Al analizar la técnica del diálogo en una novela realista, se halla este pasaje: '—No pienso ir contigo a Sevilla —afirmó ella con sequedad. Él guardó silencio un instante'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Estilo directo, introducido por un guion de diálogo; aporta inmediatez dramática y vivacidad al dar voz directa y autónoma al personaje.",
           "is_correct": true,
           "feedback": "Correcto. El estilo directo reproduce textualmente las palabras del personaje mediante guiones o comillas, dinamizando el ritmo dramático de la escena."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Estilo indirecto tradicional, caracterizado por fundir la voz en un nexo subordinado con la conjunción 'que'.",
           "is_correct": false,
           "feedback": "Incorrecto. El estilo indirecto diría: 'Ella afirmó con sequedad que no pensaba ir...', perdiendo la inmediatez de la voz directa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Monólogo interior existencial madrileño que suprime los signos de interrogación.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un diálogo interactivo interpersonal en estilo directo, no una reflexión interior asilada sin interlocutor."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un vulgarismo fonético causado por el desuso de los verbos transitivos en Sevilla.",
           "is_correct": false,
           "feedback": "Incorrecto. La frase es sintácticamente impecable."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El estilo directo permite al escritor dar la palabra a sus personajes sin intermediarios, marcándolo ortográficamente con rayas o comillas. Genera un efecto dramático inmediato de 'escena' en tiempo real.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "En una novela romántica gallega, el narrador describe un bosque de robles sumido en una densa niebla gris y azotado por una tormenta hostil en el mismo momento en que el protagonista sufre un doloroso desengaño amoroso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Actúa como un espacio subjetivo u homólogo, donde las condiciones climatológicas y el paisaje reflejan y amplifican el estado de ánimo atormentado del personaje.",
           "is_correct": true,
           "feedback": "Correcto. En la literatura romántica y realista, el paisaje funciona a menudo como proyección simbólica o subjetiva de los sentimientos íntimos de los personajes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se trata de un tratado científico de meteorología forestal de la Comunidad de Galicia.",
           "is_correct": false,
           "feedback": "Incorrecto. El fin es literario-estético, no describir objetivamente la nubosidad gallega con rigor botánico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Representa un ruido de canal físico que impide al protagonista leer la nota de su amada.",
           "is_correct": false,
           "feedback": "Incorrecto. La niebla y tormenta son ficticias del relato y no perturban la lectura física del receptor de carne y hueso."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Los espacios y descripciones simbólicas de la literatura escapan a las censuras pronominales de leísmo/loísmo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El espacio narrativo trasciende el mero decorado geográfico. Con frecuencia, en la literatura el paisaje se tiñe de la subjetividad de los personajes, estableciéndose paralelismos simbólicos entre el clima exterior y el alma humana.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "Un novelista español de Soria describe una partida de cartas en una taberna rural e inserta de forma realista vulgarismos del habla local de los labradores en mitad de los diálogos de su obra.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Buscar el verosimilitud y el realismo costumbrista, aprovechando las variedades diastráticas (sociales) y diatópicas (geográficas) para dar voz auténtica a los personajes.",
           "is_correct": true,
           "feedback": "Correcto. Insertar de manera controlada rasgos lingüísticos coloquiales o vulgares dota de autenticidad dramática a la caracterización social de los personajes del entorno rural."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Enseñar a los labradores gramática prescriptiva de la RAE mediante la función poética.",
           "is_correct": false,
           "feedback": "Incorrecto. El fin de la literatura de ficción es recrear la realidad estética de forma verosímil y no impartir lecciones normativas del diccionario académico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demostrar que los habitantes de Soria carecen de competencia lingüística elemental.",
           "is_correct": false,
           "feedback": "Incorrecto. Se recrea una variedad social o registro popular lícito, carente de prejuicios destructivos contra Soria."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. El costumbrismo lingüístico no se limita ni se asocia obligatoriamente con el dequeísmo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El realismo literario se sirve del mimetismo lingüístico, que consiste en reproducir en los diálogos las marcas idiolectales, sociolectales y dialectales propias de la extracción social y procedencia real de los personajes para lograr verosimilitud.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Un reportero redacta una crónica periodística de sucesos sobre un atraco en Sevilla de la siguiente manera: 'El ladrón entra (1) al banco, amordaza (2) al guardia y exige (3) los euros. Al salir, la policía lo acorrala (4)...'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es un uso estilístico lícito y dinámico del presente histórico que acerca los hechos pasados al receptor, dándoles un carácter de inmediatez y actualidad dramática.",
           "is_correct": true,
           "feedback": "Correcto. El presente histórico traslada hechos acontecidos en el pasado a la forma del presente gramatical, logrando que el receptor perciba la escena con mayor cercanía dramática y realismo visual."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es un error sintáctico atroz del periodista por no saber que los sucesos pasados exigen de forma obligatoria el modo subjuntivo.",
           "is_correct": false,
           "feedback": "Incorrecto. El presente histórico es un recurso discursivo estándar en el periodismo y la literatura, plenamente correcto y normativo para narrar pasados."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. El uso de 'lo' para un objeto o persona masculina en función de complemento directo ('lo acorrala la policía') es el uso etimológico correcto y estándar, no un leísmo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El presente histórico es un recurso discursivo por el cual se emplean formas del presente de indicativo para narrar hechos del pasado. Su función pragmática es actualizar el relato, dotándolo de viveza y relieve descriptivo para captar la atención del lector.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "En un examen de selectividad en Salamanca, un estudiante analiza la estructura de 'El conde Lucanor' de Don Juan Manuel. El estudiante sostiene: 'Es una obra caótica y fallida porque introduce relatos inventados por Patronio que interrumpen la trama del conde, rompiendo la unidad del texto'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Es errónea, ya que la estructura de relatos enmarcados es una técnica clásica consagrada que utiliza el cuento interior (ejemplo de Patronio) como recurso argumentativo y pedagógico para resolver el conflicto del marco exterior (el conde), logrando una perfecta cohesión de fines.",
           "is_correct": true,
           "feedback": "Correcto. El relato enmarcado o 'mise en abyme' engarza historias secundarias de manera complementaria e instrumental, sirviendo el cuento interior de ejemplo práctico y didáctico para resolver la intriga de la trama exterior del marco."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es correcta, ya que la literatura medieval española carecía de normas ortográficas y se escribía mezclando folletos de manera caótica.",
           "is_correct": false,
           "feedback": "Incorrecto. Don Juan Manuel diseñó la obra con un rigor estilístico y didáctico matemático, constituyendo un hito de la prosa de ficción castellana medieval."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es correcta porque la RAE prohíbe de forma terminante que los personajes secundarios cuenten cuentos a sus señores feudales.",
           "is_correct": false,
           "feedback": "Incorrecto. La RAE codifica la gramática moderna, ajena a prohibiciones sobre recursos creativos de estructura narrativa medieval."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. El estilo didáctico de Patronio es de una impecable corrección formal acorde al español del siglo XIV."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La técnica del relato enmarcado (historias encajadas o cajas chinas) dota de dinamismo a las obras clásicas. Lejos de ser caótico, el cuento interior cumple una función pragmática y docente estrechamente ligada a las necesidades de la trama del marco exterior.",
       "difficulty": "10",
       "images": [],

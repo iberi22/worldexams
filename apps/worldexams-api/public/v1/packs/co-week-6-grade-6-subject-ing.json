@@ -8,89 +8,43 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W06-classroom-objects-001-v1",
-      "statement": "I write with my ________ in my notebook.",
-      "context": "Scenario about classroom-objects in a Colombian school or city context.",
+      "id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle-v1",
+      "statement": "Which word names the flat board where the teacher writes with chalk or marker?",
+      "context": "Clase de ingles de sexto grado en la que los estudiantes rotulan los objetos del aula.",
       "options": [
         {
-          "letter": "A",
-          "text": "window",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "letter": "C",
+          "text": "board",
+          "is_correct": true,
+          "feedback": "board is the standard name for the surface where you write in a classroom."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "desk",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "C",
-          "text": "pencil",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
-        },
-        {
-          "letter": "D",
-          "text": "board",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to remember the topic of Classroom Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
-      "bundle_id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 6,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-6-2026-W06-classroom-objects-002-v1",
-      "statement": "The teacher writes on the ________.",
-      "context": "Scenario about classroom-objects in a Colombian school or city context.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "backpack",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "desk is the table of the student or the teacher and not the vertical surface you write on."
         },
         {
           "letter": "B",
-          "text": "chair",
+          "text": "shelf",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "C",
-          "text": "board",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "shelf is the shelf that holds books and folders, and it is not used for writing."
         },
         {
           "letter": "D",
-          "text": "floor",
+          "text": "drawer",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "drawer is a desk drawer and is for storing things, not for writing in front of the group."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to remember the topic of Classroom Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
+      "explanation": "El vocabulario del aula distingue piezas con funciones distintas: la superficie de escritura compartida es the board, la mesa individual es the desk, el estante es the shelf y el cajon es the drawer. La palabra chalk board se usa cuando se especifica el material.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -100,43 +54,43 @@
       "country": "co"
     },
     {
-      "id": "CO-ING-6-2026-W06-classroom-objects-003-v1",
-      "statement": "Where do you study?",
-      "context": "Scenario about classroom-objects in a Colombian school or city context.",
+      "id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle-v2",
+      "statement": "Complete the sentence: \"The window is ___ the wall, next to the door.\"",
+      "context": "Ejercicio de descripcion de la distribucion del aula vista desde un puesto del estudiante.",
       "options": [
         {
           "letter": "A",
-          "text": "In the bed.",
+          "text": "in",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "in describes being inside something, and a window is set into the wall but not inside it."
         },
         {
           "letter": "B",
-          "text": "In the kitchen.",
+          "text": "under",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "C",
-          "text": "In the park.",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "under means below, and the window is at the height of the wall next to the door."
         },
         {
           "letter": "D",
-          "text": "In the classroom.",
+          "text": "on",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "on is used with vertical surfaces for flat, fixed elements such as a window or a picture."
+        },
+        {
+          "letter": "C",
+          "text": "between",
+          "is_correct": false,
+          "feedback": "between requires two elements on either side, and the phrase only mentions the door on the right."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to understand the topic of Classroom Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
-      "difficulty": "5",
+      "explanation": "Los elementos fijos del muro como ventanas, cuadros y pizarras se ubican con on the wall. La preposicion at the wall se reserva para acciones o criterios de distancia, y por eso no describe la posicion permanente de la ventana.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -146,43 +100,43 @@
       "country": "co"
     },
     {
-      "id": "CO-ING-6-2026-W06-classroom-objects-004-v1",
-      "statement": "What do you use to erase a mistake?",
-      "context": "Scenario about classroom-objects in a Colombian school or city context.",
+      "id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle-v3",
+      "statement": "Read: \"Please keep the classroom clean. Put the rubbish in the bin and return the books to the shelf.\" Where do the books go?",
+      "context": "Lectura de un aviso en la puerta del aula sobre el cuidado de los materiales.",
       "options": [
         {
           "letter": "A",
-          "text": "A book.",
+          "text": "To the bin",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "B",
-          "text": "A ruler.",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "C",
-          "text": "A sharpener.",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The notice sends the rubbish to the bin, and the books are a different object."
         },
         {
           "letter": "D",
-          "text": "An eraser.",
+          "text": "To the shelf",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "The second sentence of the notice says literally return the books to the shelf."
+        },
+        {
+          "letter": "B",
+          "text": "To the desk",
+          "is_correct": false,
+          "feedback": "The desk does not appear in the notice as a destination for the books."
+        },
+        {
+          "letter": "C",
+          "text": "To the window",
+          "is_correct": false,
+          "feedback": "The window is an element of the wall and not a storage place."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to understand the topic of Classroom Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
-      "difficulty": "5",
+      "explanation": "Los avisos suelen traer varias instrucciones encadenadas, y la pregunta apunta a una sola. Es preciso volver al segundo mandato del texto en lugar de responder con el primer objeto mencionado, que es la estrategia de descarte mas eficiente en estas lecturas.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -192,43 +146,43 @@
       "country": "co"
     },
     {
-      "id": "CO-ING-6-2026-W06-classroom-objects-005-v1",
-      "statement": "I carry my books in my ________.",
-      "context": "Scenario about classroom-objects in a Colombian school or city context.",
+      "id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle-v4",
+      "statement": "The classroom has twenty chairs and five computers. How many items are there in total?",
+      "context": "Ejercicio de cuantificacion de utiles para el inventario de la clase de tecnologia.",
       "options": [
         {
-          "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
-        },
-        {
           "letter": "B",
-          "text": "wallet",
+          "text": "Fifteen",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Fifteen would be the difference between twenty and five, and the exercise asks for the sum."
         },
         {
           "letter": "C",
-          "text": "pocket",
+          "text": "Twenty-five",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Twenty-five corresponds to adding the computers from another problem, not these two pieces of data."
+        },
+        {
+          "letter": "A",
+          "text": "Twenty-five, twenty plus five",
+          "is_correct": true,
+          "feedback": "20 + 5 = 25, and the option shows the operation that supports the total."
         },
         {
           "letter": "D",
-          "text": "pencil case",
+          "text": "Four",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Four counts the number of categories of objects mentioned, not the number of pieces."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to apply the topic of Classroom Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
-      "difficulty": "6",
+      "explanation": "Presentar la operacion dentro de la respuesta permite que el docente verifique el procedimiento y no solo el resultado. Cuando un total supera la decena, conviene descomponer la suma en dos pasos para evitar errores de calculo mental.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -238,89 +192,43 @@
       "country": "co"
     },
     {
-      "id": "CO-ING-6-2026-W06-classroom-objects-006-v1",
-      "statement": "The ________ helps students learn English.",
-      "context": "Scenario about classroom-objects in a Colombian school or city context.",
+      "id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle-v5",
+      "statement": "Which sentence is correct?",
+      "context": "Actividad de reflexion escrita sobre la importancia de cuidar los utiles escolares.",
       "options": [
         {
-          "letter": "A",
-          "text": "doctor",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
           "letter": "B",
-          "text": "chef",
+          "text": "The books is on the table.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The verb is agrees with a singular noun and books is plural."
         },
         {
           "letter": "C",
-          "text": "teacher",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
-        },
-        {
-          "letter": "D",
-          "text": "pilot",
+          "text": "A scissors is on the desk.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to apply the topic of Classroom Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
-      "bundle_id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle",
-      "periodo": 6,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 6,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-6-2026-W06-classroom-objects-007-v1",
-      "statement": "Where is the math class?",
-      "context": "Scenario about classroom-objects in a Colombian school or city context.",
-      "options": [
+          "feedback": "Scissors is a plural noun and therefore takes the verb are, not the verb is."
+        },
         {
           "letter": "A",
-          "text": "In the classroom.",
+          "text": "The scissors are on the desk.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
-        },
-        {
-          "letter": "B",
-          "text": "In the gym.",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "C",
-          "text": "In the bathroom.",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Scissors takes a plural form even though it is a single thing, and so the verb is are."
         },
         {
           "letter": "D",
-          "text": "In the cafeteria.",
+          "text": "The erasers is next to the glue.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Erasers is plural and needs the verb are to agree with the subject."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to apply the topic of Classroom Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
-      "difficulty": "7",
+      "explanation": "Scissors es un caso especial: la palabra suena en singular pero su forma es plural y concuerda con are. Este contenido suele aparecer en las pruebas de grado sexto porque los estudiantes ya conocen los utiles del aula pero todavia no han internalizado esa excepcion.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -330,43 +238,43 @@
       "country": "co"
     },
     {
-      "id": "CO-ING-6-2026-W06-classroom-objects-008-v1",
-      "statement": "What do you use to draw a straight line?",
-      "context": "Scenario about classroom-objects in a Colombian school or city context.",
+      "id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle-v6",
+      "statement": "Which question correctly asks about the quantity of notebooks in the room?",
+      "context": "Ejercicio de descripcion del inventario escolar en una presentacion oral.",
       "options": [
         {
-          "letter": "A",
-          "text": "A ruler.",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "letter": "B",
+          "text": "How much are the notebooks?",
+          "is_correct": false,
+          "feedback": "how much is used with uncountable nouns and notebooks is a countable object."
         },
         {
-          "letter": "B",
-          "text": "A pen.",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "letter": "A",
+          "text": "How many notebooks are there?",
+          "is_correct": true,
+          "feedback": "how many is used with countable nouns in the plural, and how many books are there follows the correct order."
         },
         {
           "letter": "C",
-          "text": "A scissors.",
+          "text": "How old is the notebook?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "That question asks for the age of a notebook, a question that makes no sense for an object."
         },
         {
           "letter": "D",
-          "text": "A glue.",
+          "text": "Where is the notebook?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "That question asks for a place and the prompt is looking for a quantity, not a location."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Classroom Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
-      "difficulty": "8",
+      "explanation": "La pareja How much y How many se decide por la propiedad del sustantivo, no por su traduccion. Los cuadernos se cuentan, de modo que corresponde How many, y el orden How many + sustantivo + verbo se memoriza como estructura fija.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -376,43 +284,43 @@
       "country": "co"
     },
     {
-      "id": "CO-ING-6-2026-W06-classroom-objects-009-v1",
-      "statement": "We eat lunch in the school ________.",
-      "context": "Scenario about classroom-objects in a Colombian school or city context.",
+      "id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle-v7",
+      "statement": "Read: \"Our English class is on Monday and Wednesday at nine in the morning.\" When is the English class?",
+      "context": "Lectura de un texto sobre el horario de una clase de ingles.",
       "options": [
         {
-          "letter": "A",
-          "text": "bus",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "letter": "B",
+          "text": "On Monday and Wednesday",
+          "is_correct": true,
+          "feedback": "The text gives those two specific days, and the other options do not appear in the timetable."
         },
         {
-          "letter": "B",
-          "text": "cafeteria",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "letter": "A",
+          "text": "On Monday only",
+          "is_correct": false,
+          "feedback": "Only would be the answer if the text named a single day, and here two appear."
         },
         {
           "letter": "C",
-          "text": "library",
+          "text": "On Wednesday at nine",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "That option mixes a correct day with a correct hour, but leaves out the other day of the timetable."
         },
         {
           "letter": "D",
-          "text": "office",
+          "text": "Every day at nine",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The timetable covers two days and not every day, so that generalisation is incorrect."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Classroom Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
-      "difficulty": "9",
+      "explanation": "Los horarios se comprueban dato por dato: dias, hora y lugar. Las opciones que coinciden en parte pero omiten informacion del texto son los distractores mas frecuentes, porque parecen correctas a primera vista y obligan a releer la oracion completa.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -422,43 +330,135 @@
       "country": "co"
     },
     {
-      "id": "CO-ING-6-2026-W06-classroom-objects-010-v1",
-      "statement": "You find many books in the school ________.",
-      "context": "Scenario about classroom-objects in a Colombian school or city context.",
+      "id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle-v8",
+      "statement": "Complete the sentence with the best preposition: \"The calculator is ___ the pencil case, next to the ruler.\"",
+      "context": "Actividad de asignacion de roles en el trabajo en grupo sobre los utiles del aula.",
       "options": [
         {
           "letter": "A",
-          "text": "library",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
-        },
-        {
-          "letter": "B",
-          "text": "lab",
+          "text": "in",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "in would mean the calculator is loose inside the pencil case and not beside the ruler."
         },
         {
           "letter": "C",
-          "text": "closet",
+          "text": "under",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "under would mean the calculator is below the pencil case, and the text places it beside the ruler."
         },
         {
           "letter": "D",
-          "text": "playground",
+          "text": "between",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "between requires two elements on both sides and the prompt gives only one reference, the ruler."
+        },
+        {
+          "letter": "B",
+          "text": "next to",
+          "is_correct": true,
+          "feedback": "next to expresses the immediate proximity between the calculator and the ruler, which is what the phrase describes."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to evaluate the topic of Classroom Objects at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\r\n\r\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "Las preposiciones de vecindad como next to y beside se combinan con una segunda referencia que el enunciado ya ofrece. En este caso next to the ruler es la unica opcion que reproduce la relacion horizontal y simultanea entre los dos objetos.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle-v9",
+      "statement": "Why should students take care of the supplies at school?",
+      "context": "Reflexion sobre el cuidado del medio ambiente aplicada a los utiles escolares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because supplies are cheap to replace",
+          "is_correct": false,
+          "feedback": "That is the opposite of the correct reason; if they were cheap to replace there would be no need to look after them."
+        },
+        {
+          "letter": "B",
+          "text": "Because they are shared and replacing them costs money",
+          "is_correct": true,
+          "feedback": "Everyone in the classroom uses the supplies and replacing them costs resources, and the prompt gives that reason."
+        },
+        {
+          "letter": "C",
+          "text": "Because the teacher watches them",
+          "is_correct": false,
+          "feedback": "The teacher's supervision explains the behaviour but is not the logical reason for caring for them."
+        },
+        {
+          "letter": "D",
+          "text": "Because supplies cannot be bought again",
+          "is_correct": false,
+          "feedback": "Saying they cannot be bought again is an exaggeration that the prompt does not support."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una pregunta de tipo Why exige una relacion causal defendible, no una costumbre. El mejor distractor suele ser el que invierte la logica del enunciado, y en este caso la inversion es precisamente la opcion A.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle-v10",
+      "statement": "Which sentence keeps the article and the verb consistent with a plural subject?",
+      "context": "Ejercicio de produccion escrita para un mural del aula sobre el inventario escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "We have three glue and two scissors.",
+          "is_correct": false,
+          "feedback": "Glue is uncountable and does not accept the numeral three in front of it, not even with a hyphen."
+        },
+        {
+          "letter": "B",
+          "text": "There is two rulers on the desk.",
+          "is_correct": false,
+          "feedback": "The verb is does not agree with the plural subject two rulers, and it must be are."
+        },
+        {
+          "letter": "C",
+          "text": "There are two rulers and a sharpener on the desk.",
+          "is_correct": true,
+          "feedback": "The verb are agrees with two rulers, and the singular sharpener is supported by the article a."
+        },
+        {
+          "letter": "D",
+          "text": "A books are in the shelf.",
+          "is_correct": false,
+          "feedback": "The article a cannot go with a plural noun such as books."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Revisar la concordancia entre el verbo y el sujeto es el control clave en estas oraciones de descripcion. Ademas, un sustantivo plural siempre requiere articulo plural como en The books, y los incontables como glue o paper no aceptan numeral delante.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",

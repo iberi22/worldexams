@@ -9,37 +9,37 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Carlos is arriving at school in Bogota at 7:00 AM. What should he say to his teacher?",
+      "context": "Read the situation and choose the correct English greeting or color.",
       "options": [
         {
-          "letter": "A",
-          "text": "accommodation",
+          "letter": "D",
+          "text": "Good morning!",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "Correct! 'Good morning' is the right greeting for early in the day when you arrive at school."
+        },
+        {
+          "letter": "A",
+          "text": "Good night!",
+          "is_correct": false,
+          "feedback": "'Good night' is used when you are going to sleep, not when you arrive at school in the morning."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "Goodbye!",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Goodbye' is what you say when you are leaving, not when you are just arriving."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "Good evening!",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Good evening' is used when it is getting dark outside, not at 7:00 AM."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "D",
+      "explanation": "The greeting 'Good morning' is used early in the day. It is the polite way to say hello to a teacher when arriving at school in the morning.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -55,36 +55,36 @@
     },
     {
       "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Maria sees a beautiful bright yellow flower in a park in Medellin. What color is the flower in English?",
+      "context": "Read the situation and choose the correct English greeting or color.",
       "options": [
         {
-          "letter": "A",
-          "text": "itinerary",
+          "letter": "D",
+          "text": "yellow",
           "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "feedback": "Correct! The color of the bright flower she saw is 'yellow'."
+        },
+        {
+          "letter": "A",
+          "text": "blue",
+          "is_correct": false,
+          "feedback": "'blue' is the color of the clear sky, not the bright color mentioned for this flower."
         },
         {
           "letter": "B",
-          "text": "baggage",
+          "text": "red",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'red' is the color of a strawberry or a stop sign, not the color of this bright flower."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "black",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'black' is the color of the night sky, not the bright color of the flower."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "The color 'yellow' is a bright color often seen on flowers like sunflowers. Learning basic color vocabulary is essential for describing the world around us.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -101,37 +101,37 @@
     },
     {
       "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Juan is leaving his friend's house in Cali after playing all afternoon. What should he say as he walks out the door?",
+      "context": "Read the situation and choose the correct English greeting or color.",
       "options": [
         {
-          "letter": "A",
-          "text": "destination",
+          "letter": "D",
+          "text": "Goodbye!",
           "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "feedback": "Correct! 'Goodbye' is the appropriate farewell to use when you are leaving a place or parting ways with someone."
+        },
+        {
+          "letter": "A",
+          "text": "Hello!",
+          "is_correct": false,
+          "feedback": "'Hello' is a greeting used when you arrive or meet someone, not when you leave."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "Good morning!",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Good morning' is a greeting for the early part of the day, not a farewell when leaving in the afternoon."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "Welcome!",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Welcome' is used to greet someone who is arriving at your home, not when you are the one leaving."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "D",
+      "explanation": "'Goodbye' is a common farewell used when parting from someone. It is important to know the difference between greetings (like hello) and farewells (like goodbye).\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -147,36 +147,36 @@
     },
     {
       "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Sofia is looking at the clear sky while walking in Cartagena. What color is the sky in English?",
+      "context": "Read the situation and choose the correct English greeting or color.",
       "options": [
         {
-          "letter": "A",
-          "text": "luggage",
+          "letter": "D",
+          "text": "blue",
           "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "feedback": "Correct! 'blue' is the color of the clear sky on a sunny day."
+        },
+        {
+          "letter": "A",
+          "text": "green",
+          "is_correct": false,
+          "feedback": "'green' is the color of grass or leaves, not the clear sky."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "yellow",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'yellow' is the color of the sun, but the sky itself is not yellow during the day."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "orange",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'orange' can be seen at sunset, but a typical clear sky is not orange."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "The word 'blue' describes the color of a clear daytime sky or the ocean. Recognizing colors helps us describe our environment accurately.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -193,37 +193,37 @@
     },
     {
       "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "It is 9:00 PM and Luis is going to bed in his house in Bogota. What should he say to his family before sleeping?",
+      "context": "Read the situation and choose the correct English greeting or color.",
       "options": [
         {
-          "letter": "A",
-          "text": "passenger",
+          "letter": "D",
+          "text": "Good night!",
           "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "feedback": "Correct! 'Good night' is the phrase we use right before going to sleep or parting ways late in the evening."
+        },
+        {
+          "letter": "A",
+          "text": "Good morning!",
+          "is_correct": false,
+          "feedback": "'Good morning' is for when you wake up or early in the day, not when going to sleep."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "Hello!",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Hello' is for greeting someone, not for saying goodbye before bed."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "Good afternoon!",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Good afternoon' is used in the middle of the day, not late at night."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "D",
+      "explanation": "'Good night' is a specific farewell used only late in the evening or right before going to bed. It is different from 'Good evening', which is used as a greeting when arriving somewhere late in the day.\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Ana is drawing a picture of the grass in a park in Medellin. What color should she use for the grass?",
+      "context": "Read the situation and choose the correct English greeting or color.",
       "options": [
         {
-          "letter": "A",
-          "text": "customs",
+          "letter": "B",
+          "text": "green",
           "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "feedback": "Correct! 'green' is the color of healthy grass and leaves on trees."
         },
         {
-          "letter": "B",
-          "text": "security",
+          "letter": "A",
+          "text": "red",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'red' is the color of an apple, but grass is not typically red."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "blue",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'blue' is the color of the sky, not the grass."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "purple",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'purple' is the color of some flowers, but not the color of grass in a park."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "The color 'green' is strongly associated with nature, especially grass and leaves. Knowing basic colors allows students to accurately describe objects and nature.\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -285,37 +285,37 @@
     },
     {
       "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Mateo meets his new English teacher for the first time in Cali. He wants to be polite and friendly. Which phrase is best to start the conversation?",
+      "context": "Read the situation and choose the correct English greeting or color.",
       "options": [
         {
-          "letter": "A",
-          "text": "boarding pass",
+          "letter": "B",
+          "text": "Hello!",
           "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "feedback": "Correct! 'Hello!' is the most common and friendly way to greet someone when you first meet them."
         },
         {
-          "letter": "B",
-          "text": "visa",
+          "letter": "A",
+          "text": "Goodbye!",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Goodbye!' is for when you are leaving, not when you are starting a conversation."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "See you!",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'See you!' is an informal way to say goodbye, not a way to introduce yourself."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "Good night!",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Good night!' is used when parting ways to go to sleep, not when meeting someone."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "'Hello!' is a versatile and polite greeting suitable for starting a conversation with anyone, including a new teacher. It is the fundamental building block of English communication.\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -331,36 +331,36 @@
     },
     {
       "id": "CO-ING-3-2026-W05-repaso-p1-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Valeria is looking at a traditional chiva bus in Cartagena. It has a bright color similar to a ripe strawberry or a stop sign. What color is it?",
+      "context": "Read the situation and choose the correct English greeting or color.",
       "options": [
         {
-          "letter": "A",
-          "text": "sightseeing",
+          "letter": "B",
+          "text": "red",
           "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "feedback": "Correct! 'red' is the color of a strawberry and a stop sign."
         },
         {
-          "letter": "B",
-          "text": "shopping",
+          "letter": "A",
+          "text": "blue",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'blue' is the color of the ocean, not the color of a ripe strawberry."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "yellow",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'yellow' is the color of a banana, not a strawberry."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "green",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'green' is the color of grass, not the bright color described for the stop sign."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "correct_answer": "B",
+      "explanation": "The color 'red' is vivid and often used for important signs or found in ripe fruits like strawberries. Connecting colors to familiar objects helps reinforce vocabulary.",
       "difficulty": "10",
       "images": [],
       "tags": [],

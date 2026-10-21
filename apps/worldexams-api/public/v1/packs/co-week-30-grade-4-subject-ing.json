@@ -8,88 +8,42 @@
   },
   "questions": [
     {
-      "id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-v1",
-      "statement": "The cat is ________ the table.",
-      "context": "Learning about prepositions of place in English class.",
+      "id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-bundle-v1",
+      "statement": "Look at the picture: the closed book is resting on top of the school desk. Which preposition completes the sentence? \"The book is ___ the desk.\"",
+      "context": "Clase de ingles de cuarto grado en la que los estudiantes describen donde dejan sus objetos.",
       "options": [
         {
           "letter": "A",
-          "text": "under",
+          "text": "on",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "on indicates that an object rests on a surface and touches it, which is exactly what the picture shows."
         },
         {
           "letter": "B",
-          "text": "between",
+          "text": "in",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "in means inside something closed; the book is on top of the desk, not inside it."
         },
         {
           "letter": "C",
-          "text": "among",
+          "text": "under",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "under means below something; the book is on the desk and not underneath it."
         },
         {
           "letter": "D",
-          "text": "through",
+          "text": "at",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "at is used for precise points such as a corner or a meeting point, not for a whole surface."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question evaluates remember skills regarding prepositions of place at the CEFR A1 level.\r\n\r\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y representación",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 4,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-v2",
-      "statement": "The book is ________ the desk.",
-      "context": "Learning about prepositions of place in English class.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "into",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "B",
-          "text": "on",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "C",
-          "text": "at",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "D",
-          "text": "in",
-          "is_correct": false,
-          "feedback": "No."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates understand skills regarding prepositions of place at the CEFR A1 level.\r\n\r\n---",
+      "explanation": "on, in y under son las tres preposiciones de lugar del nivel A1. La diferencia esta en la posicion: on es encima y en contacto, in es dentro y under es debajo. Para escoger la correcta hay que preguntar si el objeto toca la superficie, si esta dentro de ella o si queda por debajo.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Comunicación y representación",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-bundle",
       "periodo": 30,
@@ -100,88 +54,180 @@
       "country": "co"
     },
     {
-      "id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-v3",
-      "statement": "The pencil is ________ the pencil case.",
-      "context": "Learning about prepositions of place in English class.",
+      "id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-bundle-v2",
+      "statement": "The little cat is lying below the bed, not on it. Which preposition fits? \"The cat is ___ the bed.\"",
+      "context": "Actividad de descripcion oral donde cada estudiante ubica un objeto en el aula.",
       "options": [
         {
           "letter": "A",
-          "text": "above",
+          "text": "on",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "on describes something resting on top; the cat is on the floor, below the bed, not on top of it."
+        },
+        {
+          "letter": "B",
+          "text": "under",
+          "is_correct": true,
+          "feedback": "under means below something, and the sentence says explicitly that the cat is below the bed."
+        },
+        {
+          "letter": "C",
+          "text": "between",
+          "is_correct": false,
+          "feedback": "between requires two elements on each side, like between the bed and the table; here there is only one reference."
+        },
+        {
+          "letter": "D",
+          "text": "near",
+          "is_correct": false,
+          "feedback": "near only says that something is close by, without saying whether it is above, below or beside."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "under se usa cuando un objeto queda por debajo de otro, haya contacto o no. near es una preposicion de aproximacion: dice que algo esta en la misma zona pero no aclara la direccion. En este caso el enunciado ya confirma la posicion vertical, asi que la unica opcion exacta es under.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-bundle-v3",
+      "statement": "Complete the sentence with the right preposition: \"My mother is ___ the kitchen. She is cooking lunch.\"",
+      "context": "Ejercicio escrito donde los estudiantes narran que hace su madre en cada lugar de la casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "at is used with small places or reference points; a kitchen is a closed space, so in is used."
+        },
+        {
+          "letter": "B",
+          "text": "on",
+          "is_correct": false,
+          "feedback": "on indicates support on a surface; here there is no surface but an interior space."
+        },
+        {
+          "letter": "C",
+          "text": "in",
+          "is_correct": true,
+          "feedback": "in describes being inside a closed space, such as a kitchen or a bedroom."
+        },
+        {
+          "letter": "D",
+          "text": "under",
+          "is_correct": false,
+          "feedback": "under means below something; there is no object under which the mother would be."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los lugares de la casa, la escuela y el trabajo son los sustantivos mas frecuentes con in: in the kitchen, in the bedroom, in the classroom. La diferencia clave es que in necesita un espacio con interior, mientras que at se reserva para puntos geograficos o para una parte concreta como at the door.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-bundle-v4",
+      "statement": "The students put the poster flat against the wall, in a vertical position. Which preposition describes that? \"The poster is ___ the wall.\"",
+      "context": "Clase de decoracion del aula donde los estudiantes ubican los carteles en la pared.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "in would be for something built into the wall, but the poster is in view, not embedded."
         },
         {
           "letter": "B",
           "text": "under",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "under indicates being below something; the poster is at the height of the wall, not under the floor."
         },
         {
           "letter": "C",
-          "text": "in",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "text": "above",
+          "is_correct": false,
+          "feedback": "above needs a higher point of comparison, and here a fixed position on the wall is being sought."
         },
         {
           "letter": "D",
           "text": "on",
-          "is_correct": false,
-          "feedback": "No."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates apply skills regarding prepositions of place at the CEFR A1 level.\r\n\r\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y representación",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 4,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-v4",
-      "statement": "The teacher is standing ________ the board.",
-      "context": "Learning about prepositions of place in English class.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "behind",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "B",
-          "text": "on top of",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "C",
-          "text": "inside",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "D",
-          "text": "in front of",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "on is used for flat objects resting on a vertical surface, such as a poster or a picture."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question evaluates analyze skills regarding prepositions of place at the CEFR A1 level.\r\n\r\n---",
-      "difficulty": "6",
+      "explanation": "Aunque on suele aparecer en trabajos de clase, tambien se usa con superficies verticales para objetos planos y delgados como carteles, cuadros, espejos y calendarios. En espanol la palabra \"en\" no distingue entre superficie horizontal y vertical, y ese es el motivo de error mas comun en cuarto grado.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Comunicación y representación",
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-bundle-v5",
+      "statement": "Choose the correct preposition: \"We are ___ school. Our English class is in room two.\"",
+      "context": "Dialogo de bienvenida donde un estudiante nuevo pregunta por lugares de la escuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "at",
+          "is_correct": true,
+          "feedback": "at school is the fixed English way to say that someone is at an educational centre, without naming the classroom."
+        },
+        {
+          "letter": "B",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "in would be used with in the classroom or in the library, but not with the word school on its own."
+        },
+        {
+          "letter": "C",
+          "text": "on",
+          "is_correct": false,
+          "feedback": "on school does not exist in English; that sequence only appears in compound words such as online."
+        },
+        {
+          "letter": "D",
+          "text": "to",
+          "is_correct": false,
+          "feedback": "to indicates destination or movement, and here the sentence describes a stable position."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Hay combinaciones fijas que hay que memorizar como chunk: at school, at home, at work. Cuando se nombra un lugar dentro del centro educativo se cambia a in the classroom o in the library. Por eso la respuesta depende de si el enunciado nombra el centro completo o un espacio concreto dentro de el.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-bundle",
       "periodo": 30,
@@ -192,180 +238,134 @@
       "country": "co"
     },
     {
-      "id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-v5",
-      "statement": "The ball is ________ the two boxes.",
-      "context": "Learning about prepositions of place in English class.",
+      "id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-bundle-v6",
+      "statement": "The pencils, the eraser and the ruler are all inside the same container. Which preposition fits? \"The pencils are ___ the pencil case.\"",
+      "context": "Rutina de organizacion del material escolar al inicio de la semana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "on",
+          "is_correct": false,
+          "feedback": "on would indicate the pencils are resting on top of the pencil case, which does not happen."
+        },
+        {
+          "letter": "B",
+          "text": "in",
+          "is_correct": true,
+          "feedback": "in describes being inside a container, and the pencil case is a container that holds the objects."
+        },
+        {
+          "letter": "C",
+          "text": "above",
+          "is_correct": false,
+          "feedback": "above only compares heights and also needs a higher referent, like above the desk."
+        },
+        {
+          "letter": "D",
+          "text": "between",
+          "is_correct": false,
+          "feedback": "between requires two elements that separate it, like between the book and the bag."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las preposiciones de lugar no dependen solo de lo que hay arriba o abajo, sino de la relacion espacial completa. Un recipiente como cartuchera, caja, bolso o maleta se expresa con in. Un apoyo plano como mesa, silla o estante se expresa con on, aunque no haya contacto visible.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-bundle-v7",
+      "statement": "Read: \"The dog sleeps under the table because the floor is hot.\" What does the sentence tell us about the dog's position?",
+      "context": "Lectura de un texto corto sobre la vida de una mascota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The dog is above the table.",
+          "is_correct": false,
+          "feedback": "above says the dog is higher than the table, and in the text it is clearly lower."
+        },
+        {
+          "letter": "B",
+          "text": "The dog is next to the table.",
+          "is_correct": false,
+          "feedback": "next to only indicates they are side by side, but the text says it is below."
+        },
+        {
+          "letter": "C",
+          "text": "The dog is below the table.",
+          "is_correct": true,
+          "feedback": "under and below describe the same vertical relationship: what is underneath, and the dog avoids the hot floor."
+        },
+        {
+          "letter": "D",
+          "text": "The dog is inside the table.",
+          "is_correct": false,
+          "feedback": "inside describes a closed space such as a box; a piece of furniture has no interior where a dog could fit."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "under y below se usan como sinonimos en la mayoria de los contextos. Comprender la relacion vertical antes de escoger la preposicion evita el error tipico de traducir automaticamente la preposicion \"bajo\" del espanol como down en lugar de under.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-bundle-v8",
+      "statement": "Complete the sentence: \"My school bag is ___ the chair. I put it there before I left.\"",
+      "context": "Ejercicio de aseo donde los estudiantes guardan sus pertenencias.",
       "options": [
         {
           "letter": "A",
           "text": "between",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "is_correct": false,
+          "feedback": "between requires two objects on the sides; here there is only one chair as a reference."
         },
         {
           "letter": "B",
-          "text": "on",
+          "text": "under",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "under would mean the bag ended up below the chair, and the text does not say that."
         },
         {
           "letter": "C",
-          "text": "in",
+          "text": "near",
           "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "D",
-          "text": "at",
-          "is_correct": false,
-          "feedback": "No."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates evaluate skills regarding prepositions of place at the CEFR A1 level.\r\n\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Comunicación y representación",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 4,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-v6",
-      "statement": "The dog is ________ the house.",
-      "context": "Learning about prepositions of place in English class.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "below",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "B",
-          "text": "inside",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "C",
-          "text": "above",
-          "is_correct": false,
-          "feedback": "No."
+          "feedback": "near does not pin down the position; it could be beside it, on the floor or on the chair."
         },
         {
           "letter": "D",
           "text": "on",
-          "is_correct": false,
-          "feedback": "No."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates apply skills regarding prepositions of place at the CEFR A1 level.\r\n\r\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Comunicación y representación",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 4,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-v7",
-      "statement": "The tree is ________ the house.",
-      "context": "Learning about prepositions of place in English class.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "on",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "B",
-          "text": "at",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "C",
-          "text": "next to",
           "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "D",
-          "text": "in",
-          "is_correct": false,
-          "feedback": "No."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates understand skills regarding prepositions of place at the CEFR A1 level.\r\n\r\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Comunicación y representación",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 4,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-v8",
-      "statement": "The student is ________ the teacher.",
-      "context": "Learning about prepositions of place in English class.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "on",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "B",
-          "text": "in",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "C",
-          "text": "above",
-          "is_correct": false,
-          "feedback": "No."
-        },
-        {
-          "letter": "D",
-          "text": "behind",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "on is the preposition for objects that rest on the surface of another object, like a bag on a chair."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question evaluates remember skills regarding prepositions of place at the CEFR A1 level.\r\n\r\n---",
-      "difficulty": "10",
+      "explanation": "La eleccion entre on, in y under se hace preguntando por la relacion del objeto con la superficie: contacto por encima, contacto por dentro o por debajo. near, between y above son opciones de aproximacion o de relacion multiple y por eso casi nunca sirven cuando el enunciado ya describe una posicion concreta.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Comunicación y representación",
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-4-2026-W30-prepositions-place-001-MASTERY-bundle",
       "periodo": 30,

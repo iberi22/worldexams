@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. Los ángulos solo dan la dirección, pero no la posición en el espacio."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Un punto por el que pasa y un vector director (o dos puntos distintos).",
           "is_correct": true,
           "feedback": "Correcto. El punto establece la posición y el vector director establece la inclinación y orientación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Tres puntos cualesquiera.",
           "is_correct": false,
           "feedback": "Incorrecto. Si no son colineales, tres puntos definen un plano, no una recta."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Esta ecuación representa un plano, no una recta en R³."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Definición geométrica de la recta en R³ basada en la traslación de un punto a lo largo de una dirección vectorial.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Formas de la ecuación de la recta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$ax + by + cz = d$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la forma general de un plano."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = x_0 + at, y = y_0 + bt, z = z_0 + ct$",
           "is_correct": true,
           "feedback": "Correcto. Cada coordenada se expresa en función de un parámetro real $t$."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Esta forma solo es válida para rectas en el plano bidimensional."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Identificación de las diferentes representaciones analíticas de una recta en el espacio, centrándose en la forma paramétrica.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Una tubería de agua en una construcción en Guayaquil sigue una trayectoria recta que pasa por $(1, 2, 3)$ y $(4, 2, 5)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(5, 4, 8)$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó las coordenadas en lugar de restarlas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(3, 0, 2)$",
           "is_correct": true,
           "feedback": "Correcto. Se obtiene restando las coordenadas de los puntos: $(4-1, 2-2, 5-3) = (3, 0, 2)$."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Error en la resta de la componente y."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Cálculo del vector director a partir de dos puntos conocidos, fundamental para construir la ecuación de la recta.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. Los vectores contenidos son perpendiculares a este vector."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Un vector normal (perpendicular) al plano.",
           "is_correct": true,
           "feedback": "Correcto. Los coeficientes de las variables definen la orientación del plano mediante su normal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El punto de intersección con el origen.",
           "is_correct": false,
           "feedback": "Incorrecto. El origen solo pertenece al plano si $d=0$."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Los planos en el espacio no se describen con una única pendiente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Identificación del vector normal como el elemento definitorio de la orientación de un plano en el espacio tridimensional.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. Usó el punto como normal."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$4x + 5y + 6z = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. Este plano pasa por el origen, no por el punto P."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$4x + 5y + 6z = 32$",
           "is_correct": true,
           "feedback": "Correcto. $4(1) + 5(2) + 6(3) = 4 + 10 + 18 = 32$."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Error en la suma de los productos punto."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Construcción de la ecuación general del plano aplicando el producto escalar entre el vector normal y un vector genérico del plano.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -295,19 +295,19 @@
           "feedback": "Incorrecto. Este es el corte con el eje x."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$(0, 0, 3)$",
           "is_correct": true,
           "feedback": "Correcto. En el eje z, $x=0$ e $y=0$. Entonces $4z = 12 \\Rightarrow z = 3$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(0, 0, -4)$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la división o en el signo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Determinación de las intersecciones de un plano con los ejes coordenados mediante la anulación de las variables restantes.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "Un panel solar en una hacienda en Ambato está orientado según el plano $x + y + z = 10$. Una viga de soporte sigue la recta perpendicular al panel que pasa por el origen.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$(1, 1, 1)$",
           "is_correct": true,
           "feedback": "Correcto. Si la recta es perpendicular al plano, su vector director debe ser paralelo (o igual) al vector normal del plano."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(10, 10, 10)$",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque tiene la misma dirección, no es la forma simplificada del normal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(-1, -1, -1)$",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque también es perpendicular, el normal estándar se toma de los coeficientes positivos."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Este vector no es normal al plano dado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comprensión de la relación de perpendicularidad entre rectas y planos utilizando vectores directores y normales.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Incorrecto. Olvidó dividir por la magnitud de la normal."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "2",
           "is_correct": true,
           "feedback": "Correcto. Distancia = $\\frac{|3(0) + 4(0) - 10|}{\\sqrt{3^2 + 4^2}} = \\frac{10}{5} = 2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2.5",
           "is_correct": false,
           "feedback": "Incorrecto. Error en el cálculo de la raíz cuadrada."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. El origen no pertenece al plano ($0 \\neq 10$)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Aplicación de la fórmula de distancia punto-plano para calcular la separación mínima en el espacio.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrecto. Las secantes se cortan en un punto."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Rectas coincidentes.",
           "is_correct": false,
           "feedback": "Incorrecto. Estas son la misma recta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Rectas que se cruzan (o alabeadas).",
           "is_correct": true,
           "feedback": "Correcto. Esta es una situación exclusiva del espacio R³ donde las rectas están en planos diferentes."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. La ortogonalidad no excluye que las rectas sean secantes."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Diferenciación entre las posiciones relativas de rectas en el espacio, introduciendo el concepto de rectas alabeadas.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrecto. La suma $1+2+3=6 \\neq 12$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "(2, 2, 2)",
           "is_correct": true,
           "feedback": "Correcto. Sustituyendo en el plano: $t + 2t + 3t = 12 \\Rightarrow 6t = 12 \\Rightarrow t = 2$. Punto $(2, 2, 2)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(3, 3, 3)",
           "is_correct": false,
           "feedback": "Incorrecto. La suma $3+6+9=18 \\neq 12$."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. La recta no es paralela al plano."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Resolución de sistemas mixtos (recta-plano) mediante la sustitución de las expresiones paramétricas en la ecuación general del plano.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. El cambio de signo en y cambia la dirección de la normal."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$4x - 2y + 6z = 10$",
           "is_correct": true,
           "feedback": "Correcto. La normal $(4, -2, 6)$ es exactamente el doble de $(2, -1, 3)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x - y + z = 4$",
           "is_correct": false,
           "feedback": "Incorrecto. Normales no proporcionales."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Al cambiar el signo de la componente y, el vector normal deja de ser paralelo al original."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Identificación de paralelismo entre superficies mediante la comparación de sus coeficientes directores (vectores normales).\n\n---",
       "difficulty": "7",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Incorrecto. No pasa por ninguno de los puntos dados."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x + y + z = 1$",
           "is_correct": true,
           "feedback": "Correcto. Al sustituir cada punto $(1,0,0), (0,1,0), (0,0,1)$ se cumple la igualdad $1=1$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x + y + z = 3$",
           "is_correct": false,
           "feedback": "Incorrecto. Suma de coordenadas incorrecta para los puntos dados."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$xyz = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta no es una ecuación lineal y no representa un plano."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Uso de la forma segmentaria del plano para determinar superficies que cortan a los ejes en unidades específicas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrecto. Eso ocurre en la intersección de tres planos o recta-plano."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Una recta.",
           "is_correct": true,
           "feedback": "Correcto. La solución de un sistema de dos ecuaciones con tres incógnitas suele tener un grado de libertad (parámetro)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Otro plano.",
           "is_correct": false,
           "feedback": "Incorrecto. Solo si los planos son coincidentes."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. La intersección de superficies lineales siempre es lineal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Interpretación de los sistemas de ecuaciones lineales desde una perspectiva geométrica espacial.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrecto. El producto escalar ayuda a hallar la proyección, pero la distancia requiere más pasos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La magnitud del producto vectorial entre el vector director y el vector $P_0P$.",
           "is_correct": true,
           "feedback": "Correcto. La fórmula $d = \\frac{|\\vec{v} \\times \\vec{P_0P}|}{|\\vec{v}|}$ da la distancia perpendicular."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La suma de las distancias a los ejes.",
           "is_correct": false,
           "feedback": "Incorrecto. No considera la orientación de la recta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El determinante de la matriz de posición.",
           "is_correct": false,
           "feedback": "Incorrecto. El determinante por sí solo no da una distancia lineal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Uso de herramientas vectoriales avanzadas para resolver problemas de métrica en el espacio tridimensional.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrecto. Pueden ser perpendiculares y estar a diferentes alturas (alabeadas)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que el determinante formado por sus vectores directores y el vector entre sus puntos de paso sea cero.",
           "is_correct": true,
           "feedback": "Correcto. Esto indica que los tres vectores son coplanares, obligando a las rectas a estar en el mismo plano y cortarse."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que pasen por el origen.",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es una condición suficiente pero no necesaria."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. La magnitud de los vectores directores no afecta la intersección."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Aplicación del triple producto escalar para verificar la coplanaridad y existencia de intersecciones entre líneas en R³.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Distancia entre dos rectas alabeadas. Sean $r_1$ con punto $P_1$ y director $\\vec{v_1}$, y $r_2$ con punto $P_2$ y director $\\vec{v_2}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$d = \\frac{|(\\vec{v_1} \\times \\vec{v_2}) \\cdot \\vec{P_1P_2}|}{|\\vec{v_1} \\times \\vec{v_2}|}$",
           "is_correct": true,
           "feedback": "Correcto. Es la proyección del vector entre puntos sobre la normal común a ambas rectas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$d = |\\vec{P_1P_2}|$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la distancia entre dos puntos específicos, no el mínimo entre las rectas."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Fórmula sin sentido físico para distancias entre rectas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Uso del triple producto escalar y el producto vectorial para determinar la separación mínima entre líneas no paralelas en un entorno tridimensional.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Incorrecto. El plano debe contener la recta y no puede ser el mismo plano XY si debe ser perpendicular a él."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x - y = 0$",
           "is_correct": true,
           "feedback": "Correcto. Contiene a la recta (si $x=y=t, z=0$, entonces $t-t=0$). Su normal $(1, -1, 0)$ es perpendicular a la normal de $z=0$ (que es $(0,0,1)$), ya que $(1,-1,0) \\cdot (0,0,1) = 0$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x + y = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. No contiene a la recta para valores positivos de $t$."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. No contiene a la componente y de la recta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Resolución de problemas de determinación de planos bajo condiciones mixtas de contención y ortogonalidad respecto a otras superficies.",
       "difficulty": "10",
       "images": [],
