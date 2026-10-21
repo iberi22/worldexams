@@ -2,7 +2,8 @@
   import { onMount, onDestroy } from 'svelte';
   import MathRenderer from '../MathRenderer.svelte';
   import FlashlightCard from '../FlashlightCard.svelte';
-  import { startRanked, submitRanked, RANKED_MIN_ANSWERED, RANKED_TOTAL_QUESTIONS, RANKED_DURATION_S, expiresAtMs, loadActiveRankedSession, clearActiveRankedSession, saveActiveRankedSession, type RankedQuestion, type ActiveRankedSession, type RankedAnswer, type RankedSubmitResponse, type IntegritySummary } from '../../lib/ranked/ranked-client';
+  import { startRanked, submitRanked, rankedErrorMessage, RANKED_ERROR_MESSAGES, RANKED_MIN_ANSWERED, RANKED_TOTAL_QUESTIONS, RANKED_DURATION_S, expiresAtMs, loadActiveRankedSession, clearActiveRankedSession, saveActiveRankedSession, type RankedQuestion, type ActiveRankedSession, type RankedAnswer, type RankedSubmitResponse, type IntegritySummary } from '../../lib/ranked/ranked-client';
+  import { DwellTimeTracker } from '../../lib/ranked/dwell-time';
   import { BehaviorAnalyzer } from '../../lib/anti-cheat/behavior-analysis';
   import { createFocusTracker, type FocusTracker } from '../../lib/focus-tracker';
 
@@ -29,7 +30,7 @@
   // Timer state
   let timeLeft = $state(60 * 60); // 60 minutes
   let timer: ReturnType<typeof setInterval> | null = null;
-  let questionStartTime = $state(Date.now());
+  let dwellTracker: DwellTimeTracker | null = null;
 
   let currentQuestion = $derived(questions[currentIdx]);
   let selectedOption = $derived(answers[currentQuestion?.id]?.letter || null);
@@ -42,11 +43,37 @@
   let fullscreenExits = $state(0);
   let focusWarningTimeout: ReturnType<typeof setTimeout> | null = null;
 
-  // Submit & Result state
+  // Start & Submit & Result state
+  let startError = $state<string | null>(null);
   let submitConfirmVisible = $state(false);
   let isSubmitting = $state(false);
   let submitError = $state<string | null>(null);
   let submitResult = $state<RankedSubmitResponse | null>(null);
+
+  /**
+   * Translates a client error into Spanish copy. The lookup is defensive on
+   * purpose: the raw English messages produced by `ranked-client` ("Already
+   * submitted", "HTTP error! status: 500") must never reach the student, and a
+   * partially mocked client module must not break the UI either.
+   */
+  function toUserMessage(err: unknown, fallback: string): string {
+    const code = (err as { code?: unknown } | null | undefined)?.code;
+    if (typeof code === 'string') {
+      try {
+        const helper = rankedErrorMessage as unknown as ((c: string) => string) | undefined;
+        if (typeof helper === 'function') return helper(code);
+      } catch {
+        // `ranked-client` mocked without the helper: fall through to the map.
+      }
+      try {
+        const map = RANKED_ERROR_MESSAGES as unknown as Record<string, string> | undefined;
+        if (map && typeof map[code] === 'string') return map[code];
+      } catch {
+        // `ranked-client` mocked without the message map: use the fallback.
+      }
+    }
+    return fallback;
+  }
 
   function formatTime(s: number) {
     if (s <= 0) return '00:00';
@@ -76,6 +103,8 @@
   }
 
   async function startExam() {
+    startError = null;
+
     try {
       if (document.documentElement.requestFullscreen) {
         await document.documentElement.requestFullscreen();
@@ -94,27 +123,42 @@
            answers[a.questionId] = a;
         });
 
+        currentIdx = session.currentIdx ?? 0;
+
         const expiresAt = expiresAtMs(session.expiresAt);
         const now = Date.now();
         timeLeft = Math.max(0, Math.min(RANKED_DURATION_S, Math.floor((expiresAt - now) / 1000)));
+
+        dwellTracker = session.dwell
+          ? DwellTimeTracker.restore(session.dwell)
+          : new DwellTimeTracker();
       } else {
         const startRes = await startRanked(nickname);
         questions = startRes.questions;
         sessionId = startRes.sessionId;
+        currentIdx = 0;
 
         const expiresAt = expiresAtMs(startRes.expiresAt);
         const now = Date.now();
         timeLeft = Math.max(0, Math.min(RANKED_DURATION_S, Math.floor((expiresAt - now) / 1000)));
 
+        dwellTracker = new DwellTimeTracker();
+
         saveActiveRankedSession({
            sessionId: startRes.sessionId,
            expiresAt: startRes.expiresAt,
            questions: startRes.questions,
-           answers: []
+           answers: [],
+           currentIdx: 0,
+           dwell: dwellTracker.serialize()
         });
       }
 
-      questionStartTime = Date.now();
+      const firstId = questions[currentIdx]?.id;
+      if (firstId) {
+        dwellTracker?.enter(firstId, Date.now());
+      }
+      persistSession();
 
       if (timeLeft > 0) {
         timer = setInterval(() => {
@@ -139,12 +183,30 @@
       });
 
       document.addEventListener('fullscreenchange', handleFullscreenChange);
+      document.addEventListener('visibilitychange', handleVisibilityChange);
+      window.addEventListener('pagehide', handlePageHide);
 
       phase = 'exam';
     } catch (e) {
       console.error("Failed to start ranked exam", e);
-      alert("Error al iniciar el examen. Intenta de nuevo.");
+      startError = toUserMessage(e, 'No se pudo iniciar el examen. Intenta de nuevo.');
     }
+  }
+
+  function handleVisibilityChange() {
+    if (phase !== 'exam' || !dwellTracker) return;
+    if (document.visibilityState === 'hidden') {
+      dwellTracker.pause(Date.now());
+      persistSession();
+    } else if (document.visibilityState === 'visible') {
+      dwellTracker.resume(Date.now());
+    }
+  }
+
+  function handlePageHide() {
+    if (phase !== 'exam' || !dwellTracker) return;
+    dwellTracker.pause(Date.now());
+    persistSession();
   }
 
   function handleTimeUp() {
@@ -154,34 +216,48 @@
 
   function handleSelect(letter: string) {
      const now = Date.now();
-     const ms = now - questionStartTime;
+     // Monotonic visible time: re-selecting an answer never lowers the ms.
+     const ms = dwellTracker ? dwellTracker.total(currentQuestion.id, now) : 0;
      answers[currentQuestion.id] = { questionId: currentQuestion.id, letter, ms };
 
      if (behaviorAnalyzer) {
        behaviorAnalyzer.recordAnswer(letter, now);
      }
 
-     let session = loadActiveRankedSession();
-     if (session) {
-        session.answers = Object.values(answers);
-        saveActiveRankedSession(session);
-     }
+     persistSession();
+  }
+
+  function persistSession() {
+     if (!sessionId) return;
+     const session = loadActiveRankedSession();
+     if (!session) return;
+     session.answers = Object.values(answers);
+     session.currentIdx = currentIdx;
+     if (dwellTracker) session.dwell = dwellTracker.serialize(Date.now());
+     saveActiveRankedSession(session);
   }
 
   function goPrev() {
      if (currentIdx > 0) {
         currentIdx--;
-        questionStartTime = Date.now();
+        dwellTracker?.enter(questions[currentIdx].id, Date.now());
+        persistSession();
      }
   }
 
   function goNext() {
      if (currentIdx < questions.length - 1) {
         currentIdx++;
-        questionStartTime = Date.now();
-     } else {
-        triggerSubmit(false);
+        dwellTracker?.enter(questions[currentIdx].id, Date.now());
+        persistSession();
      }
+  }
+
+  function goTo(idx: number) {
+     if (idx === currentIdx) return;
+     currentIdx = idx;
+     dwellTracker?.enter(questions[idx].id, Date.now());
+     persistSession();
   }
 
   function triggerSubmit(auto: boolean) {
@@ -225,6 +301,9 @@
     }
 
     try {
+      dwellTracker?.leave(Date.now());
+      persistSession();
+
       const answersArr = Object.values(answers);
       const res = await submitRanked(sessionId, answersArr, integritySummary);
       submitResult = res;
@@ -237,7 +316,7 @@
       phase = 'result';
     } catch (err: any) {
       console.error('Submit error:', err);
-      submitError = err.message || 'Error al enviar el examen.';
+      submitError = toUserMessage(err, 'No se pudo enviar el examen. Intenta de nuevo.');
       isSubmitting = false;
       // if fail, stay in submitting to show error and retry
     }
@@ -274,6 +353,8 @@
       if (focusTracker) focusTracker.destroy();
       if (focusWarningTimeout) clearTimeout(focusWarningTimeout);
       document.removeEventListener('fullscreenchange', handleFullscreenChange);
+      document.removeEventListener('visibilitychange', handleVisibilityChange);
+      window.removeEventListener('pagehide', handlePageHide);
       document.removeEventListener('paste', handlePaste);
       document.removeEventListener('copy', handleCopy);
       document.removeEventListener('contextmenu', handleContextMenu);
@@ -300,6 +381,17 @@
         <li>Solo cuentan para el ranking los intentos con <span class="font-bold text-emerald-400">más de 30</span> preguntas respondidas</li>
         <li>Solo se publican puntajes iguales o superiores al promedio</li>
       </ul>
+      {#if startError}
+        <div class="bg-red-900/30 border border-red-500/40 rounded-xl p-4" role="alert" data-testid="ranked-start-error">
+          <p class="text-red-300 mb-3">{startError}</p>
+          <button
+            data-testid="ranked-retry"
+            onclick={startExam}
+            class="px-5 py-2 rounded-xl bg-red-600 hover:bg-red-500 text-white font-bold transition">
+            Reintentar
+          </button>
+        </div>
+      {/if}
       <button
         onclick={startExam}
         class="mt-6 px-6 py-3 bg-emerald-600 hover:bg-emerald-500 rounded-xl text-white font-bold transition">
@@ -377,6 +469,9 @@
             <h2 class="text-xs font-bold uppercase tracking-[0.2em] text-emerald-500">
               {currentQuestion?.subject}
             </h2>
+            <span data-testid="ranked-question-counter" class="text-xs text-gray-400 font-mono ml-2">
+              {currentIdx + 1}/{questions.length}
+            </span>
           </div>
           <div class="bg-white/5 px-3 py-1 rounded-md border border-white/10 flex items-center gap-2">
             <svg class="w-4 h-4 text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -418,7 +513,7 @@
                   onClick={() => handleSelect(option.letter)}
                   className="cursor-pointer hover:border-emerald-500/40 transition-all rounded-xl overflow-hidden group"
                 >
-                  <div class="py-4 px-5 flex items-center gap-4">
+                  <div data-testid={`ranked-option-${option.letter}`} class="py-4 px-5 flex items-center gap-4">
                     <div class={`
                       w-8 h-8 flex items-center justify-center rounded-lg text-sm font-bold border shrink-0
                       ${selectedOption === option.letter
@@ -436,26 +531,39 @@
             </div>
 
             <!-- Navigation Controls -->
-            <div class="flex justify-between mt-8">
+            <div class="flex justify-between items-center gap-4 mt-8">
                <button
+                 data-testid="ranked-prev"
                  onclick={goPrev}
                  disabled={currentIdx === 0}
                  class="px-6 py-2 border border-white/20 rounded-xl hover:bg-white/5 disabled:opacity-50 transition">
                  Anterior
                </button>
 
-               <button
-                 onclick={goNext}
-                 class="px-6 py-2 bg-emerald-600 hover:bg-emerald-500 rounded-xl text-white font-bold transition">
-                 {currentIdx === questions.length - 1 ? 'Terminar' : 'Siguiente'}
-               </button>
+               <div class="flex items-center gap-4">
+                 <button
+                   data-testid="ranked-next"
+                   onclick={goNext}
+                   disabled={currentIdx === questions.length - 1}
+                   class="px-6 py-2 bg-emerald-600 hover:bg-emerald-500 disabled:opacity-50 rounded-xl text-white font-bold transition">
+                   Siguiente
+                 </button>
+
+                 <button
+                   data-testid="ranked-submit"
+                   onclick={() => triggerSubmit(false)}
+                   class="px-6 py-2 border border-emerald-500/50 hover:bg-emerald-500/20 rounded-xl text-emerald-300 font-bold transition">
+                   Terminar
+                 </button>
+               </div>
             </div>
 
             <!-- Question Grid -->
             <div class="mt-8 grid grid-cols-10 gap-2 border-t border-white/10 pt-4">
                {#each questions as q, idx}
                  <button
-                   onclick={() => { currentIdx = idx; questionStartTime = Date.now(); }}
+                   data-testid={`ranked-grid-${idx + 1}`}
+                   onclick={() => goTo(idx)}
                    class={`w-8 h-8 flex items-center justify-center rounded text-xs font-mono
                      ${currentIdx === idx ? 'ring-2 ring-emerald-500' : ''}
                      ${answers[q.id] ? 'bg-emerald-600/30 border border-emerald-500/50' : 'bg-white/5 border border-white/10 text-gray-500'}
@@ -483,8 +591,9 @@
            </svg>
          </div>
          <h2 class="text-3xl font-bold text-red-400 mb-4">Error al enviar</h2>
-         <p class="text-gray-300 max-w-md mx-auto mb-8">{submitError}</p>
+         <p class="text-gray-300 max-w-md mx-auto mb-8" data-testid="ranked-submit-error">{submitError}</p>
          <button
+           data-testid="ranked-retry"
            onclick={doSubmit}
            class="px-6 py-3 bg-emerald-600 hover:bg-emerald-500 rounded-xl text-white font-bold transition mb-4 block w-full max-w-xs mx-auto">
            Intentar de nuevo
@@ -503,13 +612,16 @@
       <div class="shrink-0 px-4 py-8 border-b border-white/10 bg-[#121212]/95 backdrop-blur-md z-30 text-center">
          <h1 class="text-4xl font-black text-white mb-2">Resultado</h1>
 
-         {#if submitResult?.status === 'valid'}
-            <p class="text-emerald-400 font-bold text-lg">Publicado si estás sobre el promedio</p>
-         {:else if submitResult?.status === 'flagged'}
-            <p class="text-red-400 font-bold text-lg">Intento marcado por integridad</p>
-         {:else if submitResult?.status === 'not_eligible_min_questions'}
-            <p class="text-yellow-400 font-bold text-lg">No elegible (menos de 31 preguntas)</p>
-         {/if}
+         <p
+            data-testid="ranked-result-status"
+            data-status={submitResult?.status}
+            class={`font-bold text-lg ${submitResult?.status === 'flagged' ? 'text-red-400' : submitResult?.status === 'not_eligible_min_questions' ? 'text-yellow-400' : 'text-emerald-400'}`}>
+            {submitResult?.status === 'flagged'
+              ? 'Tu intento quedó marcado por integridad y no entra al ranking público de este mes. Tu puntaje se muestra solo para ti.'
+              : submitResult?.status === 'not_eligible_min_questions'
+                ? `Respondiste menos de ${RANKED_MIN_ANSWERED} preguntas: el intento no entra al ranking.`
+                : 'Publicado si estás sobre el promedio'}
+         </p>
 
          <div class="flex items-center justify-center gap-8 mt-6">
             <div class="text-center">
@@ -543,7 +655,10 @@
 
             {#if submitResult?.review}
                {#each submitResult.review as rev, i}
-                  <div class="bg-white/5 border border-white/10 rounded-2xl p-6">
+                  {@const chosenLetter = answers[rev.questionId]?.letter}
+                  {@const chosenFeedback = chosenLetter ? rev.optionFeedback?.find(o => o.letter === chosenLetter)?.feedback : undefined}
+                  {@const correctOptionFeedback = rev.optionFeedback?.find(o => o.letter === rev.correctLetter)?.feedback}
+                  <div class="bg-white/5 border border-white/10 rounded-2xl p-6" data-testid="ranked-review-item">
                      <div class="flex items-start gap-4">
                         <div class="w-8 h-8 rounded bg-white/10 flex items-center justify-center font-bold text-white shrink-0">
                            {i + 1}
@@ -551,7 +666,17 @@
                         <div class="flex-1">
                            <!-- In a real scenario we might match rev.questionId to question.statement -->
                            <div class="text-sm text-gray-400 mb-2">Respuesta correcta: <strong class="text-emerald-400">{rev.correctLetter}</strong></div>
+                           {#if chosenLetter && chosenLetter !== rev.correctLetter && chosenFeedback}
+                              <div class="text-sm text-red-300 mb-4" data-testid="ranked-review-chosen-feedback">
+                                 <span class="font-bold">Tu respuesta ({chosenLetter}):</span> {chosenFeedback}
+                              </div>
+                           {/if}
                            <div class="text-gray-200 mb-4 font-bold">{rev.feedback}</div>
+                           {#if correctOptionFeedback && correctOptionFeedback !== rev.feedback}
+                              <div class="text-sm text-emerald-300 mb-4">
+                                 <span class="font-bold">Feedback de la opción correcta:</span> {correctOptionFeedback}
+                              </div>
+                           {/if}
                            <div class="bg-[#121212] p-4 rounded-xl border border-white/5 text-gray-300">
                               <MathRenderer content={rev.explanation} />
                            </div>
