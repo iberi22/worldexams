@@ -164,7 +164,7 @@ export class MeshTransport {
     this.room = roomHash;
     this.openBroadcast();
     if (this.enabled) {
-      this.sendBeacon();
+      this.sendMeshBeacon();
       this.flushOutbox();
       if (this.backendBase) {
         this.announceCf().catch(() => undefined);
@@ -276,7 +276,7 @@ export class MeshTransport {
     this.bc = null;
   }
 
-  private sendBeacon(): void {
+  private sendMeshBeacon(): void {
     this.sendRaw('beacon', 'e30');
   }
 

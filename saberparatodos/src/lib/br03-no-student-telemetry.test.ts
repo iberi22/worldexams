@@ -30,6 +30,7 @@ const SINKS: { name: string; pattern: RegExp }[] = [
   // so only the analytics usages are matched.
   { name: 'Plausible Analytics', pattern: /\bplausible\s*\(|window\.plausible|plausible\.io/ },
   { name: 'Workers Analytics Engine writeDataPoint()', pattern: /\bwriteDataPoint\b/ },
+  { name: 'sendBeacon()', pattern: /\bsendBeacon\b/ },
 ];
 
 /**
