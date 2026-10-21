@@ -451,8 +451,8 @@ Determine $\lim_{x \to \infty} (\frac{x + 3}{x - 1})^x$.
 ### Opciones
 - [ ] A) $e^2$ <!-- feedback: Incorrecto. Posible error al calcular la diferencia de los términos constantes. -->
 - [ ] B) $e^3$ <!-- feedback: Incorrecto. Solo consideró la constante del numerador. -->
-- [x] C) $e^4$ <!-- feedback: Correcto. La expresión se puede reescribir como [ (1 + 3/x) / (1 - 1/x) ]^x. El numerador tiende a e^3 y el denominador a e^(-1). El cociente e^3 / e^(-1) = e^4. -->
-- [ ] D) 1 <!-- feedback: Incorrecto. Al igual que otros límites de esta forma, la base tiende a 1 pero el exponente a infinito, resultando en un valor basado en e. -->
+- [ ] C) 1 <!-- feedback: Incorrecto. Al igual que otros límites de esta forma, la base tiende a 1 pero el exponente a infinito, resultando en un valor basado en e. -->
+- [x] D) $e^4$ <!-- feedback: Correcto. La expresión se puede reescribir como [ (1 + 3/x) / (1 - 1/x) ]^x. El numerador tiende a e^3 y el denominador a e^(-1). El cociente e^3 / e^(-1) = e^4. -->
 
 ### Explicacion Pedagogica
 Para resolver límites de la forma $(f(x)/g(x))^x$ que resultan en $1^\infty$, se puede aplicar la fórmula $e^{\lim x(f(x)/g(x) - 1)}$. En este caso, $x((x+3)/(x-1) - 1) = x(4/(x-1))$, cuyo límite al infinito es 4. Por lo tanto, el resultado es $e^4$.

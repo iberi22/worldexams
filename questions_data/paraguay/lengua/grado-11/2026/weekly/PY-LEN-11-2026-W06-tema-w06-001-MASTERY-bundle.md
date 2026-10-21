@@ -81,8 +81,8 @@ La funcion expresiva se centra en el emisor y expresa sentimientos.
 Identifica el conector: San Ignacio es hermosa, ____ su gente es acogedora.
 
 ### Opciones
-- [x] B) ademas <!-- feedback: Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de San Ignacio y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro. -->
 - [ ] A) sin embargo <!-- feedback: Incorrecto. 'Sin embargo' es adversativo: introduce una idea que se opone a lo que se habia dicho. En esta oracion las dos proposiciones se refuerzan, porque la gente de San Ignacio no contradice a su ciudad, asi que una oposicion seria falsa. -->
+- [x] B) ademas <!-- feedback: Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de San Ignacio y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro. -->
 - [ ] C) por lo tanto <!-- feedback: Incorrecto. 'Por lo tanto' es conclusivo: la segunda proposicion deduce una consecuencia de la primera. Aqui no hay deduccion, sino dos caracteristicas de San Ignacio que se acumulan sin derivarse una de otra. -->
 - [ ] D) aunque <!-- feedback: Incorrecto. 'Aunque' introduce una concesion: lo que va detras se opone a lo esperado. La segunda proposicion no contradice la primera, la completa, asi que este conector tampoco corresponde. -->
 
@@ -102,10 +102,10 @@ El conector 'ademas' anade informacion.
 ¿Cual oracion esta correctamente escrita?
 
 ### Opciones
-- [x] D) Los estudiantes del Colegio Nacional Encaracion estudian mucho. <!-- feedback: Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'. -->
 - [ ] A) Los estudiantes de la escuela estudian poco. <!-- feedback: Incorrecto. La oracion esta bien redactada y con buena concordancia, pero 'la escuela' es un nombre comun que puede designar cualquier centro; el enunciado pide el nombre propio completo de la institucion, y aqui no aparece. -->
 - [ ] B) Los estudiantes del instituto no estudian nada. <!-- feedback: Incorrecto. 'El instituto' vuelve a sustituir el nombre propio por una denominacion generica. La negacion 'no estudian nada' es correcta, pero no aporta el dato que el enunciado evalua. -->
 - [ ] C) Los estudiantes del instituto estudian mucho. <!-- feedback: Incorrecto. Comparte con la correcta la concordancia y el verbo 'estudian mucho', y se diferencia en un solo punto decisivo: emplea 'el instituto', un nombre comun, en lugar del nombre oficial completo. -->
+- [x] D) Los estudiantes del Colegio Nacional Encaracion estudian mucho. <!-- feedback: Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'. -->
 
 ### Explicacion Pedagogica
 La opcion A sigue las normas ortograficas correctamente.
@@ -238,8 +238,8 @@ Lorca utiliza la estructura del romance tradicional para crear un poema narrativ
 En el Colegio Nacional Fernando de la Mora de Fernando de la Mora, analizando un texto. ¿Cual es la idea principal?
 
 ### Opciones
-- [x] B) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen. -->
 - [ ] A) El agua solo se usa para beber <!-- feedback: Incorrecto. Reduce el agua a un solo uso domestico. El texto la presenta como recurso vital para la vida en general, no unicamente como algo con que beber. -->
+- [x] B) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen. -->
 - [ ] C) El agua no es importante <!-- feedback: Incorrecto. Contradice de frente al texto: si el agua careciera de importancia, no tendria sentido que el texto insistiera en su cuidado. Una idea principal entre las opciones no puede negar lo que el propio texto afirma. -->
 - [ ] D) El agua es un recurso infinito <!-- feedback: Incorrecto. Afirma que el agua es inagotable y con ello borra la necesidad de cuidarla, que es justamente la tesis que el texto sostiene. -->
 
@@ -305,8 +305,8 @@ La función metalingüística aparece cuando el lenguaje se utiliza para explica
 Identifica el conector: Mariscal Estigarribia es hermosa, ____ su gente es acogedora.
 
 ### Opciones
-- [x] B) ademas <!-- feedback: Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Mariscal Estigarribia y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro. -->
 - [ ] A) sin embargo <!-- feedback: Incorrecto. 'Sin embargo' es adversativo: introduce una idea que se opone a lo que se habia dicho. En esta oracion las dos proposiciones se refuerzan, porque la gente de Mariscal Estigarribia no contradice a su ciudad, asi que una oposicion seria falsa. -->
+- [x] B) ademas <!-- feedback: Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Mariscal Estigarribia y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro. -->
 - [ ] C) por lo tanto <!-- feedback: Incorrecto. 'Por lo tanto' es conclusivo: la segunda proposicion deduce una consecuencia de la primera. Aqui no hay deduccion, sino dos caracteristicas de Mariscal Estigarribia que se acumulan sin derivarse una de otra. -->
 - [ ] D) aunque <!-- feedback: Incorrecto. 'Aunque' introduce una concesion: lo que va detras se opone a lo esperado. La segunda proposicion no contradice la primera, la completa, asi que este conector tampoco corresponde. -->
 
@@ -418,10 +418,10 @@ La personificación atribuye acciones o cualidades de seres animados a entidades
 ¿Cuál de las siguientes palabras lleva tilde por ser esdrújula?
 
 ### Opciones
-- [x] A) Teléfono
-  <!-- feedback: Es llana terminada en vocal, de modo que no lleva tilde por esa razón. -->
-- [ ] B) Intérprete
+- [ ] A) Intérprete
   <!-- feedback: Es la respuesta: es esdrújula porque lleva la tónica en la antepenúltima sílaba, 'tér'. -->
+- [x] B) Teléfono
+  <!-- feedback: Es llana terminada en vocal, de modo que no lleva tilde por esa razón. -->
 - [ ] C) Cantar
   <!-- feedback: Es llana terminada en vocal y no lleva tilde. -->
 - [ ] D) Papel

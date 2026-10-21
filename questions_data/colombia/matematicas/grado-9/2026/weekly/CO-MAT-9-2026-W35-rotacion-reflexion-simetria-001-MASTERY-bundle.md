@@ -57,12 +57,12 @@ Una figura se transforma de modo que su centro queda fijo y cada punto se ubica 
 ### Opciones
 - [ ] A) Una traslación horizontal de magnitud igual al diámetro de la figura.
   <!-- feedback: Una traslación desplaza todos los puntos la misma distancia en una dirección fija; no mantiene un centro invariante ni produce puntos diametralmente opuestos. -->
-- [x] D) Una rotación de 180° alrededor del centro de la figura.
-  <!-- feedback: Una rotación de 180° respecto a un punto lleva cada punto a su opuesto diametral, manteniendo el centro fijo. Esta es la definición de simetría central. -->
 - [ ] B) Una reflexión sobre el eje horizontal que pasa por el centro.
   <!-- feedback: La reflexión sobre el eje horizontal envía cada punto (x, y) a (x, -y); los puntos sobre el eje quedan fijos, no se ubican en sus opuestos diametrales. -->
 - [ ] C) Una rotación de 90° seguida de una traslación vertical hacia abajo.
   <!-- feedback: Una rotación de 90° seguida de una traslación es una composición distinta que no equivale en general a una rotación pura de 180° alrededor del centro original. -->
+- [x] D) Una rotación de 180° alrededor del centro de la figura.
+  <!-- feedback: Una rotación de 180° respecto a un punto lleva cada punto a su opuesto diametral, manteniendo el centro fijo. Esta es la definición de simetría central. -->
 
 ### Explicacion Pedagogica
 La simetría central de una figura equivale exactamente a una rotación de 180° alrededor de su centro: cada punto P se transforma en P' tal que el centro es el punto medio del segmento PP'. En el plano cartesiano, rotar (x, y) 180° respecto al origen produce (-x, -y). Esta equivalencia es clave para combinar y simplificar movimientos rígidos.
@@ -145,12 +145,12 @@ La fachada descrita presenta repetición exacta de sus elementos a ambos lados d
 ### Opciones
 - [ ] A) Solo simetría central, equivalente a una rotación de 180°.
   <!-- feedback: La simetría central enviaría cada puerta a una posición diametralmente opuesta; la fachada descrita no se rota sobre sí misma sin desalinearse. -->
-- [x] D) Simetría axial respecto al eje vertical que pasa por el balcón.
-  <!-- feedback: Cada elemento lateral izquierdo tiene su gemelo a igual distancia del eje vertical; esto es exactamente una simetría axial sobre ese eje. -->
 - [ ] B) Simetría axial respecto a un eje horizontal en la base.
   <!-- feedback: El eje horizontal no refleja la fachada porque balcón y puertas no se replican arriba-abajo, sino a izquierda-derecha. -->
 - [ ] C) Traslación horizontal repetida sin eje de simetría.
   <!-- feedback: La traslación produce una repetición por desplazamiento, no una imagen espejada; la fachada claramente se refleja sobre un eje fijo. -->
+- [x] D) Simetría axial respecto al eje vertical que pasa por el balcón.
+  <!-- feedback: Cada elemento lateral izquierdo tiene su gemelo a igual distancia del eje vertical; esto es exactamente una simetría axial sobre ese eje. -->
 
 ### Explicacion Pedagogica
 La simetría axial (o de reflexión) se produce cuando una figura puede doblarse por una recta (eje de simetría) y ambas mitades coinciden exactamente. En arquitectura colonial, balcones y puertas se disponen a menudo respecto a un eje vertical central. Distinguir entre simetría axial y central es clave para describir correctamente la geometría de un diseño.
@@ -165,10 +165,10 @@ La simetría axial (o de reflexión) se produce cuando una figura puede doblarse
 Se aplica primero una reflexión sobre el eje y y, a continuación, una reflexión sobre el eje x al mismo triángulo. ¿A qué movimiento rígido único equivale esta composición?
 
 ### Opciones
-- [ ] B) Una traslación que lleva cada punto (x, y) a (x + 2|x|, 0).
-  <!-- feedback: La composición propuesta no es una traslación porque los puntos cambian también su coordenada y; esta fórmula además no es invariante bajo reflexiones. -->
 - [x] A) Una rotación de 180° alrededor del origen.
   <!-- feedback: Reflejar sobre el eje y (x, y) → (-x, y) y luego sobre el eje x (-x, y) → (-x, -y) produce exactamente la rotación de 180° respecto al origen. -->
+- [ ] B) Una traslación que lleva cada punto (x, y) a (x + 2|x|, 0).
+  <!-- feedback: La composición propuesta no es una traslación porque los puntos cambian también su coordenada y; esta fórmula además no es invariante bajo reflexiones. -->
 - [ ] C) Una reflexión sobre la recta y = x.
   <!-- feedback: La reflexión sobre y = x aplicaría (x, y) → (y, x); la composición de reflexiones sobre los ejes coordenados no produce ese resultado. -->
 - [ ] D) La identidad, porque ambas reflexiones se cancelan.
@@ -187,14 +187,14 @@ Cuando se componen dos reflexiones, si los ejes son paralelos hay traslación; s
 La mochila wayuu presenta rombos y triángulos repetidos en bandas horizontales con un eje vertical de repetición; el sombrero vueltiao muestra un trenzado en espiral que regresa a la misma posición cada media vuelta. ¿Cuál afirmación describe correctamente las simetrías?
 
 ### Opciones
+- [x] A) La mochila presenta simetría axial respecto a un eje vertical y el sombrero presenta simetría central.
+  <!-- feedback: Las bandas con rombos espejados muestran simetría axial vertical; el trenzado en espiral que se repite cada 180° muestra simetría central. -->
 - [ ] B) Ambas presentan únicamente simetría axial respecto al eje vertical.
   <!-- feedback: El sombrero vueltiao, por su trenzado en espiral con retorno a la mitad de vuelta, no se describe solo con simetría axial. -->
 - [ ] C) La mochila tiene simetría central y el sombrero tiene simetría axial.
   <!-- feedback: Es al contrario: la mochila wayuu muestra repetición espejada (axial), mientras el sombrero muestra rotación de 180° (central). -->
 - [ ] D) La mochila carece de simetría y el sombrero tiene solo simetría axial.
   <!-- feedback: La mochila claramente presenta repetición espejada; el sombrero no se describe solo con simetría axial. -->
-- [x] A) La mochila presenta simetría axial respecto a un eje vertical y el sombrero presenta simetría central.
-  <!-- feedback: Las bandas con rombos espejados muestran simetría axial vertical; el trenzado en espiral que se repite cada 180° muestra simetría central. -->
 
 ### Explicacion Pedagogica
 Identificar simetrías en patrones culturales es una aplicación auténtica del estudio de movimientos rígidos. La simetría axial requiere un eje de reflexión; la central requiere un punto tal que una rotación de 180° deja invariante la figura. Reconocer ambas en objetos cotidianos y patrimoniales conecta la geometría con la identidad cultural colombiana.
@@ -231,10 +231,10 @@ Una reflexión con deslizamiento es la composición de una reflexión y una tras
 Si el escudo simplificado solo se refleja exactamente al doblarlo por una línea vertical que pasa por su centro, pero no coincide consigo mismo al girarlo 180°, ¿qué tipo(s) de simetría posee?
 
 ### Opciones
-- [ ] B) Solo simetría central, porque cualquier rotación de 180° mantiene fija la figura.
-  <!-- feedback: La simetría central requiere invariancia bajo rotación de 180°, condición que el enunciado descarta explícitamente. -->
 - [x] A) Solo simetría axial respecto al eje vertical.
   <!-- feedback: La descripción coincide con una figura que solo es invariante bajo reflexión sobre el eje vertical, sin serlo bajo rotación de 180°. -->
+- [ ] B) Solo simetría central, porque cualquier rotación de 180° mantiene fija la figura.
+  <!-- feedback: La simetría central requiere invariancia bajo rotación de 180°, condición que el enunciado descarta explícitamente. -->
 - [ ] C) Simetría axial respecto al eje vertical y también simetría central.
   <!-- feedback: La simetría central implicaría invariancia bajo rotación de 180°, lo que el enunciado niega; por lo tanto no la posee. -->
 - [ ] D) Ni simetría axial ni central, solo traslaciones repetidas.
@@ -253,10 +253,10 @@ Determinar si una figura posee simetría axial, central, ambas o ninguna exige p
 ¿Cuál es la evaluación correcta de este argumento desde la geometría de movimientos rígidos?
 
 ### Opciones
-- [x] B) Es incompleto: el teorema de restricción cristalográfica admite también rotaciones de 180° y la trivial de 360°.
-  <!-- feedback: El teorema de restricción cristalográfica establece que un mosaico periódico solo admite rotaciones de orden 1, 2, 3, 4 o 6; el argumento omite el orden 2 (180°) y la identidad. -->
 - [ ] A) Es totalmente válido porque 60°, 90° y 120° agotan todas las opciones de rotación posibles.
   <!-- feedback: Faltan la rotación de 180° y la trivial de 360°, por lo que el argumento no es totalmente válido. -->
+- [x] B) Es incompleto: el teorema de restricción cristalográfica admite también rotaciones de 180° y la trivial de 360°.
+  <!-- feedback: El teorema de restricción cristalográfica establece que un mosaico periódico solo admite rotaciones de orden 1, 2, 3, 4 o 6; el argumento omite el orden 2 (180°) y la identidad. -->
 - [ ] C) Es falso: cualquier ángulo de rotación es admisible en un mosaico periódico.
   <!-- feedback: El teorema sí impone restricciones; no todo ángulo es admisible (por ejemplo, 45° no es posible en un mosaico periódico del plano). -->
 - [ ] D) Es irrelevante, porque en arquitectura solo se usan traslaciones y nunca rotaciones.
@@ -277,9 +277,9 @@ El equipo afirma que la simetría axial reduce el costo de fabricación porque b
 ### Opciones
 - [ ] A) La afirmación es falsa: la simetría no influye en los costos de un proyecto de diseño.
   <!-- feedback: Sí influye: permite producir menos moldes, reutilizar piezas y simplificar el control de calidad. -->
-- [ ] C) La afirmación es válida solo si el eje es horizontal; el vertical no aporta ahorros.
+- [ ] B) La afirmación es válida solo si el eje es horizontal; el vertical no aporta ahorros.
   <!-- feedback: El eje vertical aporta los mismos ahorros que el horizontal, porque ambos producen una imagen espejada de una mitad. -->
-- [x] B) La afirmación es válida: la simetría axial permite prefabricar una mitad y reflejar la otra, reduciendo moldes y costos.
+- [x] C) La afirmación es válida: la simetría axial permite prefabricar una mitad y reflejar la otra, reduciendo moldes y costos.
   <!-- feedback: Aprovechar la reflexión permite fabricar un único molde o patrón y obtener la otra mitad por simetría, lo que reduce tiempos, moldes y costos. -->
 - [ ] D) La afirmación es válida, pero solo si se combina con una rotación adicional de 90°.
   <!-- feedback: La rotación adicional no es necesaria para el ahorro descrito; basta con la reflexión pura. -->

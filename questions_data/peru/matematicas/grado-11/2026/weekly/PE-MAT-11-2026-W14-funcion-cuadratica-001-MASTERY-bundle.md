@@ -34,10 +34,10 @@ Dada la función cuadrática en su forma canónica $f(x) = a(x - h)^2 + k$, ¿qu
   <!-- feedback: Incorrecto. Los interceptos se hallan igualando la función a cero. -->
 - [ ] B) Los puntos de intersección con el eje $Y$.
   <!-- feedback: Incorrecto. El intercepto con el eje $Y$ se halla evaluando $f(0)$. -->
-- [x] D) El vértice de la parábola.
-  <!-- feedback: Correcto. En la forma canónica, $h$ y $k$ son las coordenadas del punto máximo o mínimo de la función. -->
 - [ ] C) El foco de la parábola.
   <!-- feedback: Incorrecto. El foco es un punto interno cuya distancia al vértice depende del parámetro $a$. -->
+- [x] D) El vértice de la parábola.
+  <!-- feedback: Correcto. En la forma canónica, $h$ y $k$ son las coordenadas del punto máximo o mínimo de la función. -->
 
 ### Explicacion Pedagogica
 La forma canónica de una función cuadrática permite identificar directamente el vértice $(h, k)$. Si $a > 0$ es un mínimo, y si $a < 0$ es un máximo.
@@ -55,10 +55,10 @@ La forma canónica de una función cuadrática permite identificar directamente 
 ¿Cuál es la altura máxima que alcanza la entrada según el modelo dado?
 
 ### Opciones
-- [ ] B) 3 metros
-  <!-- feedback: Incorrecto. 3 es la coordenada $x$ del vértice. -->
 - [x] A) 4 metros
   <!-- feedback: Correcto. En la función $f(x) = a(x - h)^2 + k$, el valor máximo (si $a < 0$) es $k$. Aquí $k = 4$. -->
+- [ ] B) 3 metros
+  <!-- feedback: Incorrecto. 3 es la coordenada $x$ del vértice. -->
 - [ ] C) 7 metros
   <!-- feedback: Incorrecto. Sumó los parámetros $h$ y $k$ sin justificación matemática. -->
 - [ ] D) 0 metros
@@ -80,10 +80,10 @@ Identificamos la función en su forma canónica. El signo negativo indica que la
 Determine la coordenada $x$ del vértice de la función $f(x) = 2x^2 - 12x + 5$.
 
 ### Opciones
-- [ ] B) $x = 6$
-  <!-- feedback: Incorrecto. Olvidó dividir por $2a$ en la fórmula del vértice. -->
 - [x] A) $x = 3$
   <!-- feedback: Correcto. $x_v = -b / (2a) = -(-12) / (2 \times 2) = 12 / 4 = 3$. -->
+- [ ] B) $x = 6$
+  <!-- feedback: Incorrecto. Olvidó dividir por $2a$ en la fórmula del vértice. -->
 - [ ] C) $x = -3$
   <!-- feedback: Incorrecto. Error de signo al aplicar la fórmula. -->
 - [ ] D) $x = 12$
@@ -107,12 +107,12 @@ Para una función $ax^2 + bx + c$, la ubicación del eje de simetría y del vér
 ### Opciones
 - [ ] A) Hacia arriba, porque el término independiente es positivo.
   <!-- feedback: Incorrecto. La concavidad no depende del término independiente. -->
-- [x] D) Hacia abajo, porque el coeficiente del término cuadrático es negativo.
-  <!-- feedback: Correcto. El coeficiente de $x^2$ es -1, lo que indica concavidad negativa. -->
 - [ ] B) Hacia arriba, porque el valor absoluto de $a$ es mayor que 0.
   <!-- feedback: Incorrecto. El valor absoluto siempre es mayor que 0 para una cuadrática; lo que importa es el signo. -->
 - [ ] C) Hacia la derecha, porque es una función de $x$.
   <!-- feedback: Incorrecto. Las funciones cuadráticas de $x$ solo abren hacia arriba o abajo. -->
+- [x] D) Hacia abajo, porque el coeficiente del término cuadrático es negativo.
+  <!-- feedback: Correcto. El coeficiente de $x^2$ es -1, lo que indica concavidad negativa. -->
 
 ### Explicacion Pedagogica
 La dirección de apertura (concavidad) de una función cuadrática depende exclusivamente del signo del coeficiente principal $a$. Si $a < 0$, la parábola abre hacia abajo.
@@ -132,12 +132,12 @@ La dirección de apertura (concavidad) de una función cuadrática depende exclu
 ### Opciones
 - [ ] A) 40 metros
   <!-- feedback: Incorrecto. Este es el coeficiente lineal, no la altura máxima. -->
-- [x] D) 80 metros
-  <!-- feedback: Correcto. El vértice ocurre en $t = -40 / (2 \times -5) = 4$ segundos. Evaluando: $h(4) = -5(16) + 40(4) = -80 + 160 = 80$. -->
 - [ ] B) 160 metros
   <!-- feedback: Incorrecto. Error al evaluar la potencia en la función de altura. -->
 - [ ] C) 4 metros
   <!-- feedback: Incorrecto. 4 segundos es el tiempo para alcanzar la altura máxima, no la altura en sí. -->
+- [x] D) 80 metros
+  <!-- feedback: Correcto. El vértice ocurre en $t = -40 / (2 \times -5) = 4$ segundos. Evaluando: $h(4) = -5(16) + 40(4) = -80 + 160 = 80$. -->
 
 ### Explicacion Pedagogica
 Primero hallamos el tiempo en el vértice $t_v = -b / 2a = 4$. Luego sustituimos ese tiempo en la función original para obtener la coordenada $k$ (altura máxima).
@@ -182,12 +182,12 @@ Si a la función $f(x) = x^2$ se le suma 3 unidades a la variable $x$ antes de e
 ### Opciones
 - [ ] A) $y = (x - 3)^2 - 5$
   <!-- feedback: Incorrecto. Restar a la variable desplaza a la derecha, sumar desplaza a la izquierda. -->
-- [x] D) $y = (x + 3)^2 - 5$
-  <!-- feedback: Correcto. Sumar 3 a $x$ da $(x+3)^2$, y restar 5 al final da $-5$. -->
 - [ ] B) $y = x^2 + 3x - 5$
   <!-- feedback: Incorrecto. La instrucción indica sumar a la variable antes de la potencia. -->
 - [ ] C) $y = (x + 3)^2 + 5$
   <!-- feedback: Incorrecto. Restar unidades al resultado final implica un signo negativo. -->
+- [x] D) $y = (x + 3)^2 - 5$
+  <!-- feedback: Correcto. Sumar 3 a $x$ da $(x+3)^2$, y restar 5 al final da $-5$. -->
 
 ### Explicacion Pedagogica
 Las transformaciones de funciones indican que $f(x+h)$ desplaza horizontalmente y $f(x)+k$ desplaza verticalmente. La descripción corresponde a la forma canónica con $h = -3$ (desplazamiento a la izquierda) y $k = -5$ (desplazamiento hacia abajo).
@@ -207,10 +207,10 @@ Las transformaciones de funciones indican que $f(x+h)$ desplaza horizontalmente 
 ### Opciones
 - [ ] A) 40 km/h
   <!-- feedback: Incorrecto. El mínimo se encuentra a una velocidad mayor. -->
-- [x] C) 50 km/h
-  <!-- feedback: Correcto. Vértice $v = -(-20) / (2 \times 0.2) = 20 / 0.4 = 50$. -->
 - [ ] B) 60 km/h
   <!-- feedback: Incorrecto. Excede el punto de eficiencia mínima. -->
+- [x] C) 50 km/h
+  <!-- feedback: Correcto. Vértice $v = -(-20) / (2 \times 0.2) = 20 / 0.4 = 50$. -->
 - [ ] D) 100 km/h
   <!-- feedback: Incorrecto. Error en el cálculo del denominador de la fórmula del vértice. -->
 
@@ -257,12 +257,12 @@ El rango de una función cuadrática $ax^2 + bx + c$ depende de la dirección de
 ### Opciones
 - [ ] A) 10.000 m²
   <!-- feedback: Incorrecto. Este sería el valor si cercara los 4 lados. -->
-- [x] D) 20.000 m²
-  <!-- feedback: Correcto. Malla = $2x + y = 400 \Rightarrow y = 400 - 2x$. Área $A = x(400 - 2x) = -2x^2 + 400x$. Vértice en $x = 100$. Área máxima: $A(100) = 100(200) = 20.000$. -->
 - [ ] B) 40.000 m²
   <!-- feedback: Incorrecto. Valor físicamente imposible con el perímetro dado. -->
 - [ ] C) 15.000 m²
   <!-- feedback: Incorrecto. No corresponde al punto máximo de la función de área. -->
+- [x] D) 20.000 m²
+  <!-- feedback: Correcto. Malla = $2x + y = 400 \Rightarrow y = 400 - 2x$. Área $A = x(400 - 2x) = -2x^2 + 400x$. Vértice en $x = 100$. Área máxima: $A(100) = 100(200) = 20.000$. -->
 
 ### Explicacion Pedagogica
 Modelamos el área como una función de una variable. Usando la restricción del perímetro (solo 3 lados), obtenemos una función cuadrática de área. Hallamos el vértice para determinar las dimensiones óptimas y el área máxima resultante.
@@ -280,12 +280,12 @@ Modelamos el área como una función de una variable. Usando la restricción del
 La energía cinética $E$ de un objeto de 4 kg está dada por $E(v) = 2v^2$, donde $v$ es la velocidad. Si la velocidad aumenta de 2 m/s a 6 m/s, ¿en cuánto aumenta la energía cinética?
 
 ### Opciones
+- [x] A) 64 Joules
+  <!-- feedback: Correcto. $E(6) = 2(36) = 72$. $E(2) = 2(4) = 8$. Variación: $72 - 8 = 64$. -->
 - [ ] B) 16 Joules
   <!-- feedback: Incorrecto. Restó las velocidades y luego elevó al cuadrado. -->
 - [ ] C) 32 Joules
   <!-- feedback: Incorrecto. Calculó solo el valor final. -->
-- [x] A) 64 Joules
-  <!-- feedback: Correcto. $E(6) = 2(36) = 72$. $E(2) = 2(4) = 8$. Variación: $72 - 8 = 64$. -->
 - [ ] D) 72 Joules
   <!-- feedback: Incorrecto. Este es el valor final de la energía. -->
 
@@ -307,12 +307,12 @@ Halle los puntos de intersección entre la parábola $y = x^2$ y la recta $y = 2
 ### Opciones
 - [ ] A) $(3, 9)$ solamente.
   <!-- feedback: Incorrecto. Una recta y una parábola suelen cortarse en dos puntos. -->
-- [x] D) $(3, 9)$ y $(-1, 1)$.
-  <!-- feedback: Correcto. Igualamos: $x^2 = 2x + 3 \Rightarrow x^2 - 2x - 3 = 0$. Raíces: 3 y -1. Evaluando en $y=x^2$ obtenemos 9 y 1. -->
 - [ ] B) $(3, 6)$ y $(-1, -2)$.
   <!-- feedback: Incorrecto. Las coordenadas $y$ no coinciden con la función cuadrática. -->
 - [ ] C) $(0, 0)$ y $(3, 9)$.
   <!-- feedback: Incorrecto. El origen no es punto de intersección para este caso. -->
+- [x] D) $(3, 9)$ y $(-1, 1)$.
+  <!-- feedback: Correcto. Igualamos: $x^2 = 2x + 3 \Rightarrow x^2 - 2x - 3 = 0$. Raíces: 3 y -1. Evaluando en $y=x^2$ obtenemos 9 y 1. -->
 
 ### Explicacion Pedagogica
 Para hallar la intersección de dos funciones, igualamos sus reglas de correspondencia. Esto genera una ecuación de segundo grado cuyas soluciones son las abscisas de los puntos de contacto.
@@ -332,10 +332,10 @@ Para hallar la intersección de dos funciones, igualamos sus reglas de correspon
 ### Opciones
 - [ ] A) $y = (x - 2)^2 + 5$
   <!-- feedback: Incorrecto. No pasa por el punto $(0, 1)$, ya que $f(0) = 9$. -->
-- [x] C) $y = -(x - 2)^2 + 5$
-  <!-- feedback: Correcto. Si el vértice es $(2, 5)$, la forma es $y = a(x-2)^2 + 5$. Usamos $(0, 1): 1 = a(0-2)^2 + 5 \Rightarrow -4 = 4a \Rightarrow a = -1$. -->
 - [ ] B) $y = -2(x - 2)^2 + 5$
   <!-- feedback: Incorrecto. Al evaluar en $x=0$ resultaría $y = -3$. -->
+- [x] C) $y = -(x - 2)^2 + 5$
+  <!-- feedback: Correcto. Si el vértice es $(2, 5)$, la forma es $y = a(x-2)^2 + 5$. Usamos $(0, 1): 1 = a(0-2)^2 + 5 \Rightarrow -4 = 4a \Rightarrow a = -1$. -->
 - [ ] D) $y = -(x + 2)^2 + 5$
   <!-- feedback: Incorrecto. El signo dentro del paréntesis indica un vértice en $x = -2$. -->
 
@@ -357,10 +357,10 @@ Dada la familia de funciones $f(x) = x^2 - kx + 9$. ¿Para qué valores de $k$ l
 ### Opciones
 - [ ] A) $k = 6$
   <!-- feedback: Incorrecto. También existe un valor negativo que cumple la condición. -->
-- [ ] C) $k = 0$
-  <!-- feedback: Incorrecto. El vértice estaría en $(0, 9)$, sin tocar el eje $X$. -->
 - [x] B) $k = 6$ o $k = -6$
   <!-- feedback: Correcto. Tangente al eje $X$ significa una única raíz real ($\Delta = 0$). $k^2 - 4(1)(9) = 0 \Rightarrow k^2 = 36 \Rightarrow k = \pm 6$. -->
+- [ ] C) $k = 0$
+  <!-- feedback: Incorrecto. El vértice estaría en $(0, 9)$, sin tocar el eje $X$. -->
 - [ ] D) $k > 6$
   <!-- feedback: Incorrecto. Aquí habría dos puntos de intersección. -->
 
@@ -384,10 +384,10 @@ Un rectángulo tiene su base sobre el eje $X$ y sus dos vértices superiores sob
   <!-- feedback: Incorrecto. Olvidó restar la base al cuadrado en la función de altura. -->
 - [ ] B) 16 u²
   <!-- feedback: Incorrecto. Error en la evaluación de la coordenada $x$ para los vértices. -->
-- [x] D) 32 u²
-  <!-- feedback: Correcto. Si la base es 4 y está centrada, los extremos son $x=2$ y $x=-2$. La altura es $y = 12 - (2)^2 = 8$. Área = $base \times altura = 4 \times 8 = 32$. -->
 - [ ] C) 24 u²
   <!-- feedback: La base de 4 centrada en el eje da vértices en x = 2 y x = −2, y la altura es 12 − 2² = 8. El área es 4 × 8 = 32 u², no 24. -->
+- [x] D) 32 u²
+  <!-- feedback: Correcto. Si la base es 4 y está centrada, los extremos son $x=2$ y $x=-2$. La altura es $y = 12 - (2)^2 = 8$. Área = $base \times altura = 4 \times 8 = 32$. -->
 
 ### Explicacion Pedagogica
 Debido a la simetría de la parábola respecto al eje $Y$, la base de 4 unidades se extiende desde $x = -2$ hasta $x = 2$. La altura del rectángulo está dada por el valor de la función en esos puntos extremos de la base.
@@ -407,12 +407,12 @@ Debido a la simetría de la parábola respecto al eje $Y$, la base de 4 unidades
 ### Opciones
 - [ ] A) Aumento de S/ 10
   <!-- feedback: Incorrecto. El ingreso máximo se alcanza con un aumento mayor. -->
-- [x] D) Aumento de S/ 25
-  <!-- feedback: Correcto. Sea $x$ el número de aumentos de S/ 5. Ingreso $I(x) = (50 + 5x)(400 - 20x) = 20000 - 1000x + 2000x - 100x^2 = -100x^2 + 1000x + 20000$. Vértice en $x = 5$. Aumento total = $5 \times 5 = 25$. -->
 - [ ] B) Aumento de S/ 5
   <!-- feedback: Incorrecto. La función de ingresos aún no alcanza su punto máximo. -->
 - [ ] C) Aumento de S/ 50
   <!-- feedback: Incorrecto. Excede el punto de equilibrio donde los ingresos empiezan a bajar drásticamente. -->
+- [x] D) Aumento de S/ 25
+  <!-- feedback: Correcto. Sea $x$ el número de aumentos de S/ 5. Ingreso $I(x) = (50 + 5x)(400 - 20x) = 20000 - 1000x + 2000x - 100x^2 = -100x^2 + 1000x + 20000$. Vértice en $x = 5$. Aumento total = $5 \times 5 = 25$. -->
 
 ### Explicacion Pedagogica
 Planteamos la función de ingresos como el producto de (Precio + aumento) por (Asistencia - disminución). Al resolver para el vértice de la función cuadrática resultante, hallamos el número de incrementos óptimos.
@@ -432,12 +432,12 @@ Una parábola tiene su vértice en $(1, -4)$ y corta al eje $Y$ en el punto $(0,
 ### Opciones
 - [ ] A) 5
   <!-- feedback: Incorrecto. Evaluó mal la función obtenida. -->
-- [x] D) 12
-  <!-- feedback: Correcto. Forma: $y = a(x-1)^2 - 4$. Con $(0,-3): -3 = a(0-1)^2 - 4 \Rightarrow 1 = a$. Función: $y = (x-1)^2 - 4$. Para $x=5: y = (4)^2 - 4 = 16 - 4 = 12$. -->
 - [ ] B) 8
   <!-- feedback: Incorrecto. Error al calcular el coeficiente principal $a$. -->
 - [ ] C) 16
   <!-- feedback: Incorrecto. Olvidó restar el valor de $k$ del vértice. -->
+- [x] D) 12
+  <!-- feedback: Correcto. Forma: $y = a(x-1)^2 - 4$. Con $(0,-3): -3 = a(0-1)^2 - 4 \Rightarrow 1 = a$. Función: $y = (x-1)^2 - 4$. Para $x=5: y = (4)^2 - 4 = 16 - 4 = 12$. -->
 
 ### Explicacion Pedagogica
 Usamos la forma canónica para establecer la estructura de la función con los datos del vértice. Luego, con el intercepto en $Y$, calculamos el valor de $a$. Finalmente, evaluamos la función completa en el punto solicitado.
@@ -457,12 +457,12 @@ Se inscribe un rectángulo de base $b$ y altura $h$ dentro de un triángulo isó
 ### Opciones
 - [ ] A) 4
   <!-- feedback: Incorrecto. No corresponde al punto medio de la base del triángulo. -->
-- [x] D) 6
-  <!-- feedback: Correcto. Por semejanza: $h/8 = (6 - b/2)/6 \Rightarrow h = 8 - (4/3)b$. Área $A = b(8 - 4b/3) = -4b^2/3 + 8b$. Vértice en $b = -8 / (2 \times -4/3) = 6$. -->
 - [ ] B) 8
   <!-- feedback: Incorrecto. Esto haría que la altura del rectángulo fuera muy pequeña. -->
 - [ ] C) 3
   <!-- feedback: Incorrecto. Valor que no maximiza la función de área resultante. -->
+- [x] D) 6
+  <!-- feedback: Correcto. Por semejanza: $h/8 = (6 - b/2)/6 \Rightarrow h = 8 - (4/3)b$. Área $A = b(8 - 4b/3) = -4b^2/3 + 8b$. Vértice en $b = -8 / (2 \times -4/3) = 6$. -->
 
 ### Explicacion Pedagogica
 Usamos la semejanza de triángulos para relacionar la base y la altura del rectángulo. Esto nos permite expresar el área como una función cuadrática de una sola variable. El máximo se halla calculando el vértice de dicha función.
@@ -480,10 +480,10 @@ Usamos la semejanza de triángulos para relacionar la base y la altura del rect�
 Si $f(x) = x^2 - 4x + 1$, determine la suma de todas las soluciones de la ecuación $f(f(x)) = 1$.
 
 ### Opciones
-- [ ] B) 4
-  <!-- feedback: Incorrecto. Solo consideró las soluciones de la función interna sin aplicar la composición. -->
 - [x] A) 8
   <!-- feedback: Correcto. $f(u) = 1 \Rightarrow u^2-4u+1=1 \Rightarrow u(u-4)=0 \Rightarrow u=0$ o $u=4$. Ahora resolvemos: 1) $f(x)=0 \Rightarrow x^2-4x+1=0$ (Suma=4). 2) $f(x)=4 \Rightarrow x^2-4x+1=4 \Rightarrow x^2-4x-3=0$ (Suma=4). Suma total = $4 + 4 = 8$. -->
+- [ ] B) 4
+  <!-- feedback: Incorrecto. Solo consideró las soluciones de la función interna sin aplicar la composición. -->
 - [ ] C) 12
   <!-- feedback: Incorrecto. Sumó incorrectamente las raíces individuales. -->
 - [ ] D) 16
@@ -507,11 +507,11 @@ Determine el menor valor entero de $k$ para que la función $f(x) = x^2 - (k-2)x
 ### Opciones
 - [ ] A) 0
   <!-- feedback: Incorrecto. No satisface la condición del discriminante negativo. -->
-- [x] D) 1
-  <!-- feedback: Correcto. Necesitamos $\Delta < 0 \Rightarrow (k-2)^2 - 4(k+1) < 0 \Rightarrow k^2-4k+4-4k-4 < 0 \Rightarrow k^2-8k < 0$. Esto ocurre para $k \in \langle 0, 8 \rangle$. El menor entero es 1. -->
 - [ ] B) -1
   <!-- feedback: Incorrecto. Haría que el discriminante fuera positivo, permitiendo valores negativos de la función. -->
-- [ ] C) 8
+- [x] C) 1
+  <!-- feedback: Correcto. Necesitamos $\Delta < 0 \Rightarrow (k-2)^2 - 4(k+1) < 0 \Rightarrow k^2-4k+4-4k-4 < 0 \Rightarrow k^2-8k < 0$. Esto ocurre para $k \in \langle 0, 8 \rangle$. El menor entero es 1. -->
+- [ ] D) 8
   <!-- feedback: Incorrecto. Este es el límite superior del intervalo, donde la función toca el cero. -->
 
 ### Explicacion Pedagogica

@@ -396,9 +396,9 @@ He would feel much better now if he had followed the doctor's orders last week.
 
 ### Opciones
 - [ ] A) will feel <!-- feedback: "Would feel" is required because the sentence describes an unreal past situation; "will feel" would state a prediction about the present. -->
-- [x] B) would feel <!-- feedback: Correct. Mixed conditional (past condition, present result). -->
+- [ ] B) feels <!-- feedback: Incorrect. Present simple. -->
 - [ ] C) would have felt <!-- feedback: Incorrect. Third conditional. -->
-- [ ] D) feels <!-- feedback: Incorrect. Present simple. -->
+- [x] D) would feel <!-- feedback: Correct. Mixed conditional (past condition, present result). -->
 
 ### Explicacion Pedagogica
 The mixed conditional connects a past hypothetical event with its present consequence.

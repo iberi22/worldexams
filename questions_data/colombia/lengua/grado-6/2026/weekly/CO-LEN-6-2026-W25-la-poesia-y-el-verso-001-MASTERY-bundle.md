@@ -223,9 +223,9 @@ El lenguaje poético sugiere, evoca y crea imágenes. Esa indirección es precis
 
 ### Opciones
 - [ ] A) La cantidad exacta de palabras por verso. <!-- feedback: Incorrecto. La cantidad de palabras no garantiza coherencia. -->
-- [x] B) La unidad temática, el ritmo y la intención comunicativa del texto. <!-- feedback: Correcto. Esos tres ejes sostienen al poema. -->
+- [ ] B) La opinión de un único compañero de clase. <!-- feedback: Incorrecto. La crítica requiere varias voces argumentadas. -->
 - [ ] C) El color de la tinta con que se escribió. <!-- feedback: Incorrecto. El soporte es ajeno al contenido estético. -->
-- [ ] D) La opinión de un único compañero de clase. <!-- feedback: Incorrecto. La crítica requiere varias voces argumentadas. -->
+- [x] D) La unidad temática, el ritmo y la intención comunicativa del texto. <!-- feedback: Correcto. Esos tres ejes sostienen al poema. -->
 
 ### Explicacion Pedagogica
 Para juzgar la coherencia de un poema se considera la unidad de sentido, el ritmo que producen los versos y la intención del autor. La mezcla de formas es válida si esos ejes se sostienen.

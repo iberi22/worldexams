@@ -198,10 +198,10 @@ Una caja trae 24 galletas y se reparten entre 6 niños en partes iguales. ¿Qué
   <!-- feedback: Incorrecto. Esa parte sí es correcta, pero decir "solo la primera" descarta una segunda propuesta que también da 6. -->
 - [ ] B) Solo la segunda: se puede repartir porque 24 es múltiplo de 6
   <!-- feedback: Incorrecto. Esa parte también es correcta, pero la respuesta dice "solo" y deja fuera que cada niño recibe 6 galletas. -->
-- [x] C) Las dos: cada niño recibe 6 galletas y el reparto es exacto porque 24 ÷ 6 = 6
-  <!-- feedback: Correcto. 24 ÷ 6 = 6 sin residuo, así que el reparto es exacto y las dos propuestas dicen lo mismo de otra forma. -->
-- [ ] D) Ninguna, porque la caja no se puede dividir
+- [ ] C) Ninguna, porque la caja no se puede dividir
   <!-- feedback: Incorrecto. El enunciado pide repartir las galletas y eso sí se puede, porque las 24 galletas se pueden dividir entre 6. -->
+- [x] D) Las dos: cada niño recibe 6 galletas y el reparto es exacto porque 24 ÷ 6 = 6
+  <!-- feedback: Correcto. 24 ÷ 6 = 6 sin residuo, así que el reparto es exacto y las dos propuestas dicen lo mismo de otra forma. -->
 
 ### Explicacion Pedagogica
 El reparto es exacto cuando el total divide sin residuo. Aquí 24 ÷ 6 = 6, así que a cada niño le tocan 6 galletas y no queda ninguna sobrante. Las dos propuestas describen ese mismo resultado, una hablando del total que recibe cada niño y la otra de la condición que lo hace posible, por eso las dos son correctas.

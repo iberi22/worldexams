@@ -38,6 +38,7 @@ Este bundle de dominio desarrolla el efecto invernadero, los gases de efecto inv
   <!-- feedback: Incorrecta, porque si todo el calor escapara el planeta sería demasiado frío para la vida. -->
 - [ ] D) La contaminación por plásticos en los ríos de Colombia que impide la navegación en lancha.
   <!-- feedback: Incorrecta, porque la contaminación de ríos es un problema distinto al efecto invernadero atmosférico. -->
+
 ### Explicacion Pedagogica
 El efecto invernadero natural permite la vida porque gases como el vapor de agua y el dióxido de carbono retienen parte del calor. El problema actual es que las actividades humanas aumentan esos gases y retienen demasiado calor.
 
@@ -58,6 +59,7 @@ El efecto invernadero natural permite la vida porque gases como el vapor de agua
   <!-- feedback: Incorrecta, porque no destruyen el oxígeno, sino que alteran el balance de calor en la atmósfera. -->
 - [ ] D) Porque solo existen dentro de laboratorios y nunca llegan a la atmósfera real.
   <!-- feedback: Incorrecta, porque ambos gases se emiten en la vida real por transporte, ganadería y quema de combustibles. -->
+
 ### Explicacion Pedagogica
 Los gases de efecto invernadero son transparentes a la luz solar pero absorben la radiación infrarroja que emite la Tierra caliente. El frasco con humo se calienta más porque simula esa mayor retención de calor.
 
@@ -78,6 +80,7 @@ Los gases de efecto invernadero son transparentes a la luz solar pero absorben l
   <!-- feedback: Correcta, porque el calentamiento sostenido funde el hielo de alta montaña más rápido de lo que se recupera. -->
 - [ ] D) El hielo desapareció porque los nevados se trasladaron hacia la costa Caribe por el viento.
   <!-- feedback: Incorrecta, porque las montañas no se trasladan y el deshielo es un cambio físico del hielo por calor. -->
+
 ### Explicacion Pedagogica
 Los glaciares colombianos como Santa Isabel y El Cocuy son termómetros del clima. Al aplicar lo observado en fotos a la teoría del calentamiento global, se concluye que la pérdida de hielo es evidencia del aumento de temperatura.
 
@@ -98,6 +101,7 @@ Si la temperatura global sigue aumentando, ¿qué cambio en el ciclo del agua ex
   <!-- feedback: Incorrecta, porque el calentamiento produce lo contrario: menos congelamiento y más evaporación. -->
 - [ ] D) Disminución de la evaporación porque el Sol calienta menos cuando hay gases invernadero.
   <!-- feedback: Incorrecta, porque los gases invernadero aumentan la retención de calor y por tanto la evaporación. -->
+
 ### Explicacion Pedagogica
 El ciclo del agua depende de la energía solar. Con más calor hay más evaporación en océanos y suelos, lo que cambia la formación de nubes y provoca periodos de sequía seguidos de aguaceros fuertes que dañan la papa en Boyacá.
 
@@ -118,6 +122,7 @@ El ciclo del agua depende de la energía solar. Con más calor hay más evaporac
   <!-- feedback: Incorrecta, porque más carros aumentan emisiones y talar aumenta la vulnerabilidad ante derrumbes e inundaciones. -->
 - [ ] D) Mitigación: aumentar la quema de carbón en las cocinas; Adaptación: secar los humedales para construir parqueaderos.
   <!-- feedback: Incorrecta, porque ambas acciones empeoran las causas y los impactos del cambio climático. -->
+
 ### Explicacion Pedagogica
 Mitigar es atacar la causa, por ejemplo capturar carbono o reducir emisiones. Adaptarse es prepararse para los impactos inevitables, como inundaciones del río Cauca. Ambas estrategias se necesitan en Cali.
 
@@ -138,6 +143,7 @@ Mitigar es atacar la causa, por ejemplo capturar carbono o reducir emisiones. Ad
   <!-- feedback: Incorrecta, porque la distancia a la Luna no cambia por el clima y las olas no desaparecen. -->
 - [ ] D) El calentamiento convierte el agua salada en agua dulce y los barcos quedan atrapados en el barro.
   <!-- feedback: Incorrecta, porque el calentamiento no desaliniza el mar ni explica la entrada del agua a las calles. -->
+
 ### Explicacion Pedagogica
 El análisis une dos efectos físicos: el agua caliente ocupa más volumen y el agua de glaciares derretidos llega al océano. En ciudades bajas como Cartagena, pocos centímetros de aumento bastan para que la marea alta inunde calles de La Boquilla.
 
@@ -158,6 +164,7 @@ El análisis une dos efectos físicos: el agua caliente ocupa más volumen y el 
   <!-- feedback: Incorrecta, porque la deforestación es una fuente importante de emisiones junto con los combustibles fósiles. -->
 - [ ] D) Talar aumenta las lluvias en Leticia porque el suelo sin árboles produce nubes de polvo que siempre llueven.
   <!-- feedback: Incorrecta, porque sin bosque disminuye la transpiración que alimenta las lluvias amazónicas. -->
+
 ### Explicacion Pedagogica
 El bosque amazónico almacena carbono y genera humedad por transpiración. Al talar se libera dióxido de carbono y se rompe la bomba de humedad, lo que explica sequías y cambios en los caños de Leticia.
 
@@ -178,6 +185,7 @@ Al comparar las dos propuestas, ¿cuál contribuye a la mitigación real y por q
   <!-- feedback: Incorrecta, porque el efecto climático depende de emisiones y captura, no del gasto en dinero. -->
 - [ ] D) Ninguna tiene relación con el clima porque el clima solo depende de la rotación de la Tierra.
   <!-- feedback: Incorrecta, porque las emisiones humanas sí alteran el balance de calor aunque la rotación exista. -->
+
 ### Explicacion Pedagogica
 Analizar propuestas exige mirar el balance de gases. Los manglares del Caribe capturan carbono y frenan la erosión, mientras los equipos ineficientes conectados a energía fósil aumentan el problema aunque alivien el calor por horas.
 
@@ -192,12 +200,13 @@ Analizar propuestas exige mirar el balance de gases. Los manglares del Caribe ca
 ### Opciones
 - [ ] A) Es correcta porque cualquier acción local detiene de inmediato y por completo el deshielo de todos los glaciares.
   <!-- feedback: Incorrecta, porque el sistema climático responde a escala global y con retardo, no a una sola acción inmediata. -->
-- [x] B) Es exagerada porque las acciones locales ayudan y educan, pero el deshielo responde a emisiones globales acumuladas y requiere esfuerzos sostenidos y amplios.
-  <!-- feedback: Correcta, porque valora la acción local sin atribuirle un efecto global inmediato imposible. -->
+- [ ] B) Es irrelevante porque sembrar plantas y usar bicicleta aumentan los gases invernadero en Nariño.
+  <!-- feedback: Incorrecta, porque ambas acciones reducen emisiones o capturan carbono y no las aumentan. -->
 - [ ] C) Es correcta porque los techos verdes de Pasto enfrían directamente el hielo del Cocuy por tuberías subterráneas.
   <!-- feedback: Incorrecta, porque no existe conexión física directa entre un techo en Pasto y el glaciar del Cocuy. -->
-- [ ] D) Es irrelevante porque sembrar plantas y usar bicicleta aumentan los gases invernadero en Nariño.
-  <!-- feedback: Incorrecta, porque ambas acciones reducen emisiones o capturan carbono y no las aumentan. -->
+- [x] D) Es exagerada porque las acciones locales ayudan y educan, pero el deshielo responde a emisiones globales acumuladas y requiere esfuerzos sostenidos y amplios.
+  <!-- feedback: Correcta, porque valora la acción local sin atribuirle un efecto global inmediato imposible. -->
+
 ### Explicacion Pedagogica
 Evaluar exige ponderar escala y tiempo. Los techos verdes y la bicicleta en Pasto son valiosos como mitigación y ejemplo, pero el Cocuy depende de décadas de emisiones mundiales. El cambio real necesita constancia y suma de muchos territorios.
 
@@ -218,5 +227,6 @@ Evaluar exige ponderar escala y tiempo. Los techos verdes y la bicicleta en Past
   <!-- feedback: Correcta, porque combina reubicación preventiva con infraestructura natural de doble beneficio. -->
 - [ ] D) Rellenar el mar con cemento para ganar playa porque el cemento captura más carbono que el manglar.
   <!-- feedback: Incorrecta, porque producir cemento emite grandes cantidades de dióxido de carbono y destruye hábitat. -->
+
 ### Explicacion Pedagogica
 La mejor adaptación en islas como San Andrés combina retirarse de la zona de riesgo y recuperar defensas naturales. El manglar disipa la energía de las olas, fija sedimento y además mitiga al capturar carbono, con doble ganancia frente al cemento.

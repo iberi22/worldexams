@@ -32,14 +32,15 @@ Este bundle contiene 12 preguntas sobre **sistema-endocrino-humano** para grado 
 ### Enunciado
 Cuáles son las glándulas principales que conforman el sistema endocrino humano?
 ### Opciones
-- [x] B) Hipotálamo, hipófisis, tiroides, paratiroides, páncreas, suprarrenales, gonadas y pineal.
-  <!-- feedback: Correcto. Estas son las glándulas endocrinas clasicas del cuerpo humano. -->
 - [ ] A) Hígado, estómago, intestino delgado y páncreas.
   <!-- feedback: Incorrecto. Hígado, estómago e intestino no son glándulas endocrinas principales. -->
+- [x] B) Hipotálamo, hipófisis, tiroides, paratiroides, páncreas, suprarrenales, gonadas y pineal.
+  <!-- feedback: Correcto. Estas son las glándulas endocrinas clasicas del cuerpo humano. -->
 - [ ] C) Rinon, vejiga, uretra y prostata.
   <!-- feedback: Incorrecto. Estos órganos pertenecen al sistema urinario o reproductor masculino. -->
 - [ ] D) Bazo, ganglios linfaticos y timo unicamente.
   <!-- feedback: Incorrecto. Estos forman parte del sistema inmunologico, principalmente. -->
+
 ### Explicacion Pedagogica
 Glándulas endocrinas principales: hipotálamo, hipófisis, pineal, tiroides, paratiroides, suprarrenales, páncreas (islotes) y gonadas.
 
@@ -60,6 +61,7 @@ Cuál es el mecanismo general por el cual las hormonas regulan funciones en el c
   <!-- feedback: Incorrecto. Las hormonas actuan durante periodos prolongados antes de metabolizarse. -->
 - [ ] D) Las hormonas solo actuan en órganos cercanos a la glándula que las produce.
   <!-- feedback: Incorrecto. Las hormonas endocrinas llegan a órganos distantes a traves de la sangre. -->
+
 ### Explicacion Pedagogica
 Hormona $=$ mensajero químico secretado a la sangre que actua sobre células blanco con receptores especificos.
 
@@ -72,14 +74,15 @@ Hormona $=$ mensajero químico secretado a la sangre que actua sobre células bl
 ### Enunciado
 Cuál es la relacion correcta entre el páncreas endocrino y la hiperglucemia observada?
 ### Opciones
-- [x] B) La deficiencia o resistencia a la insulina impide la captacion celular de glucosa, elevando su concentracion sanguinea.
-  <!-- feedback: Correcto. Sin suficiente insulina funcional, la glucosa no ingresa bien a las células y se acumula en sangre. -->
 - [ ] A) La hiperglucemia se debe exclusivamente a consumo excesivo de sal.
   <!-- feedback: Incorrecto. La sal afecta la presión arterial, no directamente la glucemia. -->
+- [x] B) La deficiencia o resistencia a la insulina impide la captacion celular de glucosa, elevando su concentracion sanguinea.
+  <!-- feedback: Correcto. Sin suficiente insulina funcional, la glucosa no ingresa bien a las células y se acumula en sangre. -->
 - [ ] C) El páncreas endocrino produce bicarbonato, no insulina.
   <!-- feedback: Incorrecto. El páncreas exocrino secreta bicarbonato; el endocrino produce hormonas como insulina y glucagon. -->
 - [ ] D) La hiperglucemia solo aparece por falta de ejercicio, no por problemas hormonales.
   <!-- feedback: Incorrecto. Las causas hormonales, especialmente la diabetes, son factores claves de hiperglucemia. -->
+
 ### Explicacion Pedagogica
 Insulina: facilita la entrada de glucosa a las células. Su deficiencia causa hiperglucemia cronica, caracteristica de la diabetes mellitus.
 
@@ -92,14 +95,15 @@ Insulina: facilita la entrada de glucosa a las células. Su deficiencia causa hi
 ### Enunciado
 Cuál es la funcion principal de la tiroxina (T4) secretada por la glándula tiroides?
 ### Opciones
-- [x] B) Regular el metabolismo basal, el crecimiento y el desarrollo del cuerpo.
-  <!-- feedback: Correcto. Las hormonas tiroideas regulan el metabolismo energetico y el desarrollo. -->
 - [ ] A) Aumentar la concentracion de calcio en la sangre.
   <!-- feedback: Incorrecto. La calcemia la regula principalmente la parathormona (PTH). -->
+- [x] B) Regular el metabolismo basal, el crecimiento y el desarrollo del cuerpo.
+  <!-- feedback: Correcto. Las hormonas tiroideas regulan el metabolismo energetico y el desarrollo. -->
 - [ ] C) Estimular la produccion de glóbulos rojos en la médula osea.
   <!-- feedback: Incorrecto. La eritropoyetina cumple esa funcion, no la tiroxina. -->
 - [ ] D) Regular el ciclo menstrual femenino.
   <!-- feedback: Incorrecto. El ciclo menstrual depende de estrogenos y progesterona. -->
+
 ### Explicacion Pedagogica
 La tiroxina (T4) y la triyodotironina (T3) regulan el metabolismo basal, termogenesis y el desarrollo somatico y neurologico.
 
@@ -112,14 +116,15 @@ La tiroxina (T4) y la triyodotironina (T3) regulan el metabolismo basal, termoge
 ### Enunciado
 Cuál es la hormona principal secretada por la médula suprarrenal que produce estas respuestas fisiologicas?
 ### Opciones
-- [x] B) Adrenalina (epinefrina).
-  <!-- feedback: Correcto. La adrenalina prepara al cuerpo para respuestas rapidas de lucha o huida. -->
 - [ ] A) Insulina.
   <!-- feedback: Incorrecto. La insulina regula la glucosa en sangre, no la respuesta de alerta. -->
+- [x] B) Adrenalina (epinefrina).
+  <!-- feedback: Correcto. La adrenalina prepara al cuerpo para respuestas rapidas de lucha o huida. -->
 - [ ] C) Melatonina.
   <!-- feedback: Incorrecto. La melatonina regula el ciclo sueno-vigilia. -->
 - [ ] D) Oxitocina.
   <!-- feedback: Incorrecto. La oxitocina esta relacionada con el parto y la lactancia. -->
+
 ### Explicacion Pedagogica
 La adrenalina aumenta frecuencia cardiaca, dilata pupilas y moviliza reservas energeticas para respuestas de emergencia.
 
@@ -140,6 +145,7 @@ Cuál es el análisis correcto del mecanismo de retroalimentacion negativa entre
   <!-- feedback: Incorrecto. Es un mecanismo general del sistema endocrino. -->
 - [ ] D) Las hormonas tiroideas nunca afectan a la hipófisis.
   <!-- feedback: Incorrecto. El eje hipotalamo-hipofisis-tiroides se regula por retroalimentacion negativa. -->
+
 ### Explicacion Pedagogica
 Retroalimentacion negativa: el aumento del producto final (T3/T4) inhibe la estimulacion del eje central para mantener niveles estables.
 
@@ -152,14 +158,15 @@ Retroalimentacion negativa: el aumento del producto final (T3/T4) inhibe la esti
 ### Enunciado
 Cuál es el análisis correcto del origen fisiologico del gigantismo observado?
 ### Opciones
-- [x] C) Hiperproduccion de somatotropina (GH) por la hipófisis anterior durante la etapa de crecimiento.
-  <!-- feedback: Correcto. El exceso de GH antes del cierre epifisario produce gigantismo hipofisario. -->
 - [ ] A) Deficiencia de insulina en el páncreas.
   <!-- feedback: Incorrecto. La insulina no controla directamente el crecimiento somatico. -->
 - [ ] B) Falta de vitamina D en la dieta del nino.
   <!-- feedback: Incorrecto. La deficiencia de vitamina D causa raquitismo, no gigantismo. -->
+- [x] C) Hiperproduccion de somatotropina (GH) por la hipófisis anterior durante la etapa de crecimiento.
+  <!-- feedback: Correcto. El exceso de GH antes del cierre epifisario produce gigantismo hipofisario. -->
 - [ ] D) Aumento excesivo de la melatonina por exposicion a pantallas.
   <!-- feedback: Incorrecto. La melatonina regula el sueno, no el crecimiento oseo longitudinal. -->
+
 ### Explicacion Pedagogica
 La somatotropina (GH) estimula el crecimiento oseo longitudinal. Su exceso durante la niinez produce gigantismo; en adultos, acromegalia.
 
@@ -172,14 +179,15 @@ La somatotropina (GH) estimula el crecimiento oseo longitudinal. Su exceso duran
 ### Enunciado
 Cuál es el análisis del efecto del exceso de yodo sobre la funcion tiroidea en el cuerpo humano?
 ### Opciones
-- [x] C) El exceso de yodo puede alterar la síntesis de hormonas tiroideas y provocar hipertiroidismo o hipotiroidismo.
-  <!-- feedback: Correcto. Tanto el deficit como el exceso de yodo alteran la produccion de T3 y T4. -->
 - [ ] A) El exceso de yodo no tiene ningun efecto sobre la tiroides humana.
   <!-- feedback: Incorrecto. La tiroides requiere yodo en cantidades reguladas para sintetizar hormonas. -->
 - [ ] B) El yodo solo afecta al sistema nervioso, no a la tiroides.
   <!-- feedback: Incorrecto. El yodo es esencial para la síntesis de hormonas tiroideas. -->
+- [x] C) El exceso de yodo puede alterar la síntesis de hormonas tiroideas y provocar hipertiroidismo o hipotiroidismo.
+  <!-- feedback: Correcto. Tanto el deficit como el exceso de yodo alteran la produccion de T3 y T4. -->
 - [ ] D) El exceso de yodo produce siempre hipertiroidismo sin posibilidad de hipotiroidismo.
   <!-- feedback: Incorrecto. Puede producir ambos extremos por mecanismos diferentes. -->
+
 ### Explicacion Pedagogica
 La tiroides requiere yodo para sintetizar hormonas. Su exceso puede desregular la produccion hormonal por distintos mecanismos.
 
@@ -192,14 +200,15 @@ La tiroides requiere yodo para sintetizar hormonas. Su exceso puede desregular l
 ### Enunciado
 Cuál es el análisis correcto del papel de las gonadotropinas hipofisarias en el inicio de la pubertad?
 ### Opciones
-- [x] C) La hipófisis secreta FSH y LH, que estimulan las gonadas para producir hormonas sexuales y desencadenar la pubertad.
-  <!-- feedback: Correcto. Las gonadotropinas FSH y LH activan ovarios y testiculos durante la pubertad. -->
 - [ ] A) La pubertad se inicia exclusivamente por la melatonina pineal.
   <!-- feedback: Incorrecto. La melatonina tiene un papel modulatorio, pero no es el detonante principal. -->
 - [ ] B) La hipófisis no participa en la regulacion de la pubertad.
   <!-- feedback: Incorrecto. La hipófisis es clave al liberar gonadotropinas que activan las gonadas. -->
+- [x] C) La hipófisis secreta FSH y LH, que estimulan las gonadas para producir hormonas sexuales y desencadenar la pubertad.
+  <!-- feedback: Correcto. Las gonadotropinas FSH y LH activan ovarios y testiculos durante la pubertad. -->
 - [ ] D) La pubertad depende solo de la voluntad del adolescente.
   <!-- feedback: Incorrecto. Es un proceso biologicamente regulado por hormonas y genes. -->
+
 ### Explicacion Pedagogica
 FSH y LH estimulan las gonadas para producir estrogenos y testosterona, hormonas que producen los caracteres sexuales secundarios.
 
@@ -212,14 +221,15 @@ FSH y LH estimulan las gonadas para producir estrogenos y testosterona, hormonas
 ### Enunciado
 Cual de los siguientes argumentos justifica mejor la importancia de garantizar acceso universal a la insulina?
 ### Opciones
-- [x] C) La insulina es vital para la supervivencia y regulacion glucemica; su ausencia produce complicaciones mortales.
-  <!-- feedback: Correcto. Sin insulina exogena, la diabetes tipo 1 produce cetoacidosis y muerte. -->
 - [ ] A) La insulina es opcional y los diabeticos pueden regular la glucosa solo con dieta.
   <!-- feedback: Incorrecto. En diabetes tipo 1, la insulina exogena es indispensable. -->
 - [ ] B) Garantizar la insulina solo interesa a las companias farmaceuticas.
   <!-- feedback: Incorrecto. Es una prioridad de salud publica por su impacto en morbimortalidad. -->
+- [x] C) La insulina es vital para la supervivencia y regulacion glucemica; su ausencia produce complicaciones mortales.
+  <!-- feedback: Correcto. Sin insulina exogena, la diabetes tipo 1 produce cetoacidosis y muerte. -->
 - [ ] D) La diabetes tipo 1 no requiere ningun tratamiento hormonal.
   <!-- feedback: Incorrecto. La diabetes tipo 1 requiere insulina de por vida. -->
+
 ### Explicacion Pedagogica
 El acceso a insulina es un derecho de salud básico para personas con diabetes tipo 1, dada su naturaleza hormonal y vital.
 
@@ -240,6 +250,7 @@ Cuál es la evaluacion correcta del riesgo de los disruptores endocrinos present
   <!-- feedback: Incorrecto. Los disruptores endocrinos afectan glándulas y receptores hormonales. -->
 - [ ] D) Los disruptores endocrinos solo aparecen en metales pesados, no en plasticos.
   <!-- feedback: Incorrecto. Existen disruptores endocrinos tanto en plasticos como en otros materiales. -->
+
 ### Explicacion Pedagogica
 Los disruptores endocrinos son sustancias exogenas que alteran la síntesis, liberacion o acción de hormonas naturales, con efectos sobre la salud.
 
@@ -252,13 +263,14 @@ Los disruptores endocrinos son sustancias exogenas que alteran la síntesis, lib
 ### Enunciado
 Cual de las siguientes afirmaciones evalua mejor los riesgos del uso de esteroides anabolizantes durante la adolescencia?
 ### Opciones
-- [x] A) Los anabolizantes alteran el sistema endocrino propio, causando dano hepatico, crecimiento detenido y cambios emocionales.
-  <!-- feedback: Correcto. El uso de anabolizantes en adolescentes genera desequilibrios hormonales severos. -->
+- [ ] A) Los anabolizantes favorecen el crecimiento lineal en adolescentes.
+  <!-- feedback: Incorrecto. Pueden cerrar prematuramente las placas de crecimiento, reduciendo la talla final. -->
 - [ ] B) Los anabolizantes son completamente seguros si se usan en dosis deportivas.
   <!-- feedback: Incorrecto. Todo uso de anabolizantes sin prescripcion tiene riesgos importantes. -->
 - [ ] C) Los anabolizantes solo afectan el sistema muscular sin impacto hormonal.
   <!-- feedback: Incorrecto. Son hormonas esteroides y alteran profundamente el sistema endocrino. -->
-- [ ] D) Los anabolizantes favorecen el crecimiento lineal en adolescentes.
-  <!-- feedback: Incorrecto. Pueden cerrar prematuramente las placas de crecimiento, reduciendo la talla final. -->
+- [x] D) Los anabolizantes alteran el sistema endocrino propio, causando dano hepatico, crecimiento detenido y cambios emocionales.
+  <!-- feedback: Correcto. El uso de anabolizantes en adolescentes genera desequilibrios hormonales severos. -->
+
 ### Explicacion Pedagogica
 El uso de esteroides anabolizantes en adolescentes altera la regulacion hormonal, afecta el hígado, detiene el crecimiento y causa danos psicologicos.

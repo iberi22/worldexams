@@ -474,12 +474,12 @@ La lectura crítica de la prensa combina varias operaciones: contrastar fuentes,
 ### Opciones
 - [ ] A) Sustituir a los jueces en la toma de decisiones sobre los conflictos sociales.
   <!-- feedback: Es incorrecta porque el editorial orienta la opinión, pero no ejerce funciones judiciales. -->
-- [x] B) Ofrecer una interpretación argumentada de los asuntos públicos que contribuye al debate ciudadano cuando se ejerce con rigor y apertura.
-  <!-- feedback: Es correcta porque el editorial aporta análisis y perspectivas que enriquecen la deliberación democrática. -->
+- [ ] B) Repetir sin análisis los comunicados oficiales.
+  <!-- feedback: Es incorrecta porque la mera repetición no aporta interpretación ni criterio a los lectores. -->
 - [ ] C) Publicar únicamente publicidad institucional.
   <!-- feedback: Es incorrecta porque la publicidad no cumple la función argumentativa del editorial. -->
-- [ ] D) Repetir sin análisis los comunicados oficiales.
-  <!-- feedback: Es incorrecta porque la mera repetición no aporta interpretación ni criterio a los lectores. -->
+- [x] D) Ofrecer una interpretación argumentada de los asuntos públicos que contribuye al debate ciudadano cuando se ejerce con rigor y apertura.
+  <!-- feedback: Es correcta porque el editorial aporta análisis y perspectivas que enriquecen la deliberación democrática. -->
 
 ### Explicacion Pedagogica
 En una democracia, el editorial contribuye al debate público cuando interpreta con argumentos los asuntos colectivos y ayuda a los ciudadanos a formarse un criterio. Su valor depende del rigor, la transparencia y la disposición a reconocer otras posiciones.

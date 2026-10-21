@@ -57,10 +57,10 @@ La comprensión literal de un texto normativo exige identificar los deberes tal 
 ¿Cuál es el propósito principal del Manual de Convivencia según su presentación?
 
 ### Opciones
-- [x] B) Formar ciudadanos responsables que resuelvan sus diferencias mediante el diálogo y el respeto.
-  <!-- feedback: La presentación declara que el propósito es formar, no castigar, promoviendo el diálogo y el respeto por los derechos. -->
 - [ ] A) Establecer un listado de castigos severos para sancionar cualquier falta de inmediato.
   <!-- feedback: El texto aclara expresamente que su propósito no es castigar, sino formar. -->
+- [x] B) Formar ciudadanos responsables que resuelvan sus diferencias mediante el diálogo y el respeto.
+  <!-- feedback: La presentación declara que el propósito es formar, no castigar, promoviendo el diálogo y el respeto por los derechos. -->
 - [ ] C) Reemplazar las clases de todas las asignaturas por jornadas de disciplina.
   <!-- feedback: El manual complementa la formación académica, no reemplaza las clases. -->
 - [ ] D) Impedir que las familias participen en las decisiones de la vida escolar.
@@ -80,10 +80,10 @@ Comprender el propósito global de un texto institucional permite interpretar co
 Aplicando el manual, ¿cuál es la conducta correcta que deben seguir los estudiantes en este conflicto?
 
 ### Opciones
-- [x] B) Detenerse, expresar lo que sienten sin insultos y buscar un acuerdo justo o acudir al mediador.
-  <!-- feedback: Este es el procedimiento de tres pasos que el manual prescribe para resolver los conflictos de forma pacífica. -->
 - [ ] A) Resolver la disputa con empujones para demostrar quién es más fuerte con el balón.
   <!-- feedback: La agresión física contradice el principio de resolución pacífica del manual. -->
+- [x] B) Detenerse, expresar lo que sienten sin insultos y buscar un acuerdo justo o acudir al mediador.
+  <!-- feedback: Este es el procedimiento de tres pasos que el manual prescribe para resolver los conflictos de forma pacífica. -->
 - [ ] C) Insultarse mutuamente hasta que uno de los dos abandone el juego llorando.
   <!-- feedback: Los insultos violan la regla de expresar los sentimientos sin agredir al compañero. -->
 - [ ] D) Esconder el balón para que ninguno de los dos pueda jugar durante el descanso.
@@ -149,14 +149,14 @@ Reconocer la intención de los mensajes de convivencia permite valorar la empat�
 Al analizar la clasificación del manual, ¿cómo debe tipificarse la conducta del estudiante y por qué?
 
 ### Opciones
-- [x] A) Como falta grave, porque dañó intencionalmente un bien del colegio comparable al pupitre del ejemplo.
-  <!-- feedback: El daño intencional a los bienes institucionales corresponde a la categoría de faltas graves del manual. -->
+- [ ] A) Como conducta sin falta, porque el enojo justifica cualquier daño en el colegio.
+  <!-- feedback: Ninguna emoción justifica el daño intencional; el manual lo sanciona como falta grave. -->
 - [ ] B) Como falta leve, porque solo se trató de un descuido sin importancia material.
   <!-- feedback: Romper a propósito el microscopio no es un olvido leve sino un daño deliberado. -->
 - [ ] C) Como falta muy grave, porque agredió físicamente a un compañero del laboratorio.
   <!-- feedback: No hubo agresión física contra una persona; el daño fue contra un bien material. -->
-- [ ] D) Como conducta sin falta, porque el enojo justifica cualquier daño en el colegio.
-  <!-- feedback: Ninguna emoción justifica el daño intencional; el manual lo sanciona como falta grave. -->
+- [x] D) Como falta grave, porque dañó intencionalmente un bien del colegio comparable al pupitre del ejemplo.
+  <!-- feedback: El daño intencional a los bienes institucionales corresponde a la categoría de faltas graves del manual. -->
 
 ### Explicacion Pedagogica
 Analizar la tipificación de las faltas enseña a diferenciar la gravedad de las conductas según el daño causado y la intención.
@@ -172,12 +172,12 @@ Analizar la tipificación de las faltas enseña a diferenciar la gravedad de las
 ¿Qué relación existe entre el artículo 14 del manual y la situación descrita en la nota del estudiante?
 
 ### Opciones
-- [x] C) La situación vulnera el derecho al debido proceso porque el estudiante fue sancionado sin ser escuchado.
-  <!-- feedback: El artículo garantiza ser escuchado antes de la sanción; castigar sin escuchar contradice esa norma. -->
 - [ ] A) La nota confirma que el manual se cumplió correctamente en todos sus pasos.
   <!-- feedback: Si al estudiante no lo dejaron explicar, el procedimiento del artículo no se cumplió. -->
 - [ ] B) El artículo y la nota hablan de temas completamente distintos sin relación entre sí.
   <!-- feedback: Ambos tratan del mismo derecho: ser escuchado antes de recibir una sanción. -->
+- [x] C) La situación vulnera el derecho al debido proceso porque el estudiante fue sancionado sin ser escuchado.
+  <!-- feedback: El artículo garantiza ser escuchado antes de la sanción; castigar sin escuchar contradice esa norma. -->
 - [ ] D) La nota demuestra que los estudiantes no tienen ningún derecho dentro del colegio.
   <!-- feedback: El artículo 14 reconoce expresamente el derecho a ser escuchado y al debido proceso. -->
 
@@ -195,10 +195,10 @@ Contrastar la norma escrita con un caso real permite analizar si los derechos co
 ¿Qué argumento crítico refuta mejor la postura del estudiante sobre el valor del Manual de Convivencia?
 
 ### Opciones
-- [x] B) El diálogo y la mediación reparan las relaciones y enseñan a convivir, mientras la pelea genera más violencia y sanciones.
-  <!-- feedback: La resolución pacífica preserva los vínculos y forma ciudadanía; la agresión multiplica el daño y vulnera derechos. -->
 - [ ] A) El estudiante tiene razón porque dialogar quita demasiado tiempo y pelear es más divertido.
   <!-- feedback: La rapidez de la pelea no la hace justa; el diálogo construye acuerdos duraderos y respetuosos. -->
+- [x] B) El diálogo y la mediación reparan las relaciones y enseñan a convivir, mientras la pelea genera más violencia y sanciones.
+  <!-- feedback: La resolución pacífica preserva los vínculos y forma ciudadanía; la agresión multiplica el daño y vulnera derechos. -->
 - [ ] C) Los manuales solo sirven para adornar las carteleras y nunca se aplican en la vida real.
   <!-- feedback: Desconoce que el manual es un pacto colectivo con procedimientos concretos como la mediación escolar. -->
 - [ ] D) Los mediadores escolares existen para castigar con dureza a quien participe en cualquier juego.

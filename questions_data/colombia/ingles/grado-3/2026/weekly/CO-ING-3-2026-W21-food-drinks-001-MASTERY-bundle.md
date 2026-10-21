@@ -33,14 +33,14 @@ creador: "Jules-Agent"
 What is the English word for: "A white drink produced by cows, goats, or sheep, often drunk for breakfast."
 
 ### Opciones
-- [x] D) milk
-  <!-- feedback: Correct! 'milk' is the white liquid produced by cows, goats, or sheep, and is a common drink. -->
 - [ ] A) soda
   <!-- feedback: 'soda' is a sweet, fizzy drink, not the white liquid produced by cows. -->
 - [ ] B) coffee
   <!-- feedback: 'coffee' is a dark, bitter drink made from roasted beans, not a white liquid from cows. -->
 - [ ] C) tea
   <!-- feedback: 'tea' is a hot drink made from leaves, not the white liquid from cows. -->
+- [x] D) milk
+  <!-- feedback: Correct! 'milk' is the white liquid produced by cows, goats, or sheep, and is a common drink. -->
 
 ### Explicacion Pedagogica
 The word 'milk' is used to describe a white liquid produced by cows, goats, or sheep, often drunk for breakfast. This is an important vocabulary word in English related to food and drinks.
@@ -79,14 +79,14 @@ The word 'bread' is used to describe a food made of baked flour and water, often
 What is the English word for: "A clear, colorless drink that you need to drink every day to stay healthy."
 
 ### Opciones
-- [x] D) water
-  <!-- feedback: Correct! 'water' is a clear, colorless natural liquid that is essential to drink for your health every day. -->
 - [ ] A) juice
   <!-- feedback: 'juice' is a liquid made from fruit or vegetables, which is not colorless. -->
 - [ ] B) soda
   <!-- feedback: 'soda' is a sweet, fizzy drink with added flavors, not a clear, natural liquid. -->
 - [ ] C) coffee
   <!-- feedback: 'coffee' is a dark, bitter drink made from beans, not a clear, colorless liquid. -->
+- [x] D) water
+  <!-- feedback: Correct! 'water' is a clear, colorless natural liquid that is essential to drink for your health every day. -->
 
 ### Explicacion Pedagogica
 The word 'water' is used to describe a clear, colorless liquid that you need to drink every day to stay healthy. This is an important vocabulary word in English related to food and drinks.
@@ -125,10 +125,10 @@ The word 'rice' is used to describe small white or brown grains that are boiled 
 What is the English word for: "A sweet drink made by squeezing liquid out of fresh fruit or vegetables."
 
 ### Opciones
-- [x] B) juice
-  <!-- feedback: Correct! 'juice' is a sweet drink that is made by squeezing the liquid out of fresh fruit or vegetables. -->
 - [ ] A) water
   <!-- feedback: 'water' is a natural, clear liquid without flavor, not the sweet liquid squeezed from fruit. -->
+- [x] B) juice
+  <!-- feedback: Correct! 'juice' is a sweet drink that is made by squeezing the liquid out of fresh fruit or vegetables. -->
 - [ ] C) milk
   <!-- feedback: 'milk' is a white liquid produced by cows, not the liquid squeezed from fresh fruit. -->
 - [ ] D) tea
@@ -148,14 +148,14 @@ The word 'juice' is used to describe a sweet drink made by squeezing liquid out 
 What is the English word for: "A food that is an oval object with a hard shell produced by a chicken, often eaten for breakfast."
 
 ### Opciones
-- [x] D) egg
-  <!-- feedback: Correct! 'egg' is the oval object with a hard shell produced by a chicken and often eaten for breakfast. -->
 - [ ] A) cheese
   <!-- feedback: 'cheese' is a yellow or white food made from milk, not an oval object with a hard shell. -->
 - [ ] B) apple
   <!-- feedback: 'apple' is a round fruit that grows on trees, not an object produced by a chicken. -->
 - [ ] C) bread
   <!-- feedback: 'bread' is a baked food made of flour, not an oval object with a hard shell. -->
+- [x] D) egg
+  <!-- feedback: Correct! 'egg' is the oval object with a hard shell produced by a chicken and often eaten for breakfast. -->
 
 ### Explicacion Pedagogica
 The word 'egg' is used to describe an oval object with a hard shell produced by a chicken, often eaten for breakfast. This is an important vocabulary word in English related to food and drinks.
@@ -194,12 +194,12 @@ The word 'apple' is used to describe a round fruit with red, green, or yellow sk
 What is the English word for: "A food that is a long, curved fruit with a yellow skin that is soft and sweet inside."
 
 ### Opciones
-- [x] A) banana
-  <!-- feedback: Correct! 'banana' is a long, curved fruit with a yellow peel that has soft, sweet flesh on the inside. -->
+- [ ] A) pear
+  <!-- feedback: 'pear' is a round, pear-colored citrus fruit, not a long and curved fruit. -->
 - [ ] B) apple
   <!-- feedback: 'apple' is a round fruit with red or green skin, not long and curved with a yellow skin. -->
-- [ ] C) pear
-  <!-- feedback: 'pear' is a round, pear-colored citrus fruit, not a long and curved fruit. -->
+- [x] C) banana
+  <!-- feedback: Correct! 'banana' is a long, curved fruit with a yellow peel that has soft, sweet flesh on the inside. -->
 - [ ] D) grape
   <!-- feedback: 'grape' is a small, round fruit, not a long, curved yellow fruit. -->
 

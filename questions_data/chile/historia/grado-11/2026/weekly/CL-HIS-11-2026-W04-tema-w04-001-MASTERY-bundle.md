@@ -464,12 +464,12 @@ A la luz de los indicadores sociales de la época, ¿cómo transformó la expans
 ### Opciones
 - [ ] A) El país eliminó por completo toda desigualdad de clases y erradicó la pobreza absoluta de las barriadas.
   <!-- feedback: Incorrecto. La desigualdad de clases continuó patente y surgieron cordones de pobreza urbana periférica (las 'poblaciones callampas') ante el persistente flujo migratorio rural. -->
-- [x] B) Redujo de manera sustantiva las tasas de analfabetismo y de mortalidad infantil, consolidando a la educación pública y la salud estatal como los canales primordiales de ascenso de las clases medias y obreras.
-  <!-- feedback: Correcto. El SNS bajó radicalmente la mortandad materno-infantil y erradicó epidemias de cólera y tifus. El robustecimiento de escuelas primarias, liceos públicos y universidades facilitó la profesionalización y movilidad de los sectores populares y medios, legitimando el rol promotor del Estado. -->
+- [ ] B) Hizo que Chile renunciara a toda relación soberana y aduanera con los países de América del Sur.
+  <!-- feedback: Incorrecto. Chile continuó forjando acuerdos aduaneros y diplomáticos de mutua colaboración e integración con naciones vecinas. -->
 - [ ] C) Provocó la bancarrota absoluta de todas las industrias manufactureras del Biobío, regresando al trueque colonial de papas y legumbres.
   <!-- feedback: Incorrecto. Al revés, el modelo ISI y la CAP de Talcahuano dinamizaron las manufacturas metalúrgicas del Biobío. -->
-- [ ] D) Hizo que Chile renunciara a toda relación soberana y aduanera con los países de América del Sur.
-  <!-- feedback: Incorrecto. Chile continuó forjando acuerdos aduaneros y diplomáticos de mutua colaboración e integración con naciones vecinas. -->
+- [x] D) Redujo de manera sustantiva las tasas de analfabetismo y de mortalidad infantil, consolidando a la educación pública y la salud estatal como los canales primordiales de ascenso de las clases medias y obreras.
+  <!-- feedback: Correcto. El SNS bajó radicalmente la mortandad materno-infantil y erradicó epidemias de cólera y tifus. El robustecimiento de escuelas primarias, liceos públicos y universidades facilitó la profesionalización y movilidad de los sectores populares y medios, legitimando el rol promotor del Estado. -->
 
 ### Explicacion Pedagogica
 A mediados del siglo XX, el Estado chileno dejó de ser meramente 'gendarme' u ordenador (del estilo del siglo XIX) para asumir una clara función de justicia social, asumiendo que los derechos a la instrucción, el resguardo de la salud y el derecho a la vivienda constituían prerrogativas sociales básicas inseparables de la soberanía nacional.

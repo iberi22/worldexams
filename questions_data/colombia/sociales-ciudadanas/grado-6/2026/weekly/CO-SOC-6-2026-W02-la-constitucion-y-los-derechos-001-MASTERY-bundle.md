@@ -241,12 +241,12 @@ En el foro de Medellín, los participantes concluyen que conocer la Constitució
 ### Opciones
 - [ ] A) Porque la Constitución solo sirve para memorizarla en los exámenes escolares.
   <!-- feedback: Error. Reduce la Constitución a un ejercicio memorístico y le quita su función práctica. -->
-- [x] B) Porque conocer el texto no garantiza que se respeten los derechos de los demás en la vida real.
-  <!-- feedback: Correcta. Reconocer la Constitución se hace efectivo en el respeto cotidiano de los derechos. -->
+- [ ] B) Porque la Constitución se cambió y ya no reconoce ningún derecho.
+  <!-- feedback: Error. Atribuye un cambio que no existe en el texto constitucional vigente. -->
 - [ ] C) Porque los derechos sólo existen en las constitutions escritas de otros países.
   <!-- feedback: Error. Los derechos también tienen vigencia real en Colombia. -->
-- [ ] D) Porque la Constitución se cambió y ya no reconoce ningún derecho.
-  <!-- feedback: Error. Atribuye un cambio que no existe en el texto constitucional vigente. -->
+- [x] D) Porque conocer el texto no garantiza que se respeten los derechos de los demás en la vida real.
+  <!-- feedback: Correcta. Reconocer la Constitución se hace efectivo en el respeto cotidiano de los derechos. -->
 
 ### Explicacion Pedagogica
 Conocer la Constitución es el primer paso, pero no garantiza por sí solo que se respeten los derechos. La Constitución se vuelve real cuando las personas y las instituciones actúan de conformidad con ella, reconociendo la dignidad de los demás. Esta distinción entre conocer y practicar es clave para la formación ciudadana: no basta con saber la norma, hay que vivirla. Evaluar esta diferencia ayuda a construir una cultura de respeto en la comunidad.

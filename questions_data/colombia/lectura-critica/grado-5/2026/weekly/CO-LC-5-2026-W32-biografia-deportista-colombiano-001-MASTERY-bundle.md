@@ -174,12 +174,12 @@ Analizar el papel de los conectores consecutivos para comprender la relación ca
 ### Opciones
 - [ ] A) Ambas terminan con una lista de productos comerciales para la venta.
   <!-- feedback: Las biografías no terminan con listas de productos; ambas cierran con una reflexión sobre el esfuerzo. -->
-- [x] B) Ambas resaltan la disciplina, el apoyo familiar y los logros internacionales de las protagonistas.
-  <!-- feedback: Los dos textos comparten una estructura centrada en el esfuerzo personal, la familia y los triunfos. -->
+- [ ] B) Las dos están escritas en otros idiomas para lectores extranjeros.
+  <!-- feedback: Las biografías están escritas en español, dirigidas a lectores colombianos y latinoamericanos. -->
 - [ ] C) Ambas presentan a las deportistas como personas que abandonan el deporte muy jóvenes.
   <!-- feedback: Las dos biografías destacan trayectorias largas y exitosas, no retiros tempranos. -->
-- [ ] D) Las dos están escritas en otros idiomas para lectores extranjeros.
-  <!-- feedback: Las biografías están escritas en español, dirigidas a lectores colombianos y latinoamericanos. -->
+- [x] D) Ambas resaltan la disciplina, el apoyo familiar y los logros internacionales de las protagonistas.
+  <!-- feedback: Los dos textos comparten una estructura centrada en el esfuerzo personal, la familia y los triunfos. -->
 
 ### Explicacion Pedagogica
 Analizar dos biografías para identificar elementos comunes en la presentación de deportistas colombianos ejemplares.

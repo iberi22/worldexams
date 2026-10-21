@@ -72,10 +72,10 @@ La funcion expresiva se centra en el emisor y expresa sentimientos.
 Identifica el conector: Luque es hermosa, ____ su gente es acogedora.
 
 ### Opciones
-- [x] D) ademas <!-- feedback: Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Luque y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro. -->
 - [ ] A) sin embargo <!-- feedback: Incorrecto. 'Sin embargo' es adversativo: introduce una idea que se opone a lo que se habia dicho. En esta oracion las dos proposiciones se refuerzan, porque la gente de Luque no contradice a su ciudad, asi que una oposicion seria falsa. -->
 - [ ] B) por lo tanto <!-- feedback: Incorrecto. 'Por lo tanto' es conclusivo: la segunda proposicion deduce una consecuencia de la primera. Aqui no hay deduccion, sino dos caracteristicas de Luque que se acumulan sin derivarse una de otra. -->
 - [ ] C) aunque <!-- feedback: Incorrecto. 'Aunque' introduce una concesion: lo que va detras se opone a lo esperado. La segunda proposicion no contradice la primera, la completa, asi que este conector tampoco corresponde. -->
+- [x] D) ademas <!-- feedback: Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Luque y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro. -->
 
 ### Explicacion Pedagogica
 El conector 'ademas' anade informacion.
@@ -93,10 +93,10 @@ El conector 'ademas' anade informacion.
 ¿Cual oracion esta correctamente escrita?
 
 ### Opciones
-- [x] D) Los estudiantes del Colegio Nacional Caaguazu estudian mucho. <!-- feedback: Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'. -->
 - [ ] A) Los estudiantes de la escuela estudian poco. <!-- feedback: Incorrecto. La oracion esta bien redactada y con buena concordancia, pero 'la escuela' es un nombre comun que puede designar cualquier centro; el enunciado pide el nombre propio completo de la institucion, y aqui no aparece. -->
 - [ ] B) Los estudiantes del instituto no estudian nada. <!-- feedback: Incorrecto. 'El instituto' vuelve a sustituir el nombre propio por una denominacion generica. La negacion 'no estudian nada' es correcta, pero no aporta el dato que el enunciado evalua. -->
 - [ ] C) Los estudiantes del instituto estudian mucho. <!-- feedback: Incorrecto. Comparte con la correcta la concordancia y el verbo 'estudian mucho', y se diferencia en un solo punto decisivo: emplea 'el instituto', un nombre comun, en lugar del nombre oficial completo. -->
+- [x] D) Los estudiantes del Colegio Nacional Caaguazu estudian mucho. <!-- feedback: Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'. -->
 
 ### Explicacion Pedagogica
 La opcion A sigue las normas ortograficas correctamente.
@@ -209,10 +209,10 @@ Lorca utiliza la estructura del romance tradicional para crear un poema narrativ
 En el Colegio Nacional Pedro Juan Caballero de Pedro Juan Caballero, analizando un texto. ¿Cual es la idea principal?
 
 ### Opciones
-- [x] D) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen. -->
 - [ ] A) El agua solo se usa para beber <!-- feedback: Incorrecto. Reduce el agua a un solo uso domestico. El texto la presenta como recurso vital para la vida en general, no unicamente como algo con que beber. -->
 - [ ] B) El agua no es importante <!-- feedback: Incorrecto. Contradice de frente al texto: si el agua careciera de importancia, no tendria sentido que el texto insistiera en su cuidado. Una idea principal entre las opciones no puede negar lo que el propio texto afirma. -->
 - [ ] C) El agua es un recurso infinito <!-- feedback: Incorrecto. Afirma que el agua es inagotable y con ello borra la necesidad de cuidarla, que es justamente la tesis que el texto sostiene. -->
+- [x] D) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen. -->
 
 ### Explicacion Pedagogica
 El texto destaca la importancia del agua como recurso vital.
@@ -268,8 +268,8 @@ La funcion expresiva se centra en el emisor y expresa sentimientos.
 Identifica el conector: Concepcion es hermosa, ____ su gente es acogedora.
 
 ### Opciones
-- [x] B) ademas <!-- feedback: Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Concepcion y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro. -->
 - [ ] A) sin embargo <!-- feedback: Incorrecto. 'Sin embargo' es adversativo: introduce una idea que se opone a lo que se habia dicho. En esta oracion las dos proposiciones se refuerzan, porque la gente de Concepcion no contradice a su ciudad, asi que una oposicion seria falsa. -->
+- [x] B) ademas <!-- feedback: Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Concepcion y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro. -->
 - [ ] C) por lo tanto <!-- feedback: Incorrecto. 'Por lo tanto' es conclusivo: la segunda proposicion deduce una consecuencia de la primera. Aqui no hay deduccion, sino dos caracteristicas de Concepcion que se acumulan sin derivarse una de otra. -->
 - [ ] D) aunque <!-- feedback: Incorrecto. 'Aunque' introduce una concesion: lo que va detras se opone a lo esperado. La segunda proposicion no contradice la primera, la completa, asi que este conector tampoco corresponde. -->
 
@@ -289,8 +289,8 @@ El conector 'ademas' anade informacion.
 ¿Cual oracion esta correctamente escrita?
 
 ### Opciones
-- [x] B) Los estudiantes del Colegio Nacional Mariscal Estigarribia estudian mucho. <!-- feedback: Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'. -->
 - [ ] A) Los estudiantes de la escuela estudian poco. <!-- feedback: Incorrecto. La oracion esta bien redactada y con buena concordancia, pero 'la escuela' es un nombre comun que puede designar cualquier centro; el enunciado pide el nombre propio completo de la institucion, y aqui no aparece. -->
+- [x] B) Los estudiantes del Colegio Nacional Mariscal Estigarribia estudian mucho. <!-- feedback: Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'. -->
 - [ ] C) Los estudiantes del instituto no estudian nada. <!-- feedback: Incorrecto. 'El instituto' vuelve a sustituir el nombre propio por una denominacion generica. La negacion 'no estudian nada' es correcta, pero no aporta el dato que el enunciado evalua. -->
 - [ ] D) Los estudiantes del instituto estudian mucho. <!-- feedback: Incorrecto. Comparte con la correcta la concordancia y el verbo 'estudian mucho', y se diferencia en un solo punto decisivo: emplea 'el instituto', un nombre comun, en lugar del nombre oficial completo. -->
 
@@ -348,8 +348,8 @@ Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.
 ¿Cuál de las oraciones presenta correctamente una subordinada sustantiva?
 
 ### Opciones
-- [x] A) Es necesario que estudies para el examen. <!-- feedback: Es correcta: 'que estudies' es una completiva que ocupa la posición de sujeto y es regida por 'es necesario'. -->
-- [ ] B) El libro que leí es interesante. <!-- feedback: La proposición 'que leí' es adjetiva porque modifica al sustantivo 'libro'. -->
+- [ ] A) El libro que leí es interesante. <!-- feedback: La proposición 'que leí' es adjetiva porque modifica al sustantivo 'libro'. -->
+- [x] B) Es necesario que estudies para el examen. <!-- feedback: Es correcta: 'que estudies' es una completiva que ocupa la posición de sujeto y es regida por 'es necesario'. -->
 - [ ] C) Cuando llegues, avísame. <!-- feedback: 'Cuando llegues' es una subordinada adverbial temporal porque indica cuándo. -->
 - [ ] D) Quiero que vengas a la fiesta. <!-- feedback: Aquí la subordinada también es sustantiva, pero funciona como objeto directo y no como sujeto. -->
 
@@ -367,9 +367,9 @@ La metafora identifica un termino real con uno imaginario por su semejanza.
 ¿Cuál de las opciones contiene una subordinada adverbial causal?
 
 ### Opciones
-- [x] A) Como llovía, no salimos a pasear. <!-- feedback: Es correcta: 'como' introduce una subordinada causal que explica la causa de la proposición principal. -->
+- [ ] A) Mientras llovía, leímos un libro. <!-- feedback: Es temporal: indica el momento en que ocurrió la lectura. -->
 - [ ] B) Aunque llovía, salimos a pasear. <!-- feedback: Es concessiva: presenta un obstáculo que no impidió la acción principal. -->
-- [ ] C) Mientras llovía, leímos un libro. <!-- feedback: Es temporal: indica el momento en que ocurrió la lectura. -->
+- [x] C) Como llovía, no salimos a pasear. <!-- feedback: Es correcta: 'como' introduce una subordinada causal que explica la causa de la proposición principal. -->
 - [ ] D) Si llovía, no salíamos. <!-- feedback: Es condicional: expresa una hipótesis con la conjunción 'si'. -->
 
 ### Explicacion Pedagogica
@@ -386,9 +386,9 @@ Las palabras esdrújulas llevan tilde siempre, sin excepción, en la antepenúlt
 En 'Aunque era temprano, había mucha gente', ¿qué valor tiene la subordinada?
 
 ### Opciones
-- [x] A) Concesiva, porque contrasta una circunstancia con el hecho principal <!-- feedback: Es correcto: que fuera temprano no preveía muita gente, de modo que la proposición se opone a lo esperado. -->
+- [ ] A) Temporal, porque sitúa la escena en un momento concreto <!-- feedback: Aunque admite un sentido temporal, aquí se usa con valor concessivo porque hay contraste con la proposición principal. -->
 - [ ] B) Causal, porque explica la causa de la multitud <!-- feedback: La hora del día no explica por sí sola la cantidad de asistentes a ese lugar. -->
-- [ ] C) Temporal, porque sitúa la escena en un momento concreto <!-- feedback: Aunque admite un sentido temporal, aquí se usa con valor concessivo porque hay contraste con la proposición principal. -->
+- [x] C) Concesiva, porque contrasta una circunstancia con el hecho principal <!-- feedback: Es correcto: que fuera temprano no preveía muita gente, de modo que la proposición se opone a lo esperado. -->
 - [ ] D) Final, porque indica el propósito de la escena descrita <!-- feedback: No hay ningún propósito expresado; el conector no cumple esa función. -->
 
 ### Explicacion Pedagogica
@@ -405,9 +405,9 @@ Lorca utiliza la estructura del romance tradicional para crear un poema narrativ
 En el Colegio Nacional Concepcion de Concepcion, analizando un texto. ¿Cual es la idea principal?
 
 ### Opciones
-- [x] C) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen. -->
 - [ ] A) El agua solo se usa para beber <!-- feedback: Incorrecto. Reduce el agua a un solo uso domestico. El texto la presenta como recurso vital para la vida en general, no unicamente como algo con que beber. -->
 - [ ] B) El agua no es importante <!-- feedback: Incorrecto. Contradice de frente al texto: si el agua careciera de importancia, no tendria sentido que el texto insistiera en su cuidado. Una idea principal entre las opciones no puede negar lo que el propio texto afirma. -->
+- [x] C) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen. -->
 - [ ] D) El agua es un recurso infinito <!-- feedback: Incorrecto. Afirma que el agua es inagotable y con ello borra la necesidad de cuidarla, que es justamente la tesis que el texto sostiene. -->
 
 ### Explicacion Pedagogica

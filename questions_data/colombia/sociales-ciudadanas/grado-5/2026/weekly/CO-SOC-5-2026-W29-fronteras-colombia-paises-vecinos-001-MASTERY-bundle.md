@@ -172,14 +172,14 @@ Analizar cómo la geografía define las características de cada frontera colomb
 ¿Qué demuestra el caso de Leticia sobre la vida en las fronteras?
 
 ### Opciones
-- [x] A) Que en las fronteras las comunidades comparten servicios, idiomas y actividades diarias con los países vecinos.
-  <!-- feedback: Leticia muestra una frontera viva donde tres pueblos conviven e intercambian a diario. -->
+- [ ] A) Que las fronteras solo existen en los mapas y no afectan la vida real.
+  <!-- feedback: Las fronteras organizan la vida diaria: documentos, moneda y servicios de cada país. -->
 - [ ] B) Que las fronteras impiden cualquier contacto entre los países vecinos.
   <!-- feedback: En Leticia el contacto es permanente: comercio, salud y educación se comparten. -->
 - [ ] C) Que en Leticia solo se habla un idioma y no hay intercambio con nadie.
   <!-- feedback: Allí se mezclan el español y el portugués por la cercanía con Brasil y Perú. -->
-- [ ] D) Que las fronteras solo existen en los mapas y no afectan la vida real.
-  <!-- feedback: Las fronteras organizan la vida diaria: documentos, moneda y servicios de cada país. -->
+- [x] D) Que en las fronteras las comunidades comparten servicios, idiomas y actividades diarias con los países vecinos.
+  <!-- feedback: Leticia muestra una frontera viva donde tres pueblos conviven e intercambian a diario. -->
 
 ### Explicacion Pedagogica
 Analizar la frontera como un espacio de convivencia e intercambio entre pueblos vecinos.

@@ -491,10 +491,10 @@ Los principios de la visualización de datos científica exigen que la escala gr
   <!-- feedback: Incorrecto. Un valor R² de 0.12 indica una correlación estadística sumamente débil; la afirmación de una "relación matemática perfecta" es un engaño visual. -->
 - [ ] B) Los diseñadores del folleto tienen acceso a realidades cuánticas donde los puntos desordenados se alinean de forma mágica.
   <!-- feedback: Incorrecto. La ciencia se rige por datos empíricos de estadística clásica, no por pseudociencias cuánticas de diseño de folletos. -->
-- [x] C) La infografía ha forzado artificialmente una correlación lineal inexistente en los datos reales para respaldar una afirmación propagandística preconcebida.
-  <!-- feedback: ¡Correcto! Dibujar una línea de tendencia empinada sobre una nube de puntos dispersos (bajo coeficiente de determinación R²) busca engañar visualmente al lector para hacerle creer que existe una relación causa-efecto que los datos estadísticos no respaldan. -->
-- [ ] D) El río Hablador no existe en la geografía de Lima, lo que anula de plano cualquier estudio hidrológico andino presentado en el foro.
+- [ ] C) El río Hablador no existe en la geografía de Lima, lo que anula de plano cualquier estudio hidrológico andino presentado en el foro.
   <!-- feedback: Incorrecto. El río Rímac es popularmente llamado el "Río Hablador"; la referencia geográfica existe y el debate sobre la cuenca hídrica es real. -->
+- [x] D) La infografía ha forzado artificialmente una correlación lineal inexistente en los datos reales para respaldar una afirmación propagandística preconcebida.
+  <!-- feedback: ¡Correcto! Dibujar una línea de tendencia empinada sobre una nube de puntos dispersos (bajo coeficiente de determinación R²) busca engañar visualmente al lector para hacerle creer que existe una relación causa-efecto que los datos estadísticos no respaldan. -->
 
 ### Explicación Pedagógica
 La evaluación compleja de textos discontinuos exige confrontar la "línea de tendencia" o conclusión gráfica con los "datos empíricos" representados (puntos de dispersión). El alumno debe notar cuándo se imponen conclusiones sesgadas no sustentadas por la estadística de base.

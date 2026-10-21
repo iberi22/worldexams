@@ -197,12 +197,12 @@ Para encontrar la probabilidad de sacar una bola que no sea roja, se cuentan las
 ### Opciones
 - [ ] A) Sí, porque hay 6 números y 6 lanzamientos
   <!-- feedback: Incorrecto. La probabilidad no garantiza que cada número salga exactamente una vez. Es posible obtener el mismo número varias veces y otros no. -->
-- [x] B) No, porque cada lanzamiento es independiente y los resultados pueden repetirse
-  <!-- feedback: Correcto. Cada lanzamiento es un evento independiente. Es posible obtener 1, 1, 2, 2, 3, 3 o cualquier otra combinación. La probabilidad no garantiza una distribución uniforme. -->
+- [ ] B) No, porque el dado tiene memoria de los lanzamientos anteriores
+  <!-- feedback: Incorrecto. El dado no tiene memoria. Cada lanzamiento es independiente, pero esto no significa que los resultados no puedan repetirse. La probabilidad siempre es 1/6 para cada número. -->
 - [ ] C) Sí, porque la probabilidad de cada número es 1/6
   <!-- feedback: Incorrecto. Aunque la probabilidad de cada número es 1/6, esto no garantiza que en 6 lanzamientos cada número salga exactamente una vez. Los eventos son independientes. -->
-- [ ] D) No, porque el dado tiene memoria de los lanzamientos anteriores
-  <!-- feedback: Incorrecto. El dado no tiene memoria. Cada lanzamiento es independiente, pero esto no significa que los resultados no puedan repetirse. La probabilidad siempre es 1/6 para cada número. -->
+- [x] D) No, porque cada lanzamiento es independiente y los resultados pueden repetirse
+  <!-- feedback: Correcto. Cada lanzamiento es un evento independiente. Es posible obtener 1, 1, 2, 2, 3, 3 o cualquier otra combinación. La probabilidad no garantiza una distribución uniforme. -->
 
 ### Explicacion Pedagogica
 Cada lanzamiento de un dado es un evento independiente, lo que significa que el resultado de un lanzamiento no afecta a los siguientes. Aunque la probabilidad de obtener cada número es 1/6, esto no garantiza que en 6 lanzamientos cada número aparezca exactamente una vez. Es perfectamente posible obtener secuencias como 1, 1, 2, 3, 4, 5 o 6, 6, 6, 6, 6, 6. La igualdad de probabilidades no implica uniformidad en una serie corta de ensayos.

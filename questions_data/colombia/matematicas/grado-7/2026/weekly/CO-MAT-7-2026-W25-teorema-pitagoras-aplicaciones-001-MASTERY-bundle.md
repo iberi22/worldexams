@@ -40,6 +40,7 @@ Este bundle contiene 10 preguntas sobre **teorema-pitagoras-aplicaciones** para 
   <!-- feedback: Incorrecto. Eso describe un triángulo equilátero, no el teorema de Pitágoras. -->
 - [ ] D) Que la hipotenusa es igual a la suma de los catetos
   <!-- feedback: Incorrecto. La relación usa cuadrados: c² = a² + b², no una suma directa. -->
+
 ### Explicacion Pedagogica
 En todo triángulo rectángulo, con catetos a y b e hipotenusa c (el lado opuesto al ángulo recto), se cumple c² = a² + b². La hipotenusa siempre es el lado más largo.
 
@@ -60,6 +61,7 @@ En un triángulo rectángulo, ¿cómo se reconoce la hipotenusa?
   <!-- feedback: Incorrecto. Los lados que forman el ángulo recto son los catetos. -->
 - [ ] D) Es el lado que mide 90 grados
   <!-- feedback: Incorrecto. Los lados se miden en unidades de longitud, no en grados. -->
+
 ### Explicacion Pedagogica
 La hipotenusa es el lado opuesto al ángulo recto. Como c² = a² + b², c resulta mayor que a y mayor que b: la hipotenusa es siempre el lado más largo.
 
@@ -80,6 +82,7 @@ La hipotenusa es el lado opuesto al ángulo recto. Como c² = a² + b², c resul
   <!-- feedback: Incorrecto. Ese valor multiplica los catetos, operación que no usa el teorema. -->
 - [ ] D) 25 m
   <!-- feedback: Incorrecto. 25 es el valor de c², pero falta extraer la raíz cuadrada para hallar c. -->
+
 ### Explicacion Pedagogica
 Se aplica c² = 3² + 4² = 9 + 16 = 25. Luego c = raíz(25) = 5. La hipotenusa mide 5 m (terna pitagórica 3-4-5).
 
@@ -100,6 +103,7 @@ Se aplica c² = 3² + 4² = 9 + 16 = 25. Luego c = raíz(25) = 5. La hipotenusa 
   <!-- feedback: Incorrecto. Ese valor suma 13 + 5, lo cual no tiene sentido geométrico. -->
 - [ ] D) 14,4 m
   <!-- feedback: Incorrecto. Ese valor resulta de operar mal los cuadrados y la raíz. -->
+
 ### Explicacion Pedagogica
 La escalera es la hipotenusa (13) y la distancia al muro es un cateto (5). El otro cateto es h = raíz(13² - 5²) = raíz(169 - 25) = raíz(144) = 12 m (terna 5-12-13).
 
@@ -120,6 +124,7 @@ La escalera es la hipotenusa (13) y la distancia al muro es un cateto (5). El ot
   <!-- feedback: Incorrecto. La hipotenusa correcta para catetos 6 y 8 es 10, no 14. -->
 - [ ] D) Sí, porque cualquier triángulo con esos lados es rectángulo
   <!-- feedback: Incorrecto. La conclusión es correcta pero la razón no: solo vale porque se verifica c² = a² + b². -->
+
 ### Explicacion Pedagogica
 El recíproco del teorema dice: si c² = a² + b², el triángulo es rectángulo. Como 36 + 64 = 100, la esquina verificada es realmente un ángulo recto.
 
@@ -140,6 +145,7 @@ El recíproco del teorema dice: si c² = a² + b², el triángulo es rectángulo
   <!-- feedback: Correcto. h = raíz(15² - 9²) = raíz(225 - 81) = raíz(144) = 12 m. -->
 - [ ] D) 10,5 m
   <!-- feedback: Incorrecto. Ese valor resulta de un cálculo erróneo de la diferencia de cuadrados. -->
+
 ### Explicacion Pedagogica
 El cable (15 m) es la hipotenusa y la distancia al poste (9 m) es un cateto. La altura es el otro cateto: h = raíz(225 - 81) = raíz(144) = 12 m (terna 9-12-15).
 
@@ -160,6 +166,7 @@ El cable (15 m) es la hipotenusa y la distancia al poste (9 m) es un cateto. La 
   <!-- feedback: Incorrecto. Ese valor promedia los recorridos, operación sin fundamento geométrico. -->
 - [ ] D) 48 cuadras
   <!-- feedback: Incorrecto. Ese valor multiplica los recorridos, lo cual no da una distancia. -->
+
 ### Explicacion Pedagogica
 Los dos tramos perpendiculares son los catetos de un triángulo rectángulo. La línea recta es la hipotenusa: raíz(6² + 8²) = raíz(100) = 10 cuadras, menor que las 14 caminadas.
 
@@ -180,6 +187,7 @@ Los dos tramos perpendiculares son los catetos de un triángulo rectángulo. La 
   <!-- feedback: Incorrecto. Ese valor promedia los lados, lo cual no calcula la diagonal. -->
 - [ ] D) 225 cm
   <!-- feedback: Incorrecto. 225 es el valor del cuadrado de la diagonal; falta extraer la raíz. -->
+
 ### Explicacion Pedagogica
 La diagonal divide el rectángulo en dos triángulos rectángulos con catetos 9 y 12. Por Pitágoras: d = raíz(81 + 144) = raíz(225) = 15 cm (terna 9-12-15).
 
@@ -200,6 +208,7 @@ La diagonal divide el rectángulo en dos triángulos rectángulos con catetos 9 
   <!-- feedback: Incorrecto. El área del triángulo rectángulo es (cateto × cateto)/2, no el producto completo. -->
 - [ ] D) No, porque la hipotenusa de 7 y 24 debería medir 31 m
   <!-- feedback: Incorrecto. La hipotenusa correcta es raíz(49 + 576) = 25, no 31. -->
+
 ### Explicacion Pedagogica
 Se verifica 49 + 576 = 625 = 25²: el triángulo es rectángulo con catetos 7 y 24. Su área es (7 × 24) / 2 = 84 m². Todo el razonamiento del topógrafo es correcto.
 
@@ -214,11 +223,12 @@ Se verifica 49 + 576 = 625 = 25²: el triángulo es rectángulo con catetos 7 y 
 ### Opciones
 - [ ] A) No, B recorre 17 km porque 5 + 12 = 17
   <!-- feedback: Incorrecto. Esa suma es la ruta quebrada de A, no la línea recta de B. -->
-- [x] B) Sí, porque la ruta directa es raíz(5² + 12²) = raíz(169) = 13 km
-  <!-- feedback: Correcto. Los tramos de A son catetos perpendiculares y la ruta de B es la hipotenusa: 13 km (terna 5-12-13). -->
+- [ ] B) Sí, pero solo si los drones vuelan a la misma velocidad
+  <!-- feedback: Incorrecto. La distancia geométrica no depende de la velocidad de vuelo. -->
 - [ ] C) No, B recorre 60 km porque 5 × 12 = 60
   <!-- feedback: Incorrecto. El producto de los tramos no representa ninguna distancia del recorrido. -->
-- [ ] D) Sí, pero solo si los drones vuelan a la misma velocidad
-  <!-- feedback: Incorrecto. La distancia geométrica no depende de la velocidad de vuelo. -->
+- [x] D) Sí, porque la ruta directa es raíz(5² + 12²) = raíz(169) = 13 km
+  <!-- feedback: Correcto. Los tramos de A son catetos perpendiculares y la ruta de B es la hipotenusa: 13 km (terna 5-12-13). -->
+
 ### Explicacion Pedagogica
 La ruta de A forma un triángulo rectángulo de catetos 5 y 12. La ruta directa de B es la hipotenusa: raíz(25 + 144) = raíz(169) = 13 km. La afirmación del operador es correcta.

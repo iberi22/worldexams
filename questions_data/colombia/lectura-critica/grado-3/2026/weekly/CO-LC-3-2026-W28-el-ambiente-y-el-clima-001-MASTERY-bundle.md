@@ -42,13 +42,10 @@ En el Texto 1, ¿en qué ciudad queda la finca de la familia de Juliana?
 ### Opciones
 - [x] A) En Manizales.
   <!-- feedback: Correcto. La primera oración del Texto 1 dice que la finca queda arriba de Manizales. -->
-
 - [ ] B) En Bogotá.
   <!-- feedback: Error. El texto ubica la finca arriba de Manizales; Bogotá no se menciona en esa oración. -->
-
 - [ ] C) En Cali.
   <!-- feedback: Error. Ninguna oración del Texto 1 nombra a Cali como el lugar de la finca. -->
-
 - [ ] D) En Medellín.
   <!-- feedback: Error. El lugar que aparece escrito en el Texto 1 es Manizales, no Medellín. -->
 
@@ -68,13 +65,10 @@ Según el Texto 2, ¿cuál es la diferencia entre el ambiente de un cuento y el 
 ### Opciones
 - [ ] A) No hay diferencia: las dos palabras significan exactamente lo mismo.
   <!-- feedback: Error. El Texto 2 explica que el ambiente es el lugar y el clima es la parte que puede cambiar dentro de ese lugar. -->
-
 - [ ] B) El clima es el lugar y el ambiente es el tiempo que hace.
   <!-- feedback: Error. Está al revés de lo que dice el Texto 2: el ambiente es el lugar junto con el clima, y el clima es la parte que cambia. -->
-
 - [x] C) El ambiente es el lugar donde pasa la historia, y el clima es la parte de ese ambiente que puede cambiar.
   <!-- feedback: Correcto. El Texto 2 define el ambiente como el lugar junto con el clima, y explica que el clima es lo que puede cambiar. -->
-
 - [ ] D) El ambiente solo existe en los cuentos y el clima solo existe en la vida real.
   <!-- feedback: Error. El Texto 2 trata el clima como parte del ambiente en los cuentos y en la vida real, no como algo de un solo tipo de texto. -->
 
@@ -94,13 +88,10 @@ En el Texto 1, ¿qué detalle muestra que el clima de ese día era de lluvia?
 ### Opciones
 - [x] A) Que el cielo estaba gris y el aire olía a tierra mojada.
   <!-- feedback: Correcto. El Texto 1 dice que el cielo estaba gris y que el aire olía a tierra mojada, dos señales propias de un día de lluvia. -->
-
 - [ ] B) Que la finca quedaba arriba de Manizales.
   <!-- feedback: Error. La ubicación de la finca explica el clima habitual, pero no muestra el clima de ese día; para eso están el cielo gris y el olor a tierra mojada. -->
-
 - [ ] C) Que el tío de Juliana estaba en el corral.
   <!-- feedback: Error. La presencia del tío dice quién estaba ahí, no cómo estaba el tiempo ese día. -->
-
 - [ ] D) Que Juliana durmió tranquila esa noche.
   <!-- feedback: Error. Cómo durmió la niña es el desenlace del relato, no un detalle que muestre el clima del día. -->
 
@@ -120,13 +111,10 @@ Según el Texto 1 y el Texto 2, ¿por qué el tío de Juliana dice que no van a 
 ### Opciones
 - [ ] A) Porque el camino estaba lleno de hojas secas que tocaba recoger antes.
   <!-- feedback: Error. El texto no menciona hojas secas: lo que aparece es el agua del río desbordado sobre el camino de herradura. -->
-
 - [x] B) Porque el aguacero desbordó el río y el agua cubría el camino.
   <!-- feedback: Correcto. El Texto 1 dice que el río se había desbordado y que el agua cubría el camino, y el Texto 2 explica que con lluvia no se puede caminar. -->
-
 - [ ] C) Porque la finca quedaba muy lejos y ya era tarde para bajar a la ciudad.
   <!-- feedback: Error. La distancia no aparece en el texto: la razón que el tío da se relaciona con el agua sobre el camino. -->
-
 - [ ] D) Porque hacía mucho calor y todos necesitaban descansar en el corredor.
   <!-- feedback: Error. Ese día no hacía calor sino que llovía fuerte, como muestran el cielo gris y el agua del río desbordado. -->
 
@@ -146,13 +134,10 @@ Un grupo escribió: "En el parque hace mucho calor y todos buscan la sombra del 
 ### Opciones
 - [ ] A) Muestra que el parque es el clima del texto.
   <!-- feedback: Error. El parque es el lugar, es decir parte del ambiente; el clima es el calor que hace ahí ese día. -->
-
 - [ ] B) Muestra que los lectores del parque leen poco.
   <!-- feedback: Error. La frase no habla de la cantidad de lectura, sino de que el calor lleva a la gente a buscar sombra. -->
-
 - [x] C) Muestra que el clima influye en lo que hacen los personajes, porque el calor los lleva a buscar sombra.
   <!-- feedback: Correcto. Esa es la idea del Texto 2: el clima cambia lo que hacen las personas, en este caso buscar la sombra del árbol. -->
-
 - [ ] D) Muestra que el clima no tiene ninguna importancia en un cuento.
   <!-- feedback: Error. La frase justamente muestra lo contrario: el calor sí cambia la conducta de quienes están en el parque. -->
 
@@ -172,13 +157,10 @@ Un grupo dibujó una finca con sol fuerte y dejó el espacio en blanco. Su relat
 ### Opciones
 - [x] A) Escribir en el relato qué clima hay, porque el ambiente incluye el clima y este no estaba.
   <!-- feedback: Correcto. El Texto 2 explica que el ambiente es el lugar junto con el clima, así que falta describir el clima de esa finca. -->
-
 - [ ] B) Dejar el dibujo igual, porque el clima no hace falta cuando ya hay un dibujo.
   <!-- feedback: Error. Un buen ambiente dice cómo es el lugar y qué tiempo hace, como explica el Texto 2; el dibujo no reemplaza esa descripción. -->
-
 - [ ] C) Cambiar el dibujo por un paisaje de la ciudad, para que se vea más bonito.
   <!-- feedback: Error. Cambiar el lugar no resuelve el problema: lo que falta es decir qué clima hay en el lugar que el relato ya eligió. -->
-
 - [ ] D) Agregar muchos personajes al dibujo, para que la escena se vea más animada.
   <!-- feedback: Error. La cantidad de personajes no es lo que falta: el Texto 2 pide que el ambiente incluya el clima, además del lugar. -->
 
@@ -196,17 +178,14 @@ Revisar el trabajo propio contra la lista del Texto 2 enseña a detectar lo que 
 En el Texto 1 el clima es de lluvia y en el Texto 2 se explica qué papel cumple el clima. ¿Qué relación hay entre los dos textos?
 
 ### Opciones
-- [x] A) El Texto 2 explica lo que el Texto 1 muestra: que el clima cambia lo que los personajes pueden hacer.
-  <!-- feedback: Correcto. El Texto 1 muestra a Juliana sin poder bajar por el aguacero, y el Texto 2 explica que el clima influye en lo que hacen los personajes. -->
-
+- [ ] A) Los dos textos hablan del clima de Bogotá, por eso se parecen.
+  <!-- feedback: Error. El Texto 1 ocurre en una finca arriba de Manizales, no en Bogotá, así que esa no es la relación. -->
 - [ ] B) El Texto 1 corrige al Texto 2, porque en el Texto 1 sí se puede caminar con lluvia.
   <!-- feedback: Error. El Texto 1 no camina con lluvia: el tío dice que no pueden bajar, de modo que el relato está de acuerdo con el Texto 2. -->
-
 - [ ] C) El Texto 2 sirve para cambiar el clima del Texto 1 por uno más agradable.
   <!-- feedback: Error. Un texto explicativo no cambia lo que pasó en un relato: solo aclara qué significa ese clima en la historia. -->
-
-- [ ] D) Los dos textos hablan del clima de Bogotá, por eso se parecen.
-  <!-- feedback: Error. El Texto 1 ocurre en una finca arriba de Manizales, no en Bogotá, así que esa no es la relación. -->
+- [x] D) El Texto 2 explica lo que el Texto 1 muestra: que el clima cambia lo que los personajes pueden hacer.
+  <!-- feedback: Correcto. El Texto 1 muestra a Juliana sin poder bajar por el aguacero, y el Texto 2 explica que el clima influye en lo que hacen los personajes. -->
 
 ### Explicacion Pedagogica
 Ver cómo un texto de explicación aclara un relato es una habilidad de lectura crítica que se construye desde tercero. El estudiante aprende que el ejemplo y la regla se refuerzan entre sí. Esa comprensión lo prepara para las pruebas, donde un mismo contenido aparece narrated en un texto y explicado en otro.
@@ -224,13 +203,10 @@ Dos grupos escribieron el inicio de un cuento que pasa en la Costa Caribe. El Gr
 ### Opciones
 - [ ] A) El Grupo 1, porque nombra más objetos: casa, río y palmeras.
   <!-- feedback: Error. Nombrar objetos no basta: el Texto 2 dice que un buen ambiente usa palabras que muestran, no solo palabras que nombran. -->
-
 - [ ] B) Los dos grupos describen igual, porque los dos nombran lugares de la costa.
   <!-- feedback: Error. No son equivalentes: el Grupo 1 solo nombra, mientras el Grupo 2 muestra el calor con el sol, la arena y el sudor. -->
-
 - [x] C) El Grupo 2, porque sus palabras hacen sentir el calor y el ambiente, no solo nombran cosas.
   <!-- feedback: Correcto. El Grupo 2 describe con el sol, la arena y el sudor, que es justo lo que el Texto 2 llama palabras que muestran. -->
-
 - [ ] D) El Grupo 2, porque escribe más palabras que el Grupo 1.
   <!-- feedback: Error. La diferencia no es la cantidad de palabras: el Grupo 1 es corto y por eso no alcanza a mostrar el ambiente. -->
 

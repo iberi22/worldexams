@@ -152,10 +152,10 @@ La discriminación por discapacidad ocurre cuando las personas con discapacidad 
   <!-- feedback: Incorrecto. Aunque aprender idiomas es valioso, el objetivo principal de enseñar sobre la diversidad cultural es fomentar el respeto y la valoración de las diferencias. -->
 - [ ] B) Para que los estudiantes viajen a otros países
   <!-- feedback: Incorrecto. Viajar a otros países puede ser enriquecedor, pero no es el propósito central de enseñar sobre la diversidad cultural; el objetivo es la convivencia respetuosa. -->
-- [x] C) Para fomentar el respeto y la valoración de las diferentes culturas
-  <!-- feedback: Correcto. Enseñar sobre la diversidad cultural ayuda a los estudiantes a comprender, respetar y valorar las diferentes tradiciones, costumbres y formas de vida. -->
-- [ ] D) Para que los estudiantes cambien sus propias tradiciones
+- [ ] C) Para que los estudiantes cambien sus propias tradiciones
   <!-- feedback: Incorrecto. Enseñar sobre la diversidad cultural no busca cambiar las tradiciones de los estudiantes, sino fomentar el respeto y la convivencia entre diferentes culturas. -->
+- [x] D) Para fomentar el respeto y la valoración de las diferentes culturas
+  <!-- feedback: Correcto. Enseñar sobre la diversidad cultural ayuda a los estudiantes a comprender, respetar y valorar las diferentes tradiciones, costumbres y formas de vida. -->
 
 ### Explicacion Pedagogica
 Colombia es un país diverso con múltiples culturas, tradiciones y formas de vida. Enseñar sobre esta diversidad ayuda a los estudiantes a comprender y respetar las diferencias, promoviendo la convivencia pacífica y la inclusión social.

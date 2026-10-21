@@ -40,6 +40,7 @@ Este bundle contiene 10 preguntas sobre **clasificacion-seres-vivos** para grado
   <!-- feedback: Incorrecto. Los protistas son eucariotas unicelulares o pluricelulares simples con núcleo. -->
 - [ ] D) Reino Plantae
   <!-- feedback: Incorrecto. Las plantas son eucariotas pluricelulares autótrofas. -->
+
 ### Explicacion Pedagogica
 Los procariotas carecen de núcleo definido y pertenecen al dominio Archaea / Bacteria (Reino Monera).
 
@@ -52,14 +53,15 @@ Los procariotas carecen de núcleo definido y pertenecen al dominio Archaea / Ba
 ### Enunciado
 ¿Qué tipo de nutrición caracteriza a los organismos del reino Fungi?
 ### Opciones
-- [x] B) Heterótrofa por absorción (saprófita)
-  <!-- feedback: Correcto. Secretan enzimas digestivas al exterior y absorben los nutrientes degradados. -->
 - [ ] A) Autótrofa fotosintética
   <!-- feedback: Incorrecto. Los hongos no poseen clorofila ni realizan fotosíntesis. -->
+- [x] B) Heterótrofa por absorción (saprófita)
+  <!-- feedback: Correcto. Secretan enzimas digestivas al exterior y absorben los nutrientes degradados. -->
 - [ ] C) Autótrofa quimiosintética
   <!-- feedback: Incorrecto. No obtienen energía de compuestos inorgánicos sin luz. -->
 - [ ] D) Heterótrofa por ingestión celular
   <!-- feedback: Incorrecto. La ingestión fagocítica es característica de animales y fagótrofos protistas. -->
+
 ### Explicacion Pedagogica
 Los hongos son heterótrofos absorbentes: liberan enzimas exógenas y absorben moléculas orgánicas simples.
 
@@ -72,14 +74,15 @@ Los hongos son heterótrofos absorbentes: liberan enzimas exógenas y absorben m
 ### Enunciado
 ¿En qué reino debe clasificar este espécimen?
 ### Opciones
-- [x] D) Reino Fungi
-  <!-- feedback: Correcto. La pared celular de quitina y la ausencia de cloroplastos caracterizan a los hongos. -->
 - [ ] A) Reino Plantae
   <!-- feedback: Incorrecto. Las plantas poseen pared de celulosa y cloroplastos con clorofila. -->
 - [ ] B) Reino Animalia
   <!-- feedback: Incorrecto. Los animales carecen totalmente de pared celular. -->
 - [ ] C) Reino Protista
   <!-- feedback: Incorrecto. La presencia de pared de quitina orienta directamente al reino Fungi. -->
+- [x] D) Reino Fungi
+  <!-- feedback: Correcto. La pared celular de quitina y la ausencia de cloroplastos caracterizan a los hongos. -->
+
 ### Explicacion Pedagogica
 La composición de la pared celular por quitina sin cloroplastos es diagnóstico exclusivo del reino Fungi.
 
@@ -92,14 +95,15 @@ La composición de la pared celular por quitina sin cloroplastos es diagnóstico
 ### Enunciado
 ¿Qué característica clave la diferencia de las algas pluricelulares del reino Protista?
 ### Opciones
-- [x] B) La presencia de tejidos especializados (verdaderos) y órganos como raíces o hojas
-  <!-- feedback: Correcto. Las plantas verdaderas poseen diferenciación tisular (xilema, floema, estomas). -->
 - [ ] A) La presencia de ADN en el núcleo
   <!-- feedback: Incorrecto. Tanto algas como plantas son eucariotas y poseen ADN nuclear. -->
+- [x] B) La presencia de tejidos especializados (verdaderos) y órganos como raíces o hojas
+  <!-- feedback: Correcto. Las plantas verdaderas poseen diferenciación tisular (xilema, floema, estomas). -->
 - [ ] C) La capacidad de realizar fotosíntesis con clorofila
   <!-- feedback: Incorrecto. Ambas utilizan clorofila para fotosintetizar. -->
 - [ ] D) La reproducción exclusivamente asexual
   <!-- feedback: Incorrecto. Las plantas tienen reproducción sexual y alternancia de generaciones. -->
+
 ### Explicacion Pedagogica
 El Reino Plantae se diferencia de las algas protistas por su organización tisular verdadera (tejidos vascularizados y órganos especializados).
 
@@ -112,14 +116,15 @@ El Reino Plantae se diferencia de las algas protistas por su organización tisul
 ### Enunciado
 ¿A qué grupo taxonómico pertenecen las amebas?
 ### Opciones
-- [x] B) Reino Protista (Protozoos)
-  <!-- feedback: Correcto. Las amebas son protozoarios eucariotas unicelulares pertenecientes al reino Protista. -->
 - [ ] A) Reino Monera (Bacterias)
   <!-- feedback: Incorrecto. Poseen núcleo verdadero (eucariotas), descartando el reino Monera. -->
+- [x] B) Reino Protista (Protozoos)
+  <!-- feedback: Correcto. Las amebas son protozoarios eucariotas unicelulares pertenecientes al reino Protista. -->
 - [ ] C) Reino Animalia
   <!-- feedback: Incorrecto. El reino Animalia comprende organismos pluricelulares. -->
 - [ ] D) Reino Fungi
   <!-- feedback: Incorrecto. No tienen pared de quitina ni nutrición por absorción saprófita. -->
+
 ### Explicacion Pedagogica
 Las amebas son eucariotas unicelulares heterótrofas que se desplazan por seudópodos, perteneciendo al reino Protista.
 
@@ -140,6 +145,7 @@ Las amebas son eucariotas unicelulares heterótrofas que se desplazan por seudó
   <!-- feedback: Incorrecto. Son especies biológicas completamente distintas. -->
 - [ ] D) No comparten ninguna categoría taxonómica superior al género.
   <!-- feedback: Incorrecto. La jerarquía exige que compartan familia, orden, etc. -->
+
 ### Explicacion Pedagogica
 La jerarquía taxonómica es inclusiva: si dos organismos comparten un género (*Panthera*), obligatoriamente comparten Familia (Felidae), Orden (Carnivora), Clase, Filo y Reino.
 
@@ -152,14 +158,15 @@ La jerarquía taxonómica es inclusiva: si dos organismos comparten un género (
 ### Enunciado
 ¿Por qué un liquen no puede ser clasificado dentro de un solo reino de la naturaleza?
 ### Opciones
-- [x] B) Porque es una asociación simbiótica mutua entre un hongo (Fungi) y un alga o cianobacteria (Protista o Monera).
-  <!-- feedback: Correcto. El liquen no es un único organismo biológico, sino una simbiosis dual. -->
 - [ ] A) Porque cambia de reino dependiendo de la estación del año.
   <!-- feedback: Incorrecto. Las categorías taxonómicas no cambian estacionalmente. -->
+- [x] B) Porque es una asociación simbiótica mutua entre un hongo (Fungi) y un alga o cianobacteria (Protista o Monera).
+  <!-- feedback: Correcto. El liquen no es un único organismo biológico, sino una simbiosis dual. -->
 - [ ] C) Porque es un virus gigante que infecta a los frailejones.
   <!-- feedback: Incorrecto. Los líquenes son asociaciones celulares estables, no virus. -->
 - [ ] D) Porque no posee material genético ni células.
   <!-- feedback: Incorrecto. Está constituido por millones de células fúngicas y fotosintéticas. -->
+
 ### Explicacion Pedagogica
 Un liquen es un holobionte simbiótico formado por la unión de un micobionte (hongo) y un fotobionte (alga verde o cianobacteria).
 
@@ -172,14 +179,15 @@ Un liquen es un holobionte simbiótico formado por la unión de un micobionte (h
 ### Enunciado
 ¿Qué componente de la pared celular procariota retiene la tinción de cristal violeta en las bacterias Gram-positivas?
 ### Opciones
-- [x] B) Una gruesa capa de peptidoglicano (mureína)
-  <!-- feedback: Correcto. La pared celular con capa gruesa de peptidoglicano retiene el tinte cristal violeta. -->
 - [ ] A) Una capa de celulosa celular
   <!-- feedback: Incorrecto. La celulosa es propia de las paredes de plantas y algas. -->
+- [x] B) Una gruesa capa de peptidoglicano (mureína)
+  <!-- feedback: Correcto. La pared celular con capa gruesa de peptidoglicano retiene el tinte cristal violeta. -->
 - [ ] C) Una doble membrana plasmática sin pared
   <!-- feedback: Incorrecto. Las Gram-positivas tienen pared celular rígida. -->
 - [ ] D) Una cápsula de quitina
   <!-- feedback: Incorrecto. La quitina es característica de la pared de hongos. -->
+
 ### Explicacion Pedagogica
 Las bacterias Gram-positivas poseen una pared celular gruesa compuesta de peptidoglicano que fija la tinción.
 
@@ -200,6 +208,7 @@ Las bacterias Gram-positivas poseen una pared celular gruesa compuesta de peptid
   <!-- feedback: Incorrecto. $72\%$ de similitud demuestra pertenencia a taxones muy distantes. -->
 - [ ] D) El espécimen A no posee relación evolutiva con C.
   <!-- feedback: Incorrecto. Todos los seres vivos comparten un ancestro común universal (LUCA). -->
+
 ### Explicacion Pedagogica
 La homología de secuencias moleculares (ARNr) mide la proximidad filogenética: mayor porcentaje implica ancestro común más reciente.
 
@@ -212,13 +221,14 @@ La homología de secuencias moleculares (ARNr) mide la proximidad filogenética:
 ### Enunciado
 ¿Cuál es el argumento biológico fundamental que sustenta la exclusión de los virus del sistema de reinos celular?
 ### Opciones
-- [x] B) Carecen de estructura celular (son acelulares) y requieren la maquinaria metabólica de una célula hospedadora para replicarse.
-  <!-- feedback: Correcto. La teoría celular establece que la célula es la unidad fundamental; los virus carecen de metabolismo propio y organización celular. -->
 - [ ] A) No poseen ningún tipo de material genético como ADN o ARN.
   <!-- feedback: Incorrecto. Los virus poseen genomas de ADN o ARN. -->
-- [ ] C) Son demasiado pequeños para ser observados al microscopio electrónico.
+- [ ] B) Son demasiado pequeños para ser observados al microscopio electrónico.
   <!-- feedback: Incorrecto. El tamaño no define la clasificación en reinos; además son visibles al microscopio electrónico. -->
+- [x] C) Carecen de estructura celular (son acelulares) y requieren la maquinaria metabólica de una célula hospedadora para replicarse.
+  <!-- feedback: Correcto. La teoría celular establece que la célula es la unidad fundamental; los virus carecen de metabolismo propio y organización celular. -->
 - [ ] D) No pueden mutar ni evolucionar a lo largo del tiempo.
   <!-- feedback: Incorrecto. Los virus presentan altas tasas de mutación y evolución adaptativa. -->
+
 ### Explicacion Pedagogica
 Los virus son entidades acelulares parásitas intracelulares obligadas sin metabolismo propio, por lo que no se incluyen en el árbol celular de la vida (reinos biológicos).

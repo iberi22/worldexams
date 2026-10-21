@@ -205,8 +205,8 @@ Lorca utiliza la estructura del romance tradicional para crear un poema narrativ
 ¿Qué tiempo verbal representa la forma 'había terminado'?
 
 ### Opciones
-- [x] A) Pretérito pluscuamperfecto de indicativo <!-- feedback: Es correcta: la combinación del auxiliar 'había' con el participio expresa una acción anterior a otra pasada. -->
-- [ ] B) Pretérito perfecto compuesto <!-- feedback: El pretérito perfecto compuesto se forma con el presente de 'haber', como 'ha terminado'. -->
+- [ ] A) Pretérito perfecto compuesto <!-- feedback: El pretérito perfecto compuesto se forma con el presente de 'haber', como 'ha terminado'. -->
+- [x] B) Pretérito pluscuamperfecto de indicativo <!-- feedback: Es correcta: la combinación del auxiliar 'había' con el participio expresa una acción anterior a otra pasada. -->
 - [ ] C) Futuro simple <!-- feedback: El futuro sería 'terminará'; la forma dada hace referencia a un pasado anterior. -->
 - [ ] D) Condicional simple <!-- feedback: El condicional expresa una situación hipotética y no una anterioridad en el pasado. -->
 
@@ -224,10 +224,10 @@ El texto destaca la importancia del agua como recurso vital.
 ¿Cuál de las oraciones contiene un verbo en modo impersonal?
 
 ### Opciones
-- [x] A) Llueve mucho en esta región. <!-- feedback: Es correcta: los impersonales carecen de sujeto explícito y el gerundio se usa con sentido impersonal. -->
+- [ ] A) El niño corrió por el parque. <!-- feedback: Tiene sujeto explícito y por tanto no es impersonal. -->
 - [ ] B) Los estudiantes estudian por la noche. <!-- feedback: Tiene sujeto explícito y es una oración personal. -->
 - [ ] C) Hace frío en invierno. <!-- feedback: También es impersonal, pero la pregunta exige una única respuesta y esta es la elegida por su gerundio. -->
-- [ ] D) El niño corrió por el parque. <!-- feedback: Tiene sujeto explícito y por tanto no es impersonal. -->
+- [x] D) Llueve mucho en esta región. <!-- feedback: Es correcta: los impersonales carecen de sujeto explícito y el gerundio se usa con sentido impersonal. -->
 
 ### Explicacion Pedagogica
 Los verbos impersonales no tienen sujeto identificable y el gerundio que los acompaña pierde su valor de participio para asumir un sentido impersonal.## Explicacion Pedagogica
@@ -243,9 +243,9 @@ Las descripciones ayudan a crear la atmosfera en la narracion.
 ¿A qué tiempo y modo verbal corresponde la forma "seremos"?
 
 ### Opciones
-- [x] A) Al futuro simple de indicativo, primera persona del plural <!-- feedback: Es correcta: la terminación -emos es la del futuro simple de indicativo en la primera persona del plural. -->
+- [ ] A) Al condicional simple, primera persona del plural <!-- feedback: El condicional correspondiente sería "seríamos", con la "i" propia de ese modo. -->
 - [ ] B) Al futuro simple de indicativo, primera persona del singular <!-- feedback: La primera del singular sería "seré", sin la "s" final que aquí aparece. -->
-- [ ] C) Al condicional simple, primera persona del plural <!-- feedback: El condicional correspondiente sería "seríamos", con la "i" propia de ese modo. -->
+- [x] C) Al futuro simple de indicativo, primera persona del plural <!-- feedback: Es correcta: la terminación -emos es la del futuro simple de indicativo en la primera persona del plural. -->
 - [ ] D) Al pretérito imperfecto de indicativo, primera persona del plural <!-- feedback: El imperfecto se construye con la terminación -ábamos, y la forma dada es claramente futura. -->
 
 ### Explicacion Pedagogica
@@ -262,10 +262,10 @@ La funcion expresiva se centra en el emisor y expresa sentimientos.
 Identifica el conector: Itaugua es hermosa, ____ su gente es acogedora.
 
 ### Opciones
-- [x] D) ademas <!-- feedback: Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Itaugua y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro. -->
 - [ ] A) sin embargo <!-- feedback: Incorrecto. 'Sin embargo' es adversativo: introduce una idea que se opone a lo que se habia dicho. En esta oracion las dos proposiciones se refuerzan, porque la gente de Itaugua no contradice a su ciudad, asi que una oposicion seria falsa. -->
 - [ ] B) por lo tanto <!-- feedback: Incorrecto. 'Por lo tanto' es conclusivo: la segunda proposicion deduce una consecuencia de la primera. Aqui no hay deduccion, sino dos caracteristicas de Itaugua que se acumulan sin derivarse una de otra. -->
 - [ ] C) aunque <!-- feedback: Incorrecto. 'Aunque' introduce una concesion: lo que va detras se opone a lo esperado. La segunda proposicion no contradice la primera, la completa, asi que este conector tampoco corresponde. -->
+- [x] D) ademas <!-- feedback: Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Itaugua y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro. -->
 
 ### Explicacion Pedagogica
 El conector 'ademas' anade informacion.
@@ -302,8 +302,8 @@ La opcion A sigue las normas ortograficas correctamente.
 ¿Qué expresa el modo potencial simple en la forma 'hablaría'?
 
 ### Opciones
-- [x] A) Una situación hipotética o conditioned <!-- feedback: Es correcta: el condicional simple expresa hechos hipotéticos o dudosos. -->
-- [ ] B) Un hecho pasado y consumado <!-- feedback: El pretérito perfecto simple afirma un pasado concluido, no una hipótesis. -->
+- [ ] A) Un hecho pasado y consumado <!-- feedback: El pretérito perfecto simple afirma un pasado concluido, no una hipótesis. -->
+- [x] B) Una situación hipotética o conditioned <!-- feedback: Es correcta: el condicional simple expresa hechos hipotéticos o dudosos. -->
 - [ ] C) Un deseo expressed con 'ojalá' <!-- feedback: El deseo con 'ojalá' se expresa en subjuntivo, no en condicional. -->
 - [ ] D) Una orden dada a un interlocutor <!-- feedback: El imperativo da órdenes, y no comparte forma con el condicional simple. -->
 
@@ -321,9 +321,9 @@ Las oraciones subordinadas adjetivas complementan a un nombre.
 ¿Cuál de las formas verbales es un gerundio?
 
 ### Opciones
-- [x] A) Hablando <!-- feedback: Es correcta: el gerundio se forma añadiendo -ando o -iendo al infinitivo, y es invariable. -->
+- [ ] A) Hablaré <!-- feedback: Es futuro simple de indicativo. -->
 - [ ] B) Hablado <!-- feedback: Es el participio, que se usa con los auxiliares ser y haber y sí concuerda en género y número. -->
-- [ ] C) Hablaré <!-- feedback: Es futuro simple de indicativo. -->
+- [x] C) Hablando <!-- feedback: Es correcta: el gerundio se forma añadiendo -ando o -iendo al infinitivo, y es invariable. -->
 - [ ] D) Hablase <!-- feedback: Es una forma del pretérito imperfecto de subjuntivo. -->
 
 ### Explicacion Pedagogica
@@ -340,8 +340,8 @@ Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.
 ¿Qué valor tiene el verbo 'ser' en la oración 'Ella es profesora'?
 
 ### Opciones
-- [x] A) Es un verbo sustantivo que une atributo y sujeto <!-- feedback: Es correcto: 'ser' vincula el sujeto con un atributo que identifica su naturaleza o condición. -->
-- [ ] B) Es un verbo copulativo que expresa cualidad pasajera <!-- feedback: Es copulativo, pero esa cualidad es duradera, no pasajera como la de 'estar'. -->
+- [ ] A) Es un verbo copulativo que expresa cualidad pasajera <!-- feedback: Es copulativo, pero esa cualidad es duradera, no pasajera como la de 'estar'. -->
+- [x] B) Es un verbo sustantivo que une atributo y sujeto <!-- feedback: Es correcto: 'ser' vincula el sujeto con un atributo que identifica su naturaleza o condición. -->
 - [ ] C) Es un verbo auxiliar que forma el pretérito <!-- feedback: Aquí no acompaña a ningún participio, de modo que funciona como verbo principal y no como verbo auxiliar. -->
 - [ ] D) Es un verbo impersonal porque carece de sujeto <!-- feedback: Tiene un sujeto explícito, 'Ella', así que no es impersonal. -->
 
@@ -359,9 +359,9 @@ La metafora identifica un termino real con uno imaginario por su semejanza.
 ¿Cuál es la forma del presente de indicativo del verbo 'ir' en la segunda persona del singular?
 
 ### Opciones
-- [x] A) Vas <!-- feedback: Es correcta: el verbo 'ir' es irregular en presente y la segunda del singular toma la forma 'vas'. -->
+- [ ] A) Ibas <!-- feedback: Es pretérito imperfecto de indicativo. -->
 - [ ] B) Vas a <!-- feedback: Esa forma pertenece a la perífrasis del futuro inmediato, no al presente simple. -->
-- [ ] C) Ibas <!-- feedback: Es pretérito imperfecto de indicativo. -->
+- [x] C) Vas <!-- feedback: Es correcta: el verbo 'ir' es irregular en presente y la segunda del singular toma la forma 'vas'. -->
 - [ ] D) Iré <!-- feedback: Es la forma de futuro simple de este verbo. -->
 
 ### Explicacion Pedagogica
@@ -378,8 +378,8 @@ Las palabras esdrújulas llevan tilde siempre, sin excepción, en la antepenúlt
 ¿Qué conjugación corresponde al verbo 'tener' en la tercera persona del plural del presente de indicativo?
 
 ### Opciones
-- [x] A) Tienen <!-- feedback: Es correcta: el verbo 'tener' es irregular y su presente de indicativo no sigue el patrón regular. -->
-- [ ] B) Tener <!-- feedback: Es el infinitivo, que no lleva marca de persona ni de tiempo. -->
+- [ ] A) Tener <!-- feedback: Es el infinitivo, que no lleva marca de persona ni de tiempo. -->
+- [x] B) Tienen <!-- feedback: Es correcta: el verbo 'tener' es irregular y su presente de indicativo no sigue el patrón regular. -->
 - [ ] C) Tenéis <!-- feedback: Es la segunda persona del plural, no la tercera. -->
 - [ ] D) Tenían <!-- feedback: Es pretérito imperfecto de indicativo. -->
 
@@ -397,10 +397,10 @@ Lorca utiliza la estructura del romance tradicional para crear un poema narrativ
 En el Colegio Nacional Lambare de Lambare, analizando un texto. ¿Cual es la idea principal?
 
 ### Opciones
-- [x] D) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen. -->
 - [ ] A) El agua solo se usa para beber <!-- feedback: Incorrecto. Reduce el agua a un solo uso domestico. El texto la presenta como recurso vital para la vida en general, no unicamente como algo con que beber. -->
 - [ ] B) El agua no es importante <!-- feedback: Incorrecto. Contradice de frente al texto: si el agua careciera de importancia, no tendria sentido que el texto insistiera en su cuidado. Una idea principal entre las opciones no puede negar lo que el propio texto afirma. -->
 - [ ] C) El agua es un recurso infinito <!-- feedback: Incorrecto. Afirma que el agua es inagotable y con ello borra la necesidad de cuidarla, que es justamente la tesis que el texto sostiene. -->
+- [x] D) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen. -->
 
 ### Explicacion Pedagogica
 El texto destaca la importancia del agua como recurso vital.

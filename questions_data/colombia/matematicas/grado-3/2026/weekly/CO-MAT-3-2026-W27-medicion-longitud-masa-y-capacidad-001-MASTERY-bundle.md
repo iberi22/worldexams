@@ -148,14 +148,14 @@ El problema tiene dos pasos. Primero se convierte la cantidad grande a la unidad
 Una mesa mide 90 centímetros y una puerta mide 2 metros. ¿Cuál de las dos medidas es mayor?
 
 ### Opciones
-- [x] A) La puerta, porque 2 metros equivalen a 200 centímetros y 200 es mayor que 90
-  <!-- feedback: Correcto. Al convertir a la misma unidad, 2 metros son 200 centímetros, y 200 centímetros es mayor que 90 centímetros. -->
+- [ ] A) Las dos medidas son iguales, porque las dos hablan de longitud
+  <!-- feedback: Incorrecto. Que las dos sean longitudes no las hace iguales, porque 90 centímetros y 200 centímetros son valores distintos. -->
 - [ ] B) La mesa, porque 90 tiene más cifras que 2
   <!-- feedback: Incorrecto. La cantidad de cifras no mide nada, porque lo que decide es el valor real de cada longitud una vez comparada. -->
 - [ ] C) La puerta, porque el metro siempre es la unidad más grande
   <!-- feedback: Incorrecto. La puerta sí es más larga, pero la comparación no se gana por el nombre de la unidad sino porque 2 metros son 200 centímetros. -->
-- [ ] D) Las dos medidas son iguales, porque las dos hablan de longitud
-  <!-- feedback: Incorrecto. Que las dos sean longitudes no las hace iguales, porque 90 centímetros y 200 centímetros son valores distintos. -->
+- [x] D) La puerta, porque 2 metros equivalen a 200 centímetros y 200 es mayor que 90
+  <!-- feedback: Correcto. Al convertir a la misma unidad, 2 metros son 200 centímetros, y 200 centímetros es mayor que 90 centímetros. -->
 
 ### Explicacion Pedagogica
 Para comparar dos longitudes hay que llevarlas a la misma unidad. La puerta mide 2 metros, y como 1 metro tiene 100 centímetros, 2 metros son 200 centímetros. Al comparar 200 con 90, la puerta resulta ser la medida mayor porque 200 centímetros superan los 90 centímetros de la mesa.

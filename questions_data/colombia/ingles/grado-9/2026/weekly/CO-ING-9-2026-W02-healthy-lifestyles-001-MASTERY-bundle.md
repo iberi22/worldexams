@@ -255,9 +255,9 @@ What does this sentence tell us about the speaker?
 
 ### Opciones
 - [ ] A) They finished their workout a long time ago. <!-- feedback: Incorrect. "Just" implies a very recent completion. -->
-- [x] B) They are likely still tired or at the gym. <!-- feedback: Correct! "Just" with Present Perfect shows an action finished moments ago with present consequences. -->
+- [ ] B) They didn't finish the workout properly. <!-- feedback: Incorrect. It only refers to the timing. -->
 - [ ] C) They finish their workout at the same time every day. <!-- feedback: Incorrect. This is not about a routine. -->
-- [ ] D) They didn't finish the workout properly. <!-- feedback: Incorrect. It only refers to the timing. -->
+- [x] D) They are likely still tired or at the gym. <!-- feedback: Correct! "Just" with Present Perfect shows an action finished moments ago with present consequences. -->
 
 ### Explicacion Pedagogica
 El uso de *just* con el *Present Perfect* enfatiza que la acción se completó hace un instante, lo cual suele implicar un estado presente (como estar sudado o cansado tras el ejercicio).

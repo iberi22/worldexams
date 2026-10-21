@@ -204,8 +204,8 @@ La persuasión es la capacidad de influir en las ideas o acciones de otros media
 ¿Cuál es la función de una **pregunta retórica** al final de un artículo de opinión?
 
 ### Opciones
-- [ ] A) Que el lector llame por teléfono al periódico para responderla. <!-- feedback: Incorrecto. No es una pregunta para obtener una respuesta literal inmediata. -->
-- [x] B) Invitar al lector a reflexionar profundamente sobre el tema, cuya respuesta suele ser obvia según los argumentos dados. <!-- feedback: Correcto. La pregunta retórica es una herramienta de estilo para involucrar al receptor. -->
+- [x] A) Invitar al lector a reflexionar profundamente sobre el tema, cuya respuesta suele ser obvia según los argumentos dados. <!-- feedback: Correcto. La pregunta retórica es una herramienta de estilo para involucrar al receptor. -->
+- [ ] B) Que el lector llame por teléfono al periódico para responderla. <!-- feedback: Incorrecto. No es una pregunta para obtener una respuesta literal inmediata. -->
 - [ ] C) Indicar que el autor no sabe nada sobre el tema y necesita ayuda. <!-- feedback: Incorrecto. No es una duda real del autor, sino una estrategia literaria. -->
 - [ ] D) Rellenar espacio porque el texto era muy corto. <!-- feedback: Incorrecto. Todo elemento en un buen artículo debe tener un propósito comunicativo. -->
 
@@ -227,8 +227,8 @@ Lee el siguiente fragmento: "Ayer se inauguró el nuevo muelle de la ciudad. Asi
 ### Opciones
 - [ ] A) Porque habla de algo que pasó en Cartagena. <!-- feedback: Incorrecto. Los artículos de opinión pueden hablar de hechos locales. -->
 - [ ] B) Porque usa números para decir cuánta gente asistió. <!-- feedback: Incorrecto. Los artículos de opinión pueden incluir datos estadísticos. -->
-- [x] C) Porque se limita a narrar hechos sin dar ninguna valoración, juicio o postura personal del autor. <!-- feedback: Correcto. Carece de subjetividad y argumentación; es un texto puramente informativo (noticia corta). -->
-- [ ] D) Porque el autor no puso su nombre completo. <!-- feedback: Incorrecto. La falta de firma no cambia la naturaleza informativa del contenido. -->
+- [ ] C) Porque el autor no puso su nombre completo. <!-- feedback: Incorrecto. La falta de firma no cambia la naturaleza informativa del contenido. -->
+- [x] D) Porque se limita a narrar hechos sin dar ninguna valoración, juicio o postura personal del autor. <!-- feedback: Correcto. Carece de subjetividad y argumentación; es un texto puramente informativo (noticia corta). -->
 
 ### Explicacion Pedagogica
 La ausencia de tesis y argumentos, sumada a un tono neutral y descriptivo, hace que un texto sea informativo y no de opinión. Reconocer esta diferencia es clave para la comprensión crítica de medios.

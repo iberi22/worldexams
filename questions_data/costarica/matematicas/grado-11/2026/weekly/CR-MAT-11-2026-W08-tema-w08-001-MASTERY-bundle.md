@@ -489,10 +489,10 @@ Los dos logaritmos comparten la base 2, así que su suma es el logaritmo del pro
 Halle el conjunto solución para la ecuación logarítmica: $\log(x + 2) - \log(x) = \log(3)$.
 
 ### Opciones
-- [x] A) $S = \{1\}$
-  <!-- feedback: Correcto. Por la propiedad del cociente, $(x + 2)/x = 3$, de donde $x + 2 = 3x$ y $x = 1$, que cumple el dominio $x > 0$. -->
-- [ ] B) $S = \{2\}$
+- [ ] A) $S = \{2\}$
   <!-- feedback: El 2 es el desplazamiento del primer argumento, no el valor que resulta de la ecuación. -->
+- [x] B) $S = \{1\}$
+  <!-- feedback: Correcto. Por la propiedad del cociente, $(x + 2)/x = 3$, de donde $x + 2 = 3x$ y $x = 1$, que cumple el dominio $x > 0$. -->
 - [ ] C) $S = \{3\}$
   <!-- feedback: El 3 es el argumento del logaritmo del lado derecho, y es el valor al que debe igualarse el cociente de los argumentos. -->
 - [ ] D) $S = \varnothing$

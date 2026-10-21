@@ -257,12 +257,12 @@ La filtración es un método de separación físico que retiene sólidos en susp
 ### Opciones
 - [ ] A) Que sea muy denso, de color rojo y que no se queme nunca.
   <!-- feedback: Estas propiedades no tienen relación directa con la ecología o degradación. -->
-- [x] B) Que sea biodegradable (química), impermeable a líquidos (física) y resistente a la tracción (física).
-  <!-- feedback: ¡Excelente! Estas propiedades aseguran que cumpla su función y que se reintegre a la naturaleza. -->
+- [ ] B) Que sea pesado, brillante y que conduzca muy bien la electricidad.
+  <!-- feedback: Estas son propiedades de metales, que no suelen ser los mejores materiales para envases degradables. -->
 - [ ] C) Que sea muy frágil, transparente y que flote siempre en el agua.
   <!-- feedback: No, la fragilidad lo haría poco útil y que flote puede facilitar la contaminación de ríos y mares. -->
-- [ ] D) Que sea pesado, brillante y que conduzca muy bien la electricidad.
-  <!-- feedback: Estas son propiedades de metales, que no suelen ser los mejores materiales para envases degradables. -->
+- [x] D) Que sea biodegradable (química), impermeable a líquidos (física) y resistente a la tracción (física).
+  <!-- feedback: ¡Excelente! Estas propiedades aseguran que cumpla su función y que se reintegre a la naturaleza. -->
 
 ### Explicación Pedagógica
 El diseño de materiales implica elegir propiedades específicas. La biodegradabilidad es una propiedad química clave para el medio ambiente, mientras que la impermeabilidad y resistencia son necesarias para proteger los alimentos.

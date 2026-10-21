@@ -40,6 +40,7 @@ Este bundle contiene 10 preguntas sobre **plano-cartesiano-coordenadas** para gr
   <!-- feedback: Incorrecto. Eso describe un transportador, no el plano cartesiano. -->
 - [ ] D) Una tabla de multiplicar para hacer cuentas rápidas
   <!-- feedback: Incorrecto. La tabla de multiplicar no ubica puntos en el plano. -->
+
 ### Explicacion Pedagogica
 El plano cartesiano está formado por el eje x (horizontal) y el eje y (vertical), que se cortan en el origen (0, 0). Cada punto se identifica con un par ordenado (x, y).
 
@@ -60,6 +61,7 @@ En el punto (3, 2), ¿qué indica el primer número del par ordenado?
   <!-- feedback: Incorrecto. La distancia al origen se calcula con Pitágoras, no es el primer número. -->
 - [ ] D) El número del cuadrante donde está el punto
   <!-- feedback: Incorrecto. El cuadrante depende de los signos de ambas componentes. -->
+
 ### Explicacion Pedagogica
 En un par ordenado (x, y), la primera componente se llama abscisa y señala cuántas unidades se avanza sobre el eje x. La segunda se llama ordenada y señala el avance sobre el eje y.
 
@@ -80,6 +82,7 @@ En un par ordenado (x, y), la primera componente se llama abscisa y señala cuá
   <!-- feedback: Correcto. Tres cuadras al oriente dan x = 3 y dos al norte dan y = 2. -->
 - [ ] D) (0, 5)
   <!-- feedback: Incorrecto. Ese punto ignoraría el avance sobre el eje x. -->
+
 ### Explicacion Pedagogica
 Para ubicar un punto se escribe primero el desplazamiento horizontal (x) y luego el vertical (y). Avanzar 3 al oriente y 2 al norte desde el origen produce el punto (3, 2).
 
@@ -100,6 +103,7 @@ Para ubicar un punto se escribe primero el desplazamiento horizontal (x) y luego
   <!-- feedback: Incorrecto. Hacia arriba el desplazamiento es positivo, no negativo. -->
 - [ ] D) (8, 0)
   <!-- feedback: Incorrecto. Los desplazamientos no se suman en un solo eje. -->
+
 ### Explicacion Pedagogica
 Moverse a la derecha aumenta la abscisa (x) y moverse hacia arriba aumenta la ordenada (y). Por eso 5 a la derecha y 3 hacia arriba corresponden al punto (5, 3).
 
@@ -120,6 +124,7 @@ Moverse a la derecha aumenta la abscisa (x) y moverse hacia arriba aumenta la or
   <!-- feedback: Incorrecto. En el cuadrante III ambas coordenadas son negativas. -->
 - [ ] D) Cuadrante IV
   <!-- feedback: Incorrecto. En el cuadrante IV x es positiva y y es negativa. -->
+
 ### Explicacion Pedagogica
 Los signos determinan el cuadrante: (+, +) es I, (-, +) es II, (-, -) es III y (+, -) es IV. El punto (-3, 2) tiene x negativa y y positiva, así que pertenece al cuadrante II.
 
@@ -140,6 +145,7 @@ Al analizar las coordenadas de A y B, ¿qué se puede concluir sobre el segmento
   <!-- feedback: Incorrecto. Al tener la misma abscisa no hay desplazamiento diagonal. -->
 - [ ] D) Es un segmento vertical de longitud 5
   <!-- feedback: Incorrecto. La longitud es la diferencia de ordenadas: 5 - 2 = 3, no 5. -->
+
 ### Explicacion Pedagogica
 Cuando dos puntos comparten la misma abscisa, el segmento que los une es vertical y su longitud es el valor absoluto de la diferencia de las ordenadas: |5 - 2| = 3.
 
@@ -160,6 +166,7 @@ Cuando dos puntos comparten la misma abscisa, el segmento que los une es vertica
   <!-- feedback: Correcto. El rectángulo mide 6 de largo y 4 de ancho; el perímetro es 2 × (6 + 4) = 20. -->
 - [ ] D) 24 unidades
   <!-- feedback: Incorrecto. Ese valor corresponde al área (6 × 4), no al perímetro. -->
+
 ### Explicacion Pedagogica
 Con los vértices se deduce que el largo mide 6 - 0 = 6 y el ancho 4 - 0 = 4. El perímetro del rectángulo es 2 × (6 + 4) = 20 unidades.
 
@@ -180,6 +187,7 @@ Con los vértices se deduce que el largo mide 6 - 0 = 6 y el ancho 4 - 0 = 4. El
   <!-- feedback: Correcto. Los tres puntos comparten la abscisa x = 3, de modo que están sobre una misma línea vertical. -->
 - [ ] D) (0, 5), (5, 0), (5, 5)
   <!-- feedback: Incorrecto. Las abscisas no son todas iguales, así que no hay alineación vertical. -->
+
 ### Explicacion Pedagogica
 Un conjunto de puntos está alineado verticalmente cuando todos comparten la misma abscisa (x) y solo cambia la ordenada (y). Solo el conjunto con x = 3 en los tres puntos cumple esa condición.
 
@@ -200,6 +208,7 @@ Un conjunto de puntos está alineado verticalmente cuando todos comparten la mis
   <!-- feedback: Incorrecto. Ambas sumas dan 7 y, además, sumar coordenadas no da la distancia al origen. -->
 - [ ] D) No, porque Q tiene mayor abscisa y eso siempre significa mayor distancia
   <!-- feedback: Incorrecto. La distancia depende de ambas coordenadas, no solo de la abscisa. -->
+
 ### Explicacion Pedagogica
 La distancia de un punto (a, b) al origen es raíz(a² + b²). Para P: raíz(4 + 25) = raíz(29) ≈ 5,39. Para Q: raíz(16 + 9) = raíz(25) = 5. Como 5,39 > 5, la afirmación del cartel es correcta.
 
@@ -214,11 +223,12 @@ La distancia de un punto (a, b) al origen es raíz(a² + b²). Para P: raíz(4 +
 ### Opciones
 - [ ] A) (1, 4) no sirve porque el lado AD quedaría más largo que AB
   <!-- feedback: Incorrecto. AD mediría 4 - 1 = 3, igual que AB = 4 - 1 = 3; sí forma un cuadrado. -->
-- [x] B) (1, 4), porque completa lados de longitud 3 y ángulos rectos sobre la cuadrícula
-  <!-- feedback: Correcto. Con D(1, 4), AB = BC = CD = DA = 3 y los lados quedan paralelos a los ejes, formando un cuadrado. -->
+- [ ] B) (1, 1), porque así el parque queda simétrico respecto al origen
+  <!-- feedback: Incorrecto. Ese punto ya es el vértice A y la simetría respecto al origen no define un cuadrado. -->
 - [ ] C) (4, 1), porque repetir un vértice garantiza lados iguales
   <!-- feedback: Incorrecto. Ese punto ya es el vértice B; repetirlo no crea ninguna figura. -->
-- [ ] D) (1, 1), porque así el parque queda simétrico respecto al origen
-  <!-- feedback: Incorrecto. Ese punto ya es el vértice A y la simetría respecto al origen no define un cuadrado. -->
+- [x] D) (1, 4), porque completa lados de longitud 3 y ángulos rectos sobre la cuadrícula
+  <!-- feedback: Correcto. Con D(1, 4), AB = BC = CD = DA = 3 y los lados quedan paralelos a los ejes, formando un cuadrado. -->
+
 ### Explicacion Pedagogica
 AB mide 4 - 1 = 3 y BC mide 4 - 1 = 3, con ángulo recto en B. Para cerrar el cuadrado se necesita D con la abscisa de A (x = 1) y la ordenada de C (y = 4), es decir D(1, 4).

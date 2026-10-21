@@ -234,9 +234,9 @@ This question evaluates the student's ability to analyze the topic of Advanced G
 A polite way to ask for a name is:
 
 ### Opciones
-- [x] A) What is your name? <!-- feedback: Correct! 'What is your name?' uses the polite question word and the full verb form, which is what makes it a polite request. -->
+- [ ] A) Give me your name. <!-- feedback: 'Give me your name' is a command, and a command is not a polite way to ask. -->
 - [ ] B) Who are you? <!-- feedback: 'Who are you?' sounds blunt and can even sound accusing, so it is not the polite form. -->
-- [ ] C) Give me your name. <!-- feedback: 'Give me your name' is a command, and a command is not a polite way to ask. -->
+- [x] C) What is your name? <!-- feedback: Correct! 'What is your name?' uses the polite question word and the full verb form, which is what makes it a polite request. -->
 - [ ] D) Name? <!-- feedback: 'Name?' is a single word with no verb, which makes it very informal and can sound rude. -->
 
 ### Explicación Pedagógica

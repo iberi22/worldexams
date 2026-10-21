@@ -197,12 +197,12 @@ Analizar los aportes específicos de raizales y palenqueros a la identidad diver
 ### Opciones
 - [ ] A) Porque así se evita tener que aprender la historia del país.
   <!-- feedback: Valorar esta cultura exige precisamente conocer y estudiar la historia. -->
-- [x] B) Porque reconocer su historia y sus aportes fortalece la igualdad, la convivencia y la identidad de toda la nación.
-  <!-- feedback: El respeto a la diversidad es base de una sociedad justa y democrática. -->
+- [ ] B) Porque solo las personas afrocolombianas deben respetar las normas de convivencia.
+  <!-- feedback: La convivencia y el respeto son deberes de todos los ciudadanos. -->
 - [ ] C) Porque las demás culturas del país no tienen ningún valor.
   <!-- feedback: Todas las culturas, indígenas, afrocolombianas, mestizas y otras, tienen valor. -->
-- [ ] D) Porque solo las personas afrocolombianas deben respetar las normas de convivencia.
-  <!-- feedback: La convivencia y el respeto son deberes de todos los ciudadanos. -->
+- [x] D) Porque reconocer su historia y sus aportes fortalece la igualdad, la convivencia y la identidad de toda la nación.
+  <!-- feedback: El respeto a la diversidad es base de una sociedad justa y democrática. -->
 
 ### Explicacion Pedagogica
 Evaluar la importancia del reconocimiento afrocolombiano para la igualdad y la convivencia nacional.

@@ -39,6 +39,7 @@ Cual es el orden logico correcto de las primeras cuatro etapas del metodo cienti
   <!-- feedback: Correcto. La secuencia inicia con la observacion del fenomeno, sigue con la pregunta, la hipotesis y el experimento controlado. -->
 - [ ] D) Teoria, ley, hipotesis y divulgacion de resultados.
   <!-- feedback: Incorrecto. Esos elementos son producto del proceso y no las etapas iniciales del metodo. -->
+
 ### Explicacion Pedagogica
 El metodo cientifico escolar inicia cuando el estudiante observa un fenomeno, plantea una pregunta especifica, formula una hipotesis comprobable y disena un experimento con variables controladas. Solo asi la conclusion tendra validez.
 
@@ -59,6 +60,7 @@ Cual de las siguientes afirmaciones describe mejor la diferencia entre ciencia y
   <!-- feedback: Incorrecto. La tecnologia moderna se apoya en conocimiento cientifico, aunque existen tecnologias tradicionales empiricas. -->
 - [ ] D) La ciencia solo estudia lo microscopico y la tecnologia solo lo visible al ojo humano.
   <!-- feedback: Incorrecto. Ambas pueden abordar fenomenos en cualquier escala del universo. -->
+
 ### Explicacion Pedagogica
 La ciencia produce conocimiento verificable sobre la naturaleza; la tecnologia emplea ese conocimiento para crear soluciones practicas. Aunque se retroalimentan, cumplen roles distintos en la sociedad del conocimiento.
 
@@ -79,6 +81,7 @@ Que funcion cumplen los semilleros de investigacion escolar en las instituciones
   <!-- feedback: Incorrecto. El objetivo es formativo, no de comercializacion inmediata de patentes. -->
 - [ ] D) Sustituir las clases regulares de quimica y fisica por proyectos libres.
   <!-- feedback: Incorrecto. Los semilleros complementan el plan de estudios, no lo reemplazan. -->
+
 ### Explicacion Pedagogica
 Los semilleros de investigacion, apoyados por Minciencias y universidades como la Nacional o la Javeriana, forman a jovenes en el metodo cientifico y los acercan a redes academicas, fortaleciendo el capital humano del pais.
 
@@ -99,6 +102,7 @@ Para comparar de manera valida si el agua con limon conserva mejor el pan que el
   <!-- feedback: Incorrecto. La marca debe mantenerse constante para evitar variables extrañas. -->
 - [ ] D) La temperatura del laboratorio donde se realiza la prueba.
   <!-- feedback: Incorrecto. Esa es una variable que se controla, no la dependiente. -->
+
 ### Explicacion Pedagogica
 En un experimento escolar, la variable independiente es lo que el equipo modifica (tipo de aditivo), la variable dependiente es la respuesta que se mide (tiempo hasta la aparicion de mohos) y las demas se mantienen constantes para asegurar comparacion valida.
 
@@ -119,6 +123,7 @@ Si el semillero quiere comparar tres abonos organicos en plantas de maiz del mis
   <!-- feedback: Correcto. Las replicas reducen el efecto del azar y mejoran la confiabilidad de los resultados. -->
 - [ ] D) Diez plantas, pero todas con el mismo abono para simplificar la comparacion.
   <!-- feedback: Incorrecto. Con un solo abono no se compara su efecto frente a los demas. -->
+
 ### Explicacion Pedagogica
 La replicacion es esencial en cualquier experimento: usar varias unidades experimentales por condicion permite calcular promedios, dispersiones y aplicar analisis estadisticos basicos en el semillero.
 
@@ -139,6 +144,7 @@ Cual seria la forma mas adecuada de presentar los resultados de un experimento e
   <!-- feedback: Incorrecto. La oralidad es insuficiente en ferias grandes; se requieren soportes visuales. -->
 - [ ] D) Entregar unicamente la bitacora personal del investigador al publico asistente.
   <!-- feedback: Incorrecto. La bitacora es util para el equipo, pero no es un producto de divulgacion adecuado. -->
+
 ### Explicacion Pedagogica
 La divulgacion cientifica combina varios formatos: texto claro, graficos, tablas y referencias. Las ferias escolares evaluan la claridad de la pregunta, la coherencia metodologica y la solidez de las conclusiones.
 
@@ -159,6 +165,7 @@ Por que el precio de un smartphone en Colombia suele ser mayor en pesos que en d
   <!-- feedback: Incorrecto. Los componentes son estandar a nivel global; no se modifican por clima. -->
 - [ ] D) Porque los celulares en Colombia son fabricados con tecnologias superiores.
   <!-- feedback: Incorrecto. No existe fabricacion nacional de smartphones; la tecnologia es importada. -->
+
 ### Explicacion Pedagogica
 El precio final incluye impuestos IVA y aranceles, transporte internacional, distribucion local, marketing y margen comercial. Entender esta cadena ayuda a los estudiantes a tomar decisiones de consumo responsable.
 
@@ -179,6 +186,7 @@ Por que Colombia registra relativamente pocas patentes internacionales de alta t
   <!-- feedback: Incorrecto. Colombia permite el patentamiento internacional, aunque los tramites son costosos y largos. -->
 - [ ] D) Porque los inventos colombianos son secretos y no se registran.
   <!-- feedback: Incorrecto. Los secretos industriales no se cuentan como patentes internacionales. -->
+
 ### Explicacion Pedagogica
 El bajo registro de patentes refleja menor inversion en I+D+i, baja articulacion entre academia y empresa y pocos incentivos para proteger el conocimiento. Programas de Minciencias buscan revertir esa brecha a largo plazo.
 
@@ -199,6 +207,7 @@ Cual es la relacion correcta entre el desarrollo cientifico, la innovacion tecno
   <!-- feedback: Incorrecto. La salud publica, por ejemplo, depende crucialmente del avance cientifico. -->
 - [ ] D) La innovacion tecnologica solo afecta a las grandes ciudades colombianas.
   <!-- feedback: Incorrecto. La innovacion impacta tanto zonas rurales como urbanas, aunque con distinta intensidad. -->
+
 ### Explicacion Pedagogica
 La ciencia produce saber, la innovacion lo traduce en bienes y servicios, y la politica publica determina si esos beneficios llegan a toda la poblacion. Sin equidad, la innovacion amplifica desigualdades preexistentes.
 
@@ -219,6 +228,7 @@ Que significa el termino "apropiacion social del conocimiento" aplicado a la cie
   <!-- feedback: Correcto. La apropiacion social busca cerrar la brecha entre ciencia y comunidad. -->
 - [ ] D) La entrega de tecnologia gratis a todos los habitantes por parte del Estado.
   <!-- feedback: Incorrecto. La gratuidad no es lo unico; tambien es necesaria la comprension critica. -->
+
 ### Explicacion Pedagogica
 La apropiacion social del conocimiento fomenta que la ciudadania comprenda, use y dialogue con la ciencia. Museos interactivos, ferias y divulgacion escolar son estrategias concretas para avanzar en esa direccion en Colombia.
 
@@ -233,12 +243,13 @@ Evalue la propuesta de invertir el 100% del presupuesto de ciencia escolar en ta
 ### Opciones
 - [ ] A) Es excelente porque las tablets reemplazan por completo las practicas de laboratorio.
   <!-- feedback: Incorrecto. Las tablets complementan, pero no sustituyen la experimentacion con materiales reales. -->
-- [x] B) Es inadecuada porque descapitaliza los laboratorios y reduce las experiencias concretas que desarrollan pensamiento cientifico.
-  <!-- feedback: Correcto. El aprendizaje experimental requiere insumos fisicos; sin ellos la educacion se vuelve solo digital. -->
+- [ ] B) Es valida siempre que los docentes donen voluntariamente su tiempo libre para preparar reactivos.
+  <!-- feedback: Incorrecto. Exigir trabajo no remunerado no es una solucion etica ni sostenible. -->
 - [ ] C) Es neutral, ya que la tecnologia no tiene impacto en la motivacion estudiantil.
   <!-- feedback: Incorrecto. La tecnologia motiva, pero no puede sustituir las practicas de laboratorio. -->
-- [ ] D) Es valida siempre que los docentes donen voluntariamente su tiempo libre para preparar reactivos.
-  <!-- feedback: Incorrecto. Exigir trabajo no remunerado no es una solucion etica ni sostenible. -->
+- [x] D) Es inadecuada porque descapitaliza los laboratorios y reduce las experiencias concretas que desarrollan pensamiento cientifico.
+  <!-- feedback: Correcto. El aprendizaje experimental requiere insumos fisicos; sin ellos la educacion se vuelve solo digital. -->
+
 ### Explicacion Pedagogica
 La tecnologia educativa potencia el aprendizaje, pero requiere un equilibrio con materiales y experiencias concretas. Los laboratorios escolares son insustituibles para desarrollar habilidades cientificas reales.
 
@@ -259,5 +270,6 @@ Evalue la propuesta de instalar antenas de telefonia celular dentro del patio es
   <!-- feedback: Incorrecto. Las antenas certificadas y reguladas cumplen estandares internacionales de emision. -->
 - [ ] D) Es innecesaria, porque los celulares son tecnologia obsoleta en 2026.
   <!-- feedback: Incorrecto. La telefonia celular sigue siendo una tecnologia vigente y en expansion. -->
+
 ### Explicacion Pedagogica
 La negociacion con empresas tecnologicas debe considerar autonomia institucional, cumplimiento normativo y participacion de la comunidad educativa. No se trata de rechazar la innovacion, sino de gestionarla con criterio y responsabilidad.

@@ -34,14 +34,14 @@ Algoritmo de la división con divisores de dos cifras, cálculo de cocientes y r
 ¿Cuántos paquetes completos de 24 cuadernos se obtienen al dividir los 720 cuadernos?
 
 ### Opciones
-- [x] D) 30 paquetes.
-  <!-- feedback: Al dividir 720 entre 24: $72 \div 24 = 3$, y agregando el cero obtenemos 30 paquetes exactos. -->
 - [ ] A) 25 paquetes.
   <!-- feedback: 25 paquetes de 24 cuadernos contienen solo 600 cuadernos ($25 \times 24 = 600$). -->
 - [ ] B) 35 paquetes.
   <!-- feedback: 35 paquetes de 24 cuadernos requerirían 840 cuadernos ($35 \times 24 = 840$). -->
 - [ ] C) 40 paquetes.
   <!-- feedback: 40 paquetes de 24 cuadernos totalizan 960 cuadernos ($40 \times 24 = 960$). -->
+- [x] D) 30 paquetes.
+  <!-- feedback: Al dividir 720 entre 24: $72 \div 24 = 3$, y agregando el cero obtenemos 30 paquetes exactos. -->
 
 ### Explicacion Pedagogica
 Para hallar la cantidad de grupos iguales se divide el total entre el tamaño del grupo: $720 \div 24 = 30$.
@@ -57,10 +57,10 @@ Para hallar la cantidad de grupos iguales se divide el total entre el tamaño de
 ¿Qué operación matemática permite determinar con certeza la cantidad exacta de cajas necesarias y cuál es su resultado?
 
 ### Opciones
-- [x] B) División: $864 \div 36 = 24$ cajas.
-  <!-- feedback: La división reparte equitativamente las 864 naranjas en grupos de 36, dando exactamente 24 cajas. -->
 - [ ] A) Multiplicación: $864 \times 36 = 31.104$ cajas.
   <!-- feedback: La multiplicación aumentaría la cantidad en lugar de agrupar el total cosechado. -->
+- [x] B) División: $864 \div 36 = 24$ cajas.
+  <!-- feedback: La división reparte equitativamente las 864 naranjas en grupos de 36, dando exactamente 24 cajas. -->
 - [ ] C) Sustracción: $864 - 36 = 828$ cajas.
   <!-- feedback: Restar solo descuenta una caja, no calcula la cantidad de cajas requeridas. -->
 - [ ] D) División: $864 \div 36 = 18$ cajas.
@@ -80,10 +80,10 @@ El reparto equitativo de una cantidad en grupos iguales se modela mediante una d
 ¿Cuántas cajas completas de galletas logra empacar el panadero?
 
 ### Opciones
-- [x] B) 63 cajas.
-  <!-- feedback: $1.575 \div 25 = 63$. Comprobación: $63 \times 25 = 1.575$. -->
 - [ ] A) 53 cajas.
   <!-- feedback: $53 \times 25 = 1.325$ galletas, quedando 250 galletas sin empacar. -->
+- [x] B) 63 cajas.
+  <!-- feedback: $1.575 \div 25 = 63$. Comprobación: $63 \times 25 = 1.575$. -->
 - [ ] C) 73 cajas.
   <!-- feedback: $73 \times 25 = 1.825$ galletas, lo cual supera las 1.575 galletas horneadas. -->
 - [ ] D) 65 cajas.
@@ -126,14 +126,14 @@ En problemas de contexto real con residuo no nulo, se debe redondear hacia el si
 ¿Cuál fue el precio pagado por cada kilogramo de carne?
 
 ### Opciones
-- [x] D) $18.000 COP.
-  <!-- feedback: $684.000 \div 38 = 18.000$ COP por kilogramo. Comprobación: $18.000 \times 38 = 684.000$. -->
 - [ ] A) $16.000 COP.
   <!-- feedback: $16.000 \times 38 = 608.000$ COP, valor menor al total pagado. -->
 - [ ] B) $22.000 COP.
   <!-- feedback: $22.000 \times 38 = 836.000$ COP, superando el costo registrado. -->
 - [ ] C) $20.000 COP.
   <!-- feedback: $20.000 \times 38 = 760.000$ COP, valor incorrecto. -->
+- [x] D) $18.000 COP.
+  <!-- feedback: $684.000 \div 38 = 18.000$ COP por kilogramo. Comprobación: $18.000 \times 38 = 684.000$. -->
 
 ### Explicacion Pedagogica
 Para hallar el valor unitario se divide el valor total entre el número de unidades: $\$684.000 \div 38 = \$18.000$ COP.
@@ -149,14 +149,14 @@ Para hallar el valor unitario se divide el valor total entre el número de unida
 Al realizar la división inexacta $2.850 \div 35$, ¿cuál es el cociente y cuántos caramelos sobran (residuo)?
 
 ### Opciones
-- [x] D) Cociente 81 y sobran 15 caramelos.
-  <!-- feedback: $2.850 = 35 \times 81 + 15$. El residuo (15) es menor que el divisor (35). -->
 - [ ] A) Cociente 80 y sobran 50 caramelos.
   <!-- feedback: El residuo no puede ser mayor que el divisor (50 > 35), lo que indica que se podía formar un paquete más. -->
 - [ ] B) Cociente 82 y sobran 10 caramelos.
   <!-- feedback: $35 \times 82 = 2.870$, lo cual excede el total de caramelos disponibles. -->
 - [ ] C) Cociente 75 y sobran 25 caramelos.
   <!-- feedback: $35 \times 75 + 25 = 2.650$, cálculo que no corresponde a 2.850 caramelos. -->
+- [x] D) Cociente 81 y sobran 15 caramelos.
+  <!-- feedback: $2.850 = 35 \times 81 + 15$. El residuo (15) es menor que el divisor (35). -->
 
 ### Explicacion Pedagogica
 El algoritmo de la división euclidiana establece que $D = d \times c + r$, con $0 \le r < d$. Al dividir $2.850 \div 35$, $2.850 = 35 \times 81 + 15$.
@@ -197,12 +197,12 @@ Al dividir $\$950.000 \div \$32.000$, obtenemos un cociente de 29 libros ($29 \t
 Al evaluar el costo total de empacar las 4.320 bolsas de café, ¿cuál empresa resulta más económica y cuánto dinero ahorra el distribuidor en comparación con la otra?
 
 ### Opciones
-- [x] A) La Empresa Beta es más económica, generando un ahorro de $9.000 COP.
-  <!-- feedback: Alfa: $4.320 \div 36 = 120$ cajas $\times \$1.200 = \$144.000$ COP. Beta: $4.320 \div 48 = 90$ cajas $\times \$1.500 = \$135.000$ COP. Ahorro: $\$144.000 - \$135.000 = \$9.000$ COP. -->
+- [ ] A) Ambas empresas cobran exactamente el mismo valor total de $140.000 COP.
+  <!-- feedback: Los costos totales difieren ($144.000 COP frente a $135.000 COP). -->
 - [ ] B) La Empresa Alfa es más económica, generando un ahorro de $15.000 COP.
   <!-- feedback: Alfa tiene un costo total de $144.000 COP, superior a los $135.000 COP de Beta. -->
-- [ ] C) Ambas empresas cobran exactamente el mismo valor total de $140.000 COP.
-  <!-- feedback: Los costos totales difieren ($144.000 COP frente a $135.000 COP). -->
+- [x] C) La Empresa Beta es más económica, generando un ahorro de $9.000 COP.
+  <!-- feedback: Alfa: $4.320 \div 36 = 120$ cajas $\times \$1.200 = \$144.000$ COP. Beta: $4.320 \div 48 = 90$ cajas $\times \$1.500 = \$135.000$ COP. Ahorro: $\$144.000 - \$135.000 = \$9.000$ COP. -->
 - [ ] D) La Empresa Beta es más económica, generando un ahorro de $25.000 COP.
   <!-- feedback: La diferencia real entre $144.000 COP y $135.000 COP es de $9.000 COP. -->
 

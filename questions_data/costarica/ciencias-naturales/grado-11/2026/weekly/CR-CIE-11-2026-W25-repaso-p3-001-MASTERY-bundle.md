@@ -517,12 +517,12 @@ La lluvia ácida daña bosques, suelos y monumentos, y es el resultado de la con
 ### Opciones
 - [ ] A) Aumento de la biodiversidad local.
   <!-- feedback: Incorrecto. Generalmente tiende a disminuirla debido al monocultivo. -->
-- [x] B) Transferencia de genes a parientes silvestres (flujo génico) creando "supermalezas".
-  <!-- feedback: ¡Correcto! Los genes de resistencia a herbicidas podrían pasar a malezas cercanas. -->
+- [ ] B) Que la tierra se vuelva estéril para siempre en una sola cosecha.
+  <!-- feedback: Incorrecto. Si bien el suelo se agota, el término "estéril para siempre" es una exageración. -->
 - [ ] C) Que las plantas empiecen a producir oxígeno tóxico.
   <!-- feedback: Incorrecto. No hay base científica para esto. -->
-- [ ] D) Que la tierra se vuelva estéril para siempre en una sola cosecha.
-  <!-- feedback: Incorrecto. Si bien el suelo se agota, el término "estéril para siempre" es una exageración. -->
+- [x] D) Transferencia de genes a parientes silvestres (flujo génico) creando "supermalezas".
+  <!-- feedback: ¡Correcto! Los genes de resistencia a herbicidas podrían pasar a malezas cercanas. -->
 
 ### Explicacion Pedagogica
 La biotecnología ofrece soluciones pero también desafíos éticos y ambientales. El flujo génico es una de las principales preocupaciones de los ecólogos respecto a los cultivos OGM.

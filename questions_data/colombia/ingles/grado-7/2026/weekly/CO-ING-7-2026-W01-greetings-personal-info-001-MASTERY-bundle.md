@@ -243,12 +243,12 @@ Choose the sentence that is grammatically perfect and natural for a profile.
 ### Opciones
 - [ ] A) I have 14 years and I live in Manizales.
   <!-- feedback: Incorrect. In English, we use "be" for age, not "have". -->
-- [x] B) I am 14 years old and I live in Manizales.
-  <!-- feedback: Correct! This follows the correct structure for age and residence. -->
+- [ ] B) I is 14 years old and I live in Manizales.
+  <!-- feedback: Incorrect. "I is" is grammatically wrong. -->
 - [ ] C) I am 14 years and I lives in Manizales.
   <!-- feedback: Incorrect. "Lives" is third person; the first person is "live". -->
-- [ ] D) I is 14 years old and I live in Manizales.
-  <!-- feedback: Incorrect. "I is" is grammatically wrong. -->
+- [x] D) I am 14 years old and I live in Manizales.
+  <!-- feedback: Correct! This follows the correct structure for age and residence. -->
 
 ### Explicacion Pedagogica
 The student analyzes and compares different structures to identify the correct way to express age and location in English.

@@ -150,12 +150,12 @@ Como los denominadores son distintos, primero se busca un denominador común. El
 ### Opciones
 - [ ] A) Que el resultado debe ser siempre mayor que 1
   <!-- feedback: Incorrecto. El error no está en el tamaño del resultado, porque 1/2 + 1/3 vale menos de 1 y eso es posible. -->
-- [x] B) Que se están mezclando partes de tamaños diferentes, porque el medio y el tercio no miden igual
-  <!-- feedback: Correcto. Un medio y un tercio son tamaños distintos, así que hay que convertirlos a sextos antes de sumarlos. -->
+- [ ] B) Que las fracciones deben llevar siempre punto y coma
+  <!-- feedback: Incorrecto. La notación no es el problema, porque las fracciones se pueden escribir con guion o con barra sin cambiar su valor. -->
 - [ ] C) Que los numeradores deben multiplicarse en vez de sumarse
   <!-- feedback: Incorrecto. Los numeradores sí se suman al final, y el problema real es que los denominadores no son iguales. -->
-- [ ] D) Que las fracciones deben llevar siempre punto y coma
-  <!-- feedback: Incorrecto. La notación no es el problema, porque las fracciones se pueden escribir con guion o con barra sin cambiar su valor. -->
+- [x] D) Que se están mezclando partes de tamaños diferentes, porque el medio y el tercio no miden igual
+  <!-- feedback: Correcto. Un medio y un tercio son tamaños distintos, así que hay que convertirlos a sextos antes de sumarlos. -->
 
 ### Explicacion Pedagogica
 Sumar fracciones exige que las dos partes midan lo mismo. Como un medio y un tercio tienen tamaños diferentes, no se pueden sumar de inmediato. El camino correcto es convertirlas a sextos: 1/2 = 3/6 y 1/3 = 2/6, y luego sumar 3 + 2 = 5, lo que da 5/6.

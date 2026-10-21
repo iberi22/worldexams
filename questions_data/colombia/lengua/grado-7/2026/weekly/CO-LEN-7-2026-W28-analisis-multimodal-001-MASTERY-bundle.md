@@ -182,8 +182,8 @@ La convergencia de medios en entornos digitales permite que un mismo mensaje se 
 Desde un análisis crítico multimodal, ¿cuál es el mensaje implícito que se construye mediante la combinación de estos recursos, más allá de las características del producto?
 
 ### Opciones
-- [ ] A) Que la bebida tiene un alto contenido de azúcares y colorantes. <!-- feedback: Este es un dato técnico que el anuncio suele ocultar o minimizar visualmente. -->
-- [x] B) Que el consumo del producto está directamente vinculado con el éxito social, la belleza y la felicidad extrema. <!-- feedback: La multimodalidad se usa aquí para crear una asociación simbólica entre la bebida y un estilo de vida aspiracional. -->
+- [x] A) Que el consumo del producto está directamente vinculado con el éxito social, la belleza y la felicidad extrema. <!-- feedback: La multimodalidad se usa aquí para crear una asociación simbólica entre la bebida y un estilo de vida aspiracional. -->
+- [ ] B) Que la bebida tiene un alto contenido de azúcares y colorantes. <!-- feedback: Este es un dato técnico que el anuncio suele ocultar o minimizar visualmente. -->
 - [ ] C) Que bailar en la playa es la mejor manera de mantenerse hidratado. <!-- feedback: Este es un análisis literal y erróneo de la situación mostrada. -->
 - [ ] D) Que la empresa fabricante está preocupada por el medio ambiente de las playas. <!-- feedback: La playa es solo un escenario estético, el anuncio no comunica acciones ambientales. -->
 
@@ -203,8 +203,8 @@ El análisis crítico de textos multimodales busca desvelar las ideologías y lo
 ### Opciones
 - [ ] A) Es excelente porque permite ver la batalla mientras se lee sobre ella. <!-- feedback: La imagen de fondo interfiere con la lectura, por lo que no es un diseño funcional. -->
 - [ ] B) Es ineficaz porque debería tener música de batalla para ser verdaderamente multimodal. <!-- feedback: Agregar música no resuelve el problema principal de legibilidad del texto. -->
-- [x] C) Es fallido porque existe una "competencia" entre el fondo y el texto, lo que dificulta la lectura y el procesamiento de la información. <!-- feedback: El contraste entre figura y fondo es clave en el diseño visual. Aquí, el texto gris sobre una imagen detallada se pierde. -->
-- [ ] D) Es adecuado siempre y cuando el profesor lea el texto en voz alta para los estudiantes. <!-- feedback: Si el diseño visual falla, la diapositiva no cumple su función como apoyo multimodal independiente. -->
+- [ ] C) Es adecuado siempre y cuando el profesor lea el texto en voz alta para los estudiantes. <!-- feedback: Si el diseño visual falla, la diapositiva no cumple su función como apoyo multimodal independiente. -->
+- [x] D) Es fallido porque existe una "competencia" entre el fondo y el texto, lo que dificulta la lectura y el procesamiento de la información. <!-- feedback: El contraste entre figura y fondo es clave en el diseño visual. Aquí, el texto gris sobre una imagen detallada se pierde. -->
 
 ### Explicacion Pedagogica
 La efectividad de un texto multimodal depende del equilibrio entre sus componentes. Cuando un modo (la imagen de fondo) domina sobre otro (el texto informativo) sin un contraste adecuado, el propósito comunicativo se ve comprometido.

@@ -223,9 +223,9 @@ Este texto en verso que narra hazañas heroicas, ¿a qué género o subgénero p
 
 ### Opciones
 - [ ] A) Género lírico, porque está escrito en verso. <!-- feedback: Incorrecto. El verso no es exclusivo de la lírica; hay narrativa en verso. -->
-- [x] B) Género narrativo, subgénero épico o romance, porque narra hazañas en verso. <!-- feedback: Correcto. La épica narra hazañas heroicas y puede estar en verso. -->
+- [ ] B) Ensayo literario, porque exalta valores patrios. <!-- feedback: Incorrecto. El ensayo es un género argumentativo, no narrativo en verso. -->
 - [ ] C) Género dramático, porque tiene elementos heroicos. <!-- feedback: Incorrecto. La temática heroica no define el género dramático. -->
-- [ ] D) Ensayo literario, porque exalta valores patrios. <!-- feedback: Incorrecto. El ensayo es un género argumentativo, no narrativo en verso. -->
+- [x] D) Género narrativo, subgénero épico o romance, porque narra hazañas en verso. <!-- feedback: Correcto. La épica narra hazañas heroicas y puede estar en verso. -->
 
 ### Explicacion Pedagogica
 La épica o poesía épica es un subgénero narrativo que narra hazañas heroicas en verso. En la tradición colombiana, los romances y corridos que cuentan historias de la independencia son ejemplos de narrativa en verso. El "Poema del Cid" en España o la "Ilíada" en Grecia son ejemplos clásicos de este subgénero.

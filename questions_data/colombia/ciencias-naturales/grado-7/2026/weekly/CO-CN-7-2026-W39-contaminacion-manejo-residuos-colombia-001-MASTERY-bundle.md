@@ -31,12 +31,13 @@ Este bundle desarrolla la clasificación de residuos, el reciclaje y la protecci
 ### Opciones
 - [ ] A) Cualquier basura mezclada con tierra que ya no se puede tocar ni separar.
   <!-- feedback: Incorrecta, porque mezclar todo impide el aprovechamiento aunque los materiales sirvan. -->
-- [x] C) Un material descartado como papel, cartón, plástico o vidrio limpio que puede reciclarse o reutilizarse.
-  <!-- feedback: Correcta, porque define el residuo aprovechable por su capacidad de reincorporarse a un ciclo productivo. -->
 - [ ] B) Un veneno que siempre debe enterrarse en el patio del colegio sin avisar.
   <!-- feedback: Incorrecta, porque los residuos peligrosos exigen manejo especial y nunca se entierran en el patio. -->
+- [x] C) Un material descartado como papel, cartón, plástico o vidrio limpio que puede reciclarse o reutilizarse.
+  <!-- feedback: Correcta, porque define el residuo aprovechable por su capacidad de reincorporarse a un ciclo productivo. -->
 - [ ] D) Un alimento fresco que todavía está en la tienda sin haber sido comprado.
   <!-- feedback: Incorrecta, porque un alimento sin usar no es un residuo descartado. -->
+
 ### Explicacion Pedagogica
 Los residuos aprovechables conservan valor: el papel, el cartón, el plástico limpio, el vidrio y el metal pueden reciclarse. Separarlos en la fuente evita que se contaminen con restos de comida. En Colombia la caneca blanca recibe estos materiales secos y limpios para los recicladores.
 ## Question 2 [D3-D4]
@@ -48,14 +49,15 @@ Los residuos aprovechables conservan valor: el papel, el cartón, el plástico l
 ### Enunciado
 ¿Qué es la contaminación del agua en ese caso del barrio?
 ### Opciones
-- [x] C) La alteración de la calidad del agua por basuras y sustancias que llegan con la escorrentía y dañan la vida acuática.
-  <!-- feedback: Correcta, porque relaciona los residuos arrastrados con el cambio de la calidad del agua. -->
 - [ ] A) El aumento del nivel del agua porque llovió mucho y el caño se puso contento.
   <!-- feedback: Incorrecta, porque el nivel puede subir sin que el agua esté contaminada; lo clave es la calidad. -->
 - [ ] B) La evaporación normal del agua que forma nubes blancas sobre los cerros.
   <!-- feedback: Incorrecta, porque la evaporación es un proceso natural del ciclo del agua, no contaminación. -->
+- [x] C) La alteración de la calidad del agua por basuras y sustancias que llegan con la escorrentía y dañan la vida acuática.
+  <!-- feedback: Correcta, porque relaciona los residuos arrastrados con el cambio de la calidad del agua. -->
 - [ ] D) La presencia de peces grandes que nadan rápido cuando hay tormenta eléctrica.
   <!-- feedback: Incorrecta, porque los peces no contaminan y más bien sufren la contaminación del agua. -->
+
 ### Explicacion Pedagogica
 Contaminar es agregar al agua, al aire o al suelo sustancias o microorganismos que cambian sus propiedades y dañan la salud y los ecosistemas. Las basuras en calles terminan en caños y ríos con la lluvia. Por eso separar, no arrojar basura y recoger los residuos protege las fuentes de agua.
 ## Question 3 [D5-D6]
@@ -67,14 +69,15 @@ Contaminar es agregar al agua, al aire o al suelo sustancias o microorganismos q
 ### Enunciado
 ¿Cómo debe clasificar correctamente la familia cada bolsa según la norma colombiana?
 ### Opciones
-- [ ] B) Todo revuelto en una sola bolsa negra porque separar gasta demasiado tiempo.
-  <!-- feedback: Incorrecta, porque revolver impide el reciclaje y contamina los materiales aprovechables. -->
 - [x] A) Restos de comida en bolsa verde, botellas y papel limpio en bolsa blanca, y polvo con servilletas usadas en bolsa negra.
   <!-- feedback: Correcta, porque aplica el código de colores: verde orgánicos, blanca aprovechables y negra no aprovechables. -->
+- [ ] B) Todo revuelto en una sola bolsa negra porque separar gasta demasiado tiempo.
+  <!-- feedback: Incorrecta, porque revolver impide el reciclaje y contamina los materiales aprovechables. -->
 - [ ] C) Papel limpio en bolsa verde, cáscaras en bolsa blanca y botellas en bolsa negra para confundir al reciclador.
   <!-- feedback: Incorrecta, porque invierte los colores y dificulta el trabajo del reciclador. -->
 - [ ] D) Quemar las tres bolsas en el patio para no pagar la factura del aseo.
   <!-- feedback: Incorrecta, porque quemar basuras contamina el aire y está prohibido en la ciudad. -->
+
 ### Explicacion Pedagogica
 El código colombiano usa verde para orgánicos aprovechables, blanco para reciclables limpios y negro para no aprovechables. Separar bien permite compostar los orgánicos y reciclar papel, plástico, vidrio y metal. La bolsa negra va al relleno sanitario y debe ser lo mínimo posible.
 ## Question 4 [D5-D6]
@@ -88,12 +91,13 @@ El código colombiano usa verde para orgánicos aprovechables, blanco para recic
 ### Opciones
 - [ ] A) Porque ocupan mucho espacio y hacen ver fea la caneca del salón.
   <!-- feedback: Incorrecta, porque el problema no es estético sino la toxicidad de sus componentes. -->
-- [x] D) Porque contienen metales pesados y sustancias tóxicas que contaminan el suelo y el agua si llegan al relleno común.
-  <!-- feedback: Correcta, porque identifica los residuos peligrosos por su riesgo químico para el ambiente y la salud. -->
 - [ ] B) Porque las pilas usadas sirven como alimento para las plantas del jardín.
   <!-- feedback: Incorrecta, porque los químicos de las pilas envenenan las plantas en lugar de nutrirlas. -->
 - [ ] C) Porque los bombillos rotos se convierten solos en arena limpia dentro de la bolsa.
   <!-- feedback: Incorrecta, porque los vidrios con químicos no se transforman en arena limpia. -->
+- [x] D) Porque contienen metales pesados y sustancias tóxicas que contaminan el suelo y el agua si llegan al relleno común.
+  <!-- feedback: Correcta, porque identifica los residuos peligrosos por su riesgo químico para el ambiente y la salud. -->
+
 ### Explicacion Pedagogica
 Las pilas, bombillos, medicamentos vencidos y pinturas son residuos peligrosos: liberan mercurio, plomo, cadmio y otros tóxicos que se filtran al suelo y al agua. Colombia exige llevarlos a puntos limpios para su gestión especial. Nunca se entierran, se queman ni se tiran al caño.
 ## Question 5 [D5-D6]
@@ -107,12 +111,13 @@ Con esos datos, ¿qué plan de manejo reduce más los residuos que van al rellen
 ### Opciones
 - [ ] A) Tirar todo al mismo contenedor para llenar rápido el camión del aseo.
   <!-- feedback: Incorrecta, porque enviar todo al relleno desperdicia lo compostable y lo reciclable. -->
-- [x] C) Compostar las cáscaras en la huerta, reciclar las botellas limpias y dejar solo las envolturas sucias para la bolsa negra.
-  <!-- feedback: Correcta, porque asigna cada fracción a su mejor tratamiento y minimiza lo enviado al relleno. -->
 - [ ] B) Enterrar las botellas plásticas en la cancha para esconderlas del profesor.
   <!-- feedback: Incorrecta, porque enterrar plástico contamina el suelo y no es ningún tratamiento válido. -->
+- [x] C) Compostar las cáscaras en la huerta, reciclar las botellas limpias y dejar solo las envolturas sucias para la bolsa negra.
+  <!-- feedback: Correcta, porque asigna cada fracción a su mejor tratamiento y minimiza lo enviado al relleno. -->
 - [ ] D) Quemar las cáscaras y las botellas en el patio para que no pesen en la balanza.
   <!-- feedback: Incorrecta, porque quemar genera humo tóxico y destruye materiales que podían aprovecharse. -->
+
 ### Explicacion Pedagogica
 Las 3R se aplican con datos: reducir, reutilizar y reciclar. Las cáscaras van al compostaje, las botellas al reciclaje y solo lo no aprovechable al relleno. Pesar por fracciones muestra dónde está el mayor potencial: aquí 13 de 16 kilos podían aprovecharse.
 ## Question 6 [D7-D8]
@@ -126,12 +131,13 @@ Las 3R se aplican con datos: reducir, reutilizar y reciclar. Las cáscaras van a
 ### Opciones
 - [ ] A) Ambas descargas son idénticas y ninguna afecta a los peces ni al agua.
   <!-- feedback: Incorrecta, porque los síntomas descritos en cada quebrada son distintos y graves. -->
-- [x] D) Los detergentes y la materia orgánica consumen el oxígeno del agua y matan los peces, mientras los escombros enturbian y colmatan el cauce.
-  <!-- feedback: Correcta, porque distingue la contaminación química y orgánica de la carga de sedimentos. -->
 - [ ] B) Los escombros matan por veneno y los detergentes limpian el agua para que los peces vivan mejor.
   <!-- feedback: Incorrecta, porque invierte los efectos: el detergente agota el oxígeno y no limpia el río. -->
 - [ ] C) Ninguna descarga contamina porque el agua de la quebrada se limpia sola en un minuto.
   <!-- feedback: Incorrecta, porque la autodepuración tiene límites y no elimina cargas grandes y continuas. -->
+- [x] D) Los detergentes y la materia orgánica consumen el oxígeno del agua y matan los peces, mientras los escombros enturbian y colmatan el cauce.
+  <!-- feedback: Correcta, porque distingue la contaminación química y orgánica de la carga de sedimentos. -->
+
 ### Explicacion Pedagogica
 La materia orgánica y los detergentes aumentan la demanda de oxígeno: los microbios la descomponen, agotan el oxígeno disuelto y los peces mueren. Los sedimentos de obra bloquean la luz, tapan branquias y rellenan el cauce. Analizar exige conectar cada contaminante con su mecanismo de daño específico.
 ## Question 7 [D7-D8]
@@ -143,14 +149,15 @@ La materia orgánica y los detergentes aumentan la demanda de oxígeno: los micr
 ### Enunciado
 ¿Qué lectura de los datos es correcta sobre la contaminación del arroyo?
 ### Opciones
-- [x] D) El punto junto al mercado muestra la mayor alteración ácida y el parque está en condición neutra, con un patrón que se repite los tres días.
-  <!-- feedback: Correcta, porque interpreta la escala de pH y reconoce la consistencia de las réplicas. -->
 - [ ] A) Los tres puntos están iguales porque 5, 6 y 7 son el mismo número en la tira.
   <!-- feedback: Incorrecta, porque cada unidad de pH representa un cambio grande en la acidez del agua. -->
 - [ ] B) El pH 5 es mejor que el pH 7 porque los números pequeños siempre indican agua pura.
   <!-- feedback: Incorrecta, porque el agua neutra está cerca de 7 y el 5 indica acidez por vertidos. -->
 - [ ] C) Las tiras no sirven porque medir tres días seguidos inventa la contaminación.
   <!-- feedback: Incorrecta, porque repetir la medida fortalece la evidencia en lugar de inventarla. -->
+- [x] D) El punto junto al mercado muestra la mayor alteración ácida y el parque está en condición neutra, con un patrón que se repite los tres días.
+  <!-- feedback: Correcta, porque interpreta la escala de pH y reconoce la consistencia de las réplicas. -->
+
 ### Explicacion Pedagogica
 El pH mide acidez: 7 es neutro, valores menores son ácidos. Un pH de 5 junto al mercado sugiere vertidos que alteran el agua. Repetir tres días y obtener lo mismo descarta un accidente de un solo día. Analizar es comparar entre puntos y en el tiempo antes de señalar la fuente.
 ## Question 8 [D7-D8]
@@ -162,14 +169,15 @@ El pH mide acidez: 7 es neutro, valores menores son ácidos. Un pH de 5 junto al
 ### Enunciado
 ¿Qué comparación demuestra que la campaña de separación funcionó?
 ### Opciones
-- [ ] B) La campaña fracasó porque el viernes se recogieron más kilos en total que el lunes.
-  <!-- feedback: Incorrecta, porque el total del viernes es 45 kilos y lo importante es la fracción que va al relleno. -->
 - [x] A) La bolsa negra bajó de 40 a 15 kilos porque 30 kilos se desviaron a reciclaje y compostaje.
   <!-- feedback: Correcta, porque compara lo enviado al relleno antes y después y calcula el material recuperado. -->
+- [ ] B) La campaña fracasó porque el viernes se recogieron más kilos en total que el lunes.
+  <!-- feedback: Incorrecta, porque el total del viernes es 45 kilos y lo importante es la fracción que va al relleno. -->
 - [ ] C) Nada cambió porque los colores de las bolsas no pesan en la balanza del colegio.
   <!-- feedback: Incorrecta, porque el color identifica el tratamiento y los kilos por color sí muestran el cambio. -->
 - [ ] D) La campaña solo sirve si el viernes no se produce ningún residuo en todo el colegio.
   <!-- feedback: Incorrecta, porque cero residuos es imposible y la meta es aprovechar al máximo, no eliminar todo. -->
+
 ### Explicacion Pedagogica
 El indicador de éxito es cuánto deja de ir al relleno: de 40 kilos revueltos a 15 en bolsa negra significa 25 a 30 kilos recuperados según el día base. La suma por fracciones permite verificar: 15 más 18 más 12 confirma el total. Analizar exige comparar el mismo indicador antes y después.
 ## Question 9 [D9-D10]
@@ -181,14 +189,15 @@ El indicador de éxito es cuánto deja de ir al relleno: de 40 kilos revueltos a
 ### Enunciado
 ¿Cuál es la mejor evaluación de los dos planes para la salud y el ambiente del barrio?
 ### Opciones
-- [ ] B) Quemar es mejor porque el humo alimenta a las plantas y desaparece la basura sin dejar nada.
-  <!-- feedback: Incorrecta, porque la quema abierta libera gases tóxicos y cenizas peligrosas para la salud. -->
 - [x] A) La ruta de reciclaje es mejor porque reduce el relleno, genera ingreso a recicladores y evita humos tóxicos, aunque exige separar bien.
   <!-- feedback: Correcta, porque pondera beneficios sanitarios, ambientales y sociales frente al costo de la separación. -->
+- [ ] B) Quemar es mejor porque el humo alimenta a las plantas y desaparece la basura sin dejar nada.
+  <!-- feedback: Incorrecta, porque la quema abierta libera gases tóxicos y cenizas peligrosas para la salud. -->
 - [ ] C) Ambos planes son iguales porque reciclar y quemar contaminan exactamente lo mismo.
   <!-- feedback: Incorrecta, porque la quema abierta contamina el aire mucho más que el reciclaje organizado. -->
 - [ ] D) Ningún plan sirve porque la basura de Manizales es imposible de manejar en cualquier caso.
   <!-- feedback: Incorrecta, porque experiencias barriales muestran que separar y compostar sí reduce la basura. -->
+
 ### Explicacion Pedagogica
 Evaluar es comparar impactos: la quema abierta produce material particulado, dioxinas y malos olores que enferman; el reciclaje con compostaje cierra ciclos y dignifica el trabajo del reciclador. El plan sostenible cuesta organización, pero protege el aire, el suelo y la salud a largo plazo.
 ## Question 10 [D9-D10]
@@ -202,11 +211,12 @@ Curso A: el mercado altera el caño según datos de tres semanas. Curso B: el ca
 ### Opciones
 - [ ] A) El curso B tiene razón porque una visita rápida vale más que tres semanas de mediciones aburridas.
   <!-- feedback: Incorrecta, porque una impresión sin datos no supera una serie de medidas repetidas. -->
-- [x] D) El curso A es confiable porque presenta réplicas, tablas y fotos, mientras el curso B opina sin evidencia.
+- [x] B) El curso A es confiable porque presenta réplicas, tablas y fotos, mientras el curso B opina sin evidencia.
   <!-- feedback: Correcta, porque juzga la calidad de la evidencia y la coherencia entre datos y conclusión. -->
-- [ ] B) Ambos cursos son iguales porque todas las opiniones sobre el caño valen lo mismo.
-  <!-- feedback: Incorrecta, porque en ciencia las afirmaciones con datos pesan más que las opiniones sin medida. -->
 - [ ] C) Ningún curso puede concluir porque los caños de Santa Marta no se pueden estudiar nunca.
   <!-- feedback: Incorrecta, porque los caños sí se pueden monitorear con instrumentos sencillos y registro ordenado. -->
+- [ ] D) Ambos cursos son iguales porque todas las opiniones sobre el caño valen lo mismo.
+  <!-- feedback: Incorrecta, porque en ciencia las afirmaciones con datos pesan más que las opiniones sin medida. -->
+
 ### Explicacion Pedagogica
 Una conclusión sólida necesita datos repetidos, registro ordenado y relación directa con lo medido. El curso A cumple esos criterios; el curso B generaliza desde una impresión. Evaluar indagaciones es revisar instrumentos, réplicas y honestidad entre lo observado y lo afirmado.

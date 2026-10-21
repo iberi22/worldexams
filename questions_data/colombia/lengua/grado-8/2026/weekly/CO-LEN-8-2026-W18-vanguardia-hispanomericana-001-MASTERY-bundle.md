@@ -240,14 +240,14 @@ Julio Cortázar vivió en Colombia entre 1940 y 1943 y publicó su primer cuento
 Un evaluador afirma que toda la poesía de vanguardia rechaza la tradición y no vuelve a ella. ¿Cuál de las siguientes afirmaciones ofrece el mejor fundamento para refutar esa postura?
 
 ### Opciones
-- [x] A) Porque en varios autores la ruptura técnica convive con un retorno a la herencia poética, la voz infantil, lo popular y el paisaje americano que nutren la innovación formal.
-  <!-- feedback: Correcto. La lectura sostenida en la obra de Huidobro, Neruda y Vallejo muestra que el vanguardismo no se opone a la herencia: la usa como material para renovar. -->
+- [ ] A) Porque la herencia poética fue abandonada después de 1950 en todo el mundo.
+  <!-- feedback: No hay dato histórico que sostenga esa afirmación, y la obra de Neruda en esos años demuestra lo contrario. -->
 - [ ] B) Porque todos los poetas de vanguardia copiaron literalmente a los poetas clásicos.
   <!-- feedback: Copiar literalmente sería imitación sin ruptura; la relación de la vanguardia con el pasado es crítica y transformadora, no calcada. -->
 - [ ] C) Porque la tradición solo importa en la literatura que no hace ruptura formal.
   <!-- feedback: La afirmación separa tradición y ruptura en campos mutuamente excluyentes, pero las vanguardias reescribieron las formas heredadas. -->
-- [ ] D) Porque la herencia poética fue abandonada después de 1950 en todo el mundo.
-  <!-- feedback: No hay dato histórico que sostenga esa afirmación, y la obra de Neruda en esos años demuestra lo contrario. -->
+- [x] D) Porque en varios autores la ruptura técnica convive con un retorno a la herencia poética, la voz infantil, lo popular y el paisaje americano que nutren la innovación formal.
+  <!-- feedback: Correcto. La lectura sostenida en la obra de Huidobro, Neruda y Vallejo muestra que el vanguardismo no se opone a la herencia: la usa como material para renovar. -->
 
 ### Explicacion Pedagogica
 Evaluar exige poner a prueba una afirmación general con evidencias. La poesía de Huidobro, que exalta el paisaje americano frente a los modelos europeos, y la de Neruda, que recupera la voz popular y la infancia en "Altazor" (1957), muestran que la ruptura con la forma convive con un retorno a la herencia. Por eso la afirmación del evaluador es imprecisa.

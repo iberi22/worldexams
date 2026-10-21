@@ -219,8 +219,8 @@ En la argumentación, los conectores concesivos y adversativos (aunque, no obsta
 ### Opciones
 - [ ] A) El nivel de los embalses es crítico por lo tanto debemos ahorrar agua. <!-- feedback: Incorrecto. Falta la coma que suele preceder o rodear a este tipo de conectores. -->
 - [ ] B) El nivel de los embalses es crítico, por lo tanto debemos ahorrar agua. <!-- feedback: Incorrecto. Aunque es común, en oraciones compuestas se prefiere una pausa mayor antes del conector. -->
-- [x] C) El nivel de los embalses es crítico; por lo tanto, debemos ahorrar agua. <!-- feedback: ¡Correcto! El punto y coma separa las dos proposiciones con independencia gramatical, y la coma tras el conector lo aísla como marcador. -->
-- [ ] D) El nivel de los embalses, es crítico por lo tanto, debemos ahorrar agua. <!-- feedback: Incorrecto. No se pone coma entre el sujeto y el predicado en la primera parte. -->
+- [ ] C) El nivel de los embalses, es crítico por lo tanto, debemos ahorrar agua. <!-- feedback: Incorrecto. No se pone coma entre el sujeto y el predicado en la primera parte. -->
+- [x] D) El nivel de los embalses es crítico; por lo tanto, debemos ahorrar agua. <!-- feedback: ¡Correcto! El punto y coma separa las dos proposiciones con independencia gramatical, y la coma tras el conector lo aísla como marcador. -->
 
 ### Explicacion Pedagogica
 Los conectores conclusivos o consecutivos que actúan como marcadores discursivos suelen ir precedidos de punto y coma (o punto seguido) y seguidos de coma, para enfatizar la relación lógica que establecen.

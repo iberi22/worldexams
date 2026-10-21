@@ -240,12 +240,12 @@ What can we analyze about Laptop C?
 ### Opciones
 - [ ] A) It is the most expensive.
   <!-- feedback: Incorrect. It is $400, which is the cheapest. -->
-- [x] B) It is the cheapest and most portable.
-  <!-- feedback: Correct! $400 is the lowest price, and "smallest/lightest" means most portable. -->
+- [ ] B) Laptop A is the heaviest.
+  <!-- feedback: Incorrect. We only know C is the lightest. -->
 - [ ] C) Laptop B is better than Laptop C.
   <!-- feedback: Incorrect. "Better" is not objectively determined here, only price and size. -->
-- [ ] D) Laptop A is the heaviest.
-  <!-- feedback: Incorrect. We only know C is the lightest. -->
+- [x] D) It is the cheapest and most portable.
+  <!-- feedback: Correct! $400 is the lowest price, and "smallest/lightest" means most portable. -->
 
 ### Explicacion Pedagogica
 The student analyzes numeric and descriptive data using superlative logic to identify a true statement.

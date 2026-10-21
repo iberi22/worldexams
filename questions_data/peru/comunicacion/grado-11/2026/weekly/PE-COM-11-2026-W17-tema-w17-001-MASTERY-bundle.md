@@ -507,10 +507,10 @@ Al evaluar de manera integral este célebre fragmento de Vallejo, ¿cuál de los
   <!-- feedback: Incorrecto. Aunque Vallejo acertó en que moriría un día lluvioso de París, el valor del poema es puramente artístico, humano y lírico; no es un oráculo predictivo astrológico de ingeniería. -->
 - [ ] B) Demostrar que los jueves de otoño en París son climatológicamente más destructivos para los pulmones de los poetas que los de la costa de Trujillo.
   <!-- feedback: Incorrecto. Se enfoca en un plano médico-climatológico anecdótico irrelevante para la valoración estética y humana de la obra. -->
-- [x] C) La asombrosa destreza de poetizar la muerte propia convirtiéndola en un 'recuerdo retrospectivo' del futuro, fundiendo la resignación existencial, la nostalgia andina de la lluvia de Santiago de Chuco y la afirmación viril y conmovedora del hombre ante su ineludible destino biológico.
-  <!-- feedback: ¡Correcto! El poema es una de las cumbres universales de la lírica existencial porque logra la paradoja sublime de 'recordar su propia muerte futura' con una serena y tierna melancolía que desarma emocionalmente al lector mediante la fuerza lírica más pura del español. -->
-- [ ] D) Demostrar que la lengua francesa es completamente incapaz de traducir la palabra "aguacero" de forma fidedigna y andina.
+- [ ] C) Demostrar que la lengua francesa es completamente incapaz de traducir la palabra "aguacero" de forma fidedigna y andina.
   <!-- feedback: Incorrecto. Se limita a un pleito dialectológico de traducción técnica que soslaya la profunda trascendencia existencial y existencialista del poema de Vallejo. -->
+- [x] D) La asombrosa destreza de poetizar la muerte propia convirtiéndola en un 'recuerdo retrospectivo' del futuro, fundiendo la resignación existencial, la nostalgia andina de la lluvia de Santiago de Chuco y la afirmación viril y conmovedora del hombre ante su ineludible destino biológico.
+  <!-- feedback: ¡Correcto! El poema es una de las cumbres universales de la lírica existencial porque logra la paradoja sublime de 'recordar su propia muerte futura' con una serena y tierna melancolía que desarma emocionalmente al lector mediante la fuerza lírica más pura del español. -->
 
 ### Explicación Pedagógica
 La valoración estética de nivel superior exige calibrar el impacto humano y filosófico del texto vanguardista tardío de Vallejo. *Piedra negra sobre una piedra blanca* trasciende el vanguardismo formal de ruptura para consagrar una madurez lírica donde la paradoja existencial de la muerte propia se narra con una lucidez tierna, honda y de raíz andina que inmortalizó al autor en la historia de la literatura universal.

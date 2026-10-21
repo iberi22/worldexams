@@ -34,14 +34,14 @@ Identificación, análisis y evaluación de los sectores económicos en Colombia
 ¿A qué sector de la economía pertenece la actividad de cultivo y recolección de café?
 
 ### Opciones
-- [x] D) Sector primario.
-  <!-- feedback: El sector primario comprende las actividades de extracción y aprovechamiento directo de los recursos naturales, como la agricultura y la ganadería. -->
 - [ ] A) Sector secundario.
   <!-- feedback: El sector secundario se encarga de transformar las materias primas en productos manufacturados en fábricas. -->
 - [ ] B) Sector terciario.
   <!-- feedback: El sector terciario presta servicios a la comunidad, como transporte, comercio, salud y educación. -->
 - [ ] C) Sector cuaternario.
   <!-- feedback: El sector cuaternario se relaciona con la investigación científica, la consultoría avanzada y las tecnologías de la información. -->
+- [x] D) Sector primario.
+  <!-- feedback: El sector primario comprende las actividades de extracción y aprovechamiento directo de los recursos naturales, como la agricultura y la ganadería. -->
 
 ### Explicacion Pedagogica
 El sector primario abarca todas las actividades económicas basadas en la obtención y extracción directa de recursos de la naturaleza, entre ellas la agricultura, la silvicultura, la pesca y la minería.
@@ -80,14 +80,14 @@ El sector secundario comprende la industria y la manufactura, actividades donde 
 Si clasificamos las actividades económicas de la ciudad, ¿en qué sector económico se ubica el trabajo desarrollado por doña Marcela?
 
 ### Opciones
-- [x] D) Sector terciario o de servicios.
-  <!-- feedback: El turismo, la hotelería y la gastronomía son actividades que prestan servicios a las personas y forman parte del sector terciario. -->
 - [ ] A) Sector primario o extractivo.
   <!-- feedback: El sector primario se dedica a extraer recursos naturales, no a la prestación de servicios hoteleros. -->
 - [ ] B) Sector secundario o industrial.
   <!-- feedback: El sector secundario fabrica bienes físicos mediante transformación industrial, a diferencia de la hotelería. -->
 - [ ] C) Sector agropecuario tradicional.
   <!-- feedback: El sector agropecuario corresponde al cultivo de la tierra y la cría de animales en el campo. -->
+- [x] D) Sector terciario o de servicios.
+  <!-- feedback: El turismo, la hotelería y la gastronomía son actividades que prestan servicios a las personas y forman parte del sector terciario. -->
 
 ### Explicacion Pedagogica
 El sector terciario reúne todas las actividades económicas dedicadas a la prestación de servicios que satisfacen necesidades de la población, tales como el turismo, el comercio, el transporte y la educación.
@@ -103,14 +103,14 @@ El sector terciario reúne todas las actividades económicas dedicadas a la pres
 Para llevar el yogur a los consumidores, intervienen diferentes sectores. ¿Cuál es el orden secuencial de los sectores económicos en esta cadena productiva?
 
 ### Opciones
-- [x] D) Sector primario (ordeño de vacas), sector secundario (elaboración del yogur) y sector terciario (distribución y venta).
-  <!-- feedback: Primero se extrae la leche (primario), luego se procesa en la fábrica (secundario) y finalmente se comercializa (terciario). -->
 - [ ] A) Sector secundario (ordeño de vacas), sector primario (elaboración del yogur) y sector terciario (distribución y venta).
   <!-- feedback: El ordeño es una actividad primaria y el procesamiento industrial es secundario. -->
 - [ ] B) Sector terciario (ordeño de vacas), sector secundario (elaboración del yogur) y sector primario (distribución y venta).
   <!-- feedback: La distribución y venta es una actividad de servicios del sector terciario. -->
 - [ ] C) Sector primario (ordeño de vacas), sector terciario (elaboración del yogur) y sector secundario (distribución y venta).
   <!-- feedback: La elaboración y envasado de alimentos es una actividad industrial del sector secundario. -->
+- [x] D) Sector primario (ordeño de vacas), sector secundario (elaboración del yogur) y sector terciario (distribución y venta).
+  <!-- feedback: Primero se extrae la leche (primario), luego se procesa en la fábrica (secundario) y finalmente se comercializa (terciario). -->
 
 ### Explicacion Pedagogica
 Una cadena productiva inicia con la obtención de materia prima (sector primario), continúa con la transformación industrial (sector secundario) y concluye con la distribución, transporte y comercialización (sector terciario).
@@ -149,12 +149,12 @@ Los canales cortos de comercialización, como los mercados campesinos, conectan 
 Al analizar la economía de este municipio, ¿cuál es el principal riesgo de basar casi todo el sustento local en el sector primario extractivo?
 
 ### Opciones
-- [x] C) La alta vulnerabilidad frente a la caída de precios internacionales y el eventual agotamiento de los recursos no renovables.
-  <!-- feedback: Si el mineral se agota o baja de precio en el mercado mundial, el municipio puede enfrentar crisis de desempleo e ingresos fiscales. -->
 - [ ] A) El aumento inevitable de fábricas textiles y talleres automotrices en el área rural.
   <!-- feedback: La dependencia minera suele inhibir el surgimiento de otras industrias por falta de diversificación. -->
 - [ ] B) La desaparición inmediata de la necesidad de construir hospitales y escuelas públicas.
   <!-- feedback: Los servicios de salud y educación siguen siendo indispensables independientemente de la actividad económica. -->
+- [x] C) La alta vulnerabilidad frente a la caída de precios internacionales y el eventual agotamiento de los recursos no renovables.
+  <!-- feedback: Si el mineral se agota o baja de precio en el mercado mundial, el municipio puede enfrentar crisis de desempleo e ingresos fiscales. -->
 - [ ] D) La obligación de que toda la población trabaje únicamente en el desarrollo de software informático.
   <!-- feedback: El desarrollo de software pertenece al sector cuaternario y no surge automáticamente de la minería. -->
 
@@ -172,14 +172,14 @@ La excesiva dependencia de actividades extractivas (monoactividad económica) ge
 ¿Qué conclusión se puede deducir sobre la dinámica económica de las ciudades colombianas a partir de esta información?
 
 ### Opciones
-- [x] D) Las zonas urbanas demandan una gran variedad de servicios para satisfacer las necesidades diarias de sus habitantes.
-  <!-- feedback: El crecimiento poblacional de las ciudades impulsa actividades como el comercio, el transporte, la educación y los servicios públicos. -->
 - [ ] A) En las ciudades ya no se consumen productos provenientes del sector primario ni de la industria.
   <!-- feedback: La población urbana sigue requiriendo alimentos del sector primario y bienes elaborados del sector secundario. -->
 - [ ] B) El sector de servicios puede operar sin necesidad de infraestructura vial ni comunicación.
   <!-- feedback: Los servicios dependen críticamente de vías, energía eléctrica, agua potable y redes de telecomunicaciones. -->
 - [ ] C) La totalidad de la fuerza laboral del país se dedica exclusivamente a actividades agropecuarias en el campo.
   <!-- feedback: El informe demuestra justamente que la mayoría labora en servicios y comercio en centros urbanos. -->
+- [x] D) Las zonas urbanas demandan una gran variedad de servicios para satisfacer las necesidades diarias de sus habitantes.
+  <!-- feedback: El crecimiento poblacional de las ciudades impulsa actividades como el comercio, el transporte, la educación y los servicios públicos. -->
 
 ### Explicacion Pedagogica
 El predominio del sector terciario (terciarización de la economía) es una característica de las sociedades urbanizadas, donde el intercambio comercial y los servicios son los mayores generadores de empleo.
@@ -195,14 +195,14 @@ El predominio del sector terciario (terciarización de la economía) es una cara
 ¿Cuál de las siguientes propuestas representa la decisión más equilibrada para garantizar el bienestar integral y el desarrollo sostenible del municipio?
 
 ### Opciones
-- [x] D) Exigir estudios de impacto ambiental y tecnología no contaminante antes de conceder la licencia, protegiendo las fuentes hídricas y el empleo agrícola.
-  <!-- feedback: Esta alternativa equilibra el crecimiento industrial con la conservación ecológica y la seguridad alimentaria de la comunidad. -->
 - [ ] A) Aprobar la construcción de la fábrica de forma inmediata sin evaluar los riesgos ambientales para priorizar el dinero a corto plazo.
   <!-- feedback: Ignorar el impacto ambiental pone en grave peligro la salud comunitaria, el agua y la producción agrícola a largo plazo. -->
-- [ ] B) Prohibir cualquier tipo de actividad económica moderna para forzar a la comunidad a vivir exclusivamente de la recolección silvestre.
-  <!-- feedback: Frenar todo desarrollo productivo impide el acceso a oportunidades laborales, servicios de salud y bienestar social. -->
+- [x] B) Exigir estudios de impacto ambiental y tecnología no contaminante antes de conceder la licencia, protegiendo las fuentes hídricas y el empleo agrícola.
+  <!-- feedback: Esta alternativa equilibra el crecimiento industrial con la conservación ecológica y la seguridad alimentaria de la comunidad. -->
 - [ ] C) Ordenar el cierre definitivo de todos los cultivos de arroz para convertir todo el municipio en una sola zona industrial.
   <!-- feedback: Eliminar la agricultura destruye la vocación tradicional del territorio y afecta la seguridad alimentaria regional. -->
+- [ ] D) Prohibir cualquier tipo de actividad económica moderna para forzar a la comunidad a vivir exclusivamente de la recolección silvestre.
+  <!-- feedback: Frenar todo desarrollo productivo impide el acceso a oportunidades laborales, servicios de salud y bienestar social. -->
 
 ### Explicacion Pedagogica
 El desarrollo sostenible exige conciliar el crecimiento económico con la preservación del patrimonio natural y la cohesión social, evaluando rigurosamente los impactos de cualquier proyecto productivo.

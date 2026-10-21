@@ -197,12 +197,12 @@ Análisis de la función económica de los ecosistemas como reguladores del agua
 ### Opciones
 - [ ] A) Autorizar la minería sin control, porque el dinero rápido soluciona todos los problemas.
   <!-- feedback: La minería sin control contamina ríos con mercurio y destruye el bosque de forma irreversible. -->
-- [x] B) Ampliar la reserva con empleos verdes, porque conserva el bosque y crea sustento duradero.
-  <!-- feedback: La reserva protege la biodiversidad y genera empleos estables en conservación y turismo científico. -->
+- [ ] B) Quemar parte del bosque para sembrar un solo cultivo durante un año.
+  <!-- feedback: La quema empobrece el suelo amazónico y acaba con especies que no se recuperan. -->
 - [ ] C) Dividir el bosque en lotes privados para que cada quien haga lo que quiera.
   <!-- feedback: Fragmentar el bosque rompe los ecosistemas y elimina la protección colectiva del patrimonio. -->
-- [ ] D) Quemar parte del bosque para sembrar un solo cultivo durante un año.
-  <!-- feedback: La quema empobrece el suelo amazónico y acaba con especies que no se recuperan. -->
+- [x] D) Ampliar la reserva con empleos verdes, porque conserva el bosque y crea sustento duradero.
+  <!-- feedback: La reserva protege la biodiversidad y genera empleos estables en conservación y turismo científico. -->
 
 ### Explicacion Pedagogica
 Valoración de decisiones públicas sobre el patrimonio natural, priorizando la sostenibilidad sobre el beneficio inmediato.

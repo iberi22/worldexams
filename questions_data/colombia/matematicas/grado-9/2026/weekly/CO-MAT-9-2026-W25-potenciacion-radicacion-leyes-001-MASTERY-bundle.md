@@ -32,14 +32,15 @@ Este bundle contiene 12 preguntas sobre **potenciacion-radicacion-leyes** para g
 ### Enunciado
 ¿Qué ley de los exponentes se aplica al multiplicar potencias de igual base?
 ### Opciones
-- [x] D) Se conserva la base y se suman los exponentes
-  <!-- feedback: Correcto. a^m · a^n = a^(m+n). -->
 - [ ] A) Se conserva la base y se multiplican los exponentes
   <!-- feedback: Incorrecto. Multiplicar exponentes corresponde a la potencia de una potencia. -->
 - [ ] B) Se conserva la base y se restan los exponentes
   <!-- feedback: Incorrecto. La resta de exponentes corresponde a la división de potencias. -->
 - [ ] C) Se multiplican las bases y se suman los exponentes
   <!-- feedback: Incorrecto. La base debe conservarse igual cuando las bases coinciden. -->
+- [x] D) Se conserva la base y se suman los exponentes
+  <!-- feedback: Correcto. a^m · a^n = a^(m+n). -->
+
 ### Explicacion Pedagogica
 Al multiplicar potencias con la misma base se conserva la base y se suman los exponentes: a^m · a^n = a^(m+n).
 
@@ -52,14 +53,15 @@ Al multiplicar potencias con la misma base se conserva la base y se suman los ex
 ### Enunciado
 ¿Cuál igualdad es válida para los radicales con a y b no negativos?
 ### Opciones
-- [x] D) √(a · b) = √a · √b
-  <!-- feedback: Correcto. La raíz de un producto es el producto de las raíces. -->
 - [ ] A) √(a + b) = √a + √b
   <!-- feedback: Incorrecto. La raíz no se distribuye sobre la suma. -->
 - [ ] B) √(a − b) = √a − √b
   <!-- feedback: Incorrecto. La raíz tampoco se distribuye sobre la resta. -->
 - [ ] C) √(a² + b²) = a + b
   <!-- feedback: Incorrecto. La raíz de una suma de cuadrados no es la suma de las bases. -->
+- [x] D) √(a · b) = √a · √b
+  <!-- feedback: Correcto. La raíz de un producto es el producto de las raíces. -->
+
 ### Explicacion Pedagogica
 La propiedad correcta es √(a · b) = √a · √b; la raíz no se distribuye sobre sumas ni restas.
 
@@ -72,14 +74,15 @@ La propiedad correcta es √(a · b) = √a · √b; la raíz no se distribuye s
 ### Enunciado
 ¿Cuál es el valor de esa expresión?
 ### Opciones
-- [x] C) 128
-  <!-- feedback: Correcto. 2^3 · 2^4 = 2^7 = 128. -->
 - [ ] A) 4096
   <!-- feedback: Incorrecto. Multiplicaste los exponentes en vez de sumarlos. -->
 - [ ] B) 2
   <!-- feedback: Incorrecto. Restaste los exponentes en vez de sumarlos. -->
+- [x] C) 128
+  <!-- feedback: Correcto. 2^3 · 2^4 = 2^7 = 128. -->
 - [ ] D) 16384
   <!-- feedback: Incorrecto. Multiplicaste las potencias como si se elevaran entre sí. -->
+
 ### Explicacion Pedagogica
 Como las bases son iguales, se suman los exponentes: 2^3 · 2^4 = 2^7 = 128.
 
@@ -92,14 +95,15 @@ Como las bases son iguales, se suman los exponentes: 2^3 · 2^4 = 2^7 = 128.
 ### Enunciado
 ¿Cuál es el resultado simplificado?
 ### Opciones
-- [ ] B) 5^11
-  <!-- feedback: Incorrecto. Sumaste los exponentes, pero en la división se restan. -->
 - [x] A) 125
   <!-- feedback: Correcto. 5^7 ÷ 5^4 = 5^3 = 125. -->
+- [ ] B) 5^11
+  <!-- feedback: Incorrecto. Sumaste los exponentes, pero en la división se restan. -->
 - [ ] C) 5^28
   <!-- feedback: Incorrecto. Multiplicaste los exponentes en vez de restarlos. -->
 - [ ] D) 1
   <!-- feedback: Incorrecto. La diferencia de exponentes no es cero. -->
+
 ### Explicacion Pedagogica
 En la división de potencias de igual base se restan los exponentes: 5^7 ÷ 5^4 = 5^3 = 125.
 
@@ -112,14 +116,15 @@ En la división de potencias de igual base se restan los exponentes: 5^7 ÷ 5^4 
 ### Enunciado
 ¿Cuál es el valor de la expresión?
 ### Opciones
-- [ ] B) 32
-  <!-- feedback: Incorrecto. Sumaste los exponentes en vez de multiplicarlos. -->
 - [x] A) 64
   <!-- feedback: Correcto. (2^3)^2 = 2^6 = 64. -->
+- [ ] B) 32
+  <!-- feedback: Incorrecto. Sumaste los exponentes en vez de multiplicarlos. -->
 - [ ] C) 512
   <!-- feedback: Incorrecto. Sumaste 3 + 2 + 4 en un procedimiento sin fundamento. -->
 - [ ] D) 16
   <!-- feedback: Incorrecto. Multiplicaste 2 por 8 en vez de aplicar la ley de exponentes. -->
+
 ### Explicacion Pedagogica
 En la potencia de una potencia se multiplican los exponentes: (2^3)^2 = 2^(3×2) = 2^6 = 64.
 
@@ -132,14 +137,15 @@ En la potencia de una potencia se multiplican los exponentes: (2^3)^2 = 2^(3×2)
 ### Enunciado
 ¿Cuál es la forma simplificada de √50?
 ### Opciones
-- [ ] B) 25√2
-  <!-- feedback: Incorrecto. Extraes el cuadrado completo en vez de la raíz del factor. -->
 - [x] A) 5√2
   <!-- feedback: Correcto. √50 = √(25 × 2) = 5√2. -->
+- [ ] B) 25√2
+  <!-- feedback: Incorrecto. Extraes el cuadrado completo en vez de la raíz del factor. -->
 - [ ] C) 2√5
   <!-- feedback: Incorrecto. Elegiste un factor que no divide correctamente a 50. -->
 - [ ] D) 10√5
   <!-- feedback: Incorrecto. El factor extraído y el radicando no corresponden. -->
+
 ### Explicacion Pedagogica
 Se descompone 50 = 25 × 2, y como 25 es cuadrado perfecto, √50 = 5√2.
 
@@ -152,14 +158,15 @@ Se descompone 50 = 25 × 2, y como 25 es cuadrado perfecto, √50 = 5√2.
 ### Enunciado
 ¿Cuál es el valor de 2^(−3)?
 ### Opciones
-- [x] D) 1/8
-  <!-- feedback: Correcto. Un exponente negativo invierte la base: 2^(−3) = 1/2^3 = 1/8. -->
 - [ ] A) −8
   <!-- feedback: Incorrecto. El signo negativo del exponente no hace negativo el resultado. -->
 - [ ] B) −1/8
   <!-- feedback: Incorrecto. El resultado de una potencia de base positiva es positivo. -->
 - [ ] C) 1/6
   <!-- feedback: Incorrecto. Confundiste la potencia con una división entre el exponente. -->
+- [x] D) 1/8
+  <!-- feedback: Correcto. Un exponente negativo invierte la base: 2^(−3) = 1/2^3 = 1/8. -->
+
 ### Explicacion Pedagogica
 Un exponente negativo indica el recíproco de la potencia positiva: 2^(−3) = 1/2^3 = 1/8.
 
@@ -180,6 +187,7 @@ Un exponente negativo indica el recíproco de la potencia positiva: 2^(−3) = 1
   <!-- feedback: Incorrecto. Solo aplicaste la raíz cúbica, sin elevar al cuadrado. -->
 - [ ] D) 81
   <!-- feedback: Incorrecto. Elevaste 3 a la cuarta en vez de al cuadrado. -->
+
 ### Explicacion Pedagogica
 El exponente 2/3 significa raíz cúbica y luego cuadrado: 27^(2/3) = (∛27)² = 3² = 9.
 
@@ -192,14 +200,15 @@ El exponente 2/3 significa raíz cúbica y luego cuadrado: 27^(2/3) = (∛27)² 
 ### Enunciado
 ¿Cuál es la expresión simplificada?
 ### Opciones
-- [x] C) 1/x
-  <!-- feedback: Correcto. x^(5−2−4) = x^(−1) = 1/x. -->
 - [ ] A) x^7
   <!-- feedback: Incorrecto. Sumaste todos los exponentes sin respetar la división. -->
 - [ ] B) x^3
   <!-- feedback: Incorrecto. Olvidaste restar el exponente del denominador. -->
+- [x] C) 1/x
+  <!-- feedback: Correcto. x^(5−2−4) = x^(−1) = 1/x. -->
 - [ ] D) x^(−11)
   <!-- feedback: Incorrecto. Restaste en el orden equivocado los exponentes. -->
+
 ### Explicacion Pedagogica
 Se suman los exponentes del numerador y se resta el del denominador: 5 − 2 − 4 = −1, de modo que la expresión es x^(−1) = 1/x.
 
@@ -212,14 +221,15 @@ Se suman los exponentes del numerador y se resta el del denominador: 5 − 2 −
 ### Enunciado
 ¿Cuál es el resultado simplificado?
 ### Opciones
-- [x] A) 5√3
-  <!-- feedback: Correcto. √12 = 2√3 y √27 = 3√3, y su suma es 5√3. -->
-- [ ] B) √39
+- [ ] A) √39
   <!-- feedback: Incorrecto. No se pueden sumar los radicandos directamente. -->
+- [x] B) 5√3
+  <!-- feedback: Correcto. √12 = 2√3 y √27 = 3√3, y su suma es 5√3. -->
 - [ ] C) 5√6
   <!-- feedback: Incorrecto. El radicando común es 3, no 6. -->
 - [ ] D) 13√3
   <!-- feedback: Incorrecto. Sumaste los coeficientes 12 y 27 sin simplificar. -->
+
 ### Explicacion Pedagogica
 Se simplifica cada radical: √12 = 2√3, √27 = 3√3; al ser semejantes se suman los coeficientes y se obtiene 5√3.
 
@@ -232,14 +242,15 @@ Se simplifica cada radical: √12 = 2√3, √27 = 3√3; al ser semejantes se s
 ### Enunciado
 ¿Cuál es la evaluación correcta de la afirmación de Sofía?
 ### Opciones
-- [x] C) Es falsa: √(9 + 16) = √25 = 5, que es distinto de 7
-  <!-- feedback: Correcto. La raíz no se distribuye sobre la suma; el resultado es 5. -->
 - [ ] A) Es verdadera: la raíz se distribuye sobre la suma
   <!-- feedback: Incorrecto. La propiedad distributiva no aplica a la radicación sobre sumas. -->
 - [ ] B) Es falsa, pero solo porque 9 y 16 no son cuadrados perfectos
   <!-- feedback: Incorrecto. El error no depende de que sean cuadrados perfectos. -->
+- [x] C) Es falsa: √(9 + 16) = √25 = 5, que es distinto de 7
+  <!-- feedback: Correcto. La raíz no se distribuye sobre la suma; el resultado es 5. -->
 - [ ] D) Es verdadera porque 3 + 4 = 7
   <!-- feedback: Incorrecto. El cálculo correcto debe hacer primero la suma dentro del radical. -->
+
 ### Explicacion Pedagogica
 Primero se resuelve el interior del radical: √25 = 5. La igualdad √(a + b) = √a + √b no es válida.
 
@@ -252,13 +263,14 @@ Primero se resuelve el interior del radical: √25 = 5. La igualdad √(a + b) =
 ### Enunciado
 ¿Cuál es la evaluación correcta de esa expresión?
 ### Opciones
-- [x] D) Es incorrecta: toda base no nula elevada a 0 es igual a 1, así que 2^0 = 1
-  <!-- feedback: Correcto. Por definición, a^0 = 1 para cualquier a distinto de cero. -->
 - [ ] A) Es correcta: cualquier número elevado a 0 da 0
   <!-- feedback: Incorrecto. El exponente 0 no anula el resultado; da 1. -->
 - [ ] B) Es correcta porque 2^0 = 2 − 2 = 0
   <!-- feedback: Incorrecto. Restar exponentes no es el significado de la potencia cero. -->
 - [ ] C) Es incorrecta, pero el resultado correcto es 2
   <!-- feedback: Incorrecto. La potencia cero no conserva la base. -->
+- [x] D) Es incorrecta: toda base no nula elevada a 0 es igual a 1, así que 2^0 = 1
+  <!-- feedback: Correcto. Por definición, a^0 = 1 para cualquier a distinto de cero. -->
+
 ### Explicacion Pedagogica
 Por la ley de exponentes, a^m ÷ a^m = a^0 = 1 para cualquier base no nula; por eso 2^0 = 1 y no 0.

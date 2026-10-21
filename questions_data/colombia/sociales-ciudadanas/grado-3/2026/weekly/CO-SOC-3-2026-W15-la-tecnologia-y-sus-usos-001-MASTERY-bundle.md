@@ -191,12 +191,12 @@ La tecnología no se distribuye de manera uniforme en el espacio de un barrio. P
 ¿Qué hace mejor ese niño para cuidar a su compañero?
 
 ### Opciones
-- [ ] A) Tomarle el celular para que ya no se moleste
-  <!-- feedback: Incorrecto. Quitarle el aparato sin explicar no resuelve el problema: lo deja sin saber qué le causa la molestia. -->
+- [x] A) Preguntarle qué le pasa y buscar con un adulto una forma más segura de tomar la foto
+  <!-- feedback: Correcto. Preguntar y consultar a un adulto resuelve la causa del problema y cuida al compañero sin quitarle nada. -->
 - [ ] B) Decirle que exagera y que aguante
   <!-- feedback: Incorrecto. Minimizar lo que siente la otra persona es una falta de empatía y no ayuda a nada. -->
-- [x] C) Preguntarle qué le pasa y buscar con un adulto una forma más segura de tomar la foto
-  <!-- feedback: Correcto. Preguntar y consultar a un adulto resuelve la causa del problema y cuida al compañero sin quitarle nada. -->
+- [ ] C) Tomarle el celular para que ya no se moleste
+  <!-- feedback: Incorrecto. Quitarle el aparato sin explicar no resuelve el problema: lo deja sin saber qué le causa la molestia. -->
 - [ ] D) Grabarlo con la propia cámara para después mostrárselo a todos
   <!-- feedback: Incorrecto. Difundir la molestia del compañero solo aumenta su vergüenza y no resuelve nada. -->
 

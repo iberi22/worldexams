@@ -224,8 +224,8 @@ Sin un orden descriptivo, el lector se pierde. Describir es como guiar la cámar
 ### Opciones
 - [ ] A) Acelera la historia para que el final llegue más rápido. <!-- feedback: Incorrecto. Al contrario, la descripción suele pausar el ritmo de las acciones. -->
 - [ ] B) Hace que el lector olvide de qué trataba el cuento. <!-- feedback: Incorrecto. Si está bien hecha, refuerza el ambiente de la historia. -->
-- [x] C) Detiene el tiempo narrativo para crear ambiente, dar verosimilitud y profundidad a la historia. <!-- feedback: Correcto. La descripción es el "decorado" de la acción; sin ella, los personajes parecerían flotar en el vacío. -->
-- [ ] D) Indica que el narrador se quedó sin ideas para seguir contando la trama. <!-- feedback: Incorrecto. Es un recurso necesario para que la narración sea completa y rica. -->
+- [ ] C) Indica que el narrador se quedó sin ideas para seguir contando la trama. <!-- feedback: Incorrecto. Es un recurso necesario para que la narración sea completa y rica. -->
+- [x] D) Detiene el tiempo narrativo para crear ambiente, dar verosimilitud y profundidad a la historia. <!-- feedback: Correcto. La descripción es el "decorado" de la acción; sin ella, los personajes parecerían flotar en el vacío. -->
 
 ### Explicacion Pedagogica
 Narración y descripción son hermanas. La narración aporta el movimiento (tiempo) y la descripción aporta el escenario y los seres que lo habitan (espacio). El equilibrio entre ambas hace que un relato sea memorable.

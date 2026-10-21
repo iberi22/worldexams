@@ -488,12 +488,12 @@ El sistema político chileno tradicional descansaba sobre un principio consensua
 ### Opciones
 - [ ] A) La supresión absoluta de la Cámara de Diputados para traspasar el voto de confianza al presidente Jorge Alessandri.
   <!-- feedback: Incorrecto. El Congreso continuó legislando con plena soberanía representativa bicameral durante el periodo parlamentario democrático. -->
-- [x] B) La introducción de la Cédula Única Electoral impresa por el Estado, que consagró el secreto efectivo del voto y neutralizó el cohecho patronal del latifundio.
-  <!-- feedback: Correcto. Antes de 1958, los partidos imprimían sus propios votos de colores que los patrones agrarios repartían a sus campesinos para vigilar su voto. Al crearse la Cédula Única estatal secreta por la Ley de 1958, el inquilino campesino pudo votar libremente en la cabina secreta sin temor al despido o represión de su hacendado, desatando el crecimiento electoral de la centro-izquierda y la DC en el campo. -->
+- [ ] B) El retiro definitivo del peso chileno de todo tipo de circulación mercantil de exportaciones.
+  <!-- feedback: Incorrecto. No guarda relación con la reforma electoral secreta de la cédula única estatal de 1958. -->
 - [ ] C) La prohibición de que la población campesina analfabeta votara de forma directa en las provincias australes.
   <!-- feedback: Incorrecto. Al contrario, la tendencia demócratizadora del periodo culminó en 1970 ampliando el sufragio universal e incondicional a los analfabetos. -->
-- [ ] D) El retiro definitivo del peso chileno de todo tipo de circulación mercantil de exportaciones.
-  <!-- feedback: Incorrecto. No guarda relación con la reforma electoral secreta de la cédula única estatal de 1958. -->
+- [x] D) La introducción de la Cédula Única Electoral impresa por el Estado, que consagró el secreto efectivo del voto y neutralizó el cohecho patronal del latifundio.
+  <!-- feedback: Correcto. Antes de 1958, los partidos imprimían sus propios votos de colores que los patrones agrarios repartían a sus campesinos para vigilar su voto. Al crearse la Cédula Única estatal secreta por la Ley de 1958, el inquilino campesino pudo votar libremente en la cabina secreta sin temor al despido o represión de su hacendado, desatando el crecimiento electoral de la centro-izquierda y la DC en el campo. -->
 
 ### Explicacion Pedagogica
 La Ley de Cédula Única de 1958 constituyó una de las reformas democráticas silenciosas más transformadoras del Chile del siglo XX. Acabó con la práctica viciada del cohecho masivo del agro y permitió el libre despertar político de las masas de trabajadores rurales, rompiendo para siempre la cautividad electoral conservadora del latifundio.

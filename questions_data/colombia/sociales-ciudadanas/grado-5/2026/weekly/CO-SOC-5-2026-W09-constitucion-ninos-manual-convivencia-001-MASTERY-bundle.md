@@ -57,14 +57,14 @@ Reconocer los derechos fundamentales de los niños en la Constitución colombian
 ¿Por qué la Constitución da una protección especial a los niños?
 
 ### Opciones
-- [x] D) Porque los niños son más vulnerables y necesitan garantías para su desarrollo integral.
-  <!-- feedback: La infancia requiere protección especial por su condición de vulnerabilidad. -->
 - [ ] A) Porque los niños ya no necesitan derechos al crecer.
   <!-- feedback: Los derechos de la infancia son la base para el ejercicio de los demás derechos en la adultez. -->
 - [ ] B) Porque la Constitución prohíbe hablar de los niños.
   <!-- feedback: La Constitución, por el contrario, visibiliza y protege a la infancia. -->
 - [ ] C) Porque solo el Estado debe protegerlos, sin participación de la familia.
   <!-- feedback: La Constitución incluye a la familia, la sociedad y el Estado en la protección. -->
+- [x] D) Porque los niños son más vulnerables y necesitan garantías para su desarrollo integral.
+  <!-- feedback: La infancia requiere protección especial por su condición de vulnerabilidad. -->
 
 ### Explicacion Pedagogica
 Comprender las razones de la protección especial que la Constitución da a los niños colombianos.
@@ -80,10 +80,10 @@ Comprender las razones de la protección especial que la Constitución da a los 
 ¿Cuál es el propósito principal de un manual de convivencia escolar?
 
 ### Opciones
-- [x] B) Establecer las reglas, los derechos y los deberes de los miembros de la comunidad educativa.
-  <!-- feedback: El manual regula la convivencia y orienta la vida escolar. -->
 - [ ] A) Reemplazar la Constitución Nacional dentro de la escuela.
   <!-- feedback: El manual no reemplaza la Constitución; la complementa en el ámbito escolar. -->
+- [x] B) Establecer las reglas, los derechos y los deberes de los miembros de la comunidad educativa.
+  <!-- feedback: El manual regula la convivencia y orienta la vida escolar. -->
 - [ ] C) Permitir que un solo estudiante imponga las reglas del colegio.
   <!-- feedback: Las reglas se construyen con la comunidad educativa, no por un solo integrante. -->
 - [ ] D) Eliminar el derecho a la educación de los estudiantes.
@@ -103,14 +103,14 @@ Reconocer el propósito del manual de convivencia en la organización de la vida
 Si dos estudiantes tienen un conflicto en el aula, ¿qué camino sugiere el manual de convivencia?
 
 ### Opciones
-- [x] D) Dialogar, pedir mediación del docente o del comité de convivencia y buscar una solución pacífica.
-  <!-- feedback: Los manuales promueven el diálogo y la mediación antes que el castigo. -->
 - [ ] A) Resolver el conflicto con golpes para imponer la razón.
   <!-- feedback: La violencia no es un mecanismo válido en un manual de convivencia. -->
 - [ ] B) Guardar silencio absoluto y nunca buscar soluciones.
   <!-- feedback: Callar sin buscar solución no resuelve el conflicto y puede agravarlo. -->
 - [ ] C) Excluir al estudiante más débil sin escuchar su versión.
   <!-- feedback: Excluir sin proceso es contrario a los derechos y al debido proceso. -->
+- [x] D) Dialogar, pedir mediación del docente o del comité de convivencia y buscar una solución pacífica.
+  <!-- feedback: Los manuales promueven el diálogo y la mediación antes que el castigo. -->
 
 ### Explicacion Pedagogica
 Aplicar los procedimientos del manual de convivencia para resolver conflictos escolares de manera pacífica.
@@ -126,14 +126,14 @@ Aplicar los procedimientos del manual de convivencia para resolver conflictos es
 ¿Cuál es la función principal del personero estudiantil?
 
 ### Opciones
-- [x] D) Promover y defender los derechos de los estudiantes ante la comunidad educativa.
-  <!-- feedback: El personero actúa como defensor de los derechos del estudiantado. -->
 - [ ] A) Imponer castigos sin escuchar a los compañeros.
   <!-- feedback: El personero defiende derechos, no impone castigos. -->
 - [ ] B) Dirigir la clase en lugar del profesor titular.
   <!-- feedback: Quien dirige la clase es el docente, no el personero. -->
 - [ ] C) Cobrar dinero a los estudiantes por los servicios del colegio.
   <!-- feedback: El personero no realiza cobros; su labor es pedagógica y de representación. -->
+- [x] D) Promover y defender los derechos de los estudiantes ante la comunidad educativa.
+  <!-- feedback: El personero actúa como defensor de los derechos del estudiantado. -->
 
 ### Explicacion Pedagogica
 Reconocer el papel del personero estudiantil en la defensa de los derechos de los niños en el colegio.
@@ -195,13 +195,13 @@ Analizar los componentes esenciales de las rutas de protección contra el acoso 
 ¿Por qué es importante que los estudiantes conozcan sus derechos y el manual de convivencia?
 
 ### Opciones
-- [x] D) Porque les permite defender sus derechos, resolver conflictos y participar de forma democrática en la escuela.
-  <!-- feedback: Conocer derechos y normas fortalece la ciudadanía desde la infancia. -->
 - [ ] A) Porque los derechos no tienen relación con la vida escolar.
   <!-- feedback: Los derechos de los niños se aplican directamente en la escuela. -->
 - [ ] B) Porque conocer el manual elimina cualquier conflicto en la escuela.
   <!-- feedback: El manual ayuda a manejar los conflictos, aunque no los elimina por completo. -->
-- [ ] C) Porque solo sirve para sancionar a los estudiantes.
+- [x] C) Porque les permite defender sus derechos, resolver conflictos y participar de forma democrática en la escuela.
+  <!-- feedback: Conocer derechos y normas fortalece la ciudadanía desde la infancia. -->
+- [ ] D) Porque solo sirve para sancionar a los estudiantes.
   <!-- feedback: El manual no es solo sancionatorio, sino también formativo y protector. -->
 
 ### Explicacion Pedagogica

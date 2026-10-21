@@ -34,10 +34,10 @@ Jerarquía de las operaciones con suma, resta, multiplicación y división, incl
 ¿Cuál es el resultado correcto de la expresión?
 
 ### Opciones
-- [x] B) 16.
-  <!-- feedback: Primero la multiplicación 2 × 5 = 10 y luego la suma 6 + 10 = 16. -->
 - [ ] A) 40.
   <!-- feedback: Se sumó primero 6 + 2 = 8 y luego 8 × 5 = 40, sin respetar la jerarquía. -->
+- [x] B) 16.
+  <!-- feedback: Primero la multiplicación 2 × 5 = 10 y luego la suma 6 + 10 = 16. -->
 - [ ] C) 10.
   <!-- feedback: Solo se calculó 2 × 5 y se omitió la suma de 6. -->
 - [ ] D) 13.
@@ -80,10 +80,10 @@ Antes de sumar o restar, se debe verificar si hay multiplicaciones o divisiones 
 ¿Cuántas cajas hay en total?
 
 ### Opciones
-- [x] B) 64 cajas.
-  <!-- feedback: Primero el paréntesis: 5 + 3 = 8; luego 8 × 8 = 64. -->
 - [ ] A) 43 cajas.
   <!-- feedback: Se calculó 8 × 5 = 40 y luego 40 + 3 = 43, ignorando el paréntesis. -->
+- [x] B) 64 cajas.
+  <!-- feedback: Primero el paréntesis: 5 + 3 = 8; luego 8 × 8 = 64. -->
 - [ ] C) 40 cajas.
   <!-- feedback: Solo se multiplicó 8 × 5 y se omitió sumar 3. -->
 - [ ] D) 24 cajas.
@@ -149,14 +149,14 @@ En expresiones con varias operaciones y paréntesis, se resuelve primero el par�
 ¿Cuál es el resultado de la expresión?
 
 ### Opciones
-- [x] A) 40.
-  <!-- feedback: Paréntesis: 8 + 12 = 20; luego 3 × 20 = 60; finalmente 100 - 60 = 40. -->
+- [ ] A) 80.
+  <!-- feedback: Se calculó 100 - 20 = 80 y se omitió multiplicar por 3. -->
 - [ ] B) 88.
   <!-- feedback: Se calculó 100 - 3 × 8 + 12 = 88 sin respetar el paréntesis. -->
 - [ ] C) 64.
   <!-- feedback: Se calculó 100 - (3 × 8 + 12) = 100 - 36 = 64, agrupando las operaciones de forma incorrecta. -->
-- [ ] D) 80.
-  <!-- feedback: Se calculó 100 - 20 = 80 y se omitió multiplicar por 3. -->
+- [x] D) 40.
+  <!-- feedback: Paréntesis: 8 + 12 = 20; luego 3 × 20 = 60; finalmente 100 - 60 = 40. -->
 
 ### Explicacion Pedagogica
 Analizar una expresión compuesta implica identificar la agrupación correcta y el orden en que se resuelve cada operación.
@@ -172,12 +172,12 @@ Analizar una expresión compuesta implica identificar la agrupación correcta y 
 ¿En cuál de las siguientes expresiones el resultado es 30?
 
 ### Opciones
-- [x] A) (3 + 5) × 4 - 2.
-  <!-- feedback: Dentro del paréntesis 3 + 5 = 8; luego 8 × 4 = 32; finalmente 32 - 2 = 30. -->
+- [ ] A) (3 + 5 × 4) - 2.
+  <!-- feedback: Dentro del paréntesis 5 × 4 = 20; luego 3 + 20 = 23; finalmente 23 - 2 = 21. -->
 - [ ] B) 3 + 5 × (4 - 2).
   <!-- feedback: Paréntesis 4 - 2 = 2; luego 5 × 2 = 10; finalmente 3 + 10 = 13. -->
-- [ ] C) (3 + 5 × 4) - 2.
-  <!-- feedback: Dentro del paréntesis 5 × 4 = 20; luego 3 + 20 = 23; finalmente 23 - 2 = 21. -->
+- [x] C) (3 + 5) × 4 - 2.
+  <!-- feedback: Dentro del paréntesis 3 + 5 = 8; luego 8 × 4 = 32; finalmente 32 - 2 = 30. -->
 - [ ] D) (3 + 5) × (4 - 2).
   <!-- feedback: 3 + 5 = 8 y 4 - 2 = 2; luego 8 × 2 = 16. -->
 
@@ -195,10 +195,10 @@ Ubicar paréntesis cambia el valor de una expresión porque modifica qué operac
 ¿Cuánto dinero debe recibir Marta de cambio?
 
 ### Opciones
-- [x] B) $2.500 COP.
-  <!-- feedback: 3 × $4.500 = $13.500 y 2 × $2.000 = $4.000; total $17.500. Cambio: $20.000 - $17.500 = $2.500. -->
 - [ ] A) $6.500 COP.
   <!-- feedback: Resulta de $20.000 - $13.500, omitiendo el costo de los bolígrafos. -->
+- [x] B) $2.500 COP.
+  <!-- feedback: 3 × $4.500 = $13.500 y 2 × $2.000 = $4.000; total $17.500. Cambio: $20.000 - $17.500 = $2.500. -->
 - [ ] C) $1.500 COP.
   <!-- feedback: Corresponde a una compra calculada en $18.500, con un error en la suma de los subtotales. -->
 - [ ] D) $4.500 COP.

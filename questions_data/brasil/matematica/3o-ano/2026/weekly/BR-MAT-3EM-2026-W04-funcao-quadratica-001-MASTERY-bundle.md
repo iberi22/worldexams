@@ -335,9 +335,9 @@ Se as raízes da função são o dobro das raízes da função $g(x) = x^2 - 3x 
 
 ### Opciones
 - [ ] A) $f(x) = x^2 - 6x + 4$ <!-- feedback: O produto das raízes dobradas (2*1 e 2*2) é 2*4=8, não 4. -->
-- [x] B) $f(x) = x^2 - 6x + 8$ <!-- feedback: Raízes de g são 1 e 2. O dobro são 2 e 4. Soma=6, Produto=8. Logo f(x) = x² - 6x + 8. -->
+- [ ] B) $f(x) = x^2 - 3x + 4$ <!-- feedback: A soma das raízes tem que ser o dobro da original, logo o termo central deveria ser -6x. -->
 - [ ] C) $f(x) = 2x^2 - 6x + 2$ <!-- feedback: Multiplicar a função toda por 2 não altera as raízes, continuariam sendo 1 e 2. -->
-- [ ] D) $f(x) = x^2 - 3x + 4$ <!-- feedback: A soma das raízes tem que ser o dobro da original, logo o termo central deveria ser -6x. -->
+- [x] D) $f(x) = x^2 - 6x + 8$ <!-- feedback: Raízes de g são 1 e 2. O dobro são 2 e 4. Soma=6, Produto=8. Logo f(x) = x² - 6x + 8. -->
 
 ### Explicacion Pedagogica
 A função $g(x) = x^2 - 3x + 2$ tem soma $S=3$ e produto $P=2$, logo suas raízes são $1$ e $2$. As raízes de $f(x)$ devem ser o dobro, ou seja, $2$ e $4$. Para $f(x)$, a nova soma é $2 + 4 = 6$ e o novo produto é $2 \cdot 4 = 8$. A equação é $x^2 - Sx + P$, resultando em $f(x) = x^2 - 6x + 8$.

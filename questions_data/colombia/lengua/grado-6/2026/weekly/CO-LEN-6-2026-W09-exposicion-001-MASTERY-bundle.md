@@ -224,8 +224,8 @@ Es común que la información (exposición) se use como base para convencer a al
 ### Opciones
 - [ ] A) El blog de opinión, porque es más divertido de leer. <!-- feedback: Incorrecto. Los blogs de opinión suelen ser subjetivos, no expositivos objetivos. -->
 - [ ] B) Ninguna, porque los textos expositivos siempre son aburridos y difíciles. <!-- feedback: Incorrecto. La dificultad no quita la utilidad y veracidad. -->
-- [x] C) La enciclopedia o el libro de historia, porque suelen estar revisados por expertos y presentan los hechos de manera objetiva sin sesgos personales. <!-- feedback: Correcto. La confiabilidad de un texto expositivo depende del rigor de sus fuentes y la ausencia de opiniones que deformen los hechos. -->
-- [ ] D) La fuente que tenga las fotos más grandes y con más colores. <!-- feedback: Incorrecto. Las imágenes son apoyo, pero la calidad de la información expositiva reside en el texto y su veracidad. -->
+- [ ] C) La fuente que tenga las fotos más grandes y con más colores. <!-- feedback: Incorrecto. Las imágenes son apoyo, pero la calidad de la información expositiva reside en el texto y su veracidad. -->
+- [x] D) La enciclopedia o el libro de historia, porque suelen estar revisados por expertos y presentan los hechos de manera objetiva sin sesgos personales. <!-- feedback: Correcto. La confiabilidad de un texto expositivo depende del rigor de sus fuentes y la ausencia de opiniones que deformen los hechos. -->
 
 ### Explicacion Pedagogica
 Evaluar las fuentes es una habilidad crítica. Un buen texto expositivo cita sus fuentes, presenta datos contrastables y mantiene una distancia neutra respecto al tema, permitiendo que el lector forme su propio criterio basado en la información pura.

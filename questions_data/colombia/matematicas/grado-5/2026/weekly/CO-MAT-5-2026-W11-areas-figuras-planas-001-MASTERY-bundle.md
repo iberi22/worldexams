@@ -167,12 +167,12 @@ Un mural rectangular tiene 4 m de alto y un área de 20 m². ¿Cuánto mide su b
 ### Opciones
 - [ ] A) 4 m
   <!-- feedback: Si la base fuera 4 m, el área sería 16 m², no 20 m². -->
-- [x] B) 5 m
-  <!-- feedback: Base = área / altura = 20 / 4 = 5 m; esa es la medida correcta. -->
+- [ ] B) 24 m
+  <!-- feedback: 24 m se obtiene sumando base y altura, no dividiendo el área. -->
 - [ ] C) 8 m
   <!-- feedback: 8 × 4 = 32 m², no coincide con el área dada de 20 m². -->
-- [ ] D) 24 m
-  <!-- feedback: 24 m se obtiene sumando base y altura, no dividiendo el área. -->
+- [x] D) 5 m
+  <!-- feedback: Base = área / altura = 20 / 4 = 5 m; esa es la medida correcta. -->
 
 ### Explicacion Pedagogica
 Para encontrar una medida desconocida del rectángulo se despeja: base = área / altura. Aquí, 20 m² / 4 m = 5 m. Este tipo de problema inverso es útil para conocer dimensiones de cuartos, murales y parcelas.

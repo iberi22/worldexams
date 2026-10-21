@@ -147,8 +147,8 @@ What time ________ you wake up?
 
 ### Opciones
 - [ ] A) are <!-- feedback: Incorrect. "Are" is the auxiliary of the verb "be", but the full verb "wake up" follows the blank. -->
-- [x] B) do <!-- feedback: Correct! "What time" asks about a routine with "you" as the subject, so the auxiliary is the plural form "do". -->
-- [ ] C) does <!-- feedback: Incorrect. "Does" is the third person singular auxiliary, and the subject of this question is "you". -->
+- [ ] B) does <!-- feedback: Incorrect. "Does" is the third person singular auxiliary, and the subject of this question is "you". -->
+- [x] C) do <!-- feedback: Correct! "What time" asks about a routine with "you" as the subject, so the auxiliary is the plural form "do". -->
 - [ ] D) is <!-- feedback: Incorrect. "Is" is the auxiliary of "be", and this question has the full verb "wake up" after the blank. -->
 
 ### Explicación Pedagógica

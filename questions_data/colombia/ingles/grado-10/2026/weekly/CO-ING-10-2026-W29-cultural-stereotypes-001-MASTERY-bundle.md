@@ -57,9 +57,9 @@ This bundle explores cultural misconceptions using B2-level grammar, focusing on
 
 ### Opciones
 - [ ] A) get along <!-- feedback: To have a good relationship. -->
-- [x] D) fit in <!-- feedback: Correct. To feel like you belong to a group. -->
 - [ ] B) take over <!-- feedback: To take control. -->
 - [ ] C) look after <!-- feedback: To take care of. -->
+- [x] D) fit in <!-- feedback: Correct. To feel like you belong to a group. -->
 
 ### Explicación Pedagógica
 'Fit in' means to be socially compatible or belong to a group or environment.
@@ -78,8 +78,8 @@ This bundle explores cultural misconceptions using B2-level grammar, focusing on
 
 ### Opciones
 - [ ] A) get by <!-- feedback: To manage with difficulty. -->
-- [x] C) get over <!-- feedback: Correct. To overcome a problem or difficulty. -->
 - [ ] B) go through <!-- feedback: To experience or examine. -->
+- [x] C) get over <!-- feedback: Correct. To overcome a problem or difficulty. -->
 - [ ] D) look into <!-- feedback: To investigate. -->
 
 ### Explicación Pedagógica
@@ -99,8 +99,8 @@ This bundle explores cultural misconceptions using B2-level grammar, focusing on
 
 ### Opciones
 - [ ] A) make up <!-- feedback: To invent. -->
-- [x] C) play up <!-- feedback: Correct. To emphasize or exaggerate something. -->
 - [ ] B) give in <!-- feedback: To surrender. -->
+- [x] C) play up <!-- feedback: Correct. To emphasize or exaggerate something. -->
 - [ ] D) take on <!-- feedback: To accept a responsibility. -->
 
 ### Explicación Pedagógica
@@ -141,8 +141,8 @@ This bundle explores cultural misconceptions using B2-level grammar, focusing on
 
 ### Opciones
 - [ ] A) take after <!-- feedback: To resemble a relative. -->
-- [x] C) pick up <!-- feedback: Correct. To learn something without formal study. -->
 - [ ] B) bring up <!-- feedback: To mention or raise a child. -->
+- [x] C) pick up <!-- feedback: Correct. To learn something without formal study. -->
 - [ ] D) put off <!-- feedback: To postpone. -->
 
 ### Explicación Pedagógica
@@ -162,8 +162,8 @@ This bundle explores cultural misconceptions using B2-level grammar, focusing on
 
 ### Opciones
 - [ ] A) look up to <!-- feedback: To admire. -->
-- [x] C) look down on <!-- feedback: Correct. To think that you are better than someone. -->
 - [ ] B) look forward to <!-- feedback: To be excited about. -->
+- [x] C) look down on <!-- feedback: Correct. To think that you are better than someone. -->
 - [ ] D) look out for <!-- feedback: To be careful. -->
 
 ### Explicación Pedagógica
@@ -183,9 +183,9 @@ This bundle explores cultural misconceptions using B2-level grammar, focusing on
 
 ### Opciones
 - [ ] A) back up <!-- feedback: To support. -->
-- [x] D) break away from <!-- feedback: Correct. To stop being part of a group or following a custom. -->
 - [ ] B) keep up with <!-- feedback: To stay at the same level as. -->
 - [ ] C) run out of <!-- feedback: To have no more left. -->
+- [x] D) break away from <!-- feedback: Correct. To stop being part of a group or following a custom. -->
 
 ### Explicación Pedagógica
 'Break away from' describes the act of separating oneself from a tradition or established pattern.
@@ -204,8 +204,8 @@ This bundle explores cultural misconceptions using B2-level grammar, focusing on
 
 ### Opciones
 - [ ] A) live for <!-- feedback: To have as a main purpose. -->
-- [x] C) live up to <!-- feedback: Correct. To reach an expected standard. -->
 - [ ] B) live through <!-- feedback: To experience a difficult time. -->
+- [x] C) live up to <!-- feedback: Correct. To reach an expected standard. -->
 - [ ] D) live on <!-- feedback: To survive on. -->
 
 ### Explicación Pedagógica
@@ -224,9 +224,9 @@ This bundle explores cultural misconceptions using B2-level grammar, focusing on
 "We must ____ the causes of these stereotypes if we hope to eliminate them."
 
 ### Opciones
-- [x] C) delve into <!-- feedback: Correct. To investigate or research something in depth. -->
-- [ ] A) fall for <!-- feedback: To be deceived. -->
+- [x] A) delve into <!-- feedback: Correct. To investigate or research something in depth. -->
 - [ ] B) brush up on <!-- feedback: To improve knowledge of something. -->
+- [ ] C) fall for <!-- feedback: To be deceived. -->
 - [ ] D) catch on to <!-- feedback: To understand something. -->
 
 ### Explicación Pedagógica
@@ -267,9 +267,9 @@ Using 'put forward' to describe the presentation of a formal academic or social 
 
 ### Opciones
 - [ ] A) keeping / making <!-- feedback: 'Keeping to' means limiting oneself, so it does not express clinging to an old prejudice, and 'making new ways' is not the phrasal pair meant. -->
-- [x] D) holding on / opening up to <!-- feedback: 'Going back to' suggests returning, and 'taking in new ways' means absorbing ideas rather than opening oneself to a different mindset. -->
 - [ ] B) going back / taking in <!-- feedback: Correct. 'Holding on to old prejudices' means keeping them stubbornly, and 'opening up to new ways of thinking' is its opposite, so the pair expresses a shift in mindset. -->
 - [ ] C) giving up / looking for <!-- feedback: 'Giving up on prejudices' means stopping the effort entirely, which is the opposite of the change the sentence calls for. -->
+- [x] D) holding on / opening up to <!-- feedback: 'Going back to' suggests returning, and 'taking in new ways' means absorbing ideas rather than opening oneself to a different mindset. -->
 
 ### Explicación Pedagógica
 Mastery level: Combining two related phrasal verbs ('hold on to' vs 'open up to') to describe a shift in social mindset.

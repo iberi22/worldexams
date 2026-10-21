@@ -80,12 +80,12 @@ Comprender que la diversidad de recursos y climas de las regiones determina sus 
 ¿A qué actividad económica pertenece el trabajo de esta familia?
 
 ### Opciones
-- [x] C) A la pesca, porque obtienen su sustento de los recursos del mar.
-  <!-- feedback: La familia extrae peces del mar y los comercializa, lo que corresponde a la pesca. -->
 - [ ] A) A la minería, porque extraen minerales del subsuelo marino.
   <!-- feedback: La familia no extrae minerales, sino peces, así que no es minería. -->
 - [ ] B) A la ganadería, porque crían animales en tierra firme.
   <!-- feedback: La ganadería cría animales terrestres, no captura peces en el mar. -->
+- [x] C) A la pesca, porque obtienen su sustento de los recursos del mar.
+  <!-- feedback: La familia extrae peces del mar y los comercializa, lo que corresponde a la pesca. -->
 - [ ] D) Al turismo, porque reciben visitantes en su bote.
   <!-- feedback: La familia no presta servicios turísticos; vende el producto de su pesca. -->
 
@@ -103,12 +103,12 @@ Aplicar el concepto de pesca a una situación cotidiana de la región Pacífica 
 ¿Cuál decisión es la más responsable frente a la actividad minera del municipio?
 
 ### Opciones
-- [x] C) Extraer el carbón con permisos, cuidando el agua y reforestando las zonas afectadas.
-  <!-- feedback: Una minería responsable cumple las normas y protege los recursos naturales de la comunidad. -->
 - [ ] A) Extraer todo el carbón sin permiso y abandonar los huecos abiertos.
   <!-- feedback: La explotación sin permiso ni control causa daños graves al ambiente y a las personas. -->
 - [ ] B) Contaminar los ríos con los desechos que salen de la mina.
   <!-- feedback: Arrojar desechos a los ríos afecta el agua que usa toda la comunidad. -->
+- [x] C) Extraer el carbón con permisos, cuidando el agua y reforestando las zonas afectadas.
+  <!-- feedback: Una minería responsable cumple las normas y protege los recursos naturales de la comunidad. -->
 - [ ] D) Impedir que cualquier autoridad vigile la explotación.
   <!-- feedback: La vigilancia de las autoridades ayuda a prevenir daños ambientales y sociales. -->
 
@@ -126,12 +126,12 @@ Aplicar principios de convivencia y cuidado ambiental a la explotación de los r
 ¿Qué actividad económica se fortalece con estos empleos en Santa Marta?
 
 ### Opciones
-- [x] C) El turismo, porque las personas viajan y usan servicios de hospedaje y recreación.
-  <!-- feedback: El hotel ofrece servicios a los viajeros, lo que caracteriza a la actividad turística. -->
 - [ ] A) La pesca, porque se venden productos del mar al por mayor.
   <!-- feedback: El hotel no se dedica a la pesca, aunque sirva pescado a sus huéspedes. -->
 - [ ] B) La minería, porque se extraen piedras preciosas de la playa.
   <!-- feedback: En el hotel no se extraen minerales, sino que se atiende a visitantes. -->
+- [x] C) El turismo, porque las personas viajan y usan servicios de hospedaje y recreación.
+  <!-- feedback: El hotel ofrece servicios a los viajeros, lo que caracteriza a la actividad turística. -->
 - [ ] D) La agricultura, porque se cultivan flores para exportar.
   <!-- feedback: La agricultura siembra y cosecha productos, algo distinto a la hotelería. -->
 
@@ -172,14 +172,14 @@ Analizar cómo las condiciones geográficas explican las diferencias entre las a
 ¿Qué conflicto se presenta entre el turismo y el bienestar de los habitantes de una región?
 
 ### Opciones
-- [x] D) El turismo genera ingresos, pero también puede afectar los recursos y la vida cotidiana de la comunidad.
-  <!-- feedback: Existe un equilibrio entre los beneficios económicos y los costos ambientales y sociales. -->
 - [ ] A) El turismo nunca produce ningún efecto negativo en las regiones.
   <!-- feedback: El texto menciona basura, precios y consumo de agua como efectos a considerar. -->
 - [ ] B) Los habitantes de la región no participan en la economía local.
   <!-- feedback: Los habitantes trabajan y ofrecen servicios dentro de la actividad turística. -->
 - [ ] C) El turismo elimina la necesidad de cuidar el agua y los paisajes.
   <!-- feedback: Al contrario, el turismo sostenible depende del cuidado del agua y del entorno. -->
+- [x] D) El turismo genera ingresos, pero también puede afectar los recursos y la vida cotidiana de la comunidad.
+  <!-- feedback: Existe un equilibrio entre los beneficios económicos y los costos ambientales y sociales. -->
 
 ### Explicacion Pedagogica
 Analizar los beneficios y los costos del turismo para las comunidades que lo reciben.
@@ -195,10 +195,10 @@ Analizar los beneficios y los costos del turismo para las comunidades que lo rec
 ¿Cuál conclusión valora mejor la relación entre las regiones y la economía colombiana?
 
 ### Opciones
-- [x] A) Cada región aporta al país con sus recursos y actividades, y la clave es aprovecharlos de forma sostenible.
-  <!-- feedback: La diversidad regional enriquece la economía y exige un uso responsable de los recursos. -->
-- [ ] B) La economía del país depende de una sola región y de una sola actividad.
+- [ ] A) La economía del país depende de una sola región y de una sola actividad.
   <!-- feedback: Colombia tiene múltiples regiones y actividades que aportan a su economía. -->
+- [x] B) Cada región aporta al país con sus recursos y actividades, y la clave es aprovecharlos de forma sostenible.
+  <!-- feedback: La diversidad regional enriquece la economía y exige un uso responsable de los recursos. -->
 - [ ] C) Todas las regiones deben dedicarse a la minería para poder crecer.
   <!-- feedback: Cada región se desarrolla mejor según sus propios recursos y vocación productiva. -->
 - [ ] D) Los recursos naturales no influyen en la economía del país.

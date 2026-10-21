@@ -42,13 +42,10 @@ En el Texto 1, ¿de qué barrio de Bogotá son los niños que se reúnen a canta
 ### Opciones
 - [x] A) Del barrio La Candelaria.
   <!-- feedback: Correcto. La primera oración del Texto 1 dice que los niños son del barrio La Candelaria en Bogotá. -->
-
 - [ ] B) Del barrio La América.
   <!-- feedback: Error. El Texto 1 nombra el barrio La Candelaria; La América no aparece en esa oración. -->
-
 - [ ] C) Del barrio Usaquén.
   <!-- feedback: Error. Ninguna oración del Texto 1 menciona el barrio Usaquén, así que esa respuesta no tiene apoyo. -->
-
 - [ ] D) Del barrio Santa Fe.
   <!-- feedback: Error. El barrio que aparece escrito en el Texto 1 es La Candelaria, no Santa Fe. -->
 
@@ -68,13 +65,10 @@ Según el Texto 2, ¿cuál es la diferencia entre la rima asonante y la rima con
 ### Opciones
 - [ ] A) La asonante rima mejor que la consonante.
   <!-- feedback: Error. El Texto 2 no dice que una rima sea mejor que la otra: solo explica en qué se diferencia cada una. -->
-
 - [x] B) La asonante se parece solo en las vocales y la consonante se parece en las últimas sílabas completas.
   <!-- feedback: Correcto. Esa es exactamente la diferencia que explica el Texto 2 entre los dos tipos de rima. -->
-
 - [ ] C) La consonante se parece solo en las vocales y la asonante en las sílabas completas.
   <!-- feedback: Error. Está invertido: el Texto 2 dice que la asonante se parece en las vocales y la consonante en las últimas sílabas. -->
-
 - [ ] D) Las dos rimas son lo mismo y solo se nombran de dos maneras.
   <!-- feedback: Error. No son lo mismo: el Texto 2 las define de forma distinta según qué parte del sonido se parece. -->
 
@@ -94,13 +88,10 @@ En el Texto 1, ¿qué bebida les sirvió doña Elena a los niños al final de la
 ### Opciones
 - [x] A) Un jugo de mango.
   <!-- feedback: Correcto. La última oración del Texto 1 dice que doña Elena les sirvió un jugo de mango. -->
-
 - [ ] B) Un jugo de fresa.
   <!-- feedback: Error. El texto no menciona jugo de fresa; la bebida que aparece escrita es un jugo de mango. -->
-
 - [ ] C) Un agua de panela.
   <!-- feedback: Error. Ninguna oración del Texto 1 habla de agua de panela, de modo que esa opción no tiene apoyo. -->
-
 - [ ] D) Una limonada.
   <!-- feedback: Error. La bebida del relato es jugo de mango; la limonada no aparece en el Texto 1. -->
 
@@ -120,13 +111,10 @@ En el Texto 1, ¿cuál de estos grupos de palabras forma una pareja consonante?
 ### Opciones
 - [x] A) Florido y sonriente, porque se parecen en las últimas sílabas completas.
   <!-- feedback: Correcto. Las dos palabras terminan igual que en la parte final, así que forman una rima consonante como explica el Texto 2. -->
-
 - [ ] B) Canto y Julián, porque las dos son palabras que aparecen en el texto.
   <!-- feedback: Error. Que dos palabras aparezcan en el texto no las hace rima: para eso deben parecerse en cómo suenan al final. -->
-
 - [ ] C) Vida y leal, porque las dos describen algo bueno.
   <!-- feedback: Error. El significado no es lo que define la rima: se define por el sonido final de las palabras, y estas dos no coinciden. -->
-
 - [ ] D) Leal y tenaz, porque las dos son adjetivos.
   <!-- feedback: Error. Ser adjetivo no las convierte en rima: el Texto 2 explica que lo que empareja es el sonido, no la categoría de la palabra. -->
 
@@ -146,13 +134,10 @@ Un grupo escribió: "El gato duerme en el patio, y el perro se esconde debajo. L
 ### Opciones
 - [ ] A) Debe cambiar el nombre del gato, porque los animales no pueden aparecer en un poema.
   <!-- feedback: Error. El Texto 2 no prohíbe nombrar animales: lo que pide es cuidar el sonido y el significado de las palabras. -->
-
 - [x] B) Debe buscar palabras que suenen parecidas entre sí, porque la rima se forma con el sonido final.
   <!-- feedback: Correcto. El Texto 2 explica que dos palabras emparejan cuando tienen el mismo sonido final, que es lo que el grupo no logró en los versos. -->
-
 - [ ] C) Debe escribir más páginas, porque un poema corto no alcanza.
   <!-- feedback: Error. El problema no es la extensión: el Texto 2 trata del sonido de las palabras y no de la cantidad de versos. -->
-
 - [ ] D) No debe cambiar nada, porque cualquier grupo de palabras forma una rima.
   <!-- feedback: Error. No cualquier grupo rima: hacen falta palabras con sonidos finales parecidos, como explica el Texto 2. -->
 
@@ -172,13 +157,10 @@ Un grupo propuso estas dos parejas para el Texto 1: "canto y amigo" y "regalo y 
 ### Opciones
 - [ ] A) Las dos parejas están bien, porque todas las palabras del Texto 1 son válidas para rimar.
   <!-- feedback: Error. Que las palabras aparezcan en el texto no basta: la rima exige que suenen parecidas al final. -->
-
 - [x] B) Ninguna de las dos parejas, porque esas palabras no coinciden en su sonido final.
   <!-- feedback: Correcto. En canto y amigo, y en regalo y leal, los sonidos finales no coinciden, así que no forman rimas. -->
-
 - [ ] C) Solo la primera pareja está mal, porque en la segunda las dos palabras son largas.
   <!-- feedback: Error. El largo de una palabra no define la rima; lo que importa es que coincidan en las últimas sílabas o en las vocales. -->
-
 - [ ] D) Las dos parejas están mal, porque las rimas solo se pueden hacer con sustantivos.
   <!-- feedback: Error. El Texto 2 no limita las rimas a los sustantivos: el problema de esas parejas es que no suenan parecidas. -->
 
@@ -198,13 +180,10 @@ El Texto 1 usa muchas palabras que riman y el Texto 2 explica qué es la rima. �
 ### Opciones
 - [ ] A) El Texto 2 corrige al Texto 1, porque en el Texto 1 hay rimas que están mal.
   <!-- feedback: Error. El Texto 1 usa la rima de manera correcta, y el Texto 2 no lo corrige: solo explica en qué consiste. -->
-
 - [ ] B) Los dos textos son iguales, porque los dos hablan de música.
   <!-- feedback: Error. El Texto 2 no habla de música: explica la sonoridad y la rima, aunque use ejemplos cantables. -->
-
 - [ ] C) El Texto 1 sirve para comprobar si lo que dice el Texto 2 es cierto.
   <!-- feedback: Error. El Texto 1 es un ejemplo de uso, no una prueba: el Texto 2 es el que define y el primero solo lo aplica. -->
-
 - [x] D) El Texto 1 es un ejemplo de lo que el Texto 2 explica, porque usa parejas de palabras que suenan parecidas.
   <!-- feedback: Correcto. El Texto 1 muestra en la práctica lo que el Texto 2 define, y por eso uno sirve de ejemplo para el otro. -->
 
@@ -224,13 +203,10 @@ La profesora escribió: "Oración uno: pan y caza se pronuncian igual pero no qu
 ### Opciones
 - [ ] A) La oración dos, porque si dos palabras suenan igual entonces significan lo mismo.
   <!-- feedback: Error. El Texto 2 advierte justo lo contrario: hay palabras que suenan parecidas y significan cosas distintas. -->
-
-- [x] B) La oración uno, porque recuerda que el sonido no basta para conocer el significado.
-  <!-- feedback: Correcto. La primera oración refleja la advertencia del Texto 2 de que además del sonido hay que atender lo que cada palabra dice. -->
-
-- [ ] C) Las dos oraciones están iguales de bien, porque repiten la misma idea.
+- [ ] B) Las dos oraciones están iguales de bien, porque repiten la misma idea.
   <!-- feedback: Error. No expresan la misma idea: una afirma una igualdad de significado y la otra la niega con un ejemplo. -->
-
+- [x] C) La oración uno, porque recuerda que el sonido no basta para conocer el significado.
+  <!-- feedback: Correcto. La primera oración refleja la advertencia del Texto 2 de que además del sonido hay que atender lo que cada palabra dice. -->
 - [ ] D) La oración uno, porque es la que usa más palabras difíciles.
   <!-- feedback: Error. El valor de esa oración está en que dice algo cierto, no en que sus palabras sean difíciles. -->
 

@@ -355,8 +355,8 @@ Encontre o conjunto verdade da inequação $\log_{0,5}(x - 4) > -2$.
 ### Opciones
 - [ ] A) $x > 8$ <!-- feedback: Erro ao não inverter o sinal de desigualdade para base entre 0 e 1. -->
 - [ ] B) $x < 8$ <!-- feedback: Esquecimento do domínio da função logarítmica (x - 4 > 0). -->
-- [x] C) $4 < x < 8$ <!-- feedback: Com base 0,5, inverte-se: x - 4 < (0,5)^{-2} => x - 4 < 4 => x < 8. Com domínio x > 4, a interseção é (4,8). -->
-- [ ] D) $4 \le x \le 8$ <!-- feedback: As desigualdades são estritas, não incluem igualdades. -->
+- [ ] C) $4 \le x \le 8$ <!-- feedback: As desigualdades são estritas, não incluem igualdades. -->
+- [x] D) $4 < x < 8$ <!-- feedback: Com base 0,5, inverte-se: x - 4 < (0,5)^{-2} => x - 4 < 4 => x < 8. Com domínio x > 4, a interseção é (4,8). -->
 
 ### Explicacion Pedagogica
 1º Domínio: $x - 4 > 0 \Rightarrow x > 4$. 2º Resolução: como a base do logaritmo é $0,5$ (menor que 1, caracterizando função decrescente), quando tiramos o logaritmo, invertemos o sinal da inequação: $x - 4 < 0,5^{-2}$. Como $0,5 = 1/2$, o inverso quadrado é $4$. Logo, $x - 4 < 4 \Rightarrow x < 8$. A interseção com o domínio ($x > 4$) nos dá $4 < x < 8$.

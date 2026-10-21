@@ -165,8 +165,8 @@ El análisis comparativo entre mito y leyenda revela cómo las sociedades constr
 ¿Qué se puede analizar críticamente sobre el origen social de muchas de nuestras leyendas a partir de esta afirmación?
 
 ### Opciones
-- [ ] A) Que las leyendas son perfectas y no deben ser cuestionadas nunca. <!-- feedback: Toda producción cultural puede y debe ser analizada críticamente. -->
-- [x] B) Que muchas historias tradicionales reflejan prejuicios y formas de control de la época en que fueron creadas. <!-- feedback: La crítica permite ver cómo el miedo se usó para imponer roles de género o conductas específicas en el pasado. -->
+- [x] A) Que muchas historias tradicionales reflejan prejuicios y formas de control de la época en que fueron creadas. <!-- feedback: La crítica permite ver cómo el miedo se usó para imponer roles de género o conductas específicas en el pasado. -->
+- [ ] B) Que las leyendas son perfectas y no deben ser cuestionadas nunca. <!-- feedback: Toda producción cultural puede y debe ser analizada críticamente. -->
 - [ ] C) Que la Patasola debería ser la protagonista de una película de acción moderna. <!-- feedback: Esta no es una reflexión crítica sobre el contenido social de la leyenda. -->
 - [ ] D) Que los hombres de antes no tenían miedo de nada porque no había leyendas. <!-- feedback: Las leyendas existían precisamente porque el miedo era un motor social importante. -->
 
@@ -205,8 +205,8 @@ La tradición oral no es algo del pasado; sigue siendo una herramienta viva. En 
 ### Opciones
 - [ ] A) Que los jóvenes van a tener mejores notas en inglés pero peores en español. <!-- feedback: Es una consecuencia posible pero no la más profunda a nivel de identidad cultural. -->
 - [ ] B) Que los superhéroes son más fuertes que los espantos colombianos. <!-- feedback: Esta es una comparación de fuerza ficticia, no un análisis de impacto cultural. -->
-- [x] C) El debilitamiento del vínculo emocional con el territorio y la pérdida de una forma única de entender y respetar nuestro entorno. <!-- feedback: Nuestras leyendas nos conectan con nuestros ríos, montañas y selvas; sin ellas, el paisaje pierde su significado sagrado y cultural. -->
-- [ ] D) Que ya nadie va a comprar velas para contar historias en la oscuridad. <!-- feedback: Es una consecuencia material insignificante frente a la pérdida del patrimonio inmaterial. -->
+- [ ] C) Que ya nadie va a comprar velas para contar historias en la oscuridad. <!-- feedback: Es una consecuencia material insignificante frente a la pérdida del patrimonio inmaterial. -->
+- [x] D) El debilitamiento del vínculo emocional con el territorio y la pérdida de una forma única de entender y respetar nuestro entorno. <!-- feedback: Nuestras leyendas nos conectan con nuestros ríos, montañas y selvas; sin ellas, el paisaje pierde su significado sagrado y cultural. -->
 
 ### Explicacion Pedagogica
 La evaluación final resalta la importancia de la soberanía narrativa. Contar nuestras propias historias (mitos y leyendas) es esencial para que el territorio colombiano sea algo más que un mapa; es un lugar habitado por la memoria y el sentido.

@@ -191,14 +191,14 @@ Un espacio común hace posible la solidaridad porque permite que las personas se
 ¿Qué hace mejor el colegio con esa campaña?
 
 ### Opciones
-- [ ] A) Publicar la historia de la familia para que todos la conozcan
-  <!-- feedback: Incorrecto. Publicar la historia sin permiso expone a la familia y no le entrega lo que necesita para recuperarse. -->
+- [x] A) Recoger lo que la familia necesita y entregárselo con respeto
+  <!-- feedback: Correcto. Reunir lo que la familia necesita y entregárselo sin exposición satisface la ayuda concreta. -->
 - [ ] B) Usar el dinero recogido para comprar un regalo para los niños del colegio
   <!-- feedback: Incorrecto. Ese uso del dinero ayudaría a otros y no a la familia que perdió todo, que es quien de verdad necesita. -->
 - [ ] C) Contarle a la familia que no se preocupe porque todo saldrá bien
   <!-- feedback: Incorrecto. Decir palabras bonitas no resuelve la situación material: la familia necesita cosas concretas. -->
-- [x] D) Recoger lo que la familia necesita y entregárselo con respeto
-  <!-- feedback: Correcto. Reunir lo que la familia necesita y entregárselo sin exposición satisface la ayuda concreta. -->
+- [ ] D) Publicar la historia de la familia para que todos la conozcan
+  <!-- feedback: Incorrecto. Publicar la historia sin permiso expone a la familia y no le entrega lo que necesita para recuperarse. -->
 
 ### Explicacion Pedagogica
 La ayuda de verdad se mide por lo que resuelve, no por lo que dice. Una familia que perdió todo en una inundación necesita algo para comer, ropa limpia y un lugar donde dormir, no palabras de consuelo. Una campaña que recoge esos elementos y los entrega con respeto cumple con la solidaridad de manera concreta. Además, entregar sin ridiculizar a la persona mantiene su dignidad, que es tan importante como la ayuda material. Reconocer esto enseña a los niños a ayudar bien: hay que resolver la necesidad sin dañar la dignidad de quien la tiene.

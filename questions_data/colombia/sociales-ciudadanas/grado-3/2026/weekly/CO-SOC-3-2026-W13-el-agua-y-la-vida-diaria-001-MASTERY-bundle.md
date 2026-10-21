@@ -193,10 +193,10 @@ La forma como se distribuye el agua en una ciudad depende de la topografía del 
 ### Opciones
 - [ ] A) Decirle a todos que ellos ensucian el río
   <!-- feedback: Incorrecto. Difundir la situación sin resolverla expone a los jóvenes y no impide que sigan ensuciando el agua. -->
-- [ ] B) Grabar la escena y subirla a las redes sociales
-  <!-- feedback: Incorrecto. Grabar y difundir expone a los jóvenes y no cambia el problema: el agua sigue contaminada. -->
-- [x] C) Acercarse con respeto y explicarles por qué ensuciar el río es un problema
+- [x] B) Acercarse con respeto y explicarles por qué ensuciar el río es un problema
   <!-- feedback: Correcto. Explicar con respeto el motivo permite que entiendan el daño y cambien su conducta. -->
+- [ ] C) Grabar la escena y subirla a las redes sociales
+  <!-- feedback: Incorrecto. Grabar y difundir expone a los jóvenes y no cambia el problema: el agua sigue contaminada. -->
 - [ ] D) Esperar a que el río se limpie solo con la lluvia
   <!-- feedback: Incorrecto. Esperar no detiene el daño y además el agua sucia afecta a las familias que viven cerca del río. -->
 

@@ -34,14 +34,12 @@ Este bundle contiene 20 preguntas sobre el control fiscal, disciplinario y ciuda
 El órgano de control fiscal encargado de vigilar el uso de los recursos públicos en Colombia es
 
 ### Opciones
-- [ ] B) La Procuraduría General de la Nación
-  <!-- feedback: La Procuraduría ejerce control disciplinario, no fiscal. -->
 - [x] A) La Contraloría General de la República
   <!-- feedback: Correcto. El artículo 267 de la Constitución define la Contraloría como órgano de control fiscal. -->
+- [ ] B) La Procuraduría General de la Nación
+  <!-- feedback: La Procuraduría ejerce control disciplinario, no fiscal. -->
 - [ ] C) La Fiscalía General de la Nación
   <!-- feedback: La Fiscalía investiga y juzga penalmente; no vigila el uso de recursos públicos como función principal. -->
-
-
 - [ ] D) El Consejo Nacional Electoral
   <!-- feedback: El CNE dirige y vigilancia la organización electoral, no el uso de la hacienda pública. -->
 
@@ -59,16 +57,14 @@ El artículo 267 de la Constitución crea la Contraloría General de la Repúbli
 El organismo encargado de vigilar la conducta oficial de los servidores públicos, integrado por la Procuraduría, la Defensoría del Pueblo y las personerías, es el
 
 ### Opciones
-- [x] D) Ministerio Público, conforme al artículo 118 de la Constitución
-  <!-- feedback: Correcto. El artículo 118 ordena el Ministerio Público para la vigilancia de la conducta oficial de quienes sirven al Estado. -->
 - [ ] A) Consejo de Estado
   <!-- feedback: El Consejo de Estado es cabeza de la jurisdicción contencioso administrativa, no un órgano disciplinario. -->
 - [ ] B) Corte Constitucional
   <!-- feedback: La Corte guarda la integridad de la Constitución mediante control de normas, no vigila conductas de servidores. -->
-
-
 - [ ] C) Comisión Nacional del Servicio Civil
   <!-- feedback: La CNSC administra el mérito en el empleo público, no la vigilancia disciplinaria. -->
+- [x] D) Ministerio Público, conforme al artículo 118 de la Constitución
+  <!-- feedback: Correcto. El artículo 118 ordena el Ministerio Público para la vigilancia de la conducta oficial de quienes sirven al Estado. -->
 
 ### Explicacion Pedagogica
 El artículo 118 configura el Ministerio Público como institución del Estado con autonomía funcional e administrativa, integrado por la Procuraduría General de la Nación, la Defensoría del Pueblo, los defensores del pueblo, los personeros distritales y municipales y los demás que determine la ley. Su función central es la vigilancia de la conducta oficial de quienes desempeñan funciones públicas.
@@ -86,14 +82,12 @@ El control social de la gestión pública se entiende mejor como
 ### Opciones
 - [ ] A) La vigilancia exclusiva que ejercen los jueces sobre la administración
   <!-- feedback: Los jueces ejercen control jurisdiccional; el control social es precisamente el que hacen los ciudadanos. -->
-- [x] D) La participación de la ciudadanía en la vigilancia y monitoreo de la acción estatal, con soporte en los artículos 1, 2 y 40 constitucionales
-  <!-- feedback: Correcto. El control social emana de la soberanía popular y del fin estatal de facilitar la participación. -->
 - [ ] B) El reporte voluntario de las empresas privadas al gobierno
   <!-- feedback: El control social mira al Estado desde la sociedad, no al revés. -->
-
-
 - [ ] C) La auditoría contable interna de cada entidad
   <!-- feedback: Esa es la auditoría interna o control interno (artículo 209), no el control social ciudadano. -->
+- [x] D) La participación de la ciudadanía en la vigilancia y monitoreo de la acción estatal, con soporte en los artículos 1, 2 y 40 constitucionales
+  <!-- feedback: Correcto. El control social emana de la soberanía popular y del fin estatal de facilitar la participación. -->
 
 ### Explicacion Pedagogica
 El control social es el poder de la ciudadanía de vigilar, denunciar y participar en la gestión pública: veedurías, audiencias públicas, rendición de cuentas, derecho de petición de información, denuncias ante personerías y contralorías. Su fundamento normativo está en la soberanía popular (artículo 3), los fines del Estado (artículo 2) y los derechos de participación (artículo 40), y su efectividad depende de información accesible y protección frente a represalias.
@@ -111,14 +105,12 @@ El artículo 74 de la Constitución establece que todas las partes son libres pa
 ### Opciones
 - [ ] A) Secretos por regla general, salvo autorización del Presidente
   <!-- feedback: La regla es exactamente la contraria: la publicidad, con excepciones tasadas. -->
-- [x] D) Públicos, con las excepciones que establezca la ley por razones de seguridad o inteligencia nacional
-  <!-- feedback: Correcto. La publicidad de los documentos públicos es la regla constitucional del artículo 74. -->
 - [ ] B) Propiedad privada de los funcionarios que los producen
   <!-- feedback: Los documentos públicos pertenecen a la función, no al cargo: son del Estado y de la ciudadanía. -->
-
-
 - [ ] C) Confidenciales durante cincuenta años sin excepción
   <!-- feedback: No existe tal plazo general; el acceso a información pública se rige por la Ley 1712 de 2014. -->
+- [x] D) Públicos, con las excepciones que establezca la ley por razones de seguridad o inteligencia nacional
+  <!-- feedback: Correcto. La publicidad de los documentos públicos es la regla constitucional del artículo 74. -->
 
 ### Explicacion Pedagogica
 El artículo 74 consagra el principio de publicidad de la función administrativa y el derecho de acceso a la información pública, desarrollado por la Ley 1712 de 2014 (Ley de Transparencia y del Derecho de Acceso a la Información Pública). Este derecho es la condición técnica del control social: sin información accesible y oportuna, la vigilancia ciudadana es imposible.
@@ -134,14 +126,12 @@ El artículo 74 consagra el principio de publicidad de la función administrativ
 Para constituir formalmente una veeduría ciudadana al contrato, el grupo debe atenerse principalmente a
 
 ### Opciones
-- [x] B) La Ley 850 de 2003, que regula las veedurías ciudadanas y sus requisitos
-  <!-- feedback: Correcto. La Ley 850 de 2003 y sus decretos reglamentarios disciplinan las veedurías. -->
 - [ ] A) El Código Penales procedimientos de allanamiento judicial
   <!-- feedback: El Código Penal no crea veedurías; estas son mecanismos administrativos y ciudadanos, no procedimientos penales. -->
+- [x] B) La Ley 850 de 2003, que regula las veedurías ciudadanas y sus requisitos
+  <!-- feedback: Correcto. La Ley 850 de 2003 y sus decretos reglamentarios disciplinan las veedurías. -->
 - [ ] C) Un permiso verbal del alcalde que puede revocar en cualquier momento
   <!-- feedback: La veeduría no depende de la voluntad del vigilado; es un derecho, no una concesión graciosa. -->
-
-
 - [ ] D) La autorización de la Corte Constitucional para cada caso
   <!-- feedback: La Corte no autoriza veedurías; ejerce el control constitucional de normas. -->
 
@@ -165,8 +155,6 @@ Las audiencias públicas de rendición de cuentas de autoridades, previstas en l
   <!-- feedback: Correcto. La rendición de cuentas hace explícita la obligación de informar y responder del poder delegado. -->
 - [ ] C) Reemplazar el voto en las elecciones territoriales
   <!-- feedback: La rendición no es un mecanismo electoral sustituto del sufragio. -->
-
-
 - [ ] D) Otorgar personería jurídica a las veedurías constituidas
   <!-- feedback: Las veedurías no requieren personería jurídica; actúan como representación ciudadana de hecho. -->
 
@@ -190,8 +178,6 @@ La ruta institucional más directa para que un ciudadano active el control fisca
   <!-- feedback: Los ciudadanos no disponen del presupuesto: la aprobación y modificación corresponde a las corporaciones públicas. -->
 - [ ] C) Convocar un plebiscito para juzgar al funcionario
   <!-- feedback: El plebiscito consulta decisiones del Ejecutivo; no juzga conductas individuales. -->
-
-
 - [ ] D) Solicitar la intervención de la Cruz Roja Internacional
   <!-- feedback: El CICR actúa en conflictos armados bajo el derecho internacional humanitario, no en corrupción local. -->
 
@@ -209,14 +195,12 @@ El proceso de responsabilidad fiscal, reglado por la Ley 610 de 2000, se inicia 
 La conducta de un servidor público que presuntamente viola sus deberes funcionales debe denunciarse disciplinariamente ante
 
 ### Opciones
-- [x] C) La Procuraduría General de la Nación o la oficina de control interno de la entidad
-  <!-- feedback: Correcto. La Procuraduría y las oficinas de control interno ejercen el poder disciplinario según el caso. -->
 - [ ] A) La Registraduría Nacional del Estado Civil
   <!-- feedback: La Registraduría organiza elecciones e identifica personas; no sanciona conductas oficiales. -->
 - [ ] B) La Superintendencia de Industria y Comercio
   <!-- feedback: La SIC vigila competencia y consumo, no la ética de los docentes funcionarios. -->
-
-
+- [x] C) La Procuraduría General de la Nación o la oficina de control interno de la entidad
+  <!-- feedback: Correcto. La Procuraduría y las oficinas de control interno ejercen el poder disciplinario según el caso. -->
 - [ ] D) El Banco de la República
   <!-- feedback: El Banco Emisor regula la política monetaria y cambiaria; carece de competencia disciplinaria. -->
 
@@ -240,8 +224,6 @@ El control político que ejercen las corporaciones públicas territoriales sobre
   <!-- feedback: La destitución del alcalde corresponde a la Procuraduría o a la revocatoria popular, no a una mayoría del concejo. -->
 - [ ] C) El nombramiento libre del personero sin requisitos
   <!-- feedback: El personero es elegido por el concejo de ternas, con requisitos y periodo fijo (Ley 136 de 1994). -->
-
-
 - [ ] D) La facultad de expedir leyes nacionales delegadas
   <!-- feedback: Las corporaciones territoriales no legislan: dictan acuerdos y resoluciones en el marco de su competencia. -->
 
@@ -265,8 +247,6 @@ El sistema de información que concentra datos contractuales de las entidades es
   <!-- feedback: La FIFA es un organismo internacional de fútbol, sin función de transparencia estatal colombiana. -->
 - [ ] C) El registro notarial de instrumentos públicos
   <!-- feedback: Los registros notariales documentan actos jurídicos privados y algunos públicos, pero no concentran la contratación estatal. -->
-
-
 - [ ] D) El censo electoral de la Registraduría
   <!-- feedback: El censo electoral lista habilitados para votar; no informa sobre contratos. -->
 
@@ -286,12 +266,10 @@ El patrón de hallazgos fiscales recurrentes sin sanciones efectivas sugiere pri
 ### Opciones
 - [ ] A) Diseño constitucional: la Contraloría no debería existir en Colombia
   <!-- feedback: El problema no es la existencia del órgano, sino la debilidad de sus consecuencias y capacidades. -->
-- [x] C) Impunidad estructural: lentitud procesal, prescripción, debilidad probatoria y falta de coordinación entre contralorías, procuradurías y justicia penal
-  <!-- feedback: Correcto. La repetición de hallazgos sin fallo revela un ciclo de control sin consecuencias. -->
 - [ ] B) Exceso de recursos: las contralorías procesan demasiados casos
   <!-- feedback: La evidencia muestra más bien saturación y subdotación técnica, no exceso de actividad. -->
-
-
+- [x] C) Impunidad estructural: lentitud procesal, prescripción, debilidad probatoria y falta de coordinación entre contralorías, procuradurías y justicia penal
+  <!-- feedback: Correcto. La repetición de hallazgos sin fallo revela un ciclo de control sin consecuencias. -->
 - [ ] D) La inexistencia de normas de contratación en el país
   <!-- feedback: Colombia tiene un estatuto contractual desarrollado (Ley 80 de 1993 y Ley 1150 de 2007). -->
 
@@ -309,14 +287,12 @@ La función del control no termina en detectar: debe sancionar y reparar. El cic
 La discusión sobre la destitución e inhabilidad de elegidos por la vía disciplinaria, tras el caso "Lozano y Others vs. Colombia" (2022) ante la Corte Interamericana de Derechos Humanos, gira en torno a
 
 ### Opciones
-- [ ] B) La prohibición absoluta de todo control disciplinario sobre servidores
-  <!-- feedback: Ninguna decisión suprimió el poder disciplinario del Estado: el debate es sobre su intensidad y vía. -->
 - [x] A) La tensión entre la potestad disciplinaria administrativa y la Convención Americana (artículo 23), que reserva restricciones a derechos políticos a la vía judicial
   <!-- feedback: Correcto. La CIDH condicionó la inhabilitación de elegidos al control de un juez, no a una autoridad administrativa. -->
+- [ ] B) La prohibición absoluta de todo control disciplinario sobre servidores
+  <!-- feedback: Ninguna decisión suprimió el poder disciplinario del Estado: el debate es sobre su intensidad y vía. -->
 - [ ] C) La eliminación de la Procuraduría del texto constitucional
   <!-- feedback: La reforma del Ministerio Público es una opción política pendiente, no el objeto del caso Lozano. -->
-
-
 - [ ] D) La entrega del poder disciplinario a los concejos municipales
   <!-- feedback: Los concejos ejercen control político, no disciplinario. -->
 
@@ -340,8 +316,6 @@ El fenómeno de "veedurías de alquiler" evidencia que el control social
   <!-- feedback: La veeduría se comunica, no se solicita en permiso: el artículo 40 no supedita su ejercicio a autorizaciones. -->
 - [x] C) Depende de la integridad, la independencia y las capacidades de quienes lo ejercen, y requiere reglas de transparencia también para los vigilantes
   <!-- feedback: Correcto. El control social no es virtuoso por naturaleza: exige legitimidad, formación y rendición de cuentas propia. -->
-
-
 - [ ] D) Solo es válido cuando lo promueve la personería municipal
   <!-- feedback: Las personerías facilitan y orientan, pero la iniciativa ciudadana es autónoma. -->
 
@@ -365,8 +339,6 @@ La "cultura de la denuncia sin consecuencia" afecta al sistema de control porque
   <!-- feedback: Correcto. Sin respuesta, la participación se erosionan y el sistema pierde su legitimidad efectiva. -->
 - [ ] C) Elimina la necesidad de control interno en las entidades
   <!-- feedback: La falta de respuesta agrava la necesidad, no la suprime. -->
-
-
 - [ ] D) Hace innecesarios los medios de comunicación en democracia
   <!-- feedback: La opacidad institucional refuerza, no elimina, la función de los medios como contrapoder. -->
 
@@ -390,8 +362,6 @@ El análisis de las declaraciones de bienes y conflicto de interés revela su va
   <!-- feedback: Correcto. La utilidad del dato está en el cruce sistemático, no en la ficha individual. -->
 - [ ] C) Sustituir las auditorías fiscales de la Contraloría
   <!-- feedback: La transparencia complementa la auditoría; no la reemplaza. -->
-
-
 - [ ] D) Acreditar la riqueza para otorgar privilegios electorales
   <!-- feedback: La Constitución prohíbe privilegios por condición económica; la igualdad es regla (artículo 13). -->
 
@@ -415,8 +385,6 @@ Este caso ilustra el principal riesgo estructural del control social en territor
   <!-- feedback: Correcto. Denunciar puede costar el trabajo, la tranquilidad o la vida, sobre todo en contextos de captura local y conflicto. -->
 - [ ] C) La ausencia total de personerías en los municipios
   <!-- feedback: Las personerías existen por mandato constitucional; el problema es su debilidad y riesgo, no su inexistencia. -->
-
-
 - [ ] D) El exceso de presupuesto destinado a veedurías
   <!-- feedback: Las veedurías se sostienen con trabajo voluntario; casi no existe rubro presupuestal que las financie. -->
 
@@ -434,14 +402,12 @@ En municipios pequeños con economías concentradas y presencia de grupos armado
 La evaluación más rigurosa de esta afirmación sostiene que
 
 ### Opciones
+- [x] A) Es incompleta: el control funciona cuando los órganos tienen independencia, capacidades y consecuencias, y se articulan con una ciudadanía informada y protegida
+  <!-- feedback: Correcto. La integridad del sistema depende de la articulación de control estatal y social con sanciones creíbles. -->
 - [ ] B) Es verdadera: basta aumentar el número de órganos de control para erradicar la corrupción
   <!-- feedback: La evidencia muestra que sin sanciones efectivas y voluntad política, más órganos producen más informes, no menos corrupción. -->
 - [ ] C) Es falsa: el control institucional es irrelevante frente a la cultura ciudadana
   <!-- feedback: Extremo opuesto: sin instituciones de control, la cultura ciudadana carece de efectos disuasivos y reparadores. -->
-- [x] A) Es incompleta: el control funciona cuando los órganos tienen independencia, capacidades y consecuencias, y se articulan con una ciudadanía informada y protegida
-  <!-- feedback: Correcto. La integridad del sistema depende de la articulación de control estatal y social con sanciones creíbles. -->
-
-
 - [ ] D) Es innecesaria, porque Colombia ya eliminó la corrupción en la Constitución
   <!-- feedback: Prohibir no es erradicar: la norma declara el delito, la realidad institucional lo combate. -->
 
@@ -465,8 +431,6 @@ El argumento constitucional contra la reaparición masiva del control fiscal pre
   <!-- feedback: Correcto. La regla del sistema es el control posterior con responsabilidad del gestor; el retorno al previo masivo generaría parálisis y corresponsabilidad burocrática. -->
 - [ ] C) El control posterior es más costoso que el previo por definición matemática
   <!-- feedback: No hay teorema que lo demuestre: los costos dependen del diseño de ambos sistemas. -->
-
-
 - [ ] D) Los gestores públicos son incapaces de asumir responsabilidad alguna
   <!-- feedback: Menosprecia al funcionario honesto; el sistema parte de la responsabilidad, no de la incapacidad. -->
 
@@ -486,14 +450,12 @@ La distinción ética y constitucional entre control social a la gestión públi
 ### Opciones
 - [ ] A) Ambas son idénticas, porque en las dos hay información de por medio
   <!-- feedback: La identidad formal del dato oculta una diferencia esencial de poder, dirección y límites. -->
-- [x] D) El control social vigila el ejercicio del poder público con base en la publicidad de la función estatal (artículo 74), mientras la vigilancia masiva invierte el vector y puede violar la intimidad (artículo 15) si no media ley estricta y proporcional
-  <!-- feedback: Correcto. La dirección del ojo y el marco de derechos marcan la frontera. -->
 - [ ] B) La vigilancia estatal es siempre legítima porque la ejecuta el Presidente
   <!-- feedback: Ninguna autoridad está fuera de la Constitución; la interceptación exige orden judicial (artículo 15). -->
-
-
 - [ ] C) El control social solo puede ejercerlo la fuerza pública
   <!-- feedback: El control social es por definición ciudadano, no policial. -->
+- [x] D) El control social vigila el ejercicio del poder público con base en la publicidad de la función estatal (artículo 74), mientras la vigilancia masiva invierte el vector y puede violar la intimidad (artículo 15) si no media ley estricta y proporcional
+  <!-- feedback: Correcto. La dirección del ojo y el marco de derechos marcan la frontera. -->
 
 ### Explicacion Pedagogica
 Tecnologías como el reconocimiento facial o los big data policiales abren el debate sobre el "ojo del Estado". El control social es un derecho del débil sobre el fuerte: transparencia debida al que gobierna. La vigilancia sin control jurídico es poder del fuerte sobre el débil: intimidad e información personal en riesgo. La Constitución traza la frontera con la publicidad de lo público (artículo 74), la reserva de lo privado (artículo 15) y la exigencia de orden judicial para intervenir comunicaciones.
@@ -509,14 +471,12 @@ Tecnologías como el reconocimiento facial o los big data policiales abren el de
 Como formación ciudadana integral, el juicio más sólido sobre el control social en una democracia es que
 
 ### Opciones
+- [x] A) Es una responsabilidad compartida e insustituible: requiere derechos informados, instituciones con consecuencias y una cultura que valore la honestidad como bien público
+  <!-- feedback: Correcto. El control social eficaz es sistema, no gesto: información, participación, sanción y cultura. -->
 - [ ] B) Es tarea exclusiva de organismos especializados, pues la ciudadanía no tiene competencia para vigilar
   <!-- feedback: El artículo 40 reconoce la competencia ciudadana; la especialización institucional es complemento, no sustituto. -->
 - [ ] C) Es un ritual simbólico sin efectos materiales sobre la gestión pública
   <!-- feedback: La evidencia colombiana muestra obras corregidas, contratos suspendidos y funcionarios sancionados por presión de controles ciudadanos organizados. -->
-- [x] A) Es una responsabilidad compartida e insustituible: requiere derechos informados, instituciones con consecuencias y una cultura que valore la honestidad como bien público
-  <!-- feedback: Correcto. El control social eficaz es sistema, no gesto: información, participación, sanción y cultura. -->
-
-
 - [ ] D) Debe limitarse a las grandes ciudades para evitar riesgos locales
   <!-- feedback: El control social es más necesario donde el Estado es más débil; limitarlo por riesgo sería premiar la opacidad. -->
 

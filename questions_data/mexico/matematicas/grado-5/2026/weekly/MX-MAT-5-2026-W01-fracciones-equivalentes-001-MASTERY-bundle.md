@@ -51,14 +51,14 @@ Una fracción expresa partes de un todo: el denominador indica en cuántas parte
 ¿Por qué 2/5 y 4/10 son fracciones equivalentes?
 
 ### Opciones
-- [x] D) Porque al multiplicar numerador y denominador de 2/5 por 2 se obtiene 4/10
-  <!-- feedback: Multiplicar (o dividir) numerador y denominador por el mismo número no cambia el valor de la fracción: 2×2 = 4 y 5×2 = 10. -->
 - [ ] A) Porque 4 es el doble de 2
   <!-- feedback: Comparar solo los numeradores ignora el denominador; la equivalencia requiere el mismo factor en ambos términos. -->
 - [ ] B) Porque 10 − 4 = 6 y 5 − 2 = 3
   <!-- feedback: Restar las partes no tiene relación con el concepto de equivalencia entre fracciones. -->
 - [ ] C) Porque ambas están escritas con números pares
   <!-- feedback: La paridad de las cifras no determina el valor de una fracción; 1/3 y 2/6 son equivalentes con números impares. -->
+- [x] D) Porque al multiplicar numerador y denominador de 2/5 por 2 se obtiene 4/10
+  <!-- feedback: Multiplicar (o dividir) numerador y denominador por el mismo número no cambia el valor de la fracción: 2×2 = 4 y 5×2 = 10. -->
 
 ### Explicacion Pedagogica
 Dos fracciones son equivalentes cuando representan la misma cantidad. La propiedad fundamental dice que multiplicar o dividir numerador y denominador por el mismo número distinto de cero genera una fracción equivalente: 2/5 = 4/10.
@@ -73,14 +73,14 @@ Dos fracciones son equivalentes cuando representan la misma cantidad. La propied
 ¿Cuál es la fracción 6/14 simplificada?
 
 ### Opciones
-- [x] D) 3/7
-  <!-- feedback: El máximo común divisor de 6 y 14 es 2; al dividir ambos términos entre 2 queda 3/7. -->
 - [ ] A) 2/7
   <!-- feedback: 6 ÷ 3 = 2 pero 14 no es divisible entre 3; el divisor común correcto es 2. -->
 - [ ] B) 6/7
   <!-- feedback: Dividir solo el denominador entre 2 altera el valor de la fracción; ambos términos deben dividirse entre el mismo número. -->
 - [ ] C) 4/7
   <!-- feedback: 4/7 no es equivalente a 6/14 porque 6 ÷ 2 = 3, no 4. -->
+- [x] D) 3/7
+  <!-- feedback: El máximo común divisor de 6 y 14 es 2; al dividir ambos términos entre 2 queda 3/7. -->
 
 ### Explicacion Pedagogica
 Simplificar consiste en dividir numerador y denominador entre un mismo divisor común hasta que ya no exista ninguno. En 6/14 el divisor común mayor es 2, así que la forma simplificada es 3/7.
@@ -117,10 +117,10 @@ Para comparar fracciones con distinto denominador se transforman en equivalentes
 ¿Quién completó una mayor proporción?
 
 ### Opciones
-- [x] B) Carlos, porque 3/5 = 24/40 y 5/8 = 25/40, y 25 es mayor que 24
-  <!-- feedback: Con denominador común 40: 3/5 = 24/40 y 5/8 = 25/40; como 25 es mayor que 24, Carlos completó más. -->
 - [ ] A) Ximena, porque 3/5 = 24/40 y 5/8 = 25/40, y 24 > 25
   <!-- feedback: Las equivalencias están bien calculadas pero la comparación final es falsa: 24 no es mayor que 25. -->
+- [x] B) Carlos, porque 3/5 = 24/40 y 5/8 = 25/40, y 25 es mayor que 24
+  <!-- feedback: Con denominador común 40: 3/5 = 24/40 y 5/8 = 25/40; como 25 es mayor que 24, Carlos completó más. -->
 - [ ] C) Carlos, porque 3/5 = 15/40 y 5/8 = 20/40
   <!-- feedback: La amplificación de 3/5 está mal: 3 × 8 = 24, no 15; conviene recalcular ambas equivalencias. -->
 - [ ] D) Los dos completaron lo mismo
@@ -139,14 +139,14 @@ Comparar 3/5 y 5/8 exige un denominador común: mcm(5, 8) = 40. Entonces 3/5 = 2
 ¿Cuántas jícaras de 1/6 debe llenar Carlos para medir 2/3 de taza?
 
 ### Opciones
-- [x] D) 4
-  <!-- feedback: 2/3 = 4/6 al amplificar por 2, así que se necesitan 4 jícaras de 1/6. -->
 - [ ] A) 2
   <!-- feedback: 2 jícaras de 1/6 son 2/6 = 1/3, la mitad de lo que pide la receta. -->
 - [ ] B) 3
   <!-- feedback: 3/6 = 1/2, que es menor que 2/3; falta una jicara más. -->
 - [ ] C) 6
   <!-- feedback: 6/6 = 1 taza completa; la receta pide solo dos tercios. -->
+- [x] D) 4
+  <!-- feedback: 2/3 = 4/6 al amplificar por 2, así que se necesitan 4 jícaras de 1/6. -->
 
 ### Explicacion Pedagogica
 Para expresar 2/3 en sextos se amplifica numerador y denominador por 2: 2/3 = 4/6. Analizar el problema como "¿cuántos seis-avos hay en dos tercios?" conecta la equivalencia con la división entre fracciones que se verá en grados mayores.
@@ -161,14 +161,14 @@ Para expresar 2/3 en sextos se amplifica numerador y denominador por 2: 2/3 = 4/
 ¿Tiene razón Guadalupe?
 
 ### Opciones
-- [x] D) Sí, porque 9/12 se simplifica dividiendo ambos términos entre 3 y da 3/4
-  <!-- feedback: 9 ÷ 3 = 3 y 12 ÷ 3 = 4, así que 9/12 = 3/4; lo que usó fue 9 de 12 tiras. -->
 - [ ] A) No, porque 9/12 es igual a 2/3
   <!-- feedback: 2/3 = 8/12, no 9/12; la simplificación correcta de 9/12 es 3/4. -->
 - [ ] B) No, porque 9/12 solo puede escribirse como 1/3
   <!-- feedback: 1/3 = 4/12; dividir 9 entre 12 no da 1 entre 3. -->
 - [ ] C) Sí, porque el 9 y el 12 terminan en cifras que son múltiplos de 4
   <!-- feedback: La conclusión acierta pero la razón es falsa; lo que valida la igualdad es dividir ambos términos entre 3. -->
+- [x] D) Sí, porque 9/12 se simplifica dividiendo ambos términos entre 3 y da 3/4
+  <!-- feedback: 9 ÷ 3 = 3 y 12 ÷ 3 = 4, así que 9/12 = 3/4; lo que usó fue 9 de 12 tiras. -->
 
 ### Explicacion Pedagogica
 Determinar si dos expresiones fraccionarias son iguales exige simplificar o amplificar correctamente. Como 9/12 = (9 ÷ 3)/(12 ÷ 3) = 3/4, la afirmación de Guadalupe es correcta; también importa saber justificar por qué, y no solo el sí o el no.
@@ -183,13 +183,13 @@ Determinar si dos expresiones fraccionarias son iguales exige simplificar o ampl
 ¿Cuál evaluación es correcta?
 
 ### Opciones
-- [x] D) La de Beto: 12/18 no es mínima y al dividir entre 6 queda 2/3
-  <!-- feedback: El máximo común divisor de 12 y 18 es 6; 12/18 = 2/3, que sí es la forma mínima. -->
 - [ ] A) La de Ana: 12 y 18 ya no comparten divisores
   <!-- feedback: Ambos son divisibles entre 2, entre 3 y entre 6; la fracción admite simplificación. -->
 - [ ] B) La de Carla: dividir entre 2 y quedarse en 6/9 es la forma mínima
   <!-- feedback: 6/9 aún se puede simplificar entre 3; una forma mínima no deja divisores comunes. -->
-- [ ] C) Ninguna, porque la forma mínima es 4/6
+- [x] C) La de Beto: 12/18 no es mínima y al dividir entre 6 queda 2/3
+  <!-- feedback: El máximo común divisor de 12 y 18 es 6; 12/18 = 2/3, que sí es la forma mínima. -->
+- [ ] D) Ninguna, porque la forma mínima es 4/6
   <!-- feedback: 4/6 sigue teniendo divisor común 2; la forma mínima real es 2/3. -->
 
 ### Explicacion Pedagogica
