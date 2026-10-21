@@ -70,8 +70,8 @@ jobs:
           echo "Checking language on ${#FILES[@]} file(s)"
           node scripts/check-feedback-language.mjs "${FILES[@]}"
 
-      - name: Pack manifest freshness (warning only; deploy regenerates it)
-        run: node apps/worldexams-api/scripts/build-pack-manifest.mjs --check || echo "::warning::apps/worldexams-api/public/v1/packs/_manifest.json is stale — production deploy regenerates it; run the script to update the committed copy."
+      - name: Pack manifest freshness (blocking)
+        run: node apps/worldexams-api/scripts/build-pack-manifest.mjs --check
 
       - name: Vitest — API worker + question pipeline
         run: npx vitest run apps/worldexams-api/tests saberparatodos/src/lib
@@ -79,6 +79,10 @@ jobs:
       - name: Vitest — app unit suite
         working-directory: saberparatodos
         run: npx vitest run tests/unit --retry=2
+
+      - name: Astro check
+        working-directory: saberparatodos
+        run: npx astro check
 
       # Nombre de rama -> fragmento valido para nombre de Worker / etiqueta DNS
       # de *.workers.dev: solo [a-z0-9-], sin guiones en los extremos y con
@@ -243,6 +247,53 @@ jobs:
         env:
           APP_URL: ${{ steps.resolve.outputs.url }}
         run: bash scripts/deploy-smoke.sh
+
+  e2e-preview:
+    if: github.event_name != 'pull_request'
+    needs: [deploy-preview, smoke-test]
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    # Informativo mientras el sprint de estabilidad (#1709) entra en main;
+    # después debe bloquear.
+    continue-on-error: true
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Resolve preview URL
+        id: resolve
+        run: |
+          URL="${{ needs.deploy-preview.outputs.preview_url }}"
+          echo "url=$URL" >> "$GITHUB_OUTPUT"
+          echo "Preview URL: $URL"
+
+      - name: Install Playwright chromium
+        working-directory: saberparatodos
+        run: npx playwright install --with-deps chromium
+
+      - name: Run E2E against preview
+        working-directory: saberparatodos
+        env:
+          PLAYWRIGHT_BASE_URL: ${{ steps.resolve.outputs.url }}
+        run: npx playwright test tests/e2e/student-exam-journey.spec.ts --project=chromium
+
+      - name: Upload test results
+        if: failure()
+        uses: actions/upload-artifact@v7
+        with:
+          name: playwright-test-results
+          path: saberparatodos/test-results
+          retention-days: 7
 
   delete-preview-workers:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
