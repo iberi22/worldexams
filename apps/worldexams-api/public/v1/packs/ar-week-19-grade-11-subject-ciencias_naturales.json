@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v1",
-      "statement": "Un zooplancton contiene $2\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
-      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 1.",
+      "statement": "¿Qué organismos cumplen el papel de productores en el pastizal pampeano?",
+      "context": "En un campo cercano a Azul, en la región pampeana, una escuela agraria estudia la red trófica del pastizal.",
       "options": [
         {
-          "letter": "D",
-          "text": "Concentración = $6\\text{ ppm}$",
-          "is_correct": true,
-          "feedback": "Correcto. $2 \\cdot 3 = 6\\text{ ppm}$ debido al proceso de biomagnificación."
-        },
-        {
           "letter": "A",
-          "text": "Concentración = $2\\text{ ppm}$",
+          "text": "Las vizcachas",
           "is_correct": false,
-          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+          "feedback": "Incorrecto. Las vizcachas comen pastos: son consumidores primarios, no fabrican su propio alimento."
         },
         {
           "letter": "B",
-          "text": "Concentración = $0,7\\text{ ppm}$",
+          "text": "Los halcones",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+          "feedback": "Incorrecto. Los halcones cazan otros animales: son consumidores secundarios o terciarios."
         },
         {
           "letter": "C",
-          "text": "Concentración = $0\\text{ ppm}$",
+          "text": "Las gramíneas (pastos)",
+          "is_correct": true,
+          "feedback": "Correcto. Los pastos hacen fotosíntesis y transforman la energía solar en materia orgánica: son productores."
+        },
+        {
+          "letter": "D",
+          "text": "Los hongos del suelo",
           "is_correct": false,
-          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+          "feedback": "Incorrecto. Los hongos degradan materia orgánica muerta: son descomponedores, no productores."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $2 \\cdot 3 = 6\\text{ ppm}$.\n\n---",
+      "correct_answer": "C",
+      "explanation": "Los productores son organismos autótrofos que, mediante la fotosíntesis, transforman la energía luminosa en energía química almacenada en materia orgánica. En el pastizal pampeano son las gramíneas; de ellos dependen herbívoros como vizcachas y carnívoros como los halcones.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.9,
+      "expected_success": 0.85,
       "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -54,41 +54,41 @@
     },
     {
       "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v2",
-      "statement": "Un zooplancton contiene $4\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
-      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 2.",
+      "statement": "¿Cuál es la función principal de los descomponedores en el ecosistema?",
+      "context": "En el Parque Nacional Lanín, los guardaparques muestran troncos caídos cubiertos de hongos y bacterias.",
       "options": [
         {
           "letter": "A",
-          "text": "Concentración = $12\\text{ ppm}$",
-          "is_correct": true,
-          "feedback": "Correcto. $4 \\cdot 3 = 12\\text{ ppm}$ debido al proceso de biomagnificación."
+          "text": "Producir glucosa mediante fotosíntesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hongos y la mayoría de las bacterias descomponedoras no tienen clorofila; no hacen fotosíntesis."
         },
         {
           "letter": "B",
-          "text": "Concentración = $4\\text{ ppm}$",
+          "text": "Alimentarse sólo de animales herbívoros vivos.",
           "is_correct": false,
-          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+          "feedback": "Incorrecto. Eso describe a un consumidor secundario, no a un descomponedor que usa materia muerta."
         },
         {
           "letter": "C",
-          "text": "Concentración = $1,3\\text{ ppm}$",
+          "text": "Captar la energía solar y almacenarla.",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+          "feedback": "Incorrecto. Captar energía solar es tarea de los productores; los descomponedores obtienen energía de restos orgánicos."
         },
         {
           "letter": "D",
-          "text": "Concentración = $0\\text{ ppm}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+          "text": "Degradar la materia orgánica muerta y devolver nutrientes minerales al suelo.",
+          "is_correct": true,
+          "feedback": "Correcto. Al descomponer restos, liberan nitrógeno, fósforo y otros nutrientes que vuelven a usar las plantas."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $4 \\cdot 3 = 12\\text{ ppm}$.\n\n---",
+      "correct_answer": "D",
+      "explanation": "Los descomponedores (hongos y bacterias) transforman restos de organismos en sustancias inorgánicas simples. Así cierran los ciclos de la materia: los nutrientes vuelven al suelo y los productores pueden reutilizarlos. Sin ellos, la materia orgánica muerta se acumularía.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.88,
+      "expected_success": 0.83,
       "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -99,41 +99,41 @@
     },
     {
       "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v3",
-      "statement": "Un zooplancton contiene $6\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
-      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 3.",
+      "statement": "¿Cómo se llama la ecorregión de selva de montaña húmeda del noroeste argentino?",
+      "context": "Un grupo de estudiantes de Tucumán planea una salida a una selva de montaña con neblinas frecuentes en las laderas orientales de los Andes.",
       "options": [
         {
-          "letter": "D",
-          "text": "Concentración = $18\\text{ ppm}$",
-          "is_correct": true,
-          "feedback": "Correcto. $6 \\cdot 3 = 18\\text{ ppm}$ debido al proceso de biomagnificación."
-        },
-        {
           "letter": "A",
-          "text": "Concentración = $6\\text{ ppm}$",
+          "text": "Estepa patagónica",
           "is_correct": false,
-          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+          "feedback": "Incorrecto. La estepa patagónica es una región árida y ventosa del sur, con arbustos y pastos bajos."
         },
         {
           "letter": "B",
-          "text": "Concentración = $2,0\\text{ ppm}$",
+          "text": "Puna",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+          "feedback": "Incorrecto. La Puna es una meseta de altura, fría y muy seca, sin selvas."
         },
         {
           "letter": "C",
-          "text": "Concentración = $0\\text{ ppm}$",
+          "text": "Pampa",
           "is_correct": false,
-          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+          "feedback": "Incorrecto. La Pampa es una llanura de pastizales templados en el centro-este del país."
+        },
+        {
+          "letter": "D",
+          "text": "Yungas",
+          "is_correct": true,
+          "feedback": "Correcto. Las Yungas son selvas subtropicales de montaña en Salta, Jujuy, Tucumán y Catamarca, con mucha humedad."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $6 \\cdot 3 = 18\\text{ ppm}$.\n\n---",
+      "explanation": "Las Yungas, o selva tucumano-oranense, se extienden en las laderas orientales de las sierras del NOA. Los vientos húmedos chocan contra las montañas y producen lluvias y neblinas, lo que permite una selva con gran biodiversidad: es una de las ecorregiones más diversas de la Argentina.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.86,
+      "expected_success": 0.81,
       "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v4",
-      "statement": "Un zooplancton contiene $8\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
-      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 4.",
+      "statement": "¿Por qué el castor se considera una especie exótica invasora en Tierra del Fuego?",
+      "context": "En Tierra del Fuego los castores derriban árboles de lenga para construir sus diques en los ríos.",
       "options": [
         {
-          "letter": "C",
-          "text": "Concentración = $24\\text{ ppm}$",
-          "is_correct": true,
-          "feedback": "Correcto. $8 \\cdot 3 = 24\\text{ ppm}$ debido al proceso de biomagnificación."
-        },
-        {
           "letter": "A",
-          "text": "Concentración = $8\\text{ ppm}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+          "text": "Porque fue introducido por las personas desde Norteamérica en 1946 y se expandió sin depredadores naturales, alterando los bosques y ríos.",
+          "is_correct": true,
+          "feedback": "Correcto. Una especie invasora es exótica, introducida por el ser humano, y se expande causando daños al ecosistema."
         },
         {
           "letter": "B",
-          "text": "Concentración = $2,7\\text{ ppm}$",
+          "text": "Porque es una especie nativa que siempre habitó la isla.",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+          "feedback": "Incorrecto. El castor no es nativo de Sudamérica; llegó desde Canadá traído por personas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque es una especie en peligro de extinción que se debe proteger.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la isla su población creció a más de cien mil individuos; no está amenazado allí."
         },
         {
           "letter": "D",
-          "text": "Concentración = $0\\text{ ppm}$",
+          "text": "Porque es un productor que compite con los árboles por la luz.",
           "is_correct": false,
-          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+          "feedback": "Incorrecto. El castor es un animal herbívoro; no hace fotosíntesis ni compite por luz."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $8 \\cdot 3 = 24\\text{ ppm}$.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Una especie exótica invasora es aquella introducida fuera de su área natural que se propaga y daña el ecosistema. En 1946 se liberaron unos 50 castores canadienses para la industria peletera. Sin pumas ni lobos que los controlaran, se multiplicaron y hoy inundan y destruyen bosques de lenga y ñire.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.84,
+      "expected_success": 0.79,
       "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -189,216 +189,36 @@
     },
     {
       "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v5",
-      "statement": "Un zooplancton contiene $10\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
-      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 5.",
+      "statement": "Aplicando la regla del 10 %, ¿cuánta energía llega a los consumidores secundarios si los productores fijan 20 000 kJ?",
+      "context": "En la estepa de Santa Cruz se estudia la cadena pasto → guanaco → puma, donde el puma es el consumidor secundario.",
       "options": [
         {
-          "letter": "D",
-          "text": "Concentración = $30\\text{ ppm}$",
-          "is_correct": true,
-          "feedback": "Correcto. $10 \\cdot 3 = 30\\text{ ppm}$ debido al proceso de biomagnificación."
-        },
-        {
           "letter": "A",
-          "text": "Concentración = $10\\text{ ppm}$",
+          "text": "2000 kJ",
           "is_correct": false,
-          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+          "feedback": "Incorrecto. 2000 kJ es la energía de los consumidores primarios; faltó aplicar el 10 % una vez más."
         },
         {
           "letter": "B",
-          "text": "Concentración = $3,3\\text{ ppm}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
-        },
-        {
-          "letter": "C",
-          "text": "Concentración = $0\\text{ ppm}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $10 \\cdot 3 = 30\\text{ ppm}$.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.82,
-      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v6",
-      "statement": "Un zooplancton contiene $12\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
-      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 6.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Concentración = $36\\text{ ppm}$",
+          "text": "200 kJ",
           "is_correct": true,
-          "feedback": "Correcto. $12 \\cdot 3 = 36\\text{ ppm}$ debido al proceso de biomagnificación."
-        },
-        {
-          "letter": "A",
-          "text": "Concentración = $12\\text{ ppm}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+          "feedback": "Correcto. 20 000 × 0,1 = 2000 kJ (primarios) y 2000 × 0,1 = 200 kJ (secundarios)."
         },
         {
           "letter": "C",
-          "text": "Concentración = $4,0\\text{ ppm}$",
+          "text": "20 kJ",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+          "feedback": "Incorrecto. Se aplicó el 10 % tres veces; 20 kJ correspondería a los consumidores terciarios."
         },
         {
           "letter": "D",
-          "text": "Concentración = $0\\text{ ppm}$",
+          "text": "18 000 kJ",
           "is_correct": false,
-          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+          "feedback": "Incorrecto. 18 000 kJ es la energía que se pierde (90 %) en la primera transferencia, no la que pasa."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $12 \\cdot 3 = 36\\text{ ppm}$.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v7",
-      "statement": "Un zooplancton contiene $14\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
-      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 7.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Concentración = $42\\text{ ppm}$",
-          "is_correct": true,
-          "feedback": "Correcto. $14 \\cdot 3 = 42\\text{ ppm}$ debido al proceso de biomagnificación."
-        },
-        {
-          "letter": "A",
-          "text": "Concentración = $14\\text{ ppm}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
-        },
-        {
-          "letter": "B",
-          "text": "Concentración = $4,7\\text{ ppm}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
-        },
-        {
-          "letter": "D",
-          "text": "Concentración = $0\\text{ ppm}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $14 \\cdot 3 = 42\\text{ ppm}$.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.78,
-      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v8",
-      "statement": "Un zooplancton contiene $16\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
-      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 8.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Concentración = $48\\text{ ppm}$",
-          "is_correct": true,
-          "feedback": "Correcto. $16 \\cdot 3 = 48\\text{ ppm}$ debido al proceso de biomagnificación."
-        },
-        {
-          "letter": "B",
-          "text": "Concentración = $16\\text{ ppm}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
-        },
-        {
-          "letter": "C",
-          "text": "Concentración = $5,3\\text{ ppm}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
-        },
-        {
-          "letter": "D",
-          "text": "Concentración = $0\\text{ ppm}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $16 \\cdot 3 = 48\\text{ ppm}$.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.76,
-      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v9",
-      "statement": "Un zooplancton contiene $18\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
-      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 9.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Concentración = $54\\text{ ppm}$",
-          "is_correct": true,
-          "feedback": "Correcto. $18 \\cdot 3 = 54\\text{ ppm}$ debido al proceso de biomagnificación."
-        },
-        {
-          "letter": "A",
-          "text": "Concentración = $18\\text{ ppm}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
-        },
-        {
-          "letter": "B",
-          "text": "Concentración = $6,0\\text{ ppm}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
-        },
-        {
-          "letter": "D",
-          "text": "Concentración = $0\\text{ ppm}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $18 \\cdot 3 = 54\\text{ ppm}$.\n\n---",
+      "explanation": "Según la regla del 10 %, sólo alrededor de una décima parte de la energía de un nivel trófico pasa al siguiente. Productores 20 000 kJ → consumidores primarios 2000 kJ → consumidores secundarios 200 kJ.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -413,38 +233,38 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v10",
-      "statement": "Un zooplancton contiene $20\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
-      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 10.",
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v6",
+      "statement": "¿Qué nivel trófico ocupa el zorro gris en esta cadena?",
+      "context": "En el Parque Nacional Lihué Calel (La Pampa) se describe la cadena: pasto → liebre → zorro gris → puma.",
       "options": [
         {
-          "letter": "C",
-          "text": "Concentración = $60\\text{ ppm}$",
-          "is_correct": true,
-          "feedback": "Correcto. $20 \\cdot 3 = 60\\text{ ppm}$ debido al proceso de biomagnificación."
-        },
-        {
           "letter": "A",
-          "text": "Concentración = $20\\text{ ppm}$",
+          "text": "Productor (primer nivel)",
           "is_correct": false,
-          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+          "feedback": "Incorrecto. El productor es el pasto, que hace fotosíntesis; el zorro es un animal que caza."
         },
         {
           "letter": "B",
-          "text": "Concentración = $6,7\\text{ ppm}$",
+          "text": "Consumidor primario (segundo nivel)",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+          "feedback": "Incorrecto. El consumidor primario es la liebre, que come pasto; el zorro come a la liebre."
+        },
+        {
+          "letter": "C",
+          "text": "Consumidor secundario (tercer nivel)",
+          "is_correct": true,
+          "feedback": "Correcto. El zorro se alimenta de un herbívoro (la liebre), así que ocupa el tercer nivel trófico."
         },
         {
           "letter": "D",
-          "text": "Concentración = $0\\text{ ppm}$",
+          "text": "Consumidor terciario (cuarto nivel)",
           "is_correct": false,
-          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+          "feedback": "Incorrecto. El cuarto nivel lo ocupa el puma, que come al zorro."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $20 \\cdot 3 = 60\\text{ ppm}$.\n\n---",
-      "difficulty": "6",
+      "explanation": "En la cadena, cada eslabón es un nivel trófico: pasto (productor, nivel 1), liebre (consumidor primario, nivel 2), zorro gris (consumidor secundario, nivel 3) y puma (consumidor terciario, nivel 4).",
+      "difficulty": "1",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -458,41 +278,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v11",
-      "statement": "Un zooplancton contiene $22\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
-      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 11.",
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la eficiencia de transferencia de energía entre esos dos niveles?",
+      "context": "En una laguna de Chascomús se midió que el fitoplancton fija 12 000 kJ y el zooplancton que lo consume incorpora 960 kJ.",
       "options": [
         {
           "letter": "A",
-          "text": "Concentración = $66\\text{ ppm}$",
-          "is_correct": true,
-          "feedback": "Correcto. $22 \\cdot 3 = 66\\text{ ppm}$ debido al proceso de biomagnificación."
+          "text": "12,5 %",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió 12 000 por 960; la eficiencia es la energía del nivel superior sobre la del nivel inferior."
         },
         {
           "letter": "B",
-          "text": "Concentración = $22\\text{ ppm}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+          "text": "8 %",
+          "is_correct": true,
+          "feedback": "Correcto. Eficiencia = 960 / 12 000 × 100 = 8 %."
         },
         {
           "letter": "C",
-          "text": "Concentración = $7,3\\text{ ppm}$",
+          "text": "92 %",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+          "feedback": "Incorrecto. 92 % es la fracción de energía que no pasa al zooplancton, no la que se transfiere."
         },
         {
           "letter": "D",
-          "text": "Concentración = $0\\text{ ppm}$",
+          "text": "0,08 %",
           "is_correct": false,
-          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+          "feedback": "Incorrecto. 960 / 12 000 = 0,08 es la fracción; para expresarla en porcentaje hay que multiplicar por 100."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $22 \\cdot 3 = 66\\text{ ppm}$.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "La eficiencia de transferencia es (energía en el nivel superior / energía en el nivel inferior) × 100 = 960 / 12 000 × 100 = 8 %. Es un valor cercano al 10 % típico: el resto se pierde en respiración, calor y materia no consumida.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.7,
       "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
       "periodo": 19,
@@ -503,41 +323,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v12",
-      "statement": "Un zooplancton contiene $24\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
-      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 12.",
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v8",
+      "statement": "¿En cuál de ellos se espera la mayor concentración del plaguicida?",
+      "context": "En una laguna bonaerense se midió un plaguicida persistente en el agua, en el plancton, en peces pequeños y en biguás que comen peces.",
       "options": [
         {
           "letter": "A",
-          "text": "Concentración = $72\\text{ ppm}$",
-          "is_correct": true,
-          "feedback": "Correcto. $24 \\cdot 3 = 72\\text{ ppm}$ debido al proceso de biomagnificación."
+          "text": "En el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el agua la concentración es la más baja: desde allí el plaguicida se va acumulando en los organismos."
         },
         {
           "letter": "B",
-          "text": "Concentración = $24\\text{ ppm}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+          "text": "En los biguás",
+          "is_correct": true,
+          "feedback": "Correcto. Los biguás están en el nivel trófico más alto y acumulan lo ingerido con todos los peces que comen."
         },
         {
           "letter": "C",
-          "text": "Concentración = $8,0\\text{ ppm}$",
+          "text": "En el plancton",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+          "feedback": "Incorrecto. El plancton concentra el plaguicida respecto del agua, pero está en la base de la cadena."
         },
         {
           "letter": "D",
-          "text": "Concentración = $0\\text{ ppm}$",
+          "text": "En los peces pequeños",
           "is_correct": false,
-          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+          "feedback": "Incorrecto. Los peces lo acumulan más que el plancton, pero menos que el ave que se come muchos peces."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $24 \\cdot 3 = 72\\text{ ppm}$.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Las sustancias persistentes y solubles en grasa (como el DDT o algunos organoclorados) no se degradan ni se excretan con facilidad. Se acumulan en cada organismo y se concentran al subir en la cadena (biomagnificación), por eso los depredadores tope, como los biguás, tienen los niveles más altos.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.68,
       "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
       "periodo": 19,
@@ -548,41 +368,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v13",
-      "statement": "Un zooplancton contiene $26\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
-      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 13.",
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v9",
+      "statement": "¿Qué proceso del ciclo del carbono retira CO₂ de la atmósfera?",
+      "context": "En los bosques andino-patagónicos de Chubut se mide el intercambio de CO₂ entre las plantas y la atmósfera.",
       "options": [
         {
-          "letter": "C",
-          "text": "Concentración = $78\\text{ ppm}$",
-          "is_correct": true,
-          "feedback": "Correcto. $26 \\cdot 3 = 78\\text{ ppm}$ debido al proceso de biomagnificación."
-        },
-        {
           "letter": "A",
-          "text": "Concentración = $26\\text{ ppm}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+          "text": "La fotosíntesis",
+          "is_correct": true,
+          "feedback": "Correcto. Las plantas toman CO₂ y lo transforman en glucosa: 6 CO₂ + 6 H₂O → C₆H₁₂O₆ + 6 O₂."
         },
         {
           "letter": "B",
-          "text": "Concentración = $8,7\\text{ ppm}$",
+          "text": "La respiración celular",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+          "feedback": "Incorrecto. La respiración degrada glucosa y libera CO₂ a la atmósfera, lo contrario de retirarlo."
+        },
+        {
+          "letter": "C",
+          "text": "La combustión de nafta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quemar combustibles fósiles libera a la atmósfera carbono que estaba almacenado bajo tierra."
         },
         {
           "letter": "D",
-          "text": "Concentración = $0\\text{ ppm}$",
+          "text": "La descomposición de la materia orgánica",
           "is_correct": false,
-          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+          "feedback": "Incorrecto. Los descomponedores respiran y devuelven CO₂ al aire al degradar restos."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $26 \\cdot 3 = 78\\text{ ppm}$.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "En el ciclo del carbono, la fotosíntesis es el principal proceso que fija CO₂ atmosférico en materia orgánica. La respiración, la descomposición y la combustión hacen lo contrario: devuelven carbono a la atmósfera como CO₂.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.66,
       "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
       "periodo": 19,
@@ -593,41 +413,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v14",
-      "statement": "Un zooplancton contiene $28\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
-      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 14.",
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v10",
+      "statement": "Si la concentración se multiplica por 10 en cada paso de la cadena, ¿qué concentración se espera en el pez carnívoro?",
+      "context": "Un estudio en el delta del Paraná midió mercurio en el agua (0,001 ppm) y en una cadena de tres pasos: agua → plancton → pez pequeño → pez carnívoro.",
       "options": [
         {
-          "letter": "D",
-          "text": "Concentración = $84\\text{ ppm}$",
-          "is_correct": true,
-          "feedback": "Correcto. $28 \\cdot 3 = 84\\text{ ppm}$ debido al proceso de biomagnificación."
-        },
-        {
           "letter": "A",
-          "text": "Concentración = $28\\text{ ppm}$",
+          "text": "0,003 ppm",
           "is_correct": false,
-          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+          "feedback": "Incorrecto. Se sumó 0,001 tres veces; en la biomagnificación la concentración se multiplica en cada paso."
         },
         {
           "letter": "B",
-          "text": "Concentración = $9,3\\text{ ppm}$",
+          "text": "0,01 ppm",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+          "feedback": "Incorrecto. 0,01 ppm corresponde al plancton (un solo paso); faltan dos multiplicaciones por 10."
         },
         {
           "letter": "C",
-          "text": "Concentración = $0\\text{ ppm}$",
+          "text": "1 ppm",
+          "is_correct": true,
+          "feedback": "Correcto. 0,001 × 10 × 10 × 10 = 0,001 × 1000 = 1 ppm."
+        },
+        {
+          "letter": "D",
+          "text": "0,000001 ppm",
           "is_correct": false,
-          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+          "feedback": "Incorrecto. Se dividió por 1000 en vez de multiplicar; la concentración aumenta al subir de nivel."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $28 \\cdot 3 = 84\\text{ ppm}$.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "Se aplica el factor 10 en cada paso: plancton 0,001 × 10 = 0,01 ppm; pez pequeño 0,1 ppm; pez carnívoro 1 ppm. La concentración en el depredador es mil veces la del agua, y por eso se recomienda limitar el consumo de peces grandes.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.64,
       "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
       "periodo": 19,
@@ -638,82 +458,37 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v15",
-      "statement": "Un zooplancton contiene $30\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
-      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 15.",
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v11",
+      "statement": "¿Qué explica que haya muchos menos pumas que guanacos?",
+      "context": "En la estepa patagónica de Río Negro se cuentan miles de guanacos y sólo unos pocos pumas en la misma área.",
       "options": [
         {
           "letter": "A",
-          "text": "Concentración = $90\\text{ ppm}$",
-          "is_correct": true,
-          "feedback": "Correcto. $30 \\cdot 3 = 90\\text{ ppm}$ debido al proceso de biomagnificación."
+          "text": "Los pumas se reproducen con más frecuencia y luego mueren rápido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pumas tienen pocas crías y viven muchos años; la diferencia no se explica por su reproducción."
         },
         {
           "letter": "B",
-          "text": "Concentración = $30\\text{ ppm}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
-        },
-        {
-          "letter": "C",
-          "text": "Concentración = $10,0\\text{ ppm}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
-        },
-        {
-          "letter": "D",
-          "text": "Concentración = $0\\text{ ppm}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $30 \\cdot 3 = 90\\text{ ppm}$.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.62,
-      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v16",
-      "statement": "Un zooplancton contiene $32\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
-      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 16.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Concentración = $96\\text{ ppm}$",
+          "text": "En cada transferencia trófica sólo pasa alrededor del 10 % de la energía, y el resto se pierde como calor, así que hay poca energía disponible para los carnívoros.",
           "is_correct": true,
-          "feedback": "Correcto. $32 \\cdot 3 = 96\\text{ ppm}$ debido al proceso de biomagnificación."
-        },
-        {
-          "letter": "A",
-          "text": "Concentración = $32\\text{ ppm}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+          "feedback": "Correcto. Los pumas dependen de la energía que acumulan los guanacos, que es sólo una fracción de la de las plantas."
         },
         {
           "letter": "C",
-          "text": "Concentración = $10,7\\text{ ppm}$",
+          "text": "Los pumas son productores y necesitan más espacio para la fotosíntesis.",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+          "feedback": "Incorrecto. Los pumas son carnívoros (consumidores), no hacen fotosíntesis."
         },
         {
           "letter": "D",
-          "text": "Concentración = $0\\text{ ppm}$",
+          "text": "La energía se recicla y vuelve a los productores, por eso se acumula en los herbívoros.",
           "is_correct": false,
-          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+          "feedback": "Incorrecto. La energía no se recicla: fluye en una dirección y se disipa como calor; lo que se recicla es la materia."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $32 \\cdot 3 = 96\\text{ ppm}$.\n\n---",
+      "explanation": "El flujo de energía es unidireccional y en cada nivel trófico se pierde la mayor parte como calor por la respiración. Con menos energía disponible en los niveles altos, sólo se pueden sostener poblaciones pequeñas de carnívoros: por eso la pirámide de números se angosta hacia arriba.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -728,41 +503,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v17",
-      "statement": "Un zooplancton contiene $34\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
-      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 17.",
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v12",
+      "statement": "¿Qué consecuencia ecológica directa tienen los diques de castor sobre el bosque fueguino?",
+      "context": "En el Parque Nacional Tierra del Fuego los guardaparques comparan zonas de bosque con y sin diques de castor.",
       "options": [
         {
-          "letter": "B",
-          "text": "Concentración = $102\\text{ ppm}$",
-          "is_correct": true,
-          "feedback": "Correcto. $34 \\cdot 3 = 102\\text{ ppm}$ debido al proceso de biomagnificación."
+          "letter": "A",
+          "text": "Aumentan la población de lengas porque el agua riega los árboles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua estancada ahoga las raíces y mata a los árboles, en lugar de favorecerlos."
         },
         {
-          "letter": "A",
-          "text": "Concentración = $34\\text{ ppm}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+          "letter": "B",
+          "text": "Inundan y matan bosques de lenga y ñire, especies que no evolucionaron con castores y se regeneran lentamente.",
+          "is_correct": true,
+          "feedback": "Correcto. Los árboles nativos no rebrotan como los de Norteamérica, y los claros inundados tardan décadas en recuperarse."
         },
         {
           "letter": "C",
-          "text": "Concentración = $11,3\\text{ ppm}$",
+          "text": "Mejoran el suelo y aceleran el crecimiento del bosque.",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+          "feedback": "Incorrecto. El anegamiento y la tala transforman bosques en pastizales y lagunas; no aceleran el crecimiento."
         },
         {
           "letter": "D",
-          "text": "Concentración = $0\\text{ ppm}$",
+          "text": "No tienen efectos, porque el castor es herbívoro.",
           "is_correct": false,
-          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+          "feedback": "Incorrecto. Ser herbívoro no impide causar daño: tala árboles y modifica el curso de los ríos."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $34 \\cdot 3 = 102\\text{ ppm}$.\n\n---",
-      "difficulty": "10",
+      "explanation": "Los castores construyen diques que forman lagunas y talan árboles para alimentarse y construir. Los bosques de Nothofagus (lenga, ñire) no evolucionaron con este ingeniero ecosistémico, no rebrotan bien y quedan áreas muertas: es uno de los mayores impactos de una especie invasora en la Patagonia.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.58,
       "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
       "periodo": 19,
@@ -773,41 +548,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v18",
-      "statement": "Un zooplancton contiene $36\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
-      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 18.",
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v13",
+      "statement": "¿Qué efecto tiene el desmonte sobre el ciclo del carbono?",
+      "context": "En el Chaco seco (Santiago del Estero y Salta) se desmontan bosques de quebracho para ampliar cultivos y ganadería.",
       "options": [
         {
-          "letter": "B",
-          "text": "Concentración = $108\\text{ ppm}$",
-          "is_correct": true,
-          "feedback": "Correcto. $36 \\cdot 3 = 108\\text{ ppm}$ debido al proceso de biomagnificación."
+          "letter": "A",
+          "text": "Disminuye el CO₂ atmosférico porque se elimina la respiración de los árboles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque se elimina la respiración, los árboles fijaban más CO₂ del que liberaban, y además el carbono del bosque se libera."
         },
         {
-          "letter": "A",
-          "text": "Concentración = $36\\text{ ppm}$",
+          "letter": "B",
+          "text": "No afecta el ciclo del carbono, porque los cultivos reemplazan a los árboles.",
           "is_correct": false,
-          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+          "feedback": "Incorrecto. Los cultivos anuales almacenan mucho menos carbono que un bosque nativo con troncos y raíces de muchos años."
         },
         {
           "letter": "C",
-          "text": "Concentración = $12,0\\text{ ppm}$",
+          "text": "Aumenta la fotosíntesis de la zona, porque hay más luz en el suelo.",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+          "feedback": "Incorrecto. Al eliminar los árboles, la biomasa fotosintética total disminuye mucho."
         },
         {
           "letter": "D",
-          "text": "Concentración = $0\\text{ ppm}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+          "text": "Libera el carbono almacenado en la madera (por quema o descomposición) y reduce la captura por fotosíntesis, aumentando el CO₂ atmosférico.",
+          "is_correct": true,
+          "feedback": "Correcto. El bosque era un reservorio de carbono; al destruirlo, ese carbono pasa a la atmósfera como CO₂."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $36 \\cdot 3 = 108\\text{ ppm}$.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "Los bosques son reservorios de carbono: lo guardan en troncos, raíces y suelo. El desmonte libera ese carbono por quema o descomposición y, además, reduce la fotosíntesis que lo retiraba de la atmósfera. Por eso el cambio de uso del suelo es una fuente importante de emisiones en la Argentina.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.56,
       "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
       "periodo": 19,
@@ -818,42 +593,267 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v19",
-      "statement": "Un zooplancton contiene $38\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
-      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 19.",
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v14",
+      "statement": "¿Qué parcela tiene mayor diversidad biológica?",
+      "context": "Dos parcelas de un pastizal de Entre Ríos tienen 5 especies cada una. En la parcela 1 una especie forma el 90 % de los individuos; en la parcela 2 cada especie forma el 20 %.",
       "options": [
         {
-          "letter": "D",
-          "text": "Concentración = $114\\text{ ppm}$",
-          "is_correct": true,
-          "feedback": "Correcto. $38 \\cdot 3 = 114\\text{ ppm}$ debido al proceso de biomagnificación."
-        },
-        {
           "letter": "A",
-          "text": "Concentración = $38\\text{ ppm}$",
+          "text": "La parcela 1, porque tiene una especie dominante bien adaptada.",
           "is_correct": false,
-          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+          "feedback": "Incorrecto. Una especie dominante reduce la equitatividad, y con ella la diversidad."
         },
         {
           "letter": "B",
-          "text": "Concentración = $12,7\\text{ ppm}$",
+          "text": "Ambas tienen igual diversidad, porque tienen la misma riqueza de especies.",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+          "feedback": "Incorrecto. La riqueza es igual (5), pero la diversidad también depende de cómo se reparten los individuos."
         },
         {
           "letter": "C",
-          "text": "Concentración = $0\\text{ ppm}$",
+          "text": "No se pueden comparar sin conocer el tamaño de las parcelas.",
           "is_correct": false,
-          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+          "feedback": "Incorrecto. Con las proporciones de cada especie se puede comparar la diversidad, por ejemplo con el índice de Shannon."
+        },
+        {
+          "letter": "D",
+          "text": "La parcela 2, porque con igual riqueza tiene mayor equitatividad.",
+          "is_correct": true,
+          "feedback": "Correcto. Shannon da H ≈ 1,61 para la parcela 2 y H ≈ 0,46 para la parcela 1."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $38 \\cdot 3 = 114\\text{ ppm}$.\n\n---",
+      "explanation": "La diversidad combina riqueza (cuántas especies) y equitatividad (qué tan parejas son sus abundancias). Con el índice de Shannon, H = −Σ pᵢ ln pᵢ: parcela 2, cinco especies al 20 %, H = ln 5 ≈ 1,61; parcela 1, con una especie al 90 %, H ≈ 0,46.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v15",
+      "statement": "¿Qué secuencia de cambios es la más probable?",
+      "context": "En una reserva de la meseta de Somuncurá (Río Negro) se analiza qué pasaría si desaparecieran los pumas de la cadena pasto → guanaco → puma.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El pasto aumenta enseguida porque ya no hay pumas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pumas no comen pasto; su ausencia beneficia primero a los guanacos, que consumen más pasto."
+        },
+        {
+          "letter": "B",
+          "text": "Los guanacos disminuyen porque pierden a su depredador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin depredador, la mortalidad de los guanacos baja y su población tiende a crecer."
+        },
+        {
+          "letter": "C",
+          "text": "Los guanacos aumentan al principio y, luego, el sobrepastoreo reduce el pasto, lo que termina limitando a los propios guanacos.",
+          "is_correct": true,
+          "feedback": "Correcto. La eliminación del depredador produce un efecto en cascada sobre los niveles inferiores."
+        },
+        {
+          "letter": "D",
+          "text": "No hay cambios, porque cada nivel trófico es independiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los niveles tróficos están conectados: un cambio en uno se propaga a los demás."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En una cascada trófica, la desaparición del depredador tope libera a los herbívoros: los guanacos aumentan, consumen más pasto y producen sobrepastoreo. Al escasear el alimento, la población de guanacos vuelve a bajar y el suelo puede erosionarse.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v16",
+      "statement": "¿Qué secuencia explica la mortandad de peces?",
+      "context": "En verano, en una laguna pampeana rodeada de campos fertilizados, aparecen aguas verdes y peces muertos en la orilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exceso de nitratos y fosfatos → proliferación de algas → al morir, su descomposición consume O₂ → falta de oxígeno y muerte de peces.",
+          "is_correct": true,
+          "feedback": "Correcto. Es el proceso de eutrofización: los nutrientes en exceso terminan agotando el oxígeno disuelto."
+        },
+        {
+          "letter": "B",
+          "text": "Fertilizantes → más oxígeno en el agua → los peces se intoxican por exceso de oxígeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La eutrofización baja el oxígeno disuelto; el problema es su escasez, no su exceso."
+        },
+        {
+          "letter": "C",
+          "text": "Fertilizantes → aumento de la sal en el agua → los peces se deshidratan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los nitratos y fosfatos actúan como nutrientes de algas; no se explica la mortandad por salinidad."
+        },
+        {
+          "letter": "D",
+          "text": "Las algas producen veneno porque los fertilizantes son tóxicos para las plantas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los fertilizantes estimulan el crecimiento de las algas; la causa principal es la falta de O₂."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escorrentía lleva nitratos y fosfatos a la laguna. Las algas crecen en exceso, enturbian el agua y luego mueren; las bacterias que las descomponen respiran y consumen el oxígeno disuelto. Con poco O₂ (hipoxia), los peces mueren: es la eutrofización.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la estrategia más eficaz para conservar al yaguareté en la Argentina?",
+      "context": "El yaguareté sobrevive en pocas poblaciones aisladas de las Yungas, el Chaco y la selva misionera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantenerlo sólo en zoológicos para evitar riesgos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los zoológicos pueden apoyar, pero no conservan la especie en su ecosistema ni la función ecológica que cumple."
+        },
+        {
+          "letter": "B",
+          "text": "Introducir pumas en su territorio para que lo acompañen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pumas competirían por las mismas presas y no resuelven la pérdida de hábitat."
+        },
+        {
+          "letter": "C",
+          "text": "Crear corredores biológicos entre áreas protegidas y controlar la caza, porque el yaguareté necesita grandes territorios conectados.",
+          "is_correct": true,
+          "feedback": "Correcto. Conectar poblaciones aisladas aumenta el hábitat disponible y el intercambio genético."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminar a sus presas para que no salga de las áreas protegidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin presas el yaguareté no puede alimentarse; esa medida aceleraría su extinción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El yaguareté es un gran carnívoro con territorios amplios; las principales amenazas son la pérdida y fragmentación del hábitat y la caza. Los corredores biológicos conectan áreas protegidas, permiten que los individuos se desplacen y se crucen, y reducen el riesgo de extinción local.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.54,
+      "expected_success": 0.5,
+      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el diseño experimental más adecuado?",
+      "context": "Un grupo de estudiantes de Chascomús quiere comprobar si un fertilizante provoca el crecimiento de algas en el agua de la laguna.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usar un solo frasco con agua de la laguna y fertilizante, y observar si crecen algas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin un frasco control sin fertilizante no se puede saber si las algas habrían crecido igual."
+        },
+        {
+          "letter": "B",
+          "text": "Usar dos frascos, uno con fertilizante al sol y otro sin fertilizante a la sombra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cambian dos variables a la vez (luz y fertilizante); no se puede atribuir la diferencia a una sola."
+        },
+        {
+          "letter": "C",
+          "text": "Agregar fertilizante directamente a la laguna y medir las algas al mes siguiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Además del daño ambiental, en la laguna hay muchas variables no controladas y ningún grupo de comparación."
+        },
+        {
+          "letter": "D",
+          "text": "Usar varios frascos iguales en luz y temperatura, la mitad con fertilizante y la otra mitad sin él (control).",
+          "is_correct": true,
+          "feedback": "Correcto. Sólo varía el fertilizante, hay repeticiones y un grupo control para comparar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un buen experimento cambia una sola variable independiente (el fertilizante) y mantiene constantes las demás (luz, temperatura, volumen). El grupo control sin fertilizante permite comparar, y las repeticiones reducen el efecto del azar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.48,
+      "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es la evaluación correcta desde la ecología energética?",
+      "context": "En una charla sobre alimentación sostenible en Córdoba se afirma: \"con la misma superficie cultivada se puede alimentar a más personas con una dieta basada en vegetales\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es válida: al comer productores se evita la pérdida de alrededor del 90 % de la energía en una transferencia trófica adicional.",
+          "is_correct": true,
+          "feedback": "Correcto. Consumir directamente el primer nivel aprovecha mucha más de la energía fijada por las plantas."
+        },
+        {
+          "letter": "B",
+          "text": "No es válida, porque la carne contiene más energía que los vegetales que comió el animal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El animal sólo incorpora una pequeña fracción de la energía de lo que comió; no puede tener más."
+        },
+        {
+          "letter": "C",
+          "text": "No es válida, porque la energía se recicla y no se pierde entre niveles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía no se recicla: en cada nivel se disipa como calor por la respiración."
+        },
+        {
+          "letter": "D",
+          "text": "Es válida, porque las plantas no pierden energía en la respiración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas también respiran y gastan energía; la razón es la pérdida en el paso de planta a animal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si un cultivo fija una cantidad de energía, alimentar a personas directamente con él aprovecha mucho más que usarlo para criar ganado, porque en el paso planta → animal se pierde cerca del 90 %. Por eso, en términos energéticos, una dieta con más vegetales permite alimentar a más personas por hectárea.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.46,
       "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle-v20",
-      "statement": "Un zooplancton contiene $40\\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?",
-      "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 20.",
+      "statement": "¿Cuál es la evaluación correcta de esa afirmación?",
+      "context": "En un debate en un colegio de Ushuaia un estudiante afirma: \"el efecto invernadero es totalmente perjudicial y habría que eliminarlo\".",
       "options": [
         {
-          "letter": "D",
-          "text": "Concentración = $120\\text{ ppm}$",
-          "is_correct": true,
-          "feedback": "Correcto. $40 \\cdot 3 = 120\\text{ ppm}$ debido al proceso de biomagnificación."
-        },
-        {
           "letter": "A",
-          "text": "Concentración = $40\\text{ ppm}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
+          "text": "No es válida: el efecto invernadero natural mantiene la temperatura media del planeta cerca de 15 °C (sin él sería de unos −18 °C); el problema es su intensificación por emisiones humanas.",
+          "is_correct": true,
+          "feedback": "Correcto. El efecto invernadero es necesario para la vida; lo preocupante es el aumento de gases por actividades humanas."
         },
         {
           "letter": "B",
-          "text": "Concentración = $13,3\\text{ ppm}$",
+          "text": "Es válida, porque todos los gases de efecto invernadero son contaminantes artificiales.",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
+          "feedback": "Incorrecto. El vapor de agua y el CO₂ existen naturalmente en la atmósfera y producen el efecto invernadero natural."
         },
         {
           "letter": "C",
-          "text": "Concentración = $0\\text{ ppm}$",
+          "text": "No es válida, porque el efecto invernadero no existe.",
           "is_correct": false,
-          "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
+          "feedback": "Incorrecto. Es un fenómeno físico medido: ciertos gases absorben radiación infrarroja y calientan la atmósfera."
+        },
+        {
+          "letter": "D",
+          "text": "No es válida, porque el efecto invernadero lo produce sólo el ozono.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El efecto lo producen sobre todo el vapor de agua, el CO₂ y el metano; el ozono tiene un aporte menor."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $40 \\cdot 3 = 120\\text{ ppm}$.",
+      "correct_answer": "A",
+      "explanation": "Los gases de efecto invernadero absorben parte de la radiación infrarroja que emite la Tierra y la reemiten, lo que mantiene una temperatura media cercana a 15 °C. Sin ellos sería de unos −18 °C. El problema actual es el aumento de CO₂ y metano por combustibles fósiles y desmontes, que intensifica el efecto y causa calentamiento global.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.52,
+      "expected_success": 0.45,
       "bundle_id": "AR-CIE-11-2026-W19-ecologia-biodiversidad-impacto-ambiental-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",

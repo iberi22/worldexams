@@ -13,12 +13,6 @@
       "context": "En clase de ciencias en Pasto, la profesora muestra un cartel con los planetas del Sistema Solar ordenados desde el Sol.",
       "options": [
         {
-          "letter": "C",
-          "text": "Mercurio.",
-          "is_correct": true,
-          "feedback": "Mercurio es el planeta más cercano al Sol en el Sistema Solar."
-        },
-        {
           "letter": "A",
           "text": "Tierra.",
           "is_correct": false,
@@ -29,6 +23,12 @@
           "text": "Júpiter.",
           "is_correct": false,
           "feedback": "Júpiter es el quinto planeta desde el Sol, mucho más lejos que Mercurio."
+        },
+        {
+          "letter": "C",
+          "text": "Mercurio.",
+          "is_correct": true,
+          "feedback": "Mercurio es el planeta más cercano al Sol en el Sistema Solar."
         },
         {
           "letter": "D",
@@ -152,9 +152,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "A un planeta rocoso como Marte o la Tierra.",
-          "is_correct": true,
-          "feedback": "Los planetas rocosos tienen superficie sólida donde se puede caminar."
+          "text": "A la Luna, considerada un planeta gaseoso.",
+          "is_correct": false,
+          "feedback": "La Luna es un satélite rocoso, no un planeta gaseoso."
         },
         {
           "letter": "B",
@@ -170,12 +170,12 @@
         },
         {
           "letter": "D",
-          "text": "A la Luna, considerada un planeta gaseoso.",
-          "is_correct": false,
-          "feedback": "La Luna es un satélite rocoso, no un planeta gaseoso."
+          "text": "A un planeta rocoso como Marte o la Tierra.",
+          "is_correct": true,
+          "feedback": "Los planetas rocosos tienen superficie sólida donde se puede caminar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicar la clasificación de planetas rocosos y gaseosos para predecir sus condiciones físicas.",
       "difficulty": "6",
       "images": [],
@@ -197,16 +197,16 @@
       "context": "En clase se explica: \"La Tierra tarda aproximadamente 365 días en dar una vuelta completa alrededor del Sol. Este movimiento se llama traslación.\"",
       "options": [
         {
-          "letter": "B",
-          "text": "La sucesión de las cuatro estaciones del año (primavera, verano, otoño e invierno).",
-          "is_correct": true,
-          "feedback": "La traslación, junto con la inclinación del eje, produce las estaciones."
-        },
-        {
           "letter": "A",
           "text": "El cambio entre el día y la noche en pocas horas.",
           "is_correct": false,
           "feedback": "El día y la noche se explican por la rotación, no por la traslación."
+        },
+        {
+          "letter": "B",
+          "text": "La sucesión de las cuatro estaciones del año (primavera, verano, otoño e invierno).",
+          "is_correct": true,
+          "feedback": "La traslación, junto con la inclinación del eje, produce las estaciones."
         },
         {
           "letter": "C",
@@ -243,12 +243,6 @@
       "context": "Compara: \"Mercurio es pequeño, muy cercano al Sol y con temperaturas extremas. Júpiter es enorme, está lejos del Sol y formado principalmente por gases.\"",
       "options": [
         {
-          "letter": "C",
-          "text": "Mercurio es un planeta rocoso pequeño cercano al Sol; Júpiter es un planeta gaseoso gigante y lejano.",
-          "is_correct": true,
-          "feedback": "Mercurio es rocoso y cercano al Sol; Júpiter es gaseoso, gigante y mucho más lejano."
-        },
-        {
           "letter": "A",
           "text": "Ambos son planetas gaseosos del mismo tamaño.",
           "is_correct": false,
@@ -259,6 +253,12 @@
           "text": "Mercurio es el planeta más grande y Júpiter el más pequeño.",
           "is_correct": false,
           "feedback": "Es al revés: Júpiter es el planeta más grande del Sistema Solar."
+        },
+        {
+          "letter": "C",
+          "text": "Mercurio es un planeta rocoso pequeño cercano al Sol; Júpiter es un planeta gaseoso gigante y lejano.",
+          "is_correct": true,
+          "feedback": "Mercurio es rocoso y cercano al Sol; Júpiter es gaseoso, gigante y mucho más lejano."
         },
         {
           "letter": "D",
@@ -289,16 +289,16 @@
       "context": "Lee: \"Plutón fue considerado el noveno planeta, pero en 2006 la Unión Astronómica Internacional lo reclasificó como planeta enano porque no cumple todas las condiciones para ser planeta.\"",
       "options": [
         {
-          "letter": "B",
-          "text": "No cumple con todas las condiciones para ser considerado un planeta, por ejemplo limpiar su órbita.",
-          "is_correct": true,
-          "feedback": "Plutón comparte su órbita con otros cuerpos, por eso se reclasificó como planeta enano."
-        },
-        {
           "letter": "A",
           "text": "Está más cerca del Sol que Mercurio.",
           "is_correct": false,
           "feedback": "Plutón está más lejos del Sol que Neptuno, no más cerca que Mercurio."
+        },
+        {
+          "letter": "B",
+          "text": "No cumple con todas las condiciones para ser considerado un planeta, por ejemplo limpiar su órbita.",
+          "is_correct": true,
+          "feedback": "Plutón comparte su órbita con otros cuerpos, por eso se reclasificó como planeta enano."
         },
         {
           "letter": "C",
@@ -335,16 +335,16 @@
       "context": "Lee: 'La Tierra es el único planeta del Sistema Solar con condiciones conocidas para albergar vida: agua líquida, atmósfera con oxígeno y temperatura adecuada. Cuidar la atmósfera y el agua es esencial para preservar la vida.'",
       "options": [
         {
-          "letter": "B",
-          "text": "Porque reúne condiciones para la vida, y debemos cuidar la atmósfera, el agua y la temperatura.",
-          "is_correct": true,
-          "feedback": "Las condiciones especiales de la Tierra permiten la vida y deben ser protegidas."
-        },
-        {
           "letter": "A",
           "text": "Porque es el planeta más grande del Sistema Solar.",
           "is_correct": false,
           "feedback": "La Tierra no es el planeta más grande; Júpiter lo es."
+        },
+        {
+          "letter": "B",
+          "text": "Porque reúne condiciones para la vida, y debemos cuidar la atmósfera, el agua y la temperatura.",
+          "is_correct": true,
+          "feedback": "Las condiciones especiales de la Tierra permiten la vida y deben ser protegidas."
         },
         {
           "letter": "C",

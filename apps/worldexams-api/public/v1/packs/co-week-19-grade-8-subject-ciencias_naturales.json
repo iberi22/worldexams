@@ -13,12 +13,6 @@
       "context": "En un trapiche panelero de Santander, los trabajadores observan que al hervir el guarapo en la paila, este cambia de color verde claro a un tono oscuro caramelo y libera un aroma intenso a panela.",
       "options": [
         {
-          "letter": "D",
-          "text": "El cambio de color del guarapo de verde claro a caramelo oscuro y la liberación de un aroma intenso a panela.",
-          "is_correct": true,
-          "feedback": "El cambio de color y la formación de nuevas sustancias aromáticas son evidencias claras de una reacción química, porque se forman productos nuevos con propiedades diferentes a las del jugo original."
-        },
-        {
           "letter": "A",
           "text": "La ebullición del agua que contiene el guarapo al alcanzar los cien grados Celsius.",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "La disolución del bagazo de caña en el agua al inicio del proceso de extracción del guarapo.",
           "is_correct": false,
           "feedback": "Aunque el bagazo se mezcla con el líquido, esto es una mezcla física, ya que las sustancias conservan su identidad química y pueden separarse por métodos físicos."
+        },
+        {
+          "letter": "D",
+          "text": "El cambio de color del guarapo de verde claro a caramelo oscuro y la liberación de un aroma intenso a panela.",
+          "is_correct": true,
+          "feedback": "El cambio de color y la formación de nuevas sustancias aromáticas son evidencias claras de una reacción química, porque se forman productos nuevos con propiedades diferentes a las del jugo original."
         }
       ],
       "correct_answer": "D",
@@ -59,12 +59,6 @@
       "context": "En una cocina tradicional de Cali, una cocinera mezcla bicarbonato de sodio con vinagre para limpiar una superficie grasosa. La mezcla burbujea vigorosamente y observa que la masa total antes y después de la reacción, medida con una balanza, es exactamente la misma.",
       "options": [
         {
-          "letter": "D",
-          "text": "Porque en una reacción química los átomos de los reactantes se reorganizan para formar los productos, sin crearse ni destruirse.",
-          "is_correct": true,
-          "feedback": "Correcto. La ley de Lavoisier establece que la materia no se crea ni se destruye, solo se transforma, por lo tanto la masa total se conserva en cualquier sistema cerrado."
-        },
-        {
           "letter": "A",
           "text": "Porque el gas que se escapa durante la reacción tiene un peso insignificante que no afecta la masa total.",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "Porque el vinagre y el bicarbonato son la misma sustancia en diferentes estados físicos.",
           "is_correct": false,
           "feedback": "Incorrecto. El vinagre (ácido acético) y el bicarbonato (hidrogenocarbonato de sodio) son sustancias diferentes con propiedades químicas claramente distintas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque en una reacción química los átomos de los reactantes se reorganizan para formar los productos, sin crearse ni destruirse.",
+          "is_correct": true,
+          "feedback": "Correcto. La ley de Lavoisier establece que la materia no se crea ni se destruye, solo se transforma, por lo tanto la masa total se conserva en cualquier sistema cerrado."
         }
       ],
       "correct_answer": "D",
@@ -105,12 +105,6 @@
       "context": "En el laboratorio del colegio La Julia en Pereira, los docentes explican a los estudiantes los tres tipos básicos de reacciones químicas que deben reconocer durante este periodo académico.",
       "options": [
         {
-          "letter": "D",
-          "text": "2H₂O → 2H₂ + O₂",
-          "is_correct": true,
-          "feedback": "Correcto. Una reacción de descomposición es aquella en la que un solo reactante se descompone en dos o más productos, como ocurre en esta electrólisis del agua."
-        },
-        {
           "letter": "A",
           "text": "2H₂ + O₂ → 2H₂O",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "NaCl + AgNO₃ → AgCl + NaNO₃",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es una reacción de doble sustitución o doble desplazamiento, donde hay intercambio de iones entre dos compuestos."
+        },
+        {
+          "letter": "D",
+          "text": "2H₂O → 2H₂ + O₂",
+          "is_correct": true,
+          "feedback": "Correcto. Una reacción de descomposición es aquella en la que un solo reactante se descompone en dos o más productos, como ocurre en esta electrólisis del agua."
         }
       ],
       "correct_answer": "D",
@@ -151,12 +151,6 @@
       "context": "En el laboratorio escolar de Pereira, una estudiante combina doce gramos de carbono con treinta y dos gramos de oxígeno y los hace reaccionar completamente para formar dióxido de carbono.",
       "options": [
         {
-          "letter": "C",
-          "text": "Cuarenta y cuatro gramos de CO₂, porque la masa total de los reactantes se conserva en los productos.",
-          "is_correct": true,
-          "feedback": "Correcto. Aplicando la Ley de Conservación de la Masa: masa de productos = masa de reactantes = 12 g + 32 g = 44 g de CO₂."
-        },
-        {
           "letter": "A",
           "text": "Veinte gramos de CO₂, porque parte de la masa se pierde como calor durante la reacción.",
           "is_correct": false,
@@ -167,6 +161,12 @@
           "text": "Cincuenta y seis gramos de CO₂, porque la masa de los productos es mayor que la de los reactantes por la energía liberada.",
           "is_correct": false,
           "feedback": "Incorrecto. La energía liberada durante una reacción exotérmica no se convierte en masa adicional dentro del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "Cuarenta y cuatro gramos de CO₂, porque la masa total de los reactantes se conserva en los productos.",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la Ley de Conservación de la Masa: masa de productos = masa de reactantes = 12 g + 32 g = 44 g de CO₂."
         },
         {
           "letter": "D",
@@ -197,16 +197,16 @@
       "context": "En un trapiche panelero de Santander, el proceso de clarificación del guarapo consiste en adicionar cal (óxido de calcio, CaO) al jugo de caña para eliminar impurezas. Durante el proceso, el CaO reacciona con el agua formando Ca(OH)₂.",
       "options": [
         {
-          "letter": "B",
-          "text": "Una reacción de síntesis o combinación, ya que dos reactantes se unen para formar un solo producto.",
-          "is_correct": true,
-          "feedback": "Correcto. El óxido de calcio y el agua se combinan para formar un único producto, el hidróxido de calcio, característico de una síntesis."
-        },
-        {
           "letter": "A",
           "text": "Una reacción de descomposición, porque un compuesto se separa en dos sustancias más simples.",
           "is_correct": false,
           "feedback": "Incorrecto. En la descomposición un reactante se divide en productos; aquí ocurre lo contrario, dos sustancias se unen."
+        },
+        {
+          "letter": "B",
+          "text": "Una reacción de síntesis o combinación, ya que dos reactantes se unen para formar un solo producto.",
+          "is_correct": true,
+          "feedback": "Correcto. El óxido de calcio y el agua se combinan para formar un único producto, el hidróxido de calcio, característico de una síntesis."
         },
         {
           "letter": "C",
@@ -243,12 +243,6 @@
       "context": "En una cocina de Cali, una cocinera observa que el aceite vegetal reacciona con el oxígeno del aire al calentarse y forma nuevos compuestos que generan el olor característico de la fritura.",
       "options": [
         {
-          "letter": "C",
-          "text": "1, 2, 1, 2: CH₄ + 2O₂ → CO₂ + 2H₂O",
-          "is_correct": true,
-          "feedback": "Correcto. Hay un carbono a cada lado, cuatro hidrógenos a cada lado (4 = 2×2) y cuatro oxígenos a cada lado (2×2 = 2 + 2), cumpliendo la conservación de la masa."
-        },
-        {
           "letter": "A",
           "text": "1, 1, 1, 1: CH₄ + O₂ → CO₂ + H₂O",
           "is_correct": false,
@@ -259,6 +253,12 @@
           "text": "2, 1, 1, 2: 2CH₄ + O₂ → CO₂ + 2H₂O",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque hay dos carbonos y cuatro hidrógenos en reactantes, solo hay un carbono y cuatro hidrógenos en productos, y solo dos oxígenos contra cuatro en productos."
+        },
+        {
+          "letter": "C",
+          "text": "1, 2, 1, 2: CH₄ + 2O₂ → CO₂ + 2H₂O",
+          "is_correct": true,
+          "feedback": "Correcto. Hay un carbono a cada lado, cuatro hidrógenos a cada lado (4 = 2×2) y cuatro oxígenos a cada lado (2×2 = 2 + 2), cumpliendo la conservación de la masa."
         },
         {
           "letter": "D",
@@ -289,16 +289,16 @@
       "context": "En el laboratorio del colegio en Pereira, un estudiante añade una pastilla efervescente (que contiene bicarbonato de sodio, NaHCO₃) a un vaso con vinagre (ácido acético, CH₃COOH). Observa efervescencia vigorosa y formación de burbujas que suben a la superficie.",
       "options": [
         {
-          "letter": "B",
-          "text": "Dióxido de carbono (CO₂), un gas incoloro que se libera como producto de la reacción.",
-          "is_correct": true,
-          "feedback": "Correcto. El CO₂ es el gas que se libera y produce las burbujas características de las pastillas efervescentes al reaccionar con el vinagre."
-        },
-        {
           "letter": "A",
           "text": "Hidrógeno (H₂), un gas inflamable que se libera durante la reacción ácida.",
           "is_correct": false,
           "feedback": "Incorrecto. En esta reacción no se libera hidrógeno; el hidrógeno presente en los reactantes pasa a formar parte del agua."
+        },
+        {
+          "letter": "B",
+          "text": "Dióxido de carbono (CO₂), un gas incoloro que se libera como producto de la reacción.",
+          "is_correct": true,
+          "feedback": "Correcto. El CO₂ es el gas que se libera y produce las burbujas características de las pastillas efervescentes al reaccionar con el vinagre."
         },
         {
           "letter": "C",
@@ -335,16 +335,16 @@
       "context": "En el laboratorio escolar de Pereira, el profesor presenta cuatro ecuaciones químicas a sus estudiantes y les pide identificar cuál cumple correctamente con la Ley de Conservación de la Masa.",
       "options": [
         {
-          "letter": "B",
-          "text": "2Mg + O₂ → 2MgO",
-          "is_correct": true,
-          "feedback": "Correcto. Hay dos átomos de magnesio a cada lado y dos átomos de oxígeno a cada lado, cumpliendo la conservación de la masa."
-        },
-        {
           "letter": "A",
           "text": "H₂ + O₂ → H₂O",
           "is_correct": false,
           "feedback": "Incorrecto. Hay dos hidrógenos a cada lado, pero dos oxígenos en reactantes contra un solo oxígeno en productos, por lo tanto no está balanceada."
+        },
+        {
+          "letter": "B",
+          "text": "2Mg + O₂ → 2MgO",
+          "is_correct": true,
+          "feedback": "Correcto. Hay dos átomos de magnesio a cada lado y dos átomos de oxígeno a cada lado, cumpliendo la conservación de la masa."
         },
         {
           "letter": "C",
@@ -381,12 +381,6 @@
       "context": "En un trapiche panelero de Santander, los trabajadores observan tres procesos durante la molienda y cocción de la caña: (1) la caña se tritura y se extrae el guarapo, (2) el guarapo hierve y forma espuma que se retira con el remo, (3) el bagazo sobrante se apila y se deja secar al sol.",
       "options": [
         {
-          "letter": "D",
-          "text": "El proceso 2 (formación y retiro de espuma al hervir el guarapo), porque se forman sustancias nuevas como la caramelina que dan el color y aroma de la panela.",
-          "is_correct": true,
-          "feedback": "Correcto. Durante la cocción se producen reacciones de caramelización y pardeamiento no enzimático que transforman la sacarosa en sustancias diferentes, evidenciando un cambio químico."
-        },
-        {
           "letter": "A",
           "text": "El proceso 1 (trituración de la caña para extraer el guarapo), porque cambia la apariencia física de la caña.",
           "is_correct": false,
@@ -403,6 +397,12 @@
           "text": "Los tres procesos son cambios físicos, porque ninguno altera la composición química de la caña.",
           "is_correct": false,
           "feedback": "Incorrecto. Durante la cocción del guarapo sí ocurren cambios químicos, como la formación de caramelina y la liberación de nuevos aromas durante el desarrollo."
+        },
+        {
+          "letter": "D",
+          "text": "El proceso 2 (formación y retiro de espuma al hervir el guarapo), porque se forman sustancias nuevas como la caramelina que dan el color y aroma de la panela.",
+          "is_correct": true,
+          "feedback": "Correcto. Durante la cocción se producen reacciones de caramelización y pardeamiento no enzimático que transforman la sacarosa en sustancias diferentes, evidenciando un cambio químico."
         }
       ],
       "correct_answer": "D",
@@ -427,16 +427,16 @@
       "context": "En una cocina tradicional de Cali, una cocinera observa que el hierro de una sartén vieja se ha oxidado y formado una capa rojiza. Sabe que el hierro metálico (Fe) reacciona con el oxígeno del aire (O₂) en presencia de humedad.",
       "options": [
         {
-          "letter": "B",
-          "text": "Es una reacción de síntesis donde varios reactantes se combinan para formar un solo producto, evidenciado por la aparición de una capa rojiza nueva.",
-          "is_correct": true,
-          "feedback": "Correcto. Es una síntesis: tres reactantes (Fe, O₂ y H₂O) forman un único producto (Fe(OH)₃); la formación de la capa rojiza evidencia el cambio químico."
-        },
-        {
           "letter": "A",
           "text": "Es una reacción de descomposición porque el hierro se descompone en sus componentes básicos.",
           "is_correct": false,
           "feedback": "Incorrecto. En la descomposición un reactante se divide en productos; aquí ocurre lo contrario, varios reactantes forman un producto."
+        },
+        {
+          "letter": "B",
+          "text": "Es una reacción de síntesis donde varios reactantes se combinan para formar un solo producto, evidenciado por la aparición de una capa rojiza nueva.",
+          "is_correct": true,
+          "feedback": "Correcto. Es una síntesis: tres reactantes (Fe, O₂ y H₂O) forman un único producto (Fe(OH)₃); la formación de la capa rojiza evidencia el cambio químico."
         },
         {
           "letter": "C",
@@ -473,12 +473,6 @@
       "context": "En el laboratorio del colegio en Pereira, dos grupos de estudiantes realizan el siguiente experimento: cada grupo quema completamente cinco gramos de magnesio (Mg) en presencia de oxígeno y mide la masa final del producto (MgO) formado.",
       "options": [
         {
-          "letter": "D",
-          "text": "Los 8,33 gramos corresponden a la suma de los cinco gramos de Mg más el oxígeno incorporado (3,33 gramos), demostrando la conservación de la masa y sugiriendo que la reacción fue completa.",
-          "is_correct": true,
-          "feedback": "Correcto. La masa del MgO es mayor que la del Mg porque se incorporó oxígeno del aire, cumpliéndose la conservación de la masa y sugiriendo reacción cuantitativa."
-        },
-        {
           "letter": "A",
           "text": "Los 8,33 gramos deberían ser exactamente cinco gramos, porque la masa del producto debe ser igual a la del reactante puro.",
           "is_correct": false,
@@ -495,6 +489,12 @@
           "text": "Los 8,33 gramos demuestran que se creó materia durante la reacción, contradiciendo la Ley de Conservación de la Masa.",
           "is_correct": false,
           "feedback": "Incorrecto. No se creó materia; el oxígeno del entorno se combinó con el magnesio, por eso el sistema abierto tiene mayor masa final que el reactante."
+        },
+        {
+          "letter": "D",
+          "text": "Los 8,33 gramos corresponden a la suma de los cinco gramos de Mg más el oxígeno incorporado (3,33 gramos), demostrando la conservación de la masa y sugiriendo que la reacción fue completa.",
+          "is_correct": true,
+          "feedback": "Correcto. La masa del MgO es mayor que la del Mg porque se incorporó oxígeno del aire, cumpliéndose la conservación de la masa y sugiriendo reacción cuantitativa."
         }
       ],
       "correct_answer": "D",
@@ -519,13 +519,13 @@
       "context": "El director de un trapiche panelero en Santander quiere optimizar el proceso de producción y le pide a su asesor científico que le explique por qué el rendimiento de la producción de panela a partir del guarapo no es del cien por ciento, a pesar de aplicar las reacciones químicas correctas.",
       "options": [
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El rendimiento no es del cien por ciento porque en cada etapa hay pérdidas: el bagazo retiene algo de jugo, parte del guarapo se evapora y reacciones secundarias producen subproductos no convertidos en panela.",
           "is_correct": true,
           "feedback": "Correcto. El rendimiento global es afectado por pérdidas físicas (evaporación, retención en bagazo) y por reacciones incompletas, lo cual es esperable en procesos reales."
         },
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El rendimiento debería ser exactamente del cien por ciento si las ecuaciones químicas estuvieran bien balanceadas.",
           "is_correct": false,
           "feedback": "Incorrecto. El balanceo de ecuaciones garantiza la conservación de la masa en la reacción química, pero no que el proceso industrial sea cien por ciento eficiente."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. La Ley de Conservación aplica a cualquier reacción química, sea el producto puro o una mezcla; lo que cambia es el rendimiento industrial, no la conservación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El rendimiento industrial de un proceso químico nunca es del cien por ciento en la práctica, aunque las ecuaciones químicas sí lo sean en teoría para el reactante que se transforma. En el trapiche panelero, las pérdidas se deben a extracción incompleta del guarapo del bagazo, evaporación durante la cocción, formación de subproductos no deseados y reacciones incompletas. La Ley de Conservación de la Masa se aplica a la química del proceso, pero la eficiencia industrial depende además de variables físicas, económicas y tecnológicas.",
       "difficulty": "10",
       "images": [],

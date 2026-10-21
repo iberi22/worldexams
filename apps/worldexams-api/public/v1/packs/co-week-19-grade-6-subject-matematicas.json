@@ -13,16 +13,16 @@
       "context": "En la plaza principal de Tunja hay una fuente circular y el profesor dibuja sus partes en el tablero.",
       "options": [
         {
-          "letter": "B",
-          "text": "El diámetro es el doble del radio",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: el diámetro cruza el centro uniendo dos puntos opuestos, por eso mide dos radios."
-        },
-        {
           "letter": "A",
           "text": "El diámetro es la mitad del radio",
           "is_correct": false,
           "feedback": "Explica el error conceptual: invierte la relación; el radio es la mitad del diámetro, no al revés."
+        },
+        {
+          "letter": "B",
+          "text": "El diámetro es el doble del radio",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: el diámetro cruza el centro uniendo dos puntos opuestos, por eso mide dos radios."
         },
         {
           "letter": "C",
@@ -59,16 +59,16 @@
       "context": "En un taller de Bucaramanga una rueda de bicicleta tiene radio de 30 cm.",
       "options": [
         {
-          "letter": "B",
-          "text": "60 cm",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: el diámetro es el doble del radio, y 2 × 30 = 60 cm."
-        },
-        {
           "letter": "A",
           "text": "30 cm",
           "is_correct": false,
           "feedback": "Explica el error conceptual: repite el radio en vez de duplicarlo para hallar el diámetro."
+        },
+        {
+          "letter": "B",
+          "text": "60 cm",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: el diámetro es el doble del radio, y 2 × 30 = 60 cm."
         },
         {
           "letter": "C",
@@ -105,12 +105,6 @@
       "context": "En Medellín un jardinero cerca un arriate circular de radio 7 m con alambre. Usa pi ≈ 3.14.",
       "options": [
         {
-          "letter": "C",
-          "text": "43.96 m",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: L = 2 × 3.14 × 7 = 43.96 m de longitud de circunferencia."
-        },
-        {
           "letter": "A",
           "text": "21.98 m",
           "is_correct": false,
@@ -121,6 +115,12 @@
           "text": "153.86 m",
           "is_correct": false,
           "feedback": "Explica el error conceptual: calcula el área (3.14 × 49) en vez de la longitud del borde."
+        },
+        {
+          "letter": "C",
+          "text": "43.96 m",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: L = 2 × 3.14 × 7 = 43.96 m de longitud de circunferencia."
         },
         {
           "letter": "D",
@@ -197,16 +197,16 @@
       "context": "En Barranquilla una glorieta tiene 20 m de diámetro y se quiere pintar una línea en su borde. Usa pi ≈ 3.14.",
       "options": [
         {
-          "letter": "B",
-          "text": "62.8 m",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: L = pi × d = 3.14 × 20 = 62.8 m."
-        },
-        {
           "letter": "A",
           "text": "31.4 m",
           "is_correct": false,
           "feedback": "Explica el error conceptual: usa el radio (10) en la fórmula del diámetro sin el factor correcto."
+        },
+        {
+          "letter": "B",
+          "text": "62.8 m",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: L = pi × d = 3.14 × 20 = 62.8 m."
         },
         {
           "letter": "C",
@@ -289,16 +289,16 @@
       "context": "En Manizales un carpintero compara una mesa circular de radio 2 m con una cuadrada de 3 m de lado. Usa pi ≈ 3.14.",
       "options": [
         {
-          "letter": "B",
-          "text": "La circular, supera por 3.56 m²",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: círculo: 3.14 × 4 = 12.56; cuadrado: 9; diferencia: 12.56 - 9 = 3.56 m²."
-        },
-        {
           "letter": "A",
           "text": "La cuadrada, supera por 3.56 m²",
           "is_correct": false,
           "feedback": "Explica el error conceptual: invierte la comparación; 9 es menor que 12.56, no mayor."
+        },
+        {
+          "letter": "B",
+          "text": "La circular, supera por 3.56 m²",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: círculo: 3.14 × 4 = 12.56; cuadrado: 9; diferencia: 12.56 - 9 = 3.56 m²."
         },
         {
           "letter": "C",
@@ -335,12 +335,6 @@
       "context": "En Cartagena una cinta de 62.8 m rodea exactamente una pista circular. Usa pi ≈ 3.14.",
       "options": [
         {
-          "letter": "D",
-          "text": "10 m",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: r = 62.8 ÷ (2 × 3.14) = 62.8 ÷ 6.28 = 10 m."
-        },
-        {
           "letter": "A",
           "text": "20 m",
           "is_correct": false,
@@ -357,6 +351,12 @@
           "text": "5 m",
           "is_correct": false,
           "feedback": "Explica el error conceptual: divide dos veces entre 2, reduciendo el radio a la mitad real."
+        },
+        {
+          "letter": "D",
+          "text": "10 m",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: r = 62.8 ÷ (2 × 3.14) = 62.8 ÷ 6.28 = 10 m."
         }
       ],
       "correct_answer": "D",
@@ -381,16 +381,16 @@
       "context": "En Pereira un estudiante afirma: \"Si el radio de un círculo se duplica, su área también se duplica\". Usa pi ≈ 3.14.",
       "options": [
         {
-          "letter": "B",
-          "text": "No, el área se cuadruplica: pasa de 28.26 m² a 113.04 m²",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: 3.14 × 9 = 28.26 y 3.14 × 36 = 113.04; 113.04 es 4 veces 28.26."
-        },
-        {
           "letter": "A",
           "text": "Sí, el área pasa de 28.26 m² a 56.52 m²",
           "is_correct": false,
           "feedback": "Explica el error conceptual: duplica el área en vez de recalcular con el nuevo radio al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "No, el área se cuadruplica: pasa de 28.26 m² a 113.04 m²",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 3.14 × 9 = 28.26 y 3.14 × 36 = 113.04; 113.04 es 4 veces 28.26."
         },
         {
           "letter": "C",
@@ -427,22 +427,22 @@
       "context": "En Pasto una familia siembra hortalizas: lote circular de radio 5 m o lote rectangular de 8 m por 10 m. Usa pi ≈ 3.14.",
       "options": [
         {
-          "letter": "B",
-          "text": "El rectangular, con 80 m² frente a 78.5 m² del circular",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: círculo: 3.14 × 25 = 78.5; rectángulo: 8 × 10 = 80; 80 > 78.5."
-        },
-        {
           "letter": "A",
           "text": "El circular, porque el círculo siempre rinde más área",
           "is_correct": false,
           "feedback": "Explica el error conceptual: ninguna forma \"siempre\" gana; hay que calcular cada caso concreto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El circular, con 157 m² porque se suma el diámetro",
           "is_correct": false,
           "feedback": "Explica el error conceptual: inventa una fórmula inválida; el área correcta es 78.5 m²."
+        },
+        {
+          "letter": "C",
+          "text": "El rectangular, con 80 m² frente a 78.5 m² del circular",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: círculo: 3.14 × 25 = 78.5; rectángulo: 8 × 10 = 80; 80 > 78.5."
         },
         {
           "letter": "D",
@@ -451,7 +451,7 @@
           "feedback": "Explica el error conceptual: sumar medidas lineales no equivale a comparar superficies."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Decidir con geometría exige calcular: 78.5 m² contra 80 m². El rectángulo gana por 1.5 m², una diferencia pequeña pero real que solo aparece al operar con precisión.",
       "difficulty": "10",
       "images": [],

@@ -348,18 +348,18 @@
         },
         {
           "letter": "C",
-          "text": "No, porque la posición del baricentro depende de la forma del triángulo, no del tamaño de los ángulos",
-          "is_correct": true,
-          "feedback": "Correcto. El baricentro se determina por la intersección de las medianas, que depende de la posición de los vértices, no de la medida de los ángulos."
-        },
-        {
-          "letter": "D",
           "text": "Sí, porque el baricentro es el centro de masa y los vértices más grandes pesan más",
           "is_correct": false,
           "feedback": "Incorrecto. El baricentro es el centro de masa, pero la masa se distribuye uniformemente en el área del triángulo, no en los vértices."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque la posición del baricentro depende de la forma del triángulo, no del tamaño de los ángulos",
+          "is_correct": true,
+          "feedback": "Correcto. El baricentro se determina por la intersección de las medianas, que depende de la posición de los vértices, no de la medida de los ángulos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La posición del baricentro depende exclusivamente de la posición de los vértices del triángulo, no del tamaño de sus ángulos. El baricentro es el punto de intersección de las medianas, y su ubicación relativa a los vértices depende de la longitud de las medianas. En un triángulo equilátero, el baricentro está a la misma distancia de los tres vértices, pero en triángulos escalenos, las distancias son diferentes. La afirmación del estudiante es incorrecta porque confunde el tamaño angular con la posición geométrica.",
       "difficulty": "10",
       "images": [],

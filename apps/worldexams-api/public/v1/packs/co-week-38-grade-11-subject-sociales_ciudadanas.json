@@ -756,9 +756,9 @@
         },
         {
           "letter": "B",
-          "text": "Es falsa: Colombia tiene pocos derechos efectivos y una aplicación desigual de los deberes: la agenda real es cerrar brechas de derechos y democratizar el cumplimiento de deberes, incluidos los del Estado",
-          "is_correct": true,
-          "feedback": "Correcto. El eslogan invierte el problema: los deberes del poder se incumplen más que los de la ciudadanía."
+          "text": "Es verdadera porque el artículo 95 limita el capítulo segundo",
+          "is_correct": false,
+          "feedback": "Los deberes no limitan derechos: los condicionan socialmente, pero la restricción de derechos exige ley y proporcionalidad."
         },
         {
           "letter": "C",
@@ -768,12 +768,12 @@
         },
         {
           "letter": "D",
-          "text": "Es verdadera porque el artículo 95 limita el capítulo segundo",
-          "is_correct": false,
-          "feedback": "Los deberes no limitan derechos: los condicionan socialmente, pero la restricción de derechos exige ley y proporcionalidad."
+          "text": "Es falsa: Colombia tiene pocos derechos efectivos y una aplicación desigual de los deberes: la agenda real es cerrar brechas de derechos y democratizar el cumplimiento de deberes, incluidos los del Estado",
+          "is_correct": true,
+          "feedback": "Correcto. El eslogan invierte el problema: los deberes del poder se incumplen más que los de la ciudadanía."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El discurso de \"exceso de derechos\" funciona políticamente, pero analíticamente confunde norma y realidad: el problema colombiano es el déficit de efectividad, no de consagración. Evaluar la frase exige medir: ¿cuántos derechos fundamentales tienen litigio diario, cuántos deberes fiscales se cumplen, cuántos deberes estatales de garantía fallan? La conclusión honesta es la corresponsabilidad: derechos y deberes se sostienen recíprocamente, incluidos los del poder.",
       "difficulty": "10",
       "images": [],

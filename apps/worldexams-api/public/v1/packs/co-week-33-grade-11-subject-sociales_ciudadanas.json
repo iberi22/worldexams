@@ -894,9 +894,9 @@
         },
         {
           "letter": "B",
-          "text": "Los mecanismos colectivos y la Ruta de reparación son sendas complementarias: las acciones ciudadanas ordinarias siguen vivas frente a responsables y obligaciones no asumidas por el sistema transicional",
-          "is_correct": true,
-          "feedback": "Correcto. La coexistencia de vías es principio del diseño del Acuerdo Final."
+          "text": "La tutela de derechos de víctimas está prohibida mientras exista la Unidad de Búsqueda",
+          "is_correct": false,
+          "feedback": "No existe tal prohibición: la tutela continúa siendo mecanismo válido para proteger derechos fundamentales de las víctimas."
         },
         {
           "letter": "C",
@@ -906,12 +906,12 @@
         },
         {
           "letter": "D",
-          "text": "La tutela de derechos de víctimas está prohibida mientras exista la Unidad de Búsqueda",
-          "is_correct": false,
-          "feedback": "No existe tal prohibición: la tutela continúa siendo mecanismo válido para proteger derechos fundamentales de las víctimas."
+          "text": "Los mecanismos colectivos y la Ruta de reparación son sendas complementarias: las acciones ciudadanas ordinarias siguen vivas frente a responsables y obligaciones no asumidas por el sistema transicional",
+          "is_correct": true,
+          "feedback": "Correcto. La coexistencia de vías es principio del diseño del Acuerdo Final."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El Acuerdo Final de 2016 construyó un sistema integral (JEP, Comisión de la Verdad, Unidad de Búsqueda de Personas dadas por Desaparecidas, medidas de reparación) sin extinguir las garantías constitucionales ordinarias: tutela, acción popular, justicia contenciosa y penal permanecen. Evaluar el sistema exige comprender el principio de complementariedad y la prohibición de revictimización: la participación de las víctimas no es optativa ni sustituible por decisiones verticales del Estado.",
       "difficulty": "10",
       "images": [],

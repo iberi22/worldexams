@@ -19,12 +19,6 @@
           "feedback": "Incorrecto. El texto habla del paseo costero inundado, no de inauguraciones."
         },
         {
-          "letter": "D",
-          "text": "La crecida del río Uruguay y la consecuente evacuación preventiva de familias en Salto.",
-          "is_correct": true,
-          "feedback": "¡Correcto! El fragmento informa de forma directa sobre la crecida de dos metros y las evacuaciones resultantes."
-        },
-        {
           "letter": "B",
           "text": "La construcción de una represa hidroeléctrica en el río Uruguay.",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "Un festival deportivo náutico suspendido por mal tiempo.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay referencias a competencias ni eventos deportivos."
+        },
+        {
+          "letter": "D",
+          "text": "La crecida del río Uruguay y la consecuente evacuación preventiva de familias en Salto.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El fragmento informa de forma directa sobre la crecida de dos metros y las evacuaciones resultantes."
         }
       ],
       "correct_answer": "D",
@@ -103,16 +103,16 @@
       "context": "Considerá la oración: \"Los ediles departamentales analizaron meticulosamente el informe presupuestario de la Intendencia\".",
       "options": [
         {
-          "letter": "B",
-          "text": "Atributo del sujeto.",
-          "is_correct": false,
-          "feedback": "Incorrecto. \"Meticulosamente\" no es un adjetivo atributivo."
-        },
-        {
           "letter": "A",
           "text": "Complemento Circunstancial de Modo.",
           "is_correct": true,
           "feedback": "¡Correcto! Modifica al verbo \"analizaron\" indicando la manera en que se realizó la acción."
+        },
+        {
+          "letter": "B",
+          "text": "Atributo del sujeto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Meticulosamente\" no es un adjetivo atributivo."
         },
         {
           "letter": "C",
@@ -148,16 +148,16 @@
       "context": "Leé la frase poética: \"El viento de la noche aullaba entre los eucaliptos de la estancia\".",
       "options": [
         {
-          "letter": "B",
-          "text": "Metáfora pura.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No se sustituye un término por otro en una relación de equivalencia."
-        },
-        {
           "letter": "A",
           "text": "Personificación (o prosopopeya).",
           "is_correct": true,
           "feedback": "¡Correcto! Se atribuye un rasgo animal/humano (aullar) a un fenómeno inanimado de la naturaleza (el viento)."
+        },
+        {
+          "letter": "B",
+          "text": "Metáfora pura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se sustituye un término por otro en una relación de equivalencia."
         },
         {
           "letter": "C",
@@ -193,12 +193,6 @@
       "context": "Leé el fragmento: \"Caminaron horas bajo la llovizna. Caminaron en silencio por la huella de barro. Caminaron sin mirar atrás hasta divisar el caserío de la estación\".",
       "options": [
         {
-          "letter": "D",
-          "text": "Anáfora.",
-          "is_correct": true,
-          "feedback": "¡Correcto! La anáfora consiste en la repetición de una o más palabras al inicio de versos u oraciones consecutivas."
-        },
-        {
           "letter": "A",
           "text": "Epífora.",
           "is_correct": false,
@@ -215,6 +209,12 @@
           "text": "Encabalgamiento.",
           "is_correct": false,
           "feedback": "Incorrecto. El encabalgamiento es un recurso métrico poético que rompe la unidad sintáctica al final del verso."
+        },
+        {
+          "letter": "D",
+          "text": "Anáfora.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La anáfora consiste en la repetición de una o más palabras al inicio de versos u oraciones consecutivas."
         }
       ],
       "correct_answer": "D",
@@ -244,12 +244,6 @@
           "feedback": "Incorrecto. No hay elaboración estética ni reflexión sobre la lengua."
         },
         {
-          "letter": "D",
-          "text": "Apelativa (o conativa) y referencial (o informativa).",
-          "is_correct": true,
-          "feedback": "¡Correcto! \"alcanzame\" busca actuar sobre el oyente (apelativa) y \"el agua... ya está hirviendo\" transmite datos del entorno (referencial)."
-        },
-        {
           "letter": "B",
           "text": "Fática y emotiva exclusivamente.",
           "is_correct": false,
@@ -260,6 +254,12 @@
           "text": "Referencial pura sin apelación.",
           "is_correct": false,
           "feedback": "Incorrecto. La presencia del imperativo marca una clara intención apelativa."
+        },
+        {
+          "letter": "D",
+          "text": "Apelativa (o conativa) y referencial (o informativa).",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"alcanzame\" busca actuar sobre el oyente (apelativa) y \"el agua... ya está hirviendo\" transmite datos del entorno (referencial)."
         }
       ],
       "correct_answer": "D",
@@ -283,16 +283,16 @@
       "context": "Analizá la oración: \"Los productores lecheros de San José declararon que la sequía afectó severamente la producción del último trimestre\".",
       "options": [
         {
-          "letter": "B",
-          "text": "Subordinada adjetiva especificativa.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No modifica a ningún sustantivo antecedente."
-        },
-        {
           "letter": "A",
           "text": "Subordinada sustantiva en función de complemento directo.",
           "is_correct": true,
           "feedback": "¡Correcto! Equivale a \"lo declararon\" (o \"declararon *eso*\"), funcionando como CD del verbo \"declararon\"."
+        },
+        {
+          "letter": "B",
+          "text": "Subordinada adjetiva especificativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No modifica a ningún sustantivo antecedente."
         },
         {
           "letter": "C",
@@ -334,12 +334,6 @@
           "feedback": "Incorrecto. No señala la causa de la primera afirmación."
         },
         {
-          "letter": "D",
-          "text": "Oposición o contraste rectificativo.",
-          "is_correct": true,
-          "feedback": "¡Correcto! Niega la primera interpretación y afirma la opción opuesta correcta."
-        },
-        {
           "letter": "B",
           "text": "Concesión parcial sin negación.",
           "is_correct": false,
@@ -350,6 +344,12 @@
           "text": "Suma de argumentos equivalentes.",
           "is_correct": false,
           "feedback": "Incorrecto. No es un conector aditivo."
+        },
+        {
+          "letter": "D",
+          "text": "Oposición o contraste rectificativo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Niega la primera interpretación y afirma la opción opuesta correcta."
         }
       ],
       "correct_answer": "D",
@@ -373,16 +373,16 @@
       "context": "Leé con atención: \"La contaminación por plásticos en la costa atlántica de Rocha se ha triplicado en la última década. En consecuencia, diversas especies de aves marinas han registrado microplásticos en sus sistemas digestivos\".",
       "options": [
         {
-          "letter": "B",
-          "text": "Causa-Efecto (o causa-consecuencia).",
-          "is_correct": true,
-          "feedback": "¡Correcto! La contaminación es la causa y la presencia de microplásticos en la fauna es la consecuencia lógica introducida por \"En consecuencia\"."
-        },
-        {
           "letter": "A",
           "text": "Comparación analógica entre dos regiones costeras.",
           "is_correct": false,
           "feedback": "Incorrecto. No se comparan dos lugares distintos."
+        },
+        {
+          "letter": "B",
+          "text": "Causa-Efecto (o causa-consecuencia).",
+          "is_correct": true,
+          "feedback": "¡Correcto! La contaminación es la causa y la presencia de microplásticos en la fauna es la consecuencia lógica introducida por \"En consecuencia\"."
         },
         {
           "letter": "C",
@@ -418,16 +418,16 @@
       "context": "Considerá el verso poético: \"Su mirada era un mar embravecido durante la tormenta\".",
       "options": [
         {
-          "letter": "B",
-          "text": "Símil (o comparación explícita).",
-          "is_correct": false,
-          "feedback": "Incorrecto. Carece del nexo comparativo explícito (*como*, *cual*)."
-        },
-        {
           "letter": "A",
           "text": "Metáfora en idéntica relación atributiva (A es B).",
           "is_correct": true,
           "feedback": "¡Correcto! Se establece una identificación directa entre el término real (mirada) y el evocado (mar embravecido) sin nexo comparativo."
+        },
+        {
+          "letter": "B",
+          "text": "Símil (o comparación explícita).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Carece del nexo comparativo explícito (*como*, *cual*)."
         },
         {
           "letter": "C",
@@ -469,12 +469,6 @@
           "feedback": "Incorrecto. No son palabras con idéntico significado."
         },
         {
-          "letter": "D",
-          "text": "Hiperonimia e hiponimia (hiperónimo: peces; hipónimos: dorados, sábalos, pejerreyes).",
-          "is_correct": true,
-          "feedback": "¡Correcto! \"Peces\" es un término de mayor extensión semántica (hiperónimo) que engloba a las especies específicas (hipónimos)."
-        },
-        {
           "letter": "B",
           "text": "Antonimia complementaria.",
           "is_correct": false,
@@ -485,6 +479,12 @@
           "text": "Homonimia sintáctica.",
           "is_correct": false,
           "feedback": "Incorrecto. No son palabras de distinta raíz que suenan igual."
+        },
+        {
+          "letter": "D",
+          "text": "Hiperonimia e hiponimia (hiperónimo: peces; hipónimos: dorados, sábalos, pejerreyes).",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Peces\" es un término de mayor extensión semántica (hiperónimo) que engloba a las especies específicas (hipónimos)."
         }
       ],
       "correct_answer": "D",
@@ -508,16 +508,16 @@
       "context": "Compara las siguientes oraciones:\n\n1. *El comité técnico evaluó el impacto ambiental de las obras portuarias.*\n\n2. *El impacto ambiental de las obras portuarias fue evaluado por el comité técnico.*",
       "options": [
         {
-          "letter": "B",
-          "text": "La oración 1 es pasiva y la 2 es activa reflexiva, focalizando en las obras.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La 1 es activa y la 2 es pasiva perifrástica."
-        },
-        {
           "letter": "A",
           "text": "Pasaje de voz activa a voz pasiva perifrástica, desplazando el foco de atención hacia el objeto afectado (\"el impacto ambiental\") que pasa a ser sujeto paciente.",
           "is_correct": true,
           "feedback": "¡Correcto! La voz pasiva tematiza el complemento directo de la activa convirtiéndolo en sujeto paciente."
+        },
+        {
+          "letter": "B",
+          "text": "La oración 1 es pasiva y la 2 es activa reflexiva, focalizando en las obras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La 1 es activa y la 2 es pasiva perifrástica."
         },
         {
           "letter": "C",
@@ -559,12 +559,6 @@
           "feedback": "Incorrecto. La niebla, el silencio y los galpones abandonados no construyen comicidad."
         },
         {
-          "letter": "D",
-          "text": "Construyen un clima de desolación, misterio y aislamiento mediante adjetivación sensorial (\"niebla\", \"silencio denso\", \"galpones abandonados\").",
-          "is_correct": true,
-          "feedback": "¡Correcto! El vocabulario seleccionado apela a lo auditivo y visual para crear una atmósfera introspectiva y solitaria."
-        },
-        {
           "letter": "B",
           "text": "Muestran un ritmo narrativo acelerado propio de una novela de acción policial.",
           "is_correct": false,
@@ -575,6 +569,12 @@
           "text": "Presentan una crítica socioeconómica explícita a la industria frigorífica.",
           "is_correct": false,
           "feedback": "Incorrecto. El pasaje es poético-descriptivo, no un ensayo de crítica social explícita."
+        },
+        {
+          "letter": "D",
+          "text": "Construyen un clima de desolación, misterio y aislamiento mediante adjetivación sensorial (\"niebla\", \"silencio denso\", \"galpones abandonados\").",
+          "is_correct": true,
+          "feedback": "¡Correcto! El vocabulario seleccionado apela a lo auditivo y visual para crear una atmósfera introspectiva y solitaria."
         }
       ],
       "correct_answer": "D",
@@ -598,16 +598,16 @@
       "context": "Leé con atención el texto argumentativo: \"Quienes se oponen a la descentralización universitaria sostienen que abrir sedes en el interior diluye la calidad académica. Sin embargo, los datos de los campus de Salto y Rivera demuestran que el rendimiento de los graduados supera al promedio capitalino en áreas clave como la agronomía y la medicina veterinaria\".",
       "options": [
         {
-          "letter": "B",
-          "text": "Ataque personal a las autoridades de la capital.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No realiza descalificaciones personales (ad hominem)."
-        },
-        {
           "letter": "A",
           "text": "Refutación de la contraargumentación mediante la aportación de datos empíricos contrastables.",
           "is_correct": true,
           "feedback": "¡Correcto! Expone el argumento contrario (\"diluye la calidad\") y lo invalida mostrando evidencia de rendimiento en sedes regionales."
+        },
+        {
+          "letter": "B",
+          "text": "Ataque personal a las autoridades de la capital.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No realiza descalificaciones personales (ad hominem)."
         },
         {
           "letter": "C",
@@ -733,16 +733,16 @@
       "context": "Leé el fragmento de un ensayo sobre cultura de masas: \"La proliferación de contenidos breves en las redes sociales no es un fenómeno inofensivo; fomenta una atención fragmentada e inhabilita progresivamente la capacidad de la juventud para abordar textos complejos y de largo aliento\".",
       "options": [
         {
-          "letter": "B",
-          "text": "El argumento es irrefutable porque se basa en una verdad divina indiscutible.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No apela a dogmas religiosos."
-        },
-        {
           "letter": "A",
           "text": "Plantea una hipótesis crítica sobre la transformación cognitiva de la lectura, sugiriendo una causalidad directa entre la brevedad del formato digital y la atrofia de la atención profunda.",
           "is_correct": true,
           "feedback": "¡Correcto! Evalúa de forma crítica la relación de causa-efecto entre el hábito de consumo digital y el desarrollo de competencias lectoras analíticas."
+        },
+        {
+          "letter": "B",
+          "text": "El argumento es irrefutable porque se basa en una verdad divina indiscutible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No apela a dogmas religiosos."
         },
         {
           "letter": "C",
@@ -829,12 +829,6 @@
           "feedback": "Incorrecto. El texto descarta que sea volcar un pensamiento ya perfecto."
         },
         {
-          "letter": "D",
-          "text": "El modelo epistémico y procesual de la escritura, que la concibe como una herramienta de desarrollo cognitivo e indagación reflexiva.",
-          "is_correct": true,
-          "feedback": "¡Correcto! Entiende la composición como un proceso dinámico (planificación-revisión) donde el lenguaje actúa como motor del pensamiento."
-        },
-        {
           "letter": "B",
           "text": "La teoría del genio inspirado que redacta de un solo tirón sin corregir.",
           "is_correct": false,
@@ -845,6 +839,12 @@
           "text": "La exigencia de memorizar el diccionario antes de comenzar a escribir.",
           "is_correct": false,
           "feedback": "Incorrecto. No tiene relación con el modelo epistémico de redacción."
+        },
+        {
+          "letter": "D",
+          "text": "El modelo epistémico y procesual de la escritura, que la concibe como una herramienta de desarrollo cognitivo e indagación reflexiva.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Entiende la composición como un proceso dinámico (planificación-revisión) donde el lenguaje actúa como motor del pensamiento."
         }
       ],
       "correct_answer": "D",
@@ -869,9 +869,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Trasciende la literatura costumbrista local para inscribirse en la narrativa existencialista universal, explorando el aislamiento y la imaginación creadora.",
-          "is_correct": true,
-          "feedback": "¡Correcto! Saca la literatura regional del mero folclore para abordar los dilemas filosóficos del hombre moderno."
+          "text": "Constituye un manual de geografía sobre los departamentos del interior del Uruguay.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No persigue fines didácticos ni geográficos."
         },
         {
           "letter": "B",
@@ -881,9 +881,9 @@
         },
         {
           "letter": "C",
-          "text": "Constituye un manual de geografía sobre los departamentos del interior del Uruguay.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No persigue fines didácticos ni geográficos."
+          "text": "Trasciende la literatura costumbrista local para inscribirse en la narrativa existencialista universal, explorando el aislamiento y la imaginación creadora.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Saca la literatura regional del mero folclore para abordar los dilemas filosóficos del hombre moderno."
         },
         {
           "letter": "D",
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Explora el desencanto, la alienación y el vacío existencial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La obra de Juan Carlos Onetti se sitúa en la cumbre de la literatura hispanoamericana al desplazar el foco costumbrista hacia el existencialismo, creando universos ficcionales de alta densidad simbólica.",
       "difficulty": "10",
       "images": [],

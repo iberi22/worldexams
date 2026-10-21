@@ -425,9 +425,9 @@
         },
         {
           "letter": "B",
-          "text": "Porque al proteger el hábitat y sus interacciones se asegura la supervivencia de miles de especies y los procesos naturales.",
-          "is_correct": true,
-          "feedback": "¡Correcto! El enfoque ecosistémico protege la red de la vida en su totalidad."
+          "text": "Porque las plantas del parque nacional producen todo el oxígeno que necesita Argentina.",
+          "is_correct": false,
+          "feedback": "Es una exageración científica; el oxígeno se produce globalmente, aunque los bosques locales ayudan."
         },
         {
           "letter": "C",
@@ -437,12 +437,12 @@
         },
         {
           "letter": "D",
-          "text": "Porque las plantas del parque nacional producen todo el oxígeno que necesita Argentina.",
-          "is_correct": false,
-          "feedback": "Es una exageración científica; el oxígeno se produce globalmente, aunque los bosques locales ayudan."
+          "text": "Porque al proteger el hábitat y sus interacciones se asegura la supervivencia de miles de especies y los procesos naturales.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El enfoque ecosistémico protege la red de la vida en su totalidad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las especies no viven aisladas. El yaguareté necesita presas, las presas necesitan plantas, y las plantas necesitan polinizadores y un suelo sano. Proteger el ecosistema garantiza que todas estas relaciones vitales continúen funcionando.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación |\n| :--- | :--- |\n| Técnico | 30 |\n| Curricular | 40 |\n| Contexto | 20 |\n| Redacción | 10 |\n| **Total** | **100** |",
       "difficulty": "10",
       "images": [],

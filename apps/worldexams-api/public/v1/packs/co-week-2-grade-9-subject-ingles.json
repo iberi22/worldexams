@@ -480,9 +480,9 @@
         },
         {
           "letter": "B",
-          "text": "They are likely still tired or at the gym.",
-          "is_correct": true,
-          "feedback": "Correct! \"Just\" with Present Perfect shows an action finished moments ago with present consequences."
+          "text": "They didn't finish the workout properly.",
+          "is_correct": false,
+          "feedback": "Incorrect. It only refers to the timing."
         },
         {
           "letter": "C",
@@ -492,12 +492,12 @@
         },
         {
           "letter": "D",
-          "text": "They didn't finish the workout properly.",
-          "is_correct": false,
-          "feedback": "Incorrect. It only refers to the timing."
+          "text": "They are likely still tired or at the gym.",
+          "is_correct": true,
+          "feedback": "Correct! \"Just\" with Present Perfect shows an action finished moments ago with present consequences."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El uso de *just* con el *Present Perfect* enfatiza que la acción se completó hace un instante, lo cual suele implicar un estado presente (como estar sudado o cansado tras el ejercicio).\n\n---",
       "difficulty": "10",
       "images": [],

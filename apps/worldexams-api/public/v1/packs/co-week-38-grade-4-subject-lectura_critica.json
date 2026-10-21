@@ -14,15 +14,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "De plástico, porque la ficha dice que es liviano",
-          "is_correct": false,
-          "feedback": "Incorrecto. La ficha no menciona el plástico, y el único material que nombra es el acero inoxidable."
-        },
-        {
-          "letter": "B",
           "text": "De acero inoxidable",
           "is_correct": true,
           "feedback": "Correcto. La línea del material dice textualmente acero inoxidable, y esa es la respuesta que pide la ficha."
+        },
+        {
+          "letter": "B",
+          "text": "De plástico, porque la ficha dice que es liviano",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha no menciona el plástico, y el único material que nombra es el acero inoxidable."
         },
         {
           "letter": "C",
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. El peso es una medida y no el nombre de un material, y la ficha dice que el termo es de acero inoxidable."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Leer una ficha técnica de forma literal es ubicar el dato en la fila correcta y devolverlo tal como está escrito. Cada fila tiene un nombre, como Material o Peso, y un valor al lado. Esa disciplina ayuda a los niños a no mezclar datos y a responder con precisión cuando una etiqueta o un catálogo les pide información.",
       "difficulty": "4",
       "images": [],

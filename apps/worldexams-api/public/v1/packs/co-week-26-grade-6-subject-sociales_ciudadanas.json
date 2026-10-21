@@ -348,18 +348,18 @@
         },
         {
           "letter": "C",
-          "text": "Promover el uso responsable y la conservación del agua",
-          "is_correct": true,
-          "feedback": "Correcto. El objetivo del programa es educar a la población sobre la importancia de usar el agua de manera responsable y conservar este recurso para las generaciones futuras."
-        },
-        {
-          "letter": "D",
           "text": "Construir más edificios en la ciudad",
           "is_correct": false,
           "feedback": "Incorrecto. El programa no está relacionado con la construcción de edificios; se enfoca en la educación y concienciación sobre el cuidado del agua."
+        },
+        {
+          "letter": "D",
+          "text": "Promover el uso responsable y la conservación del agua",
+          "is_correct": true,
+          "feedback": "Correcto. El objetivo del programa es educar a la población sobre la importancia de usar el agua de manera responsable y conservar este recurso para las generaciones futuras."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La concienciación sobre el cuidado del agua es fundamental para garantizar la sostenibilidad de este recurso. Educar a la población sobre el uso responsable del agua ayuda a reducir el desperdicio y a proteger las fuentes hídricas para las generaciones futuras.",
       "difficulty": "8",
       "images": [],

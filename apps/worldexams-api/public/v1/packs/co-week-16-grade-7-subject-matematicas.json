@@ -105,12 +105,6 @@
       "context": "Antes de un partido en el estadio Atanasio Girardot de Medellín, dos amigos lanzan una moneda justa para decidir quién lava los uniformes.",
       "options": [
         {
-          "letter": "D",
-          "text": "$\\dfrac{1}{2} = 0{,}5$",
-          "is_correct": true,
-          "feedback": "Correcto. La moneda tiene $2$ caras posibles equiprobables."
-        },
-        {
           "letter": "A",
           "text": "$\\dfrac{1}{4}$",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "$1$",
           "is_correct": false,
           "feedback": "Incorrecto. La probabilidad $1$ sería un evento seguro, no el de una sola cara."
+        },
+        {
+          "letter": "D",
+          "text": "$\\dfrac{1}{2} = 0{,}5$",
+          "is_correct": true,
+          "feedback": "Correcto. La moneda tiene $2$ caras posibles equiprobables."
         }
       ],
       "correct_answer": "D",
@@ -151,12 +151,6 @@
       "context": "En un parque de Cali, un niño lanza un dado justo de seis caras durante un juego de piso.",
       "options": [
         {
-          "letter": "D",
-          "text": "$\\dfrac{1}{2} = 0{,}5$",
-          "is_correct": true,
-          "feedback": "Correcto. Casos favorables $\\{2,4,6\\}$ y totales $\\{1,2,3,4,5,6\\}$; $\\frac{3}{6} = \\frac{1}{2}$."
-        },
-        {
           "letter": "A",
           "text": "$\\dfrac{1}{3}$",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "$\\dfrac{2}{3}$",
           "is_correct": false,
           "feedback": "Incorrecto. Conteo incorrecto de casos favorables."
+        },
+        {
+          "letter": "D",
+          "text": "$\\dfrac{1}{2} = 0{,}5$",
+          "is_correct": true,
+          "feedback": "Correcto. Casos favorables $\\{2,4,6\\}$ y totales $\\{1,2,3,4,5,6\\}$; $\\frac{3}{6} = \\frac{1}{2}$."
         }
       ],
       "correct_answer": "D",
@@ -335,16 +335,16 @@
       "context": "En una rifa comunitaria en Tumaco (Nariño) se venden $50$ boletos: $10$ con premio mayor, $15$ con premio menor y $25$ sin premio.",
       "options": [
         {
-          "letter": "B",
-          "text": "$\\dfrac{25}{50} = \\dfrac{1}{2} = 0{,}5$",
-          "is_correct": true,
-          "feedback": "Correcto. Boletos premiados $= 10 + 15 = 25$; probabilidad $= 25/50$."
-        },
-        {
           "letter": "A",
           "text": "$\\dfrac{10}{50}$",
           "is_correct": false,
           "feedback": "Incorrecto. Solo consideraste los premios mayores."
+        },
+        {
+          "letter": "B",
+          "text": "$\\dfrac{25}{50} = \\dfrac{1}{2} = 0{,}5$",
+          "is_correct": true,
+          "feedback": "Correcto. Boletos premiados $= 10 + 15 = 25$; probabilidad $= 25/50$."
         },
         {
           "letter": "C",
@@ -382,9 +382,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Llevar paraguas, porque la probabilidad de lluvia es alta y conviene estar preparado",
-          "is_correct": true,
-          "feedback": "Correcto. Con $P = 0{,}8$ es mucho más probable que llueva; llevar paraguas minimiza riesgos."
+          "text": "Da igual llevar o no llevar paraguas, porque la probabilidad es subjetiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. La probabilidad permite tomar decisiones informadas, no es irrelevante."
         },
         {
           "letter": "B",
@@ -394,9 +394,9 @@
         },
         {
           "letter": "C",
-          "text": "Da igual llevar o no llevar paraguas, porque la probabilidad es subjetiva",
-          "is_correct": false,
-          "feedback": "Incorrecto. La probabilidad permite tomar decisiones informadas, no es irrelevante."
+          "text": "Llevar paraguas, porque la probabilidad de lluvia es alta y conviene estar preparado",
+          "is_correct": true,
+          "feedback": "Correcto. Con $P = 0{,}8$ es mucho más probable que llueva; llevar paraguas minimiza riesgos."
         },
         {
           "letter": "D",
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Apostar contra una probabilidad alta no es una decisión razonable."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Con probabilidades cercanas a $1$, conviene prepararse para el evento más probable; con probabilidades bajas, se puede asumir el riesgo.",
       "difficulty": "10",
       "images": [],
@@ -427,12 +427,6 @@
       "context": "En Bogotá una vendedora de lotería compara dos lotes: Lote A con $100$ boletos y $5$ premios, y Lote B con $200$ boletos y $5$ premios. Cada boleto vale lo mismo.",
       "options": [
         {
-          "letter": "D",
-          "text": "En el Lote A, con probabilidad $0{,}05$, porque tiene menos boletos para la misma cantidad de premios",
-          "is_correct": true,
-          "feedback": "Correcto. $P_A = \\frac{5}{100} = 0{,}05$; $P_B = \\frac{5}{200} = 0{,}025$. Lote A es el doble de probable."
-        },
-        {
           "letter": "A",
           "text": "En el Lote B, porque tiene más boletos",
           "is_correct": false,
@@ -449,6 +443,12 @@
           "text": "No se puede saber sin información del premio",
           "is_correct": false,
           "feedback": "Incorrecto. La probabilidad de obtener un boleto premiado depende solo del cociente."
+        },
+        {
+          "letter": "D",
+          "text": "En el Lote A, con probabilidad $0{,}05$, porque tiene menos boletos para la misma cantidad de premios",
+          "is_correct": true,
+          "feedback": "Correcto. $P_A = \\frac{5}{100} = 0{,}05$; $P_B = \\frac{5}{200} = 0{,}025$. Lote A es el doble de probable."
         }
       ],
       "correct_answer": "D",

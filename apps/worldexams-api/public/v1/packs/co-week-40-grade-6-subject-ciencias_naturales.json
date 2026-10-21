@@ -13,16 +13,16 @@
       "context": "En una clase de ciencias en Riohacha, la profesora compara el viento y el sol con el carbón y el petróleo que se usan en el país.",
       "options": [
         {
-          "letter": "B",
-          "text": "Se repone de forma natural en un tiempo corto, por lo que no se agota con su uso continuo",
-          "is_correct": true,
-          "feedback": "Correcto. Las fuentes renovables se regeneran continuamente."
-        },
-        {
           "letter": "A",
           "text": "Se agota al usarse y tarda millones de años en formarse de nuevo",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la característica de los combustibles fósiles, que no son renovables."
+        },
+        {
+          "letter": "B",
+          "text": "Se repone de forma natural en un tiempo corto, por lo que no se agota con su uso continuo",
+          "is_correct": true,
+          "feedback": "Correcto. Las fuentes renovables se regeneran continuamente."
         },
         {
           "letter": "C",
@@ -59,12 +59,6 @@
       "context": "En un municipio de Antioquia, un embalse almacena agua que luego desciende por tuberías hasta las turbinas de una central hidroeléctrica.",
       "options": [
         {
-          "letter": "D",
-          "text": "Porque las lluvias y los ríos alimentan el embalse, y el agua almacenada es la que aporta la energía al descender y mover las turbinas",
-          "is_correct": true,
-          "feedback": "Correcto. La energía del agua depende de que la cuenca reciba lluvia."
-        },
-        {
           "letter": "A",
           "text": "Porque las turbinas funcionan con la energía del viento que cruza el embalse",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "Porque el agua de la lluvia se transforma directamente en electricidad en las nubes",
           "is_correct": false,
           "feedback": "Incorrecto. La transformación ocurre en las turbinas y los generadores."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las lluvias y los ríos alimentan el embalse, y el agua almacenada es la que aporta la energía al descender y mover las turbinas",
+          "is_correct": true,
+          "feedback": "Correcto. La energía del agua depende de que la cuenca reciba lluvia."
         }
       ],
       "correct_answer": "D",
@@ -105,16 +105,16 @@
       "context": "En un taller de un colegio de Villavicencio, los estudiantes arman un pequeño panel solar, lo conectan a un ventilador y observan que este se mueve cuando el panel recibe luz.",
       "options": [
         {
-          "letter": "B",
-          "text": "La energía luminosa del Sol se transforma en energía eléctrica en el panel y, luego, en energía de movimiento en el ventilador",
-          "is_correct": true,
-          "feedback": "Correcto. El panel convierte luz en electricidad y el ventilador la usa para moverse."
-        },
-        {
           "letter": "A",
           "text": "La energía del viento se transforma directamente en luz dentro del panel",
           "is_correct": false,
           "feedback": "Incorrecto. El panel aprovecha la luz solar, no el movimiento del aire."
+        },
+        {
+          "letter": "B",
+          "text": "La energía luminosa del Sol se transforma en energía eléctrica en el panel y, luego, en energía de movimiento en el ventilador",
+          "is_correct": true,
+          "feedback": "Correcto. El panel convierte luz en electricidad y el ventilador la usa para moverse."
         },
         {
           "letter": "C",
@@ -151,16 +151,16 @@
       "context": "En La Guajira, cerca de Riohacha, se instalan aerogeneradores en una zona plana y despejada, donde soplan vientos fuertes y constantes durante casi todo el año.",
       "options": [
         {
-          "letter": "B",
-          "text": "Los vientos son intensos y constantes, de modo que las aspas giran con fuerza y regularidad y mueven los generadores por más horas al día",
-          "is_correct": true,
-          "feedback": "Correcto. La cantidad y la constancia del viento determinan la energía producida."
-        },
-        {
           "letter": "A",
           "text": "El terreno plano produce por sí solo electricidad sin necesidad de viento",
           "is_correct": false,
           "feedback": "Incorrecto. Los aerogeneradores necesitan el viento para girar."
+        },
+        {
+          "letter": "B",
+          "text": "Los vientos son intensos y constantes, de modo que las aspas giran con fuerza y regularidad y mueven los generadores por más horas al día",
+          "is_correct": true,
+          "feedback": "Correcto. La cantidad y la constancia del viento determinan la energía producida."
         },
         {
           "letter": "C",
@@ -197,16 +197,16 @@
       "context": "En una casa de Ibagué, la familia quiere reducir el consumo de electricidad y piensa en cambios sencillos para la vida diaria.",
       "options": [
         {
-          "letter": "B",
-          "text": "Apagar las luces y los aparatos que no se usan, aprovechar la luz natural y cambiar los bombillos por otros de bajo consumo",
-          "is_correct": true,
-          "feedback": "Correcto. El uso eficiente consiste en evitar el desperdicio de energía."
-        },
-        {
           "letter": "A",
           "text": "Dejar encendidos todos los aparatos para que estén listos cuando se necesiten",
           "is_correct": false,
           "feedback": "Incorrecto. Dejarlos encendidos desperdicia energía sin utilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Apagar las luces y los aparatos que no se usan, aprovechar la luz natural y cambiar los bombillos por otros de bajo consumo",
+          "is_correct": true,
+          "feedback": "Correcto. El uso eficiente consiste en evitar el desperdicio de energía."
         },
         {
           "letter": "C",
@@ -289,16 +289,16 @@
       "context": "En un municipio de La Guajira, los estudiantes analizan los datos mensuales de un parque eólico y observan que en algunos meses la generación de electricidad baja notablemente.",
       "options": [
         {
-          "letter": "B",
-          "text": "La energía eólica depende de la velocidad del viento, que cambia de un mes a otro; cuando el viento disminuye, las aspas giran menos y se genera menos electricidad",
-          "is_correct": true,
-          "feedback": "Correcto. La variación del viento explica la variación de la generación."
-        },
-        {
           "letter": "A",
           "text": "Los aerogeneradores se dañan todos los meses y dejan de funcionar",
           "is_correct": false,
           "feedback": "Incorrecto. La variación responde al recurso, no a daños permanentes."
+        },
+        {
+          "letter": "B",
+          "text": "La energía eólica depende de la velocidad del viento, que cambia de un mes a otro; cuando el viento disminuye, las aspas giran menos y se genera menos electricidad",
+          "is_correct": true,
+          "feedback": "Correcto. La variación del viento explica la variación de la generación."
         },
         {
           "letter": "C",
@@ -335,12 +335,6 @@
       "context": "En la cuenca del río Cauca, los habitantes de un municipio río abajo comentan que, después de construirse una gran represa, cambió la cantidad de peces y la vegetación de las orillas.",
       "options": [
         {
-          "letter": "D",
-          "text": "La represa interrumpe el paso de los peces migratorios y retiene sedimentos y nutrientes, lo que modifica el hábitat y afecta la vegetación y la pesca río abajo",
-          "is_correct": true,
-          "feedback": "Correcto. La represa altera el flujo del agua, los sedimentos y la fauna."
-        },
-        {
           "letter": "A",
           "text": "La represa no produce ningún cambio en el río, solo genera electricidad",
           "is_correct": false,
@@ -357,6 +351,12 @@
           "text": "La vegetación de las orillas aumenta porque la represa riega todo el valle",
           "is_correct": false,
           "feedback": "Incorrecto. Muchas veces la vegetación ribereña disminuye al cambiar el río."
+        },
+        {
+          "letter": "D",
+          "text": "La represa interrumpe el paso de los peces migratorios y retiene sedimentos y nutrientes, lo que modifica el hábitat y afecta la vegetación y la pesca río abajo",
+          "is_correct": true,
+          "feedback": "Correcto. La represa altera el flujo del agua, los sedimentos y la fauna."
         }
       ],
       "correct_answer": "D",
@@ -381,12 +381,6 @@
       "context": "En un foro escolar de Bogotá, tres estudiantes afirman: 1) Las fuentes renovables no producen ningún impacto ambiental. 2) La energía hidroeléctrica depende de las lluvias y puede disminuir en épocas secas. 3) El uso eficiente de la energía ayuda a reducir la necesidad de construir nuevas plantas generadoras.",
       "options": [
         {
-          "letter": "C",
-          "text": "La 1 es falsa, porque aunque son más limpias, las fuentes renovables también tienen impactos; la 2 es verdadera y la 3 también es verdadera",
-          "is_correct": true,
-          "feedback": "Correcto. Reconoce los impactos de las renovables y el valor del uso eficiente."
-        },
-        {
           "letter": "A",
           "text": "Las tres afirmaciones son verdaderas, porque las renovables no afectan el ambiente",
           "is_correct": false,
@@ -397,6 +391,12 @@
           "text": "Solo la 1 es verdadera y las otras dos son falsas",
           "is_correct": false,
           "feedback": "Incorrecto. La 1 es falsa y las otras dos son verdaderas."
+        },
+        {
+          "letter": "C",
+          "text": "La 1 es falsa, porque aunque son más limpias, las fuentes renovables también tienen impactos; la 2 es verdadera y la 3 también es verdadera",
+          "is_correct": true,
+          "feedback": "Correcto. Reconoce los impactos de las renovables y el valor del uso eficiente."
         },
         {
           "letter": "D",
@@ -427,13 +427,13 @@
       "context": "Una comunidad rural del Chocó, sin conexión a la red eléctrica nacional, dispone de un presupuesto limitado en COP y recibe muchas horas de sol al día durante todo el año.",
       "options": [
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Instalar paneles solares con baterías para la escuela y el puesto de salud, porque aprovechan un recurso disponible todo el año, no contaminan durante su uso y mejoran servicios básicos",
           "is_correct": true,
           "feedback": "Correcto. La energía solar es adecuada para zonas aisladas con buena radiación."
         },
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Comprar plantas eléctricas de gasolina para cada casa y dejarlas encendidas todo el día",
           "is_correct": false,
           "feedback": "Incorrecto. Generan ruido, contaminan el aire y dependen de combustible costoso."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Una obra así puede dañar el ecosistema y no resolver la necesidad local."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Evaluar esta decisión exige relacionar el recurso disponible con las necesidades y el presupuesto: en una comunidad aislada con alta radiación solar, los paneles con baterías aprovechan una fuente renovable y local, mejoran la escuela y el puesto de salud y no emiten contaminantes durante su funcionamiento. Las plantas de gasolina implican gastos continuos y contaminación, y una represa sin estudios puede causar daños ambientales.",
       "difficulty": "10",
       "images": [],

@@ -348,18 +348,18 @@
         },
         {
           "letter": "C",
-          "text": "What is your favorite music? Do you like cumbia?",
-          "is_correct": true,
-          "feedback": "These questions are polite and clearly ask for an opinion."
-        },
-        {
-          "letter": "D",
           "text": "Cumbia is bad, right?",
           "is_correct": false,
           "feedback": "This sentence pushes a negative opinion instead of asking openly."
+        },
+        {
+          "letter": "D",
+          "text": "What is your favorite music? Do you like cumbia?",
+          "is_correct": true,
+          "feedback": "These questions are polite and clearly ask for an opinion."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Pedir opiniones requiere preguntas abiertas y un tono cortés. También se valora proponer opciones sin imponer el propio gusto musical.",
       "difficulty": "10",
       "images": [],

@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v1",
-      "statement": "Dada la función logarítmica $f(x) = \\log_{3}(2x - 8)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?",
-      "context": "Análisis de escalas logarítmicas en acústica o sismología Caso N° 1.",
+      "statement": "¿Cuál es el valor de $\\log_2 32$?",
+      "context": "Un programador de una empresa de software de Córdoba necesita saber cuántos bits hacen falta para codificar $32$ estados distintos, es decir, el exponente $n$ con $2^n = 32$.",
       "options": [
         {
-          "letter": "B",
-          "text": "Intervalo abierto $(4, +\\infty)$",
+          "letter": "A",
+          "text": "$5$",
           "is_correct": true,
-          "feedback": "Correcto. El argumento debe ser positivo: $2x - 8 > 0 \\Rightarrow 2x > 8 \\Rightarrow x > 4$."
+          "feedback": "Correcto. Como $2^5 = 32$, el logaritmo en base $2$ de $32$ es el exponente $5$."
         },
         {
-          "letter": "A",
-          "text": "Intervalo cerrado $[4, +\\infty)$",
+          "letter": "B",
+          "text": "$16$",
           "is_correct": false,
-          "feedback": "Incorrecto. El logaritmo de cero no existe en los reales."
+          "feedback": "Incorrecto. Se dividió $32 : 2$; el logaritmo es el exponente al que hay que elevar la base, no un cociente."
         },
         {
           "letter": "C",
-          "text": "Intervalo abierto $(-\\infty, 4)$",
+          "text": "$30$",
           "is_correct": false,
-          "feedback": "Incorrecto. Daría argumentos negativos no válidos."
+          "feedback": "Incorrecto. Se restó $32 - 2$; el logaritmo responde a qué potencia de $2$ da $32$."
         },
         {
           "letter": "D",
-          "text": "Intervalo abierto $(0, +\\infty)$",
+          "text": "$\\frac{1}{5}$",
           "is_correct": false,
-          "feedback": "Incorrecto. No consideró la traslación horizontal."
+          "feedback": "Incorrecto. Se invirtió el resultado: $2^{1/5} = \\sqrt[5]{2} \\approx 1{,}15$, no $32$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para que la función logarítmica esté definida, se requiere $2x - 8 > 0 \\Rightarrow 2x > 8 \\Rightarrow x > 4$. El dominio es $(4, +\\infty)$.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Por definición, $\\log_b a = c$ significa $b^c = a$. Buscamos $c$ con $2^c = 32$: como $2^1 = 2$, $2^2 = 4$, $2^3 = 8$, $2^4 = 16$, $2^5 = 32$, resulta $\\log_2 32 = 5$. Se necesitan $5$ bits para $32$ estados.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.9,
+      "expected_success": 0.85,
       "bundle_id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -54,41 +54,41 @@
     },
     {
       "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v2",
-      "statement": "Dada la función logarítmica $f(x) = \\log_{3}(2x - 10)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?",
-      "context": "Análisis de escalas logarítmicas en acústica o sismología Caso N° 2.",
+      "statement": "¿Cuál es el dominio de $f(x) = \\log(x - 3)$?",
+      "context": "Un ingeniero de Bahía Blanca modela la presión en una tubería con $f(x) = \\log(x - 3)$, donde $x$ es una medida en metros.",
       "options": [
         {
-          "letter": "B",
-          "text": "Intervalo abierto $(5, +\\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto. El argumento debe ser positivo: $2x - 10 > 0 \\Rightarrow 2x > 10 \\Rightarrow x > 5$."
+          "letter": "A",
+          "text": "$[3, +\\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x = 3$ el argumento vale $0$ y $\\log 0$ no está definido; el extremo debe quedar abierto."
         },
         {
-          "letter": "A",
-          "text": "Intervalo cerrado $[5, +\\infty)$",
+          "letter": "B",
+          "text": "$(0, +\\infty)$",
           "is_correct": false,
-          "feedback": "Incorrecto. El logaritmo de cero no existe en los reales."
+          "feedback": "Incorrecto. Ese es el dominio de $\\log x$; el $-3$ desplaza el dominio $3$ unidades hacia la derecha."
         },
         {
           "letter": "C",
-          "text": "Intervalo abierto $(-\\infty, 5)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Daría argumentos negativos no válidos."
+          "text": "$(3, +\\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. El argumento de un logaritmo debe ser positivo: $x - 3 > 0$, o sea, $x > 3$."
         },
         {
           "letter": "D",
-          "text": "Intervalo abierto $(0, +\\infty)$",
+          "text": "$(-3, +\\infty)$",
           "is_correct": false,
-          "feedback": "Incorrecto. No consideró la traslación horizontal."
+          "feedback": "Incorrecto. Error de signo al despejar: $x - 3 > 0$ da $x > 3$, no $x > -3$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para que la función logarítmica esté definida, se requiere $2x - 10 > 0 \\Rightarrow 2x > 10 \\Rightarrow x > 5$. El dominio es $(5, +\\infty)$.\n\n---",
+      "correct_answer": "C",
+      "explanation": "El logaritmo solo está definido para argumentos positivos. Planteamos $x - 3 > 0$ y despejamos $x > 3$. Por eso $\\text{Dom} f = (3, +\\infty)$, con asíntota vertical $x = 3$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.88,
+      "bloom": "Understand",
+      "expected_success": 0.83,
       "bundle_id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -99,41 +99,41 @@
     },
     {
       "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v3",
-      "statement": "Dada la función logarítmica $f(x) = \\log_{3}(2x - 12)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?",
-      "context": "Análisis de escalas logarítmicas en acústica o sismología Caso N° 3.",
+      "statement": "¿Cuál es la función inversa de $f(x) = 3^x$?",
+      "context": "En una clase de un colegio de Mendoza se estudia la función $f(x) = 3^x$, que modela la cantidad de contactos en una cadena de mensajes, y se busca su inversa.",
       "options": [
         {
-          "letter": "D",
-          "text": "Intervalo abierto $(6, +\\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto. El argumento debe ser positivo: $2x - 12 > 0 \\Rightarrow 2x > 12 \\Rightarrow x > 6$."
-        },
-        {
           "letter": "A",
-          "text": "Intervalo cerrado $[6, +\\infty)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. El logaritmo de cero no existe en los reales."
+          "text": "$f^{-1}(x) = \\log_3 x$",
+          "is_correct": true,
+          "feedback": "Correcto. El logaritmo en base $3$ deshace la potencia de base $3$: $\\log_3(3^x) = x$ y $3^{\\log_3 x} = x$."
         },
         {
           "letter": "B",
-          "text": "Intervalo abierto $(-\\infty, 6)$",
+          "text": "$f^{-1}(x) = x^{1/3}$",
           "is_correct": false,
-          "feedback": "Incorrecto. Daría argumentos negativos no válidos."
+          "feedback": "Incorrecto. La raíz cúbica es la inversa de $x^3$, donde la variable está en la base; aquí la variable está en el exponente."
         },
         {
           "letter": "C",
-          "text": "Intervalo abierto $(0, +\\infty)$",
+          "text": "$f^{-1}(x) = \\frac{1}{3^x}$",
           "is_correct": false,
-          "feedback": "Incorrecto. No consideró la traslación horizontal."
+          "feedback": "Incorrecto. Ese es el recíproco $3^{-x}$, no la inversa; por ejemplo, no devuelve $x$ al componer con $3^x$."
+        },
+        {
+          "letter": "D",
+          "text": "$f^{-1}(x) = \\frac{x}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividir por $3$ deshace multiplicar por $3$; la inversa de elevar a la $x$ es tomar logaritmo."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Para que la función logarítmica esté definida, se requiere $2x - 12 > 0 \\Rightarrow 2x > 12 \\Rightarrow x > 6$. El dominio es $(6, +\\infty)$.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Para invertir $y = 3^x$ despejamos $x$: $x = \\log_3 y$. Intercambiando los nombres de las variables, $f^{-1}(x) = \\log_3 x$. Sus gráficos son simétricos respecto de la recta $y = x$; por ejemplo, $(2, 9)$ está en $f$ y $(9, 2)$ en $f^{-1}$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.86,
+      "bloom": "Remember",
+      "expected_success": 0.81,
       "bundle_id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v4",
-      "statement": "Dada la función logarítmica $f(x) = \\log_{3}(2x - 14)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?",
-      "context": "Análisis de escalas logarítmicas en acústica o sismología Caso N° 4.",
+      "statement": "¿Cuál de las siguientes propiedades es correcta para $a > 0$ y $b > 0$?",
+      "context": "Un estudiante de Rosario prepara un resumen de propiedades de logaritmos para usarlo en problemas de acústica.",
       "options": [
         {
-          "letter": "B",
-          "text": "Intervalo abierto $(7, +\\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto. El argumento debe ser positivo: $2x - 14 > 0 \\Rightarrow 2x > 14 \\Rightarrow x > 7$."
+          "letter": "A",
+          "text": "$\\log(a + b) = \\log a + \\log b$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe una regla para el logaritmo de una suma; con $a = b = 1$: $\\log 2 \\ne 0$."
         },
         {
-          "letter": "A",
-          "text": "Intervalo cerrado $[7, +\\infty)$",
+          "letter": "B",
+          "text": "$\\log\\left(\\frac{a}{b}\\right) = \\frac{\\log a}{\\log b}$",
           "is_correct": false,
-          "feedback": "Incorrecto. El logaritmo de cero no existe en los reales."
+          "feedback": "Incorrecto. El logaritmo de un cociente es una resta, $\\log a - \\log b$, no un cociente de logaritmos."
         },
         {
           "letter": "C",
-          "text": "Intervalo abierto $(-\\infty, 7)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Daría argumentos negativos no válidos."
+          "text": "$\\log(ab) = \\log a + \\log b$",
+          "is_correct": true,
+          "feedback": "Correcto. El logaritmo de un producto es la suma de los logaritmos, porque al multiplicar potencias de igual base se suman exponentes."
         },
         {
           "letter": "D",
-          "text": "Intervalo abierto $(0, +\\infty)$",
+          "text": "$\\log(a^n) = (\\log a)^n$",
           "is_correct": false,
-          "feedback": "Incorrecto. No consideró la traslación horizontal."
+          "feedback": "Incorrecto. El exponente baja multiplicando: $\\log(a^n) = n\\log a$; por ejemplo, $\\log 100 = 2$ y $(\\log 10)^2 = 1$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para que la función logarítmica esté definida, se requiere $2x - 14 > 0 \\Rightarrow 2x > 14 \\Rightarrow x > 7$. El dominio es $(7, +\\infty)$.\n\n---",
+      "correct_answer": "C",
+      "explanation": "Si $a = 10^p$ y $b = 10^q$, entonces $ab = 10^{p+q}$ y $\\log(ab) = p + q = \\log a + \\log b$. De la misma idea salen $\\log\\frac{a}{b} = \\log a - \\log b$ y $\\log a^n = n\\log a$. No hay regla para $\\log(a+b)$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.84,
+      "expected_success": 0.79,
       "bundle_id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -189,171 +189,36 @@
     },
     {
       "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v5",
-      "statement": "Dada la función logarítmica $f(x) = \\log_{3}(2x - 16)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?",
-      "context": "Análisis de escalas logarítmicas en acústica o sismología Caso N° 5.",
+      "statement": "¿Cuál es aproximadamente el pH del jugo? (Usá $\\log 2 \\approx 0{,}30$.)",
+      "context": "En el laboratorio de química de una escuela técnica de Tucumán se mide en un jugo de limón una concentración $[\\text{H}^+] = 2\\cdot 10^{-3}$ mol/L, y se sabe que $\\text{pH} = -\\log[\\text{H}^+]$.",
       "options": [
         {
-          "letter": "C",
-          "text": "Intervalo abierto $(8, +\\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto. El argumento debe ser positivo: $2x - 16 > 0 \\Rightarrow 2x > 16 \\Rightarrow x > 8$."
-        },
-        {
           "letter": "A",
-          "text": "Intervalo cerrado $[8, +\\infty)$",
+          "text": "$3{,}30$",
           "is_correct": false,
-          "feedback": "Incorrecto. El logaritmo de cero no existe en los reales."
+          "feedback": "Incorrecto. Se sumó $\\log 2$ en lugar de restarlo: $-\\log(2\\cdot 10^{-3}) = 3 - 0{,}30$."
         },
         {
           "letter": "B",
-          "text": "Intervalo abierto $(-\\infty, 8)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Daría argumentos negativos no válidos."
-        },
-        {
-          "letter": "D",
-          "text": "Intervalo abierto $(0, +\\infty)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. No consideró la traslación horizontal."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Para que la función logarítmica esté definida, se requiere $2x - 16 > 0 \\Rightarrow 2x > 16 \\Rightarrow x > 8$. El dominio es $(8, +\\infty)$.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.82,
-      "bundle_id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v6",
-      "statement": "Dada la función logarítmica $f(x) = \\log_{3}(2x - 18)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?",
-      "context": "Análisis de escalas logarítmicas en acústica o sismología Caso N° 6.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Intervalo abierto $(9, +\\infty)$",
+          "text": "$2{,}70$",
           "is_correct": true,
-          "feedback": "Correcto. El argumento debe ser positivo: $2x - 18 > 0 \\Rightarrow 2x > 18 \\Rightarrow x > 9$."
-        },
-        {
-          "letter": "A",
-          "text": "Intervalo cerrado $[9, +\\infty)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. El logaritmo de cero no existe en los reales."
+          "feedback": "Correcto. Con $\\text{pH} = -(\\log 2 + \\log 10^{-3}) = -(0{,}30 - 3) = 2{,}70$."
         },
         {
           "letter": "C",
-          "text": "Intervalo abierto $(-\\infty, 9)$",
+          "text": "$-2{,}70$",
           "is_correct": false,
-          "feedback": "Incorrecto. Daría argumentos negativos no válidos."
+          "feedback": "Incorrecto. Se olvidó el signo menos de la definición de pH; $\\log(2\\cdot 10^{-3})$ es negativo y el pH queda positivo."
         },
         {
           "letter": "D",
-          "text": "Intervalo abierto $(0, +\\infty)$",
+          "text": "$0{,}30$",
           "is_correct": false,
-          "feedback": "Incorrecto. No consideró la traslación horizontal."
+          "feedback": "Incorrecto. Se tomó solo $\\log 2$ y se ignoró el factor $10^{-3}$, que aporta $-3$ al logaritmo."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Para que la función logarítmica esté definida, se requiere $2x - 18 > 0 \\Rightarrow 2x > 18 \\Rightarrow x > 9$. El dominio es $(9, +\\infty)$.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v7",
-      "statement": "Dada la función logarítmica $f(x) = \\log_{3}(2x - 20)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?",
-      "context": "Análisis de escalas logarítmicas en acústica o sismología Caso N° 7.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Intervalo abierto $(10, +\\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto. El argumento debe ser positivo: $2x - 20 > 0 \\Rightarrow 2x > 20 \\Rightarrow x > 10$."
-        },
-        {
-          "letter": "A",
-          "text": "Intervalo cerrado $[10, +\\infty)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. El logaritmo de cero no existe en los reales."
-        },
-        {
-          "letter": "C",
-          "text": "Intervalo abierto $(-\\infty, 10)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Daría argumentos negativos no válidos."
-        },
-        {
-          "letter": "D",
-          "text": "Intervalo abierto $(0, +\\infty)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. No consideró la traslación horizontal."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Para que la función logarítmica esté definida, se requiere $2x - 20 > 0 \\Rightarrow 2x > 20 \\Rightarrow x > 10$. El dominio es $(10, +\\infty)$.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.78,
-      "bundle_id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v8",
-      "statement": "Dada la función logarítmica $f(x) = \\log_{3}(2x - 22)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?",
-      "context": "Análisis de escalas logarítmicas en acústica o sismología Caso N° 8.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Intervalo abierto $(11, +\\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto. El argumento debe ser positivo: $2x - 22 > 0 \\Rightarrow 2x > 22 \\Rightarrow x > 11$."
-        },
-        {
-          "letter": "B",
-          "text": "Intervalo cerrado $[11, +\\infty)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. El logaritmo de cero no existe en los reales."
-        },
-        {
-          "letter": "C",
-          "text": "Intervalo abierto $(-\\infty, 11)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Daría argumentos negativos no válidos."
-        },
-        {
-          "letter": "D",
-          "text": "Intervalo abierto $(0, +\\infty)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. No consideró la traslación horizontal."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Para que la función logarítmica esté definida, se requiere $2x - 22 > 0 \\Rightarrow 2x > 22 \\Rightarrow x > 11$. El dominio es $(11, +\\infty)$.\n\n---",
+      "explanation": "Usamos la propiedad del producto: $\\log(2\\cdot 10^{-3}) = \\log 2 + \\log 10^{-3} \\approx 0{,}30 - 3 = -2{,}70$. Entonces $\\text{pH} = -(-2{,}70) = 2{,}70$, un valor ácido, como corresponde al limón.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -368,37 +233,37 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v9",
-      "statement": "Dada la función logarítmica $f(x) = \\log_{3}(2x - 24)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?",
-      "context": "Análisis de escalas logarítmicas en acústica o sismología Caso N° 9.",
+      "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el nivel sonoro en decibeles?",
+      "context": "Durante un recital en el estadio de River Plate, en Buenos Aires, se mide cerca de los parlantes una intensidad sonora $I = 10^{-1}$ W/m². El nivel sonoro es $L = 10\\log\\frac{I}{I_0}$, con $I_0 = 10^{-12}$ W/m².",
       "options": [
         {
           "letter": "A",
-          "text": "Intervalo abierto $(12, +\\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto. El argumento debe ser positivo: $2x - 24 > 0 \\Rightarrow 2x > 24 \\Rightarrow x > 12$."
+          "text": "$11$ dB",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó $\\log 10^{11} = 11$ pero se olvidó multiplicar por $10$ en la fórmula de decibeles."
         },
         {
           "letter": "B",
-          "text": "Intervalo cerrado $[12, +\\infty)$",
+          "text": "$130$ dB",
           "is_correct": false,
-          "feedback": "Incorrecto. El logaritmo de cero no existe en los reales."
+          "feedback": "Incorrecto. Se sumaron los exponentes $1 + 12$; al dividir potencias de igual base se restan: $-1 - (-12) = 11$."
         },
         {
           "letter": "C",
-          "text": "Intervalo abierto $(-\\infty, 12)$",
+          "text": "$-110$ dB",
           "is_correct": false,
-          "feedback": "Incorrecto. Daría argumentos negativos no válidos."
+          "feedback": "Incorrecto. Se invirtió el cociente, $\\frac{I_0}{I}$; la fórmula usa $\\frac{I}{I_0}$, que aquí es mayor que $1$."
         },
         {
           "letter": "D",
-          "text": "Intervalo abierto $(0, +\\infty)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. No consideró la traslación horizontal."
+          "text": "$110$ dB",
+          "is_correct": true,
+          "feedback": "Correcto. Con $\\frac{I}{I_0} = \\frac{10^{-1}}{10^{-12}} = 10^{11}$, se obtiene $L = 10\\cdot 11 = 110$ dB."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Para que la función logarítmica esté definida, se requiere $2x - 24 > 0 \\Rightarrow 2x > 24 \\Rightarrow x > 12$. El dominio es $(12, +\\infty)$.\n\n---",
+      "correct_answer": "D",
+      "explanation": "Calculamos el cociente: $\\frac{10^{-1}}{10^{-12}} = 10^{-1+12} = 10^{11}$. Luego $L = 10\\log 10^{11} = 10\\cdot 11 = 110$ dB, un nivel que puede dañar el oído con exposición prolongada.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -413,37 +278,37 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v10",
-      "statement": "Dada la función logarítmica $f(x) = \\log_{3}(2x - 26)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?",
-      "context": "Análisis de escalas logarítmicas en acústica o sismología Caso N° 10.",
+      "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v7",
+      "statement": "¿Cuántas veces mayor es la amplitud del sismo de magnitud $6$ que la del de magnitud $4$?",
+      "context": "En San Juan, una estación sismológica registra dos sismos de magnitud $4$ y $6$ en la escala de Richter, donde $M = \\log\\frac{A}{A_0}$ y $A$ es la amplitud de la onda.",
       "options": [
         {
           "letter": "A",
-          "text": "Intervalo abierto $(13, +\\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto. El argumento debe ser positivo: $2x - 26 > 0 \\Rightarrow 2x > 26 \\Rightarrow x > 13$."
+          "text": "$2$ veces",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se tomó la diferencia de magnitudes como cociente de amplitudes; cada punto de magnitud multiplica la amplitud por $10$."
         },
         {
           "letter": "B",
-          "text": "Intervalo cerrado $[13, +\\infty)$",
+          "text": "$1{,}5$ veces",
           "is_correct": false,
-          "feedback": "Incorrecto. El logaritmo de cero no existe en los reales."
+          "feedback": "Incorrecto. Se dividieron las magnitudes, $\\frac{6}{4}$; la escala es logarítmica y hay que restar magnitudes y elevar $10$ a esa diferencia."
         },
         {
           "letter": "C",
-          "text": "Intervalo abierto $(-\\infty, 13)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Daría argumentos negativos no válidos."
+          "text": "$100$ veces",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia de magnitudes es $6 - 4 = 2$, y en escala logarítmica de base $10$ eso significa un cociente $10^2 = 100$."
         },
         {
           "letter": "D",
-          "text": "Intervalo abierto $(0, +\\infty)$",
+          "text": "$20$ veces",
           "is_correct": false,
-          "feedback": "Incorrecto. No consideró la traslación horizontal."
+          "feedback": "Incorrecto. Se calculó $10\\cdot 2$; la diferencia $2$ es un exponente: $10^2 = 100$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Para que la función logarítmica esté definida, se requiere $2x - 26 > 0 \\Rightarrow 2x > 26 \\Rightarrow x > 13$. El dominio es $(13, +\\infty)$.\n\n---",
+      "correct_answer": "C",
+      "explanation": "Restando las magnitudes: $M_1 - M_2 = \\log\\frac{A_1}{A_0} - \\log\\frac{A_2}{A_0} = \\log\\frac{A_1}{A_2}$. Con $6 - 4 = 2$: $\\log\\frac{A_1}{A_2} = 2$, de modo que $\\frac{A_1}{A_2} = 10^2 = 100$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -458,41 +323,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v11",
-      "statement": "Dada la función logarítmica $f(x) = \\log_{3}(2x - 28)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?",
-      "context": "Análisis de escalas logarítmicas en acústica o sismología Caso N° 11.",
+      "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v8",
+      "statement": "¿Cuánto vale $\\log_2 48 - \\log_2 3$?",
+      "context": "En una guía de ejercicios de una escuela de La Rioja se pide simplificar una expresión que aparece al calcular la memoria de un dispositivo.",
       "options": [
         {
-          "letter": "C",
-          "text": "Intervalo abierto $(14, +\\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto. El argumento debe ser positivo: $2x - 28 > 0 \\Rightarrow 2x > 28 \\Rightarrow x > 14$."
-        },
-        {
           "letter": "A",
-          "text": "Intervalo cerrado $[14, +\\infty)$",
+          "text": "$\\log_2 45$",
           "is_correct": false,
-          "feedback": "Incorrecto. El logaritmo de cero no existe en los reales."
+          "feedback": "Incorrecto. Se restaron los argumentos; la resta de logaritmos corresponde al cociente de los argumentos, no a su diferencia."
         },
         {
           "letter": "B",
-          "text": "Intervalo abierto $(-\\infty, 14)$",
+          "text": "$4$",
+          "is_correct": true,
+          "feedback": "Correcto. Por la propiedad del cociente, $\\log_2 48 - \\log_2 3 = \\log_2\\frac{48}{3} = \\log_2 16 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$16$",
           "is_correct": false,
-          "feedback": "Incorrecto. Daría argumentos negativos no válidos."
+          "feedback": "Incorrecto. Se llegó a $\\frac{48}{3} = 16$ pero faltó tomar $\\log_2 16 = 4$."
         },
         {
           "letter": "D",
-          "text": "Intervalo abierto $(0, +\\infty)$",
+          "text": "$\\frac{\\log_2 48}{\\log_2 3}$",
           "is_correct": false,
-          "feedback": "Incorrecto. No consideró la traslación horizontal."
+          "feedback": "Incorrecto. Se confundió la resta de logaritmos con un cociente de logaritmos, que es otra cantidad ($\\approx 3{,}52$)."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Para que la función logarítmica esté definida, se requiere $2x - 28 > 0 \\Rightarrow 2x > 28 \\Rightarrow x > 14$. El dominio es $(14, +\\infty)$.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Aplicamos $\\log_b M - \\log_b N = \\log_b\\frac{M}{N}$: $\\log_2\\frac{48}{3} = \\log_2 16$. Como $2^4 = 16$, el resultado es $4$. Así se evita aproximar cada logaritmo por separado.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.7,
       "bundle_id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle",
       "periodo": 14,
@@ -503,41 +368,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v12",
-      "statement": "Dada la función logarítmica $f(x) = \\log_{3}(2x - 30)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?",
-      "context": "Análisis de escalas logarítmicas en acústica o sismología Caso N° 12.",
+      "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la asíntota vertical de $f$ y en qué punto corta al eje $x$?",
+      "context": "En un trabajo con GeoGebra en un colegio de Paraná se analiza el gráfico de $f(x) = \\log_2(x + 4)$.",
       "options": [
         {
-          "letter": "D",
-          "text": "Intervalo abierto $(15, +\\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto. El argumento debe ser positivo: $2x - 30 > 0 \\Rightarrow 2x > 30 \\Rightarrow x > 15$."
-        },
-        {
           "letter": "A",
-          "text": "Intervalo cerrado $[15, +\\infty)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. El logaritmo de cero no existe en los reales."
+          "text": "Asíntota $x = -4$; corta al eje $x$ en $x = -3$",
+          "is_correct": true,
+          "feedback": "Correcto. El argumento se anula en $x = -4$ (asíntota), y $\\log_2(x + 4) = 0$ exige $x + 4 = 1$, o sea, $x = -3$."
         },
         {
           "letter": "B",
-          "text": "Intervalo abierto $(-\\infty, 15)$",
+          "text": "Asíntota $x = -4$; corta al eje $x$ en $x = 1$",
           "is_correct": false,
-          "feedback": "Incorrecto. Daría argumentos negativos no válidos."
+          "feedback": "Incorrecto. Se usó $\\log_2 1 = 0$ sin el desplazamiento: hay que pedir $x + 4 = 1$, no $x = 1$."
         },
         {
           "letter": "C",
-          "text": "Intervalo abierto $(0, +\\infty)$",
+          "text": "Asíntota $x = 4$; corta al eje $x$ en $x = 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. No consideró la traslación horizontal."
+          "feedback": "Incorrecto. Error de signo: $x + 4 = 0$ da $x = -4$, y el gráfico se traslada hacia la izquierda."
+        },
+        {
+          "letter": "D",
+          "text": "Asíntota $y = -4$; corta al eje $x$ en $x = -3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La asíntota de un logaritmo es vertical; una recta $y = -4$ sería horizontal, y $f$ no la tiene."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Para que la función logarítmica esté definida, se requiere $2x - 30 > 0 \\Rightarrow 2x > 30 \\Rightarrow x > 15$. El dominio es $(15, +\\infty)$.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "$f$ es $\\log_2 x$ trasladada $4$ unidades a la izquierda. La asíntota vertical pasa de $x = 0$ a $x = -4$, y la raíz pasa de $x = 1$ a $x = 1 - 4 = -3$. Verificación: $f(-3) = \\log_2 1 = 0$.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.68,
       "bundle_id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle",
       "periodo": 14,
@@ -548,41 +413,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v13",
-      "statement": "Dada la función logarítmica $f(x) = \\log_{3}(2x - 32)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?",
-      "context": "Análisis de escalas logarítmicas en acústica o sismología Caso N° 13.",
+      "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es aproximadamente $\\log_5 30$?",
+      "context": "Una alumna de Santa Fe tiene una calculadora que solo trae las teclas $\\ln$ y $\\log$, y necesita $\\log_5 30$ para un problema de crecimiento poblacional.",
       "options": [
         {
           "letter": "A",
-          "text": "Intervalo abierto $(16, +\\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto. El argumento debe ser positivo: $2x - 32 > 0 \\Rightarrow 2x > 32 \\Rightarrow x > 16$."
+          "text": "$6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió $30 : 5$; el logaritmo busca el exponente con $5^c = 30$, y $5^6$ es mucho mayor."
         },
         {
           "letter": "B",
-          "text": "Intervalo cerrado $[16, +\\infty)$",
+          "text": "$0{,}473$",
           "is_correct": false,
-          "feedback": "Incorrecto. El logaritmo de cero no existe en los reales."
+          "feedback": "Incorrecto. Se invirtió el cambio de base, $\\frac{\\ln 5}{\\ln 30}$; el logaritmo del argumento va en el numerador."
         },
         {
           "letter": "C",
-          "text": "Intervalo abierto $(-\\infty, 16)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Daría argumentos negativos no válidos."
+          "text": "$2{,}113$",
+          "is_correct": true,
+          "feedback": "Correcto. Por cambio de base, $\\log_5 30 = \\frac{\\ln 30}{\\ln 5} \\approx \\frac{3{,}401}{1{,}609} \\approx 2{,}113$; además $5^2 = 25$ y $5^3 = 125$ lo ubican entre $2$ y $3$."
         },
         {
           "letter": "D",
-          "text": "Intervalo abierto $(0, +\\infty)$",
+          "text": "$1{,}477$",
           "is_correct": false,
-          "feedback": "Incorrecto. No consideró la traslación horizontal."
+          "feedback": "Incorrecto. Ese es $\\log 30$ en base $10$; faltó dividir por $\\log 5$ para pasar a base $5$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Para que la función logarítmica esté definida, se requiere $2x - 32 > 0 \\Rightarrow 2x > 32 \\Rightarrow x > 16$. El dominio es $(16, +\\infty)$.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "La fórmula de cambio de base es $\\log_b a = \\frac{\\ln a}{\\ln b} = \\frac{\\log a}{\\log b}$. Con $a = 30$ y $b = 5$: $\\frac{\\ln 30}{\\ln 5} \\approx 2{,}113$. Control: $5^{2{,}113} \\approx 30$.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.66,
       "bundle_id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle",
       "periodo": 14,
@@ -593,42 +458,177 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v14",
-      "statement": "Dada la función logarítmica $f(x) = \\log_{3}(2x - 34)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?",
-      "context": "Análisis de escalas logarítmicas en acústica o sismología Caso N° 14.",
+      "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de estas afirmaciones sobre $f(x) = \\log_{1/2} x$ es verdadera?",
+      "context": "En un examen de un instituto de Comodoro Rivadavia aparece la función $f(x) = \\log_{1/2} x$ y se piden sus características.",
       "options": [
         {
           "letter": "A",
-          "text": "Intervalo abierto $(17, +\\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto. El argumento debe ser positivo: $2x - 34 > 0 \\Rightarrow 2x > 34 \\Rightarrow x > 17$."
+          "text": "Es creciente, porque todos los logaritmos crecen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo crecen los de base mayor que $1$; con base $\\frac{1}{2}$, $f(2) = -1 < f(1) = 0$."
         },
         {
           "letter": "B",
-          "text": "Intervalo cerrado $[17, +\\infty)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. El logaritmo de cero no existe en los reales."
+          "text": "Es decreciente y $f(4) = -2$",
+          "is_correct": true,
+          "feedback": "Correcto. Con base entre $0$ y $1$ el logaritmo decrece, y $\\left(\\frac{1}{2}\\right)^{-2} = 4$, así que $f(4) = -2$."
         },
         {
           "letter": "C",
-          "text": "Intervalo abierto $(-\\infty, 17)$",
+          "text": "Es decreciente y $f(4) = 2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Daría argumentos negativos no válidos."
+          "feedback": "Incorrecto. Se calculó $\\log_2 4$; en base $\\frac{1}{2}$ hay que resolver $\\left(\\frac{1}{2}\\right)^c = 4$, cuyo exponente es $-2$."
         },
         {
           "letter": "D",
-          "text": "Intervalo abierto $(0, +\\infty)$",
+          "text": "Su dominio es el conjunto de todos los reales",
           "is_correct": false,
-          "feedback": "Incorrecto. No consideró la traslación horizontal."
+          "feedback": "Incorrecto. El dominio de todo logaritmo es $(0, +\\infty)$; el conjunto de todos los reales es su imagen."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Para que la función logarítmica esté definida, se requiere $2x - 34 > 0 \\Rightarrow 2x > 34 \\Rightarrow x > 17$. El dominio es $(17, +\\infty)$.\n\n---",
+      "correct_answer": "B",
+      "explanation": "Para $0 < b < 1$, la función $\\log_b x$ es decreciente, con dominio $(0, +\\infty)$, imagen todos los reales y asíntota $x = 0$. Además $\\log_{1/2} x = -\\log_2 x$; por eso $f(4) = -\\log_2 4 = -2$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.64,
+      "expected_success": 0.63,
+      "bundle_id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el nivel sonoro aproximado con las dos máquinas encendidas?",
+      "context": "En un taller de carpintería de Rafaela una máquina produce $80$ dB. Se instala una segunda máquina idéntica funcionando al mismo tiempo, y las intensidades sonoras se suman.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$160$ dB",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron los decibeles; lo que se suma son intensidades, y en la escala logarítmica eso agrega solo $10\\log 2$."
+        },
+        {
+          "letter": "B",
+          "text": "$80$ dB",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se supuso que el nivel no cambia, pero la intensidad total es el doble y $\\log$ es creciente."
+        },
+        {
+          "letter": "C",
+          "text": "$90$ dB",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar $10$ dB corresponde a multiplicar la intensidad por $10$, no por $2$."
+        },
+        {
+          "letter": "D",
+          "text": "$83$ dB",
+          "is_correct": true,
+          "feedback": "Correcto. Duplicar la intensidad suma $10\\log 2 \\approx 3{,}01$ dB: $80 + 3 = 83$ dB."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Si una máquina tiene intensidad $I$, con $80 = 10\\log\\frac{I}{I_0}$, dos máquinas dan $2I$: $L = 10\\log\\frac{2I}{I_0} = 10\\log 2 + 10\\log\\frac{I}{I_0} \\approx 3{,}01 + 80 = 83{,}01$ dB.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.61,
+      "bundle_id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v13",
+      "statement": "¿Qué punto pertenece al gráfico de $y = \\ln x$?",
+      "context": "En un trabajo sobre crecimiento de levaduras en una panadería de Rosario se sabe que el punto $(3;\\ 20{,}09)$ pertenece, en forma aproximada, al gráfico de $y = e^x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(20{,}09;\\ 3)$",
+          "is_correct": true,
+          "feedback": "Correcto. Como $\\ln x$ es la inversa de $e^x$, sus gráficos son simétricos respecto de $y = x$: se intercambian las coordenadas, y $\\ln 20{,}09 \\approx 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$(-3;\\ 20{,}09)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso refleja respecto del eje $y$; la inversa se obtiene reflejando respecto de la recta $y = x$."
+        },
+        {
+          "letter": "C",
+          "text": "$(3;\\ -20{,}09)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso refleja respecto del eje $x$; además $\\ln 3 \\approx 1{,}10$, no $-20{,}09$."
+        },
+        {
+          "letter": "D",
+          "text": "$(20{,}09;\\ -3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se intercambiaron las coordenadas pero se cambió el signo; $\\ln 20{,}09$ es positivo porque $20{,}09 > 1$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si $(a, b)$ está en el gráfico de $f$, entonces $(b, a)$ está en el de $f^{-1}$. Como $e^3 \\approx 20{,}09$, se tiene $\\ln 20{,}09 \\approx 3$: el punto $(20{,}09;\\ 3)$ pertenece a $y = \\ln x$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.59,
+      "bundle_id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es el análisis correcto?",
+      "context": "En una clase de un colegio de Viedma un alumno afirma que $f(x) = \\log(x^2)$ y $g(x) = 2\\log x$ son la misma función, porque $\\log(a^n) = n\\log a$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son la misma función en todos los reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna de las dos está definida en $x = 0$, y $g$ tampoco lo está para $x < 0$."
+        },
+        {
+          "letter": "B",
+          "text": "Coinciden solo para $x > 0$: $f$ está definida para todo $x \\ne 0$, y $g$ solo para $x > 0$",
+          "is_correct": true,
+          "feedback": "Correcto. La propiedad $\\log(a^n) = n\\log a$ exige $a > 0$; para $x < 0$, $f(x)$ existe (por ejemplo, $f(-10) = 2$) y $g(x)$ no."
+        },
+        {
+          "letter": "C",
+          "text": "Coinciden para todo $x \\ne 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $x = -10$, $f(-10) = \\log 100 = 2$, pero $g(-10) = 2\\log(-10)$ no existe."
+        },
+        {
+          "letter": "D",
+          "text": "No coinciden en ningún punto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $x > 0$ la propiedad vale: por ejemplo, $f(10) = g(10) = 2$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dos funciones son iguales si tienen el mismo dominio y la misma regla. $\\text{Dom} f = \\{x : x^2 > 0\\} = \\mathbb{R} - \\{0\\}$, mientras que $\\text{Dom} g = (0, +\\infty)$. En $x > 0$ coinciden; en realidad $f(x) = 2\\log|x|$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.57,
       "bundle_id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v15",
-      "statement": "Dada la función logarítmica $f(x) = \\log_{3}(2x - 36)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?",
-      "context": "Análisis de escalas logarítmicas en acústica o sismología Caso N° 15.",
+      "statement": "Si la magnitud aumenta en $1$ punto, ¿por cuánto se multiplica aproximadamente la energía liberada?",
+      "context": "El INPRES informa sismos en Mendoza usando la relación entre energía liberada y magnitud: $\\log E = 4{,}8 + 1{,}5M$, con $E$ en joules.",
       "options": [
         {
-          "letter": "C",
-          "text": "Intervalo abierto $(18, +\\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto. El argumento debe ser positivo: $2x - 36 > 0 \\Rightarrow 2x > 36 \\Rightarrow x > 18$."
-        },
-        {
           "letter": "A",
-          "text": "Intervalo cerrado $[18, +\\infty)$",
+          "text": "Por $10$",
           "is_correct": false,
-          "feedback": "Incorrecto. El logaritmo de cero no existe en los reales."
+          "feedback": "Incorrecto. Ese factor corresponde a la amplitud ($M = \\log\\frac{A}{A_0}$); para la energía el coeficiente es $1{,}5$, y $10^{1{,}5} \\approx 31{,}6$."
         },
         {
           "letter": "B",
-          "text": "Intervalo abierto $(-\\infty, 18)$",
+          "text": "Por $1{,}5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Daría argumentos negativos no válidos."
+          "feedback": "Incorrecto. El $1{,}5$ es lo que aumenta $\\log E$, no $E$; hay que elevar $10$ a esa diferencia."
+        },
+        {
+          "letter": "C",
+          "text": "Por $31{,}6$",
+          "is_correct": true,
+          "feedback": "Correcto. Al aumentar $M$ en $1$, $\\log E$ aumenta $1{,}5$, y entonces $E$ se multiplica por $10^{1{,}5} \\approx 31{,}6$."
         },
         {
           "letter": "D",
-          "text": "Intervalo abierto $(0, +\\infty)$",
+          "text": "Por $15$",
           "is_correct": false,
-          "feedback": "Incorrecto. No consideró la traslación horizontal."
+          "feedback": "Incorrecto. Se multiplicó $10\\cdot 1{,}5$; la diferencia de logaritmos $1{,}5$ se traduce en un factor $10^{1{,}5}$, no en un producto."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Para que la función logarítmica esté definida, se requiere $2x - 36 > 0 \\Rightarrow 2x > 36 \\Rightarrow x > 18$. El dominio es $(18, +\\infty)$.\n\n---",
+      "explanation": "Si $\\log E_2 = 4{,}8 + 1{,}5(M + 1)$ y $\\log E_1 = 4{,}8 + 1{,}5M$, restando queda $\\log\\frac{E_2}{E_1} = 1{,}5$. Por lo tanto $\\frac{E_2}{E_1} = 10^{1{,}5} = 10\\sqrt{10} \\approx 31{,}6$. Un sismo de un punto más libera unas $32$ veces más energía.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.62,
+      "bloom": "Analyze",
+      "expected_success": 0.55,
       "bundle_id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v16",
-      "statement": "Dada la función logarítmica $f(x) = \\log_{3}(2x - 38)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?",
-      "context": "Análisis de escalas logarítmicas en acústica o sismología Caso N° 16.",
+      "statement": "¿Cuál es el conjunto solución de $\\log_2 x < 3$?",
+      "context": "Una empresa de Córdoba mide la eficiencia de un algoritmo con $f(x) = \\log_2 x$ y quiere saber para qué tamaños $x$ de datos el costo es menor que $3$.",
       "options": [
         {
-          "letter": "C",
-          "text": "Intervalo abierto $(19, +\\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto. El argumento debe ser positivo: $2x - 38 > 0 \\Rightarrow 2x > 38 \\Rightarrow x > 19$."
-        },
-        {
           "letter": "A",
-          "text": "Intervalo cerrado $[19, +\\infty)$",
+          "text": "$(-\\infty, 8)$",
           "is_correct": false,
-          "feedback": "Incorrecto. El logaritmo de cero no existe en los reales."
+          "feedback": "Incorrecto. Se olvidó la condición de dominio: el logaritmo solo existe para $x > 0$."
         },
         {
           "letter": "B",
-          "text": "Intervalo abierto $(-\\infty, 19)$",
+          "text": "$(0, 6)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Daría argumentos negativos no válidos."
+          "feedback": "Incorrecto. Se calculó $2\\cdot 3 = 6$; para despejar hay que elevar: $x < 2^3 = 8$."
+        },
+        {
+          "letter": "C",
+          "text": "$(8, +\\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se invirtió el sentido de la desigualdad; eso solo ocurre con bases entre $0$ y $1$, y aquí la base es $2$."
         },
         {
           "letter": "D",
-          "text": "Intervalo abierto $(0, +\\infty)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. No consideró la traslación horizontal."
+          "text": "$(0, 8)$",
+          "is_correct": true,
+          "feedback": "Correcto. Como $\\log_2$ es creciente, $\\log_2 x < 3$ equivale a $x < 2^3 = 8$, y el dominio exige $x > 0$."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Para que la función logarítmica esté definida, se requiere $2x - 38 > 0 \\Rightarrow 2x > 38 \\Rightarrow x > 19$. El dominio es $(19, +\\infty)$.\n\n---",
+      "correct_answer": "D",
+      "explanation": "Para una base mayor que $1$, el logaritmo es creciente, así que la desigualdad se conserva al pasar a potencias: $\\log_2 x < 3 \\iff x < 2^3 = 8$. Combinando con el dominio $x > 0$, la solución es $(0, 8)$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.6,
+      "expected_success": 0.53,
       "bundle_id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v17",
-      "statement": "Dada la función logarítmica $f(x) = \\log_{3}(2x - 40)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?",
-      "context": "Análisis de escalas logarítmicas en acústica o sismología Caso N° 17.",
+      "statement": "¿Cuál es la evaluación correcta de esa afirmación?",
+      "context": "En un foro de estudiantes de Santiago del Estero alguien sostiene que $\\log_3 x > \\log_5 x$ para todo $x > 0$, porque $3 < 5$ hace que la base $3$ alcance antes cada valor.",
       "options": [
         {
-          "letter": "C",
-          "text": "Intervalo abierto $(20, +\\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto. El argumento debe ser positivo: $2x - 40 > 0 \\Rightarrow 2x > 40 \\Rightarrow x > 20$."
-        },
-        {
           "letter": "A",
-          "text": "Intervalo cerrado $[20, +\\infty)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. El logaritmo de cero no existe en los reales."
+          "text": "Es verdadera solo para $x > 1$; en $x = 1$ son iguales y para $0 < x < 1$ ocurre lo contrario",
+          "is_correct": true,
+          "feedback": "Correcto. Con $\\log_3 x = \\frac{\\ln x}{\\ln 3}$ y $\\log_5 x = \\frac{\\ln x}{\\ln 5}$, como $\\ln 3 < \\ln 5$, el orden depende del signo de $\\ln x$."
         },
         {
           "letter": "B",
-          "text": "Intervalo abierto $(-\\infty, 20)$",
+          "text": "Es verdadera para todo $x > 0$, porque $3 < 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Daría argumentos negativos no válidos."
+          "feedback": "Incorrecto. Falla para $x < 1$: $\\log_3\\frac{1}{9} = -2$, mientras que $\\log_5\\frac{1}{9} \\approx -1{,}37$, que es mayor."
+        },
+        {
+          "letter": "C",
+          "text": "Es falsa para todo $x > 0$, porque la base mayor da logaritmos mayores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $x = 9$: $\\log_3 9 = 2$ y $\\log_5 9 \\approx 1{,}37$, así que la base menor da el valor mayor."
         },
         {
           "letter": "D",
-          "text": "Intervalo abierto $(0, +\\infty)$",
+          "text": "Es verdadera solo para $0 < x < 1$",
           "is_correct": false,
-          "feedback": "Incorrecto. No consideró la traslación horizontal."
+          "feedback": "Incorrecto. Es al revés: $\\log_3\\frac{1}{9} = -2 < \\log_5\\frac{1}{9} \\approx -1{,}37$; en ese intervalo gana la base $5$."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Para que la función logarítmica esté definida, se requiere $2x - 40 > 0 \\Rightarrow 2x > 40 \\Rightarrow x > 20$. El dominio es $(20, +\\infty)$.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Escribimos ambos en base $e$: $\\log_3 x - \\log_5 x = \\ln x\\left(\\frac{1}{\\ln 3} - \\frac{1}{\\ln 5}\\right)$. El paréntesis es positivo, así que el signo es el de $\\ln x$: positivo si $x > 1$, cero si $x = 1$ y negativo si $0 < x < 1$. La afirmación solo vale para $x > 1$.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.58,
+      "expected_success": 0.5,
       "bundle_id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v18",
-      "statement": "Dada la función logarítmica $f(x) = \\log_{3}(2x - 42)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?",
-      "context": "Análisis de escalas logarítmicas en acústica o sismología Caso N° 18.",
+      "statement": "¿Cuál de estas afirmaciones describe correctamente el modelo?",
+      "context": "Una aplicación educativa de Buenos Aires modela la cantidad de palabras de inglés aprendidas con $N(t) = 20\\log_2(t + 1)$, donde $t$ son los días de uso.",
       "options": [
         {
-          "letter": "C",
-          "text": "Intervalo abierto $(21, +\\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto. El argumento debe ser positivo: $2x - 42 > 0 \\Rightarrow 2x > 42 \\Rightarrow x > 21$."
-        },
-        {
           "letter": "A",
-          "text": "Intervalo cerrado $[21, +\\infty)$",
+          "text": "$N$ aumenta $20$ palabras por día",
           "is_correct": false,
-          "feedback": "Incorrecto. El logaritmo de cero no existe en los reales."
+          "feedback": "Incorrecto. Eso describe un modelo lineal $20t$; aquí de $t = 3$ a $t = 7$ pasan $4$ días para sumar $20$ palabras."
         },
         {
           "letter": "B",
-          "text": "Intervalo abierto $(-\\infty, 21)$",
+          "text": "Cada vez que $t + 1$ se duplica, $N$ aumenta $20$ palabras, así que el aprendizaje se desacelera",
+          "is_correct": true,
+          "feedback": "Correcto. Por ejemplo, $N(1) = 20$, $N(3) = 40$ y $N(7) = 60$: para sumar $20$ palabras se necesitan cada vez más días."
+        },
+        {
+          "letter": "C",
+          "text": "$N$ tiene un valor máximo de $20$ palabras",
           "is_correct": false,
-          "feedback": "Incorrecto. Daría argumentos negativos no válidos."
+          "feedback": "Incorrecto. El logaritmo no está acotado superiormente: $N(1023) = 20\\cdot 10 = 200$."
         },
         {
           "letter": "D",
-          "text": "Intervalo abierto $(0, +\\infty)$",
+          "text": "$N$ se duplica cada vez que $t$ se duplica",
           "is_correct": false,
-          "feedback": "Incorrecto. No consideró la traslación horizontal."
+          "feedback": "Incorrecto. Con $t = 1$, $N = 20$, y con $t = 2$, $N = 20\\log_2 3 \\approx 31{,}7$, que no es el doble."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Para que la función logarítmica esté definida, se requiere $2x - 42 > 0 \\Rightarrow 2x > 42 \\Rightarrow x > 21$. El dominio es $(21, +\\infty)$.\n\n---",
+      "correct_answer": "B",
+      "explanation": "Usamos $\\log_2(2u) = 1 + \\log_2 u$: duplicar $t + 1$ suma $1$ al logaritmo y $20$ a $N$. Así, $N(1) = 20$, $N(3) = 40$, $N(7) = 60$, $N(15) = 80$. El modelo crece sin límite, pero cada vez más despacio, típico del aprendizaje con rendimientos decrecientes.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.56,
+      "expected_success": 0.48,
       "bundle_id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v19",
-      "statement": "Dada la función logarítmica $f(x) = \\log_{3}(2x - 44)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?",
-      "context": "Análisis de escalas logarítmicas en acústica o sismología Caso N° 19.",
+      "statement": "Un alumno afirma que la mezcla tendrá pH $3$, el promedio. ¿Cuál es la evaluación correcta?",
+      "context": "En un laboratorio de un colegio de Corrientes se mezclan volúmenes iguales de dos soluciones de ácido fuerte, una de pH $2$ y otra de pH $4$; se supone que no hay otras reacciones.",
       "options": [
         {
           "letter": "A",
-          "text": "Intervalo abierto $(22, +\\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto. El argumento debe ser positivo: $2x - 44 > 0 \\Rightarrow 2x > 44 \\Rightarrow x > 22$."
+          "text": "Es verdadera, porque el pH de una mezcla es el promedio de los pH",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH es un logaritmo: promediar logaritmos no equivale a promediar concentraciones."
         },
         {
           "letter": "B",
-          "text": "Intervalo cerrado $[22, +\\infty)$",
+          "text": "Es falsa: el pH es $6$, porque se suman los pH",
           "is_correct": false,
-          "feedback": "Incorrecto. El logaritmo de cero no existe en los reales."
+          "feedback": "Incorrecto. Sumar pH correspondería a multiplicar concentraciones, algo que no ocurre al mezclar."
         },
         {
           "letter": "C",
-          "text": "Intervalo abierto $(-\\infty, 22)$",
+          "text": "Es falsa: el pH es $4$, porque domina la solución más diluida",
           "is_correct": false,
-          "feedback": "Incorrecto. Daría argumentos negativos no válidos."
+          "feedback": "Incorrecto. La solución de pH $2$ tiene $100$ veces más $\\text{H}^+$, así que es la que domina la mezcla."
         },
         {
           "letter": "D",
-          "text": "Intervalo abierto $(0, +\\infty)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. No consideró la traslación horizontal."
+          "text": "Es falsa: $[\\text{H}^+] = \\frac{10^{-2} + 10^{-4}}{2} \\approx 5{,}05\\cdot 10^{-3}$ y el pH es cercano a $2{,}30$",
+          "is_correct": true,
+          "feedback": "Correcto. Lo que se promedia es la concentración, no el pH; $-\\log(5{,}05\\cdot 10^{-3}) \\approx 2{,}30$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Para que la función logarítmica esté definida, se requiere $2x - 44 > 0 \\Rightarrow 2x > 44 \\Rightarrow x > 22$. El dominio es $(22, +\\infty)$.\n\n---",
+      "correct_answer": "D",
+      "explanation": "Al mezclar volúmenes iguales, la concentración de $\\text{H}^+$ es el promedio: $\\frac{0{,}01 + 0{,}0001}{2} = 0{,}00505$ mol/L. Entonces $\\text{pH} = -\\log 0{,}00505 \\approx 2{,}30$, mucho más cerca de $2$ que de $3$, porque la escala es logarítmica.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.54,
+      "expected_success": 0.47,
       "bundle_id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle-v20",
-      "statement": "Dada la función logarítmica $f(x) = \\log_{3}(2x - 46)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?",
-      "context": "Análisis de escalas logarítmicas en acústica o sismología Caso N° 20.",
+      "statement": "¿Cuál es la afirmación correcta sobre la imagen de $f(x) = \\log x$?",
+      "context": "En una clase de un colegio de Posadas se discute si $f(x) = \\log x$, que crece muy lentamente, tiene un techo, es decir, un valor que nunca supera.",
       "options": [
         {
-          "letter": "B",
-          "text": "Intervalo abierto $(23, +\\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto. El argumento debe ser positivo: $2x - 46 > 0 \\Rightarrow 2x > 46 \\Rightarrow x > 23$."
+          "letter": "A",
+          "text": "Tiene una asíntota horizontal, porque crece muy lentamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Crecer lento no implica estar acotada: para superar cualquier $k$ basta tomar $x > 10^k$."
         },
         {
-          "letter": "A",
-          "text": "Intervalo cerrado $[23, +\\infty)$",
+          "letter": "B",
+          "text": "Su imagen es $(0, +\\infty)$, igual que su dominio",
           "is_correct": false,
-          "feedback": "Incorrecto. El logaritmo de cero no existe en los reales."
+          "feedback": "Incorrecto. Para $0 < x < 1$ el logaritmo es negativo, por ejemplo $\\log 0{,}01 = -2$."
         },
         {
           "letter": "C",
-          "text": "Intervalo abierto $(-\\infty, 23)$",
+          "text": "Su imagen es $[0, +\\infty)$, porque $\\log 1 = 0$",
           "is_correct": false,
-          "feedback": "Incorrecto. Daría argumentos negativos no válidos."
+          "feedback": "Incorrecto. Que $\\log 1 = 0$ no impide valores negativos: $\\log 0{,}1 = -1$."
         },
         {
           "letter": "D",
-          "text": "Intervalo abierto $(0, +\\infty)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. No consideró la traslación horizontal."
+          "text": "Su imagen es todo $\\mathbb{R}$: para cualquier $k$ existe $x = 10^k$ con $\\log x = k$",
+          "is_correct": true,
+          "feedback": "Correcto. Por ser inversa de $10^x$, el logaritmo toma todos los valores reales; por ejemplo, $\\log 10^6 = 6$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para que la función logarítmica esté definida, se requiere $2x - 46 > 0 \\Rightarrow 2x > 46 \\Rightarrow x > 23$. El dominio es $(23, +\\infty)$.",
+      "correct_answer": "D",
+      "explanation": "La imagen de $\\log x$ coincide con el dominio de su inversa $10^x$, que es todo $\\mathbb{R}$. Dado cualquier $k$, el número $x = 10^k > 0$ cumple $\\log x = k$. La función crece sin límite, aunque lentamente: para llegar a $6$ hace falta $x = 1\\,000\\,000$.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.52,
+      "expected_success": 0.45,
       "bundle_id": "AR-MAT-11-2026-W14-funcion-logaritmica-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",

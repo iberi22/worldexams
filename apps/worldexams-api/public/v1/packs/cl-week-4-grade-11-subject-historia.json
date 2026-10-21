@@ -830,9 +830,9 @@
         },
         {
           "letter": "B",
-          "text": "Redujo de manera sustantiva las tasas de analfabetismo y de mortalidad infantil, consolidando a la educación pública y la salud estatal como los canales primordiales de ascenso de las clases medias y obreras.",
-          "is_correct": true,
-          "feedback": "Correcto. El SNS bajó radicalmente la mortandad materno-infantil y erradicó epidemias de cólera y tifus. El robustecimiento de escuelas primarias, liceos públicos y universidades facilitó la profesionalización y movilidad de los sectores populares y medios, legitimando el rol promotor del Estado."
+          "text": "Hizo que Chile renunciara a toda relación soberana y aduanera con los países de América del Sur.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Chile continuó forjando acuerdos aduaneros y diplomáticos de mutua colaboración e integración con naciones vecinas."
         },
         {
           "letter": "C",
@@ -842,12 +842,12 @@
         },
         {
           "letter": "D",
-          "text": "Hizo que Chile renunciara a toda relación soberana y aduanera con los países de América del Sur.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Chile continuó forjando acuerdos aduaneros y diplomáticos de mutua colaboración e integración con naciones vecinas."
+          "text": "Redujo de manera sustantiva las tasas de analfabetismo y de mortalidad infantil, consolidando a la educación pública y la salud estatal como los canales primordiales de ascenso de las clases medias y obreras.",
+          "is_correct": true,
+          "feedback": "Correcto. El SNS bajó radicalmente la mortandad materno-infantil y erradicó epidemias de cólera y tifus. El robustecimiento de escuelas primarias, liceos públicos y universidades facilitó la profesionalización y movilidad de los sectores populares y medios, legitimando el rol promotor del Estado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "A mediados del siglo XX, el Estado chileno dejó de ser meramente 'gendarme' u ordenador (del estilo del siglo XIX) para asumir una clara función de justicia social, asumiendo que los derechos a la instrucción, el resguardo de la salud y el derecho a la vivienda constituían prerrogativas sociales básicas inseparables de la soberanía nacional.\n\n---",
       "difficulty": "10",
       "images": [],

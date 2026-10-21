@@ -875,9 +875,9 @@
         },
         {
           "letter": "B",
-          "text": "La complejidad de la oración compuesta en la prosa boricua se vincula íntimamente con la necesidad ética de expresar matices, tensiones, negociaciones e identidades híbridas de la realidad geopolítica de la isla.",
-          "is_correct": true,
-          "feedback": "¡Correcto! El lingüista sostiene que la estructura compleja de subordinación adverbial (matizar con concesiones, posponer con condiciones) representa a nivel formal de la lengua la realidad existencial del puertorriqueño, que exige negociar matices frente a fuerzas coloniales asimiladoras."
+          "text": "Las oraciones coordinadas copulativas de suma simple son el único mecanismo sintáctico capaz de abolir la asonancia o anacoluto burocrático gubernamental.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor no habla de abolir el anacoluto con copulativas; reflexiona teóricamente sobre el valor social de la subordinación compleja y concesiva en el ensayo boricua."
         },
         {
           "letter": "C",
@@ -887,12 +887,12 @@
         },
         {
           "letter": "D",
-          "text": "Las oraciones coordinadas copulativas de suma simple son el único mecanismo sintáctico capaz de abolir la asonancia o anacoluto burocrático gubernamental.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El autor no habla de abolir el anacoluto con copulativas; reflexiona teóricamente sobre el valor social de la subordinación compleja y concesiva en el ensayo boricua."
+          "text": "La complejidad de la oración compuesta en la prosa boricua se vincula íntimamente con la necesidad ética de expresar matices, tensiones, negociaciones e identidades híbridas de la realidad geopolítica de la isla.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El lingüista sostiene que la estructura compleja de subordinación adverbial (matizar con concesiones, posponer con condiciones) representa a nivel formal de la lengua la realidad existencial del puertorriqueño, que exige negociar matices frente a fuerzas coloniales asimiladoras."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El análisis valorativo avanzado del discurso une la gramática sintáctica formal con la sociología de la literatura. El lingüista boricua demuestra que la forma sintáctica (la oración subordinada compleja, la subordinación concesiva) no es un mero capricho estético de oratoria académica, sino el vehículo de pensamiento crítico complejo que permite articular la realidad de una isla que vive en tensión cultural permanente.",
       "difficulty": "10",
       "images": [],

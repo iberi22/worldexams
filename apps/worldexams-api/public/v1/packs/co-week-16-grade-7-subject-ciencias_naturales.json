@@ -388,9 +388,9 @@
         },
         {
           "letter": "B",
-          "text": "La tabla interactiva porque es segura, muestra grupos y periodos y deja repetir simulaciones sin gastar reactivos.",
-          "is_correct": true,
-          "feedback": "Correcta, porque pondera seguridad, pedagogía y costo frente al riesgo."
+          "text": "Las muestras puras porque los 15000000 de pesos crean un escudo contra accidentes.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el dinero no neutraliza la reactividad química."
         },
         {
           "letter": "C",
@@ -400,12 +400,12 @@
         },
         {
           "letter": "D",
-          "text": "Las muestras puras porque los 15000000 de pesos crean un escudo contra accidentes.",
-          "is_correct": false,
-          "feedback": "Incorrecta, porque el dinero no neutraliza la reactividad química."
+          "text": "La tabla interactiva porque es segura, muestra grupos y periodos y deja repetir simulaciones sin gastar reactivos.",
+          "is_correct": true,
+          "feedback": "Correcta, porque pondera seguridad, pedagogía y costo frente al riesgo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Evaluar exige poner la vida primero. El sodio arde con agua y el cloro irrita los pulmones. La tabla interactiva deja ubicar grupos, comparar metales y simular uniones sin peligro y sirve por años. Las muestras puras solo convienen en bachillerato con laboratorio equipado.",
       "difficulty": "10",
       "images": [],

@@ -440,18 +440,18 @@
         },
         {
           "letter": "C",
-          "text": "Detiene el tiempo narrativo para crear ambiente, dar verosimilitud y profundidad a la historia.",
-          "is_correct": true,
-          "feedback": "Correcto. La descripción es el \"decorado\" de la acción; sin ella, los personajes parecerían flotar en el vacío."
-        },
-        {
-          "letter": "D",
           "text": "Indica que el narrador se quedó sin ideas para seguir contando la trama.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un recurso necesario para que la narración sea completa y rica."
+        },
+        {
+          "letter": "D",
+          "text": "Detiene el tiempo narrativo para crear ambiente, dar verosimilitud y profundidad a la historia.",
+          "is_correct": true,
+          "feedback": "Correcto. La descripción es el \"decorado\" de la acción; sin ella, los personajes parecerían flotar en el vacío."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Narración y descripción son hermanas. La narración aporta el movimiento (tiempo) y la descripción aporta el escenario y los seres que lo habitan (espacio). El equilibrio entre ambas hace que un relato sea memorable.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
       "difficulty": "10",
       "images": [],

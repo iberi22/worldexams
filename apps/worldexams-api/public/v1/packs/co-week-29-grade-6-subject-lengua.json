@@ -13,16 +13,16 @@
       "context": "En un colegio de Barranquilla, la profesora de lenguaje lleva varios periódicos a clase y explica que cada día se imprimen con información actualizada sobre lo que ocurrió.",
       "options": [
         {
-          "letter": "B",
-          "text": "Difundir información actual sobre hechos y personajes de interés público.",
-          "is_correct": true,
-          "feedback": "Correcto. El periódico informa de manera permanente y actualizada sobre la realidad."
-        },
-        {
           "letter": "A",
           "text": "Crear una obra de ficción con personajes imaginarios y un final feliz.",
           "is_correct": false,
           "feedback": "Incorrecto. Un diario de debates o una novela no tienen la finalidad informativa del periódico."
+        },
+        {
+          "letter": "B",
+          "text": "Difundir información actual sobre hechos y personajes de interés público.",
+          "is_correct": true,
+          "feedback": "Correcto. El periódico informa de manera permanente y actualizada sobre la realidad."
         },
         {
           "letter": "C",
@@ -105,16 +105,16 @@
       "context": "En clase de Pereira, un grupo de estudiantes debe producir el contenido de un periódico escolar sobre el barrio en el que viven.",
       "options": [
         {
-          "letter": "B",
-          "text": "Un encabezado con el nombre y la fecha, un título destacado y varias noticias breves sobre hechos reales del barrio.",
-          "is_correct": true,
-          "feedback": "Correcto. Reúne los elementos propios de una portada: identificación, título principal y noticias."
-        },
-        {
           "letter": "A",
           "text": "Un solo párrafo con la autobiografía del director del periódico, porque toda portada es personal.",
           "is_correct": false,
           "feedback": "Incorrecto. La autobiografía del director no es el contenido informativo de una portada."
+        },
+        {
+          "letter": "B",
+          "text": "Un encabezado con el nombre y la fecha, un título destacado y varias noticias breves sobre hechos reales del barrio.",
+          "is_correct": true,
+          "feedback": "Correcto. Reúne los elementos propios de una portada: identificación, título principal y noticias."
         },
         {
           "letter": "C",
@@ -151,16 +151,16 @@
       "context": "En un colegio de Cartagena, la alumna autora de la nota periodística escribe sobre un problema de movilidad en su barrio.",
       "options": [
         {
-          "letter": "B",
-          "text": "\"Vecinos de la calle del Carmen reclaman más buses en la mañana\".",
-          "is_correct": true,
-          "feedback": "Correcto. Ubica el lugar, la acción y las personas involucradas en el hecho notificado."
-        },
-        {
           "letter": "A",
           "text": "\"El transporte de todas las ciudades del mundo es un problema terrible\".",
           "is_correct": false,
           "feedback": "Incorrecto. Es una generalización sin lugar ni datos, propia de la opinión, no de la noticia."
+        },
+        {
+          "letter": "B",
+          "text": "\"Vecinos de la calle del Carmen reclaman más buses en la mañana\".",
+          "is_correct": true,
+          "feedback": "Correcto. Ubica el lugar, la acción y las personas involucradas en el hecho notificado."
         },
         {
           "letter": "C",
@@ -197,16 +197,16 @@
       "context": "Un grupo de estudiantes de Popayán prepara una edición del periódico escolar y debe escribir el texto de la noticia principal.",
       "options": [
         {
-          "letter": "B",
-          "text": "Titular, bajada, cuerpo de la noticia y fuente consultada.",
-          "is_correct": true,
-          "feedback": "Correcto. Reúne los elementos del género, desde el título hasta la mención de la fuente consultada."
-        },
-        {
           "letter": "A",
           "text": "Una portada a color, un precio de venta, el código postal y el número de edición.",
           "is_correct": false,
           "feedback": "Incorrecto. Son datos de la edición impresa, no elementos del texto de la noticia."
+        },
+        {
+          "letter": "B",
+          "text": "Titular, bajada, cuerpo de la noticia y fuente consultada.",
+          "is_correct": true,
+          "feedback": "Correcto. Reúne los elementos del género, desde el título hasta la mención de la fuente consultada."
         },
         {
           "letter": "C",
@@ -243,16 +243,16 @@
       "context": "En la primera página de un periódico de Medellín, el titular afirma que el tranvía es la mejor solución para el transporte de la ciudad, y en la misma página no hay datos ni nombre de quien escribe.",
       "options": [
         {
-          "letter": "B",
-          "text": "Se trata de una opinión sin sustento verificable, porque no aporta datos ni identifica a un autor responsable.",
-          "is_correct": true,
-          "feedback": "Correcto. Sin datos ni firma, el texto expresa un criterio personal que no puede comprobarse."
-        },
-        {
           "letter": "A",
           "text": "Se trata de una noticia verificada, porque aparece en la primera página del periódico.",
           "is_correct": false,
           "feedback": "Incorrecto. La ubicación en portada no convierte una opinión en información verificada."
+        },
+        {
+          "letter": "B",
+          "text": "Se trata de una opinión sin sustento verificable, porque no aporta datos ni identifica a un autor responsable.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin datos ni firma, el texto expresa un criterio personal que no puede comprobarse."
         },
         {
           "letter": "C",
@@ -289,22 +289,22 @@
       "context": "Un periódico de Barranquilla publica en su portada la misma nota copiada textualmente de un diario de otro país, sin indicar la fuente original.",
       "options": [
         {
-          "letter": "B",
-          "text": "La falta de crédito a la fuente original, que impide al lector rastrear el origen de la información.",
-          "is_correct": true,
-          "feedback": "Correcto. Sin crédito de fuente, el lector no puede verificar de dónde proviene el contenido."
-        },
-        {
           "letter": "A",
           "text": "La extensión excesiva de la nota, porque las noticias de portada siempre son muy largas.",
           "is_correct": false,
           "feedback": "Incorrecto. El problema descrito es la ausencia de crédito, no la extensión del texto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El mal estado de las fotografías, porque la copia de textos no incluye imágenes propias.",
           "is_correct": false,
           "feedback": "Incorrecto. El caso no aporta ningún dato sobre el estado de las fotografías."
+        },
+        {
+          "letter": "C",
+          "text": "La falta de crédito a la fuente original, que impide al lector rastrear el origen de la información.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin crédito de fuente, el lector no puede verificar de dónde proviene el contenido."
         },
         {
           "letter": "D",
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. La circulación del diario no está en relación con copiar una nota sin crédito."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Criticar un medio exige apoyarse en la evidencia disponible y señalar la falla más evidente. Cuando una nota se copia sin indicar su origen, se rompe la cadena de trazabilidad: el lector no puede saber quién produjo la información ni contrastarla. Reconocer esta falla enseña a exigir siempre crédito de fuente.",
       "difficulty": "8",
       "images": [],
@@ -335,12 +335,6 @@
       "context": "Un grupo de estudiantes de Ibagué debe leer la edición de un periódico en cuarenta minutos y decidieron trazar de antemano un plan de lectura.",
       "options": [
         {
-          "letter": "C",
-          "text": "Revisar portada y titulares, elegir las secciones de interés y leer primero los subtítulos para seleccionar los textos relevantes.",
-          "is_correct": true,
-          "feedback": "Correcto. El barrido por estructura permite localizar la información clave dentro del poco tiempo."
-        },
-        {
           "letter": "A",
           "text": "Leer palabra por palabra toda la edición, empezando por la primera página y terminando por la última.",
           "is_correct": false,
@@ -351,6 +345,12 @@
           "text": "Leer únicamente la sección de deportes, porque es la más extensa de cualquier periódico.",
           "is_correct": false,
           "feedback": "Incorrecto. La sección de deportes no siempre es la más extensa ni la más relevante para todos."
+        },
+        {
+          "letter": "C",
+          "text": "Revisar portada y titulares, elegir las secciones de interés y leer primero los subtítulos para seleccionar los textos relevantes.",
+          "is_correct": true,
+          "feedback": "Correcto. El barrido por estructura permite localizar la información clave dentro del poco tiempo."
         },
         {
           "letter": "D",
@@ -381,12 +381,6 @@
       "context": "Un medio impreso de Bogotá publica una encuesta de opinión y un periódico de la misma ciudad publica un artículo basado en un estudio oficial con metodología explicada.",
       "options": [
         {
-          "letter": "D",
-          "text": "La encuesta refleja la opinión de quienes responden, y el estudio explica cómo se obtuvo el dato; ambos requieren leer sus límites.",
-          "is_correct": true,
-          "feedback": "Correcto: explica qué mide cada fuente y señala que ninguna sustituye a la otra."
-        },
-        {
           "letter": "A",
           "text": "La encuesta es mejor porque qualquer persona puede opinar, y el estudio no representa a nadie.",
           "is_correct": false,
@@ -403,6 +397,12 @@
           "text": "Ambas fuentes son iguales porque cualquier forma de conocer la opinión es igualmente confiable.",
           "is_correct": false,
           "feedback": "Incorrecto. La confiabilidad depende del método, la muestra y la transparencia de cada fuente."
+        },
+        {
+          "letter": "D",
+          "text": "La encuesta refleja la opinión de quienes responden, y el estudio explica cómo se obtuvo el dato; ambos requieren leer sus límites.",
+          "is_correct": true,
+          "feedback": "Correcto: explica qué mide cada fuente y señala que ninguna sustituye a la otra."
         }
       ],
       "correct_answer": "D",

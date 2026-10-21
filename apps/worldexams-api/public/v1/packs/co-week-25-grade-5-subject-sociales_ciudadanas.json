@@ -151,12 +151,6 @@
       "context": "En un texto escolar se lee que el encuentro entre europeos y pueblos indígenas de América produjo intercambios de alimentos, idiomas, enfermedades y creencias.",
       "options": [
         {
-          "letter": "D",
-          "text": "La introducción de nuevas enfermedades contra las cuales no tenían defensas, lo que redujo enormemente su población.",
-          "is_correct": true,
-          "feedback": "Epidemias como la viruela causaron una gran mortalidad entre los pueblos originarios."
-        },
-        {
           "letter": "A",
           "text": "La independencia inmediata de todos los territorios indígenas sin ningún conflicto posterior.",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "El aumento de la población indígena en todo el continente gracias a nuevas medicinas.",
           "is_correct": false,
           "feedback": "El efecto demográfico inmediato fue una fuerte disminución de la población indígena."
+        },
+        {
+          "letter": "D",
+          "text": "La introducción de nuevas enfermedades contra las cuales no tenían defensas, lo que redujo enormemente su población.",
+          "is_correct": true,
+          "feedback": "Epidemias como la viruela causaron una gran mortalidad entre los pueblos originarios."
         }
       ],
       "correct_answer": "D",
@@ -197,16 +197,16 @@
       "context": "En una feria de la ciencia en Bogotá, los estudiantes presentan un proyecto sobre productos que se incorporaron a la cocina colombiana después del encuentro con Europa y África.",
       "options": [
         {
-          "letter": "B",
-          "text": "El trigo y el ganado bovino, que se aclimataron en distintas regiones de América.",
-          "is_correct": true,
-          "feedback": "El trigo y el ganado bovino fueron introducidos por los europeos en América."
-        },
-        {
           "letter": "A",
           "text": "La papa y el maíz, que ya eran cultivados por pueblos indígenas.",
           "is_correct": false,
           "feedback": "La papa y el maíz ya existían en América antes del encuentro."
+        },
+        {
+          "letter": "B",
+          "text": "El trigo y el ganado bovino, que se aclimataron en distintas regiones de América.",
+          "is_correct": true,
+          "feedback": "El trigo y el ganado bovino fueron introducidos por los europeos en América."
         },
         {
           "letter": "C",
@@ -244,9 +244,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Cada nombre refleja una mirada diferente: la europea destaca el hallazgo, la indígena resalta el impacto negativo sobre sus comunidades.",
-          "is_correct": true,
-          "feedback": "Las palabras revelan perspectivas distintas sobre un mismo proceso histórico."
+          "text": "Solo la versión europea es válida, porque fue escrita por personas educadas de la época.",
+          "is_correct": false,
+          "feedback": "La visión indígena es igualmente válida como fuente histórica."
         },
         {
           "letter": "B",
@@ -256,9 +256,9 @@
         },
         {
           "letter": "C",
-          "text": "Solo la versión europea es válida, porque fue escrita por personas educadas de la época.",
-          "is_correct": false,
-          "feedback": "La visión indígena es igualmente válida como fuente histórica."
+          "text": "Cada nombre refleja una mirada diferente: la europea destaca el hallazgo, la indígena resalta el impacto negativo sobre sus comunidades.",
+          "is_correct": true,
+          "feedback": "Las palabras revelan perspectivas distintas sobre un mismo proceso histórico."
         },
         {
           "letter": "D",
@@ -267,7 +267,7 @@
           "feedback": "El término \"invasión\" refleja precisamente el impacto sobre los pueblos originarios."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar cómo los nombres de un hecho histórico reflejan distintas perspectivas y relaciones de poder.",
       "difficulty": "8",
       "images": [],
@@ -289,16 +289,16 @@
       "context": "Antes del encuentro con América, las regiones de Europa, África y Asia tenían intercambios limitados; después, productos, personas y enfermedades circulan por todo el planeta.",
       "options": [
         {
-          "letter": "B",
-          "text": "Los viajes de exploración iniciaron un proceso de conexión global que mezcló culturas, pero también generó desigualdades entre regiones.",
-          "is_correct": true,
-          "feedback": "El encuentro produjo intercambios culturales y, a la vez, relaciones de poder desiguales."
-        },
-        {
           "letter": "A",
           "text": "Los viajes no cambiaron nada en la economía mundial, porque cada región siguió produciendo lo mismo.",
           "is_correct": false,
           "feedback": "El comercio global se transformó profundamente a partir de estos viajes."
+        },
+        {
+          "letter": "B",
+          "text": "Los viajes de exploración iniciaron un proceso de conexión global que mezcló culturas, pero también generó desigualdades entre regiones.",
+          "is_correct": true,
+          "feedback": "El encuentro produjo intercambios culturales y, a la vez, relaciones de poder desiguales."
         },
         {
           "letter": "C",
@@ -335,12 +335,6 @@
       "context": "Un colegio de Santa Marta realiza una semana cultural en la que se reflexiona sobre los viajes de exploración y el encuentro con los pueblos originarios que habitaban la región.",
       "options": [
         {
-          "letter": "D",
-          "text": "Porque permite comprender el origen de la diversidad cultural actual y reflexionar sobre el respeto a las diferencias y los derechos de los pueblos originarios.",
-          "is_correct": true,
-          "feedback": "Estudiar el pasado ayuda a valorar la diversidad y a promover el respeto en el presente."
-        },
-        {
           "letter": "A",
           "text": "Porque solo interesa a los historiadores profesionales y no al ciudadano común.",
           "is_correct": false,
@@ -357,6 +351,12 @@
           "text": "Porque es un tema sin relación con la formación ciudadana de los estudiantes.",
           "is_correct": false,
           "feedback": "La formación ciudadana incluye el conocimiento crítico del pasado común."
+        },
+        {
+          "letter": "D",
+          "text": "Porque permite comprender el origen de la diversidad cultural actual y reflexionar sobre el respeto a las diferencias y los derechos de los pueblos originarios.",
+          "is_correct": true,
+          "feedback": "Estudiar el pasado ayuda a valorar la diversidad y a promover el respeto en el presente."
         }
       ],
       "correct_answer": "D",

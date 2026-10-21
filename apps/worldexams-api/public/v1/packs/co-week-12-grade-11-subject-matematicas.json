@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle-v1",
-      "statement": "Al derivar la función de producción $f(x) = x^2 (1x + 1)$ utilizando la regla del producto, ¿cuál es la derivada $f'(x)$?",
-      "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
+      "statement": "¿Cuál es $f'(x)$?",
+      "context": "En el club de cálculo de un colegio de Neiva, el primer ejercicio del día es derivar la potencia $f(x) = x^7$.",
       "options": [
         {
-          "letter": "B",
-          "text": "$3x^2 + 2x$",
-          "is_correct": true,
-          "feedback": "Se aplica correctamente la regla del producto derivando ambos factores."
+          "letter": "A",
+          "text": "$7x^7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se bajó el exponente como coeficiente pero no se le restó 1."
         },
         {
-          "letter": "A",
-          "text": "$2x^2 + 2x$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se derivó mal el segundo término."
+          "letter": "B",
+          "text": "$7x^6$",
+          "is_correct": true,
+          "feedback": "Correcto. Regla de la potencia: $\\frac{d}{dx}x^n = nx^{n - 1}$, con $n = 7$ da $7x^6$."
         },
         {
           "letter": "C",
-          "text": "$3x^2 + x$",
+          "text": "$x^6$",
           "is_correct": false,
-          "feedback": "Incorrecto: se omitió multiplicar el coeficiente por 2."
+          "feedback": "Incorrecto. Se restó 1 al exponente pero faltó multiplicar por el exponente original, 7."
         },
         {
           "letter": "D",
-          "text": "$1x^2 + 3x$",
+          "text": "$\\frac{x^8}{8}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se derivó como suma simple en vez de producto."
+          "feedback": "Incorrecto. Eso es una antiderivada de $x^7$ (se sumó 1 al exponente); derivar resta 1."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Aplicando la regla del producto $(u \\cdot v)' = u'v + uv'$, donde $u=x^2$ ($u'=2x$) y $v=1x+1$ ($v'=1$): $f'(x) = 2x(1x+1) + x^2(1) = 2x^2 + 2x + 1x^2 = 3x^2 + 2x$.",
+      "explanation": "La regla de la potencia dice que $\\frac{d}{dx}x^n = nx^{n - 1}$ para cualquier exponente real $n$. Con $n = 7$, el exponente baja como factor y el nuevo exponente es $7 - 1 = 6$: $f'(x) = 7x^6$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -55,42 +55,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle-v2",
-      "statement": "Al aplicar la regla del cociente a la función $f(x) = \\frac{2x}{x + 1}$, ¿cuál es la expresión para $f'(x)$?",
-      "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
+      "statement": "¿Cuál es $\\frac{d}{dt}\\cos t$?",
+      "context": "En una clase de física en Tuluá, la posición horizontal de un péndulo se modela con $p(t) = \\cos t$ y se necesita su derivada.",
       "options": [
         {
-          "letter": "B",
-          "text": "$\\frac{2}{(x + 1)^2}$",
-          "is_correct": true,
-          "feedback": "Correcto: la resta en el numerador simplifica adecuadamente a la constante."
+          "letter": "A",
+          "text": "$\\sin t$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó el signo negativo; quien tiene derivada $+\\cos t$ es el seno, no al revés."
         },
         {
-          "letter": "A",
-          "text": "$\\frac{2x}{(x + 1)^2}$",
+          "letter": "B",
+          "text": "$-\\cos t$",
           "is_correct": false,
-          "feedback": "Incorrecto: no se simplificaron las x del numerador."
+          "feedback": "Incorrecto. $-\\cos t$ es la segunda derivada de $\\cos t$; se derivó dos veces."
         },
         {
           "letter": "C",
-          "text": "$\\frac{4}{(x + 1)^2}$",
+          "text": "$-t\\sin t$",
           "is_correct": false,
-          "feedback": "Incorrecto: se sumaron los términos del numerador en vez de restarlos."
+          "feedback": "Incorrecto. Se multiplicó por $t$ como si fuera la derivada interna; en $\\cos t$ la derivada interna es 1."
         },
         {
           "letter": "D",
-          "text": "$\\frac{2}{x + 1}$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se omitió elevar el denominador al cuadrado."
+          "text": "$-\\sin t$",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada del coseno es menos el seno: $\\frac{d}{dt}\\cos t = -\\sin t$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Aplicando la regla del cociente $(\\frac{u}{v})' = \\frac{u'v - uv'}{v^2}$, donde $u=2x$ ($u'=2$) y $v=x+1$ ($v'=1$): $f'(x) = \\frac{2(x+1) - 2x(1)}{(x+1)^2} = \\frac{2x + 2 - 2x}{(x+1)^2} = \\frac{2}{(x+1)^2}$.",
+      "correct_answer": "D",
+      "explanation": "Las derivadas básicas son $\\frac{d}{dt}\\sin t = \\cos t$ y $\\frac{d}{dt}\\cos t = -\\sin t$. Por eso la velocidad del péndulo es $p'(t) = -\\sin t$: cuando $\\cos t$ decrece desde 1 (para $t$ entre 0 y $\\pi$), la derivada es negativa.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Razonamiento",
-      "expected_success": 0.85,
+      "icfes_type": "Algebraico",
+      "expected_success": 0.83,
       "bundle_id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle-v3",
-      "statement": "Dada la función $f(x) = (x^2 + 3)^3$, ¿cuál es el resultado de aplicar la regla de la cadena para obtener $f'(x)$?",
-      "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
+      "statement": "¿Cuál es $f'(x)$?",
+      "context": "Un estudiante de Sogamoso modela el costo de una obra con el polinomio $f(x) = 5x^4 - 3x + 8$.",
       "options": [
         {
           "letter": "A",
-          "text": "$6x(x^2 + 3)^2$",
-          "is_correct": true,
-          "feedback": "Correcto: se multiplicó por la derivada interna 2x."
+          "text": "$20x^3 + 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó $-3 + 8$; la constante 8 no se conserva al derivar, su derivada es 0."
         },
         {
           "letter": "B",
-          "text": "$3(x^2 + 3)^2$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se olvidó multiplicar por la derivada interna del paréntesis."
+          "text": "$20x^3 - 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Se deriva término a término: $5 \\cdot 4x^3 = 20x^3$, $-3x \\to -3$ y la constante 8 tiene derivada 0."
         },
         {
           "letter": "C",
-          "text": "$6x^2(x^2 + 3)^2$",
+          "text": "$20x^4 - 3$",
           "is_correct": false,
-          "feedback": "Incorrecto: se elevó x al cuadrado en la derivada interna."
+          "feedback": "Incorrecto. Se multiplicó por el exponente pero no se le restó 1: debe quedar $x^3$."
         },
         {
           "letter": "D",
-          "text": "$2x(x^2 + 3)^3$",
+          "text": "$5x^3 - 3$",
           "is_correct": false,
-          "feedback": "Incorrecto: no se redujo el exponente exterior."
+          "feedback": "Incorrecto. Se redujo el exponente, pero faltó multiplicar el coeficiente 5 por el exponente 4."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Por regla de la cadena, la derivada de $u^3$ es $3u^2 \\cdot u'$. Con $u = x^2 + 3$, $u' = 2x$. Por tanto, $f'(x) = 3(x^2 + 3)^2 \\cdot (2x) = 6x(x^2 + 3)^2$.",
+      "correct_answer": "B",
+      "explanation": "La derivada de una suma es la suma de las derivadas y las constantes multiplicativas se conservan: $\\frac{d}{dx}(5x^4) = 5 \\cdot 4x^3 = 20x^3$, $\\frac{d}{dx}(-3x) = -3$ y $\\frac{d}{dx}(8) = 0$. Resultado: $f'(x) = 20x^3 - 3$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.85,
+      "icfes_type": "Algebraico",
+      "expected_success": 0.81,
       "bundle_id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle-v4",
-      "statement": "Dada la función lineal-potencial $f(x) = 4x^4 + 3x^2$, ¿cuál es su derivada $f'(x)$?",
-      "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
+      "statement": "¿Cuál es la evaluación correcta del procedimiento de Mariana?",
+      "context": "En una tutoría en Popayán, Mariana deriva $g(x) = x^2\\sin x$ y escribe $g'(x) = 2x\\cos x$, multiplicando la derivada de cada factor.",
       "options": [
         {
           "letter": "A",
-          "text": "$16x^3 + 6x$",
+          "text": "Es incorrecto: por la regla del producto $g'(x) = 2x\\sin x + x^2\\cos x$",
           "is_correct": true,
-          "feedback": "Correcto: se multiplicaron exponentes por coeficientes y se restarion 1 a los exponentes."
+          "feedback": "Correcto. $(uv)' = u'v + uv'$ con $u = x^2$ y $v = \\sin x$ da $2x\\sin x + x^2\\cos x$."
         },
         {
           "letter": "B",
-          "text": "$16x^4 + 6x$",
+          "text": "Es correcto: la derivada de un producto es el producto de las derivadas",
           "is_correct": false,
-          "feedback": "Incorrecto: no se disminuyó el exponente del primer término."
+          "feedback": "Incorrecto. Esa regla no existe; por ejemplo $(x \\cdot x)' = 2x$, mientras que $1 \\cdot 1 = 1$."
         },
         {
           "letter": "C",
-          "text": "$4x^3 + 3x$",
+          "text": "Es incorrecto: debería ser $2x\\sin x - x^2\\cos x$",
           "is_correct": false,
-          "feedback": "Incorrecto: se olvidó multiplicar por los exponentes originales."
+          "feedback": "Incorrecto. En la regla del producto los dos términos se suman; la resta aparece en el numerador de la regla del cociente."
         },
         {
           "letter": "D",
-          "text": "$16x^3 + 3$",
+          "text": "Es incorrecto: debería ser $2x + \\cos x$",
           "is_correct": false,
-          "feedback": "Incorrecto: se derivó 6x simplemente como 3."
+          "feedback": "Incorrecto. Se derivó como si fuera una suma $x^2 + \\sin x$; los factores están multiplicados."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Aplicando la regla de la potencia y suma: $(c x^n)' = c n x^{n-1}$. Así, $(4x^4)' = 16x^3$ y $(3x^2)' = 6x$, dando $f'(x) = 16x^3 + 6x$.",
+      "explanation": "La regla del producto es $(uv)' = u'v + uv'$. Con $u = x^2$ ($u' = 2x$) y $v = \\sin x$ ($v' = \\cos x$): $g'(x) = 2x\\sin x + x^2\\cos x$. Multiplicar las derivadas de los factores es un error frecuente; con $(x \\cdot x)' = 2x \\neq 1$ se ve que falla.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.85,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.79,
       "bundle_id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle-v5",
-      "statement": "Al derivar la función de producción $f(x) = x^2 (5x + 1)$ utilizando la regla del producto, ¿cuál es la derivada $f'(x)$?",
-      "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
+      "statement": "¿Cuál es $f'(x)$?",
+      "context": "En un laboratorio de Bucaramanga, una medición se ajusta con $f(x) = \\sqrt{x} + \\frac{4}{x}$ para $x > 0$.",
       "options": [
         {
-          "letter": "D",
-          "text": "$15x^2 + 2x$",
-          "is_correct": true,
-          "feedback": "Se aplica correctamente la regla del producto derivando ambos factores."
-        },
-        {
           "letter": "A",
-          "text": "$10x^2 + 2x$",
+          "text": "$\\frac{1}{2\\sqrt{x}} + \\frac{4}{x^2}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se derivó mal el segundo término."
+          "feedback": "Incorrecto. Se perdió el signo: al derivar $x^{-1}$ el exponente $-1$ baja como factor, dando $-4x^{-2}$."
         },
         {
           "letter": "B",
-          "text": "$15x^2 + x$",
+          "text": "$\\frac{1}{2\\sqrt{x}} - \\frac{4}{x}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se omitió multiplicar el coeficiente por 2."
+          "feedback": "Incorrecto. No se restó 1 al exponente de $x^{-1}$; el resultado debe tener $x^{-2}$."
         },
         {
           "letter": "C",
-          "text": "$5x^2 + 3x$",
+          "text": "$\\frac{1}{2\\sqrt{x}} - \\frac{4}{x^2}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sqrt{x} = x^{1/2} \\to \\frac{1}{2}x^{-1/2}$ y $4x^{-1} \\to -4x^{-2}$."
+        },
+        {
+          "letter": "D",
+          "text": "$2\\sqrt{x} - \\frac{4}{x^2}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se derivó como suma simple en vez de producto."
+          "feedback": "Incorrecto. La derivada de $x^{1/2}$ es $\\frac{1}{2}x^{-1/2}$; se multiplicó por 2 en vez de por $\\frac{1}{2}$."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Aplicando la regla del producto $(u \\cdot v)' = u'v + uv'$, donde $u=x^2$ ($u'=2x$) y $v=5x+1$ ($v'=5$): $f'(x) = 2x(5x+1) + x^2(5) = 10x^2 + 2x + 5x^2 = 15x^2 + 2x$.",
+      "correct_answer": "C",
+      "explanation": "Se reescriben los términos como potencias: $f(x) = x^{1/2} + 4x^{-1}$. Por la regla de la potencia: $\\frac{1}{2}x^{-1/2} + 4(-1)x^{-2} = \\frac{1}{2\\sqrt{x}} - \\frac{4}{x^2}$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "icfes_type": "Algebraico",
-      "expected_success": 0.75,
+      "expected_success": 0.77,
       "bundle_id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -239,41 +239,41 @@
     },
     {
       "id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle-v6",
-      "statement": "Al aplicar la regla del cociente a la función $f(x) = \\frac{6x}{x + 1}$, ¿cuál es la expresión para $f'(x)$?",
-      "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
+      "statement": "¿Cuál es $f'(x)$?",
+      "context": "En un curso de modelación en Medellín aparece la función $f(x) = x^3e^{x}$, que describe el crecimiento de un cultivo de levaduras.",
       "options": [
         {
-          "letter": "C",
-          "text": "$\\frac{6}{(x + 1)^2}$",
-          "is_correct": true,
-          "feedback": "Correcto: la resta en el numerador simplifica adecuadamente a la constante."
-        },
-        {
           "letter": "A",
-          "text": "$\\frac{6x}{(x + 1)^2}$",
+          "text": "$3x^2e^{x}$",
           "is_correct": false,
-          "feedback": "Incorrecto: no se simplificaron las x del numerador."
+          "feedback": "Incorrecto. Es el producto de las derivadas de cada factor; falta el término $x^3e^x$ de la regla del producto."
         },
         {
           "letter": "B",
-          "text": "$\\frac{12}{(x + 1)^2}$",
+          "text": "$x^3e^{x} + 3x^2$",
           "is_correct": false,
-          "feedback": "Incorrecto: se sumaron los términos del numerador en vez de restarlos."
+          "feedback": "Incorrecto. En el término $u'v$ faltó multiplicar $3x^2$ por $e^x$."
+        },
+        {
+          "letter": "C",
+          "text": "$e^{x}(x^3 + 3x^2)$",
+          "is_correct": true,
+          "feedback": "Correcto. Regla del producto: $3x^2e^x + x^3e^x = e^x(x^3 + 3x^2)$."
         },
         {
           "letter": "D",
-          "text": "$\\frac{6}{x + 1}$",
+          "text": "$3x^2e^{x - 1}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se omitió elevar el denominador al cuadrado."
+          "feedback": "Incorrecto. Se aplicó la regla de la potencia a $e^x$, pero $e^x$ no es una potencia de $x$: su derivada es $e^x$."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Aplicando la regla del cociente $(\\frac{u}{v})' = \\frac{u'v - uv'}{v^2}$, donde $u=6x$ ($u'=6$) y $v=x+1$ ($v'=1$): $f'(x) = \\frac{6(x+1) - 6x(1)}{(x+1)^2} = \\frac{6x + 6 - 6x}{(x+1)^2} = \\frac{6}{(x+1)^2}$.",
+      "explanation": "Con $u = x^3$ y $v = e^x$: $u' = 3x^2$ y $v' = e^x$ (la exponencial natural es su propia derivada). Por la regla del producto, $f'(x) = 3x^2e^x + x^3e^x = e^x(x^3 + 3x^2) = x^2e^x(x + 3)$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Razonamiento",
+      "icfes_type": "Algebraico",
       "expected_success": 0.75,
       "bundle_id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle",
       "periodo": 12,
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle-v7",
-      "statement": "Dada la función $f(x) = (x^2 + 7)^3$, ¿cuál es el resultado de aplicar la regla de la cadena para obtener $f'(x)$?",
-      "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
+      "statement": "¿Cuál es $f'(x)$?",
+      "context": "En una empresa de Villavicencio, la eficiencia de una máquina se modela con $f(x) = \\frac{2x + 1}{x - 3}$ para $x \\neq 3$.",
       "options": [
         {
           "letter": "A",
-          "text": "$6x(x^2 + 7)^2$",
-          "is_correct": true,
-          "feedback": "Correcto: se multiplicó por la derivada interna 2x."
+          "text": "$\\frac{7}{(x - 3)^2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se invirtió el orden del numerador ($uv' - u'v$); la regla del cociente es $\\frac{u'v - uv'}{v^2}$."
         },
         {
           "letter": "B",
-          "text": "$3(x^2 + 7)^2$",
+          "text": "$2$",
           "is_correct": false,
-          "feedback": "Incorrecto: se olvidó multiplicar por la derivada interna del paréntesis."
+          "feedback": "Incorrecto. Se dividieron las derivadas $\\frac{2}{1}$; la derivada de un cociente no es el cociente de las derivadas."
         },
         {
           "letter": "C",
-          "text": "$6x^2(x^2 + 7)^2$",
+          "text": "$\\frac{-5}{(x - 3)^2}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se elevó x al cuadrado en la derivada interna."
+          "feedback": "Incorrecto. No se distribuyó el signo menos sobre $2x + 1$: $-6 - 1 = -7$, no $-6 + 1$."
         },
         {
           "letter": "D",
-          "text": "$2x(x^2 + 7)^3$",
-          "is_correct": false,
-          "feedback": "Incorrecto: no se redujo el exponente exterior."
+          "text": "$\\frac{-7}{(x - 3)^2}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{2(x - 3) - (2x + 1)(1)}{(x - 3)^2} = \\frac{2x - 6 - 2x - 1}{(x - 3)^2} = \\frac{-7}{(x - 3)^2}$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Por regla de la cadena, la derivada de $u^3$ es $3u^2 \\cdot u'$. Con $u = x^2 + 7$, $u' = 2x$. Por tanto, $f'(x) = 3(x^2 + 7)^2 \\cdot (2x) = 6x(x^2 + 7)^2$.",
+      "correct_answer": "D",
+      "explanation": "Regla del cociente: $\\left(\\frac{u}{v}\\right)' = \\frac{u'v - uv'}{v^2}$, con $u = 2x + 1$, $u' = 2$, $v = x - 3$, $v' = 1$. Numerador: $2(x - 3) - (2x + 1) = -7$. Entonces $f'(x) = \\frac{-7}{(x - 3)^2}$, siempre negativa: la función decrece en cada intervalo de su dominio.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.75,
+      "icfes_type": "Algebraico",
+      "expected_success": 0.73,
       "bundle_id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle-v8",
-      "statement": "Dada la función lineal-potencial $f(x) = 8x^4 + 3x^2$, ¿cuál es su derivada $f'(x)$?",
-      "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
+      "statement": "¿Cuál es $f'(x)$?",
+      "context": "En un simulacro en Santa Marta se pide derivar $f(x) = (3x^2 - 1)^5$ sin desarrollar la potencia.",
       "options": [
         {
           "letter": "A",
-          "text": "$32x^3 + 6x$",
-          "is_correct": true,
-          "feedback": "Correcto: se multiplicaron exponentes por coeficientes y se restarion 1 a los exponentes."
+          "text": "$5(3x^2 - 1)^4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se derivó la función externa pero se olvidó multiplicar por la derivada interna $6x$."
         },
         {
           "letter": "B",
-          "text": "$32x^4 + 6x$",
+          "text": "$30x(3x^2 - 1)^5$",
           "is_correct": false,
-          "feedback": "Incorrecto: no se disminuyó el exponente del primer término."
+          "feedback": "Incorrecto. Se multiplicó por $5 \\cdot 6x$ pero no se redujo el exponente de 5 a 4."
         },
         {
           "letter": "C",
-          "text": "$8x^3 + 3x$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se olvidó multiplicar por los exponentes originales."
+          "text": "$30x(3x^2 - 1)^4$",
+          "is_correct": true,
+          "feedback": "Correcto. Regla de la cadena: $5(3x^2 - 1)^4 \\cdot 6x = 30x(3x^2 - 1)^4$."
         },
         {
           "letter": "D",
-          "text": "$32x^3 + 3$",
+          "text": "$5(6x)^4$",
           "is_correct": false,
-          "feedback": "Incorrecto: se derivó 6x simplemente como 3."
+          "feedback": "Incorrecto. Se derivó primero la base y luego se elevó; la cadena evalúa la derivada externa en $3x^2 - 1$ y multiplica por $6x$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Aplicando la regla de la potencia y suma: $(c x^n)' = c n x^{n-1}$. Así, $(8x^4)' = 32x^3$ y $(3x^2)' = 6x$, dando $f'(x) = 32x^3 + 6x$.",
+      "correct_answer": "C",
+      "explanation": "Con $u = 3x^2 - 1$, $f = u^5$. Regla de la cadena: $f'(x) = 5u^4 \\cdot u' = 5(3x^2 - 1)^4 \\cdot 6x = 30x(3x^2 - 1)^4$. Desarrollar la quinta potencia daría el mismo resultado con mucho más trabajo.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.75,
+      "icfes_type": "Algebraico",
+      "expected_success": 0.71,
       "bundle_id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -377,42 +377,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle-v9",
-      "statement": "Al derivar la función de producción $f(x) = x^2 (9x + 1)$ utilizando la regla del producto, ¿cuál es la derivada $f'(x)$?",
-      "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
+      "statement": "¿Cuál es $L'(x)$?",
+      "context": "En un estudio de acústica en Pereira se usa $L(x) = \\ln(x^2 + 4)$ y se necesita su razón de cambio.",
       "options": [
         {
-          "letter": "B",
-          "text": "$27x^2 + 2x$",
-          "is_correct": true,
-          "feedback": "Se aplica correctamente la regla del producto derivando ambos factores."
+          "letter": "A",
+          "text": "$\\frac{1}{x^2 + 4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó $\\frac{1}{u}$ pero faltó multiplicar por la derivada interna $2x$."
         },
         {
-          "letter": "A",
-          "text": "$18x^2 + 2x$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se derivó mal el segundo término."
+          "letter": "B",
+          "text": "$\\frac{2x}{x^2 + 4}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{d}{dx}\\ln u = \\frac{u'}{u}$ con $u = x^2 + 4$ y $u' = 2x$."
         },
         {
           "letter": "C",
-          "text": "$27x^2 + x$",
+          "text": "$\\frac{1}{2x}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se omitió multiplicar el coeficiente por 2."
+          "feedback": "Incorrecto. Se tomó el recíproco de la derivada interna; la fórmula es $\\frac{u'}{u}$, no $\\frac{1}{u'}$."
         },
         {
           "letter": "D",
-          "text": "$9x^2 + 3x$",
+          "text": "$2x\\ln(x^2 + 4)$",
           "is_correct": false,
-          "feedback": "Incorrecto: se derivó como suma simple en vez de producto."
+          "feedback": "Incorrecto. La derivada del logaritmo no conserva el logaritmo; $\\ln u$ se convierte en $\\frac{1}{u}$."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Aplicando la regla del producto $(u \\cdot v)' = u'v + uv'$, donde $u=x^2$ ($u'=2x$) y $v=9x+1$ ($v'=9$): $f'(x) = 2x(9x+1) + x^2(9) = 18x^2 + 2x + 9x^2 = 27x^2 + 2x$.",
+      "explanation": "Por la regla de la cadena, $\\frac{d}{dx}\\ln(u) = \\frac{1}{u} \\cdot u'$. Aquí $u = x^2 + 4$ y $u' = 2x$, de modo que $L'(x) = \\frac{2x}{x^2 + 4}$. Como $x^2 + 4 > 0$ siempre, el signo de $L'$ es el signo de $x$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "icfes_type": "Algebraico",
-      "expected_success": 0.75,
+      "expected_success": 0.69,
       "bundle_id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -423,42 +423,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle-v10",
-      "statement": "Al aplicar la regla del cociente a la función $f(x) = \\frac{10x}{x + 1}$, ¿cuál es la expresión para $f'(x)$?",
-      "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
+      "statement": "¿A qué ritmo crece la colonia en $t = 10$ horas, aproximadamente?",
+      "context": "En un laboratorio de microbiología de Bogotá, una colonia tiene $N(t) = 200e^{0{,}3t}$ bacterias a las $t$ horas.",
       "options": [
         {
           "letter": "A",
-          "text": "$\\frac{10}{(x + 1)^2}$",
+          "text": "$60e^{3} \\approx 1205$ bacterias por hora",
           "is_correct": true,
-          "feedback": "Correcto: la resta en el numerador simplifica adecuadamente a la constante."
+          "feedback": "Correcto. $N'(t) = 200 \\cdot 0{,}3e^{0{,}3t} = 60e^{0{,}3t}$, y $N'(10) = 60e^{3} \\approx 1205$."
         },
         {
           "letter": "B",
-          "text": "$\\frac{10x}{(x + 1)^2}$",
+          "text": "$200e^{3} \\approx 4017$ bacterias por hora",
           "is_correct": false,
-          "feedback": "Incorrecto: no se simplificaron las x del numerador."
+          "feedback": "Incorrecto. $200e^{3}$ es $N(10)$, la población; la derivada multiplica además por 0,3."
         },
         {
           "letter": "C",
-          "text": "$\\frac{20}{(x + 1)^2}$",
+          "text": "$600e^{3} \\approx 12\\,051$ bacterias por hora",
           "is_correct": false,
-          "feedback": "Incorrecto: se sumaron los términos del numerador en vez de restarlos."
+          "feedback": "Incorrecto. Se multiplicó por el exponente evaluado, $0{,}3 \\cdot 10 = 3$; la cadena multiplica por la constante 0,3."
         },
         {
           "letter": "D",
-          "text": "$\\frac{10}{x + 1}$",
+          "text": "$60$ bacterias por hora",
           "is_correct": false,
-          "feedback": "Incorrecto: se omitió elevar el denominador al cuadrado."
+          "feedback": "Incorrecto. 60 es $N'(0)$; faltó evaluar $e^{0{,}3t}$ en $t = 10$."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Aplicando la regla del cociente $(\\frac{u}{v})' = \\frac{u'v - uv'}{v^2}$, donde $u=10x$ ($u'=10$) y $v=x+1$ ($v'=1$): $f'(x) = \\frac{10(x+1) - 10x(1)}{(x+1)^2} = \\frac{10x + 10 - 10x}{(x+1)^2} = \\frac{10}{(x+1)^2}$.",
+      "explanation": "Para $e^{kt}$ la regla de la cadena da $\\frac{d}{dt}e^{kt} = ke^{kt}$. Así $N'(t) = 200(0{,}3)e^{0{,}3t} = 60e^{0{,}3t}$ y $N'(10) = 60e^{3} \\approx 1205$ bacterias por hora. Nótese que $N'(t) = 0{,}3N(t)$: crece en proporción a su tamaño.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Razonamiento",
-      "expected_success": 0.75,
+      "icfes_type": "Modelacion",
+      "expected_success": 0.67,
       "bundle_id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -469,41 +469,41 @@
     },
     {
       "id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle-v11",
-      "statement": "Dada la función $f(x) = (x^2 + 11)^3$, ¿cuál es el resultado de aplicar la regla de la cadena para obtener $f'(x)$?",
-      "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
+      "statement": "¿Cuál es $f'(x)$?",
+      "context": "En un examen de Ibagué se pide derivar $f(x) = \\sin^2 x$, es decir $(\\sin x)^2$, y algunos estudiantes la confunden con $\\sin(x^2)$.",
       "options": [
         {
-          "letter": "B",
-          "text": "$6x(x^2 + 11)^2$",
-          "is_correct": true,
-          "feedback": "Correcto: se multiplicó por la derivada interna 2x."
+          "letter": "A",
+          "text": "$2x\\cos(x^2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la derivada de $\\sin(x^2)$; en $\\sin^2 x$ la potencia se aplica al seno, no a $x$."
         },
         {
-          "letter": "A",
-          "text": "$3(x^2 + 11)^2$",
+          "letter": "B",
+          "text": "$\\cos^2 x$",
           "is_correct": false,
-          "feedback": "Incorrecto: se olvidó multiplicar por la derivada interna del paréntesis."
+          "feedback": "Incorrecto. Se derivó el seno y se conservó el cuadrado; falta bajar el exponente 2 y usar la regla de la cadena."
         },
         {
           "letter": "C",
-          "text": "$6x^2(x^2 + 11)^2$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se elevó x al cuadrado en la derivada interna."
+          "text": "$2\\sin x\\cos x$",
+          "is_correct": true,
+          "feedback": "Correcto. Con $u = \\sin x$: $f = u^2$ y $f' = 2u \\cdot u' = 2\\sin x\\cos x$."
         },
         {
           "letter": "D",
-          "text": "$2x(x^2 + 11)^3$",
+          "text": "$2\\cos x$",
           "is_correct": false,
-          "feedback": "Incorrecto: no se redujo el exponente exterior."
+          "feedback": "Incorrecto. Se bajó el 2 y se derivó el seno, pero se perdió el factor $\\sin x$ que deja $u^1$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Por regla de la cadena, la derivada de $u^3$ es $3u^2 \\cdot u'$. Con $u = x^2 + 11$, $u' = 2x$. Por tanto, $f'(x) = 3(x^2 + 11)^2 \\cdot (2x) = 6x(x^2 + 11)^2$.",
+      "correct_answer": "C",
+      "explanation": "$\\sin^2 x$ es una composición: la externa eleva al cuadrado y la interna es $\\sin x$. Regla de la cadena: $f'(x) = 2(\\sin x)^1 \\cdot \\cos x = 2\\sin x\\cos x$, que también es igual a $\\sin(2x)$. En cambio, para $\\sin(x^2)$ la interna es $x^2$ y se obtiene $2x\\cos(x^2)$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Resolucion",
+      "icfes_type": "Razonamiento",
       "expected_success": 0.65,
       "bundle_id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle",
       "periodo": 12,
@@ -515,42 +515,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle-v12",
-      "statement": "Dada la función lineal-potencial $f(x) = 12x^4 + 3x^2$, ¿cuál es su derivada $f'(x)$?",
-      "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
+      "statement": "¿Cuál es $h'(e)$?",
+      "context": "Una diseñadora de Cali estudia el perfil $h(x) = x\\ln x$ de una pieza y necesita la pendiente de la tangente en $x = e$.",
       "options": [
         {
-          "letter": "B",
-          "text": "$48x^3 + 6x$",
-          "is_correct": true,
-          "feedback": "Correcto: se multiplicaron exponentes por coeficientes y se restarion 1 a los exponentes."
+          "letter": "A",
+          "text": "$\\frac{1}{e}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicaron las derivadas de los factores ($1 \\cdot \\frac{1}{x}$); hay que usar la regla del producto."
         },
         {
-          "letter": "A",
-          "text": "$48x^4 + 6x$",
+          "letter": "B",
+          "text": "$1$",
           "is_correct": false,
-          "feedback": "Incorrecto: no se disminuyó el exponente del primer término."
+          "feedback": "Incorrecto. Solo se conservó uno de los términos de la regla del producto; $\\ln e + 1 = 2$."
         },
         {
           "letter": "C",
-          "text": "$12x^3 + 3x$",
+          "text": "$e$",
           "is_correct": false,
-          "feedback": "Incorrecto: se olvidó multiplicar por los exponentes originales."
+          "feedback": "Incorrecto. $e$ es $h(e) = e\\ln e$, el valor de la función, no la pendiente."
         },
         {
           "letter": "D",
-          "text": "$48x^3 + 3$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se derivó 6x simplemente como 3."
+          "text": "$2$",
+          "is_correct": true,
+          "feedback": "Correcto. $h'(x) = 1 \\cdot \\ln x + x \\cdot \\frac{1}{x} = \\ln x + 1$; en $x = e$ vale $1 + 1 = 2$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Aplicando la regla de la potencia y suma: $(c x^n)' = c n x^{n-1}$. Así, $(12x^4)' = 48x^3$ y $(3x^2)' = 6x$, dando $f'(x) = 48x^3 + 6x$.",
+      "correct_answer": "D",
+      "explanation": "Con $u = x$ y $v = \\ln x$: $u' = 1$ y $v' = \\frac{1}{x}$. Regla del producto: $h'(x) = \\ln x + x \\cdot \\frac{1}{x} = \\ln x + 1$. Evaluando, $h'(e) = \\ln e + 1 = 2$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.65,
+      "icfes_type": "Geometrico",
+      "expected_success": 0.63,
       "bundle_id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -561,42 +561,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle-v13",
-      "statement": "Al derivar la función de producción $f(x) = x^2 (13x + 1)$ utilizando la regla del producto, ¿cuál es la derivada $f'(x)$?",
-      "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
+      "statement": "Si $P(x) = f(x)g(x)$, ¿cuánto vale $P'(2)$?",
+      "context": "En un informe de una cooperativa de Tunja se tienen dos funciones con $f(2) = 3$, $f'(2) = -1$, $g(2) = 4$ y $g'(2) = 5$.",
       "options": [
         {
-          "letter": "D",
-          "text": "$39x^2 + 2x$",
-          "is_correct": true,
-          "feedback": "Se aplica correctamente la regla del producto derivando ambos factores."
-        },
-        {
           "letter": "A",
-          "text": "$26x^2 + 2x$",
+          "text": "$-5$",
           "is_correct": false,
-          "feedback": "Incorrecto: se derivó mal el segundo término."
+          "feedback": "Incorrecto. Es $f'(2)g'(2) = (-1)(5)$, el producto de las derivadas, que no es la regla del producto."
         },
         {
           "letter": "B",
-          "text": "$39x^2 + x$",
+          "text": "$-19$",
           "is_correct": false,
-          "feedback": "Incorrecto: se omitió multiplicar el coeficiente por 2."
+          "feedback": "Incorrecto. Se restaron los términos, $-4 - 15$; en la regla del producto los términos se suman."
         },
         {
           "letter": "C",
-          "text": "$13x^2 + 3x$",
+          "text": "$12$",
           "is_correct": false,
-          "feedback": "Incorrecto: se derivó como suma simple en vez de producto."
+          "feedback": "Incorrecto. 12 es $P(2) = f(2)g(2) = 3 \\cdot 4$, el valor del producto, no su derivada."
+        },
+        {
+          "letter": "D",
+          "text": "$11$",
+          "is_correct": true,
+          "feedback": "Correcto. $P'(2) = f'(2)g(2) + f(2)g'(2) = (-1)(4) + (3)(5) = -4 + 15 = 11$."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Aplicando la regla del producto $(u \\cdot v)' = u'v + uv'$, donde $u=x^2$ ($u'=2x$) y $v=13x+1$ ($v'=13$): $f'(x) = 2x(13x+1) + x^2(13) = 26x^2 + 2x + 13x^2 = 39x^2 + 2x$.",
+      "explanation": "Por la regla del producto, $P'(x) = f'(x)g(x) + f(x)g'(x)$. En $x = 2$ se reemplazan los valores de la tabla: $(-1)(4) + (3)(5) = -4 + 15 = 11$. No se necesita la fórmula de $f$ ni de $g$, solo sus valores y derivadas en el punto.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Algebraico",
-      "expected_success": 0.65,
+      "icfes_type": "Numerico",
+      "expected_success": 0.61,
       "bundle_id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -607,42 +607,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle-v14",
-      "statement": "Al aplicar la regla del cociente a la función $f(x) = \\frac{14x}{x + 1}$, ¿cuál es la expresión para $f'(x)$?",
-      "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
+      "statement": "¿Cuánto vale $H'(1)$?",
+      "context": "En un modelo de tráfico de Medellín, $H(x) = f(g(x))$ con $g(1) = 2$, $g'(1) = 3$, $f'(2) = -4$ y $f'(1) = 7$.",
       "options": [
         {
-          "letter": "B",
-          "text": "$\\frac{14}{(x + 1)^2}$",
+          "letter": "A",
+          "text": "$-12$",
           "is_correct": true,
-          "feedback": "Correcto: la resta en el numerador simplifica adecuadamente a la constante."
+          "feedback": "Correcto. Regla de la cadena: $H'(1) = f'(g(1))g'(1) = f'(2) \\cdot 3 = -4 \\cdot 3 = -12$."
         },
         {
-          "letter": "A",
-          "text": "$\\frac{14x}{(x + 1)^2}$",
+          "letter": "B",
+          "text": "$21$",
           "is_correct": false,
-          "feedback": "Incorrecto: no se simplificaron las x del numerador."
+          "feedback": "Incorrecto. Se evaluó $f'$ en 1 en lugar de en $g(1) = 2$: $f'(1)g'(1) = 7 \\cdot 3$."
         },
         {
           "letter": "C",
-          "text": "$\\frac{28}{(x + 1)^2}$",
+          "text": "$-4$",
           "is_correct": false,
-          "feedback": "Incorrecto: se sumaron los términos del numerador en vez de restarlos."
+          "feedback": "Incorrecto. Se tomó $f'(g(1)) = -4$ pero faltó multiplicar por la derivada interna $g'(1) = 3$."
         },
         {
           "letter": "D",
-          "text": "$\\frac{14}{x + 1}$",
+          "text": "$-8$",
           "is_correct": false,
-          "feedback": "Incorrecto: se omitió elevar el denominador al cuadrado."
+          "feedback": "Incorrecto. Se multiplicó por $g(1) = 2$ en lugar de por $g'(1) = 3$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Aplicando la regla del cociente $(\\frac{u}{v})' = \\frac{u'v - uv'}{v^2}$, donde $u=14x$ ($u'=14$) y $v=x+1$ ($v'=1$): $f'(x) = \\frac{14(x+1) - 14x(1)}{(x+1)^2} = \\frac{14x + 14 - 14x}{(x+1)^2} = \\frac{14}{(x+1)^2}$.",
+      "correct_answer": "A",
+      "explanation": "Para una composición, $H'(x) = f'(g(x)) \\cdot g'(x)$. En $x = 1$: primero se calcula $g(1) = 2$, luego $f'(2) = -4$, y se multiplica por $g'(1) = 3$. Resultado: $H'(1) = -12$. El dato $f'(1) = 7$ es un distractor.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Razonamiento",
-      "expected_success": 0.65,
+      "icfes_type": "Numerico",
+      "expected_success": 0.59,
       "bundle_id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -653,42 +653,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle-v15",
-      "statement": "Dada la función $f(x) = (x^2 + 15)^3$, ¿cuál es el resultado de aplicar la regla de la cadena para obtener $f'(x)$?",
-      "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
+      "statement": "¿Cuál de las derivadas está calculada correctamente?",
+      "context": "En una revisión de tareas en Cartagena, el profesor encuentra cuatro derivadas hechas por distintos estudiantes.",
       "options": [
         {
-          "letter": "C",
-          "text": "$6x(x^2 + 15)^2$",
-          "is_correct": true,
-          "feedback": "Correcto: se multiplicó por la derivada interna 2x."
-        },
-        {
           "letter": "A",
-          "text": "$3(x^2 + 15)^2$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se olvidó multiplicar por la derivada interna del paréntesis."
+          "text": "$\\frac{d}{dx}e^{3x} = 3e^{3x}$",
+          "is_correct": true,
+          "feedback": "Correcto. Regla de la cadena: la exponencial se conserva y se multiplica por la derivada de $3x$, que es 3."
         },
         {
           "letter": "B",
-          "text": "$6x^2(x^2 + 15)^2$",
+          "text": "$\\frac{d}{dx}\\ln(5x) = \\frac{5}{x}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se elevó x al cuadrado en la derivada interna."
+          "feedback": "Incorrecto. $\\frac{5}{5x} = \\frac{1}{x}$; se olvidó dividir entre $5x$ (o usar $\\ln 5 + \\ln x$)."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{d}{dx}2^{x} = x \\cdot 2^{x - 1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó la regla de la potencia a una exponencial; lo correcto es $2^x\\ln 2$."
         },
         {
           "letter": "D",
-          "text": "$2x(x^2 + 15)^3$",
+          "text": "$\\frac{d}{dx}\\cos(2x) = -\\sin(2x)$",
           "is_correct": false,
-          "feedback": "Incorrecto: no se redujo el exponente exterior."
+          "feedback": "Incorrecto. Falta la derivada interna 2: el resultado es $-2\\sin(2x)$."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Por regla de la cadena, la derivada de $u^3$ es $3u^2 \\cdot u'$. Con $u = x^2 + 15$, $u' = 2x$. Por tanto, $f'(x) = 3(x^2 + 15)^2 \\cdot (2x) = 6x(x^2 + 15)^2$.",
+      "correct_answer": "A",
+      "explanation": "Cada caso exige identificar la regla: $e^{3x}$ es una composición, $(e^{u})' = e^{u}u' = 3e^{3x}$. $\\ln(5x) = \\ln 5 + \\ln x$ tiene derivada $\\frac{1}{x}$. $2^x$ es exponencial: $(2^x)' = 2^x\\ln 2$. $\\cos(2x)$ requiere cadena: $-2\\sin(2x)$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.65,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.57,
       "bundle_id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -699,42 +699,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle-v16",
-      "statement": "Dada la función lineal-potencial $f(x) = 16x^4 + 3x^2$, ¿cuál es su derivada $f'(x)$?",
-      "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
+      "statement": "¿Cuál es la ecuación de esa recta tangente?",
+      "context": "En una práctica de diseño vial en Manizales, una curva se modela con $f(x) = x^2 - 3x$ y se busca la recta tangente en $x = 4$.",
       "options": [
         {
           "letter": "A",
-          "text": "$64x^3 + 6x$",
-          "is_correct": true,
-          "feedback": "Correcto: se multiplicaron exponentes por coeficientes y se restarion 1 a los exponentes."
+          "text": "$y = 5x + 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usó $f(4) = 4$ como intercepto con el eje $y$; el punto de tangencia es $(4, 4)$, no $(0, 4)$."
         },
         {
           "letter": "B",
-          "text": "$64x^4 + 6x$",
-          "is_correct": false,
-          "feedback": "Incorrecto: no se disminuyó el exponente del primer término."
+          "text": "$y = 5x - 16$",
+          "is_correct": true,
+          "feedback": "Correcto. $f(4) = 4$ y $f'(4) = 2 \\cdot 4 - 3 = 5$; entonces $y - 4 = 5(x - 4)$, es decir $y = 5x - 16$."
         },
         {
           "letter": "C",
-          "text": "$16x^3 + 3x$",
+          "text": "$y = 8x - 28$",
           "is_correct": false,
-          "feedback": "Incorrecto: se olvidó multiplicar por los exponentes originales."
+          "feedback": "Incorrecto. Se derivó $x^2 - 3x$ como $2x$, olvidando el $-3$; la pendiente correcta es 5."
         },
         {
           "letter": "D",
-          "text": "$64x^3 + 3$",
+          "text": "$y = 4x - 12$",
           "is_correct": false,
-          "feedback": "Incorrecto: se derivó 6x simplemente como 3."
+          "feedback": "Incorrecto. Se usó $f(4) = 4$ como pendiente; la pendiente de la tangente es $f'(4) = 5$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Aplicando la regla de la potencia y suma: $(c x^n)' = c n x^{n-1}$. Así, $(16x^4)' = 64x^3$ y $(3x^2)' = 6x$, dando $f'(x) = 64x^3 + 6x$.",
+      "correct_answer": "B",
+      "explanation": "La tangente en $x = a$ es $y = f(a) + f'(a)(x - a)$. Con $f(4) = 16 - 12 = 4$ y $f'(x) = 2x - 3$, $f'(4) = 5$. Entonces $y = 4 + 5(x - 4) = 5x - 16$. Comprobación: en $x = 4$ la recta da $20 - 16 = 4$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.65,
+      "icfes_type": "Geometrico",
+      "expected_success": 0.55,
       "bundle_id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -745,42 +745,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle-v17",
-      "statement": "Al derivar la función de producción $f(x) = x^2 (17x + 1)$ utilizando la regla del producto, ¿cuál es la derivada $f'(x)$?",
-      "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
+      "statement": "¿Cuál afirmación sobre el instante $t = 2$ es correcta?",
+      "context": "Un dron de vigilancia en Barrancabermeja se mueve sobre una línea recta con posición $s(t) = t^3 - 6t^2 + 9t$ (metros, $t$ en segundos).",
       "options": [
         {
-          "letter": "B",
-          "text": "$51x^2 + 2x$",
-          "is_correct": true,
-          "feedback": "Se aplica correctamente la regla del producto derivando ambos factores."
+          "letter": "A",
+          "text": "Está detenido, pues la velocidad solo se anula en $t = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $v(t) = 3(t - 1)(t - 3)$ se anula en $t = 1$ y $t = 3$; en $t = 2$ vale $-3$ m/s."
         },
         {
-          "letter": "A",
-          "text": "$34x^2 + 2x$",
+          "letter": "B",
+          "text": "Su velocidad es $2$ m/s",
           "is_correct": false,
-          "feedback": "Incorrecto: se derivó mal el segundo término."
+          "feedback": "Incorrecto. 2 m es la posición $s(2) = 8 - 24 + 18$; la velocidad es $s'(2) = -3$ m/s."
         },
         {
           "letter": "C",
-          "text": "$51x^2 + x$",
+          "text": "Su aceleración es $-3$ m/s²",
           "is_correct": false,
-          "feedback": "Incorrecto: se omitió multiplicar el coeficiente por 2."
+          "feedback": "Incorrecto. $-3$ m/s es la velocidad en $t = 2$; la aceleración es $s''(2) = 6 \\cdot 2 - 12 = 0$."
         },
         {
           "letter": "D",
-          "text": "$17x^2 + 3x$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se derivó como suma simple en vez de producto."
+          "text": "Se mueve en sentido negativo y su aceleración es 0",
+          "is_correct": true,
+          "feedback": "Correcto. $v(t) = 3t^2 - 12t + 9$ da $v(2) = -3$ m/s y $a(t) = 6t - 12$ da $a(2) = 0$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Aplicando la regla del producto $(u \\cdot v)' = u'v + uv'$, donde $u=x^2$ ($u'=2x$) y $v=17x+1$ ($v'=17$): $f'(x) = 2x(17x+1) + x^2(17) = 34x^2 + 2x + 17x^2 = 51x^2 + 2x$.",
+      "correct_answer": "D",
+      "explanation": "Derivando, $v(t) = s'(t) = 3t^2 - 12t + 9 = 3(t - 1)(t - 3)$ y $a(t) = v'(t) = 6t - 12$. En $t = 2$: $v(2) = -3$ m/s (sentido negativo) y $a(2) = 0$. El dron se detiene en $t = 1$ y $t = 3$, y entre esos instantes retrocede.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Algebraico",
-      "expected_success": 0.55,
+      "icfes_type": "Modelacion",
+      "expected_success": 0.53,
       "bundle_id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -791,42 +791,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle-v18",
-      "statement": "Al aplicar la regla del cociente a la función $f(x) = \\frac{18x}{x + 1}$, ¿cuál es la expresión para $f'(x)$?",
-      "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
+      "statement": "¿Cuál evaluación es correcta?",
+      "context": "En Montería, Sebastián deriva $q(x) = \\frac{x^2}{e^{x}}$ con la regla del cociente y Daniela la reescribe como $x^2e^{-x}$ y usa la regla del producto.",
       "options": [
         {
-          "letter": "B",
-          "text": "$\\frac{18}{(x + 1)^2}$",
-          "is_correct": true,
-          "feedback": "Correcto: la resta en el numerador simplifica adecuadamente a la constante."
+          "letter": "A",
+          "text": "El método del cociente da $\\frac{x^2 - 2x}{e^{x}}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese resultado invierte el orden $u'v - uv'$; el numerador correcto es $2xe^x - x^2e^x$."
         },
         {
-          "letter": "A",
-          "text": "$\\frac{18x}{(x + 1)^2}$",
-          "is_correct": false,
-          "feedback": "Incorrecto: no se simplificaron las x del numerador."
+          "letter": "B",
+          "text": "Ambos métodos son válidos y dan $\\frac{2x - x^2}{e^{x}}$",
+          "is_correct": true,
+          "feedback": "Correcto. Cociente: $\\frac{2xe^x - x^2e^x}{e^{2x}} = \\frac{2x - x^2}{e^x}$. Producto: $2xe^{-x} - x^2e^{-x}$, que es igual."
         },
         {
           "letter": "C",
-          "text": "$\\frac{36}{(x + 1)^2}$",
+          "text": "Daniela se equivoca: la regla del producto no sirve para cocientes",
           "is_correct": false,
-          "feedback": "Incorrecto: se sumaron los términos del numerador en vez de restarlos."
+          "feedback": "Incorrecto. Todo cociente $\\frac{u}{v}$ puede escribirse como $u \\cdot v^{-1}$; ambas reglas dan el mismo resultado."
         },
         {
           "letter": "D",
-          "text": "$\\frac{18}{x + 1}$",
+          "text": "Ambos deben obtener $\\frac{2x}{e^{x}}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se omitió elevar el denominador al cuadrado."
+          "feedback": "Incorrecto. Ese valor es el cociente de derivadas $\\frac{2x}{e^x}$; falta el término con $-x^2$."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Aplicando la regla del cociente $(\\frac{u}{v})' = \\frac{u'v - uv'}{v^2}$, donde $u=18x$ ($u'=18$) y $v=x+1$ ($v'=1$): $f'(x) = \\frac{18(x+1) - 18x(1)}{(x+1)^2} = \\frac{18x + 18 - 18x}{(x+1)^2} = \\frac{18}{(x+1)^2}$.",
+      "explanation": "Con el cociente: $\\frac{2x \\cdot e^x - x^2 \\cdot e^x}{(e^x)^2} = \\frac{e^x(2x - x^2)}{e^{2x}} = \\frac{2x - x^2}{e^x}$. Con el producto y $(e^{-x})' = -e^{-x}$: $2xe^{-x} - x^2e^{-x} = \\frac{2x - x^2}{e^x}$. Dos caminos correctos llevan al mismo resultado.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
       "icfes_type": "Razonamiento",
-      "expected_success": 0.55,
+      "expected_success": 0.51,
       "bundle_id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -837,42 +837,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle-v19",
-      "statement": "Dada la función $f(x) = (x^2 + 19)^3$, ¿cuál es el resultado de aplicar la regla de la cadena para obtener $f'(x)$?",
-      "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
+      "statement": "¿Cuál es la evaluación correcta del resultado de Felipe?",
+      "context": "En un preuniversitario de Pasto, Felipe escribe: $\\frac{d}{dx}\\sqrt{1 + \\cos x} = \\frac{1}{2\\sqrt{1 + \\cos x}}$.",
       "options": [
         {
           "letter": "A",
-          "text": "$6x(x^2 + 19)^2$",
+          "text": "Es incorrecto: falta multiplicar por la derivada interna $-\\sin x$; el resultado es $\\frac{-\\sin x}{2\\sqrt{1 + \\cos x}}$",
           "is_correct": true,
-          "feedback": "Correcto: se multiplicó por la derivada interna 2x."
+          "feedback": "Correcto. Para $\\sqrt{u}$ la regla es $\\frac{u'}{2\\sqrt{u}}$, y aquí $u' = -\\sin x$."
         },
         {
           "letter": "B",
-          "text": "$3(x^2 + 19)^2$",
+          "text": "Es correcto, porque la derivada de $\\sqrt{u}$ es $\\frac{1}{2\\sqrt{u}}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se olvidó multiplicar por la derivada interna del paréntesis."
+          "feedback": "Incorrecto. Eso vale solo si $u = x$; si $u$ depende de $x$ hay que multiplicar por $u'$ (regla de la cadena)."
         },
         {
           "letter": "C",
-          "text": "$6x^2(x^2 + 19)^2$",
+          "text": "Es incorrecto: el resultado es $\\frac{1}{2\\sqrt{1 - \\sin x}}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se elevó x al cuadrado en la derivada interna."
+          "feedback": "Incorrecto. Derivar no cambia la función interna dentro de la raíz; se multiplica por su derivada."
         },
         {
           "letter": "D",
-          "text": "$2x(x^2 + 19)^3$",
+          "text": "Es incorrecto: el resultado es $\\frac{1}{2}\\sqrt{1 + \\cos x} \\cdot (-\\sin x)$",
           "is_correct": false,
-          "feedback": "Incorrecto: no se redujo el exponente exterior."
+          "feedback": "Incorrecto. Se multiplicó por $u'$, pero no se redujo el exponente: $u^{1/2}$ pasa a $\\frac{1}{2}u^{-1/2}$."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Por regla de la cadena, la derivada de $u^3$ es $3u^2 \\cdot u'$. Con $u = x^2 + 19$, $u' = 2x$. Por tanto, $f'(x) = 3(x^2 + 19)^2 \\cdot (2x) = 6x(x^2 + 19)^2$.",
+      "explanation": "Se escribe $\\sqrt{1 + \\cos x} = u^{1/2}$ con $u = 1 + \\cos x$. Regla de la cadena: $\\frac{1}{2}u^{-1/2} \\cdot u' = \\frac{1}{2\\sqrt{1 + \\cos x}} \\cdot (-\\sin x) = \\frac{-\\sin x}{2\\sqrt{1 + \\cos x}}$. Felipe derivó la raíz pero olvidó la función interna.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.55,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.49,
       "bundle_id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -883,42 +883,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle-v20",
-      "statement": "Dada la función lineal-potencial $f(x) = 20x^4 + 3x^2$, ¿cuál es su derivada $f'(x)$?",
-      "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
+      "statement": "¿Cuál evaluación es correcta?",
+      "context": "En Valledupar, tres estudiantes derivan $f(x) = \\ln(x^3)$ para $x > 0$. Andrés escribe $\\frac{1}{x^3}$. Beatriz reescribe $3\\ln x$ y obtiene $\\frac{3}{x}$. Camila usa la cadena: $\\frac{1}{x^3} \\cdot 3x^2 = \\frac{3}{x}$.",
       "options": [
         {
-          "letter": "C",
-          "text": "$80x^3 + 6x$",
-          "is_correct": true,
-          "feedback": "Correcto: se multiplicaron exponentes por coeficientes y se restarion 1 a los exponentes."
-        },
-        {
           "letter": "A",
-          "text": "$80x^4 + 6x$",
+          "text": "Solo Andrés tiene razón, porque $(\\ln u)' = \\frac{1}{u}$",
           "is_correct": false,
-          "feedback": "Incorrecto: no se disminuyó el exponente del primer término."
+          "feedback": "Incorrecto. Con $u = x^3$ falta el factor $u' = 3x^2$; $\\frac{1}{x^3}$ no es la derivada."
         },
         {
           "letter": "B",
-          "text": "$20x^3 + 3x$",
+          "text": "Solo Camila tiene razón: no se permite usar propiedades de logaritmos antes de derivar",
           "is_correct": false,
-          "feedback": "Incorrecto: se olvidó multiplicar por los exponentes originales."
+          "feedback": "Incorrecto. Reescribir con una identidad válida para $x > 0$ no cambia la función, así que su derivada es la misma."
+        },
+        {
+          "letter": "C",
+          "text": "Beatriz y Camila tienen razón; Andrés olvidó multiplicar por la derivada interna $3x^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Ambos caminos dan $\\frac{3}{x}$: la propiedad $\\ln(x^3) = 3\\ln x$ y la cadena son equivalentes."
         },
         {
           "letter": "D",
-          "text": "$80x^3 + 3$",
+          "text": "Andrés y Beatriz tienen razón, aunque den resultados distintos",
           "is_correct": false,
-          "feedback": "Incorrecto: se derivó 6x simplemente como 3."
+          "feedback": "Incorrecto. Una función tiene una sola derivada; $\\frac{1}{x^3} \\neq \\frac{3}{x}$, así que no pueden ser correctos ambos."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Aplicando la regla de la potencia y suma: $(c x^n)' = c n x^{n-1}$. Así, $(20x^4)' = 80x^3$ y $(3x^2)' = 6x$, dando $f'(x) = 80x^3 + 6x$.",
+      "explanation": "Para $x > 0$, $\\ln(x^3) = 3\\ln x$, cuya derivada es $\\frac{3}{x}$ (camino de Beatriz). Por la cadena, $\\frac{1}{x^3} \\cdot 3x^2 = \\frac{3}{x}$ (camino de Camila). Andrés aplicó $\\frac{1}{u}$ sin el factor $u'$, por eso su resultado es incorrecto.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.55,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.47,
       "bundle_id": "CO-MAT-11-2026-W12-reglas-derivacion-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",

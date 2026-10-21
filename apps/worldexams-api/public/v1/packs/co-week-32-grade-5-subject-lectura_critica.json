@@ -296,9 +296,9 @@
         },
         {
           "letter": "B",
-          "text": "Ambas resaltan la disciplina, el apoyo familiar y los logros internacionales de las protagonistas.",
-          "is_correct": true,
-          "feedback": "Los dos textos comparten una estructura centrada en el esfuerzo personal, la familia y los triunfos."
+          "text": "Las dos están escritas en otros idiomas para lectores extranjeros.",
+          "is_correct": false,
+          "feedback": "Las biografías están escritas en español, dirigidas a lectores colombianos y latinoamericanos."
         },
         {
           "letter": "C",
@@ -308,12 +308,12 @@
         },
         {
           "letter": "D",
-          "text": "Las dos están escritas en otros idiomas para lectores extranjeros.",
-          "is_correct": false,
-          "feedback": "Las biografías están escritas en español, dirigidas a lectores colombianos y latinoamericanos."
+          "text": "Ambas resaltan la disciplina, el apoyo familiar y los logros internacionales de las protagonistas.",
+          "is_correct": true,
+          "feedback": "Los dos textos comparten una estructura centrada en el esfuerzo personal, la familia y los triunfos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Analizar dos biografías para identificar elementos comunes en la presentación de deportistas colombianos ejemplares.",
       "difficulty": "8",
       "images": [],

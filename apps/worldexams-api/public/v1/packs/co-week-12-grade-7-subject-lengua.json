@@ -19,12 +19,6 @@
           "feedback": "Incorrecto. \"Que\" es un nexo de subordinación, no de coordinación ni yuxtaposición."
         },
         {
-          "letter": "D",
-          "text": "Las proposiciones que las forman mantienen su independencia sintáctica (tienen el mismo peso jerárquico).",
-          "is_correct": true,
-          "feedback": "¡Correcto! Ambas unen ideas que podrían funcionar como oraciones simples por separado."
-        },
-        {
           "letter": "B",
           "text": "Ambas prohíben el uso de verbos conjugados.",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "Solo se pueden usar en textos científicos muy avanzados.",
           "is_correct": false,
           "feedback": "Incorrecto. Se usan en el habla cotidiana y en todo tipo de textos."
+        },
+        {
+          "letter": "D",
+          "text": "Las proposiciones que las forman mantienen su independencia sintáctica (tienen el mismo peso jerárquico).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ambas unen ideas que podrían funcionar como oraciones simples por separado."
         }
       ],
       "correct_answer": "D",
@@ -65,12 +65,6 @@
           "feedback": "Incorrecto. La coordinación requiere nexos (conjunciones), no solo comas."
         },
         {
-          "letter": "D",
-          "text": "Oración yuxtapuesta; identificada por el uso de comas entre proposiciones.",
-          "is_correct": true,
-          "feedback": "¡Correcto! Las comas unen las ideas directamente sin necesidad de nexos."
-        },
-        {
           "letter": "B",
           "text": "Oración subordinada; identificada por el punto final.",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "Oración simple; identificada por el uso de verbos en infinitivo.",
           "is_correct": false,
           "feedback": "Incorrecto. Hay tres verbos conjugados, por lo que es una oración compuesta."
+        },
+        {
+          "letter": "D",
+          "text": "Oración yuxtapuesta; identificada por el uso de comas entre proposiciones.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las comas unen las ideas directamente sin necesidad de nexos."
         }
       ],
       "correct_answer": "D",
@@ -111,16 +111,16 @@
           "feedback": "Incorrecto. El nexo \"o\" indica opción (disyuntiva), no suma."
         },
         {
-          "letter": "C",
-          "text": "El equipo de fútbol entrenó fuerte y los resultados fueron excelentes.",
-          "is_correct": true,
-          "feedback": "¡Correcto! El nexo \"y\" suma dos proposiciones independientes."
-        },
-        {
           "letter": "B",
           "text": "Hace mucho frío en Bogotá; me pondré la chaqueta.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una oración yuxtapuesta porque usa punto y coma."
+        },
+        {
+          "letter": "C",
+          "text": "El equipo de fútbol entrenó fuerte y los resultados fueron excelentes.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nexo \"y\" suma dos proposiciones independientes."
         },
         {
           "letter": "D",
@@ -163,16 +163,16 @@
           "feedback": "Incorrecto. Que la librería esté cerrada no es la causa de querer comprar el libro."
         },
         {
-          "letter": "D",
-          "text": "Relación de oposición o contraste (adversativa).",
-          "is_correct": true,
-          "feedback": "¡Correcto! El nexo \"pero\" presenta un obstáculo a la intención de la primera proposición."
-        },
-        {
           "letter": "C",
           "text": "Relación de tiempo.",
           "is_correct": false,
           "feedback": "Incorrecto. No indica cuándo ocurre la acción, sino un inconveniente."
+        },
+        {
+          "letter": "D",
+          "text": "Relación de oposición o contraste (adversativa).",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nexo \"pero\" presenta un obstáculo a la intención de la primera proposición."
         }
       ],
       "correct_answer": "D",
@@ -197,16 +197,16 @@
       "context": "Santiago nota que en los textos de historia a veces se usan dos puntos (:) para explicar algo sin usar palabras como \"porque\" o \"entonces\".",
       "options": [
         {
-          "letter": "B",
-          "text": "Relación de suma de dos problemas diferentes.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La segunda parte explica la primera, no es solo otra idea suelta."
-        },
-        {
           "letter": "A",
           "text": "Relación de causa-consecuencia (explicativa).",
           "is_correct": true,
           "feedback": "¡Correcto! Los dos puntos actúan como un nexo que explica el motivo por el cual no se sembró."
+        },
+        {
+          "letter": "B",
+          "text": "Relación de suma de dos problemas diferentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda parte explica la primera, no es solo otra idea suelta."
         },
         {
           "letter": "C",
@@ -249,16 +249,16 @@
           "feedback": "Incorrecto. Sin puntuación ni nexos, el texto es incomprensible."
         },
         {
-          "letter": "C",
-          "text": "Juan estudia, Pedro trabaja, María descansa.",
-          "is_correct": true,
-          "feedback": "¡Correcto! El uso de comas reemplaza al nexo \"y\" manteniendo el sentido de independencia."
-        },
-        {
           "letter": "B",
           "text": "Juan estudia pero Pedro trabaja porque María descansa.",
           "is_correct": false,
           "feedback": "Incorrecto. Al cambiar los nexos, cambia totalmente el significado de la oración."
+        },
+        {
+          "letter": "C",
+          "text": "Juan estudia, Pedro trabaja, María descansa.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El uso de comas reemplaza al nexo \"y\" manteniendo el sentido de independencia."
         },
         {
           "letter": "D",
@@ -295,12 +295,6 @@
           "feedback": "Incorrecto. No obliga a elegir una de las dos, sino que muestra una alternancia."
         },
         {
-          "letter": "D",
-          "text": "Distributiva",
-          "is_correct": true,
-          "feedback": "¡Correcto! Los nexos correlativos (ya... ya, bien... bien, unos... otros) distribuyen las acciones."
-        },
-        {
           "letter": "B",
           "text": "Adversativa",
           "is_correct": false,
@@ -311,6 +305,12 @@
           "text": "Yuxtapuesta",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque hay una coma, la presencia de los nexos \"ya... ya\" la define como coordinación."
+        },
+        {
+          "letter": "D",
+          "text": "Distributiva",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los nexos correlativos (ya... ya, bien... bien, unos... otros) distribuyen las acciones."
         }
       ],
       "correct_answer": "D",
@@ -342,12 +342,6 @@
         },
         {
           "letter": "B",
-          "text": "Cuando las oraciones son muy cortas (de dos palabras).",
-          "is_correct": false,
-          "feedback": "Incorrecto. En oraciones muy cortas se prefiere la coma o el nexo simple."
-        },
-        {
-          "letter": "D",
           "text": "Cuando las proposiciones son largas y ya tienen comas internas, para evitar confusión.",
           "is_correct": true,
           "feedback": "¡Correcto! El punto y coma jerarquiza la información y clarifica la estructura."
@@ -357,9 +351,15 @@
           "text": "Nunca es preferible; siempre es mejor usar \"y\" para que sea más fácil.",
           "is_correct": false,
           "feedback": "Incorrecto. El uso variado de estructuras gramaticales enriquece el texto y demuestra madurez."
+        },
+        {
+          "letter": "D",
+          "text": "Cuando las oraciones son muy cortas (de dos palabras).",
+          "is_correct": false,
+          "feedback": "Incorrecto. En oraciones muy cortas se prefiere la coma o el nexo simple."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "El punto y coma es el signo de la madurez intelectual en la escritura. Permite separar ideas complejas que están relacionadas entre sí pero que tienen suficiente fuerza propia. Su uso correcto mejora significativamente la claridad de los ensayos y trabajos académicos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -381,16 +381,16 @@
       "context": "Un texto dice: \"El río Magdalena es la arteria de Colombia; su historia es la nuestra\".",
       "options": [
         {
-          "letter": "B",
-          "text": "Porque no sabía qué nexo poner y prefirió usar un signo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Los autores expertos eligen la puntuación de forma deliberada."
-        },
-        {
           "letter": "A",
           "text": "Para sugerir una relación de identidad profunda y poética, dejando que el lector complete el sentido de la conexión.",
           "is_correct": true,
           "feedback": "¡Correcto! La yuxtaposición es más sugerente y abierta que un nexo explicativo directo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque no sabía qué nexo poner y prefirió usar un signo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los autores expertos eligen la puntuación de forma deliberada."
         },
         {
           "letter": "C",
@@ -427,16 +427,16 @@
       "context": "El uso correcto de la conjunción \"ni\" requiere que la oración tenga un sentido negativo previo o que se repita el nexo.",
       "options": [
         {
-          "letter": "B",
-          "text": "Yo quiero ir al cine ni tengo tiempo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Falta el sentido negativo inicial."
-        },
-        {
           "letter": "A",
           "text": "No quiero ir al cine ni tengo tiempo para hacerlo.",
           "is_correct": true,
           "feedback": "¡Correcto! El \"no\" inicial permite el uso de \"ni\" para sumar otra negación."
+        },
+        {
+          "letter": "B",
+          "text": "Yo quiero ir al cine ni tengo tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta el sentido negativo inicial."
         },
         {
           "letter": "C",

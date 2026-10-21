@@ -204,9 +204,9 @@
         },
         {
           "letter": "B",
-          "text": "Transmiten la memoria, las tradiciones y los valores a las nuevas generaciones.",
-          "is_correct": true,
-          "feedback": "Correcto: los abuelos guardan historias, recetas, música y enseñanzas que forman la identidad familiar."
+          "text": "Deben vivir aislados para no molestar a la familia.",
+          "is_correct": false,
+          "feedback": "Incorrecto: aislar a los mayores es abandono; tienen derecho al afecto y la compañía."
         },
         {
           "letter": "C",
@@ -216,12 +216,12 @@
         },
         {
           "letter": "D",
-          "text": "Deben vivir aislados para no molestar a la familia.",
-          "is_correct": false,
-          "feedback": "Incorrecto: aislar a los mayores es abandono; tienen derecho al afecto y la compañía."
+          "text": "Transmiten la memoria, las tradiciones y los valores a las nuevas generaciones.",
+          "is_correct": true,
+          "feedback": "Correcto: los abuelos guardan historias, recetas, música y enseñanzas que forman la identidad familiar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los adultos mayores son portadores de memoria: conservan relatos, tradiciones, oficios y valores que dan identidad a la familia y a la región. Escucharlos y cuidarlos es un deber de gratitud y, además, protege el patrimonio cultural. El respeto a los mayores sostiene la convivencia entre generaciones.",
       "difficulty": "6",
       "images": [],

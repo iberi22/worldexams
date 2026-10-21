@@ -348,18 +348,18 @@
         },
         {
           "letter": "C",
-          "text": "El rectángulo de 4 por 3",
-          "is_correct": true,
-          "feedback": "Correcto. Su superficie es 4 x 3 = 12 centímetros cuadrados, y ese resultado supera a los 6 y a los 10 de los otros."
-        },
-        {
-          "letter": "D",
           "text": "Los tres rectángulos tienen la misma superficie",
           "is_correct": false,
           "feedback": "Incorrecto. Las superficies son 6, 10 y 12 centímetros cuadrados, y por eso ninguna de las tres áreas es igual a otra."
+        },
+        {
+          "letter": "D",
+          "text": "El rectángulo de 4 por 3",
+          "is_correct": true,
+          "feedback": "Correcto. Su superficie es 4 x 3 = 12 centímetros cuadrados, y ese resultado supera a los 6 y a los 10 de los otros."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La superficie de un rectángulo se calcula multiplicando el largo por el ancho. Los tres dan 3 x 2 = 6, 5 x 2 = 10 y 4 x 3 = 12 centímetros cuadrados. Al comparar los tres resultados, el mayor es 12, así que el rectángulo de 4 por 3 centímetros tiene la mayor superficie.",
       "difficulty": "10",
       "images": [],

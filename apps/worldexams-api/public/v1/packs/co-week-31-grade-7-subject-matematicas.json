@@ -388,9 +388,9 @@
         },
         {
           "letter": "B",
-          "text": "No, cada giro es independiente y la probabilidad del sello sigue siendo la misma de siempre",
-          "is_correct": true,
-          "feedback": "Correcto. La ruleta no tiene memoria (falacia del jugador): 5 caras seguidas no alteran el siguiente resultado."
+          "text": "No, porque después de 5 caras lo más probable es que salga otra cara",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tampoco hay \"rachas obligadas\": la probabilidad de cara sigue siendo la misma."
         },
         {
           "letter": "C",
@@ -400,12 +400,12 @@
         },
         {
           "letter": "D",
-          "text": "No, porque después de 5 caras lo más probable es que salga otra cara",
-          "is_correct": false,
-          "feedback": "Incorrecto. Tampoco hay \"rachas obligadas\": la probabilidad de cara sigue siendo la misma."
+          "text": "No, cada giro es independiente y la probabilidad del sello sigue siendo la misma de siempre",
+          "is_correct": true,
+          "feedback": "Correcto. La ruleta no tiene memoria (falacia del jugador): 5 caras seguidas no alteran el siguiente resultado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En eventos independientes, los resultados pasados no influyen en los futuros. Creer que el sello \"está en deuda\" es la falacia del jugador: cada giro mantiene su probabilidad original.",
       "difficulty": "10",
       "images": [],
@@ -428,9 +428,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "No, con solo 60 ensayos una desviación así puede deberse al azar; se necesitan muchos más lanzamientos para concluir",
-          "is_correct": true,
-          "feedback": "Correcto. Lo esperado era 10 apariciones y salieron 15: con muestras pequeñas estas fluctuaciones son normales."
+          "text": "Sí, porque 15 es múltiplo de 5 y los dados cargados siempre dan múltiplos de 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe ninguna regla así; es una superstición sin fundamento."
         },
         {
           "letter": "B",
@@ -440,9 +440,9 @@
         },
         {
           "letter": "C",
-          "text": "Sí, porque 15 es múltiplo de 5 y los dados cargados siempre dan múltiplos de 5",
-          "is_correct": false,
-          "feedback": "Incorrecto. No existe ninguna regla así; es una superstición sin fundamento."
+          "text": "No, con solo 60 ensayos una desviación así puede deberse al azar; se necesitan muchos más lanzamientos para concluir",
+          "is_correct": true,
+          "feedback": "Correcto. Lo esperado era 10 apariciones y salieron 15: con muestras pequeñas estas fluctuaciones son normales."
         },
         {
           "letter": "D",
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La experimental supera o queda por debajo de la teórica constantemente por fluctuación del azar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Con 60 ensayos, el valor esperado del 6 es 10 y la desviación típica ronda 3, así que observar 15 entra dentro de lo posible por azar. Para acusar al dado harían falta cientos de lanzamientos con sesgo persistente.",
       "difficulty": "10",
       "images": [],

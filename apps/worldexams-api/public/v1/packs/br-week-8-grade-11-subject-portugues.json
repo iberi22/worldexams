@@ -824,15 +824,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Ambos os projetos falham de forma estética total porque o Brasil colonial do século dezoito era pobre de ovelhas e não possuía palmeiras de sabiás.",
-          "is_correct": false,
-          "feedback": "Incorreto. O país possuía extraordinária fauna e botânica tropical que foram mitificadas poeticamente com refinamento lírico absoluto por intelectuais."
-        },
-        {
-          "letter": "B",
           "text": "O Arcadismo busca a harmonia clássica europeia de pastores de ovelhas sob o cenário mineiro de Vila Rica de 1789, ao passo que o Romantismo funda a nacionalidade mística ufanista do império elevando heróis indígenas a cavaleiros medievais puros de castelos na floresta tropical.",
           "is_correct": true,
           "feedback": "Correto! Ambas as escolas utilizaram conotações estéticas da natureza do país de forma a apoiar projetos ideológicos políticos de soberania."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos os projetos falham de forma estética total porque o Brasil colonial do século dezoito era pobre de ovelhas e não possuía palmeiras de sabiás.",
+          "is_correct": false,
+          "feedback": "Incorreto. O país possuía extraordinária fauna e botânica tropical que foram mitificadas poeticamente com refinamento lírico absoluto por intelectuais."
         },
         {
           "letter": "C",
@@ -847,7 +847,7 @@
           "feedback": "Incorreto. Gonzaga é jurista conspirador histórico de alta erudição de Letras e oratória barroca e não programação eletrônica mecânica binária de robôs."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "A lírica árcade (Neoclassicismo colonial de Vila Rica de 1789) e o Romantismo (Indianismo ufanista imperial de Alencar de 1865) não constituem imitações cegas europeias sem mérito nacional de vestibular. Os poetas árcades ( Gonzaga, Costa) erguem o campo pastoril simples mineiro cercado de rebanhos de ovelhas fictícios (\"Locus amoenus\") como paraíso de equilíbrio contra a ganância gananciosa fiscal de Portugal de época. Já os românticos ( Alencar, Dias) erguem os heróis indígenas puros (Peri, Iracema) sob o manto de nobres cavaleiros medievais na exuberância da floresta tropical ufanista (\"Canção do Exílio\" de sabiás) como mito sagrado de pátria livre, consolidando as heranças e transições estéticas do país de vestibular.",
       "difficulty": "10",
       "images": [],
@@ -881,18 +881,18 @@
         },
         {
           "letter": "C",
-          "text": "O teatro funde a oratória grandiloquente condoreira de Castro Alves de imagens cósmicas de liberdade (\"ventos, condor\") sob formato de rap cívico de protesto social para comover, indignar e mobilizar a comunidade de moradores contra abusos e desigualdades em Brasília.",
-          "is_correct": true,
-          "feedback": "Correto! A poesia condoreira hugoana é revitalizada de forma brilhante no asfalto moderno periférico das feiras do país de forma inclusiva e democrática."
-        },
-        {
-          "letter": "D",
           "text": "Trata-se de uma receita culinária de cozinha de bolos mineiros, prescrevendo temperos de comida de forma de bulas de remédio de informática para robôs do Paraná.",
           "is_correct": false,
           "feedback": "Incorreto. O teatro comunitário adaptado de Castro Alves é cívico-social de direitos humanos urgente de proteção infantil viária de Brasília, sem receitas de comida ou robôs."
+        },
+        {
+          "letter": "D",
+          "text": "O teatro funde a oratória grandiloquente condoreira de Castro Alves de imagens cósmicas de liberdade (\"ventos, condor\") sob formato de rap cívico de protesto social para comover, indignar e mobilizar a comunidade de moradores contra abusos e desigualdades em Brasília.",
+          "is_correct": true,
+          "feedback": "Correto! A poesia condoreira hugoana é revitalizada de forma brilhante no asfalto moderno periférico das feiras do país de forma inclusiva e democrática."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "A adaptação contemporânea de mídias eletrônicas de poemas condoreiros da terceira geração romântica brasileira (Castro Alves de 1868) por estudantes de Brasília para combater mazelas socioeconômicas modernas (como o trabalho infantil escravizante nas feiras livres periféricas de Brasília) de forma de rap cívico de protesto de alta oratória condoreira constitui um brilhante e elogiável processo de intertextualidade de base nacional (BNCC). Unir a semiótica de asas de liberdade de mídias do \"condor hugoano\" contra a opressão física de senzalas de feiras de Brasília comove, indigna, conscientiza e mobiliza de forma lúdica, democrática, inclusiva e de prestígio a comunidade de moradores leigos, provando o valor ético e social contínuo das heranças poéticas cívicas do país de forma prática nas metrópoles.",
       "difficulty": "10",
       "images": [],

@@ -290,15 +290,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Mariana, porque los carros siempre deben frenar y el peatón puede cruzar donde quiera.",
-          "is_correct": false,
-          "feedback": "Incorrecto: aunque los conductores deben prevenir, el peatón no puede cruzar imprudentemente en cualquier punto."
-        },
-        {
-          "letter": "B",
           "text": "El hermano, porque el peatón tiene derechos pero también deberes que debe cumplir.",
           "is_correct": true,
           "feedback": "Correcto: la vía es un espacio compartido: el peatón tiene prioridad en la cebra, pero debe cruzar por lugares permitidos y sin distracciones."
+        },
+        {
+          "letter": "B",
+          "text": "Mariana, porque los carros siempre deben frenar y el peatón puede cruzar donde quiera.",
+          "is_correct": false,
+          "feedback": "Incorrecto: aunque los conductores deben prevenir, el peatón no puede cruzar imprudentemente en cualquier punto."
         },
         {
           "letter": "C",
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto: el celular distrae y es una causa frecuente de atropellos a peatones."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En la vía todos tienen derechos y deberes: los conductores deben respetar al peatón y los peatones deben cruzar por cebras y puentes peatonales, mirar a ambos lados y evitar distracciones como el celular. La seguridad vial es corresponsabilidad: ningún actor \"siempre tiene la razón\".",
       "difficulty": "8",
       "images": [],
@@ -348,18 +348,18 @@
         },
         {
           "letter": "C",
-          "text": "Combinar las tres: acción inmediata con brigadas, cultura con la campaña y solución definitiva con el puente peatonal.",
-          "is_correct": true,
-          "feedback": "Correcto: las brigadas protegen ya, la campaña ataca la doble fila y el puente es la solución de largo plazo; juntas cubren todos los frentes."
-        },
-        {
-          "letter": "D",
           "text": "Ninguna, porque los accidentes escolares son imposibles de prevenir.",
           "is_correct": false,
           "feedback": "Incorrecto: la mayoría de accidentes escolares se previenen con organización, cultura y infraestructura."
+        },
+        {
+          "letter": "D",
+          "text": "Combinar las tres: acción inmediata con brigadas, cultura con la campaña y solución definitiva con el puente peatonal.",
+          "is_correct": true,
+          "feedback": "Correcto: las brigadas protegen ya, la campaña ataca la doble fila y el puente es la solución de largo plazo; juntas cubren todos los frentes."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Los problemas ciudadanos complejos exigen estrategias combinadas: medidas inmediatas (brigadas), cambios culturales (campaña contra la doble fila) y soluciones estructurales (puente peatonal pedido por derecho de petición). Evaluar propuestas implica mirar tiempo, costo y efecto: juntas, las tres campañas protegen hoy y construyen seguridad para el futuro.",
       "difficulty": "10",
       "images": [],

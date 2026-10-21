@@ -434,9 +434,9 @@
         },
         {
           "letter": "B",
-          "text": "Género narrativo, subgénero épico o romance, porque narra hazañas en verso.",
-          "is_correct": true,
-          "feedback": "Correcto. La épica narra hazañas heroicas y puede estar en verso."
+          "text": "Ensayo literario, porque exalta valores patrios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ensayo es un género argumentativo, no narrativo en verso."
         },
         {
           "letter": "C",
@@ -446,12 +446,12 @@
         },
         {
           "letter": "D",
-          "text": "Ensayo literario, porque exalta valores patrios.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El ensayo es un género argumentativo, no narrativo en verso."
+          "text": "Género narrativo, subgénero épico o romance, porque narra hazañas en verso.",
+          "is_correct": true,
+          "feedback": "Correcto. La épica narra hazañas heroicas y puede estar en verso."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La épica o poesía épica es un subgénero narrativo que narra hazañas heroicas en verso. En la tradición colombiana, los romances y corridos que cuentan historias de la independencia son ejemplos de narrativa en verso. El \"Poema del Cid\" en España o la \"Ilíada\" en Grecia son ejemplos clásicos de este subgénero.\n\n---\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
       "difficulty": "10",
       "images": [],

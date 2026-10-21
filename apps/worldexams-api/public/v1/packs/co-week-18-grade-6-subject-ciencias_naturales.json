@@ -434,9 +434,9 @@
         },
         {
           "letter": "B",
-          "text": "Los paneles solares tienen un costo inicial alto, pero aprovechan una fuente renovable y reducen el impacto ambiental, además de generar ahorro a mediano plazo",
-          "is_correct": true,
-          "feedback": "Correcto. Considera costos, disponibilidad y ambiente: la opción con energía solar es más sostenible a futuro."
+          "text": "Los paneles solares son malos porque dependen del clima y no funcionan nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si bien dependen del Sol, en muchas regiones entregan electricidad útil, sobre todo si se combina con baterías."
         },
         {
           "letter": "C",
@@ -446,12 +446,12 @@
         },
         {
           "letter": "D",
-          "text": "Los paneles solares son malos porque dependen del clima y no funcionan nada",
-          "is_correct": false,
-          "feedback": "Incorrecto. Si bien dependen del Sol, en muchas regiones entregan electricidad útil, sobre todo si se combina con baterías."
+          "text": "Los paneles solares tienen un costo inicial alto, pero aprovechan una fuente renovable y reducen el impacto ambiental, además de generar ahorro a mediano plazo",
+          "is_correct": true,
+          "feedback": "Correcto. Considera costos, disponibilidad y ambiente: la opción con energía solar es más sostenible a futuro."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Evaluar bien implica considerar varias dimensiones al mismo tiempo: la disponibilidad, el costo inicial, el impacto ambiental y la salud; los paneles solares, aunque cuestan más al inicio, aprovechan una fuente renovable y reducen problemas asociados al humo de la leña.",
       "difficulty": "10",
       "images": [],

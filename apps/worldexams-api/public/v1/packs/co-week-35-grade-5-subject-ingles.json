@@ -348,18 +348,18 @@
         },
         {
           "letter": "C",
-          "text": "The jungle poster, because it shows habitat and real food.",
-          "is_correct": true,
-          "feedback": "The jungle poster teaches where the parrot lives and what it eats."
-        },
-        {
-          "letter": "D",
           "text": "Both posters are equal, because colors do not matter.",
           "is_correct": false,
           "feedback": "The information is different; only one poster shows true facts."
+        },
+        {
+          "letter": "D",
+          "text": "The jungle poster, because it shows habitat and real food.",
+          "is_correct": true,
+          "feedback": "The jungle poster teaches where the parrot lives and what it eats."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Evaluar materiales implica revisar si muestran el hábitat y el alimento reales. También se promueve el respeto por la fauna libre colombiana.",
       "difficulty": "10",
       "images": [],

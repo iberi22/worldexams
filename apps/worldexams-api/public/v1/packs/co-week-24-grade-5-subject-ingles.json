@@ -13,12 +13,6 @@
       "context": "In a clothing store in Cúcuta, a customer looks for something to wear on their feet for running.",
       "options": [
         {
-          "letter": "D",
-          "text": "Shoes.",
-          "is_correct": true,
-          "feedback": "\"Shoes\" (or sneakers) are worn on feet over socks."
-        },
-        {
           "letter": "A",
           "text": "Hat.",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "Gloves.",
           "is_correct": false,
           "feedback": "Gloves are worn on hands, not on feet."
+        },
+        {
+          "letter": "D",
+          "text": "Shoes.",
+          "is_correct": true,
+          "feedback": "\"Shoes\" (or sneakers) are worn on feet over socks."
         }
       ],
       "correct_answer": "D",
@@ -105,16 +105,16 @@
       "context": "Ana is buying clothes at a boutique in Cali. She wants to ask about the price of a pair of jeans.",
       "options": [
         {
-          "letter": "B",
-          "text": "How much are these jeans?",
-          "is_correct": true,
-          "feedback": "\"Jeans\" is plural, so it requires the plural verb \"are\" and demonstrative \"these\"."
-        },
-        {
           "letter": "A",
           "text": "How much is these jeans?",
           "is_correct": false,
           "feedback": "\"Is\" is singular and cannot be used with plural subject \"these jeans\"."
+        },
+        {
+          "letter": "B",
+          "text": "How much are these jeans?",
+          "is_correct": true,
+          "feedback": "\"Jeans\" is plural, so it requires the plural verb \"are\" and demonstrative \"these\"."
         },
         {
           "letter": "C",
@@ -197,12 +197,6 @@
       "context": "In a sports shop in Barranquilla, a sales clerk assists Lucia:\n\nClerk: \"Good morning! Can I help you?\"\n\nLucía: \"Yes, please. I am looking for a red cap. ________?\"\n\nClerk: \"It is $28.000 COP.\"",
       "options": [
         {
-          "letter": "D",
-          "text": "How much is it?",
-          "is_correct": true,
-          "feedback": "\"How much is it?\" fits naturally to ask the price of the singular red cap."
-        },
-        {
           "letter": "A",
           "text": "What is your name?",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "How old are you?",
           "is_correct": false,
           "feedback": "Asking about age is irrelevant to purchasing a cap."
+        },
+        {
+          "letter": "D",
+          "text": "How much is it?",
+          "is_correct": true,
+          "feedback": "\"How much is it?\" fits naturally to ask the price of the singular red cap."
         }
       ],
       "correct_answer": "D",
@@ -243,16 +243,16 @@
       "context": "Read the price board at a clothing store in Bogotá:\n\n- White T-shirt: $25.000 COP\n\n- Blue Shirt: $45.000 COP\n\n- Black Jacket: $90.000 COP\n\n- Summer Dress: $45.000 COP",
       "options": [
         {
-          "letter": "B",
-          "text": "The White T-shirt is the cheapest item, and the Black Jacket is the most expensive item.",
-          "is_correct": true,
-          "feedback": "$25.000 COP is the lowest price (cheapest) and $90.000 COP is the highest price (most expensive)."
-        },
-        {
           "letter": "A",
           "text": "The Summer Dress is more expensive than the Black Jacket.",
           "is_correct": false,
           "feedback": "The Summer Dress ($45.000 COP) is cheaper than the Black Jacket ($90.000 COP)."
+        },
+        {
+          "letter": "B",
+          "text": "The White T-shirt is the cheapest item, and the Black Jacket is the most expensive item.",
+          "is_correct": true,
+          "feedback": "$25.000 COP is the lowest price (cheapest) and $90.000 COP is the highest price (most expensive)."
         },
         {
           "letter": "C",
@@ -289,22 +289,22 @@
       "context": "Read the story about David's shopping day in Pereira:\n\n\"David has $100.000 COP. He buys a green shirt for $38.000 COP and a brown belt for $22.000 COP. He sees a pair of sunglasses that costs $50.000 COP.\"",
       "options": [
         {
-          "letter": "B",
-          "text": "Because he spent $60.000 COP and only has $40.000 COP left, which is not enough for the $50.000 COP sunglasses.",
-          "is_correct": true,
-          "feedback": "Total spent: $38.000 + $22.000 = $60.000 COP. Money left: $100.000 - $60.000 = $40.000 COP. The sunglasses cost $50.000 COP, so he is short by $10.000 COP."
-        },
-        {
           "letter": "A",
           "text": "Because the store does not sell sunglasses to children.",
           "is_correct": false,
           "feedback": "The text indicates a budget limitation, not a store policy restriction."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Because he has $70.000 COP left and the sunglasses cost $100.000 COP.",
           "is_correct": false,
           "feedback": "He spent $60.000 COP, leaving $40.000 COP, not $70.000 COP."
+        },
+        {
+          "letter": "C",
+          "text": "Because he spent $60.000 COP and only has $40.000 COP left, which is not enough for the $50.000 COP sunglasses.",
+          "is_correct": true,
+          "feedback": "Total spent: $38.000 + $22.000 = $60.000 COP. Money left: $100.000 - $60.000 = $40.000 COP. The sunglasses cost $50.000 COP, so he is short by $10.000 COP."
         },
         {
           "letter": "D",
@@ -313,7 +313,7 @@
           "feedback": "The sunglasses ($50.000 COP) are more expensive than the belt ($22.000 COP)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Análisis de situaciones de compra y presupuesto en inglés, calculando gastos acumulados ($38.000 + $22.000 = $60.000 COP) y saldo restante ($40.000 COP).",
       "difficulty": "8",
       "images": [],
@@ -335,12 +335,6 @@
       "context": "María wants to buy a gift for her brother in Ibagué. She has a budget of $80.000 COP and evaluates two shopping offers:\n\n- Offer A: A hoodie for $55.000 COP and a sports cap for $20.000 COP.\n\n- Offer B: Two polo shirts for $42.000 COP each.",
       "options": [
         {
-          "letter": "D",
-          "text": "Offer A fits her budget because the total is $75.000 COP, while Offer B costs $84.000 COP and exceeds her budget.",
-          "is_correct": true,
-          "feedback": "Offer A: $55.000 + $20.000 = $75.000 COP (<= $80.000 COP). Offer B: $42.000 * 2 = $84.000 COP (> $80.000 COP)."
-        },
-        {
           "letter": "A",
           "text": "Offer B fits her budget because two shirts cost only $42.000 COP in total.",
           "is_correct": false,
@@ -357,6 +351,12 @@
           "text": "Neither offer fits her budget because Offer A costs $95.000 COP.",
           "is_correct": false,
           "feedback": "Offer A costs $75.000 COP ($55.000 + $20.000), which is within her $80.000 COP budget."
+        },
+        {
+          "letter": "D",
+          "text": "Offer A fits her budget because the total is $75.000 COP, while Offer B costs $84.000 COP and exceeds her budget.",
+          "is_correct": true,
+          "feedback": "Offer A: $55.000 + $20.000 = $75.000 COP (<= $80.000 COP). Offer B: $42.000 * 2 = $84.000 COP (> $80.000 COP)."
         }
       ],
       "correct_answer": "D",

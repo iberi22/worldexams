@@ -1814,9 +1814,9 @@
         },
         {
           "letter": "B",
-          "text": "El país cuenta con una rica tradición de investigación sobre su biodiversidad y su café, cuya divulgación fortalece la conciencia y las decisiones colectivas.",
-          "is_correct": true,
-          "feedback": "Es correcta porque reconoce el aporte científico nacional y el valor social de comunicarlo."
+          "text": "La divulgación solo sirve para entretener sin ninguna utilidad.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la divulgación cumple una función educativa y democrática fundamental."
         },
         {
           "letter": "C",
@@ -1826,12 +1826,12 @@
         },
         {
           "letter": "D",
-          "text": "La divulgación solo sirve para entretener sin ninguna utilidad.",
-          "is_correct": false,
-          "feedback": "Es incorrecta porque la divulgación cumple una función educativa y democrática fundamental."
+          "text": "El país cuenta con una rica tradición de investigación sobre su biodiversidad y su café, cuya divulgación fortalece la conciencia y las decisiones colectivas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque reconoce el aporte científico nacional y el valor social de comunicarlo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Colombia ha producido conocimiento sobre su enorme biodiversidad, sus suelos y su café, entre muchos otros campos. Divulgar esos hallazgos no es un adorno: permite que la sociedad comprenda su entorno y tome mejores decisiones sobre salud, ambiente y desarrollo.",
       "difficulty": "10",
       "images": [],

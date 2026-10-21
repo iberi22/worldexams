@@ -13,12 +13,6 @@
       "context": "En un colegio de Bogotá el descanso empieza a las 9:30 a. m. y termina a las 10:00 a. m.",
       "options": [
         {
-          "letter": "C",
-          "text": "Minutos",
-          "is_correct": true,
-          "feedback": "Es correcta porque el descanso dura media hora, y los minutos expresan esa duración con precisión."
-        },
-        {
           "letter": "A",
           "text": "Años",
           "is_correct": false,
@@ -29,6 +23,12 @@
           "text": "Siglos",
           "is_correct": false,
           "feedback": "Error conceptual: un siglo equivale a 100 años, una escala totalmente inadecuada."
+        },
+        {
+          "letter": "C",
+          "text": "Minutos",
+          "is_correct": true,
+          "feedback": "Es correcta porque el descanso dura media hora, y los minutos expresan esa duración con precisión."
         },
         {
           "letter": "D",
@@ -59,12 +59,6 @@
       "context": "En Neiva una familia planea un viaje por carretera que dura 3 horas.",
       "options": [
         {
-          "letter": "C",
-          "text": "180 minutos",
-          "is_correct": true,
-          "feedback": "Es correcta porque cada hora tiene 60 minutos y 3 × 60 = 180."
-        },
-        {
           "letter": "A",
           "text": "60 minutos",
           "is_correct": false,
@@ -75,6 +69,12 @@
           "text": "30 minutos",
           "is_correct": false,
           "feedback": "Error conceptual: media hora no equivale a tres horas."
+        },
+        {
+          "letter": "C",
+          "text": "180 minutos",
+          "is_correct": true,
+          "feedback": "Es correcta porque cada hora tiene 60 minutos y 3 × 60 = 180."
         },
         {
           "letter": "D",
@@ -105,12 +105,6 @@
       "context": "En Medellín una clase inicia a las 7:15 a. m. y termina a las 8:00 a. m.",
       "options": [
         {
-          "letter": "D",
-          "text": "45 minutos",
-          "is_correct": true,
-          "feedback": "Es correcta porque de 7:15 a 8:00 faltan 45 minutos."
-        },
-        {
           "letter": "A",
           "text": "30 minutos",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "15 minutos",
           "is_correct": false,
           "feedback": "Error conceptual: confunde el minuto de inicio con la duración total."
+        },
+        {
+          "letter": "D",
+          "text": "45 minutos",
+          "is_correct": true,
+          "feedback": "Es correcta porque de 7:15 a 8:00 faltan 45 minutos."
         }
       ],
       "correct_answer": "D",
@@ -151,12 +151,6 @@
       "context": "En Cartagena un evento cultural dura 2 horas y 30 minutos.",
       "options": [
         {
-          "letter": "C",
-          "text": "150 minutos",
-          "is_correct": true,
-          "feedback": "Es correcta porque 2 horas son 120 minutos y al sumar 30 se obtienen 150."
-        },
-        {
           "letter": "A",
           "text": "120 minutos",
           "is_correct": false,
@@ -167,6 +161,12 @@
           "text": "90 minutos",
           "is_correct": false,
           "feedback": "Error conceptual: suma 60 + 30 como si solo hubiera una hora."
+        },
+        {
+          "letter": "C",
+          "text": "150 minutos",
+          "is_correct": true,
+          "feedback": "Es correcta porque 2 horas son 120 minutos y al sumar 30 se obtienen 150."
         },
         {
           "letter": "D",
@@ -197,12 +197,6 @@
       "context": "En Manizales un bus intermunicipal sale a las 2:40 p. m. y el viaje tarda 1 hora y 35 minutos.",
       "options": [
         {
-          "letter": "C",
-          "text": "4:15 p. m.",
-          "is_correct": true,
-          "feedback": "Es correcta porque 2:40 más 1 hora da 3:40 y 35 minutos más llegan a 4:15."
-        },
-        {
           "letter": "A",
           "text": "3:75 p. m.",
           "is_correct": false,
@@ -213,6 +207,12 @@
           "text": "4:05 p. m.",
           "is_correct": false,
           "feedback": "Error conceptual: resta mal los minutos al sumar las duraciones."
+        },
+        {
+          "letter": "C",
+          "text": "4:15 p. m.",
+          "is_correct": true,
+          "feedback": "Es correcta porque 2:40 más 1 hora da 3:40 y 35 minutos más llegan a 4:15."
         },
         {
           "letter": "D",
@@ -243,12 +243,6 @@
       "context": "En Cali un estudiante organiza su semana: estudia 45 minutos cada día de lunes a viernes.",
       "options": [
         {
-          "letter": "C",
-          "text": "3 horas y 45 minutos",
-          "is_correct": true,
-          "feedback": "Es correcta porque 45 × 5 = 225 minutos, y 225 = 3 horas y 45 minutos."
-        },
-        {
           "letter": "A",
           "text": "4 horas y 5 minutos",
           "is_correct": false,
@@ -259,6 +253,12 @@
           "text": "3 horas y 15 minutos",
           "is_correct": false,
           "feedback": "Error conceptual: resta minutos de más y deja solo 15 en vez de 45."
+        },
+        {
+          "letter": "C",
+          "text": "3 horas y 45 minutos",
+          "is_correct": true,
+          "feedback": "Es correcta porque 45 × 5 = 225 minutos, y 225 = 3 horas y 45 minutos."
         },
         {
           "letter": "D",
@@ -289,16 +289,16 @@
       "context": "En Bogotá una biblioteca abre de 8:00 a. m. a 5:00 p. m., pero cierra una hora al mediodía.",
       "options": [
         {
-          "letter": "B",
-          "text": "8 horas",
-          "is_correct": true,
-          "feedback": "Es correcta porque de 8:00 a 5:00 hay 9 horas y al restar la hora de cierre quedan 8."
-        },
-        {
           "letter": "A",
           "text": "9 horas",
           "is_correct": false,
           "feedback": "Error conceptual: cuenta el total sin descontar la hora del mediodía."
+        },
+        {
+          "letter": "B",
+          "text": "8 horas",
+          "is_correct": true,
+          "feedback": "Es correcta porque de 8:00 a 5:00 hay 9 horas y al restar la hora de cierre quedan 8."
         },
         {
           "letter": "C",
@@ -335,12 +335,6 @@
       "context": "En una maratón de Neiva un corredor tarda 1 hora y 50 minutos y otro tarda 110 minutos.",
       "options": [
         {
-          "letter": "C",
-          "text": "Son iguales, porque 1 hora y 50 minutos equivalen a 110 minutos",
-          "is_correct": true,
-          "feedback": "Es correcta porque 60 + 50 = 110; ambos corredores emplearon el mismo tiempo."
-        },
-        {
           "letter": "A",
           "text": "El primer corredor tardó más por tener una hora",
           "is_correct": false,
@@ -348,6 +342,12 @@
         },
         {
           "letter": "B",
+          "text": "Son iguales, porque 1 hora y 50 minutos equivalen a 110 minutos",
+          "is_correct": true,
+          "feedback": "Es correcta porque 60 + 50 = 110; ambos corredores emplearon el mismo tiempo."
+        },
+        {
+          "letter": "C",
           "text": "El segundo corredor tardó más por tener 110 minutos",
           "is_correct": false,
           "feedback": "Error conceptual: cree que un número mayor siempre implica más tiempo, sin convertir."
@@ -359,7 +359,7 @@
           "feedback": "Error conceptual: se pueden comparar si se convierten a la misma unidad."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Para comparar duraciones se deben expresar en la misma unidad. Una hora y 50 minutos es equivalente a 110 minutos, así que ambos registros describen el mismo tiempo.",
       "difficulty": "8",
       "images": [],
@@ -381,16 +381,10 @@
       "context": "En Medellín un estudiante afirma: \"Todos los meses del año tienen exactamente 30 días\".",
       "options": [
         {
-          "letter": "C",
+          "letter": "A",
           "text": "No, porque cada mes tiene entre 28 y 31 días según el calendario",
           "is_correct": true,
           "feedback": "Es correcta porque los meses varían: febrero tiene 28 o 29 días y otros llegan a 31."
-        },
-        {
-          "letter": "A",
-          "text": "Sí, todos los meses tienen exactamente 30 días",
-          "is_correct": false,
-          "feedback": "Error conceptual: ignora que enero, marzo y otros meses tienen 31 días."
         },
         {
           "letter": "B",
@@ -399,13 +393,19 @@
           "feedback": "Error conceptual: febrero tiene 28 días (29 en año bisiesto), no 30."
         },
         {
+          "letter": "C",
+          "text": "Sí, todos los meses tienen exactamente 30 días",
+          "is_correct": false,
+          "feedback": "Error conceptual: ignora que enero, marzo y otros meses tienen 31 días."
+        },
+        {
           "letter": "D",
           "text": "No, porque todos los meses tienen 32 días",
           "is_correct": false,
           "feedback": "Error conceptual: ningún mes del calendario tiene 32 días."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El calendario gregoriano combina meses de 28, 29, 30 y 31 días. Reconocer esa variedad es necesario para calcular fechas y duraciones con exactitud.",
       "difficulty": "10",
       "images": [],

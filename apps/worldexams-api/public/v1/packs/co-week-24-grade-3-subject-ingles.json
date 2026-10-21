@@ -290,9 +290,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "jacket",
-          "is_correct": true,
-          "feedback": "Correct! A 'jacket' is a warm outer piece of clothing with sleeves, worn over your shirt."
+          "text": "shoulder",
+          "is_correct": false,
+          "feedback": "'shoulder' is the body part where the arm joins the body, not a clothing item."
         },
         {
           "letter": "B",
@@ -302,9 +302,9 @@
         },
         {
           "letter": "C",
-          "text": "shoulder",
-          "is_correct": false,
-          "feedback": "'shoulder' is the body part where the arm joins the body, not a clothing item."
+          "text": "jacket",
+          "is_correct": true,
+          "feedback": "Correct! A 'jacket' is a warm outer piece of clothing with sleeves, worn over your shirt."
         },
         {
           "letter": "D",
@@ -313,7 +313,7 @@
           "feedback": "'stomach' is a part of the body, not a piece of clothing worn over a shirt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "The word 'jacket' refers to a heavy item of clothing worn on the upper body for warmth. This is essential vocabulary to describe how to stay warm on cold school mornings in high-altitude Colombian cities.\n---",
       "difficulty": "10",
       "images": [],

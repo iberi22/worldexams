@@ -13,12 +13,6 @@
       "context": "En Medellín, la profesora escribe en el tablero: \"yo voy, tú vas, él va\" y pide recordar qué verbo es.",
       "options": [
         {
-          "letter": "D",
-          "text": "Ir",
-          "is_correct": true,
-          "feedback": "Es correcta porque sus formas voy, vas, va no conservan la raíz del infinitivo."
-        },
-        {
           "letter": "A",
           "text": "Cantar",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "Saltar",
           "is_correct": false,
           "feedback": "Es incorrecta porque saltar es regular: salto, saltas, salta."
+        },
+        {
+          "letter": "D",
+          "text": "Ir",
+          "is_correct": true,
+          "feedback": "Es correcta porque sus formas voy, vas, va no conservan la raíz del infinitivo."
         }
       ],
       "correct_answer": "D",
@@ -59,16 +59,16 @@
       "context": "En Bogotá, Santiago dice en voz alta: \"Yo voy a la tienda de la esquina a comprar pan\".",
       "options": [
         {
-          "letter": "B",
-          "text": "Porque no conserva la raíz del infinitivo \"ir\".",
-          "is_correct": true,
-          "feedback": "Es correcta porque de \"ir\" se esperaría algo como \"iro\", pero la forma real es \"voy\"."
-        },
-        {
           "letter": "A",
           "text": "Porque se escribe con mayúscula al inicio.",
           "is_correct": false,
           "feedback": "Es incorrecta porque las mayúsculas dependen de la escritura, no de la conjugación."
+        },
+        {
+          "letter": "B",
+          "text": "Porque no conserva la raíz del infinitivo \"ir\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque de \"ir\" se esperaría algo como \"iro\", pero la forma real es \"voy\"."
         },
         {
           "letter": "C",
@@ -105,12 +105,6 @@
       "context": "En Cali, Mariana escribe en su diario lo que hizo el domingo con su familia.",
       "options": [
         {
-          "letter": "D",
-          "text": "fui",
-          "is_correct": true,
-          "feedback": "Es correcta porque \"fui\" es la forma del pasado que corresponde al sujeto \"yo\"."
-        },
-        {
           "letter": "A",
           "text": "fuiste",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "fuimos",
           "is_correct": false,
           "feedback": "Es incorrecta porque \"fuimos\" corresponde a \"nosotros\", no a \"yo\"."
+        },
+        {
+          "letter": "D",
+          "text": "fui",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"fui\" es la forma del pasado que corresponde al sujeto \"yo\"."
         }
       ],
       "correct_answer": "D",
@@ -151,12 +151,6 @@
       "context": "En Cartagena, Valentina ayuda en la casa y anota sus tareas del día en una lista.",
       "options": [
         {
-          "letter": "C",
-          "text": "hago",
-          "is_correct": true,
-          "feedback": "Es correcta porque \"hago\" es la forma irregular que corresponde al sujeto \"yo\"."
-        },
-        {
           "letter": "A",
           "text": "hace",
           "is_correct": false,
@@ -167,6 +161,12 @@
           "text": "haces",
           "is_correct": false,
           "feedback": "Es incorrecta porque \"haces\" corresponde a \"tú\", no a \"yo\"."
+        },
+        {
+          "letter": "C",
+          "text": "hago",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"hago\" es la forma irregular que corresponde al sujeto \"yo\"."
         },
         {
           "letter": "D",
@@ -197,12 +197,6 @@
       "context": "En Bucaramanga, los estudiantes conversan sobre decir siempre la verdad durante la clase.",
       "options": [
         {
-          "letter": "C",
-          "text": "dicen",
-          "is_correct": true,
-          "feedback": "Es correcta porque \"dicen\" corresponde al sujeto plural \"los estudiantes\"."
-        },
-        {
           "letter": "A",
           "text": "decimos",
           "is_correct": false,
@@ -213,6 +207,12 @@
           "text": "digo",
           "is_correct": false,
           "feedback": "Es incorrecta porque \"digo\" corresponde a \"yo\", no al sujeto plural."
+        },
+        {
+          "letter": "C",
+          "text": "dicen",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"dicen\" corresponde al sujeto plural \"los estudiantes\"."
         },
         {
           "letter": "D",
@@ -243,16 +243,10 @@
       "context": "En Pereira, Juan escribió en su cuaderno: \"Yo sabo la respuesta de la pregunta\".",
       "options": [
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Usó \"sabo\", que no existe; la forma correcta del verbo saber es \"sé\".",
           "is_correct": true,
           "feedback": "Es correcta porque identifica la forma verbal inventada y propone la correcta."
-        },
-        {
-          "letter": "A",
-          "text": "La oración está bien porque \"sabo\" viene del verbo saber.",
-          "is_correct": false,
-          "feedback": "Es incorrecta porque no todas las formas que suenan posibles existen en español."
         },
         {
           "letter": "B",
@@ -261,13 +255,19 @@
           "feedback": "Es incorrecta porque \"respuesta\" es un sustantivo correcto."
         },
         {
+          "letter": "C",
+          "text": "La oración está bien porque \"sabo\" viene del verbo saber.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no todas las formas que suenan posibles existen en español."
+        },
+        {
           "letter": "D",
           "text": "El error está en \"yo\", que no puede ir con ningún verbo.",
           "is_correct": false,
           "feedback": "Es incorrecta porque \"yo\" es un pronombre válido para el sujeto."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Analizar un error verbal exige comprobar si la forma existe en español. El verbo saber es irregular en presente: yo sé, tú sabes, él sabe. Formas inventadas como \"sabo\" no se usan y deben corregirse por \"sé\".",
       "difficulty": "8",
       "images": [],
@@ -289,12 +289,6 @@
       "context": "En Barranquilla, dos estudiantes escriben sobre el almuerzo. Texto 1: \"Ayer mi mamá ponió la sopa en la mesa\". Texto 2: \"Ayer mi mamá puso la sopa en la mesa\".",
       "options": [
         {
-          "letter": "D",
-          "text": "El texto 2, porque \"puso\" es la forma correcta del verbo poner en pasado.",
-          "is_correct": true,
-          "feedback": "Es correcta porque identifica la forma irregular real del verbo poner."
-        },
-        {
           "letter": "A",
           "text": "El texto 1, porque \"ponió\" es la forma correcta.",
           "is_correct": false,
@@ -311,6 +305,12 @@
           "text": "Los dos, porque ambas formas existen en español.",
           "is_correct": false,
           "feedback": "Es incorrecta porque solo \"puso\" es la forma válida para ese tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "El texto 2, porque \"puso\" es la forma correcta del verbo poner en pasado.",
+          "is_correct": true,
+          "feedback": "Es correcta porque identifica la forma irregular real del verbo poner."
         }
       ],
       "correct_answer": "D",
@@ -335,16 +335,16 @@
       "context": "En Santa Marta, el periódico escolar publicará una noticia sobre una salida familiar y el equipo elige la oración mejor escrita.",
       "options": [
         {
-          "letter": "B",
-          "text": "Mi familia fue al mercado y trajo frutas frescas por cinco mil pesos.",
-          "is_correct": true,
-          "feedback": "Es correcta porque \"fue\" y \"trajo\" son las formas irregulares correctas del pasado."
-        },
-        {
           "letter": "A",
           "text": "Mi familia fuimos al mercado y trajo frutas frescas por cinco mil pesos.",
           "is_correct": false,
           "feedback": "Es incorrecta porque \"fuimos\" no concuerda con el sujeto \"mi familia\"."
+        },
+        {
+          "letter": "B",
+          "text": "Mi familia fue al mercado y trajo frutas frescas por cinco mil pesos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"fue\" y \"trajo\" son las formas irregulares correctas del pasado."
         },
         {
           "letter": "C",

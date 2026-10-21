@@ -348,18 +348,18 @@
         },
         {
           "letter": "C",
-          "text": "No, porque despachar 178 y 213 sacos deja menos de los 500 que había",
-          "is_correct": true,
-          "feedback": "Correcto. 178 + 213 = 391 y 500 - 391 = 109, así que quedan 109 sacos, que es menos que los 500 del principio."
-        },
-        {
-          "letter": "D",
           "text": "Sí, porque en total se despacharon 391 sacos y eso sumó a la bolsa",
           "is_correct": false,
           "feedback": "Incorrecto. Confundiste despachar con agregar, porque sacar sacos de la bolsa reduce lo que hay y no lo aumenta."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque despachar 178 y 213 sacos deja menos de los 500 que había",
+          "is_correct": true,
+          "feedback": "Correcto. 178 + 213 = 391 y 500 - 391 = 109, así que quedan 109 sacos, que es menos que los 500 del principio."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La pregunta pide evaluar si la bodega tiene más o menos sacos después de dos despachos. Se suman primero lo despachado: 178 + 213 = 391 sacos. Como la bodega tenía 500, quedan 500 - 391 = 109 sacos. Como 109 es menor que 500, la afirmación de que habrá más sacos es falsa.",
       "difficulty": "10",
       "images": [],

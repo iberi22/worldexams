@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v1",
-      "statement": "Un aparato eléctrico conectado a $220\\text{ V}$ presenta una resistencia de $R = 10\\text{ \\Omega}$. ¿Qué corriente circula y qué potencia disipa?",
-      "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 1.",
+      "statement": "¿Qué expresa la ley de Ohm para un conductor óhmico?",
+      "context": "En el taller de electrónica de una escuela técnica de Avellaneda, los alumnos miden tensión y corriente en distintos resistores.",
       "options": [
         {
-          "letter": "C",
-          "text": "Corriente = $22,00\\text{ A}$, Potencia = $4840,0\\text{ W}$",
-          "is_correct": true,
-          "feedback": "Correcto. $I = 220 / 10 = 22,00\\text{ A}$. $P = V \\cdot I = 4840,0\\text{ W}$."
-        },
-        {
           "letter": "A",
-          "text": "Corriente = $44,00\\text{ A}$, Potencia = $4840,0\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
+          "text": "La tensión entre sus extremos es igual al producto de la corriente por la resistencia: V = I·R",
+          "is_correct": true,
+          "feedback": "Correcto. en un conductor óhmico la corriente es proporcional a la tensión aplicada, y la constante de proporcionalidad es 1/R."
         },
         {
           "letter": "B",
-          "text": "Corriente = $22,00\\text{ A}$, Potencia = $2420,0\\text{ W}$",
+          "text": "La potencia es igual al producto de la tensión por la resistencia: P = V·R",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió la potencia por dos."
+          "feedback": "Incorrecto. la potencia eléctrica es P = V·I; multiplicar tensión por resistencia no da ninguna magnitud útil."
+        },
+        {
+          "letter": "C",
+          "text": "La corriente es igual al producto de la tensión por la resistencia: I = V·R",
+          "is_correct": false,
+          "feedback": "Incorrecto. con esa fórmula, a mayor resistencia habría más corriente; en realidad I = V/R y la resistencia limita la corriente."
         },
         {
           "letter": "D",
-          "text": "Corriente = $10\\text{ A}$, Potencia = $1000\\text{ W}$",
+          "text": "La resistencia aumenta cuando aumenta la tensión aplicada",
           "is_correct": false,
-          "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
+          "feedback": "Incorrecto. en un conductor óhmico R es constante: si se duplica V, se duplica I y el cociente V/I no cambia."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{10} = 22,00\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 22.00 = 4840,0\\text{ W}$.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La ley de Ohm afirma que, en ciertos conductores (óhmicos) a temperatura constante, V = I·R. Al graficar V en función de I se obtiene una recta cuya pendiente es la resistencia. Despejando: I = V/R y R = V/I. Es la herramienta básica para analizar cualquier circuito eléctrico.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.9,
+      "expected_success": 0.85,
       "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -54,41 +54,41 @@
     },
     {
       "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v2",
-      "statement": "Un aparato eléctrico conectado a $220\\text{ V}$ presenta una resistencia de $R = 20\\text{ \\Omega}$. ¿Qué corriente circula y qué potencia disipa?",
-      "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 2.",
+      "statement": "¿A qué combinación de unidades equivale el watt (W) en términos eléctricos?",
+      "context": "En la etiqueta de un secador de pelo comprado en Rosario figura '1800 W - 220 V'.",
       "options": [
         {
-          "letter": "B",
-          "text": "Corriente = $11,00\\text{ A}$, Potencia = $2420,0\\text{ W}$",
-          "is_correct": true,
-          "feedback": "Correcto. $I = 220 / 20 = 11,00\\text{ A}$. $P = V \\cdot I = 2420,0\\text{ W}$."
+          "letter": "A",
+          "text": "1 W = 1 V/A",
+          "is_correct": false,
+          "feedback": "Incorrecto. V/A es la unidad de resistencia, el ohm (Ω), no de potencia."
         },
         {
-          "letter": "A",
-          "text": "Corriente = $22,00\\text{ A}$, Potencia = $2420,0\\text{ W}$",
+          "letter": "B",
+          "text": "1 W = 1 A·s",
           "is_correct": false,
-          "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
+          "feedback": "Incorrecto. A·s es el coulomb, la unidad de carga eléctrica."
         },
         {
           "letter": "C",
-          "text": "Corriente = $11,00\\text{ A}$, Potencia = $1210,0\\text{ W}$",
+          "text": "1 W = 1 kWh",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió la potencia por dos."
+          "feedback": "Incorrecto. el kWh es una unidad de energía (3,6 millones de joules), no de potencia."
         },
         {
           "letter": "D",
-          "text": "Corriente = $10\\text{ A}$, Potencia = $1000\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
+          "text": "1 W = 1 V·A",
+          "is_correct": true,
+          "feedback": "Correcto. la potencia eléctrica es P = V·I, así que 1 volt por 1 ampere da 1 watt, es decir, 1 joule por segundo."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{20} = 11,00\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 11.00 = 2420,0\\text{ W}$.\n\n---",
+      "correct_answer": "D",
+      "explanation": "La potencia eléctrica es la energía entregada por unidad de tiempo: P = V·I. Un volt es un joule por coulomb y un ampere es un coulomb por segundo; su producto es J/s = W. Así, el secador de 1800 W transforma 1800 J de energía eléctrica por segundo en calor y movimiento del aire.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.88,
+      "expected_success": 0.83,
       "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -99,175 +99,40 @@
     },
     {
       "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v3",
-      "statement": "Un aparato eléctrico conectado a $220\\text{ V}$ presenta una resistencia de $R = 30\\text{ \\Omega}$. ¿Qué corriente circula y qué potencia disipa?",
-      "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 3.",
+      "statement": "¿Por qué en una casa los artefactos se conectan en paralelo y no en serie?",
+      "context": "En las viviendas de Argentina, los tomacorrientes de una misma habitación están conectados a la red de 220 V.",
       "options": [
         {
-          "letter": "B",
-          "text": "Corriente = $7,33\\text{ A}$, Potencia = $1613,3\\text{ W}$",
+          "letter": "A",
+          "text": "Porque en paralelo cada artefacto recibe los 220 V y funciona en forma independiente de los demás",
           "is_correct": true,
-          "feedback": "Correcto. $I = 220 / 30 = 7,33\\text{ A}$. $P = V \\cdot I = 1613,3\\text{ W}$."
+          "feedback": "Correcto. en paralelo todos comparten la misma tensión; si uno se apaga, los otros siguen recibiendo 220 V."
         },
         {
-          "letter": "A",
-          "text": "Corriente = $14,67\\text{ A}$, Potencia = $1613,3\\text{ W}$",
+          "letter": "B",
+          "text": "Porque en paralelo la corriente que circula por todos los artefactos es la misma",
           "is_correct": false,
-          "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
+          "feedback": "Incorrecto. eso ocurre en serie; en paralelo la corriente se reparte según la resistencia de cada rama."
         },
         {
           "letter": "C",
-          "text": "Corriente = $7,33\\text{ A}$, Potencia = $806,7\\text{ W}$",
+          "text": "Porque en paralelo la resistencia total es mayor y se consume menos energía",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió la potencia por dos."
+          "feedback": "Incorrecto. al agregar ramas en paralelo la resistencia equivalente disminuye y la corriente total aumenta."
         },
         {
           "letter": "D",
-          "text": "Corriente = $10\\text{ A}$, Potencia = $1000\\text{ W}$",
+          "text": "Porque en serie los artefactos recibirían más de 220 V cada uno",
           "is_correct": false,
-          "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
+          "feedback": "Incorrecto. en serie la tensión de la red se reparte entre los artefactos, así que cada uno recibiría menos de 220 V."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{30} = 7,33\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 7.33 = 1613,3\\text{ W}$.\n\n---",
+      "correct_answer": "A",
+      "explanation": "En una conexión en paralelo, todos los elementos están conectados entre los mismos dos cables (fase y neutro), por lo que reciben la tensión nominal de 220 V. Cada artefacto toma la corriente que necesita y puede encenderse o apagarse sin afectar a los demás. En serie, la tensión se repartiría y un artefacto apagado cortaría el circuito de todos.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.86,
-      "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v4",
-      "statement": "Un aparato eléctrico conectado a $220\\text{ V}$ presenta una resistencia de $R = 40\\text{ \\Omega}$. ¿Qué corriente circula y qué potencia disipa?",
-      "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 4.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Corriente = $5,50\\text{ A}$, Potencia = $1210,0\\text{ W}$",
-          "is_correct": true,
-          "feedback": "Correcto. $I = 220 / 40 = 5,50\\text{ A}$. $P = V \\cdot I = 1210,0\\text{ W}$."
-        },
-        {
-          "letter": "A",
-          "text": "Corriente = $11,00\\text{ A}$, Potencia = $1210,0\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
-        },
-        {
-          "letter": "B",
-          "text": "Corriente = $5,50\\text{ A}$, Potencia = $605,0\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dividió la potencia por dos."
-        },
-        {
-          "letter": "D",
-          "text": "Corriente = $10\\text{ A}$, Potencia = $1000\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{40} = 5,50\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 5.50 = 1210,0\\text{ W}$.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.84,
-      "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v5",
-      "statement": "Un aparato eléctrico conectado a $220\\text{ V}$ presenta una resistencia de $R = 50\\text{ \\Omega}$. ¿Qué corriente circula y qué potencia disipa?",
-      "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 5.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Corriente = $4,40\\text{ A}$, Potencia = $968,0\\text{ W}$",
-          "is_correct": true,
-          "feedback": "Correcto. $I = 220 / 50 = 4,40\\text{ A}$. $P = V \\cdot I = 968,0\\text{ W}$."
-        },
-        {
-          "letter": "A",
-          "text": "Corriente = $8,80\\text{ A}$, Potencia = $968,0\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
-        },
-        {
-          "letter": "B",
-          "text": "Corriente = $4,40\\text{ A}$, Potencia = $484,0\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dividió la potencia por dos."
-        },
-        {
-          "letter": "D",
-          "text": "Corriente = $10\\text{ A}$, Potencia = $1000\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{50} = 4,40\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 4.40 = 968,0\\text{ W}$.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.82,
-      "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v6",
-      "statement": "Un aparato eléctrico conectado a $220\\text{ V}$ presenta una resistencia de $R = 60\\text{ \\Omega}$. ¿Qué corriente circula y qué potencia disipa?",
-      "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 6.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Corriente = $3,67\\text{ A}$, Potencia = $806,7\\text{ W}$",
-          "is_correct": true,
-          "feedback": "Correcto. $I = 220 / 60 = 3,67\\text{ A}$. $P = V \\cdot I = 806,7\\text{ W}$."
-        },
-        {
-          "letter": "A",
-          "text": "Corriente = $7,33\\text{ A}$, Potencia = $806,7\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
-        },
-        {
-          "letter": "C",
-          "text": "Corriente = $3,67\\text{ A}$, Potencia = $403,3\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dividió la potencia por dos."
-        },
-        {
-          "letter": "D",
-          "text": "Corriente = $10\\text{ A}$, Potencia = $1000\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{60} = 3,67\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 3.67 = 806,7\\text{ W}$.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
       "periodo": 14,
@@ -278,41 +143,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v7",
-      "statement": "Un aparato eléctrico conectado a $220\\text{ V}$ presenta una resistencia de $R = 70\\text{ \\Omega}$. ¿Qué corriente circula y qué potencia disipa?",
-      "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 7.",
+      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v4",
+      "statement": "¿Cómo son las líneas del campo magnético que produce la corriente en el cable recto?",
+      "context": "En el Museo de Física de la Universidad Nacional de La Plata se repite el experimento de Oersted: una brújula se coloca cerca de un cable recto por el que circula corriente continua.",
       "options": [
         {
-          "letter": "D",
-          "text": "Corriente = $3,14\\text{ A}$, Potencia = $691,4\\text{ W}$",
-          "is_correct": true,
-          "feedback": "Correcto. $I = 220 / 70 = 3,14\\text{ A}$. $P = V \\cdot I = 691,4\\text{ W}$."
-        },
-        {
           "letter": "A",
-          "text": "Corriente = $6,29\\text{ A}$, Potencia = $691,4\\text{ W}$",
+          "text": "Rectas paralelas al cable, en el sentido de la corriente",
           "is_correct": false,
-          "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
+          "feedback": "Incorrecto. el campo de un conductor recto no apunta a lo largo del cable sino que lo rodea."
         },
         {
           "letter": "B",
-          "text": "Corriente = $3,14\\text{ A}$, Potencia = $345,7\\text{ W}$",
+          "text": "Rectas que salen radialmente del cable, como el campo de una carga",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió la potencia por dos."
+          "feedback": "Incorrecto. las líneas radiales corresponden al campo eléctrico de una carga puntual; las líneas de campo magnético son cerradas."
         },
         {
           "letter": "C",
-          "text": "Corriente = $10\\text{ A}$, Potencia = $1000\\text{ W}$",
+          "text": "Círculos concéntricos alrededor del cable, en planos perpendiculares a él",
+          "is_correct": true,
+          "feedback": "Correcto. la regla de la mano derecha indica que el campo rodea al conductor: el pulgar señala la corriente y los dedos el sentido de las líneas."
+        },
+        {
+          "letter": "D",
+          "text": "No hay campo magnético porque el cable no es un imán",
           "is_correct": false,
-          "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
+          "feedback": "Incorrecto. Oersted mostró justamente que toda corriente eléctrica genera un campo magnético, por eso se desvía la brújula."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{70} = 3,14\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 3.14 = 691,4\\text{ W}$.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "En 1820 Oersted observó que una brújula se desvía cerca de un cable con corriente: la electricidad y el magnetismo están relacionados. Para un conductor recto, las líneas de campo son circunferencias concéntricas centradas en el cable, y la intensidad disminuye al alejarse (B ∝ I/d). El sentido se obtiene con la regla de la mano derecha.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.78,
       "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
       "periodo": 14,
@@ -323,42 +188,177 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v8",
-      "statement": "Un aparato eléctrico conectado a $220\\text{ V}$ presenta una resistencia de $R = 80\\text{ \\Omega}$. ¿Qué corriente circula y qué potencia disipa?",
-      "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 8.",
+      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v5",
+      "statement": "¿Qué corriente circula por la resistencia?",
+      "context": "Un técnico de Edenor prueba una resistencia calefactora de 55 Ω conectándola a la red de 220 V.",
       "options": [
         {
-          "letter": "B",
-          "text": "Corriente = $2,75\\text{ A}$, Potencia = $605,0\\text{ W}$",
-          "is_correct": true,
-          "feedback": "Correcto. $I = 220 / 80 = 2,75\\text{ A}$. $P = V \\cdot I = 605,0\\text{ W}$."
+          "letter": "A",
+          "text": "12 100 A",
+          "is_correct": false,
+          "feedback": "Incorrecto. multiplicaste tensión por resistencia (220·55); la ley de Ohm divide la tensión por la resistencia."
         },
         {
-          "letter": "A",
-          "text": "Corriente = $5,50\\text{ A}$, Potencia = $605,0\\text{ W}$",
+          "letter": "B",
+          "text": "0,25 A",
           "is_correct": false,
-          "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
+          "feedback": "Incorrecto. dividiste la resistencia por la tensión (55/220), invirtiendo la relación I = V/R."
         },
         {
           "letter": "C",
-          "text": "Corriente = $2,75\\text{ A}$, Potencia = $302,5\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dividió la potencia por dos."
+          "text": "4 A",
+          "is_correct": true,
+          "feedback": "Correcto. I = V/R = 220 V / 55 Ω = 4 A."
         },
         {
           "letter": "D",
-          "text": "Corriente = $10\\text{ A}$, Potencia = $1000\\text{ W}$",
+          "text": "275 A",
           "is_correct": false,
-          "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
+          "feedback": "Incorrecto. sumaste tensión y resistencia (220 + 55), magnitudes distintas que no se pueden sumar."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{80} = 2,75\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 2.75 = 605,0\\text{ W}$.\n\n---",
+      "correct_answer": "C",
+      "explanation": "De la ley de Ohm V = I·R se despeja I = V/R. Con V = 220 V y R = 55 Ω, I = 4 A. Esa corriente produce una potencia P = V·I = 880 W, que la resistencia transforma en calor por efecto Joule.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.76,
+      "expected_success": 0.75,
+      "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v6",
+      "statement": "¿Qué corriente circula por el circuito?",
+      "context": "En un trabajo práctico en Tucumán se conectan en serie tres resistores de 10 Ω, 20 Ω y 30 Ω a una batería de 12 V.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2,2 A",
+          "is_correct": false,
+          "feedback": "Incorrecto. sumaste las corrientes 12/10 + 12/20 + 12/30 como si cada resistor estuviera en paralelo con la batería."
+        },
+        {
+          "letter": "B",
+          "text": "720 A",
+          "is_correct": false,
+          "feedback": "Incorrecto. multiplicaste la tensión por la resistencia total (12·60) en lugar de dividir."
+        },
+        {
+          "letter": "C",
+          "text": "1,2 A",
+          "is_correct": false,
+          "feedback": "Incorrecto. usaste solo el primer resistor de 10 Ω; en serie la corriente atraviesa los tres y la resistencia total es 60 Ω."
+        },
+        {
+          "letter": "D",
+          "text": "0,2 A",
+          "is_correct": true,
+          "feedback": "Correcto. en serie R_eq = 10 + 20 + 30 = 60 Ω e I = 12/60 = 0,2 A."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En una conexión en serie la corriente es la misma en todos los elementos y las resistencias se suman: R_eq = 60 Ω. Por la ley de Ohm, I = V/R_eq = 12 V/60 Ω = 0,2 A. Las caídas de tensión son 2 V, 4 V y 6 V, que suman los 12 V de la batería.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la resistencia equivalente del conjunto?",
+      "context": "Para una maqueta de iluminación de un estadio en una escuela de Lanús, se conectan en paralelo dos resistores de 6 Ω y 3 Ω.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9 Ω",
+          "is_correct": false,
+          "feedback": "Incorrecto. sumaste las resistencias como si estuvieran en serie; en paralelo se suman las inversas."
+        },
+        {
+          "letter": "B",
+          "text": "4,5 Ω",
+          "is_correct": false,
+          "feedback": "Incorrecto. promediaste las resistencias (9/2); la equivalente en paralelo siempre es menor que la menor de ellas."
+        },
+        {
+          "letter": "C",
+          "text": "1/2 Ω",
+          "is_correct": false,
+          "feedback": "Incorrecto. calculaste 1/R_eq = 1/2 y olvidaste invertir el resultado para obtener R_eq."
+        },
+        {
+          "letter": "D",
+          "text": "2 Ω",
+          "is_correct": true,
+          "feedback": "Correcto. 1/R_eq = 1/6 + 1/3 = 1/2, así que R_eq = 2 Ω (también R_eq = 6·3/(6 + 3) = 18/9 = 2 Ω)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En paralelo, la inversa de la resistencia equivalente es la suma de las inversas: 1/R_eq = 1/6 + 1/3 = 1/6 + 2/6 = 3/6 = 1/2, por lo tanto R_eq = 2 Ω. El resultado es menor que 3 Ω, la menor de las resistencias, porque agregar caminos en paralelo facilita el paso de la corriente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.71,
+      "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v8",
+      "statement": "¿Qué corriente toma la pava de la red cuando está funcionando?",
+      "context": "Una pava eléctrica para el mate, comprada en Córdoba, indica en su base '2200 W - 220 V'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "484 000 A",
+          "is_correct": false,
+          "feedback": "Incorrecto. multiplicaste potencia por tensión; de P = V·I se despeja I dividiendo P por V."
+        },
+        {
+          "letter": "B",
+          "text": "10 A",
+          "is_correct": true,
+          "feedback": "Correcto. I = P/V = 2200 W / 220 V = 10 A."
+        },
+        {
+          "letter": "C",
+          "text": "0,1 A",
+          "is_correct": false,
+          "feedback": "Incorrecto. dividiste la tensión por la potencia (220/2200), invirtiendo el cociente."
+        },
+        {
+          "letter": "D",
+          "text": "2420 A",
+          "is_correct": false,
+          "feedback": "Incorrecto. sumaste potencia y tensión (2200 + 220); no tienen las mismas unidades y no pueden sumarse."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La potencia eléctrica es P = V·I. Despejando, I = P/V = 2200/220 = 10 A. Es una corriente alta para un artefacto doméstico: por eso las pavas eléctricas necesitan cables y tomacorrientes adecuados, y conviene no conectarlas en la misma zapatilla que otros artefactos de gran consumo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.69,
       "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v9",
-      "statement": "Un aparato eléctrico conectado a $220\\text{ V}$ presenta una resistencia de $R = 90\\text{ \\Omega}$. ¿Qué corriente circula y qué potencia disipa?",
-      "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 9.",
+      "statement": "¿Cuál es la resistencia de su elemento calefactor en funcionamiento?",
+      "context": "Una estufa eléctrica de cuarzo vendida en Neuquén indica '1100 W - 220 V'.",
       "options": [
         {
-          "letter": "D",
-          "text": "Corriente = $2,44\\text{ A}$, Potencia = $537,8\\text{ W}$",
-          "is_correct": true,
-          "feedback": "Correcto. $I = 220 / 90 = 2,44\\text{ A}$. $P = V \\cdot I = 537,8\\text{ W}$."
-        },
-        {
           "letter": "A",
-          "text": "Corriente = $4,89\\text{ A}$, Potencia = $537,8\\text{ W}$",
+          "text": "5 Ω",
           "is_correct": false,
-          "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
+          "feedback": "Incorrecto. calculaste I = P/V = 5 A, que es la corriente, no la resistencia."
         },
         {
           "letter": "B",
-          "text": "Corriente = $2,44\\text{ A}$, Potencia = $268,9\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dividió la potencia por dos."
+          "text": "44 Ω",
+          "is_correct": true,
+          "feedback": "Correcto. de P = V²/R se obtiene R = V²/P = 220²/1100 = 48 400/1100 = 44 Ω."
         },
         {
           "letter": "C",
-          "text": "Corriente = $10\\text{ A}$, Potencia = $1000\\text{ W}$",
+          "text": "0,2 Ω",
           "is_correct": false,
-          "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
+          "feedback": "Incorrecto. dividiste V por P (220/1100); falta elevar la tensión al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "242 000 Ω",
+          "is_correct": false,
+          "feedback": "Incorrecto. multiplicaste P por V (1100·220); la resistencia sale de dividir V² por P."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{90} = 2,44\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 2.44 = 537,8\\text{ W}$.\n\n---",
+      "correct_answer": "B",
+      "explanation": "Combinando P = V·I con la ley de Ohm se obtiene P = V²/R. Despejando, R = V²/P = 220²/1100 = 44 Ω. Comprobación: I = 220/44 = 5 A y P = 220·5 = 1100 W. Este valor corresponde al filamento caliente; en frío la resistencia es algo menor.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.74,
+      "expected_success": 0.67,
       "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v10",
-      "statement": "Un aparato eléctrico conectado a $220\\text{ V}$ presenta una resistencia de $R = 100\\text{ \\Omega}$. ¿Qué corriente circula y qué potencia disipa?",
-      "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 10.",
+      "statement": "¿Cuánta energía eléctrica consume en ese tiempo, expresada en kWh?",
+      "context": "En un departamento de Mendoza se usa un microondas de 1200 W durante 15 minutos para cocinar.",
       "options": [
         {
-          "letter": "D",
-          "text": "Corriente = $2,20\\text{ A}$, Potencia = $484,0\\text{ W}$",
-          "is_correct": true,
-          "feedback": "Correcto. $I = 220 / 100 = 2,20\\text{ A}$. $P = V \\cdot I = 484,0\\text{ W}$."
-        },
-        {
           "letter": "A",
-          "text": "Corriente = $4,40\\text{ A}$, Potencia = $484,0\\text{ W}$",
+          "text": "18 000 kWh",
           "is_correct": false,
-          "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
+          "feedback": "Incorrecto. multiplicaste 1200 W por 15 min sin convertir a kW ni a horas."
         },
         {
           "letter": "B",
-          "text": "Corriente = $2,20\\text{ A}$, Potencia = $242,0\\text{ W}$",
+          "text": "18 kWh",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió la potencia por dos."
+          "feedback": "Incorrecto. pasaste a kW pero dejaste los 15 minutos sin convertir a horas (1,2·15)."
         },
         {
           "letter": "C",
-          "text": "Corriente = $10\\text{ A}$, Potencia = $1000\\text{ W}$",
+          "text": "0,3 kWh",
+          "is_correct": true,
+          "feedback": "Correcto. E = 1,2 kW·0,25 h = 0,3 kWh."
+        },
+        {
+          "letter": "D",
+          "text": "80 kWh",
           "is_correct": false,
-          "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
+          "feedback": "Incorrecto. dividiste la potencia por el tiempo (1200/15); la energía es potencia multiplicada por tiempo."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{100} = 2,20\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 2.20 = 484,0\\text{ W}$.\n\n---",
+      "correct_answer": "C",
+      "explanation": "La energía es E = P·t. Para obtener kWh hay que expresar la potencia en kW y el tiempo en horas: 1200 W = 1,2 kW y 15 min = 0,25 h. E = 1,2·0,25 = 0,3 kWh. En joules sería 1200 W·900 s = 1 080 000 J, lo que muestra por qué la factura usa kWh.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.72,
+      "expected_success": 0.65,
       "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -459,220 +459,40 @@
     },
     {
       "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v11",
-      "statement": "Un aparato eléctrico conectado a $220\\text{ V}$ presenta una resistencia de $R = 110\\text{ \\Omega}$. ¿Qué corriente circula y qué potencia disipa?",
-      "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 11.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Corriente = $2,00\\text{ A}$, Potencia = $440,0\\text{ W}$",
-          "is_correct": true,
-          "feedback": "Correcto. $I = 220 / 110 = 2,00\\text{ A}$. $P = V \\cdot I = 440,0\\text{ W}$."
-        },
-        {
-          "letter": "A",
-          "text": "Corriente = $4,00\\text{ A}$, Potencia = $440,0\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
-        },
-        {
-          "letter": "B",
-          "text": "Corriente = $2,00\\text{ A}$, Potencia = $220,0\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dividió la potencia por dos."
-        },
-        {
-          "letter": "C",
-          "text": "Corriente = $10\\text{ A}$, Potencia = $1000\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{110} = 2,00\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 2.00 = 440,0\\text{ W}$.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v12",
-      "statement": "Un aparato eléctrico conectado a $220\\text{ V}$ presenta una resistencia de $R = 120\\text{ \\Omega}$. ¿Qué corriente circula y qué potencia disipa?",
-      "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 12.",
+      "statement": "¿Qué ocurrirá al encenderlos simultáneamente?",
+      "context": "En una cocina de Mar del Plata, un circuito de tomacorrientes de 220 V está protegido por una llave termomagnética de 20 A. Se quieren usar a la vez un horno eléctrico de 2000 W, un aire acondicionado de 1500 W y un microondas de 1200 W.",
       "options": [
         {
           "letter": "A",
-          "text": "Corriente = $1,83\\text{ A}$, Potencia = $403,3\\text{ W}$",
-          "is_correct": true,
-          "feedback": "Correcto. $I = 220 / 120 = 1,83\\text{ A}$. $P = V \\cdot I = 403,3\\text{ W}$."
+          "text": "Funcionarán sin problema, porque cada artefacto toma menos de 20 A",
+          "is_correct": false,
+          "feedback": "Incorrecto. en paralelo las corrientes de las ramas se suman en el cable común que protege la térmica."
         },
         {
           "letter": "B",
-          "text": "Corriente = $3,67\\text{ A}$, Potencia = $403,3\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
-        },
-        {
-          "letter": "C",
-          "text": "Corriente = $1,83\\text{ A}$, Potencia = $201,7\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dividió la potencia por dos."
-        },
-        {
-          "letter": "D",
-          "text": "Corriente = $10\\text{ A}$, Potencia = $1000\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{120} = 1,83\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 1.83 = 403,3\\text{ W}$.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.68,
-      "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v13",
-      "statement": "Un aparato eléctrico conectado a $220\\text{ V}$ presenta una resistencia de $R = 130\\text{ \\Omega}$. ¿Qué corriente circula y qué potencia disipa?",
-      "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 13.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Corriente = $1,69\\text{ A}$, Potencia = $372,3\\text{ W}$",
+          "text": "La térmica probablemente salte, porque la corriente total es de unos 21,4 A, mayor que 20 A",
           "is_correct": true,
-          "feedback": "Correcto. $I = 220 / 130 = 1,69\\text{ A}$. $P = V \\cdot I = 372,3\\text{ W}$."
-        },
-        {
-          "letter": "A",
-          "text": "Corriente = $3,38\\text{ A}$, Potencia = $372,3\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
-        },
-        {
-          "letter": "B",
-          "text": "Corriente = $1,69\\text{ A}$, Potencia = $186,2\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dividió la potencia por dos."
-        },
-        {
-          "letter": "D",
-          "text": "Corriente = $10\\text{ A}$, Potencia = $1000\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{130} = 1,69\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 1.69 = 372,3\\text{ W}$.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.66,
-      "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v14",
-      "statement": "Un aparato eléctrico conectado a $220\\text{ V}$ presenta una resistencia de $R = 140\\text{ \\Omega}$. ¿Qué corriente circula y qué potencia disipa?",
-      "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 14.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Corriente = $1,57\\text{ A}$, Potencia = $345,7\\text{ W}$",
-          "is_correct": true,
-          "feedback": "Correcto. $I = 220 / 140 = 1,57\\text{ A}$. $P = V \\cdot I = 345,7\\text{ W}$."
-        },
-        {
-          "letter": "B",
-          "text": "Corriente = $3,14\\text{ A}$, Potencia = $345,7\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
+          "feedback": "Correcto. la potencia total es 4700 W e I = 4700/220 ≈ 21,4 A, por encima del límite de la protección."
         },
         {
           "letter": "C",
-          "text": "Corriente = $1,57\\text{ A}$, Potencia = $172,9\\text{ W}$",
+          "text": "Funcionarán, porque al estar en paralelo la corriente total es la del artefacto de mayor potencia",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió la potencia por dos."
+          "feedback": "Incorrecto. en paralelo la corriente total es la suma de las corrientes de las ramas, no la mayor de ellas."
         },
         {
           "letter": "D",
-          "text": "Corriente = $10\\text{ A}$, Potencia = $1000\\text{ W}$",
+          "text": "Bajará la tensión a 110 V para repartirse entre los tres artefactos",
           "is_correct": false,
-          "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{140} = 1,57\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 1.57 = 345,7\\text{ W}$.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.64,
-      "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v15",
-      "statement": "Un aparato eléctrico conectado a $220\\text{ V}$ presenta una resistencia de $R = 150\\text{ \\Omega}$. ¿Qué corriente circula y qué potencia disipa?",
-      "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 15.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Corriente = $1,47\\text{ A}$, Potencia = $322,7\\text{ W}$",
-          "is_correct": true,
-          "feedback": "Correcto. $I = 220 / 150 = 1,47\\text{ A}$. $P = V \\cdot I = 322,7\\text{ W}$."
-        },
-        {
-          "letter": "A",
-          "text": "Corriente = $2,93\\text{ A}$, Potencia = $322,7\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
-        },
-        {
-          "letter": "C",
-          "text": "Corriente = $1,47\\text{ A}$, Potencia = $161,3\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dividió la potencia por dos."
-        },
-        {
-          "letter": "D",
-          "text": "Corriente = $10\\text{ A}$, Potencia = $1000\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
+          "feedback": "Incorrecto. en paralelo la tensión no se reparte: cada artefacto recibe 220 V, y lo que aumenta es la corriente total."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{150} = 1,47\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 1.47 = 322,7\\text{ W}$.\n\n---",
+      "explanation": "En paralelo, la corriente total es la suma de las corrientes de cada artefacto: I = (2000 + 1500 + 1200)/220 = 4700/220 ≈ 21,4 A. La llave termomagnética de 20 A se calienta y abre el circuito para proteger los cables de un sobrecalentamiento. La solución es repartir los artefactos en circuitos distintos o no usarlos al mismo tiempo.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.62,
       "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
       "periodo": 14,
@@ -683,37 +503,37 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v16",
-      "statement": "Un aparato eléctrico conectado a $220\\text{ V}$ presenta una resistencia de $R = 160\\text{ \\Omega}$. ¿Qué corriente circula y qué potencia disipa?",
-      "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 16.",
+      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la explicación correcta?",
+      "context": "Para la Navidad, una familia de San Luis compra una guirnalda de 20 lamparitas conectadas en serie. Al quemarse una, se apagan todas.",
       "options": [
         {
           "letter": "A",
-          "text": "Corriente = $1,38\\text{ A}$, Potencia = $302,5\\text{ W}$",
-          "is_correct": true,
-          "feedback": "Correcto. $I = 220 / 160 = 1,38\\text{ A}$. $P = V \\cdot I = 302,5\\text{ W}$."
+          "text": "Las demás lamparitas se quedan sin tensión porque la quemada absorbe toda la energía",
+          "is_correct": false,
+          "feedback": "Incorrecto. una lamparita quemada no absorbe energía: es un circuito abierto por el que no circula corriente."
         },
         {
           "letter": "B",
-          "text": "Corriente = $2,75\\text{ A}$, Potencia = $302,5\\text{ W}$",
+          "text": "La corriente se agota al pasar por la lamparita quemada y no llega a las siguientes",
           "is_correct": false,
-          "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
+          "feedback": "Incorrecto. la corriente no se 'gasta' en serie: es la misma en todo el circuito, y al abrirse en un punto se anula en todos."
         },
         {
           "letter": "C",
-          "text": "Corriente = $1,38\\text{ A}$, Potencia = $151,3\\text{ W}$",
+          "text": "Las lamparitas están en paralelo y la quemada produce un cortocircuito",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió la potencia por dos."
+          "feedback": "Incorrecto. en paralelo las demás seguirían encendidas; el enunciado indica que la guirnalda está en serie."
         },
         {
           "letter": "D",
-          "text": "Corriente = $10\\text{ A}$, Potencia = $1000\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
+          "text": "En serie hay un único camino para la corriente: si una lamparita se corta, el circuito queda abierto para todas",
+          "is_correct": true,
+          "feedback": "Correcto. el filamento quemado interrumpe el único recorrido de las cargas y la corriente se anula en toda la guirnalda."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{160} = 1,38\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 1.38 = 302,5\\text{ W}$.\n\n---",
+      "correct_answer": "D",
+      "explanation": "En un circuito en serie los elementos están uno a continuación del otro y la corriente tiene un único camino. Cuando el filamento de una lamparita se rompe, el circuito se abre y la corriente se hace cero en todas. En paralelo cada lamparita tendría su propia rama y las demás seguirían encendidas.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -728,41 +548,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v17",
-      "statement": "Un aparato eléctrico conectado a $220\\text{ V}$ presenta una resistencia de $R = 170\\text{ \\Omega}$. ¿Qué corriente circula y qué potencia disipa?",
-      "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 17.",
+      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v13",
+      "statement": "¿Qué corriente entrega la batería?",
+      "context": "En la Feria de Ciencias de Santa Fe, un grupo arma un circuito con una batería de 24 V, un resistor de 4 Ω en serie con un par de resistores de 6 Ω y 12 Ω conectados en paralelo entre sí.",
       "options": [
         {
-          "letter": "B",
-          "text": "Corriente = $1,29\\text{ A}$, Potencia = $284,7\\text{ W}$",
+          "letter": "A",
+          "text": "3 A",
           "is_correct": true,
-          "feedback": "Correcto. $I = 220 / 170 = 1,29\\text{ A}$. $P = V \\cdot I = 284,7\\text{ W}$."
+          "feedback": "Correcto. el paralelo da 6·12/18 = 4 Ω; en serie con 4 Ω suma 8 Ω e I = 24/8 = 3 A."
         },
         {
-          "letter": "A",
-          "text": "Corriente = $2,59\\text{ A}$, Potencia = $284,7\\text{ W}$",
+          "letter": "B",
+          "text": "Aproximadamente 1,09 A",
           "is_correct": false,
-          "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
+          "feedback": "Incorrecto. sumaste las tres resistencias como si estuvieran todas en serie (4 + 6 + 12 = 22 Ω)."
         },
         {
           "letter": "C",
-          "text": "Corriente = $1,29\\text{ A}$, Potencia = $142,4\\text{ W}$",
+          "text": "6 A",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió la potencia por dos."
+          "feedback": "Incorrecto. usaste solo el resistor de 4 Ω (24/4) y olvidaste el tramo en paralelo."
         },
         {
           "letter": "D",
-          "text": "Corriente = $10\\text{ A}$, Potencia = $1000\\text{ W}$",
+          "text": "2 A",
           "is_correct": false,
-          "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
+          "feedback": "Incorrecto. tomaste solo la rama de 12 Ω (24/12); toda la corriente pasa por el resistor en serie y luego se divide."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{170} = 1,29\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 1.29 = 284,7\\text{ W}$.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "Primero se reduce el paralelo: R_p = 6·12/(6 + 12) = 4 Ω. Ese bloque está en serie con 4 Ω: R_eq = 8 Ω. La corriente de la batería es I = 24/8 = 3 A. Luego el resistor de 4 Ω tiene 12 V, el paralelo otros 12 V, y la corriente se reparte en 2 A por 6 Ω y 1 A por 12 Ω.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.58,
       "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
       "periodo": 14,
@@ -773,41 +593,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v18",
-      "statement": "Un aparato eléctrico conectado a $220\\text{ V}$ presenta una resistencia de $R = 180\\text{ \\Omega}$. ¿Qué corriente circula y qué potencia disipa?",
-      "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 18.",
+      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v14",
+      "statement": "Conectadas así, ¿cuál de las dos brilla más y por qué?",
+      "context": "En un laboratorio de Bahía Blanca se conectan en serie a 220 V una lámpara incandescente de 100 W y otra de 60 W (ambas especificadas para 220 V).",
       "options": [
         {
-          "letter": "C",
-          "text": "Corriente = $1,22\\text{ A}$, Potencia = $268,9\\text{ W}$",
-          "is_correct": true,
-          "feedback": "Correcto. $I = 220 / 180 = 1,22\\text{ A}$. $P = V \\cdot I = 268,9\\text{ W}$."
-        },
-        {
           "letter": "A",
-          "text": "Corriente = $2,44\\text{ A}$, Potencia = $268,9\\text{ W}$",
+          "text": "La de 100 W, porque siempre consume más potencia",
           "is_correct": false,
-          "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
+          "feedback": "Incorrecto. los 100 W son la potencia nominal a 220 V; en serie ninguna lámpara recibe 220 V."
         },
         {
           "letter": "B",
-          "text": "Corriente = $1,22\\text{ A}$, Potencia = $134,4\\text{ W}$",
+          "text": "La de 60 W, porque tiene mayor resistencia y, con la misma corriente, disipa más potencia (P = I²·R)",
+          "is_correct": true,
+          "feedback": "Correcto. R₆₀ = 220²/60 ≈ 807 Ω y R₁₀₀ = 220²/100 = 484 Ω; en serie la corriente es común y la de mayor R recibe más potencia."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas brillan igual porque circula la misma corriente",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió la potencia por dos."
+          "feedback": "Incorrecto. igual corriente no implica igual potencia: P = I²·R depende de la resistencia de cada lámpara."
         },
         {
           "letter": "D",
-          "text": "Corriente = $10\\text{ A}$, Potencia = $1000\\text{ W}$",
+          "text": "Ninguna enciende, porque las lámparas en serie se anulan entre sí",
           "is_correct": false,
-          "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
+          "feedback": "Incorrecto. en serie el circuito está cerrado y circula corriente por ambas, aunque menor que la nominal."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{180} = 1,22\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 1.22 = 268,9\\text{ W}$.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "A partir de los datos nominales se calcula la resistencia: R = V²/P. Lámpara de 100 W: 484 Ω; lámpara de 60 W: ≈ 807 Ω. En serie la corriente es la misma, I = 220/(484 + 807) ≈ 0,17 A, y la potencia de cada una es I²·R: brilla más la de mayor resistencia, la de 60 W. En paralelo sucedería lo contrario.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.56,
       "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
       "periodo": 14,
@@ -818,41 +638,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v19",
-      "statement": "Un aparato eléctrico conectado a $220\\text{ V}$ presenta una resistencia de $R = 190\\text{ \\Omega}$. ¿Qué corriente circula y qué potencia disipa?",
-      "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 19.",
+      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v15",
+      "statement": "¿En cuál de estas situaciones el galvanómetro registra una corriente inducida?",
+      "context": "En el laboratorio de una escuela de Viedma se conecta una bobina a un galvanómetro y se manipula un imán de barra cerca de ella.",
       "options": [
         {
-          "letter": "B",
-          "text": "Corriente = $1,16\\text{ A}$, Potencia = $254,7\\text{ W}$",
-          "is_correct": true,
-          "feedback": "Correcto. $I = 220 / 190 = 1,16\\text{ A}$. $P = V \\cdot I = 254,7\\text{ W}$."
+          "letter": "A",
+          "text": "Cuando el imán está quieto dentro de la bobina",
+          "is_correct": false,
+          "feedback": "Incorrecto. si el imán no se mueve el flujo es constante, y un flujo constante no induce corriente."
         },
         {
-          "letter": "A",
-          "text": "Corriente = $2,32\\text{ A}$, Potencia = $254,7\\text{ W}$",
+          "letter": "B",
+          "text": "Cuando el imán está quieto lejos de la bobina",
           "is_correct": false,
-          "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
+          "feedback": "Incorrecto. lejos y en reposo, el flujo es prácticamente nulo y además no varía: no hay inducción."
         },
         {
           "letter": "C",
-          "text": "Corriente = $1,16\\text{ A}$, Potencia = $127,4\\text{ W}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dividió la potencia por dos."
+          "text": "Cuando se introduce el imán rápidamente dentro de la bobina",
+          "is_correct": true,
+          "feedback": "Correcto. el flujo magnético a través de la bobina cambia con el tiempo, y por la ley de Faraday eso induce una fuerza electromotriz."
         },
         {
           "letter": "D",
-          "text": "Corriente = $10\\text{ A}$, Potencia = $1000\\text{ W}$",
+          "text": "Cuando se reemplaza el imán por una barra de madera que se mueve dentro de la bobina",
           "is_correct": false,
-          "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
+          "feedback": "Incorrecto. la madera no produce campo magnético, así que no hay flujo que varíe."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{190} = 1,16\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 1.16 = 254,7\\text{ W}$.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "La ley de Faraday establece que se induce una fuerza electromotriz cuando varía el flujo magnético a través de un circuito: ε = −ΔΦ/Δt. Introducir o retirar el imán cambia el flujo y aparece corriente; con el imán quieto no hay variación y el galvanómetro marca cero. Este principio es la base de los generadores y de los transformadores.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.54,
       "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
       "periodo": 14,
@@ -863,42 +683,222 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v20",
-      "statement": "Un aparato eléctrico conectado a $220\\text{ V}$ presenta una resistencia de $R = 200\\text{ \\Omega}$. ¿Qué corriente circula y qué potencia disipa?",
-      "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 20.",
+      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v16",
+      "statement": "¿Cuántas vueltas debe tener el bobinado secundario (transformador ideal)?",
+      "context": "Un cargador de celular fabricado en Tierra del Fuego tiene un transformador que reduce la tensión de la red de 220 V a 12 V. El bobinado primario tiene 1100 vueltas.",
       "options": [
         {
-          "letter": "C",
-          "text": "Corriente = $1,10\\text{ A}$, Potencia = $242,0\\text{ W}$",
-          "is_correct": true,
-          "feedback": "Correcto. $I = 220 / 200 = 1,10\\text{ A}$. $P = V \\cdot I = 242,0\\text{ W}$."
-        },
-        {
           "letter": "A",
-          "text": "Corriente = $2,20\\text{ A}$, Potencia = $242,0\\text{ W}$",
+          "text": "Aproximadamente 20 167 vueltas",
           "is_correct": false,
-          "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
+          "feedback": "Incorrecto. invertiste la proporción (1100·220/12); con más vueltas en el secundario el transformador elevaría la tensión."
         },
         {
           "letter": "B",
-          "text": "Corriente = $1,10\\text{ A}$, Potencia = $121,0\\text{ W}$",
+          "text": "1100 vueltas",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió la potencia por dos."
+          "feedback": "Incorrecto. con igual número de vueltas la tensión de salida sería igual a la de entrada, 220 V."
+        },
+        {
+          "letter": "C",
+          "text": "60 vueltas",
+          "is_correct": true,
+          "feedback": "Correcto. N₂ = N₁·V₂/V₁ = 1100·12/220 = 60 vueltas."
         },
         {
           "letter": "D",
-          "text": "Corriente = $10\\text{ A}$, Potencia = $1000\\text{ W}$",
+          "text": "12 vueltas",
           "is_correct": false,
-          "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
+          "feedback": "Incorrecto. igualaste el número de vueltas a la tensión de salida; lo que es proporcional es el cociente V/N."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{200} = 1,10\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 1.10 = 242,0\\text{ W}$.",
+      "explanation": "En un transformador ideal la tensión por vuelta es la misma en ambos bobinados: V₁/N₁ = V₂/N₂. Así, 220/1100 = 0,2 V por vuelta, y para 12 V hacen falta 12/0,2 = 60 vueltas. El transformador funciona solo con corriente alterna, porque necesita un flujo magnético variable para inducir tensión en el secundario.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la evaluación correcta de esa instalación?",
+      "context": "Un electricista matriculado de Paraná evalúa instalar un horno eléctrico de 3000 W a 220 V usando un cable que, según el fabricante, soporta como máximo 10 A.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es adecuada, porque 3000 W es menor que 220 V·10 A·2",
+          "is_correct": false,
+          "feedback": "Incorrecto. esa cuenta duplica arbitrariamente la capacidad del cable; 220 V·10 A = 2200 W, que es menor que 3000 W."
+        },
+        {
+          "letter": "B",
+          "text": "Es adecuada, porque el cable solo debe soportar la tensión de 220 V, no la corriente",
+          "is_correct": false,
+          "feedback": "Incorrecto. el calentamiento del cable depende de la corriente que lo atraviesa; por eso el fabricante especifica un máximo en amperes."
+        },
+        {
+          "letter": "C",
+          "text": "No es adecuada porque el horno necesitaría 3000 A",
+          "is_correct": false,
+          "feedback": "Incorrecto. confunde watts con amperes; la corriente se obtiene dividiendo la potencia por la tensión."
+        },
+        {
+          "letter": "D",
+          "text": "No es adecuada: el horno toma unos 13,6 A, más que los 10 A que soporta el cable, y este se sobrecalentaría",
+          "is_correct": true,
+          "feedback": "Correcto. I = P/V = 3000/220 ≈ 13,6 A > 10 A; la potencia disipada en el cable (I²·R) lo calentaría peligrosamente."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La corriente del horno es I = P/V = 3000/220 ≈ 13,6 A. Un cable de 10 A puede transportar como máximo 220·10 = 2200 W. Si circula más corriente, el calor por efecto Joule (P = I²·R) aumenta con el cuadrado de la corriente y puede derretir la aislación y causar un incendio. Se debe usar un cable de mayor sección y una protección adecuada.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.52,
+      "expected_success": 0.5,
+      "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v18",
+      "statement": "¿Qué conclusión está mejor fundamentada por los datos?",
+      "context": "En el laboratorio de física de una escuela de Formosa se midió un componente: con 2 V circulan 0,1 A; con 4 V, 0,2 A; con 6 V, 0,3 A; con 8 V, 0,4 A.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El componente es óhmico, con resistencia constante de 20 Ω",
+          "is_correct": true,
+          "feedback": "Correcto. el cociente V/I vale 2/0,1 = 4/0,2 = 6/0,3 = 8/0,4 = 20 Ω en todos los ensayos."
+        },
+        {
+          "letter": "B",
+          "text": "La resistencia aumenta con la tensión, porque la corriente también aumenta",
+          "is_correct": false,
+          "feedback": "Incorrecto. que aumente la corriente con la tensión no indica cambio de resistencia; el cociente V/I se mantiene en 20 Ω."
+        },
+        {
+          "letter": "C",
+          "text": "La resistencia es de 0,05 Ω",
+          "is_correct": false,
+          "feedback": "Incorrecto. calculaste I/V (0,1/2), que es la conductancia en siemens, no la resistencia."
+        },
+        {
+          "letter": "D",
+          "text": "El componente no es óhmico porque la corriente es muy pequeña",
+          "is_correct": false,
+          "feedback": "Incorrecto. el carácter óhmico depende de la proporcionalidad entre V e I, no del valor de la corriente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un componente es óhmico si su gráfico V-I es una recta que pasa por el origen, es decir, si V/I es constante. Aquí V/I = 20 Ω en los cuatro casos, así que se cumple la ley de Ohm con R = 20 Ω. Un diodo o una lámpara incandescente, en cambio, mostrarían un cociente variable.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.48,
+      "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v19",
+      "statement": "¿Cómo se evalúa correctamente esa afirmación?",
+      "context": "Durante una clase en Río Gallegos, una alumna afirma: 'En un circuito en serie con dos lamparitas, la primera usa parte de la corriente y por eso a la segunda le llega menos'.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta: cada lamparita consume una parte de la corriente",
+          "is_correct": false,
+          "feedback": "Incorrecto. la corriente no se consume; si se gastara, se acumularía carga en algún punto, lo que contradice la conservación de la carga."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecta: en serie la corriente es la misma en todos los puntos; lo que se transforma en cada lamparita es energía, no corriente",
+          "is_correct": true,
+          "feedback": "Correcto. la carga se conserva y no se acumula en el circuito; cada lamparita reduce el potencial, pero la intensidad es igual en todo el lazo."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcta solo si las lamparitas son distintas",
+          "is_correct": false,
+          "feedback": "Incorrecto. aun con lamparitas distintas la corriente en serie es única; lo que cambia es la caída de tensión en cada una."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta: a la segunda lamparita le llega más corriente que a la primera",
+          "is_correct": false,
+          "feedback": "Incorrecto. en serie la corriente es igual en ambas; no hay mecanismo que la aumente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Es una concepción alternativa muy común: pensar que la corriente 'se gasta'. Por conservación de la carga, en un circuito en serie la intensidad es la misma en cada punto, lo que se puede verificar con amperímetros antes y después de cada lamparita. Lo que disminuye a lo largo del circuito es el potencial eléctrico: cada lamparita transforma energía eléctrica en luz y calor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.47,
+      "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la evaluación correcta sobre las pérdidas por efecto Joule en la línea?",
+      "context": "La energía de la represa de Yacyretá llega a Buenos Aires por líneas de 500 kV. Se compara transmitir 100 MW por una línea de 10 Ω de resistencia a 500 kV o a 100 kV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A 500 kV las pérdidas son 25 veces menores: 0,4 MW frente a 10 MW",
+          "is_correct": true,
+          "feedback": "Correcto. I = P/V da 200 A o 1000 A, y P_pérdida = I²·R da 200²·10 = 0,4 MW o 1000²·10 = 10 MW."
+        },
+        {
+          "letter": "B",
+          "text": "A 500 kV las pérdidas son 5 veces menores, proporcionales a la tensión",
+          "is_correct": false,
+          "feedback": "Incorrecto. las pérdidas dependen de I², así que al quintuplicar la tensión la corriente baja 5 veces y la pérdida 25 veces."
+        },
+        {
+          "letter": "C",
+          "text": "A 500 kV las pérdidas son mayores, porque la tensión es más alta",
+          "is_correct": false,
+          "feedback": "Incorrecto. a igual potencia transmitida, más tensión implica menos corriente, y las pérdidas en la línea dependen de la corriente."
+        },
+        {
+          "letter": "D",
+          "text": "Las pérdidas son iguales porque la potencia transmitida es la misma",
+          "is_correct": false,
+          "feedback": "Incorrecto. la pérdida en el cable no depende de la potencia transmitida sino de la corriente que lo recorre: I²·R."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para transmitir una potencia P a tensión V, la corriente es I = P/V. La pérdida en la línea es I²·R. A 500 kV: I = 200 A y la pérdida 400 000 W = 0,4 MW (0,4 % de la potencia). A 100 kV: I = 1000 A y la pérdida 10 MW (10 %). Por eso se transmite en alta tensión y se usan transformadores para bajarla a 220 V cerca de los usuarios.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
       "bundle_id": "AR-CIE-11-2026-W14-electromagnetismo-ley-ohm-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",

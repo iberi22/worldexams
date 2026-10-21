@@ -13,6 +13,12 @@
       "context": "Identifying the structure of the Present Perfect.",
       "options": [
         {
+          "letter": "A",
+          "text": "Have / Has",
+          "is_correct": true,
+          "feedback": "Correct! Present Perfect uses have or has as an auxiliary."
+        },
+        {
           "letter": "B",
           "text": "Do / Does",
           "is_correct": false,
@@ -23,12 +29,6 @@
           "text": "Was / Were",
           "is_correct": false,
           "feedback": "Incorrect. This is for Past Continuous or Past of be."
-        },
-        {
-          "letter": "A",
-          "text": "Have / Has",
-          "is_correct": true,
-          "feedback": "Correct! Present Perfect uses have or has as an auxiliary."
         },
         {
           "letter": "D",
@@ -59,6 +59,12 @@
       "context": "Identifying the verb form for Present Perfect.",
       "options": [
         {
+          "letter": "A",
+          "text": "Past Participle (e.g., eaten)",
+          "is_correct": true,
+          "feedback": "Correct. The Present Perfect is built with 'have' or 'has' followed by the past participle, the third column of the verb table."
+        },
+        {
           "letter": "B",
           "text": "Base form (e.g., eat)",
           "is_correct": false,
@@ -69,12 +75,6 @@
           "text": "Past form (e.g., ate)",
           "is_correct": false,
           "feedback": "The past form is used on its own in the Past Simple, as in 'I ate', not after 'have'."
-        },
-        {
-          "letter": "A",
-          "text": "Past Participle (e.g., eaten)",
-          "is_correct": true,
-          "feedback": "Correct. The Present Perfect is built with 'have' or 'has' followed by the past participle, the third column of the verb table."
         },
         {
           "letter": "D",
@@ -105,16 +105,16 @@
       "context": "Describing a life experience.",
       "options": [
         {
-          "letter": "B",
-          "text": "have saw",
-          "is_correct": false,
-          "feedback": "'Saw' is the past form used in the Past Simple; the participle of 'see' is 'seen'."
-        },
-        {
           "letter": "A",
           "text": "have seen",
           "is_correct": true,
           "feedback": "Correct. The Present Perfect is 'have' plus the past participle 'seen'."
+        },
+        {
+          "letter": "B",
+          "text": "have saw",
+          "is_correct": false,
+          "feedback": "'Saw' is the past form used in the Past Simple; the participle of 'see' is 'seen'."
         },
         {
           "letter": "C",
@@ -157,16 +157,16 @@
           "feedback": "Incorrect. \"Sister\" (she) needs \"has\"."
         },
         {
-          "letter": "C",
-          "text": "has traveled",
-          "is_correct": true,
-          "feedback": "Correct! \"Has\" for third person singular and the participle \"traveled\"."
-        },
-        {
           "letter": "B",
           "text": "has travel",
           "is_correct": false,
           "feedback": "Incorrect. Needs the participle form."
+        },
+        {
+          "letter": "C",
+          "text": "has traveled",
+          "is_correct": true,
+          "feedback": "Correct! \"Has\" for third person singular and the participle \"traveled\"."
         },
         {
           "letter": "D",
@@ -203,12 +203,6 @@
           "feedback": "Incorrect. This would be a specific past event."
         },
         {
-          "letter": "D",
-          "text": "have been",
-          "is_correct": true,
-          "feedback": "Correct! Used to talk about visiting a place at some point in life."
-        },
-        {
           "letter": "B",
           "text": "has been",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "have be",
           "is_correct": false,
           "feedback": "Incorrect verb form."
+        },
+        {
+          "letter": "D",
+          "text": "have been",
+          "is_correct": true,
+          "feedback": "Correct! Used to talk about visiting a place at some point in life."
         }
       ],
       "correct_answer": "D",
@@ -249,12 +249,6 @@
           "feedback": "Incorrect. She also tried the piano."
         },
         {
-          "letter": "D",
-          "text": "Both the guitar and the piano.",
-          "is_correct": true,
-          "feedback": "Correct! She mentions playing/trying both."
-        },
-        {
           "letter": "B",
           "text": "Only the piano.",
           "is_correct": false,
@@ -265,6 +259,12 @@
           "text": "None of them.",
           "is_correct": false,
           "feedback": "Incorrect. She mentions two."
+        },
+        {
+          "letter": "D",
+          "text": "Both the guitar and the piano.",
+          "is_correct": true,
+          "feedback": "Correct! She mentions playing/trying both."
         }
       ],
       "correct_answer": "D",
@@ -289,16 +289,16 @@
       "context": "Identifying a negative experience.",
       "options": [
         {
-          "letter": "B",
-          "text": "I haven't saw that movie.",
-          "is_correct": false,
-          "feedback": "Incorrect participle."
-        },
-        {
           "letter": "A",
           "text": "I haven't seen that movie.",
           "is_correct": true,
           "feedback": "Correct! Negative auxiliary + correct participle."
+        },
+        {
+          "letter": "B",
+          "text": "I haven't saw that movie.",
+          "is_correct": false,
+          "feedback": "Incorrect participle."
         },
         {
           "letter": "C",
@@ -347,16 +347,16 @@
           "feedback": "Incorrect. Time is specified (two hours ago)."
         },
         {
-          "letter": "D",
-          "text": "I have visited Cali several times.",
-          "is_correct": true,
-          "feedback": "Correct! The specific times are not mentioned, only the fact of the experience."
-        },
-        {
           "letter": "C",
           "text": "I am visiting Cali now.",
           "is_correct": false,
           "feedback": "Incorrect. This is happening now."
+        },
+        {
+          "letter": "D",
+          "text": "I have visited Cali several times.",
+          "is_correct": true,
+          "feedback": "Correct! The specific times are not mentioned, only the fact of the experience."
         }
       ],
       "correct_answer": "D",
@@ -381,13 +381,13 @@
       "context": "Analyzing a list of achievements.\n\n\"Mateo's achievements: 1. He has won a soccer tournament. 2. He has learned to speak French. 3. He has traveled to three different continents.\"",
       "options": [
         {
-          "letter": "B",
+          "letter": "A",
           "text": "He is a very lazy person.",
           "is_correct": false,
           "feedback": "Incorrect. His achievements show activity."
         },
         {
-          "letter": "A",
+          "letter": "B",
           "text": "He is an active person with diverse interests and international experiences.",
           "is_correct": true,
           "feedback": "Correct! Sport, language, and travel are diverse and active."
@@ -405,7 +405,7 @@
           "feedback": "Incorrect. He has traveled to three continents."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "The student analyzes a set of perfect tense statements to infer general characteristics about a person's life.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -427,12 +427,6 @@
       "context": "Evaluating an interview response.\n\nInterviewer: \"Have you ever worked in a team?\"\n\nCandidate: \"Yes, I have worked in many school teams. We have completed many projects together. I have always been the leader.\"",
       "options": [
         {
-          "letter": "D",
-          "text": "Yes, they have experience in collaborative tasks and leadership roles.",
-          "is_correct": true,
-          "feedback": "Correct! \"Worked in many school teams\" and \"been the leader\" support this."
-        },
-        {
           "letter": "A",
           "text": "No, they only worked by themselves.",
           "is_correct": false,
@@ -449,6 +443,12 @@
           "text": "No, because school teams are not real experience.",
           "is_correct": false,
           "feedback": "Incorrect. In a school context, it is valid experience."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, they have experience in collaborative tasks and leadership roles.",
+          "is_correct": true,
+          "feedback": "Correct! \"Worked in many school teams\" and \"been the leader\" support this."
         }
       ],
       "correct_answer": "D",

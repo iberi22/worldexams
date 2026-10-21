@@ -13,12 +13,6 @@
       "context": "Discussing environmental activism in Barranquilla.",
       "options": [
         {
-          "letter": "D",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
           "text": "alleviate",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "facilitate",
           "is_correct": false,
           "feedback": "Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide."
+        },
+        {
+          "letter": "D",
+          "text": "exacerbate",
+          "is_correct": true,
+          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
         }
       ],
       "correct_answer": "D",
@@ -59,12 +59,6 @@
       "context": "Discussing environmental activism in Cartagena.",
       "options": [
         {
-          "letter": "C",
-          "text": "forfeited",
-          "is_correct": true,
-          "feedback": "'Forfeit' means to give up something one had, and the sentence describes a campaign that damaged the position it was defending. The clause about the hospital supplies the specific loss the action brought about."
-        },
-        {
           "letter": "A",
           "text": "advanced",
           "is_correct": false,
@@ -75,6 +69,12 @@
           "text": "concealed",
           "is_correct": false,
           "feedback": "'Conceal' means to hide, and nothing in the sentence is hidden from anyone. The consequence described is a loss of standing in the eyes of the community, not a matter of secrecy."
+        },
+        {
+          "letter": "C",
+          "text": "forfeited",
+          "is_correct": true,
+          "feedback": "'Forfeit' means to give up something one had, and the sentence describes a campaign that damaged the position it was defending. The clause about the hospital supplies the specific loss the action brought about."
         },
         {
           "letter": "D",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W21-environmental-activism-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on environmental activism in Bogotá, what is implied about the role of Mixed Conditionals in shaping public opinion?",
-      "context": "Discussing environmental activism in Bogotá.",
+      "statement": "Read the text and answer the question.\n\n\"Last March, forty students from a public school in Barranquilla started visiting the mangroves near the Ciénaga de Mallorquín every Saturday. At first they only collected plastic bottles. After a few weeks, they noticed that most of the rubbish arrived after heavy rain, carried by a small canal from the city. The students wrote a letter to the local authorities with photos and dates. In September, the city installed a metal net at the end of the canal. Now the volunteers collect much less plastic, and they spend their Saturdays planting young mangrove trees instead.\"\n\nWhat is the main idea of the text?",
+      "context": "A school newsletter from Barranquilla reports on a student mangrove project.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. Mixed conditionals is the point here: a mixed conditional ties a past cause to a present result (\"If we had cut emissions, the city would be cooler now\"), so the reader is made to weigh a counterfactual instead of treating past damage as unavoidable. Reading that implication is what the question asks."
+          "letter": "A",
+          "text": "Students collected more plastic every month because the canal became dirtier.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says the volunteers now collect much less plastic, which is the opposite of an increase."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report treats this argumentative move as central to what moves public opinion, so writing it off contradicts the text."
+          "letter": "B",
+          "text": "Students found where the rubbish came from and helped to stop it at the source.",
+          "is_correct": true,
+          "feedback": "Correct. The text moves from collecting bottles to discovering the canal, writing to the authorities and getting a net installed, so the central idea is finding and stopping the source."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "The city closed the canal because the students planted mangroves in it.",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the mixed conditional adds a conditional layer to the message rather than making the argument easier."
+          "feedback": "Incorrect. The city did not close the canal; it installed a metal net at its end, and the planting happened after that, not before."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bucaramanga.",
+          "text": "Rain is the main reason why mangroves in Barranquilla are disappearing.",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report applies this in media and public discourse, not only inside academic circles in one city."
+          "feedback": "Incorrect. Rain is mentioned only because it carried the rubbish; the text never says rain destroys the mangroves."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "A main-idea question asks for the statement that covers the whole text, not one detail. Here the sequence problem, discovery, letter, net and result points to one idea: the students traced the rubbish to its source and helped to block it. Options that invert a fact (more plastic) or add a cause the text never gives must be rejected.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-11-2026-W21-environmental-activism-001-MASTERY-bundle-v6",
-      "statement": "According to a recent report on environmental activism in Cali, what is implied about the role of Mixed Conditionals in shaping public opinion?",
-      "context": "Discussing environmental activism in Cali.",
+      "statement": "Read the text and answer the question.\n\n\"When I organised my first march for the Cauca River in Cali, I expected hundreds of people. Only thirty came, and most of them were my friends. I felt disappointed, but one of them filmed a short video of an old fisherman explaining how many fish he used to catch as a boy. We posted it that night. By Monday it had been shared more than fifty thousand times, and a local radio station invited the fisherman to speak. I learned that the size of a protest is not always what makes people listen.\"\n\nWhat can we infer about the writer's opinion?",
+      "context": "A blog post by a young activist from Cali about a protest against river pollution.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. Mixed conditionals is the point here: a mixed conditional ties a past cause to a present result (\"If we had cut emissions, the city would be cooler now\"), so the reader is made to weigh a counterfactual instead of treating past damage as unavoidable. Reading that implication is what the question asks."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Small protests are a waste of time and should be avoided.",
           "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report treats this argumentative move as central to what moves public opinion, so writing it off contradicts the text."
+          "feedback": "Incorrect. The writer's small protest produced the video that became famous, so the text does not conclude that it was a waste of time."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Fishermen are the only people who understand river pollution.",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the mixed conditional adds a conditional layer to the message rather than making the argument easier."
+          "feedback": "Incorrect. The fisherman gave a powerful testimony, but the writer never says that only fishermen understand the problem; that generalisation goes beyond the text."
+        },
+        {
+          "letter": "C",
+          "text": "A personal story can attract more attention than a large crowd.",
+          "is_correct": true,
+          "feedback": "Correct. The march was small, but the fisherman's video reached fifty thousand shares and the radio; the last sentence says size is not what makes people listen, so a personal story worked better."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bogotá.",
+          "text": "Radio stations are more important than social media for activists.",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report applies this in media and public discourse, not only inside academic circles in one city."
+          "feedback": "Incorrect. The video spread on social media first and the radio invitation came after it, so the text does not rank radio above social media."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "An inference must be supported by clues in the text. The contrast between 'only thirty came' and 'fifty thousand times', plus the final sentence about what makes people listen, lead to the idea that a human story can matter more than numbers. The distractors either contradict the outcome or make generalisations the writer never makes.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -285,36 +285,36 @@
     },
     {
       "id": "CO-ING-11-2026-W21-environmental-activism-001-MASTERY-bundle-v7",
-      "statement": "According to a recent report on environmental activism in Barranquilla, what is implied about the role of Mixed Conditionals in shaping public opinion?",
-      "context": "Discussing environmental activism in Barranquilla.",
+      "statement": "Read the text and answer the question.\n\n\"Tree-planting day in La Florida, Pereira: Saturday 14 June, 7:00 a.m. Meet at the main park next to the school. The committee will provide 300 native trees, gloves and water. Volunteers must bring a hat, sunscreen and their own lunch. Children under twelve are welcome if they come with an adult. Please do not bring plastic bags; we want this to be a zero-waste event. If it rains heavily, the activity will move to Sunday at the same time. For more information, write to the committee before Thursday.\"\n\nWhat should a volunteer do if it is raining heavily on Saturday morning?",
+      "context": "A notice published by a neighbourhood committee in Pereira about a tree-planting day.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. Mixed conditionals is the point here: a mixed conditional ties a past cause to a present result (\"If we had cut emissions, the city would be cooler now\"), so the reader is made to weigh a counterfactual instead of treating past damage as unavoidable. Reading that implication is what the question asks."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Write to the committee to ask for a new date.",
           "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report treats this argumentative move as central to what moves public opinion, so writing it off contradicts the text."
+          "feedback": "Incorrect. Writing to the committee is for more information before Thursday; the new date for rain is already given in the notice."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Go to the school building, where the activity will continue indoors.",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the mixed conditional adds a conditional layer to the message rather than making the argument easier."
+          "feedback": "Incorrect. The school is mentioned only as a landmark next to the park; the notice never says the activity moves indoors."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Pereira.",
+          "text": "Plant the trees on Saturday afternoon, when the rain stops.",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report applies this in media and public discourse, not only inside academic circles in one city."
+          "feedback": "Incorrect. The notice does not mention the afternoon; it changes the day to Sunday, not the time on Saturday."
+        },
+        {
+          "letter": "D",
+          "text": "Come back to the park on Sunday at 7:00 a.m.",
+          "is_correct": true,
+          "feedback": "Correct. The notice says that in heavy rain 'the activity will move to Sunday at the same time', and the original time is 7:00 a.m."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Detail questions require scanning for the exact sentence that answers the question. The key sentence is 'If it rains heavily, the activity will move to Sunday at the same time', and 'the same time' refers back to 7:00 a.m. The wrong options use words from the text (school, write to the committee) in the wrong situation.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -377,36 +377,36 @@
     },
     {
       "id": "CO-ING-11-2026-W21-environmental-activism-001-MASTERY-bundle-v9",
-      "statement": "According to a recent report on environmental activism in Pereira, what is implied about the role of Mixed Conditionals in shaping public opinion?",
-      "context": "Discussing environmental activism in Pereira.",
+      "statement": "Read the text and answer the question.\n\n\"Every year, many schools in Bogotá organise an environmental week with posters, songs and a recycling competition. These activities are fun, but on Monday the bins are mixed again and the lights stay on in empty classrooms. I believe that schools should stop treating the environment as a special event. Instead, students could measure the school's water and electricity use every month and publish the results on a board at the entrance. When people can see real numbers going up or down, they change their habits. One week of songs cannot do that.\"\n\nWhat is the writer's main purpose?",
+      "context": "An opinion column from a Bogotá newspaper about environmental campaigns in schools.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. Mixed conditionals is the point here: a mixed conditional ties a past cause to a present result (\"If we had cut emissions, the city would be cooler now\"), so the reader is made to weigh a counterfactual instead of treating past damage as unavoidable. Reading that implication is what the question asks."
+          "letter": "A",
+          "text": "To describe how a typical environmental week is organised in Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrect. The description of the week is only the starting point; the writer's purpose is to criticise it and propose an alternative, not just to describe it."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report treats this argumentative move as central to what moves public opinion, so writing it off contradicts the text."
+          "letter": "B",
+          "text": "To argue that schools need permanent, measurable actions instead of one special week.",
+          "is_correct": true,
+          "feedback": "Correct. The writer says schools 'should stop treating the environment as a special event' and proposes monthly measurements, which is a persuasive argument for permanent action."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "To announce the winner of a school recycling competition.",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the mixed conditional adds a conditional layer to the message rather than making the argument easier."
+          "feedback": "Incorrect. A recycling competition is mentioned as an example of a typical activity, but no winner or result is announced anywhere in the text."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bogotá.",
+          "text": "To explain how to calculate the price of water and electricity.",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report applies this in media and public discourse, not only inside academic circles in one city."
+          "feedback": "Incorrect. The writer suggests measuring use, not calculating prices, and gives no method or numbers for doing it."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "To identify purpose, look for the writer's opinion signals: 'I believe that schools should...' and 'Instead, students could...'. These show the text is persuasive, not merely descriptive. The final contrast 'One week of songs cannot do that' confirms that the writer is arguing for a change of approach.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -423,36 +423,36 @@
     },
     {
       "id": "CO-ING-11-2026-W21-environmental-activism-001-MASTERY-bundle-v10",
-      "statement": "According to a recent report on environmental activism in Cartagena, what is implied about the role of Mixed Conditionals in shaping public opinion?",
-      "context": "Discussing environmental activism in Cartagena.",
+      "statement": "Read the text and answer the question.\n\n\"Dr. Paola Herrera has studied the coral reefs near the Islas del Rosario for fifteen years. 'People think coral is a rock, but it is a living animal,' she explains. 'When the sea gets too warm, corals lose the tiny algae that give them colour and food. They turn white, and if the water does not cool down soon, they die.' Herrera works with local tour guides, who now remind visitors not to touch the reef or use certain sunscreens. 'The guides are our best allies,' she says. 'Tourists listen to them more than to scientists.'\"\n\nIn the text, the word 'allies' is closest in meaning to...",
+      "context": "An interview extract with a biologist from Cartagena about coral reefs.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. Mixed conditionals is the point here: a mixed conditional ties a past cause to a present result (\"If we had cut emissions, the city would be cooler now\"), so the reader is made to weigh a counterfactual instead of treating past damage as unavoidable. Reading that implication is what the question asks."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "competitors who want more tourists.",
           "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report treats this argumentative move as central to what moves public opinion, so writing it off contradicts the text."
+          "feedback": "Incorrect. A competitor works against you, but the guides are helping to protect the reef, which is the biologist's own goal."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "visitors who come only once.",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the mixed conditional adds a conditional layer to the message rather than making the argument easier."
+          "feedback": "Incorrect. The visitors in the text are the tourists; the word 'allies' refers to the guides, who work there permanently."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Medellín.",
+          "text": "scientists who study coral in a laboratory.",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report applies this in media and public discourse, not only inside academic circles in one city."
+          "feedback": "Incorrect. The text contrasts guides with scientists ('Tourists listen to them more than to scientists'), so the guides cannot be scientists."
+        },
+        {
+          "letter": "D",
+          "text": "partners who help with the same goal.",
+          "is_correct": true,
+          "feedback": "Correct. The guides remind tourists not to touch the reef, so they support Herrera's work; an 'ally' is someone who helps you towards a shared aim."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Vocabulary in context is solved by reading the sentences around the word. Before 'allies', the text explains that the guides tell visitors not to touch the reef, which supports the biologist's mission. That shared goal defines the meaning 'partners', while the distractors contradict the role the guides play in the passage.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -473,12 +473,6 @@
       "context": "Discussing environmental activism in Cali.",
       "options": [
         {
-          "letter": "C",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -489,6 +483,12 @@
           "text": "was",
           "is_correct": false,
           "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+        },
+        {
+          "letter": "C",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
         },
         {
           "letter": "D",
@@ -519,16 +519,16 @@
       "context": "Discussing environmental activism in Cali.",
       "options": [
         {
-          "letter": "B",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "'Were' after 'if' for a present hypothetical is the standard second conditional, and the main clause 'would be carrying' confirms that pairing. The clause describes an unrealised present condition."
-        },
-        {
           "letter": "A",
           "text": "had been",
           "is_correct": false,
           "feedback": "'Had been' would make the condition past, which would pair with 'would have been carrying'. The main clause here has no perfect, so the condition has to be present rather than past."
+        },
+        {
+          "letter": "B",
+          "text": "were",
+          "is_correct": true,
+          "feedback": "'Were' after 'if' for a present hypothetical is the standard second conditional, and the main clause 'would be carrying' confirms that pairing. The clause describes an unrealised present condition."
         },
         {
           "letter": "C",
@@ -565,16 +565,16 @@
       "context": "Discussing environmental activism in Pereira.",
       "options": [
         {
-          "letter": "B",
-          "text": "would have",
-          "is_correct": true,
-          "feedback": "'Would have' plus the participle is the form used when the condition is past and the result is still being assessed at present. The phrase 'by now' places the result in the present, which is what decides the perfect."
-        },
-        {
           "letter": "A",
           "text": "would",
           "is_correct": false,
           "feedback": "'Would' plus a bare infinitive belongs to the second conditional, where the condition is present or future. Here the condition is stated in the past perfect, so the result requires the perfect form too."
+        },
+        {
+          "letter": "B",
+          "text": "would have",
+          "is_correct": true,
+          "feedback": "'Would have' plus the participle is the form used when the condition is past and the result is still being assessed at present. The phrase 'by now' places the result in the present, which is what decides the perfect."
         },
         {
           "letter": "C",
@@ -611,12 +611,6 @@
       "context": "Discussing environmental activism in Medellín.",
       "options": [
         {
-          "letter": "C",
-          "text": "would have",
-          "is_correct": true,
-          "feedback": "'Would have' plus the participle is used when the condition is past and the result is being assessed in the present. The absence of a time expression makes the present reading the only one available."
-        },
-        {
           "letter": "A",
           "text": "would",
           "is_correct": false,
@@ -627,6 +621,12 @@
           "text": "had",
           "is_correct": false,
           "feedback": "'Had' would open a conditional clause, and the if-clause here is already complete. The blank sits after the comma in the result, which requires its own auxiliary."
+        },
+        {
+          "letter": "C",
+          "text": "would have",
+          "is_correct": true,
+          "feedback": "'Would have' plus the participle is used when the condition is past and the result is being assessed in the present. The absence of a time expression makes the present reading the only one available."
         },
         {
           "letter": "D",
@@ -657,12 +657,6 @@
       "context": "Discussing environmental activism in Bogotá.",
       "options": [
         {
-          "letter": "D",
-          "text": "had blocked",
-          "is_correct": true,
-          "feedback": "'Had blocked' forms the past perfect, which is what a hypothetical past condition requires. The result then uses 'would be', which is the form used when the consequence is still in progress at the present."
-        },
-        {
           "letter": "A",
           "text": "blocked",
           "is_correct": false,
@@ -679,6 +673,12 @@
           "text": "would block",
           "is_correct": false,
           "feedback": "'Would block' would introduce a second conditional inside the if-clause, creating a nested hypothetical the sentence does not describe. Only one condition is present."
+        },
+        {
+          "letter": "D",
+          "text": "had blocked",
+          "is_correct": true,
+          "feedback": "'Had blocked' forms the past perfect, which is what a hypothetical past condition requires. The result then uses 'would be', which is the form used when the consequence is still in progress at the present."
         }
       ],
       "correct_answer": "D",
@@ -703,12 +703,6 @@
       "context": "Discussing environmental activism in Barranquilla.",
       "options": [
         {
-          "letter": "C",
-          "text": "would be",
-          "is_correct": true,
-          "feedback": "'Would be' plus the participle is used when the condition is past and the consequence is being stated as the situation at present. The phrase 'by now' places the result in the present, which is what decides the form."
-        },
-        {
           "letter": "A",
           "text": "would",
           "is_correct": false,
@@ -719,6 +713,12 @@
           "text": "will be",
           "is_correct": false,
           "feedback": "'Will be' projects into the future, and the sentence describes the state of the species as at present. Nothing in it predicts anything beyond the time of speaking."
+        },
+        {
+          "letter": "C",
+          "text": "would be",
+          "is_correct": true,
+          "feedback": "'Would be' plus the participle is used when the condition is past and the consequence is being stated as the situation at present. The phrase 'by now' places the result in the present, which is what decides the form."
         },
         {
           "letter": "D",
@@ -752,29 +752,29 @@
           "letter": "A",
           "text": "The current strategy is directed towards the wrong objective.",
           "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "feedback": "Correct. 'Bark up the wrong tree' comes from hunting dogs barking at a tree the animal is not in, so it means putting effort into the wrong cause or the wrong solution."
         },
         {
           "letter": "B",
           "text": "They are literally looking for something in the trees of Barranquilla.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads the idiom word for word; nobody in the debate is searching any trees, because the phrase is figurative and describes a mistaken strategy."
         },
         {
           "letter": "C",
           "text": "The approach is too noisy and aggressive.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. 'Barking' here does not describe loud or aggressive behaviour; the idiom is about aiming at the wrong target, not about the tone of the discussion."
         },
         {
           "letter": "D",
           "text": "A new environmental project involving trees should be started.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The speaker is criticising the current approach, not proposing a new project; 'tree' is part of a fixed expression and has no literal meaning here."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'To bark up the wrong tree' means to look for a cause or a solution in the wrong place. The words 'with this approach' show that the speaker is questioning the strategy itself, so only the figurative reading fits; the literal options ignore that an idiom is a fixed expression whose meaning is not the sum of its words.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-ING-11-2026-W21-environmental-activism-001-MASTERY-bundle-v18",
-      "statement": "In a high-level debate about environmental activism, Valentina says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Valentina mean?",
-      "context": "Discussing environmental activism in Medellín.",
+      "statement": "At a meeting about a campaign against air pollution in Medellín, Laura says:\n\nLaura: 'Banning cars from the whole city next month? Let's not bite off more than we can chew. We are only twelve volunteers.'\n\nWhat does Laura mean?",
+      "context": "A planning meeting of a youth environmental group in Medellín.",
       "options": [
         {
           "letter": "A",
-          "text": "The current strategy is directed towards the wrong objective.",
+          "text": "The group should not try to do something too big for its size and resources.",
           "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "feedback": "Correct. 'Bite off more than you can chew' means to take on a task that is too large; her reason, 'We are only twelve volunteers', confirms she thinks the plan is too ambitious."
         },
         {
           "letter": "B",
-          "text": "They are literally looking for something in the trees of Bogotá.",
+          "text": "The volunteers should stop eating during the meetings.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This is a literal reading of 'bite' and 'chew'; the idiom refers to taking on too much work, not to food."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The group should ban cars more quickly than planned.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. Laura is warning against the plan, not asking to speed it up; her mention of only twelve volunteers shows she wants less, not more."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "She agrees completely with the proposal to ban cars.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. 'Let's not...' introduces an objection, so she is disagreeing with the proposal, not supporting it."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Bite off more than you can chew' warns that a plan is bigger than the people doing it can manage. In the dialogue, the rhetorical question about banning cars and the reason 'We are only twelve volunteers' together show a polite objection. Recognising that 'Let's not' introduces disagreement is the pragmatic key.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -837,36 +837,36 @@
     },
     {
       "id": "CO-ING-11-2026-W21-environmental-activism-001-MASTERY-bundle-v19",
-      "statement": "In a high-level debate about environmental activism, Santiago says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Santiago mean?",
-      "context": "Discussing environmental activism in Barranquilla.",
+      "statement": "Two volunteers talk after a beach clean-up in Santa Marta.\n\nAndrés: 'We picked up two hundred kilos of plastic today!'\nCamila: 'That's great, but honestly it's just a drop in the ocean. Ships throw tonnes into the sea every day.'\n\nWhat does Camila mean?",
+      "context": "A conversation between two volunteers after a beach clean-up in Santa Marta.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Barranquilla.",
+          "text": "The plastic they collected fell back into the sea.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads 'drop' and 'ocean' literally; nothing in the dialogue says the plastic returned to the water."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Andrés is lying about how much plastic they collected.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. Camila begins with 'That's great', which accepts his number; her point is about scale, not about honesty."
         },
         {
           "letter": "C",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "The volunteers should start working on ships instead of beaches.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. She mentions ships to show the size of the problem, but she makes no suggestion about where they should work."
+        },
+        {
+          "letter": "D",
+          "text": "Their work is positive but very small compared with the size of the problem.",
+          "is_correct": true,
+          "feedback": "Correct. 'A drop in the ocean' means a very small amount compared with what is needed; she contrasts two hundred kilos with the tonnes thrown in every day."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'A drop in the ocean' is an idiom of proportion: something good but tiny compared with the whole. Camila's structure 'That's great, but...' first values her friend's effort and then limits it, which is a common pragmatic pattern for disagreeing politely in English.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -887,12 +887,6 @@
       "context": "Discussing environmental activism in Cali.",
       "options": [
         {
-          "letter": "D",
-          "text": "She is identifying a recurring weakness in the campaign's own cases while marking it as an observation rather than proven evidence.",
-          "is_correct": true,
-          "feedback": "The final clause separates a rule she has noticed from a finding she can demonstrate. She asserts the pattern about her own strategy and limits its authority at the same time, which is what the two phrases together do."
-        },
-        {
           "letter": "A",
           "text": "She is retracting a claim she had already proved.",
           "is_correct": false,
@@ -909,6 +903,12 @@
           "text": "She is claiming that tribunals never accept naming a category rather than an emitter.",
           "is_correct": false,
           "feedback": "The sentence describes what her own cases do, not what tribunals accept. Nothing in it reports any tribunal's practice, so the generalisation about tribunals has no support."
+        },
+        {
+          "letter": "D",
+          "text": "She is identifying a recurring weakness in the campaign's own cases while marking it as an observation rather than proven evidence.",
+          "is_correct": true,
+          "feedback": "The final clause separates a rule she has noticed from a finding she can demonstrate. She asserts the pattern about her own strategy and limits its authority at the same time, which is what the two phrases together do."
         }
       ],
       "correct_answer": "D",

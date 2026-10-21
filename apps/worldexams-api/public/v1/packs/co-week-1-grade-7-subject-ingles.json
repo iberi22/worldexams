@@ -388,9 +388,9 @@
         },
         {
           "letter": "B",
-          "text": "I am 14 years old and I live in Manizales.",
-          "is_correct": true,
-          "feedback": "Correct! This follows the correct structure for age and residence."
+          "text": "I is 14 years old and I live in Manizales.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"I is\" is grammatically wrong."
         },
         {
           "letter": "C",
@@ -400,12 +400,12 @@
         },
         {
           "letter": "D",
-          "text": "I is 14 years old and I live in Manizales.",
-          "is_correct": false,
-          "feedback": "Incorrect. \"I is\" is grammatically wrong."
+          "text": "I am 14 years old and I live in Manizales.",
+          "is_correct": true,
+          "feedback": "Correct! This follows the correct structure for age and residence."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student analyzes and compares different structures to identify the correct way to express age and location in English.\n\n---",
       "difficulty": "10",
       "images": [],

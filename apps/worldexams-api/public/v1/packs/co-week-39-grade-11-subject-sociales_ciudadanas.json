@@ -59,16 +59,16 @@
       "context": "Un estudiante de Manizales aprende a leer los códigos de las sentencias en la página de la Corte.",
       "options": [
         {
-          "letter": "B",
-          "text": "De revisión de una tutela proferida por cualquier juez",
-          "is_correct": false,
-          "feedback": "Las tutelas revisadas se codifican con \"T\"."
-        },
-        {
           "letter": "A",
           "text": "De control de constitucionalidad de normas con efectos generales",
           "is_correct": true,
           "feedback": "Correcto. Las sentencias \"C\" resuelven demandas o controles de leyes y actos legislativos."
+        },
+        {
+          "letter": "B",
+          "text": "De revisión de una tutela proferida por cualquier juez",
+          "is_correct": false,
+          "feedback": "Las tutelas revisadas se codifican con \"T\"."
         },
         {
           "letter": "C",
@@ -105,16 +105,16 @@
       "context": "En un foro de Ibagué se discute por qué una sentencia de tutela no borra la ley del sistema.",
       "options": [
         {
-          "letter": "B",
-          "text": "Excluyen del ordenamiento la norma inconstitucional con efectos para todos, mientras las segundas protegen derechos de las partes sin expulsar normas",
-          "is_correct": true,
-          "feedback": "Correcto. Las C operan erga omnes sobre normas; las T inter partes sobre casos."
-        },
-        {
           "letter": "A",
           "text": "Son opcionales para el funcionario, mientras las T solo obligan al juez",
           "is_correct": false,
           "feedback": "Ambas son de obligatorio cumplimiento para los destinatarios de su decisión."
+        },
+        {
+          "letter": "B",
+          "text": "Excluyen del ordenamiento la norma inconstitucional con efectos para todos, mientras las segundas protegen derechos de las partes sin expulsar normas",
+          "is_correct": true,
+          "feedback": "Correcto. Las C operan erga omnes sobre normas; las T inter partes sobre casos."
         },
         {
           "letter": "C",
@@ -157,16 +157,16 @@
           "feedback": "La suspensión temporal existe en otros sistemas (inconstitucionalidad diferida); en Colombia la regla es la exclusión."
         },
         {
-          "letter": "C",
-          "text": "Es expulsada del ordenamiento jurídico con efectos generales y, en principio, cosa juzgada",
-          "is_correct": true,
-          "feedback": "Correcto. La sentencia de inexequibilidad retira la norma del sistema para todos."
-        },
-        {
           "letter": "B",
           "text": "Sigue vigente pero solo para quienes no la demandaron",
           "is_correct": false,
           "feedback": "El efecto es erga omnes: ninguna persona puede invocar una ley inexequible."
+        },
+        {
+          "letter": "C",
+          "text": "Es expulsada del ordenamiento jurídico con efectos generales y, en principio, cosa juzgada",
+          "is_correct": true,
+          "feedback": "Correcto. La sentencia de inexequibilidad retira la norma del sistema para todos."
         },
         {
           "letter": "D",
@@ -203,12 +203,6 @@
           "feedback": "El sufragio femenino se reconoció en 1954 y se ejerció masivamente desde 1957."
         },
         {
-          "letter": "D",
-          "text": "Declaró constitucional el aborto en tres supuestos, desarrollando derechos de la mujer a la dignidad, salud y autodeterminación",
-          "is_correct": true,
-          "feedback": "Correcto. La sentencia condictó la penalización absoluta del aborto e instauró las tres causales no punibles."
-        },
-        {
           "letter": "B",
           "text": "Prohibió todos los métodos de anticoncepción modernos",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "Creó el sistema de salud colombiano",
           "is_correct": false,
           "feedback": "El SGSSS se creó con la Ley 100 de 1993, anterior a la sentencia."
+        },
+        {
+          "letter": "D",
+          "text": "Declaró constitucional el aborto en tres supuestos, desarrollando derechos de la mujer a la dignidad, salud y autodeterminación",
+          "is_correct": true,
+          "feedback": "Correcto. La sentencia condictó la penalización absoluta del aborto e instauró las tres causales no punibles."
         }
       ],
       "correct_answer": "D",
@@ -243,16 +243,16 @@
       "context": "En Chocó, una organización ambientalista invoca la Sentencia T-622 de 2016 sobre el río Atrato.",
       "options": [
         {
-          "letter": "B",
-          "text": "Reconoció al río Atrato como sujeto de derechos y ordenó su protección, conservación, mantenimiento y restauración",
-          "is_correct": true,
-          "feedback": "Correcto. La tutela del río —protección biocultural del territorio y de las comunidades étnicas que lo habitan— fijó un estándar de derechos de la naturaleza."
-        },
-        {
           "letter": "A",
           "text": "Prohibió toda navegación comercial en el Pacífico colombiano",
           "is_correct": false,
           "feedback": "La sentencia no cerró el río a la navegación; ordenó combatir la minería ilegal y restaurar el cauce."
+        },
+        {
+          "letter": "B",
+          "text": "Reconoció al río Atrato como sujeto de derechos y ordenó su protección, conservación, mantenimiento y restauración",
+          "is_correct": true,
+          "feedback": "Correcto. La tutela del río —protección biocultural del territorio y de las comunidades étnicas que lo habitan— fijó un estándar de derechos de la naturaleza."
         },
         {
           "letter": "C",
@@ -335,16 +335,16 @@
       "context": "Un estudiante de Cali estudia la Sentencia C-577 de 2011 sobre parejas del mismo sexo.",
       "options": [
         {
-          "letter": "B",
-          "text": "Carecían de toda protección jurídica hasta que el Congreso lo decidiera",
-          "is_correct": false,
-          "feedback": "La sentencia reconoció justamente que ya gozaban de protección constitucional."
-        },
-        {
           "letter": "A",
           "text": "Conforman una familia y tienen derecho a un patrimonio común y a figuras de contrato, ordenando al legislador asegurar sus derechos de manera igualitaria",
           "is_correct": true,
           "feedback": "Correcto. La Corte interpretó el artículo 42 en clave igualitaria e instó al Congreso a legislar."
+        },
+        {
+          "letter": "B",
+          "text": "Carecían de toda protección jurídica hasta que el Congreso lo decidiera",
+          "is_correct": false,
+          "feedback": "La sentencia reconoció justamente que ya gozaban de protección constitucional."
         },
         {
           "letter": "C",
@@ -387,12 +387,6 @@
           "feedback": "El narcotráfico y el expendio siguen siendo penados: la sentencia solo afecta la posesión para consumo personal."
         },
         {
-          "letter": "D",
-          "text": "Exequible la prohibición del porte y consumo de dosis mínimas, pero inconstitucional su sanción penal cuando el consumo se limita a la esfera íntima y no afecta a terceros",
-          "is_correct": true,
-          "feedback": "Correcto. La Corte separó consumo personal libre de afectación a terceros y de tráfico."
-        },
-        {
           "letter": "B",
           "text": "Obligatorio el tratamiento de todos los consumidores de Colombia",
           "is_correct": false,
@@ -403,6 +397,12 @@
           "text": "Competencia exclusiva de las juntas de acción comunal sobre el microtráfico",
           "is_correct": false,
           "feedback": "Las JAC no tienen funciones de policía judicial."
+        },
+        {
+          "letter": "D",
+          "text": "Exequible la prohibición del porte y consumo de dosis mínimas, pero inconstitucional su sanción penal cuando el consumo se limita a la esfera íntima y no afecta a terceros",
+          "is_correct": true,
+          "feedback": "Correcto. La Corte separó consumo personal libre de afectación a terceros y de tráfico."
         }
       ],
       "correct_answer": "D",
@@ -433,16 +433,16 @@
           "feedback": "Las garantías procesales son universales y la gratuidad está prevista para los procesos constitucionales."
         },
         {
-          "letter": "C",
-          "text": "Garantías de proceso: notificación de cargos, oportunidad de ser oído, motivación de la decisión, contradicción y proporcionalidad de la sanción",
-          "is_correct": true,
-          "feedback": "Correcto. El debido proceso es aplicable al ámbito escolar por mandato expreso del artículo 29."
-        },
-        {
           "letter": "B",
           "text": "La posibilidad de reponer la sanción con trabajo comunitario obligatorio siempre",
           "is_correct": false,
           "feedback": "El trabajo comunitario puede ser una medida pedagógica, no una obligación universal sustitutiva."
+        },
+        {
+          "letter": "C",
+          "text": "Garantías de proceso: notificación de cargos, oportunidad de ser oído, motivación de la decisión, contradicción y proporcionalidad de la sanción",
+          "is_correct": true,
+          "feedback": "Correcto. El debido proceso es aplicable al ámbito escolar por mandato expreso del artículo 29."
         },
         {
           "letter": "D",
@@ -479,16 +479,16 @@
           "feedback": "Esas son sentencias ordinarias; las estructurales trascienden el caso."
         },
         {
-          "letter": "C",
-          "text": "Declarar problemas estructurales de vulneración masiva de derechos y ordenar a múltiples entidades diseñar, financiar y reportar políticas correctivas, con seguimiento continuo mediante autos",
-          "is_correct": true,
-          "feedback": "Correcto. Su marca distintiva es el mandato complejo y la vigilancia judicial prolongada."
-        },
-        {
           "letter": "B",
           "text": "Reemplazar al Congreso legislando normas de rango legal",
           "is_correct": false,
           "feedback": "La Corte ordena a la administración cumplir y diseñar políticas dentro de la ley; no expide normas generales."
+        },
+        {
+          "letter": "C",
+          "text": "Declarar problemas estructurales de vulneración masiva de derechos y ordenar a múltiples entidades diseñar, financiar y reportar políticas correctivas, con seguimiento continuo mediante autos",
+          "is_correct": true,
+          "feedback": "Correcto. Su marca distintiva es el mandato complejo y la vigilancia judicial prolongada."
         },
         {
           "letter": "D",
@@ -525,16 +525,16 @@
           "feedback": "La Corte no controla la conveniencia política: controla constitucionalidad."
         },
         {
-          "letter": "C",
-          "text": "La constitucionalidad formal y material de los actos legislativos y referendos, aplicando la doctrina de la sustitución cuando la reforma altera la identidad de la Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La revisión de los actos de relección se hizo sobre competencia, procedimiento y sustitución."
-        },
-        {
           "letter": "B",
           "text": "La ética personal de los magistrados firmantes",
           "is_correct": false,
           "feedback": "La motivación jurídica es pública y colegiada; la ética personal no es un estándar de decisión."
+        },
+        {
+          "letter": "C",
+          "text": "La constitucionalidad formal y material de los actos legislativos y referendos, aplicando la doctrina de la sustitución cuando la reforma altera la identidad de la Constitución",
+          "is_correct": true,
+          "feedback": "Correcto. La revisión de los actos de relección se hizo sobre competencia, procedimiento y sustitución."
         },
         {
           "letter": "D",
@@ -571,12 +571,6 @@
           "feedback": "La revisión de tutelas es selectiva; las SU unifican doctrina cuando hay criterios divergentes."
         },
         {
-          "letter": "D",
-          "text": "Resolver contradicciones entre líneas jurisprudenciales, fijando criterios obligatorios con efectos de cosa juzgada interpretativa",
-          "is_correct": true,
-          "feedback": "Correcto. Las SU restañan la unidad de la Constitución y guían a jueces y autoridades."
-        },
-        {
           "letter": "B",
           "text": "Convocar nuevas elecciones de magistrados",
           "is_correct": false,
@@ -587,6 +581,12 @@
           "text": "Derogar en bloque los códigos legales obsoletos",
           "is_correct": false,
           "feedback": "La Corte no deroga códigos completos sin control sobre las normas específicas demandadas."
+        },
+        {
+          "letter": "D",
+          "text": "Resolver contradicciones entre líneas jurisprudenciales, fijando criterios obligatorios con efectos de cosa juzgada interpretativa",
+          "is_correct": true,
+          "feedback": "Correcto. Las SU restañan la unidad de la Constitución y guían a jueces y autoridades."
         }
       ],
       "correct_answer": "D",
@@ -617,16 +617,16 @@
           "feedback": "La propiedad colectiva se titula por la vía de la reforma agraria y los resguardos; la tutela protege el procedimiento de consulta."
         },
         {
-          "letter": "C",
-          "text": "Convierte la consulta de trámite administrativo en derecho fundamental justiciable, cuya omisión invalida la medida que afecte directamente la cultura y supervivencia de la comunidad",
-          "is_correct": true,
-          "feedback": "Correcto. La Corte ha tutelado la consulta previa como derecho fundamental de protección integral."
-        },
-        {
           "letter": "B",
           "text": "Permite al Estado iniciar proyectos mientras se dialoga con la comunidad",
           "is_correct": false,
           "feedback": "La regla es la consulta previa a la medida, no el inicio a la espera del diálogo."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte la consulta de trámite administrativo en derecho fundamental justiciable, cuya omisión invalida la medida que afecte directamente la cultura y supervivencia de la comunidad",
+          "is_correct": true,
+          "feedback": "Correcto. La Corte ha tutelado la consulta previa como derecho fundamental de protección integral."
         },
         {
           "letter": "D",
@@ -709,16 +709,16 @@
           "feedback": "Los autos de seguimiento y protección producen órdenes vinculantes; el Auto 092 ordenó acciones específicas para mujeres desplazadas."
         },
         {
-          "letter": "C",
-          "text": "La sentencia resuelve de fondo una controversia constitucional; el auto decide incidencias o seguimiento, y los autos de cumplimiento pueden desarrollar obligaciones complejas con órdenes continuadas",
-          "is_correct": true,
-          "feedback": "Correcto. En la T-025 de 2004, por ejemplo, los autos posteriores —incluido el 092— desarrollaron la protección diferenciada por género."
-        },
-        {
           "letter": "B",
           "text": "Solo las sentencias pueden ser leídas por periodistas",
           "is_correct": false,
           "feedback": "La publicidad de las decisiones es regla de ambos instrumentos."
+        },
+        {
+          "letter": "C",
+          "text": "La sentencia resuelve de fondo una controversia constitucional; el auto decide incidencias o seguimiento, y los autos de cumplimiento pueden desarrollar obligaciones complejas con órdenes continuadas",
+          "is_correct": true,
+          "feedback": "Correcto. En la T-025 de 2004, por ejemplo, los autos posteriores —incluido el 092— desarrollaron la protección diferenciada por género."
         },
         {
           "letter": "D",
@@ -755,16 +755,16 @@
           "feedback": "La designación indirecta es un diseño deliberado de independencia técnica con anclaje democrático constitucional."
         },
         {
-          "letter": "C",
-          "text": "La Corte ha suplido funciones de representación —articulando demandas de minorías y poblaciones— por la debilidad de los canales partidistas y corporativos, lo que legitima su papel pero exige autolimitación y debate público calificado",
-          "is_correct": true,
-          "feedback": "Correcto. Describe el fenómeno (judicialización de la política) con sus dos caras."
-        },
-        {
           "letter": "B",
           "text": "Su activismo beneficia siempre a la mayoría rica del país",
           "is_correct": false,
           "feedback": "La evidencia de litigio constitucional muestra protección recurrente de poblaciones vulnerables, sin excluir un acceso desigual por capacidades."
+        },
+        {
+          "letter": "C",
+          "text": "La Corte ha suplido funciones de representación —articulando demandas de minorías y poblaciones— por la debilidad de los canales partidistas y corporativos, lo que legitima su papel pero exige autolimitación y debate público calificado",
+          "is_correct": true,
+          "feedback": "Correcto. Describe el fenómeno (judicialización de la política) con sus dos caras."
         },
         {
           "letter": "D",
@@ -801,16 +801,16 @@
           "feedback": "El artículo 241 y la ley estatutaria admiten decisiones interpretadas: la técnica es legítima."
         },
         {
-          "letter": "C",
-          "text": "Preserva la presunción de constitucionalidad de la ley, salvando la norma con una interpretación conforme a la Constitución y fijando límites al poder constituido sin expulsarla",
-          "is_correct": true,
-          "feedback": "Correcto. La técnica maximiza la conformidad y la estabilidad normativa."
-        },
-        {
           "letter": "B",
           "text": "Permite al Presidente vetar la ley interpretada",
           "is_correct": false,
           "feedback": "El veto presidencial opera sobre proyectos de ley, no sobre decisiones judiciales."
+        },
+        {
+          "letter": "C",
+          "text": "Preserva la presunción de constitucionalidad de la ley, salvando la norma con una interpretación conforme a la Constitución y fijando límites al poder constituido sin expulsarla",
+          "is_correct": true,
+          "feedback": "Correcto. La técnica maximiza la conformidad y la estabilidad normativa."
         },
         {
           "letter": "D",
@@ -847,12 +847,6 @@
           "feedback": "Eliminar el control constitucional es destruir la supremacía de la Constitución: la democracia constitucional no es democracia de mayorías simples."
         },
         {
-          "letter": "D",
-          "text": "La justicia constitucional requiere blindaje frente a presiones, pero también rendición de cuentas: transparencia de litigio, plazos razonables, motivación y debate público sobre sus decisiones",
-          "is_correct": true,
-          "feedback": "Correcto. Independencia sin opacidad y control sin subordinación."
-        },
-        {
           "letter": "B",
           "text": "La Corte debe alinearse con el gobierno de turno para garantizar gobernabilidad",
           "is_correct": false,
@@ -863,6 +857,12 @@
           "text": "Solo los abogados pueden opinar sobre sus reformas",
           "is_correct": false,
           "feedback": "La Constitución es patrimonio ciudadano; la educación jurídica es la herramienta para participar informado."
+        },
+        {
+          "letter": "D",
+          "text": "La justicia constitucional requiere blindaje frente a presiones, pero también rendición de cuentas: transparencia de litigio, plazos razonables, motivación y debate público sobre sus decisiones",
+          "is_correct": true,
+          "feedback": "Correcto. Independencia sin opacidad y control sin subordinación."
         }
       ],
       "correct_answer": "D",
@@ -893,16 +893,16 @@
           "feedback": "Confunde democracia con regla de mayoría: la democracia constitucional existe precisamente porque las mayorías tienen límites."
         },
         {
-          "letter": "C",
-          "text": "Solo cabe la defensa: todo lo que la Corte decide amplía derechos, por definición",
-          "is_correct": false,
-          "feedback": "Idealiza a la Corte: sus decisiones pueden ser técnicamente débiles, ejecutarse mal o desplazar debate político."
-        },
-        {
           "letter": "B",
           "text": "La Corte es un foro de principio constitucional: expande derechos para excluidos y discipliniza mayorías, pero requiere motivación, respeto a la autonomía de las otras ramas y ciudadanía que fiscalice sus fallos para no convertirse en sustituto del demos",
           "is_correct": true,
           "feedback": "Correcto. Juicio equilibrado, condicionado a estándares de legitimidad y a vigilancia ciudadana."
+        },
+        {
+          "letter": "C",
+          "text": "Solo cabe la defensa: todo lo que la Corte decide amplía derechos, por definición",
+          "is_correct": false,
+          "feedback": "Idealiza a la Corte: sus decisiones pueden ser técnicamente débiles, ejecutarse mal o desplazar debate político."
         },
         {
           "letter": "D",

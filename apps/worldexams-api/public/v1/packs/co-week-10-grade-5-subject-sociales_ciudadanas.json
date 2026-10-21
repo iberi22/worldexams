@@ -381,12 +381,6 @@
       "context": "En el barrio de Medellín donde vive Mariana, la profesora pregunta qué son los servicios públicos.",
       "options": [
         {
-          "letter": "C",
-          "text": "El agua potable que llega a las casas.",
-          "is_correct": true,
-          "feedback": "El agua potable es un servicio público que llega a los hogares de la comunidad."
-        },
-        {
           "letter": "A",
           "text": "El cuaderno que compra un estudiante en una papelería.",
           "is_correct": false,
@@ -397,6 +391,12 @@
           "text": "Un juguete de una tienda del centro comercial.",
           "is_correct": false,
           "feedback": "El juguete es un artículo de venta, no un servicio público."
+        },
+        {
+          "letter": "C",
+          "text": "El agua potable que llega a las casas.",
+          "is_correct": true,
+          "feedback": "El agua potable es un servicio público que llega a los hogares de la comunidad."
         },
         {
           "letter": "D",
@@ -427,12 +427,6 @@
       "context": "Santiago le pregunta a su mamá por qué la familia paga un recibo por el agua y la energía que usa.",
       "options": [
         {
-          "letter": "C",
-          "text": "Porque con ese dinero se mantienen las redes que llevan el agua y la energía a las casas.",
-          "is_correct": true,
-          "feedback": "El pago de los recibos permite sostener y mejorar la infraestructura de los servicios."
-        },
-        {
           "letter": "A",
           "text": "Porque el agua y la energía se producen sin ningún costo ni trabajo.",
           "is_correct": false,
@@ -443,6 +437,12 @@
           "text": "Porque el pago hace que el agua deje de ser un recurso natural.",
           "is_correct": false,
           "feedback": "El agua sigue siendo un recurso natural; el pago cubre el servicio de llevarla."
+        },
+        {
+          "letter": "C",
+          "text": "Porque con ese dinero se mantienen las redes que llevan el agua y la energía a las casas.",
+          "is_correct": true,
+          "feedback": "El pago de los recibos permite sostener y mejorar la infraestructura de los servicios."
         },
         {
           "letter": "D",
@@ -473,12 +473,6 @@
       "context": "En el municipio de Villavicencio, los vecinos notan que hace días no llega agua a sus casas.",
       "options": [
         {
-          "letter": "D",
-          "text": "Organizarse para presentar una petición respetuosa ante la empresa y las autoridades del municipio.",
-          "is_correct": true,
-          "feedback": "En una democracia, los ciudadanos pueden pedir a las autoridades que atiendan sus necesidades."
-        },
-        {
           "letter": "A",
           "text": "Dejar de pagar los recibos sin avisar a nadie.",
           "is_correct": false,
@@ -495,6 +489,12 @@
           "text": "Esperar en silencio a que el problema se arregle solo.",
           "is_correct": false,
           "feedback": "Organizarse y comunicar la necesidad ayuda más que esperar sin hacer nada."
+        },
+        {
+          "letter": "D",
+          "text": "Organizarse para presentar una petición respetuosa ante la empresa y las autoridades del municipio.",
+          "is_correct": true,
+          "feedback": "En una democracia, los ciudadanos pueden pedir a las autoridades que atiendan sus necesidades."
         }
       ],
       "correct_answer": "D",
@@ -519,16 +519,16 @@
       "context": "En el edificio de Bogotá donde vive Tomás, el agua se está acabando y los vecinos discuten por su uso.",
       "options": [
         {
-          "letter": "B",
-          "text": "Acordar entre todos horarios y formas de ahorrar agua, y cumplirlos.",
-          "is_correct": true,
-          "feedback": "Los acuerdos colectivos permiten cuidar el recurso y evitar conflictos entre vecinos."
-        },
-        {
           "letter": "A",
           "text": "Usar toda el agua posible antes de que se acabe.",
           "is_correct": false,
           "feedback": "Usar el agua sin control empeora la escasez y los problemas entre vecinos."
+        },
+        {
+          "letter": "B",
+          "text": "Acordar entre todos horarios y formas de ahorrar agua, y cumplirlos.",
+          "is_correct": true,
+          "feedback": "Los acuerdos colectivos permiten cuidar el recurso y evitar conflictos entre vecinos."
         },
         {
           "letter": "C",
@@ -565,12 +565,6 @@
       "context": "Una estudiante compara dos zonas de su ciudad: en una llega agua todos los días, en la otra la reciben solo algunas horas.",
       "options": [
         {
-          "letter": "D",
-          "text": "Que no todas las comunidades reciben los servicios públicos en las mismas condiciones.",
-          "is_correct": true,
-          "feedback": "La comparación muestra una desigualdad en el acceso a un servicio básico."
-        },
-        {
           "letter": "A",
           "text": "Que el agua llega igual a todas las zonas de la ciudad.",
           "is_correct": false,
@@ -587,6 +581,12 @@
           "text": "Que los servicios públicos no tienen ninguna relación con la igualdad.",
           "is_correct": false,
           "feedback": "El acceso a los servicios públicos es una cuestión relacionada con la igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "Que no todas las comunidades reciben los servicios públicos en las mismas condiciones.",
+          "is_correct": true,
+          "feedback": "La comparación muestra una desigualdad en el acceso a un servicio básico."
         }
       ],
       "correct_answer": "D",
@@ -611,16 +611,10 @@
       "context": "En la casa de Valentina en Pereira usan bombillas ahorradoras, cierran las llaves y apagan las luces que no necesitan.",
       "options": [
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Reducen el consumo de recursos naturales y el valor del recibo de los servicios.",
           "is_correct": true,
           "feedback": "Ahorrar energía y agua disminuye el uso de recursos y el costo del servicio."
-        },
-        {
-          "letter": "A",
-          "text": "Aumentan el gasto de energía y el valor del recibo.",
-          "is_correct": false,
-          "feedback": "Las acciones de ahorro hacen lo contrario: reducen el consumo y el gasto."
         },
         {
           "letter": "B",
@@ -629,13 +623,19 @@
           "feedback": "Estas acciones sí reducen el consumo y, por lo tanto, el impacto ambiental y el costo."
         },
         {
+          "letter": "C",
+          "text": "Aumentan el gasto de energía y el valor del recibo.",
+          "is_correct": false,
+          "feedback": "Las acciones de ahorro hacen lo contrario: reducen el consumo y el gasto."
+        },
+        {
           "letter": "D",
           "text": "Contaminan el agua y el aire de la ciudad.",
           "is_correct": false,
           "feedback": "El ahorro de agua y energía ayuda a evitar la contaminación, no la produce."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Analizar cómo el uso responsable de los servicios públicos contribuye al cuidado de los recursos naturales y a la economía familiar.",
       "difficulty": "8",
       "images": [],
@@ -657,12 +657,6 @@
       "context": "En un salón de Barranquilla se propone que cada estudiante traiga una llave para cerrar el agua y avise cuando vea fugas en el colegio.",
       "options": [
         {
-          "letter": "D",
-          "text": "Es buena, porque forma en el cuidado del agua y en el cumplimiento del deber de cuidar lo público.",
-          "is_correct": true,
-          "feedback": "Cuidar los recursos de todos es un deber ciudadano que la propuesta fomenta."
-        },
-        {
           "letter": "A",
           "text": "Es mala, porque el agua del colegio no le importa a nadie.",
           "is_correct": false,
@@ -679,6 +673,12 @@
           "text": "Es peligrosa, porque cerrar las llaves daña las tuberías.",
           "is_correct": false,
           "feedback": "Cerrar bien las llaves no daña las tuberías; ayuda a evitar el desperdicio."
+        },
+        {
+          "letter": "D",
+          "text": "Es buena, porque forma en el cuidado del agua y en el cumplimiento del deber de cuidar lo público.",
+          "is_correct": true,
+          "feedback": "Cuidar los recursos de todos es un deber ciudadano que la propuesta fomenta."
         }
       ],
       "correct_answer": "D",
@@ -703,16 +703,16 @@
       "context": "Lee: \"En mi comunidad, el servicio de aseo recoge la basura los martes. Un vecino propone dejar las bolsas en la esquina el lunes para no madrugar.\"",
       "options": [
         {
-          "letter": "B",
-          "text": "No es adecuada, porque sacar la basura antes de tiempo ensucia las calles y afecta a todos.",
-          "is_correct": true,
-          "feedback": "Sacar la basura fuera del horario genera desorden y problemas de convivencia y salud."
-        },
-        {
           "letter": "A",
           "text": "Es adecuada, porque cada vecino puede sacar la basura cuando quiera.",
           "is_correct": false,
           "feedback": "La basura debe sacarse en el horario del servicio para mantener limpia la comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "No es adecuada, porque sacar la basura antes de tiempo ensucia las calles y afecta a todos.",
+          "is_correct": true,
+          "feedback": "Sacar la basura fuera del horario genera desorden y problemas de convivencia y salud."
         },
         {
           "letter": "C",

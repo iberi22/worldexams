@@ -296,9 +296,9 @@
         },
         {
           "letter": "B",
-          "text": "La afirmación es incompleta, porque en los dos textos de la semana el clima y el lugar cambian las conductas: la lluvia hace que Mateo espere y el calor hace que la tía Rosa siembre temprano",
-          "is_correct": true,
-          "feedback": "Correcto. Los dos textos muestran que el ambiente interviene en las decisiones de los personajes, así que la afirmación del compañero deja de lado una parte central del cuento."
+          "text": "La afirmación es correcta, porque los autores solo describen lugares hermosos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 describe una plaza con charcos y cielo gris, porque el valor del ambiente está en lo que provoca y no en lo lindo que se ve."
         },
         {
           "letter": "C",
@@ -308,12 +308,12 @@
         },
         {
           "letter": "D",
-          "text": "La afirmación es correcta, porque los autores solo describen lugares hermosos",
-          "is_correct": false,
-          "feedback": "Incorrecto. El Texto 1 describe una plaza con charcos y cielo gris, porque el valor del ambiente está en lo que provoca y no en lo lindo que se ve."
+          "text": "La afirmación es incompleta, porque en los dos textos de la semana el clima y el lugar cambian las conductas: la lluvia hace que Mateo espere y el calor hace que la tía Rosa siembre temprano",
+          "is_correct": true,
+          "feedback": "Correcto. Los dos textos muestran que el ambiente interviene en las decisiones de los personajes, así que la afirmación del compañero deja de lado una parte central del cuento."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Evaluar es emitir un juicio sobre una afirmación y defenderlo con pruebas del texto. La afirmación del compañero se apoya solo en los personajes, pero los dos textos de la semana muestran que el clima interviene en sus decisiones. Un buen argumento de lectura incluye la evidencia del texto y explica por qué esa evidencia importa.",
       "difficulty": "10",
       "images": [],

@@ -296,9 +296,9 @@
         },
         {
           "letter": "B",
-          "text": "Buscar más evidencias, como fotos, actas y otros testimonios, antes de concluir.",
-          "is_correct": true,
-          "feedback": "Contrastar varias fuentes independientes es el método para verificar la historia."
+          "text": "Inventar una tercera versión que combine las dos para no pelear.",
+          "is_correct": false,
+          "feedback": "Inventar una versión mezcla hechos con ficción y falsea la memoria del barrio."
         },
         {
           "letter": "C",
@@ -308,12 +308,12 @@
         },
         {
           "letter": "D",
-          "text": "Inventar una tercera versión que combine las dos para no pelear.",
-          "is_correct": false,
-          "feedback": "Inventar una versión mezcla hechos con ficción y falsea la memoria del barrio."
+          "text": "Buscar más evidencias, como fotos, actas y otros testimonios, antes de concluir.",
+          "is_correct": true,
+          "feedback": "Contrastar varias fuentes independientes es el método para verificar la historia."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Análisis crítico de fuentes contradictorias mediante la búsqueda y contraste de evidencias históricas.",
       "difficulty": "8",
       "images": [],

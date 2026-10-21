@@ -244,9 +244,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Son iguales, porque cambiar el número de filas y de sillas no cambia el total",
-          "is_correct": true,
-          "feedback": "Correcto. 6 × 7 = 42 y 7 × 6 = 42, porque las dimensiones se pueden intercambiar y el total de sillas sigue igual."
+          "text": "Son diferentes, porque la multiplicación no se puede cambiar de orden",
+          "is_correct": false,
+          "feedback": "Incorrecto. La multiplicación sí cambia de orden sin alterar el resultado, porque cumple la propiedad conmutativa."
         },
         {
           "letter": "B",
@@ -262,12 +262,12 @@
         },
         {
           "letter": "D",
-          "text": "Son diferentes, porque la multiplicación no se puede cambiar de orden",
-          "is_correct": false,
-          "feedback": "Incorrecto. La multiplicación sí cambia de orden sin alterar el resultado, porque cumple la propiedad conmutativa."
+          "text": "Son iguales, porque cambiar el número de filas y de sillas no cambia el total",
+          "is_correct": true,
+          "feedback": "Correcto. 6 × 7 = 42 y 7 × 6 = 42, porque las dimensiones se pueden intercambiar y el total de sillas sigue igual."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Cambiar el orden de los factores en una multiplicación no cambia el resultado. En el arreglo de sillas, 6 filas de 7 sillas ocupan el mismo lugar que 7 filas de 6 sillas, y en los dos casos se cuentan 42 sillas. Por eso 6 × 7 = 7 × 6 = 42.",
       "difficulty": "8",
       "images": [],

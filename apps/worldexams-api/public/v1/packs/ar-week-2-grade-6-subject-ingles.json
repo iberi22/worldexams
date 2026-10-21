@@ -38,7 +38,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "El verbo \"to be\" se utiliza para expresar origen. Con el pronombre \"I\", la forma correcta es \"am\".\r\n\r\n---",
+      "explanation": "El verbo \"to be\" se utiliza para expresar origen. Con el pronombre \"I\", la forma correcta es \"am\".\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -83,7 +83,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "Para formar el negativo del verbo \"to be\", se añade \"not\" inmediatamente después del verbo (is not / isn't).\r\n\r\n---",
+      "explanation": "Para formar el negativo del verbo \"to be\", se añade \"not\" inmediatamente después del verbo (is not / isn't).\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -128,7 +128,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "Se utiliza \"is\" para describir profesiones o características de una tercera persona del singular (he/she/it).\r\n\r\n---",
+      "explanation": "Se utiliza \"is\" para describir profesiones o características de una tercera persona del singular (he/she/it).\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -173,7 +173,7 @@
         }
       ],
       "correct_answer": "C",
-      "explanation": "Para expresar posesión en inglés británico (común en el currículo argentino), se utiliza \"have got\" con el pronombre \"I\".\r\n\r\n---",
+      "explanation": "Para expresar posesión en inglés británico (común en el currículo argentino), se utiliza \"have got\" con el pronombre \"I\".\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -218,7 +218,7 @@
         }
       ],
       "correct_answer": "C",
-      "explanation": "Las contracciones son comunes en el habla cotidiana. \"They're\" une el sujeto \"they\" con el verbo \"are\".\r\n\r\n---",
+      "explanation": "Las contracciones son comunes en el habla cotidiana. \"They're\" une el sujeto \"they\" con el verbo \"are\".\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -263,7 +263,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "Para hacer preguntas de posesión con \"got\", el verbo auxiliar \"have\" debe concordar con el sujeto \"you\".\r\n\r\n---",
+      "explanation": "Para hacer preguntas de posesión con \"got\", el verbo auxiliar \"have\" debe concordar con el sujeto \"you\".\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -308,7 +308,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "Para describir rasgos físicos (como el cabello) de una tercera persona, se utiliza \"has got\".\r\n\r\n---",
+      "explanation": "Para describir rasgos físicos (como el cabello) de una tercera persona, se utiliza \"has got\".\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -353,7 +353,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Esta pregunta requiere analizar la concordancia de número entre los sujetos (\"we\" plural, \"it\" singular) y el verbo \"to be\".\r\n\r\n---",
+      "explanation": "Esta pregunta requiere analizar la concordancia de número entre los sujetos (\"we\" plural, \"it\" singular) y el verbo \"to be\".\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -398,7 +398,7 @@
         }
       ],
       "correct_answer": "C",
-      "explanation": "En inglés, la edad no se \"tiene\" sino que se \"es\". Por eso se utiliza el verbo \"to be\" (How old are you? / I am 11).\r\n\r\n---",
+      "explanation": "En inglés, la edad no se \"tiene\" sino que se \"es\". Por eso se utiliza el verbo \"to be\" (How old are you? / I am 11).\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -425,9 +425,9 @@
         },
         {
           "letter": "B",
-          "text": "has got",
-          "is_correct": true,
-          "feedback": "Correct. The school (it) possesses a playground."
+          "text": "are",
+          "is_correct": false,
+          "feedback": "'Are' would need a plural subject to match. The school is one single thing, and what it has is a playground."
         },
         {
           "letter": "C",
@@ -437,13 +437,13 @@
         },
         {
           "letter": "D",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'Are' would need a plural subject to match. The school is one single thing, and what it has is a playground."
+          "text": "has got",
+          "is_correct": true,
+          "feedback": "Correct. The school (it) possesses a playground."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "\"Our school\" es un sujeto singular (it), por lo tanto requiere \"has got\" para expresar posesión.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "\"Our school\" es un sujeto singular (it), por lo tanto requiere \"has got\" para expresar posesión.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

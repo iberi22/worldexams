@@ -13,12 +13,6 @@
       "context": "En una fiesta escolar en Puebla se acomodaron sillas en 8 filas con 6 sillas cada una.",
       "options": [
         {
-          "letter": "D",
-          "text": "8 × 6 = 48",
-          "is_correct": true,
-          "feedback": "Cada una de las 8 filas aporta 6 sillas, así que el total es 8 × 6 = 48."
-        },
-        {
           "letter": "A",
           "text": "8 + 6 = 14",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "6 × 6 = 36",
           "is_correct": false,
           "feedback": "Usó el número de filas equivocadas; hay 8 filas, no 6."
+        },
+        {
+          "letter": "D",
+          "text": "8 × 6 = 48",
+          "is_correct": true,
+          "feedback": "Cada una de las 8 filas aporta 6 sillas, así que el total es 8 × 6 = 48."
         }
       ],
       "correct_answer": "D",
@@ -58,12 +58,6 @@
       "context": "Diego afirma que 7 × 9 es lo mismo que 9 × 7 \"porque el resultado no cambia\".",
       "options": [
         {
-          "letter": "D",
-          "text": "La propiedad conmutativa",
-          "is_correct": true,
-          "feedback": "La propiedad conmutativa establece que el orden de los factores no altera el producto: 7 × 9 = 9 × 7 = 63."
-        },
-        {
           "letter": "A",
           "text": "La propiedad asociativa",
           "is_correct": false,
@@ -80,6 +74,12 @@
           "text": "El elemento neutro",
           "is_correct": false,
           "feedback": "El elemento neutro de la multiplicación es el 1; no interviene en este caso."
+        },
+        {
+          "letter": "D",
+          "text": "La propiedad conmutativa",
+          "is_correct": true,
+          "feedback": "La propiedad conmutativa establece que el orden de los factores no altera el producto: 7 × 9 = 9 × 7 = 63."
         }
       ],
       "correct_answer": "D",
@@ -103,16 +103,16 @@
       "context": "La familia de Guadalupe viaja de la Ciudad de México a Monterrey en avión. Cada boleto cuesta $1,285 y compraron 3 boletos.",
       "options": [
         {
-          "letter": "B",
-          "text": "$3,855",
-          "is_correct": true,
-          "feedback": "1,285 × 3 = 3,855; por lugares: 5 × 3 = 15 (5 y lleva 1), 8 × 3 + 1 = 25 (5 y lleva 2), 2 × 3 + 2 = 8, 1 × 3 = 3."
-        },
-        {
           "letter": "A",
           "text": "$3,755",
           "is_correct": false,
           "feedback": "Olvidó el canje de las centenas: 2 × 3 = 6 más las 2 que se llevan da 8 centenas, no 7."
+        },
+        {
+          "letter": "B",
+          "text": "$3,855",
+          "is_correct": true,
+          "feedback": "1,285 × 3 = 3,855; por lugares: 5 × 3 = 15 (5 y lleva 1), 8 × 3 + 1 = 25 (5 y lleva 2), 2 × 3 + 2 = 8, 1 × 3 = 3."
         },
         {
           "letter": "C",
@@ -238,12 +238,6 @@
       "context": "Carlos multiplicó 125 × 8 y obtuvo 1,000. Su hermana dice que sin volver a hacer la cuenta completa puede verificar usando 1,000 ÷ 8.",
       "options": [
         {
-          "letter": "D",
-          "text": "Porque la división es la operación inversa de la multiplicación y 1,000 ÷ 8 debe dar 125",
-          "is_correct": true,
-          "feedback": "Si 125 × 8 = 1,000 es cierto, entonces 1,000 ÷ 8 = 125 debe cumplirse; así se comprueba el resultado."
-        },
-        {
           "letter": "A",
           "text": "Porque dividir siempre da un número menor",
           "is_correct": false,
@@ -260,6 +254,12 @@
           "text": "Porque 1,000 termina en ceros",
           "is_correct": false,
           "feedback": "La terminación en ceros es coincidencia del resultado y no constituye una prueba."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la división es la operación inversa de la multiplicación y 1,000 ÷ 8 debe dar 125",
+          "is_correct": true,
+          "feedback": "Si 125 × 8 = 1,000 es cierto, entonces 1,000 ÷ 8 = 125 debe cumplirse; así se comprueba el resultado."
         }
       ],
       "correct_answer": "D",
@@ -284,9 +284,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Las paletas generaron $112 y las aguas $120; las aguas vendieron más",
-          "is_correct": true,
-          "feedback": "14 × 8 = 112 y 12 × 10 = 120; 120 es mayor que 112, así que las aguas aportaron más dinero."
+          "text": "Las paletas generaron $122 y las aguas $120; las paletas vendieron más",
+          "is_correct": false,
+          "feedback": "14 × 8 es 112, no 122; hay un error en la primera parcial."
         },
         {
           "letter": "B",
@@ -296,9 +296,9 @@
         },
         {
           "letter": "C",
-          "text": "Las paletas generaron $122 y las aguas $120; las paletas vendieron más",
-          "is_correct": false,
-          "feedback": "14 × 8 es 112, no 122; hay un error en la primera parcial."
+          "text": "Las paletas generaron $112 y las aguas $120; las aguas vendieron más",
+          "is_correct": true,
+          "feedback": "14 × 8 = 112 y 12 × 10 = 120; 120 es mayor que 112, así que las aguas aportaron más dinero."
         },
         {
           "letter": "D",
@@ -307,7 +307,7 @@
           "feedback": "12 × 10 es 120, no 108; se olvidó un cero al multiplicar por 10."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comparar ingresos exige calcular cada producto (precio por cantidad) y luego contrastar los totales. Analizar las opciones muestra cómo un pequeño error de cálculo puede invertir la conclusión, por eso conviene verificar cada producto por separado.",
       "difficulty": "8",
       "images": [],
@@ -328,16 +328,16 @@
       "context": "Se fabrican 12 cajas con 24 chocolates cada una para una caja de regalo. Una empleada sugiere: \"Si cambiamos a 18 cajas de 16 chocolates, repartimos la misma cantidad de chocolates\".",
       "options": [
         {
-          "letter": "B",
-          "text": "Sí, porque 12 × 24 = 288 y 18 × 16 = 288",
-          "is_correct": true,
-          "feedback": "Ambos productos dan 288 chocolates; la cantidad total se conserva aunque cambie la organización en cajas."
-        },
-        {
           "letter": "A",
           "text": "No, porque 12 × 24 = 264",
           "is_correct": false,
           "feedback": "El producto 12 × 24 es 288; quien obtiene 264 suma mal las parciales."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque 12 × 24 = 288 y 18 × 16 = 288",
+          "is_correct": true,
+          "feedback": "Ambos productos dan 288 chocolates; la cantidad total se conserva aunque cambie la organización en cajas."
         },
         {
           "letter": "C",

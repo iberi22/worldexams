@@ -13,12 +13,6 @@
       "context": "En una clase de ciencias en un colegio de Sincelejo, la profesora explica que un arroyo cercano cambió de color y ya no tiene peces.",
       "options": [
         {
-          "letter": "D",
-          "text": "La presencia o el aumento de sustancias o formas de energía en el ambiente que afectan negativamente a los seres vivos y a los ecosistemas",
-          "is_correct": true,
-          "feedback": "Correcto. La contaminación altera el ambiente y perjudica a los seres vivos."
-        },
-        {
           "letter": "A",
           "text": "El cambio natural de estación que ocurre cada año en el país",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "El crecimiento normal de las plantas en un bosque",
           "is_correct": false,
           "feedback": "Incorrecto. El crecimiento de la vegetación es parte del funcionamiento del ecosistema."
+        },
+        {
+          "letter": "D",
+          "text": "La presencia o el aumento de sustancias o formas de energía en el ambiente que afectan negativamente a los seres vivos y a los ecosistemas",
+          "is_correct": true,
+          "feedback": "Correcto. La contaminación altera el ambiente y perjudica a los seres vivos."
         }
       ],
       "correct_answer": "D",
@@ -59,16 +59,16 @@
       "context": "En un barrio de Pereira, el comité ambiental pide a las familias separar los residuos en la casa antes de entregarlos al camión recolector.",
       "options": [
         {
-          "letter": "B",
-          "text": "Porque cuando los materiales se separan limpios y por tipo, es más fácil reciclarlos y convertirlos en nuevos productos, mientras que la mezcla los contamina y dificulta su recuperación",
-          "is_correct": true,
-          "feedback": "Correcto. Separar en la fuente mantiene los materiales aprovechables."
-        },
-        {
           "letter": "A",
           "text": "Porque así el camión recolector puede trabajar más rápido sin importar la calidad",
           "is_correct": false,
           "feedback": "Incorrecto. El beneficio principal es la recuperación de los materiales, no solo la velocidad."
+        },
+        {
+          "letter": "B",
+          "text": "Porque cuando los materiales se separan limpios y por tipo, es más fácil reciclarlos y convertirlos en nuevos productos, mientras que la mezcla los contamina y dificulta su recuperación",
+          "is_correct": true,
+          "feedback": "Correcto. Separar en la fuente mantiene los materiales aprovechables."
         },
         {
           "letter": "C",
@@ -105,12 +105,6 @@
       "context": "En una jornada ambiental de un colegio de Cali, los estudiantes clasifican los residuos de la semana: cáscaras de fruta, botellas plásticas limpias, servilletas usadas y una lata de atún.",
       "options": [
         {
-          "letter": "C",
-          "text": "Las cáscaras de fruta en la caneca de orgánicos aprovechables, las botellas plásticas y la lata en la de aprovechables, y las servilletas usadas en la de no aprovechables",
-          "is_correct": true,
-          "feedback": "Correcto. Cada residuo se ubica según su posibilidad de aprovechamiento."
-        },
-        {
           "letter": "A",
           "text": "Todos los residuos en una sola bolsa, porque así se recogen más rápido",
           "is_correct": false,
@@ -121,6 +115,12 @@
           "text": "Las cáscaras de fruta con el plástico y el vidrio en la caneca de aprovechables",
           "is_correct": false,
           "feedback": "Incorrecto. Los orgánicos se manejan aparte para compostaje o aprovechamiento."
+        },
+        {
+          "letter": "C",
+          "text": "Las cáscaras de fruta en la caneca de orgánicos aprovechables, las botellas plásticas y la lata en la de aprovechables, y las servilletas usadas en la de no aprovechables",
+          "is_correct": true,
+          "feedback": "Correcto. Cada residuo se ubica según su posibilidad de aprovechamiento."
         },
         {
           "letter": "D",
@@ -151,16 +151,16 @@
       "context": "En Barranquilla, después de un aguacero, los estudiantes observan bolsas y envases plásticos flotando en un caño que desemboca en el río Magdalena.",
       "options": [
         {
-          "letter": "B",
-          "text": "Los plásticos se fragmentan en partículas muy pequeñas que los animales confunden con alimento y, al consumirlas, se obstruyen o se intoxican",
-          "is_correct": true,
-          "feedback": "Correcto. Los microplásticos afectan a los organismos acuáticos."
-        },
-        {
           "letter": "A",
           "text": "Los plásticos se disuelven por completo en el agua y desaparecen sin efectos",
           "is_correct": false,
           "feedback": "Incorrecto. El plástico no se disuelve fácilmente; permanece y se fragmenta."
+        },
+        {
+          "letter": "B",
+          "text": "Los plásticos se fragmentan en partículas muy pequeñas que los animales confunden con alimento y, al consumirlas, se obstruyen o se intoxican",
+          "is_correct": true,
+          "feedback": "Correcto. Los microplásticos afectan a los organismos acuáticos."
         },
         {
           "letter": "C",
@@ -197,12 +197,6 @@
       "context": "En un colegio de Cartagena, los estudiantes quieren reducir la cantidad de plásticos de un solo uso que se generan en la tienda escolar.",
       "options": [
         {
-          "letter": "D",
-          "text": "Llevar recipientes reutilizables y botellas propias, y evitar los vasos, cubiertos y bolsas de un solo uso",
-          "is_correct": true,
-          "feedback": "Correcto. Reducir significa generar menos residuos desde el principio."
-        },
-        {
           "letter": "A",
           "text": "Quemar los plásticos en el patio del colegio para que no queden residuos",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "Cambiar los plásticos por envases de icopor",
           "is_correct": false,
           "feedback": "Incorrecto. El icopor también es un residuo difícil de degradar."
+        },
+        {
+          "letter": "D",
+          "text": "Llevar recipientes reutilizables y botellas propias, y evitar los vasos, cubiertos y bolsas de un solo uso",
+          "is_correct": true,
+          "feedback": "Correcto. Reducir significa generar menos residuos desde el principio."
         }
       ],
       "correct_answer": "D",
@@ -243,12 +243,6 @@
       "context": "En un municipio de Cundinamarca, los estudiantes recogen datos de la quebrada durante tres meses: antes de la campaña de limpieza y después de ella, y miden la cantidad de residuos en la orilla y el oxígeno disuelto en el agua.",
       "options": [
         {
-          "letter": "C",
-          "text": "Comparar los dos momentos y verificar si al disminuir los residuos en la orilla aumenta el oxígeno disuelto, lo que indicaría una mejora en la calidad del agua",
-          "is_correct": true,
-          "feedback": "Correcto. Los datos permiten relacionar la limpieza con la calidad del agua."
-        },
-        {
           "letter": "A",
           "text": "Concluir que la quebrada está limpia solo porque hubo una campaña de limpieza",
           "is_correct": false,
@@ -259,6 +253,12 @@
           "text": "Ignorar los datos y decidir por lo que se observa a simple vista",
           "is_correct": false,
           "feedback": "Incorrecto. Los datos permiten verificar los cambios con mayor confiabilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Comparar los dos momentos y verificar si al disminuir los residuos en la orilla aumenta el oxígeno disuelto, lo que indicaría una mejora en la calidad del agua",
+          "is_correct": true,
+          "feedback": "Correcto. Los datos permiten relacionar la limpieza con la calidad del agua."
         },
         {
           "letter": "D",
@@ -289,16 +289,16 @@
       "context": "En un relleno sanitario que recibe los residuos de un municipio del Valle del Cauca, se instalan tuberías para recoger los líquidos que se filtran entre los residuos acumulados.",
       "options": [
         {
-          "letter": "B",
-          "text": "Porque los lixiviados contienen sustancias contaminantes que, si se infiltran, pueden llegar al agua subterránea y a los ríos, por lo que deben tratarse antes de devolverlos al ambiente",
-          "is_correct": true,
-          "feedback": "Correcto. Los lixiviados contaminan el agua si no se controlan."
-        },
-        {
           "letter": "A",
           "text": "Porque los lixiviados son agua limpia que sirve para el consumo humano",
           "is_correct": false,
           "feedback": "Incorrecto. Los lixiviados son líquidos contaminados, no agua potable."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los lixiviados contienen sustancias contaminantes que, si se infiltran, pueden llegar al agua subterránea y a los ríos, por lo que deben tratarse antes de devolverlos al ambiente",
+          "is_correct": true,
+          "feedback": "Correcto. Los lixiviados contaminan el agua si no se controlan."
         },
         {
           "letter": "C",
@@ -335,12 +335,6 @@
       "context": "En una vereda de Boyacá, dos vecinos discuten sobre sus residuos: uno quema las hojas y los restos del huerto, y el otro los deja descomponerse para obtener abono.",
       "options": [
         {
-          "letter": "D",
-          "text": "Compostar aprovecha los residuos orgánicos y produce abono sin contaminar, mientras quemarlos libera gases y partículas que contaminan el aire y elimina nutrientes útiles para el suelo",
-          "is_correct": true,
-          "feedback": "Correcto. El compostaje recupera nutrientes y evitar la quema reduce la contaminación."
-        },
-        {
           "letter": "A",
           "text": "Quemar es mejor porque reduce el volumen de los residuos en poco tiempo",
           "is_correct": false,
@@ -357,6 +351,12 @@
           "text": "Compostar contamina el suelo y quemar lo limpia",
           "is_correct": false,
           "feedback": "Incorrecto. El compostaje aporta nutrientes y la quema deteriora el suelo y el aire."
+        },
+        {
+          "letter": "D",
+          "text": "Compostar aprovecha los residuos orgánicos y produce abono sin contaminar, mientras quemarlos libera gases y partículas que contaminan el aire y elimina nutrientes útiles para el suelo",
+          "is_correct": true,
+          "feedback": "Correcto. El compostaje recupera nutrientes y evitar la quema reduce la contaminación."
         }
       ],
       "correct_answer": "D",
@@ -381,12 +381,6 @@
       "context": "En un foro escolar de Medellín, tres estudiantes afirman: 1) La contaminación del aire solo proviene de las fábricas. 2) El transporte y la quema de residuos también aportan contaminantes al aire. 3) Todas las basuras se descomponen rápidamente y sin efectos en el relleno sanitario.",
       "options": [
         {
-          "letter": "C",
-          "text": "La 1 es falsa, porque además de la industria el transporte, la quema de residuos y otras actividades contaminan el aire; la 2 es verdadera y la 3 es falsa porque muchos residuos tardan mucho en degradarse",
-          "is_correct": true,
-          "feedback": "Correcto. Reconoce varias fuentes de contaminación y la persistencia de los residuos."
-        },
-        {
           "letter": "A",
           "text": "Las tres afirmaciones son verdaderas, porque solo las fábricas contaminan",
           "is_correct": false,
@@ -397,6 +391,12 @@
           "text": "Solo la 3 es verdadera, porque la basura se degrada en pocos días",
           "is_correct": false,
           "feedback": "Incorrecto. Plásticos y otros materiales tardan décadas en degradarse."
+        },
+        {
+          "letter": "C",
+          "text": "La 1 es falsa, porque además de la industria el transporte, la quema de residuos y otras actividades contaminan el aire; la 2 es verdadera y la 3 es falsa porque muchos residuos tardan mucho en degradarse",
+          "is_correct": true,
+          "feedback": "Correcto. Reconoce varias fuentes de contaminación y la persistencia de los residuos."
         },
         {
           "letter": "D",
@@ -427,13 +427,13 @@
       "context": "Un municipio colombiano con presupuesto limitado en COP debe decidir cómo mejorar el manejo de sus residuos, que hoy se acumulan en un botadero a cielo abierto junto a una quebrada.",
       "options": [
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Organizar la separación en la fuente, aprovechar los materiales recuperables y disponer los residuos restantes en un relleno sanitario controlado, porque reduce la contaminación del agua y del aire y protege la salud",
           "is_correct": true,
           "feedback": "Correcto. Un manejo integral y controlado reduce los impactos ambientales."
         },
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Mantener el botadero a cielo abierto porque resulta más económico",
           "is_correct": false,
           "feedback": "Incorrecto. El ahorro aparente no compensa los daños ambientales y de salud."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La quema libera contaminantes peligrosos para la salud."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Evaluar esta decisión exige comparar soluciones según su impacto, su sostenibilidad y su costo real: separar en la fuente aumenta el aprovechamiento, el relleno sanitario controlado evita la contaminación de suelos y agua, y se protege la salud de la comunidad. Los botaderos a cielo abierto y la quema parecen más económicos, pero generan contaminación del aire, del agua y del suelo con consecuencias difíciles de reparar.",
       "difficulty": "10",
       "images": [],

@@ -193,16 +193,16 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "Adjetiva o de relativo",
-          "is_correct": true,
-          "feedback": "Correcto. La subordinada ocupa el lugar de un adjetivo y califica al sustantivo, indicandolo que es de ese tipo."
-        },
-        {
           "letter": "A",
           "text": "Sustantiva",
           "is_correct": false,
           "feedback": "Incorrecto. Seria sustantiva si ocupara el lugar de un sustantivo completo de la oracion. Aqui no ocupa ese lugar: se limita a calificar al sustantivo."
+        },
+        {
+          "letter": "B",
+          "text": "Adjetiva o de relativo",
+          "is_correct": true,
+          "feedback": "Correcto. La subordinada ocupa el lugar de un adjetivo y califica al sustantivo, indicandolo que es de ese tipo."
         },
         {
           "letter": "C",
@@ -283,12 +283,6 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "C",
-          "text": "Metafora",
-          "is_correct": true,
-          "feedback": "Correcto. La identificacion es directa y no hay nexo comparativo: un termino real se presenta como otro por semejanza, sin 'como' ni 'parecido a'."
-        },
-        {
           "letter": "A",
           "text": "Comparacion",
           "is_correct": false,
@@ -299,6 +293,12 @@
           "text": "Hiparbole",
           "is_correct": false,
           "feedback": "Incorrecto. No hay exageracion ni aumento del sentido para reforzar un efecto: la imagen se limita a aproximar dos cosas sin exceder lo verosimil."
+        },
+        {
+          "letter": "C",
+          "text": "Metafora",
+          "is_correct": true,
+          "feedback": "Correcto. La identificacion es directa y no hay nexo comparativo: un termino real se presenta como otro por semejanza, sin 'como' ni 'parecido a'."
         },
         {
           "letter": "D",
@@ -373,12 +373,6 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "C",
-          "text": "Narrativo-lirico con elementos del romance tradicional",
-          "is_correct": true,
-          "feedback": "Correcto. El poema cuenta un suceso en el que aparece un nombre propio y conserva el ritmo versificado del romance tradicional, de modo que combina narracion y lirismo."
-        },
-        {
           "letter": "A",
           "text": "Exclusivamente dramatico",
           "is_correct": false,
@@ -389,6 +383,12 @@
           "text": "Poema epico clasico",
           "is_correct": false,
           "feedback": "Incorrecto. Lo epico narra hazañas de grandes personajes en tono heroico, y aqui el poema canta un suceso breve de un tema tradicional."
+        },
+        {
+          "letter": "C",
+          "text": "Narrativo-lirico con elementos del romance tradicional",
+          "is_correct": true,
+          "feedback": "Correcto. El poema cuenta un suceso en el que aparece un nombre propio y conserva el ritmo versificado del romance tradicional, de modo que combina narracion y lirismo."
         },
         {
           "letter": "D",
@@ -553,12 +553,6 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "C",
-          "text": "ademas",
-          "is_correct": true,
-          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Aregua y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
-        },
-        {
           "letter": "A",
           "text": "sin embargo",
           "is_correct": false,
@@ -569,6 +563,12 @@
           "text": "por lo tanto",
           "is_correct": false,
           "feedback": "Incorrecto. 'Por lo tanto' es conclusivo: la segunda proposicion deduce una consecuencia de la primera. Aqui no hay deduccion, sino dos caracteristicas de Aregua que se acumulan sin derivarse una de otra."
+        },
+        {
+          "letter": "C",
+          "text": "ademas",
+          "is_correct": true,
+          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Aregua y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
         },
         {
           "letter": "D",
@@ -644,9 +644,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Adjetiva o de relativo",
-          "is_correct": true,
-          "feedback": "Correcto. La subordinada ocupa el lugar de un adjetivo y califica al sustantivo, indicandolo que es de ese tipo."
+          "text": "Coordinada copulativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay coordinacion alguna: la copulativa une dos sujetos o dos verbos con 'y'. Esa subordinada depende de un sustantivo, de modo que no coordina con nada."
         },
         {
           "letter": "B",
@@ -662,12 +662,12 @@
         },
         {
           "letter": "D",
-          "text": "Coordinada copulativa",
-          "is_correct": false,
-          "feedback": "Incorrecto. No hay coordinacion alguna: la copulativa une dos sujetos o dos verbos con 'y'. Esa subordinada depende de un sustantivo, de modo que no coordina con nada."
+          "text": "Adjetiva o de relativo",
+          "is_correct": true,
+          "feedback": "Correcto. La subordinada ocupa el lugar de un adjetivo y califica al sustantivo, indicandolo que es de ese tipo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Las oraciones subordinadas adjetivas complementan a un nombre.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -689,15 +689,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "lapiz",
-          "is_correct": true,
-          "feedback": "Correcto. 'Lapiz' conserva tres silabas con el acento en la antepenultima, de modo que es esdrijula y lleva tilde siempre."
-        },
-        {
-          "letter": "B",
           "text": "ciudad",
           "is_correct": false,
           "feedback": "Incorrecto. 'Ciudad' es llana y terminada en 'd', que si lleva tilde, pero lo hace por la regla de las llanas, no por ser esdrijula."
+        },
+        {
+          "letter": "B",
+          "text": "lapiz",
+          "is_correct": true,
+          "feedback": "Correcto. 'Lapiz' conserva tres silabas con el acento en la antepenultima, de modo que es esdrijula y lleva tilde siempre."
         },
         {
           "letter": "C",
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. 'Examen' tambien es esdrijula y lleva tilde, pero la palabra pedida se presenta sin tilde en la opcion, de modo que la grafia es incorrecta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -734,9 +734,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Profésor, lea el texto por favor.",
-          "is_correct": true,
-          "feedback": "Es la forma correcta: el vocativo 'profesor' no lleva tilde diacrítica porque no es una palabra llana terminada en vocal."
+          "text": "Profesores, lean el texto por favor.",
+          "is_correct": false,
+          "feedback": "El plural no exime de la regla: 'profesores' en vocativo sigue escribiéndose sin tilde diacrítica."
         },
         {
           "letter": "B",
@@ -752,12 +752,12 @@
         },
         {
           "letter": "D",
-          "text": "Profesores, lean el texto por favor.",
-          "is_correct": false,
-          "feedback": "El plural no exime de la regla: 'profesores' en vocativo sigue escribiéndose sin tilde diacrítica."
+          "text": "Profésor, lea el texto por favor.",
+          "is_correct": true,
+          "feedback": "Es la forma correcta: el vocativo 'profesor' no lleva tilde diacrítica porque no es una palabra llana terminada en vocal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El vocativo no lleva tilde diacrítica en ningún caso, porque se dirige a la persona y no cumple la regla de las palabras llanas. El plural no cambia esa norma, de modo que 'profesores' se escribe igual.",
       "difficulty": "10",
       "images": [],
@@ -778,16 +778,16 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "lapices",
-          "is_correct": true,
-          "feedback": "Correcto. Al pasar a plural, 'lápiz' deja de ser esdrijulo y queda llana terminada en 's', que no lleva tilde."
-        },
-        {
           "letter": "A",
           "text": "lápices",
           "is_correct": false,
           "feedback": "Incorrecto. La tilde sobra: al pasar a plural la palabra queda llana terminada en 's', y las llanas terminadas en 's' nunca llevan tilde."
+        },
+        {
+          "letter": "B",
+          "text": "lapices",
+          "is_correct": true,
+          "feedback": "Correcto. Al pasar a plural, 'lápiz' deja de ser esdrijulo y queda llana terminada en 's', que no lleva tilde."
         },
         {
           "letter": "C",
@@ -824,9 +824,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Causal, porque la segunda proposición explica la causa de la primera",
-          "is_correct": true,
-          "feedback": "Es correcto: 'por eso' introduce la consecuencia, y en este caso la lluvia es la causa de que no salieran."
+          "text": "Condicional, porque expresa una hipótesis",
+          "is_correct": false,
+          "feedback": "No hay hipótesis alguna: las dos proposiciones se presentan como hechos encadenados por causa y efecto."
         },
         {
           "letter": "B",
@@ -842,12 +842,12 @@
         },
         {
           "letter": "D",
-          "text": "Condicional, porque expresa una hipótesis",
-          "is_correct": false,
-          "feedback": "No hay hipótesis alguna: las dos proposiciones se presentan como hechos encadenados por causa y efecto."
+          "text": "Causal, porque la segunda proposición explica la causa de la primera",
+          "is_correct": true,
+          "feedback": "Es correcto: 'por eso' introduce la consecuencia, y en este caso la lluvia es la causa de que no salieran."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los conectores causales como 'porque', 'ya que' o 'por eso' enlazan dos proposiciones donde la segunda es la consecuencia de la primera, formando una oración compuesta.",
       "difficulty": "10",
       "images": [],
@@ -868,12 +868,6 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "C",
-          "text": "El agua es esencial para la vida y debe cuidarse",
-          "is_correct": true,
-          "feedback": "Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen."
-        },
-        {
           "letter": "A",
           "text": "El agua solo se usa para beber",
           "is_correct": false,
@@ -884,6 +878,12 @@
           "text": "El agua no es importante",
           "is_correct": false,
           "feedback": "Incorrecto. Contradice de frente al texto: si el agua careciera de importancia, no tendria sentido que el texto insistiera en su cuidado. Una idea principal entre las opciones no puede negar lo que el propio texto afirma."
+        },
+        {
+          "letter": "C",
+          "text": "El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen."
         },
         {
           "letter": "D",

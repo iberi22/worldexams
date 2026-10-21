@@ -342,9 +342,9 @@
         },
         {
           "letter": "B",
-          "text": "Ampliar la reserva con empleos verdes, porque conserva el bosque y crea sustento duradero.",
-          "is_correct": true,
-          "feedback": "La reserva protege la biodiversidad y genera empleos estables en conservación y turismo científico."
+          "text": "Quemar parte del bosque para sembrar un solo cultivo durante un año.",
+          "is_correct": false,
+          "feedback": "La quema empobrece el suelo amazónico y acaba con especies que no se recuperan."
         },
         {
           "letter": "C",
@@ -354,12 +354,12 @@
         },
         {
           "letter": "D",
-          "text": "Quemar parte del bosque para sembrar un solo cultivo durante un año.",
-          "is_correct": false,
-          "feedback": "La quema empobrece el suelo amazónico y acaba con especies que no se recuperan."
+          "text": "Ampliar la reserva con empleos verdes, porque conserva el bosque y crea sustento duradero.",
+          "is_correct": true,
+          "feedback": "La reserva protege la biodiversidad y genera empleos estables en conservación y turismo científico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Valoración de decisiones públicas sobre el patrimonio natural, priorizando la sostenibilidad sobre el beneficio inmediato.",
       "difficulty": "10",
       "images": [],

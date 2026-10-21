@@ -13,16 +13,16 @@
       "context": "En una clase de biología en Ibague, se describe el sistema endocrino como una red de glándulas que producen sustancias químicas reguladoras.",
       "options": [
         {
-          "letter": "B",
-          "text": "Hipotálamo, hipófisis, tiroides, paratiroides, páncreas, suprarrenales, gonadas y pineal.",
-          "is_correct": true,
-          "feedback": "Correcto. Estas son las glándulas endocrinas clasicas del cuerpo humano."
-        },
-        {
           "letter": "A",
           "text": "Hígado, estómago, intestino delgado y páncreas.",
           "is_correct": false,
           "feedback": "Incorrecto. Hígado, estómago e intestino no son glándulas endocrinas principales."
+        },
+        {
+          "letter": "B",
+          "text": "Hipotálamo, hipófisis, tiroides, paratiroides, páncreas, suprarrenales, gonadas y pineal.",
+          "is_correct": true,
+          "feedback": "Correcto. Estas son las glándulas endocrinas clasicas del cuerpo humano."
         },
         {
           "letter": "C",
@@ -105,16 +105,16 @@
       "context": "En el Hospital de San Jose de Bogotá, un paciente adulto presenta hiperglucemia cronica, sed excesiva y perdida de peso.",
       "options": [
         {
-          "letter": "B",
-          "text": "La deficiencia o resistencia a la insulina impide la captacion celular de glucosa, elevando su concentracion sanguinea.",
-          "is_correct": true,
-          "feedback": "Correcto. Sin suficiente insulina funcional, la glucosa no ingresa bien a las células y se acumula en sangre."
-        },
-        {
           "letter": "A",
           "text": "La hiperglucemia se debe exclusivamente a consumo excesivo de sal.",
           "is_correct": false,
           "feedback": "Incorrecto. La sal afecta la presión arterial, no directamente la glucemia."
+        },
+        {
+          "letter": "B",
+          "text": "La deficiencia o resistencia a la insulina impide la captacion celular de glucosa, elevando su concentracion sanguinea.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin suficiente insulina funcional, la glucosa no ingresa bien a las células y se acumula en sangre."
         },
         {
           "letter": "C",
@@ -151,16 +151,16 @@
       "context": "En el programa escolar de salud de Pasto, se explica a los estudiantes la funcion de la tiroides y de su principal hormona.",
       "options": [
         {
-          "letter": "B",
-          "text": "Regular el metabolismo basal, el crecimiento y el desarrollo del cuerpo.",
-          "is_correct": true,
-          "feedback": "Correcto. Las hormonas tiroideas regulan el metabolismo energetico y el desarrollo."
-        },
-        {
           "letter": "A",
           "text": "Aumentar la concentracion de calcio en la sangre.",
           "is_correct": false,
           "feedback": "Incorrecto. La calcemia la regula principalmente la parathormona (PTH)."
+        },
+        {
+          "letter": "B",
+          "text": "Regular el metabolismo basal, el crecimiento y el desarrollo del cuerpo.",
+          "is_correct": true,
+          "feedback": "Correcto. Las hormonas tiroideas regulan el metabolismo energetico y el desarrollo."
         },
         {
           "letter": "C",
@@ -197,16 +197,16 @@
       "context": "En una expedicion en el Parque Nacional El Cocuy, los alpinistas presentan taquicardia, temblor fino y dilatacion pupilar ante el descenso de temperatura.",
       "options": [
         {
-          "letter": "B",
-          "text": "Adrenalina (epinefrina).",
-          "is_correct": true,
-          "feedback": "Correcto. La adrenalina prepara al cuerpo para respuestas rapidas de lucha o huida."
-        },
-        {
           "letter": "A",
           "text": "Insulina.",
           "is_correct": false,
           "feedback": "Incorrecto. La insulina regula la glucosa en sangre, no la respuesta de alerta."
+        },
+        {
+          "letter": "B",
+          "text": "Adrenalina (epinefrina).",
+          "is_correct": true,
+          "feedback": "Correcto. La adrenalina prepara al cuerpo para respuestas rapidas de lucha o huida."
         },
         {
           "letter": "C",
@@ -289,12 +289,6 @@
       "context": "En una consulta pediatric de Pereira, se detecta gigantismo en un nino de 10 anos con niveles muy altos de la hormona del crecimiento.",
       "options": [
         {
-          "letter": "C",
-          "text": "Hiperproduccion de somatotropina (GH) por la hipófisis anterior durante la etapa de crecimiento.",
-          "is_correct": true,
-          "feedback": "Correcto. El exceso de GH antes del cierre epifisario produce gigantismo hipofisario."
-        },
-        {
           "letter": "A",
           "text": "Deficiencia de insulina en el páncreas.",
           "is_correct": false,
@@ -305,6 +299,12 @@
           "text": "Falta de vitamina D en la dieta del nino.",
           "is_correct": false,
           "feedback": "Incorrecto. La deficiencia de vitamina D causa raquitismo, no gigantismo."
+        },
+        {
+          "letter": "C",
+          "text": "Hiperproduccion de somatotropina (GH) por la hipófisis anterior durante la etapa de crecimiento.",
+          "is_correct": true,
+          "feedback": "Correcto. El exceso de GH antes del cierre epifisario produce gigantismo hipofisario."
         },
         {
           "letter": "D",
@@ -335,12 +335,6 @@
       "context": "En Riohacha, una persona consume agua con alta concentracion de yodo durante anos sin supervision medica.",
       "options": [
         {
-          "letter": "C",
-          "text": "El exceso de yodo puede alterar la síntesis de hormonas tiroideas y provocar hipertiroidismo o hipotiroidismo.",
-          "is_correct": true,
-          "feedback": "Correcto. Tanto el deficit como el exceso de yodo alteran la produccion de T3 y T4."
-        },
-        {
           "letter": "A",
           "text": "El exceso de yodo no tiene ningun efecto sobre la tiroides humana.",
           "is_correct": false,
@@ -351,6 +345,12 @@
           "text": "El yodo solo afecta al sistema nervioso, no a la tiroides.",
           "is_correct": false,
           "feedback": "Incorrecto. El yodo es esencial para la síntesis de hormonas tiroideas."
+        },
+        {
+          "letter": "C",
+          "text": "El exceso de yodo puede alterar la síntesis de hormonas tiroideas y provocar hipertiroidismo o hipotiroidismo.",
+          "is_correct": true,
+          "feedback": "Correcto. Tanto el deficit como el exceso de yodo alteran la produccion de T3 y T4."
         },
         {
           "letter": "D",
@@ -381,12 +381,6 @@
       "context": "En una clase de educacion sexual en Medellín, se explica a adolescentes el inicio de la pubertad y los cambios físicos asociados.",
       "options": [
         {
-          "letter": "C",
-          "text": "La hipófisis secreta FSH y LH, que estimulan las gonadas para producir hormonas sexuales y desencadenar la pubertad.",
-          "is_correct": true,
-          "feedback": "Correcto. Las gonadotropinas FSH y LH activan ovarios y testiculos durante la pubertad."
-        },
-        {
           "letter": "A",
           "text": "La pubertad se inicia exclusivamente por la melatonina pineal.",
           "is_correct": false,
@@ -397,6 +391,12 @@
           "text": "La hipófisis no participa en la regulacion de la pubertad.",
           "is_correct": false,
           "feedback": "Incorrecto. La hipófisis es clave al liberar gonadotropinas que activan las gonadas."
+        },
+        {
+          "letter": "C",
+          "text": "La hipófisis secreta FSH y LH, que estimulan las gonadas para producir hormonas sexuales y desencadenar la pubertad.",
+          "is_correct": true,
+          "feedback": "Correcto. Las gonadotropinas FSH y LH activan ovarios y testiculos durante la pubertad."
         },
         {
           "letter": "D",
@@ -427,12 +427,6 @@
       "context": "En el barrio Moravia de Medellín, una mujer diagnostica con diabetes tipo 1 no puede costear su tratamiento insulinico y la Secretaria de Salud discute intervenciones.",
       "options": [
         {
-          "letter": "C",
-          "text": "La insulina es vital para la supervivencia y regulacion glucemica; su ausencia produce complicaciones mortales.",
-          "is_correct": true,
-          "feedback": "Correcto. Sin insulina exogena, la diabetes tipo 1 produce cetoacidosis y muerte."
-        },
-        {
           "letter": "A",
           "text": "La insulina es opcional y los diabeticos pueden regular la glucosa solo con dieta.",
           "is_correct": false,
@@ -443,6 +437,12 @@
           "text": "Garantizar la insulina solo interesa a las companias farmaceuticas.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una prioridad de salud publica por su impacto en morbimortalidad."
+        },
+        {
+          "letter": "C",
+          "text": "La insulina es vital para la supervivencia y regulacion glucemica; su ausencia produce complicaciones mortales.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin insulina exogena, la diabetes tipo 1 produce cetoacidosis y muerte."
         },
         {
           "letter": "D",
@@ -520,9 +520,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Los anabolizantes alteran el sistema endocrino propio, causando dano hepatico, crecimiento detenido y cambios emocionales.",
-          "is_correct": true,
-          "feedback": "Correcto. El uso de anabolizantes en adolescentes genera desequilibrios hormonales severos."
+          "text": "Los anabolizantes favorecen el crecimiento lineal en adolescentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pueden cerrar prematuramente las placas de crecimiento, reduciendo la talla final."
         },
         {
           "letter": "B",
@@ -538,12 +538,12 @@
         },
         {
           "letter": "D",
-          "text": "Los anabolizantes favorecen el crecimiento lineal en adolescentes.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Pueden cerrar prematuramente las placas de crecimiento, reduciendo la talla final."
+          "text": "Los anabolizantes alteran el sistema endocrino propio, causando dano hepatico, crecimiento detenido y cambios emocionales.",
+          "is_correct": true,
+          "feedback": "Correcto. El uso de anabolizantes en adolescentes genera desequilibrios hormonales severos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El uso de esteroides anabolizantes en adolescentes altera la regulacion hormonal, afecta el hígado, detiene el crecimiento y causa danos psicologicos.",
       "difficulty": "10",
       "images": [],

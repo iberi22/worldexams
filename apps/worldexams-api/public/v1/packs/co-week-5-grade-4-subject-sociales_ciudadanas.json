@@ -13,12 +13,6 @@
       "context": "En el barrio Los Alpes de Medellín hay un parque con árboles, un río cerca y muchas casas.",
       "options": [
         {
-          "letter": "C",
-          "text": "Son las partes de la naturaleza que nos sirven, como el agua, el aire, los árboles y el suelo",
-          "is_correct": true,
-          "feedback": "Correcto. Los recursos naturales son los elementos de la naturaleza que usamos para vivir, y por eso tenemos la obligación de cuidarlos."
-        },
-        {
           "letter": "A",
           "text": "Son solamente los árboles del parque",
           "is_correct": false,
@@ -29,6 +23,12 @@
           "text": "Son las casas que hay en el barrio",
           "is_correct": false,
           "feedback": "Incorrecto. Las casas las construyen las personas, así que no son recursos naturales: un recurso natural viene de la naturaleza."
+        },
+        {
+          "letter": "C",
+          "text": "Son las partes de la naturaleza que nos sirven, como el agua, el aire, los árboles y el suelo",
+          "is_correct": true,
+          "feedback": "Correcto. Los recursos naturales son los elementos de la naturaleza que usamos para vivir, y por eso tenemos la obligación de cuidarlos."
         },
         {
           "letter": "D",
@@ -105,16 +105,16 @@
       "context": "En Cartagena una lluvia fuerte dejó los canales de la calle llenos de basura y derribó un árbol de la acera.",
       "options": [
         {
-          "letter": "B",
-          "text": "Recoger la basura, sembrar otro árbol y avisar al municipio para que corte el árbol con seguridad",
-          "is_correct": true,
-          "feedback": "Correcto. Las tres acciones juntas resuelven el problema: limpiar, replantar y pedir ayuda oficial evita que alguien se lastime."
-        },
-        {
           "letter": "A",
           "text": "Quemar la basura ahí mismo",
           "is_correct": false,
           "feedback": "Incorrecto. Quemar la basura daña lo que respira el aire de la cuadra, y además produce humo peligroso para la salud."
+        },
+        {
+          "letter": "B",
+          "text": "Recoger la basura, sembrar otro árbol y avisar al municipio para que corte el árbol con seguridad",
+          "is_correct": true,
+          "feedback": "Correcto. Las tres acciones juntas resuelven el problema: limpiar, replantar y pedir ayuda oficial evita que alguien se lastime."
         },
         {
           "letter": "C",
@@ -151,12 +151,6 @@
       "context": "En un colegio de Bogotá hay 120 estudiantes de cuarto grado. El colegio gasta cerca de 1.000 botellas de plástico al año para el agua de los niños.",
       "options": [
         {
-          "letter": "C",
-          "text": "Que se usen menos botellas de plástico, porque cada botella reutilizable evita gastar una de plástico",
-          "is_correct": true,
-          "feedback": "Correcto. Cada botella reutilizable que se usa es una botella de plástico que no se gasta, y por eso baja la basura que va al relleno sanitario."
-        },
-        {
           "letter": "A",
           "text": "Que se usen igual las 1.000 botellas, pero de otro color",
           "is_correct": false,
@@ -167,6 +161,12 @@
           "text": "Que el colegio gaste menos en otras cosas",
           "is_correct": false,
           "feedback": "Incorrecto. La pregunta es sobre las botellas: si se usan las reutilizables, dejan de gastarse las de plástico, no otras cosas del presupuesto."
+        },
+        {
+          "letter": "C",
+          "text": "Que se usen menos botellas de plástico, porque cada botella reutilizable evita gastar una de plástico",
+          "is_correct": true,
+          "feedback": "Correcto. Cada botella reutilizable que se usa es una botella de plástico que no se gasta, y por eso baja la basura que va al relleno sanitario."
         },
         {
           "letter": "D",
@@ -197,16 +197,16 @@
       "context": "Por el barrio Comuna 13 de Medellín pasa un río que usan los vecinos y que llega hasta otras ciudades más abajo.",
       "options": [
         {
-          "letter": "B",
-          "text": "Que no pertenece a una sola persona, así que cuidarlo es responsabilidad de todos los que lo usan",
-          "is_correct": true,
-          "feedback": "Correcto. Un bien común pertenece a toda la comunidad, por eso el cuidado del río se reparte entre todos y no puede quedar en unas pocas manos."
-        },
-        {
           "letter": "A",
           "text": "Que pertenece a la persona que tiene la casa más grande de la cuadra",
           "is_correct": false,
           "feedback": "Incorrecto. El tamaño de una casa no da derechos sobre un río: el agua pertenece a todos los que viven en la cuenca, no a un dueño único."
+        },
+        {
+          "letter": "B",
+          "text": "Que no pertenece a una sola persona, así que cuidarlo es responsabilidad de todos los que lo usan",
+          "is_correct": true,
+          "feedback": "Correcto. Un bien común pertenece a toda la comunidad, por eso el cuidado del río se reparte entre todos y no puede quedar en unas pocas manos."
         },
         {
           "letter": "C",
@@ -243,12 +243,6 @@
       "context": "En el barrio San Javier de Medellín, algunas familias dejan la bolsa de basura tirada en la calle, en un rincón que no está autorizado y días antes de que pase el camión de la basura.",
       "options": [
         {
-          "letter": "C",
-          "text": "Porque pasar la basura a otro es traspasar el problema, y al final termina en el río o en el relleno sanitario",
-          "is_correct": true,
-          "feedback": "Correcto. Cambiar de lugar la basura no la desaparece: la basura siempre acaba en algún sitio, y ese lugar le paga el costo a toda la ciudad."
-        },
-        {
           "letter": "A",
           "text": "Porque la basura no existe",
           "is_correct": false,
@@ -259,6 +253,12 @@
           "text": "Porque el concepto de basurero no es real",
           "is_correct": false,
           "feedback": "Incorrecto. Los contenedores y los camiones de la basura sí existen y funcionan: lo que falla es que las familias dejen la bolsa donde no se recoge, no que el relleno sanitario reciba la basura."
+        },
+        {
+          "letter": "C",
+          "text": "Porque pasar la basura a otro es traspasar el problema, y al final termina en el río o en el relleno sanitario",
+          "is_correct": true,
+          "feedback": "Correcto. Cambiar de lugar la basura no la desaparece: la basura siempre acaba en algún sitio, y ese lugar le paga el costo a toda la ciudad."
         },
         {
           "letter": "D",
@@ -289,12 +289,6 @@
       "context": "En una escuela de Pereira hay una campaña para ahorrar agua, pero algunos compañeros dicen que de nada sirve porque el agua es de todos.",
       "options": [
         {
-          "letter": "C",
-          "text": "Cada familia hace un cambio pequeño pero constante, porque muchos cambios juntos sí cambian el consumo",
-          "is_correct": true,
-          "feedback": "Correcto. No hay un cambio solo que salve el agua, pero sí el ahorro de muchas familias: por eso cada acción pequeña cuenta y se vuelve grande."
-        },
-        {
           "letter": "A",
           "text": "Nada se puede hacer, porque el agua es un recurso de todos",
           "is_correct": false,
@@ -307,13 +301,19 @@
           "feedback": "Incorrecto. El gobierno ayuda con obras grandes, pero el ahorro diario depende de cada casa: dejar de hacer algo en casa no resuelve el problema."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Esperar a que otras familias cambien primero",
           "is_correct": false,
           "feedback": "Incorrecto. Esperar a que otros cambien no sirve porque nadie empieza: el ahorro empieza con la familia que decide hacerlo en su propia casa."
+        },
+        {
+          "letter": "D",
+          "text": "Cada familia hace un cambio pequeño pero constante, porque muchos cambios juntos sí cambian el consumo",
+          "is_correct": true,
+          "feedback": "Correcto. No hay un cambio solo que salve el agua, pero sí el ahorro de muchas familias: por eso cada acción pequeña cuenta y se vuelve grande."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El cuidado del entorno se construye con muchas acciones pequeñas hechas todos los días. Si cada familia en Pereira cierra el grifo al cepillarse los dientes, el total de agua que se ahorra en la ciudad es enorme. Nadie recupera un río entero con un solo acto, pero muchas familias que ahorran agua sí ayudan a que esos ríos se conserven.",
       "difficulty": "10",
       "images": [],

@@ -256,18 +256,18 @@
         },
         {
           "letter": "C",
-          "text": "Para fomentar el respeto y la valoración de las diferentes culturas",
-          "is_correct": true,
-          "feedback": "Correcto. Enseñar sobre la diversidad cultural ayuda a los estudiantes a comprender, respetar y valorar las diferentes tradiciones, costumbres y formas de vida."
-        },
-        {
-          "letter": "D",
           "text": "Para que los estudiantes cambien sus propias tradiciones",
           "is_correct": false,
           "feedback": "Incorrecto. Enseñar sobre la diversidad cultural no busca cambiar las tradiciones de los estudiantes, sino fomentar el respeto y la convivencia entre diferentes culturas."
+        },
+        {
+          "letter": "D",
+          "text": "Para fomentar el respeto y la valoración de las diferentes culturas",
+          "is_correct": true,
+          "feedback": "Correcto. Enseñar sobre la diversidad cultural ayuda a los estudiantes a comprender, respetar y valorar las diferentes tradiciones, costumbres y formas de vida."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Colombia es un país diverso con múltiples culturas, tradiciones y formas de vida. Enseñar sobre esta diversidad ayuda a los estudiantes a comprender y respetar las diferencias, promoviendo la convivencia pacífica y la inclusión social.",
       "difficulty": "8",
       "images": [],
