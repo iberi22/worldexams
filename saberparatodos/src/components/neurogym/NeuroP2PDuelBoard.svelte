@@ -245,7 +245,7 @@
             </span>
           {:else}
             <span class="text-[9px] bg-amber-500/20 text-amber-300 border border-amber-500/30 px-2 py-0.5 rounded font-bold">
-              🟡 Red Local (Simulación / Esperando Rival)
+              🟡 Sin rival conectado: juegas contra un rival simulado
             </span>
           {/if}
         </div>

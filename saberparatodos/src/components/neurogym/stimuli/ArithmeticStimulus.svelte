@@ -37,7 +37,18 @@
     answered.index = idx;
     onAnswer(idx, Date.now() - startedAt);
   }
+
+  function handleKeydown(event: KeyboardEvent) {
+    if (event.repeat) return;
+    const idx = ['1', '2', '3', '4'].indexOf(event.key);
+    if (idx !== -1 && idx < item.options.length) {
+      event.preventDefault();
+      select(idx);
+    }
+  }
 </script>
+
+<svelte:window onkeydown={handleKeydown} />
 
 <div class="flex flex-col items-center gap-6 w-full max-w-xl mx-auto">
   <div class="text-center">
@@ -69,7 +80,7 @@
           ? 'border-fuchsia-400'
           : 'border-white/20'} rounded-xl text-xl font-bold text-white hover:border-fuchsia-400/60 transition disabled:opacity-60"
       >
-        {opt}
+        <span class="text-[10px] text-white/40 font-mono mr-1">{idx + 1}</span>{opt}
       </button>
     {/each}
   </div>
