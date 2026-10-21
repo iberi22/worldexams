@@ -127,23 +127,27 @@ Which term names the physical systems and facilities, such as water pipes, roads
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.70
-**Contexto:** Discussing future cities in Cali.
+**Contexto:** Reading a short text about green roofs on schools in Cali.
 
 ### Enunciado
-According to a recent report on future cities in Cali, what is implied about the role of Prediction & Probability in shaping public opinion?
+Read the text and answer the question.
+
+"Cali is one of the hottest large cities in Colombia, and some neighbourhoods have very few trees. To reduce the heat, a local programme is helping schools install green roofs: layers of soil and plants on top of buildings. According to the teachers involved, classrooms under the green roofs feel noticeably cooler in the afternoon, and students use the roofs for science classes about plants and insects. The programme hopes to cover twenty schools by 2028."
+
+According to the text, what is one benefit of the green roofs?
 
 ### Opciones
-- [x] B) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. Prediction and probability is the point here: the pair separates certainty from likelihood: "Traffic will exceed capacity" against "Traffic is likely to exceed capacity", so the forecast arrives with a confidence level attached, which is what makes it usable for planning. Reading that implication is what the question asks. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: This calls the device irrelevant, but the report treats that confidence level as central to public discussion, so calling it irrelevant contradicts the text. -->
-- [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: This claims the device makes the claim plainer, whereas the modal adds a degree of certainty to the forecast rather than making the message simpler. -->
-- [ ] D) It is only used by academic elites in Medellín.
-  <!-- feedback: This restricts the device to specialists in a single city, but the report shows this usage across media and discourse, not as jargon owned by one city's planners. -->
+- [ ] A) They make the school buildings bigger.
+  <!-- feedback: Incorrect. Green roofs add soil and plants on top of existing buildings; the text never says the schools grow in size. -->
+- [x] B) They help keep classrooms cooler.
+  <!-- feedback: Correct. Teachers report that classrooms under the green roofs 'feel noticeably cooler in the afternoon'. -->
+- [ ] C) They replace science classes.
+  <!-- feedback: Incorrect. The roofs are used for science classes, so they support the classes instead of replacing them. -->
+- [ ] D) They produce food for the school cafeteria.
+  <!-- feedback: Incorrect. The text mentions plants and insects for study, but not growing food. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+The question asks for a benefit stated in the text. The programme's goal is 'to reduce the heat', and the teachers confirm a cooler temperature in classrooms. A second benefit, outdoor science classes, also appears, but the option about replacing classes distorts it.
 
 ---
 
@@ -175,23 +179,27 @@ A fictional planning model for Cali estimates a 70% chance that bus journey time
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.64
-**Contexto:** Discussing future cities in Manizales.
+**Contexto:** Reading a short text about cable cars in Manizales.
 
 ### Enunciado
-According to a recent report on future cities in Manizales, what is implied about the role of Prediction & Probability in shaping public opinion?
+Read the text and answer the question.
+
+"Manizales is built on steep mountains, and many streets are too narrow for large buses. For this reason, the city uses cable cars as part of its public transport. One line connects the bus terminal with the city centre in about ten minutes, a trip that can take more than half an hour by road during rush hour. Planners are now studying a new line to reach neighbourhoods on the other side of a deep valley."
+
+What can be inferred about why planners are studying a new cable car line?
 
 ### Opciones
-- [x] C) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. Prediction and probability is the point here: the pair separates certainty from likelihood: "Traffic will exceed capacity" against "Traffic is likely to exceed capacity", so the forecast arrives with a confidence level attached, which is what makes it usable for planning. Reading that implication is what the question asks. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: This calls the device irrelevant, but the report treats that confidence level as central to public discussion, so calling it irrelevant contradicts the text. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: This claims the device makes the claim plainer, whereas the modal adds a degree of certainty to the forecast rather than making the message simpler. -->
-- [ ] D) It is only used by academic elites in Cartagena.
-  <!-- feedback: This restricts the device to specialists in a single city, but the report shows this usage across media and discourse, not as jargon owned by one city's planners. -->
+- [ ] A) Cable cars are cheaper to build than any road.
+  <!-- feedback: Incorrect. The text never compares construction costs, so this conclusion is not supported. -->
+- [ ] B) Tourists asked the city for more cable cars.
+  <!-- feedback: Incorrect. Tourists are not mentioned; the text presents cable cars as public transport for residents. -->
+- [x] C) Cable cars can solve transport problems that the mountains create for buses.
+  <!-- feedback: Correct. The text says steep, narrow streets limit buses and that the cable car is much faster, so a valley is a logical place for a new line. -->
+- [ ] D) The city wants to stop using buses completely.
+  <!-- feedback: Incorrect. Cable cars are described as 'part of' public transport, and the existing line connects with the bus terminal. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+The inference is built from the cause in the first sentence (mountains and narrow streets) and the evidence in the third (10 minutes by cable car against more than 30 by road). A deep valley is exactly the kind of obstacle that makes road transport slow, so a new line makes sense.
 
 ---
 
@@ -200,23 +208,27 @@ This question requires inferential reading skills to understand how complex stru
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.61
-**Contexto:** Discussing future cities in Barranquilla.
+**Contexto:** Reading a short text about street floods in Barranquilla.
 
 ### Enunciado
-According to a recent report on future cities in Barranquilla, what is implied about the role of Prediction & Probability in shaping public opinion?
+Read the text and answer the question.
+
+"In Barranquilla, heavy rain can turn some streets into dangerous rivers called 'arroyos' in just a few minutes. For decades, people have been warned not to cross them, because the water can drag away cars and even people. The city has built large underground tunnels, and several of the most dangerous arroyos have now been canalised. Engineers say that future cities must be designed to manage water instead of simply waiting for the next storm."
+
+In the text, what does "canalised" mean?
 
 ### Opciones
-- [x] B) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. Prediction and probability is the point here: the pair separates certainty from likelihood: "Traffic will exceed capacity" against "Traffic is likely to exceed capacity", so the forecast arrives with a confidence level attached, which is what makes it usable for planning. Reading that implication is what the question asks. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: This calls the device irrelevant, but the report treats that confidence level as central to public discussion, so calling it irrelevant contradicts the text. -->
-- [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: This claims the device makes the claim plainer, whereas the modal adds a degree of certainty to the forecast rather than making the message simpler. -->
-- [ ] D) It is only used by academic elites in Manizales.
-  <!-- feedback: This restricts the device to specialists in a single city, but the report shows this usage across media and discourse, not as jargon owned by one city's planners. -->
+- [ ] A) Marked with warning signs.
+  <!-- feedback: Incorrect. Warning people is mentioned earlier, but 'canalised' is linked to the underground tunnels, not to signs. -->
+- [x] B) Directed into channels so that the water flows in a controlled way.
+  <!-- feedback: Correct. The city built tunnels, and canalised arroyos send the rainwater through them instead of along the streets. -->
+- [ ] C) Closed permanently to all traffic.
+  <!-- feedback: Incorrect. The aim of the works is to remove the water from the streets, not to close the streets. -->
+- [ ] D) Cleaned by volunteers after each storm.
+  <!-- feedback: Incorrect. No volunteers or cleaning are mentioned; the word refers to engineering works. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+'Canalise' comes from 'canal' and means to send water through a channel or tunnel. The surrounding context, which mentions large underground tunnels and engineers who design cities to manage water, supports this meaning.
 
 ---
 
@@ -225,23 +237,27 @@ This question requires inferential reading skills to understand how complex stru
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.58
-**Contexto:** Discussing future cities in Pereira.
+**Contexto:** Reading a public notice about a car-free day in Pereira.
 
 ### Enunciado
-According to a recent report on future cities in Pereira, what is implied about the role of Prediction & Probability in shaping public opinion?
+Read the notice and answer the question.
+
+"Attention, residents! Next Thursday, from 6 a.m. to 7 p.m., private cars and motorcycles will not be allowed to circulate in Pereira. Public buses, taxis and emergency vehicles will operate normally. The aim of the day is to measure how air quality and noise levels change when private traffic stops. Results will be published on the city's website. Drivers who ignore the restriction will receive a fine."
+
+What is the main purpose of this notice?
 
 ### Opciones
-- [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. Prediction and probability is the point here: the pair separates certainty from likelihood: "Traffic will exceed capacity" against "Traffic is likely to exceed capacity", so the forecast arrives with a confidence level attached, which is what makes it usable for planning. Reading that implication is what the question asks. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: This calls the device irrelevant, but the report treats that confidence level as central to public discussion, so calling it irrelevant contradicts the text. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: This claims the device makes the claim plainer, whereas the modal adds a degree of certainty to the forecast rather than making the message simpler. -->
-- [ ] C) It is only used by academic elites in Cartagena.
-  <!-- feedback: This restricts the device to specialists in a single city, but the report shows this usage across media and discourse, not as jargon owned by one city's planners. -->
+- [ ] A) To sell bicycles to residents of Pereira.
+  <!-- feedback: Incorrect. The notice does not mention bicycles or any product for sale. -->
+- [ ] B) To complain about the noise made by buses.
+  <!-- feedback: Incorrect. Buses will operate normally; noise is something the city will measure, not a complaint. -->
+- [ ] C) To announce the results of an air quality study.
+  <!-- feedback: Incorrect. The results will be published after the car-free day; the notice does not give them. -->
+- [x] D) To inform residents about a car-free day and its rules.
+  <!-- feedback: Correct. It gives the date, hours, which vehicles can circulate, the aim of the day and the fine for breaking the rule. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Public notices usually inform people about an event and what they must do. This one includes the key facts (when, who is affected, exceptions, consequences). The distractor about results is tempting because the study is mentioned, but its results are in the future.
 
 ---
 
@@ -250,23 +266,27 @@ This question requires inferential reading skills to understand how complex stru
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.55
-**Contexto:** Discussing future cities in Medellín.
+**Contexto:** Reading a short text about green corridors in Medellín.
 
 ### Enunciado
-According to a recent report on future cities in Medellín, what is implied about the role of Prediction & Probability in shaping public opinion?
+Read the text and answer the question.
+
+"Several busy avenues in Medellín have been transformed into 'green corridors' by planting trees, shrubs and climbing plants along their sides. The plants give shade to pedestrians, provide homes for birds and insects, and help absorb some of the pollution from traffic. Residents who walk along these streets say they feel cooler and calmer. City planners now want to connect the corridors so that people and animals can move across the city through green spaces."
+
+What is the main idea of the text?
 
 ### Opciones
-- [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. Prediction and probability is the point here: the pair separates certainty from likelihood: "Traffic will exceed capacity" against "Traffic is likely to exceed capacity", so the forecast arrives with a confidence level attached, which is what makes it usable for planning. Reading that implication is what the question asks. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: This calls the device irrelevant, but the report treats that confidence level as central to public discussion, so calling it irrelevant contradicts the text. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: This claims the device makes the claim plainer, whereas the modal adds a degree of certainty to the forecast rather than making the message simpler. -->
-- [ ] C) It is only used by academic elites in Manizales.
-  <!-- feedback: This restricts the device to specialists in a single city, but the report shows this usage across media and discourse, not as jargon owned by one city's planners. -->
+- [ ] A) Medellín has banned cars from its main avenues.
+  <!-- feedback: Incorrect. The avenues are still busy with traffic; plants were added along their sides. -->
+- [ ] B) Birds are causing problems for pedestrians in Medellín.
+  <!-- feedback: Incorrect. Birds are mentioned as a benefit, since the plants give them homes, not as a problem. -->
+- [ ] C) Climbing plants are too expensive for the city.
+  <!-- feedback: Incorrect. Cost is never discussed in the text. -->
+- [x] D) Planting vegetation along avenues brings several benefits to the city.
+  <!-- feedback: Correct. The text lists shade, wildlife habitat, less pollution and calmer residents, all results of the green corridors. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+The main idea must cover the whole text. Most sentences list benefits of the green corridors (shade, habitat, cleaner air, comfort), and the last sentence describes a plan to extend them. A good summary therefore focuses on the advantages of adding vegetation to the city.
 
 ---
 
@@ -281,14 +301,14 @@ This question requires inferential reading skills to understand how complex stru
 Complete the following sentence about future cities: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Prediction & Probability)
 
 ### Opciones
-- [x] D) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
 - [ ] A) has
   <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
 - [ ] B) was
   <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
 - [ ] C) did
   <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
+- [x] D) had
+  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
 
 ### Explicacion Pedagogica
 This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.
@@ -429,17 +449,17 @@ Negative adverbials such as 'under no circumstances' and 'in no way' trigger inv
 In a high-level debate about future cities, Mariana says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mariana mean?
 
 ### Opciones
-- [x] D) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
 - [ ] A) They are literally looking for something in the trees of Pereira.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
+  <!-- feedback: Incorrect. This reads the idiom literally; nobody in the debate is searching real trees, because the expression is figurative and describes a mistaken line of action. -->
 - [ ] B) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
+  <!-- feedback: Incorrect. 'Barking' here does not describe a loud or aggressive tone; the idiom is about choosing the wrong objective, not about how people speak. -->
 - [ ] C) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+  <!-- feedback: Incorrect. The word 'tree' belongs to a fixed expression, so the speaker is not proposing a project with trees; the speaker is criticising the approach under discussion. -->
+- [x] D) The current strategy is directed towards the wrong objective.
+  <!-- feedback: Correct. 'Bark up the wrong tree' means aiming your effort at the wrong cause or target, so the speaker is saying the current plan on future cities points in the wrong direction. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+The idiom 'bark up the wrong tree' comes from hunting dogs that bark at a tree after the animal has escaped to another one. In a debate about future cities, it means the group's effort is aimed at the wrong cause or solution. The literal words (barking, trees) are not part of the message, so any option that mentions real trees or noise misreads the idiom.
 
 ---
 
@@ -448,23 +468,28 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.31
-**Contexto:** Discussing future cities in Medellín.
+**Contexto:** A conversation with a city planner in Medellín.
 
 ### Enunciado
-In a high-level debate about future cities, Sebastián says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Sebastián mean?
+Read the dialogue.
+
+Student: "Why is the city building taller apartment blocks instead of new neighbourhoods?"
+Planner: "If the city keeps growing at this rate, we'll run out of space for new housing by 2040."
+
+What does the planner mean?
 
 ### Opciones
-- [x] D) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of Manizales.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] B) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] C) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [ ] A) Some space will be used for running tracks.
+  <!-- feedback: Incorrect. This reads 'run' literally; 'run out of' has nothing to do with running as a sport. -->
+- [ ] B) People will run away from the city.
+  <!-- feedback: Incorrect. 'Out' does not describe people leaving; the phrasal verb refers to a supply finishing. -->
+- [ ] C) The city will build more houses than it needs.
+  <!-- feedback: Incorrect. The planner describes a shortage, which is the opposite of having too many houses. -->
+- [x] D) There will be no more available space left.
+  <!-- feedback: Correct. 'Run out of something' means to use it all until none is left, which explains building upwards. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+'Run out of' is a phrasal verb meaning to use all of something so that nothing remains. The student's question about taller buildings is answered by the planner: if land is finishing, the city has to build upwards instead of spreading out.
 
 ---
 
@@ -473,23 +498,28 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.28
-**Contexto:** Discussing future cities in Barranquilla.
+**Contexto:** A conversation about a new port in Barranquilla.
 
 ### Enunciado
-In a high-level debate about future cities, Lucía says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Lucía mean?
+Read the dialogue.
+
+Reporter: "Will the new port bring benefits to the neighbourhood?"
+Expert: "It's a double-edged sword. It will create jobs, but it will also bring more trucks and pollution to the area."
+
+What does the expert mean?
 
 ### Opciones
-- [x] C) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of Cartagena.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] B) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] D) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [ ] A) The port will use weapons for security.
+  <!-- feedback: Incorrect. This interprets 'sword' literally; the idiom is not about weapons. -->
+- [ ] B) The port will bring only benefits.
+  <!-- feedback: Incorrect. The expert mentions trucks and pollution, which are disadvantages. -->
+- [x] C) The project will have both positive and negative effects.
+  <!-- feedback: Correct. 'A double-edged sword' is something with good and bad consequences, like jobs on one side and pollution on the other. -->
+- [ ] D) The port will be divided into two parts.
+  <!-- feedback: Incorrect. 'Double-edged' describes two kinds of effects, not a physical division of the port. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+A 'double-edged sword' is something that has advantages and disadvantages at the same time. The expert's second sentence makes this explicit with a contrast: jobs ('It will create jobs') against problems ('but... trucks and pollution').
 
 ---
 
@@ -498,22 +528,27 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.25
-**Contexto:** Discussing future cities in Bogotá.
+**Contexto:** A conversation about driverless buses in Bogotá.
 
 ### Enunciado
-In a high-level debate about future cities, Isabella says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Isabella mean?
+Read the dialogue.
+
+Student: "Will we ever see driverless buses in Bogotá?"
+Engineer: "Some experts say they're just around the corner, but personally I think we'll have to wait several more years."
+
+According to "some experts", driverless buses...
 
 ### Opciones
-- [x] D) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of Medellín.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] B) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] C) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [ ] A) are parked at a station nearby.
+  <!-- feedback: Incorrect. 'Around the corner' is used here about time, not about a physical place near the speakers. -->
+- [ ] B) will never arrive in Bogotá.
+  <!-- feedback: Incorrect. The experts think they are coming soon; even the engineer only expects a longer wait. -->
+- [ ] C) only work in narrow streets.
+  <!-- feedback: Incorrect. Nothing in the dialogue refers to the type of street; 'corner' is part of an idiom. -->
+- [x] D) will arrive very soon.
+  <!-- feedback: Correct. 'Just around the corner' means about to happen, and the engineer contrasts it with his own idea of 'several more years'. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+'Around the corner' can describe a place, but about events or technology it means 'very soon'. The engineer's 'but personally I think we'll have to wait' shows the contrast between the experts' view (very soon) and his own (later).
 
 ---
