@@ -1,0 +1,27 @@
+---
+/**
+ * /institucion/entrar?token=… — Magic-link landing (W2.05).
+ * Verifies the single-use token client-side, stores the session in
+ * localStorage['inst.teacher.session'] and redirects to /institucion.
+ * Never prerendered: the URL carries a secret and must not be cached.
+ */
+import Layout from '../../layouts/Layout.astro';
+import VerifyLogin from '../../components/institucion/VerifyLogin.svelte';
+import { resolveRuntimeCountryConfig } from '../../config';
+
+export const prerender = false;
+
+Astro.response.headers.set('Cache-Control', 'no-store');
+Astro.response.headers.set('Referrer-Policy', 'no-referrer');
+
+const countryConfig = resolveRuntimeCountryConfig(Astro.locals.country);
+---
+
+<Layout title={`Entrar al panel para colegios | ${countryConfig.product.siteName}`} noindex={true}>
+  <meta slot="head" name="referrer" content="no-referrer" />
+  <div class="flex min-h-[70vh] items-center justify-center bg-gradient-to-b from-gray-950 via-[#0a0a0f] to-black px-4 py-10 text-white">
+    <div class="w-full max-w-md">
+      <VerifyLogin client:load />
+    </div>
+  </div>
+</Layout>
