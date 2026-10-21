@@ -13,16 +13,16 @@
       "context": "En Bogotá, Valentina presenta la suma de Riemann como herramienta para aproximar áreas.",
       "options": [
         {
-          "letter": "B",
-          "text": "Una aproximación del área bajo la curva mediante rectángulos.",
-          "is_correct": true,
-          "feedback": "Correcto. La suma de Riemann aproxima el área con rectángulos de base $\\Delta x$ y altura $f(x_i^*)$."
-        },
-        {
           "letter": "A",
           "text": "La derivada exacta de $f$ en cada punto del intervalo.",
           "is_correct": false,
           "feedback": "Incorrecto. La suma de Riemann aproxima un área, no una derivada."
+        },
+        {
+          "letter": "B",
+          "text": "Una aproximación del área bajo la curva mediante rectángulos.",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de Riemann aproxima el área con rectángulos de base $\\Delta x$ y altura $f(x_i^*)$."
         },
         {
           "letter": "C",
@@ -105,12 +105,6 @@
       "context": "En Cali, Mariana compara la suma izquierda y la suma derecha de Riemann.",
       "options": [
         {
-          "letter": "C",
-          "text": "La suma por la izquierda usa el valor de $f$ en el extremo izquierdo de cada subintervalo; la derecha usa el extremo derecho.",
-          "is_correct": true,
-          "feedback": "Correcto. La diferencia está en el punto donde se evalúa la altura del rectángulo."
-        },
-        {
           "letter": "A",
           "text": "La suma por la izquierda no usa rectángulos.",
           "is_correct": false,
@@ -121,6 +115,12 @@
           "text": "La suma por la izquierda aproxima derivadas, la derecha aproxima áreas.",
           "is_correct": false,
           "feedback": "Incorrecto. Ambas aproximan el área."
+        },
+        {
+          "letter": "C",
+          "text": "La suma por la izquierda usa el valor de $f$ en el extremo izquierdo de cada subintervalo; la derecha usa el extremo derecho.",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia está en el punto donde se evalúa la altura del rectángulo."
         },
         {
           "letter": "D",
@@ -151,16 +151,16 @@
       "context": "En Cartagena, Valentina aproxima $\\int_{0}^{2} x \\, dx$ con dos rectángulos de ancho $\\Delta x = 1$ usando la suma izquierda.",
       "options": [
         {
-          "letter": "B",
-          "text": "$4$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Usaste ambos extremos derechos a la vez."
-        },
-        {
           "letter": "A",
           "text": "$1$",
           "is_correct": true,
           "feedback": "Correcto. Suma izquierda con $n=2$: $0 \\cdot 1 + 1 \\cdot 1 = 1$."
+        },
+        {
+          "letter": "B",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste ambos extremos derechos a la vez."
         },
         {
           "letter": "C",
@@ -249,16 +249,16 @@
           "feedback": "Incorrecto. Sumaste las alturas pero no multiplicaste por el ancho $\\Delta x = 1$."
         },
         {
-          "letter": "C",
-          "text": "$1 + 4 + 9 = 14$, porque $\\Delta x = 1$.",
-          "is_correct": true,
-          "feedback": "Correcto. Con $\\Delta x = 1$, multiplicar por el ancho no cambia la suma."
-        },
-        {
           "letter": "B",
           "text": "$\\frac{14}{3}$.",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste incorrectamente entre 3."
+        },
+        {
+          "letter": "C",
+          "text": "$1 + 4 + 9 = 14$, porque $\\Delta x = 1$.",
+          "is_correct": true,
+          "feedback": "Correcto. Con $\\Delta x = 1$, multiplicar por el ancho no cambia la suma."
         },
         {
           "letter": "D",
@@ -341,16 +341,16 @@
           "feedback": "Incorrecto. $f(x) = x$ no es constante."
         },
         {
-          "letter": "C",
-          "text": "Porque el área bajo la curva en $[-1, 0]$ cancela exactamente el área bajo la curva en $[0, 1]$.",
-          "is_correct": true,
-          "feedback": "Correcto. La función es impar, y el intervalo es simétrico respecto al origen, así que las áreas se cancelan."
-        },
-        {
           "letter": "B",
           "text": "Porque la integral definida siempre vale $0$ en $[-1, 1]$.",
           "is_correct": false,
           "feedback": "Incorrecto. Depende de la función; por ejemplo $\\int_{-1}^{1} 1 \\, dx = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el área bajo la curva en $[-1, 0]$ cancela exactamente el área bajo la curva en $[0, 1]$.",
+          "is_correct": true,
+          "feedback": "Correcto. La función es impar, y el intervalo es simétrico respecto al origen, así que las áreas se cancelan."
         },
         {
           "letter": "D",
@@ -427,6 +427,12 @@
       "context": "En Cali, Valentina explica que toda integral definida se puede escribir como límite de una suma.",
       "options": [
         {
+          "letter": "A",
+          "text": "Porque conecta la noción intuitiva de área con la definición formal de integral.",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de Riemann es el puente entre el área geométrica y el análisis matemático."
+        },
+        {
           "letter": "B",
           "text": "Porque permite calcular derivadas exactas.",
           "is_correct": false,
@@ -437,12 +443,6 @@
           "text": "Porque reemplaza el uso de las funciones trigonométricas.",
           "is_correct": false,
           "feedback": "Incorrecto. Las funciones trigonométricas no se ven afectadas."
-        },
-        {
-          "letter": "A",
-          "text": "Porque conecta la noción intuitiva de área con la definición formal de integral.",
-          "is_correct": true,
-          "feedback": "Correcto. La suma de Riemann es el puente entre el área geométrica y el análisis matemático."
         },
         {
           "letter": "D",
@@ -473,16 +473,16 @@
       "context": "En Cartagena, Santiago compara la aproximación por la izquierda y por la derecha para $f(x) = x^2$ en $[0, 2]$ con $n = 4$.",
       "options": [
         {
-          "letter": "B",
-          "text": "La suma por la izquierda y por la derecha coinciden siempre que $n$ sea par.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Solo coinciden en casos muy particulares."
-        },
-        {
           "letter": "A",
           "text": "Como $f(x) = x^2$ es creciente, la suma por la izquierda subestima y la derecha sobreestima.",
           "is_correct": true,
           "feedback": "Correcto. Para una función creciente, izquierda $\\leq$ integral $\\leq$ derecha."
+        },
+        {
+          "letter": "B",
+          "text": "La suma por la izquierda y por la derecha coinciden siempre que $n$ sea par.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo coinciden en casos muy particulares."
         },
         {
           "letter": "C",
@@ -519,16 +519,16 @@
       "context": "En Pereira, Mariana aproxima $\\int_{1}^{4} (2x + 1) \\, dx$ usando 3 rectángulos de igual ancho, primero por la izquierda y luego por la derecha.",
       "options": [
         {
+          "letter": "A",
+          "text": "$21$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo tomaste la suma derecha sin promediar."
+        },
+        {
           "letter": "B",
           "text": "$12$.",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste solo las alturas pero sin promediar las dos aproximaciones."
-        },
-        {
-          "letter": "A",
-          "text": "$18$.",
-          "is_correct": true,
-          "feedback": "Correcto. Suma izquierda: $3+5+7 = 15$. Suma derecha: $5+7+9 = 21$. Promedio: $(15+21)/2 = 18$."
         },
         {
           "letter": "C",
@@ -538,12 +538,12 @@
         },
         {
           "letter": "D",
-          "text": "$21$.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Solo tomaste la suma derecha sin promediar."
+          "text": "$18$.",
+          "is_correct": true,
+          "feedback": "Correcto. Suma izquierda: $3+5+7 = 15$. Suma derecha: $5+7+9 = 21$. Promedio: $(15+21)/2 = 18$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Izquierda: $3+5+7 = 15$. Derecha: $5+7+9 = 21$. Promedio: $(15+21)/2 = 18$. Como $f$ es lineal, este promedio coincide con el valor exacto $18$ de la integral.",
       "difficulty": "10",
       "images": [],

@@ -204,8 +204,8 @@ La ética digital implica el respeto por los demás en los entornos virtuales. E
 ¿Cómo pueden las redes sociales ayudar positivamente a una causa ambiental, como proteger el río Guatiquía?
 
 ### Opciones
-- [ ] A) Usándolas para mandar juegos a todos los ciudadanos de la ciudad. <!-- feedback: Incorrecto. Eso no ayuda directamente a la causa ambiental. -->
-- [x] B) Difundiendo información educativa, convocando a jornadas de limpieza y visibilizando el problema ante las autoridades. <!-- feedback: Correcto. Las redes son herramientas de movilización y concienciación ciudadana muy poderosas. -->
+- [x] A) Difundiendo información educativa, convocando a jornadas de limpieza y visibilizando el problema ante las autoridades. <!-- feedback: Correcto. Las redes son herramientas de movilización y concienciación ciudadana muy poderosas. -->
+- [ ] B) Usándolas para mandar juegos a todos los ciudadanos de la ciudad. <!-- feedback: Incorrecto. Eso no ayuda directamente a la causa ambiental. -->
 - [ ] C) Publicando fotos de comida para que los peces no tengan hambre. <!-- feedback: Incorrecto. Es una idea absurda que no tiene impacto real. -->
 - [ ] D) Borrando todas las fotos del río para que nadie sepa dónde queda. <!-- feedback: Incorrecto. El ocultamiento no soluciona el problema ambiental. -->
 
@@ -227,8 +227,8 @@ El buen uso de los medios digitales potencia la participación democrática, per
 ### Opciones
 - [ ] A) Aceptar todo rápidamente sin leer para poder jugar lo antes posible. <!-- feedback: Incorrecto. Estás poniendo en riesgo tu información personal y seguridad. -->
 - [ ] B) Inventarse una edad falsa de 50 años para engañar al sistema. <!-- feedback: Incorrecto. Mentir sobre la edad no te protege de que tus datos sean vendidos o mal usados. -->
-- [x] C) No usar la aplicación, leer los términos de privacidad con los padres y buscar alternativas seguras para niños. <!-- feedback: Correcto. La protección de datos personales es un derecho y una responsabilidad compartida. -->
-- [ ] D) Mandar un correo de insultos a la empresa que creó la aplicación. <!-- feedback: Incorrecto. La solución no es el insulto, sino el consumo responsable de medios. -->
+- [ ] C) Mandar un correo de insultos a la empresa que creó la aplicación. <!-- feedback: Incorrecto. La solución no es el insulto, sino el consumo responsable de medios. -->
+- [x] D) No usar la aplicación, leer los términos de privacidad con los padres y buscar alternativas seguras para niños. <!-- feedback: Correcto. La protección de datos personales es un derecho y una responsabilidad compartida. -->
 
 ### Explicacion Pedagogica
 La formación de un criterio crítico frente al consumo digital es fundamental. Los estudiantes deben aprender que "lo gratis" en internet a menudo se paga con su información personal.

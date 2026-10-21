@@ -440,18 +440,18 @@
         },
         {
           "letter": "C",
-          "text": "El nivel de los embalses es crítico; por lo tanto, debemos ahorrar agua.",
-          "is_correct": true,
-          "feedback": "¡Correcto! El punto y coma separa las dos proposiciones con independencia gramatical, y la coma tras el conector lo aísla como marcador."
-        },
-        {
-          "letter": "D",
           "text": "El nivel de los embalses, es crítico por lo tanto, debemos ahorrar agua.",
           "is_correct": false,
           "feedback": "Incorrecto. No se pone coma entre el sujeto y el predicado en la primera parte."
+        },
+        {
+          "letter": "D",
+          "text": "El nivel de los embalses es crítico; por lo tanto, debemos ahorrar agua.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El punto y coma separa las dos proposiciones con independencia gramatical, y la coma tras el conector lo aísla como marcador."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Los conectores conclusivos o consecutivos que actúan como marcadores discursivos suelen ir precedidos de punto y coma (o punto seguido) y seguidos de coma, para enfatizar la relación lógica que establecen.",
       "difficulty": "10",
       "images": [],

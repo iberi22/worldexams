@@ -13,16 +13,16 @@
       "context": "En Medellín, la abuela de Julián repite un refrán mientras él guarda los mangos que alcanzó a recoger del patio.",
       "options": [
         {
-          "letter": "B",
-          "text": "Valorar lo que ya se tiene en lugar de arriesgarlo por algo inseguro.",
-          "is_correct": true,
-          "feedback": "Es correcta porque el pájaro en mano representa lo seguro y los cien volando lo que no se tiene."
-        },
-        {
           "letter": "A",
           "text": "Soltar el pájaro para que vuele libre.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el refrán aconseja lo contrario: no soltar lo que ya se tiene."
+        },
+        {
+          "letter": "B",
+          "text": "Valorar lo que ya se tiene en lugar de arriesgarlo por algo inseguro.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el pájaro en mano representa lo seguro y los cien volando lo que no se tiene."
         },
         {
           "letter": "C",
@@ -59,16 +59,16 @@
       "context": "En Cali, Ángela llegó a la escuela con el uniforme impecable a pesar de la fuerte lluvia de la mañana.",
       "options": [
         {
-          "letter": "B",
-          "text": "Que mantuviera buen ánimo aunque las cosas no salieran como quería.",
-          "is_correct": true,
-          "feedback": "Es correcta porque el dicho invita a conservar el ánimo ante las dificultades."
-        },
-        {
           "letter": "A",
           "text": "Que debía mirar el cielo antes de salir de casa.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el dicho no habla de observar el clima."
+        },
+        {
+          "letter": "B",
+          "text": "Que mantuviera buen ánimo aunque las cosas no salieran como quería.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el dicho invita a conservar el ánimo ante las dificultades."
         },
         {
           "letter": "C",
@@ -290,9 +290,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Que cambiar la apariencia no basta si no se cambia de verdad.",
-          "is_correct": true,
-          "feedback": "Es correcta porque la ropa fina no transforma lo que la persona es en realidad."
+          "text": "Que a las monas les gusta disfrazarse de personas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el refrán no describe el gusto de un animal."
         },
         {
           "letter": "B",
@@ -308,12 +308,12 @@
         },
         {
           "letter": "D",
-          "text": "Que a las monas les gusta disfrazarse de personas.",
-          "is_correct": false,
-          "feedback": "Es incorrecta porque el refrán no describe el gusto de un animal."
+          "text": "Que cambiar la apariencia no basta si no se cambia de verdad.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la ropa fina no transforma lo que la persona es en realidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar un refrán consiste en descubrir su enseñanza general. \"Aunque la mona se vista de seda, mona se queda\" enseña que las apariencias no cambian la esencia de una persona. Distinguir el ejemplo figurado de la lección ayuda a interpretar correctamente el lenguaje popular.",
       "difficulty": "8",
       "images": [],
@@ -335,12 +335,6 @@
       "context": "En Medellín, la profesora pide elegir el refrán que mejor resuma el final de una historia leída en clase sobre el esfuerzo.",
       "options": [
         {
-          "letter": "C",
-          "text": "\"El que persevera, alcanza\".",
-          "is_correct": true,
-          "feedback": "Es correcta porque la constancia diaria llevó a Lucía a lograr su meta."
-        },
-        {
           "letter": "A",
           "text": "\"Ojos que no ven, corazón que no siente\".",
           "is_correct": false,
@@ -351,6 +345,12 @@
           "text": "\"No por mucho madrugar amanece más temprano\".",
           "is_correct": false,
           "feedback": "Es incorrecta porque la historia sí muestra un resultado gracias a la constancia."
+        },
+        {
+          "letter": "C",
+          "text": "\"El que persevera, alcanza\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque la constancia diaria llevó a Lucía a lograr su meta."
         },
         {
           "letter": "D",

@@ -28,7 +28,7 @@
           "letter": "B",
           "text": "Una nube difusa de protones solamente.",
           "is_correct": false,
-          "feedback": "No incluía electrones en su esquema."
+          "feedback": "Incorrecto. Thomson no propuso una nube de protones: su modelo era una masa de carga positiva con electrones incrustados, y el protón como partícula no se identificó hasta 1919-1920 con Rutherford."
         },
         {
           "letter": "C",
@@ -356,7 +356,7 @@
           "letter": "D",
           "text": "No hay diferencia: ambas son iguales.",
           "is_correct": false,
-          "feedback": "Son procesos distintos."
+          "feedback": "Incorrecto. Son procesos opuestos: la fisión parte un núcleo pesado en núcleos más ligeros y la fusión une núcleos ligeros en uno más pesado."
         }
       ],
       "correct_answer": "B",

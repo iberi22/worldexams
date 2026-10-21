@@ -19,16 +19,16 @@
           "feedback": "Incorrect. This is the general natural world."
         },
         {
-          "letter": "C",
-          "text": "Pollution",
-          "is_correct": true,
-          "feedback": "Correct! Pollution refers to contamination of the environment."
-        },
-        {
           "letter": "B",
           "text": "Weather",
           "is_correct": false,
           "feedback": "Incorrect. This refers to atmospheric conditions."
+        },
+        {
+          "letter": "C",
+          "text": "Pollution",
+          "is_correct": true,
+          "feedback": "Correct! Pollution refers to contamination of the environment."
         },
         {
           "letter": "D",
@@ -65,16 +65,16 @@
           "feedback": "Incorrect. This helps clean the air."
         },
         {
-          "letter": "C",
-          "text": "Car exhaust and smoke",
-          "is_correct": true,
-          "feedback": "Correct! Fumes from vehicles and factories are major air pollutants."
-        },
-        {
           "letter": "B",
           "text": "Recycling plastic",
           "is_correct": false,
           "feedback": "Incorrect. This helps the environment."
+        },
+        {
+          "letter": "C",
+          "text": "Car exhaust and smoke",
+          "is_correct": true,
+          "feedback": "Correct! Fumes from vehicles and factories are major air pollutants."
         },
         {
           "letter": "D",
@@ -197,12 +197,6 @@
       "context": "Using \"should\" for environmental advice.",
       "options": [
         {
-          "letter": "D",
-          "text": "should",
-          "is_correct": true,
-          "feedback": "Correct! Suggests a necessary and positive action for the environment."
-        },
-        {
           "letter": "A",
           "text": "shouldn't",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "won't",
           "is_correct": false,
           "feedback": "Incorrect. This is a negative future prediction, not advice."
+        },
+        {
+          "letter": "D",
+          "text": "should",
+          "is_correct": true,
+          "feedback": "Correct! Suggests a necessary and positive action for the environment."
         }
       ],
       "correct_answer": "D",
@@ -249,12 +249,6 @@
           "feedback": "Incorrect. We lose the oxygen."
         },
         {
-          "letter": "D",
-          "text": "Animals lose their natural habitats.",
-          "is_correct": true,
-          "feedback": "Correct! The text says it's \"destroying the homes\" of species."
-        },
-        {
           "letter": "B",
           "text": "The rainforest becomes colder.",
           "is_correct": false,
@@ -265,6 +259,12 @@
           "text": "More species appear.",
           "is_correct": false,
           "feedback": "Incorrect. They are being affected negatively."
+        },
+        {
+          "letter": "D",
+          "text": "Animals lose their natural habitats.",
+          "is_correct": true,
+          "feedback": "Correct! The text says it's \"destroying the homes\" of species."
         }
       ],
       "correct_answer": "D",
@@ -341,16 +341,16 @@
           "feedback": "More fish would be a benefit rather than a threat, and warming seas actually drive some fish away from coastal waters."
         },
         {
-          "letter": "C",
-          "text": "Because rising sea levels can cause flooding of homes.",
-          "is_correct": true,
-          "feedback": "Correct! \"Sea levels rise\" and \"houses might go under water\" explain the threat."
-        },
-        {
           "letter": "B",
           "text": "Because the water will be too hot for swimming.",
           "is_correct": false,
           "feedback": "Incorrect. Not the main threat mentioned."
+        },
+        {
+          "letter": "C",
+          "text": "Because rising sea levels can cause flooding of homes.",
+          "is_correct": true,
+          "feedback": "Correct! \"Sea levels rise\" and \"houses might go under water\" explain the threat."
         },
         {
           "letter": "D",
@@ -428,9 +428,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "We should live in trash cans.",
-          "is_correct": false,
-          "feedback": "Living in a trash can is a literal reading of the words 'our home' and 'trash'; a slogan is meant figuratively, and nothing here suggests it."
+          "text": "We must respect our planet and stop contaminating it.",
+          "is_correct": true,
+          "feedback": "Correct! \"Respect our home\" and \"Stop pollution\" capture the essence."
         },
         {
           "letter": "B",
@@ -440,9 +440,9 @@
         },
         {
           "letter": "C",
-          "text": "We must respect our planet and stop contaminating it.",
-          "is_correct": true,
-          "feedback": "Correct! \"Respect our home\" and \"Stop pollution\" capture the essence."
+          "text": "We should live in trash cans.",
+          "is_correct": false,
+          "feedback": "Living in a trash can is a literal reading of the words 'our home' and 'trash'; a slogan is meant figuratively, and nothing here suggests it."
         },
         {
           "letter": "D",
@@ -451,7 +451,7 @@
           "feedback": "Incorrect. Not the point of the slogan."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "The student evaluates the metaphorical and literal meaning of a persuasive slogan to identify its core environmental message.",
       "difficulty": "10",
       "images": [],

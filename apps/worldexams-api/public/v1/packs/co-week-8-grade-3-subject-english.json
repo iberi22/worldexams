@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which word means \"mom\"?",
+      "context": "En una clase de inglés en Manizales, los niños dibujan a la persona que los cuida en casa: su mamá.",
       "options": [
         {
-          "letter": "C",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the word for a place where you live or stay on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' is the system of moving people or goods between places, not the place you sleep in itself."
+          "text": "mother",
+          "is_correct": true,
+          "feedback": "Correct. \"Mother\" is the word for mom, the woman who is your parent."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "father",
           "is_correct": false,
-          "feedback": "'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live."
+          "feedback": "Incorrect. \"Father\" means dad, the man who is your parent, not your mom."
+        },
+        {
+          "letter": "C",
+          "text": "brother",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Brother\" is a boy who has the same parents as you, not your mom."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "baby",
           "is_correct": false,
-          "feedback": "'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in."
+          "feedback": "Incorrect. \"Baby\" is a very young child in the family, so it cannot be your mom."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "La palabra \"mother\" significa mamá o madre. \"Mom\" es la forma corta y cariñosa de decir \"mother\". Las otras palabras nombran a otros miembros de la familia: \"father\" (papá), \"brother\" (hermano) y \"baby\" (bebé).",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -55,36 +55,36 @@
     },
     {
       "id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: \"My ______ is a man. He is my dad.\"",
+      "context": "Juanita, de Ibagué, describe a su papá en su cuaderno de inglés.",
       "options": [
         {
-          "letter": "D",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "sister",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "Incorrect. \"Sister\" is a girl in your family, and the sentence talks about a man."
         },
         {
           "letter": "B",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "'destination' names only the place you are going to, without the route or the order of the whole journey."
+          "text": "father",
+          "is_correct": true,
+          "feedback": "Correct. \"Father\" means dad, and the sentence says this person is a man and \"my dad\"."
         },
         {
           "letter": "C",
-          "text": "passport",
+          "text": "mother",
           "is_correct": false,
-          "feedback": "'passport' is the official document that lets you cross a border, not the plan of where you go."
+          "feedback": "Incorrect. \"Mother\" is a woman, but the sentence uses \"a man\" and \"He\"."
+        },
+        {
+          "letter": "D",
+          "text": "baby",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Baby\" is a very small child, and the sentence describes a grown man who is the dad."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Las pistas son \"a man\" (un hombre) y \"He is my dad\" (él es mi papá). La palabra en inglés para papá es \"father\". Por eso la oración completa es \"My father is a man. He is my dad.\"",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: \"Lucas is a boy. We have the same mom and dad. Lucas is my ______.\"",
+      "context": "Samuel vive en Neiva con sus papás y con Lucas, otro niño que es hijo de los mismos papás.",
       "options": [
         {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' is the place someone is going to or something is being sent to."
-        },
-        {
           "letter": "A",
-          "text": "departure",
+          "text": "sister",
           "is_correct": false,
-          "feedback": "'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself."
+          "feedback": "Incorrect. \"Sister\" is a girl with your same parents, but Lucas is a boy."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "mother",
           "is_correct": false,
-          "feedback": "'arrival' is the act of reaching a place, not the place that is reached."
+          "feedback": "Incorrect. \"Mother\" is the mom, and Lucas is a boy who shares the mom with the speaker."
+        },
+        {
+          "letter": "C",
+          "text": "father",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Father\" is the dad, but Lucas is a boy with the same dad as the speaker."
         },
         {
           "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "'journey' is the whole trip from the start to the end, not the place the trip finishes at."
+          "text": "brother",
+          "is_correct": true,
+          "feedback": "Correct. A \"brother\" is a boy who has the same mom and dad as you, exactly like Lucas."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Un \"brother\" es un hermano: un niño que tiene la misma mamá y el mismo papá que tú. El texto dice que Lucas es un niño (\"a boy\") y que tienen los mismos papás, entonces Lucas es \"my brother\".",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.75,
       "bundle_id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Tomas shows a photo: \"This is my ______. She is a girl and she is ten. We play together.\"",
+      "context": "Tomas, de Santa Marta, muestra una foto de vacaciones en la playa a sus compañeros de clase.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel."
+          "text": "father",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Father\" is a man, but the sentence says \"She is a girl\"."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "brother",
           "is_correct": false,
-          "feedback": "'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in."
+          "feedback": "Incorrect. \"Brother\" is a boy, and the sentence uses \"She\" and \"a girl\"."
         },
         {
           "letter": "C",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "'flight' is the journey by plane itself, not the containers that hold your things."
+          "text": "sister",
+          "is_correct": true,
+          "feedback": "Correct. A \"sister\" is a girl in your family, and she is ten and plays with Tomas."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "mother",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you make for a seat or a room, not the bag you carry."
+          "feedback": "Incorrect. A mother is a grown woman, not \"a girl\" who is ten years old."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Las pistas son \"She\" (ella), \"a girl\" (una niña) y \"she is ten\" (tiene diez años). Una niña de diez años que juega con Tomas es su hermana, que en inglés se dice \"sister\". Con \"This is my sister\" la presentamos.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.7,
       "bundle_id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: \"My mother and my father are my ______.\"",
+      "context": "En Popayán, la profesora pide escribir una sola palabra para nombrar juntos a la mamá y al papá.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew."
+          "text": "brothers",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Brothers\" are boys with your same parents, so this word cannot name your mom and dad."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "babies",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all."
+          "feedback": "Incorrect. \"Babies\" are very young children, but a mother and a father are adults."
         },
         {
           "letter": "C",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle."
+          "text": "parents",
+          "is_correct": true,
+          "feedback": "Correct. \"Parents\" is the word for your mother and father together."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "sisters",
           "is_correct": false,
-          "feedback": "'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle."
+          "feedback": "Incorrect. \"Sisters\" are girls in the family, and a father is a man."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "La palabra \"parents\" significa padres, es decir, la mamá y el papá juntos. Ojo: \"parents\" no significa \"parientes\" en español. Se usa en plural porque nombra a dos personas: \"mother\" + \"father\" = \"parents\".",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.65,
       "bundle_id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Hi! I'm Daniela. This is my family. My father is Jorge. My mother is Rosa. My brother is Andres.\"\nWho is Rosa?",
+      "context": "Daniela, una niña de Armenia, escribe un texto corto para presentar a su familia en la clase de inglés.",
       "options": [
         {
-          "letter": "B",
-          "text": "customs",
+          "letter": "A",
+          "text": "Daniela's mother",
           "is_correct": true,
-          "feedback": "Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive."
+          "feedback": "Correct. The text says \"My mother is Rosa\", so Rosa is the mother of Daniela."
         },
         {
-          "letter": "A",
-          "text": "security",
+          "letter": "B",
+          "text": "Daniela's sister",
           "is_correct": false,
-          "feedback": "'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in."
+          "feedback": "Incorrect. The text names no sister; Rosa appears after the word \"mother\"."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "Daniela's father",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for your plane, not the place where your belongings are inspected."
+          "feedback": "Incorrect. The father in the text is Jorge, not Rosa."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "Daniela's brother",
           "is_correct": false,
-          "feedback": "'gate' is the door at the plane you walk through to board, not the place where officials check your things."
+          "feedback": "Incorrect. The brother in the text is Andres, not Rosa."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Para responder hay que buscar el nombre \"Rosa\" en el texto. La oración dice \"My mother is Rosa\" (mi mamá es Rosa). Jorge es el papá y Andres es el hermano. Por eso Rosa es la mamá de Daniela.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.6,
       "bundle_id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"There are four people in my family: my father, my mother, my baby sister and me. My baby sister is one year old. She can't walk.\"\nWhich sentence is true?",
+      "context": "Un niño de Valledupar escribe sobre su familia, que acaba de recibir una nueva integrante.",
       "options": [
         {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane."
+          "letter": "A",
+          "text": "The family has five people.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says \"four people\": father, mother, baby sister and the writer, which is 4."
         },
         {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline."
+          "letter": "B",
+          "text": "The baby is a girl.",
+          "is_correct": true,
+          "feedback": "Correct. The text says \"my baby sister\" and \"She\", so the baby is a girl."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "The baby is ten years old.",
           "is_correct": false,
-          "feedback": "'receipt' is the proof that you paid for something, which is not permission to board a plane."
+          "feedback": "Incorrect. The text says the baby is \"one year old\", not ten."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "The writer has a brother.",
           "is_correct": false,
-          "feedback": "'brochure' is a leaflet with tourist information, not a travel document issued to a passenger."
+          "feedback": "Incorrect. The only child named besides the writer is a sister, so no brother appears in the family."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "explanation": "Hay que comprobar cada oración con el texto. Dice \"my baby sister\" (mi hermanita bebé) y usa \"She\" (ella), entonces la bebé es una niña. La familia tiene cuatro personas, la bebé tiene un año y no se menciona ningún hermano.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.5,
       "bundle_id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which pair of sentences is correct?",
+      "context": "En un álbum familiar de Pasto, cada foto lleva dos oraciones en inglés para presentar a un familiar.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' means visiting the places of interest of a location as a traveler."
+          "text": "This is my father. She is a teacher.",
+          "is_correct": false,
+          "feedback": "Incorrect. A father is a man, so we say \"He\", not \"She\"."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "This is my mother. He is a doctor.",
           "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place."
+          "feedback": "Incorrect. A mother is a woman, so we say \"She\", not \"He\"."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "This is my brother. She is nine.",
           "is_correct": false,
-          "feedback": "'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city."
+          "feedback": "Incorrect. A brother is a boy, so the pronoun must be \"He\", not \"She\"."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place."
+          "text": "This is my sister. She is seven.",
+          "is_correct": true,
+          "feedback": "Correct. A sister is a girl, and \"She\" is the pronoun for a girl, so both sentences agree."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "correct_answer": "D",
+      "explanation": "Después de \"This is my ...\" usamos \"He\" (él) para hombres y niños, y \"She\" (ella) para mujeres y niñas. \"Sister\" es hermana, así que va con \"She\". Father y brother van con \"He\"; mother va con \"She\".",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.45,
       "bundle_id": "CO-ING-3-2026-W08-family-members-1-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",

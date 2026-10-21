@@ -202,9 +202,9 @@ El Rabinal Achí es Patrimonio Oral e Inmaterial de la Humanidad, destacando la 
 
 ### Opciones
 - [ ] A) Porque no dominaban bien el alfabeto latino que estaban aprendiendo. <!-- feedback: Los autores eran personas muy instruidas en ambos sistemas de escritura. -->
-- [x] B) Para proteger sus conocimientos sagrados de la censura y persecución de los frailes españoles. <!-- feedback: Correcto. El simbolismo servía como una clave que solo los iniciados mayas podían entender. -->
+- [ ] B) Para que los futuros científicos del siglo XXI tuvieran acertijos que resolver. <!-- feedback: Los textos se escribieron para su uso contemporáneo por la propia comunidad. -->
 - [ ] C) Porque la lengua maya no tiene palabras para describir hechos reales u objetivos. <!-- feedback: La lengua maya es rica y precisa; el simbolismo es una elección estética y política. -->
-- [ ] D) Para que los futuros científicos del siglo XXI tuvieran acertijos que resolver. <!-- feedback: Los textos se escribieron para su uso contemporáneo por la propia comunidad. -->
+- [x] D) Para proteger sus conocimientos sagrados de la censura y persecución de los frailes españoles. <!-- feedback: Correcto. El simbolismo servía como una clave que solo los iniciados mayas podían entender. -->
 
 ### Explicacion Pedagogica
 El simbolismo en la literatura de resistencia permite conservar la esencia de una creencia bajo una apariencia que puede resultar inofensiva o incomprensible para el opresor.

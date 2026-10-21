@@ -342,9 +342,9 @@
         },
         {
           "letter": "B",
-          "text": "No, porque 8 x 500 = 4.000 y 3 x 1.200 = 3.600, y el total es 7.600 pesos",
-          "is_correct": true,
-          "feedback": "¡Correcto! Faltaba sumar las empanadas: 4.000 + 3.600 = 7.600 pesos, que es lo que don Ramiro recibe en realidad."
+          "text": "Sí, porque 3 x 1.200 = 3.600 y al restarlo de 4.000 da 400 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las empanadas no se restan, se suman, porque también son dinero que entra en la caja."
         },
         {
           "letter": "C",
@@ -354,12 +354,12 @@
         },
         {
           "letter": "D",
-          "text": "Sí, porque 3 x 1.200 = 3.600 y al restarlo de 4.000 da 400 pesos",
-          "is_correct": false,
-          "feedback": "Incorrecto. Las empanadas no se restan, se suman, porque también son dinero que entra en la caja."
+          "text": "No, porque 8 x 500 = 4.000 y 3 x 1.200 = 3.600, y el total es 7.600 pesos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Faltaba sumar las empanadas: 4.000 + 3.600 = 7.600 pesos, que es lo que don Ramiro recibe en realidad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Cuando hay dos o más precios distintos en un mismo problema, primero se calcula el valor de cada grupo y después se suman los resultados. Los bolillos valen 8 x 500 = 4.000 pesos y las empanadas valen 3 x 1.200 = 3.600 pesos. Al sumar: 4.000 + 3.600 = 7.600 pesos. El error de don Ramiro fue contar solo una parte de lo que vende, y ese es el error más común en estos problemas: atacar un solo precio y olvidar el otro. La comprobación final es sencilla: con 4.000 pesos más 3.600 pesos se reunen 7.600 pesos, y ese es el dinero que entra en la caja.",
       "difficulty": "10",
       "images": [],

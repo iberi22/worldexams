@@ -830,9 +830,9 @@
         },
         {
           "letter": "B",
-          "text": "$\\delta = \\epsilon/2$",
-          "is_correct": true,
-          "feedback": "Correcto. $|(2x-1) - 5| = |2x-6| = 2|x-3|$. Queremos $2|x-3| < \\epsilon$, lo cual se cumple si $|x-3| < \\epsilon/2$."
+          "text": "$\\delta = \\sqrt{\\epsilon}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Relación típica de funciones cuadráticas, no lineales."
         },
         {
           "letter": "C",
@@ -842,12 +842,12 @@
         },
         {
           "letter": "D",
-          "text": "$\\delta = \\sqrt{\\epsilon}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Relación típica de funciones cuadráticas, no lineales."
+          "text": "$\\delta = \\epsilon/2$",
+          "is_correct": true,
+          "feedback": "Correcto. $|(2x-1) - 5| = |2x-6| = 2|x-3|$. Queremos $2|x-3| < \\epsilon$, lo cual se cumple si $|x-3| < \\epsilon/2$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Demostración de la comprensión de la definición rigurosa de límite mediante el cálculo del parámetro delta para una función lineal.\n\n---",
       "difficulty": "10",
       "images": [],

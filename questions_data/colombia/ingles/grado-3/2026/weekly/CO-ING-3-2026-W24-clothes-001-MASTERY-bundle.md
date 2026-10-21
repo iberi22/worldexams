@@ -22,186 +22,205 @@ creador: "Jules-Agent"
 **8 preguntas | Ingles | DBA MEN Colombia**
 
 ---
+
 ## Question 1 [D3-D4]
 **ID:** CO-ING-3-2026-W24-clothes-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word to complete the sentence.
+**Expected_Success:** 0.85
+**Contexto:** Mateo se alista para el colegio en Bogotá y se pone la camisa del uniforme.
 
 ### Enunciado
-It is a sunny school morning in Bogota. What clothes do you wear on your upper body that usually has buttons and short sleeves?
+You wear it on your upper body. It has buttons. What is it?
 
 ### Opciones
-- [ ] A) finger
-  <!-- feedback: 'finger' is a part of your hand, not an item of clothing you put on. -->
-- [ ] B) shorts
-  <!-- feedback: 'shorts' are worn on the lower half of your body, not on the top half. -->
-- [ ] C) foot
-  <!-- feedback: 'foot' is a part of your leg used for standing, not a piece of clothing. -->
+- [ ] A) skirt
+  <!-- feedback: Incorrect. A 'skirt' hangs from the waist; it is not for the upper body. -->
+- [ ] B) shoes
+  <!-- feedback: Incorrect. 'Shoes' go on your feet, not on your upper body. -->
+- [ ] C) socks
+  <!-- feedback: Incorrect. 'Socks' go on your feet and have no buttons. -->
 - [x] D) shirt
-  <!-- feedback: Correct! A 'shirt' is an item of clothing that you wear on the upper part of your body. -->
+  <!-- feedback: Correct. A 'shirt' goes on your upper body and often has buttons. -->
 
 ### Explicacion Pedagogica
-The word 'shirt' describes an item of clothing that you wear on your upper body. Learning clothing vocabulary is essential for describing what we wear every day for school in the city.
+'Shirt' es camisa. Las pistas son la parte del cuerpo (arriba, el torso) y los botones. 'Shoes' y 'socks' van en los pies y 'skirt' (falda) va de la cintura hacia abajo.
+
 ---
+
 ## Question 2 [D3-D4]
 **ID:** CO-ING-3-2026-W24-clothes-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word to complete the sentence.
+**Expected_Success:** 0.85
+**Contexto:** Antes de salir de la casa en Cali, Sara busca lo que se pone en los pies.
 
 ### Enunciado
-On a school morning in Cali, you need to wear these on your feet before you leave the house. What are they?
+You wear them on your feet when you walk to school. What are they?
 
 ### Opciones
-- [ ] A) arm
-  <!-- feedback: 'arm' is a part of your body, not something you wear on your feet to protect them. -->
+- [ ] A) a hat
+  <!-- feedback: Incorrect. A 'hat' goes on your head. -->
 - [x] B) shoes
-  <!-- feedback: Correct! 'shoes' are an item of clothing that you wear on your feet when walking outside. -->
-- [ ] C) nose
-  <!-- feedback: 'nose' is a part of your face used for smelling, not something you wear on your feet. -->
-- [ ] D) hand
-  <!-- feedback: 'hand' is the part of your arm with fingers, not clothing worn on your feet. -->
+  <!-- feedback: Correct. You wear 'shoes' on your feet to walk. -->
+- [ ] C) a jacket
+  <!-- feedback: Incorrect. A 'jacket' goes over your shirt, on your upper body. -->
+- [ ] D) a skirt
+  <!-- feedback: Incorrect. A 'skirt' goes from the waist down, not on the feet. -->
 
 ### Explicacion Pedagogica
-The word 'shoes' is used to describe the clothing item you wear on your feet. It is a fundamental word to know when talking about what to wear on a normal school morning in a Colombian city.
+'Shoes' son zapatos y se usan en los pies ('feet'). 'Hat' va en la cabeza, 'jacket' sobre la camisa y 'skirt' es una falda.
+
 ---
+
 ## Question 3 [D5-D6]
 **ID:** CO-ING-3-2026-W24-clothes-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word to complete the sentence.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.75
+**Contexto:** Hace mucho sol en Cartagena y la mamá de Andrés le recuerda protegerse la cabeza.
 
 ### Enunciado
-It is a very sunny school morning in Cartagena. What clothes do you wear on your head to protect yourself from the sun?
+Complete the sentence: "It is very sunny. Put on your ___ to protect your head."
 
 ### Opciones
-- [ ] A) ear
-  <!-- feedback: 'ear' is the part of your head you use for hearing, not an item of clothing to block the sun. -->
+- [ ] A) socks
+  <!-- feedback: Incorrect. 'Socks' go on your feet, not on your head. -->
 - [x] B) hat
-  <!-- feedback: Correct! A 'hat' is an item of clothing you wear on your head to protect yourself from the sun. -->
-- [ ] C) knee
-  <!-- feedback: 'knee' is the joint in your leg, not an item of clothing worn on your head. -->
-- [ ] D) leg
-  <!-- feedback: 'leg' is the part of your body used for walking, not a protective item for your head. -->
+  <!-- feedback: Correct. A 'hat' goes on your head and protects it from the sun. -->
+- [ ] C) skirt
+  <!-- feedback: Incorrect. A 'skirt' cannot protect your head. -->
+- [ ] D) gloves
+  <!-- feedback: Incorrect. 'Gloves' go on your hands. -->
 
 ### Explicacion Pedagogica
-The word 'hat' describes an item of clothing worn on the head. Learning this vocabulary helps students explain how they protect themselves on sunny days in their city, like wearing a hat in Cartagena.
+'Hat' es sombrero o gorra. La oración dice 'to protect your head' (para proteger tu cabeza), y la única prenda que va en la cabeza es 'hat'.
+
 ---
+
 ## Question 4 [D5-D6]
 **ID:** CO-ING-3-2026-W24-clothes-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word to complete the sentence.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.70
+**Contexto:** Mariana se viste para la fiesta de cumpleaños de su prima en Medellín.
 
 ### Enunciado
-On a regular school morning in Medellin, a girl decides to wear a single piece of clothing that covers her body and legs. What is it?
+Complete the sentence: "Mariana wears a ___ to the party. It is one piece of clothing from her shoulders to her knees."
 
 ### Opciones
 - [x] A) dress
-  <!-- feedback: Correct! A 'dress' is a single piece of clothing that typically covers the body and extends down over the legs. -->
-- [ ] B) neck
-  <!-- feedback: 'neck' is the body part connecting the head to the body, not a piece of clothing. -->
-- [ ] C) mouth
-  <!-- feedback: 'mouth' is part of the face, not a piece of clothing you put on your body. -->
-- [ ] D) teeth
-  <!-- feedback: 'teeth' are inside the mouth, not a type of clothing worn on a school morning. -->
+  <!-- feedback: Correct. A 'dress' is one piece of clothing that covers the body from the shoulders down. -->
+- [ ] B) pants
+  <!-- feedback: Incorrect. 'Pants' cover only the legs, and the word is plural: 'a pants' is wrong. -->
+- [ ] C) cap
+  <!-- feedback: Incorrect. A 'cap' goes on the head. -->
+- [ ] D) boots
+  <!-- feedback: Incorrect. 'Boots' go on the feet, and 'a boots' is wrong because it is plural. -->
 
 ### Explicacion Pedagogica
-The word 'dress' refers to a piece of clothing for girls or women that covers both the top and bottom half. It is a common word needed to describe everyday school clothing choices in Colombia.
+'Dress' es vestido: una sola prenda que va de los hombros hacia abajo. 'Pants' (pantalón) solo cubre las piernas, 'cap' (gorra) va en la cabeza y 'boots' (botas) en los pies.
+
 ---
+
 ## Question 5 [D7-D8]
 **ID:** CO-ING-3-2026-W24-clothes-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word to complete the sentence.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.65
+**Contexto:** Juan vive en Bogotá, donde las mañanas suelen ser frías.
 
 ### Enunciado
-It is a cool school morning in Bogota. What long clothes do you wear on your legs to keep them warm?
+Read: "In Bogotá it is cold in the morning. Juan wears long pants, a sweater and a jacket."
+What does Juan wear on his legs?
 
 ### Opciones
-- [ ] A) toe
-  <!-- feedback: 'toe' is part of your foot, not a long piece of clothing worn on the legs. -->
-- [ ] B) hair
-  <!-- feedback: 'hair' grows on your head, it is not an item of clothing you wear to keep warm. -->
-- [ ] C) chin
-  <!-- feedback: 'chin' is the bottom part of your face, not a piece of clothing for your legs. -->
-- [x] D) pants
-  <!-- feedback: Correct! 'pants' are a type of clothing worn on the lower half of the body, covering both legs. -->
+- [ ] A) a sweater
+  <!-- feedback: Incorrect. A 'sweater' goes on the upper body, not on the legs. -->
+- [ ] B) a jacket
+  <!-- feedback: Incorrect. A 'jacket' goes over the sweater, on the upper body. -->
+- [ ] C) shorts
+  <!-- feedback: Incorrect. The text does not mention shorts; Juan wears long pants because it is cold. -->
+- [x] D) long pants
+  <!-- feedback: Correct. 'Pants' are worn on the legs, and the text says 'long pants'. -->
 
 ### Explicacion Pedagogica
-The word 'pants' describes clothing worn on the legs, going down to the ankles. This vocabulary is very useful to describe what students typically wear on cooler school mornings in a city like Bogota.
+En el texto Juan usa tres prendas. 'Long pants' (pantalón largo) es la que va en las piernas; 'sweater' y 'jacket' van en la parte de arriba del cuerpo.
+
 ---
+
 ## Question 6 [D7-D8]
 **ID:** CO-ING-3-2026-W24-clothes-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word to complete the sentence.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.60
+**Contexto:** Una mañana fría en Tunja, la mamá de Pablo le ayuda a vestirse.
 
 ### Enunciado
-Before putting on your shoes on a school morning in Barranquilla, what soft clothes do you wear directly on your feet?
+Read the dialogue.
+Mom: "It's cold. Put on your ___ before your shoes."
+Pablo: "OK, Mom!"
 
 ### Opciones
 - [x] A) socks
-  <!-- feedback: Correct! 'socks' are soft clothing items you wear on your feet, inside your shoes. -->
-- [ ] B) eye
-  <!-- feedback: 'eye' is the body part you use for seeing, not a clothing item for your feet. -->
-- [ ] C) thumb
-  <!-- feedback: 'thumb' is a part of your hand, not something you wear inside your shoes. -->
-- [ ] D) cheek
-  <!-- feedback: 'cheek' is a part of your face, not an item of clothing for your feet. -->
+  <!-- feedback: Correct. You put on 'socks' before your shoes to keep your feet warm. -->
+- [ ] B) hat
+  <!-- feedback: Incorrect. A 'hat' goes on your head, and you do not put it on before your shoes. -->
+- [ ] C) T-shirt
+  <!-- feedback: Incorrect. A 'T-shirt' goes on your upper body; the order with shoes does not matter. -->
+- [ ] D) skirt
+  <!-- feedback: Incorrect. A 'skirt' is not something you put on before your shoes. -->
 
 ### Explicacion Pedagogica
-The word 'socks' refers to the clothing worn on the feet inside shoes. Knowing this vocabulary allows students to talk accurately about their daily dressing routine on a typical school morning.
+'Socks' son medias. Se ponen antes de los zapatos ('before your shoes') y abrigan los pies. Las otras prendas no se relacionan con ponerse los zapatos.
+
 ---
+
 ## Question 7 [D9-D10]
 **ID:** CO-ING-3-2026-W24-clothes-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word to complete the sentence.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.50
+**Contexto:** Laura viaja con su familia a la playa de Santa Marta en vacaciones.
 
 ### Enunciado
-It is a cold and rainy school morning in Tunja. What heavy clothes do you wear over your shirt to stay warm?
+Read: "Laura goes to the beach in Santa Marta. It is very hot."
+Which clothes are best for Laura?
 
 ### Opciones
-- [x] A) jacket
-  <!-- feedback: Correct! A 'jacket' is a warm outer piece of clothing with sleeves, worn over your shirt. -->
-- [ ] B) lip
-  <!-- feedback: 'lip' is part of the mouth, not a heavy piece of clothing worn to stay warm. -->
-- [ ] C) shoulder
-  <!-- feedback: 'shoulder' is the body part where the arm joins the body, not a clothing item. -->
-- [ ] D) stomach
-  <!-- feedback: 'stomach' is a part of the body, not a piece of clothing worn over a shirt. -->
+- [ ] A) a jacket and gloves
+  <!-- feedback: Incorrect. A jacket and gloves are for cold weather, not for a very hot beach. -->
+- [ ] B) a sweater and boots
+  <!-- feedback: Incorrect. A sweater and boots keep you warm; they are not good for a hot day. -->
+- [x] C) shorts and a T-shirt
+  <!-- feedback: Correct. Shorts and a T-shirt are light clothes for hot weather. -->
+- [ ] D) a scarf and a coat
+  <!-- feedback: Incorrect. A scarf and a coat are winter clothes. -->
 
 ### Explicacion Pedagogica
-The word 'jacket' refers to a heavy item of clothing worn on the upper body for warmth. This is essential vocabulary to describe how to stay warm on cold school mornings in high-altitude Colombian cities.
+Para elegir la ropa hay que mirar el clima: 'very hot' significa que hace mucho calor. 'Shorts and a T-shirt' (pantaloneta y camiseta) son prendas frescas; las otras opciones son para el frío.
+
 ---
+
 ## Question 8 [D9-D10]
 **ID:** CO-ING-3-2026-W24-clothes-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word to complete the sentence.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.45
+**Contexto:** En la clase de inglés de Bucaramanga, los niños describen la ropa de sus compañeros.
 
 ### Enunciado
-On a warm school morning in Bucaramanga, a girl wears a piece of clothing that hangs down from her waist. What is it?
+Choose the correct sentence.
 
 ### Opciones
-- [ ] A) heel
-  <!-- feedback: 'heel' is the back part of the foot, not an item of clothing hanging from the waist. -->
-- [ ] B) elbow
-  <!-- feedback: 'elbow' is the joint in the middle of the arm, not clothing worn on the waist. -->
-- [ ] C) wrist
-  <!-- feedback: 'wrist' is the joint connecting the hand and arm, not a piece of clothing. -->
-- [x] D) skirt
-  <!-- feedback: Correct! A 'skirt' is a piece of clothing for women or girls that hangs from the waist. -->
+- [ ] A) She wear a red skirt.
+  <!-- feedback: Incorrect. With 'she' the verb needs -s: 'she wears'. -->
+- [ ] B) She wears a red skirts.
+  <!-- feedback: Incorrect. After 'a' the noun is singular: 'a red skirt'. -->
+- [ ] C) She red wears a skirt.
+  <!-- feedback: Incorrect. The color goes before the noun: 'a red skirt', not before the verb. -->
+- [x] D) She wears a red skirt.
+  <!-- feedback: Correct. 'She wears' has the -s, and 'a red skirt' is singular with the color before the noun. -->
 
 ### Explicacion Pedagogica
-The word 'skirt' is an item of clothing worn on the lower half of the body. Understanding this vocabulary helps describe what girls might choose to wear on a warm school morning in a Colombian city.
+En inglés, con 'she' el verbo lleva -s ('wears'), después de 'a' el sustantivo va en singular ('skirt') y el color va antes de la prenda: 'a red skirt' (una falda roja).

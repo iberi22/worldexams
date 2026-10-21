@@ -336,9 +336,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Publicar la historia de la familia para que todos la conozcan",
-          "is_correct": false,
-          "feedback": "Incorrecto. Publicar la historia sin permiso expone a la familia y no le entrega lo que necesita para recuperarse."
+          "text": "Recoger lo que la familia necesita y entregárselo con respeto",
+          "is_correct": true,
+          "feedback": "Correcto. Reunir lo que la familia necesita y entregárselo sin exposición satisface la ayuda concreta."
         },
         {
           "letter": "B",
@@ -354,12 +354,12 @@
         },
         {
           "letter": "D",
-          "text": "Recoger lo que la familia necesita y entregárselo con respeto",
-          "is_correct": true,
-          "feedback": "Correcto. Reunir lo que la familia necesita y entregárselo sin exposición satisface la ayuda concreta."
+          "text": "Publicar la historia de la familia para que todos la conozcan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Publicar la historia sin permiso expone a la familia y no le entrega lo que necesita para recuperarse."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "La ayuda de verdad se mide por lo que resuelve, no por lo que dice. Una familia que perdió todo en una inundación necesita algo para comer, ropa limpia y un lugar donde dormir, no palabras de consuelo. Una campaña que recoge esos elementos y los entrega con respeto cumple con la solidaridad de manera concreta. Además, entregar sin ridiculizar a la persona mantiene su dignidad, que es tan importante como la ayuda material. Reconocer esto enseña a los niños a ayudar bien: hay que resolver la necesidad sin dañar la dignidad de quien la tiene.",
       "difficulty": "8",
       "images": [],

@@ -18,190 +18,194 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-# MASTERY Bundle - Ingles: Animals Wild (W17)
-**8 preguntas | Ingles | DBA MEN Colombia**
 
----
+# Bundle MASTERY: Animales salvajes de Colombia - Grado 3
+
+Este bundle evalúa el vocabulario de animales salvajes de la fauna colombiana (monkey, jaguar, snake, parrot, frog, sloth, crocodile, toucan) y el uso de "can" y "can't" para hablar de lo que pueden hacer.
+
 ## Question 1 [D3-D4]
 **ID:** CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Expected_Success:** 0.85
+**Contexto:** En una caminata por la selva del Chocó, el guía pide a los niños tener cuidado con un animal largo que se arrastra por el suelo.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which animal is long, has no legs and moves on the ground?
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: Correct! 'accommodation' is the word for a place where you live or stay on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system of moving people or goods between places, not the place you sleep in itself. -->
-- [ ] C) entertainment
-  <!-- feedback: 'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in. -->
+- [x] A) snake
+  <!-- feedback: Correct. A snake is long, has no legs and moves by sliding on the ground. -->
+- [ ] B) parrot
+  <!-- feedback: Incorrect. A parrot is a bird with two legs and wings, so it does have legs. -->
+- [ ] C) monkey
+  <!-- feedback: Incorrect. A monkey has arms and legs and climbs trees. -->
+- [ ] D) toucan
+  <!-- feedback: Incorrect. A toucan is a bird with legs, wings and a big beak. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
+"Snake" significa serpiente o culebra. Es el único animal de la lista que no tiene patas ("no legs") y se arrastra por el suelo. El loro ("parrot") y el tucán ("toucan") son aves y el mono ("monkey") tiene brazos y piernas.
+
 ## Question 2 [D3-D4]
 **ID:** CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Lexico
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** En el Parque Tayrona, los niños ven en un árbol un ave negra con un pico enorme de colores amarillo y naranja.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Which bird has a very big and colorful beak?
 
 ### Opciones
-- [x] A) itinerary
-  <!-- feedback: Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them. -->
-- [ ] B) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' names only the place you are going to, without the route or the order of the whole journey. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official document that lets you cross a border, not the plan of where you go. -->
+- [ ] A) frog
+  <!-- feedback: Incorrect. A frog is a small green animal that jumps; it is not a bird and has no beak. -->
+- [ ] B) jaguar
+  <!-- feedback: Incorrect. A jaguar is a big wild cat with spots, not a bird with a beak. -->
+- [ ] C) sloth
+  <!-- feedback: Incorrect. A sloth is a slow animal with fur that hangs in trees, and it has no beak. -->
+- [x] D) toucan
+  <!-- feedback: Correct. The toucan is a bird famous for its very big and colorful beak. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
+"Toucan" significa tucán. Es un ave ("bird") que vive en los bosques de Colombia y se reconoce por su pico ("beak") grande y de colores. Los otros animales de la lista no son aves.
+
 ## Question 3 [D5-D6]
 **ID:** CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.75
+**Contexto:** En Leticia, en el Amazonas, una guía muestra a los turistas un animal que se mueve muy despacio colgado de una rama.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Complete: "The ______ is very slow. It hangs in the trees and sleeps a lot."
 
 ### Opciones
-- [x] A) destination
-  <!-- feedback: Correct! 'destination' is the place someone is going to or something is being sent to. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the act of reaching a place, not the place that is reached. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from the start to the end, not the place the trip finishes at. -->
+- [ ] A) jaguar
+  <!-- feedback: Incorrect. A jaguar is a fast hunter that runs and jumps, so it is not "very slow". -->
+- [ ] B) parrot
+  <!-- feedback: Incorrect. A parrot is a bird that flies, and it does not hang slowly from branches. -->
+- [x] C) sloth
+  <!-- feedback: Correct. The sloth is the slowest animal of the rainforest and it hangs from trees and sleeps many hours. -->
+- [ ] D) frog
+  <!-- feedback: Incorrect. A frog jumps fast and lives near water, so it does not hang in the trees all day. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
+"Sloth" significa perezoso, un animal del Amazonas que se mueve muy lento ("very slow"), cuelga de los árboles ("hangs in the trees") y duerme mucho. Las pistas de la oración describen justo a este animal.
+
 ## Question 4 [D5-D6]
 **ID:** CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.70
+**Contexto:** En los Llanos Orientales, una bandada de loros verdes vuela sobre el río al atardecer.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Complete: "A parrot has wings. It ______ fly."
 
 ### Opciones
-- [x] D) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel. -->
-- [ ] A) ticket
-  <!-- feedback: 'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in. -->
-- [ ] B) flight
-  <!-- feedback: 'flight' is the journey by plane itself, not the containers that hold your things. -->
-- [ ] C) reservation
-  <!-- feedback: 'reservation' is the booking you make for a seat or a room, not the bag you carry. -->
+- [x] A) can
+  <!-- feedback: Correct. A parrot uses its wings to fly, so we say "It can fly". -->
+- [ ] B) can't
+  <!-- feedback: Incorrect. "Can't" means it is not able, but a parrot has wings and flies. -->
+- [ ] C) is
+  <!-- feedback: Incorrect. "It is fly" mixes "is" with the action "fly"; to talk about ability we use "can". -->
+- [ ] D) are
+  <!-- feedback: Incorrect. "Are" goes with you, we and they, and "It are fly" has no meaning about ability. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
+Para decir que un animal puede hacer algo usamos "can" + acción: "It can fly" (puede volar). Para decir que no puede usamos "can't". Como el loro tiene alas ("wings"), sí puede volar.
+
 ## Question 5 [D7-D8]
 **ID:** CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.65
+**Contexto:** En un recorrido por la selva del Amazonas, un guía describe a un gran felino que vive en Colombia.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Guide: "Look! This animal is a big wild cat. It is yellow with black spots."
+Boy: "Is it a ______?"
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all. -->
-- [ ] C) commuter
-  <!-- feedback: 'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle. -->
-- [ ] D) tourist
-  <!-- feedback: 'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle. -->
+- [ ] A) monkey
+  <!-- feedback: Incorrect. A monkey is a primate with long arms, not a big cat with spots. -->
+- [ ] B) parrot
+  <!-- feedback: Incorrect. A parrot is a green bird, so it is not a yellow cat with black spots. -->
+- [ ] C) crocodile
+  <!-- feedback: Incorrect. A crocodile is a reptile with green scales, not a cat with spots. -->
+- [x] D) jaguar
+  <!-- feedback: Correct. The jaguar is the big wild cat of the Amazon, yellow with black spots. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
+Las pistas son "big wild cat" (gran gato salvaje) y "yellow with black spots" (amarillo con manchas negras). Ese animal es el jaguar, que en inglés se escribe igual: "jaguar". Es el felino más grande de América.
+
 ## Question 6 [D7-D8]
 **ID:** CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.60
+**Contexto:** En una laguna cerca de Florencia, Caquetá, los niños leen un cartel sobre las ranas del lugar.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Read: "Frogs are small and green. They can jump and swim, but they can't fly."
+Which sentence is true about frogs?
 
 ### Opciones
-- [x] D) customs
-  <!-- feedback: Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive. -->
-- [ ] A) security
-  <!-- feedback: 'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in. -->
-- [ ] B) terminal
-  <!-- feedback: 'terminal' is the building where you wait for your plane, not the place where your belongings are inspected. -->
-- [ ] C) gate
-  <!-- feedback: 'gate' is the door at the plane you walk through to board, not the place where officials check your things. -->
+- [ ] A) Frogs are big.
+  <!-- feedback: Incorrect. The text says frogs are "small", the opposite of big. -->
+- [ ] B) Frogs can fly.
+  <!-- feedback: Incorrect. The text says "they can't fly", so flying is not something frogs do. -->
+- [x] C) Frogs can swim.
+  <!-- feedback: Correct. The text says "They can jump and swim", so frogs are able to swim. -->
+- [ ] D) Frogs are yellow.
+  <!-- feedback: Incorrect. The text describes frogs as "green", not yellow. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
+El texto dice lo que las ranas pueden hacer con "can" (saltar y nadar) y lo que no pueden con "can't" (volar). También dice que son pequeñas y verdes. Solo "Frogs can swim" coincide con el texto.
+
 ## Question 7 [D9-D10]
 **ID:** CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.50
+**Contexto:** Pedro viaja en lancha por el río Amazonas cerca de Puerto Nariño y ve dos animales salvajes.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Read: "In the Amazonas, Pedro sees a monkey and a crocodile. The monkey climbs a tree. The crocodile swims in the river."
+What does the monkey do?
 
 ### Opciones
-- [x] C) boarding pass
-  <!-- feedback: Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: 'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline. -->
-- [ ] B) receipt
-  <!-- feedback: 'receipt' is the proof that you paid for something, which is not permission to board a plane. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a leaflet with tourist information, not a travel document issued to a passenger. -->
+- [ ] A) It swims in the river.
+  <!-- feedback: Incorrect. In the text the crocodile is the animal that swims in the river, not the monkey. -->
+- [x] B) It climbs a tree.
+  <!-- feedback: Correct. The text says "The monkey climbs a tree". -->
+- [ ] C) It flies over the river.
+  <!-- feedback: Incorrect. Monkeys have no wings, and the text never says any animal flies. -->
+- [ ] D) It sleeps in the water.
+  <!-- feedback: Incorrect. The text does not mention sleeping, and the monkey is in a tree, not in the water. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
+El texto habla de dos animales y cada uno hace algo distinto: el mono ("monkey") trepa un árbol ("climbs a tree") y el cocodrilo ("crocodile") nada en el río ("swims in the river"). No hay que mezclar las acciones de los dos animales.
+
 ## Question 8 [D9-D10]
 **ID:** CO-ING-3-2026-W17-animals-wild-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.45
+**Contexto:** En una feria de ciencias en Villavicencio, los niños revisan carteles sobre lo que pueden hacer los animales salvajes de Colombia.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which sentence is correct?
 
 ### Opciones
-- [x] D) sightseeing
-  <!-- feedback: Correct! 'sightseeing' means visiting the places of interest of a location as a traveler. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place. -->
-- [ ] B) hiking
-  <!-- feedback: 'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city. -->
-- [ ] C) camping
-  <!-- feedback: 'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place. -->
+- [ ] A) A sloth can run very fast.
+  <!-- feedback: Incorrect. A sloth is very slow, so it can't run fast. -->
+- [x] B) A crocodile can swim.
+  <!-- feedback: Correct. Crocodiles live in rivers and swim very well, so the sentence is true. -->
+- [ ] C) A snake can fly.
+  <!-- feedback: Incorrect. A snake has no wings, so it can't fly; it moves on the ground. -->
+- [ ] D) A monkey can't climb.
+  <!-- feedback: Incorrect. Monkeys use their arms, legs and tail to climb trees, so "can't climb" is false. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Para evaluar cada oración pensamos en cómo es cada animal. El perezoso es lento, la serpiente no tiene alas y el mono trepa muy bien. El cocodrilo vive en los ríos y nada, por eso "A crocodile can swim" es la oración correcta.

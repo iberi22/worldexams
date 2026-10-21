@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "In which room do you cook food?",
+      "context": "En una casa de Bogotá, la mamá de Julián prepara arepas para el desayuno.",
       "options": [
         {
-          "letter": "B",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the word for a place where you live or stay on holiday."
+          "letter": "A",
+          "text": "bedroom",
+          "is_correct": false,
+          "feedback": "Incorrect. The bedroom is the room where we sleep, not where we cook."
         },
         {
-          "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' is the system of moving people or goods between places, not the place you sleep in itself."
+          "letter": "B",
+          "text": "kitchen",
+          "is_correct": true,
+          "feedback": "Correct. The kitchen is the room of the house where we cook food like arepas."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "bathroom",
           "is_correct": false,
-          "feedback": "'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live."
+          "feedback": "Incorrect. The bathroom is for washing and taking a shower, not for cooking."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "garden",
           "is_correct": false,
-          "feedback": "'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in."
+          "feedback": "Incorrect. The garden is outside the house, with plants and grass, and it has no stove for cooking."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "explanation": "La palabra \"kitchen\" significa cocina, el lugar de la casa donde se prepara la comida. Por eso, cuando la mamá de Julián hace arepas, ella está en la \"kitchen\".",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -55,36 +55,36 @@
     },
     {
       "id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Valeria is very tired. She goes to sleep. Which room does she go to?",
+      "context": "Son las 8:30 de la noche en Tunja y Valeria se va a dormir porque mañana tiene colegio.",
       "options": [
         {
-          "letter": "D",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "kitchen",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "Incorrect. The kitchen is for cooking food, and Valeria wants to sleep."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "dining room",
           "is_correct": false,
-          "feedback": "'destination' names only the place you are going to, without the route or the order of the whole journey."
+          "feedback": "Incorrect. The dining room is where the family eats meals, not where we sleep."
         },
         {
           "letter": "C",
-          "text": "passport",
+          "text": "bedroom",
+          "is_correct": true,
+          "feedback": "Correct. The bedroom is the room for sleeping, so a tired child goes there."
+        },
+        {
+          "letter": "D",
+          "text": "garden",
           "is_correct": false,
-          "feedback": "'passport' is the official document that lets you cross a border, not the plan of where you go."
+          "feedback": "Incorrect. The garden is an outside area with plants, and we do not sleep there at night."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "\"Bedroom\" significa habitación o dormitorio. La palabra viene de \"bed\" (cama) + \"room\" (cuarto): el cuarto de la cama. Cuando estamos cansados y vamos a dormir, vamos al \"bedroom\".",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: \"Diego takes a shower in the ______.\"",
+      "context": "En Barranquilla hace mucho calor y Diego se baña con agua fría al volver del colegio.",
       "options": [
         {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' is the place someone is going to or something is being sent to."
-        },
-        {
           "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself."
+          "text": "bathroom",
+          "is_correct": true,
+          "feedback": "Correct. The bathroom has the shower, so it is the room where we wash our body."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "living room",
           "is_correct": false,
-          "feedback": "'arrival' is the act of reaching a place, not the place that is reached."
+          "feedback": "Incorrect. The living room is where the family rests and talks, and it has no shower."
+        },
+        {
+          "letter": "C",
+          "text": "kitchen",
+          "is_correct": false,
+          "feedback": "Incorrect. The kitchen is for cooking, so we do not take a shower there."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "dining room",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from the start to the end, not the place the trip finishes at."
+          "feedback": "Incorrect. The dining room is for eating meals, and taking a shower happens in another room."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "\"Take a shower\" significa ducharse o bañarse. Esto lo hacemos en el \"bathroom\" (baño). Las demás habitaciones tienen otros usos: la cocina para cocinar, la sala para descansar y el comedor para comer.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.75,
       "bundle_id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: \"On Sundays, my family eats lunch together in the ______.\"",
+      "context": "Los domingos la familia de Natalia, en Bogotá, almuerza ajiaco toda junta alrededor de la mesa.",
       "options": [
         {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "bathroom",
           "is_correct": false,
-          "feedback": "'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in."
+          "feedback": "Incorrect. The bathroom is for washing, so a family lunch does not happen there."
         },
         {
           "letter": "B",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "'flight' is the journey by plane itself, not the containers that hold your things."
+          "text": "dining room",
+          "is_correct": true,
+          "feedback": "Correct. The dining room is the room where the family sits at the table to eat meals together."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "bedroom",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you make for a seat or a room, not the bag you carry."
+          "feedback": "Incorrect. The bedroom is for sleeping and resting, not for a family lunch at the table."
+        },
+        {
+          "letter": "D",
+          "text": "garage",
+          "is_correct": false,
+          "feedback": "Incorrect. A garage is the place where we keep the car, and families do not eat lunch there."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "\"Dining room\" significa comedor. \"Dine\" quiere decir comer una comida principal, y \"room\" es cuarto. Por eso, cuando la familia almuerza ajiaco junta en la mesa, está en el \"dining room\".",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.7,
       "bundle_id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Mom: \"Where is Tomas?\"\nDad: \"He is in the ______. He is watering the plants and playing with the dog.\"",
+      "context": "En una casa con matas y un perro en Armenia, la familia busca a Tomas a la hora de la comida.",
       "options": [
         {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "bathroom",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all."
+          "feedback": "Incorrect. The bathroom has a shower and a toilet, not plants for watering and space for a dog to play."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "bedroom",
           "is_correct": false,
-          "feedback": "'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle."
+          "feedback": "Incorrect. The bedroom is for sleeping, and the clue about watering plants points to an outside area."
+        },
+        {
+          "letter": "C",
+          "text": "kitchen",
+          "is_correct": false,
+          "feedback": "Incorrect. The kitchen is for cooking, and the dialog talks about plants and playing outside."
         },
         {
           "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle."
+          "text": "garden",
+          "is_correct": true,
+          "feedback": "Correct. The garden is the outside area with plants, so Tomas can water them and play with the dog there."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Las pistas son \"watering the plants\" (regando las plantas) y \"playing with the dog\" (jugando con el perro). Esas actividades se hacen afuera, en el \"garden\" (jardín), que es la parte de la casa con plantas y pasto.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.65,
       "bundle_id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"My new apartment has two bedrooms, a kitchen, a bathroom and a living room. In the living room we watch TV and talk.\"\nWhere does the family watch TV?",
+      "context": "Una niña de Pereira describe su apartamento nuevo en una carta para su prima.",
       "options": [
         {
-          "letter": "C",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "in the kitchen",
           "is_correct": false,
-          "feedback": "'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in."
+          "feedback": "Incorrect. The text mentions the kitchen as one of the rooms, but it does not say they watch TV there."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "in the bedroom",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for your plane, not the place where your belongings are inspected."
+          "feedback": "Incorrect. The text lists two bedrooms but says TV time happens in another room."
+        },
+        {
+          "letter": "C",
+          "text": "in the bathroom",
+          "is_correct": false,
+          "feedback": "Incorrect. The bathroom is in the list of rooms, but the text links TV only to the living room."
         },
         {
           "letter": "D",
-          "text": "gate",
-          "is_correct": false,
-          "feedback": "'gate' is the door at the plane you walk through to board, not the place where officials check your things."
+          "text": "in the living room",
+          "is_correct": true,
+          "feedback": "Correct. The text says \"In the living room we watch TV and talk\"."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "El texto nombra varias habitaciones, pero solo una oración habla de la televisión: \"In the living room we watch TV and talk\". \"Living room\" significa sala, el lugar donde la familia descansa, conversa y ve televisión.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.6,
       "bundle_id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence makes sense?",
+      "context": "En una clase de inglés en Florencia, los niños juzgan si cada actividad ocurre en el lugar correcto de la casa.",
       "options": [
         {
-          "letter": "D",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane."
-        },
-        {
           "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline."
+          "text": "I wash my face in the bathroom.",
+          "is_correct": true,
+          "feedback": "Correct. The bathroom has a sink with water, so washing your face there makes sense."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "I sleep in the kitchen.",
           "is_correct": false,
-          "feedback": "'receipt' is the proof that you paid for something, which is not permission to board a plane."
+          "feedback": "Incorrect. The kitchen is for cooking; people sleep in the bedroom."
         },
         {
           "letter": "C",
-          "text": "brochure",
+          "text": "I take a shower in the dining room.",
           "is_correct": false,
-          "feedback": "'brochure' is a leaflet with tourist information, not a travel document issued to a passenger."
+          "feedback": "Incorrect. The dining room is for eating meals, and the shower is in the bathroom."
+        },
+        {
+          "letter": "D",
+          "text": "I cook rice in the bedroom.",
+          "is_correct": false,
+          "feedback": "Incorrect. The bedroom is for sleeping, and we cook rice in the kitchen."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Cada habitación tiene su uso. En el \"bathroom\" (baño) nos lavamos la cara, en el \"bedroom\" dormimos, en la \"kitchen\" cocinamos y en el \"dining room\" comemos. Solo la oración A une una actividad con la habitación que le corresponde.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.5,
       "bundle_id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Laura wakes up in her bedroom. Then she has breakfast with her family in the kitchen. After school, she reads a book in the patio.\"\nWhich sentence is true?",
+      "context": "Laura vive en una casa colonial de Cartagena con un patio interior lleno de plantas.",
       "options": [
         {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' means visiting the places of interest of a location as a traveler."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "Laura has breakfast in the bathroom.",
           "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place."
+          "feedback": "Incorrect. The text says breakfast is \"in the kitchen\", and the bathroom does not appear in the text."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "Laura reads in her bedroom.",
           "is_correct": false,
-          "feedback": "'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city."
+          "feedback": "Incorrect. The text says she reads \"in the patio\"; the bedroom is where she wakes up."
+        },
+        {
+          "letter": "C",
+          "text": "Laura has breakfast in the kitchen.",
+          "is_correct": true,
+          "feedback": "Correct. The text says \"she has breakfast with her family in the kitchen\"."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "Laura wakes up in the patio.",
           "is_correct": false,
-          "feedback": "'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place."
+          "feedback": "Incorrect. The text says she wakes up \"in her bedroom\"; the patio is where she reads."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "explanation": "El texto cuenta tres momentos del día de Laura y en qué lugar ocurre cada uno: se despierta en el \"bedroom\", desayuna en la \"kitchen\" y lee en el \"patio\". Hay que emparejar bien cada actividad con su lugar; solo la opción C lo hace.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.45,
       "bundle_id": "CO-ING-3-2026-W13-house-rooms-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",

@@ -489,10 +489,10 @@ El cero de $f(x) = \log_5(x - 3)$ se obtiene imponiendo $f(x) = 0$, y como $\log
 ¿Cuál es el criterio de la función inversa de $f(x) = \log_2(x)$?
 
 ### Opciones
-- [x] A) $f^{-1}(x) = 2^x$
-  <!-- feedback: Correcto. La inversa de una función logarítmica es la exponencial de la misma base, porque $2^x = y \iff \log_2(y) = x$. -->
-- [ ] B) $f^{-1}(x) = \log_2(x)$
+- [ ] A) $f^{-1}(x) = \log_2(x)$
   <!-- feedback: Sería la función misma, lo que solo ocurre si $f$ fuera su propia inversa, y no es el caso de un logaritmo. -->
+- [x] B) $f^{-1}(x) = 2^x$
+  <!-- feedback: Correcto. La inversa de una función logarítmica es la exponencial de la misma base, porque $2^x = y \iff \log_2(y) = x$. -->
 - [ ] C) $f^{-1}(x) = x^2$
   <!-- feedback: Elevar al cuadrado no deshace un logaritmo: no hay ninguna relación que convierta $2^x$ en $x^2$. -->
 - [ ] D) $f^{-1}(x) = 2x$

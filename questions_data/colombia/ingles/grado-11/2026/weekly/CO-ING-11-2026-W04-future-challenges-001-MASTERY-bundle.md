@@ -35,12 +35,12 @@ cefr_level: "C1+"
 In the context of future challenges, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?
 
 ### Opciones
-- [x] C) exacerbate
-  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
 - [ ] A) alleviate
   <!-- feedback: Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed. -->
 - [ ] B) mitigate
   <!-- feedback: Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied. -->
+- [x] C) exacerbate
+  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
 - [ ] D) facilitate
   <!-- feedback: Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide. -->
 
@@ -60,14 +60,14 @@ This question tests advanced vocabulary (verbs of change and impact) suitable fo
 In the context of future challenges, which word best completes the following sentence: 'By 2050 the demand for cooling is expected to __________ in cities that have not planted trees, because asphalt stores heat long after sunset'?
 
 ### Opciones
-- [x] D) surge
-  <!-- feedback: 'Surge' means to rise suddenly and sharply, and the sentence forecasts a steep increase in demand driven by an environmental mechanism. The magnitude implied by 'expected to' and the cause given both point to a sharp rise rather than a gradual one. -->
 - [ ] A) plateau
   <!-- feedback: 'Plateau' means to level off at a stable value, and nothing in the sentence suggests the demand stops rising. The clause about heat stored in asphalt predicts continued growth, not stability. -->
 - [ ] B) wane
   <!-- feedback: 'Wane' means to become gradually weaker or less, which is the opposite direction. The sentence describes cities with more of a particular problem, and the cause given increases rather than reduces it. -->
 - [ ] C) stabilise
   <!-- feedback: 'Stabilise' means to become steady after change, and the projection is of continuing growth. Reading stabilisation here contradicts the causal clause the writer supplies to justify the forecast. -->
+- [x] D) surge
+  <!-- feedback: 'Surge' means to rise suddenly and sharply, and the sentence forecasts a steep increase in demand driven by an environmental mechanism. The magnitude implied by 'expected to' and the cause given both point to a sharp rise rather than a gradual one. -->
 
 ### Explicacion Pedagogica
 C1+ forecasting questions require matching the strength of the verb to the strength of the evidence cited. Here a definite mechanism produces a predicted sharp increase, and the distractors all describe an end to change, which is what the item is designed to distinguish.
@@ -85,14 +85,14 @@ C1+ forecasting questions require matching the strength of the verb to the stren
 In the context of future challenges, which word best completes the following sentence: 'A city that builds flood barriers without mapping where water actually goes tends to __________ the problem it set out to solve, because the runoff simply arrives somewhere else'?
 
 ### Opciones
-- [x] D) aggravate
-  <!-- feedback: 'Aggravate' means to make a situation worse, and the sentence describes infrastructure that transfers damage rather than preventing it. The clause about water arriving elsewhere supplies the mechanism that makes this worse, not better. -->
 - [ ] A) defuse
   <!-- feedback: 'Defuse' means to remove the danger from a situation, and nothing in the sentence suggests the hazard was neutralised. The runoff reaching a new area is the opposite of defusing anything. -->
 - [ ] B) circumvent
   <!-- feedback: 'Circumvent' means to go around a problem, and the sentence describes solving one location by displacing the difficulty, not avoiding the obstacle. The word names a route, not a worsening. -->
 - [ ] C) pre-empt
   <!-- feedback: 'Pre-empt' means to act before a problem occurs, and the sentence reports what happens after the barriers are built. Nothing here describes action taken in advance of the flood. -->
+- [x] D) aggravate
+  <!-- feedback: 'Aggravate' means to make a situation worse, and the sentence describes infrastructure that transfers damage rather than preventing it. The clause about water arriving elsewhere supplies the mechanism that makes this worse, not better. -->
 
 ### Explicacion Pedagogica
 The trap in this item is the good intentions in the sentence. Barriers are normally understood as a solution, so students hesitate to call their effect a worsening; at C1+ the deciding test is the clause after 'because', which shows the outcome directly.
@@ -110,12 +110,12 @@ The trap in this item is the good intentions in the sentence. Barriers are norma
 In the context of future challenges, which word best completes the following sentence: 'Schools that buy digital tablets without training teachers tend to __________ their own investment, because the devices end up unused in cupboards'?
 
 ### Opciones
-- [x] C) undermine
-  <!-- feedback: 'Undermine' means to weaken something from below, which is what unused hardware does to a programme bought with public money. The clause about the tablets ending up in cupboards shows the investment failing quietly rather than visibly. -->
 - [ ] A) vindicate
   <!-- feedback: 'Vindicate' means to clear someone of blame or prove a claim right, and nothing in the sentence justifies or clears anything. The outcome described is the opposite: the money bought nothing usable. -->
 - [ ] B) consolidate
   <!-- feedback: 'Consolidate' means to strengthen or combine into a more solid whole, and the sentence describes equipment going unused rather than being put to work. Nothing here builds on the initial purchase. -->
+- [x] C) undermine
+  <!-- feedback: 'Undermine' means to weaken something from below, which is what unused hardware does to a programme bought with public money. The clause about the tablets ending up in cupboards shows the investment failing quietly rather than visibly. -->
 - [ ] D) leverage
   <!-- feedback: 'Leverage' means to use something to maximum advantage, and the sentence states the opposite: the devices were never used at all. A word for effective exploitation cannot describe abandonment. -->
 
@@ -129,23 +129,27 @@ This item tests the difference between spending money and achieving an outcome. 
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.70
-**Contexto:** Discussing future challenges in Bucaramanga.
+**Contexto:** Reading an economics article about Colombia's ageing population.
 
 ### Enunciado
-According to a recent report on future challenges in Bucaramanga, what is implied about the role of Modals of Deduction (Past) in shaping public opinion?
+Read the text and answer the question.
+
+"Colombia is getting older. Families are smaller than in the past and people live longer, so the percentage of Colombians over 60 has grown quickly in the last twenty years. In the future, fewer workers will support more retired people. Economists say the country must prepare now by increasing formal employment, because only workers with formal contracts contribute to pensions. Without these changes, many older Colombians could face poverty."
+
+What is the main idea of the text?
 
 ### Opciones
-- [x] C) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. Modals of Deduction (Past) gives a text its nuance and precision, so it does not make the message simpler to grasp. -->
-- [ ] D) It is only used by academic elites in Bucaramanga.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [ ] A) Colombian families are bigger than they were in the past.
+  <!-- feedback: The text says families are smaller than in the past, which is one of the causes of the ageing population. -->
+- [ ] B) Most retired Colombians already live in poverty.
+  <!-- feedback: The text uses 'could face poverty', which is a future risk, not a description of the present situation. -->
+- [x] C) Colombia's ageing population is a challenge that requires action now.
+  <!-- feedback: The text describes the change (more people over 60), the risk (fewer workers, poverty) and the solution economists propose 'now'. -->
+- [ ] D) Older Colombians should continue working with informal contracts.
+  <!-- feedback: The economists recommend more formal employment, because informal workers do not contribute to pensions. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Modal verbs such as 'could' express possibility, not fact. Distinguishing a present situation from a future risk helps students reject options that change the time reference of the text.
 
 ---
 
@@ -154,23 +158,27 @@ This question requires inferential reading skills to understand how complex stru
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.67
-**Contexto:** Discussing future challenges in Barranquilla.
+**Contexto:** Reading a news story about automation at the port of Buenaventura.
 
 ### Enunciado
-According to a recent report on future challenges in Barranquilla, what is implied about the role of Modals of Deduction (Past) in shaping public opinion?
+Read the text and answer the question.
+
+"At the port of Buenaventura, new automatic cranes can move containers faster than ever. A crane that used to need three operators now needs one person watching a screen. The port company has opened free courses in electronics and maintenance for its workers. 'Nobody is being fired this year,' a manager said, 'but the jobs of 2030 will not look like the jobs of today.'"
+
+What does the manager's statement suggest?
 
 ### Opciones
-- [x] B) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. Modals of Deduction (Past) gives a text its nuance and precision, so it does not make the message simpler to grasp. -->
-- [ ] D) It is only used by academic elites in Cartagena.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [ ] A) The port will close before 2030.
+  <!-- feedback: The manager talks about jobs changing in 2030, which means the port will still exist and need workers. -->
+- [x] B) Workers will need new skills to keep their jobs in the future.
+  <!-- feedback: He says future jobs will be different, and the company offers courses in electronics and maintenance, which suggests workers must learn new skills. -->
+- [ ] C) Many workers were fired this year.
+  <!-- feedback: The manager says 'Nobody is being fired this year', the opposite of this option. -->
+- [ ] D) The automatic cranes are slower than people.
+  <!-- feedback: The text says the cranes move containers 'faster than ever'. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+An inference combines two pieces of information: here, the manager's warning about 2030 and the free courses. Neither says 'workers need new skills' directly, but together they make it the most logical conclusion.
 
 ---
 
@@ -202,23 +210,27 @@ Can't have plus a past participle expresses a strong deduction that a past event
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.61
-**Contexto:** Discussing future challenges in Medellín.
+**Contexto:** Reading a report about water rationing and leaks in Bogotá.
 
 ### Enunciado
-According to a recent report on future challenges in Medellín, what is implied about the role of Modals of Deduction (Past) in shaping public opinion?
+Read the text and answer the question.
+
+"In 2024, Bogotá introduced water rationing because the reservoirs of the Chingaza system dropped to very low levels. Each neighbourhood lost its water supply for one day on a regular rotation, and the measure lasted for months. Experts say the crisis was caused by a long drought, but also by growing demand. They warn that the city must reduce leaks in its pipes, which waste a large amount of treated water, before the next dry period arrives."
+
+According to the experts, what should the city do before the next dry period?
 
 ### Opciones
-- [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. Modals of Deduction (Past) gives a text its nuance and precision, so it does not make the message simpler to grasp. -->
-- [ ] C) It is only used by academic elites in Bucaramanga.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [ ] A) Build a new reservoir next to Chingaza.
+  <!-- feedback: The text does not mention building any new reservoir; the experts' recommendation is about the pipes. -->
+- [ ] B) Continue rationing water permanently.
+  <!-- feedback: Rationing is described as a past measure. The experts propose a different solution for the future. -->
+- [ ] C) Stop treating water in the city.
+  <!-- feedback: Treated water is mentioned because it is wasted through leaks; nobody suggests stopping treatment. -->
+- [x] D) Repair leaks in its water pipes.
+  <!-- feedback: The experts 'warn that the city must reduce leaks in its pipes' before the next dry period, which is exactly what this option says. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Detail questions often use the same time expression as the text ('before the next dry period'). Locating that expression in the text leads directly to the sentence with the answer.
 
 ---
 
@@ -250,23 +262,27 @@ Might have plus a past participle expresses uncertainty about a past event. It f
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.55
-**Contexto:** Discussing future challenges in Bogotá.
+**Contexto:** Reading an announcement for a youth forum in Manizales.
 
 ### Enunciado
-According to a recent report on future challenges in Bogotá, what is implied about the role of Modals of Deduction (Past) in shaping public opinion?
+Read the text and answer the question.
+
+"Are you between 15 and 18 years old and worried about the future? Join 'Voces 2040,' a youth forum organised by the Mayor's Office of Manizales. For two days, students will discuss topics such as climate change, technology and employment with scientists and business leaders. The best proposals will be presented to the city council in December. Participation is free, but places are limited to 200 students. Register at your school before October 10."
+
+Why was this text written?
 
 ### Opciones
-- [x] C) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. Modals of Deduction (Past) gives a text its nuance and precision, so it does not make the message simpler to grasp. -->
-- [ ] D) It is only used by academic elites in Cartagena.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [ ] A) To report the results of a city council meeting.
+  <!-- feedback: The city council is mentioned only as the place where proposals will be presented in the future; no meeting results are reported. -->
+- [ ] B) To explain how climate change affects Manizales.
+  <!-- feedback: Climate change is one topic of the forum, but the text gives no information about its effects on the city. -->
+- [x] C) To encourage students to register for a youth forum.
+  <!-- feedback: The text addresses young readers directly ('Are you...?', 'Join'), gives the conditions and ends with an instruction to register before a deadline. -->
+- [ ] D) To announce new jobs for scientists and business leaders.
+  <!-- feedback: Scientists and business leaders are participants in the discussions, not people being offered jobs. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Imperative verbs ('Join', 'Register'), direct questions to the reader and deadlines are typical of announcements and advertisements. Recognising these features helps identify the communicative purpose of a text.
 
 ---
 
@@ -281,12 +297,12 @@ This question requires inferential reading skills to understand how complex stru
 Complete the following sentence about future challenges: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Modals of Deduction (Past))
 
 ### Opciones
-- [x] C) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
 - [ ] A) has
   <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
 - [ ] B) was
   <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
+- [x] C) had
+  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
 - [ ] D) did
   <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
 
@@ -306,10 +322,10 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 Complete the following sentence about future challenges: 'Not until three independent studies were published __________ the committee accept that the coastal defences had failed.' (Topic: 'not until' with an inverted past clause)
 
 ### Opciones
-- [x] B) did
-  <!-- feedback: 'Not until' is a fronted negative that inverts the main clause, and 'did' carries the simple past: 'not until three studies were published did the committee accept'. The main verb returns to its base form 'accept'. -->
 - [ ] A) had
   <!-- feedback: 'Had' would form a past perfect and need the participle 'accepted', placing the acceptance before another past point. The sentence describes the moment the committee changed its position. -->
+- [x] B) did
+  <!-- feedback: 'Not until' is a fronted negative that inverts the main clause, and 'did' carries the simple past: 'not until three studies were published did the committee accept'. The main verb returns to its base form 'accept'. -->
 - [ ] C) would
   <!-- feedback: 'Would' belongs to a conditional or reported structure, and no condition or reporting frame is present. The clause states a completed past decision, which takes a finite past auxiliary. -->
 - [ ] D) must
@@ -427,12 +443,12 @@ The strength of a modal deduction must match the available evidence. The log sup
 In a high-level debate about future challenges, Valentina says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Valentina mean?
 
 ### Opciones
-- [x] C) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
 - [ ] A) They are literally looking for something in the trees of Manizales.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
+- [x] C) The current strategy is directed towards the wrong objective.
+  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
 - [ ] D) A new environmental project involving trees should be started.
   <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
 
@@ -446,23 +462,28 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.31
-**Contexto:** Discussing future challenges in Barranquilla.
+**Contexto:** Two classmates in Cali talk about a busy month before the Saber 11 exam.
 
 ### Enunciado
-In a high-level debate about future challenges, Mariana says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mariana mean?
+Read the conversation.
+
+Natalia: "This month I'm going to lead the climate club, organise the science fair and prepare for the Saber 11 exam."
+Tomás: "Be careful not to bite off more than you can chew."
+
+What is Tomás suggesting?
 
 ### Opciones
-- [x] A) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] B) They are literally looking for something in the trees of Bogotá.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] C) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] D) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [x] A) Natalia may be taking on more responsibilities than she can handle.
+  <!-- feedback: 'Bite off more than you can chew' means to accept more work than you can manage; Tomás reacts to the three big tasks she lists for one month. -->
+- [ ] B) Natalia should eat less before the exam.
+  <!-- feedback: This reads 'bite' and 'chew' literally. The conversation is about her activities, not about food. -->
+- [ ] C) Natalia is not ambitious enough.
+  <!-- feedback: Tomás warns her about doing too much, which is the opposite of saying she is not ambitious. -->
+- [ ] D) Natalia must cancel the science fair immediately.
+  <!-- feedback: Tomás gives a general warning ('Be careful'); he does not tell her which activity to cancel. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+Pragmatic competence includes recognising warnings and advice. 'Be careful not to...' introduces a friendly warning, and the idiom refers to taking on too many tasks at the same time.
 
 ---
 
@@ -496,22 +517,27 @@ In a high-level debate about future challenges, Valentina says: 'Every adaptatio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.25
-**Contexto:** Discussing future challenges in Manizales.
+**Contexto:** A moderator opens a debate on Bogotá's 2050 transport plan.
 
 ### Enunciado
-In a high-level debate about future challenges, Mateo says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mateo mean?
+Read what the moderator says.
+
+Moderator: "Before we vote on the city's 2050 transport plan, let's make sure we're all on the same page about what 'sustainable mobility' means."
+
+What does the moderator want?
 
 ### Opciones
-- [x] D) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of Bucaramanga.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] B) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] C) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [ ] A) Everyone to read the same page of the report.
+  <!-- feedback: This takes the idiom literally. The moderator is talking about the meaning of a term, not about a page in a document. -->
+- [ ] B) The group to vote immediately.
+  <!-- feedback: 'Before we vote' shows the moderator wants a step first, so an immediate vote is the opposite. -->
+- [ ] C) Each person to write a different definition.
+  <!-- feedback: Different definitions would create disagreement, which is what the moderator wants to avoid. -->
+- [x] D) Everyone to share the same understanding before deciding.
+  <!-- feedback: 'Be on the same page' means to agree on or understand something in the same way; the moderator wants a shared definition of 'sustainable mobility' before the vote. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+'On the same page' is common in meetings and debates. It refers to shared understanding, and the object here (the meaning of 'sustainable mobility') makes it clear that the issue is agreement on a concept.
 
 ---
+

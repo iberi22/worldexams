@@ -316,8 +316,8 @@ Para resolver ecuaciones con parentesis y corchetes, trabajamos desde adentro ha
 ### Opciones
 - [ ] A) $x = 1$ <!-- feedback: El lado derecho seria 0, pero el izquierdo 1. -->
 - [ ] B) $x = 5$ <!-- feedback: $7/3$ no es igual a $4/2$. -->
-- [x] C) $x = 7$ <!-- feedback: ¡Correcto! $2(x+2) = 3(x-1) \rightarrow 2x+4 = 3x-3 \rightarrow x = 7$. -->
-- [ ] D) $x = -1$ <!-- feedback: Los resultados de las fracciones no coinciden. -->
+- [ ] C) $x = -1$ <!-- feedback: Los resultados de las fracciones no coinciden. -->
+- [x] D) $x = 7$ <!-- feedback: ¡Correcto! $2(x+2) = 3(x-1) \rightarrow 2x+4 = 3x-3 \rightarrow x = 7$. -->
 
 ### Explicacion Pedagogica
 Cuando tenemos una igualdad de dos razones (proporcion), podemos aplicar el producto cruzado: el numerador de una fraccion por el denominador de la otra. Esto convierte la ecuacion fraccionaria en una lineal entera.
@@ -390,8 +390,8 @@ Para resolver ecuaciones con fracciones, el metodo mas eficiente es multiplicar 
 ¿Cual es la edad actual de Maria?
 
 ### Opciones
-- [ ] A) 5 años <!-- feedback: Si Maria tiene 5, Juan tiene 10. Hace 5 años Maria tendria 0 y Juan 5. La suma seria 5, no 20. -->
-- [x] B) 10 años <!-- feedback: ¡Correcto! Si Maria tiene 10, Juan tiene 20. Hace 5 años tenian 5 y 15. $5 + 15 = 20$. -->
+- [x] A) 10 años <!-- feedback: ¡Correcto! Si Maria tiene 10, Juan tiene 20. Hace 5 años tenian 5 y 15. $5 + 15 = 20$. -->
+- [ ] B) 5 años <!-- feedback: Si Maria tiene 5, Juan tiene 10. Hace 5 años Maria tendria 0 y Juan 5. La suma seria 5, no 20. -->
 - [ ] C) 15 años <!-- feedback: Si Maria tiene 15, Juan tiene 30. Hace 5 años sumarian $10 + 25 = 35$, no 20. -->
 - [ ] D) 20 años <!-- feedback: Esto excede los valores de la suma dada. -->
 

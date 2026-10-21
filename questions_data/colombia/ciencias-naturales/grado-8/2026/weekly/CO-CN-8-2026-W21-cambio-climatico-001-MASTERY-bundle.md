@@ -40,6 +40,7 @@ El efecto invernadero es un proceso natural mediante el cual:
   <!-- feedback: Incorrecto. Las nubes bajas pueden retener calor y reducir el enfriamiento nocturno, reforzando el efecto invernadero. -->
 - [ ] D) El ozono estratosférico absorbe la radiación infrarroja emitida por los océanos.
   <!-- feedback: Incorrecto. El ozono absorbe principalmente radiación ultravioleta, no infrarroja. -->
+
 ### Explicacion Pedagogica
 El efecto invernadero natural es esencial para la vida: sin él, la temperatura media de la Tierra sería aproximadamente -18 °C. Los principales gases de efecto invernadero son vapor de agua, dióxido de carbono (CO2), metano (CH4) y óxido nitroso (N2O). El aumento de su concentración por actividades humanas intensifica este efecto y provoca el calentamiento global.
 
@@ -60,6 +61,7 @@ El efecto invernadero natural es esencial para la vida: sin él, la temperatura 
   <!-- feedback: Correcto. El N2 representa cerca del 78 % de la atmósfera pero es transparente a la radiación infrarroja y no contribuye al efecto invernadero. -->
 - [ ] D) Óxido nitroso (N2O)
   <!-- feedback: Incorrecto. El N2O es un gas de efecto invernadero potente, emitido por suelos agrícolas y procesos industriales. -->
+
 ### Explicacion Pedagogica
 Aunque el nitrógeno (N2) es el gas más abundante de la atmósfera, su molécula diatómica simétrica no absorbe radiación infrarroja de manera significativa. Solo los gases con enlaces capaces de vibrar asimétricamente ante la radiación infrarroja (CO2, CH4, N2O, vapor de agua, ozono, CFCs) actúan como gases de efecto invernadero.
 
@@ -80,6 +82,7 @@ Aunque el nitrógeno (N2) es el gas más abundante de la atmósfera, su molécul
   <!-- feedback: Correcto. El IDEAM y el INVEMAR documentan reducción sostenida de glaciares en el Ruiz, Santa Isabel, Huila y Sierra Nevada de Santa Marta. -->
 - [ ] D) Aumento del número de nevadas anuales en la Sierra Nevada de Santa Marta.
   <!-- feedback: Incorrecto. Las observaciones indican menor frecuencia de nevadas y ascenso de la línea de nieve. -->
+
 ### Explicacion Pedagogica
 En Colombia el IDEAM monitorea glaciares, páramos y océanos como indicadores de cambio climático. La pérdida de masa glaciar en los Andes y la Sierra Nevada, el ascenso de la línea de nieve, el aumento de temperatura en páramos y los cambios en patrones de precipitación son evidencias consistentes con el calentamiento global observado a nivel planetario.
 
@@ -100,6 +103,7 @@ Un auto particular emite aproximadamente 0,2 kg de CO2 por kilómetro recorrido.
   <!-- feedback: Correcto. 12 km/día × 5 días = 60 km; 60 km × 0,2 kg/km = 12 kg de CO2 en la semana. -->
 - [ ] D) 60 kg
   <!-- feedback: Incorrecto. Obtuviste los kilómetros totales pero olvidaste multiplicar por el factor de emisión por kilómetro. -->
+
 ### Explicacion Pedagogica
 La huella de carbono se estima multiplicando la distancia recorrida por el factor de emisión del vehículo. Aunque 0,2 kg/km es un valor simplificado (los reales dependen del tipo de auto y combustible), el procedimiento enseña que decisiones cotidianas como el transporte acumulan emisiones significativas y motivan alternativas como caminar, usar bicicleta o compartir vehículo.
 
@@ -120,6 +124,7 @@ Para reducir la huella de carbono institucional, ¿cuál de las siguientes accio
   <!-- feedback: Correcto. Reducir el consumo eléctrico y reemplazar desechables por reutilizables disminuye emisiones y residuos simultáneamente. -->
 - [ ] D) Disponer todos los residuos en un solo contenedor para simplificar la separación en la fuente.
   <!-- feedback: Incorrecto. Mezclar residuos impide el reciclaje y aumenta el volumen enviado al relleno sanitario. -->
+
 ### Explicacion Pedagogica
 La sostenibilidad combina eficiencia energética (sensores, iluminación LED, equipos eficientes) y gestión de residuos según la jerarquía reducir, reutilizar y reciclar. Las acciones integradas atacan dos fuentes de GEI: la generación eléctrica, que en Colombia aún depende en parte de combustibles fósiles, y la producción de envases y empaques de un solo uso.
 
@@ -140,6 +145,7 @@ La sostenibilidad combina eficiencia energética (sensores, iluminación LED, eq
   <!-- feedback: Incorrecto. La reflectividad (albedo) alta es propia de superficies como hielo o nieve, no del ecosistema páramo. -->
 - [ ] D) Porque producen metano de forma natural en grandes cantidades.
   <!-- feedback: Incorrecto. La producción de metano en los páramos es baja comparada con humedales cálidos como los de la Orinoquía. -->
+
 ### Explicacion Pedagogica
 Los páramos andinos son humedales de alta montaña con frailejones, pajonales y suelos orgánicos que almacenan grandes volúmenes de agua y carbono. En Colombia abastecen acueductos de ciudades como Bogotá, Cali y Bucaramanga y albergan especies endémicas. Por ello la Ley 1930 de 2018 prohíbe actividades agrícolas y mineras en ecosistemas de páramo delimitados.
 
@@ -160,6 +166,7 @@ La deforestación en la Amazonía colombiana contribuye al cambio climático pri
   <!-- feedback: Incorrecto. La deforestación suele reducir la evapotranspiración y alterar el ciclo hidrológico, con efectos climáticos negativos. -->
 - [ ] D) Los árboles amazónicos no almacenan carbono en cantidades significativas para el clima.
   <!-- feedback: Incorrecto. La biomasa amazónica almacena entre 150 000 y 200 000 millones de toneladas de carbono; es uno de los mayores sumideros terrestres. -->
+
 ### Explicacion Pedagogica
 La Amazonía actúa como un sumidero de carbono global. Cuando se deforesta, el carbono fijado en árboles y suelos se libera a la atmósfera, especialmente por quemas, y se pierde la capacidad futura de absorción. Estudios del IDEAM muestran que el arco de deforestación colombiano está asociado a ganadería extensiva, cultivos de uso ilícito y extracción ilegal de madera.
 
@@ -180,6 +187,7 @@ Una serie de tiempo muestra que la temperatura promedio anual en el sector de Ch
   <!-- feedback: Correcto. Una sola variable no confirma el cambio climático, pero la convergencia de múltiples indicadores regionales refuerza la evidencia. -->
 - [ ] D) La precipitación variable demuestra que no hay cambio climático en la zona.
   <!-- feedback: Incorrecto. La variabilidad no contradice la tendencia al calentamiento; el cambio climático altera tanto promedios como extremos de precipitación. -->
+
 ### Explicacion Pedagogica
 La ciencia del clima analiza múltiples indicadores (temperatura, precipitación, glaciares, nivel del mar, fenología, biodiversidad) para reducir la incertidumbre. En Colombia, el IDEAM integra estas series en los Reportes de Estado de los Recursos Naturales y del Clima, concluyendo un calentamiento regional moderado con cambios en los patrones de precipitación andinos y amazónicos.
 
@@ -200,6 +208,7 @@ Si el ecosistema de páramo de Chingaza se degrada por sobrepastoreo y cambio cl
   <!-- feedback: Incorrecto. Los glaciares colombianos están en retroceso; la degradación del páramo no los recupera. -->
 - [ ] D) Incremento de la biodiversidad por la apertura de nuevos nichos ecológicos para especies invasoras y endémicas.
   <!-- feedback: Incorrecto. La degradación reduce la biodiversidad nativa; los páramos albergan especies altamente especializadas vulnerables a disturbios. -->
+
 ### Explicacion Pedagogica
 Los ecosistemas funcionan como sistemas interconectados: la pérdida de un componente como la vegetación de páramo o el suelo orgánico degrada funciones completas como el almacenamiento de agua, la captura de carbono y el hábitat. El análisis de efectos en cascada es una habilidad clave del pensamiento sistémico y permite anticipar consecuencias de las intervenciones humanas.
 
@@ -220,6 +229,7 @@ Frente al ciclo global del carbono, ¿cuál de las siguientes afirmaciones es co
   <!-- feedback: Incorrecto. El intercambio atmósfera-biosfera-océano es la base del ciclo biogeoquímico del carbono. -->
 - [ ] D) Solo los bosques tropicales almacenan carbono; los océanos no tienen un papel relevante.
   <!-- feedback: Incorrecto. Los océanos almacenan alrededor de 38 000 GtC, mucho más que la vegetación terrestre. -->
+
 ### Explicacion Pedagogica
 El IPCC estima que los océanos y los ecosistemas terrestres absorben en conjunto cerca del 50 % de las emisiones antropogénicas de CO2. Esta función amortiguadora ha atenuado el calentamiento, pero tiene límites biofísicos como la acidificación oceánica y la posible saturación de los sumideros terrestres. El balance entre emisiones y absorción determina la concentración atmosférica y, por tanto, el ritmo del calentamiento.
 
@@ -236,10 +246,11 @@ Para reducir la contribución de un municipio andino al cambio climático y, a l
   <!-- feedback: Incorrecto. La ganadería en páramo es ilegal según la Ley 1930 de 2018 y aumenta emisiones por deforestación y fermentación entérica. -->
 - [ ] B) Construir una termoeléctrica a carbón para garantizar un suministro eléctrico barato en el municipio.
   <!-- feedback: Incorrecto. Las termoeléctricas a carbón son las mayores fuentes individuales de CO2 por unidad de energía generada. -->
-- [x] C) Implementar pagos por servicios ambientales (PSA) que compensen a las familias por conservar el páramo, combinándolos con proyectos de ecoturismo y agricultura sostenible.
-  <!-- feedback: Correcto. Los PSA internalizan el valor del carbono y del agua almacenados, generan ingresos rurales y reducen emisiones por deforestación evitada. -->
-- [ ] D) Importar todos los alimentos desde el extranjero para liberar tierras municipales y reforestarlas.
+- [ ] C) Importar todos los alimentos desde el extranjero para liberar tierras municipales y reforestarlas.
   <!-- feedback: Incorrecto. El transporte internacional de alimentos aumenta las emisiones y vulnera la seguridad alimentaria local. -->
+- [x] D) Implementar pagos por servicios ambientales (PSA) que compensen a las familias por conservar el páramo, combinándolos con proyectos de ecoturismo y agricultura sostenible.
+  <!-- feedback: Correcto. Los PSA internalizan el valor del carbono y del agua almacenados, generan ingresos rurales y reducen emisiones por deforestación evitada. -->
+
 ### Explicacion Pedagogica
 Los pagos por servicios ambientales son instrumentos de política reconocidos por el Ministerio de Ambiente y Desarrollo Sostenible de Colombia. Reconocen económicamente a las comunidades que conservan bosques y páramos por los servicios de carbono, agua y biodiversidad que proveen, integrando objetivos climáticos con desarrollo rural sostenible.
 
@@ -260,5 +271,6 @@ Una CAR debe decidir entre construir una carretera a cielo abierto que cruza un 
   <!-- feedback: Incorrecto. Cancelar sin alternativas ignora las necesidades legítimas de conectividad y desarrollo de las comunidades de la zona. -->
 - [ ] D) Construir la carretera y compensar con siembra de árboles exóticos en otro municipio del departamento.
   <!-- feedback: Incorrecto. La compensación con especies exóticas en otro sitio no equivale a preservar las funciones del páramo afectado. -->
+
 ### Explicacion Pedagogica
 La toma de decisiones ambientales complejas integra ciencia, normativa y valores. El principio de precaución y la jerarquía de mitigación (evitar, reducir, compensar preferiblemente in situ) orientan que, cuando un ecosistema estratégico está en juego, la mejor opción técnica puede no ser la más barata. La participación de comunidades y la evaluación ambiental estratégica son obligatorias en proyectos de este tipo en Colombia.

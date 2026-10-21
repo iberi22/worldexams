@@ -440,18 +440,18 @@
         },
         {
           "letter": "C",
-          "text": "Happiness and fun.",
-          "is_correct": true,
-          "feedback": "Correct! These are abstract concepts that cannot be counted."
-        },
-        {
-          "letter": "D",
           "text": "Pizzas and music.",
           "is_correct": false,
           "feedback": "Incorrect. Pizzas are concrete."
+        },
+        {
+          "letter": "D",
+          "text": "Happiness and fun.",
+          "is_correct": true,
+          "feedback": "Correct! These are abstract concepts that cannot be counted."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "The student evaluates and distinguishes between concrete/countable and abstract/uncountable nouns in a creative context.",
       "difficulty": "10",
       "images": [],

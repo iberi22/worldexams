@@ -40,8 +40,6 @@ La Corte Constitucional de Colombia fue creada por
   <!-- feedback: Correcto. La Carta de 1991 creó esta corporación con funciones de control constitucional. -->
 - [ ] C) Un decreto del Presidente tras el Acuerdo de Paz de 2016
   <!-- feedback: El Acuerdo de Paz creó la JEP; la Corte Constitucional existió desde 1991. -->
-
-
 - [ ] D) La Ley 270 de 1996, Estatutaria de la Administración de Justicia, que la inventó
   <!-- feedback: La ley estatutaria desarrolló la rama judicial, pero la Corte nació del texto constitucional de 1991. -->
 
@@ -59,14 +57,12 @@ Los artículos 239 a 245 de la Constitución configuran la Corte Constitucional:
 En la nomenclatura de la jurisprudencia constitucional colombiana, la letra "C" en una sentencia (por ejemplo, C-355 de 2006) indica que es un fallo
 
 ### Opciones
-- [ ] B) De revisión de una tutela proferida por cualquier juez
-  <!-- feedback: Las tutelas revisadas se codifican con "T". -->
 - [x] A) De control de constitucionalidad de normas con efectos generales
   <!-- feedback: Correcto. Las sentencias "C" resuelven demandas o controles de leyes y actos legislativos. -->
+- [ ] B) De revisión de una tutela proferida por cualquier juez
+  <!-- feedback: Las tutelas revisadas se codifican con "T". -->
 - [ ] C) De un conflicto de competencias entre ministerios
   <!-- feedback: Los conflictos de competencia entre autoridades se tramitan con otra nomenclatura (por ejemplo, "CM" entre altas cortes). -->
-
-
 - [ ] D) De un Concepto del Consejo de Estado
   <!-- feedback: Los conceptos del Consejo de Estado no son sentencias de la Corte Constitucional. -->
 
@@ -84,14 +80,12 @@ La codificación T (tutela), C (control abstracto de constitucionalidad), SU (un
 La diferencia fundamental entre el control abstracto (sentencias C) y la tutela (sentencias T) respecto de sus efectos es que las primeras
 
 ### Opciones
-- [x] B) Excluyen del ordenamiento la norma inconstitucional con efectos para todos, mientras las segundas protegen derechos de las partes sin expulsar normas
-  <!-- feedback: Correcto. Las C operan erga omnes sobre normas; las T inter partes sobre casos. -->
 - [ ] A) Son opcionales para el funcionario, mientras las T solo obligan al juez
   <!-- feedback: Ambas son de obligatorio cumplimiento para los destinatarios de su decisión. -->
+- [x] B) Excluyen del ordenamiento la norma inconstitucional con efectos para todos, mientras las segundas protegen derechos de las partes sin expulsar normas
+  <!-- feedback: Correcto. Las C operan erga omnes sobre normas; las T inter partes sobre casos. -->
 - [ ] C) Solo las dicta el Congreso, y las T el Presidente
   <!-- feedback: Todas las sentencias mencionadas las profiere la Corte Constitucional y los jueces en tutela. -->
-
-
 - [ ] D) Necesitan firma del Presidente para ejecutarse
   <!-- feedback: Las sentencias judiciales no requieren sanción ni refrendación presidencial. -->
 
@@ -111,12 +105,10 @@ Cuando la Corte Constitucional declara la inexequibilidad de una ley, el efecto 
 ### Opciones
 - [ ] A) Queda suspendida por un año mientras el Congreso la revisa
   <!-- feedback: La suspensión temporal existe en otros sistemas (inconstitucionalidad diferida); en Colombia la regla es la exclusión. -->
-- [x] C) Es expulsada del ordenamiento jurídico con efectos generales y, en principio, cosa juzgada
-  <!-- feedback: Correcto. La sentencia de inexequibilidad retira la norma del sistema para todos. -->
 - [ ] B) Sigue vigente pero solo para quienes no la demandaron
   <!-- feedback: El efecto es erga omnes: ninguna persona puede invocar una ley inexequible. -->
-
-
+- [x] C) Es expulsada del ordenamiento jurídico con efectos generales y, en principio, cosa juzgada
+  <!-- feedback: Correcto. La sentencia de inexequibilidad retira la norma del sistema para todos. -->
 - [ ] D) Se convierte automáticamente en acto legislativo
   <!-- feedback: Ninguna ley inexequible "asciende" de jerarquía: desaparece. -->
 
@@ -136,14 +128,12 @@ La Sentencia C-355 de 2006 de la Corte Constitucional es emblemática porque
 ### Opciones
 - [ ] A) Concedió el voto a las mujeres colombianas por primera vez
   <!-- feedback: El sufragio femenino se reconoció en 1954 y se ejerció masivamente desde 1957. -->
-- [x] D) Declaró constitucional el aborto en tres supuestos, desarrollando derechos de la mujer a la dignidad, salud y autodeterminación
-  <!-- feedback: Correcto. La sentencia condictó la penalización absoluta del aborto e instauró las tres causales no punibles. -->
 - [ ] B) Prohibió todos los métodos de anticoncepción modernos
   <!-- feedback: La sentencia versa sobre interrupción voluntaria del embarazo, no sobre anticoncepción; esta última está plenamente protegida. -->
-
-
 - [ ] C) Creó el sistema de salud colombiano
   <!-- feedback: El SGSSS se creó con la Ley 100 de 1993, anterior a la sentencia. -->
+- [x] D) Declaró constitucional el aborto en tres supuestos, desarrollando derechos de la mujer a la dignidad, salud y autodeterminación
+  <!-- feedback: Correcto. La sentencia condictó la penalización absoluta del aborto e instauró las tres causales no punibles. -->
 
 ### Explicacion Pedagogica
 La C-355 de 2006 es uno de los fallos más citados de la Corte: declaró exequible el delito de aborto condicionado a que no se sancione a la mujer cuando (1) la continuación del embarazo peligre su vida o salud, (2) el feto sea incompatible con la vida extrauterina y (3) el embarazo sea producto de acceso carnal violento o de inseminación artificial no consentida. El fallo materializó derechos fundamentales de las mujeres y abrió debates de implementación que continúan, especialmente en el acceso real en zonas rurales.
@@ -159,14 +149,12 @@ La C-355 de 2006 es uno de los fallos más citados de la Corte: declaró exequib
 La Sentencia T-622 de 2016 es pionera internacionalmente porque
 
 ### Opciones
-- [x] B) Reconoció al río Atrato como sujeto de derechos y ordenó su protección, conservación, mantenimiento y restauración
-  <!-- feedback: Correcto. La tutela del río —protección biocultural del territorio y de las comunidades étnicas que lo habitan— fijó un estándar de derechos de la naturaleza. -->
 - [ ] A) Prohibió toda navegación comercial en el Pacífico colombiano
   <!-- feedback: La sentencia no cerró el río a la navegación; ordenó combatir la minería ilegal y restaurar el cauce. -->
+- [x] B) Reconoció al río Atrato como sujeto de derechos y ordenó su protección, conservación, mantenimiento y restauración
+  <!-- feedback: Correcto. La tutela del río —protección biocultural del territorio y de las comunidades étnicas que lo habitan— fijó un estándar de derechos de la naturaleza. -->
 - [ ] C) Devolvió las concesiones mineras al gobierno de Estados Unidos
   <!-- feedback: La afirmación es infundada: el fallo se dirige contra la minería criminal interna y la omisión estatal. -->
-
-
 - [ ] D) Declaró patrimonio de la humanidad el Chocó biogeográfico
   <!-- feedback: Esa declaratoria corresponde a la UNESCO mediante inscripción, no a una sentencia de tutela. -->
 
@@ -190,8 +178,6 @@ La Corte Constitucional, en ejercicio del control automático de los actos legis
   <!-- feedback: Correcto. La Corte habilitó el marco jurídico de La Habana al convalidar el Acto Legislativo de 2012. -->
 - [ ] C) T-025 de 2004, que ordenó la desmovilización
   <!-- feedback: La T-025 declaró el estado de cosas inconstitucional del desplazamiento, no una orden de desmovilización. -->
-
-
 - [ ] D) SU-250 de 1998, sobre un estatuto anterior a los diálogos de paz
   <!-- feedback: La referencia es inexistente como fundamento del proceso de paz. -->
 
@@ -209,10 +195,10 @@ La C-588 de 2014 convalidó el Acto Legislativo 01 de 2012 ("Marco Jurídico par
 En la Sentencia C-577 de 2011, la Corte Constitucional determinó que las parejas del mismo sexo
 
 ### Opciones
-- [ ] B) Carecían de toda protección jurídica hasta que el Congreso lo decidiera
-  <!-- feedback: La sentencia reconoció justamente que ya gozaban de protección constitucional. -->
 - [x] A) Conforman una familia y tienen derecho a un patrimonio común y a figuras de contrato, ordenando al legislador asegurar sus derechos de manera igualitaria
   <!-- feedback: Correcto. La Corte interpretó el artículo 42 en clave igualitaria e instó al Congreso a legislar. -->
+- [ ] B) Carecían de toda protección jurídica hasta que el Congreso lo decidiera
+  <!-- feedback: La sentencia reconoció justamente que ya gozaban de protección constitucional. -->
 - [ ] C) Debían renunciar al régimen de sociedad de hecho para adoptar
   <!-- feedback: La sentencia no imponía renuncias; amplió el reconocimiento. -->
 - [ ] D) Solo tenían derechos sucesorales, sin otros efectos
@@ -234,12 +220,12 @@ La Sentencia C-221 de 1994 es un hito del libre desarrollo de la personalidad po
 ### Opciones
 - [ ] A) Legal la venta de drogas en droguerías con receta
   <!-- feedback: El narcotráfico y el expendio siguen siendo penados: la sentencia solo afecta la posesión para consumo personal. -->
-- [x] D) Exequible la prohibición del porte y consumo de dosis mínimas, pero inconstitucional su sanción penal cuando el consumo se limita a la esfera íntima y no afecta a terceros
-  <!-- feedback: Correcto. La Corte separó consumo personal libre de afectación a terceros y de tráfico. -->
 - [ ] B) Obligatorio el tratamiento de todos los consumidores de Colombia
   <!-- feedback: La sentencia protege la autonomía: no ordena tratamiento forzoso como regla. -->
 - [ ] C) Competencia exclusiva de las juntas de acción comunal sobre el microtráfico
   <!-- feedback: Las JAC no tienen funciones de policía judicial. -->
+- [x] D) Exequible la prohibición del porte y consumo de dosis mínimas, pero inconstitucional su sanción penal cuando el consumo se limita a la esfera íntima y no afecta a terceros
+  <!-- feedback: Correcto. La Corte separó consumo personal libre de afectación a terceros y de tráfico. -->
 
 ### Explicacion Pedagogica
 La C-221 de 1994 construyó el test de daño a terceros para el consumo de drogas: el Estado no puede sancionar penalmente la conducta de quien consume en la privacidad sin afectar a otros, por imperio del artículo 16. La doctrina ha matizado después el consumo en espacios públicos (artículo 27 Código de Policía y su control constitucional). Es un laboratorio para estudiar cómo la Corte pondera libertad individual, salud pública y orden social.
@@ -257,12 +243,10 @@ La línea de sentencias de la Corte sobre sanciones en instituciones educativas 
 ### Opciones
 - [ ] A) Derecho a defenderse solo si su familia puede pagar abogado
   <!-- feedback: Las garantías procesales son universales y la gratuidad está prevista para los procesos constitucionales. -->
-- [x] C) Garantías de proceso: notificación de cargos, oportunidad de ser oído, motivación de la decisión, contradicción y proporcionalidad de la sanción
-  <!-- feedback: Correcto. El debido proceso es aplicable al ámbito escolar por mandato expreso del artículo 29. -->
 - [ ] B) La posibilidad de reponer la sanción con trabajo comunitario obligatorio siempre
   <!-- feedback: El trabajo comunitario puede ser una medida pedagógica, no una obligación universal sustitutiva. -->
-
-
+- [x] C) Garantías de proceso: notificación de cargos, oportunidad de ser oído, motivación de la decisión, contradicción y proporcionalidad de la sanción
+  <!-- feedback: Correcto. El debido proceso es aplicable al ámbito escolar por mandato expreso del artículo 29. -->
 - [ ] D) La entrega automática del expediente a los medios de comunicación
   <!-- feedback: La publicidad del expediente de menores está restringida por el interés superior. -->
 
@@ -282,12 +266,10 @@ La figura de las "sentencias estructurales" (como la T-025 de 2004 o la T-760 de
 ### Opciones
 - [ ] A) Resolver un caso particular sin órdenes más allá de las partes
   <!-- feedback: Esas son sentencias ordinarias; las estructurales trascienden el caso. -->
-- [x] C) Declarar problemas estructurales de vulneración masiva de derechos y ordenar a múltiples entidades diseñar, financiar y reportar políticas correctivas, con seguimiento continuo mediante autos
-  <!-- feedback: Correcto. Su marca distintiva es el mandato complejo y la vigilancia judicial prolongada. -->
 - [ ] B) Reemplazar al Congreso legislando normas de rango legal
   <!-- feedback: La Corte ordena a la administración cumplir y diseñar políticas dentro de la ley; no expide normas generales. -->
-
-
+- [x] C) Declarar problemas estructurales de vulneración masiva de derechos y ordenar a múltiples entidades diseñar, financiar y reportar políticas correctivas, con seguimiento continuo mediante autos
+  <!-- feedback: Correcto. Su marca distintiva es el mandato complejo y la vigilancia judicial prolongada. -->
 - [ ] D) Prohibir toda reforma judicial posterior
   <!-- feedback: La Corte no puede blindar sus propias decisiones contra reformas institucionales futuras. -->
 
@@ -307,12 +289,10 @@ Las sentencias que controlaron actos legislativos y referendos sobre reelección
 ### Opciones
 - [ ] A) La oportunidad política del Presidente de turno
   <!-- feedback: La Corte no controla la conveniencia política: controla constitucionalidad. -->
-- [x] C) La constitucionalidad formal y material de los actos legislativos y referendos, aplicando la doctrina de la sustitución cuando la reforma altera la identidad de la Constitución
-  <!-- feedback: Correcto. La revisión de los actos de relección se hizo sobre competencia, procedimiento y sustitución. -->
 - [ ] B) La ética personal de los magistrados firmantes
   <!-- feedback: La motivación jurídica es pública y colegiada; la ética personal no es un estándar de decisión. -->
-
-
+- [x] C) La constitucionalidad formal y material de los actos legislativos y referendos, aplicando la doctrina de la sustitución cuando la reforma altera la identidad de la Constitución
+  <!-- feedback: Correcto. La revisión de los actos de relección se hizo sobre competencia, procedimiento y sustitución. -->
 - [ ] D) El financiamiento de las campañas de quien promocionó el referendo
   <!-- feedback: El control de financiamiento electoral corresponde al CNE y la Contraloría Electoral, no a la Corte Constitucional. -->
 
@@ -332,12 +312,12 @@ Las sentencias de unificación (SU) de la Corte Constitucional cumplen la funci�
 ### Opciones
 - [ ] A) Revisar todas las tutelas del país para corregir errores menores
   <!-- feedback: La revisión de tutelas es selectiva; las SU unifican doctrina cuando hay criterios divergentes. -->
-- [x] D) Resolver contradicciones entre líneas jurisprudenciales, fijando criterios obligatorios con efectos de cosa juzgada interpretativa
-  <!-- feedback: Correcto. Las SU restañan la unidad de la Constitución y guían a jueces y autoridades. -->
 - [ ] B) Convocar nuevas elecciones de magistrados
   <!-- feedback: La elección de magistrados es facultad del Senado y no depende de decisiones SU. -->
 - [ ] C) Derogar en bloque los códigos legales obsoletos
   <!-- feedback: La Corte no deroga códigos completos sin control sobre las normas específicas demandadas. -->
+- [x] D) Resolver contradicciones entre líneas jurisprudenciales, fijando criterios obligatorios con efectos de cosa juzgada interpretativa
+  <!-- feedback: Correcto. Las SU restañan la unidad de la Constitución y guían a jueces y autoridades. -->
 
 ### Explicacion Pedagogica
 Las sentencias SU existen porque la Corte, al resolver miles de tutelas, divergía entre salas y generaba inseguridad jurídica. La unificación preserva la igualdad de los ciudadanos ante la Constitución: un mismo derecho debe protegerse igual en Cúcuta y en Leticia. Analizar su función revela la tensión entre masividad de litigios y coherencia doctrinal.
@@ -355,12 +335,10 @@ El valor de una sentencia de tutela en un caso de consulta previa radica princip
 ### Opciones
 - [ ] A) Otorga derechos de propiedad territorial a comunidades indígenas
   <!-- feedback: La propiedad colectiva se titula por la vía de la reforma agraria y los resguardos; la tutela protege el procedimiento de consulta. -->
-- [x] C) Convierte la consulta de trámite administrativo en derecho fundamental justiciable, cuya omisión invalida la medida que afecte directamente la cultura y supervivencia de la comunidad
-  <!-- feedback: Correcto. La Corte ha tutelado la consulta previa como derecho fundamental de protección integral. -->
 - [ ] B) Permite al Estado iniciar proyectos mientras se dialoga con la comunidad
   <!-- feedback: La regla es la consulta previa a la medida, no el inicio a la espera del diálogo. -->
-
-
+- [x] C) Convierte la consulta de trámite administrativo en derecho fundamental justiciable, cuya omisión invalida la medida que afecte directamente la cultura y supervivencia de la comunidad
+  <!-- feedback: Correcto. La Corte ha tutelado la consulta previa como derecho fundamental de protección integral. -->
 - [ ] D) Exonera a las empresas de responsabilidad ambiental
   <!-- feedback: Las obligaciones ambientales de los particulares persisten con consulta o sin ella. -->
 
@@ -384,8 +362,6 @@ La fuerza vinculante del precedente de la Corte Constitucional, especialmente de
   <!-- feedback: Correcto. El precedente vincula, pero es distinguible con argumentación seria. -->
 - [ ] C) Solo obedecen sentencias dictadas en casos de Bogotá
   <!-- feedback: El efecto del precedente es nacional; la ratio no depende del territorio del caso. -->
-
-
 - [ ] D) Están obligados a consultar a la Corte antes de fallar
   <!-- feedback: La independencia judicial prohíbe someter fallos ordinarios a consultas previas. -->
 
@@ -405,12 +381,10 @@ La distinción técnica entre "sentencia" y "auto" de la Corte Constitucional, y
 ### Opciones
 - [ ] A) Los autos carecen de efectos jurídicos sobre casos de derechos
   <!-- feedback: Los autos de seguimiento y protección producen órdenes vinculantes; el Auto 092 ordenó acciones específicas para mujeres desplazadas. -->
-- [x] C) La sentencia resuelve de fondo una controversia constitucional; el auto decide incidencias o seguimiento, y los autos de cumplimiento pueden desarrollar obligaciones complejas con órdenes continuadas
-  <!-- feedback: Correcto. En la T-025 de 2004, por ejemplo, los autos posteriores —incluido el 092— desarrollaron la protección diferenciada por género. -->
 - [ ] B) Solo las sentencias pueden ser leídas por periodistas
   <!-- feedback: La publicidad de las decisiones es regla de ambos instrumentos. -->
-
-
+- [x] C) La sentencia resuelve de fondo una controversia constitucional; el auto decide incidencias o seguimiento, y los autos de cumplimiento pueden desarrollar obligaciones complejas con órdenes continuadas
+  <!-- feedback: Correcto. En la T-025 de 2004, por ejemplo, los autos posteriores —incluido el 092— desarrollaron la protección diferenciada por género. -->
 - [ ] D) Los autos solo los firma el Presidente de la Corte
   <!-- feedback: Los autos los profieren las salas o magistraturas sustanciadoras según reglamento. -->
 
@@ -430,12 +404,10 @@ La evaluación rigurosa del impacto político de la justicia constitucional en C
 ### Opciones
 - [ ] A) La Corte es un poder político ilegítimo, pues no fue electa por voto popular y sus fallos carecen de base normativa
   <!-- feedback: La designación indirecta es un diseño deliberado de independencia técnica con anclaje democrático constitucional. -->
-- [x] C) La Corte ha suplido funciones de representación —articulando demandas de minorías y poblaciones— por la debilidad de los canales partidistas y corporativos, lo que legitima su papel pero exige autolimitación y debate público calificado
-  <!-- feedback: Correcto. Describe el fenómeno (judicialización de la política) con sus dos caras. -->
 - [ ] B) Su activismo beneficia siempre a la mayoría rica del país
   <!-- feedback: La evidencia de litigio constitucional muestra protección recurrente de poblaciones vulnerables, sin excluir un acceso desigual por capacidades. -->
-
-
+- [x] C) La Corte ha suplido funciones de representación —articulando demandas de minorías y poblaciones— por la debilidad de los canales partidistas y corporativos, lo que legitima su papel pero exige autolimitación y debate público calificado
+  <!-- feedback: Correcto. Describe el fenómeno (judicialización de la política) con sus dos caras. -->
 - [ ] D) Sus fallos no tienen ninguna consecuencia fiscal
   <!-- feedback: Los mandatos estructurales y la tutela tienen impactos presupuestales documentados por la propia Corte y la Contraloría. -->
 
@@ -455,12 +427,10 @@ La exequibilidad condicionada, figura recurrente de la Corte, se defiende mejor 
 ### Opciones
 - [ ] A) Es inconstitucional, porque la única opción de la Corte es exequible o inexequible sin matices
   <!-- feedback: El artículo 241 y la ley estatutaria admiten decisiones interpretadas: la técnica es legítima. -->
-- [x] C) Preserva la presunción de constitucionalidad de la ley, salvando la norma con una interpretación conforme a la Constitución y fijando límites al poder constituido sin expulsarla
-  <!-- feedback: Correcto. La técnica maximiza la conformidad y la estabilidad normativa. -->
 - [ ] B) Permite al Presidente vetar la ley interpretada
   <!-- feedback: El veto presidencial opera sobre proyectos de ley, no sobre decisiones judiciales. -->
-
-
+- [x] C) Preserva la presunción de constitucionalidad de la ley, salvando la norma con una interpretación conforme a la Constitución y fijando límites al poder constituido sin expulsarla
+  <!-- feedback: Correcto. La técnica maximiza la conformidad y la estabilidad normativa. -->
 - [ ] D) Obliga a reformar la Constitución para aplicarla
   <!-- feedback: Lo propio de la sentencia interpretada es evitar la reforma: armoniza la norma con el texto vigente. -->
 
@@ -480,14 +450,12 @@ Al evaluar propuestas de "reforma de la justicia constitucional" —métodos de 
 ### Opciones
 - [ ] A) Deben eliminarse los mecanismos de control porque ralentizan la democracia
   <!-- feedback: Eliminar el control constitucional es destruir la supremacía de la Constitución: la democracia constitucional no es democracia de mayorías simples. -->
-- [x] D) La justicia constitucional requiere blindaje frente a presiones, pero también rendición de cuentas: transparencia de litigio, plazos razonables, motivación y debate público sobre sus decisiones
-  <!-- feedback: Correcto. Independencia sin opacidad y control sin subordinación. -->
 - [ ] B) La Corte debe alinearse con el gobierno de turno para garantizar gobernabilidad
   <!-- feedback: La alineación borra la separación de poderes de los artículos 113 y 114. -->
-
-
 - [ ] C) Solo los abogados pueden opinar sobre sus reformas
   <!-- feedback: La Constitución es patrimonio ciudadano; la educación jurídica es la herramienta para participar informado. -->
+- [x] D) La justicia constitucional requiere blindaje frente a presiones, pero también rendición de cuentas: transparencia de litigio, plazos razonables, motivación y debate público sobre sus decisiones
+  <!-- feedback: Correcto. Independencia sin opacidad y control sin subordinación. -->
 
 ### Explicacion Pedagogica
 El diseño actual —magistrados de carreras diversas, elección indirecta, periodos fijos e inamovibles— protege la independencia, pero la opacidad de candidaturas y la percepción de judicialización reclaman legitimación: motivación, publicación de agendas, informes anuales de impacto de tutelas, audiencias. Evaluar reformas a la Corte es evaluar el equilibrio de poderes mismo: una competencia de "participación y responsabilidad democrática" en clave de pensamiento crítico.
@@ -505,12 +473,10 @@ La respuesta más completa al juicio "las sentencias de la Corte profundizan la 
 ### Opciones
 - [ ] A) Solo cabe la crítica: la democracia se define por mayorías sin contrapesos
   <!-- feedback: Confunde democracia con regla de mayoría: la democracia constitucional existe precisamente porque las mayorías tienen límites. -->
-- [ ] C) Solo cabe la defensa: todo lo que la Corte decide amplía derechos, por definición
-  <!-- feedback: Idealiza a la Corte: sus decisiones pueden ser técnicamente débiles, ejecutarse mal o desplazar debate político. -->
 - [x] B) La Corte es un foro de principio constitucional: expande derechos para excluidos y discipliniza mayorías, pero requiere motivación, respeto a la autonomía de las otras ramas y ciudadanía que fiscalice sus fallos para no convertirse en sustituto del demos
   <!-- feedback: Correcto. Juicio equilibrado, condicionado a estándares de legitimidad y a vigilancia ciudadana. -->
-
-
+- [ ] C) Solo cabe la defensa: todo lo que la Corte decide amplía derechos, por definición
+  <!-- feedback: Idealiza a la Corte: sus decisiones pueden ser técnicamente débiles, ejecutarse mal o desplazar debate político. -->
 - [ ] D) La Corte debe ser suprimida y reemplazada por el Congreso
   <!-- feedback: El Congreso no puede ser juez de su propia obra: la supremacía constitucional exige un guardián externo. -->
 

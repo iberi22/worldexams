@@ -203,10 +203,10 @@ Evaluar un título exige revisar toda la secuencia y detectar cuál es el hilo q
 ¿Por qué el autordecided contar que don Eliseo les prestó las llaves sin pedirles dinero?
 
 ### Opciones
-- [ ] A) Para distraer al lector con un personaje que no tiene relación con el problema.
-  <!-- feedback: Don Eliseo es justamente quien les da las llaves, por lo que sí tiene relación directa con la reparación. -->
-- [x] B) Para mostrar que pedir ayuda y trabajar en equipo son buenas formas de resolver un problema.
+- [x] A) Para mostrar que pedir ayuda y trabajar en equipo son buenas formas de resolver un problema.
   <!-- feedback: Es la intención correcta porque ese detalle enseña la lección que el autor quiere transmitir con la historia. -->
+- [ ] B) Para distraer al lector con un personaje que no tiene relación con el problema.
+  <!-- feedback: Don Eliseo es justamente quien les da las llaves, por lo que sí tiene relación directa con la reparación. -->
 - [ ] C) Para demostrar que las niñas podían arreglar la bicicleta ellas solas.
   <!-- feedback: El texto muestra lo contrario, porque recurrieron a un adulto del barrio y con esa ayuda lograron reparar la bicicleta. -->
 - [ ] D) Para contar cuántas herramientas tiene un taller de Chía.

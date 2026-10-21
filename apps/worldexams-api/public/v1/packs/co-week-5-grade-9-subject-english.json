@@ -19,16 +19,16 @@
           "feedback": "Incorrect. \"Since\" requires the Present Perfect."
         },
         {
-          "letter": "C",
-          "text": "have been",
-          "is_correct": true,
-          "feedback": "Correct! Present Perfect is used for actions in an unfinished period starting in the past."
-        },
-        {
           "letter": "B",
           "text": "am going",
           "is_correct": false,
           "feedback": "Incorrect. This refers to the present or future arrangement."
+        },
+        {
+          "letter": "C",
+          "text": "have been",
+          "is_correct": true,
+          "feedback": "Correct! Present Perfect is used for actions in an unfinished period starting in the past."
         },
         {
           "letter": "D",
@@ -105,16 +105,16 @@
       "context": "Reviewing future predictions.",
       "options": [
         {
-          "letter": "B",
-          "text": "will be generating",
-          "is_correct": true,
-          "feedback": "Correct! Future Continuous describes an action that will be in progress or a standard situation in the future."
-        },
-        {
           "letter": "A",
           "text": "have generated",
           "is_correct": false,
           "feedback": "Incorrect. This is Present Perfect."
+        },
+        {
+          "letter": "B",
+          "text": "will be generating",
+          "is_correct": true,
+          "feedback": "Correct! Future Continuous describes an action that will be in progress or a standard situation in the future."
         },
         {
           "letter": "C",
@@ -157,16 +157,16 @@
           "feedback": "Incorrect. The continuous form is better to explain a present result of a recent activity."
         },
         {
-          "letter": "C",
-          "text": "have been watching",
-          "is_correct": true,
-          "feedback": "Correct! Present Perfect Continuous explains a present state resulting from a recent continuous action."
-        },
-        {
           "letter": "B",
           "text": "had watched",
           "is_correct": false,
           "feedback": "Incorrect. Past Perfect doesn't explain a current physical state as well."
+        },
+        {
+          "letter": "C",
+          "text": "have been watching",
+          "is_correct": true,
+          "feedback": "Correct! Present Perfect Continuous explains a present state resulting from a recent continuous action."
         },
         {
           "letter": "D",
@@ -203,16 +203,16 @@
           "feedback": "Incorrect. \"In 2020\" requires Past Simple."
         },
         {
-          "letter": "C",
-          "text": "decided / have changed",
-          "is_correct": true,
-          "feedback": "Correct! Past Simple for the specific year and Present Perfect for the ongoing change."
-        },
-        {
           "letter": "B",
           "text": "decided / changed",
           "is_correct": false,
           "feedback": "Incorrect. \"Since then\" requires Present Perfect."
+        },
+        {
+          "letter": "C",
+          "text": "decided / have changed",
+          "is_correct": true,
+          "feedback": "Correct! Past Simple for the specific year and Present Perfect for the ongoing change."
         },
         {
           "letter": "D",
@@ -341,16 +341,16 @@
           "feedback": "Incorrect. \"Started\" is a point, not a duration."
         },
         {
-          "letter": "C",
-          "text": "I have been on a diet since three weeks.",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Since\" needs a specific starting point (date/time), not a period."
-        },
-        {
           "letter": "B",
           "text": "I have been on a diet for three weeks.",
           "is_correct": true,
           "feedback": "Correct! \"For\" is used for periods of time with Present Perfect."
+        },
+        {
+          "letter": "C",
+          "text": "I have been on a diet since three weeks.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Since\" needs a specific starting point (date/time), not a period."
         },
         {
           "letter": "D",
@@ -433,6 +433,12 @@
           "feedback": "Incorrect. Correct use of Past Simple."
         },
         {
+          "letter": "B",
+          "text": "will have used",
+          "is_correct": true,
+          "feedback": "Correct! This should be Future Continuous (*will be using*) because it refers to the ongoing state in the future, not its completion."
+        },
+        {
           "letter": "C",
           "text": "had been using",
           "is_correct": false,
@@ -443,12 +449,6 @@
           "text": "has advanced",
           "is_correct": false,
           "feedback": "Incorrect. Correct use of Present Perfect for recent changes."
-        },
-        {
-          "letter": "B",
-          "text": "will have used",
-          "is_correct": true,
-          "feedback": "Correct! This should be Future Continuous (*will be using*) because it refers to the ongoing state in the future, not its completion."
         }
       ],
       "correct_answer": "B",
@@ -474,15 +474,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Did you exercise lately?",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Lately\" requires Present Perfect."
-        },
-        {
-          "letter": "B",
           "text": "Have you been exercising lately?",
           "is_correct": true,
           "feedback": "Correct! Focuses on the recent ongoing activity that explains their current state."
+        },
+        {
+          "letter": "B",
+          "text": "Did you exercise lately?",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Lately\" requires Present Perfect."
         },
         {
           "letter": "C",
@@ -497,7 +497,7 @@
           "feedback": "Incorrect. Doesn't make sense for a present observation."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para indagar sobre la causa de un estado presente positivo que parece ser resultado de una actividad reciente, la forma continua del *Presente Perfecto* es la más apropiada.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -525,12 +525,6 @@
           "feedback": "Incorrect. Doesn't use the full range of B2 tenses."
         },
         {
-          "letter": "D",
-          "text": "have affected / had happened / will be affecting",
-          "is_correct": true,
-          "feedback": "Correct! Present Perfect for recent impact, Past Perfect for the distant past, and Future Continuous for future influence."
-        },
-        {
           "letter": "B",
           "text": "had affected / has happened / will have affected",
           "is_correct": false,
@@ -541,6 +535,12 @@
           "text": "affect / happen / affect",
           "is_correct": false,
           "feedback": "Incorrect. Too simple for B2 level."
+        },
+        {
+          "letter": "D",
+          "text": "have affected / had happened / will be affecting",
+          "is_correct": true,
+          "feedback": "Correct! Present Perfect for recent impact, Past Perfect for the distant past, and Future Continuous for future influence."
         }
       ],
       "correct_answer": "D",

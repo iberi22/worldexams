@@ -14,15 +14,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Pedir permiso para jugar después de las dos de la tarde",
-          "is_correct": false,
-          "feedback": "Incorrecto. El afiche dice que el patio se puede usar hasta las dos de la tarde, así que después de esa hora no hay permiso."
-        },
-        {
-          "letter": "B",
           "text": "Traer el termo con agua y el pañuelo limpio, y guardar el juego en la caja",
           "is_correct": true,
           "feedback": "Correcto. El afiche pide las dos cosas y además ordena guardar el juego, y eso responde la pregunta de manera literal."
+        },
+        {
+          "letter": "B",
+          "text": "Pedir permiso para jugar después de las dos de la tarde",
+          "is_correct": false,
+          "feedback": "Incorrecto. El afiche dice que el patio se puede usar hasta las dos de la tarde, así que después de esa hora no hay permiso."
         },
         {
           "letter": "C",
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. El afiche no menciona ninguna pelota ni ninguna compra, y solo pide llevar el termo, el pañuelo y guardar el juego."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Leer un texto de consejo de forma literal es responder solo con lo que el aviso escribe, sin inventar datos. Reconocer los verbos de la indicación, como traigan y guarden, ayuda a los niños a saber exactamente qué se espera de ellos. Esa disciplina les sirve para entender cualquier aviso del colegio, del parque o de la calle.",
       "difficulty": "4",
       "images": [],

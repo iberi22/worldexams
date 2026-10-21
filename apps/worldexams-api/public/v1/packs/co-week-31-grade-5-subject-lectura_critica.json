@@ -348,18 +348,18 @@
         },
         {
           "letter": "C",
-          "text": "Un caligrama en forma de colibrí con los versos \"aleteo verde, suspiro de flor, bebo la lluvia y vuelo con el sol\" escritos siguiendo sus alas.",
-          "is_correct": true,
-          "feedback": "El dibujo del colibrí coincide con el tema del poema, los versos son breves y siguen el contorno del ave."
-        },
-        {
-          "letter": "D",
           "text": "Un caligrama con muchos tachones, manchas de tinta y letras ilegibles en varias direcciones.",
           "is_correct": false,
           "feedback": "Aunque haya figura, los tachones y la mala letra rompen la legibilidad y el cuidado de los versos."
+        },
+        {
+          "letter": "D",
+          "text": "Un caligrama en forma de colibrí con los versos \"aleteo verde, suspiro de flor, bebo la lluvia y vuelo con el sol\" escritos siguiendo sus alas.",
+          "is_correct": true,
+          "feedback": "El dibujo del colibrí coincide con el tema del poema, los versos son breves y siguen el contorno del ave."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Evaluar un caligrama aplicando criterios claros de coherencia, calidad poética y legibilidad para el lector.",
       "difficulty": "10",
       "images": [],

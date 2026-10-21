@@ -13,12 +13,6 @@
       "context": "Andrés observa tres recipientes en la cocina de su casa: uno contiene un cubo de hielo, otro un vaso con agua dulce y otro aire dentro de un globo inflado.",
       "options": [
         {
-          "letter": "C",
-          "text": "Estado sólido.",
-          "is_correct": true,
-          "feedback": "¡Correcto! El hielo es agua en estado sólido porque tiene forma y volumen definidos."
-        },
-        {
           "letter": "A",
           "text": "Estado líquido.",
           "is_correct": false,
@@ -29,6 +23,12 @@
           "text": "Estado gaseoso.",
           "is_correct": false,
           "feedback": "Incorrecto. El estado gaseoso corresponde al aire del globo o al vapor."
+        },
+        {
+          "letter": "C",
+          "text": "Estado sólido.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El hielo es agua en estado sólido porque tiene forma y volumen definidos."
         },
         {
           "letter": "D",
@@ -59,12 +59,6 @@
       "context": "Sofía sirve jugo de mora en una jarra redonda y luego en vasos cilíndricos. Ella nota que el jugo cambia de forma según el recipiente donde se sirva.",
       "options": [
         {
-          "letter": "C",
-          "text": "Porque los líquidos no tienen forma propia y se adaptan a la forma del recipiente.",
-          "is_correct": true,
-          "feedback": "¡Correcto! Los líquidos tienen volumen fijo pero adoptan la forma del contenedor que los alberga."
-        },
-        {
           "letter": "A",
           "text": "Porque el jugo se convirtió en un gas al servirlo.",
           "is_correct": false,
@@ -75,6 +69,12 @@
           "text": "Porque los sólidos cambian de forma fácilmente al ser trasvasados.",
           "is_correct": false,
           "feedback": "Incorrecto. El jugo no es un sólido."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los líquidos no tienen forma propia y se adaptan a la forma del recipiente.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los líquidos tienen volumen fijo pero adoptan la forma del contenedor que los alberga."
         },
         {
           "letter": "D",
@@ -105,12 +105,6 @@
       "context": "Un estudiante coloca un palito de helado al sol durante 20 minutos. Después de este tiempo, nota que el helado se derritió y se volvió líquido.",
       "options": [
         {
-          "letter": "C",
-          "text": "Fusión.",
-          "is_correct": true,
-          "feedback": "¡Correcto! La fusión es el paso del estado sólido al estado líquido por aumento de temperatura."
-        },
-        {
           "letter": "A",
           "text": "Solidificación.",
           "is_correct": false,
@@ -121,6 +115,12 @@
           "text": "Condensación.",
           "is_correct": false,
           "feedback": "Incorrecto. La condensación es el paso de gas a líquido."
+        },
+        {
+          "letter": "C",
+          "text": "Fusión.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La fusión es el paso del estado sólido al estado líquido por aumento de temperatura."
         },
         {
           "letter": "D",
@@ -197,12 +197,6 @@
       "context": "Lucas tapa una olla hirviendo con una tapa metálica fría. Unos segundos después, retira la tapa y observa pequeñas gotas de agua líquida en la parte inferior de la tapa.",
       "options": [
         {
-          "letter": "D",
-          "text": "El vapor de agua caliente tocó la tapa fría, perdió calor y se condensó en gotas de agua.",
-          "is_correct": true,
-          "feedback": "¡Excelente! El enfriamiento del vapor de agua causa su condensación a estado líquido."
-        },
-        {
           "letter": "A",
           "text": "El metal de la tapa se derritió y formó gotas de agua.",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "El aire caliente dentro de la olla se congeló al tocar la tapa.",
           "is_correct": false,
           "feedback": "Incorrecto. El vapor no se congeló, sino que pasó a estado líquido (condensación)."
+        },
+        {
+          "letter": "D",
+          "text": "El vapor de agua caliente tocó la tapa fría, perdió calor y se condensó en gotas de agua.",
+          "is_correct": true,
+          "feedback": "¡Excelente! El enfriamiento del vapor de agua causa su condensación a estado líquido."
         }
       ],
       "correct_answer": "D",
@@ -243,12 +243,6 @@
       "context": "Un grupo de niños llena dos recipientes idénticos con la misma cantidad de agua. Uno lo colocan dentro del congelador y el otro sobre la mesa del salón. Al día siguiente, el agua del congelador se convirtió en hielo.",
       "options": [
         {
-          "letter": "D",
-          "text": "Porque dentro del congelador la temperatura bajó lo suficiente para que ocurriera la solidificación.",
-          "is_correct": true,
-          "feedback": "¡Correcto! La solidificación requiere una disminución drástica de temperatura (enfriamiento)."
-        },
-        {
           "letter": "A",
           "text": "Porque la luz del salón evitó que el agua de la mesa sufriera cambios de estado.",
           "is_correct": false,
@@ -265,6 +259,12 @@
           "text": "Porque el agua del congelador absorbió más calor que el agua del salón.",
           "is_correct": false,
           "feedback": "Incorrecto. En el congelador el agua pierde calor, no lo absorbe."
+        },
+        {
+          "letter": "D",
+          "text": "Porque dentro del congelador la temperatura bajó lo suficiente para que ocurriera la solidificación.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La solidificación requiere una disminución drástica de temperatura (enfriamiento)."
         }
       ],
       "correct_answer": "D",
@@ -289,12 +289,6 @@
       "context": "En el ciclo del agua en la naturaleza, el agua del mar se calienta con el sol y sube a la atmósfera, forma las nubes y luego cae en forma de lluvia.",
       "options": [
         {
-          "letter": "C",
-          "text": "Evaporación del agua del mar y luego condensación en la atmósfera.",
-          "is_correct": true,
-          "feedback": "¡Correcto! El agua líquida se evapora con el sol y luego se condensa en pequeñas gotas formando las nubes y la lluvia."
-        },
-        {
           "letter": "A",
           "text": "Fusión del agua del mar y luego congelación en la atmósfera.",
           "is_correct": false,
@@ -302,6 +296,12 @@
         },
         {
           "letter": "B",
+          "text": "Evaporación del agua del mar y luego condensación en la atmósfera.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El agua líquida se evapora con el sol y luego se condensa en pequeñas gotas formando las nubes y la lluvia."
+        },
+        {
+          "letter": "C",
           "text": "Condensación del agua del mar y luego evaporación en las nubes.",
           "is_correct": false,
           "feedback": "Incorrecto. El orden es inverso: primero se evapora y luego se condensa."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. La lluvia líquida proviene de la condensación del vapor."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El ciclo del agua combina cambios de estado físicos accionados por la radiación solar (evaporación) y las bajas temperaturas en la alta atmósfera (condensación).\n---",
       "difficulty": "10",
       "images": [],

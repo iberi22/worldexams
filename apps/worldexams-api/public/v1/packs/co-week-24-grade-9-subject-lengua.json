@@ -474,9 +474,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Se desarrolla la capacidad de calcar, porque basta con copiar los dibujos del texto original.",
-          "is_correct": false,
-          "feedback": "Copiar no es crear: la historieta exige construir imágenes propias."
+          "text": "Se desarrolla la capacidad de adaptar información de un texto a otro género, lo que exige decidir qué se conserva y qué se transforma.",
+          "is_correct": true,
+          "feedback": "Toda adaptación supone selección: no todo puede trasladarse igual de un género a otro."
         },
         {
           "letter": "B",
@@ -486,9 +486,9 @@
         },
         {
           "letter": "C",
-          "text": "Se desarrolla la capacidad de adaptar información de un texto a otro género, lo que exige decidir qué se conserva y qué se transforma.",
-          "is_correct": true,
-          "feedback": "Toda adaptación supone selección: no todo puede trasladarse igual de un género a otro."
+          "text": "Se desarrolla la capacidad de calcar, porque basta con copiar los dibujos del texto original.",
+          "is_correct": false,
+          "feedback": "Copiar no es crear: la historieta exige construir imágenes propias."
         },
         {
           "letter": "D",
@@ -497,7 +497,7 @@
           "feedback": "Adaptar a la historieta exige cambiar la forma de contar, no solo reducir el volumen."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La historieta es un género que permite transformar la información. Tomar un texto de otro género y volverlo viñeta obliga a decidir qué momentos se conservan, cuáles se adaptan y cuáles se descartan. Ese trabajo de selección y de transformación es lo que convierte la historieta en una reinterpretación y no en un calco.",
       "difficulty": "10",
       "images": [],

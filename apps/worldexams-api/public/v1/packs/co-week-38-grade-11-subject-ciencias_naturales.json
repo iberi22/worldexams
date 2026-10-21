@@ -842,9 +842,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Etileno (CH₂=CH₂).",
-          "is_correct": true,
-          "feedback": "La polimerización por adición del etileno produce polietileno."
+          "text": "Acetileno únicamente.",
+          "is_correct": false,
+          "feedback": "El acetileno genera poliacetileno."
         },
         {
           "letter": "B",
@@ -860,12 +860,12 @@
         },
         {
           "letter": "D",
-          "text": "Acetileno únicamente.",
-          "is_correct": false,
-          "feedback": "El acetileno genera poliacetileno."
+          "text": "Etileno (CH₂=CH₂).",
+          "is_correct": true,
+          "feedback": "La polimerización por adición del etileno produce polietileno."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La polimerización por adición requiere monómeros con insaturaciones que se rompen para formar la cadena.",
       "difficulty": "10",
       "images": [],

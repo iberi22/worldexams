@@ -13,12 +13,6 @@
       "context": "Discussing technological breakthroughs in Barranquilla.",
       "options": [
         {
-          "letter": "D",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
           "text": "alleviate",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "facilitate",
           "is_correct": false,
           "feedback": "Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide."
+        },
+        {
+          "letter": "D",
+          "text": "exacerbate",
+          "is_correct": true,
+          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
         }
       ],
       "correct_answer": "D",
@@ -59,16 +59,16 @@
       "context": "Discussing technological breakthroughs in Barranquilla.",
       "options": [
         {
-          "letter": "B",
-          "text": "developed",
-          "is_correct": true,
-          "feedback": "'Developed by the engineering team' is a reduced relative clause, the standard C1 way of saying that the team designed and built the prototype without repeating a full 'which was' construction."
-        },
-        {
           "letter": "A",
           "text": "developing",
           "is_correct": false,
           "feedback": "A gerund before 'by' would leave the clause incomplete: 'developing by the team' is not a verb phrase, so it cannot modify 'the prototype' on its own."
+        },
+        {
+          "letter": "B",
+          "text": "developed",
+          "is_correct": true,
+          "feedback": "'Developed by the engineering team' is a reduced relative clause, the standard C1 way of saying that the team designed and built the prototype without repeating a full 'which was' construction."
         },
         {
           "letter": "C",
@@ -151,12 +151,6 @@
       "context": "Discussing technological breakthroughs in Bogotá.",
       "options": [
         {
-          "letter": "C",
-          "text": "constrain",
-          "is_correct": true,
-          "feedback": "'To constrain is to limit or hold back within a set of limits. A shortage of technicians sets exactly that kind of external limit on how fast a firm can grow, so 'constrain their own plans' is the natural collocation."
-        },
-        {
           "letter": "A",
           "text": "accelerate",
           "is_correct": false,
@@ -167,6 +161,12 @@
           "text": "compensate",
           "is_correct": false,
           "feedback": "'To compensate for something' is to make up for a loss. A shortage would limit growth, but the sentence says the shortage threatens the plans, not that the firms are making up for damage already done."
+        },
+        {
+          "letter": "C",
+          "text": "constrain",
+          "is_correct": true,
+          "feedback": "'To constrain is to limit or hold back within a set of limits. A shortage of technicians sets exactly that kind of external limit on how fast a firm can grow, so 'constrain their own plans' is the natural collocation."
         },
         {
           "letter": "D",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W03-technological-breakthroughs-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on technological breakthroughs in Manizales, what is implied about the role of Advanced Passive Voice in shaping public opinion?",
-      "context": "Discussing technological breakthroughs in Manizales.",
+      "statement": "Read the text and answer the question.\n\n\"In parts of Guaviare, the nearest hospital can be six hours away by river. Since 2024, a pilot project has used drones to deliver vaccines and blood samples between rural health posts and the hospital in San José del Guaviare. A flight that replaces a long boat trip takes about 40 minutes. Nurses say the drones cannot carry patients or large equipment, but for small, urgent packages they have saved valuable time.\"\n\nWhat is the main idea of the text?",
+      "context": "Reading a health news story about medical drones in Guaviare.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Drones have replaced boats for all transport in Guaviare.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "The nurses say drones cannot carry patients or large equipment, so boats are still needed. 'All transport' exaggerates the text."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Patients in Guaviare now travel to the hospital by drone.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "The text explicitly says the drones cannot carry patients; they transport vaccines and samples."
+        },
+        {
+          "letter": "C",
+          "text": "Drones are helping rural health posts send small urgent items faster.",
+          "is_correct": true,
+          "feedback": "The text explains what the drones carry (vaccines, samples), how much time they save (40 minutes instead of hours) and their limit (small packages only)."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Cali.",
+          "text": "The hospital in San José del Guaviare needs more nurses.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Nurses are quoted as a source of opinion, but the text says nothing about a shortage of nurses."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Main-idea options often include an exaggeration (all transport) or a detail that contradicts the text (patients). The best answer includes the limitation the nurses mention, which shows careful reading of the final sentence.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-11-2026-W03-technological-breakthroughs-001-MASTERY-bundle-v6",
-      "statement": "According to a recent report on technological breakthroughs in Bogotá, what is implied about the role of Advanced Passive Voice in shaping public opinion?",
-      "context": "Discussing technological breakthroughs in Bogotá.",
+      "statement": "Read the text and answer the question.\n\n\"A team at a university in Popayán is developing a mobile app that translates basic health questions between Spanish and Nasa Yuwe, the language of the Nasa people. Doctors in rural clinics often need help from a family member to communicate with older patients. The team recorded more than 3,000 phrases with Nasa speakers before writing any code. 'The technology was the easy part,' says one developer. 'Listening to the community took us two years.'\"\n\nWhat does the developer suggest?",
+      "context": "Reading a university news story from Popayán about a translation app for the Nasa language.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "Working with the community was more difficult than building the app.",
           "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "feedback": "By calling the technology 'the easy part' and saying listening took two years, the developer implies that the community work was the hardest and longest stage."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "The app was finished in a few weeks.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "The text mentions two years of work with the community, and the app is still being developed, so 'a few weeks' is not supported."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Nasa speakers did not want to participate.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "The team recorded more than 3,000 phrases with Nasa speakers, which shows the community did participate."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Medellín.",
+          "text": "Doctors in rural clinics speak Nasa Yuwe fluently.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "The text says doctors need help from family members to communicate, which means they do not speak the language well."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "When a speaker calls one part 'the easy part', the reader can infer that another part was harder. Comparing the two time references (code vs. two years of listening) confirms the implied contrast.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -285,36 +285,36 @@
     },
     {
       "id": "CO-ING-11-2026-W03-technological-breakthroughs-001-MASTERY-bundle-v7",
-      "statement": "According to a recent report on technological breakthroughs in Bucaramanga, what is implied about the role of Advanced Passive Voice in shaping public opinion?",
-      "context": "Discussing technological breakthroughs in Bucaramanga.",
+      "statement": "Read the text and answer the question.\n\n\"Losing a hand in an accident can change a worker's life. Traditional prosthetic hands can cost more than 20 million pesos, a price most rural families cannot pay. A foundation in Bucaramanga now uses 3D printers to make plastic hands for about 300,000 pesos. The printed hands are less strong than professional ones, but they are light, easy to repair and affordable. Children especially benefit, because they grow quickly and need a new prosthesis every year.\"\n\nIn the text, the word \"affordable\" means:",
+      "context": "Reading a report about 3D-printed prosthetic hands made in Bucaramanga.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "letter": "A",
+          "text": "easy to repair",
+          "is_correct": false,
+          "feedback": "'Easy to repair' is listed as a separate quality in the same sentence, so it cannot be the meaning of 'affordable'."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "letter": "B",
+          "text": "cheap enough for people to buy",
+          "is_correct": true,
+          "feedback": "The text contrasts 20 million pesos, which families 'cannot pay', with about 300,000 pesos, so 'affordable' describes a price people are able to pay."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "very strong",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "The text says the printed hands are 'less strong' than professional ones, so 'affordable' cannot mean strong."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Pereira.",
+          "text": "light in weight",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "'Light' is another quality in the same list. A word in a list usually adds a new idea instead of repeating one."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "When a word appears in a list, the other items in the list are usually different qualities, so they make good distractors. The price comparison earlier in the text is the context that explains the meaning of 'affordable'.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -377,36 +377,36 @@
     },
     {
       "id": "CO-ING-11-2026-W03-technological-breakthroughs-001-MASTERY-bundle-v9",
-      "statement": "According to a recent report on technological breakthroughs in Cali, what is implied about the role of Advanced Passive Voice in shaping public opinion?",
-      "context": "Discussing technological breakthroughs in Cali.",
+      "statement": "Read the text and answer the question.\n\n\"When the pandemic closed schools in 2020, students in the rural areas of Boyacá had a serious problem: many homes had no internet connection. Some teachers recorded lessons on the local radio station, while others printed worksheets and delivered them by motorbike. Today, a satellite internet project connects 40 rural schools in the department. Teachers say the connection is still slow on rainy days, but students can now send homework online and join video classes with schools in Tunja.\"\n\nAccording to the text, what problem still exists with the satellite internet?",
+      "context": "Reading an article about satellite internet in rural schools in Boyacá.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "letter": "A",
+          "text": "It only works in the city of Tunja.",
+          "is_correct": false,
+          "feedback": "The satellite internet connects rural schools; Tunja is mentioned as a place students can connect with, not as the only place it works."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "letter": "B",
+          "text": "The connection becomes slow when it rains.",
+          "is_correct": true,
+          "feedback": "The teachers say 'the connection is still slow on rainy days'; the word 'still' signals a problem that continues today."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Students cannot send homework online.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "The text says students 'can now send homework online', so this is the opposite of the information given."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Cartagena.",
+          "text": "Teachers must deliver it by motorbike.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Motorbikes were used in 2020 to deliver printed worksheets, not internet. This option mixes two different parts of the text."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Words like 'still' and 'now' help readers separate past problems from present ones. A common trap is an option that takes a detail from the past (motorbike deliveries) and presents it as a current situation.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -423,36 +423,36 @@
     },
     {
       "id": "CO-ING-11-2026-W03-technological-breakthroughs-001-MASTERY-bundle-v10",
-      "statement": "According to a recent report on technological breakthroughs in Barranquilla, what is implied about the role of Advanced Passive Voice in shaping public opinion?",
-      "context": "Discussing technological breakthroughs in Barranquilla.",
+      "statement": "Read the text and answer the question.\n\n\"Artificial intelligence tools can now write an essay in seconds. Some teachers in my school in Ibagué want to ban them completely. I understand their fear, but I think a ban will not work, because students can use these tools at home. A better solution is to teach us how to use them responsibly: to check facts, to give credit, and to write our own ideas first. Technology is not the enemy of learning; using it without thinking is.\"\n\nWhat is the writer's position on AI tools?",
+      "context": "Reading a student's opinion article in Ibagué about artificial intelligence and homework.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "Students should learn to use them responsibly instead of having them banned.",
           "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "feedback": "The writer rejects the ban ('will not work') and proposes 'a better solution': teaching responsible use, with concrete examples such as checking facts."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Schools should ban them completely.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "This is the teachers' position, which the writer understands but disagrees with."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "They always provide accurate facts.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "The writer says students must learn 'to check facts', which suggests the tools can be wrong."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Pereira.",
+          "text": "They are the enemy of learning.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "The last sentence says 'Technology is not the enemy of learning'; the problem is using it without thinking."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Opinion texts often present another group's view first and then the writer's own view after 'but'. Students should distinguish whose opinion each sentence expresses before choosing the answer.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -473,16 +473,16 @@
       "context": "Discussing technological breakthroughs in Barranquilla.",
       "options": [
         {
-          "letter": "B",
-          "text": "fabricated",
-          "is_correct": true,
-          "feedback": "'Fabricate' means to manufacture a physical object, and a chip is made rather than assembled from parts. The participle follows 'was' as a passive adjective, and the thickness mentioned is a property of a manufactured item."
-        },
-        {
           "letter": "A",
           "text": "conceived",
           "is_correct": false,
           "feedback": "'Conceive' means to form the idea of something, which applies to a design on paper rather than to a physical object. A chip with a stated thickness is a manufactured thing, not an idea."
+        },
+        {
+          "letter": "B",
+          "text": "fabricated",
+          "is_correct": true,
+          "feedback": "'Fabricate' means to manufacture a physical object, and a chip is made rather than assembled from parts. The participle follows 'was' as a passive adjective, and the thickness mentioned is a property of a manufactured item."
         },
         {
           "letter": "C",
@@ -519,12 +519,6 @@
       "context": "Discussing technological breakthroughs in Manizales.",
       "options": [
         {
-          "letter": "C",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -535,6 +529,12 @@
           "text": "was",
           "is_correct": false,
           "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+        },
+        {
+          "letter": "C",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
         },
         {
           "letter": "D",
@@ -611,16 +611,16 @@
       "context": "Discussing technological breakthroughs in Cali.",
       "options": [
         {
-          "letter": "B",
-          "text": "could hire",
-          "is_correct": true,
-          "feedback": "After an emphatic negative opening such as 'It was not until... that', the subject and verb invert, so 'technician' and 'could hire' swap places. A modal makes the ability to recruit available once the money arrived."
-        },
-        {
           "letter": "A",
           "text": "can hire",
           "is_correct": false,
           "feedback": "'Can' is present, and the sentence establishes a past situation resolved at a point in time. The period of not hiring belonged to the past, so the modal has to be the past form."
+        },
+        {
+          "letter": "B",
+          "text": "could hire",
+          "is_correct": true,
+          "feedback": "After an emphatic negative opening such as 'It was not until... that', the subject and verb invert, so 'technician' and 'could hire' swap places. A modal makes the ability to recruit available once the money arrived."
         },
         {
           "letter": "C",
@@ -657,12 +657,6 @@
       "context": "Discussing technological breakthroughs in Cartagena.",
       "options": [
         {
-          "letter": "D",
-          "text": "could",
-          "is_correct": true,
-          "feedback": "'Only when...' makes a restrictive conditional, and the rest of the sentence needs a modal: 'could the new treatment be considered safe'. The perfect 'have been considered' would place the condition in the past, which the sentence does not do."
-        },
-        {
           "letter": "A",
           "text": "would",
           "is_correct": false,
@@ -679,6 +673,12 @@
           "text": "should",
           "is_correct": false,
           "feedback": "'Should' is used for advice, recommendations or expected outcomes, and it would suggest that somebody ought to make the treatment safe. Nothing in the sentence recommends an action; it sets a condition for a possibility."
+        },
+        {
+          "letter": "D",
+          "text": "could",
+          "is_correct": true,
+          "feedback": "'Only when...' makes a restrictive conditional, and the rest of the sentence needs a modal: 'could the new treatment be considered safe'. The perfect 'have been considered' would place the condition in the past, which the sentence does not do."
         }
       ],
       "correct_answer": "D",
@@ -699,36 +699,36 @@
     },
     {
       "id": "CO-ING-11-2026-W03-technological-breakthroughs-001-MASTERY-bundle-v16",
-      "statement": "Complete the following sentence about technological breakthroughs: 'The report notes that the equipment __________ the university two years ago has since been replaced, and the original was never decommissioned properly.' (Topic: reduced relative clause introduced by a noun phrase)",
-      "context": "Discussing technological breakthroughs in Medellín.",
+      "statement": "Complete the following sentence about technological breakthroughs: 'The report notes that the scanner, __________ the university bought two years ago, has already been replaced by a faster model.' (Topic: non-defining relative clauses)",
+      "context": "Reading a university report about replacing old laboratory equipment in Medellín.",
       "options": [
-        {
-          "letter": "C",
-          "text": "which",
-          "is_correct": true,
-          "feedback": "A non-defining relative clause about a specific piece of equipment is introduced by 'which' or 'that', and the comma before it signals the non-defining form. The clause adds information about an item already identified rather than defining which one is meant."
-        },
         {
           "letter": "A",
           "text": "what",
           "is_correct": false,
-          "feedback": "'What' introduces a clause acting as a subject or object, not a relative clause identifying a noun. A defining clause here would need to come without a comma and would not permit an item already referred to."
+          "feedback": "'What' means 'the thing that' and cannot refer back to a noun already mentioned. 'The scanner, what the university bought' is not correct English."
         },
         {
           "letter": "B",
           "text": "where",
           "is_correct": false,
-          "feedback": "'Where' refers to a place, and no location is involved in the relative information about the equipment or its replacement. The clause comments on the object rather than on a site."
+          "feedback": "'Where' refers to a place. The clause describes an object the university bought, so it needs a pronoun for a thing, not for a location."
+        },
+        {
+          "letter": "C",
+          "text": "which",
+          "is_correct": true,
+          "feedback": "'Which' introduces a non-defining clause about a thing, and here it is the object of 'bought': 'the scanner, which the university bought two years ago, has already been replaced'."
         },
         {
           "letter": "D",
           "text": "whose",
           "is_correct": false,
-          "feedback": "'Whose' introduces a clause showing possession, and the clause here describes what happened to the equipment rather than who owns it. The subject of the relative clause is 'the university', which cannot follow 'whose'."
+          "feedback": "'Whose' shows possession and must be followed by a noun ('whose screen'). Here the verb 'the university bought' needs an object pronoun, not a possessive."
         }
       ],
       "correct_answer": "C",
-      "explanation": "At C1+ a comma before a relative clause tells the student that the clause is non-defining and that the noun is already identified. That punctuation removes any need to choose between 'which' and 'that' and narrows the question to the relative pronoun itself.\n\n---",
+      "explanation": "Non-defining relative clauses go between commas and add extra information about a noun. For things we use 'which' (never 'that' after a comma). To check, remove the clause: 'The scanner has already been replaced' must still be a complete sentence.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -749,16 +749,16 @@
       "context": "Discussing technological breakthroughs in Medellín.",
       "options": [
         {
-          "letter": "B",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
           "text": "They are literally looking for something in the trees of Bucaramanga.",
           "is_correct": false,
           "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+        },
+        {
+          "letter": "B",
+          "text": "The current strategy is directed towards the wrong objective.",
+          "is_correct": true,
+          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
         },
         {
           "letter": "C",
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-ING-11-2026-W03-technological-breakthroughs-001-MASTERY-bundle-v18",
-      "statement": "In a high-level debate about technological breakthroughs, Sebastián says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Sebastián mean?",
-      "context": "Discussing technological breakthroughs in Medellín.",
+      "statement": "Read the conversation.\n\nDaniel: \"The prototype battery overheated during the final test.\"\nValeria: \"So we're back to square one?\"\nDaniel: \"Not completely. The software still works.\"\n\nWhat does Valeria's question mean?",
+      "context": "Two engineering students in Bucaramanga discuss a failed battery test.",
       "options": [
         {
           "letter": "A",
-          "text": "The current strategy is directed towards the wrong objective.",
+          "text": "She wonders if they have to start the project again from the beginning.",
           "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "feedback": "'Back to square one' means returning to the starting point after a failure; Daniel's answer 'Not completely' shows that only part of the work is lost."
         },
         {
           "letter": "B",
-          "text": "They are literally looking for something in the trees of Bucaramanga.",
+          "text": "She wants to move the test to a different room.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "This is a literal reading of 'square'. Valeria reacts to the failed test, not to the location."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "She thinks the battery needs a square shape.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "The idiom has nothing to do with shape. It is a fixed expression about progress in a project."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "She believes the project is finished successfully.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "The battery overheated, so the test failed; her question expresses worry, not success."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "In dialogues, the response often clarifies the meaning of an idiom. Daniel's 'Not completely. The software still works' answers the question of whether all progress was lost, which confirms the meaning of 'back to square one'.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -837,36 +837,36 @@
     },
     {
       "id": "CO-ING-11-2026-W03-technological-breakthroughs-001-MASTERY-bundle-v19",
-      "statement": "In a high-level debate about technological breakthroughs, Lucía says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Lucía mean?",
-      "context": "Discussing technological breakthroughs in Pereira.",
+      "statement": "Read what the teacher says.\n\nTeacher: \"Your team has two weeks to come up with an idea for an app that helps farmers in Nariño.\"\n\nWhat does the teacher ask the team to do?",
+      "context": "A teacher in Pasto gives instructions for an innovation project with farmers in Nariño.",
       "options": [
         {
-          "letter": "B",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "letter": "A",
+          "text": "Travel up to Nariño to meet the farmers.",
+          "is_correct": false,
+          "feedback": "This interprets 'come up' as physical movement. The object of the verb is 'an idea', not a place."
         },
         {
-          "letter": "A",
-          "text": "They are literally looking for something in the trees of Medellín.",
-          "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "letter": "B",
+          "text": "Think of and propose an original idea.",
+          "is_correct": true,
+          "feedback": "The phrasal verb 'come up with' means to think of or produce a plan or idea; the deadline of two weeks refers to creating that idea."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Copy an app that already exists.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "'Come up with' implies creating something new, which is the opposite of copying an existing app."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Download an app on the farmers' phones.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "The app does not exist yet; the team must first produce the idea for it."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "Phrasal verbs with two particles, like 'come up with', usually have a meaning that cannot be guessed from 'come' or 'up'. The object that follows ('an idea') is the best clue to the meaning.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -883,36 +883,36 @@
     },
     {
       "id": "CO-ING-11-2026-W03-technological-breakthroughs-001-MASTERY-bundle-v20",
-      "statement": "In a high-level debate about technological breakthroughs, Daniela says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Daniela mean?",
-      "context": "Discussing technological breakthroughs in Manizales.",
+      "statement": "Read what the manager says.\n\nManager: \"The funding for the robotics lab won't arrive until June, but let's get the ball rolling by choosing the team now.\"\n\nWhat does the manager propose?",
+      "context": "A project manager in Bogotá talks about starting a robotics lab before funding arrives.",
       "options": [
         {
           "letter": "A",
-          "text": "The current strategy is directed towards the wrong objective.",
+          "text": "Starting the first steps of the project before the money arrives.",
           "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "feedback": "'Get the ball rolling' means to start an activity; the manager proposes choosing the team now, even though the funding comes later."
         },
         {
           "letter": "B",
-          "text": "They are literally looking for something in the trees of Cartagena.",
+          "text": "Buying sports equipment for the robotics lab.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "'Ball' is part of the idiom, not a real object. The lab is for robots, not for sports."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Waiting until June to make any decisions.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "The word 'but' and the word 'now' show that the manager does not want to wait."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Cancelling the project because of the delay.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "The manager wants to begin the project, not cancel it; the delay is only in the funding."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "Idioms of starting ('get the ball rolling', 'kick off') often appear after a contrast with a delay or obstacle. Here 'but ... now' shows the manager's intention to begin immediately despite the late funding.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

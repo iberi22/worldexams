@@ -875,9 +875,9 @@
         },
         {
           "letter": "B",
-          "text": "Una connotación afectiva que asocia la identidad nacional con la marca.",
-          "is_correct": true,
-          "feedback": "¡Correcto! La marca aprovecha el valor emocional e identitario del símbolo patrio para persuadir al consumidor."
+          "text": "Una barrera física entre el cliente y el mercado nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No establece barreras físicas."
         },
         {
           "letter": "C",
@@ -887,12 +887,12 @@
         },
         {
           "letter": "D",
-          "text": "Una barrera física entre el cliente y el mercado nacional.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No establece barreras físicas."
+          "text": "Una connotación afectiva que asocia la identidad nacional con la marca.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La marca aprovecha el valor emocional e identitario del símbolo patrio para persuadir al consumidor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La connotación publicitaria transfiere valores culturales y afectivos preexistentes en la sociedad hacia las marcas comerciales.",
       "difficulty": "10",
       "images": [],

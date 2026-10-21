@@ -869,15 +869,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "$f^{-1}(x) = 2^x$",
-          "is_correct": true,
-          "feedback": "Correcto. La inversa de una función logarítmica es la exponencial de la misma base, porque $2^x = y \\iff \\log_2(y) = x$."
-        },
-        {
-          "letter": "B",
           "text": "$f^{-1}(x) = \\log_2(x)$",
           "is_correct": false,
           "feedback": "Sería la función misma, lo que solo ocurre si $f$ fuera su propia inversa, y no es el caso de un logaritmo."
+        },
+        {
+          "letter": "B",
+          "text": "$f^{-1}(x) = 2^x$",
+          "is_correct": true,
+          "feedback": "Correcto. La inversa de una función logarítmica es la exponencial de la misma base, porque $2^x = y \\iff \\log_2(y) = x$."
         },
         {
           "letter": "C",
@@ -892,7 +892,7 @@
           "feedback": "Multiplicar por la base es una operación lineal y no tiene relación con la inversa de un logaritmo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Escribiendo $y = \\log_2(x)$ y despejando en forma exponencial se obtiene $2^y = x$. Al intercambiar el nombre de las variables, el criterio de la inversa es $f^{-1}(x) = 2^x$. Esto es el reverso exacto de lo que ocurre con una exponencial, cuya inversa es el logaritmo de la misma base.\n\n---",
       "difficulty": "10",
       "images": [],

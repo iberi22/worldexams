@@ -34,14 +34,14 @@ Vocabulary of basic clothes and simple expressions to describe weather and seaso
 Which word in English names the piece of clothing you wear to keep warm on cold Bogota mornings?
 
 ### Opciones
-- [x] D) Jacket.
-  <!-- feedback: A jacket is a warm outer piece of clothing worn in cold weather. -->
 - [ ] A) Shorts.
   <!-- feedback: Shorts are short pants worn in hot weather, not in cold weather. -->
 - [ ] B) Sandals.
   <!-- feedback: Sandals are open shoes for hot days, not for cold mornings. -->
 - [ ] C) Cap.
   <!-- feedback: A cap protects from the sun, but it does not keep the body warm. -->
+- [x] D) Jacket.
+  <!-- feedback: A jacket is a warm outer piece of clothing worn in cold weather. -->
 
 ### Explicacion Pedagogica
 Identifying basic clothes vocabulary by its use in cold weather in English (jacket, shorts, sandals, cap).
@@ -57,14 +57,14 @@ Identifying basic clothes vocabulary by its use in cold weather in English (jack
 Why does Laura wear a T-shirt and shorts?
 
 ### Opciones
-- [x] D) Because it is a sunny and very hot day in Cartagena.
-  <!-- feedback: The text directly states that the sunny hot weather is the reason for her clothes. -->
 - [ ] A) Because it is a cold morning with rain.
   <!-- feedback: Cold and rain are not mentioned; the day is described as sunny and hot. -->
 - [ ] B) Because she goes to swim in a cold river.
   <!-- feedback: Swimming in a river is not mentioned in the passage. -->
 - [ ] C) Because she likes winter and snow.
   <!-- feedback: Winter and snow are not part of the Cartagena context. -->
+- [x] D) Because it is a sunny and very hot day in Cartagena.
+  <!-- feedback: The text directly states that the sunny hot weather is the reason for her clothes. -->
 
 ### Explicacion Pedagogica
 Inferring the reason for wearing certain clothes from a short descriptive text in English.
@@ -80,14 +80,14 @@ Inferring the reason for wearing certain clothes from a short descriptive text i
 Which sentence correctly describes what the boy does using the Simple Present?
 
 ### Opciones
-- [x] D) He takes his umbrella because it is the rainy season.
-  <!-- feedback: "Takes" agrees with the third person singular subject "he". -->
 - [ ] A) He take his umbrella because it is the rainy season.
   <!-- feedback: "Take" without -s is incorrect with "he" in Simple Present. -->
 - [ ] B) He taking his umbrella because it is the rainy season.
   <!-- feedback: "Taking" is a gerund and needs an auxiliary verb in this construction. -->
 - [ ] C) He takes his umbrellas because it is the rainy season.
   <!-- feedback: "Umbrellas" in plural is incorrect; he takes one umbrella. -->
+- [x] D) He takes his umbrella because it is the rainy season.
+  <!-- feedback: "Takes" agrees with the third person singular subject "he". -->
 
 ### Explicacion Pedagogica
 Using the verb "take" with the third person singular to describe clothes and objects for rainy weather in English.
@@ -149,10 +149,10 @@ Using "because" to connect weather causes and clothing choices in English.
 What does Sofia pack for each city?
 
 ### Opciones
-- [x] B) Light clothes for hot Cartagena and warm clothes for cold Bogota.
-  <!-- feedback: The text lists T-shirts and shorts for Cartagena and jacket, sweater and boots for Bogota. -->
 - [ ] A) A jacket and boots for Cartagena and shorts for Bogota.
   <!-- feedback: The suitcase lists are reversed; warm clothes are for Bogota, not Cartagena. -->
+- [x] B) Light clothes for hot Cartagena and warm clothes for cold Bogota.
+  <!-- feedback: The text lists T-shirts and shorts for Cartagena and jacket, sweater and boots for Bogota. -->
 - [ ] C) Only an umbrella for both cities.
   <!-- feedback: An umbrella is not mentioned in her suitcase lists. -->
 - [ ] D) The same winter coat for both cities.
@@ -172,10 +172,10 @@ Identifying appropriate clothes for different Colombian climates from a short de
 Which comparison correctly explains why their clothes are different?
 
 ### Opciones
-- [x] B) Diego dresses for hot sunny weather, while Camilo dresses for cold weather.
-  <!-- feedback: Shorts and T-shirt suit heat, while sweater, jacket and boots suit cold. -->
 - [ ] A) Diego also wears a sweater and boots in the heat.
   <!-- feedback: The text says Diego wears shorts and a T-shirt, not warm clothes. -->
+- [x] B) Diego dresses for hot sunny weather, while Camilo dresses for cold weather.
+  <!-- feedback: Shorts and T-shirt suit heat, while sweater, jacket and boots suit cold. -->
 - [ ] C) Camilo wears shorts because it is very cold in Tunja.
   <!-- feedback: The text says Camilo wears warm clothes because it is cold. -->
 - [ ] D) Neither Diego nor Camilo chooses clothes for the weather.
@@ -195,12 +195,12 @@ Comparing clothing choices described in English to draw conclusions about weathe
 What is the most important message of this paragraph?
 
 ### Opciones
-- [x] A) People in Colombia choose their clothes according to the weather and the season.
-  <!-- feedback: The text links sunny days, cold mornings and rainy season with different clothes. -->
+- [ ] A) Umbrellas and boots are only for sunny days at the beach.
+  <!-- feedback: The text assigns umbrellas and boots to the rainy season, not sunny days. -->
 - [ ] B) Children should always wear a sweater in Cartagena.
   <!-- feedback: Cartagena is described as sunny, so T-shirts and shorts are worn there. -->
-- [ ] C) Umbrellas and boots are only for sunny days at the beach.
-  <!-- feedback: The text assigns umbrellas and boots to the rainy season, not sunny days. -->
+- [x] C) People in Colombia choose their clothes according to the weather and the season.
+  <!-- feedback: The text links sunny days, cold mornings and rainy season with different clothes. -->
 - [ ] D) Jackets and sweaters are useless in Colombia.
   <!-- feedback: The paragraph says jackets and sweaters are worn on cold Bogota mornings. -->
 

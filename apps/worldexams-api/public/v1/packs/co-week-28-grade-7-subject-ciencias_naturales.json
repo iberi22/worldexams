@@ -296,9 +296,9 @@
         },
         {
           "letter": "B",
-          "text": "La ducha eléctrica domina el consumo porque su potencia es muy alta aunque se use menos tiempo.",
-          "is_correct": true,
-          "feedback": "Correcta, porque 3500 vatios por 1 hora superan ampliamente a 150 vatios por 4 horas."
+          "text": "Ningún aparato explica la factura porque la energía de la casa es gratuita y el contador no mide nada.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el contador sí mide kilovatios hora y la energía residencial se cobra."
         },
         {
           "letter": "C",
@@ -308,12 +308,12 @@
         },
         {
           "letter": "D",
-          "text": "Ningún aparato explica la factura porque la energía de la casa es gratuita y el contador no mide nada.",
-          "is_correct": false,
-          "feedback": "Incorrecta, porque el contador sí mide kilovatios hora y la energía residencial se cobra."
+          "text": "La ducha eléctrica domina el consumo porque su potencia es muy alta aunque se use menos tiempo.",
+          "is_correct": true,
+          "feedback": "Correcta, porque 3500 vatios por 1 hora superan ampliamente a 150 vatios por 4 horas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La energía se calcula como potencia por tiempo y se cobra en kilovatios hora. La ducha consume 3,5 kilovatios hora al día y el televisor solo 0,6. Por eso en Colombia las duchas eléctricas y los calentadores son los que más pesan en la factura, y reducir su tiempo de uso genera el mayor ahorro.",
       "difficulty": "8",
       "images": [],

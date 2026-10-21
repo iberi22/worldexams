@@ -34,12 +34,12 @@ Características generales del Sistema Solar, orden de los planetas, movimientos
 ¿Cuál es el planeta más cercano al Sol en el Sistema Solar?
 
 ### Opciones
-- [x] C) Mercurio.
-  <!-- feedback: Mercurio es el planeta más cercano al Sol en el Sistema Solar. -->
 - [ ] A) Tierra.
   <!-- feedback: La Tierra es el tercer planeta desde el Sol, no el primero. -->
 - [ ] B) Júpiter.
   <!-- feedback: Júpiter es el quinto planeta desde el Sol, mucho más lejos que Mercurio. -->
+- [x] C) Mercurio.
+  <!-- feedback: Mercurio es el planeta más cercano al Sol en el Sistema Solar. -->
 - [ ] D) Neptuno.
   <!-- feedback: Neptuno es el planeta más lejano del Sol, no el más cercano. -->
 
@@ -103,14 +103,14 @@ Aplicar el orden de los planetas del Sistema Solar a partir del más cercano al 
 Si un astronauta quiere pisar una superficie sólida, ¿a cuál de estos planetas debería viajar?
 
 ### Opciones
-- [x] A) A un planeta rocoso como Marte o la Tierra.
-  <!-- feedback: Los planetas rocosos tienen superficie sólida donde se puede caminar. -->
+- [ ] A) A la Luna, considerada un planeta gaseoso.
+  <!-- feedback: La Luna es un satélite rocoso, no un planeta gaseoso. -->
 - [ ] B) A un planeta gaseoso como Júpiter.
   <!-- feedback: Los planetas gaseosos no tienen superficie sólida donde pisar. -->
 - [ ] C) Al Sol, porque es una gran bola de fuego.
   <!-- feedback: El Sol es una estrella, no un planeta, y no se puede pisar. -->
-- [ ] D) A la Luna, considerada un planeta gaseoso.
-  <!-- feedback: La Luna es un satélite rocoso, no un planeta gaseoso. -->
+- [x] D) A un planeta rocoso como Marte o la Tierra.
+  <!-- feedback: Los planetas rocosos tienen superficie sólida donde se puede caminar. -->
 
 ### Explicacion Pedagogica
 Aplicar la clasificación de planetas rocosos y gaseosos para predecir sus condiciones físicas.
@@ -126,10 +126,10 @@ Aplicar la clasificación de planetas rocosos y gaseosos para predecir sus condi
 ¿Qué consecuencia tiene principalmente el movimiento de traslación de la Tierra?
 
 ### Opciones
-- [x] B) La sucesión de las cuatro estaciones del año (primavera, verano, otoño e invierno).
-  <!-- feedback: La traslación, junto con la inclinación del eje, produce las estaciones. -->
 - [ ] A) El cambio entre el día y la noche en pocas horas.
   <!-- feedback: El día y la noche se explican por la rotación, no por la traslación. -->
+- [x] B) La sucesión de las cuatro estaciones del año (primavera, verano, otoño e invierno).
+  <!-- feedback: La traslación, junto con la inclinación del eje, produce las estaciones. -->
 - [ ] C) El cambio de fase de la Luna cada mes.
   <!-- feedback: Las fases lunares dependen de la posición Luna-Tierra-Sol, no solo de la traslación terrestre. -->
 - [ ] D) La salida y la puesta del Sol.
@@ -149,12 +149,12 @@ Relacionar el movimiento de traslación de la Tierra con la duración del año y
 ¿Qué diferencia estructural y de ubicación existe entre Mercurio y Júpiter?
 
 ### Opciones
-- [x] C) Mercurio es un planeta rocoso pequeño cercano al Sol; Júpiter es un planeta gaseoso gigante y lejano.
-  <!-- feedback: Mercurio es rocoso y cercano al Sol; Júpiter es gaseoso, gigante y mucho más lejano. -->
 - [ ] A) Ambos son planetas gaseosos del mismo tamaño.
   <!-- feedback: Mercurio es rocoso y pequeño, mientras Júpiter es gaseoso y enorme. -->
 - [ ] B) Mercurio es el planeta más grande y Júpiter el más pequeño.
   <!-- feedback: Es al revés: Júpiter es el planeta más grande del Sistema Solar. -->
+- [x] C) Mercurio es un planeta rocoso pequeño cercano al Sol; Júpiter es un planeta gaseoso gigante y lejano.
+  <!-- feedback: Mercurio es rocoso y cercano al Sol; Júpiter es gaseoso, gigante y mucho más lejano. -->
 - [ ] D) Ninguno de los dos pertenece al Sistema Solar.
   <!-- feedback: Mercurio y Júpiter son planetas del Sistema Solar. -->
 
@@ -172,10 +172,10 @@ Comparar las características de un planeta rocoso cercano al Sol con un planeta
 ¿Qué criterio diferenció a Plutón de los planetas clásicos como la Tierra o Júpiter?
 
 ### Opciones
-- [x] B) No cumple con todas las condiciones para ser considerado un planeta, por ejemplo limpiar su órbita.
-  <!-- feedback: Plutón comparte su órbita con otros cuerpos, por eso se reclasificó como planeta enano. -->
 - [ ] A) Está más cerca del Sol que Mercurio.
   <!-- feedback: Plutón está más lejos del Sol que Neptuno, no más cerca que Mercurio. -->
+- [x] B) No cumple con todas las condiciones para ser considerado un planeta, por ejemplo limpiar su órbita.
+  <!-- feedback: Plutón comparte su órbita con otros cuerpos, por eso se reclasificó como planeta enano. -->
 - [ ] C) Es el único planeta con anillos visibles.
   <!-- feedback: Plutón no posee anillos visibles como Saturno. -->
 - [ ] D) Tiene agua líquida en su superficie.
@@ -195,10 +195,10 @@ Analizar los criterios científicos que permiten distinguir planetas, planetas e
 ¿Por qué la Tierra es especial en el Sistema Solar y qué debemos hacer para conservar esas condiciones?
 
 ### Opciones
-- [x] B) Porque reúne condiciones para la vida, y debemos cuidar la atmósfera, el agua y la temperatura.
-  <!-- feedback: Las condiciones especiales de la Tierra permiten la vida y deben ser protegidas. -->
 - [ ] A) Porque es el planeta más grande del Sistema Solar.
   <!-- feedback: La Tierra no es el planeta más grande; Júpiter lo es. -->
+- [x] B) Porque reúne condiciones para la vida, y debemos cuidar la atmósfera, el agua y la temperatura.
+  <!-- feedback: Las condiciones especiales de la Tierra permiten la vida y deben ser protegidas. -->
 - [ ] C) Porque no tiene atmósfera ni agua como los demás planetas.
   <!-- feedback: La Tierra sí tiene atmósfera y agua, a diferencia de muchos otros planetas. -->
 - [ ] D) Porque no se mueve ni rota sobre sí misma.

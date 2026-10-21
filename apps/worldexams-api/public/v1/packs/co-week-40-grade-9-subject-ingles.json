@@ -8,558 +8,6 @@
   },
   "questions": [
     {
-      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v1",
-      "statement": "After exams, Sara feels tired and overwhelmed. She needs to express a strong emotion. Which word best fits?",
-      "context": "Sara, estudiante de noveno en Medellín, se siente agotada tras la semana de exámenes.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "hungry",
-          "is_correct": false,
-          "feedback": "Incorrect. Hungry relates to food, not emotions."
-        },
-        {
-          "letter": "B",
-          "text": "overwhelmed",
-          "is_correct": true,
-          "feedback": "Correct! \"Overwhelmed\" describes feeling emotionally overloaded."
-        },
-        {
-          "letter": "C",
-          "text": "bored",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Bored\" means lack of interest."
-        },
-        {
-          "letter": "D",
-          "text": "jealous",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Jealous\" is about envy."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Overwhelmed\" describe sentirse emocionalmente sobrepasado, un vocablo útil para hablar de salud mental en inglés B2.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.9,
-      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": "B2",
-      "subject": "ingles",
-      "grade": 9,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v2",
-      "statement": "Which vocabulary word is related to sleeping well?",
-      "context": "En Bogotá, una campaña escolar habla de hábitos para dormir mejor.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "budget",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Budget\" refers to money."
-        },
-        {
-          "letter": "B",
-          "text": "protein",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Protein\" is a nutrient."
-        },
-        {
-          "letter": "C",
-          "text": "sleep routine",
-          "is_correct": true,
-          "feedback": "Correct! A \"sleep routine\" helps rest quality."
-        },
-        {
-          "letter": "D",
-          "text": "deadline",
-          "is_correct": false,
-          "feedback": "Incorrect. A \"deadline\" is a date limit."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "\"Sleep routine\" es vocabulario esencial para hablar de hábitos saludables en inglés.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.88,
-      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": "B2",
-      "subject": "ingles",
-      "grade": 9,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v3",
-      "statement": "What is the function of \"should\" in the advice \"You should talk to someone you trust\"?",
-      "context": "Andrés, en Cali, escucha a su amiga decir: \"You should talk to someone you trust.\"",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Expressing past ability",
-          "is_correct": false,
-          "feedback": "Incorrect. Past ability uses \"could\"."
-        },
-        {
-          "letter": "B",
-          "text": "Giving advice or a recommendation",
-          "is_correct": true,
-          "feedback": "Correct! \"Should\" gives advice."
-        },
-        {
-          "letter": "C",
-          "text": "Talking about a future plan",
-          "is_correct": false,
-          "feedback": "Incorrect. Future plans use \"will\" or \"be going to\"."
-        },
-        {
-          "letter": "D",
-          "text": "Expressing prohibition",
-          "is_correct": false,
-          "feedback": "Incorrect. Prohibition uses \"mustn't\"."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Should\" se utiliza para dar consejos o recomendaciones, especialmente en temas de bienestar.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Pragmática",
-      "expected_success": 0.85,
-      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": "B2",
-      "subject": "ingles",
-      "grade": 9,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v4",
-      "statement": "A friend says: \"I feel anxious before tests. What should I do?\" The most supportive response is:",
-      "context": "En una clase en Barranquilla, los estudiantes hablan de cómo enfrentar la presión académica.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "\"You should stop studying completely.\"",
-          "is_correct": false,
-          "feedback": "Incorrect. This is too extreme and not helpful."
-        },
-        {
-          "letter": "B",
-          "text": "\"You shouldn't tell anyone how you feel.\"",
-          "is_correct": false,
-          "feedback": "Incorrect. Hiding emotions is unhealthy."
-        },
-        {
-          "letter": "C",
-          "text": "\"You should try breathing exercises and talk to a counselor.\"",
-          "is_correct": true,
-          "feedback": "Correct! Combines practical coping and professional support."
-        },
-        {
-          "letter": "D",
-          "text": "\"You should pretend you don't care.\"",
-          "is_correct": false,
-          "feedback": "Incorrect. Dismissing emotions increases stress."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Responder con empatía y sugerencias concretas refleja competencia sociolingüística en salud mental.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Sociolingüística",
-      "expected_success": 0.8,
-      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": "B2",
-      "subject": "ingles",
-      "grade": 9,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v5",
-      "statement": "Complete the sentence using \"should\" or \"shouldn't\":\n\"Teens ________ spend more than eight hours on social media every day.\"",
-      "context": "En Pasto, una cartilla escolar promueve autocuidado.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "should",
-          "is_correct": false,
-          "feedback": "Incorrect. This would recommend a harmful habit."
-        },
-        {
-          "letter": "B",
-          "text": "shouldn't",
-          "is_correct": true,
-          "feedback": "Correct! \"Shouldn't\" advises against excess."
-        },
-        {
-          "letter": "C",
-          "text": "should have",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Should have\" refers to past actions."
-        },
-        {
-          "letter": "D",
-          "text": "shouldn't have",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Shouldn't have\" refers to past regrets."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "\"Shouldn't\" expresa recomendación en contra de una conducta, ideal para consejos de bienestar digital.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.75,
-      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": "B2",
-      "subject": "ingles",
-      "grade": 9,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v6",
-      "statement": "Choose the best option to complete the mindfulness tip:\n\"To reduce stress, you ________ practice five minutes of mindful breathing daily.\"",
-      "context": "En Manizales, Juan comparte consejos de mindfulness en una presentación.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "mustn't",
-          "is_correct": false,
-          "feedback": "Incorrect. This would forbid a healthy habit."
-        },
-        {
-          "letter": "B",
-          "text": "couldn't",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Couldn't\" refers to past inability."
-        },
-        {
-          "letter": "C",
-          "text": "should",
-          "is_correct": true,
-          "feedback": "Correct! Recommends a positive daily habit."
-        },
-        {
-          "letter": "D",
-          "text": "might",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Might\" suggests weak possibility, not advice."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "\"Should\" recomienda hábitos de mindfulness adecuados para reducir estrés cotidiano.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Pragmática",
-      "expected_success": 0.7,
-      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": "B2",
-      "subject": "ingles",
-      "grade": 9,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v7",
-      "statement": "Which sentence expresses the **strongest** recommendation?",
-      "context": "En un foro en Tunja, se comparan consejos de autocuidado.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "You must see a therapist if you feel depressed.",
-          "is_correct": true,
-          "feedback": "Correct! \"Must\" gives the strongest obligation."
-        },
-        {
-          "letter": "B",
-          "text": "You should see a therapist if you feel depressed.",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Should\" is advice, weaker than \"must\"."
-        },
-        {
-          "letter": "C",
-          "text": "You might see a therapist if you feel depressed.",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Might\" expresses possibility, not recommendation."
-        },
-        {
-          "letter": "D",
-          "text": "You could see a therapist if you feel depressed.",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Could\" suggests option, not strong advice."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La escala de recomendación va de could/should a must; reconocerla es clave en B2.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.65,
-      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": "B2",
-      "subject": "ingles",
-      "grade": 9,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v8",
-      "statement": "Identify the tone of this social media post:\n\"Asking for help is a sign of strength, not weakness. You should never feel ashamed.\"",
-      "context": "En Bucaramanga, los estudiantes debaten sobre el estigma en salud mental.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Sarcastic and dismissive",
-          "is_correct": false,
-          "feedback": "Incorrect. The message is supportive."
-        },
-        {
-          "letter": "B",
-          "text": "Supportive and destigmatizing",
-          "is_correct": true,
-          "feedback": "Correct! The post validates asking for help."
-        },
-        {
-          "letter": "C",
-          "text": "Aggressive and accusatory",
-          "is_correct": false,
-          "feedback": "Incorrect. It is not hostile."
-        },
-        {
-          "letter": "D",
-          "text": "Neutral and detached",
-          "is_correct": false,
-          "feedback": "Incorrect. The tone is clearly empathetic."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Reconocer el tono de mensajes sobre salud mental fortalece la competencia sociolingüística.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Sociolingüística",
-      "expected_success": 0.6,
-      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": "B2",
-      "subject": "ingles",
-      "grade": 9,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v9",
-      "statement": "Read the advice: \"If you feel anxious, you shouldn't isolate yourself. You should reach out to a friend.\"\nWhat is the **main pragmatic function**?",
-      "context": "En Armenia, una psicóloga escolar explica estrategias de regulación emocional.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "To describe a scientific experiment",
-          "is_correct": false,
-          "feedback": "Incorrect. It is not descriptive scientific text."
-        },
-        {
-          "letter": "B",
-          "text": "To narrate a personal story",
-          "is_correct": false,
-          "feedback": "Incorrect. It is not narrative."
-        },
-        {
-          "letter": "C",
-          "text": "To give two pieces of practical advice against isolation",
-          "is_correct": true,
-          "feedback": "Correct! Combines a warning and a recommendation."
-        },
-        {
-          "letter": "D",
-          "text": "To make a hypothesis",
-          "is_correct": false,
-          "feedback": "Incorrect. The advice is concrete."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La función pragmática aquí es la recomendación práctica contra el aislamiento emocional.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Pragmática",
-      "expected_success": 0.55,
-      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": "B2",
-      "subject": "ingles",
-      "grade": 9,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v10",
-      "statement": "Identify the **grammatical error** in this wellness tip:\n\"You should to take breaks, and you shouldn't working nonstop.\"",
-      "context": "En un examen final en Pereira, se evalúa el uso correcto de \"should\" y \"shouldn't\".",
-      "options": [
-        {
-          "letter": "A",
-          "text": "\"should to take\"",
-          "is_correct": false,
-          "feedback": "Incorrect. The error is in the second clause."
-        },
-        {
-          "letter": "B",
-          "text": "\"shouldn't working\"",
-          "is_correct": true,
-          "feedback": "Correct! After \"should/shouldn't\" use the base verb without \"to\" or \"-ing\"."
-        },
-        {
-          "letter": "C",
-          "text": "\"you should\"",
-          "is_correct": false,
-          "feedback": "Incorrect. This is correct."
-        },
-        {
-          "letter": "D",
-          "text": "\"take breaks\"",
-          "is_correct": false,
-          "feedback": "Incorrect. This phrase is correct."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Tras \"should\" o \"shouldn't\" se usa el verbo en su forma base, sin \"to\" ni \"-ing\".\n\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lingüística",
-      "expected_success": 0.5,
-      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": "B2",
-      "subject": "ingles",
-      "grade": 9,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v11",
-      "statement": "Which response is most appropriate when a classmate says \"I feel really down these days\"?",
-      "context": "En un debate en Bogotá, los estudiantes discuten qué consejo dar a un compañero triste.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "\"You shouldn't talk about it. Just forget it.\"",
-          "is_correct": false,
-          "feedback": "Incorrect. Dismissing feelings is harmful."
-        },
-        {
-          "letter": "B",
-          "text": "\"You must stop being sad right now.\"",
-          "is_correct": false,
-          "feedback": "Incorrect. You cannot command an emotion to disappear."
-        },
-        {
-          "letter": "C",
-          "text": "\"I'm here for you. You should consider talking to a trusted adult.\"",
-          "is_correct": true,
-          "feedback": "Correct! Combines empathy and a constructive recommendation."
-        },
-        {
-          "letter": "D",
-          "text": "\"Everyone feels sad sometimes, so just ignore it.\"",
-          "is_correct": false,
-          "feedback": "Incorrect. Ignoring persistent sadness is not advisable."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Una respuesta empática con recomendación práctica es la más adecuada ante emociones difíciles.\n\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Pragmática",
-      "expected_success": 0.45,
-      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": "B2",
-      "subject": "ingles",
-      "grade": 9,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v12",
-      "statement": "Evaluate the effectiveness of this school campaign slogan:\n\"Mental health matters. You should start the conversation today!\"",
-      "context": "En Cartagena, los jóvenes crean una campaña digital sobre bienestar emocional.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Ineffective because it uses slang.",
-          "is_correct": false,
-          "feedback": "Incorrect. The slogan uses standard English."
-        },
-        {
-          "letter": "B",
-          "text": "Effective because it uses clear, encouraging language with a recommendation.",
-          "is_correct": true,
-          "feedback": "Correct! It is clear, supportive, and gives actionable advice."
-        },
-        {
-          "letter": "C",
-          "text": "Ineffective because it is too long.",
-          "is_correct": false,
-          "feedback": "Incorrect. Length is appropriate."
-        },
-        {
-          "letter": "D",
-          "text": "Effective because it threatens the reader.",
-          "is_correct": false,
-          "feedback": "Incorrect. The slogan is positive, not threatening."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Un buen mensaje de salud mental combina claridad, empatía y una recomendación accionable.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Sociolingüística",
-      "expected_success": 0.55,
-      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": "B2",
-      "subject": "ingles",
-      "grade": 9,
-      "country": "co"
-    },
-    {
       "id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle-v1",
       "statement": "Choose the word that best completes the sentence: \"Globalization has increased the __________ of goods and ideas across borders.\"",
       "context": "A school newspaper in Bogotá is discussing globalization.",
@@ -1104,6 +552,558 @@
       "icfes_type": "Reading Comprehension",
       "expected_success": 0.55,
       "bundle_id": "CO-ING-9-2026-W40-review-p8-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v1",
+      "statement": "After exams, Sara feels tired and overwhelmed. She needs to express a strong emotion. Which word best fits?",
+      "context": "Sara, estudiante de noveno en Medellín, se siente agotada tras la semana de exámenes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "hungry",
+          "is_correct": false,
+          "feedback": "Incorrect. Hungry relates to food, not emotions."
+        },
+        {
+          "letter": "B",
+          "text": "overwhelmed",
+          "is_correct": true,
+          "feedback": "Correct! \"Overwhelmed\" describes feeling emotionally overloaded."
+        },
+        {
+          "letter": "C",
+          "text": "bored",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Bored\" means lack of interest."
+        },
+        {
+          "letter": "D",
+          "text": "jealous",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Jealous\" is about envy."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Overwhelmed\" describe sentirse emocionalmente sobrepasado, un vocablo útil para hablar de salud mental en inglés B2.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v2",
+      "statement": "Which vocabulary word is related to sleeping well?",
+      "context": "En Bogotá, una campaña escolar habla de hábitos para dormir mejor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "budget",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Budget\" refers to money."
+        },
+        {
+          "letter": "B",
+          "text": "protein",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Protein\" is a nutrient."
+        },
+        {
+          "letter": "C",
+          "text": "sleep routine",
+          "is_correct": true,
+          "feedback": "Correct! A \"sleep routine\" helps rest quality."
+        },
+        {
+          "letter": "D",
+          "text": "deadline",
+          "is_correct": false,
+          "feedback": "Incorrect. A \"deadline\" is a date limit."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Sleep routine\" es vocabulario esencial para hablar de hábitos saludables en inglés.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v3",
+      "statement": "What is the function of \"should\" in the advice \"You should talk to someone you trust\"?",
+      "context": "Andrés, en Cali, escucha a su amiga decir: \"You should talk to someone you trust.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expressing past ability",
+          "is_correct": false,
+          "feedback": "Incorrect. Past ability uses \"could\"."
+        },
+        {
+          "letter": "B",
+          "text": "Giving advice or a recommendation",
+          "is_correct": true,
+          "feedback": "Correct! \"Should\" gives advice."
+        },
+        {
+          "letter": "C",
+          "text": "Talking about a future plan",
+          "is_correct": false,
+          "feedback": "Incorrect. Future plans use \"will\" or \"be going to\"."
+        },
+        {
+          "letter": "D",
+          "text": "Expressing prohibition",
+          "is_correct": false,
+          "feedback": "Incorrect. Prohibition uses \"mustn't\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Should\" se utiliza para dar consejos o recomendaciones, especialmente en temas de bienestar.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v4",
+      "statement": "A friend says: \"I feel anxious before tests. What should I do?\" The most supportive response is:",
+      "context": "En una clase en Barranquilla, los estudiantes hablan de cómo enfrentar la presión académica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"You should stop studying completely.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. This is too extreme and not helpful."
+        },
+        {
+          "letter": "B",
+          "text": "\"You shouldn't tell anyone how you feel.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Hiding emotions is unhealthy."
+        },
+        {
+          "letter": "C",
+          "text": "\"You should try breathing exercises and talk to a counselor.\"",
+          "is_correct": true,
+          "feedback": "Correct! Combines practical coping and professional support."
+        },
+        {
+          "letter": "D",
+          "text": "\"You should pretend you don't care.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Dismissing emotions increases stress."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Responder con empatía y sugerencias concretas refleja competencia sociolingüística en salud mental.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v5",
+      "statement": "Complete the sentence using \"should\" or \"shouldn't\":\n\"Teens ________ spend more than eight hours on social media every day.\"",
+      "context": "En Pasto, una cartilla escolar promueve autocuidado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Incorrect. This would recommend a harmful habit."
+        },
+        {
+          "letter": "B",
+          "text": "shouldn't",
+          "is_correct": true,
+          "feedback": "Correct! \"Shouldn't\" advises against excess."
+        },
+        {
+          "letter": "C",
+          "text": "should have",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Should have\" refers to past actions."
+        },
+        {
+          "letter": "D",
+          "text": "shouldn't have",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Shouldn't have\" refers to past regrets."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Shouldn't\" expresa recomendación en contra de una conducta, ideal para consejos de bienestar digital.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v6",
+      "statement": "Choose the best option to complete the mindfulness tip:\n\"To reduce stress, you ________ practice five minutes of mindful breathing daily.\"",
+      "context": "En Manizales, Juan comparte consejos de mindfulness en una presentación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mustn't",
+          "is_correct": false,
+          "feedback": "Incorrect. This would forbid a healthy habit."
+        },
+        {
+          "letter": "B",
+          "text": "couldn't",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Couldn't\" refers to past inability."
+        },
+        {
+          "letter": "C",
+          "text": "should",
+          "is_correct": true,
+          "feedback": "Correct! Recommends a positive daily habit."
+        },
+        {
+          "letter": "D",
+          "text": "might",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Might\" suggests weak possibility, not advice."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Should\" recomienda hábitos de mindfulness adecuados para reducir estrés cotidiano.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v7",
+      "statement": "Which sentence expresses the **strongest** recommendation?",
+      "context": "En un foro en Tunja, se comparan consejos de autocuidado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You must see a therapist if you feel depressed.",
+          "is_correct": true,
+          "feedback": "Correct! \"Must\" gives the strongest obligation."
+        },
+        {
+          "letter": "B",
+          "text": "You should see a therapist if you feel depressed.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Should\" is advice, weaker than \"must\"."
+        },
+        {
+          "letter": "C",
+          "text": "You might see a therapist if you feel depressed.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Might\" expresses possibility, not recommendation."
+        },
+        {
+          "letter": "D",
+          "text": "You could see a therapist if you feel depressed.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Could\" suggests option, not strong advice."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escala de recomendación va de could/should a must; reconocerla es clave en B2.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.65,
+      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v8",
+      "statement": "Identify the tone of this social media post:\n\"Asking for help is a sign of strength, not weakness. You should never feel ashamed.\"",
+      "context": "En Bucaramanga, los estudiantes debaten sobre el estigma en salud mental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sarcastic and dismissive",
+          "is_correct": false,
+          "feedback": "Incorrect. The message is supportive."
+        },
+        {
+          "letter": "B",
+          "text": "Supportive and destigmatizing",
+          "is_correct": true,
+          "feedback": "Correct! The post validates asking for help."
+        },
+        {
+          "letter": "C",
+          "text": "Aggressive and accusatory",
+          "is_correct": false,
+          "feedback": "Incorrect. It is not hostile."
+        },
+        {
+          "letter": "D",
+          "text": "Neutral and detached",
+          "is_correct": false,
+          "feedback": "Incorrect. The tone is clearly empathetic."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocer el tono de mensajes sobre salud mental fortalece la competencia sociolingüística.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.6,
+      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v9",
+      "statement": "Read the advice: \"If you feel anxious, you shouldn't isolate yourself. You should reach out to a friend.\"\nWhat is the **main pragmatic function**?",
+      "context": "En Armenia, una psicóloga escolar explica estrategias de regulación emocional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To describe a scientific experiment",
+          "is_correct": false,
+          "feedback": "Incorrect. It is not descriptive scientific text."
+        },
+        {
+          "letter": "B",
+          "text": "To narrate a personal story",
+          "is_correct": false,
+          "feedback": "Incorrect. It is not narrative."
+        },
+        {
+          "letter": "C",
+          "text": "To give two pieces of practical advice against isolation",
+          "is_correct": true,
+          "feedback": "Correct! Combines a warning and a recommendation."
+        },
+        {
+          "letter": "D",
+          "text": "To make a hypothesis",
+          "is_correct": false,
+          "feedback": "Incorrect. The advice is concrete."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La función pragmática aquí es la recomendación práctica contra el aislamiento emocional.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v10",
+      "statement": "Identify the **grammatical error** in this wellness tip:\n\"You should to take breaks, and you shouldn't working nonstop.\"",
+      "context": "En un examen final en Pereira, se evalúa el uso correcto de \"should\" y \"shouldn't\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"should to take\"",
+          "is_correct": false,
+          "feedback": "Incorrect. The error is in the second clause."
+        },
+        {
+          "letter": "B",
+          "text": "\"shouldn't working\"",
+          "is_correct": true,
+          "feedback": "Correct! After \"should/shouldn't\" use the base verb without \"to\" or \"-ing\"."
+        },
+        {
+          "letter": "C",
+          "text": "\"you should\"",
+          "is_correct": false,
+          "feedback": "Incorrect. This is correct."
+        },
+        {
+          "letter": "D",
+          "text": "\"take breaks\"",
+          "is_correct": false,
+          "feedback": "Incorrect. This phrase is correct."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tras \"should\" o \"shouldn't\" se usa el verbo en su forma base, sin \"to\" ni \"-ing\".\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.5,
+      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v11",
+      "statement": "Which response is most appropriate when a classmate says \"I feel really down these days\"?",
+      "context": "En un debate en Bogotá, los estudiantes discuten qué consejo dar a un compañero triste.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"You shouldn't talk about it. Just forget it.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Dismissing feelings is harmful."
+        },
+        {
+          "letter": "B",
+          "text": "\"You must stop being sad right now.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. You cannot command an emotion to disappear."
+        },
+        {
+          "letter": "C",
+          "text": "\"I'm here for you. You should consider talking to a trusted adult.\"",
+          "is_correct": true,
+          "feedback": "Correct! Combines empathy and a constructive recommendation."
+        },
+        {
+          "letter": "D",
+          "text": "\"Everyone feels sad sometimes, so just ignore it.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Ignoring persistent sadness is not advisable."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una respuesta empática con recomendación práctica es la más adecuada ante emociones difíciles.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmática",
+      "expected_success": 0.45,
+      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle-v12",
+      "statement": "Evaluate the effectiveness of this school campaign slogan:\n\"Mental health matters. You should start the conversation today!\"",
+      "context": "En Cartagena, los jóvenes crean una campaña digital sobre bienestar emocional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ineffective because it uses slang.",
+          "is_correct": false,
+          "feedback": "Incorrect. The slogan uses standard English."
+        },
+        {
+          "letter": "B",
+          "text": "Effective because it threatens the reader.",
+          "is_correct": false,
+          "feedback": "Incorrect. The slogan is positive, not threatening."
+        },
+        {
+          "letter": "C",
+          "text": "Ineffective because it is too long.",
+          "is_correct": false,
+          "feedback": "Incorrect. Length is appropriate."
+        },
+        {
+          "letter": "D",
+          "text": "Effective because it uses clear, encouraging language with a recommendation.",
+          "is_correct": true,
+          "feedback": "Correct! It is clear, supportive, and gives actionable advice."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un buen mensaje de salud mental combina claridad, empatía y una recomendación accionable.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sociolingüística",
+      "expected_success": 0.55,
+      "bundle_id": "CO-ING-9-2026-W40-mental-health-wellbeing-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
       "cefr_level": "B2",

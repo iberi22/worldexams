@@ -35,10 +35,10 @@ cefr_level: "C1+"
 In the context of cultural diplomacy, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?
 
 ### Opciones
-- [x] B) exacerbate
-  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
 - [ ] A) alleviate
   <!-- feedback: Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed. -->
+- [x] B) exacerbate
+  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
 - [ ] C) mitigate
   <!-- feedback: Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied. -->
 - [ ] D) facilitate
@@ -60,14 +60,14 @@ This question tests advanced vocabulary (verbs of change and impact) suitable fo
 In the context of cultural diplomacy, which word best completes the following sentence: 'A festival that invites foreign troupes but leaves local performers to apply as spectators __________ the exchange it was funded to promote'?
 
 ### Opciones
-- [x] D) undermines
-  <!-- feedback: 'Undermine' means to weaken something gradually from below, and a one-sided invitation list erodes the principle of exchange the funding was meant to build. The contrast with 'it was funded to promote' names what the imbalance undoes. -->
 - [ ] A) strengthens
   <!-- feedback: 'Strengthen' is the opposite of what the sentence describes, since a curated guest list narrows rather than widens participation. Nothing in the clause suggests the exchange became more robust. -->
 - [ ] B) portrays
   <!-- feedback: 'Portray' means to represent or depict, and the clause describes a consequence for participation rather than an image being created. The festival's actual guest list is at issue, not its marketing. -->
 - [ ] C) surrenders
   <!-- feedback: 'Surrender' means to give up possession or control, and no one is ceding anything here. The sentence describes an imbalance in who was invited, which is a weakening rather than a relinquishment. -->
+- [x] D) undermines
+  <!-- feedback: 'Undermine' means to weaken something gradually from below, and a one-sided invitation list erodes the principle of exchange the funding was meant to build. The contrast with 'it was funded to promote' names what the imbalance undoes. -->
 
 ### Explicacion Pedagogica
 Cultural diplomacy writing at C1+ often evaluates an event by comparing what it claims to promote with the practice it actually enacts. Reading the closing clause first supplies the stated aim, and the contrast with the guest list then identifies the verb that describes the gap.
@@ -110,10 +110,10 @@ The C1+ skill here is reading a verb against the whole clause rather than in iso
 In the context of cultural diplomacy, which word best completes the following sentence: 'A cultural institute that pays for foreign tours but not for local artists to travel __________ the very exchange its name implies'?
 
 ### Opciones
-- [x] B) frustrates
-  <!-- feedback: 'Frustrate' means to prevent someone from achieving something they were in a position to achieve, and the one-sided funding blocks the local half of a two-way exchange. The clause 'the very exchange its name implies' names the possibility being blocked. -->
 - [ ] A) encourages
   <!-- feedback: 'Encourage' means to make something more likely, and the sentence describes a barrier rather than a stimulus. A restriction on who can travel cannot be described as promoting the activity. -->
+- [x] B) frustrates
+  <!-- feedback: 'Frustrate' means to prevent someone from achieving something they were in a position to achieve, and the one-sided funding blocks the local half of a two-way exchange. The clause 'the very exchange its name implies' names the possibility being blocked. -->
 - [ ] C) conceals
   <!-- feedback: 'Conceal' means to hide something, and the funding rules are not presented as secret. The problem described is an imbalance in who may travel, which is visible in the budget itself. -->
 - [ ] D) respects
@@ -129,23 +129,27 @@ Institutional writing at C1+ frequently describes a named purpose alongside the 
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.70
-**Contexto:** Discussing cultural diplomacy in Bucaramanga.
+**Contexto:** Reading a cultural article about vallenato and UNESCO.
 
 ### Enunciado
-According to a recent report on cultural diplomacy in Bucaramanga, what is implied about the role of Subjunctive Mood in shaping public opinion?
+Read the text and answer the question.
+
+"In 2015, UNESCO added vallenato to its list of Intangible Cultural Heritage in Need of Urgent Safeguarding. The decision recognised the music's importance for the Caribbean region of Colombia, but it also warned that traditional forms were disappearing as commercial versions became more popular. Since then, music schools in Valledupar have offered classes for children in accordion, caja and guacharaca, the three traditional instruments, so that the older style can be passed to new generations."
+
+What is the text mainly about?
 
 ### Opciones
-- [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. the subjunctive mood is the point here: the subjunctive sets the proposal apart from fact ("It is essential that every culture be respected" does not claim it already is), so a diplomat can argue for a goal without claiming it as an accomplished fact. Reading that implication is what the question asks. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: This calls the device irrelevant, but the report treats this distinction as central to how public opinion forms, so writing it off as irrelevant contradicts the argument. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: This claims the device makes the claim plainer, whereas the subjunctive adds a layer of proposed meaning to the message rather than making it plainer. -->
-- [ ] C) It is only used by academic elites in Manizales.
-  <!-- feedback: This restricts the device to specialists in a single city, but the report applies this across media and public discourse, so it is not the property of an academic minority in one city. -->
+- [ ] A) Why commercial vallenato is more popular than traditional vallenato.
+  <!-- feedback: The popularity of commercial vallenato is mentioned only as the reason for UNESCO's warning; the text does not explain why it is popular. -->
+- [ ] B) How to play the accordion, caja and guacharaca.
+  <!-- feedback: The instruments are named, but the text gives no instructions on how to play them. -->
+- [ ] C) The history of the city of Valledupar.
+  <!-- feedback: Valledupar is mentioned only as the place where the music schools are located. -->
+- [x] D) International recognition of vallenato and efforts to protect its traditional form.
+  <!-- feedback: The text explains UNESCO's decision and then describes the music schools that teach the traditional style to children. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+A main-idea answer should connect the beginning and the end of the text. Here the UNESCO recognition (beginning) and the classes in Valledupar (end) are linked by the idea of protecting a tradition.
 
 ---
 
@@ -179,23 +183,27 @@ At C1+ the subjunctive is a statement of stance: it separates what a speaker pro
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.64
-**Contexto:** Discussing cultural diplomacy in Cartagena.
+**Contexto:** Reading a report about a Colombian food and coffee festival in Seoul.
 
 ### Enunciado
-According to a recent report on cultural diplomacy in Cartagena, what is implied about the role of Subjunctive Mood in shaping public opinion?
+Read the text and answer the question.
+
+"Every year, the Colombian Embassy in Seoul organises a food and coffee festival. Last year, Korean visitors waited in long lines to try arepas, and a local café chain later added Colombian coffee from Nariño to its menu. A Colombian diplomat said the festival costs less than a single trade mission, 'but people remember a flavour longer than a speech.'"
+
+What does the diplomat imply?
 
 ### Opciones
-- [x] B) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. the subjunctive mood is the point here: the subjunctive sets the proposal apart from fact ("It is essential that every culture be respected" does not claim it already is), so a diplomat can argue for a goal without claiming it as an accomplished fact. Reading that implication is what the question asks. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: This calls the device irrelevant, but the report treats this distinction as central to how public opinion forms, so writing it off as irrelevant contradicts the argument. -->
-- [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: This claims the device makes the claim plainer, whereas the subjunctive adds a layer of proposed meaning to the message rather than making it plainer. -->
-- [ ] D) It is only used by academic elites in Barranquilla.
-  <!-- feedback: This restricts the device to specialists in a single city, but the report applies this across media and public discourse, so it is not the property of an academic minority in one city. -->
+- [ ] A) Trade missions are more effective than cultural festivals.
+  <!-- feedback: The diplomat suggests the opposite: the festival is cheaper and leaves a longer memory than speeches. -->
+- [x] B) Cultural experiences can create lasting interest in a country.
+  <!-- feedback: 'People remember a flavour longer than a speech' implies that tasting Colombian food creates a stronger connection than formal events, as the café chain's decision shows. -->
+- [ ] C) Korean visitors did not enjoy the arepas.
+  <!-- feedback: Visitors waited in long lines to try them, which shows strong interest. -->
+- [ ] D) The festival is too expensive to continue.
+  <!-- feedback: The diplomat says the festival costs less than a trade mission, so cost is presented as an advantage. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Cultural diplomacy uses culture to build relations between countries. In this text, the inference comes from the comparison 'a flavour longer than a speech' and from the concrete result: a café chain adding Colombian coffee.
 
 ---
 
@@ -204,23 +212,27 @@ This question requires inferential reading skills to understand how complex stru
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.61
-**Contexto:** Discussing cultural diplomacy in Cali.
+**Contexto:** Reading an article about the guest country at the Bogotá International Book Fair.
 
 ### Enunciado
-According to a recent report on cultural diplomacy in Cali, what is implied about the role of Subjunctive Mood in shaping public opinion?
+Read the text and answer the question.
+
+"Each year, the Bogotá International Book Fair invites a guest country of honour. The guest country builds a large pavilion to showcase its writers, music and food. Hundreds of thousands of people visit the fair, and many of them go to the pavilion first. For smaller countries, the invitation is a rare opportunity to reach Latin American readers, and many publishers sign translation agreements during the event."
+
+In the text, the word "showcase" is closest in meaning to:
 
 ### Opciones
-- [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. the subjunctive mood is the point here: the subjunctive sets the proposal apart from fact ("It is essential that every culture be respected" does not claim it already is), so a diplomat can argue for a goal without claiming it as an accomplished fact. Reading that implication is what the question asks. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: This calls the device irrelevant, but the report treats this distinction as central to how public opinion forms, so writing it off as irrelevant contradicts the argument. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: This claims the device makes the claim plainer, whereas the subjunctive adds a layer of proposed meaning to the message rather than making it plainer. -->
-- [ ] C) It is only used by academic elites in Bogotá.
-  <!-- feedback: This restricts the device to specialists in a single city, but the report applies this across media and public discourse, so it is not the property of an academic minority in one city. -->
+- [ ] A) hide
+  <!-- feedback: To hide something is to keep it from being seen, but a large pavilion visited by many people is built to be seen. -->
+- [ ] B) sell cheaply
+  <!-- feedback: The text does not talk about prices; the pavilion presents culture, not discounts. -->
+- [ ] C) translate
+  <!-- feedback: Translation agreements are mentioned later, but the pavilion itself presents writers, music and food, it does not translate them. -->
+- [x] D) display and present proudly
+  <!-- feedback: A showcase is a place where valuable things are shown; the guest country uses the pavilion to present its writers, music and food to visitors. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Context clues include the purpose of the place (a large pavilion) and the audience (hundreds of thousands of visitors). Distractors often reuse a word from elsewhere in the text, like 'translation', to attract careless readers.
 
 ---
 
@@ -229,23 +241,27 @@ This question requires inferential reading skills to understand how complex stru
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.58
-**Contexto:** Discussing cultural diplomacy in Pereira.
+**Contexto:** Reading a news story about a cultural exchange between Cartagena and Senegal.
 
 ### Enunciado
-According to a recent report on cultural diplomacy in Pereira, what is implied about the role of Subjunctive Mood in shaping public opinion?
+Read the text and answer the question.
+
+"Through a cultural exchange programme, twenty students from Cartagena spent three weeks in Senegal last year. The programme was created to explore the African roots of Caribbean music and dance. In Dakar, the students learned about the sabar drum and compared its rhythms with those of the champeta played in their own neighbourhoods. When they returned, they gave free workshops in their schools to share what they had learned."
+
+What did the students do after they returned to Cartagena?
 
 ### Opciones
-- [x] A) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. the subjunctive mood is the point here: the subjunctive sets the proposal apart from fact ("It is essential that every culture be respected" does not claim it already is), so a diplomat can argue for a goal without claiming it as an accomplished fact. Reading that implication is what the question asks. -->
-- [ ] B) It is largely irrelevant to the general public.
-  <!-- feedback: This calls the device irrelevant, but the report treats this distinction as central to how public opinion forms, so writing it off as irrelevant contradicts the argument. -->
-- [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: This claims the device makes the claim plainer, whereas the subjunctive adds a layer of proposed meaning to the message rather than making it plainer. -->
-- [ ] D) It is only used by academic elites in Barranquilla.
-  <!-- feedback: This restricts the device to specialists in a single city, but the report applies this across media and public discourse, so it is not the property of an academic minority in one city. -->
+- [x] A) They taught free workshops at their schools.
+  <!-- feedback: The last sentence says 'When they returned, they gave free workshops in their schools to share what they had learned.' -->
+- [ ] B) They moved to Dakar to study music.
+  <!-- feedback: The students spent three weeks in Senegal and then returned; they did not move there. -->
+- [ ] C) They recorded a champeta album in Senegal.
+  <!-- feedback: Champeta is mentioned as a comparison with the sabar rhythms; no recording is described. -->
+- [ ] D) They invited Senegalese students to Cartagena.
+  <!-- feedback: The text does not mention any visit by Senegalese students. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Time expressions such as 'When they returned' signal the part of the text that answers 'after' questions. Students should match the time reference in the question with the time reference in the text.
 
 ---
 
@@ -310,12 +326,12 @@ A verb such as 'recommend' introduces content that is proposed rather than repor
 Complete the following sentence about cultural diplomacy: 'The delegation agreed that the photographs __________ with written permission before any of them were exhibited.' (Topic: subjunctive after 'agreed that' for a condition to be met)
 
 ### Opciones
-- [x] C) be cleared
-  <!-- feedback: 'Agreed that' introduces an arrangement the parties commit to rather than a fact, so the clause takes the subjunctive, which for most verbs is the bare infinitive. 'Be cleared' is that form and fits a requirement attached to photographs. -->
 - [ ] A) cleared
   <!-- feedback: 'Cleared' without an auxiliary is a bare form that would need one, such as 'had been cleared', to form a past passive. The sentence requires either a subjunctive bare infinitive or a full indicative tense, and this option is neither. -->
 - [ ] B) were cleared
   <!-- feedback: 'Were cleared' is past indicative passive and would report that the photographs were in fact cleared before exhibition. The sentence states a condition the delegation agreed on, not a completed sequence. -->
+- [x] C) be cleared
+  <!-- feedback: 'Agreed that' introduces an arrangement the parties commit to rather than a fact, so the clause takes the subjunctive, which for most verbs is the bare infinitive. 'Be cleared' is that form and fits a requirement attached to photographs. -->
 - [ ] D) are cleared
   <!-- feedback: 'Are cleared' is present passive and asserts that permission was obtained. An agreement about what must happen before a future exhibition describes a requirement, not a state already in force. -->
 
@@ -335,14 +351,14 @@ Verbs such as 'agree', 'insist' and 'recommend' introduce proposals or commitmen
 Complete the following sentence about cultural diplomacy: 'The report warned that no part of the collection __________ abroad without a signed agreement.' (Topic: subjunctive after 'warned that' for a hypothetical, not a fact)
 
 ### Opciones
-- [x] D) should leave
-  <!-- feedback: A modal in the that-clause of 'warned that' is a standard alternative to the subjunctive, and 'should leave' presents the prohibition as a requirement. The phrase 'no part of the collection' and the absence of an agreement both point to a rule, not a report of what happened. -->
 - [ ] A) will leave
   <!-- feedback: 'Will leave' is a prediction about the future, and the sentence is stating a restriction rather than forecasting anything. A warning about what must not happen does not commit itself to predicting that it will. -->
 - [ ] B) leaves
   <!-- feedback: 'Leaves' is present simple and asserts that the collection does travel abroad, which is the opposite of what the clause is guarding against. The restriction here is stated as an obligation on the people responsible. -->
 - [ ] C) left
   <!-- feedback: 'Left' is past simple and would report a completed departure of the collection. The sentence is about a condition that has to be met before any journey happens, so no past event is involved. -->
+- [x] D) should leave
+  <!-- feedback: A modal in the that-clause of 'warned that' is a standard alternative to the subjunctive, and 'should leave' presents the prohibition as a requirement. The phrase 'no part of the collection' and the absence of an agreement both point to a rule, not a report of what happened. -->
 
 ### Explicacion Pedagogica
 English allows two treatments for the content of a warning: the subjunctive, or a modal such as 'should' or 'must'. At C1+ the deciding factor is whether the writer is describing reality or setting a requirement, and only the modal reading is available here because the clause contains 'no'.
@@ -360,10 +376,10 @@ English allows two treatments for the content of a warning: the subjunctive, or 
 Complete the following sentence about cultural diplomacy: 'The judges stressed that the winner __________ chosen by the panel alone, with no public vote.' (Topic: subjunctive after 'stressed that' where the content is presented as unchanging)
 
 ### Opciones
-- [x] B) be
-  <!-- feedback: When 'stressed that' introduces something presented as the point of principle rather than as an event, English uses the subjunctive, and for 'be' that form is 'be'. The clause states what holds true of the process, not a report of a particular outcome. -->
 - [ ] A) is
   <!-- feedback: 'Is' is the present indicative and turns the statement into an assertion about current practice. 'Stressed that' marks the content as something the speakers wished to emphasise, which is not the same as reporting it as established fact. -->
+- [x] B) be
+  <!-- feedback: When 'stressed that' introduces something presented as the point of principle rather than as an event, English uses the subjunctive, and for 'be' that form is 'be'. The clause states what holds true of the process, not a report of a particular outcome. -->
 - [ ] C) was
   <!-- feedback: 'Was' would place the choice at a single past moment, which is not what the clause describes. The phrase 'with no public vote' refers to the rules of the process rather than to one completed decision. -->
 - [ ] D) had been
@@ -410,10 +426,10 @@ Formal requirement clauses after verbs such as 'require', 'demand' and 'insist' 
 Complete the following sentence about cultural diplomacy: 'It is essential that the ministry __________ the communities before it decides which traditions to fund.' (Topic: subjunctive after 'essential that')
 
 ### Opciones
-- [x] B) consults
-  <!-- feedback: After expressions of necessity such as 'it is essential that', English uses the subjunctive, so the bare form 'consults' appears. The modal 'it is essential' sets the requirement, and the subjunctive marks the action as obligatory. -->
 - [ ] A) is consulting
   <!-- feedback: A progressive would suggest an action already under way, and the subjunctive form cannot be built on 'is'. The pattern 'it is essential that' takes the bare infinitive, so the verb must appear as 'consults'. -->
+- [x] B) consults
+  <!-- feedback: After expressions of necessity such as 'it is essential that', English uses the subjunctive, so the bare form 'consults' appears. The modal 'it is essential' sets the requirement, and the subjunctive marks the action as obligatory. -->
 - [ ] C) will consult
   <!-- feedback: The future auxiliary does not belong in a that-clause governed by 'it is essential'. Modal necessity plus the subjunctive already carries the obligation, and adding 'will' would give the sentence two competing verbs. -->
 - [ ] D) had consulted
@@ -435,12 +451,12 @@ The subjunctive after 'it is essential that' is one of the surviving English con
 In a high-level debate about cultural diplomacy, Lucía says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Lucía mean?
 
 ### Opciones
-- [x] C) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
 - [ ] A) They are literally looking for something in the trees of Cartagena.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
+- [x] C) The current strategy is directed towards the wrong objective.
+  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
 - [ ] D) A new environmental project involving trees should be started.
   <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
 
@@ -454,23 +470,27 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.31
-**Contexto:** Discussing cultural diplomacy in Barranquilla.
+**Contexto:** A host welcomes a Japanese trade and culture delegation at a dinner in Bogotá.
 
 ### Enunciado
-In a high-level debate about cultural diplomacy, Mateo says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mateo mean?
+Read what the host says.
+
+Host: "Welcome, everyone. Let me break the ice with a short story about my first attempt to use chopsticks."
+
+Why does the host tell the story?
 
 ### Opciones
-- [x] C) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of Cartagena.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] B) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] D) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [ ] A) To criticise Japanese table manners.
+  <!-- feedback: The story is about the host's own difficulty with chopsticks, so it is a friendly joke about himself, not a criticism of the guests. -->
+- [ ] B) To end the dinner early.
+  <!-- feedback: The host has just welcomed the guests; breaking the ice is a way to begin a conversation, not to finish it. -->
+- [x] C) To make the guests feel relaxed and start a friendly conversation.
+  <!-- feedback: 'Break the ice' means to reduce tension at the start of a meeting; a funny personal story is a typical way to do this. -->
+- [ ] D) To complain about the cold weather in Bogotá.
+  <!-- feedback: This takes 'ice' literally. The idiom refers to social tension, not to temperature. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+In diplomatic and social contexts, speakers often use humour to create a relaxed atmosphere. Recognising 'break the ice' as a strategy for starting conversations is part of pragmatic competence in English.
 
 ---
 
@@ -479,23 +499,28 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.28
-**Contexto:** Discussing cultural diplomacy in Medellín.
+**Contexto:** A journalist interviews a government spokesperson about a cultural agreement.
 
 ### Enunciado
-In a high-level debate about cultural diplomacy, Mariana says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mariana mean?
+Read the conversation.
+
+Journalist: "Did the two ministers agree on the cultural exchange agreement?"
+Spokesperson: "They don't see eye to eye on the budget, but both support the programme."
+
+What does the spokesperson mean?
 
 ### Opciones
-- [x] B) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of Barranquilla.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] C) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] D) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [ ] A) The ministers refused to look at each other.
+  <!-- feedback: This is a literal interpretation of 'eye to eye'. The expression is about opinions, not about looking. -->
+- [x] B) The ministers disagree about the budget but agree on the programme.
+  <!-- feedback: 'Not see eye to eye' means to disagree; 'but both support the programme' shows that the disagreement is only about money. -->
+- [ ] C) The ministers agree completely on every point.
+  <!-- feedback: The negative 'don't see eye to eye' shows there is at least one disagreement, about the budget. -->
+- [ ] D) The ministers will cancel the programme.
+  <!-- feedback: Both ministers support the programme, so there is no reason to think it will be cancelled. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+Spokespeople often use idioms to soften disagreement. The structure 'They don't ... on X, but ... Y' separates the area of disagreement from the area of agreement, and students must track both parts.
 
 ---
 
@@ -510,10 +535,10 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 In a high-level debate about cultural diplomacy, Lucía says: 'The showcase toured four countries and every stop was full, so I would not describe the audience as niche.' What is Lucía doing?
 
 ### Opciones
-- [x] B) She is reporting strong attendance while implicitly countering an earlier claim that the material attracts only a narrow audience.
-  <!-- feedback: 'I would not describe the audience as niche' rejects a description rather than asserting its opposite directly, and the attendance figures are given as the evidence for that rejection. The hedging frame is what signals she is responding to someone else's wording. -->
 - [ ] A) She is admitting the audiences were small.
   <!-- feedback: Four sold-out venues argue the opposite, and the phrase she refuses to use is 'niche', which is the label for a narrow audience. Nothing in the sentence concedes low attendance. -->
+- [x] B) She is reporting strong attendance while implicitly countering an earlier claim that the material attracts only a narrow audience.
+  <!-- feedback: 'I would not describe the audience as niche' rejects a description rather than asserting its opposite directly, and the attendance figures are given as the evidence for that rejection. The hedging frame is what signals she is responding to someone else's wording. -->
 - [ ] C) She is announcing that the programme has been cancelled.
   <!-- feedback: There is no reference to any cancellation, and the past tense describes tours that took place. The sentence reports an outcome rather than proposing an end to anything. -->
 - [ ] D) She is recommending that the material be replaced.

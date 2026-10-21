@@ -13,12 +13,6 @@
       "context": "En clase de ciencias en Sogamoso, la profesora enciende una linterna en un salón oscuro.",
       "options": [
         {
-          "letter": "D",
-          "text": "El Sol.",
-          "is_correct": true,
-          "feedback": "El Sol es una estrella que emite luz propia de manera natural."
-        },
-        {
           "letter": "A",
           "text": "Una bombilla encendida.",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "Una vela encendida.",
           "is_correct": false,
           "feedback": "La vela es una fuente artificial de luz creada por el ser humano."
+        },
+        {
+          "letter": "D",
+          "text": "El Sol.",
+          "is_correct": true,
+          "feedback": "El Sol es una estrella que emite luz propia de manera natural."
         }
       ],
       "correct_answer": "D",
@@ -105,12 +105,6 @@
       "context": "Un estudiante observa su sombra en el patio durante la tarde y nota que es más larga que en el mediodía.",
       "options": [
         {
-          "letter": "D",
-          "text": "Porque la posición del Sol en el cielo cambia y modifica el ángulo con que la luz llega al objeto.",
-          "is_correct": true,
-          "feedback": "El ángulo de incidencia de la luz solar varía durante el día, cambiando el tamaño de la sombra."
-        },
-        {
           "letter": "A",
           "text": "Porque el Sol se aleja físicamente de la Tierra en pocas horas.",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "Porque el objeto crece durante el día.",
           "is_correct": false,
           "feedback": "Los objetos no crecen por estar expuestos al Sol; el cambio está en la sombra."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la posición del Sol en el cielo cambia y modifica el ángulo con que la luz llega al objeto.",
+          "is_correct": true,
+          "feedback": "El ángulo de incidencia de la luz solar varía durante el día, cambiando el tamaño de la sombra."
         }
       ],
       "correct_answer": "D",
@@ -151,12 +151,6 @@
       "context": "En el salón, una niña coloca un objeto cerca de una lámpara encendida y observa una sombra en la pared.",
       "options": [
         {
-          "letter": "D",
-          "text": "La sombra se hace más grande porque los rayos se separan al alejarse.",
-          "is_correct": true,
-          "feedback": "Al alejarse, los rayos divergen y producen una sombra más grande."
-        },
-        {
           "letter": "A",
           "text": "La sombra se hace más pequeña porque se concentra en un punto.",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "La sombra mantiene siempre el mismo tamaño exacto.",
           "is_correct": false,
           "feedback": "El tamaño de la sombra varía con la distancia a la fuente de luz."
+        },
+        {
+          "letter": "D",
+          "text": "La sombra se hace más grande porque los rayos se separan al alejarse.",
+          "is_correct": true,
+          "feedback": "Al alejarse, los rayos divergen y producen una sombra más grande."
         }
       ],
       "correct_answer": "D",
@@ -197,12 +197,6 @@
       "context": "En un experimento, un estudiante mira un espejo plano y ve su propio reflejo.",
       "options": [
         {
-          "letter": "D",
-          "text": "Reflexión de la luz.",
-          "is_correct": true,
-          "feedback": "El rebote ordenado de la luz en una superficie lisa se llama reflexión."
-        },
-        {
           "letter": "A",
           "text": "Refracción de la luz.",
           "is_correct": false,
@@ -210,18 +204,24 @@
         },
         {
           "letter": "B",
-          "text": "Absorción total de la luz.",
-          "is_correct": false,
-          "feedback": "La absorción atrapa la luz; el espejo la devuelve, por eso no es absorción."
+          "text": "Reflexión de la luz.",
+          "is_correct": true,
+          "feedback": "El rebote ordenado de la luz en una superficie lisa se llama reflexión."
         },
         {
           "letter": "C",
           "text": "Sombra proyectada.",
           "is_correct": false,
           "feedback": "La sombra aparece cuando la luz es bloqueada, no cuando rebota."
+        },
+        {
+          "letter": "D",
+          "text": "Absorción total de la luz.",
+          "is_correct": false,
+          "feedback": "La absorción atrapa la luz; el espejo la devuelve, por eso no es absorción."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "Identificar el fenómeno de reflexión de la luz en superficies lisas como los espejos.",
       "difficulty": "6",
       "images": [],
@@ -335,12 +335,6 @@
       "context": "Lee: 'La luz del Sol permite la vida en la Tierra, pero la exposición excesiva a sus rayos ultravioleta puede dañar la piel y los ojos. Usar protector solar, gafas con filtro UV y ropa adecuada ayuda a protegerse.'",
       "options": [
         {
-          "letter": "C",
-          "text": "Porque los rayos ultravioleta pueden dañar piel y ojos; se protege con bloqueador, gafas con filtro UV y ropa adecuada.",
-          "is_correct": true,
-          "feedback": "La protección adecuada reduce el daño por radiación UV sin dejar de aprovechar los beneficios de la luz solar."
-        },
-        {
           "letter": "A",
           "text": "Porque la luz del Sol es tóxica y debe evitarse por completo a cualquier hora.",
           "is_correct": false,
@@ -351,6 +345,12 @@
           "text": "Porque solo las gafas oscuras ofrecen protección frente a los rayos UV.",
           "is_correct": false,
           "feedback": "Las gafas oscuras sin filtro UV no protegen; debe haber filtro UV certificado."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los rayos ultravioleta pueden dañar piel y ojos; se protege con bloqueador, gafas con filtro UV y ropa adecuada.",
+          "is_correct": true,
+          "feedback": "La protección adecuada reduce el daño por radiación UV sin dejar de aprovechar los beneficios de la luz solar."
         },
         {
           "letter": "D",

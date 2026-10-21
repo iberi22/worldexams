@@ -34,10 +34,10 @@ Vocabulary of common jobs and community helpers, plus simple expressions to desc
 Which word in English names the person who teaches students in a school?
 
 ### Opciones
-- [x] B) Teacher.
-  <!-- feedback: A teacher works in a school and helps students learn new things. -->
 - [ ] A) Doctor.
   <!-- feedback: A doctor takes care of sick people in a hospital or clinic. -->
+- [x] B) Teacher.
+  <!-- feedback: A teacher works in a school and helps students learn new things. -->
 - [ ] C) Driver.
   <!-- feedback: A driver moves people or goods in a bus, a taxi, or a truck. -->
 - [ ] D) Farmer.
@@ -80,10 +80,10 @@ Understanding what a person does from a short descriptive text in English. / Com
 Which sentence correctly uses the verb "work" with the third person singular?
 
 ### Opciones
-- [x] B) She works in a hospital.
-  <!-- feedback: "Works" adds -s to agree with the third person singular subject "she". -->
 - [ ] A) She work in a hospital.
   <!-- feedback: "Work" without -s is incorrect with "she" in Simple Present. -->
+- [x] B) She works in a hospital.
+  <!-- feedback: "Works" adds -s to agree with the third person singular subject "she". -->
 - [ ] C) She working in a hospital.
   <!-- feedback: "Working" is a gerund and needs an auxiliary verb here. -->
 - [ ] D) She is work in a hospital.
@@ -103,12 +103,12 @@ Using the Simple Present with the third person singular to describe jobs in Engl
 Which question correctly matches this answer about a job?
 
 ### Opciones
-- [x] C) What does a police officer do?
-  <!-- feedback: The answer describes the actions of a police officer, so this question fits. -->
 - [ ] A) How old is a police officer?
   <!-- feedback: The answer does not give an age, so this question does not match. -->
 - [ ] B) Where does a police officer live?
   <!-- feedback: The answer does not mention a home or an address. -->
+- [x] C) What does a police officer do?
+  <!-- feedback: The answer describes the actions of a police officer, so this question fits. -->
 - [ ] D) What color is the police officer's car?
   <!-- feedback: The answer does not talk about the color of any car. -->
 
@@ -149,12 +149,12 @@ Describing the main action of a job with a simple sentence in English. / Describ
 Which occupation does Mr. Rojas have?
 
 ### Opciones
-- [x] C) He is a dentist.
-  <!-- feedback: Looking at teeth and helping them feel better is the work of a dentist. -->
 - [ ] A) He is a teacher.
   <!-- feedback: A teacher works with students in a school, not with teeth. -->
 - [ ] B) He is a farmer.
   <!-- feedback: A farmer works in the field with plants and animals. -->
+- [x] C) He is a dentist.
+  <!-- feedback: Looking at teeth and helping them feel better is the work of a dentist. -->
 - [ ] D) He is a police officer.
   <!-- feedback: A police officer takes care of people and streets, not teeth. -->
 
@@ -195,14 +195,14 @@ Comparing two occupations in English to find what they have in common. / Compara
 What is the most important message of this paragraph?
 
 ### Opciones
-- [x] A) Different jobs help the community in different ways.
-  <!-- feedback: The text lists several jobs and says all of them help the community. -->
+- [ ] A) All people in a city have the same job.
+  <!-- feedback: The text says people do different jobs, not the same one. -->
 - [ ] B) Only doctors are important in a city.
   <!-- feedback: The text mentions many jobs, not only doctors. -->
 - [ ] C) Farmers do not help the community.
   <!-- feedback: The text includes farmers among the people who help the community. -->
-- [ ] D) All people in a city have the same job.
-  <!-- feedback: The text says people do different jobs, not the same one. -->
+- [x] D) Different jobs help the community in different ways.
+  <!-- feedback: The text lists several jobs and says all of them help the community. -->
 
 ### Explicacion Pedagogica
 Evaluating the main message of a short expository paragraph about jobs and community helpers. / Evaluar el mensaje principal de un parrafo sobre oficios y ayudantes de la comunidad.

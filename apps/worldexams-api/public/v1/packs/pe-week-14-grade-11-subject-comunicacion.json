@@ -830,9 +830,9 @@
         },
         {
           "letter": "B",
-          "text": "El conector \"por el contrario\" es impreciso y defectuoso; debió emplearse un conector explicativo, causal o de descarte restrictivo como \"en ese sentido\" o \"por consiguiente\", pues la idea de la educación complementa y refuerza la premisa de la tierra en lugar de oponerse a ella de forma excluyente.",
-          "is_correct": true,
-          "feedback": "¡Correcto! Mariátegui no opone la educación al problema de la tierra en sentido excluyente; afirma que la primera depende del segundo. El uso de \"por el contrario\" genera una falsa oposición que oscurece el argumento real del autor."
+          "text": "El texto es totalmente incoherente de principio a fin porque la RAE prohíbe el uso simultáneo de más de dos conectores lógicos por párrafo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe ninguna prohibición numérica de conectores; su validez depende estrictamente de la precisión semántica con la que enlazan las ideas."
         },
         {
           "letter": "C",
@@ -842,12 +842,12 @@
         },
         {
           "letter": "D",
-          "text": "El texto es totalmente incoherente de principio a fin porque la RAE prohíbe el uso simultáneo de más de dos conectores lógicos por párrafo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No existe ninguna prohibición numérica de conectores; su validez depende estrictamente de la precisión semántica con la que enlazan las ideas."
+          "text": "El conector \"por el contrario\" es impreciso y defectuoso; debió emplearse un conector explicativo, causal o de descarte restrictivo como \"en ese sentido\" o \"por consiguiente\", pues la idea de la educación complementa y refuerza la premisa de la tierra en lugar de oponerse a ella de forma excluyente.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Mariátegui no opone la educación al problema de la tierra en sentido excluyente; afirma que la primera depende del segundo. El uso de \"por el contrario\" genera una falsa oposición que oscurece el argumento real del autor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La evaluación argumentativa profunda exige validar si el conector adversativo (\"por el contrario\") de veras enlaza ideas antitéticas. Si la segunda idea complementa la subordinación conceptual de la primera, forzar una contraposición léxica constituye una impericia de cohesión.\n\n---",
       "difficulty": "10",
       "images": [],

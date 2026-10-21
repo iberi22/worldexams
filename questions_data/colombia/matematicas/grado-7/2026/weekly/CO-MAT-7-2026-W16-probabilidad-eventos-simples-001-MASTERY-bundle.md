@@ -40,6 +40,7 @@ Este bundle contiene 10 preguntas sobre **probabilidad-eventos-simples** para gr
   <!-- feedback: Incorrecto. Ninguna probabilidad real supera el $100\%$. -->
 - [ ] D) Cualquier valor positivo sin límite superior
   <!-- feedback: Incorrecto. La probabilidad está acotada superiormente por $1$. -->
+
 ### Explicacion Pedagogica
 Una probabilidad teórica se representa con números entre $0$ y $1$, donde $0$ es evento imposible y $1$ evento seguro.
 
@@ -60,6 +61,7 @@ Una probabilidad teórica se representa con números entre $0$ y $1$, donde $0$ 
   <!-- feedback: Incorrecto. Omite las caras $2, 3, 4$ y $5$. -->
 - [ ] D) $\{0, 1\}$
   <!-- feedback: Incorrecto. El cero no aparece en un dado estándar de $6$ caras. -->
+
 ### Explicacion Pedagogica
 El espacio muestral es el conjunto de todos los resultados posibles del experimento aleatorio.
 
@@ -72,14 +74,15 @@ El espacio muestral es el conjunto de todos los resultados posibles del experime
 ### Enunciado
 ¿Cuál es la probabilidad de que salga "cara" en una moneda justa?
 ### Opciones
-- [x] D) $\dfrac{1}{2} = 0{,}5$
-  <!-- feedback: Correcto. La moneda tiene $2$ caras posibles equiprobables. -->
 - [ ] A) $\dfrac{1}{4}$
   <!-- feedback: Incorrecto. La moneda no tiene $4$ lados. -->
 - [ ] B) $\dfrac{2}{3}$
   <!-- feedback: Incorrecto. Ese valor no coincide con la división $1/2$. -->
 - [ ] C) $1$
   <!-- feedback: Incorrecto. La probabilidad $1$ sería un evento seguro, no el de una sola cara. -->
+- [x] D) $\dfrac{1}{2} = 0{,}5$
+  <!-- feedback: Correcto. La moneda tiene $2$ caras posibles equiprobables. -->
+
 ### Explicacion Pedagogica
 Para eventos equiprobables: $P(\text{cara}) = \dfrac{\text{casos favorables}}{\text{casos totales}} = \dfrac{1}{2}$.
 
@@ -92,14 +95,15 @@ Para eventos equiprobables: $P(\text{cara}) = \dfrac{\text{casos favorables}}{\t
 ### Enunciado
 ¿Cuál es la probabilidad de obtener un número par en el lanzamiento?
 ### Opciones
-- [x] D) $\dfrac{1}{2} = 0{,}5$
-  <!-- feedback: Correcto. Casos favorables $\{2,4,6\}$ y totales $\{1,2,3,4,5,6\}$; $\frac{3}{6} = \frac{1}{2}$. -->
 - [ ] A) $\dfrac{1}{3}$
   <!-- feedback: Incorrecto. Es el cociente de $2/6$, contando solo un par. -->
 - [ ] B) $\dfrac{1}{6}$
   <!-- feedback: Incorrecto. Es la probabilidad de un único número, no de los pares. -->
 - [ ] C) $\dfrac{2}{3}$
   <!-- feedback: Incorrecto. Conteo incorrecto de casos favorables. -->
+- [x] D) $\dfrac{1}{2} = 0{,}5$
+  <!-- feedback: Correcto. Casos favorables $\{2,4,6\}$ y totales $\{1,2,3,4,5,6\}$; $\frac{3}{6} = \frac{1}{2}$. -->
+
 ### Explicacion Pedagogica
 Para un evento simple se cuentan los casos favorables sobre el total de resultados posibles.
 
@@ -120,6 +124,7 @@ Para un evento simple se cuentan los casos favorables sobre el total de resultad
   <!-- feedback: Incorrecto. La probabilidad nunca supera $1$. -->
 - [ ] D) $\dfrac{1}{3}$
   <!-- feedback: Incorrecto. Invertiste el cociente entre casos favorables y totales. -->
+
 ### Explicacion Pedagogica
 $P(\text{roja}) = \dfrac{\text{número de esferas rojas}}{\text{total de esferas}}$ en extracción simple sin reemplazo.
 
@@ -140,6 +145,7 @@ $P(\text{roja}) = \dfrac{\text{número de esferas rojas}}{\text{total de esferas
   <!-- feedback: Incorrecto. La probabilidad nunca puede ser mayor que $1$. -->
 - [ ] D) $0{,}0$
   <!-- feedback: Incorrecto. Si probabilidad de lluvia es $0{,}7$, la de no lluvia no puede ser $0$. -->
+
 ### Explicacion Pedagogica
 El evento complementario cumple $P(A) + P(\text{no } A) = 1$. Se usa $1 - P(A)$ para hallar la probabilidad opuesta.
 
@@ -160,6 +166,7 @@ El evento complementario cumple $P(A) + P(\text{no } A) = 1$. Se usa $1 - P(A)$ 
   <!-- feedback: Incorrecto. Es la frecuencia relativa de nacimientos femeninos, no masculinos. -->
 - [ ] D) $\dfrac{100}{200}$
   <!-- feedback: Incorrecto. No coincide con el número real de nacimientos masculinos observados. -->
+
 ### Explicacion Pedagogica
 La frecuencia relativa es el cociente entre el número de casos observados y el total de la muestra.
 
@@ -172,14 +179,15 @@ La frecuencia relativa es el cociente entre el número de casos observados y el 
 ### Enunciado
 ¿Cuál es la probabilidad de ganar algún premio (mayor o menor) al comprar un boleto?
 ### Opciones
-- [x] B) $\dfrac{25}{50} = \dfrac{1}{2} = 0{,}5$
-  <!-- feedback: Correcto. Boletos premiados $= 10 + 15 = 25$; probabilidad $= 25/50$. -->
 - [ ] A) $\dfrac{10}{50}$
   <!-- feedback: Incorrecto. Solo consideraste los premios mayores. -->
+- [x] B) $\dfrac{25}{50} = \dfrac{1}{2} = 0{,}5$
+  <!-- feedback: Correcto. Boletos premiados $= 10 + 15 = 25$; probabilidad $= 25/50$. -->
 - [ ] C) $\dfrac{15}{50}$
   <!-- feedback: Incorrecto. Solo consideraste los premios menores. -->
 - [ ] D) $\dfrac{40}{50}$
   <!-- feedback: Incorrecto. Tomaste el complemento al revés, sumando lo que no gana. -->
+
 ### Explicacion Pedagogica
 Cuando un evento incluye varios casos favorables, se suman sus conteos antes de dividir entre el total.
 
@@ -192,14 +200,15 @@ Cuando un evento incluye varios casos favorables, se suman sus conteos antes de 
 ### Enunciado
 ¿Cuál es la decisión más razonable y por qué?
 ### Opciones
-- [x] A) Llevar paraguas, porque la probabilidad de lluvia es alta y conviene estar preparado
-  <!-- feedback: Correcto. Con $P = 0{,}8$ es mucho más probable que llueva; llevar paraguas minimiza riesgos. -->
+- [ ] A) Da igual llevar o no llevar paraguas, porque la probabilidad es subjetiva
+  <!-- feedback: Incorrecto. La probabilidad permite tomar decisiones informadas, no es irrelevante. -->
 - [ ] B) No llevar paraguas, porque "siempre se puede improvisar después"
   <!-- feedback: Incorrecto. Con lluvia muy probable, improvisar puede mojar al estudiante. -->
-- [ ] C) Da igual llevar o no llevar paraguas, porque la probabilidad es subjetiva
-  <!-- feedback: Incorrecto. La probabilidad permite tomar decisiones informadas, no es irrelevante. -->
+- [x] C) Llevar paraguas, porque la probabilidad de lluvia es alta y conviene estar preparado
+  <!-- feedback: Correcto. Con $P = 0{,}8$ es mucho más probable que llueva; llevar paraguas minimiza riesgos. -->
 - [ ] D) Salir sin paraguas y cruzar los dedos para que no llueva
   <!-- feedback: Incorrecto. Apostar contra una probabilidad alta no es una decisión razonable. -->
+
 ### Explicacion Pedagogica
 Con probabilidades cercanas a $1$, conviene prepararse para el evento más probable; con probabilidades bajas, se puede asumir el riesgo.
 
@@ -212,13 +221,14 @@ Con probabilidades cercanas a $1$, conviene prepararse para el evento más proba
 ### Enunciado
 ¿En cuál lote es más alta la probabilidad de ganar con un boleto comprado?
 ### Opciones
-- [x] D) En el Lote A, con probabilidad $0{,}05$, porque tiene menos boletos para la misma cantidad de premios
-  <!-- feedback: Correcto. $P_A = \frac{5}{100} = 0{,}05$; $P_B = \frac{5}{200} = 0{,}025$. Lote A es el doble de probable. -->
 - [ ] A) En el Lote B, porque tiene más boletos
   <!-- feedback: Incorrecto. Más boletos significa menos probabilidad por boleto individual. -->
 - [ ] B) Ambos lotes tienen la misma probabilidad
   <!-- feedback: Incorrecto. Los denominadores son diferentes: $100$ vs $200$. -->
 - [ ] C) No se puede saber sin información del premio
   <!-- feedback: Incorrecto. La probabilidad de obtener un boleto premiado depende solo del cociente. -->
+- [x] D) En el Lote A, con probabilidad $0{,}05$, porque tiene menos boletos para la misma cantidad de premios
+  <!-- feedback: Correcto. $P_A = \frac{5}{100} = 0{,}05$; $P_B = \frac{5}{200} = 0{,}025$. Lote A es el doble de probable. -->
+
 ### Explicacion Pedagogica
 Comparar probabilidades de eventos uniformes exige evaluar el cociente entre casos favorables y casos totales para cada escenario.

@@ -13,12 +13,6 @@
       "context": "En Bogotá un niño tiene 3 camisetas y 2 pantalonetas para ir al parque.",
       "options": [
         {
-          "letter": "D",
-          "text": "6 combinaciones",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: cada camiseta (3) combina con cada pantaloneta (2): 3 × 2 = 6."
-        },
-        {
           "letter": "A",
           "text": "5 combinaciones",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "9 combinaciones",
           "is_correct": false,
           "feedback": "Explica el error conceptual: multiplica 3 × 3 usando dos veces las camisetas."
+        },
+        {
+          "letter": "D",
+          "text": "6 combinaciones",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: cada camiseta (3) combina con cada pantaloneta (2): 3 × 2 = 6."
         }
       ],
       "correct_answer": "D",
@@ -59,16 +59,16 @@
       "context": "En Medellín un juego lanza una moneda (cara o sello) y un dado (1 a 6).",
       "options": [
         {
-          "letter": "B",
-          "text": "12 resultados",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: 2 resultados de la moneda × 6 del dado = 12 parejas posibles."
-        },
-        {
           "letter": "A",
           "text": "8 resultados",
           "is_correct": false,
           "feedback": "Explica el error conceptual: suma 2 + 6 en vez de multiplicar los resultados de cada objeto."
+        },
+        {
+          "letter": "B",
+          "text": "12 resultados",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 2 resultados de la moneda × 6 del dado = 12 parejas posibles."
         },
         {
           "letter": "C",
@@ -151,12 +151,6 @@
       "context": "En Barranquilla un candado usa una clave de 2 dígitos (cada dígito de 0 a 9).",
       "options": [
         {
-          "letter": "D",
-          "text": "100 claves",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: 10 opciones para el primer dígito × 10 para el segundo = 100."
-        },
-        {
           "letter": "A",
           "text": "20 claves",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "90 claves",
           "is_correct": false,
           "feedback": "Explica el error conceptual: descuenta 10 casos sin razón; los dígitos sí pueden repetirse."
+        },
+        {
+          "letter": "D",
+          "text": "100 claves",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 10 opciones para el primer dígito × 10 para el segundo = 100."
         }
       ],
       "correct_answer": "D",
@@ -197,16 +197,16 @@
       "context": "En Tunja hay 3 caminos de ida al pueblo vecino y 4 caminos distintos de regreso.",
       "options": [
         {
-          "letter": "B",
-          "text": "12 formas",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: 3 caminos de ida × 4 de regreso = 12 recorridos completos."
-        },
-        {
           "letter": "A",
           "text": "7 formas",
           "is_correct": false,
           "feedback": "Explica el error conceptual: suma los caminos en vez de combinar ida con regreso."
+        },
+        {
+          "letter": "B",
+          "text": "12 formas",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 3 caminos de ida × 4 de regreso = 12 recorridos completos."
         },
         {
           "letter": "C",
@@ -243,12 +243,6 @@
       "context": "En Bucaramanga un restaurante ofrece 2 entradas, 3 platos fuertes y 2 postres para armar un menú completo.",
       "options": [
         {
-          "letter": "D",
-          "text": "12 menús",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: 2 × 3 × 2 = 12 combinaciones de entrada, plato y postre."
-        },
-        {
           "letter": "A",
           "text": "7 menús",
           "is_correct": false,
@@ -265,6 +259,12 @@
           "text": "36 menús",
           "is_correct": false,
           "feedback": "Explica el error conceptual: multiplica 2 × 3 × 2 × 3 repitiendo un grupo."
+        },
+        {
+          "letter": "D",
+          "text": "12 menús",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 2 × 3 × 2 = 12 combinaciones de entrada, plato y postre."
         }
       ],
       "correct_answer": "D",
@@ -289,16 +289,16 @@
       "context": "En Pereira un equipo de 5 estudiantes debe elegir capitán y subcapitán (dos cargos distintos).",
       "options": [
         {
-          "letter": "B",
-          "text": "20 formas",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: 5 opciones para capitán × 4 restantes para subcapitán = 20."
-        },
-        {
           "letter": "A",
           "text": "10 formas",
           "is_correct": false,
           "feedback": "Explica el error conceptual: divide entre 2 como si los cargos fueran iguales, pero capitán y subcapitán difieren."
+        },
+        {
+          "letter": "B",
+          "text": "20 formas",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 5 opciones para capitán × 4 restantes para subcapitán = 20."
         },
         {
           "letter": "C",
@@ -335,12 +335,6 @@
       "context": "En Cartagena una rifa saca una balota de la urna A (3 balotas, una dorada) y una de la urna B (4 balotas).",
       "options": [
         {
-          "letter": "D",
-          "text": "4 parejas",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: la dorada (1 opción) se empareja con cada balota de B (4): 1 × 4 = 4."
-        },
-        {
           "letter": "A",
           "text": "12 parejas",
           "is_correct": false,
@@ -354,12 +348,18 @@
         },
         {
           "letter": "C",
+          "text": "4 parejas",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: la dorada (1 opción) se empareja con cada balota de B (4): 1 × 4 = 4."
+        },
+        {
+          "letter": "D",
           "text": "3 parejas",
           "is_correct": false,
           "feedback": "Explica el error conceptual: empareja la dorada solo con las 3 de su propia urna."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": "Fijar un elemento reduce el conteo: 1 × 4 = 4 parejas con la dorada, de 12 totales. Condicionar (fijar casos) es la base de la probabilidad condicional.",
       "difficulty": "8",
       "images": [],

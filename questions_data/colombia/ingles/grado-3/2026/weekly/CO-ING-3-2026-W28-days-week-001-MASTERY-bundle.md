@@ -18,190 +18,193 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-# MASTERY Bundle - Ingles: Days Week (W28)
-**8 preguntas | Ingles | DBA MEN Colombia**
 
----
+# Bundle MASTERY: Days of the Week (Dias de la semana) - Grado 3
+
+Los días de la semana en inglés, su orden, el fin de semana, los días de colegio y las expresiones "today is" y "tomorrow is".
+
 ## Question 1 [D3-D4]
 **ID:** CO-ING-3-2026-W28-days-week-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Expected_Success:** 0.85
+**Contexto:** En el salón de clase de un colegio de Cali hay un calendario con los días de la semana en inglés.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which day comes after Monday?
 
 ### Opciones
-- [x] A) accommodation
-  <!-- feedback: Correct! 'accommodation' is the word for a place where you live or stay on holiday. -->
-- [ ] B) transportation
-  <!-- feedback: 'transportation' is the system of moving people or goods between places, not the place you sleep in itself. -->
-- [ ] C) entertainment
-  <!-- feedback: 'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in. -->
+- [ ] A) Sunday
+  <!-- feedback: Incorrect. Sunday comes before Monday, not after it. -->
+- [x] B) Tuesday
+  <!-- feedback: Correct. The order is Monday, Tuesday, so Tuesday comes after Monday. -->
+- [ ] C) Thursday
+  <!-- feedback: Incorrect. Thursday comes three days after Monday, not right after it. -->
+- [ ] D) Wednesday
+  <!-- feedback: Incorrect. Wednesday comes after Tuesday, so it is two days after Monday. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
+El orden de la semana es "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday". Después del lunes ("Monday") viene el martes, "Tuesday". El domingo ("Sunday") va antes del lunes.
+
 ## Question 2 [D3-D4]
 **ID:** CO-ING-3-2026-W28-days-week-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Lexico
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Los sábados y domingos muchas familias de Bogotá van a la ciclovía porque no hay colegio.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Which two days are the weekend?
 
 ### Opciones
-- [x] C) itinerary
-  <!-- feedback: Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' names only the place you are going to, without the route or the order of the whole journey. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official document that lets you cross a border, not the plan of where you go. -->
+- [x] A) Saturday and Sunday
+  <!-- feedback: Correct. The weekend is Saturday and Sunday, the days with no school. -->
+- [ ] B) Monday and Tuesday
+  <!-- feedback: Incorrect. Monday and Tuesday are school days at the start of the week. -->
+- [ ] C) Friday and Monday
+  <!-- feedback: Incorrect. Friday and Monday are school days; the weekend is between them. -->
+- [ ] D) Wednesday and Thursday
+  <!-- feedback: Incorrect. Wednesday and Thursday are in the middle of the week. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
+El fin de semana se dice "weekend" y son dos días: "Saturday" (sábado) y "Sunday" (domingo). De lunes a viernes son los días de colegio, llamados "weekdays" o "school days".
+
 ## Question 3 [D5-D6]
 **ID:** CO-ING-3-2026-W28-days-week-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.72
+**Contexto:** Hoy es jueves en un colegio de Cartagena y los niños esperan la clase de educación física de mañana.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Complete the sentence: "Today is Thursday. Tomorrow is ___."
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: Correct! 'destination' is the place someone is going to or something is being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the act of reaching a place, not the place that is reached. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from the start to the end, not the place the trip finishes at. -->
+- [ ] A) Wednesday
+  <!-- feedback: Incorrect. Wednesday comes before Thursday, so it was yesterday. -->
+- [ ] B) Saturday
+  <!-- feedback: Incorrect. Saturday comes two days after Thursday, not tomorrow. -->
+- [ ] C) Tuesday
+  <!-- feedback: Incorrect. Tuesday comes before Wednesday and Thursday, so it is in the past. -->
+- [x] D) Friday
+  <!-- feedback: Correct. Friday comes right after Thursday, so tomorrow is Friday. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
+"Tomorrow" significa mañana, el día siguiente. Si hoy ("today") es jueves, "Thursday", el día siguiente es viernes, "Friday". "Wednesday" fue ayer ("yesterday").
+
 ## Question 4 [D5-D6]
 **ID:** CO-ING-3-2026-W28-days-week-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Expected_Success:** 0.68
+**Contexto:** En la clase de inglés en Neiva, los niños cuentan los días de una semana en el calendario.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+How many days are there in one week?
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel. -->
-- [ ] B) ticket
-  <!-- feedback: 'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in. -->
-- [ ] C) flight
-  <!-- feedback: 'flight' is the journey by plane itself, not the containers that hold your things. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you make for a seat or a room, not the bag you carry. -->
+- [ ] A) five
+  <!-- feedback: Incorrect. Five is the number of school days, Monday to Friday, not the whole week. -->
+- [ ] B) six
+  <!-- feedback: Incorrect. Six days is one day short; Monday to Sunday makes seven. -->
+- [ ] C) ten
+  <!-- feedback: Incorrect. Ten is too many; a week has only seven days. -->
+- [x] D) seven
+  <!-- feedback: Correct. A week has seven days, from Monday to Sunday. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
+Una semana ("week") tiene siete días: "seven days". Cinco ("five") son solo los días de colegio de lunes a viernes; si sumamos el sábado y el domingo tenemos siete.
+
 ## Question 5 [D7-D8]
 **ID:** CO-ING-3-2026-W28-days-week-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.60
+**Contexto:** Camila vive en Soacha y los fines de semana visita a su familia en Bogotá.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Read: "Camila goes to school from Monday to Friday. On Saturday she visits her grandma in Bogota. On Sunday she goes to the park." When does Camila visit her grandma?
 
 ### Opciones
-- [x] D) passenger
-  <!-- feedback: Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all. -->
-- [ ] B) commuter
-  <!-- feedback: 'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle. -->
-- [ ] C) tourist
-  <!-- feedback: 'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle. -->
+- [ ] A) on Sunday
+  <!-- feedback: Incorrect. On Sunday Camila goes to the park, not to her grandma's house. -->
+- [x] B) on Saturday
+  <!-- feedback: Correct. The text says "On Saturday she visits her grandma". -->
+- [ ] C) on Monday
+  <!-- feedback: Incorrect. On Monday Camila goes to school, according to the text. -->
+- [ ] D) on Friday
+  <!-- feedback: Incorrect. Friday is a school day for Camila, so she does not visit her grandma then. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
+Hay que buscar en el texto la palabra "grandma" (abuela): "On Saturday she visits her grandma". El domingo va al parque y de lunes a viernes va al colegio. Con los días usamos "on": "on Saturday".
+
 ## Question 6 [D7-D8]
 **ID:** CO-ING-3-2026-W28-days-week-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.56
+**Contexto:** Un niño de Santa Marta ordena las tarjetas de los días para el mural del salón.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Which list is in the correct order?
 
 ### Opciones
-- [x] B) customs
-  <!-- feedback: Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive. -->
-- [ ] A) security
-  <!-- feedback: 'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in. -->
-- [ ] C) terminal
-  <!-- feedback: 'terminal' is the building where you wait for your plane, not the place where your belongings are inspected. -->
-- [ ] D) gate
-  <!-- feedback: 'gate' is the door at the plane you walk through to board, not the place where officials check your things. -->
+- [ ] A) Friday, Thursday, Saturday
+  <!-- feedback: Incorrect. Thursday comes before Friday, so this order is wrong. -->
+- [ ] B) Tuesday, Thursday, Wednesday
+  <!-- feedback: Incorrect. Wednesday comes before Thursday, so the last two are swapped. -->
+- [x] C) Wednesday, Thursday, Friday
+  <!-- feedback: Correct. Wednesday, Thursday and Friday follow the order of the week. -->
+- [ ] D) Sunday, Saturday, Monday
+  <!-- feedback: Incorrect. Saturday comes before Sunday, so the first two are swapped. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
+Para revisar el orden hay que recordar la secuencia completa: "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday". Solo "Wednesday, Thursday, Friday" respeta esa secuencia.
+
 ## Question 7 [D9-D10]
 **ID:** CO-ING-3-2026-W28-days-week-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.50
+**Contexto:** Pedro se despierta en su casa de Valledupar y piensa que tiene que ir al colegio.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Pedro says: "Yesterday was Saturday, so today is a school day." Is Pedro right?
 
 ### Opciones
-- [x] A) boarding pass
-  <!-- feedback: Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane. -->
-- [ ] B) visa
-  <!-- feedback: 'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline. -->
-- [ ] C) receipt
-  <!-- feedback: 'receipt' is the proof that you paid for something, which is not permission to board a plane. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a leaflet with tourist information, not a travel document issued to a passenger. -->
+- [ ] A) Yes. Today is Monday, a school day.
+  <!-- feedback: Incorrect. Monday comes after Sunday, so it is two days after Saturday. -->
+- [ ] B) Yes. Today is Friday, a school day.
+  <!-- feedback: Incorrect. Friday comes before Saturday, so it cannot be today. -->
+- [x] C) No. Today is Sunday, and there is no school.
+  <!-- feedback: Correct. The day after Saturday is Sunday, which is part of the weekend. -->
+- [ ] D) No. Today is Saturday again.
+  <!-- feedback: Incorrect. Saturday was yesterday; the day changes, so today is Sunday. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
+Si ayer ("yesterday") fue sábado, hoy es domingo ("Sunday"). El domingo es parte del fin de semana y no hay colegio. Por eso Pedro está equivocado: el lunes llega mañana, no hoy.
+
 ## Question 8 [D9-D10]
 **ID:** CO-ING-3-2026-W28-days-week-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.45
+**Contexto:** Ana y Luis conversan en la ruta escolar en Villavicencio.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Read the dialogue.
+Ana: "What day is it today?"
+Luis: "___"
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'sightseeing' means visiting the places of interest of a location as a traveler. -->
-- [ ] B) shopping
-  <!-- feedback: 'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place. -->
+- [x] A) It's Wednesday.
+  <!-- feedback: Correct. The question asks for the day, and Wednesday is a day of the week. -->
+- [ ] B) It's ten o'clock.
+  <!-- feedback: Incorrect. "Ten o'clock" tells the time, not the day of the week. -->
+- [ ] C) It's July.
+  <!-- feedback: Incorrect. July is a month of the year, not a day of the week. -->
+- [ ] D) It's sunny.
+  <!-- feedback: Incorrect. "Sunny" describes the weather, not the day. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+La pregunta "What day is it today?" pide un día de la semana, por ejemplo "It's Wednesday". "Ten o'clock" es una hora, "July" es un mes y "sunny" habla del clima.

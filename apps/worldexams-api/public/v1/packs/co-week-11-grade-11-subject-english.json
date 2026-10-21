@@ -59,12 +59,6 @@
       "context": "Discussing social justice in Cartagena.",
       "options": [
         {
-          "letter": "C",
-          "text": "hollows out",
-          "is_correct": true,
-          "feedback": "To hollow something out is to remove what gave it substance while leaving the outer shape intact, which is exactly what a consultation that changes nothing does. The clause names the democratic appearance that survives the procedure."
-        },
-        {
           "letter": "A",
           "text": "builds up",
           "is_correct": false,
@@ -75,6 +69,12 @@
           "text": "measures",
           "is_correct": false,
           "feedback": "'Measure' means to assess the size of something, and the clause is about whether participation was real rather than about any quantity. What changed, if anything, is the status of the proposal."
+        },
+        {
+          "letter": "C",
+          "text": "hollows out",
+          "is_correct": true,
+          "feedback": "To hollow something out is to remove what gave it substance while leaving the outer shape intact, which is exactly what a consultation that changes nothing does. The clause names the democratic appearance that survives the procedure."
         },
         {
           "letter": "D",
@@ -151,16 +151,16 @@
       "context": "Discussing social justice in Cali.",
       "options": [
         {
-          "letter": "B",
-          "text": "outside",
-          "is_correct": true,
-          "feedback": "'Outside' is the preposition that takes a noun phrase naming who does not benefit, and the clause names the gains in question. The relative clause about who was not at the table supplies exactly the group being excluded."
-        },
-        {
           "letter": "A",
           "text": "despite",
           "is_correct": false,
           "feedback": "'Despite' is a preposition but it is followed by a noun phrase naming a contrast, not the noun that the sentence needs here. Nothing in the sentence states what the workers achieved against an obstacle."
+        },
+        {
+          "letter": "B",
+          "text": "outside",
+          "is_correct": true,
+          "feedback": "'Outside' is the preposition that takes a noun phrase naming who does not benefit, and the clause names the gains in question. The relative clause about who was not at the table supplies exactly the group being excluded."
         },
         {
           "letter": "C",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W11-social-justice-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on social justice in Manizales, what is implied about the role of Advanced Relative Clauses in shaping public opinion?",
-      "context": "Discussing social justice in Manizales.",
+      "statement": "Read the text and answer the question.\n\n\"In 2024 a group of young people in Soacha opened a small library inside a shipping container next to the local football field. They collected 1,200 books from donations and asked some mothers from the neighbourhood to run reading clubs for children. At first only a few families came, but after the group started lending school textbooks free of charge, the container was full every afternoon. 'Many kids here cannot pay for the books the schools ask for,' explains Camila Rojas, one of the founders. 'We wanted to make sure that a family's income does not decide who can do their homework.'\"\n\nWhat is the main purpose of the library, according to the text?",
+      "context": "A youth-run community library in Soacha, Cundinamarca.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "To train the neighbourhood mothers as professional librarians.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. The mothers run reading clubs, but the text never mentions training them for a profession; that is a detail of how the library works, not its purpose."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "To raise money to improve the local football field.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. The football field is only mentioned to say where the container is located; nothing in the text connects the library with collecting money."
+        },
+        {
+          "letter": "C",
+          "text": "To give children equal access to the study materials they need.",
+          "is_correct": true,
+          "feedback": "Correct. Camila says the aim is that \"a family's income does not decide who can do their homework\", and the library became popular when it lent textbooks free, so its purpose is equal access to materials."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Cali.",
+          "text": "To sell second-hand books to families at low prices.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The text says the textbooks are lent \"free of charge\", which means nothing is sold, so this option contradicts a key detail."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Main-idea questions ask why the text was written, not what details it mentions. The founder's quotation at the end states the goal directly: income should not decide which children can study, which is why free lending matters more than the football field or the reading clubs.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-11-2026-W11-social-justice-001-MASTERY-bundle-v6",
-      "statement": "According to a recent report on social justice in Barranquilla, what is implied about the role of Advanced Relative Clauses in shaping public opinion?",
-      "context": "Discussing social justice in Barranquilla.",
+      "statement": "Read the text and answer the question.\n\n\"In parts of La Guajira, Wayuu women and girls used to walk up to three hours a day to bring water home. When a solar-powered pump was installed near a community in Uribia in 2023, the walk was reduced to fifteen minutes. The local teacher noticed something unexpected that same year: the number of girls who finished primary school rose from eleven to twenty-six. The pump was paid for by the departmental government, but the community chose where to put it and trained two young women to repair it.\"\n\nWhat can be inferred from the text?",
+      "context": "Water access and girls' schooling in Uribia, La Guajira.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "Collecting water had been keeping many girls away from their studies.",
           "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "feedback": "Correct. The text links two facts: the long walk for water was done by women and girls, and when the walk became short, many more girls finished school. The reader can infer that the walk had been taking time away from school."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "The teacher installed the pump to improve school attendance.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. The text says the departmental government paid for the pump and the community chose its location; the teacher only noticed the change in the school results."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "The pump stopped working after the first year because nobody could repair it.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. The text says the opposite: two young women were trained to repair it, and nothing suggests that the pump broke."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Cartagena.",
+          "text": "Boys in the community had to walk even longer distances than girls.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The text mentions only \"women and girls\" walking for water, so there is no information to compare their walk with that of boys."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "An inference is a conclusion the text supports but does not state. Here the writer places the shorter walk and the rise from eleven to twenty-six graduates side by side, so the reader connects them; options that add new facts, such as who installed the pump, are not supported.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -377,36 +377,36 @@
     },
     {
       "id": "CO-ING-11-2026-W11-social-justice-001-MASTERY-bundle-v9",
-      "statement": "According to a recent report on social justice in Bucaramanga, what is implied about the role of Advanced Relative Clauses in shaping public opinion?",
-      "context": "Discussing social justice in Bucaramanga.",
+      "statement": "Read the text and answer the question.\n\n\"Every Saturday morning, law students from a university in Medellín offer free legal advice in the community hall of Comuna 13. Most of the people who come need help with three problems: unpaid wages, rental contracts and the registration of victims of the armed conflict. The students cannot represent anyone in court, but they explain documents, help people fill in forms and send difficult cases to a professor. Last year they helped 640 people, and almost half of them were women who worked as domestic employees.\"\n\nAccording to the text, what are the students NOT allowed to do?",
+      "context": "Free legal advice offered by law students in Comuna 13, Medellín.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "letter": "A",
+          "text": "Explain legal documents to the people who visit them.",
+          "is_correct": false,
+          "feedback": "Incorrect. Explaining documents is one of the services listed in the text (\"they explain documents\"), so it is something the students do every Saturday."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "letter": "B",
+          "text": "Defend people as their lawyers in court.",
+          "is_correct": true,
+          "feedback": "Correct. The text says directly that \"the students cannot represent anyone in court\", so this is the only action they are not allowed to do."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Help people complete official forms.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. The text says the students \"help people fill in forms\", which means this is part of their work, not something they are forbidden to do."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Manizales.",
+          "text": "Pass complicated cases to a university professor.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. Sending difficult cases to a professor is exactly what the students do when a problem is too complex, according to the text."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Detail questions with NOT require checking each option against the text. Three options repeat activities the text lists as part of the students' work; only representing people in court is explicitly excluded with the word \"cannot\".\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -423,36 +423,36 @@
     },
     {
       "id": "CO-ING-11-2026-W11-social-justice-001-MASTERY-bundle-v10",
-      "statement": "According to a recent report on social justice in Bogotá, what is implied about the role of Advanced Relative Clauses in shaping public opinion?",
-      "context": "Discussing social justice in Bogotá.",
+      "statement": "Read the text and answer the question.\n\n\"When Julián Pérez started using a wheelchair after an accident, he discovered that his daily trip to work in Bogotá had become an obstacle course. Some stations had ramps, but the lifts were often out of service, and drivers did not always stop close enough to the platform. Julián began recording these problems with his phone and posting the videos online. They were shared thousands of times, and in 2025 the city agreed to review every station. 'I am not asking for a favour,' he says. 'Getting to work is a right, and the city has to guarantee it for everyone.'\"\n\nIn the text, the expression \"an obstacle course\" suggests that Julián's trip...",
+      "context": "Accessibility for wheelchair users on public transport in Bogotá.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "had turned into a sports competition with other passengers.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. This is the literal meaning of the expression; the text uses it figuratively and never mentions any competition or race."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "was shorter than before because of the new ramps.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. The text does not say the trip became shorter; it describes new problems that made the trip harder after the accident."
+        },
+        {
+          "letter": "C",
+          "text": "was full of difficulties that he had to get past.",
+          "is_correct": true,
+          "feedback": "Correct. The sentences that follow list the problems: broken lifts and buses that stop far from the platform. An obstacle course is a route full of barriers, so the expression describes a trip full of difficulties."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Cali.",
+          "text": "had become exciting and enjoyable for him.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The rest of the text is a complaint about broken lifts and careless drivers, and Julián says he is demanding a right, so nothing suggests he enjoys the trip."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Vocabulary-in-context items ask the reader to use the surrounding sentences, not the dictionary meaning. The list of problems right after \"an obstacle course\" shows the writer means a trip full of barriers, which also explains why Julián recorded them and demanded a change.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -469,36 +469,36 @@
     },
     {
       "id": "CO-ING-11-2026-W11-social-justice-001-MASTERY-bundle-v11",
-      "statement": "Complete the following sentence about social justice: 'The committee, __________ none of its members had served in the affected municipalities, was barred from hearing the case.' (Topic: relative clause giving the reason, introduced by 'none of')",
-      "context": "Discussing social justice in Barranquilla.",
+      "statement": "Complete the following sentence about social justice: 'The committee, __________ had served in the affected municipalities, was barred from hearing the case.'",
+      "context": "A disciplinary committee in Barranquilla that lacked local experience.",
       "options": [
         {
-          "letter": "D",
-          "text": "having",
-          "is_correct": true,
-          "feedback": "A non-defining relative clause between commas that begins with 'none of' cannot have its own subject plus finite verb without a participle, since 'none' is the subject and would need a verb it does not have. 'Having none of its members had served' places the reason in the participle."
-        },
-        {
           "letter": "A",
-          "text": "none of whose members",
+          "text": "none of its members",
           "is_correct": false,
-          "feedback": "'None of whose members had served' would make the relative clause perfectly grammatical, but the sentence already contains the phrase 'none of its members had served'. Inserting it here would give two overlapping statements of the same fact."
+          "feedback": "Incorrect. \"None of its members had served\" is an independent clause, not a relative one; placing it between commas inside another sentence creates a run-on, because nothing connects it to \"the committee\"."
         },
         {
           "letter": "B",
-          "text": "which none of",
+          "text": "none of which members",
           "is_correct": false,
-          "feedback": "'Which none of' leaves the clause without a subject and a verb of its own, since 'none of' needs a noun phrase after it and a finite verb to close the clause. The structure would not be grammatical as written."
+          "feedback": "Incorrect. \"Which\" cannot be followed directly by a noun to show possession in this position; the possessive relative form needed before \"members\" is \"whose\"."
         },
         {
           "letter": "C",
-          "text": "whom none of",
+          "text": "whose none of members",
           "is_correct": false,
-          "feedback": "'Whom' requires an object pronoun as its antecedent, and the antecedent is 'committee', a singular noun. 'Whom none of' also leaves the clause without a verb, so the whole relative is ungrammatical."
+          "feedback": "Incorrect. The word order is wrong: the quantifier \"none of\" must come before \"whose\", as in \"none of whose members\"; \"whose none of\" does not exist in English."
+        },
+        {
+          "letter": "D",
+          "text": "none of whose members",
+          "is_correct": true,
+          "feedback": "Correct. \"None of whose members had served...\" is a non-defining relative clause: \"whose\" links the members to \"the committee\" and \"had served\" is the verb of the clause, so the whole sentence is grammatical."
         }
       ],
       "correct_answer": "D",
-      "explanation": "A non-defining relative clause can name a reason using a participle when the subject and verb would otherwise compete with the main clause's. At C1+ students should first test whether a full relative pronoun plus subject-verb sequence is available at all, and only then decide between the participle and the clause.\n\n---",
+      "explanation": "To show that the members belong to the committee inside a relative clause, English uses \"whose\" after a quantifier: \"none of whose\", \"all of whose\", \"some of whose\". The clause then needs its own verb, which the sentence already supplies with \"had served\".\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -519,12 +519,6 @@
       "context": "Discussing social justice in Pereira.",
       "options": [
         {
-          "letter": "D",
-          "text": "since",
-          "is_correct": true,
-          "feedback": "A relative clause after a comma with a quantifier subject needs a subordinator, since 'every appeal' has no relative pronoun linking it to 'the rulings'. 'Since every appeal took more than three years' supplies that link and reads as a non-defining clause."
-        },
-        {
           "letter": "A",
           "text": "when",
           "is_correct": false,
@@ -541,6 +535,12 @@
           "text": "which",
           "is_correct": false,
           "feedback": "'Which every appeal took' would require 'which' to stand for a duration that appeals took, but the noun phrase immediately after the comma is a full clause with its own subject. The pronoun would have nothing to refer to in that position."
+        },
+        {
+          "letter": "D",
+          "text": "since",
+          "is_correct": true,
+          "feedback": "A relative clause after a comma with a quantifier subject needs a subordinator, since 'every appeal' has no relative pronoun linking it to 'the rulings'. 'Since every appeal took more than three years' supplies that link and reads as a non-defining clause."
         }
       ],
       "correct_answer": "D",
@@ -611,16 +611,16 @@
       "context": "Discussing social justice in Bogotá.",
       "options": [
         {
-          "letter": "B",
-          "text": "as",
-          "is_correct": true,
-          "feedback": "'As' introduces a non-defining relative clause meaning 'in the way that', and here the way the ministry reacted is what the clause reports. The commas on both sides and the passive 'was confirmed' inside the clause both rule out a defining reading."
-        },
-        {
           "letter": "A",
           "text": "which",
           "is_correct": false,
           "feedback": "'Which the ministry later confirmed' would need a noun phrase to stand for, since 'confirmed' requires an object. No such object appears before the comma closing the clause, so the structure would not be grammatical."
+        },
+        {
+          "letter": "B",
+          "text": "as",
+          "is_correct": true,
+          "feedback": "'As' introduces a non-defining relative clause meaning 'in the way that', and here the way the ministry reacted is what the clause reports. The commas on both sides and the passive 'was confirmed' inside the clause both rule out a defining reading."
         },
         {
           "letter": "C",
@@ -653,36 +653,36 @@
     },
     {
       "id": "CO-ING-11-2026-W11-social-justice-001-MASTERY-bundle-v15",
-      "statement": "Complete the following sentence about social justice: 'The land was returned to the community, __________ three generations of legal titles had already been sold to third parties.' (Topic: absolute construction with a completed participle and its own subject)",
-      "context": "Discussing social justice in Medellín.",
+      "statement": "Complete the following sentence about social justice: 'The land titles __________ been verified by the notary, the family was finally allowed to return to the farm.' (Topic: absolute construction with a perfect participle)",
+      "context": "A land restitution process completed in Medellín.",
       "options": [
         {
           "letter": "A",
           "text": "having",
           "is_correct": true,
-          "feedback": "'Having' plus a past participle forms an absolute construction carrying its own subject, 'three generations of legal titles'. That subject is not the land, so a participle is the only structure that lets the clause stand on its own."
+          "feedback": "Correct. \"The land titles having been verified by the notary\" is an absolute construction: it has its own subject (\"the land titles\") and a participle instead of a finite verb, so it can sit before the main clause \"the family was finally allowed...\"."
         },
         {
           "letter": "B",
-          "text": "while",
+          "text": "had",
           "is_correct": false,
-          "feedback": "'While' introduces a finite clause needing its own subject and verb, which would give the sentence two finite verbs without a second subject. The subject here belongs to the participial phrase rather than to a new clause."
+          "feedback": "Incorrect. \"The land titles had been verified\" is a complete clause; joining it to \"the family was finally allowed\" with only a comma produces a comma splice, so a conjunction such as \"after\" would be required."
         },
         {
           "letter": "C",
-          "text": "after",
+          "text": "were",
           "is_correct": false,
-          "feedback": "'After' also introduces a finite clause with its own subject, which would again compete with the main clause. An absolute construction deliberately keeps the added information without a separate verb."
+          "feedback": "Incorrect. \"Were been verified\" is impossible because \"were\" cannot be followed by \"been\"; the passive past would be \"were verified\", which does not fit the words already in the sentence."
         },
         {
           "letter": "D",
-          "text": "because",
+          "text": "have",
           "is_correct": false,
-          "feedback": "'Because' introduces a finite clause giving a reason, and the result would be two finite verbs and two subjects. Nothing here indicates a causal clause, and the sentence would not be grammatical in that form."
+          "feedback": "Incorrect. \"Have been verified\" is a finite present perfect, so it creates a comma splice with the main clause, and its present time also clashes with the past \"was allowed\"."
         }
       ],
       "correct_answer": "A",
-      "explanation": "An absolute construction lets a sentence carry extra information with a different subject, which is why it uses a participle rather than a subordinator. At C1+ students should notice when the words after the comma include their own subject, since that is the signal that a participle is required.\n\n---",
+      "explanation": "An absolute construction (noun phrase + participle) adds background information without a conjunction. With a passive perfect meaning, the form is \"having been + past participle\"; any finite form (had, have, were) turns the phrase into a second clause that needs a connector.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -703,12 +703,6 @@
       "context": "Discussing social justice in Medellín.",
       "options": [
         {
-          "letter": "D",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "'No sooner' is a negative fronted structure that triggers inversion of the past perfect: 'no sooner had the clause appeared'. The two events are moments, not completed processes, so the perfect is what expresses the second one arriving on the heels of the first."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -725,6 +719,12 @@
           "text": "was",
           "is_correct": false,
           "feedback": "'Was' would form a passive or a copula, but the clause itself is what appeared, so no passive is involved. The inversion needs the perfect auxiliary 'had' in front of the subject to make the structure work."
+        },
+        {
+          "letter": "D",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "'No sooner' is a negative fronted structure that triggers inversion of the past perfect: 'no sooner had the clause appeared'. The two events are moments, not completed processes, so the perfect is what expresses the second one arriving on the heels of the first."
         }
       ],
       "correct_answer": "D",
@@ -745,36 +745,36 @@
     },
     {
       "id": "CO-ING-11-2026-W11-social-justice-001-MASTERY-bundle-v17",
-      "statement": "In a high-level debate about social justice, Daniela says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Daniela mean?",
-      "context": "Discussing social justice in Bogotá.",
+      "statement": "During a debate about a housing subsidy that is not reaching poor families, Daniela says: 'I can't help but feel that we are barking up the wrong tree. The problem is not the amount of money; it's the paperwork families have to complete.' What does Daniela mean?",
+      "context": "A student debate about a housing subsidy in Bogotá.",
       "options": [
         {
           "letter": "A",
-          "text": "The current strategy is directed towards the wrong objective.",
+          "text": "The group is focusing on the wrong cause of the problem.",
           "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "feedback": "Correct. \"Barking up the wrong tree\" means looking for a solution or explanation in the wrong place; Daniela then says the real problem is the paperwork, not the money."
         },
         {
           "letter": "B",
-          "text": "They are literally looking for something in the trees of Barranquilla.",
+          "text": "They are literally looking for something in the trees of the city.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads the idiom literally; the debate is about a housing subsidy, and no trees are involved."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The debate has become too noisy and aggressive.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. \"Barking\" here does not refer to noise or attitude; the idiom is about choosing the wrong target, as her second sentence shows."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "The subsidy should be used to plant trees in poor neighbourhoods.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. This misreads the image of the tree as a real proposal; Daniela proposes looking at the paperwork, not at an environmental project."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "Idioms are understood through their figurative meaning and the context. Daniela's second sentence names the real cause of the problem, which confirms that the idiom \"bark up the wrong tree\" means the group was blaming the wrong thing.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-ING-11-2026-W11-social-justice-001-MASTERY-bundle-v18",
-      "statement": "In a high-level debate about social justice, Alejandro says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Alejandro mean?",
-      "context": "Discussing social justice in Cartagena.",
+      "statement": "Read the conversation.\n\nAna: The new bus fares are hitting the families in Ciudad Bolívar harder than anyone else.\nLuis: Then we can't just complain in the group chat. We need to speak up at the council meeting on Thursday.\n\nWhat does Luis suggest?",
+      "context": "Two classmates in Bogotá discuss a rise in bus fares.",
       "options": [
         {
-          "letter": "C",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Bucaramanga.",
+          "text": "Speaking more loudly so that Ana can hear him.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. \"Speak up\" can mean \"talk louder\", but in this context Luis is contrasting a private chat with a public meeting, so the meaning is to give an opinion openly."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Staying quiet until the fares go down again.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. This is the opposite of \"speak up\"; Luis says they \"can't just complain\", which shows he wants more action, not silence."
+        },
+        {
+          "letter": "C",
+          "text": "Expressing their opinion publicly where decisions are made.",
+          "is_correct": true,
+          "feedback": "Correct. \"Speak up\" means to say what you think openly, especially to defend something; Luis contrasts it with complaining privately in a chat and names the council meeting as the place to do it."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Writing more messages in the class group chat.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. Luis rejects this option directly with \"we can't just complain in the group chat\", so it is the thing he does not want to do."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "Many phrasal verbs have more than one meaning, and the conversation decides which one applies. Luis contrasts a private complaint with a public meeting, so \"speak up\" here means to express an opinion openly in defence of others, not to raise the voice.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -837,36 +837,36 @@
     },
     {
       "id": "CO-ING-11-2026-W11-social-justice-001-MASTERY-bundle-v19",
-      "statement": "In a high-level debate about social justice, Mateo says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mateo mean?",
-      "context": "Discussing social justice in Barranquilla.",
+      "statement": "Read the conversation.\n\nReporter: Is the new registration system working for displaced families?\nSocial worker: For most of them, yes. But families who arrive without identity documents often fall through the cracks, and nobody contacts them for months.\n\nWhat does the social worker mean?",
+      "context": "A social worker in Cali talks about registering displaced families.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Pereira.",
+          "text": "Some families have accidents in old and damaged buildings.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This is a literal reading of \"cracks\"; the conversation is about a registration system, not about the condition of buildings."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Families without documents receive help faster than others.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. The speaker says the opposite: these families wait months without contact, so they are disadvantaged, not favoured."
         },
         {
           "letter": "C",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Most displaced families refuse to join the registration system.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The speaker says the system works \"for most of them\", and the problem she describes is that the system misses some families, not that families refuse it."
+        },
+        {
+          "letter": "D",
+          "text": "Some families are missed by the system and receive no help.",
+          "is_correct": true,
+          "feedback": "Correct. \"Fall through the cracks\" means to be forgotten or not noticed by a system that should help you; she adds that nobody contacts these families for months."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "\"Fall through the cracks\" is a common idiom in news about public services. Its meaning is clear from the context: the families exist and need help, but the system does not see them, which is why \"nobody contacts them for months\".\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -883,36 +883,36 @@
     },
     {
       "id": "CO-ING-11-2026-W11-social-justice-001-MASTERY-bundle-v20",
-      "statement": "In a high-level debate about social justice, Mariana says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mariana mean?",
-      "context": "Discussing social justice in Medellín.",
+      "statement": "Read the conversation.\n\nSofía: Students from rural schools get the same exam as everyone else, so the system is already fair.\nTomás: I see your point, but they don't get the same teachers or internet. Free preparation courses would help level the playing field.\n\nWhat does Tomás want the preparation courses to do?",
+      "context": "A school debate in Medellín about university entrance support.",
       "options": [
         {
           "letter": "A",
-          "text": "The current strategy is directed towards the wrong objective.",
+          "text": "Give rural students a fairer chance to compete with others.",
           "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "feedback": "Correct. \"Level the playing field\" means to create conditions in which everyone has the same opportunity; Tomás says rural students lack teachers and internet, so the courses would reduce that disadvantage."
         },
         {
           "letter": "B",
-          "text": "They are literally looking for something in the trees of Barranquilla.",
+          "text": "Build new sports facilities in rural schools.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This is a literal reading of \"playing field\"; Tomás is talking about exam preparation, teachers and internet, not about sport."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Make the entrance exam easier for every student.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. Tomás does not ask to change the exam; he wants to change the preparation that rural students receive before taking it."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Show that Sofía is completely right about the system.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. \"I see your point, but...\" is a polite way of disagreeing; Tomás accepts part of her idea and then argues that the system is not fair yet."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "This item combines an idiom with a pragmatic signal. \"I see your point, but\" introduces polite disagreement, and \"level the playing field\" names the goal of equal opportunity, so the courses are meant to compensate for unequal conditions, not to change the exam.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

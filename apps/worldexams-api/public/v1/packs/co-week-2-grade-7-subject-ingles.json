@@ -388,9 +388,9 @@
         },
         {
           "letter": "B",
-          "text": "They both have work and study routines.",
-          "is_correct": true,
-          "feedback": "Correct! Both of them perform both activities, just at different times."
+          "text": "They don't have any similarities.",
+          "is_correct": false,
+          "feedback": "Incorrect. There is a clear similarity in the activities they perform."
         },
         {
           "letter": "C",
@@ -400,12 +400,12 @@
         },
         {
           "letter": "D",
-          "text": "They don't have any similarities.",
-          "is_correct": false,
-          "feedback": "Incorrect. There is a clear similarity in the activities they perform."
+          "text": "They both have work and study routines.",
+          "is_correct": true,
+          "feedback": "Correct! Both of them perform both activities, just at different times."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student analyzes and compares information about different routines to find a common factor.\n\n---",
       "difficulty": "10",
       "images": [],

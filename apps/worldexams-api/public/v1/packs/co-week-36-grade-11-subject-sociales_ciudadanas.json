@@ -13,12 +13,6 @@
       "context": "En un club de medios de un colegio de Zipaquirá se revisan los derechos comunicativos.",
       "options": [
         {
-          "letter": "D",
-          "text": "La libertad de expresar y difundir libremente pensamientos y opiniones, y el derecho a recibir información veraz e imparcial",
-          "is_correct": true,
-          "feedback": "Correcto. Esa es la doble garantía del artículo 20: emitir e informar verazmente."
-        },
-        {
           "letter": "A",
           "text": "La propiedad estatal exclusiva de todos los medios de comunicación",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "La censura previa de contenidos ofensivos decidida por la Policía",
           "is_correct": false,
           "feedback": "El artículo 73 prohíbe expresamente la censura."
+        },
+        {
+          "letter": "D",
+          "text": "La libertad de expresar y difundir libremente pensamientos y opiniones, y el derecho a recibir información veraz e imparcial",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la doble garantía del artículo 20: emitir e informar verazmente."
         }
       ],
       "correct_answer": "D",
@@ -59,16 +59,16 @@
       "context": "Un estudiante de Barrancabermeja pregunta por qué las televisoras no pueden ser cerradas por incomodar a un gobernador.",
       "options": [
         {
-          "letter": "B",
-          "text": "Artículo 73, que garantiza la libertad de información y prohíbe la censura",
-          "is_correct": true,
-          "feedback": "Correcto. El artículo 73 declara la libertad de información y veta la censura."
-        },
-        {
           "letter": "A",
           "text": "Artículo 1, que define al Estado como unitario",
           "is_correct": false,
           "feedback": "El artículo 1 no regula medios ni censura."
+        },
+        {
+          "letter": "B",
+          "text": "Artículo 73, que garantiza la libertad de información y prohíbe la censura",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo 73 declara la libertad de información y veta la censura."
         },
         {
           "letter": "C",
@@ -111,12 +111,6 @@
           "feedback": "Justo lo contrario: el periodismo ciudadano es practicado por personas sin formación ni cargo periodístico formal."
         },
         {
-          "letter": "D",
-          "text": "La recolección, publicación y difusión de noticias e información de interés público por personas ajenas a los medios profesionales, usualmente con apoyo digital",
-          "is_correct": true,
-          "feedback": "Correcto. Es producción informativa desde la ciudadanía, potenciada por plataformas digitales."
-        },
-        {
           "letter": "B",
           "text": "La propaganda oficial de las alcaldías en sus páginas web",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "El chisme de redes sociales sin interés colectivo",
           "is_correct": false,
           "feedback": "El periodismo ciudadano exige rigor y relevancia pública; el chisme no tiene estándares verificables."
+        },
+        {
+          "letter": "D",
+          "text": "La recolección, publicación y difusión de noticias e información de interés público por personas ajenas a los medios profesionales, usualmente con apoyo digital",
+          "is_correct": true,
+          "feedback": "Correcto. Es producción informativa desde la ciudadanía, potenciada por plataformas digitales."
         }
       ],
       "correct_answer": "D",
@@ -157,12 +157,6 @@
           "feedback": "La veracidad y el tamaño del medio no definen la desinformación."
         },
         {
-          "letter": "D",
-          "text": "Ser contenido falso o manipulados difundido con apariencia de noticia, que puede causar daño público",
-          "is_correct": true,
-          "feedback": "Correcto. Falsedad más forma noticiosa es el núcleo del concepto."
-        },
-        {
           "letter": "B",
           "text": "Publicar una opinión personal sobre un hecho real",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "Reproducir un comunicado de prensa oficial",
           "is_correct": false,
           "feedback": "Los comunicados oficiales son fuentes documentales; su publicación no es desinformación."
+        },
+        {
+          "letter": "D",
+          "text": "Ser contenido falso o manipulados difundido con apariencia de noticia, que puede causar daño público",
+          "is_correct": true,
+          "feedback": "Correcto. Falsedad más forma noticiosa es el núcleo del concepto."
         }
       ],
       "correct_answer": "D",
@@ -197,16 +197,16 @@
       "context": "Un video viral muestra un supuesto ataque en un barrio de Cali; la imagen no tiene fecha ni autor y una fuente oficial lo desmiente.",
       "options": [
         {
-          "letter": "B",
-          "text": "Compartirlo para que otros lo verifiquen",
-          "is_correct": false,
-          "feedback": "Compartir multiplica el daño potencial antes de verificar: la regla es comprobar antes de difundir."
-        },
-        {
           "letter": "A",
           "text": "Verificar la autoría, ubicación, fecha y contraste con fuentes oficiales y medios establecimientos antes de difundir",
           "is_correct": true,
           "feedback": "Correcto. Es el protocolo básico de verificación digital."
+        },
+        {
+          "letter": "B",
+          "text": "Compartirlo para que otros lo verifiquen",
+          "is_correct": false,
+          "feedback": "Compartir multiplica el daño potencial antes de verificar: la regla es comprobar antes de difundir."
         },
         {
           "letter": "C",
@@ -243,16 +243,16 @@
       "context": "Un portal estudiantil de Bucaramanga quiere publicar una entrevista con un denunciantes de irregularidades en un colegio.",
       "options": [
         {
-          "letter": "B",
-          "text": "El secreto profesional del periodismo, reconocido constitucional y legalmente como cláusula de conciencia",
-          "is_correct": true,
-          "feedback": "Correcto. El artículo 73 y la jurisprudencia protegen la reserva de la fuente; la Ley 820 de 2003 desarrolló la profesión."
-        },
-        {
           "letter": "A",
           "text": "El derecho de hábeas corpus del denunciante",
           "is_correct": false,
           "feedback": "El hábeas corpus protege la libertad personal, no la confidencialidad de la fuente."
+        },
+        {
+          "letter": "B",
+          "text": "El secreto profesional del periodismo, reconocido constitucional y legalmente como cláusula de conciencia",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo 73 y la jurisprudencia protegen la reserva de la fuente; la Ley 820 de 2003 desarrolló la profesión."
         },
         {
           "letter": "C",
@@ -289,6 +289,12 @@
       "context": "Un funcionario del municipio de Tausa exige a un medio digital local rectificar una información que él considera dañina para su honra.",
       "options": [
         {
+          "letter": "A",
+          "text": "La rectificación, y eventualmente las acciones civiles o penales por calumnia e injuria, con carga de prueba del afectado",
+          "is_correct": true,
+          "feedback": "Correcto. La rectificación repara sin silenciar; el proceso posterior garantiza contradicción."
+        },
+        {
           "letter": "B",
           "text": "El cierre definitivo del medio por orden del alcalde",
           "is_correct": false,
@@ -299,12 +305,6 @@
           "text": "La acción de tutela, única vía para todo conflicto, sin otras opciones",
           "is_correct": false,
           "feedback": "La tutela es subsidiaria; existe un mecanismo específico de rectificación y las acciones civiles y penales comunes."
-        },
-        {
-          "letter": "A",
-          "text": "La rectificación, y eventualmente las acciones civiles o penales por calumnia e injuria, con carga de prueba del afectado",
-          "is_correct": true,
-          "feedback": "Correcto. La rectificación repara sin silenciar; el proceso posterior garantiza contradicción."
         },
         {
           "letter": "D",
@@ -341,12 +341,6 @@
           "feedback": "Eso agrava el riesgo legal y ético; no es periodismo, es exposición arbitraria."
         },
         {
-          "letter": "D",
-          "text": "Documentar con evidencia verificable, preservar el debido proceso informativo y recurrir a medios establecidos o a la Defensoría cuando haya riesgo",
-          "is_correct": true,
-          "feedback": "Correcto. La combinación de evidencia, canal institucional y acompañamiento reduce riesgos y aumenta efecto."
-        },
-        {
           "letter": "B",
           "text": "Esperar a que otro lo publique para no asumir consecuencias",
           "is_correct": false,
@@ -357,6 +351,12 @@
           "text": "Crear una cuenta anónima dedicada exclusivamente a insultar",
           "is_correct": false,
           "feedback": "El insulto no informado carece de valor periodístico y puede constituir delito contra el honor."
+        },
+        {
+          "letter": "D",
+          "text": "Documentar con evidencia verificable, preservar el debido proceso informativo y recurrir a medios establecidos o a la Defensoría cuando haya riesgo",
+          "is_correct": true,
+          "feedback": "Correcto. La combinación de evidencia, canal institucional y acompañamiento reduce riesgos y aumenta efecto."
         }
       ],
       "correct_answer": "D",
@@ -381,16 +381,16 @@
       "context": "En un colegio de Rionegro se analiza quién regula la televisión en Colombia.",
       "options": [
         {
-          "letter": "B",
-          "text": "La Superintendencia de Servicios Públicos Domiciliarios",
-          "is_correct": false,
-          "feedback": "La Superservicios vigila servicios domiciliarios como agua y energía, no contenidos audiovisuales."
-        },
-        {
           "letter": "A",
           "text": "La Autoridad Nacional de Televisión, ANTV, que reemplazó a la Comisión Nacional de Televisión",
           "is_correct": true,
           "feedback": "Correcto. La ANTV, creada por la Ley 182 de 1995 y reestructurada por la Ley 680 de 2001, regula el sector audiovisual."
+        },
+        {
+          "letter": "B",
+          "text": "La Superintendencia de Servicios Públicos Domiciliarios",
+          "is_correct": false,
+          "feedback": "La Superservicios vigila servicios domiciliarios como agua y energía, no contenidos audiovisuales."
         },
         {
           "letter": "C",
@@ -479,12 +479,6 @@
           "feedback": "Es un efecto posible, pero no el riesgo democrático estructural del fenómeno."
         },
         {
-          "letter": "D",
-          "text": "Pluralismo formalmente garantizado puede convivir con un debate público alineado, porque la agenda y el tono se deciden por pocos actores y por incentivos económicos",
-          "is_correct": true,
-          "feedback": "Correcto. La diversidad de voces no se agota en la cantidad de medios: importa la autonomía editorial real."
-        },
-        {
           "letter": "B",
           "text": "Obliga constitucionalmente al Estado a comprar todos los medios privados",
           "is_correct": false,
@@ -495,6 +489,12 @@
           "text": "Solo afecta a los medios radiales comunitarios",
           "is_correct": false,
           "feedback": "El fenómeno impacta la estructura completa del debate, no un segmento."
+        },
+        {
+          "letter": "D",
+          "text": "Pluralismo formalmente garantizado puede convivir con un debate público alineado, porque la agenda y el tono se deciden por pocos actores y por incentivos económicos",
+          "is_correct": true,
+          "feedback": "Correcto. La diversidad de voces no se agota en la cantidad de medios: importa la autonomía editorial real."
         }
       ],
       "correct_answer": "D",
@@ -571,16 +571,16 @@
           "feedback": "Simular conversación no es participación: es falsificación de consenso artificial."
         },
         {
-          "letter": "C",
-          "text": "Distorsiona la percepción de opinión mayoritaria, manipula la agenda pública y degrada las condiciones de libre formación de la voluntad ciudadana",
-          "is_correct": true,
-          "feedback": "Correcto. La manipulación de señales sociales falsea el mercado de ideas sobre el que descansa el voto libre."
-        },
-        {
           "letter": "B",
           "text": "Solo genera spam comercial irrelevante para la política",
           "is_correct": false,
           "feedback": "Su uso coordinado en campañas es precisamente un problema político central."
+        },
+        {
+          "letter": "C",
+          "text": "Distorsiona la percepción de opinión mayoritaria, manipula la agenda pública y degrada las condiciones de libre formación de la voluntad ciudadana",
+          "is_correct": true,
+          "feedback": "Correcto. La manipulación de señales sociales falsea el mercado de ideas sobre el que descansa el voto libre."
         },
         {
           "letter": "D",
@@ -657,16 +657,16 @@
       "context": "Un estudiante de Popayán difunde un rumor de un compañero en un grupo de WhatsApp escolar.",
       "options": [
         {
-          "letter": "B",
-          "text": "Carece de importancia porque es un canal privado",
-          "is_correct": false,
-          "feedback": "Los canales privados producen daño público real: estigmatización y acoso escolar."
-        },
-        {
           "letter": "A",
           "text": "Ejemplifica el ejercicio irresponsable de la libertad de expresión: vulnera honra e intimidad (artículos 14, 15, 21) y puede configurar acoso con consecuencias para el autor",
           "is_correct": true,
           "feedback": "Correcto. La libertad de expresión no ampara la difusión de datos falsos o denigrantes, y los menores responden ante la ley penal juvenil."
+        },
+        {
+          "letter": "B",
+          "text": "Carece de importancia porque es un canal privado",
+          "is_correct": false,
+          "feedback": "Los canales privados producen daño público real: estigmatización y acoso escolar."
         },
         {
           "letter": "C",
@@ -703,6 +703,12 @@
       "context": "Un portal ciudadano de Turbo, Urabá, cubre las elecciones y usa una herramienta de inteligencia artificial para redactar resúmenes.",
       "options": [
         {
+          "letter": "A",
+          "text": "Se declare su uso, se verifiquen sus resultados y se preserve la responsabilidad editorial humana sobre la veracidad",
+          "is_correct": true,
+          "feedback": "Correcto. Transparencia, verificación y responsabilidad humana son las tres condiciones éticas."
+        },
+        {
           "letter": "B",
           "text": "Se oculte su uso al público para no perder lectores",
           "is_correct": false,
@@ -713,12 +719,6 @@
           "text": "Se delegue totalmente la edición a la máquina para ahorrar costos",
           "is_correct": false,
           "feedback": "La máquina no responde por la verdad: la rendición de cuentas informativa sigue humana."
-        },
-        {
-          "letter": "A",
-          "text": "Se declare su uso, se verifiquen sus resultados y se preserve la responsabilidad editorial humana sobre la veracidad",
-          "is_correct": true,
-          "feedback": "Correcto. Transparencia, verificación y responsabilidad humana son las tres condiciones éticas."
         },
         {
           "letter": "D",
@@ -755,16 +755,16 @@
           "feedback": "La jurisprudencia es clara: los servidores públicos están expuestos a mayor escrutinio y crítica, incluso dura."
         },
         {
-          "letter": "C",
-          "text": "Es sospechosa de inconstitucionalidad, porque puede criminalizar la crítica política y operar como censura encubierta de la deliberación democrática",
-          "is_correct": true,
-          "feedback": "Correcto. El derecho penal solo procede frente a expresiones que inciten violencia o calumnien con dolo; ofender a la autoridad no es tipo legítimo."
-        },
-        {
           "letter": "B",
           "text": "Es necesaria, porque las redes sociales carecen de toda regulación",
           "is_correct": false,
           "feedback": "Las redes ya están sujetas a normas civiles, penales y de protección al consumidor digital."
+        },
+        {
+          "letter": "C",
+          "text": "Es sospechosa de inconstitucionalidad, porque puede criminalizar la crítica política y operar como censura encubierta de la deliberación democrática",
+          "is_correct": true,
+          "feedback": "Correcto. El derecho penal solo procede frente a expresiones que inciten violencia o calumnien con dolo; ofender a la autoridad no es tipo legítimo."
         },
         {
           "letter": "D",
@@ -801,16 +801,16 @@
           "feedback": "Prohibir plataformas y silenciar medios alternativos es contraproducente y contrario a la Constitución."
         },
         {
-          "letter": "C",
-          "text": "Educación mediática desde la escuela, verificación profesional accesible, transparencia algorítmica de plataformas y respuesta rápida de las instituciones",
-          "is_correct": true,
-          "feedback": "Correcto. La evidencia privilegia la inoculación previa —resiliencia ciudadana— sobre el simple fact-checking tardío."
-        },
-        {
           "letter": "B",
           "text": "Dejar que el mercado de ideas autorregule sin ninguna intervención",
           "is_correct": false,
           "feedback": "El laissez-faire comunicacional funciona bien solo con condiciones de competencia que hoy fallan."
+        },
+        {
+          "letter": "C",
+          "text": "Educación mediática desde la escuela, verificación profesional accesible, transparencia algorítmica de plataformas y respuesta rápida de las instituciones",
+          "is_correct": true,
+          "feedback": "Correcto. La evidencia privilegia la inoculación previa —resiliencia ciudadana— sobre el simple fact-checking tardío."
         },
         {
           "letter": "D",
@@ -847,16 +847,16 @@
           "feedback": "Los funcionarios soportan mayor escrutinio; la incomodidad no es causa de exclusión de información pública."
         },
         {
-          "letter": "C",
-          "text": "Una restricción posterior legítima en cualquier caso, sin control judicial",
-          "is_correct": false,
-          "feedback": "Toda exclusión de información de interés público exige ponderación y, en lo posible, control judicial."
-        },
-        {
           "letter": "B",
           "text": "Sospechosa de vulnerar el interés público de la información y la memoria documental, reservable a casos excepcionales de derechos de terceros con ponderación estricta",
           "is_correct": true,
           "feedback": "Correcto. El derecho al olvido no es un derecho a borrar la gestión pública."
+        },
+        {
+          "letter": "C",
+          "text": "Una restricción posterior legítima en cualquier caso, sin control judicial",
+          "is_correct": false,
+          "feedback": "Toda exclusión de información de interés público exige ponderación y, en lo posible, control judicial."
         },
         {
           "letter": "D",
@@ -887,16 +887,16 @@
       "context": "En el cierre del tema, los estudiantes de un colegio de Duitama formulan un juicio sobre el futuro de la información.",
       "options": [
         {
-          "letter": "B",
-          "text": "Estará de más cuando desaparezcan los medios tradicionales",
-          "is_correct": false,
-          "feedback": "La desaparición de los medios profesionales agravaría el déficit de verificación, no lo resolvería."
-        },
-        {
           "letter": "A",
           "text": "Su fuerza depende de que la ciudadanía combine libertades con responsabilidades: verificar, proteger derechos ajenos, sostener medios independientes y exigir pluralismo como bien público",
           "is_correct": true,
           "feedback": "Correcto. El periodismo ciudadano es un ecosistema de deberes compartidos, no una autopista de cualquier contenido."
+        },
+        {
+          "letter": "B",
+          "text": "Estará de más cuando desaparezcan los medios tradicionales",
+          "is_correct": false,
+          "feedback": "La desaparición de los medios profesionales agravaría el déficit de verificación, no lo resolvería."
         },
         {
           "letter": "C",

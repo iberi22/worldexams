@@ -182,8 +182,8 @@ La lectura crítica de publicidad exige leer la totalidad del texto, incluyendo 
 ¿Cómo se está utilizando la multimodalidad en este tipo de publicidad para engañar o confundir al consumidor?
 
 ### Opciones
-- [ ] A) Usando palabras científicas reales que nadie entiende. <!-- feedback: El engaño aquí es visual y simbólico, no necesariamente léxico. -->
-- [x] B) Utilizando códigos visuales asociados a la naturaleza para dar una imagen de sostenibilidad que el producto no tiene realmente. <!-- feedback: El color verde y las hojas actúan como "atajos mentales" que el consumidor asocia con salud y ecología sin verificar los datos. -->
+- [x] A) Utilizando códigos visuales asociados a la naturaleza para dar una imagen de sostenibilidad que el producto no tiene realmente. <!-- feedback: El color verde y las hojas actúan como "atajos mentales" que el consumidor asocia con salud y ecología sin verificar los datos. -->
+- [ ] B) Usando palabras científicas reales que nadie entiende. <!-- feedback: El engaño aquí es visual y simbólico, no necesariamente léxico. -->
 - [ ] C) Regalando plantas reales con la compra de cada producto químico. <!-- feedback: Esto sería una promoción real, no un uso engañoso de símbolos. -->
 - [ ] D) Obligando al consumidor a reciclar el empaque para poder abrirlo. <!-- feedback: Es una situación ficticia que no explica el uso del diseño visual. -->
 
@@ -203,8 +203,8 @@ La asociación simbólica es una herramienta poderosa. El análisis crítico per
 ### Opciones
 - [ ] A) Que los juguetes son demasiado caros para los padres en Colombia. <!-- feedback: Aunque sea cierto, es un problema económico, no un análisis del mensaje lingüístico/visual. -->
 - [ ] B) Que el anuncio dura mucho tiempo y distrae a los niños de sus tareas. <!-- feedback: El problema no es el tiempo, sino el contenido del mensaje. -->
-- [x] C) Que promueve la idea de que la amistad y la felicidad dependen exclusivamente de poseer objetos materiales. <!-- feedback: Este tipo de publicidad utiliza el chantaje emocional y crea falsas necesidades sociales vinculadas al consumo. -->
-- [ ] D) Que el niño del anuncio debería estar estudiando en lugar de jugar. <!-- feedback: Es un juicio moral ajeno al análisis del mecanismo de persuasión publicitaria. -->
+- [ ] C) Que el niño del anuncio debería estar estudiando en lugar de jugar. <!-- feedback: Es un juicio moral ajeno al análisis del mecanismo de persuasión publicitaria. -->
+- [x] D) Que promueve la idea de que la amistad y la felicidad dependen exclusivamente de poseer objetos materiales. <!-- feedback: Este tipo de publicidad utiliza el chantaje emocional y crea falsas necesidades sociales vinculadas al consumo. -->
 
 ### Explicacion Pedagogica
 La publicidad evaluada éticamente revela cómo se explotan las inseguridades humanas (como el miedo a la soledad) para vender productos. En el caso de los niños, esto es especialmente sensible debido a su menor capacidad de análisis crítico.

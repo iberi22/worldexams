@@ -40,6 +40,7 @@ Which words are musical instruments?
   <!-- feedback: Mango, papaya and banana are fruits, not instruments. -->
 - [ ] D) Bus, taxi and moto.
   <!-- feedback: Bus, taxi and moto are transport, not instruments. -->
+
 ### Explicacion Pedagogica
 Esta pregunta presenta vocabulario básico de instrumentos en inglés. También se conecta cada instrumento con el festival vallenato.
 
@@ -60,6 +61,7 @@ What is a dance?
   <!-- feedback: A dance is body movement that follows the rhythm of music. -->
 - [ ] D) A type of car.
   <!-- feedback: Cars are transport machines, not movements with music. -->
+
 ### Explicacion Pedagogica
 La palabra dance significa movimientos del cuerpo con música. También se comprende con la cumbia del carnaval barranquillero.
 
@@ -80,6 +82,7 @@ Choose the correct verb to complete the sentence.
   <!-- feedback: "Dance" agrees with the plural subject they in the present. -->
 - [ ] D) Dancing.
   <!-- feedback: "Dancing" needs am, is or are and is not correct alone here. -->
+
 ### Explicacion Pedagogica
 El presente simple usa la forma base con they en afirmativo. También se practica con la cumbia del festival escolar sincelejano.
 
@@ -100,6 +103,7 @@ What starts at 7 p.m.?
   <!-- feedback: The fireworks close the night at 9 p.m., not 7 p.m. -->
 - [ ] D) The food fair.
   <!-- feedback: The text never mentions a food fair. -->
+
 ### Explicacion Pedagogica
 Leer programas exige ubicar cada evento en su hora exacta. También se aplica con una fiesta musical en Riohacha.
 
@@ -120,6 +124,7 @@ Which word means the opposite of loud?
   <!-- feedback: Strong describes power, not the opposite of loud. -->
 - [ ] D) Fast.
   <!-- feedback: Fast describes speed, not the volume of sound. -->
+
 ### Explicacion Pedagogica
 Los opuestos como loud y soft describen el volumen del sonido. También se asocian con instrumentos que escuchan los niños en casa.
 
@@ -140,6 +145,7 @@ What can you conclude about vallenato and bambuco?
   <!-- feedback: The instruments differ, yet both rhythms make people dance. -->
 - [ ] D) Both come from other countries.
   <!-- feedback: Vallenato and bambuco are traditional Colombian rhythms. -->
+
 ### Explicacion Pedagogica
 Analizar programas permite comparar instrumentos y efectos de cada ritmo. También se trabaja el contraste entre dos estilos colombianos.
 
@@ -160,6 +166,7 @@ Which statement explains the difference?
   <!-- feedback: Both sentences are in the present, not in the past. -->
 - [ ] D) The first describes a person, the second gives an order.
   <!-- feedback: The roles are reversed; the imperative has no subject. -->
+
 ### Explicacion Pedagogica
 El imperativo omite el sujeto para ordenar y el presente lo incluye para describir. También se practica con los tambores del Sinú.
 
@@ -174,11 +181,12 @@ Which group is the best for the carnival?
 ### Opciones
 - [ ] A) The midnight group, because hospitals enjoy loud music.
   <!-- feedback: Loud music at midnight near a hospital harms sick people. -->
-- [x] B) The organized parade with safe sound.
-  <!-- feedback: An organized parade with safe sound respects everyone. -->
+- [ ] B) Both groups are equal for the party.
+  <!-- feedback: The groups are very different; only one respects the community. -->
 - [ ] C) The loudest group, because louder is always better.
   <!-- feedback: Extremely loud music damages ears and bothers neighbors. -->
-- [ ] D) Both groups are equal for the party.
-  <!-- feedback: The groups are very different; only one respects the community. -->
+- [x] D) The organized parade with safe sound.
+  <!-- feedback: An organized parade with safe sound respects everyone. -->
+
 ### Explicacion Pedagogica
 Evaluar grupos implica revisar volumen seguro y respeto por la comunidad. También se promueve disfrutar el carnaval sin dañar los oídos.

@@ -19,12 +19,6 @@
           "feedback": "No, la energía no es una sustancia material."
         },
         {
-          "letter": "D",
-          "text": "Es la capacidad de los objetos o sistemas para realizar cambios o producir trabajo.",
-          "is_correct": true,
-          "feedback": "¡Correcto! La energía se manifiesta a través de los cambios que produce."
-        },
-        {
           "letter": "B",
           "text": "Es una fuerza invisible que solo los seres vivos poseen.",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "Es un tipo de materia que no tiene peso.",
           "is_correct": false,
           "feedback": "No, la energía no es materia; son conceptos diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "Es la capacidad de los objetos o sistemas para realizar cambios o producir trabajo.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La energía se manifiesta a través de los cambios que produce."
         }
       ],
       "correct_answer": "D",
@@ -64,12 +64,6 @@
           "feedback": "No, la energía cinética es la energía del movimiento. En el punto más alto, la velocidad es cero."
         },
         {
-          "letter": "D",
-          "text": "Energía potencial gravitatoria",
-          "is_correct": true,
-          "feedback": "¡Correcto! Es la energía que posee un cuerpo debido a su posición en altura respecto al suelo."
-        },
-        {
           "letter": "B",
           "text": "Energía eléctrica",
           "is_correct": false,
@@ -80,6 +74,12 @@
           "text": "Energía nuclear",
           "is_correct": false,
           "feedback": "Incorrecto. La energía nuclear está contenida en el núcleo de los átomos."
+        },
+        {
+          "letter": "D",
+          "text": "Energía potencial gravitatoria",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la energía que posee un cuerpo debido a su posición en altura respecto al suelo."
         }
       ],
       "correct_answer": "D",
@@ -103,12 +103,6 @@
       "context": "En una estancia en la Patagonia, se utiliza un molino de viento (aerogenerador) para obtener electricidad.",
       "options": [
         {
-          "letter": "D",
-          "text": "Energía cinética del viento en energía eléctrica.",
-          "is_correct": true,
-          "feedback": "¡Muy bien! El movimiento de las aspas acciona un generador eléctrico."
-        },
-        {
           "letter": "A",
           "text": "Energía solar en energía química.",
           "is_correct": false,
@@ -125,6 +119,12 @@
           "text": "Energía potencial en energía calórica directamente.",
           "is_correct": false,
           "feedback": "No es el proceso principal de un aerogenerador."
+        },
+        {
+          "letter": "D",
+          "text": "Energía cinética del viento en energía eléctrica.",
+          "is_correct": true,
+          "feedback": "¡Muy bien! El movimiento de las aspas acciona un generador eléctrico."
         }
       ],
       "correct_answer": "D",
@@ -154,12 +154,6 @@
           "feedback": "No, el sol no transmite sonido a través del vacío del espacio."
         },
         {
-          "letter": "D",
-          "text": "Energía lumínica (radiante)",
-          "is_correct": true,
-          "feedback": "¡Exacto! La luz transporta energía que puede concentrarse y transformarse en calor."
-        },
-        {
           "letter": "B",
           "text": "Energía mecánica",
           "is_correct": false,
@@ -170,6 +164,12 @@
           "text": "Energía hidráulica",
           "is_correct": false,
           "feedback": "No, la energía hidráulica es la del agua en movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Energía lumínica (radiante)",
+          "is_correct": true,
+          "feedback": "¡Exacto! La luz transporta energía que puede concentrarse y transformarse en calor."
         }
       ],
       "correct_answer": "D",
@@ -199,16 +199,16 @@
           "feedback": "Falso. Ningún dispositivo fabrica energía, solo la transforma."
         },
         {
-          "letter": "C",
-          "text": "Porque transforma un mayor porcentaje de energía en luz y pierde menos en forma de calor.",
-          "is_correct": true,
-          "feedback": "¡Correcto! La eficiencia es la relación entre la energía útil y la energía total consumida."
-        },
-        {
           "letter": "B",
           "text": "Porque la LED no necesita electricidad para funcionar.",
           "is_correct": false,
           "feedback": "Incorrecto. Ambos tipos de lámparas necesitan suministro eléctrico."
+        },
+        {
+          "letter": "C",
+          "text": "Porque transforma un mayor porcentaje de energía en luz y pierde menos en forma de calor.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La eficiencia es la relación entre la energía útil y la energía total consumida."
         },
         {
           "letter": "D",
@@ -244,16 +244,16 @@
           "feedback": "No, es el proceso inverso al que ocurre en este caso."
         },
         {
-          "letter": "C",
-          "text": "Energía sonora -> Energía lumínica",
-          "is_correct": false,
-          "feedback": "Incorrecto. No estás produciendo luz al frotar las manos."
-        },
-        {
           "letter": "B",
           "text": "Energía química (alimentos) -> Energía cinética (movimiento) -> Energía térmica (calor)",
           "is_correct": true,
           "feedback": "¡Excelente! Usás la energía de los alimentos para mover los músculos y la fricción genera calor."
+        },
+        {
+          "letter": "C",
+          "text": "Energía sonora -> Energía lumínica",
+          "is_correct": false,
+          "feedback": "Incorrecto. No estás produciendo luz al frotar las manos."
         },
         {
           "letter": "D",
@@ -289,12 +289,6 @@
           "feedback": "No, la convección ocurre en líquidos y gases por el movimiento de masas calientes."
         },
         {
-          "letter": "D",
-          "text": "Conducción",
-          "is_correct": true,
-          "feedback": "¡Correcto! Es la transferencia de calor por contacto directo en materiales sólidos."
-        },
-        {
           "letter": "B",
           "text": "Radiación",
           "is_correct": false,
@@ -305,6 +299,12 @@
           "text": "Aislamiento",
           "is_correct": false,
           "feedback": "El aislamiento es lo opuesto; es impedir que el calor pase."
+        },
+        {
+          "letter": "D",
+          "text": "Conducción",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la transferencia de calor por contacto directo en materiales sólidos."
         }
       ],
       "correct_answer": "D",
@@ -419,12 +419,6 @@
       "options": [
         {
           "letter": "A",
-          "text": "Que sean buenos conductores térmicos como el hierro.",
-          "is_correct": false,
-          "feedback": "No, si conducen bien el calor, este se escaparía rápidamente hacia afuera."
-        },
-        {
-          "letter": "D",
           "text": "Que sean aislantes térmicos con baja conductividad, como el telgopor o la lana de vidrio.",
           "is_correct": true,
           "feedback": "¡Correcto! Estos materiales dificultan el paso del calor, manteniendo la casa caliente."
@@ -440,9 +434,15 @@
           "text": "Que sean materiales muy densos y pesados para que el viento no los mueva.",
           "is_correct": false,
           "feedback": "La densidad no garantiza necesariamente un buen aislamiento térmico."
+        },
+        {
+          "letter": "D",
+          "text": "Que sean buenos conductores térmicos como el hierro.",
+          "is_correct": false,
+          "feedback": "No, si conducen bien el calor, este se escaparía rápidamente hacia afuera."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "En zonas frías, el uso de aislantes térmicos es clave para la eficiencia energética. Al tener baja conductividad, estos materiales reducen la transferencia de calor por conducción desde el interior cálido hacia el exterior frío.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación |\n| :--- | :--- |\n| Técnico | 30 |\n| Curricular | 40 |\n| Contexto | 20 |\n| Redacción | 10 |\n| **Total** | **100** |",
       "difficulty": "10",
       "images": [],

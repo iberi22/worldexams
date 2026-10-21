@@ -30,14 +30,15 @@ Practica el uso del punto, la coma y los signos de interrogación y exclamación
 ### Enunciado
 ¿Cuál oración usa correctamente el punto final?
 ### Opciones
-- [x] D) Llevaré los libros el lunes.
-  <!-- feedback: Es correcta porque la oración afirmativa termina con punto y expresa una idea completa. -->
 - [ ] A) Llevaré los libros el lunes
   <!-- feedback: Es incorrecta porque le falta el punto final que cierra la oración. -->
 - [ ] B) Llevaré, los libros el lunes.
   <!-- feedback: Es incorrecta porque usa una coma innecesaria que corta la idea. -->
 - [ ] C) Llevaré los libros el lunes?
   <!-- feedback: Es incorrecta porque el signo de cierre interroga y el mensaje es una afirmación. -->
+- [x] D) Llevaré los libros el lunes.
+  <!-- feedback: Es correcta porque la oración afirmativa termina con punto y expresa una idea completa. -->
+
 ### Explicacion Pedagogica
 El punto final cierra las oraciones afirmativas y marca una pausa completa. Sin punto, el texto queda abierto y el lector no sabe dónde termina la idea. Recordar el punto final es la primera norma de la escritura correcta.
 
@@ -50,14 +51,15 @@ El punto final cierra las oraciones afirmativas y marca una pausa completa. Sin 
 ### Enunciado
 Lee la oración: "Compré mango, banano, papaya y piña". ¿Para qué sirve la coma en esta oración?
 ### Opciones
-- [x] C) Para separar los elementos de una lista.
-  <!-- feedback: Es correcta porque cada coma separa una fruta de la siguiente en la enumeración. -->
 - [ ] A) Para indicar una pregunta a la vendedora.
   <!-- feedback: Es incorrecta porque la oración afirma lo comprado y no pregunta nada. -->
 - [ ] B) Para mostrar alegría por la compra.
   <!-- feedback: Es incorrecta porque la alegría se expresa con signos de exclamación, no con comas. -->
+- [x] C) Para separar los elementos de una lista.
+  <!-- feedback: Es correcta porque cada coma separa una fruta de la siguiente en la enumeración. -->
 - [ ] D) Para terminar el mensaje de la lista.
   <!-- feedback: Es incorrecta porque el mensaje termina con punto, no con coma. -->
+
 ### Explicacion Pedagogica
 La coma ordena las enumeraciones y evita que las palabras se mezclen. Sin comas, la lista sería confusa. Comprender su función ayuda a escribir recetas, listas de compras y descripciones con claridad.
 
@@ -70,14 +72,15 @@ La coma ordena las enumeraciones y evita que las palabras se mezclen. Sin comas,
 ### Enunciado
 ¿Cuál oración usa correctamente los signos de interrogación?
 ### Opciones
-- [x] C) ¿A qué hora empieza el partido?
-  <!-- feedback: Es correcta porque abre con el signo inicial y cierra con el final en una pregunta completa. -->
 - [ ] A) A qué hora empieza el partido?
   <!-- feedback: Es incorrecta porque le falta el signo de apertura propio del español. -->
 - [ ] B) ¿A qué hora empieza el partido.
   <!-- feedback: Es incorrecta porque cierra con punto y no completa la interrogación. -->
+- [x] C) ¿A qué hora empieza el partido?
+  <!-- feedback: Es correcta porque abre con el signo inicial y cierra con el final en una pregunta completa. -->
 - [ ] D) A qué hora empieza el partido.
   <!-- feedback: Es incorrecta porque sin signos no se marca la intención de preguntar. -->
+
 ### Explicacion Pedagogica
 En español las preguntas llevan dos signos: apertura y cierre. Aplicar los dos signos permite distinguir una pregunta de una afirmación. Esta norma es obligatoria en mensajes, exámenes y diálogos escritos.
 
@@ -90,14 +93,15 @@ En español las preguntas llevan dos signos: apertura y cierre. Aplicar los dos 
 ### Enunciado
 ¿Cuál oración expresa correctamente la emoción con signos de exclamación?
 ### Opciones
-- [x] C) ¡Ganamos el festival de lectura!
-  <!-- feedback: Es correcta porque usa apertura y cierre de exclamación para una emoción completa. -->
 - [ ] A) Ganamos el festival de lectura!
   <!-- feedback: Es incorrecta porque le falta el signo de apertura en español. -->
 - [ ] B) ¡Ganamos el festival de lectura?
   <!-- feedback: Es incorrecta porque mezcla exclamación con interrogación y crea confusión. -->
+- [x] C) ¡Ganamos el festival de lectura!
+  <!-- feedback: Es correcta porque usa apertura y cierre de exclamación para una emoción completa. -->
 - [ ] D) ¡Ganamos el festival de lectura.
   <!-- feedback: Es incorrecta porque abre la emoción pero la cierra con punto. -->
+
 ### Explicacion Pedagogica
 Los signos de exclamación expresan alegría, sorpresa, susto o enojo y también exigen apertura y cierre. Aplicarlos bien da fuerza al mensaje y refleja la entonación de la voz al escribir felicitaciones, avisos y diálogos.
 
@@ -110,14 +114,15 @@ Los signos de exclamación expresan alegría, sorpresa, susto o enojo y también
 ### Enunciado
 Completa el aviso: "Atención ___ traigan témperas, pinceles y cartulina". ¿Qué signo falta después de "Atención"?
 ### Opciones
-- [x] B) Dos puntos: "Atención: traigan témperas, pinceles y cartulina".
-  <!-- feedback: Es correcta porque los dos puntos anuncian la lista que viene después. -->
 - [ ] A) Signo de interrogación: "Atención? traigan témperas, pinceles y cartulina".
   <!-- feedback: Es incorrecta porque el aviso no pregunta, sino que ordena o informa. -->
+- [x] B) Dos puntos: "Atención: traigan témperas, pinceles y cartulina".
+  <!-- feedback: Es correcta porque los dos puntos anuncian la lista que viene después. -->
 - [ ] C) Punto final: "Atención. traigan témperas, pinceles y cartulina".
   <!-- feedback: Es incorrecta porque el punto corta el anuncio y deja minúscula después de punto. -->
 - [ ] D) Coma simple: "Atención, traigan témperas, pinceles y cartulina" sin dos puntos.
   <!-- feedback: Es incorrecta porque la coma sola no anuncia con la misma fuerza una enumeración formal. -->
+
 ### Explicacion Pedagogica
 Los dos puntos presentan una explicación, una lista o un anuncio después de una palabra de llamada como "atención" o "materiales". Aplicarlos correctamente organiza el aviso y prepara al lector para la información que sigue.
 
@@ -130,14 +135,15 @@ Los dos puntos presentan una explicación, una lista o un anuncio después de un
 ### Enunciado
 Al analizar el aviso, ¿qué problema hay con las comas?
 ### Opciones
-- [x] B) Hay comas innecesarias que cortan la oración y separan palabras que deben ir unidas.
-  <!-- feedback: Es correcta porque sobran las comas después de "busca", "blanco" con espacios y antes de "cariñoso". -->
 - [ ] A) Faltan signos de interrogación porque todo aviso debe preguntar.
   <!-- feedback: Es incorrecta porque este aviso informa y no necesita preguntar. -->
+- [x] B) Hay comas innecesarias que cortan la oración y separan palabras que deben ir unidas.
+  <!-- feedback: Es correcta porque sobran las comas después de "busca", "blanco" con espacios y antes de "cariñoso". -->
 - [ ] C) Falta el punto final solamente y las comas están perfectas.
   <!-- feedback: Es incorrecta porque además del punto hay comas mal ubicadas que rompen la lectura. -->
 - [ ] D) Las comas están bien y el aviso no necesita corrección.
   <!-- feedback: Es incorrecta porque las pausas están mal marcadas y dificultan la lectura. -->
+
 ### Explicacion Pedagogica
 Analizar la puntuación exige leer en voz alta y sentir las pausas. Las comas solo separan elementos equivalentes o aclaran ideas, no se colocan al azar. Eliminar las comas sobrantes deja el aviso así: "Se busca un perro blanco, juguetón y cariñoso".
 
@@ -150,14 +156,15 @@ Analizar la puntuación exige leer en voz alta y sentir las pausas. Las comas so
 ### Enunciado
 Compara los dos carteles. ¿Qué diferencia comunica cada puntuación?
 ### Opciones
-- [x] C) El cartel 1 invita con una pregunta y el cartel 2 solo informa con una afirmación.
+- [x] A) El cartel 1 invita con una pregunta y el cartel 2 solo informa con una afirmación.
   <!-- feedback: Es correcta porque distingue la intención comunicativa que marca cada signo final. -->
-- [ ] A) Los dos carteles preguntan lo mismo porque el punto también interroga.
-  <!-- feedback: Es incorrecta porque el punto cierra afirmaciones y no formula preguntas. -->
 - [ ] B) El cartel 1 afirma y el cartel 2 pregunta por el orden de las palabras.
   <!-- feedback: Es incorrecta porque invierte las funciones de los signos usados. -->
+- [ ] C) Los dos carteles preguntan lo mismo porque el punto también interroga.
+  <!-- feedback: Es incorrecta porque el punto cierra afirmaciones y no formula preguntas. -->
 - [ ] D) No hay diferencia, los signos no cambian el mensaje.
   <!-- feedback: Es incorrecta porque la puntuación transforma el sentido y la entonación del mensaje. -->
+
 ### Explicacion Pedagogica
 El mismo grupo de palabras cambia de sentido según la puntuación. La interrogación invita a responder y crea cercanía, mientras el punto solo entrega un dato. Analizar estas diferencias enseña a elegir el signo según la intención del autor.
 
@@ -170,13 +177,14 @@ El mismo grupo de palabras cambia de sentido según la puntuación. La interroga
 ### Enunciado
 ¿Cuál texto usa mejor los signos de puntuación?
 ### Opciones
-- [x] D) ¿Vienes a la feria? Trae cuentos, colores y alegría. ¡Te esperamos!
-  <!-- feedback: Es correcta porque combina pregunta, enumeración con comas y exclamación con apertura y cierre. -->
 - [ ] A) Vienes a la feria Trae cuentos colores y alegría Te esperamos
   <!-- feedback: Es incorrecta porque no tiene ningún signo y las ideas quedan pegadas. -->
 - [ ] B) ¿Vienes a la feria. Trae, cuentos, colores, y alegría. ¡Te esperamos.
   <!-- feedback: Es incorrecta porque mezcla puntos con preguntas y usa comas innecesarias. -->
 - [ ] C) Vienes, a la feria? Trae cuentos colores y, alegría Te, esperamos!
   <!-- feedback: Es incorrecta porque coloca comas y signos en lugares que rompen las oraciones. -->
+- [x] D) ¿Vienes a la feria? Trae cuentos, colores y alegría. ¡Te esperamos!
+  <!-- feedback: Es correcta porque combina pregunta, enumeración con comas y exclamación con apertura y cierre. -->
+
 ### Explicacion Pedagogica
 Evaluar un texto exige comprobar cada signo: preguntas con apertura y cierre, listas separadas por comas y emociones con exclamación. La opción correcta equilibra los tres usos y logra una invitación clara, animada y fácil de leer para toda la comunidad.

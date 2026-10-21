@@ -290,15 +290,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "La afirmación es correcta, porque ganar un campeonato demuestra que todos los alumnos corren bien",
-          "is_correct": false,
-          "feedback": "Incorrecto. Un logro del colegio en deportes no dice nada sobre el rendimiento de cada alumno en particular."
-        },
-        {
-          "letter": "B",
           "text": "La afirmación es incorrecta, porque un dato de la revista se puede comparar con otras secciones y con otras fuentes",
           "is_correct": true,
           "feedback": "Correcto. Contrastar el dato con otras secciones y con otras fuentes permite confirmar lo que dice y detectar lo que falta."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es correcta, porque ganar un campeonato demuestra que todos los alumnos corren bien",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un logro del colegio en deportes no dice nada sobre el rendimiento de cada alumno en particular."
         },
         {
           "letter": "C",
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. La revista escolar es una fuente muy valiosa del colegio, y lo importante es saber usarla bien."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Evaluar lo que afirma un texto es ponerlo a prueba y no darlo por verdadero solo porque lo escribió alguien de confianza. Un dato de la revista se vuelve más confiable cuando se compara con otras secciones y con otras fuentes del colegio. Esta costumbre de contrastar enseña a los niños a leer cualquier publicación con ojos críticos.",
       "difficulty": "8",
       "images": [],

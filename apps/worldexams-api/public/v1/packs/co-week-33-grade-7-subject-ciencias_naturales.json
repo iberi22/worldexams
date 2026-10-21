@@ -19,16 +19,16 @@
           "feedback": "Incorrecta, porque el corazón impulsa la sangre pero no forma la orina."
         },
         {
-          "letter": "C",
-          "text": "El riñón, que limpia la sangre y produce la orina con los desechos.",
-          "is_correct": true,
-          "feedback": "Correcta, porque identifica al riñón como el filtro principal del sistema excretor."
-        },
-        {
           "letter": "B",
           "text": "El pulmón, que convierte toda la orina en aire al respirar.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el pulmón expulsa dióxido de carbono y vapor, no fabrica orina."
+        },
+        {
+          "letter": "C",
+          "text": "El riñón, que limpia la sangre y produce la orina con los desechos.",
+          "is_correct": true,
+          "feedback": "Correcta, porque identifica al riñón como el filtro principal del sistema excretor."
         },
         {
           "letter": "D",
@@ -59,16 +59,16 @@
       "context": "En un partido de microfútbol en Valledupar con mucho calor, los estudiantes sudan bastante y el profesor explica que el sudor también es una forma de excreción.",
       "options": [
         {
-          "letter": "B",
-          "text": "Exceso de agua, sales y una parte de desechos, además de ayudar a refrescar el cuerpo.",
-          "is_correct": true,
-          "feedback": "Correcta, porque describe la doble función del sudor: excretar y regular la temperatura."
-        },
-        {
           "letter": "A",
           "text": "Toda la sangre sucia completa que sale por los poros de la piel.",
           "is_correct": false,
           "feedback": "Incorrecta, porque por el sudor no sale sangre sino agua con sales disueltas."
+        },
+        {
+          "letter": "B",
+          "text": "Exceso de agua, sales y una parte de desechos, además de ayudar a refrescar el cuerpo.",
+          "is_correct": true,
+          "feedback": "Correcta, porque describe la doble función del sudor: excretar y regular la temperatura."
         },
         {
           "letter": "C",
@@ -157,12 +157,6 @@
           "feedback": "Incorrecta, porque los pulmones nunca producen orina."
         },
         {
-          "letter": "D",
-          "text": "Porque expulsan el dióxido de carbono, que es un desecho de la respiración de las células.",
-          "is_correct": true,
-          "feedback": "Correcta, porque reconoce al dióxido de carbono como desecho eliminado al exhalar."
-        },
-        {
           "letter": "B",
           "text": "Porque guardan el sudor del cuerpo para después repartirlo en la piel.",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "Porque convierten el aire en alimento para no tener que comer.",
           "is_correct": false,
           "feedback": "Incorrecta, porque los pulmones toman oxígeno pero no fabrican nutrientes."
+        },
+        {
+          "letter": "D",
+          "text": "Porque expulsan el dióxido de carbono, que es un desecho de la respiración de las células.",
+          "is_correct": true,
+          "feedback": "Correcta, porque reconoce al dióxido de carbono como desecho eliminado al exhalar."
         }
       ],
       "correct_answer": "D",
@@ -203,12 +203,6 @@
           "feedback": "Incorrecta, porque retener orina favorece infecciones en vez de fortalecer."
         },
         {
-          "letter": "D",
-          "text": "Porque la orina retenida facilita infecciones y la poca agua concentra desechos que forman cálculos.",
-          "is_correct": true,
-          "feedback": "Correcta, porque conecta la retención y la deshidratación con la enfermedad renal."
-        },
-        {
           "letter": "B",
           "text": "Porque tomar agua ensucia los riñones y es mejor no beber nada en el día.",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "Porque orinar elimina los huesos y por eso conviene retener todo lo posible.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la orina lleva desechos disueltos y no huesos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la orina retenida facilita infecciones y la poca agua concentra desechos que forman cálculos.",
+          "is_correct": true,
+          "feedback": "Correcta, porque conecta la retención y la deshidratación con la enfermedad renal."
         }
       ],
       "correct_answer": "D",
@@ -249,16 +249,16 @@
           "feedback": "Incorrecta, porque el riñón es un órgano vivo con filtración selectiva y no un papel desechable."
         },
         {
-          "letter": "C",
-          "text": "Ambos separan lo que pasa de lo que queda retenido, pero el riñón además reabsorbe agua y sustancias útiles para el cuerpo.",
-          "is_correct": true,
-          "feedback": "Correcta, porque encuentra la semejanza y la diferencia clave con la reabsorción."
-        },
-        {
           "letter": "B",
           "text": "No se parecen en nada porque el agua del filtro nunca tuvo tierra mezclada.",
           "is_correct": false,
           "feedback": "Incorrecta, porque en ambos casos hay una mezcla que se separa al filtrar."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos separan lo que pasa de lo que queda retenido, pero el riñón además reabsorbe agua y sustancias útiles para el cuerpo.",
+          "is_correct": true,
+          "feedback": "Correcta, porque encuentra la semejanza y la diferencia clave con la reabsorción."
         },
         {
           "letter": "D",
@@ -295,12 +295,6 @@
           "feedback": "Incorrecta, porque sudar pierde agua y el mareo señala deshidratación."
         },
         {
-          "letter": "D",
-          "text": "Perdió mucha agua por el sudor sin reponerla, los riñones conservaron líquido y aparecieron señales de deshidratación.",
-          "is_correct": true,
-          "feedback": "Correcta, porque encadena pérdida de agua, respuesta renal y síntomas."
-        },
-        {
           "letter": "B",
           "text": "La orina oscura prueba que sus riñones dejaron de funcionar para siempre.",
           "is_correct": false,
@@ -311,6 +305,12 @@
           "text": "El dolor de cabeza ocurre porque el sudor enfría demasiado el cuerpo en La Guajira.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el problema es la falta de agua y no el enfriamiento."
+        },
+        {
+          "letter": "D",
+          "text": "Perdió mucha agua por el sudor sin reponerla, los riñones conservaron líquido y aparecieron señales de deshidratación.",
+          "is_correct": true,
+          "feedback": "Correcta, porque encadena pérdida de agua, respuesta renal y síntomas."
         }
       ],
       "correct_answer": "D",
@@ -336,12 +336,6 @@
       "options": [
         {
           "letter": "A",
-          "text": "Porque el azúcar tapa la boca y ya no se puede tomar agua en ningún momento.",
-          "is_correct": false,
-          "feedback": "Incorrecta, porque el daño ocurre dentro del filtro renal y no en la boca."
-        },
-        {
-          "letter": "D",
           "text": "Porque el exceso de azúcar obliga a los filtros del riñón a trabajar de más y con los años se deterioran.",
           "is_correct": true,
           "feedback": "Correcta, porque explica la sobrecarga crónica del filtro por la glucosa alta."
@@ -357,9 +351,15 @@
           "text": "Porque el azúcar de la sangre nunca llega a los riñones y por eso se dañan de tristeza.",
           "is_correct": false,
           "feedback": "Incorrecta, porque toda la sangre, con su azúcar, pasa por los riñones."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el azúcar tapa la boca y ya no se puede tomar agua en ningún momento.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el daño ocurre dentro del filtro renal y no en la boca."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "Los riñones filtran toda la sangre muchas veces al día. Cuando la glucosa está alta de forma constante, los filtros diminutos se fuerzan, dejan escapar proteínas y se cicatrizan. Controlar el azúcar con dieta, ejercicio y medicación cuando el médico la indica protege también a los riñones.",
       "difficulty": "8",
       "images": [],

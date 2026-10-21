@@ -386,18 +386,18 @@
         },
         {
           "letter": "C",
-          "text": "Can I have a pencil, please?",
-          "is_correct": true,
-          "feedback": "Correct. This is a polite and standard way to ask for something."
-        },
-        {
-          "letter": "D",
           "text": "Pencil, now!",
           "is_correct": false,
           "feedback": "Incorrect. This is very rude."
+        },
+        {
+          "letter": "D",
+          "text": "Can I have a pencil, please?",
+          "is_correct": true,
+          "feedback": "Correct. This is a polite and standard way to ask for something."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El uso de \"Can I...?\" y \"please\" es fundamental para la interacción social respetuosa en el aula.\n\n---",
       "difficulty": "10",
       "images": [],

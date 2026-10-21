@@ -785,9 +785,9 @@
         },
         {
           "letter": "B",
-          "text": "$86$",
-          "is_correct": true,
-          "feedback": "Correcto. $(20 \\times 80 + 30 \\times 90) / 50 = (1600 + 2700) / 50 = 4300 / 50 = 86$."
+          "text": "$88$",
+          "is_correct": false,
+          "feedback": "El promedio ponderado es $86$; el $88$ sobrepesa el promedio de la sección B."
         },
         {
           "letter": "C",
@@ -797,12 +797,12 @@
         },
         {
           "letter": "D",
-          "text": "$88$",
-          "is_correct": false,
-          "feedback": "El promedio ponderado es $86$; el $88$ sobrepesa el promedio de la sección B."
+          "text": "$86$",
+          "is_correct": true,
+          "feedback": "Correcto. $(20 \\times 80 + 30 \\times 90) / 50 = (1600 + 2700) / 50 = 4300 / 50 = 86$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para promediar grupos de diferentes tamaños, se debe utilizar la media ponderada, donde el peso de cada promedio es el número de elementos en su respectivo grupo.",
       "difficulty": "10",
       "images": [],

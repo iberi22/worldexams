@@ -532,18 +532,18 @@
         },
         {
           "letter": "C",
-          "text": "They have a long-standing and ongoing commitment to innovation.",
-          "is_correct": true,
-          "feedback": "Correct! It emphasizes the duration and current persistence of their work."
-        },
-        {
-          "letter": "D",
           "text": "They have just finished their last innovation.",
           "is_correct": false,
           "feedback": "Incorrect. That would be Present Perfect Simple."
+        },
+        {
+          "letter": "D",
+          "text": "They have a long-standing and ongoing commitment to innovation.",
+          "is_correct": true,
+          "feedback": "Correct! It emphasizes the duration and current persistence of their work."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Las empresas utilizan el Presente Perfecto Continuo en su publicidad para sugerir una tradición de trabajo constante que no se ha detenido y que sigue beneficiando al cliente hoy en día.",
       "difficulty": "10",
       "images": [],

@@ -13,12 +13,6 @@
       "context": "Discussing review p2 in Cali.",
       "options": [
         {
-          "letter": "C",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
           "text": "alleviate",
           "is_correct": false,
@@ -29,6 +23,12 @@
           "text": "mitigate",
           "is_correct": false,
           "feedback": "Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied."
+        },
+        {
+          "letter": "C",
+          "text": "exacerbate",
+          "is_correct": true,
+          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
         },
         {
           "letter": "D",
@@ -59,12 +59,6 @@
       "context": "Discussing review p2 in Manizales.",
       "options": [
         {
-          "letter": "C",
-          "text": "date",
-          "is_correct": true,
-          "feedback": "'Date' means to make something seem old or out of date, which is what a fixed reading list does to a syllabus it predates. The clause about the field having moved on supplies the reason it no longer fits."
-        },
-        {
           "letter": "A",
           "text": "anchor",
           "is_correct": false,
@@ -75,6 +69,12 @@
           "text": "streamline",
           "is_correct": false,
           "feedback": "'Streamline' means to make something more efficient, and nothing here concerns efficiency. The issue is that the list's content has aged, not that it is cluttered or slow."
+        },
+        {
+          "letter": "C",
+          "text": "date",
+          "is_correct": true,
+          "feedback": "'Date' means to make something seem old or out of date, which is what a fixed reading list does to a syllabus it predates. The clause about the field having moved on supplies the reason it no longer fits."
         },
         {
           "letter": "D",
@@ -105,12 +105,6 @@
       "context": "Discussing review p2 in Barranquilla.",
       "options": [
         {
-          "letter": "C",
-          "text": "diverge",
-          "is_correct": true,
-          "feedback": "'Diverge' means to move apart from a common point, and the sentence contrasts independent readings that drift in different directions. The clause about the moderation stage confirms that such differences are expected and need reconciling."
-        },
-        {
           "letter": "A",
           "text": "converge",
           "is_correct": false,
@@ -121,6 +115,12 @@
           "text": "coincide",
           "is_correct": false,
           "feedback": "'Coincide' means to be the same or happen together, and the clause 'which is why the moderation stage exists' presupposes a mismatch. Agreement would remove the need the sentence gives as the reason."
+        },
+        {
+          "letter": "C",
+          "text": "diverge",
+          "is_correct": true,
+          "feedback": "'Diverge' means to move apart from a common point, and the sentence contrasts independent readings that drift in different directions. The clause about the moderation stage confirms that such differences are expected and need reconciling."
         },
         {
           "letter": "D",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W20-review-p2-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on review p2 in Barranquilla, what is implied about the role of General Advanced Review in shaping public opinion?",
-      "context": "Discussing review p2 in Barranquilla.",
+      "statement": "Read the text and answer the question.\n\n\"Ciudad Bolívar, in the south of Bogotá, is built on steep mountains, and for decades many of its residents spent more than an hour every morning on buses that climbed narrow streets. In 2018 the city opened TransMiCable, a cable car connected to the TransMilenio bus system. The journey to the station below now takes around fifteen minutes. The project also included a library, a tourist information point and new public spaces at the stations. Residents say that, for the first time, people from other parts of the city come to visit their neighbourhood instead of avoiding it.\"\n\nWhat is the main idea of the text?",
+      "context": "The TransMiCable cable car in Ciudad Bolívar, Bogotá.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "letter": "A",
+          "text": "TransMilenio buses were removed from Ciudad Bolívar in 2018.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says the cable car is \"connected to the TransMilenio bus system\", so the buses were not removed."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "letter": "B",
+          "text": "A transport project reduced travel time and changed how the neighbourhood is seen.",
+          "is_correct": true,
+          "feedback": "Correct. The text explains the shorter journey and then the new public spaces and visitors, so it describes both the practical effect and the change in the neighbourhood's image."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Ciudad Bolívar is the flattest area of Bogotá.",
           "is_correct": false,
-          "feedback": "Incorrect. General Advanced Review gives a text its nuance and precision, so it does not make the message simpler to grasp."
+          "feedback": "Incorrect. The text says the area is \"built on steep mountains\", which is the reason the cable car was useful."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bucaramanga.",
+          "text": "Tourists in Bogotá prefer visiting libraries to other attractions.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The library is one of the new spaces at the stations, but the text does not compare tourists' preferences."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Review texts combine topics from previous weeks, here urban development and social inclusion. The main idea must include the faster journey and the new perception of the area mentioned in the last sentence, without adding false details.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-11-2026-W20-review-p2-001-MASTERY-bundle-v6",
-      "statement": "According to a recent report on review p2 in Cartagena, what is implied about the role of General Advanced Review in shaping public opinion?",
-      "context": "Discussing review p2 in Cartagena.",
+      "statement": "Read the text and answer the question.\n\n\"Last year, a school in Neiva decided to try something new: one Friday a month, students and teachers leave their phones in a locked box at the entrance from 7 a.m. until 1 p.m. At first many students protested, and some said they felt nervous without their phones. After three months, the school asked them to complete a survey. Most students said they talked more with their classmates during the break, and several teachers noticed that students participated more in class. Some students even asked if the disconnection day could happen every week.\"\n\nWhat can be inferred about the students' attitude?",
+      "context": "A digital disconnection day at a school in Neiva.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "Many students changed their opinion about the disconnection day over time.",
           "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "feedback": "Correct. At first many protested and felt nervous, but after three months most reported talking more with classmates, and some asked for the day to be every week, which shows a change in attitude."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "All students refused to leave their phones in the box.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. The text says many protested at first, but it does not say all refused; the survey results show that students participated."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Teachers kept their phones during the disconnection day.",
           "is_correct": false,
-          "feedback": "Incorrect. General Advanced Review gives a text its nuance and precision, so it does not make the message simpler to grasp."
+          "feedback": "Incorrect. The text says that \"students and teachers\" leave their phones in the box."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Cartagena.",
+          "text": "Students talked less with their classmates without their phones.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. Most students said they talked more with their classmates during the break, which is the opposite."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Attitude questions often depend on how the text moves in time: \"At first\" introduces the students' initial reaction and \"After three months\" introduces the later one. Comparing the two allows the reader to infer a change of opinion.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -285,36 +285,36 @@
     },
     {
       "id": "CO-ING-11-2026-W20-review-p2-001-MASTERY-bundle-v7",
-      "statement": "According to a recent report on review p2 in Cali, what is implied about the role of General Advanced Review in shaping public opinion?",
-      "context": "Discussing review p2 in Cali.",
+      "statement": "Read the text and answer the question.\n\n\"María, published in 1867 by Jorge Isaacs, is one of the most famous novels of nineteenth-century Latin American literature. It tells the love story of Efraín and his cousin María on a hacienda in the Valle del Cauca. The young man must travel to London to study medicine, and while he is away, María becomes seriously ill. Readers have admired the novel for its detailed descriptions of the landscapes of the Valle, its rivers and mountains. Today visitors can see the hacienda El Paraíso, near the town of El Cerrito, which is believed to be the place that inspired the story.\"\n\nAccording to the text, why does Efraín travel to London?",
+      "context": "Jorge Isaacs' novel María and the Valle del Cauca.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "letter": "A",
+          "text": "To look for a cure for María's illness.",
+          "is_correct": false,
+          "feedback": "Incorrect. María becomes ill \"while he is away\", so the illness happens after he leaves and is not the reason for his trip."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "letter": "B",
+          "text": "To study medicine.",
+          "is_correct": true,
+          "feedback": "Correct. The text states that \"the young man must travel to London to study medicine\"."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "To publish his novel in Europe.",
           "is_correct": false,
-          "feedback": "Incorrect. General Advanced Review gives a text its nuance and precision, so it does not make the message simpler to grasp."
+          "feedback": "Incorrect. The novel was written by Jorge Isaacs, not by the character Efraín, and the text does not say it was published in London."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Medellín.",
+          "text": "To visit the hacienda El Paraíso.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. El Paraíso is in the Valle del Cauca, near El Cerrito; it is the place he leaves, not where he goes."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Detail questions in literary texts require separating the author from the characters and following the order of events. Efraín goes to London to study, and María's illness comes later, so the sequence of the story eliminates the most tempting distractor.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -331,36 +331,36 @@
     },
     {
       "id": "CO-ING-11-2026-W20-review-p2-001-MASTERY-bundle-v8",
-      "statement": "According to a recent report on review p2 in Pereira, what is implied about the role of General Advanced Review in shaping public opinion?",
-      "context": "Discussing review p2 in Pereira.",
+      "statement": "Read the text and answer the question.\n\n\"Every month, millions of Colombians who live in the United States, Spain and other countries send part of their salaries to their families back home. These remittances have grown in recent years and now bring more than ten billion dollars a year into the country, more than some traditional exports. In towns in Valle del Cauca and Risaralda, where many families have relatives abroad, this money pays for school fees, medicine and new houses. Economists say remittances help many households, but they also warn that some families become too dependent on money that could stop if the situation abroad changes.\"\n\nIn the text, \"remittances\" are...",
+      "context": "Money sent home by Colombians who live abroad.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "products that Colombia sells to other countries.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. Those are exports; the text compares remittances with exports, which shows they are different things."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "loans that banks give to families in Valle del Cauca.",
           "is_correct": false,
-          "feedback": "Incorrect. General Advanced Review gives a text its nuance and precision, so it does not make the message simpler to grasp."
+          "feedback": "Incorrect. The money comes from relatives abroad, not from banks, and the text never mentions loans."
+        },
+        {
+          "letter": "C",
+          "text": "sums of money that people working abroad send to their families.",
+          "is_correct": true,
+          "feedback": "Correct. The first sentence defines the idea: Colombians abroad \"send part of their salaries to their families back home\", and the next sentence calls this money \"remittances\"."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Cali.",
+          "text": "taxes that families pay to the government.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The money goes to families, not to the government, and it pays for school fees, medicine and houses."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Texts often define a technical word just before or after using it. Here the word \"These\" connects \"remittances\" with the money described in the first sentence, and the comparison with exports confirms that they are a different source of income.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -381,12 +381,6 @@
       "context": "Discussing review p2 in Barranquilla.",
       "options": [
         {
-          "letter": "C",
-          "text": "A loss of familiarity with the material that has gone unnoticed because no new procedure was introduced.",
-          "is_correct": true,
-          "feedback": "The contrast between past and present habits shows the change is in the supervisor's attention, not in any rule. The clause 'though nobody has asked me to change anything' explains why the decline went unaddressed, and that is the reading the sentence supports."
-        },
-        {
           "letter": "A",
           "text": "A formal instruction to mark differently that the supervisor has ignored.",
           "is_correct": false,
@@ -397,6 +391,12 @@
           "text": "A deliberate decision to mark fewer scripts accurately.",
           "is_correct": false,
           "feedback": "The sentence describes catching fewer errors without presenting it as a choice. Nothing suggests a deliberate trade-off; the change is presented as something that happened to the supervisor's reading."
+        },
+        {
+          "letter": "C",
+          "text": "A loss of familiarity with the material that has gone unnoticed because no new procedure was introduced.",
+          "is_correct": true,
+          "feedback": "The contrast between past and present habits shows the change is in the supervisor's attention, not in any rule. The clause 'though nobody has asked me to change anything' explains why the decline went unaddressed, and that is the reading the sentence supports."
         },
         {
           "letter": "D",
@@ -423,36 +423,36 @@
     },
     {
       "id": "CO-ING-11-2026-W20-review-p2-001-MASTERY-bundle-v10",
-      "statement": "According to a recent report on review p2 in Medellín, what is implied about the role of General Advanced Review in shaping public opinion?",
-      "context": "Discussing review p2 in Medellín.",
+      "statement": "Read the text and answer the question.\n\n\"For many years, people who collected recyclable materials from the streets of Bogotá were treated as if they were part of the problem. They worked long hours, earned very little and were often removed from public spaces. Over time, they organised themselves into cooperatives and took their case to the courts. The Constitutional Court recognised that their work is a public service that helps the city, and today many of them are paid by the city for the materials they collect. Each time you separate your plastic and paper at home, you are making their difficult job easier.\"\n\nWhat is the purpose of the last sentence?",
+      "context": "Waste pickers and recycling cooperatives in Bogotá.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "To explain how the Constitutional Court made its decision.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. The court's decision is described in the previous sentence; the last sentence speaks to the reader about recycling at home."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "To criticise the waste pickers for working long hours.",
           "is_correct": false,
-          "feedback": "Incorrect. General Advanced Review gives a text its nuance and precision, so it does not make the message simpler to grasp."
+          "feedback": "Incorrect. The text is sympathetic to the waste pickers, and the last sentence encourages readers to help them, not to criticise them."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Manizales.",
+          "text": "To announce that the city will stop paying waste pickers.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The text says many waste pickers are paid by the city today; the last sentence says nothing about stopping payments."
+        },
+        {
+          "letter": "D",
+          "text": "To show readers how their own actions can help the waste pickers.",
+          "is_correct": true,
+          "feedback": "Correct. The last sentence addresses the reader directly with \"you\" and connects a simple daily action (separating plastic and paper) with making the waste pickers' job easier."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Purpose questions about a single sentence ask what it does in the text. A change from the third person to \"you\" usually signals that the writer is appealing to the reader, here to connect a social-justice issue with everyday behaviour.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -473,16 +473,16 @@
       "context": "Discussing review p2 in Pereira.",
       "options": [
         {
-          "letter": "B",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
           "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
+        },
+        {
+          "letter": "B",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
         },
         {
           "letter": "C",
@@ -515,36 +515,36 @@
     },
     {
       "id": "CO-ING-11-2026-W20-review-p2-001-MASTERY-bundle-v12",
-      "statement": "Complete the following sentence about review p2: 'Not until the appeal was dismissed on procedural grounds __________ the student be informed of the original grade.' (Topic: 'not until' with an inverted clause and a modal passive)",
-      "context": "Discussing review p2 in Pereira.",
+      "statement": "Complete the following sentence about review p2: 'Not until the appeal was dismissed on procedural grounds __________ the student informed of the original grade.' (Topic: 'not until' with inversion in the past passive)",
+      "context": "An appeal process at a university in Pereira.",
       "options": [
         {
-          "letter": "B",
+          "letter": "A",
           "text": "did",
-          "is_correct": true,
-          "feedback": "'Not until' is a fronted negative that inverts the main clause, and 'did' carries the tense while the modal 'be' carries the passive: 'not until the appeal was dismissed did the student be informed'."
+          "is_correct": false,
+          "feedback": "Incorrect. \"Did\" must be followed by a base verb, but \"informed\" here is a past participle in a passive structure; \"did the student informed\" is ungrammatical."
         },
         {
-          "letter": "A",
-          "text": "had",
-          "is_correct": false,
-          "feedback": "'Had' would need a participle rather than the bare infinitive 'be', and it would place the notification before another past point. The sentence describes the notice as following the dismissal."
+          "letter": "B",
+          "text": "was",
+          "is_correct": true,
+          "feedback": "Correct. \"Not until...\" at the start inverts the main clause; the past passive \"the student was informed\" becomes \"was the student informed\", and \"was\" agrees with the singular \"student\"."
         },
         {
           "letter": "C",
-          "text": "was",
+          "text": "were",
           "is_correct": false,
-          "feedback": "'Was' would form a past passive on the subject itself, making the student the thing dismissed. The main clause is about the student being informed, which is a modal passive of a different shape."
+          "feedback": "Incorrect. \"Were\" is plural, but the subject \"the student\" is singular, so the verb does not agree."
         },
         {
           "letter": "D",
-          "text": "must",
+          "text": "does",
           "is_correct": false,
-          "feedback": "'Must' would assert an obligation, and the sentence makes no claim that anyone is required to inform the student. It states the condition under which the notice was given."
+          "feedback": "Incorrect. \"Does\" is present and needs a base verb; the sentence is about a past event (\"was dismissed\"), and \"informed\" is a participle."
         }
       ],
       "correct_answer": "B",
-      "explanation": "A fronted negative combined with a modal passive gives C1+ students two structures to hold apart. The first, 'not until', triggers the inversion; the second, the modal 'be', means the auxiliary carries tense and cannot compete with it.\n\n---",
+      "explanation": "In passive clauses the auxiliary \"be\" is the one that moves in inversion: \"the student was informed\" becomes \"Not until... was the student informed\". \"Do/does/did\" is only used when the clause has no other auxiliary.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -565,16 +565,16 @@
       "context": "Discussing review p2 in Cartagena.",
       "options": [
         {
-          "letter": "B",
-          "text": "did",
-          "is_correct": true,
-          "feedback": "'Not until' is a fronted negative that inverts the main clause, and 'did' carries the simple past: 'not until the comments were circulated did the markers revise'. The main verb returns to its base form 'revise'."
-        },
-        {
           "letter": "A",
           "text": "had",
           "is_correct": false,
           "feedback": "'Had' would form a past perfect and need the participle 'revised', placing the revision before another past point. The sentence describes the revision as following the circulation of the comments."
+        },
+        {
+          "letter": "B",
+          "text": "did",
+          "is_correct": true,
+          "feedback": "'Not until' is a fronted negative that inverts the main clause, and 'did' carries the simple past: 'not until the comments were circulated did the markers revise'. The main verb returns to its base form 'revise'."
         },
         {
           "letter": "C",
@@ -607,36 +607,36 @@
     },
     {
       "id": "CO-ING-11-2026-W20-review-p2-001-MASTERY-bundle-v14",
-      "statement": "Complete the following sentence about review p2: 'Only after the malpractice hearing concluded __________ the candidate be told the outcome in writing.' (Topic: 'only after' with an inverted clause and a modal passive)",
-      "context": "Discussing review p2 in Medellín.",
+      "statement": "Complete the following sentence about review p2: 'Only after the malpractice hearing had concluded __________ the candidate be told the outcome in writing.' (Topic: 'only after' with inversion and a modal passive)",
+      "context": "A disciplinary hearing at a school board in Medellín.",
       "options": [
         {
-          "letter": "C",
-          "text": "did",
-          "is_correct": true,
-          "feedback": "'Only after' fronted inverts the main clause, and 'did' carries the tense while the modal 'be' carries the passive and the modality: 'only after the hearing concluded did the candidate be told'."
-        },
-        {
           "letter": "A",
-          "text": "had",
+          "text": "did",
           "is_correct": false,
-          "feedback": "'Had' would need a participle rather than the bare infinitive 'be', and it would place the notification before another past point. The sentence describes the notice as following the hearing."
+          "feedback": "Incorrect. \"Did\" is followed by a base verb in the active voice, but \"did the candidate be told\" combines do-support with \"be\", which is ungrammatical."
         },
         {
           "letter": "B",
           "text": "was",
           "is_correct": false,
-          "feedback": "'Was' would form a past passive on the subject itself, making the candidate the thing concluded. The main clause is about the candidate being told, which is a modal passive with a different structure."
+          "feedback": "Incorrect. \"Was\" cannot be followed by \"be\"; the past passive would be \"was the candidate told\", which does not match the words in the sentence."
+        },
+        {
+          "letter": "C",
+          "text": "could",
+          "is_correct": true,
+          "feedback": "Correct. \"Only after...\" inverts the main clause, and \"be told\" is a passive infinitive that must follow a modal: \"could the candidate be told\". \"Could\" also expresses that it was only possible after the hearing."
         },
         {
           "letter": "D",
-          "text": "might",
+          "text": "had",
           "is_correct": false,
-          "feedback": "'Might' would present the notification as uncertain, but the sentence states that it was given. Nothing in the clause expresses doubt about whether the written outcome followed."
+          "feedback": "Incorrect. \"Had\" must be followed by a past participle (\"been told\"), not by the base form \"be\", so \"had the candidate be told\" is impossible."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Fronting with a modal passive is a C1+ construction requiring two separate analyses: 'only after' triggers the inversion, and the modal 'be' carries the passive while the auxiliary carries tense alone. Keeping those roles distinct is what makes the choice reliable.\n\n---",
+      "explanation": "The bare form \"be\" after the subject shows that a modal verb is needed: \"could/would/should + be + participle\". Checking what follows the subject is the fastest way to choose the auxiliary in an inverted sentence.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -657,12 +657,6 @@
       "context": "Discussing review p2 in Manizales.",
       "options": [
         {
-          "letter": "C",
-          "text": "does",
-          "is_correct": true,
-          "feedback": "'Seldom' inverts the clause, and 'does' carries the present with the singular subject 'a departmental review'. The main verb 'reach' stays in its base form, as it must after 'does'."
-        },
-        {
           "letter": "A",
           "text": "do",
           "is_correct": false,
@@ -673,6 +667,12 @@
           "text": "did",
           "is_correct": false,
           "feedback": "'Did' would place the observation in the past simple, but the sentence describes what reviews in general do. A recurring present pattern takes the simple present under inversion."
+        },
+        {
+          "letter": "C",
+          "text": "does",
+          "is_correct": true,
+          "feedback": "'Seldom' inverts the clause, and 'does' carries the present with the singular subject 'a departmental review'. The main verb 'reach' stays in its base form, as it must after 'does'."
         },
         {
           "letter": "D",
@@ -745,36 +745,36 @@
     },
     {
       "id": "CO-ING-11-2026-W20-review-p2-001-MASTERY-bundle-v17",
-      "statement": "In a high-level debate about review p2, Mateo says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mateo mean?",
-      "context": "Discussing review p2 in Bogotá.",
+      "statement": "During a debate about low Saber 11 results in English, Daniela says: 'I can't help but feel that we are barking up the wrong tree. Adding more grammar tests won't help if we almost never practise speaking or reading real texts.' What does Daniela mean?",
+      "context": "A student debate in Bogotá about low exam results.",
       "options": [
         {
-          "letter": "C",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Medellín.",
+          "text": "They are literally looking for something in the trees of the school.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads the idiom literally; the debate is about exam results, and no trees are involved."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The debate has become too noisy and aggressive.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. \"Barking\" here does not refer to noise; the idiom is about choosing the wrong target, as her second sentence shows."
+        },
+        {
+          "letter": "C",
+          "text": "The group is focusing on the wrong solution to the problem.",
+          "is_correct": true,
+          "feedback": "Correct. \"Barking up the wrong tree\" means looking for an answer in the wrong place; Daniela says that real practice matters more than more tests."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Students should read more texts about trees and forests.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. This takes the image of the tree as a proposal; Daniela talks about practising with real texts in general."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "Idioms are understood through their figurative meaning and the context. Daniela's second sentence names a different solution, which confirms that the idiom \"bark up the wrong tree\" means the group was focusing on the wrong answer.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-ING-11-2026-W20-review-p2-001-MASTERY-bundle-v18",
-      "statement": "In a high-level debate about review p2, Valentina says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Valentina mean?",
-      "context": "Discussing review p2 in Bogotá.",
+      "statement": "Read the conversation.\n\nJuliana: So you'll write the introduction and I'll do the conclusion, right?\nMateo: Wait, I thought you were doing the introduction. Let's meet before class tomorrow to make sure we're on the same page.\n\nWhy does Mateo suggest meeting?",
+      "context": "Two classmates in Cartagena organise a group project.",
       "options": [
         {
           "letter": "A",
-          "text": "The current strategy is directed towards the wrong objective.",
+          "text": "To make sure they both understand and agree on the plan.",
           "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "feedback": "Correct. To be \"on the same page\" means to have the same understanding of a situation; Mateo realises they have different ideas about who writes the introduction."
         },
         {
           "letter": "B",
-          "text": "They are literally looking for something in the trees of Cali.",
+          "text": "To read the same page of a book together.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This is a literal reading of the idiom; the conversation is about dividing tasks, not about reading a book."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "To tell Juliana that he will not participate in the project.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. Mateo wants to clarify the tasks, which shows he plans to participate."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "To write the whole project alone before class.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. Mateo suggests a meeting to coordinate with Juliana, not to work alone."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "\"On the same page\" is frequent in teamwork. The misunderstanding about the introduction gives the reason for the meeting, and the idiom expresses the goal of reaching a shared understanding.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -837,36 +837,36 @@
     },
     {
       "id": "CO-ING-11-2026-W20-review-p2-001-MASTERY-bundle-v19",
-      "statement": "In a high-level debate about review p2, Alejandro says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Alejandro mean?",
-      "context": "Discussing review p2 in Barranquilla.",
+      "statement": "Read the conversation.\n\nTeacher: How are you finding the new learning platform?\nEsteban: It was confusing at first, but I'm getting the hang of it. Yesterday I uploaded my homework without asking for help.\n\nWhat does Esteban mean?",
+      "context": "A student in Manizales learns to use a new online platform.",
       "options": [
         {
-          "letter": "C",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Medellín.",
+          "text": "He hung his homework on the classroom wall.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This misreads \"hang\" literally; Esteban uploaded his homework online."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "He still cannot use the platform at all.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. He says it was confusing \"at first\", and he managed to upload his homework without help, so he can use it."
+        },
+        {
+          "letter": "C",
+          "text": "He is gradually learning how to use the platform.",
+          "is_correct": true,
+          "feedback": "Correct. To \"get the hang of\" something is to learn how to do it with practice; Esteban gives evidence: he uploaded his homework alone."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "He wants to stop using the platform.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. Nothing in his answer suggests he wants to stop; he describes his progress positively."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "\"Get the hang of\" describes progress in learning a skill. The contrast \"confusing at first, but\" and the example of uploading homework alone show that Esteban is becoming competent with the platform.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -883,36 +883,36 @@
     },
     {
       "id": "CO-ING-11-2026-W20-review-p2-001-MASTERY-bundle-v20",
-      "statement": "In a high-level debate about review p2, Daniela says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Daniela mean?",
-      "context": "Discussing review p2 in Pereira.",
+      "statement": "Read the conversation.\n\nPrincipal: I think we should make the sports uniform compulsory every day.\nStudent representative: With all due respect, I'm not sure that's a good idea. Many families can't afford to buy more uniforms.\n\nHow does the student representative express disagreement?",
+      "context": "A school council meeting in Bucaramanga about uniforms.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Medellín.",
+          "text": "Aggressively, by insulting the principal.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. The student uses polite expressions and gives a reasoned argument, so there is nothing aggressive or insulting."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "By completely agreeing with the principal's idea.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. \"I'm not sure that's a good idea\" shows disagreement, not agreement."
         },
         {
           "letter": "C",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "By changing the topic of the conversation.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The student stays on the topic of the uniform and explains a problem with the proposal."
+        },
+        {
+          "letter": "D",
+          "text": "Respectfully, by softening the disagreement before giving a reason.",
+          "is_correct": true,
+          "feedback": "Correct. \"With all due respect\" and \"I'm not sure that's a good idea\" are polite ways to disagree with someone in authority; the student then gives a reason about family costs."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "In formal situations, English speakers often soften disagreement with expressions like \"With all due respect\" or \"I'm not sure that's...\" and then justify their position. Recognising these strategies is part of pragmatic competence.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

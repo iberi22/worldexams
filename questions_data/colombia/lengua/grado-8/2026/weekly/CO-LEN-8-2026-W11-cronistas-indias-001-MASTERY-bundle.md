@@ -266,8 +266,8 @@ Los cronistas con espíritu observador y curioso funcionaron como los primeros g
 ### Opciones
 - [ ] A) Las crónicas no influyeron porque los abogados no leían libros de viajes. <!-- feedback: Las crónicas eran los informes de base que usaba el Consejo de Indias para legislar. -->
 - [ ] B) Las crónicas hicieron que se prohibiera la escritura en todo el continente para evitar quejas. <!-- feedback: Al contrario, fomentaron una enorme producción escrita administrativa y legal. -->
-- [x] C) Las descripciones sobre la humanidad o "barbarie" de los indígenas sirvieron de base para justificar leyes de protección o sistemas de explotación como la encomienda. <!-- feedback: Correcto. El poder de la palabra escrita determinó la vida y libertad de millones de personas. -->
-- [ ] D) Las crónicas solo servían para que el Rey eligiera qué animales quería tener en su zoológico. <!-- feedback: Aunque incluían fauna, su mayor impacto fue en la organización social y jurídica de las colonias. -->
+- [ ] C) Las crónicas solo servían para que el Rey eligiera qué animales quería tener en su zoológico. <!-- feedback: Aunque incluían fauna, su mayor impacto fue en la organización social y jurídica de las colonias. -->
+- [x] D) Las descripciones sobre la humanidad o "barbarie" de los indígenas sirvieron de base para justificar leyes de protección o sistemas de explotación como la encomienda. <!-- feedback: Correcto. El poder de la palabra escrita determinó la vida y libertad de millones de personas. -->
 
 ### Explicacion Pedagogica
 La palabra escrita en la Colonia tenía un valor jurídico supremo; lo que un cronista ponía en papel podía convertirse en una ley que afectaba a todo el imperio.

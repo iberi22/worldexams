@@ -37,6 +37,7 @@ Este bundle desarrolla circuitos eléctricos, conductores y magnetismo con situa
   <!-- feedback: Incorrecta, porque el imán y el agua no forman un circuito eléctrico que alimente el bombillo. -->
 - [ ] D) Un cable cortado en dos partes para que la corriente salte por el aire.
   <!-- feedback: Incorrecta, porque un camino abierto interrumpe la corriente y el bombillo permanece apagado. -->
+
 ### Explicacion Pedagogica
 Un circuito es un camino cerrado por donde circulan cargas eléctricas. La pila o la red aportan la energía, los cables de cobre la conducen y el bombillo la transforma en luz y calor. El interruptor abre o cierra ese camino a voluntad.
 ## Question 2 [D3-D4]
@@ -56,6 +57,7 @@ Un circuito es un camino cerrado por donde circulan cargas eléctricas. La pila 
   <!-- feedback: Incorrecta, porque ni el cobre ni el plástico son imanes y su función es conducir o aislar. -->
 - [ ] D) Porque el color del cobre calienta la casa y el color del plástico enfría los cables.
   <!-- feedback: Incorrecta, porque el color no determina la conductividad eléctrica de los materiales. -->
+
 ### Explicacion Pedagogica
 Los conductores como el cobre y el aluminio tienen electrones que se mueven con facilidad y transportan la corriente. Los aislantes como el plástico, el caucho y la madera sujetan fuerte sus electrones y protegen a las personas del contacto directo con la corriente.
 ## Question 3 [D5-D6]
@@ -75,6 +77,7 @@ Los conductores como el cobre y el aluminio tienen electrones que se mueven con 
   <!-- feedback: Correcta, porque el interruptor protege la instalación al cortar el paso ante una sobrecarga. -->
 - [ ] D) Porque el voltaje de Bogotá sube de noche y quema los tacos aunque no haya aparatos conectados.
   <!-- feedback: Incorrecta, porque el disparo coincidió con el exceso de aparatos conectados al mismo tiempo. -->
+
 ### Explicacion Pedagogica
 Cada aparato pide una corriente según su potencia. Si la suma supera lo que soporta el cable, el cable se calienta y puede causar un incendio. El taco detecta ese exceso y abre el circuito. Por eso los aparatos potentes deben repartirse en líneas distintas y nunca sobrecargar una multitoma.
 ## Question 4 [D5-D6]
@@ -94,6 +97,7 @@ Cada aparato pide una corriente según su potencia. Si la suma supera lo que sop
   <!-- feedback: Incorrecta, porque los imanes atraen hierro, níquel y cobalto, no el plástico. -->
 - [ ] D) Los imanes necesitan estar conectados a la red eléctrica para atraer o repeler.
   <!-- feedback: Incorrecta, porque los imanes permanentes actúan sin ninguna conexión eléctrica. -->
+
 ### Explicacion Pedagogica
 Todo imán tiene polo norte y polo sur. Al enfrentar norte con sur, las fuerzas se atraen. Al enfrentar norte con norte o sur con sur, se repelen. Además, los imanes atraen objetos de hierro aunque esos objetos no sean imanes, como la puerta metálica de la nevera.
 ## Question 5 [D5-D6]
@@ -113,6 +117,7 @@ Todo imán tiene polo norte y polo sur. Al enfrentar norte con sur, las fuerzas 
   <!-- feedback: Incorrecta, porque la aguja está encerrada y el viento no entra a moverla. -->
 - [ ] D) Porque la niebla carga la aguja de electricidad y la pega al vidrio del norte.
   <!-- feedback: Incorrecta, porque la niebla no electrifica ni pega la aguja al vidrio en una dirección fija. -->
+
 ### Explicacion Pedagogica
 La Tierra genera un campo magnético por el movimiento de materiales en su interior. La aguja imantada de la brújula gira libremente y su extremo norte apunta hacia el norte magnético del planeta. Por eso sirve para orientarse en el páramo, en el mar y en el desierto sin necesidad de señal de celular.
 ## Question 6 [D7-D8]
@@ -132,6 +137,7 @@ La Tierra genera un campo magnético por el movimiento de materiales en su inter
   <!-- feedback: Incorrecta, porque los bombillos necesitan corriente y los imanes no reemplazan la conexión eléctrica. -->
 - [ ] D) El juego viejo gasta menos porque sus cables son de plástico que genera luz propia.
   <!-- feedback: Incorrecta, porque el plástico es aislante y no genera luz ni forma el camino de la corriente. -->
+
 ### Explicacion Pedagogica
 En serie, los bombillos comparten un solo camino: si uno se abre, la corriente se interrumpe en todo el juego. En paralelo, cada bombillo tiene su propio camino hacia la fuente: si uno falla, los demás siguen recibiendo corriente. Por eso las casas usan paralelo para que cada habitación funcione de forma independiente.
 ## Question 7 [D7-D8]
@@ -145,12 +151,13 @@ Al analizar la tabla de potencia y tiempo de uso, ¿qué conclusión explica mej
 ### Opciones
 - [ ] A) El televisor gasta más porque se usa más horas, sin importar que su potencia sea mucho menor.
   <!-- feedback: Incorrecta, porque el consumo depende del producto de potencia por tiempo y la ducha multiplica mucho más. -->
-- [x] B) La ducha eléctrica domina el consumo porque su potencia es muy alta aunque se use menos tiempo.
-  <!-- feedback: Correcta, porque 3500 vatios por 1 hora superan ampliamente a 150 vatios por 4 horas. -->
+- [ ] B) Ningún aparato explica la factura porque la energía de la casa es gratuita y el contador no mide nada.
+  <!-- feedback: Incorrecta, porque el contador sí mide kilovatios hora y la energía residencial se cobra. -->
 - [ ] C) Ambos aparatos gastan exactamente lo mismo porque están conectados al mismo voltaje de la casa.
   <!-- feedback: Incorrecta, porque el voltaje es común pero la potencia y el tiempo de uso son distintos. -->
-- [ ] D) Ningún aparato explica la factura porque la energía de la casa es gratuita y el contador no mide nada.
-  <!-- feedback: Incorrecta, porque el contador sí mide kilovatios hora y la energía residencial se cobra. -->
+- [x] D) La ducha eléctrica domina el consumo porque su potencia es muy alta aunque se use menos tiempo.
+  <!-- feedback: Correcta, porque 3500 vatios por 1 hora superan ampliamente a 150 vatios por 4 horas. -->
+
 ### Explicacion Pedagogica
 La energía se calcula como potencia por tiempo y se cobra en kilovatios hora. La ducha consume 3,5 kilovatios hora al día y el televisor solo 0,6. Por eso en Colombia las duchas eléctricas y los calentadores son los que más pesan en la factura, y reducir su tiempo de uso genera el mayor ahorro.
 ## Question 8 [D7-D8]
@@ -170,6 +177,7 @@ Los estudiantes prueban tres cambios: más vueltas de cable, una pila adicional 
   <!-- feedback: Correcta, porque el campo crece con espiras y corriente, y el hierro concentra las líneas magnéticas. -->
 - [ ] D) Desconectar la pila aumenta la fuerza porque el electroimán guarda corriente para después.
   <!-- feedback: Incorrecta, porque sin corriente no hay campo en el electroimán y suelta los clips. -->
+
 ### Explicacion Pedagogica
 Un electroimán crea magnetismo solo cuando circula corriente. Más espiras y más corriente producen un campo más intenso. El núcleo de hierro se magnetiza y refuerza el efecto, mientras la madera no lo hace. Al abrir el interruptor, el magnetismo desaparece, lo que permite usarlo en timbres, grúas y puertas de seguridad.
 ## Question 9 [D9-D10]
@@ -189,6 +197,7 @@ Un electroimán crea magnetismo solo cuando circula corriente. Más espiras y m�
   <!-- feedback: Incorrecta, porque la red doméstica puede causar quemaduras, paro cardíaco e incendios. -->
 - [ ] D) Solo es correcto mojar más el piso porque el agua fría enfría los cables y evita incendios.
   <!-- feedback: Incorrecta, porque el agua facilita el paso de la corriente hacia la persona y aumenta el peligro. -->
+
 ### Explicacion Pedagogica
 Evaluar seguridad exige física real. El agua con sales conduce y convierte el piso mojado en camino hacia el cuerpo. La sobrecarga calienta cables y derrite aislamientos. Manipular enchufes energizados exige herramientas aisladas, manos secas y bajar los tacos primero. La prevención salva vidas en el hogar.
 ## Question 10 [D9-D10]
@@ -208,5 +217,6 @@ Evaluar seguridad exige física real. El agua con sales conduce y convierte el p
   <!-- feedback: Correcta, porque compara potencia, vida útil y costo total: 90 vatios frente a 600 vatios para iluminar igual. -->
 - [ ] D) Quitar todos los bombillos porque la oscuridad total es la única forma de ahorrar energía.
   <!-- feedback: Incorrecta, porque renunciar a la iluminación afecta la salud visual y las actividades del hogar. -->
+
 ### Explicacion Pedagogica
 Diez incandescentes piden 600 vatios y diez LED solo 90 para una luz similar, porque el LED transforma más electricidad en luz y menos en calor. Aunque el LED cuesta más al inicio, dura miles de horas y baja la factura cada mes. Evaluar incluye precio inicial, consumo y duración, no solo el precio de compra.

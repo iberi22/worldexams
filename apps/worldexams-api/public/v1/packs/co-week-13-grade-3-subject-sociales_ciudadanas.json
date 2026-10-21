@@ -342,15 +342,15 @@
         },
         {
           "letter": "B",
-          "text": "Grabar la escena y subirla a las redes sociales",
-          "is_correct": false,
-          "feedback": "Incorrecto. Grabar y difundir expone a los jóvenes y no cambia el problema: el agua sigue contaminada."
-        },
-        {
-          "letter": "C",
           "text": "Acercarse con respeto y explicarles por qué ensuciar el río es un problema",
           "is_correct": true,
           "feedback": "Correcto. Explicar con respeto el motivo permite que entiendan el daño y cambien su conducta."
+        },
+        {
+          "letter": "C",
+          "text": "Grabar la escena y subirla a las redes sociales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Grabar y difundir expone a los jóvenes y no cambia el problema: el agua sigue contaminada."
         },
         {
           "letter": "D",
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Esperar no detiene el daño y además el agua sucia afecta a las familias que viven cerca del río."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Cuando alguien usa un recurso natural de una forma que perjudica a todos, lo responsable es explicarle con respeto por qué su conducta causa daño. Lavar los coches con manguera en el río ensucia el agua que después usan las familias del municipio para consumo y para sus cultivos. Un niño que se acerca y explica esa relación está educando y, al mismo tiempo, protegiendo el agua. Pedir la ayuda de una autoridad solo hace falta cuando el problema persiste o cuando hay una norma que se está incumpliendo.",
       "difficulty": "8",
       "images": [],

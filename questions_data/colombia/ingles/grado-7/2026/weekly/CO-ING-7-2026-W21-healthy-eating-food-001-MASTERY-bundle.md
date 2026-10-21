@@ -238,10 +238,10 @@ The student analyzes the relationship between dietary habits and physical conseq
 Which sentence uses the words correctly?
 
 ### Opciones
-- [ ] A) Junk food is very nutritious and good for your heart.
-  <!-- feedback: Incorrect. Junk food is the opposite of nutritious. -->
-- [x] B) Fresh fruits are very nutritious and provide vitamins.
+- [x] A) Fresh fruits are very nutritious and provide vitamins.
   <!-- feedback: Correct! "Nutritious" and "vitamins" correctly describe fresh fruits. -->
+- [ ] B) Junk food is very nutritious and good for your heart.
+  <!-- feedback: Incorrect. Junk food is the opposite of nutritious. -->
 - [ ] C) Fried chicken is the most healthy way to eat protein.
   <!-- feedback: Incorrect. Frying is generally less healthy than other methods. -->
 - [ ] D) Sugar gives you long-lasting energy for the whole day.
@@ -268,10 +268,10 @@ Should a student who wants to be healthy buy this drink?
   <!-- feedback: Incorrect. Taste doesn't make it healthy. -->
 - [ ] B) Yes, because it has some protein.
   <!-- feedback: Incorrect. 2 grams is very little compared to 50 grams of sugar. -->
-- [x] C) No, because it contains an excessive amount of sugar.
-  <!-- feedback: Correct! 50 grams of sugar is very high and unhealthy. -->
-- [ ] D) No, because it is new.
+- [ ] C) No, because it is new.
   <!-- feedback: Incorrect. Being "new" is not a health-related reason. -->
+- [x] D) No, because it contains an excessive amount of sugar.
+  <!-- feedback: Correct! 50 grams of sugar is very high and unhealthy. -->
 
 ### Explicacion Pedagogica
 The student evaluates the nutritional information provided in a simulated advertisement to make a healthy decision.

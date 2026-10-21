@@ -13,16 +13,16 @@
       "context": "La sinonimia es la relación de semejanza de significados entre palabras, pero rara vez dos palabras son idénticas en todos los contextos.",
       "options": [
         {
-          "letter": "B",
-          "text": "Apartamento - Garaje.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El garaje es una parte de la vivienda, no un sinónimo de ella."
-        },
-        {
           "letter": "A",
           "text": "Casa - Hogar.",
           "is_correct": true,
           "feedback": "¡Correcto! Ambas palabras se refieren al lugar donde vive una persona o familia."
+        },
+        {
+          "letter": "B",
+          "text": "Apartamento - Garaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El garaje es una parte de la vivienda, no un sinónimo de ella."
         },
         {
           "letter": "C",
@@ -65,12 +65,6 @@
           "feedback": "Incorrecto. \"Breve\" es un sinónimo de efímero."
         },
         {
-          "letter": "D",
-          "text": "Duradero.",
-          "is_correct": true,
-          "feedback": "¡Correcto! Es lo opuesto a algo que pasa rápidamente."
-        },
-        {
           "letter": "B",
           "text": "Rápido.",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "Pequeño.",
           "is_correct": false,
           "feedback": "Incorrecto. Se refiere al tamaño, no al tiempo de duración."
+        },
+        {
+          "letter": "D",
+          "text": "Duradero.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es lo opuesto a algo que pasa rápidamente."
         }
       ],
       "correct_answer": "D",
@@ -117,16 +117,16 @@
           "feedback": "Incorrecto. Se refiere a una operación matemática, no aplicable al fútbol."
         },
         {
-          "letter": "D",
-          "text": "Maniobra.",
-          "is_correct": true,
-          "feedback": "¡Correcto! En este contexto se refiere a una acción o movimiento táctico de los jugadores."
-        },
-        {
           "letter": "C",
           "text": "Negocio.",
           "is_correct": false,
           "feedback": "Incorrecto. No se habla de una transacción comercial en ese momento del juego."
+        },
+        {
+          "letter": "D",
+          "text": "Maniobra.",
+          "is_correct": true,
+          "feedback": "¡Correcto! En este contexto se refiere a una acción o movimiento táctico de los jugadores."
         }
       ],
       "correct_answer": "D",
@@ -151,16 +151,16 @@
       "context": "La antonimia gradual permite expresar grados intermedios entre dos extremos.",
       "options": [
         {
-          "letter": "B",
-          "text": "Gélido.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Es un grado extremo de frío, no un punto intermedio."
-        },
-        {
           "letter": "A",
           "text": "Tibio.",
           "is_correct": true,
           "feedback": "¡Correcto! Es el término que se encuentra entre los dos extremos de la escala."
+        },
+        {
+          "letter": "B",
+          "text": "Gélido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un grado extremo de frío, no un punto intermedio."
         },
         {
           "letter": "C",
@@ -203,12 +203,6 @@
           "feedback": "Incorrecto. Aquí se refiere a un objeto físico (soga)."
         },
         {
-          "letter": "D",
-          "text": "A pesar de la crisis, ella se mantuvo cuerda y tomó las mejores decisiones.",
-          "is_correct": true,
-          "feedback": "¡Correcto! Se refiere a tener juicio o salud mental, por lo que \"sensata\" es el sinónimo correcto."
-        },
-        {
           "letter": "B",
           "text": "Tienes que darle cuerda al reloj antiguo de tu abuelo.",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "Esa guitarra necesita una cuerda nueva para sonar bien.",
           "is_correct": false,
           "feedback": "Incorrecto. Se refiere a un elemento de un instrumento musical."
+        },
+        {
+          "letter": "D",
+          "text": "A pesar de la crisis, ella se mantuvo cuerda y tomó las mejores decisiones.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se refiere a tener juicio o salud mental, por lo que \"sensata\" es el sinónimo correcto."
         }
       ],
       "correct_answer": "D",
@@ -295,12 +295,6 @@
           "feedback": "Incorrecto. Un descubrimiento no se fabrica como un objeto industrial."
         },
         {
-          "letter": "D",
-          "text": "Realizó.",
-          "is_correct": true,
-          "feedback": "¡Correcto! Es un verbo de acción más formal y preciso para el contexto científico."
-        },
-        {
           "letter": "B",
           "text": "Cocinó.",
           "is_correct": false,
@@ -311,6 +305,12 @@
           "text": "Puso.",
           "is_correct": false,
           "feedback": "Incorrecto. Es otro verbo \"baúl\" que no aporta precisión al tipo de logro."
+        },
+        {
+          "letter": "D",
+          "text": "Realizó.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es un verbo de acción más formal y preciso para el contexto científico."
         }
       ],
       "correct_answer": "D",
@@ -347,16 +347,16 @@
           "feedback": "Incorrecto. No usan prefijos para oponerse."
         },
         {
-          "letter": "D",
-          "text": "Creíble, Peinar, Legal.",
-          "is_correct": true,
-          "feedback": "¡Correcto! Increíble, Despeinar, Ilegal."
-        },
-        {
           "letter": "C",
           "text": "Bueno, Malo, Justo.",
           "is_correct": false,
           "feedback": "Incorrecto. Bueno y malo son raíces diferentes; justo sí usa prefijo (injusto), pero el grupo no es homogéneo."
+        },
+        {
+          "letter": "D",
+          "text": "Creíble, Peinar, Legal.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Increíble, Despeinar, Ilegal."
         }
       ],
       "correct_answer": "D",
@@ -381,6 +381,12 @@
       "context": "Un error común es pensar que palabras similares son sinónimos, cuando en realidad tienen matices que las hacen inapropiadas para ciertos contextos.",
       "options": [
         {
+          "letter": "A",
+          "text": "Porque \"sentenciado\" implica una condena judicial legal, mientras que \"criticado\" se refiere a una opinión negativa de la sociedad.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Usar \"sentenciado\" podría ser una difamación si no hubo un juicio real."
+        },
+        {
           "letter": "B",
           "text": "Porque \"sentenciado\" es una palabra muy larga y difícil de leer.",
           "is_correct": false,
@@ -391,12 +397,6 @@
           "text": "Porque \"sentenciado\" solo se puede usar para hablar de deportes.",
           "is_correct": false,
           "feedback": "Incorrecto. Se usa principalmente en el ámbito judicial."
-        },
-        {
-          "letter": "A",
-          "text": "Porque \"sentenciado\" implica una condena judicial legal, mientras que \"criticado\" se refiere a una opinión negativa de la sociedad.",
-          "is_correct": true,
-          "feedback": "¡Correcto! Usar \"sentenciado\" podría ser una difamación si no hubo un juicio real."
         },
         {
           "letter": "D",
@@ -433,25 +433,25 @@
           "feedback": "Incorrecto. La poesía busca expresar sentimientos complejos, no confundir por error."
         },
         {
-          "letter": "D",
+          "letter": "B",
           "text": "Crear una contradicción (oxímoron) que expresa la intensidad y confusión del sentimiento amoroso.",
           "is_correct": true,
           "feedback": "¡Correcto! Al unir palabras opuestas se genera una imagen poética potente que describe algo que parece imposible."
-        },
-        {
-          "letter": "B",
-          "text": "Demostrar que el autor no sabe el significado correcto de las palabras.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Es un uso deliberado y magistral del lenguaje figurado."
         },
         {
           "letter": "C",
           "text": "Indicar que el clima en Colombia es muy variable y cambia de frío a calor rápidamente.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una metáfora sobre el amor, no un reporte meteorológico."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrar que el autor no sabe el significado correcto de las palabras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un uso deliberado y magistral del lenguaje figurado."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "La literatura utiliza las propiedades del lenguaje, como la antonimia, para expandir los límites del significado y evocar emociones que las palabras simples no alcanzan a describir.",
       "difficulty": "10",
       "images": [],

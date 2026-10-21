@@ -13,16 +13,16 @@
       "context": "Introduction to negotiation terms.",
       "options": [
         {
-          "letter": "B",
-          "text": "Combat",
-          "is_correct": false,
-          "feedback": "Incorrect. Combat is fighting."
-        },
-        {
           "letter": "A",
           "text": "Mediation",
           "is_correct": true,
           "feedback": "Correct. Process involving a neutral third party."
+        },
+        {
+          "letter": "B",
+          "text": "Combat",
+          "is_correct": false,
+          "feedback": "Incorrect. Combat is fighting."
         },
         {
           "letter": "C",
@@ -58,16 +58,16 @@
       "context": "Discussing peace processes.",
       "options": [
         {
-          "letter": "B",
-          "text": "are ongoing",
-          "is_correct": false,
-          "feedback": "Incorrect. Present continuous."
-        },
-        {
           "letter": "A",
           "text": "have been ongoing",
           "is_correct": true,
           "feedback": "Correct. Present perfect continuous for an action starting in the past and continuing."
+        },
+        {
+          "letter": "B",
+          "text": "are ongoing",
+          "is_correct": false,
+          "feedback": "Incorrect. Present continuous."
         },
         {
           "letter": "C",
@@ -244,12 +244,6 @@
           "feedback": "A fight is the armed clash itself, not the written agreement made to end it; 'fight' also takes no formal object such as 'a treaty'."
         },
         {
-          "letter": "D",
-          "text": "treaty",
-          "is_correct": true,
-          "feedback": "Correct. Formal international agreement."
-        },
-        {
           "letter": "B",
           "text": "rumor",
           "is_correct": false,
@@ -260,6 +254,12 @@
           "text": "protest",
           "is_correct": false,
           "feedback": "Incorrect. Expression of objection."
+        },
+        {
+          "letter": "D",
+          "text": "treaty",
+          "is_correct": true,
+          "feedback": "Correct. Formal international agreement."
         }
       ],
       "correct_answer": "D",
@@ -283,16 +283,16 @@
       "context": "Describing an ongoing negotiation.",
       "options": [
         {
-          "letter": "B",
-          "text": "are discussing",
-          "is_correct": false,
-          "feedback": "'Are discussing' is active, so the legal teams would have to be the subject, but the sentence makes the terms the thing being discussed."
-        },
-        {
           "letter": "A",
           "text": "are being discussed",
           "is_correct": true,
           "feedback": "Correct. Present continuous passive for an ongoing process."
+        },
+        {
+          "letter": "B",
+          "text": "are discussing",
+          "is_correct": false,
+          "feedback": "'Are discussing' is active, so the legal teams would have to be the subject, but the sentence makes the terms the thing being discussed."
         },
         {
           "letter": "C",
@@ -418,16 +418,16 @@
       "context": "Critique of \"zero-sum\" thinking.",
       "options": [
         {
-          "letter": "B",
-          "text": "promote",
-          "is_correct": false,
-          "feedback": "Incorrect. It makes it harder."
-        },
-        {
           "letter": "A",
           "text": "hinder",
           "is_correct": true,
           "feedback": "Correct. To hinder means to create difficulties for someone or something."
+        },
+        {
+          "letter": "B",
+          "text": "promote",
+          "is_correct": false,
+          "feedback": "Incorrect. It makes it harder."
         },
         {
           "letter": "C",
@@ -508,16 +508,16 @@
       "context": "Describing a future peace milestone.",
       "options": [
         {
-          "letter": "B",
-          "text": "will establish",
-          "is_correct": false,
-          "feedback": "Incorrect. Active voice."
-        },
-        {
           "letter": "A",
           "text": "will have been established",
           "is_correct": true,
           "feedback": "Correct. Future perfect passive for a completed state in the future."
+        },
+        {
+          "letter": "B",
+          "text": "will establish",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
         },
         {
           "letter": "C",
@@ -553,16 +553,16 @@
       "context": "Discussing \"reconciliation\".",
       "options": [
         {
-          "letter": "B",
-          "text": "Aggression",
-          "is_correct": false,
-          "feedback": "Aggression is hostile behaviour that damages relations, so it is the opposite of the healing this term names."
-        },
-        {
           "letter": "A",
           "text": "Reconciliation",
           "is_correct": true,
           "feedback": "Correct. The process of healing relationships."
+        },
+        {
+          "letter": "B",
+          "text": "Aggression",
+          "is_correct": false,
+          "feedback": "Aggression is hostile behaviour that damages relations, so it is the opposite of the healing this term names."
         },
         {
           "letter": "C",
@@ -604,12 +604,6 @@
           "feedback": "Incorrect. Second conditional."
         },
         {
-          "letter": "D",
-          "text": "had communicated",
-          "is_correct": true,
-          "feedback": "Correct. Third conditional for hypothetical past."
-        },
-        {
           "letter": "B",
           "text": "communicate",
           "is_correct": false,
@@ -620,6 +614,12 @@
           "text": "were communicating",
           "is_correct": false,
           "feedback": "Incorrect. Past continuous."
+        },
+        {
+          "letter": "D",
+          "text": "had communicated",
+          "is_correct": true,
+          "feedback": "Correct. Third conditional for hypothetical past."
         }
       ],
       "correct_answer": "D",
@@ -643,22 +643,22 @@
       "context": "Conclusion of an essay on forgiveness.",
       "options": [
         {
+          "letter": "A",
+          "text": "secondary",
+          "is_correct": false,
+          "feedback": "Incorrect. It's a primary requirement."
+        },
+        {
           "letter": "B",
           "text": "unnecessary",
           "is_correct": false,
           "feedback": "Incorrect. The author says it's necessary."
         },
         {
-          "letter": "A",
+          "letter": "C",
           "text": "necessary",
           "is_correct": true,
           "feedback": "Correct. Essential for the result."
-        },
-        {
-          "letter": "C",
-          "text": "secondary",
-          "is_correct": false,
-          "feedback": "Incorrect. It's a primary requirement."
         },
         {
           "letter": "D",
@@ -667,7 +667,7 @@
           "feedback": "Incorrect. It's a deliberate act."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Necessary' correctly identifies the author's argument about the essential nature of forgiveness.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,12 +694,6 @@
           "feedback": "Incorrect. Taking a side."
         },
         {
-          "letter": "D",
-          "text": "neutral",
-          "is_correct": true,
-          "feedback": "Correct. Neutral is the exact term for someone who takes no side in the argument, so it matches the definition word for word."
-        },
-        {
           "letter": "B",
           "text": "hostile",
           "is_correct": false,
@@ -710,6 +704,12 @@
           "text": "active",
           "is_correct": false,
           "feedback": "Incorrect. While they can be active in the process, 'neutral' refers specifically to side-taking."
+        },
+        {
+          "letter": "D",
+          "text": "neutral",
+          "is_correct": true,
+          "feedback": "Correct. Neutral is the exact term for someone who takes no side in the argument, so it matches the definition word for word."
         }
       ],
       "correct_answer": "D",
@@ -739,12 +739,6 @@
           "feedback": "Incorrect. Need 'would' for a desired change in others' behavior."
         },
         {
-          "letter": "D",
-          "text": "would stop",
-          "is_correct": true,
-          "feedback": "Correct. 'Wish + would' for a change in a situation or behavior."
-        },
-        {
           "letter": "B",
           "text": "stopped",
           "is_correct": false,
@@ -755,6 +749,12 @@
           "text": "have stopped",
           "is_correct": false,
           "feedback": "Incorrect. Past regret."
+        },
+        {
+          "letter": "D",
+          "text": "would stop",
+          "is_correct": true,
+          "feedback": "Correct. 'Wish + would' for a change in a situation or behavior."
         }
       ],
       "correct_answer": "D",
@@ -784,12 +784,6 @@
           "feedback": "Incorrect. Binding is the opposite of optional."
         },
         {
-          "letter": "D",
-          "text": "binding",
-          "is_correct": true,
-          "feedback": "Correct. Binding means that it must be obeyed."
-        },
-        {
           "letter": "B",
           "text": "secret",
           "is_correct": false,
@@ -800,6 +794,12 @@
           "text": "ignored",
           "is_correct": false,
           "feedback": "Incorrect. If it's binding, it can't be ignored without consequences."
+        },
+        {
+          "letter": "D",
+          "text": "binding",
+          "is_correct": true,
+          "feedback": "Correct. Binding means that it must be obeyed."
         }
       ],
       "correct_answer": "D",
@@ -829,12 +829,6 @@
           "feedback": "Incorrect. Past continuous."
         },
         {
-          "letter": "D",
-          "text": "had been building",
-          "is_correct": true,
-          "feedback": "Correct. Past perfect continuous for duration before a past event."
-        },
-        {
           "letter": "B",
           "text": "has been building",
           "is_correct": false,
@@ -845,6 +839,12 @@
           "text": "builds",
           "is_correct": false,
           "feedback": "Incorrect. Present simple."
+        },
+        {
+          "letter": "D",
+          "text": "had been building",
+          "is_correct": true,
+          "feedback": "Correct. Past perfect continuous for duration before a past event."
         }
       ],
       "correct_answer": "D",
@@ -868,12 +868,6 @@
       "context": "Final thought on dialogue.",
       "options": [
         {
-          "letter": "D",
-          "text": "bridging",
-          "is_correct": true,
-          "feedback": "Correct. To bridge a divide means to connect two different groups."
-        },
-        {
           "letter": "A",
           "text": "creating",
           "is_correct": false,
@@ -890,6 +884,12 @@
           "text": "reinforcing",
           "is_correct": false,
           "feedback": "Incorrect. Reinforcing a divide makes it worse."
+        },
+        {
+          "letter": "D",
+          "text": "bridging",
+          "is_correct": true,
+          "feedback": "Correct. To bridge a divide means to connect two different groups."
         }
       ],
       "correct_answer": "D",

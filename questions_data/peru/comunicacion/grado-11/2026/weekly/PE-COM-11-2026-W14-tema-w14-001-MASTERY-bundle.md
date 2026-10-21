@@ -481,12 +481,12 @@ Evalúe la pertinencia lógica y validez normativa del uso de la cadena de conec
 ### Opciones
 - [ ] A) Todos los conectores están empleados correctamente; "por el contrario" marca una adición perfecta de factores educativos.
   <!-- feedback: Incorrecto. "Por el contrario" denota oposición extrema, pero la tesis de la educación no es contraria a la de la tierra, sino un factor insuficiente que la secunda bajo la misma lógica crítica del autor. El conector idóneo sería uno explicativo o de descarte restrictivo. -->
-- [x] B) El conector "por el contrario" es impreciso y defectuoso; debió emplearse un conector explicativo, causal o de descarte restrictivo como "en ese sentido" o "por consiguiente", pues la idea de la educación complementa y refuerza la premisa de la tierra en lugar de oponerse a ella de forma excluyente.
-  <!-- feedback: ¡Correcto! Mariátegui no opone la educación al problema de la tierra en sentido excluyente; afirma que la primera depende del segundo. El uso de "por el contrario" genera una falsa oposición que oscurece el argumento real del autor. -->
+- [ ] B) El texto es totalmente incoherente de principio a fin porque la RAE prohíbe el uso simultáneo de más de dos conectores lógicos por párrafo.
+  <!-- feedback: Incorrecto. No existe ninguna prohibición numérica de conectores; su validez depende estrictamente de la precisión semántica con la que enlazan las ideas. -->
 - [ ] C) El conector "Es decir" es incorrecto porque Mariátegui nunca utilizó paráfrasis o explicaciones sencillas en sus escritos sociológicos de época.
   <!-- feedback: Incorrecto. El conector "Es decir" es perfectamente adecuado para vincular y resumir las dos ideas iniciales; la debilidad reside en "por el contrario". -->
-- [ ] D) El texto es totalmente incoherente de principio a fin porque la RAE prohíbe el uso simultáneo de más de dos conectores lógicos por párrafo.
-  <!-- feedback: Incorrecto. No existe ninguna prohibición numérica de conectores; su validez depende estrictamente de la precisión semántica con la que enlazan las ideas. -->
+- [x] D) El conector "por el contrario" es impreciso y defectuoso; debió emplearse un conector explicativo, causal o de descarte restrictivo como "en ese sentido" o "por consiguiente", pues la idea de la educación complementa y refuerza la premisa de la tierra en lugar de oponerse a ella de forma excluyente.
+  <!-- feedback: ¡Correcto! Mariátegui no opone la educación al problema de la tierra en sentido excluyente; afirma que la primera depende del segundo. El uso de "por el contrario" genera una falsa oposición que oscurece el argumento real del autor. -->
 
 ### Explicación Pedagógica
 La evaluación argumentativa profunda exige validar si el conector adversativo ("por el contrario") de veras enlaza ideas antitéticas. Si la segunda idea complementa la subordinación conceptual de la primera, forzar una contraposición léxica constituye una impericia de cohesión.

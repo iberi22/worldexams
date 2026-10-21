@@ -18,190 +18,195 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-# MASTERY Bundle - Ingles: Greetings Farewells (W01)
-**8 preguntas | Ingles | DBA MEN Colombia**
 
----
+# Bundle MASTERY: Saludos y despedidas - Grado 3
+
+Este bundle evalúa los saludos y despedidas básicos en inglés según la hora del día y en diálogos cortos de la vida escolar.
+
 ## Question 1 [D3-D4]
 **ID:** CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Expected_Success:** 0.85
+**Contexto:** Son las 7:00 de la mañana en un colegio de Bucaramanga y Mateo entra al salón donde está su profesora.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+It is 7:00 in the morning. Mateo sees his teacher. What does he say?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'accommodation' is the word for a place where you live or stay on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system of moving people or goods between places, not the place you sleep in itself. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live. -->
-- [ ] C) currency
-  <!-- feedback: 'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in. -->
+- [x] A) Good morning!
+  <!-- feedback: Correct. "Good morning" is the greeting we use from the time we wake up until 12 noon, and 7:00 is in the morning. -->
+- [ ] B) Good night!
+  <!-- feedback: Incorrect. "Good night" is said at night when we go to bed or leave, not at 7:00 in the morning. -->
+- [ ] C) Good afternoon!
+  <!-- feedback: Incorrect. "Good afternoon" is used after 12 noon, and 7:00 a.m. is still the morning. -->
+- [ ] D) Goodbye!
+  <!-- feedback: Incorrect. "Goodbye" is a farewell for when you leave, but Mateo is arriving, so he needs a greeting. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
+En inglés el saludo cambia según la hora. Desde que nos levantamos hasta las 12 del mediodía decimos "Good morning" (buenos días). Como Mateo llega a las 7:00 a.m., el saludo correcto es "Good morning!".
+
 ## Question 2 [D3-D4]
 **ID:** CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Lexico
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Al terminar la clase en una escuela de Pereira, los niños se despiden de sus compañeros antes de irse a casa.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Which word do you say when you leave?
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' names only the place you are going to, without the route or the order of the whole journey. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official document that lets you cross a border, not the plan of where you go. -->
+- [ ] A) Hello
+  <!-- feedback: Incorrect. "Hello" is a greeting for when you arrive or meet someone, not for when you go away. -->
+- [ ] B) Hi
+  <!-- feedback: Incorrect. "Hi" is an informal way to say hello when you meet someone, so it starts a conversation instead of ending it. -->
+- [ ] C) Good morning
+  <!-- feedback: Incorrect. "Good morning" greets people in the morning when you arrive; it does not mean you are leaving. -->
+- [x] D) Goodbye
+  <!-- feedback: Correct. "Goodbye" is the farewell word that means you are leaving, so it is the word for the end of a meeting. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
+Hay palabras para llegar (saludos) y palabras para irse (despedidas). "Hello", "Hi" y "Good morning" son saludos. "Goodbye" significa adiós y se dice cuando nos vamos, por eso es la respuesta correcta.
+
 ## Question 3 [D5-D6]
 **ID:** CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.75
+**Contexto:** Ana y Luis se encuentran en el recreo de su colegio en Cartagena y Ana le pregunta cómo está.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Ana: "How are you, Luis?"
+Luis: "________"
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: Correct! 'destination' is the place someone is going to or something is being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the act of reaching a place, not the place that is reached. -->
-- [ ] C) journey
-  <!-- feedback: 'journey' is the whole trip from the start to the end, not the place the trip finishes at. -->
+- [x] A) I'm fine, thank you.
+  <!-- feedback: Correct. "How are you?" asks how you feel, and "I'm fine, thank you" answers with how Luis feels. -->
+- [ ] B) I'm Luis.
+  <!-- feedback: Incorrect. "I'm Luis" gives his name, which answers "What's your name?", not a question about how he feels. -->
+- [ ] C) I'm eight years old.
+  <!-- feedback: Incorrect. "I'm eight years old" tells his age, which answers "How old are you?", not "How are you?". -->
+- [ ] D) Good night.
+  <!-- feedback: Incorrect. "Good night" is a farewell for the night and does not tell Ana how Luis feels. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
+La pregunta "How are you?" significa "¿Cómo estás?". Por eso la respuesta debe decir cómo se siente la persona: "I'm fine, thank you" (estoy bien, gracias). No hay que confundirla con "How old are you?", que pregunta la edad.
+
 ## Question 4 [D5-D6]
 **ID:** CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.70
+**Contexto:** Sara es una niña nueva en un colegio de Medellín y se presenta ante su compañero de puesto el primer día de clases.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Complete: "Hello, my name is Sara. Nice to ______ you."
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel. -->
-- [ ] B) ticket
-  <!-- feedback: 'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in. -->
-- [ ] C) flight
-  <!-- feedback: 'flight' is the journey by plane itself, not the containers that hold your things. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you make for a seat or a room, not the bag you carry. -->
+- [ ] A) make
+  <!-- feedback: Incorrect. "Make" means to build or create something, and the fixed phrase for a first meeting does not use it. -->
+- [x] B) meet
+  <!-- feedback: Correct. The phrase "Nice to meet you" is what we say when we see a person for the first time. -->
+- [ ] C) eat
+  <!-- feedback: Incorrect. "Eat" is the action of having food, so "Nice to eat you" has no sense in a greeting. -->
+- [ ] D) sleep
+  <!-- feedback: Incorrect. "Sleep" is the action of resting at night, and it does not form a polite phrase for meeting someone. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
+Cuando conocemos a alguien por primera vez decimos "Nice to meet you" (mucho gusto en conocerte). El verbo "meet" significa conocer o encontrarse con alguien. Los otros verbos ("make", "eat", "sleep") no forman esa expresión.
+
 ## Question 5 [D7-D8]
 **ID:** CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.65
+**Contexto:** Pedro vive en Tunja y llega a su casa después del colegio; su abuela lo espera en la cocina.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Read: "Pedro comes home from school at 3:00 p.m. He sees his grandmother in the kitchen."
+What does Pedro say?
 
 ### Opciones
-- [x] C) passenger
-  <!-- feedback: Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all. -->
-- [ ] B) commuter
-  <!-- feedback: 'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle. -->
-- [ ] D) tourist
-  <!-- feedback: 'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle. -->
+- [ ] A) Good night, Grandma!
+  <!-- feedback: Incorrect. "Good night" belongs to the night or bedtime, and 3:00 p.m. is in the middle of the day. -->
+- [x] B) Good afternoon, Grandma!
+  <!-- feedback: Correct. "Good afternoon" greets people after 12 noon, and Pedro arrives at 3:00 p.m. -->
+- [ ] C) Good morning, Grandma!
+  <!-- feedback: Incorrect. "Good morning" is used before 12 noon, but the text says Pedro arrives at 3:00 p.m. -->
+- [ ] D) Goodbye, Grandma!
+  <!-- feedback: Incorrect. "Goodbye" is said when you leave, but Pedro is arriving home and needs a greeting. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
+Hay que leer la hora en el texto: "3:00 p.m." La sigla "p.m." indica la tarde. Después de las 12 del mediodía el saludo es "Good afternoon" (buenas tardes). Además Pedro llega, no se va, así que no sirve "Goodbye".
+
 ## Question 6 [D7-D8]
 **ID:** CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.60
+**Contexto:** Tom y Mia salen del colegio en Cali y cada uno toma un camino distinto para volver a casa.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Tom: "Bye, Mia! See you tomorrow."
+Mia: "________"
 
 ### Opciones
-- [x] B) customs
-  <!-- feedback: Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive. -->
-- [ ] A) security
-  <!-- feedback: 'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in. -->
-- [ ] C) terminal
-  <!-- feedback: 'terminal' is the building where you wait for your plane, not the place where your belongings are inspected. -->
-- [ ] D) gate
-  <!-- feedback: 'gate' is the door at the plane you walk through to board, not the place where officials check your things. -->
+- [ ] A) Good morning!
+  <!-- feedback: Incorrect. "Good morning" is a greeting for arriving in the morning, but Tom is saying goodbye. -->
+- [ ] B) Nice to meet you!
+  <!-- feedback: Incorrect. "Nice to meet you" is for the first time you know someone, and Tom and Mia are already friends. -->
+- [x] C) Bye, Tom! See you!
+  <!-- feedback: Correct. Tom says a farewell, so Mia answers with another farewell: "Bye" and "See you" both mean they are leaving. -->
+- [ ] D) I'm fine, thanks!
+  <!-- feedback: Incorrect. "I'm fine, thanks" answers "How are you?", a question Tom never asks in this dialog. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
+Tom se despide con "Bye" y "See you tomorrow" (nos vemos mañana). Lo natural es responder también con una despedida: "Bye, Tom! See you!". Las otras opciones son saludos o respuestas a otras preguntas.
+
 ## Question 7 [D9-D10]
 **ID:** CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.50
+**Contexto:** En un colegio de Barranquilla, Camila conoce a una niña que acaba de llegar de otra ciudad.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Read: "Camila meets a new girl at school. The girl says: 'Hi! I'm Valeria.'"
+What is the best answer for Camila?
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: 'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline. -->
-- [ ] C) receipt
-  <!-- feedback: 'receipt' is the proof that you paid for something, which is not permission to board a plane. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a leaflet with tourist information, not a travel document issued to a passenger. -->
+- [ ] A) Goodbye, Valeria.
+  <!-- feedback: Incorrect. "Goodbye" closes a conversation, but Valeria is just starting one by saying hi. -->
+- [ ] B) Good night, Valeria.
+  <!-- feedback: Incorrect. "Good night" is for bedtime or leaving at night, and the girls are at school during the day. -->
+- [ ] C) I'm fine, thank you.
+  <!-- feedback: Incorrect. Valeria did not ask "How are you?", she gave her name, so this answer does not match. -->
+- [x] D) Hi, Valeria! I'm Camila. Nice to meet you.
+  <!-- feedback: Correct. Camila greets back with "Hi", gives her own name, and says "Nice to meet you" because it is their first meeting. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
+Valeria saluda y dice su nombre. La mejor respuesta hace lo mismo: saluda ("Hi, Valeria!"), dice el propio nombre ("I'm Camila") y, como es la primera vez que se conocen, agrega "Nice to meet you" (mucho gusto).
+
 ## Question 8 [D9-D10]
 **ID:** CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.45
+**Contexto:** La profesora de inglés de un colegio de Villavicencio escribe cuatro diálogos en el tablero y pide escoger el que está bien.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which dialog is correct?
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'sightseeing' means visiting the places of interest of a location as a traveler. -->
-- [ ] B) shopping
-  <!-- feedback: 'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place. -->
+- [ ] A) "Good night!" - "Good morning!"
+  <!-- feedback: Incorrect. The first person speaks at night and the second answers with a morning greeting, so the times do not match. -->
+- [ ] B) "How are you?" - "My name is Juan."
+  <!-- feedback: Incorrect. "How are you?" asks how someone feels, and "My name is Juan" only gives a name. -->
+- [x] C) "How are you?" - "I'm fine, thanks. And you?"
+  <!-- feedback: Correct. The answer tells how the person feels and asks back with "And you?", a polite and complete reply. -->
+- [ ] D) "Nice to meet you." - "See you yesterday."
+  <!-- feedback: Incorrect. "See you" points to a future meeting, so "yesterday", a day in the past, does not fit, and it does not answer "Nice to meet you". -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Un diálogo correcto tiene una respuesta que encaja con lo primero que se dice. A "How are you?" (¿cómo estás?) se responde con el estado de ánimo: "I'm fine, thanks" y se puede devolver la pregunta con "And you?" (¿y tú?).

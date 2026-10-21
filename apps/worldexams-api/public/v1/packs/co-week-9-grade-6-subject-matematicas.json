@@ -59,12 +59,6 @@
       "context": "En Bogotá un reloj de la torre muestra las manecillas formando una línea recta a las 6 en punto.",
       "options": [
         {
-          "letter": "D",
-          "text": "Llano",
-          "is_correct": true,
-          "feedback": "Es correcta porque el ángulo de 180 grados forma una línea recta."
-        },
-        {
           "letter": "A",
           "text": "Agudo",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "Obtuso",
           "is_correct": false,
           "feedback": "Es incorrecta porque el obtuso está entre 90 y 180, sin incluir 180."
+        },
+        {
+          "letter": "D",
+          "text": "Llano",
+          "is_correct": true,
+          "feedback": "Es correcta porque el ángulo de 180 grados forma una línea recta."
         }
       ],
       "correct_answer": "D",
@@ -151,12 +151,6 @@
       "context": "En Cartagena se abre una puerta desde la pared: primero forma 30 grados y luego se abre hasta 120 grados.",
       "options": [
         {
-          "letter": "D",
-          "text": "Obtuso",
-          "is_correct": true,
-          "feedback": "Es correcta porque 120 está entre 90 y 180 grados."
-        },
-        {
           "letter": "A",
           "text": "Agudo",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "Completo",
           "is_correct": false,
           "feedback": "Es incorrecta porque el completo mide 360 grados."
+        },
+        {
+          "letter": "D",
+          "text": "Obtuso",
+          "is_correct": true,
+          "feedback": "Es correcta porque 120 está entre 90 y 180 grados."
         }
       ],
       "correct_answer": "D",
@@ -243,12 +243,6 @@
       "context": "En Barranquilla un ventilador gira sus aspas y se analizan los ángulos opuestos que se forman en el centro.",
       "options": [
         {
-          "letter": "C",
-          "text": "70 grados, porque los opuestos por el vértice son iguales",
-          "is_correct": true,
-          "feedback": "Es correcta porque los ángulos enfrentados en un cruce miden lo mismo."
-        },
-        {
           "letter": "A",
           "text": "110 grados, porque son suplementarios",
           "is_correct": false,
@@ -259,6 +253,12 @@
           "text": "20 grados, porque complementan a 90",
           "is_correct": false,
           "feedback": "Es incorrecta porque no hay un ángulo recto que los relacione."
+        },
+        {
+          "letter": "C",
+          "text": "70 grados, porque los opuestos por el vértice son iguales",
+          "is_correct": true,
+          "feedback": "Es correcta porque los ángulos enfrentados en un cruce miden lo mismo."
         },
         {
           "letter": "D",
@@ -289,12 +289,6 @@
       "context": "En Pereira un arquitecto dibuja un triángulo con ángulos de 60, 60 y 60 grados para el techo de una caseta.",
       "options": [
         {
-          "letter": "D",
-          "text": "Acutángulo",
-          "is_correct": true,
-          "feedback": "Es correcta porque sus tres ángulos son agudos menores que 90."
-        },
-        {
           "letter": "A",
           "text": "Rectángulo",
           "is_correct": false,
@@ -311,6 +305,12 @@
           "text": "Llano",
           "is_correct": false,
           "feedback": "Es incorrecta porque llano describe un ángulo y no un triángulo."
+        },
+        {
+          "letter": "D",
+          "text": "Acutángulo",
+          "is_correct": true,
+          "feedback": "Es correcta porque sus tres ángulos son agudos menores que 90."
         }
       ],
       "correct_answer": "D",
@@ -335,12 +335,6 @@
       "context": "En Manizales un ciclista sube una pendiente y el instructor mide el ángulo de inclinación respecto a la horizontal: 25 grados.",
       "options": [
         {
-          "letter": "D",
-          "text": "65 grados, lo que falta para completar un ángulo recto",
-          "is_correct": true,
-          "feedback": "Es correcta porque 25 más 65 es igual a 90."
-        },
-        {
           "letter": "A",
           "text": "155 grados, lo que falta para completar un llano",
           "is_correct": false,
@@ -357,6 +351,12 @@
           "text": "90 grados, porque todo complemento es recto",
           "is_correct": false,
           "feedback": "Es incorrecta porque 90 es la suma y no el ángulo buscado."
+        },
+        {
+          "letter": "D",
+          "text": "65 grados, lo que falta para completar un ángulo recto",
+          "is_correct": true,
+          "feedback": "Es correcta porque 25 más 65 es igual a 90."
         }
       ],
       "correct_answer": "D",
@@ -382,15 +382,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Ambos miden 110 grados por el paralelismo",
-          "is_correct": true,
-          "feedback": "Es correcta porque correspondientes y alternos internos son iguales con paralelas."
-        },
-        {
-          "letter": "B",
           "text": "Ambos miden 70 grados por ser suplementarios",
           "is_correct": false,
           "feedback": "Es incorrecta porque 70 corresponde a los vecinos, no a los correspondientes."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos miden 110 grados por el paralelismo",
+          "is_correct": true,
+          "feedback": "Es correcta porque correspondientes y alternos internos son iguales con paralelas."
         },
         {
           "letter": "C",
@@ -405,7 +405,7 @@
           "feedback": "Es incorrecta porque las propiedades de las paralelas permiten deducirlo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Con rectas paralelas cortadas por una transversal, los ángulos correspondientes ocupan la misma posición y los alternos internos quedan a lados opuestos pero dentro de las paralelas. Ambas parejas son iguales, así que los dos miden 110 grados.",
       "difficulty": "10",
       "images": [],
@@ -427,12 +427,6 @@
       "context": "En Tunja un estudiante afirma que un triángulo puede tener dos ángulos obtusos si uno es de 100 y el otro de 95 grados.",
       "options": [
         {
-          "letter": "C",
-          "text": "Es falsa, porque la suma superaría 180 grados",
-          "is_correct": true,
-          "feedback": "Es correcta porque 100 más 95 ya es 195 y excede el total permitido."
-        },
-        {
           "letter": "A",
           "text": "Es verdadera, porque los obtusos pueden sumarse libremente",
           "is_correct": false,
@@ -443,6 +437,12 @@
           "text": "Es verdadera, si el tercer ángulo es 0 grados",
           "is_correct": false,
           "feedback": "Es incorrecta porque un ángulo de 0 grados no forma un triángulo."
+        },
+        {
+          "letter": "C",
+          "text": "Es falsa, porque la suma superaría 180 grados",
+          "is_correct": true,
+          "feedback": "Es correcta porque 100 más 95 ya es 195 y excede el total permitido."
         },
         {
           "letter": "D",

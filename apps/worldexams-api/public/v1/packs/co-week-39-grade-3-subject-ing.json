@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: \"I ____ a student.\"",
+      "context": "Simón estudia tercer grado en un colegio de Pereira y se presenta en clase de inglés.",
       "options": [
         {
-          "letter": "B",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the word for a place where you live or stay on holiday."
+          "letter": "A",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "Incorrect. Is goes with he, she and it; with I we use am."
         },
         {
-          "letter": "A",
-          "text": "transportation",
+          "letter": "B",
+          "text": "are",
           "is_correct": false,
-          "feedback": "'transportation' is the system of moving people or goods between places, not the place you sleep in itself."
+          "feedback": "Incorrect. Are goes with you, we and they; with I we use am."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "be",
           "is_correct": false,
-          "feedback": "'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live."
+          "feedback": "Incorrect. Be is the base form of the verb; in a sentence with I it changes to am."
         },
         {
           "letter": "D",
-          "text": "currency",
-          "is_correct": false,
-          "feedback": "'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in."
+          "text": "am",
+          "is_correct": true,
+          "feedback": "Correct. With I the verb to be is always am: I am a student."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "El pronombre \"I\" (yo) siempre va con \"am\": \"I am a student\" (yo soy estudiante). \"Is\" es para he, she, it y \"are\" para you, we, they.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -55,41 +55,41 @@
     },
     {
       "id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: \"Lucia and Marta ____ my friends.\"",
+      "context": "Gabriela presenta a sus dos mejores amigas del barrio en Barranquilla.",
       "options": [
         {
-          "letter": "D",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "is",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "Incorrect. Is is for one person; Lucia and Marta are two people, like they."
         },
         {
           "letter": "B",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "'destination' names only the place you are going to, without the route or the order of the whole journey."
+          "text": "are",
+          "is_correct": true,
+          "feedback": "Correct. Lucia and Marta are two people (they), and they goes with are."
         },
         {
           "letter": "C",
-          "text": "passport",
+          "text": "am",
           "is_correct": false,
-          "feedback": "'passport' is the official document that lets you cross a border, not the plan of where you go."
+          "feedback": "Incorrect. Am is only for I, and here the subject is Lucia and Marta."
+        },
+        {
+          "letter": "D",
+          "text": "be",
+          "is_correct": false,
+          "feedback": "Incorrect. Be is the base form; with two people we must use are."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Lucia y Marta son dos personas, es decir \"they\" (ellas). Con \"they\" usamos \"are\": \"Lucia and Marta are my friends\".",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lexico",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle",
       "periodo": 39,
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence about the dog is correct?",
+      "context": "La familia Pérez tiene un perro café en su finca cerca de Fusagasugá.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
+          "text": "It is brown.",
           "is_correct": true,
-          "feedback": "Correct! 'destination' is the place someone is going to or something is being sent to."
+          "feedback": "Correct. A dog is it, and it goes with is."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "It are brown.",
           "is_correct": false,
-          "feedback": "'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself."
+          "feedback": "Incorrect. Are is for you, we and they, not for it."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "It am brown.",
           "is_correct": false,
-          "feedback": "'arrival' is the act of reaching a place, not the place that is reached."
+          "feedback": "Incorrect. Am is only for I; with it we use is."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "It be brown.",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from the start to the end, not the place the trip finishes at."
+          "feedback": "Incorrect. Be is the base form and does not change for it; the correct form is is."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "explanation": "Para animales y cosas usamos \"it\", y con \"it\" va \"is\": \"It is brown\" (es café). \"Am\" es solo para I y \"are\" para you, we y they.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.72,
       "bundle_id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "It is Sunday. Complete: \"We ____ at school today.\"",
+      "context": "Es domingo en Medellín y los niños no van al colegio.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel."
+          "text": "isn't",
+          "is_correct": false,
+          "feedback": "Incorrect. Isn't is the negative for he, she and it; with we we use aren't."
         },
         {
           "letter": "B",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in."
+          "text": "aren't",
+          "is_correct": true,
+          "feedback": "Correct. Aren't is are + not, the negative for we: we aren't at school."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "am not",
           "is_correct": false,
-          "feedback": "'flight' is the journey by plane itself, not the containers that hold your things."
+          "feedback": "Incorrect. Am not is the negative only for I, not for we."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "not",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you make for a seat or a room, not the bag you carry."
+          "feedback": "Incorrect. Not alone is not enough; the sentence needs a form of to be like are + not."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Para negar con \"we\" usamos \"are not\", que se contrae como \"aren't\". Como es domingo, decimos \"We aren't at school today\" (hoy no estamos en el colegio).",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.68,
       "bundle_id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which question is correct?",
+      "context": "En el primer día de clases en Valledupar, un niño quiere saber quién es la profesora.",
       "options": [
         {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "Are she your teacher?",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all."
+          "feedback": "Incorrect. Are goes with you, we and they; she needs is."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "She your teacher is?",
           "is_correct": false,
-          "feedback": "'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle."
+          "feedback": "Incorrect. The word order is wrong: questions with to be start with the verb."
         },
         {
           "letter": "C",
-          "text": "tourist",
+          "text": "Is she your teacher?",
+          "is_correct": true,
+          "feedback": "Correct. Questions with to be put the verb first: Is she...?"
+        },
+        {
+          "letter": "D",
+          "text": "Am she your teacher?",
           "is_correct": false,
-          "feedback": "'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle."
+          "feedback": "Incorrect. Am is only for I, and the subject here is she."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Para preguntar con el verbo to be ponemos el verbo al inicio: \"Is she your teacher?\". Con \"she\" va \"is\"; \"am\" es solo para I y \"are\" para you, we, they.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.6,
       "bundle_id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Mom: \"Are you tired?\"\nFelipe: \"____\"",
+      "context": "Después de jugar en el parque en Ibagué, la mamá le pregunta a Felipe cómo se siente.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive."
+          "text": "Yes, you are.",
+          "is_correct": false,
+          "feedback": "Incorrect. Felipe talks about himself, so he must say I am, not you are."
         },
         {
           "letter": "B",
-          "text": "security",
+          "text": "Yes, I is.",
           "is_correct": false,
-          "feedback": "'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in."
+          "feedback": "Incorrect. I goes with am, so the short answer is Yes, I am."
         },
         {
           "letter": "C",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for your plane, not the place where your belongings are inspected."
+          "text": "No, I'm not.",
+          "is_correct": true,
+          "feedback": "Correct. The question is about Felipe, and I'm not is I am + not."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "No, I aren't.",
           "is_correct": false,
-          "feedback": "'gate' is the door at the plane you walk through to board, not the place where officials check your things."
+          "feedback": "Incorrect. Aren't is for we, you and they; with I the negative is I'm not."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Si te preguntan \"Are you...?\" respondes sobre ti: \"Yes, I am\" o \"No, I'm not\". \"I'm not\" es la forma corta de \"I am not\". Nunca decimos \"I is\" ni \"I aren't\".",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.56,
       "bundle_id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read Pablo's text: \"My name is Pablo. I am from Cali. My sisters is nine years old.\"\nHow do you correct the mistake?",
+      "context": "Pablo vive en Cali y escribe un texto corto sobre su familia para la clase de inglés.",
       "options": [
         {
-          "letter": "B",
-          "text": "boarding pass",
+          "letter": "A",
+          "text": "My sisters are nine years old.",
           "is_correct": true,
-          "feedback": "Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane."
+          "feedback": "Correct. Sisters is plural (they), so the verb must be are, not is."
         },
         {
-          "letter": "A",
-          "text": "visa",
+          "letter": "B",
+          "text": "I is from Cali.",
           "is_correct": false,
-          "feedback": "'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline."
+          "feedback": "Incorrect. \"I am from Cali\" was already correct; I goes with am, not is."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "My name are Pablo.",
           "is_correct": false,
-          "feedback": "'receipt' is the proof that you paid for something, which is not permission to board a plane."
+          "feedback": "Incorrect. \"My name is Pablo\" was already correct; name is one thing, so it uses is."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "I are from Cali.",
           "is_correct": false,
-          "feedback": "'brochure' is a leaflet with tourist information, not a travel document issued to a passenger."
+          "feedback": "Incorrect. I goes with am; are is for you, we and they."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "El error está en \"My sisters is\": \"sisters\" es plural (they), así que va \"are\": \"My sisters are nine years old\". Las frases \"My name is Pablo\" e \"I am from Cali\" ya estaban bien.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.5,
       "bundle_id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Tom and Lina are in Bogota. It is cold. Lina isn't happy because she is cold.\"\nWhich sentence is true and correct?",
+      "context": "Tom y Lina visitan Bogotá en julio y sienten mucho frío en Monserrate.",
       "options": [
         {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' means visiting the places of interest of a location as a traveler."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "Tom and Lina is in Bogota.",
           "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place."
+          "feedback": "Incorrect. Tom and Lina are two people, so the verb must be are, not is."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "It isn't cold.",
           "is_correct": false,
-          "feedback": "'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city."
+          "feedback": "Incorrect. The text says \"It is cold\", so saying it isn't cold is false."
+        },
+        {
+          "letter": "C",
+          "text": "Lina is happy.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says Lina isn't happy, so this sentence is false."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place."
+          "text": "Lina isn't happy.",
+          "is_correct": true,
+          "feedback": "Correct. The text says Lina isn't happy because she is cold."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "correct_answer": "D",
+      "explanation": "Hay que revisar dos cosas: si la oración dice lo mismo que el texto y si el verbo está bien. \"Lina isn't happy\" es verdadera y correcta. \"Tom and Lina is\" tiene error porque son dos personas.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.45,
       "bundle_id": "CO-ING-3-2026-W39-verb-to-be-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",

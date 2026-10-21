@@ -13,16 +13,16 @@
       "context": "Discussing health & bioethics in Cartagena.",
       "options": [
         {
-          "letter": "B",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
           "text": "alleviate",
           "is_correct": false,
           "feedback": "Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed."
+        },
+        {
+          "letter": "B",
+          "text": "exacerbate",
+          "is_correct": true,
+          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
         },
         {
           "letter": "C",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W25-health-bioethics-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on health & bioethics in Bucaramanga, what is implied about the role of Impersonal Passive in shaping public opinion?",
-      "context": "Discussing health & bioethics in Bucaramanga.",
+      "statement": "Read the text and answer the question.\n\n\"Since 2016, Colombian law says that every adult is a potential organ donor unless they register that they do not want to be one. Even so, doctors at a hospital in Bucaramanga noticed that many families still refused donation after a relative died. The reason was simple: the families did not know what the person had wanted. The hospital started a campaign called 'Talk about it at dinner', which encourages people to tell their families their decision. In the first year, the number of families that accepted donation rose from 40 to 65 per cent.\"\n\nWhat is the main idea of the text?",
+      "context": "A hospital bulletin from Bucaramanga about a new organ donation campaign.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. The impersonal passive is the point here: the impersonal passive hides who acts (\"It was decided that treatment should stop\"), so nobody owns the decision on the page, so the outcome is presented as settled procedure rather than as a personal choice. Reading that implication is what the question asks."
+          "letter": "A",
+          "text": "The 2016 law made organ donation compulsory for all families.",
+          "is_correct": false,
+          "feedback": "Incorrect. The law makes adults potential donors unless they register otherwise; it does not force families, and many still refused."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report makes this the core of its argument about public opinion, so declaring it irrelevant contradicts the text."
+          "letter": "B",
+          "text": "A campaign helped families know their relatives' wishes, and more families accepted donation.",
+          "is_correct": true,
+          "feedback": "Correct. The text identifies the problem (families did not know the person's wish), describes the campaign and reports the rise from 40 to 65 per cent."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Most families refuse donation because of religious reasons.",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the impersonal passive adds a layer of impersonal authority to the message rather than simplifying it."
+          "feedback": "Incorrect. The text gives a different reason: the families 'did not know what the person had wanted'. Religion is never mentioned."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bucaramanga.",
+          "text": "Doctors in Bucaramanga want to change the law on donation.",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report shows this pattern across media and discourse, not as something confined to one city's institutions."
+          "feedback": "Incorrect. The hospital started a communication campaign; the text says nothing about doctors trying to change the law."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "A main-idea question in an informative text often follows a problem-solution-result pattern. Here the problem is lack of family knowledge, the solution is a dinner-table conversation campaign, and the result is a higher acceptance rate. Options that focus on the law or invent a reason do not represent the whole text.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-11-2026-W25-health-bioethics-001-MASTERY-bundle-v6",
-      "statement": "According to a recent report on health & bioethics in Pereira, what is implied about the role of Impersonal Passive in shaping public opinion?",
-      "context": "Discussing health & bioethics in Pereira.",
+      "statement": "Read the text and answer the question.\n\n\"During my practice at a clinic in Pereira, I watched a doctor explain a surgery to an elderly patient. He spoke fast and used words like 'laparoscopy' and 'anaesthetic risk'. The patient nodded and signed the form. Afterwards, I asked her if she had any questions. She said, 'Not really, I didn't understand much, but the doctor knows best.' That moment changed how I see consent. A signature on a paper is not the same as understanding. Since then, I always ask patients to explain the procedure back to me in their own words.\"\n\nWhat can we infer about the writer's view of informed consent?",
+      "context": "An online forum post by a nursing student from Pereira about informed consent.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "Real consent requires that the patient actually understands the information.",
           "is_correct": true,
-          "feedback": "Correct. The impersonal passive is the point here: the impersonal passive hides who acts (\"It was decided that treatment should stop\"), so nobody owns the decision on the page, so the outcome is presented as settled procedure rather than as a personal choice. Reading that implication is what the question asks."
+          "feedback": "Correct. The writer concludes that 'A signature on a paper is not the same as understanding' and now checks understanding by asking patients to explain the procedure."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "A signed form is enough to show that a patient has given consent.",
           "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report makes this the core of its argument about public opinion, so declaring it irrelevant contradicts the text."
+          "feedback": "Incorrect. This is the idea the writer rejects after seeing that the patient signed without understanding."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Doctors should never use medical words with patients.",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the impersonal passive adds a layer of impersonal authority to the message rather than simplifying it."
+          "feedback": "Incorrect. The writer criticises the fast, technical explanation, but never says medical words must be avoided completely; the point is understanding."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Cartagena.",
+          "text": "Elderly patients should not be allowed to sign consent forms.",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report shows this pattern across media and discourse, not as something confined to one city's institutions."
+          "feedback": "Incorrect. The writer does not question the patient's right to sign; she questions whether the information was understood."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "To infer a writer's view, look for the turning point of a personal story. 'That moment changed how I see consent' introduces the new belief, and the next sentence states it directly. The new habit of asking patients to explain the procedure back confirms the inference, while the distractors exaggerate or reverse it.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -285,36 +285,36 @@
     },
     {
       "id": "CO-ING-11-2026-W25-health-bioethics-001-MASTERY-bundle-v7",
-      "statement": "According to a recent report on health & bioethics in Manizales, what is implied about the role of Impersonal Passive in shaping public opinion?",
-      "context": "Discussing health & bioethics in Manizales.",
+      "statement": "Read the text and answer the question.\n\n\"Thank you for your interest in our sleep study. Volunteers must be between 18 and 30 years old and must not take any regular medication. The study lasts four weeks. During this time, you will wear a small bracelet that records your sleep, and you will visit the laboratory every Friday for a short interview. You will receive 200,000 pesos at the end of the study. You can leave the study at any time without giving a reason, and you will still receive payment for the weeks you completed. All personal data will be kept confidential.\"\n\nWhat happens if a volunteer decides to leave the study after two weeks?",
+      "context": "Instructions from a Manizales university for volunteers in a medical study.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. The impersonal passive is the point here: the impersonal passive hides who acts (\"It was decided that treatment should stop\"), so nobody owns the decision on the page, so the outcome is presented as settled procedure rather than as a personal choice. Reading that implication is what the question asks."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "The volunteer must explain the reason to the university.",
           "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report makes this the core of its argument about public opinion, so declaring it irrelevant contradicts the text."
+          "feedback": "Incorrect. The text says volunteers can leave 'without giving a reason', so no explanation is required."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "The volunteer receives the full 200,000 pesos.",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the impersonal passive adds a layer of impersonal authority to the message rather than simplifying it."
+          "feedback": "Incorrect. The full amount is paid at the end of the complete study; a volunteer who leaves is paid only for the weeks completed."
+        },
+        {
+          "letter": "C",
+          "text": "The volunteer is paid for the two weeks completed.",
+          "is_correct": true,
+          "feedback": "Correct. The instructions say volunteers 'will still receive payment for the weeks you completed', so two completed weeks are paid."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bucaramanga.",
+          "text": "The volunteer must return the money already received.",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report shows this pattern across media and discourse, not as something confined to one city's institutions."
+          "feedback": "Incorrect. Nothing in the text mentions returning money; payment for completed weeks is guaranteed."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "This detail question depends on one sentence that contains two pieces of information: volunteers can leave without giving a reason, and they are paid for the completed weeks. The distractors each contradict half of that sentence or confuse it with the payment for the full study, so careful reading of the whole sentence is essential.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -331,36 +331,36 @@
     },
     {
       "id": "CO-ING-11-2026-W25-health-bioethics-001-MASTERY-bundle-v8",
-      "statement": "According to a recent report on health & bioethics in Medellín, what is implied about the role of Impersonal Passive in shaping public opinion?",
-      "context": "Discussing health & bioethics in Medellín.",
+      "statement": "Read the text and answer the question.\n\n\"Today anyone in Medellín can buy a genetic test online for less than a pair of good shoes. You send some saliva in a tube, and a few weeks later an app tells you about your ancestors and your risk of certain diseases. It sounds exciting, but I think buyers should be careful. A result that says 'high risk' can cause great anxiety, and no doctor is there to explain it. Also, few people read who will keep their genetic data. Before you buy, ask yourself one question: what will I do with this information?\"\n\nWhat is the writer's main purpose?",
+      "context": "An opinion article from a Medellín newspaper about genetic tests sold online.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. The impersonal passive is the point here: the impersonal passive hides who acts (\"It was decided that treatment should stop\"), so nobody owns the decision on the page, so the outcome is presented as settled procedure rather than as a personal choice. Reading that implication is what the question asks."
+          "letter": "A",
+          "text": "To advertise a cheap genetic test sold in Medellín.",
+          "is_correct": false,
+          "feedback": "Incorrect. The price comparison shows how easy the tests are to buy, but the writer warns against them instead of promoting them."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report makes this the core of its argument about public opinion, so declaring it irrelevant contradicts the text."
+          "letter": "B",
+          "text": "To warn readers about the risks of buying genetic tests without thinking.",
+          "is_correct": true,
+          "feedback": "Correct. The writer says 'buyers should be careful', lists two risks (anxiety without a doctor and data privacy) and ends with a question to make readers reflect."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "To explain the scientific process of analysing saliva.",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the impersonal passive adds a layer of impersonal authority to the message rather than simplifying it."
+          "feedback": "Incorrect. The text mentions sending saliva but gives no scientific explanation of how the analysis is done."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Barranquilla.",
+          "text": "To prove that genetic tests always give false results.",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report shows this pattern across media and discourse, not as something confined to one city's institutions."
+          "feedback": "Incorrect. The writer never says the results are false; the concern is how people interpret them and what happens to the data."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Signals such as 'I think buyers should be careful' and the final direct question to the reader show that the article is a warning. The description of the test at the beginning sets the context, but the writer's purpose appears in the evaluation and advice that follow it.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -377,36 +377,36 @@
     },
     {
       "id": "CO-ING-11-2026-W25-health-bioethics-001-MASTERY-bundle-v9",
-      "statement": "According to a recent report on health & bioethics in Bogotá, what is implied about the role of Impersonal Passive in shaping public opinion?",
-      "context": "Discussing health & bioethics in Bogotá.",
+      "statement": "Read the text and answer the question.\n\n\"Last Saturday, a health brigade from Bogotá visited three villages in Sumapaz to vaccinate children and older adults. The roads are long and narrow, so the team travelled on horses for part of the way, carrying the vaccines in special cool boxes. Before the visit, local radio stations announced the dates, and community leaders went from house to house to explain why the vaccines were important. Thanks to this preparation, the brigade vaccinated 340 people in one day, almost double the number of the previous visit. The brigade will return in six months.\"\n\nIn the text, the word 'brigade' is closest in meaning to...",
+      "context": "A short report about a vaccination brigade in a rural area near Bogotá.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "an organised team that works together on a task.",
           "is_correct": true,
-          "feedback": "Correct. The impersonal passive is the point here: the impersonal passive hides who acts (\"It was decided that treatment should stop\"), so nobody owns the decision on the page, so the outcome is presented as settled procedure rather than as a personal choice. Reading that implication is what the question asks."
+          "feedback": "Correct. The 'brigade' travels, carries vaccines and vaccinates people; the text also calls it 'the team', which confirms that it is an organised group."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "a type of vaccine for older adults.",
           "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report makes this the core of its argument about public opinion, so declaring it irrelevant contradicts the text."
+          "feedback": "Incorrect. The brigade transports and gives the vaccines, so it cannot be a vaccine itself."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "a narrow road in the mountains.",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the impersonal passive adds a layer of impersonal authority to the message rather than simplifying it."
+          "feedback": "Incorrect. The roads are described separately as 'long and narrow'; the brigade is what travels on them."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bogotá.",
+          "text": "a radio programme about health.",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report shows this pattern across media and discourse, not as something confined to one city's institutions."
+          "feedback": "Incorrect. Radio stations announced the visit, but the brigade is the group that visited the villages."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "To guess the meaning of a word, look for synonyms nearby and for the actions connected to it. The text says 'the team travelled on horses', referring to the same group, and the brigade performs actions such as visiting and vaccinating. These clues point to an organised group, not an object or a place.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -473,16 +473,16 @@
       "context": "Discussing health & bioethics in Cali.",
       "options": [
         {
-          "letter": "B",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
           "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
+        },
+        {
+          "letter": "B",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
         },
         {
           "letter": "C",
@@ -699,36 +699,36 @@
     },
     {
       "id": "CO-ING-11-2026-W25-health-bioethics-001-MASTERY-bundle-v16",
-      "statement": "Complete the following sentence about health & bioethics: 'Only after the participants were told what the placebo contained __________ the side effects be reported honestly.' (Topic: 'only after' with an inverted clause)",
+      "statement": "Complete the following sentence about health & bioethics: 'Only after the participants were told what the placebo contained __________ the side effects reported honestly.' (Topic: 'only after' with an inverted passive clause)",
       "context": "Discussing health & bioethics in Barranquilla.",
       "options": [
         {
           "letter": "A",
-          "text": "had",
+          "text": "did",
           "is_correct": false,
-          "feedback": "'Only after' frontes a subordinate clause and then inverts the main clause, so the auxiliary has to precede the subject 'the side effects'."
+          "feedback": "Incorrect. 'Did' must be followed by a base verb, but here the verb is the participle 'reported'; 'did the side effects reported' mixes do-support with a passive."
         },
         {
           "letter": "B",
-          "text": "were",
+          "text": "was",
           "is_correct": false,
-          "feedback": "'Were' would be needed for a second passive auxiliary, but the main clause is already passive as 'be reported' and cannot take another."
+          "feedback": "Incorrect. 'Was' is the right auxiliary type, but it is singular; the subject 'the side effects' is plural, so it needs 'were'."
         },
         {
           "letter": "C",
-          "text": "could",
+          "text": "has",
           "is_correct": false,
-          "feedback": "'Could' is a modal and would not invert this past sequence; the tense auxiliary of the clause has to be the one that is fronted."
+          "feedback": "Incorrect. 'Has' is singular and present, while the subject is plural and the time is past ('were told'); 'has the side effects reported' also reads as an active verb."
         },
         {
           "letter": "D",
-          "text": "did",
+          "text": "were",
           "is_correct": true,
-          "feedback": "'Only after the participants were told did the side effects be reported'. The auxiliary is fronted ahead of the subject while the passive main clause keeps its own verb form."
+          "feedback": "Correct. After 'only after' the main clause inverts, and a passive inverts its own auxiliary: 'the side effects were reported' becomes 'were the side effects reported'. 'Were' also agrees with the plural subject."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Inversion after 'only after' places the auxiliary before the subject of the main clause, so the sequence is 'did the side effects be reported'. The main clause is itself passive, and the fronted auxiliary does not change that voice; it only reorders the elements so that the verb precedes its subject.\n\n---",
+      "explanation": "When a negative or restrictive adverbial such as 'only after' opens a sentence, the main clause takes question word order. If the clause is passive, the auxiliary 'be' moves before the subject, so 'the side effects were reported' becomes 'were the side effects reported'. Do-support is only used when there is no other auxiliary.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -749,32 +749,32 @@
       "context": "Discussing health & bioethics in Cartagena.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
           "text": "They are literally looking for something in the trees of Cartagena.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads the idiom word for word; nobody in the debate is searching any trees, because the phrase is figurative and describes a mistaken strategy."
         },
         {
           "letter": "B",
           "text": "The approach is too noisy and aggressive.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. 'Barking' here does not describe loud or aggressive behaviour; the idiom is about aiming at the wrong target, not about the tone of the discussion."
         },
         {
           "letter": "C",
           "text": "A new environmental project involving trees should be started.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The speaker is criticising the current approach, not proposing a new project; 'tree' is part of a fixed expression and has no literal meaning here."
+        },
+        {
+          "letter": "D",
+          "text": "The current strategy is directed towards the wrong objective.",
+          "is_correct": true,
+          "feedback": "Correct. 'Bark up the wrong tree' comes from hunting dogs barking at a tree the animal is not in, so it means putting effort into the wrong cause or the wrong solution."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'To bark up the wrong tree' means to look for a cause or a solution in the wrong place. The words 'with this approach' show that the speaker is questioning the strategy itself, so only the figurative reading fits; the literal options ignore that an idiom is a fixed expression whose meaning is not the sum of its words.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-ING-11-2026-W25-health-bioethics-001-MASTERY-bundle-v18",
-      "statement": "In a high-level debate about health & bioethics, Lucía says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Lucía mean?",
-      "context": "Discussing health & bioethics in Bucaramanga.",
+      "statement": "Two medical students in Bucaramanga talk about their classmate.\n\nNatalia: 'Is Julián coming to the ethics seminar tonight?'\nMiguel: 'I don't think so. He has been under the weather since Monday.'\n\nWhat does Miguel mean?",
+      "context": "A conversation between two medical students in Bucaramanga about a classmate.",
       "options": [
         {
-          "letter": "C",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Manizales.",
+          "text": "Julián is outside in the rain.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This interprets 'weather' literally; the idiom describes a person's health, not their location."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Julián is studying meteorology instead of medicine.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. Nothing in the dialogue mentions a change of studies; 'weather' is part of a fixed expression."
+        },
+        {
+          "letter": "C",
+          "text": "Julián has been feeling ill for a few days.",
+          "is_correct": true,
+          "feedback": "Correct. 'Under the weather' means slightly sick; 'since Monday' shows the illness has lasted some days, which explains why he will not come."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Julián is very happy and wants to celebrate.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. Miguel explains why Julián will probably not attend, which suggests a problem, not a happy mood."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Under the weather' is an informal way of saying that someone feels slightly ill. The context helps: Miguel gives a reason why Julián will not come, and 'since Monday' indicates a temporary condition. Idioms about health are frequent in everyday conversation and appear in reading tasks at B1 level.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -837,36 +837,36 @@
     },
     {
       "id": "CO-ING-11-2026-W25-health-bioethics-001-MASTERY-bundle-v19",
-      "statement": "In a high-level debate about health & bioethics, Daniela says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Daniela mean?",
-      "context": "Discussing health & bioethics in Manizales.",
+      "statement": "At a hospital ethics committee meeting in Manizales, two members discuss a new research proposal.\n\nDr. Gómez: 'The researchers want to start next week, but they haven't explained how they will protect patients' data.'\nDr. Salazar: 'Then we should put the proposal on hold until they send that information.'\n\nWhat does Dr. Salazar suggest?",
+      "context": "A meeting of a hospital ethics committee in Manizales.",
       "options": [
         {
           "letter": "A",
-          "text": "The current strategy is directed towards the wrong objective.",
+          "text": "Delaying the decision on the proposal until the missing information arrives.",
           "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "feedback": "Correct. 'Put something on hold' means to stop it temporarily; 'until they send that information' shows that the delay depends on the missing data plan."
         },
         {
           "letter": "B",
-          "text": "They are literally looking for something in the trees of Manizales.",
+          "text": "Rejecting the proposal permanently.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. 'On hold' is temporary, and 'until' shows the committee will reconsider when the information arrives."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Approving the proposal so it can start next week.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. Dr. Salazar responds to a problem by stopping the process, which is the opposite of approving it."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Calling the researchers on the telephone and waiting on the line.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. This confuses the idiom with 'being on hold' during a phone call; here it refers to suspending a proposal."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Put something on hold' means to postpone it for a while. In formal meetings, speakers use this expression to suspend a decision without rejecting it. The conjunction 'until' introduces the condition for continuing, which distinguishes a temporary delay from a final refusal.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -883,36 +883,36 @@
     },
     {
       "id": "CO-ING-11-2026-W25-health-bioethics-001-MASTERY-bundle-v20",
-      "statement": "In a high-level debate about health & bioethics, Valentina says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Valentina mean?",
-      "context": "Discussing health & bioethics in Medellín.",
+      "statement": "A customer in a Medellín pharmacy wants to buy antibiotics.\n\nCustomer: 'I'd like a box of antibiotics for my cold, please.'\nPharmacist: 'I'm sorry, I can't sell them without a prescription. Besides, antibiotics don't work against colds, which are caused by viruses.'\n\nWhat is the pharmacist doing?",
+      "context": "A conversation between a pharmacist and a customer in Medellín.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Bucaramanga.",
+          "text": "Recommending a stronger antibiotic for the cold.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. The pharmacist explains that antibiotics do not work against colds, so recommending another antibiotic would contradict her."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Agreeing to sell the antibiotics at a lower price.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. She clearly says she can't sell them without a prescription, and price is never discussed."
         },
         {
           "letter": "C",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Accusing the customer of lying about the cold.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. She accepts that the customer has a cold and explains the medical facts; there is no accusation in her answer."
+        },
+        {
+          "letter": "D",
+          "text": "Politely refusing the request and giving a medical reason.",
+          "is_correct": true,
+          "feedback": "Correct. 'I'm sorry, I can't...' is a polite refusal, and the second sentence adds a reason: antibiotics do not act on viruses."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "This pragmatic item focuses on the speech act of refusing politely. English speakers often combine an apology ('I'm sorry'), a statement of inability ('I can't') and a reason ('Besides, antibiotics don't work...'). Recognising these steps helps students interpret the speaker's intention, not only the literal words.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

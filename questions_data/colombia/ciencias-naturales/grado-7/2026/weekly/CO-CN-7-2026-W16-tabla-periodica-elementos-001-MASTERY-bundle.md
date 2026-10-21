@@ -38,6 +38,7 @@ Este bundle de dominio desarrolla la organización de la tabla periódica en gru
   <!-- feedback: Incorrecta, porque la tabla no muestra vías ni municipios. -->
 - [ ] D) Un cuaderno de asistencia donde se anotan las fallas de los estudiantes.
   <!-- feedback: Incorrecta, porque la tabla registra elementos como oxígeno e hierro, no asistencia. -->
+
 ### Explicacion Pedagogica
 La tabla reúne más de cien elementos ordenados de izquierda a derecha por su número atómico. Los que quedan en la misma columna se parecen en su comportamiento químico. Es como el directorio del colegio: cada casilla tiene símbolo, número y masa.
 
@@ -58,6 +59,7 @@ La tabla reúne más de cien elementos ordenados de izquierda a derecha por su n
   <!-- feedback: Incorrecta, porque usa una categoría imaginaria sin base química. -->
 - [ ] D) No hay diferencia porque todas las casillas son idénticas en la tabla.
   <!-- feedback: Incorrecta, porque sodio y cloro en distinto grupo reaccionan muy distinto. -->
+
 ### Explicacion Pedagogica
 Las 18 columnas son grupos: comparten electrones externos y por eso el sodio y el potasio reaccionan parecido. Las 7 filas son periodos: indican cuántos niveles de energía tiene el átomo. Bajar en un grupo aumenta el tamaño y moverse en un periodo cambia el carácter metálico.
 
@@ -78,6 +80,7 @@ Las 18 columnas son grupos: comparten electrones externos y por eso el sodio y e
   <!-- feedback: Correcta, porque reúne brillo, conductividad, maleabilidad y ductilidad. -->
 - [ ] D) Porque son gases que se respiran en la ferretería.
   <!-- feedback: Incorrecta, porque a temperatura ambiente ambos son sólidos. -->
+
 ### Explicacion Pedagogica
 Los metales ocupan la izquierda y el centro de la tabla. El cobre lleva la luz a las casas de Bucaramanga porque conduce muy bien. El aluminio es liviano y se lamina para marcos y ollas. Esas propiedades los delatan como metales frente a no metales como el azufre.
 
@@ -98,6 +101,7 @@ Los metales ocupan la izquierda y el centro de la tabla. El cobre lleva la luz a
   <!-- feedback: Incorrecta, porque el aire tiene cerca de veintiún por ciento de oxígeno. -->
 - [ ] D) Porque solo sirve para inflar balones de fiesta y nada más.
   <!-- feedback: Incorrecta, porque los balones usan aire común y el oxígeno sostiene la vida. -->
+
 ### Explicacion Pedagogica
 Los no metales están a la derecha de la tabla. El oxígeno no brilla, es mal conductor y forma moléculas que respiramos. En Cali y en todo el mundo sostiene la respiración celular que libera energía de los alimentos y permite el fuego controlado.
 
@@ -118,6 +122,7 @@ Los no metales están a la derecha de la tabla. El oxígeno no brilla, es mal co
   <!-- feedback: Incorrecta, porque confunde categorías químicas con alimentos. -->
 - [ ] D) Que el oro y el hierro son el mismo elemento con distinto color.
   <!-- feedback: Incorrecta, porque tienen distinto número atómico y propiedades. -->
+
 ### Explicacion Pedagogica
 El oro está entre los metales que casi no reaccionan: no se mancha y brilla por años, ideal para joyas. El hierro es fuerte y barato para picas y vigas, pero se oxida con agua y aire y por eso se pinta. La tabla anticipa esa reactividad según el grupo.
 
@@ -138,6 +143,7 @@ El oro está entre los metales que casi no reaccionan: no se mancha y brilla por
   <!-- feedback: Incorrecta, porque los alcalinos son muy reactivos, lo contrario de los nobles. -->
 - [ ] D) Porque el agua de Tunja es mágica y hace explotar cualquier metal.
   <!-- feedback: Incorrecta, porque con cobre o aluminio el agua fría casi no reacciona. -->
+
 ### Explicacion Pedagogica
 El grupo uno comparte un solo electrón externo que desea ceder. Al bajar en la columna, el átomo es más grande y el núcleo atrae menos a ese electrón lejano, así que lo pierde más fácil y la reacción con agua es más viva. Por eso se guardan en aceite, lejos del agua.
 
@@ -158,6 +164,7 @@ El grupo uno comparte un solo electrón externo que desea ceder. Al bajar en la 
   <!-- feedback: Incorrecta, porque intercambia los grupos de cada elemento. -->
 - [ ] D) Los tres son metales líquidos iguales al mercurio de los termómetros.
   <!-- feedback: Incorrecta, porque sodio y magnesio son sólidos y el cloro es gas. -->
+
 ### Explicacion Pedagogica
 Leer etiquetas conecta la casa con la tabla. El sodio blando del grupo uno se une con el cloro agresivo del grupo diecisiete para dar sal estable. El magnesio del grupo dos forma bases suaves contra la acidez. La posición anticipa quién cede y quién recibe electrones.
 
@@ -178,6 +185,7 @@ Leer etiquetas conecta la casa con la tabla. El sodio blando del grupo uno se un
   <!-- feedback: Incorrecta, porque el cobre sí se oxida y conduce como metal. -->
 - [ ] D) Silicio es gas, cobre es líquido y helio es sólido a temperatura ambiente.
   <!-- feedback: Incorrecta, porque invierte los estados reales de los tres. -->
+
 ### Explicacion Pedagogica
 El cobre lleva corriente completa, el silicio la deja pasar a medias y por eso sirve en chips, y el helio casi no reacciona y por eso infla globos seguros. Esa escalera metal, metaloide y no metal noble muestra la lógica horizontal y vertical de la tabla.
 
@@ -192,12 +200,13 @@ El cobre lleva corriente completa, el silicio la deja pasar a medias y por eso s
 ### Opciones
 - [ ] A) Las muestras puras porque los niños de séptimo ya manejan sodio explosivo sin riesgo en Quibdó.
   <!-- feedback: Incorrecta, porque sodio y cloro puros son peligrosos sin campana ni entrenamiento. -->
-- [x] B) La tabla interactiva porque es segura, muestra grupos y periodos y deja repetir simulaciones sin gastar reactivos.
-  <!-- feedback: Correcta, porque pondera seguridad, pedagogía y costo frente al riesgo. -->
+- [ ] B) Las muestras puras porque los 15000000 de pesos crean un escudo contra accidentes.
+  <!-- feedback: Incorrecta, porque el dinero no neutraliza la reactividad química. -->
 - [ ] C) Ninguna porque en Quibdó está prohibido enseñar la tabla periódica en séptimo.
   <!-- feedback: Incorrecta, porque los DBA piden tabla y elementos en este ciclo. -->
-- [ ] D) Las muestras puras porque los 15000000 de pesos crean un escudo contra accidentes.
-  <!-- feedback: Incorrecta, porque el dinero no neutraliza la reactividad química. -->
+- [x] D) La tabla interactiva porque es segura, muestra grupos y periodos y deja repetir simulaciones sin gastar reactivos.
+  <!-- feedback: Correcta, porque pondera seguridad, pedagogía y costo frente al riesgo. -->
+
 ### Explicacion Pedagogica
 Evaluar exige poner la vida primero. El sodio arde con agua y el cloro irrita los pulmones. La tabla interactiva deja ubicar grupos, comparar metales y simular uniones sin peligro y sirve por años. Las muestras puras solo convienen en bachillerato con laboratorio equipado.
 
@@ -218,5 +227,6 @@ Evaluar exige poner la vida primero. El sodio arde con agua y el cloro irrita lo
   <!-- feedback: Incorrecta, porque Ag es plata por argentum, no agua. -->
 - [ ] D) Solo es cierta la del agua, porque Or fue aprobado como símbolo nuevo del oro.
   <!-- feedback: Incorrecta, porque ningún organismo cambió Au por Or. -->
+
 ### Explicacion Pedagogica
 Los símbolos vienen del latín y son universales: Au de aurum para el oro, Ag de argentum para la plata, Na de natrium para el sodio. El agua no tiene casilla porque es un compuesto de hidrógeno y oxígeno. La cadena de Cúcuta confunde pronunciación con nomenclatura oficial.

@@ -34,14 +34,14 @@ Trabalenguas y juegos de palabras colombianos: ritmo, rima y significado.
 ¿Qué es un trabalenguas?
 
 ### Opciones
-- [x] D) Un texto breve con sonidos parecidos que se repiten y dificultan la pronunciación.
-  <!-- feedback: El trabalenguas repite sonidos similares para poner a prueba la dicción. -->
 - [ ] A) Un cuento largo con muchos personajes y capítulos.
   <!-- feedback: Un cuento largo no es un trabalenguas; su extensión y estructura son distintas. -->
 - [ ] B) Una noticia sobre deportes internacionales.
   <!-- feedback: La noticia informa hechos reales y no busca dificultar la pronunciación. -->
 - [ ] C) Una receta de cocina con ingredientes y pasos.
   <!-- feedback: La receta indica cómo preparar un plato, no juega con los sonidos. -->
+- [x] D) Un texto breve con sonidos parecidos que se repiten y dificultan la pronunciación.
+  <!-- feedback: El trabalenguas repite sonidos similares para poner a prueba la dicción. -->
 
 ### Explicacion Pedagogica
 Reconocer las características básicas de un trabalenguas y su función con los sonidos.
@@ -57,12 +57,12 @@ Reconocer las características básicas de un trabalenguas y su función con los
 ¿Cuál es el propósito principal de los juegos de palabras?
 
 ### Opciones
-- [x] C) Entretener y explorar los sonidos y significados del lenguaje.
-  <!-- feedback: Los juegos de palabras combinan diversión con exploración del lenguaje. -->
 - [ ] A) Informar sobre el clima de una región.
   <!-- feedback: El pronóstico del clima no es un juego de palabras. -->
 - [ ] B) Ordenar pasos para armar un mueble.
   <!-- feedback: Las instrucciones de armado no buscan el doble sentido ni el ritmo. -->
+- [x] C) Entretener y explorar los sonidos y significados del lenguaje.
+  <!-- feedback: Los juegos de palabras combinan diversión con exploración del lenguaje. -->
 - [ ] D) Registrar datos de un experimento científico.
   <!-- feedback: Un registro científico usa lenguaje preciso, no juegos de palabras. -->
 
@@ -103,12 +103,12 @@ Aplicar el reconocimiento de la repetición de sonidos como recurso del trabalen
 ¿Cuál oración funciona mejor como trabalenguas?
 
 ### Opciones
-- [x] C) "El perro de Ramón corre rápido por el río y rodó."
-  <!-- feedback: Repite el sonido de la "r" en varias palabras seguidas, como pide un trabalenguas. -->
 - [ ] A) "El gato duerme tranquilo sobre el sofá."
   <!-- feedback: No hay repetición de sonidos que dificulte la pronunciación. -->
 - [ ] B) "La suma de tres más cuatro es igual a siete."
   <!-- feedback: Es una operación matemática, no un juego con sonidos. -->
+- [x] C) "El perro de Ramón corre rápido por el río y rodó."
+  <!-- feedback: Repite el sonido de la "r" en varias palabras seguidas, como pide un trabalenguas. -->
 - [ ] D) "Mañana iremos al parque con nuestros abuelos."
   <!-- feedback: La oración es clara y sin sonidos repetidos que la vuelvan difícil. -->
 
@@ -126,14 +126,14 @@ Aplicar la repetición de sonidos al crear un trabalenguas propio.
 ¿Cómo se puede mejorar la pronunciación de un trabalenguas?
 
 ### Opciones
-- [x] D) Practicando lentamente y aumentando la velocidad poco a poco.
-  <!-- feedback: La práctica gradual permite dominar los sonidos difíciles antes de acelerar. -->
 - [ ] A) Leyéndolo una sola vez muy rápido sin revisar.
   <!-- feedback: Leer rápido sin práctica aumenta los errores de pronunciación. -->
 - [ ] B) Cambiando todas las palabras por números.
   <!-- feedback: Sustituir palabras por números elimina los sonidos que se quieren practicar. -->
 - [ ] C) Evitando repetir cualquier sonido parecido.
   <!-- feedback: Evitar la repetición quita lo esencial del trabalenguas. -->
+- [x] D) Practicando lentamente y aumentando la velocidad poco a poco.
+  <!-- feedback: La práctica gradual permite dominar los sonidos difíciles antes de acelerar. -->
 
 ### Explicacion Pedagogica
 Aplicar estrategias de práctica oral para mejorar la dicción al leer trabalenguas.
@@ -172,10 +172,10 @@ Analizar la función de la repetición de sonidos al comparar un trabalenguas co
 ¿Por qué la frase anterior es un juego de palabras?
 
 ### Opciones
-- [x] A) Porque usa "tiempo" con dos sentidos: tiempo cronológico y funcionamiento del reloj.
-  <!-- feedback: El doble sentido de "tiempo" produce el efecto humorístico del juego de palabras. -->
-- [ ] B) Porque la frase contiene una operación matemática.
+- [ ] A) Porque la frase contiene una operación matemática.
   <!-- feedback: No hay operaciones matemáticas en la frase. -->
+- [x] B) Porque usa "tiempo" con dos sentidos: tiempo cronológico y funcionamiento del reloj.
+  <!-- feedback: El doble sentido de "tiempo" produce el efecto humorístico del juego de palabras. -->
 - [ ] C) Porque describe un paisaje con muchos detalles.
   <!-- feedback: La frase habla de un reloj, no describe un paisaje. -->
 - [ ] D) Porque repite la misma palabra sin cambiar de significado.
@@ -195,12 +195,12 @@ Analizar el doble sentido como recurso central de los juegos de palabras.
 ¿Por qué es valioso practicar trabalenguas y juegos de palabras en la escuela?
 
 ### Opciones
-- [x] C) Porque mejoran la dicción, la conciencia de los sonidos y la creatividad con el lenguaje.
-  <!-- feedback: Estas prácticas fortalecen la expresión oral y la relación con los sonidos. -->
 - [ ] A) Porque no aportan ningún beneficio al desarrollo del lenguaje.
   <!-- feedback: Sí aportan beneficios claros a la dicción y a la creatividad. -->
 - [ ] B) Porque reemplazan por completo la lectura de libros.
   <!-- feedback: Complementan la lectura, pero no la reemplazan. -->
+- [x] C) Porque mejoran la dicción, la conciencia de los sonidos y la creatividad con el lenguaje.
+  <!-- feedback: Estas prácticas fortalecen la expresión oral y la relación con los sonidos. -->
 - [ ] D) Porque solo sirven para competir sin aprender nada.
   <!-- feedback: La competencia es una excusa lúdica; siempre hay aprendizaje. -->
 

@@ -875,9 +875,9 @@
         },
         {
           "letter": "B",
-          "text": "sen x",
-          "is_correct": true,
-          "feedback": "Correto: como 1 − cos²x = sen²x, a expressão vale sen²x/sen x = sen x."
+          "text": "1/sen x",
+          "is_correct": false,
+          "feedback": "Incorreto: esse é o resultado se o numerador fosse 1 + cos²x."
         },
         {
           "letter": "C",
@@ -887,12 +887,12 @@
         },
         {
           "letter": "D",
-          "text": "1/sen x",
-          "is_correct": false,
-          "feedback": "Incorreto: esse é o resultado se o numerador fosse 1 + cos²x."
+          "text": "sen x",
+          "is_correct": true,
+          "feedback": "Correto: como 1 − cos²x = sen²x, a expressão vale sen²x/sen x = sen x."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Usando a relação fundamental, 1 − cos²x = sen²x. Substituindo, a expressão se torna sen²x/sen x = sen x, válida para sen x ≠ 0.",
       "difficulty": "10",
       "images": [],

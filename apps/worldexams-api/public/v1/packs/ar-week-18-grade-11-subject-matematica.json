@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v1",
-      "statement": "Dada la recta $R_1: y = 3x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
-      "context": "Geometría analítica de rectas en el plano Caso N° 1.",
+      "statement": "¿Cuál es la pendiente de la recta que pasa por $A$ y $B$?",
+      "context": "En un plano cuadriculado del centro de Rosario, dos esquinas tienen coordenadas $A(1, 2)$ y $B(4, 11)$ (en cuadras).",
       "options": [
         {
-          "letter": "D",
-          "text": "$m_2 = 3$",
-          "is_correct": true,
-          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
-        },
-        {
           "letter": "A",
-          "text": "$m_2 = -3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+          "text": "$3$",
+          "is_correct": true,
+          "feedback": "Correcto. $m = \\frac{11 - 2}{4 - 1} = \\frac{9}{3} = 3$."
         },
         {
           "letter": "B",
-          "text": "$m_2 = -\\frac{1}{3}$",
+          "text": "$\\frac{1}{3}$",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+          "feedback": "Incorrecto. Se invirtió el cociente: la pendiente es $\\frac{\\Delta y}{\\Delta x}$, no $\\frac{\\Delta x}{\\Delta y}$."
         },
         {
           "letter": "C",
-          "text": "$m_2 = \\frac{1}{3}$",
+          "text": "$-3$",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+          "feedback": "Incorrecto. Se restó en distinto orden arriba y abajo, $\\frac{11 - 2}{1 - 4}$; ambas diferencias deben tomarse en el mismo orden."
+        },
+        {
+          "letter": "D",
+          "text": "$9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. 9 es solo la variación vertical $\\Delta y$; falta dividir por la variación horizontal $\\Delta x = 3$."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 3$.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La pendiente entre dos puntos es $m = \\frac{y_2 - y_1}{x_2 - x_1}$. Con $A(1, 2)$ y $B(4, 11)$: $m = \\frac{11 - 2}{4 - 1} = \\frac{9}{3} = 3$. Significa que por cada cuadra hacia la derecha, la recta sube 3 cuadras.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.9,
+      "expected_success": 0.85,
       "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -54,130 +54,40 @@
     },
     {
       "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v2",
-      "statement": "Dada la recta $R_1: y = 4x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
-      "context": "Geometría analítica de rectas en el plano Caso N° 2.",
+      "statement": "¿Cuáles son la pendiente y la ordenada al origen de esa recta?",
+      "context": "Una aplicación de Córdoba representa el nivel de batería de un celular con la recta $y = -2x + 5$, donde $x$ son horas de uso.",
       "options": [
         {
-          "letter": "B",
-          "text": "$m_2 = 4$",
-          "is_correct": true,
-          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+          "letter": "A",
+          "text": "Pendiente $5$ y ordenada al origen $-2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se intercambiaron los roles: en $y = mx + b$ la pendiente es el coeficiente de $x$, que es $-2$."
         },
         {
-          "letter": "A",
-          "text": "$m_2 = -4$",
+          "letter": "B",
+          "text": "Pendiente $2$ y ordenada al origen $5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+          "feedback": "Incorrecto. El signo de la pendiente es parte del coeficiente: es $-2$, lo que indica que la batería disminuye."
         },
         {
           "letter": "C",
-          "text": "$m_2 = -\\frac{1}{4}$",
+          "text": "Pendiente $-2$ y ordenada al origen $\\frac{5}{2}$",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+          "feedback": "Incorrecto. $\\frac{5}{2}$ es la abscisa al origen (donde $y = 0$); la ordenada al origen es el valor de $y$ cuando $x = 0$, que es 5."
         },
         {
           "letter": "D",
-          "text": "$m_2 = \\frac{1}{4}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+          "text": "Pendiente $-2$ y ordenada al origen $5$",
+          "is_correct": true,
+          "feedback": "Correcto. En la forma explícita $y = mx + b$, $m = -2$ y $b = 5$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 4$.\n\n---",
+      "correct_answer": "D",
+      "explanation": "La forma explícita de la recta es $y = mx + b$, donde $m$ es la pendiente y $b$ la ordenada al origen, el valor de $y$ cuando $x = 0$. En $y = -2x + 5$ resulta $m = -2$ (la batería baja 2 unidades por hora) y $b = 5$ (carga inicial). La recta corta al eje $x$ en $x = \\frac{5}{2}$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.88,
-      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v3",
-      "statement": "Dada la recta $R_1: y = 5x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
-      "context": "Geometría analítica de rectas en el plano Caso N° 3.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "$m_2 = 5$",
-          "is_correct": true,
-          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
-        },
-        {
-          "letter": "A",
-          "text": "$m_2 = -5$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
-        },
-        {
-          "letter": "B",
-          "text": "$m_2 = -\\frac{1}{5}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
-        },
-        {
-          "letter": "D",
-          "text": "$m_2 = \\frac{1}{5}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente recíproca."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 5$.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.86,
-      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v4",
-      "statement": "Dada la recta $R_1: y = 6x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
-      "context": "Geometría analítica de rectas en el plano Caso N° 4.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "$m_2 = 6$",
-          "is_correct": true,
-          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
-        },
-        {
-          "letter": "A",
-          "text": "$m_2 = -6$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
-        },
-        {
-          "letter": "B",
-          "text": "$m_2 = -\\frac{1}{6}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
-        },
-        {
-          "letter": "D",
-          "text": "$m_2 = \\frac{1}{6}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente recíproca."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 6$.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
       "expected_success": 0.84,
       "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 18,
@@ -188,38 +98,38 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v5",
-      "statement": "Dada la recta $R_1: y = 7x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
-      "context": "Geometría analítica de rectas en el plano Caso N° 5.",
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la pendiente de una recta perpendicular a $2x - 3y + 6 = 0$?",
+      "context": "Un topógrafo de Neuquén traza un camino sobre la recta $2x - 3y + 6 = 0$ y necesita otro camino perpendicular a él.",
       "options": [
         {
-          "letter": "D",
-          "text": "$m_2 = 7$",
-          "is_correct": true,
-          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
-        },
-        {
           "letter": "A",
-          "text": "$m_2 = -7$",
+          "text": "$\\frac{2}{3}$",
           "is_correct": false,
-          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+          "feedback": "Incorrecto. $\\frac{2}{3}$ es la pendiente de la recta dada; una perpendicular necesita la inversa opuesta."
         },
         {
           "letter": "B",
-          "text": "$m_2 = -\\frac{1}{7}$",
+          "text": "$\\frac{3}{2}$",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+          "feedback": "Incorrecto. Se invirtió la pendiente pero no se cambió el signo; el producto $\\frac{2}{3} \\cdot \\frac{3}{2} = 1$, no $-1$."
         },
         {
           "letter": "C",
-          "text": "$m_2 = \\frac{1}{7}$",
+          "text": "$-\\frac{3}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Despejando, $y = \\frac{2}{3}x + 2$, y la perpendicular tiene pendiente $-\\frac{1}{m} = -\\frac{3}{2}$."
+        },
+        {
+          "letter": "D",
+          "text": "$-\\frac{2}{3}$",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+          "feedback": "Incorrecto. Se cambió el signo sin invertir; el producto $\\frac{2}{3} \\cdot (-\\frac{2}{3}) = -\\frac{4}{9}$ no es $-1$."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 7$.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "Primero se despeja $y$: $3y = 2x + 6$, o sea $y = \\frac{2}{3}x + 2$, con pendiente $m = \\frac{2}{3}$. Dos rectas no verticales son perpendiculares si el producto de sus pendientes es $-1$, así que $m_\\perp = -\\frac{3}{2}$. Comprobación: $\\frac{2}{3} \\cdot (-\\frac{3}{2}) = -1$.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -233,41 +143,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v6",
-      "statement": "Dada la recta $R_1: y = 8x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
-      "context": "Geometría analítica de rectas en el plano Caso N° 6.",
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la ecuación de la recta que contiene a ambos postes?",
+      "context": "En el mapa de un campo de La Pampa, dos postes de un alambrado están en $(4, -1)$ y $(4, 7)$.",
       "options": [
         {
-          "letter": "C",
-          "text": "$m_2 = 8$",
-          "is_correct": true,
-          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
-        },
-        {
           "letter": "A",
-          "text": "$m_2 = -8$",
+          "text": "$y = 4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+          "feedback": "Incorrecto. $y = 4$ es una recta horizontal; aquí lo que se mantiene constante es la coordenada $x$."
         },
         {
           "letter": "B",
-          "text": "$m_2 = -\\frac{1}{8}$",
+          "text": "$x = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. Ambos puntos tienen abscisa 4, así que la recta es vertical y su ecuación es $x = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = x - 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+          "feedback": "Incorrecto. Contiene a $(4, -1)$, pero en $x = 4$ da $y = -1$ y nunca $y = 7$; no pasa por el segundo poste."
         },
         {
           "letter": "D",
-          "text": "$m_2 = \\frac{1}{8}$",
+          "text": "$y = -1$",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+          "feedback": "Incorrecto. Esa recta horizontal pasa por el primer poste, pero el segundo tiene ordenada 7."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 8$.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Si dos puntos tienen la misma abscisa, $\\Delta x = 0$ y la pendiente $\\frac{\\Delta y}{\\Delta x}$ no está definida: la recta es vertical. Todos sus puntos cumplen $x = 4$, cualquiera sea $y$. Por eso la ecuación es $x = 4$ y no puede escribirse en la forma $y = mx + b$.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 18,
@@ -278,82 +188,37 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v7",
-      "statement": "Dada la recta $R_1: y = 9x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
-      "context": "Geometría analítica de rectas en el plano Caso N° 7.",
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la ecuación de esa trayectoria?",
+      "context": "Un dron de vigilancia en Mar del Plata parte del punto $(-2, 3)$ siguiendo una trayectoria recta de pendiente 4.",
       "options": [
         {
-          "letter": "D",
-          "text": "$m_2 = 9$",
-          "is_correct": true,
-          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
-        },
-        {
           "letter": "A",
-          "text": "$m_2 = -9$",
+          "text": "$y = 4x - 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+          "feedback": "Incorrecto. Se usó $(x - 2)$ en lugar de $(x + 2)$: el punto tiene abscisa $-2$, así que la forma punto-pendiente lleva $x - (-2)$."
         },
         {
           "letter": "B",
-          "text": "$m_2 = -\\frac{1}{9}$",
+          "text": "$y = 4x + 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+          "feedback": "Incorrecto. Se usó $y + 3$ en lugar de $y - 3$: el punto tiene ordenada $+3$; con ese error la recta pasa por $(-2, -3)$."
         },
         {
           "letter": "C",
-          "text": "$m_2 = \\frac{1}{9}$",
+          "text": "$y = 4x - 11$",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente recíproca."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 9$.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.78,
-      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v8",
-      "statement": "Dada la recta $R_1: y = 10x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
-      "context": "Geometría analítica de rectas en el plano Caso N° 8.",
-      "options": [
+          "feedback": "Incorrecto. En $x = -2$ esa recta da $y = -19$; se cambió el signo de la ordenada al origen al despejar."
+        },
         {
           "letter": "D",
-          "text": "$m_2 = 10$",
+          "text": "$y = 4x + 11$",
           "is_correct": true,
-          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
-        },
-        {
-          "letter": "A",
-          "text": "$m_2 = -10$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
-        },
-        {
-          "letter": "B",
-          "text": "$m_2 = -\\frac{1}{10}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
-        },
-        {
-          "letter": "C",
-          "text": "$m_2 = \\frac{1}{10}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+          "feedback": "Correcto. $y - 3 = 4(x + 2)$ da $y = 4x + 8 + 3 = 4x + 11$."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 10$.\n\n---",
+      "explanation": "La forma punto-pendiente es $y - y_1 = m(x - x_1)$. Con $(x_1, y_1) = (-2, 3)$ y $m = 4$: $y - 3 = 4(x + 2)$, $y = 4x + 8 + 3 = 4x + 11$. Comprobación: en $x = -2$, $y = -8 + 11 = 3$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -368,37 +233,37 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v9",
-      "statement": "Dada la recta $R_1: y = 11x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
-      "context": "Geometría analítica de rectas en el plano Caso N° 9.",
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el modelo del costo $C(d)$ en pesos?",
+      "context": "En Mendoza, un viaje en taxi de 3 km cuesta 4.500 ARS y uno de 8 km cuesta 9.000 ARS; la tarifa es lineal en la distancia $d$ (km).",
       "options": [
         {
           "letter": "A",
-          "text": "$m_2 = 11$",
-          "is_correct": true,
-          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+          "text": "$C(d) = 1500d$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cumple el dato de 3 km, pero para 8 km da 12.000 ARS y no 9.000; se ignoró la bajada de bandera fija."
         },
         {
           "letter": "B",
-          "text": "$m_2 = -11$",
+          "text": "$C(d) = 900d + 4500$",
           "is_correct": false,
-          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+          "feedback": "Incorrecto. La pendiente 900 es correcta, pero 4.500 es el costo a 3 km, no a 0 km; con este modelo 3 km costarían 7.200 ARS."
         },
         {
           "letter": "C",
-          "text": "$m_2 = -\\frac{1}{11}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+          "text": "$C(d) = 900d + 1800$",
+          "is_correct": true,
+          "feedback": "Correcto. Pendiente $\\frac{9000 - 4500}{8 - 3} = 900$ ARS/km y $4500 - 900 \\cdot 3 = 1800$."
         },
         {
           "letter": "D",
-          "text": "$m_2 = \\frac{1}{11}$",
+          "text": "$C(d) = 1125d$",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+          "feedback": "Incorrecto. Se dividió $9000 : 8$ como si no hubiera costo fijo; entonces 3 km costarían 3.375 ARS, no 4.500."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 11$.\n\n---",
+      "correct_answer": "C",
+      "explanation": "La pendiente es el costo por kilómetro: $m = \\frac{9000 - 4500}{8 - 3} = \\frac{4500}{5} = 900$ ARS/km. La ordenada al origen sale de $4500 = 900 \\cdot 3 + b$, de donde $b = 1800$ ARS (bajada de bandera). El modelo $C(d) = 900d + 1800$ cumple los dos datos: $C(3) = 4500$ y $C(8) = 9000$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -413,37 +278,37 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v10",
-      "statement": "Dada la recta $R_1: y = 12x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
-      "context": "Geometría analítica de rectas en el plano Caso N° 10.",
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la ecuación general de esa recta?",
+      "context": "Un ingeniero vial de San Luis necesita la ecuación general de la recta que une los mojones $(1, -2)$ y $(3, 4)$.",
       "options": [
         {
-          "letter": "C",
-          "text": "$m_2 = 12$",
-          "is_correct": true,
-          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
-        },
-        {
           "letter": "A",
-          "text": "$m_2 = -12$",
+          "text": "$3x + y - 5 = 0$",
           "is_correct": false,
-          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+          "feedback": "Incorrecto. Equivale a $y = -3x + 5$, de pendiente $-3$; el signo de $y$ al pasar al otro miembro quedó mal."
         },
         {
           "letter": "B",
-          "text": "$m_2 = -\\frac{1}{12}$",
+          "text": "$3x - y - 5 = 0$",
+          "is_correct": true,
+          "feedback": "Correcto. La pendiente es $\\frac{4 - (-2)}{3 - 1} = 3$ y $y = 3x - 5$ equivale a $3x - y - 5 = 0$."
+        },
+        {
+          "letter": "C",
+          "text": "$x - 3y - 7 = 0$",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+          "feedback": "Incorrecto. Pasa por $(1, -2)$, pero en $(3, 4)$ da $3 - 12 - 7 = -16 \\neq 0$; se usó la pendiente invertida $\\frac{1}{3}$."
         },
         {
           "letter": "D",
-          "text": "$m_2 = \\frac{1}{12}$",
+          "text": "$3x - y + 5 = 0$",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+          "feedback": "Incorrecto. En $(1, -2)$ da $3 + 2 + 5 = 10 \\neq 0$; el término independiente tiene el signo cambiado."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 12$.\n\n---",
+      "correct_answer": "B",
+      "explanation": "Pendiente: $m = \\frac{4 + 2}{3 - 1} = 3$. Punto-pendiente con $(1, -2)$: $y + 2 = 3(x - 1)$, o sea $y = 3x - 5$. Pasando todo a un miembro: $3x - y - 5 = 0$. Verificación: $(1, -2)$ da $3 + 2 - 5 = 0$ y $(3, 4)$ da $9 - 4 - 5 = 0$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -458,41 +323,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v11",
-      "statement": "Dada la recta $R_1: y = 13x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
-      "context": "Geometría analítica de rectas en el plano Caso N° 11.",
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v8",
+      "statement": "¿En qué punto se cruzan la avenida y la calle?",
+      "context": "En un plano de Rosario, una avenida sigue la recta $2x + y = 7$ y una calle sigue la recta $x - y = 2$.",
       "options": [
         {
           "letter": "A",
-          "text": "$m_2 = 13$",
-          "is_correct": true,
-          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+          "text": "$(1, 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se intercambiaron las coordenadas: $(1, 3)$ no cumple $x - y = 2$, ya que $1 - 3 = -2$."
         },
         {
           "letter": "B",
-          "text": "$m_2 = -13$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+          "text": "$(3, 1)$",
+          "is_correct": true,
+          "feedback": "Correcto. Sumando las ecuaciones, $3x = 9$, $x = 3$, y luego $y = 3 - 2 = 1$."
         },
         {
           "letter": "C",
-          "text": "$m_2 = -\\frac{1}{13}$",
+          "text": "$(\\frac{5}{3}, \\frac{11}{3})$",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+          "feedback": "Incorrecto. Cumple $2x + y = 7$ pero $\\frac{5}{3} - \\frac{11}{3} = -2 \\neq 2$; hubo un error de signo al eliminar $y$."
         },
         {
           "letter": "D",
-          "text": "$m_2 = \\frac{1}{13}$",
+          "text": "$(3, -1)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+          "feedback": "Incorrecto. Con $y = -1$, $2 \\cdot 3 - 1 = 5 \\neq 7$; el signo de $y$ se tomó mal al despejar de $x - y = 2$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 13$.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "El punto de intersección satisface ambas ecuaciones. Sumando $2x + y = 7$ y $x - y = 2$ se elimina $y$: $3x = 9$, $x = 3$. Reemplazando en $x - y = 2$: $y = 1$. El cruce es $(3, 1)$; se comprueba que $2 \\cdot 3 + 1 = 7$.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.7,
       "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 18,
@@ -503,41 +368,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v12",
-      "statement": "Dada la recta $R_1: y = 14x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
-      "context": "Geometría analítica de rectas en el plano Caso N° 12.",
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la distancia más corta de la antena a la ruta?",
+      "context": "Una antena de telefonía en Salta está en el punto $(2, 1)$ y una ruta recta tiene ecuación $3x + 4y - 20 = 0$ (unidades en km).",
       "options": [
         {
           "letter": "A",
-          "text": "$m_2 = 14$",
-          "is_correct": true,
-          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+          "text": "$10$ km",
+          "is_correct": false,
+          "feedback": "Incorrecto. 10 es el valor absoluto del numerador $|3 \\cdot 2 + 4 \\cdot 1 - 20|$; falta dividir por $\\sqrt{3^2 + 4^2} = 5$."
         },
         {
           "letter": "B",
-          "text": "$m_2 = -14$",
+          "text": "$-2$ km",
           "is_correct": false,
-          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+          "feedback": "Incorrecto. Una distancia no puede ser negativa: la fórmula usa el valor absoluto del numerador."
         },
         {
           "letter": "C",
-          "text": "$m_2 = -\\frac{1}{14}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+          "text": "$2$ km",
+          "is_correct": true,
+          "feedback": "Correcto. $d = \\frac{|6 + 4 - 20|}{\\sqrt{9 + 16}} = \\frac{10}{5} = 2$."
         },
         {
           "letter": "D",
-          "text": "$m_2 = \\frac{1}{14}$",
+          "text": "$\\frac{10}{7}$ km",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+          "feedback": "Incorrecto. Se dividió por $3 + 4 = 7$; el denominador es $\\sqrt{A^2 + B^2} = 5$, no $A + B$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 14$.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "La distancia de $P(x_0, y_0)$ a la recta $Ax + By + C = 0$ es $d = \\frac{|Ax_0 + By_0 + C|}{\\sqrt{A^2 + B^2}}$. Aquí $d = \\frac{|3 \\cdot 2 + 4 \\cdot 1 - 20|}{\\sqrt{3^2 + 4^2}} = \\frac{|-10|}{5} = 2$ km. Es la longitud del segmento perpendicular desde la antena a la ruta.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.68,
       "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 18,
@@ -548,41 +413,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v13",
-      "statement": "Dada la recta $R_1: y = 15x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
-      "context": "Geometría analítica de rectas en el plano Caso N° 13.",
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la ecuación del nuevo sendero?",
+      "context": "En un parque de Tandil se quiere trazar un sendero paralelo a la recta $y = -\\frac{1}{2}x + 3$ que pase por la fuente ubicada en $(2, 5)$.",
       "options": [
         {
-          "letter": "C",
-          "text": "$m_2 = 15$",
-          "is_correct": true,
-          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
-        },
-        {
           "letter": "A",
-          "text": "$m_2 = -15$",
+          "text": "$y = 2x + 1$",
           "is_correct": false,
-          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+          "feedback": "Incorrecto. Pendiente 2 corresponde a una recta perpendicular (inversa opuesta de $-\\frac{1}{2}$), no a una paralela."
         },
         {
           "letter": "B",
-          "text": "$m_2 = -\\frac{1}{15}$",
+          "text": "$y = -\\frac{1}{2}x + 6$",
+          "is_correct": true,
+          "feedback": "Correcto. Paralela significa igual pendiente: $y - 5 = -\\frac{1}{2}(x - 2)$, de donde $y = -\\frac{1}{2}x + 6$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = -\\frac{1}{2}x + 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+          "feedback": "Incorrecto. Se tomó la ordenada de la fuente como ordenada al origen; en $x = 2$ esta recta da $y = 4$, no 5."
         },
         {
           "letter": "D",
-          "text": "$m_2 = \\frac{1}{15}$",
+          "text": "$y = -\\frac{1}{2}x + 4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+          "feedback": "Incorrecto. Se usó $(x + 2)$ en lugar de $(x - 2)$ en la forma punto-pendiente; la recta pasa por $(-2, 5)$."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 15$.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Las rectas paralelas tienen la misma pendiente, $m = -\\frac{1}{2}$. Con el punto $(2, 5)$: $y - 5 = -\\frac{1}{2}(x - 2) = -\\frac{1}{2}x + 1$, entonces $y = -\\frac{1}{2}x + 6$. La ordenada al origen cambia de 3 a 6, por eso las rectas no se cortan.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.66,
       "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 18,
@@ -593,86 +458,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v14",
-      "statement": "Dada la recta $R_1: y = 16x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
-      "context": "Geometría analítica de rectas en el plano Caso N° 14.",
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v11",
+      "statement": "¿Para qué cantidad de minutos mensuales conviene la empresa A?",
+      "context": "En Buenos Aires, la empresa A cobra 12.000 ARS fijos más 50 ARS por minuto y la empresa B cobra 6.000 ARS fijos más 150 ARS por minuto.",
       "options": [
         {
-          "letter": "D",
-          "text": "$m_2 = 16$",
-          "is_correct": true,
-          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
-        },
-        {
           "letter": "A",
-          "text": "$m_2 = -16$",
+          "text": "Para más de 40 minutos",
           "is_correct": false,
-          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+          "feedback": "Incorrecto. Con 50 minutos, A cuesta 14.500 ARS y B cuesta 13.500 ARS: B sigue siendo más barata."
         },
         {
           "letter": "B",
-          "text": "$m_2 = -\\frac{1}{16}$",
+          "text": "Para menos de 60 minutos",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+          "feedback": "Incorrecto. Con pocos minutos domina el costo fijo, que es menor en B; por ejemplo con 0 minutos B cuesta 6.000 y A 12.000."
         },
         {
           "letter": "C",
-          "text": "$m_2 = \\frac{1}{16}$",
+          "text": "Para más de 60 minutos",
+          "is_correct": true,
+          "feedback": "Correcto. $12000 + 50m = 6000 + 150m$ da $m = 60$; después, B crece más rápido (pendiente 150) y A resulta más barata."
+        },
+        {
+          "letter": "D",
+          "text": "Para más de 120 minutos",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+          "feedback": "Incorrecto. A ya es más barata a partir de 60 minutos: con 100 minutos A cuesta 17.000 y B 21.000."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 16$.\n\n---",
+      "correct_answer": "C",
+      "explanation": "Los costos son $C_A = 12000 + 50m$ y $C_B = 6000 + 150m$. Se igualan cuando $6000 = 100m$, es decir $m = 60$ (ambos cuestan 15.000 ARS). Como la pendiente de B es mayor, para $m > 60$ la recta de B queda por encima: conviene A.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.64,
-      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v15",
-      "statement": "Dada la recta $R_1: y = 17x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
-      "context": "Geometría analítica de rectas en el plano Caso N° 15.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "$m_2 = 17$",
-          "is_correct": true,
-          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
-        },
-        {
-          "letter": "A",
-          "text": "$m_2 = -17$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
-        },
-        {
-          "letter": "C",
-          "text": "$m_2 = -\\frac{1}{17}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
-        },
-        {
-          "letter": "D",
-          "text": "$m_2 = \\frac{1}{17}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente recíproca."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 17$.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
       "expected_success": 0.62,
       "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 18,
@@ -683,37 +503,37 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v16",
-      "statement": "Dada la recta $R_1: y = 18x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
-      "context": "Geometría analítica de rectas en el plano Caso N° 16.",
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v12",
+      "statement": "¿Están alineadas las tres estacas? ¿Por qué?",
+      "context": "En un relevamiento de Córdoba se marcan tres estacas en $A(1, 2)$, $B(3, 6)$ y $C(6, 12)$.",
       "options": [
         {
           "letter": "A",
-          "text": "$m_2 = 18$",
+          "text": "Sí, porque $m_{AB} = m_{BC} = 2$.",
           "is_correct": true,
-          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+          "feedback": "Correcto. $m_{AB} = \\frac{6 - 2}{3 - 1} = 2$ y $m_{BC} = \\frac{12 - 6}{6 - 3} = 2$; con un punto en común y la misma pendiente, están en la misma recta."
         },
         {
           "letter": "B",
-          "text": "$m_2 = -18$",
+          "text": "No, porque $m_{AB} = 2$ y $m_{BC} = 3$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+          "feedback": "Incorrecto. Se calculó $m_{BC} = \\frac{6}{2}$ dividiendo por una diferencia equivocada; $\\Delta x = 6 - 3 = 3$, así que $m_{BC} = 2$."
         },
         {
           "letter": "C",
-          "text": "$m_2 = -\\frac{1}{18}$",
+          "text": "Sí, porque todas las coordenadas son positivas.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+          "feedback": "Incorrecto. El signo de las coordenadas no tiene relación con la colinealidad; lo que importa es que las pendientes coincidan."
         },
         {
           "letter": "D",
-          "text": "$m_2 = \\frac{1}{18}$",
+          "text": "No, porque las distancias $AB$ y $BC$ son distintas.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+          "feedback": "Incorrecto. Tres puntos alineados pueden estar a distancias distintas entre sí; la igualdad de distancias no es la condición."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 18$.\n\n---",
+      "explanation": "Tres puntos están alineados si la pendiente entre el primero y el segundo es igual a la del segundo y el tercero, ya que comparten el punto $B$. $m_{AB} = \\frac{4}{2} = 2$ y $m_{BC} = \\frac{6}{3} = 2$. Todos pertenecen a la recta $y = 2x$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -728,41 +548,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v17",
-      "statement": "Dada la recta $R_1: y = 19x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
-      "context": "Geometría analítica de rectas en el plano Caso N° 17.",
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es la ecuación de la mediatriz del segmento $AB$?",
+      "context": "En un campo de La Pampa hay dos molinos en $A(2, 1)$ y $B(6, 5)$, y se quiere plantar árboles a igual distancia de ambos.",
       "options": [
         {
-          "letter": "C",
-          "text": "$m_2 = 19$",
-          "is_correct": true,
-          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
-        },
-        {
           "letter": "A",
-          "text": "$m_2 = -19$",
+          "text": "$y = x - 1$",
           "is_correct": false,
-          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+          "feedback": "Incorrecto. Esa es la recta que pasa por $A$ y $B$; la mediatriz debe ser perpendicular a ella."
         },
         {
           "letter": "B",
-          "text": "$m_2 = -\\frac{1}{19}$",
+          "text": "$y = -x + 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+          "feedback": "Incorrecto. Tiene la pendiente correcta pero no pasa por el punto medio $(4, 3)$: en $x = 4$ da $y = 1$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = -x + 7$",
+          "is_correct": true,
+          "feedback": "Correcto. Pasa por el punto medio $(4, 3)$ con pendiente $-1$, perpendicular a $m_{AB} = 1$."
         },
         {
           "letter": "D",
-          "text": "$m_2 = \\frac{1}{19}$",
+          "text": "$y = x + 7$",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+          "feedback": "Incorrecto. Una pendiente 1 es paralela a $AB$, no perpendicular; además no pasa por $(4, 3)$."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 19$.\n\n---",
-      "difficulty": "10",
+      "explanation": "La mediatriz es el lugar de los puntos equidistantes de $A$ y $B$: es perpendicular a $AB$ y pasa por su punto medio. Punto medio: $(\\frac{2 + 6}{2}, \\frac{1 + 5}{2}) = (4, 3)$. $m_{AB} = \\frac{4}{4} = 1$, así que $m = -1$. Ecuación: $y - 3 = -(x - 4)$, $y = -x + 7$.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.58,
       "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 18,
@@ -773,41 +593,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v18",
-      "statement": "Dada la recta $R_1: y = 20x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
-      "context": "Geometría analítica de rectas en el plano Caso N° 18.",
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v14",
+      "statement": "¿Qué interpretación del modelo es correcta?",
+      "context": "Una concesionaria de Córdoba modela el valor de un auto usado con $V(t) = 18.000.000 - 1.500.000t$ ARS, con $t$ en años.",
       "options": [
         {
           "letter": "A",
-          "text": "$m_2 = 20$",
-          "is_correct": true,
-          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+          "text": "El valor inicial del auto es 1.500.000 ARS.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor inicial es $V(0) = 18.000.000$ ARS; 1.500.000 es la variación anual."
         },
         {
           "letter": "B",
-          "text": "$m_2 = -20$",
+          "text": "El auto pierde todo su valor a los 15 años.",
           "is_correct": false,
-          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+          "feedback": "Incorrecto. $V(t) = 0$ cuando $t = \\frac{18.000.000}{1.500.000} = 12$ años, no 15."
         },
         {
           "letter": "C",
-          "text": "$m_2 = -\\frac{1}{20}$",
+          "text": "Como la pendiente es positiva, el valor aumenta con los años.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+          "feedback": "Incorrecto. La pendiente es $-1.500.000$, negativa: el valor disminuye."
         },
         {
           "letter": "D",
-          "text": "$m_2 = \\frac{1}{20}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+          "text": "Cada año el valor del auto disminuye 1.500.000 ARS.",
+          "is_correct": true,
+          "feedback": "Correcto. La pendiente $-1.500.000$ ARS/año indica cuánto cambia el valor por cada año transcurrido."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 20$.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "En un modelo lineal $V(t) = b + mt$, $b$ es el valor inicial y $m$ la tasa de cambio. Aquí $b = 18.000.000$ ARS y $m = -1.500.000$ ARS por año, una pérdida constante de valor. El valor se anula cuando $18.000.000 = 1.500.000t$, es decir a los 12 años.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.56,
       "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 18,
@@ -818,41 +638,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v19",
-      "statement": "Dada la recta $R_1: y = 21x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
-      "context": "Geometría analítica de rectas en el plano Caso N° 19.",
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v15",
+      "statement": "¿Para qué valor de $k$ las rectas son perpendiculares?",
+      "context": "Un diseñador de Mar del Plata ubica dos vigas sobre las rectas $kx + 2y = 3$ y $3x - y = 1$ y quiere que formen ángulo recto.",
       "options": [
         {
           "letter": "A",
-          "text": "$m_2 = 21$",
+          "text": "$k = \\frac{2}{3}$",
           "is_correct": true,
-          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+          "feedback": "Correcto. Las pendientes son $-\\frac{k}{2}$ y 3; $-\\frac{k}{2} \\cdot 3 = -1$ da $k = \\frac{2}{3}$."
         },
         {
           "letter": "B",
-          "text": "$m_2 = -21$",
+          "text": "$k = -6$",
           "is_correct": false,
-          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+          "feedback": "Incorrecto. Con $k = -6$ la pendiente es $-\\frac{-6}{2} = 3$, igual a la otra: las rectas serían paralelas."
         },
         {
           "letter": "C",
-          "text": "$m_2 = -\\frac{1}{21}$",
+          "text": "$k = -\\frac{2}{3}$",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+          "feedback": "Incorrecto. Con $k = -\\frac{2}{3}$ la pendiente es $\\frac{1}{3}$ y el producto con 3 es $1$, no $-1$; hubo un error de signo."
         },
         {
           "letter": "D",
-          "text": "$m_2 = \\frac{1}{21}$",
+          "text": "$k = 6$",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+          "feedback": "Incorrecto. Con $k = 6$ la pendiente es $-3$ y el producto $-3 \\cdot 3 = -9 \\neq -1$; se confundió la condición de perpendicularidad."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 21$.\n\n---",
-      "difficulty": "10",
+      "explanation": "Despejando, $kx + 2y = 3$ da $y = -\\frac{k}{2}x + \\frac{3}{2}$, con pendiente $-\\frac{k}{2}$; y $3x - y = 1$ da $y = 3x - 1$, con pendiente 3. Perpendicularidad: $-\\frac{k}{2} \\cdot 3 = -1$, $\\frac{3k}{2} = 1$, $k = \\frac{2}{3}$.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.54,
       "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 18,
@@ -863,42 +683,222 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v20",
-      "statement": "Dada la recta $R_1: y = 22x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?",
-      "context": "Geometría analítica de rectas en el plano Caso N° 20.",
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la distancia entre las dos ciclovías?",
+      "context": "En Rosario, dos ciclovías paralelas siguen las rectas $3x - 4y + 2 = 0$ y $3x - 4y - 8 = 0$ (unidades en hectómetros).",
       "options": [
         {
           "letter": "A",
-          "text": "$m_2 = 22$",
-          "is_correct": true,
-          "feedback": "Correcto. Las rectas paralelas poseen exactamente la misma pendiente."
+          "text": "$10$ hm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 10 es $|C_1 - C_2| = |2 - (-8)|$; falta dividir por $\\sqrt{3^2 + 4^2} = 5$."
         },
         {
           "letter": "B",
-          "text": "$m_2 = -22$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Ese es el opuesto de la pendiente."
+          "text": "$2$ hm",
+          "is_correct": true,
+          "feedback": "Correcto. $d = \\frac{|2 - (-8)|}{\\sqrt{9 + 16}} = \\frac{10}{5} = 2$."
         },
         {
           "letter": "C",
-          "text": "$m_2 = -\\frac{1}{22}$",
+          "text": "$\\frac{6}{5}$ hm",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente de una recta perpendicular."
+          "feedback": "Incorrecto. Se restó $2 - 8$ en lugar de $2 - (-8)$; el término independiente de la segunda recta es $-8$."
         },
         {
           "letter": "D",
-          "text": "$m_2 = \\frac{1}{22}$",
+          "text": "$\\frac{10}{7}$ hm",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la pendiente recíproca."
+          "feedback": "Incorrecto. El denominador no es $3 + 4$; la fórmula usa la norma $\\sqrt{A^2 + B^2} = 5$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para rectas paralelas $Ax + By + C_1 = 0$ y $Ax + By + C_2 = 0$, $d = \\frac{|C_1 - C_2|}{\\sqrt{A^2 + B^2}} = \\frac{|2 + 8|}{5} = 2$. También puede tomarse un punto de la segunda recta, como $(0, -2)$, y calcular su distancia a la primera: $\\frac{|0 + 8 + 2|}{5} = 2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la evaluación correcta de la respuesta de Sofía?",
+      "context": "Sofía, de Santiago del Estero, debía hallar la recta perpendicular a $y = 2x - 1$ que pasa por $(2, 3)$, y respondió $y = -\\frac{1}{2}x + 4$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta: tiene pendiente $-\\frac{1}{2}$ y en $x = 2$ da $y = 3$.",
+          "is_correct": true,
+          "feedback": "Correcto. $2 \\cdot (-\\frac{1}{2}) = -1$ y $-\\frac{1}{2} \\cdot 2 + 4 = 3$: cumple las dos condiciones."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecta: la pendiente debía ser $-2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $-2$ es solo el opuesto de 2; para ser perpendicular hace falta el inverso opuesto, $-\\frac{1}{2}$."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta: la pendiente debía ser $\\frac{1}{2}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $\\frac{1}{2}$ el producto con 2 da $1$, no $-1$; las rectas no serían perpendiculares."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta: la ordenada al origen debía ser 3.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3 es la ordenada del punto dado, que está en $x = 2$, no en $x = 0$; con $b = 3$ la recta no pasaría por $(2, 3)$."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 22$.",
+      "explanation": "Hay que verificar dos condiciones. Perpendicularidad: $m_1 \\cdot m_2 = 2 \\cdot (-\\frac{1}{2}) = -1$. Pertenencia del punto: $y(2) = -\\frac{1}{2} \\cdot 2 + 4 = 3$. Ambas se cumplen. Rehaciendo el cálculo: $y - 3 = -\\frac{1}{2}(x - 2)$ da $y = -\\frac{1}{2}x + 4$, igual a lo que respondió Sofía.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.52,
+      "expected_success": 0.5,
+      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el área de la parcela y qué cálculo la justifica?",
+      "context": "Un productor de Entre Ríos delimita una parcela triangular con los ejes cartesianos y el alambrado $2x + 3y = 12$ (en hm).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$24$ hm², porque los cortes con los ejes son 6 y 4 y $6 \\cdot 4 = 24$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto de los catetos da el área de un rectángulo; el triángulo tiene la mitad, 12 hm²."
+        },
+        {
+          "letter": "B",
+          "text": "$10$ hm², porque los cortes con los ejes suman $6 + 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar los catetos no da un área; el área de un triángulo rectángulo es $\\frac{\\text{base} \\cdot \\text{altura}}{2}$."
+        },
+        {
+          "letter": "C",
+          "text": "$6$ hm², porque los cortes con los ejes son 3 y 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. El corte con el eje $x$ es $x = \\frac{12}{2} = 6$, no 3; se dividió 12 por el coeficiente equivocado."
+        },
+        {
+          "letter": "D",
+          "text": "$12$ hm², porque los cortes son $(6, 0)$ y $(0, 4)$ y $\\frac{6 \\cdot 4}{2} = 12$",
+          "is_correct": true,
+          "feedback": "Correcto. Con $y = 0$ se obtiene $x = 6$ y con $x = 0$ se obtiene $y = 4$; el triángulo rectángulo tiene área $\\frac{6 \\cdot 4}{2} = 12$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los cortes con los ejes salen de anular una variable: $y = 0$ da $2x = 12$, $x = 6$; $x = 0$ da $3y = 12$, $y = 4$. La parcela es un triángulo rectángulo de catetos 6 y 4, con área $\\frac{6 \\cdot 4}{2} = 12$ hm². Olvidar dividir por 2 es el error más frecuente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.48,
+      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v19",
+      "statement": "¿A qué punto de la ruta debe llegar el camino más corto?",
+      "context": "Un refugio de montaña cerca de Bariloche está en $(3, 0)$ y una ruta recta sigue $y = x + 1$; se quiere abrir el camino más corto del refugio a la ruta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(3, 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el punto de la ruta que está justo arriba del refugio (misma abscisa); el camino vertical mide 4, más que la distancia perpendicular $2\\sqrt{2} \\approx 2{,}83$."
+        },
+        {
+          "letter": "B",
+          "text": "$(0, 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la ordenada al origen de la ruta; su distancia al refugio es $\\sqrt{9 + 1} = \\sqrt{10} \\approx 3{,}16$, mayor que la mínima."
+        },
+        {
+          "letter": "C",
+          "text": "$(-1, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el corte de la ruta con el eje $x$; está a 4 unidades del refugio, no es el más cercano."
+        },
+        {
+          "letter": "D",
+          "text": "$(1, 2)$",
+          "is_correct": true,
+          "feedback": "Correcto. La perpendicular por $(3, 0)$ es $y = -x + 3$; al cortarla con $y = x + 1$ se obtiene $(1, 2)$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El punto más cercano es el pie de la perpendicular. La ruta tiene pendiente 1, así que la perpendicular por $(3, 0)$ tiene pendiente $-1$: $y = -x + 3$. Igualando $x + 1 = -x + 3$: $x = 1$, $y = 2$. La distancia es $\\sqrt{4 + 4} = 2\\sqrt{2}$, que coincide con la fórmula $\\frac{|3 - 0 + 1|}{\\sqrt{2}}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.46,
+      "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál de las siguientes conclusiones es correcta?",
+      "context": "En Córdoba, la remisería X cobra 2.000 ARS fijos más 800 ARS por km y la remisería Y cobra 3.500 ARS fijos más 500 ARS por km.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para un viaje de 8 km conviene Y y se ahorran 900 ARS.",
+          "is_correct": true,
+          "feedback": "Correcto. X cobra $2000 + 800 \\cdot 8 = 8400$ ARS e Y cobra $3500 + 500 \\cdot 8 = 7500$ ARS; la diferencia es 900."
+        },
+        {
+          "letter": "B",
+          "text": "Para un viaje de 8 km conviene X porque su costo fijo es menor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El costo fijo menor solo pesa en viajes cortos; a 8 km X cuesta 8.400 y Y 7.500."
+        },
+        {
+          "letter": "C",
+          "text": "Las tarifas se igualan en un viaje de 3 km.",
+          "is_correct": false,
+          "feedback": "Incorrecto. A 3 km X cobra 4.400 e Y cobra 5.000; se igualan cuando $1500 = 300d$, es decir a 5 km."
+        },
+        {
+          "letter": "D",
+          "text": "Para cualquier distancia conviene Y.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para menos de 5 km conviene X: por ejemplo a 2 km X cobra 3.600 e Y 4.500."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Modelos: $C_X = 2000 + 800d$ y $C_Y = 3500 + 500d$. Se igualan cuando $300d = 1500$, $d = 5$ km. Para $d < 5$ conviene X y para $d > 5$ conviene Y. A 8 km: $C_X = 8400$, $C_Y = 7500$; el ahorro es de 900 ARS.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
       "bundle_id": "AR-MAT-11-2026-W18-geometria-analitica-recta-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",

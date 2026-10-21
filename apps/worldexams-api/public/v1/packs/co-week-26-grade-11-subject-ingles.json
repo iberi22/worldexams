@@ -13,12 +13,6 @@
       "context": "Discussing education systems in Cartagena.",
       "options": [
         {
-          "letter": "C",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
           "text": "alleviate",
           "is_correct": false,
@@ -29,6 +23,12 @@
           "text": "mitigate",
           "is_correct": false,
           "feedback": "Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied."
+        },
+        {
+          "letter": "C",
+          "text": "exacerbate",
+          "is_correct": true,
+          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
         },
         {
           "letter": "D",
@@ -59,12 +59,6 @@
       "context": "Discussing education systems in Bogotá.",
       "options": [
         {
-          "letter": "C",
-          "text": "hollows out",
-          "is_correct": true,
-          "feedback": "To hollow something out is to remove what gave it substance while leaving the outer shape in place, and the sentence describes exactly that: the course keeps its name and loses its practical content. The verb also fits the idea of an inner part being emptied."
-        },
-        {
           "letter": "A",
           "text": "builds up",
           "is_correct": false,
@@ -75,6 +69,12 @@
           "text": "rules out",
           "is_correct": false,
           "feedback": "'Rule out' means to exclude entirely, and the course is not being abolished; it keeps its structure and loses one component. The clause 'the practical half of every science course' shows a reduction, not a total bar."
+        },
+        {
+          "letter": "C",
+          "text": "hollows out",
+          "is_correct": true,
+          "feedback": "To hollow something out is to remove what gave it substance while leaving the outer shape in place, and the sentence describes exactly that: the course keeps its name and loses its practical content. The verb also fits the idea of an inner part being emptied."
         },
         {
           "letter": "D",
@@ -151,12 +151,6 @@
       "context": "Discussing education systems in Barranquilla.",
       "options": [
         {
-          "letter": "C",
-          "text": "understate",
-          "is_correct": true,
-          "feedback": "'Understate' means to represent something as smaller than it actually is, and a count that omits those who left produces exactly that. The clause 'the drop-out rate the ministry reports' names the figure being made to look better than it is."
-        },
-        {
           "letter": "A",
           "text": "overstate",
           "is_correct": false,
@@ -167,6 +161,12 @@
           "text": "restate",
           "is_correct": false,
           "feedback": "'Restate' means to say again in different words, and nothing here is a second report of the same figure. The problem is what the count includes, not how it is expressed."
+        },
+        {
+          "letter": "C",
+          "text": "understate",
+          "is_correct": true,
+          "feedback": "'Understate' means to represent something as smaller than it actually is, and a count that omits those who left produces exactly that. The clause 'the drop-out rate the ministry reports' names the figure being made to look better than it is."
         },
         {
           "letter": "D",
@@ -197,12 +197,6 @@
       "context": "Discussing education systems in Barranquilla.",
       "options": [
         {
-          "letter": "D",
-          "text": "resources that",
-          "is_correct": true,
-          "feedback": "The two options cannot be combined, so the missing resources have to be named as what the gap is about. 'Resources that we have not budgeted' makes the phrase the object of 'require', which is what the sentence needs."
-        },
-        {
           "letter": "A",
           "text": "the fact that",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "a situation in which",
           "is_correct": false,
           "feedback": "'Require a situation in which we have not budgeted' describes a scenario rather than a missing input, and 'we have not budgeted' has no object after it. The sentence asks what would have to be secured, not what kind of circumstance would arise."
+        },
+        {
+          "letter": "D",
+          "text": "resources that",
+          "is_correct": true,
+          "feedback": "The two options cannot be combined, so the missing resources have to be named as what the gap is about. 'Resources that we have not budgeted' makes the phrase the object of 'require', which is what the sentence needs."
         }
       ],
       "correct_answer": "D",
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-11-2026-W26-education-systems-001-MASTERY-bundle-v6",
-      "statement": "According to a recent report on education systems in Medellín, what is implied about the role of Ellipsis & Substitution in shaping public opinion?",
-      "context": "Discussing education systems in Medellín.",
+      "statement": "Read the text and answer the question.\n\n\"In a village two hours from Medellín, many students cannot connect to the internet at home. During the pandemic, their teachers found an old solution: radio. Every morning at seven, the local station broadcast a thirty-minute lesson in mathematics or Spanish, and students completed printed worksheets that their parents collected at the school once a week. The programme was supposed to be temporary. However, families liked it so much that the school kept it after the classrooms reopened. Now students use the radio lessons to review at home, and older brothers and sisters often listen too.\"\n\nWhat is the main idea of the text?",
+      "context": "A news article about a rural school in Antioquia that uses a radio programme to teach.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats Ellipsis & Substitution as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
+          "letter": "A",
+          "text": "Students in the village now have fast internet at home.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text begins by saying many students cannot connect to the internet; nothing says this has changed."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "letter": "B",
+          "text": "A temporary radio solution became a permanent learning resource in a rural school.",
+          "is_correct": true,
+          "feedback": "Correct. The text explains that the radio lessons were 'supposed to be temporary' but the school kept them after reopening because families liked them."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "The school closed its classrooms and now teaches only by radio.",
           "is_correct": false,
-          "feedback": "Ellipsis & Substitution add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "Incorrect. The classrooms reopened; the radio is used to review at home, not to replace classes."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Pereira.",
+          "text": "Parents prefer that older siblings teach mathematics.",
           "is_correct": false,
-          "feedback": "The report presents Ellipsis & Substitution as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "Incorrect. Older siblings are mentioned as extra listeners, but the text does not say parents prefer them as teachers."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "The main idea is found by following the change in the text: a solution designed for an emergency became part of normal school life. The contrast word 'However' marks this change. Distractors take a minor detail (older siblings) or contradict the text (classrooms reopened, internet still limited).\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -285,36 +285,36 @@
     },
     {
       "id": "CO-ING-11-2026-W26-education-systems-001-MASTERY-bundle-v7",
-      "statement": "According to a recent report on education systems in Barranquilla, what is implied about the role of Ellipsis & Substitution in shaping public opinion?",
-      "context": "Discussing education systems in Barranquilla.",
+      "statement": "Read the text and answer the question.\n\n\"Dear Profe Martínez, I have been in Finland for three months now. You asked me how school is different here. The biggest surprise is homework: we almost never have it. At first I thought it would be easy, but the classes are very active, and we work in projects all the time. Teachers do not give many exams, but they talk to each of us every few weeks about our progress. I miss the energy of our classroom in Barranquilla and the music in the corridors, though. Here everybody is very quiet. Best wishes, Daniela.\"\n\nWhat can we infer about Daniela's feelings?",
+      "context": "An email from a Colombian exchange student in Finland to her former teacher in Barranquilla.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats Ellipsis & Substitution as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "She wants to return to Colombia immediately because school is too difficult.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "Incorrect. She never says school is too difficult or that she wants to leave; she describes the system calmly."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "She thinks school in Finland is easy because there is no homework.",
           "is_correct": false,
-          "feedback": "Ellipsis & Substitution add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "Incorrect. She says 'At first I thought it would be easy, but...', which shows she changed this opinion."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Medellín.",
+          "text": "She dislikes her Finnish teachers because they do not give exams.",
           "is_correct": false,
-          "feedback": "The report presents Ellipsis & Substitution as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "Incorrect. She explains that teachers talk to students about progress instead of giving many exams, without any negative comment."
+        },
+        {
+          "letter": "D",
+          "text": "She finds the Finnish system interesting but misses the atmosphere of her old school.",
+          "is_correct": true,
+          "feedback": "Correct. She describes the Finnish methods with interest, and then says 'I miss the energy of our classroom in Barranquilla', which shows a mixed feeling."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Inferring feelings requires attention to contrast markers. 'At first I thought... but' shows a changed opinion, and 'though' at the end introduces nostalgia for her old school. Combining both signals gives the balanced feeling expressed in the key, while each distractor exaggerates one part of the email.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -335,12 +335,6 @@
       "context": "Discussing education systems in Barranquilla.",
       "options": [
         {
-          "letter": "C",
-          "text": "It withholds the detail that would make the claim checkable.",
-          "is_correct": true,
-          "feedback": "Because the totals survive while the breakdown disappears, a reader can repeat the headline figure but cannot test which schools drove it. Omission at this level is a rhetorical choice about verifiability, not about length."
-        },
-        {
           "letter": "A",
           "text": "It makes the underlying pattern easier to spot.",
           "is_correct": false,
@@ -351,6 +345,12 @@
           "text": "It protects the privacy of the families involved.",
           "is_correct": false,
           "feedback": "No privacy rationale is offered in the quotation, which cites the format of the release rather than the content. Inferring a privacy motive goes beyond what the sentence licenses."
+        },
+        {
+          "letter": "C",
+          "text": "It withholds the detail that would make the claim checkable.",
+          "is_correct": true,
+          "feedback": "Because the totals survive while the breakdown disappears, a reader can repeat the headline figure but cannot test which schools drove it. Omission at this level is a rhetorical choice about verifiability, not about length."
         },
         {
           "letter": "D",
@@ -377,36 +377,36 @@
     },
     {
       "id": "CO-ING-11-2026-W26-education-systems-001-MASTERY-bundle-v9",
-      "statement": "According to a recent report on education systems in Manizales, what is implied about the role of Ellipsis & Substitution in shaping public opinion?",
-      "context": "Discussing education systems in Manizales.",
+      "statement": "Read the text and answer the question.\n\n\"Students who will take the Saber 11 exam in the second semester must register through their school between 1 and 30 April. Schools will send the list of students to the ICFES, and each student will receive a registration number by email. Students who are not enrolled in a school, for example adults who finished their studies years ago, must register individually on the ICFES website and pay the fee online. On the day of the exam, every student must bring an original identity document. Photocopies and photos on a mobile phone will not be accepted.\"\n\nWhich document will be accepted on the day of the exam?",
+      "context": "A notice from the ICFES about registration for the Saber 11 exam.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats Ellipsis & Substitution as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
+          "letter": "A",
+          "text": "A photocopy of the identity document.",
+          "is_correct": false,
+          "feedback": "Incorrect. The last sentence says 'Photocopies ... will not be accepted'."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "letter": "B",
+          "text": "The student's original identity document.",
+          "is_correct": true,
+          "feedback": "Correct. The notice says 'every student must bring an original identity document' and explicitly rejects photocopies and phone photos."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "A photo of the identity document on a mobile phone.",
           "is_correct": false,
-          "feedback": "Ellipsis & Substitution add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "Incorrect. The notice explicitly states that photos on a mobile phone will not be accepted."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Barranquilla.",
+          "text": "The email with the registration number.",
           "is_correct": false,
-          "feedback": "The report presents Ellipsis & Substitution as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "Incorrect. The registration number is sent by email for registration purposes; the text does not say it replaces the identity document on exam day."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "This detail question tests whether the reader can find an explicit rule and its exceptions. The notice states the requirement (an original identity document) and then lists what is not accepted. Two distractors come directly from that list, and the third uses a different document mentioned in another part of the text.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -427,16 +427,16 @@
       "context": "Discussing education systems in Barranquilla.",
       "options": [
         {
-          "letter": "B",
-          "text": "The label 'success' is left standing while the evidence that contradicts it is dropped.",
-          "is_correct": true,
-          "feedback": "The word 'success' keeps its place and the counter-evidence is what vanishes. A reader is left holding the conclusion and denied the material that would test it, which is precisely the mechanism she is attacking."
-        },
-        {
           "letter": "A",
           "text": "The word 'success' is left standing while the schools that contradict it are counted more carefully.",
           "is_correct": false,
           "feedback": "Nothing in the sentence suggests the closed schools receive closer scrutiny; the remark says they are not in the comparison at all. Reading careful counting in would reverse what she complains about."
+        },
+        {
+          "letter": "B",
+          "text": "The label 'success' is left standing while the evidence that contradicts it is dropped.",
+          "is_correct": true,
+          "feedback": "The word 'success' keeps its place and the counter-evidence is what vanishes. A reader is left holding the conclusion and denied the material that would test it, which is precisely the mechanism she is attacking."
         },
         {
           "letter": "C",
@@ -473,16 +473,16 @@
       "context": "Discussing education systems in Pereira.",
       "options": [
         {
-          "letter": "B",
-          "text": "substitution",
-          "is_correct": true,
-          "feedback": "'One' can stand for a whole preceding clause when the repeated material is identical and no new information is added. Since the second and third statements repeat the first verbatim, substitution is exactly what the sentence reports."
-        },
-        {
           "letter": "A",
           "text": "addition",
           "is_correct": false,
           "feedback": "Addition means putting new material after a first mention, which is the opposite of what repetition of the same figures does. The third statement adds nothing, so it is not an addition."
+        },
+        {
+          "letter": "B",
+          "text": "substitution",
+          "is_correct": true,
+          "feedback": "'One' can stand for a whole preceding clause when the repeated material is identical and no new information is added. Since the second and third statements repeat the first verbatim, substitution is exactly what the sentence reports."
         },
         {
           "letter": "C",
@@ -519,12 +519,6 @@
       "context": "Discussing education systems in Cali.",
       "options": [
         {
-          "letter": "D",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -541,6 +535,12 @@
           "text": "did",
           "is_correct": false,
           "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+        },
+        {
+          "letter": "D",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
         }
       ],
       "correct_answer": "D",
@@ -611,12 +611,6 @@
       "context": "Discussing education systems in Pereira.",
       "options": [
         {
-          "letter": "D",
-          "text": "following",
-          "is_correct": true,
-          "feedback": "A participle here has to supply the reason behind the fall, and 'following' makes the curriculum change the accompanying event that explains it. The clause 'that took effect two years ago' confirms the change is what the scores reacted to."
-        },
-        {
           "letter": "A",
           "text": "anticipating",
           "is_correct": false,
@@ -633,6 +627,12 @@
           "text": "followed",
           "is_correct": false,
           "feedback": "'Followed' is the past participle and would require an auxiliary such as 'having' before it. With no auxiliary available here, the sentence cannot use this form at that position."
+        },
+        {
+          "letter": "D",
+          "text": "following",
+          "is_correct": true,
+          "feedback": "A participle here has to supply the reason behind the fall, and 'following' makes the curriculum change the accompanying event that explains it. The clause 'that took effect two years ago' confirms the change is what the scores reacted to."
         }
       ],
       "correct_answer": "D",
@@ -657,16 +657,16 @@
       "context": "Discussing education systems in Bucaramanga.",
       "options": [
         {
-          "letter": "B",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "When a phrase beginning with 'only' stands between the subject and the verb, the verb agrees with the true subject, which here is 'two of the forty schools'. Since that subject is plural, the past tense requires 'had'."
-        },
-        {
           "letter": "A",
           "text": "have",
           "is_correct": false,
           "feedback": "'Have' would agree with a plural subject, but the tense here is established as past by the clause 'at the time the survey was carried out'. A present form would leave the time reference inconsistent."
+        },
+        {
+          "letter": "B",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "When a phrase beginning with 'only' stands between the subject and the verb, the verb agrees with the true subject, which here is 'two of the forty schools'. Since that subject is plural, the past tense requires 'had'."
         },
         {
           "letter": "C",
@@ -703,12 +703,6 @@
       "context": "Discussing education systems in Cartagena.",
       "options": [
         {
-          "letter": "C",
-          "text": "it",
-          "is_correct": true,
-          "feedback": "A focus construction puts 'it' directly after the verb to say that the exclusion falls on the named item alone. The clause 'none of the living costs' then supplies what is being denied, which is exactly the pattern."
-        },
-        {
           "letter": "A",
           "text": "them",
           "is_correct": false,
@@ -719,6 +713,12 @@
           "text": "this",
           "is_correct": false,
           "feedback": "'This' points back to something already mentioned and would stand for tuition or books, not for the costs introduced afterwards. The focus has to fall on the costs the clause is about to name."
+        },
+        {
+          "letter": "C",
+          "text": "it",
+          "is_correct": true,
+          "feedback": "A focus construction puts 'it' directly after the verb to say that the exclusion falls on the named item alone. The clause 'none of the living costs' then supplies what is being denied, which is exactly the pattern."
         },
         {
           "letter": "D",
@@ -749,32 +749,32 @@
       "context": "Discussing education systems in Pereira.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
           "text": "They are literally looking for something in the trees of Cali.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads the idiom word for word; nobody in the debate is searching any trees, because the phrase is figurative and describes a mistaken strategy."
         },
         {
           "letter": "B",
           "text": "The approach is too noisy and aggressive.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. 'Barking' here does not describe loud or aggressive behaviour; the idiom is about aiming at the wrong target, not about the tone of the discussion."
         },
         {
           "letter": "C",
           "text": "A new environmental project involving trees should be started.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The speaker is criticising the current approach, not proposing a new project; 'tree' is part of a fixed expression and has no literal meaning here."
+        },
+        {
+          "letter": "D",
+          "text": "The current strategy is directed towards the wrong objective.",
+          "is_correct": true,
+          "feedback": "Correct. 'Bark up the wrong tree' comes from hunting dogs barking at a tree the animal is not in, so it means putting effort into the wrong cause or the wrong solution."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'To bark up the wrong tree' means to look for a cause or a solution in the wrong place. The words 'with this approach' show that the speaker is questioning the strategy itself, so only the figurative reading fits; the literal options ignore that an idiom is a fixed expression whose meaning is not the sum of its words.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-ING-11-2026-W26-education-systems-001-MASTERY-bundle-v18",
-      "statement": "In a high-level debate about education systems, Nicolás says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Nicolás mean?",
-      "context": "Discussing education systems in Cartagena.",
+      "statement": "Two Grade 11 students in Cartagena talk the night before an exam.\n\nSofía: 'Are you going to study the whole book tonight?'\nMateo: 'No way. I'm going to hit the books for two hours and then get some sleep.'\n\nWhat does Mateo plan to do?",
+      "context": "A conversation between two Grade 11 students in Cartagena preparing for exams.",
       "options": [
         {
-          "letter": "B",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "letter": "A",
+          "text": "Throw his books because he is angry about the exam.",
+          "is_correct": false,
+          "feedback": "Incorrect. This takes 'hit' literally; the idiom describes studying, not hitting objects."
         },
         {
-          "letter": "A",
-          "text": "They are literally looking for something in the trees of Bogotá.",
-          "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "letter": "B",
+          "text": "Study seriously for two hours and then rest.",
+          "is_correct": true,
+          "feedback": "Correct. 'Hit the books' means to study hard; he limits it to two hours and then plans to sleep."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Study the whole book without sleeping.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. He answers 'No way' to that idea and plans to sleep after two hours."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Sell his books after the exam.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. Nothing in the dialogue refers to selling anything; the conversation is about how to prepare tonight."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Hit the books' is an informal idiom meaning to study intensively. The dialogue contrasts two plans: studying the whole book (rejected with 'No way') and a limited period of focused study followed by rest. Understanding the response marker 'No way' as a strong negative is also part of the pragmatic skill tested.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -883,36 +883,36 @@
     },
     {
       "id": "CO-ING-11-2026-W26-education-systems-001-MASTERY-bundle-v20",
-      "statement": "In a high-level debate about education systems, Mateo says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mateo mean?",
-      "context": "Discussing education systems in Cali.",
+      "statement": "At a parents' meeting in Cali, the principal explains a new schedule.\n\nPrincipal: 'From next year, classes will finish at 3 p.m. instead of 1 p.m.'\nMr. Ramírez: 'With all due respect, many of our children work with their families in the afternoon. Was that taken into account?'\n\nWhat is Mr. Ramírez doing?",
+      "context": "A parents' meeting at a public school in Cali about a new schedule.",
       "options": [
         {
-          "letter": "B",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "letter": "A",
+          "text": "Thanking the principal for the longer school day.",
+          "is_correct": false,
+          "feedback": "Incorrect. He raises a problem about children who work in the afternoon, which is a concern, not thanks."
         },
         {
-          "letter": "A",
-          "text": "They are literally looking for something in the trees of Bucaramanga.",
-          "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "letter": "B",
+          "text": "Politely expressing a concern and questioning the decision.",
+          "is_correct": true,
+          "feedback": "Correct. 'With all due respect' is a formal way to introduce disagreement, and his question asks whether the families' situation was considered."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Asking the principal to finish classes even later.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. His worry is about afternoons being occupied, so he would not want classes to finish later than 3 p.m."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Showing that he respects the principal and agrees completely.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. Despite the word 'respect', this phrase usually comes before an objection; his question shows doubt, not total agreement."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'With all due respect' is a pragmatic marker that softens disagreement in formal situations. Although it contains the word 'respect', it usually announces that the speaker is going to challenge what was said. Here, the follow-up question about working children confirms that Mr. Ramírez is objecting politely.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

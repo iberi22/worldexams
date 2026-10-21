@@ -869,15 +869,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "$g(x) = 3^x$",
-          "is_correct": true,
-          "feedback": "Correcto. Partiendo de $\\log_3(y) = x$ se despeja en forma exponencial y se obtiene $3^x = y$, que es el criterio de $g$."
-        },
-        {
-          "letter": "B",
           "text": "$g(x) = x^3$",
           "is_correct": false,
           "feedback": "Se han intercambiado base y exponente: la base 3 se mantiene como base y la variable pasa a ser el exponente."
+        },
+        {
+          "letter": "B",
+          "text": "$g(x) = 3^x$",
+          "is_correct": true,
+          "feedback": "Correcto. Partiendo de $\\log_3(y) = x$ se despeja en forma exponencial y se obtiene $3^x = y$, que es el criterio de $g$."
         },
         {
           "letter": "C",
@@ -892,7 +892,7 @@
           "feedback": "Multiplicar por 3 es una operación lineal y no invierte a un logaritmo en base 3."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Como $g$ es la inversa de $f(x) = \\log_3(x)$, se cumple $g(f(x)) = x$. Escribiendo $y = \\log_3(x)$ y despejando, $3^y = x$; al intercambiar los nombres de las variables resulta $g(y) = 3^y$, es decir $g(x) = 3^x$, que es el comportamiento dual de exponencial y logaritmo.\n\n---",
       "difficulty": "10",
       "images": [],

@@ -36,15 +36,15 @@ Choose the sentence that is grammatically correct in the present simple.
 ### Opciones
 - [ ] A) She work at a pharmacy on Saturdays.
   <!-- feedback: Missing the third person singular -s: it would have to be 'She works'. -->
-- [ ] B) She works at a pharmacy on Saturday.
-  <!-- feedback: The habitual action happens every Saturday, so the day must be plural: 'on Saturdays'. -->
+- [ ] B) She working at a pharmacy on Saturdays.
+  <!-- feedback: Without an auxiliary, the -ing form cannot be the main verb: it would need 'She is working', which is not the present simple. -->
 - [ ] C) She is work at a pharmacy on Saturdays.
   <!-- feedback: Mixing two present forms: the verb cannot be both 'is' and the bare 'work'. -->
 - [x] D) She works at a pharmacy on Saturdays.
   <!-- feedback: Third person singular takes -s in the present simple, so this form is correct. -->
 
 ### Explicacion Pedagogica
-En presente simple, el verbo cambia su terminacion segun el sujeto: -s en he/she/it, -0 en I/you/we/they. Solo la opcion B respeta esa regla.
+En presente simple, el verbo cambia su terminacion segun el sujeto: -s en he/she/it, -0 en I/you/we/they. Solo 'She works at a pharmacy on Saturdays' respeta esa regla; 'work' omite la -s, 'is work' mezcla dos tiempos y 'working' necesita el auxiliar 'is'.
 
 ---
 

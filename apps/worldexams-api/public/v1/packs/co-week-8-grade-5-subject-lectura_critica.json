@@ -59,12 +59,6 @@
       "context": "Lee: \"Una historieta cuenta una historia mediante una secuencia de viñetas que el lector debe seguir de izquierda a derecha y de arriba hacia abajo.\"",
       "options": [
         {
-          "letter": "C",
-          "text": "Porque el orden de las viñetas determina la secuencia lógica de la historia narrada.",
-          "is_correct": true,
-          "feedback": "Cambiar el orden altera el significado y la coherencia de la historieta."
-        },
-        {
           "letter": "A",
           "text": "Porque el orden solo importa al final del libro.",
           "is_correct": false,
@@ -75,6 +69,12 @@
           "text": "Porque el orden no influye en la comprensión del relato.",
           "is_correct": false,
           "feedback": "El orden de las viñetas es clave para entender la historia."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el orden de las viñetas determina la secuencia lógica de la historia narrada.",
+          "is_correct": true,
+          "feedback": "Cambiar el orden altera el significado y la coherencia de la historieta."
         },
         {
           "letter": "D",
@@ -105,16 +105,16 @@
       "context": "Un estudiante debe ordenar las viñetas de una historieta en la que un niño pierde su perro y luego lo encuentra gracias a un aviso en el barrio.",
       "options": [
         {
-          "letter": "B",
-          "text": "El niño juega con su perro, luego lo busca llorando y al final lo encuentra por un aviso.",
-          "is_correct": true,
-          "feedback": "El orden sigue una secuencia lógica: inicio, conflicto y desenlace."
-        },
-        {
           "letter": "A",
           "text": "El niño encuentra al perro, luego lo busca y después juega con él.",
           "is_correct": false,
           "feedback": "Este orden altera la lógica temporal del relato."
+        },
+        {
+          "letter": "B",
+          "text": "El niño juega con su perro, luego lo busca llorando y al final lo encuentra por un aviso.",
+          "is_correct": true,
+          "feedback": "El orden sigue una secuencia lógica: inicio, conflicto y desenlace."
         },
         {
           "letter": "C",
@@ -151,16 +151,16 @@
       "context": "Lee: \"En una historieta, los globos de texto pueden mostrar diálogos (con cola), pensamientos (con forma de nube) y gritos (con borde dentado).\"",
       "options": [
         {
-          "letter": "B",
-          "text": "Que el personaje está gritando o expresando una emoción intensa.",
-          "is_correct": true,
-          "feedback": "Los bordes dentados suelen indicar gritos o emociones fuertes."
-        },
-        {
           "letter": "A",
           "text": "Que el personaje está durmiendo profundamente.",
           "is_correct": false,
           "feedback": "El sueño se representa de otra manera, no con borde dentado."
+        },
+        {
+          "letter": "B",
+          "text": "Que el personaje está gritando o expresando una emoción intensa.",
+          "is_correct": true,
+          "feedback": "Los bordes dentados suelen indicar gritos o emociones fuertes."
         },
         {
           "letter": "C",
@@ -197,12 +197,6 @@
       "context": "En una historieta, aparece una nube con la palabra \"¡ZAS!\" y un personaje cayendo.",
       "options": [
         {
-          "letter": "C",
-          "text": "Una onomatopeya para representar un sonido fuerte del golpe.",
-          "is_correct": true,
-          "feedback": "\"¡ZAS!\" es una onomatopeya que reproduce un golpe o impacto."
-        },
-        {
           "letter": "A",
           "text": "Un pensamiento profundo del personaje.",
           "is_correct": false,
@@ -213,6 +207,12 @@
           "text": "Un diálogo en voz baja.",
           "is_correct": false,
           "feedback": "Los diálogos no se escriben con onomatopeyas como \"¡ZAS!\"."
+        },
+        {
+          "letter": "C",
+          "text": "Una onomatopeya para representar un sonido fuerte del golpe.",
+          "is_correct": true,
+          "feedback": "\"¡ZAS!\" es una onomatopeya que reproduce un golpe o impacto."
         },
         {
           "letter": "D",
@@ -289,12 +289,6 @@
       "context": "Lee: \"En muchas historietas, el autor usa el encuadre para mostrar el rostro del personaje cuando quiere transmitir una emoción fuerte.\"",
       "options": [
         {
-          "letter": "C",
-          "text": "Intensificar la emoción del personaje y captar la atención del lector.",
-          "is_correct": true,
-          "feedback": "El primer plano acerca al lector a las emociones del personaje."
-        },
-        {
           "letter": "A",
           "text": "Ocultar completamente la emoción del personaje.",
           "is_correct": false,
@@ -305,6 +299,12 @@
           "text": "Cambiar el orden de las viñetas en la página.",
           "is_correct": false,
           "feedback": "El encuadre no altera el orden, sino el enfoque visual."
+        },
+        {
+          "letter": "C",
+          "text": "Intensificar la emoción del personaje y captar la atención del lector.",
+          "is_correct": true,
+          "feedback": "El primer plano acerca al lector a las emociones del personaje."
         },
         {
           "letter": "D",
@@ -335,12 +335,6 @@
       "context": "Lee: 'Leer historietas desarrolla la comprensión de secuencias narrativas, la interpretación de imágenes y el gusto por la lectura. Es un puente entre la literatura, el cine y el arte visual.'",
       "options": [
         {
-          "letter": "C",
-          "text": "Porque desarrollan la comprensión narrativa, la lectura de imágenes y el gusto por la lectura en distintos formatos.",
-          "is_correct": true,
-          "feedback": "Las historietas son un recurso valioso para formar lectores competentes y críticos."
-        },
-        {
           "letter": "A",
           "text": "Porque las historietas no aportan nada a la formación lectora.",
           "is_correct": false,
@@ -353,13 +347,19 @@
           "feedback": "Las historietas tienen valor educativo y cultural, no solo entretenimiento."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque deberían sustituir completamente a los libros de texto.",
           "is_correct": false,
           "feedback": "Las historietas complementan, no sustituyen, a otros materiales de lectura."
+        },
+        {
+          "letter": "D",
+          "text": "Porque desarrollan la comprensión narrativa, la lectura de imágenes y el gusto por la lectura en distintos formatos.",
+          "is_correct": true,
+          "feedback": "Las historietas son un recurso valioso para formar lectores competentes y críticos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Evaluar la importancia de la historieta como recurso para el desarrollo de la lectura crítica.",
       "difficulty": "10",
       "images": [],

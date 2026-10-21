@@ -19,12 +19,6 @@
           "feedback": "'The scientist' implies a specific one; 'empirical evidence' is uncountable/general."
         },
         {
-          "letter": "D",
-          "text": "A / -",
-          "is_correct": true,
-          "feedback": "Correct. 'A scientist' (any scientist) + zero article for uncountable general concept."
-        },
-        {
           "letter": "B",
           "text": "An / the",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "- / -",
           "is_correct": false,
           "feedback": "Needs an article for 'scientist'."
+        },
+        {
+          "letter": "D",
+          "text": "A / -",
+          "is_correct": true,
+          "feedback": "Correct. 'A scientist' (any scientist) + zero article for uncountable general concept."
         }
       ],
       "correct_answer": "D",
@@ -65,16 +65,16 @@
           "feedback": "'The' is used for a specific unique object, but a year takes no article, so 'the' cannot appear before 1928."
         },
         {
-          "letter": "C",
-          "text": "- / -",
-          "is_correct": true,
-          "feedback": "Correct. Zero article for substances (penicillin) and years."
-        },
-        {
           "letter": "B",
           "text": "a / -",
           "is_correct": false,
           "feedback": "'A' is right for the year but wrong for penicillin: names of substances take no article."
+        },
+        {
+          "letter": "C",
+          "text": "- / -",
+          "is_correct": true,
+          "feedback": "Correct. Zero article for substances (penicillin) and years."
         },
         {
           "letter": "D",
@@ -111,12 +111,6 @@
           "feedback": "'A' and 'an' are used for any single countable object, but the Moon is unique and takes 'the'."
         },
         {
-          "letter": "D",
-          "text": "The / the / -",
-          "is_correct": true,
-          "feedback": "Correct. 'The' for unique bodies + zero article for planets like Earth (unless preceded by 'the planet')."
-        },
-        {
           "letter": "B",
           "text": "The / the / the",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "- / - / -",
           "is_correct": false,
           "feedback": "The Moon is a unique body and requires 'the'; zero article would leave the sentence ungrammatical."
+        },
+        {
+          "letter": "D",
+          "text": "The / the / -",
+          "is_correct": true,
+          "feedback": "Correct. 'The' for unique bodies + zero article for planets like Earth (unless preceded by 'the planet')."
         }
       ],
       "correct_answer": "D",
@@ -151,16 +151,16 @@
       "context": "An article about the importance of technology.",
       "options": [
         {
-          "letter": "B",
-          "text": "The / a / -",
-          "is_correct": false,
-          "feedback": "'The' is not right for technology as a general concept, and the phrase 'the role' would also be wrong: it is 'a role'."
-        },
-        {
           "letter": "A",
           "text": "- / a / the",
           "is_correct": true,
           "feedback": "Correct. Zero article for general concepts (technology) + 'a' for singular + 'the' for specific noun phrase."
+        },
+        {
+          "letter": "B",
+          "text": "The / a / -",
+          "is_correct": false,
+          "feedback": "'The' is not right for technology as a general concept, and the phrase 'the role' would also be wrong: it is 'a role'."
         },
         {
           "letter": "C",
@@ -203,12 +203,6 @@
           "feedback": "Possible, but B is more specific for the name of the prize."
         },
         {
-          "letter": "D",
-          "text": "the / the / -",
-          "is_correct": true,
-          "feedback": "Correct. 'The' for specific names of prizes/superlatives + zero article for academic fields."
-        },
-        {
           "letter": "B",
           "text": "the / - / the",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "- / the / -",
           "is_correct": false,
           "feedback": "Needs 'the' for the prize."
+        },
+        {
+          "letter": "D",
+          "text": "the / the / -",
+          "is_correct": true,
+          "feedback": "Correct. 'The' for specific names of prizes/superlatives + zero article for academic fields."
         }
       ],
       "correct_answer": "D",
@@ -249,16 +249,16 @@
           "feedback": "Incorrect for 'results'."
         },
         {
-          "letter": "C",
-          "text": "The / the / a",
-          "is_correct": true,
-          "feedback": "Correct. Specific results + specific experiment + any journal."
-        },
-        {
           "letter": "B",
           "text": "The / an / the",
           "is_correct": false,
           "feedback": "Possible, but B is more standard for a narrative."
+        },
+        {
+          "letter": "C",
+          "text": "The / the / a",
+          "is_correct": true,
+          "feedback": "Correct. Specific results + specific experiment + any journal."
         },
         {
           "letter": "D",
@@ -295,12 +295,6 @@
           "feedback": "Incorrect for general energy."
         },
         {
-          "letter": "D",
-          "text": "- / an / -",
-          "is_correct": true,
-          "feedback": "Correct. Zero article for general energy sources (solar power, coal) + 'an' for singular adjective-noun."
-        },
-        {
           "letter": "B",
           "text": "- / a / the",
           "is_correct": false,
@@ -311,6 +305,12 @@
           "text": "The / the / the",
           "is_correct": false,
           "feedback": "'The solar power' and 'the coal' are wrong: as general energy sources both take zero article."
+        },
+        {
+          "letter": "D",
+          "text": "- / an / -",
+          "is_correct": true,
+          "feedback": "Correct. Zero article for general energy sources (solar power, coal) + 'an' for singular adjective-noun."
         }
       ],
       "correct_answer": "D",
@@ -341,12 +341,6 @@
           "feedback": "Possible, but B is for the invention itself."
         },
         {
-          "letter": "D",
-          "text": "The / - / a / the",
-          "is_correct": true,
-          "feedback": "Correct. 'The' for inventions + zero for names + 'a' for nationality + 'the' for countries with 'United'."
-        },
-        {
           "letter": "B",
           "text": "- / - / a / -",
           "is_correct": false,
@@ -357,6 +351,12 @@
           "text": "The / the / the / the",
           "is_correct": false,
           "feedback": "Incorrect for name."
+        },
+        {
+          "letter": "D",
+          "text": "The / - / a / the",
+          "is_correct": true,
+          "feedback": "Correct. 'The' for inventions + zero for names + 'a' for nationality + 'the' for countries with 'United'."
         }
       ],
       "correct_answer": "D",
@@ -381,16 +381,16 @@
       "context": "Discussing future space exploration.",
       "options": [
         {
-          "letter": "B",
-          "text": "the / the / a",
-          "is_correct": false,
-          "feedback": "Incorrect for humans/Mars."
-        },
-        {
           "letter": "A",
           "text": "- / - / a",
           "is_correct": true,
           "feedback": "Correct. Zero article for people as a group + zero for planets + 'a' for singular noun."
+        },
+        {
+          "letter": "B",
+          "text": "the / the / a",
+          "is_correct": false,
+          "feedback": "Incorrect for humans/Mars."
         },
         {
           "letter": "C",
@@ -427,12 +427,6 @@
       "context": "A formal discussion on biodiversity.",
       "options": [
         {
-          "letter": "D",
-          "text": "The / a / - / -",
-          "is_correct": true,
-          "feedback": "Correct. 'The' for specific geographic regions + 'a' for 'a number of' + zero for science."
-        },
-        {
           "letter": "A",
           "text": "- / the / - / the",
           "is_correct": false,
@@ -449,6 +443,12 @@
           "text": "- / a / the / the",
           "is_correct": false,
           "feedback": "The Amazon needs 'The' for a specific region, and 'science' takes zero article, not 'the'."
+        },
+        {
+          "letter": "D",
+          "text": "The / a / - / -",
+          "is_correct": true,
+          "feedback": "Correct. 'The' for specific geographic regions + 'a' for 'a number of' + zero for science."
         }
       ],
       "correct_answer": "D",
@@ -473,16 +473,16 @@
       "context": "Critique of an academic theory.",
       "options": [
         {
-          "letter": "B",
-          "text": "A / - / - / -",
-          "is_correct": false,
-          "feedback": "Incorrect for specific theory."
-        },
-        {
           "letter": "A",
           "text": "The / - / - / -",
           "is_correct": true,
           "feedback": "Correct. 'The' for specific theory + zero for name and general abstract concepts."
+        },
+        {
+          "letter": "B",
+          "text": "A / - / - / -",
+          "is_correct": false,
+          "feedback": "Incorrect for specific theory."
         },
         {
           "letter": "C",
@@ -519,12 +519,6 @@
       "context": "A complex theoretical conclusion.",
       "options": [
         {
-          "letter": "D",
-          "text": "The / the / the / -",
-          "is_correct": true,
-          "feedback": "Correct double comparative with specific 'universe' and general 'life'."
-        },
-        {
           "letter": "A",
           "text": "- / the / - / the",
           "is_correct": false,
@@ -532,18 +526,24 @@
         },
         {
           "letter": "B",
-          "text": "The / - / the / -",
-          "is_correct": false,
-          "feedback": "'The universe' is the standard unique name."
+          "text": "The / the / the / -",
+          "is_correct": true,
+          "feedback": "Correct double comparative with specific 'universe' and general 'life'."
         },
         {
           "letter": "C",
           "text": "More / the / more / -",
           "is_correct": false,
           "feedback": "'More more' has no article on either comparative, so the parallel structure the sentence requires is lost."
+        },
+        {
+          "letter": "D",
+          "text": "The / - / the / -",
+          "is_correct": false,
+          "feedback": "'The universe' is the standard unique name."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "Mastery level: Combining the 'The + comparative, the + comparative' structure with complex article rules for unique and abstract nouns.\n\n---",
       "difficulty": "10",
       "images": [],

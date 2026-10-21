@@ -169,7 +169,7 @@ Señale la oración que presenta un uso INCORRECTO del conector causal 'ya que':
   <!-- feedback: Incorrecto. Uso correcto: la causa de comprar abrigos es el viaje a Puno. -->
 
 ### Explicacion Pedagogica
-El conector 'ya que' es causal y debe encabezar la premisa que explica el porqué del hecho principal. En la opción C, se ha invertido el sentido o se ha usado un nexo inapropiado para la realidad fáctica descrita.
+El conector 'ya que' es causal y debe encabezar la premisa que explica el porqué del hecho principal. En 'El sol brillaba intensamente, ya que salimos a caminar' la relación está invertida: salir a caminar no es la causa de que brille el sol, sino su consecuencia. Lo correcto sería 'Salimos a caminar por el malecón, ya que el sol brillaba intensamente'.
 
 ---
 

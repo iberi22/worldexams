@@ -515,7 +515,7 @@ Lea el fragmento sobre la biodiversidad andina:
   <!-- feedback: Incorrecto. Sobredimensiona la presencia de hiatos simples en palabras que no poseen secuencias de vocales contiguas. -->
 
 ### Explicacion Pedagogica
-Vamos a afinar el conteo exacto de secuencias vocálicas de la opción C para que pase cualquier control riguroso de la UNI o San Marcos.
+Un diptongo une una vocal cerrada átona con otra vocal en la misma sílaba: vie-jo, sau-ce, si-len-cio-sa-men-te, ha-cia, cuan-do y a-gua-ce-ro suman 6. Un hiato acentual aparece cuando la vocal cerrada lleva tilde y se separa de la vecina: bú-ho, ba-hí-a y frí-o suman 3, porque la h intermedia no impide el hiato. En 'huyó' la y es consonante y en 'que' la u es muda, así que no cuentan.
 
 ---
 

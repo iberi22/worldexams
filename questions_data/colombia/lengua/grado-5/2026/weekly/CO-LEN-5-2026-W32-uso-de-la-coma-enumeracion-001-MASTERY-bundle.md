@@ -30,14 +30,15 @@ Bundle semanal para reconocer y aplicar la coma en listas y enumeraciones de la 
 ### Enunciado
 Lee la lista: "El tendero vendió manzanas, peras, mangos y bananos". ¿Qué signo separa los elementos de la lista?
 ### Opciones
-- [x] D) La coma.
-  <!-- feedback: Es correcta porque las comas separan manzanas, peras y mangos dentro de la lista. -->
 - [ ] A) El punto final.
   <!-- feedback: Es incorrecta porque el punto final cierra la oración y no separa elementos. -->
 - [ ] B) Los dos puntos.
   <!-- feedback: Es incorrecta porque en la lista no aparece ese signo. -->
 - [ ] C) El signo de interrogación.
   <!-- feedback: Es incorrecta porque la oración no es una pregunta. -->
+- [x] D) La coma.
+  <!-- feedback: Es correcta porque las comas separan manzanas, peras y mangos dentro de la lista. -->
+
 ### Explicacion Pedagogica
 La coma es el signo que separa los elementos de una enumeración. En la lista del tendero, cada fruta queda separada por una coma, y antes del último elemento se usa la palabra "y". Reconocer este uso ayuda a leer y a escribir listas con claridad.
 
@@ -50,14 +51,15 @@ La coma es el signo que separa los elementos de una enumeración. En la lista de
 ### Enunciado
 ¿Qué se entiende sobre el uso de la coma en la oración "En mi morral llevo cuadernos, colores, regla y borrador"?
 ### Opciones
-- [x] D) Que la coma separa los elementos de una enumeración.
-  <!-- feedback: Es correcta porque cada útil queda separado por una coma dentro de la lista. -->
 - [ ] A) Que la coma sirve para terminar la oración.
   <!-- feedback: Es incorrecta porque la oración termina con un punto, no con una coma. -->
 - [ ] B) Que la coma reemplaza algunas palabras.
   <!-- feedback: Es incorrecta porque la coma es un signo y no sustituye palabras. -->
 - [ ] C) Que la coma cambia el significado de los útiles.
   <!-- feedback: Es incorrecta porque los útiles siguen siendo los mismos. -->
+- [x] D) Que la coma separa los elementos de una enumeración.
+  <!-- feedback: Es correcta porque cada útil queda separado por una coma dentro de la lista. -->
+
 ### Explicacion Pedagogica
 Entender el uso de la coma en enumeraciones consiste en identificar su función: separar elementos de la misma clase. En la lista de Camila, la coma organiza los útiles y la "y" cierra la enumeración. Este aprendizaje se aplica al escribir tareas, listas de mercado y normas del salón.
 
@@ -70,14 +72,15 @@ Entender el uso de la coma en enumeraciones consiste en identificar su función:
 ### Enunciado
 ¿Cuál es la forma correcta de escribir la oración?
 ### Opciones
-- [x] C) Compré pan, leche, huevos y queso.
-  <!-- feedback: Es correcta porque las comas separan los cuatro productos enumerados. -->
 - [ ] A) Compré pan leche, huevos y, queso.
   <!-- feedback: Es incorrecta porque deja juntos los dos primeros productos y separa mal los demás. -->
 - [ ] B) Compré, pan leche huevos y queso.
   <!-- feedback: Es incorrecta porque coloca la coma después del verbo y no entre los productos. -->
+- [x] C) Compré pan, leche, huevos y queso.
+  <!-- feedback: Es correcta porque las comas separan los cuatro productos enumerados. -->
 - [ ] D) Compré pan; leche; huevos, queso.
   <!-- feedback: Es incorrecta porque mezcla el punto y coma con la coma sin seguir la enumeración. -->
+
 ### Explicacion Pedagogica
 Aplicar la coma en una enumeración exige colocar el signo entre cada elemento y dejar la "y" solo antes del último. La oración correcta separa pan, leche, huevos y queso. Revisar dónde va cada coma evita confusiones cuando se escriben listas de compras o de tareas.
 
@@ -98,6 +101,7 @@ Aplicar la coma en una enumeración exige colocar el signo entre cada elemento y
   <!-- feedback: Es incorrecta porque no se escribe coma inmediatamente después de la "y". -->
 - [ ] D) Al final de toda la lista.
   <!-- feedback: Es incorrecta porque el final de la oración lleva punto, no coma. -->
+
 ### Explicacion Pedagogica
 Aplicar la coma requiere localizar los límites entre los elementos. En "jugos de mango agua galletas y empanadas" el primer elemento es "jugos de mango", así que la coma va después de "mango". Fijarse en los grupos de palabras y no solo en las palabras sueltas mejora la escritura de listas.
 
@@ -110,14 +114,15 @@ Aplicar la coma requiere localizar los límites entre los elementos. En "jugos d
 ### Enunciado
 ¿Qué función cumple la coma en esa oración?
 ### Opciones
-- [x] C) Separar los productos y sus precios dentro de la enumeración.
-  <!-- feedback: Es correcta porque cada grupo de producto y precio queda separado por comas. -->
 - [ ] A) Indicar que la oración terminó.
   <!-- feedback: Es incorrecta porque la oración termina con un punto. -->
 - [ ] B) Mostrar que la familia hace una pregunta.
   <!-- feedback: Es incorrecta porque la oración afirma un gasto, no pregunta nada. -->
+- [x] C) Separar los productos y sus precios dentro de la enumeración.
+  <!-- feedback: Es correcta porque cada grupo de producto y precio queda separado por comas. -->
 - [ ] D) Unir los productos en un solo grupo.
   <!-- feedback: Es incorrecta porque la coma separa los grupos y no los une. -->
+
 ### Explicacion Pedagogica
 En una enumeración con precios, la coma separa cada producto con su valor y la "y" cierra la lista. Así se distinguen los 12000 pesos de la papa, los 8000 pesos del arroz y los 5000 pesos del pan. Usar bien la coma ayuda a llevar cuentas claras en pesos colombianos y a comunicar los gastos sin confusiones.
 
@@ -130,14 +135,15 @@ En una enumeración con precios, la coma separa cada producto con su valor y la 
 ### Enunciado
 Juan escribió "Traje lápices, borrador y regla". Sara escribió "Traje lápices borrador y regla". ¿Cuál es la diferencia principal entre las dos oraciones?
 ### Opciones
-- [x] C) Que la oración de Juan separa los elementos con comas y la de Sara no.
-  <!-- feedback: Es correcta porque Juan usa comas en la enumeración y Sara las omite. -->
 - [ ] A) Que la oración de Sara usa más comas que la de Juan.
   <!-- feedback: Es incorrecta porque Sara no escribe ninguna coma. -->
 - [ ] B) Que las dos oraciones hablan de objetos diferentes.
   <!-- feedback: Es incorrecta porque ambas mencionan los mismos útiles. -->
+- [x] C) Que la oración de Juan separa los elementos con comas y la de Sara no.
+  <!-- feedback: Es correcta porque Juan usa comas en la enumeración y Sara las omite. -->
 - [ ] D) Que la oración de Juan está incompleta.
   <!-- feedback: Es incorrecta porque la oración de Juan tiene sujeto, verbo y lista completa. -->
+
 ### Explicacion Pedagogica
 Analizar dos versiones de una misma oración permite ver el efecto de la coma. La versión de Juan separa los elementos y se lee con facilidad; la de Sara junta las palabras y dificulta distinguir cada útil. Comparar escrituras parecidas ayuda a comprender por qué la puntuación ordena la información.
 
@@ -150,14 +156,15 @@ Analizar dos versiones de una misma oración permite ver el efecto de la coma. L
 ### Enunciado
 ¿Para qué se usan las comas en el aviso del colegio?
 ### Opciones
-- [x] D) Para enumerar los elementos que el estudiante debe llevar.
-  <!-- feedback: Es correcta porque las comas separan cada objeto de la lista. -->
 - [ ] A) Para señalar que el aviso es una pregunta.
   <!-- feedback: Es incorrecta porque el aviso no pregunta nada y termina con punto. -->
 - [ ] B) Para indicar que la actividad terminó antes del viernes.
   <!-- feedback: Es incorrecta porque la coma no informa sobre fechas. -->
 - [ ] C) Para separar únicamente la primera palabra del aviso.
   <!-- feedback: Es incorrecta porque las comas separan varios elementos y no solo el primero. -->
+- [x] D) Para enumerar los elementos que el estudiante debe llevar.
+  <!-- feedback: Es correcta porque las comas separan cada objeto de la lista. -->
+
 ### Explicacion Pedagogica
 Analizar un aviso exige identificar la intención de cada signo. Las comas ordenan lo que el estudiante debe llevar y la "y" cierra la lista. Comprender esta función permite leer instrucciones escolares con rapidez y cumplir con los materiales pedidos.
 
@@ -170,13 +177,14 @@ Analizar un aviso exige identificar la intención de cada signo. Las comas orden
 ### Enunciado
 ¿Cuál de las oraciones está escrita correctamente con el uso de la coma?
 ### Opciones
-- [x] C) En el salón cuidamos los libros, las sillas, las paredes y el tablero.
-  <!-- feedback: Es correcta porque las comas separan los cuatro elementos de la enumeración. -->
 - [ ] A) En el salón, cuidamos los libros las sillas las paredes y el tablero.
   <!-- feedback: Es incorrecta porque coloca una sola coma y deja unidos los elementos de la lista. -->
-- [ ] B) En el salón cuidamos los libros las sillas, las paredes, y el tablero.
+- [x] B) En el salón cuidamos los libros, las sillas, las paredes y el tablero.
+  <!-- feedback: Es correcta porque las comas separan los cuatro elementos de la enumeración. -->
+- [ ] C) En el salón cuidamos los libros las sillas, las paredes, y el tablero.
   <!-- feedback: Es incorrecta porque omite comas y deja una coma antes de la "y" al final. -->
 - [ ] D) En el salón cuidamos, los libros, las sillas las paredes y el tablero.
   <!-- feedback: Es incorrecta porque pone coma después del verbo y deja parte de la lista sin separar. -->
+
 ### Explicacion Pedagogica
 Evaluar una oración completa exige revisar toda la puntuación y no solo una parte. La forma correcta separa con comas los cuatro elementos y usa la "y" antes del último. Publicar textos bien escritos en el periódico mural demuestra respeto por los lectores y cuidado con el lenguaje.

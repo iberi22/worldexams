@@ -336,9 +336,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Decirle a todos que su compañero es frágil",
-          "is_correct": false,
-          "feedback": "Incorrecto. Hacer pública la condición de salud de un compañero hiere su dignidad y no evita que sufra."
+          "text": "Avisarle con voz suave y buscar a un adulto que pueda ayudar",
+          "is_correct": true,
+          "feedback": "Correcto. Avisarle sin humillarlo y pedir ayuda a un adulto evita el daño sin exponerlo delante de todos."
         },
         {
           "letter": "B",
@@ -348,9 +348,9 @@
         },
         {
           "letter": "C",
-          "text": "Avisarle con voz suave y buscar a un adulto que pueda ayudar",
-          "is_correct": true,
-          "feedback": "Correcto. Avisarle sin humillarlo y pedir ayuda a un adulto evita el daño sin exponerlo delante de todos."
+          "text": "Decirle a todos que su compañero es frágil",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hacer pública la condición de salud de un compañero hiere su dignidad y no evita que sufra."
         },
         {
           "letter": "D",
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Empujar puede golpearlo y es una forma agresiva de resolver; la ayuda se hace hablando y llamando a un adulto."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Vivir con una alergia es una condición de salud que las demás personas deben respetar sin burlarse. Si un compañero está a punto de comer algo que le hace daño, actuar responsablemente significa advertirle de manera amable, sin hacerlo público, y buscar la ayuda de un adulto que sepa qué hacer. Esa actitud combina tres valores: la responsabilidad de evitar un daño, el respeto por la dignidad de la persona y la búsqueda de ayuda adulta cuando la situación es grave. Enseñar esta forma de actuar prepara a los niños para cumplir una norma social básica: el cuidado del otro va primero, incluso sobre la comodidad personal.",
       "difficulty": "8",
       "images": [],

@@ -38,7 +38,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "Tras el rechazo del plebiscito del 2 de octubre de 2016 y una renegociación con incorporaciones de la oposición, el Acuerdo Final se firmó en el Teatro Colón de Bogotá el 24 de noviembre de 2016. Consta de cinco puntos: reforma rural integral, participación política, fin del conflicto, solución al problema de drogas ilícitas y víctimas, más implementación, verificación y refrendación, y fue convalidado por el Acto Legislativo 01 de 2017, el \"Acto Legislativo para la Paz\".",
+      "explanation": "Tras el rechazo del plebiscito del 2 de octubre de 2016 y una renegociación con incorporaciones de la oposición, el Acuerdo Final se firmó en el Teatro Colón de Bogotá el 24 de noviembre de 2016. Consta de cinco puntos: reforma rural integral, participación política, fin del conflicto, solución al problema de drogas ilícitas y víctimas, más implementación, verificación y refrendación. El Congreso lo refrendó el 29 y 30 de noviembre de 2016; el Acto Legislativo 01 de 2016, llamado \"Acto Legislativo para la Paz\", creó el procedimiento legislativo especial para implementarlo, y el Acto Legislativo 02 de 2017 le dio estabilidad jurídica durante los tres periodos presidenciales siguientes.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -105,16 +105,16 @@
       "context": "En un museo de memoria en Bogotá, un grupo de grado 11 pregunta qué hace distinta a la justicia transicional.",
       "options": [
         {
+          "letter": "A",
+          "text": "El conjunto de medidas judiciales y extrajudiciales que una sociedad adopta para pasar de un conflicto o régimen abusivo a la paz y la democracia, combinando justicia, verdad, reparación y reformas institucionales",
+          "is_correct": true,
+          "feedback": "Correcto. Es la definición del informe del Secretario General de la ONU sobre el estado de derecho y justicia de transición."
+        },
+        {
           "letter": "B",
           "text": "La amnistía total e incondicional para todos los combatientes de un conflicto",
           "is_correct": false,
           "feedback": "Las amnistías totales están prohibidas para graves crímenes de derecho internacional humanitario y derechos humanos."
-        },
-        {
-          "letter": "A",
-          "text": "El conjunto de medidas judiciales y extrajudiciales que un sociedad adopta para pasar de un conflicto o régimen abusivo a la paz y la democracia, combinando justicia, verdad, reparación y reformas institucionales",
-          "is_correct": true,
-          "feedback": "Correcto. Es la definición del informe del Secretario General de la ONU sobre el estado de derecho y justicia de transición."
         },
         {
           "letter": "C",
@@ -151,16 +151,16 @@
       "context": "En un cabildo juvenil de Soacha se pregunta por las víctimas del conflicto.",
       "options": [
         {
-          "letter": "B",
-          "text": "Solo quien haya resultado muerto en operaciones militares",
-          "is_correct": false,
-          "feedback": "El concepto incluye supervivientes de daños individuales y colectivos por violaciones de derechos humanos e infracciones al DIH."
-        },
-        {
           "letter": "A",
           "text": "Quien haya sufrido daño individual o colectivo por hechos ocurridos desde el 1 de enero de 1985 en el marco del conflicto armado, incluidos familiares y personas que intervinieron para auxiliarla",
           "is_correct": true,
           "feedback": "Correcto. Esa es la definición amplia del artículo 3 de la Ley 1448 de 2011."
+        },
+        {
+          "letter": "B",
+          "text": "Solo quien haya resultado muerto en operaciones militares",
+          "is_correct": false,
+          "feedback": "El concepto incluye supervivientes de daños individuales y colectivos por violaciones de derechos humanos e infracciones al DIH."
         },
         {
           "letter": "C",
@@ -203,16 +203,16 @@
           "feedback": "El reconocimiento otorga tratamiento especial, pero los crímenes más graves y lesa humanidad conllevan sanciones propias y no libertad sin condiciones."
         },
         {
-          "letter": "C",
-          "text": "Sanciones propias restaurativas con restricción efectiva de libertades,satisfacción de derechos de las víctimas y comparación de beneficios con el rechazo de la verdad",
-          "is_correct": true,
-          "feedback": "Correcto. A menor verdad, mayor rigor punitivo ordinario o extradicción: el sistema prioriza la verdad restaurativa."
-        },
-        {
           "letter": "B",
           "text": "Pena de cárcel igual a la ordinaria en todos los casos",
           "is_correct": false,
           "feedback": "La justicia transicional existe precisamente para graduar tratamiento según el aporte a la paz y los derechos de las víctimas."
+        },
+        {
+          "letter": "C",
+          "text": "Sanciones propias restaurativas con restricción efectiva de libertades, condicionadas a aportar verdad plena, reparar a las víctimas y garantizar la no repetición",
+          "is_correct": true,
+          "feedback": "Correcto. A menor verdad, mayor rigor punitivo ordinario o extradición: el sistema prioriza la verdad restaurativa."
         },
         {
           "letter": "D",
@@ -222,7 +222,7 @@
         }
       ],
       "correct_answer": "C",
-      "explanation": "El modelo de la JEP combina justicia retributiva y restaurativa: quienes reconocen responsabilidad ante el tribunal acceden a sanciones propias (trabajos restaurativos, restricción de libertades) con verdad, reparación y no repetición como condiciones; quienes ocultan verdad o no se someten enfrentan procesos ordinarios o extradicción, y hasta 20 años en la JEP. Este \"diferencial de beneficios\" es su rasgo característico frente a amnistías y comisiones de verdad puras.",
+      "explanation": "El modelo de la JEP combina justicia retributiva y restaurativa: quienes reconocen responsabilidad ante el tribunal acceden a sanciones propias (trabajos restaurativos, restricción de libertades) con verdad, reparación y no repetición como condiciones; quienes ocultan verdad o no se someten enfrentan procesos ordinarios o extradición, y hasta 20 años en la JEP. Este \"diferencial de beneficios\" es su rasgo característico frente a amnistías y comisiones de verdad puras.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -243,12 +243,6 @@
       "context": "Una familia de Convención, Norte de Santander, busca a un familiar desaparecido en 1998 y acude a una entidad del sistema.",
       "options": [
         {
-          "letter": "C",
-          "text": "La Unidad de Búsqueda de Personas dadas por Desaparecidas, UBPD, creada por el Decreto 589 de 2017",
-          "is_correct": true,
-          "feedback": "Correcto. La UBPD dirige el componente humanitario de búsqueda."
-        },
-        {
           "letter": "A",
           "text": "La Jurisdicción Especial para la Paz",
           "is_correct": false,
@@ -259,6 +253,12 @@
           "text": "La Defensoría del Pueblo exclusivamente",
           "is_correct": false,
           "feedback": "La Defensoría acompaña y promueve derechos, pero la búsqueda es competencia de la Unidad."
+        },
+        {
+          "letter": "C",
+          "text": "La Unidad de Búsqueda de Personas dadas por Desaparecidas, UBPD, creada por el Decreto 589 de 2017",
+          "is_correct": true,
+          "feedback": "Correcto. La UBPD dirige el componente humanitario de búsqueda."
         },
         {
           "letter": "D",
@@ -295,12 +295,6 @@
           "feedback": "La Comisión no tenía funciones jurisdiccionales: su producto es narrativo y de recomendaciones, no punitivo."
         },
         {
-          "letter": "D",
-          "text": "Un informe final entregado el 28 de junio de 2022 —\"Hay futuro si hay verdad\"— con un relato histórico del conflicto y recomendaciones de no repetición",
-          "is_correct": true,
-          "feedback": "Correcto. Tras tres años de trabajo, la Comisión entregó su informe final \"Hay futuro si hay verdad\" el 28 de junio de 2022, con recomendaciones, incluidos hallazgos sobre magnitudes y patrones."
-        },
-        {
           "letter": "B",
           "text": "La reparación económica directa a todas las víctimas del país",
           "is_correct": false,
@@ -311,6 +305,12 @@
           "text": "La devolución inmediata de tierras despojadas a los campesinos",
           "is_correct": false,
           "feedback": "La restitución de tierras la adelantan la URT y jueces y magistrados especializados bajo la Ley 1448."
+        },
+        {
+          "letter": "D",
+          "text": "Un informe final entregado el 28 de junio de 2022 —\"Hay futuro si hay verdad\"— con un relato histórico del conflicto y recomendaciones de no repetición",
+          "is_correct": true,
+          "feedback": "Correcto. Tras tres años de trabajo, la Comisión entregó su informe final \"Hay futuro si hay verdad\" el 28 de junio de 2022, con recomendaciones, incluidos hallazgos sobre magnitudes y patrones."
         }
       ],
       "correct_answer": "D",
@@ -433,12 +433,6 @@
           "feedback": "Los PDET son planes de desarrollo concertados con las comunidades, no un reparto de territorio entre los firmantes."
         },
         {
-          "letter": "D",
-          "text": "Transformar las condiciones materiales que alimentaron el conflicto mediante planes de desarrollo concertados con las comunidades de los territorios más afectados",
-          "is_correct": true,
-          "feedback": "Correcto. Los Programas de Desarrollo con Enfoque Territorial concertados con las comunidades construyen la paz desde los territorios más golpeados."
-        },
-        {
           "letter": "B",
           "text": "Cerrar las fronteras municipales al comercio legal",
           "is_correct": false,
@@ -449,6 +443,12 @@
           "text": "Sustituir a los alcaldes por juntas militares",
           "is_correct": false,
           "feedback": "El ordenamiento constitucional territorial sigue vigente; ninguna junta militar reemplaza mandatarios electos."
+        },
+        {
+          "letter": "D",
+          "text": "Transformar las condiciones materiales que alimentaron el conflicto mediante planes de desarrollo concertados con las comunidades de los territorios más afectados",
+          "is_correct": true,
+          "feedback": "Correcto. Los Programas de Desarrollo con Enfoque Territorial concertados con las comunidades construyen la paz desde los territorios más golpeados."
         }
       ],
       "correct_answer": "D",
@@ -473,12 +473,6 @@
       "context": "Un seminario en Medellín analiza la tensión entre las sanciones \"propias\" de la JEP y el deber internacional de justicia retributiva.",
       "options": [
         {
-          "letter": "C",
-          "text": "Las sanciones restaurativas con restricción efectiva de libertades, verdad plena y reparación satisfacen el deber estatal de investigar, juzgar y sancionar los crímenes más graves",
-          "is_correct": true,
-          "feedback": "Correcto. En eso radicó el examen de la Corte Interamericana y del derecho internacional: sin esas condiciones, la impunidad sería inaceptable."
-        },
-        {
           "letter": "A",
           "text": "La JEP puede condenar también a militares en servicio activo sin fuero alguno",
           "is_correct": false,
@@ -489,6 +483,12 @@
           "text": "Las víctimas deben aceptar obligatoriamente las decisiones de la JEP",
           "is_correct": false,
           "feedback": "Las víctimas son sujetos procesales con derechos de participación y de impugnación en la jurisdicción."
+        },
+        {
+          "letter": "C",
+          "text": "Las sanciones restaurativas con restricción efectiva de libertades, verdad plena y reparación satisfacen el deber estatal de investigar, juzgar y sancionar los crímenes más graves",
+          "is_correct": true,
+          "feedback": "Correcto. En eso radicó el examen de la Corte Interamericana y del derecho internacional: sin esas condiciones, la impunidad sería inaceptable."
         },
         {
           "letter": "D",
@@ -565,16 +565,16 @@
       "context": "Un grupo de Cali compara la Comisión de la Verdad con los juicios de Núremberg y con la Comisión de Verdad sudafricana.",
       "options": [
         {
-          "letter": "B",
-          "text": "Colombia copió sin variación el modelo sudafricano de amnistía por verdad",
-          "is_correct": false,
-          "feedback": "El diseño colombiano es híbrido: no condiciona la amnistía a la verdad sola, y mantiene componentes penales y jurisdiccionales estrictos."
-        },
-        {
           "letter": "A",
           "text": "Colombia adoptó un modelo híbrido: jurisdicción penal especializada con beneficios condicionados, más órganos de verdad y búsqueda humanitaria, buscando compatibilizar paz y deber de justicia",
           "is_correct": true,
           "feedback": "Correcto. La síntesis JEP-Comisión-UBPD expresa la tensión creativa del modelo."
+        },
+        {
+          "letter": "B",
+          "text": "Colombia copió sin variación el modelo sudafricano de amnistía por verdad",
+          "is_correct": false,
+          "feedback": "El diseño colombiano es híbrido: no condiciona la amnistía a la verdad sola, y mantiene componentes penales y jurisdiccionales estrictos."
         },
         {
           "letter": "C",
@@ -617,16 +617,16 @@
           "feedback": "La verificación de la ONU documentó la entrega de arsenales completos en las Zonas Veredales; el problema no es la dejación formal sino la protección posterior."
         },
         {
-          "letter": "C",
-          "text": "La reincorporación exige garantías integrales de seguridad, acceso a tierra, proyectos productivos y protección efectiva, pues sin ellas el desarme se vuelve vulnerabilidad letal",
-          "is_correct": true,
-          "feedback": "Correcto. La evidencia muestra a cientos de firmantes asesinados: el componente humano de la paz quedó más expuesto que su componente armado."
-        },
-        {
           "letter": "B",
           "text": "Los excombatientes solo requieren un subsidio mensual vitalicio",
           "is_correct": false,
           "feedback": "La reincorporación es multidimensional y temporal; el subsidio es solo un componente."
+        },
+        {
+          "letter": "C",
+          "text": "La reincorporación exige garantías integrales de seguridad, acceso a tierra, proyectos productivos y protección efectiva, pues sin ellas el desarme se vuelve vulnerabilidad letal",
+          "is_correct": true,
+          "feedback": "Correcto. La evidencia muestra a cientos de firmantes asesinados: el componente humano de la paz quedó más expuesto que su componente armado."
         },
         {
           "letter": "D",
@@ -709,16 +709,16 @@
           "feedback": "El informe final \"Hay futuro si hay verdad\" y la magistratura de la JEP documentaron patrones sistemáticos de uso del cuerpo como botín de guerra."
         },
         {
-          "letter": "C",
-          "text": "Configurar una grave afectación con fines de dominación, terror y disciplinamiento territorial, con mayorías de víctimas mujeres, y exigir rutas de atención diferenciadas y reparadoras",
-          "is_correct": true,
-          "feedback": "Correcto. El enfoque de género del acuerdo atraviesa la verdad, la justicia y la reparación para estas víctimas."
-        },
-        {
           "letter": "B",
           "text": "Afectar únicamente a mujeres adultas de zonas rurales",
           "is_correct": false,
           "feedback": "Incluye niñas, adolescentes, hombres y personas LGBTIQ+: el daño no tiene un solo perfil."
+        },
+        {
+          "letter": "C",
+          "text": "Configurar una grave afectación con fines de dominación, terror y disciplinamiento territorial, con mayorías de víctimas mujeres, y exigir rutas de atención diferenciadas y reparadoras",
+          "is_correct": true,
+          "feedback": "Correcto. El enfoque de género del acuerdo atraviesa la verdad, la justicia y la reparación para estas víctimas."
         },
         {
           "letter": "D",
@@ -755,12 +755,6 @@
           "feedback": "La reparación integral (Convención Americana, artículos 63 y 68) incluye verdad, satisfacción y garantías: el dinero no las suplanta."
         },
         {
-          "letter": "D",
-          "text": "Incompatible con los derechos de las víctimas, pues la verdad y la justicia son derechos de las víctimas y de la sociedad, indisponibles e irreemplazables por compensaciones económicas",
-          "is_correct": true,
-          "feedback": "Correcto. La Corte Constitucional ha reiterado la titularidad no transable de verdad y justicia."
-        },
-        {
           "letter": "B",
           "text": "Necesaria, porque la justicia colombiana carece por completo de capacidad procesal",
           "is_correct": false,
@@ -771,6 +765,12 @@
           "text": "Preferible, porque las comisiones de verdad generan más violencia que tribunales",
           "is_correct": false,
           "feedback": "La evidencia comparada no sustenta esa afirmación; el silencio institucional es lo que erosiona la convivencia."
+        },
+        {
+          "letter": "D",
+          "text": "Incompatible con los derechos de las víctimas, pues la verdad y la justicia son derechos de las víctimas y de la sociedad, indisponibles e irreemplazables por compensaciones económicas",
+          "is_correct": true,
+          "feedback": "Correcto. La Corte Constitucional ha reiterado la titularidad no transable de verdad y justicia."
         }
       ],
       "correct_answer": "D",
@@ -801,12 +801,6 @@
           "feedback": "Persisten disidencias, ELN, Clan del Golfo, deforestación, homicidios de líderes y desplazamientos masivos en el Catatumbo y otras regiones."
         },
         {
-          "letter": "D",
-          "text": "El acuerdo transformó la estructura del conflicto pero no la eliminó: se firmó con el principal actor insurgente de la época y múltiples violencias —fragmentadas, urbanas, territoriales— continúan exigiendo política de paz integral",
-          "is_correct": true,
-          "feedback": "Correcto. Distingue el cambio de magnitud (desarme masivo de una guerrilla, verdad, reparación) de sus límites (persistencias y nuevas violencias)."
-        },
-        {
           "letter": "B",
           "text": "El acuerdo fracasó totalmente porque ninguna de sus normas se implementó",
           "is_correct": false,
@@ -817,6 +811,12 @@
           "text": "La paz depende exclusivamente de la firma de los actores armados restantes",
           "is_correct": false,
           "feedback": "La paz estable exige transformación de condiciones sociales: el fin de los fusiles es condición necesaria, no suficiente."
+        },
+        {
+          "letter": "D",
+          "text": "El acuerdo transformó la estructura del conflicto pero no la eliminó: se firmó con el principal actor insurgente de la época y múltiples violencias —fragmentadas, urbanas, territoriales— continúan exigiendo política de paz integral",
+          "is_correct": true,
+          "feedback": "Correcto. Distingue el cambio de magnitud (desarme masivo de una guerrilla, verdad, reparación) de sus límites (persistencias y nuevas violencias)."
         }
       ],
       "correct_answer": "D",
@@ -841,6 +841,12 @@
       "context": "El consejo estudiantil de un colegio de Manizales debate qué debe aprender su generación de la memoria del conflicto.",
       "options": [
         {
+          "letter": "A",
+          "text": "La memoria es una construcción activa y plural que, con verdad contrastada, permite formar ciudadanía crítica frente a la repetición del horror y sostiene el proyecto de una comunidad política democrática",
+          "is_correct": true,
+          "feedback": "Correcto. Es la función prospectiva de la memoria, núcleo de los mandatos de la Comisión y del Centro Nacional de Memoria Histórica."
+        },
+        {
           "letter": "B",
           "text": "La memoria debe cerrarse para no reabrir heridas de la sociedad",
           "is_correct": false,
@@ -853,12 +859,6 @@
           "feedback": "La memoria ciudadana exige pluralidad de relatos, incluido el reconocimiento del daño causado por el propio lado."
         },
         {
-          "letter": "A",
-          "text": "La memoria es una construcción activa y plural que, con verdad contrastada, permite formar ciudadanía crítica frente a la repetición del horror y sostiene el proyecto de una comunidad política democrática",
-          "is_correct": true,
-          "feedback": "Correcto. Es la función prospectiva de la memoria, núcleo de los mandatos de la Comisión y del Centro Nacional de Memoria Histórica."
-        },
-        {
           "letter": "D",
           "text": "Solo los historiadores profesionales tienen derecho a hablar del conflicto",
           "is_correct": false,
@@ -866,7 +866,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "El deber de memoria —como enseñó Primo Levi y reafirmó la ONU para las masacres del siglo XX— no es nostalgia ni castigo: es una tecnología de prevención. El informe final \"Hay futuro si hay verdad\", el Museo de la Memoria y los relatos de las víctimas en aulas convierten la historia en competencia ciudadana viva: reconocer al otro, dudar del odio, asumir que la violencia siempre comienza con la deshumanización del adversario. Aquí la semana temática se cierre: de la Constitución escrita a la Constitución vivida por la memoria.",
+      "explanation": "El deber de memoria —como enseñó Primo Levi y reafirmó la ONU para las masacres del siglo XX— no es nostalgia ni castigo: es una tecnología de prevención. El informe final \"Hay futuro si hay verdad\", el Museo de la Memoria y los relatos de las víctimas en aulas convierten la historia en competencia ciudadana viva: reconocer al otro, dudar del odio, asumir que la violencia siempre comienza con la deshumanización del adversario. Aquí la semana temática se cierra: de la Constitución escrita a la Constitución vivida por la memoria.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -893,16 +893,16 @@
           "feedback": "El constitucionalismo es prospectivo: la Constitución de 1991 anticipó y habilitó la transformación pacífica."
         },
         {
-          "letter": "C",
-          "text": "La participación es un complemento decorativo del Estado de derecho",
-          "is_correct": false,
-          "feedback": "La participación es principio fundante (artículo 1) y fin esencial del Estado (artículo 2), no ornamento."
-        },
-        {
           "letter": "B",
           "text": "Una Constitución que garantiza derechos, una ciudadanía que los exige mediante participación y control, y una justicia transicional que repara la verdad son tres engranajes de un mismo proyecto: la paz estable y duradera como forma de vida democrática",
           "is_correct": true,
           "feedback": "Correcto. Integra los cuatro ejes del ciclo de semanas: Constitución, acción colectiva, participación, control social y justicia transicional."
+        },
+        {
+          "letter": "C",
+          "text": "La participación es un complemento decorativo del Estado de derecho",
+          "is_correct": false,
+          "feedback": "La participación es principio fundante (artículo 1) y fin esencial del Estado (artículo 2), no ornamento."
         },
         {
           "letter": "D",

@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v1",
-      "statement": "Dada la ecuación $(x - 1)^2 + (y - 2)^2 = 9$, ¿cuáles son las coordenadas del centro $C$ y el radio $r$?",
-      "context": "Ecuación canónica de la circunferencia Caso N° 1.",
+      "statement": "¿Cuáles son el centro y el radio de la rotonda?",
+      "context": "Una rotonda de Córdoba se representa en un plano con la circunferencia $(x - 1)^2 + (y + 4)^2 = 25$ (en decámetros).",
       "options": [
         {
-          "letter": "C",
-          "text": "Centro = $(1, 2)$, Radio = $3$",
-          "is_correct": true,
-          "feedback": "Correcto. En la forma $(x-h)^2 + (y-k)^2 = r^2$, $h = 1$, $k = 2$ y $r = \\sqrt{9} = 3$."
-        },
-        {
           "letter": "A",
-          "text": "Centro = $(-1, -2)$, Radio = $9$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Confundió los signos de $h, k$ y no extrajo raíz a $r^2$."
+          "text": "Centro $(1, -4)$ y radio $5$",
+          "is_correct": true,
+          "feedback": "Correcto. En $(x - h)^2 + (y - k)^2 = r^2$ se lee $h = 1$, $k = -4$ y $r = \\sqrt{25} = 5$."
         },
         {
           "letter": "B",
-          "text": "Centro = $(1, 2)$, Radio = $9$",
+          "text": "Centro $(-1, 4)$ y radio $5$",
           "is_correct": false,
-          "feedback": "Incorrecto. $r^2$ es el cuadrado del radio."
+          "feedback": "Incorrecto. Se copiaron los signos tal como aparecen; la forma canónica lleva restas, así que $(y + 4)$ corresponde a $k = -4$ y $(x - 1)$ a $h = 1$."
+        },
+        {
+          "letter": "C",
+          "text": "Centro $(1, -4)$ y radio $25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. 25 es $r^2$, no el radio; hay que sacar la raíz cuadrada: $r = 5$."
         },
         {
           "letter": "D",
-          "text": "Centro = $(0, 0)$, Radio = $3$",
+          "text": "Centro $(-1, 4)$ y radio $25$",
           "is_correct": false,
-          "feedback": "Incorrecto. El centro está desplazado del origen."
+          "feedback": "Incorrecto. Tiene dos errores: los signos del centro están invertidos y se tomó $r^2 = 25$ como radio."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Comparando con la ecuación canónica $(x-h)^2 + (y-k)^2 = r^2$, el centro es $(h,k) = (1, 2)$ y el radio es $r = \\sqrt{9} = 3$.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La ecuación canónica de la circunferencia es $(x - h)^2 + (y - k)^2 = r^2$, con centro $(h, k)$ y radio $r$. Escribiendo $(y + 4)^2 = (y - (-4))^2$ se ve que $k = -4$; además $h = 1$ y $r^2 = 25$, por lo que $r = 5$ dam.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.9,
+      "expected_success": 0.85,
       "bundle_id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -54,130 +54,40 @@
     },
     {
       "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v2",
-      "statement": "Dada la ecuación $(x - 2)^2 + (y - 3)^2 = 16$, ¿cuáles son las coordenadas del centro $C$ y el radio $r$?",
-      "context": "Ecuación canónica de la circunferencia Caso N° 2.",
+      "statement": "¿Qué ecuación describe el borde de la zona regada?",
+      "context": "Un aspersor de una cancha de fútbol en Rosario está en el punto $(-2, 3)$ y riega hasta 4 m de distancia.",
       "options": [
         {
-          "letter": "B",
-          "text": "Centro = $(2, 3)$, Radio = $4$",
+          "letter": "A",
+          "text": "$(x + 2)^2 + (y - 3)^2 = 16$",
           "is_correct": true,
-          "feedback": "Correcto. En la forma $(x-h)^2 + (y-k)^2 = r^2$, $h = 2$, $k = 3$ y $r = \\sqrt{16} = 4$."
+          "feedback": "Correcto. Centro $(-2, 3)$ y radio 4: $(x - (-2))^2 + (y - 3)^2 = 4^2$."
         },
         {
-          "letter": "A",
-          "text": "Centro = $(-2, -3)$, Radio = $16$",
+          "letter": "B",
+          "text": "$(x - 2)^2 + (y + 3)^2 = 16$",
           "is_correct": false,
-          "feedback": "Incorrecto. Confundió los signos de $h, k$ y no extrajo raíz a $r^2$."
+          "feedback": "Incorrecto. Esa circunferencia tiene centro $(2, -3)$; los signos dentro de los paréntesis son los opuestos de las coordenadas del centro."
         },
         {
           "letter": "C",
-          "text": "Centro = $(2, 3)$, Radio = $16$",
+          "text": "$(x + 2)^2 + (y - 3)^2 = 4$",
           "is_correct": false,
-          "feedback": "Incorrecto. $r^2$ es el cuadrado del radio."
+          "feedback": "Incorrecto. El segundo miembro es $r^2 = 16$; con 4 el radio sería 2 m."
         },
         {
           "letter": "D",
-          "text": "Centro = $(0, 0)$, Radio = $4$",
+          "text": "$(x + 2)^2 + (y - 3)^2 = 8$",
           "is_correct": false,
-          "feedback": "Incorrecto. El centro está desplazado del origen."
+          "feedback": "Incorrecto. Se multiplicó el radio por 2 en lugar de elevarlo al cuadrado; el segundo miembro debe ser $4^2 = 16$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Comparando con la ecuación canónica $(x-h)^2 + (y-k)^2 = r^2$, el centro es $(h,k) = (2, 3)$ y el radio es $r = \\sqrt{16} = 4$.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El borde de la zona regada está formado por los puntos a 4 m del aspersor, es decir, una circunferencia de centro $(-2, 3)$ y radio 4. Reemplazando en $(x - h)^2 + (y - k)^2 = r^2$: $(x + 2)^2 + (y - 3)^2 = 16$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.88,
-      "bundle_id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v3",
-      "statement": "Dada la ecuación $(x - 3)^2 + (y - 4)^2 = 25$, ¿cuáles son las coordenadas del centro $C$ y el radio $r$?",
-      "context": "Ecuación canónica de la circunferencia Caso N° 3.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Centro = $(3, 4)$, Radio = $5$",
-          "is_correct": true,
-          "feedback": "Correcto. En la forma $(x-h)^2 + (y-k)^2 = r^2$, $h = 3$, $k = 4$ y $r = \\sqrt{25} = 5$."
-        },
-        {
-          "letter": "A",
-          "text": "Centro = $(-3, -4)$, Radio = $25$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Confundió los signos de $h, k$ y no extrajo raíz a $r^2$."
-        },
-        {
-          "letter": "B",
-          "text": "Centro = $(3, 4)$, Radio = $25$",
-          "is_correct": false,
-          "feedback": "Incorrecto. $r^2$ es el cuadrado del radio."
-        },
-        {
-          "letter": "D",
-          "text": "Centro = $(0, 0)$, Radio = $5$",
-          "is_correct": false,
-          "feedback": "Incorrecto. El centro está desplazado del origen."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Comparando con la ecuación canónica $(x-h)^2 + (y-k)^2 = r^2$, el centro es $(h,k) = (3, 4)$ y el radio es $r = \\sqrt{25} = 5$.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.86,
-      "bundle_id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v4",
-      "statement": "Dada la ecuación $(x - 4)^2 + (y - 5)^2 = 36$, ¿cuáles son las coordenadas del centro $C$ y el radio $r$?",
-      "context": "Ecuación canónica de la circunferencia Caso N° 4.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Centro = $(4, 5)$, Radio = $6$",
-          "is_correct": true,
-          "feedback": "Correcto. En la forma $(x-h)^2 + (y-k)^2 = r^2$, $h = 4$, $k = 5$ y $r = \\sqrt{36} = 6$."
-        },
-        {
-          "letter": "A",
-          "text": "Centro = $(-4, -5)$, Radio = $36$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Confundió los signos de $h, k$ y no extrajo raíz a $r^2$."
-        },
-        {
-          "letter": "B",
-          "text": "Centro = $(4, 5)$, Radio = $36$",
-          "is_correct": false,
-          "feedback": "Incorrecto. $r^2$ es el cuadrado del radio."
-        },
-        {
-          "letter": "C",
-          "text": "Centro = $(0, 0)$, Radio = $6$",
-          "is_correct": false,
-          "feedback": "Incorrecto. El centro está desplazado del origen."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "Comparando con la ecuación canónica $(x-h)^2 + (y-k)^2 = r^2$, el centro es $(h,k) = (4, 5)$ y el radio es $r = \\sqrt{36} = 6$.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
       "expected_success": 0.84,
       "bundle_id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle",
       "periodo": 19,
@@ -188,38 +98,38 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v5",
-      "statement": "Dada la ecuación $(x - 5)^2 + (y - 6)^2 = 49$, ¿cuáles son las coordenadas del centro $C$ y el radio $r$?",
-      "context": "Ecuación canónica de la circunferencia Caso N° 5.",
+      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el vértice de la parábola?",
+      "context": "El cable de un puente colgante en Neuquén sigue aproximadamente la parábola $y = (x - 3)^2 + 2$ (en metros).",
       "options": [
         {
-          "letter": "D",
-          "text": "Centro = $(5, 6)$, Radio = $7$",
-          "is_correct": true,
-          "feedback": "Correcto. En la forma $(x-h)^2 + (y-k)^2 = r^2$, $h = 5$, $k = 6$ y $r = \\sqrt{49} = 7$."
-        },
-        {
           "letter": "A",
-          "text": "Centro = $(-5, -6)$, Radio = $49$",
+          "text": "$(-3, 2)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Confundió los signos de $h, k$ y no extrajo raíz a $r^2$."
+          "feedback": "Incorrecto. En $y = (x - h)^2 + k$ el vértice es $(h, k)$; $(x - 3)$ indica $h = +3$, no $-3$."
         },
         {
           "letter": "B",
-          "text": "Centro = $(5, 6)$, Radio = $49$",
+          "text": "$(3, -2)$",
           "is_correct": false,
-          "feedback": "Incorrecto. $r^2$ es el cuadrado del radio."
+          "feedback": "Incorrecto. El término $+2$ fuera del paréntesis es $k = 2$, sin cambio de signo."
         },
         {
           "letter": "C",
-          "text": "Centro = $(0, 0)$, Radio = $7$",
+          "text": "$(3, 2)$",
+          "is_correct": true,
+          "feedback": "Correcto. La forma canónica $y = (x - h)^2 + k$ da directamente $h = 3$ y $k = 2$."
+        },
+        {
+          "letter": "D",
+          "text": "$(2, 3)$",
           "is_correct": false,
-          "feedback": "Incorrecto. El centro está desplazado del origen."
+          "feedback": "Incorrecto. Se intercambiaron las coordenadas: la abscisa del vértice sale del paréntesis y la ordenada del término independiente."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Comparando con la ecuación canónica $(x-h)^2 + (y-k)^2 = r^2$, el centro es $(h,k) = (5, 6)$ y el radio es $r = \\sqrt{49} = 7$.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "En la forma canónica $y = a(x - h)^2 + k$, el vértice es $(h, k)$. Aquí $a = 1$, $h = 3$ y $k = 2$, así que el vértice es $(3, 2)$: el punto más bajo del cable, porque $a > 0$ y la parábola abre hacia arriba.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -233,41 +143,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v6",
-      "statement": "Dada la ecuación $(x - 6)^2 + (y - 7)^2 = 64$, ¿cuáles son las coordenadas del centro $C$ y el radio $r$?",
-      "context": "Ecuación canónica de la circunferencia Caso N° 6.",
+      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v4",
+      "statement": "¿Cuáles son el foco y la directriz de esta parábola?",
+      "context": "En un taller de óptica de La Plata se estudia un espejo cuyo perfil es la parábola $x^2 = 8y$.",
       "options": [
         {
-          "letter": "B",
-          "text": "Centro = $(6, 7)$, Radio = $8$",
+          "letter": "A",
+          "text": "Foco $(0, 2)$ y directriz $y = -2$",
           "is_correct": true,
-          "feedback": "Correcto. En la forma $(x-h)^2 + (y-k)^2 = r^2$, $h = 6$, $k = 7$ y $r = \\sqrt{64} = 8$."
+          "feedback": "Correcto. De $x^2 = 4py$ con $4p = 8$ sale $p = 2$: foco $(0, p)$ y directriz $y = -p$."
         },
         {
-          "letter": "A",
-          "text": "Centro = $(-6, -7)$, Radio = $64$",
+          "letter": "B",
+          "text": "Foco $(0, 8)$ y directriz $y = -8$",
           "is_correct": false,
-          "feedback": "Incorrecto. Confundió los signos de $h, k$ y no extrajo raíz a $r^2$."
+          "feedback": "Incorrecto. 8 es $4p$, no $p$; hay que dividir por 4 para obtener la distancia focal."
         },
         {
           "letter": "C",
-          "text": "Centro = $(6, 7)$, Radio = $64$",
+          "text": "Foco $(2, 0)$ y directriz $x = -2$",
           "is_correct": false,
-          "feedback": "Incorrecto. $r^2$ es el cuadrado del radio."
+          "feedback": "Incorrecto. Eso corresponde a $y^2 = 8x$, que abre hacia la derecha; en $x^2 = 8y$ el eje es vertical."
         },
         {
           "letter": "D",
-          "text": "Centro = $(0, 0)$, Radio = $8$",
+          "text": "Foco $(0, 4)$ y directriz $y = -4$",
           "is_correct": false,
-          "feedback": "Incorrecto. El centro está desplazado del origen."
+          "feedback": "Incorrecto. Se dividió 8 por 2 en lugar de por 4; en $x^2 = 4py$ se tiene $p = \\frac{8}{4} = 2$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Comparando con la ecuación canónica $(x-h)^2 + (y-k)^2 = r^2$, el centro es $(h,k) = (6, 7)$ y el radio es $r = \\sqrt{64} = 8$.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "Una parábola con vértice en el origen y eje vertical tiene ecuación $x^2 = 4py$, foco $(0, p)$ y directriz $y = -p$. Como $4p = 8$, $p = 2$: foco $(0, 2)$ y directriz $y = -2$. El vértice queda a mitad de camino entre el foco y la directriz.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle",
       "periodo": 19,
@@ -278,82 +188,37 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v7",
-      "statement": "Dada la ecuación $(x - 7)^2 + (y - 8)^2 = 81$, ¿cuáles son las coordenadas del centro $C$ y el radio $r$?",
-      "context": "Ecuación canónica de la circunferencia Caso N° 7.",
+      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v5",
+      "statement": "Completando cuadrados, ¿cuáles son el centro y el radio de la plaza?",
+      "context": "Un plano municipal de Mendoza describe una plaza circular con la ecuación $x^2 + y^2 - 6x + 4y - 12 = 0$.",
       "options": [
         {
-          "letter": "C",
-          "text": "Centro = $(7, 8)$, Radio = $9$",
-          "is_correct": true,
-          "feedback": "Correcto. En la forma $(x-h)^2 + (y-k)^2 = r^2$, $h = 7$, $k = 8$ y $r = \\sqrt{81} = 9$."
-        },
-        {
           "letter": "A",
-          "text": "Centro = $(-7, -8)$, Radio = $81$",
+          "text": "Centro $(-3, 2)$ y radio $5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Confundió los signos de $h, k$ y no extrajo raíz a $r^2$."
+          "feedback": "Incorrecto. De $x^2 - 6x$ sale $(x - 3)^2$, que corresponde a $h = 3$; los signos del centro quedaron invertidos."
         },
         {
           "letter": "B",
-          "text": "Centro = $(7, 8)$, Radio = $81$",
+          "text": "Centro $(3, -2)$ y radio $\\sqrt{12}$",
           "is_correct": false,
-          "feedback": "Incorrecto. $r^2$ es el cuadrado del radio."
+          "feedback": "Incorrecto. Al completar cuadrados se suman 9 y 4 a ambos miembros; el radio al cuadrado es $12 + 9 + 4 = 25$, no 12."
         },
-        {
-          "letter": "D",
-          "text": "Centro = $(0, 0)$, Radio = $9$",
-          "is_correct": false,
-          "feedback": "Incorrecto. El centro está desplazado del origen."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Comparando con la ecuación canónica $(x-h)^2 + (y-k)^2 = r^2$, el centro es $(h,k) = (7, 8)$ y el radio es $r = \\sqrt{81} = 9$.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.78,
-      "bundle_id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v8",
-      "statement": "Dada la ecuación $(x - 8)^2 + (y - 9)^2 = 100$, ¿cuáles son las coordenadas del centro $C$ y el radio $r$?",
-      "context": "Ecuación canónica de la circunferencia Caso N° 8.",
-      "options": [
         {
           "letter": "C",
-          "text": "Centro = $(8, 9)$, Radio = $10$",
+          "text": "Centro $(3, -2)$ y radio $5$",
           "is_correct": true,
-          "feedback": "Correcto. En la forma $(x-h)^2 + (y-k)^2 = r^2$, $h = 8$, $k = 9$ y $r = \\sqrt{100} = 10$."
-        },
-        {
-          "letter": "A",
-          "text": "Centro = $(-8, -9)$, Radio = $100$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Confundió los signos de $h, k$ y no extrajo raíz a $r^2$."
-        },
-        {
-          "letter": "B",
-          "text": "Centro = $(8, 9)$, Radio = $100$",
-          "is_correct": false,
-          "feedback": "Incorrecto. $r^2$ es el cuadrado del radio."
+          "feedback": "Correcto. $(x - 3)^2 - 9 + (y + 2)^2 - 4 - 12 = 0$ da $(x - 3)^2 + (y + 2)^2 = 25$."
         },
         {
           "letter": "D",
-          "text": "Centro = $(0, 0)$, Radio = $10$",
+          "text": "Centro $(6, -4)$ y radio $12$",
           "is_correct": false,
-          "feedback": "Incorrecto. El centro está desplazado del origen."
+          "feedback": "Incorrecto. Se tomaron los coeficientes $-6$ y $4$ sin dividirlos por 2; el centro es $(\\frac{6}{2}, \\frac{-4}{2})$."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Comparando con la ecuación canónica $(x-h)^2 + (y-k)^2 = r^2$, el centro es $(h,k) = (8, 9)$ y el radio es $r = \\sqrt{100} = 10$.\n\n---",
+      "explanation": "Agrupamos: $(x^2 - 6x) + (y^2 + 4y) = 12$. Completamos: $x^2 - 6x + 9 = (x - 3)^2$ y $y^2 + 4y + 4 = (y + 2)^2$, sumando 9 y 4 a ambos miembros: $(x - 3)^2 + (y + 2)^2 = 25$. Centro $(3, -2)$ y radio 5.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -368,37 +233,37 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v9",
-      "statement": "Dada la ecuación $(x - 9)^2 + (y - 10)^2 = 121$, ¿cuáles son las coordenadas del centro $C$ y el radio $r$?",
-      "context": "Ecuación canónica de la circunferencia Caso N° 9.",
+      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la ecuación del borde de la fuente?",
+      "context": "Una fuente circular en una plaza de San Juan tiene un diámetro cuyos extremos son $A(-1, 2)$ y $B(5, 10)$ (en metros).",
       "options": [
         {
-          "letter": "B",
-          "text": "Centro = $(9, 10)$, Radio = $11$",
-          "is_correct": true,
-          "feedback": "Correcto. En la forma $(x-h)^2 + (y-k)^2 = r^2$, $h = 9$, $k = 10$ y $r = \\sqrt{121} = 11$."
+          "letter": "A",
+          "text": "$(x - 2)^2 + (y - 6)^2 = 100$",
+          "is_correct": false,
+          "feedback": "Incorrecto. 100 es el cuadrado del diámetro $|AB| = 10$; el radio es la mitad, 5, y $r^2 = 25$."
         },
         {
-          "letter": "A",
-          "text": "Centro = $(-9, -10)$, Radio = $121$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Confundió los signos de $h, k$ y no extrajo raíz a $r^2$."
+          "letter": "B",
+          "text": "$(x - 2)^2 + (y - 6)^2 = 25$",
+          "is_correct": true,
+          "feedback": "Correcto. El centro es el punto medio $(2, 6)$ y el radio $\\frac{|AB|}{2} = \\frac{10}{2} = 5$."
         },
         {
           "letter": "C",
-          "text": "Centro = $(9, 10)$, Radio = $121$",
+          "text": "$(x + 2)^2 + (y + 6)^2 = 25$",
           "is_correct": false,
-          "feedback": "Incorrecto. $r^2$ es el cuadrado del radio."
+          "feedback": "Incorrecto. Con $(x + 2)$ y $(y + 6)$ el centro sería $(-2, -6)$; se invirtieron los signos."
         },
         {
           "letter": "D",
-          "text": "Centro = $(0, 0)$, Radio = $11$",
+          "text": "$(x - 3)^2 + (y - 4)^2 = 25$",
           "is_correct": false,
-          "feedback": "Incorrecto. El centro está desplazado del origen."
+          "feedback": "Incorrecto. $(3, 4)$ es la semidiferencia de las coordenadas, no el punto medio; el centro es $(\\frac{-1 + 5}{2}, \\frac{2 + 10}{2})$."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Comparando con la ecuación canónica $(x-h)^2 + (y-k)^2 = r^2$, el centro es $(h,k) = (9, 10)$ y el radio es $r = \\sqrt{121} = 11$.\n\n---",
+      "explanation": "El centro es el punto medio del diámetro: $(\\frac{-1 + 5}{2}, \\frac{2 + 10}{2}) = (2, 6)$. El diámetro mide $\\sqrt{6^2 + 8^2} = 10$, así que $r = 5$. Ecuación: $(x - 2)^2 + (y - 6)^2 = 25$. Se verifica que $A$ cumple: $9 + 16 = 25$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -413,37 +278,37 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v10",
-      "statement": "Dada la ecuación $(x - 10)^2 + (y - 11)^2 = 144$, ¿cuáles son las coordenadas del centro $C$ y el radio $r$?",
-      "context": "Ecuación canónica de la circunferencia Caso N° 10.",
+      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la ecuación de la parábola?",
+      "context": "En una maqueta de un reflector para el Teatro del Libertador de Córdoba, la parábola tiene vértice en el origen y foco en $(0, -3)$.",
       "options": [
         {
           "letter": "A",
-          "text": "Centro = $(10, 11)$, Radio = $12$",
-          "is_correct": true,
-          "feedback": "Correcto. En la forma $(x-h)^2 + (y-k)^2 = r^2$, $h = 10$, $k = 11$ y $r = \\sqrt{144} = 12$."
+          "text": "$x^2 = 12y$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $x^2 = 12y$ el foco es $(0, 3)$ y la parábola abre hacia arriba; el foco dado está debajo del vértice."
         },
         {
           "letter": "B",
-          "text": "Centro = $(-10, -11)$, Radio = $144$",
+          "text": "$y^2 = -12x$",
           "is_correct": false,
-          "feedback": "Incorrecto. Confundió los signos de $h, k$ y no extrajo raíz a $r^2$."
+          "feedback": "Incorrecto. Esa parábola tiene eje horizontal y foco $(-3, 0)$; aquí el foco está sobre el eje $y$."
         },
         {
           "letter": "C",
-          "text": "Centro = $(10, 11)$, Radio = $144$",
+          "text": "$x^2 = -3y$",
           "is_correct": false,
-          "feedback": "Incorrecto. $r^2$ es el cuadrado del radio."
+          "feedback": "Incorrecto. Se usó $p$ en lugar de $4p$: $x^2 = -3y$ tiene foco en $(0, -\\frac{3}{4})$."
         },
         {
           "letter": "D",
-          "text": "Centro = $(0, 0)$, Radio = $12$",
-          "is_correct": false,
-          "feedback": "Incorrecto. El centro está desplazado del origen."
+          "text": "$x^2 = -12y$",
+          "is_correct": true,
+          "feedback": "Correcto. Foco $(0, p)$ con $p = -3$: $x^2 = 4py = -12y$, que abre hacia abajo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Comparando con la ecuación canónica $(x-h)^2 + (y-k)^2 = r^2$, el centro es $(h,k) = (10, 11)$ y el radio es $r = \\sqrt{144} = 12$.\n\n---",
+      "correct_answer": "D",
+      "explanation": "El foco $(0, -3)$ está en el eje $y$, por debajo del vértice: el eje es vertical y la parábola abre hacia abajo. La ecuación es $x^2 = 4py$ con $p = -3$, es decir $x^2 = -12y$. La directriz es $y = 3$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -458,41 +323,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v11",
-      "statement": "Dada la ecuación $(x - 11)^2 + (y - 12)^2 = 169$, ¿cuáles son las coordenadas del centro $C$ y el radio $r$?",
-      "context": "Ecuación canónica de la circunferencia Caso N° 11.",
+      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v8",
+      "statement": "¿A qué distancia del vértice hay que colocar el receptor?",
+      "context": "Una antena parabólica de una radio de Tucumán mide 120 cm de diámetro y 15 cm de profundidad; el receptor debe ir en el foco.",
       "options": [
         {
-          "letter": "C",
-          "text": "Centro = $(11, 12)$, Radio = $13$",
-          "is_correct": true,
-          "feedback": "Correcto. En la forma $(x-h)^2 + (y-k)^2 = r^2$, $h = 11$, $k = 12$ y $r = \\sqrt{169} = 13$."
-        },
-        {
           "letter": "A",
-          "text": "Centro = $(-11, -12)$, Radio = $169$",
+          "text": "$15$ cm",
           "is_correct": false,
-          "feedback": "Incorrecto. Confundió los signos de $h, k$ y no extrajo raíz a $r^2$."
+          "feedback": "Incorrecto. 15 cm es la profundidad del plato, no la distancia focal; el foco no tiene por qué estar en el borde."
         },
         {
           "letter": "B",
-          "text": "Centro = $(11, 12)$, Radio = $169$",
+          "text": "$60$ cm",
+          "is_correct": true,
+          "feedback": "Correcto. Con $x^2 = 4py$ y el punto $(60, 15)$: $3600 = 60p$, de donde $p = 60$ cm."
+        },
+        {
+          "letter": "C",
+          "text": "$240$ cm",
           "is_correct": false,
-          "feedback": "Incorrecto. $r^2$ es el cuadrado del radio."
+          "feedback": "Incorrecto. 240 es $4p$; la distancia del vértice al foco es $p = \\frac{240}{4} = 60$ cm."
         },
         {
           "letter": "D",
-          "text": "Centro = $(0, 0)$, Radio = $13$",
+          "text": "$30$ cm",
           "is_correct": false,
-          "feedback": "Incorrecto. El centro está desplazado del origen."
+          "feedback": "Incorrecto. Se tomó la mitad del radio; la distancia focal se calcula con la ecuación $x^2 = 4py$, no con una proporción del diámetro."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Comparando con la ecuación canónica $(x-h)^2 + (y-k)^2 = r^2$, el centro es $(h,k) = (11, 12)$ y el radio es $r = \\sqrt{169} = 13$.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Ubicamos el vértice en el origen con el eje vertical: $x^2 = 4py$. El borde del plato está a 60 cm del eje (la mitad del diámetro) y a 15 cm de altura, así que el punto $(60, 15)$ pertenece a la parábola: $60^2 = 4p \\cdot 15$, $3600 = 60p$, $p = 60$ cm. El receptor va a 60 cm del vértice.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.7,
       "bundle_id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle",
       "periodo": 19,
@@ -503,41 +368,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v12",
-      "statement": "Dada la ecuación $(x - 12)^2 + (y - 13)^2 = 196$, ¿cuáles son las coordenadas del centro $C$ y el radio $r$?",
-      "context": "Ecuación canónica de la circunferencia Caso N° 12.",
+      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el vértice de esa parábola?",
+      "context": "La trayectoria de un salto en un parque acuático de Federación (Entre Ríos) se modela con $y = 2x^2 - 8x + 3$.",
       "options": [
         {
-          "letter": "B",
-          "text": "Centro = $(12, 13)$, Radio = $14$",
-          "is_correct": true,
-          "feedback": "Correcto. En la forma $(x-h)^2 + (y-k)^2 = r^2$, $h = 12$, $k = 13$ y $r = \\sqrt{196} = 14$."
+          "letter": "A",
+          "text": "$(-2, 27)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usó $x_v = \\frac{b}{2a}$ sin el signo menos; la fórmula es $x_v = -\\frac{b}{2a} = 2$."
         },
         {
-          "letter": "A",
-          "text": "Centro = $(-12, -13)$, Radio = $196$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Confundió los signos de $h, k$ y no extrajo raíz a $r^2$."
+          "letter": "B",
+          "text": "$(2, -5)$",
+          "is_correct": true,
+          "feedback": "Correcto. $x_v = -\\frac{-8}{4} = 2$ y $y(2) = 8 - 16 + 3 = -5$."
         },
         {
           "letter": "C",
-          "text": "Centro = $(12, 13)$, Radio = $196$",
+          "text": "$(4, 3)$",
           "is_correct": false,
-          "feedback": "Incorrecto. $r^2$ es el cuadrado del radio."
+          "feedback": "Incorrecto. $x = 4$ es la otra abscisa con $y = 3$, no el vértice; el vértice está en el punto medio entre $0$ y $4$."
         },
         {
           "letter": "D",
-          "text": "Centro = $(0, 0)$, Radio = $14$",
+          "text": "$(2, 3)$",
           "is_correct": false,
-          "feedback": "Incorrecto. El centro está desplazado del origen."
+          "feedback": "Incorrecto. La abscisa es correcta, pero 3 es el término independiente $y(0)$; hay que evaluar $y(2) = -5$."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Comparando con la ecuación canónica $(x-h)^2 + (y-k)^2 = r^2$, el centro es $(h,k) = (12, 13)$ y el radio es $r = \\sqrt{196} = 14$.\n\n---",
-      "difficulty": "8",
+      "explanation": "Completando cuadrados: $y = 2(x^2 - 4x) + 3 = 2(x - 2)^2 - 8 + 3 = 2(x - 2)^2 - 5$. El vértice es $(2, -5)$, que coincide con $x_v = -\\frac{b}{2a} = \\frac{8}{4} = 2$ e $y_v = -5$.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.68,
       "bundle_id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle",
       "periodo": 19,
@@ -548,41 +413,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v13",
-      "statement": "Dada la ecuación $(x - 13)^2 + (y - 14)^2 = 225$, ¿cuáles son las coordenadas del centro $C$ y el radio $r$?",
-      "context": "Ecuación canónica de la circunferencia Caso N° 13.",
+      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v10",
+      "statement": "¿Dónde está ubicado el banco respecto de la zona de cobertura?",
+      "context": "En una plaza de Salta, el wifi público tiene alcance circular $(x - 1)^2 + (y - 1)^2 = 25$ (en decámetros) y un banco está en el punto $(4, 5)$.",
       "options": [
         {
-          "letter": "C",
-          "text": "Centro = $(13, 14)$, Radio = $15$",
-          "is_correct": true,
-          "feedback": "Correcto. En la forma $(x-h)^2 + (y-k)^2 = r^2$, $h = 13$, $k = 14$ y $r = \\sqrt{225} = 15$."
-        },
-        {
           "letter": "A",
-          "text": "Centro = $(-13, -14)$, Radio = $225$",
+          "text": "Dentro de la circunferencia, a menos de 5 dam del centro",
           "is_correct": false,
-          "feedback": "Incorrecto. Confundió los signos de $h, k$ y no extrajo raíz a $r^2$."
+          "feedback": "Incorrecto. La distancia al centro es $\\sqrt{9 + 16} = 5$, exactamente el radio, no menor."
         },
         {
           "letter": "B",
-          "text": "Centro = $(13, 14)$, Radio = $225$",
+          "text": "Fuera de la circunferencia, a más de 5 dam del centro",
           "is_correct": false,
-          "feedback": "Incorrecto. $r^2$ es el cuadrado del radio."
+          "feedback": "Incorrecto. $(4 - 1)^2 + (5 - 1)^2 = 25$, igual a $r^2$; no supera el radio."
+        },
+        {
+          "letter": "C",
+          "text": "En el centro de la circunferencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El centro es $(1, 1)$; el banco está en $(4, 5)$."
         },
         {
           "letter": "D",
-          "text": "Centro = $(0, 0)$, Radio = $15$",
-          "is_correct": false,
-          "feedback": "Incorrecto. El centro está desplazado del origen."
+          "text": "Sobre la circunferencia, justo en el borde de la cobertura",
+          "is_correct": true,
+          "feedback": "Correcto. $(4 - 1)^2 + (5 - 1)^2 = 9 + 16 = 25 = r^2$: el punto cumple la ecuación."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Comparando con la ecuación canónica $(x-h)^2 + (y-k)^2 = r^2$, el centro es $(h,k) = (13, 14)$ y el radio es $r = \\sqrt{225} = 15$.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Se reemplaza el punto en el primer miembro y se compara con $r^2$: $(4 - 1)^2 + (5 - 1)^2 = 9 + 16 = 25$. Si diera menos de 25 el punto sería interior; si diera más, exterior. Como es igual, el banco está exactamente sobre el borde.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.66,
       "bundle_id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle",
       "periodo": 19,
@@ -593,86 +458,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v14",
-      "statement": "Dada la ecuación $(x - 14)^2 + (y - 15)^2 = 256$, ¿cuáles son las coordenadas del centro $C$ y el radio $r$?",
-      "context": "Ecuación canónica de la circunferencia Caso N° 14.",
+      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v11",
+      "statement": "¿Para qué valores de $k$ la recta es tangente a la circunferencia?",
+      "context": "Un diseñador de Rosario quiere que la recta $y = x + k$ sea tangente a la circunferencia $x^2 + y^2 = 8$.",
       "options": [
         {
-          "letter": "C",
-          "text": "Centro = $(14, 15)$, Radio = $16$",
-          "is_correct": true,
-          "feedback": "Correcto. En la forma $(x-h)^2 + (y-k)^2 = r^2$, $h = 14$, $k = 15$ y $r = \\sqrt{256} = 16$."
-        },
-        {
           "letter": "A",
-          "text": "Centro = $(-14, -15)$, Radio = $256$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Confundió los signos de $h, k$ y no extrajo raíz a $r^2$."
+          "text": "$k = 4$ o $k = -4$",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia del centro $(0, 0)$ a $x - y + k = 0$ es $\\frac{|k|}{\\sqrt{2}}$; igualada a $r = 2\\sqrt{2}$ da $|k| = 4$."
         },
         {
           "letter": "B",
-          "text": "Centro = $(14, 15)$, Radio = $256$",
+          "text": "Solo $k = 8$",
           "is_correct": false,
-          "feedback": "Incorrecto. $r^2$ es el cuadrado del radio."
+          "feedback": "Incorrecto. Se igualó $k$ a $r^2 = 8$; la condición de tangencia compara la distancia centro-recta con el radio."
+        },
+        {
+          "letter": "C",
+          "text": "$k = \\pm 2\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2\\sqrt{2}$ es el radio; falta multiplicar por $\\sqrt{2}$, porque la distancia es $\\frac{|k|}{\\sqrt{2}}$."
         },
         {
           "letter": "D",
-          "text": "Centro = $(0, 0)$, Radio = $16$",
+          "text": "Solo $k = 4$",
           "is_correct": false,
-          "feedback": "Incorrecto. El centro está desplazado del origen."
+          "feedback": "Incorrecto. La condición $|k| = 4$ tiene dos soluciones; con $k = -4$ la recta es tangente del otro lado."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Comparando con la ecuación canónica $(x-h)^2 + (y-k)^2 = r^2$, el centro es $(h,k) = (14, 15)$ y el radio es $r = \\sqrt{256} = 16$.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Una recta es tangente a una circunferencia si su distancia al centro es igual al radio. Aquí $r = \\sqrt{8} = 2\\sqrt{2}$ y la recta es $x - y + k = 0$, cuya distancia al origen es $\\frac{|k|}{\\sqrt{2}}$. Igualando: $|k| = 2\\sqrt{2} \\cdot \\sqrt{2} = 4$, así que $k = 4$ o $k = -4$. Sustituyendo, $x^2 + (x \\pm 4)^2 = 8$ tiene discriminante cero.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.64,
-      "bundle_id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematica",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v15",
-      "statement": "Dada la ecuación $(x - 15)^2 + (y - 16)^2 = 289$, ¿cuáles son las coordenadas del centro $C$ y el radio $r$?",
-      "context": "Ecuación canónica de la circunferencia Caso N° 15.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Centro = $(15, 16)$, Radio = $17$",
-          "is_correct": true,
-          "feedback": "Correcto. En la forma $(x-h)^2 + (y-k)^2 = r^2$, $h = 15$, $k = 16$ y $r = \\sqrt{289} = 17$."
-        },
-        {
-          "letter": "B",
-          "text": "Centro = $(-15, -16)$, Radio = $289$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Confundió los signos de $h, k$ y no extrajo raíz a $r^2$."
-        },
-        {
-          "letter": "C",
-          "text": "Centro = $(15, 16)$, Radio = $289$",
-          "is_correct": false,
-          "feedback": "Incorrecto. $r^2$ es el cuadrado del radio."
-        },
-        {
-          "letter": "D",
-          "text": "Centro = $(0, 0)$, Radio = $17$",
-          "is_correct": false,
-          "feedback": "Incorrecto. El centro está desplazado del origen."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Comparando con la ecuación canónica $(x-h)^2 + (y-k)^2 = r^2$, el centro es $(h,k) = (15, 16)$ y el radio es $r = \\sqrt{289} = 17$.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
       "expected_success": 0.62,
       "bundle_id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle",
       "periodo": 19,
@@ -683,37 +503,37 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v16",
-      "statement": "Dada la ecuación $(x - 16)^2 + (y - 17)^2 = 324$, ¿cuáles son las coordenadas del centro $C$ y el radio $r$?",
-      "context": "Ecuación canónica de la circunferencia Caso N° 16.",
+      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la ecuación de la recta tangente en $(5, 2)$?",
+      "context": "Una pista circular de atletismo en Mar del Plata se modela con $(x - 2)^2 + (y - 1)^2 = 10$ y un corredor sale por la tangente en el punto $(5, 2)$.",
       "options": [
         {
           "letter": "A",
-          "text": "Centro = $(16, 17)$, Radio = $18$",
-          "is_correct": true,
-          "feedback": "Correcto. En la forma $(x-h)^2 + (y-k)^2 = r^2$, $h = 16$, $k = 17$ y $r = \\sqrt{324} = 18$."
+          "text": "$y = \\frac{1}{3}x + \\frac{1}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la recta del radio, que une el centro $(2, 1)$ con $(5, 2)$; la tangente es perpendicular a ella."
         },
         {
           "letter": "B",
-          "text": "Centro = $(-16, -17)$, Radio = $324$",
+          "text": "$y = 3x - 13$",
           "is_correct": false,
-          "feedback": "Incorrecto. Confundió los signos de $h, k$ y no extrajo raíz a $r^2$."
+          "feedback": "Incorrecto. Se invirtió la pendiente sin cambiar el signo; $3 \\cdot \\frac{1}{3} = 1$, no $-1$."
         },
         {
           "letter": "C",
-          "text": "Centro = $(16, 17)$, Radio = $324$",
+          "text": "$y = -3x + 7$",
           "is_correct": false,
-          "feedback": "Incorrecto. $r^2$ es el cuadrado del radio."
+          "feedback": "Incorrecto. La pendiente $-3$ es correcta, pero en $x = 5$ da $y = -8$; la recta no pasa por el punto de tangencia."
         },
         {
           "letter": "D",
-          "text": "Centro = $(0, 0)$, Radio = $18$",
-          "is_correct": false,
-          "feedback": "Incorrecto. El centro está desplazado del origen."
+          "text": "$y = -3x + 17$",
+          "is_correct": true,
+          "feedback": "Correcto. El radio tiene pendiente $\\frac{1}{3}$; la tangente, perpendicular, tiene pendiente $-3$ y pasa por $(5, 2)$: $y = -3x + 17$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Comparando con la ecuación canónica $(x-h)^2 + (y-k)^2 = r^2$, el centro es $(h,k) = (16, 17)$ y el radio es $r = \\sqrt{324} = 18$.\n\n---",
+      "correct_answer": "D",
+      "explanation": "Primero se verifica que $(5, 2)$ está en la circunferencia: $9 + 1 = 10$. El radio va de $(2, 1)$ a $(5, 2)$ con pendiente $\\frac{1}{3}$. La tangente es perpendicular al radio, con pendiente $-3$: $y - 2 = -3(x - 5)$, $y = -3x + 17$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -728,41 +548,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v17",
-      "statement": "Dada la ecuación $(x - 17)^2 + (y - 18)^2 = 361$, ¿cuáles son las coordenadas del centro $C$ y el radio $r$?",
-      "context": "Ecuación canónica de la circunferencia Caso N° 17.",
+      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v13",
+      "statement": "¿En qué puntos se cortan la recta y la parábola?",
+      "context": "En una simulación de la Universidad Nacional de Rosario, la recta $y = x + 1$ corta a la parábola $y = x^2 - 1$.",
       "options": [
         {
-          "letter": "B",
-          "text": "Centro = $(17, 18)$, Radio = $19$",
-          "is_correct": true,
-          "feedback": "Correcto. En la forma $(x-h)^2 + (y-k)^2 = r^2$, $h = 17$, $k = 18$ y $r = \\sqrt{361} = 19$."
+          "letter": "A",
+          "text": "Solo en $(2, 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ecuación $x^2 - x - 2 = 0$ tiene dos soluciones, $x = 2$ y $x = -1$; falta el segundo punto."
         },
         {
-          "letter": "A",
-          "text": "Centro = $(-17, -18)$, Radio = $361$",
+          "letter": "B",
+          "text": "En $(-2, -1)$ y $(1, 2)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Confundió los signos de $h, k$ y no extrajo raíz a $r^2$."
+          "feedback": "Incorrecto. Esos valores salen de resolver $x^2 + x - 2 = 0$, con el signo del término lineal cambiado."
         },
         {
           "letter": "C",
-          "text": "Centro = $(17, 18)$, Radio = $361$",
+          "text": "En $(1, 0)$ y $(-2, 3)$",
           "is_correct": false,
-          "feedback": "Incorrecto. $r^2$ es el cuadrado del radio."
+          "feedback": "Incorrecto. $(1, 0)$ no está en la recta: $1 + 1 = 2 \\neq 0$; se mezclaron raíces de la parábola con otras soluciones."
         },
         {
           "letter": "D",
-          "text": "Centro = $(0, 0)$, Radio = $19$",
-          "is_correct": false,
-          "feedback": "Incorrecto. El centro está desplazado del origen."
+          "text": "En $(-1, 0)$ y $(2, 3)$",
+          "is_correct": true,
+          "feedback": "Correcto. $x^2 - 1 = x + 1$ da $x^2 - x - 2 = (x - 2)(x + 1) = 0$; con $y = x + 1$ se obtienen $(2, 3)$ y $(-1, 0)$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Comparando con la ecuación canónica $(x-h)^2 + (y-k)^2 = r^2$, el centro es $(h,k) = (17, 18)$ y el radio es $r = \\sqrt{361} = 19$.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "Igualamos: $x^2 - 1 = x + 1$, o sea $x^2 - x - 2 = 0$, que se factoriza como $(x - 2)(x + 1) = 0$. Las soluciones son $x = 2$ y $x = -1$; sustituyendo en la recta, $y = 3$ e $y = 0$. Los puntos son $(2, 3)$ y $(-1, 0)$, que también cumplen $y = x^2 - 1$.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.58,
       "bundle_id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle",
       "periodo": 19,
@@ -773,41 +593,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v18",
-      "statement": "Dada la ecuación $(x - 18)^2 + (y - 19)^2 = 400$, ¿cuáles son las coordenadas del centro $C$ y el radio $r$?",
-      "context": "Ecuación canónica de la circunferencia Caso N° 18.",
+      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v14",
+      "statement": "¿Qué altura tiene el arco a 10 m del centro?",
+      "context": "Un galpón de Rosario tiene un arco parabólico de 40 m de ancho en la base y 16 m de altura máxima.",
       "options": [
         {
-          "letter": "D",
-          "text": "Centro = $(18, 19)$, Radio = $20$",
-          "is_correct": true,
-          "feedback": "Correcto. En la forma $(x-h)^2 + (y-k)^2 = r^2$, $h = 18$, $k = 19$ y $r = \\sqrt{400} = 20$."
-        },
-        {
           "letter": "A",
-          "text": "Centro = $(-18, -19)$, Radio = $400$",
+          "text": "$8$ m",
           "is_correct": false,
-          "feedback": "Incorrecto. Confundió los signos de $h, k$ y no extrajo raíz a $r^2$."
+          "feedback": "Incorrecto. Se supuso que la altura baja de forma lineal hasta el borde; en una parábola la caída depende de $x^2$."
         },
         {
           "letter": "B",
-          "text": "Centro = $(18, 19)$, Radio = $400$",
+          "text": "$4$ m",
           "is_correct": false,
-          "feedback": "Incorrecto. $r^2$ es el cuadrado del radio."
+          "feedback": "Incorrecto. 4 m es lo que baja el arco respecto de la cima, $0{,}04 \\cdot 10^2$; la altura es $16 - 4$."
         },
         {
           "letter": "C",
-          "text": "Centro = $(0, 0)$, Radio = $20$",
+          "text": "$12$ m",
+          "is_correct": true,
+          "feedback": "Correcto. Con $y = 16 - ax^2$ y $y(20) = 0$: $a = \\frac{16}{400} = 0{,}04$, y $y(10) = 16 - 4 = 12$ m."
+        },
+        {
+          "letter": "D",
+          "text": "$14$ m",
           "is_correct": false,
-          "feedback": "Incorrecto. El centro está desplazado del origen."
+          "feedback": "Incorrecto. Se calculó $16 - 0{,}04 \\cdot 50$, usando $10 \\cdot 5$ en lugar de $10^2$."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Comparando con la ecuación canónica $(x-h)^2 + (y-k)^2 = r^2$, el centro es $(h,k) = (18, 19)$ y el radio es $r = \\sqrt{400} = 20$.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "Se ubica el vértice en $(0, 16)$ y los apoyos en $(\\pm 20, 0)$: $y = 16 - ax^2$. Con $y(20) = 0$, $400a = 16$, $a = 0{,}04$. A 10 m del centro: $y = 16 - 0{,}04 \\cdot 100 = 12$ m. A mitad de camino hacia el borde, el arco perdió solo un cuarto de la altura.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.56,
       "bundle_id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle",
       "periodo": 19,
@@ -818,41 +638,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v19",
-      "statement": "Dada la ecuación $(x - 19)^2 + (y - 20)^2 = 441$, ¿cuáles son las coordenadas del centro $C$ y el radio $r$?",
-      "context": "Ecuación canónica de la circunferencia Caso N° 19.",
+      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v15",
+      "statement": "¿Cuáles son el foco y la directriz?",
+      "context": "En una clase de una escuela de Ushuaia se analiza la parábola $y^2 = 12(x - 1)$.",
       "options": [
         {
           "letter": "A",
-          "text": "Centro = $(19, 20)$, Radio = $21$",
-          "is_correct": true,
-          "feedback": "Correcto. En la forma $(x-h)^2 + (y-k)^2 = r^2$, $h = 19$, $k = 20$ y $r = \\sqrt{441} = 21$."
+          "text": "Foco $(3, 0)$ y directriz $x = -3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos datos corresponden a $y^2 = 12x$, con vértice en el origen; aquí el vértice está corrido a $(1, 0)$."
         },
         {
           "letter": "B",
-          "text": "Centro = $(-19, -20)$, Radio = $441$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Confundió los signos de $h, k$ y no extrajo raíz a $r^2$."
+          "text": "Foco $(4, 0)$ y directriz $x = -2$",
+          "is_correct": true,
+          "feedback": "Correcto. Vértice $(1, 0)$ y $4p = 12$, $p = 3$: foco $(1 + 3, 0)$ y directriz $x = 1 - 3$."
         },
         {
           "letter": "C",
-          "text": "Centro = $(19, 20)$, Radio = $441$",
+          "text": "Foco $(1, 3)$ y directriz $y = -3$",
           "is_correct": false,
-          "feedback": "Incorrecto. $r^2$ es el cuadrado del radio."
+          "feedback": "Incorrecto. Como la variable al cuadrado es $y$, el eje es horizontal; el foco se desplaza en $x$, no en $y$."
         },
         {
           "letter": "D",
-          "text": "Centro = $(0, 0)$, Radio = $21$",
+          "text": "Foco $(4, 0)$ y directriz $x = -3$",
           "is_correct": false,
-          "feedback": "Incorrecto. El centro está desplazado del origen."
+          "feedback": "Incorrecto. El foco es correcto, pero la directriz está a $p = 3$ del vértice $(1, 0)$, en $x = -2$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Comparando con la ecuación canónica $(x-h)^2 + (y-k)^2 = r^2$, el centro es $(h,k) = (19, 20)$ y el radio es $r = \\sqrt{441} = 21$.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "La ecuación $(y - k)^2 = 4p(x - h)$ describe una parábola de vértice $(h, k)$ y eje horizontal. Aquí $(h, k) = (1, 0)$ y $4p = 12$, $p = 3 > 0$, así que abre a la derecha. Foco: $(h + p, k) = (4, 0)$. Directriz: $x = h - p = -2$.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.54,
       "bundle_id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle",
       "periodo": 19,
@@ -863,42 +683,222 @@
       "country": "ar"
     },
     {
-      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v20",
-      "statement": "Dada la ecuación $(x - 20)^2 + (y - 21)^2 = 484$, ¿cuáles son las coordenadas del centro $C$ y el radio $r$?",
-      "context": "Ecuación canónica de la circunferencia Caso N° 20.",
+      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál de las siguientes ecuaciones representa una circunferencia real?",
+      "context": "Un software de diseño de Córdoba recibe cuatro ecuaciones de segundo grado y debe detectar cuál dibuja una circunferencia real.",
       "options": [
         {
-          "letter": "B",
-          "text": "Centro = $(20, 21)$, Radio = $22$",
-          "is_correct": true,
-          "feedback": "Correcto. En la forma $(x-h)^2 + (y-k)^2 = r^2$, $h = 20$, $k = 21$ y $r = \\sqrt{484} = 22$."
+          "letter": "A",
+          "text": "$x^2 + y^2 + 4x - 6y + 20 = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Completando cuadrados queda $(x + 2)^2 + (y - 3)^2 = -7$; un radio al cuadrado negativo no da puntos reales."
         },
         {
-          "letter": "A",
-          "text": "Centro = $(-20, -21)$, Radio = $484$",
+          "letter": "B",
+          "text": "$x^2 + 2y^2 - 4 = 0$",
           "is_correct": false,
-          "feedback": "Incorrecto. Confundió los signos de $h, k$ y no extrajo raíz a $r^2$."
+          "feedback": "Incorrecto. Los coeficientes de $x^2$ e $y^2$ son distintos (1 y 2), así que es una elipse, no una circunferencia."
         },
         {
           "letter": "C",
-          "text": "Centro = $(20, 21)$, Radio = $484$",
-          "is_correct": false,
-          "feedback": "Incorrecto. $r^2$ es el cuadrado del radio."
+          "text": "$x^2 + y^2 - 2x + 4y - 4 = 0$",
+          "is_correct": true,
+          "feedback": "Correcto. Completando cuadrados: $(x - 1)^2 + (y + 2)^2 = 9$, una circunferencia de centro $(1, -2)$ y radio 3."
         },
         {
           "letter": "D",
-          "text": "Centro = $(0, 0)$, Radio = $22$",
+          "text": "$x^2 - y^2 + 2x = 3$",
           "is_correct": false,
-          "feedback": "Incorrecto. El centro está desplazado del origen."
+          "feedback": "Incorrecto. Los cuadrados tienen signos opuestos, lo que corresponde a una hipérbola."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Comparando con la ecuación canónica $(x-h)^2 + (y-k)^2 = r^2$, el centro es $(h,k) = (20, 21)$ y el radio es $r = \\sqrt{484} = 22$.",
+      "correct_answer": "C",
+      "explanation": "Para ser circunferencia, $x^2$ e $y^2$ deben tener el mismo coeficiente y, al completar cuadrados, el segundo miembro debe ser positivo. En la opción C: $(x^2 - 2x + 1) + (y^2 + 4y + 4) = 4 + 1 + 4$, es decir $(x - 1)^2 + (y + 2)^2 = 9 > 0$. En la opción A se llega a $-7$, sin puntos reales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la evaluación correcta de la afirmación de Tomás?",
+      "context": "Tomás, de Santa Fe, afirma que la circunferencia con centro en el origen que pasa por $(3, 4)$ tiene ecuación $x^2 + y^2 = 5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es incorrecta: el radio es 5, por lo tanto la ecuación es $x^2 + y^2 = 25$.",
+          "is_correct": true,
+          "feedback": "Correcto. El punto $(3, 4)$ da $9 + 16 = 25$; en la ecuación va $r^2 = 25$, y Tomás escribió el radio sin elevarlo al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque la distancia del origen a $(3, 4)$ es 5.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia 5 es el radio, pero en el segundo miembro va $r^2$; con $x^2 + y^2 = 5$ el punto $(3, 4)$ no cumple: $25 \\neq 5$."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta: la ecuación es $x^2 + y^2 = 7$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 7 es la suma $3 + 4$ de las coordenadas; el radio se obtiene con Pitágoras, no sumando."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta: la ecuación es $(x - 3)^2 + (y - 4)^2 = 25$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa circunferencia tiene centro $(3, 4)$, pero el enunciado dice que el centro es el origen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con centro en el origen la ecuación es $x^2 + y^2 = r^2$. Como $(3, 4)$ pertenece a la circunferencia, $r^2 = 3^2 + 4^2 = 25$ y $r = 5$. La ecuación correcta es $x^2 + y^2 = 25$; Tomás confundió $r$ con $r^2$.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.52,
+      "expected_success": 0.5,
+      "bundle_id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la posición relativa de las dos circunferencias?",
+      "context": "Dos rotondas de Mendoza se modelan con $C_1: x^2 + y^2 = 4$ y $C_2: (x - 5)^2 + y^2 = 9$ (en hectómetros).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son secantes: se cortan en dos puntos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para ser secantes la distancia entre centros debería ser menor que $r_1 + r_2 = 5$; aquí es exactamente 5."
+        },
+        {
+          "letter": "B",
+          "text": "Son exteriores y no se tocan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Serían exteriores si la distancia entre centros superara $r_1 + r_2 = 5$; como es igual, se tocan."
+        },
+        {
+          "letter": "C",
+          "text": "Una está dentro de la otra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para ello la distancia entre centros debería ser menor que $|r_1 - r_2| = 1$; es 5."
+        },
+        {
+          "letter": "D",
+          "text": "Son tangentes exteriores en el punto $(2, 0)$.",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia entre centros $(0, 0)$ y $(5, 0)$ es $5 = 2 + 3$; el punto de contacto está a 2 del origen sobre el eje $x$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Se compara la distancia entre centros $d$ con los radios. $C_1$: centro $(0, 0)$, $r_1 = 2$; $C_2$: centro $(5, 0)$, $r_2 = 3$; $d = 5 = r_1 + r_2$, así que son tangentes exteriores. El punto $(2, 0)$ cumple ambas ecuaciones: $4 = 4$ y $9 + 0 = 9$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.48,
+      "bundle_id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál de los siguientes modelos es consistente con todos los datos?",
+      "context": "Un chorro de agua en una fuente de Mendoza sale del punto $(0, 0)$, cae en $(6, 0)$ y alcanza 4,5 m de altura máxima (en metros).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = -\\frac{1}{2}x^2 + 6x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x = 6$ da $-18 + 36 = 18 \\neq 0$; el chorro no caería en $(6, 0)$."
+        },
+        {
+          "letter": "B",
+          "text": "$y = -\\frac{1}{2}x^2 + 3x$",
+          "is_correct": true,
+          "feedback": "Correcto. Se anula en $x = 0$ y $x = 6$, y en el vértice $x = 3$ da $-4{,}5 + 9 = 4{,}5$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = -(x - 3)^2 + 4{,}5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene el vértice correcto, pero en $x = 0$ da $-9 + 4{,}5 = -4{,}5 \\neq 0$; no sale del origen."
+        },
+        {
+          "letter": "D",
+          "text": "$y = \\frac{1}{2}x^2 - 3x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene las raíces correctas pero abre hacia arriba: su vértice es un mínimo en $(3, -4{,}5)$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Como las raíces son 0 y 6, el modelo es $y = ax(x - 6)$. El vértice está en el punto medio, $x = 3$, con altura $4{,}5$: $a \\cdot 3 \\cdot (-3) = 4{,}5$, de donde $a = -\\frac{1}{2}$. Entonces $y = -\\frac{1}{2}x(x - 6) = -\\frac{1}{2}x^2 + 3x$. Hay que comprobar las tres condiciones, no solo una.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.46,
+      "bundle_id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematica",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle-v20",
+      "statement": "¿Qué figura es ese lugar geométrico?",
+      "context": "En una clase de Bahía Blanca se busca el lugar geométrico de los puntos que están a igual distancia del punto $F(0, 1)$ y de la recta $y = -1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La circunferencia de centro $(0, 1)$ y radio 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una circunferencia equidista de un solo punto; aquí la condición compara la distancia a un punto con la distancia a una recta."
+        },
+        {
+          "letter": "B",
+          "text": "La recta $y = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo el punto $(0, 0)$ de esa recta está a igual distancia de $F$ y de la directriz; por ejemplo $(2, 0)$ está a $\\sqrt{5}$ de $F$ y a 1 de la recta."
+        },
+        {
+          "letter": "C",
+          "text": "La parábola $x^2 = 4y$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sqrt{x^2 + (y - 1)^2} = |y + 1|$ da, al elevar al cuadrado, $x^2 - 2y = 2y$, es decir $x^2 = 4y$."
+        },
+        {
+          "letter": "D",
+          "text": "La parábola $y^2 = 4x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa parábola tiene foco $(1, 0)$ y directriz $x = -1$; los datos dados tienen foco sobre el eje $y$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un punto $(x, y)$ cumple $\\sqrt{x^2 + (y - 1)^2} = |y + 1|$. Elevando al cuadrado: $x^2 + y^2 - 2y + 1 = y^2 + 2y + 1$, que se reduce a $x^2 = 4y$. Es la definición de parábola: foco $(0, 1)$, directriz $y = -1$ y $p = 1$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
       "bundle_id": "AR-MAT-11-2026-W19-secciones-conicas-circunferencia-parabola-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",

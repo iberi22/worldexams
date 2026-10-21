@@ -35,10 +35,10 @@ cefr_level: "C1+"
 In the context of digital citizenship, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?
 
 ### Opciones
-- [x] B) exacerbate
-  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
 - [ ] A) alleviate
   <!-- feedback: Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed. -->
+- [x] B) exacerbate
+  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
 - [ ] C) mitigate
   <!-- feedback: Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied. -->
 - [ ] D) facilitate
@@ -129,23 +129,27 @@ The C1+ distinction tested here is between circumventing a rule and attacking th
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.70
-**Contexto:** Discussing digital citizenship in Manizales.
+**Contexto:** A student fact-checking club at a school in Cali.
 
 ### Enunciado
-According to a recent report on digital citizenship in Manizales, what is implied about the role of Conditionals Alternatives in shaping public opinion?
+Read the text and answer the question.
+
+"Before the 2023 local elections, students at a public school in Cali noticed that their families were receiving dozens of political messages on WhatsApp every day. Some of them were clearly false. So a group of tenth and eleventh graders created a fact-checking club. Every week they choose the three most shared messages, look for the original source, compare the information with official data and publish a short, simple explanation for their parents. 'We don't tell people who to vote for,' says Andrés, one of the members. 'We only help them check if what they read is true.'"
+
+What is the main idea of the text?
 
 ### Opciones
-- [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: The report treats Conditionals Alternatives as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Conditionals Alternatives add a layer of qualification rather than removing one, so it makes the argument harder, not simpler. -->
-- [ ] C) It is only used by academic elites in Cali.
-  <!-- feedback: The report presents Conditionals Alternatives as common in journalism, advertising and everyday debate, so it is not restricted to academics. -->
+- [ ] A) Students in Cali tell their parents which candidate to vote for.
+  <!-- feedback: Incorrect. Andrés says the opposite: "We don't tell people who to vote for"; the club only checks facts. -->
+- [ ] B) WhatsApp has been banned at the school because of false messages.
+  <!-- feedback: Incorrect. Nothing in the text mentions a ban; the students respond to false messages by checking them, not by forbidding the app. -->
+- [ ] C) All the political messages received by families were false.
+  <!-- feedback: Incorrect. The text says that "some of them were clearly false", which means not all of them; this option exaggerates the information. -->
+- [x] D) Students created a club to help their families check information they receive online.
+  <!-- feedback: Correct. The whole text describes the club: why it was created (false messages), what it does (checks sources and data) and its goal, which Andrés summarises as helping people know if what they read is true. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+A main-idea question requires an answer that covers the text as a whole. The problem, the club's weekly method and the final quotation all focus on helping families verify information, while the distractors contradict or exaggerate specific details.
 
 ---
 
@@ -154,23 +158,27 @@ This question requires inferential reading skills to understand how complex stru
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.67
-**Contexto:** Discussing digital citizenship in Pereira.
+**Contexto:** A digital skills course for older adults in Tunja.
 
 ### Enunciado
-According to a recent report on digital citizenship in Pereira, what is implied about the role of Conditionals Alternatives in shaping public opinion?
+Read the text and answer the question.
+
+"Every Tuesday afternoon, the public library in Tunja fills with students who are over sixty-five. In a free course taught by university volunteers, they learn to make video calls, pay bills online and recognise suspicious messages. At the beginning of the course, Doña Carmen admitted that she had once sent money to a stranger who said he was calling from her bank. 'Now I know that a bank never asks for your password on the phone,' she says. The volunteers say that the most popular class is the one about fraud, and that participants often bring real messages from their phones to analyse."
+
+What can be inferred from the text?
 
 ### Opciones
-- [x] A) It serves as a critical tool for nuanced communication.
-  <!-- feedback: The report treats Conditionals Alternatives as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication. -->
-- [ ] B) It is largely irrelevant to the general public.
-  <!-- feedback: Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on. -->
-- [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Conditionals Alternatives add a layer of qualification rather than removing one, so it makes the argument harder, not simpler. -->
-- [ ] D) It is only used by academic elites in Bogotá.
-  <!-- feedback: The report presents Conditionals Alternatives as common in journalism, advertising and everyday debate, so it is not restricted to academics. -->
+- [x] A) Many participants want to learn how to protect themselves from online fraud.
+  <!-- feedback: Correct. The most popular class is the one about fraud, and participants bring real messages to analyse, which suggests that avoiding scams is an important reason for them to attend. -->
+- [ ] B) Doña Carmen works for a bank in Tunja.
+  <!-- feedback: Incorrect. The text says a stranger pretended to call from her bank; she was a victim of fraud, not a bank employee. -->
+- [ ] C) The course is too expensive for most older adults.
+  <!-- feedback: Incorrect. The text says the course is "free", so cost cannot be a problem for participants. -->
+- [ ] D) The volunteers think video calls are the most difficult skill.
+  <!-- feedback: Incorrect. The text mentions video calls as one topic but says nothing about which skill is the most difficult; it only says which class is the most popular. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Inference questions ask what the text suggests without stating it. The popularity of the fraud class, Doña Carmen's experience and the real messages participants bring all point to the same conclusion about why they value the course.
 
 ---
 
@@ -179,23 +187,27 @@ This question requires inferential reading skills to understand how complex stru
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.64
-**Contexto:** Discussing digital citizenship in Barranquilla.
+**Contexto:** A school protocol against cyberbullying in Ibagué.
 
 ### Enunciado
-According to a recent report on digital citizenship in Barranquilla, what is implied about the role of Conditionals Alternatives in shaping public opinion?
+Read the text and answer the question.
+
+"When a student at a school in Ibagué receives offensive messages or sees embarrassing photos of herself shared online, the school follows a clear protocol. First, the student or a witness informs the coexistence committee, which includes teachers, parents and students. Second, the committee keeps screenshots of the messages as evidence, without sharing them further. Then it talks separately with the students involved and their families. Only in serious cases, such as threats, does the school contact the police. The coordinator explains that the aim is not only to punish, but to repair the harm done to the victim."
+
+According to the text, when does the school contact the police?
 
 ### Opciones
-- [x] B) It serves as a critical tool for nuanced communication.
-  <!-- feedback: The report treats Conditionals Alternatives as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on. -->
-- [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Conditionals Alternatives add a layer of qualification rather than removing one, so it makes the argument harder, not simpler. -->
-- [ ] D) It is only used by academic elites in Pereira.
-  <!-- feedback: The report presents Conditionals Alternatives as common in journalism, advertising and everyday debate, so it is not restricted to academics. -->
+- [ ] A) As soon as a student reports an offensive message.
+  <!-- feedback: Incorrect. The first step is informing the coexistence committee, not the police; the police are contacted only in serious cases. -->
+- [x] B) Only in serious cases, for example when there are threats.
+  <!-- feedback: Correct. The text states it directly: "Only in serious cases, such as threats, does the school contact the police." -->
+- [ ] C) After the committee has collected screenshots in every case.
+  <!-- feedback: Incorrect. Collecting screenshots is a normal step of the protocol for all cases, but it does not lead automatically to contacting the police. -->
+- [ ] D) When the families refuse to talk with the committee.
+  <!-- feedback: Incorrect. The text does not say what happens if families refuse to talk; the only condition given for calling the police is a serious case such as threats. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Detail questions require locating the precise information. The inverted sentence "Only in serious cases... does the school contact the police" gives the condition, and the other options mix up steps of the protocol that apply to every case.
 
 ---
 
@@ -204,23 +216,27 @@ This question requires inferential reading skills to understand how complex stru
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.61
-**Contexto:** Discussing digital citizenship in Cartagena.
+**Contexto:** A talk about digital footprints at a school in Barranquilla.
 
 ### Enunciado
-According to a recent report on digital citizenship in Cartagena, what is implied about the role of Conditionals Alternatives in shaping public opinion?
+Read the text and answer the question.
+
+"During a talk at a school in Barranquilla, a university recruiter showed students a surprising fact: many companies and some universities look at applicants' social media profiles before making a decision. 'Everything you post leaves a digital footprint,' she explained. 'A photo you share at fifteen can still be found when you are twenty-five, even if you deleted it, because other people may have saved it.' She did not tell students to stop using social media. Instead, she advised them to check their privacy settings and to ask themselves one question before posting: would I be comfortable if my future employer saw this?"
+
+In the text, the expression "digital footprint" refers to...
 
 ### Opciones
-- [x] A) It serves as a critical tool for nuanced communication.
-  <!-- feedback: The report treats Conditionals Alternatives as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication. -->
-- [ ] B) It is largely irrelevant to the general public.
-  <!-- feedback: Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on. -->
-- [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Conditionals Alternatives add a layer of qualification rather than removing one, so it makes the argument harder, not simpler. -->
-- [ ] D) It is only used by academic elites in Cartagena.
-  <!-- feedback: The report presents Conditionals Alternatives as common in journalism, advertising and everyday debate, so it is not restricted to academics. -->
+- [x] A) the trace of information a person leaves online that others can find later.
+  <!-- feedback: Correct. The recruiter explains it in the next sentence: a photo shared at fifteen "can still be found" years later, so a digital footprint is the lasting record of what someone does online. -->
+- [ ] B) the mark a shoe leaves on a computer screen.
+  <!-- feedback: Incorrect. This is a literal reading of "footprint"; the text uses the word figuratively to talk about information, not physical marks. -->
+- [ ] C) the number of hours a student spends on social media.
+  <!-- feedback: Incorrect. The recruiter never talks about time spent online; she talks about content that remains and can be found by others. -->
+- [ ] D) the privacy settings of a social media account.
+  <!-- feedback: Incorrect. Privacy settings are her advice for controlling the footprint, but they are not what the expression means. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Figurative expressions are often explained by the sentences that follow them. Just as a footprint shows where someone has walked, a digital footprint is the information that shows what someone has done online, which is why the recruiter talks about photos found years later.
 
 ---
 
@@ -260,12 +276,12 @@ C1+ media-literacy reading means following a conditional to its consequence. The
 A report on digital citizenship in Cartagena quotes a teacher: 'If every student verified a forwarded claim before repeating it, the rumour would have died within a day, yet nobody was ever taught to do so'. What does the sentence imply?
 
 ### Opciones
-- [x] C) The failure to spread the rumour depended on a habit that was never taught, so the outcome was left to chance.
-  <!-- feedback: 'If every student verified...' sets up a condition that would have worked, and 'yet nobody was ever taught to do so' removes it. The result was not prevented by any safeguard but by accident, which is what the contrast between the conditional and the fact exposes. -->
 - [ ] A) The teacher believes the rumour was in fact true.
   <!-- feedback: Nothing in the quotation suggests the teacher endorses the claim. The conditional is a counterfactual about verification, and the sentence is about a process for checking information, not about whether the rumour itself was accurate. -->
 - [ ] B) Students were taught to verify claims but chose not to do it.
   <!-- feedback: This reverses the second half of the sentence. The words 'nobody was ever taught to do so' deny that any instruction existed, so the problem is a gap in teaching rather than a failure of compliance. -->
+- [x] C) The failure to spread the rumour depended on a habit that was never taught, so the outcome was left to chance.
+  <!-- feedback: 'If every student verified...' sets up a condition that would have worked, and 'yet nobody was ever taught to do so' removes it. The result was not prevented by any safeguard but by accident, which is what the contrast between the conditional and the fact exposes. -->
 - [ ] D) The rumour died quickly despite the absence of any verification.
   <!-- feedback: The sentence says the rumour would have died within a day only under a condition that was never met. The clause 'yet nobody was ever taught' is what makes the outcome uncertain, not what makes it successful. -->
 
@@ -310,14 +326,14 @@ Third conditionals are the reason 'had' and 'would have' exist as separate auxil
 Complete the following sentence about digital citizenship: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Conditionals Alternatives)
 
 ### Opciones
-- [x] D) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
 - [ ] A) has
   <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
 - [ ] B) was
   <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
 - [ ] C) did
   <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
+- [x] D) had
+  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
 
 ### Explicacion Pedagogica
 This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.
@@ -335,12 +351,12 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 Complete the following sentence about digital citizenship: 'Had the ministry published the takedown notices in a searchable archive, journalists would have been able to trace the pattern, and instead the record remains scattered across a thousand inboxes.' (Topic: inverted third conditional joined to a result clause)
 
 ### Opciones
-- [x] C) would
-  <!-- feedback: The second clause of an inverted third conditional is 'would have been able', and the sentence continues with 'and instead the record remains', where 'instead' points back to the possibility named by 'would have'. The tense pairing is what the structure requires. -->
 - [ ] A) will
   <!-- feedback: 'Will' would move the second clause into the future, and the sentence would then have an inverted past clause followed by a future result. Third conditionals keep both clauses in the same counterfactual time world. -->
 - [ ] B) must
   <!-- feedback: 'Must' would assert an obligation, saying journalists were required to be able to trace the pattern. The clause is about what a published archive would have made possible, which is a question of capability and not of duty. -->
+- [x] C) would
+  <!-- feedback: The second clause of an inverted third conditional is 'would have been able', and the sentence continues with 'and instead the record remains', where 'instead' points back to the possibility named by 'would have'. The tense pairing is what the structure requires. -->
 - [ ] D) had
   <!-- feedback: 'Had' opens the sentence as the first clause's auxiliary, and it cannot also serve the second clause. A third conditional distributes its two auxiliaries, one per clause, so the main clause needs 'would have' rather than a second 'had'. -->
 
@@ -360,10 +376,10 @@ Long third conditionals are hard because a result clause follows the inverted on
 Complete the following sentence about digital citizenship: 'Should the archive ever be shut down without notice, the only way to keep the evidence available __________ to download a copy in advance and check the file actually opens.' (Topic: 'should' with an inverted 'should'-clause plus a purpose clause)
 
 ### Opciones
-- [x] B) be
-  <!-- feedback: 'Should' is already the auxiliary of the inverted conditional, so the blank takes the bare infinitive 'be': 'should the archive ever be shut down... the only way... is to download a copy'. The infinitive to download then explains what the only way consists in. -->
 - [ ] A) being
   <!-- feedback: A gerund after the auxiliary 'should' would leave the clause without a main verb, since 'should' has already taken the auxiliary slot. An inverted conditional needs the bare infinitive after 'should', not a gerund. -->
+- [x] B) be
+  <!-- feedback: 'Should' is already the auxiliary of the inverted conditional, so the blank takes the bare infinitive 'be': 'should the archive ever be shut down... the only way... is to download a copy'. The infinitive to download then explains what the only way consists in. -->
 - [ ] C) been
   <!-- feedback: 'Been' is a past participle and belongs with 'have', which is not present. The clause describes a possible future event under advice, so the form after 'should' is the bare infinitive and nothing more. -->
 - [ ] D) are
@@ -379,23 +395,23 @@ An inverted conditional with 'should' is a recommendation about a future possibi
 **Bloom:** Analyze
 **ICFES:** Structural Cloze
 **Expected_Success:** 0.40
-**Contexto:** Discussing digital citizenship in Cali.
+**Contexto:** Online account security for students in Cali.
 
 ### Enunciado
-Complete the following sentence about digital citizenship: 'If the identity requirement had been dropped __________ more people would have used the archive, though the curators insist the numbers prove the opposite.' (Topic: second conditional with a dropped 'if')
+Complete the following sentence about digital citizenship: 'An account protected with two-step verification is very hard to break into, __________ the user shares the security code with someone else.' (Topic: conditional connectors)
 
 ### Opciones
-- [x] A) or
-  <!-- feedback: Dropping 'if' from a second conditional means inverting the clause: instead of 'if more people had used the archive', the sentence gives 'more people would have used the archive' with 'or' carrying the alternative. The pattern is fixed and 'or' is the conjunction that introduces it. -->
-- [ ] B) than
-  <!-- feedback: 'Than' introduces comparisons between two comparable items, and this sentence compares no quantities or degrees. The clause after the blank is a plain second conditional, so a comparative conjunction has no function here. -->
-- [ ] C) but
-  <!-- feedback: 'But' introduces a contrast, and the contrastive clause in this sentence is already marked by 'though the curators insist'. Adding 'but' as well would put two adversative connectors where the structure needs the dropped-'if' conjunction. -->
-- [ ] D) so
-  <!-- feedback: 'So' introduces a result, but the sentence already contains its own result clause, marked by 'though'. The blank sits where the 'if'-less conditional pattern requires 'or', and nothing in the sentence needs another connective of consequence. -->
+- [x] A) unless
+  <!-- feedback: Correct. "Unless" means "except if": the account is hard to break into except if the user shares the code. This is the only connector that makes the sentence logical. -->
+- [ ] B) as long as
+  <!-- feedback: Incorrect. "As long as" means "only if", so the sentence would say the account is safe only if the user shares the code, which is the opposite of the intended meaning. -->
+- [ ] C) in case
+  <!-- feedback: Incorrect. "In case" introduces a precaution ("do X in case Y happens"); it does not express an exception to a statement, so the sentence would not make sense. -->
+- [ ] D) even though
+  <!-- feedback: Incorrect. "Even though" introduces a fact that contrasts with the main clause, not a condition; it would claim that the user actually shares the code. -->
 
 ### Explicacion Pedagogica
-Conditionals without 'if' are a formal written pattern that appears in academic English at C1, and the conjunction is fixed as 'or'. Students should recognise the pair of tenses in the two clauses first, because that is what signals an inverted conditional rather than a contrast or a comparison.
+Conditional connectors are chosen by meaning. "Unless" introduces the one situation in which the main clause is not true, which is what this sentence needs; "as long as" and "provided that" introduce the condition that makes it true.
 
 ---
 
@@ -410,10 +426,10 @@ Conditionals without 'if' are a formal written pattern that appears in academic 
 Complete the following sentence about digital citizenship: 'Were the deletion logs __________ by the platform, users would have had no way of establishing who had removed a post or when.' (Topic: inversion in a 'were'-clause at the start of a sentence)
 
 ### Opciones
-- [x] B) kept
-  <!-- feedback: 'Were' at the front of a sentence forms an inverted second conditional, and it pairs with the past participle: 'were the deletion logs kept by the platform'. The 'would have had' in the main clause confirms that both halves belong to the unreal past. -->
 - [ ] A) keeping
   <!-- feedback: A gerund after 'were' would leave the subject without a verb, since 'were' is already the auxiliary. An inverted conditional needs the past participle to complete the passive, and 'keeping' cannot do that. -->
+- [x] B) kept
+  <!-- feedback: 'Were' at the front of a sentence forms an inverted second conditional, and it pairs with the past participle: 'were the deletion logs kept by the platform'. The 'would have had' in the main clause confirms that both halves belong to the unreal past. -->
 - [ ] C) keep
   <!-- feedback: 'Keep' is a bare form and would need a subject to act on, but the subject is 'the deletion logs'. The passive formed with 'were' requires the participle 'kept', which is also what pairs with 'by the platform'. -->
 - [ ] D) discarded
@@ -429,23 +445,23 @@ Inverted conditionals in formal written English put the auxiliary 'were' first, 
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.34
-**Contexto:** Discussing digital citizenship in Cali.
+**Contexto:** A student debate in Bogotá about online harassment.
 
 ### Enunciado
-In a high-level debate about digital citizenship, Isabella says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Isabella mean?
+During a debate about online harassment, Daniela says: 'I can't help but feel that we are barking up the wrong tree. Blocking apps at school won't stop anything if students never learn how to treat each other online.' What does Daniela mean?
 
 ### Opciones
-- [x] D) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of Barranquilla.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] B) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] C) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [ ] A) They are literally looking for something in the trees of the school.
+  <!-- feedback: Incorrect. This reads the idiom literally; the debate is about online harassment, and no trees are involved. -->
+- [ ] B) The debate has become too noisy and aggressive.
+  <!-- feedback: Incorrect. "Barking" here does not refer to noise; the idiom is about choosing the wrong target, as her second sentence shows. -->
+- [ ] C) Students should spend more time outdoors near trees.
+  <!-- feedback: Incorrect. This takes the image of the tree as a proposal; Daniela proposes teaching online behaviour, not outdoor activities. -->
+- [x] D) The group is focusing on the wrong solution to the problem.
+  <!-- feedback: Correct. "Barking up the wrong tree" means looking for an answer in the wrong place; Daniela says that education about behaviour matters more than blocking apps. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+Idioms are understood through their figurative meaning and the context. Daniela's second sentence names a different solution, which confirms that the idiom "bark up the wrong tree" means the group was focusing on the wrong answer.
 
 ---
 
@@ -454,23 +470,28 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.31
-**Contexto:** Discussing digital citizenship in Medellín.
+**Contexto:** Two classmates in Cartagena talk about a video.
 
 ### Enunciado
-In a high-level debate about digital citizenship, Sebastián says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Sebastián mean?
+Read the conversation.
+
+Sara: Did you see the video of the boy dancing on the beach in Bocagrande?
+Diego: Of course! It went viral. My cousin in Spain sent it to me this morning, and it already has two million views.
+
+What does "it went viral" mean?
 
 ### Opciones
-- [x] C) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of Cartagena.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] B) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] D) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [ ] A) It contained a computer virus that damaged phones.
+  <!-- feedback: Incorrect. This is a literal reading of "viral"; the conversation is about popularity and views, not about damage to devices. -->
+- [ ] B) It was deleted because it broke the platform's rules.
+  <!-- feedback: Incorrect. A deleted video could not have two million views and be sent by Diego's cousin that morning. -->
+- [x] C) It spread very quickly to a large number of people online.
+  <!-- feedback: Correct. "Go viral" means to be shared rapidly by many people on the internet; Diego shows this with the two million views and a cousin in Spain who already saw it. -->
+- [ ] D) It made many people sick after watching it.
+  <!-- feedback: Incorrect. "Viral" here has nothing to do with illness; the expression compares the speed of sharing to the way a virus spreads. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+"Go viral" is a common expression in digital culture. It uses the image of a virus to describe how content passes from person to person very fast, and the details in the conversation (two million views, shared abroad) confirm that meaning.
 
 ---
 
@@ -479,23 +500,28 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.28
-**Contexto:** Discussing digital citizenship in Medellín.
+**Contexto:** A mother in Pereira gives advice to her son about posting online.
 
 ### Enunciado
-In a high-level debate about digital citizenship, Santiago says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Santiago mean?
+Read the conversation.
+
+Felipe: I'm going to post a photo of my teacher sleeping on the bus. It's so funny!
+Mother: I'd think twice about that. How would you feel if someone did that to you?
+
+What does Felipe's mother suggest?
 
 ### Opciones
-- [x] C) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of Medellín.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] B) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] D) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [ ] A) Felipe should post the photo two times.
+  <!-- feedback: Incorrect. "Twice" in this expression does not refer to the number of posts; the idiom means to reflect before acting. -->
+- [ ] B) Felipe should take a better photo of the teacher.
+  <!-- feedback: Incorrect. The mother does not comment on the quality of the photo; she questions whether posting it is respectful. -->
+- [x] C) Felipe should consider the consequences carefully before posting.
+  <!-- feedback: Correct. "Think twice" means to consider something carefully before doing it, usually because it may be a bad idea; her question about how Felipe would feel shows she wants him to reconsider. -->
+- [ ] D) Felipe should post it immediately because it is funny.
+  <!-- feedback: Incorrect. Her question "How would you feel if someone did that to you?" shows disapproval, not encouragement. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+"I'd think twice about that" is a polite way of advising someone not to do something. The follow-up question about empathy is a pragmatic clue that the mother considers the post disrespectful.
 
 ---
 
@@ -504,22 +530,27 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.25
-**Contexto:** Discussing digital citizenship in Medellín.
+**Contexto:** Two students in Medellín discuss information found on a website.
 
 ### Enunciado
-In a high-level debate about digital citizenship, Alejandro says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Alejandro mean?
+Read the conversation.
+
+Valentina: This website says that drinking coffee makes you grow taller!
+Camilo: Hmm, I'd take that with a pinch of salt. There's no author, no date and no sources.
+
+What is Camilo's attitude towards the information?
 
 ### Opciones
-- [x] C) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of Barranquilla.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] B) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] D) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [ ] A) He thinks the information is completely reliable.
+  <!-- feedback: Incorrect. The missing author, date and sources are reasons for doubt, so Camilo does not trust the website. -->
+- [ ] B) He recommends adding salt to coffee.
+  <!-- feedback: Incorrect. This is a literal reading of the idiom; Camilo is talking about how to judge information, not about food. -->
+- [x] C) He doubts it and does not completely believe it.
+  <!-- feedback: Correct. "Take something with a pinch of salt" means to be sceptical about it; Camilo explains his doubt by pointing out that the website has no author, date or sources. -->
+- [ ] D) He is angry with Valentina for reading the website.
+  <!-- feedback: Incorrect. Camilo's tone is calm and analytical ("Hmm"); he evaluates the source but does not criticise Valentina. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+"With a pinch of salt" expresses scepticism, and Camilo supports it with the basic criteria for evaluating online sources: author, date and references. Recognising this attitude is part of digital citizenship and of pragmatic reading.
 
 ---

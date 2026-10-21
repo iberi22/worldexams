@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle-v1",
-      "statement": "¿Cuál es el conjunto solución para la inecuación lineal $2x + 1 \\le 15$?",
-      "context": "En Barranquilla, Sofia presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 1 \\le 15$.",
+      "statement": "¿Cuál es el conjunto solución de $3x - 7 > 8$?",
+      "context": "Una estudiante de Tunja ahorra para un curso y plantea $3x - 7 > 8$, donde $x$ son las semanas de ahorro necesarias.",
       "options": [
         {
           "letter": "A",
-          "text": "$x \\le 7$",
-          "is_correct": true,
-          "feedback": "Correcto. Restando 1 a ambos lados obtenemos $2x \\le 14$, y dividiendo entre 2 resulta $x \\le 7$."
+          "text": "$x > \\frac{1}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó 7 en lugar de sumarlo: $3x > 8 - 7 = 1$; el $-7$ pasa sumando y queda $3x > 15$."
         },
         {
           "letter": "B",
-          "text": "$x \\ge 7$",
+          "text": "$x < 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
+          "feedback": "Incorrecto. Se invirtió el signo sin motivo; al dividir entre 3, que es positivo, la desigualdad se conserva."
         },
         {
           "letter": "C",
-          "text": "$x \\le 10$",
+          "text": "$x > 15$",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cometió un error en la resta de 1."
+          "feedback": "Incorrecto. Se despejó $3x > 15$ pero faltó dividir entre 3; el resultado es $x > 5$."
         },
         {
           "letter": "D",
-          "text": "$x \\le 14$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
+          "text": "$x > 5$",
+          "is_correct": true,
+          "feedback": "Correcto. $3x - 7 > 8 \\Rightarrow 3x > 15 \\Rightarrow x > 5$, dividiendo entre 3 positivo sin cambiar el sentido."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Para despejar $x$ en $2x + 1 \\le 15$, restamos 1 de ambos miembros: $2x \\le 14$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 7$.",
+      "correct_answer": "D",
+      "explanation": "Se despeja como en una ecuación cuidando el sentido. Sumar 7 a ambos lados: $3x > 15$. Dividir entre 3 (positivo, el sentido no cambia): $x > 5$. Comprobación con $x = 6$: $18 - 7 = 11 > 8$; con $x = 5$: $15 - 7 = 8$, que no es mayor que 8, por eso 5 no se incluye.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Numerico",
+      "icfes_type": "Algebraico",
       "expected_success": 0.85,
       "bundle_id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle",
       "periodo": 2,
@@ -55,42 +55,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle-v2",
-      "statement": "¿Cuál es el conjunto solución para la inecuación lineal $2x + 2 \\le 20$?",
-      "context": "En Bucaramanga, Diego presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 2 \\le 20$.",
+      "statement": "¿Qué valores de $x$ cumplen $-2x + 4 \\le 10$?",
+      "context": "En un ejercicio de un colegio de Santa Marta, el saldo de una cuenta escolar cumple $-2x + 4 \\le 10$, con $x$ en miles de pesos.",
       "options": [
         {
           "letter": "A",
-          "text": "$x \\le 9$",
-          "is_correct": true,
-          "feedback": "Correcto. Restando 2 a ambos lados obtenemos $2x \\le 18$, y dividiendo entre 2 resulta $x \\le 9$."
+          "text": "$x \\le -3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió entre $-2$ sin invertir el sentido; al dividir por un negativo, $\\le$ se convierte en $\\ge$."
         },
         {
           "letter": "B",
-          "text": "$x \\ge 9$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
+          "text": "$x \\ge -3$",
+          "is_correct": true,
+          "feedback": "Correcto. $-2x \\le 6$ y, al dividir entre $-2$ (negativo), el sentido se invierte: $x \\ge -3$."
         },
         {
           "letter": "C",
-          "text": "$x \\le 12$",
+          "text": "$x \\ge 3$",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cometió un error en la resta de 2."
+          "feedback": "Incorrecto. Se perdió el signo del cociente: $6 / (-2) = -3$, no 3."
         },
         {
           "letter": "D",
-          "text": "$x \\le 18$",
+          "text": "$x \\le -7$",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
+          "feedback": "Incorrecto. Se sumó 4 en lugar de restarlo: $-2x \\le 14$; el 4 pasa restando y queda $-2x \\le 6$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Para despejar $x$ en $2x + 2 \\le 20$, restamos 2 de ambos miembros: $2x \\le 18$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 9$.",
+      "correct_answer": "B",
+      "explanation": "Restando 4: $-2x \\le 6$. Al dividir ambos lados entre $-2$ el sentido de la desigualdad se invierte: $x \\ge -3$. Prueba con $x = 0$: $0 + 4 = 4 \\le 10$, cumple; con $x = -4$: $8 + 4 = 12$, no cumple. Esto confirma $x \\ge -3$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Variacional",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.83,
       "bundle_id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle-v3",
-      "statement": "¿Cuál es el conjunto solución para la inecuación lineal $2x + 3 \\le 25$?",
-      "context": "En Cartagena, Valentina presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 3 \\le 25$.",
+      "statement": "¿Cómo se escribe en notación de intervalo el conjunto de temperaturas permitidas?",
+      "context": "Un cuarto frío de flores en Rionegro (Antioquia) debe mantener la temperatura por encima de $-1$ °C y como máximo en 4 °C.",
       "options": [
         {
-          "letter": "C",
-          "text": "$x \\le 11$",
-          "is_correct": true,
-          "feedback": "Correcto. Restando 3 a ambos lados obtenemos $2x \\le 22$, y dividiendo entre 2 resulta $x \\le 11$."
-        },
-        {
           "letter": "A",
-          "text": "$x \\ge 11$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
+          "text": "$(-1, 4]$",
+          "is_correct": true,
+          "feedback": "Correcto. \"Por encima de $-1$\" excluye $-1$ (paréntesis) y \"como máximo 4\" incluye 4 (corchete)."
         },
         {
           "letter": "B",
-          "text": "$x \\le 14$",
+          "text": "$[-1, 4)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cometió un error en la resta de 3."
+          "feedback": "Incorrecto. Los extremos están invertidos: $-1$ no se permite porque debe estar por encima, y 4 sí se permite."
+        },
+        {
+          "letter": "C",
+          "text": "$(-1, 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Como máximo 4\" significa $T \\le 4$, así que 4 pertenece al conjunto y lleva corchete."
         },
         {
           "letter": "D",
-          "text": "$x \\le 22$",
+          "text": "$[-1, 4]$",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
+          "feedback": "Incorrecto. \"Por encima de $-1$\" es la desigualdad estricta $T > -1$, que excluye el extremo $-1$."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Para despejar $x$ en $2x + 3 \\le 25$, restamos 3 de ambos miembros: $2x \\le 22$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 11$.",
+      "correct_answer": "A",
+      "explanation": "La condición es $-1 < T \\le 4$. El extremo con desigualdad estricta se escribe con paréntesis y el que admite igualdad con corchete. Por eso el intervalo es $(-1, 4]$: contiene, por ejemplo, $-0{,}5$ y 4, pero no $-1$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Understand",
       "icfes_type": "Numerico",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
       "bundle_id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle-v4",
-      "statement": "¿Cuál es el conjunto solución para la inecuación lineal $2x + 4 \\le 30$?",
-      "context": "En Pereira, Santiago presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 4 \\le 30$.",
+      "statement": "¿Cuál de estos valores es solución de $|x - 3| < 2$?",
+      "context": "En un taller de un colegio de Popayán se pide comprobar soluciones de $|x - 3| < 2$, que representa los puntos a menos de 2 unidades de 3 en la recta.",
       "options": [
         {
           "letter": "A",
-          "text": "$x \\le 13$",
-          "is_correct": true,
-          "feedback": "Correcto. Restando 4 a ambos lados obtenemos $2x \\le 26$, y dividiendo entre 2 resulta $x \\le 13$."
+          "text": "$x = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $|1 - 3| = 2$, y 2 no es menor que 2; el 1 está justo en el borde, excluido por la desigualdad estricta."
         },
         {
           "letter": "B",
-          "text": "$x \\ge 13$",
+          "text": "$x = 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
+          "feedback": "Incorrecto. $|5 - 3| = 2$, que tampoco es menor que 2; 5 es el otro extremo excluido."
         },
         {
           "letter": "C",
-          "text": "$x \\le 16$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se cometió un error en la resta de 4."
+          "text": "$x = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. $|4 - 3| = 1 < 2$: 4 está a una unidad de 3."
         },
         {
           "letter": "D",
-          "text": "$x \\le 26$",
+          "text": "$x = -1$",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
+          "feedback": "Incorrecto. $|-1 - 3| = |-4| = 4$, que es mayor que 2; está a 4 unidades de 3."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Para despejar $x$ en $2x + 4 \\le 30$, restamos 4 de ambos miembros: $2x \\le 26$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 13$.",
+      "correct_answer": "C",
+      "explanation": "$|x - 3| < 2$ significa que la distancia de $x$ a 3 es menor que 2, es decir $-2 < x - 3 < 2$, o sea $1 < x < 5$. De las opciones solo 4 está estrictamente entre 1 y 5; 1 y 5 son extremos que la desigualdad estricta deja por fuera.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Variacional",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.78,
       "bundle_id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -193,41 +193,41 @@
     },
     {
       "id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál es el conjunto solución para la inecuación lineal $2x + 5 \\le 35$?",
-      "context": "En Manizales, Mariana presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 5 \\le 35$.",
+      "statement": "¿Cuál es el máximo número de estudiantes que pueden ir sin pasarse del presupuesto?",
+      "context": "Un colegio de Popayán tiene 850 000 pesos para una salida: el bus cuesta 250 000 fijos y la entrada al museo 18 000 por estudiante.",
       "options": [
         {
-          "letter": "D",
-          "text": "$x \\le 15$",
-          "is_correct": true,
-          "feedback": "Correcto. Restando 5 a ambos lados obtenemos $2x \\le 30$, y dividiendo entre 2 resulta $x \\le 15$."
-        },
-        {
           "letter": "A",
-          "text": "$x \\ge 15$",
+          "text": "34",
           "is_correct": false,
-          "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
+          "feedback": "Incorrecto. Se redondeó hacia arriba $33{,}3$; con 34 el costo es $250\\,000 + 612\\,000 = 862\\,000 > 850\\,000$."
         },
         {
           "letter": "B",
-          "text": "$x \\le 18$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se cometió un error en la resta de 5."
+          "text": "33",
+          "is_correct": true,
+          "feedback": "Correcto. $250\\,000 + 18\\,000n \\le 850\\,000 \\Rightarrow n \\le 33{,}3$, y el mayor entero es 33 (costo 844 000)."
         },
         {
           "letter": "C",
-          "text": "$x \\le 30$",
+          "text": "47",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
+          "feedback": "Incorrecto. Se dividió $850\\,000/18\\,000 \\approx 47{,}2$ sin descontar los 250 000 del bus."
+        },
+        {
+          "letter": "D",
+          "text": "61",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó el costo del bus al presupuesto, $(850\\,000 + 250\\,000)/18\\,000$; el bus consume parte del dinero y debe restarse."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Para despejar $x$ en $2x + 5 \\le 35$, restamos 5 de ambos miembros: $2x \\le 30$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 15$.",
+      "correct_answer": "B",
+      "explanation": "La inecuación es $250\\,000 + 18\\,000n \\le 850\\,000$. Restando: $18\\,000n \\le 600\\,000$, así $n \\le 33{,}\\overline{3}$. Como $n$ es entero, el máximo es 33: cuesta $250\\,000 + 594\\,000 = 844\\,000$ COP; con 34 se excede.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Numerico",
+      "icfes_type": "Modelacion",
       "expected_success": 0.75,
       "bundle_id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle",
       "periodo": 2,
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle-v6",
-      "statement": "¿Cuál es el conjunto solución para la inecuación lineal $2x + 6 \\le 40$?",
-      "context": "En Santa Marta, Juan presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 6 \\le 40$.",
+      "statement": "Resuelva $-5 \\le 2x + 1 < 9$.",
+      "context": "Un sensor de una planta de tratamiento en Bucaramanga opera bien cuando la lectura $2x + 1$ está entre $-5$ (incluido) y 9 (excluido).",
       "options": [
         {
-          "letter": "B",
-          "text": "$x \\le 17$",
-          "is_correct": true,
-          "feedback": "Correcto. Restando 6 a ambos lados obtenemos $2x \\le 34$, y dividiendo entre 2 resulta $x \\le 17$."
+          "letter": "A",
+          "text": "$-2 \\le x < 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó 1 en lugar de restarlo: $(-5+1)/2 = -2$ y $(9+1)/2 = 5$."
         },
         {
-          "letter": "A",
-          "text": "$x \\ge 17$",
+          "letter": "B",
+          "text": "$-3 < x \\le 4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
+          "feedback": "Incorrecto. Los valores son correctos pero se intercambiaron los tipos de desigualdad; $-3$ va incluido y 4 excluido."
         },
         {
           "letter": "C",
-          "text": "$x \\le 20$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se cometió un error en la resta de 6."
+          "text": "$-3 \\le x < 4$",
+          "is_correct": true,
+          "feedback": "Correcto. Restar 1 en las tres partes: $-6 \\le 2x < 8$; dividir entre 2: $-3 \\le x < 4$."
         },
         {
           "letter": "D",
-          "text": "$x \\le 34$",
+          "text": "$-6 \\le x < 8$",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
+          "feedback": "Incorrecto. Se restó 1 pero faltó dividir entre 2 las tres partes de la desigualdad."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para despejar $x$ en $2x + 6 \\le 40$, restamos 6 de ambos miembros: $2x \\le 34$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 17$.",
+      "correct_answer": "C",
+      "explanation": "En una inecuación compuesta se opera en las tres partes a la vez. Restando 1: $-6 \\le 2x < 8$. Dividiendo entre 2 (positivo): $-3 \\le x < 4$. Se conserva que el extremo izquierdo es cerrado y el derecho abierto, como en la desigualdad original.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Variacional",
-      "expected_success": 0.75,
+      "icfes_type": "Algebraico",
+      "expected_success": 0.72,
       "bundle_id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle-v7",
-      "statement": "¿Cuál es el conjunto solución para la inecuación lineal $2x + 7 \\le 45$?",
-      "context": "En Pasto, Camila presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 7 \\le 45$.",
+      "statement": "¿Cuál es el conjunto solución de $|2x - 5| \\ge 3$?",
+      "context": "En control de calidad de una panadería de Cúcuta se descartan productos cuya medida cumple $|2x - 5| \\ge 3$.",
       "options": [
         {
           "letter": "A",
-          "text": "$x \\le 19$",
-          "is_correct": true,
-          "feedback": "Correcto. Restando 7 a ambos lados obtenemos $2x \\le 38$, y dividiendo entre 2 resulta $x \\le 19$."
+          "text": "$[1, 4]$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el conjunto de $|2x - 5| \\le 3$; con \"mayor o igual\" la solución está fuera de ese intervalo."
         },
         {
           "letter": "B",
-          "text": "$x \\ge 19$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
+          "text": "$(-\\infty, 1] \\cup [4, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. $2x - 5 \\ge 3 \\Rightarrow x \\ge 4$, o $2x - 5 \\le -3 \\Rightarrow x \\le 1$."
         },
         {
           "letter": "C",
-          "text": "$x \\le 22$",
+          "text": "$(-\\infty, -1] \\cup [4, \\infty)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cometió un error en la resta de 7."
+          "feedback": "Incorrecto. En la rama negativa se cometió un error de signo: $2x \\le -3 + 5 = 2$ da $x \\le 1$, no $x \\le -1$."
         },
         {
           "letter": "D",
-          "text": "$x \\le 38$",
+          "text": "$[4, \\infty)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
+          "feedback": "Incorrecto. Solo se resolvió $2x - 5 \\ge 3$; falta la rama $2x - 5 \\le -3$, porque el valor absoluto también es grande con argumento negativo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Para despejar $x$ en $2x + 7 \\le 45$, restamos 7 de ambos miembros: $2x \\le 38$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 19$.",
+      "correct_answer": "B",
+      "explanation": "$|u| \\ge 3$ equivale a $u \\ge 3$ o $u \\le -3$. Con $u = 2x - 5$: primera rama $2x \\ge 8$, $x \\ge 4$; segunda rama $2x \\le 2$, $x \\le 1$. La unión es $(-\\infty, 1] \\cup [4, \\infty)$. Por ejemplo $x = 0$ da $|-5| = 5 \\ge 3$ y $x = 2$ da $|-1| = 1$, que no cumple.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Numerico",
-      "expected_success": 0.75,
+      "icfes_type": "Algebraico",
+      "expected_success": 0.7,
       "bundle_id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle-v8",
-      "statement": "¿Cuál es el conjunto solución para la inecuación lineal $2x + 8 \\le 50$?",
-      "context": "En Bogotá, Alejandro presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 8 \\le 50$.",
+      "statement": "¿Cuál es el conjunto solución de $x^2 - x - 6 < 0$?",
+      "context": "El rendimiento de un cultivo en el Tolima se modela de forma que la pérdida es positiva cuando $x^2 - x - 6$ es negativo; interesa saber cuándo $x^2 - x - 6 < 0$.",
       "options": [
         {
-          "letter": "B",
-          "text": "$x \\le 21$",
+          "letter": "A",
+          "text": "$(-2, 3)$",
           "is_correct": true,
-          "feedback": "Correcto. Restando 8 a ambos lados obtenemos $2x \\le 42$, y dividiendo entre 2 resulta $x \\le 21$."
+          "feedback": "Correcto. $x^2 - x - 6 = (x - 3)(x + 2)$ es negativo entre sus raíces $-2$ y 3."
         },
         {
-          "letter": "A",
-          "text": "$x \\ge 21$",
+          "letter": "B",
+          "text": "$(-\\infty, -2) \\cup (3, \\infty)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
+          "feedback": "Incorrecto. Ahí el producto es positivo; ese es el conjunto de $x^2 - x - 6 > 0$."
         },
         {
           "letter": "C",
-          "text": "$x \\le 24$",
+          "text": "$(-3, 2)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cometió un error en la resta de 8."
+          "feedback": "Incorrecto. Se tomaron mal los signos de las raíces; de $(x-3)(x+2) = 0$ salen $x = 3$ y $x = -2$."
         },
         {
           "letter": "D",
-          "text": "$x \\le 42$",
+          "text": "$(-\\infty, 3)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
+          "feedback": "Incorrecto. Solo se usó el factor $x - 3 < 0$; para $x < -2$ ambos factores son negativos y el producto es positivo."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para despejar $x$ en $2x + 8 \\le 50$, restamos 8 de ambos miembros: $2x \\le 42$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 21$.",
+      "correct_answer": "A",
+      "explanation": "Se factoriza: $x^2 - x - 6 = (x-3)(x+2)$, con raíces $-2$ y 3. Análisis de signos: para $x < -2$ el producto es positivo; para $-2 < x < 3$ es negativo (con $x = 0$: $-6$); para $x > 3$ es positivo. La solución de $< 0$ es $(-2, 3)$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Variacional",
-      "expected_success": 0.75,
+      "icfes_type": "Algebraico",
+      "expected_success": 0.68,
       "bundle_id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -377,42 +377,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle-v9",
-      "statement": "¿Cuál es el conjunto solución para la inecuación lineal $2x + 9 \\le 55$?",
-      "context": "En Medellín, Isabella presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 9 \\le 55$.",
+      "statement": "¿Qué intervalo describe los largos aceptados?",
+      "context": "Una ladrillera de Sogamoso fabrica ladrillos de 20 cm de largo y acepta una tolerancia de 0,3 cm: el largo $L$ debe cumplir $|L - 20| \\le 0{,}3$.",
       "options": [
         {
-          "letter": "B",
-          "text": "$x \\le 23$",
-          "is_correct": true,
-          "feedback": "Correcto. Restando 9 a ambos lados obtenemos $2x \\le 46$, y dividiendo entre 2 resulta $x \\le 23$."
+          "letter": "A",
+          "text": "$(19{,}7;\\ 20{,}3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desigualdad es \"$\\le$\", así que los extremos 19,7 y 20,3 cm sí se aceptan y llevan corchetes."
         },
         {
-          "letter": "A",
-          "text": "$x \\ge 23$",
+          "letter": "B",
+          "text": "$L \\le 20{,}3$",
           "is_correct": false,
-          "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
+          "feedback": "Incorrecto. Solo se usó la cota superior; un ladrillo de 15 cm cumple $L \\le 20{,}3$ pero se aleja 5 cm del valor nominal."
         },
         {
           "letter": "C",
-          "text": "$x \\le 26$",
+          "text": "$[20;\\ 20{,}3]$",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cometió un error en la resta de 9."
+          "feedback": "Incorrecto. La tolerancia es hacia ambos lados de 20; un ladrillo de 19,8 cm, a 0,2 cm de 20, también se acepta."
         },
         {
           "letter": "D",
-          "text": "$x \\le 46$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
+          "text": "$[19{,}7;\\ 20{,}3]$",
+          "is_correct": true,
+          "feedback": "Correcto. $|L - 20| \\le 0{,}3 \\Leftrightarrow -0{,}3 \\le L - 20 \\le 0{,}3 \\Leftrightarrow 19{,}7 \\le L \\le 20{,}3$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para despejar $x$ en $2x + 9 \\le 55$, restamos 9 de ambos miembros: $2x \\le 46$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 23$.",
+      "correct_answer": "D",
+      "explanation": "Una tolerancia se expresa con valor absoluto: la distancia entre $L$ y 20 no supera 0,3. Se desdobla: $-0{,}3 \\le L - 20 \\le 0{,}3$ y, sumando 20, $19{,}7 \\le L \\le 20{,}3$. Los extremos se incluyen por la igualdad del símbolo $\\le$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Numerico",
-      "expected_success": 0.75,
+      "icfes_type": "Modelacion",
+      "expected_success": 0.66,
       "bundle_id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -423,42 +423,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál es el conjunto solución para la inecuación lineal $2x + 10 \\le 60$?",
-      "context": "En Cali, Mateo presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 10 \\le 60$.",
+      "statement": "¿Cuál es la nota mínima que debe sacar en la cuarta evaluación?",
+      "context": "En un colegio de Ibagué la nota final es el promedio de cuatro evaluaciones (escala de 1 a 5); Daniela tiene 3,2; 4,0 y 3,5 y necesita promedio de al menos 3,6.",
       "options": [
         {
           "letter": "A",
-          "text": "$x \\le 25$",
+          "text": "3,7",
           "is_correct": true,
-          "feedback": "Correcto. Restando 10 a ambos lados obtenemos $2x \\le 50$, y dividiendo entre 2 resulta $x \\le 25$."
+          "feedback": "Correcto. $\\frac{3{,}2 + 4{,}0 + 3{,}5 + x}{4} \\ge 3{,}6 \\Rightarrow 10{,}7 + x \\ge 14{,}4 \\Rightarrow x \\ge 3{,}7$."
         },
         {
           "letter": "B",
-          "text": "$x \\ge 25$",
+          "text": "3,6",
           "is_correct": false,
-          "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
+          "feedback": "Incorrecto. Sacar 3,6 da promedio $(10{,}7 + 3{,}6)/4 = 3{,}575 < 3{,}6$; la nota que falta debe compensar el 3,2."
         },
         {
           "letter": "C",
-          "text": "$x \\le 28$",
+          "text": "3,9",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cometió un error en la resta de 10."
+          "feedback": "Incorrecto. Se sumaron mal las notas como 10,5; la suma real es $3{,}2 + 4{,}0 + 3{,}5 = 10{,}7$ y $14{,}4 - 10{,}7 = 3{,}7$."
         },
         {
           "letter": "D",
-          "text": "$x \\le 50$",
+          "text": "0,1",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
+          "feedback": "Incorrecto. Se dividió entre 3 en vez de 4: $10{,}7 + x \\ge 10{,}8$; el promedio incluye las cuatro notas."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Para despejar $x$ en $2x + 10 \\le 60$, restamos 10 de ambos miembros: $2x \\le 50$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 25$.",
+      "explanation": "Se plantea $\\frac{10{,}7 + x}{4} \\ge 3{,}6$. Multiplicando por 4: $10{,}7 + x \\ge 14{,}4$, de donde $x \\ge 3{,}7$. Comprobación: $(10{,}7 + 3{,}7)/4 = 14{,}4/4 = 3{,}6$, justo el mínimo exigido.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Variacional",
-      "expected_success": 0.75,
+      "icfes_type": "Resolucion",
+      "expected_success": 0.64,
       "bundle_id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -469,42 +469,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle-v11",
-      "statement": "¿Cuál es el conjunto solución para la inecuación lineal $2x + 11 \\le 65$?",
-      "context": "En Barranquilla, Sofia presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 11 \\le 65$.",
+      "statement": "¿Cuál es el conjunto solución de $\\dfrac{x - 1}{x + 3} \\ge 0$?",
+      "context": "Un economista en Bogotá estudia el índice $\\frac{x - 1}{x + 3}$ y necesita saber cuándo no es negativo.",
       "options": [
         {
-          "letter": "B",
-          "text": "$x \\le 27$",
-          "is_correct": true,
-          "feedback": "Correcto. Restando 11 a ambos lados obtenemos $2x \\le 54$, y dividiendo entre 2 resulta $x \\le 27$."
+          "letter": "A",
+          "text": "$(-\\infty, -3] \\cup [1, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se incluyó $x = -3$, pero ahí el denominador es 0 y la expresión no está definida."
         },
         {
-          "letter": "A",
-          "text": "$x \\ge 27$",
+          "letter": "B",
+          "text": "$(-3, 1]$",
           "is_correct": false,
-          "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
+          "feedback": "Incorrecto. En ese intervalo numerador y denominador tienen signos opuestos (con $x = 0$ vale $-\\frac{1}{3}$), así que el cociente es negativo."
         },
         {
           "letter": "C",
-          "text": "$x \\le 30$",
+          "text": "$[1, \\infty)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cometió un error en la resta de 11."
+          "feedback": "Incorrecto. Se multiplicó por $x + 3$ suponiendo que es positivo; para $x < -3$ ambos factores son negativos y el cociente es positivo."
         },
         {
           "letter": "D",
-          "text": "$x \\le 54$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
+          "text": "$(-\\infty, -3) \\cup [1, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. El cociente es positivo cuando ambos factores tienen igual signo y vale 0 en $x = 1$; $x = -3$ se excluye."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para despejar $x$ en $2x + 11 \\le 65$, restamos 11 de ambos miembros: $2x \\le 54$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 27$.",
+      "correct_answer": "D",
+      "explanation": "Puntos críticos: numerador 0 en $x = 1$, denominador 0 en $x = -3$. Signos: con $x = -4$, $\\frac{-5}{-1} = 5 > 0$; con $x = 0$, $-\\frac{1}{3} < 0$; con $x = 2$, $\\frac{1}{5} > 0$. Se incluye $x = 1$ (el cociente vale 0) y se excluye $x = -3$. Solución: $(-\\infty, -3) \\cup [1, \\infty)$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Numerico",
-      "expected_success": 0.65,
+      "icfes_type": "Algebraico",
+      "expected_success": 0.62,
       "bundle_id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -515,42 +515,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle-v12",
-      "statement": "¿Cuál es el conjunto solución para la inecuación lineal $2x + 12 \\le 70$?",
-      "context": "En Bucaramanga, Diego presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 12 \\le 70$.",
+      "statement": "¿Qué evaluación del trabajo de Pedro es correcta?",
+      "context": "En una clase en Villavicencio, Pedro resolvió $5 - 2x > 11$ así: Paso 1: $-2x > 6$; Paso 2: $x > -3$.",
       "options": [
         {
-          "letter": "C",
-          "text": "$x \\le 29$",
-          "is_correct": true,
-          "feedback": "Correcto. Restando 12 a ambos lados obtenemos $2x \\le 58$, y dividiendo entre 2 resulta $x \\le 29$."
-        },
-        {
           "letter": "A",
-          "text": "$x \\ge 29$",
+          "text": "El error está en el paso 1: debe quedar $-2x > 16$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
+          "feedback": "Incorrecto. Al restar 5 a ambos lados queda $-2x > 11 - 5 = 6$; el paso 1 está bien."
         },
         {
           "letter": "B",
-          "text": "$x \\le 32$",
+          "text": "No hay error: la solución es $x > -3$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cometió un error en la resta de 12."
+          "feedback": "Incorrecto. Con $x = 0$, que cumple $x > -3$, se obtiene $5 > 11$, falso; la solución propuesta no sirve."
+        },
+        {
+          "letter": "C",
+          "text": "El error está en el paso 2: al dividir entre $-2$ se invierte el sentido y queda $x < -3$.",
+          "is_correct": true,
+          "feedback": "Correcto. Dividir por un negativo invierte la desigualdad; con $x = -4$: $5 + 8 = 13 > 11$."
         },
         {
           "letter": "D",
-          "text": "$x \\le 58$",
+          "text": "El error está en el paso 2: la solución es $x > 3$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
+          "feedback": "Incorrecto. Se cambió el signo del número y no el sentido; $x = 4$ da $5 - 8 = -3$, que no es mayor que 11."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Para despejar $x$ en $2x + 12 \\le 70$, restamos 12 de ambos miembros: $2x \\le 58$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 29$.",
+      "explanation": "Paso 1 correcto: $5 - 2x > 11 \\Rightarrow -2x > 6$. En el paso 2 se divide entre $-2$; multiplicar o dividir por un número negativo invierte el sentido: $x < -3$. Verificación: $x = -5$ da $5 + 10 = 15 > 11$, y $x = 0$ da $5 > 11$, falso.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Variacional",
-      "expected_success": 0.65,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.6,
       "bundle_id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -561,42 +561,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle-v13",
-      "statement": "¿Cuál es el conjunto solución para la inecuación lineal $2x + 13 \\le 75$?",
-      "context": "En Cartagena, Valentina presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 13 \\le 75$.",
+      "statement": "¿Para qué valores de $k$ la ecuación tiene dos raíces reales distintas?",
+      "context": "En un problema de física de un colegio de Armenia aparece la ecuación $x^2 + kx + 9 = 0$, y solo tiene sentido si hay dos tiempos distintos de solución.",
       "options": [
         {
-          "letter": "C",
-          "text": "$x \\le 31$",
-          "is_correct": true,
-          "feedback": "Correcto. Restando 13 a ambos lados obtenemos $2x \\le 62$, y dividiendo entre 2 resulta $x \\le 31$."
-        },
-        {
           "letter": "A",
-          "text": "$x \\ge 31$",
+          "text": "$k > 6$",
           "is_correct": false,
-          "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
+          "feedback": "Incorrecto. $k^2 > 36$ también se cumple con $k$ negativos; por ejemplo $k = -7$ da $49 - 36 = 13 > 0$."
         },
         {
           "letter": "B",
-          "text": "$x \\le 34$",
+          "text": "$-6 < k < 6$",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cometió un error en la resta de 13."
+          "feedback": "Incorrecto. Ahí el discriminante es negativo (con $k = 0$, $-36$) y no hay raíces reales."
+        },
+        {
+          "letter": "C",
+          "text": "$k < -6$ o $k > 6$",
+          "is_correct": true,
+          "feedback": "Correcto. El discriminante $k^2 - 36 > 0$ equivale a $|k| > 6$."
         },
         {
           "letter": "D",
-          "text": "$x \\le 62$",
+          "text": "$k \\le -6$ o $k \\ge 6$",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
+          "feedback": "Incorrecto. Con $k = \\pm 6$ el discriminante es 0 y hay una raíz doble, no dos raíces distintas."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Para despejar $x$ en $2x + 13 \\le 75$, restamos 13 de ambos miembros: $2x \\le 62$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 31$.",
+      "explanation": "Dos raíces reales distintas exigen discriminante positivo: $\\Delta = k^2 - 4(1)(9) = k^2 - 36 > 0$. Factorizando, $(k - 6)(k + 6) > 0$, que se cumple fuera de las raíces: $k < -6$ o $k > 6$. Si $k = 6$, $x^2 + 6x + 9 = (x+3)^2$ tiene solo la raíz $-3$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Numerico",
-      "expected_success": 0.65,
+      "icfes_type": "Algebraico",
+      "expected_success": 0.58,
       "bundle_id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -607,42 +607,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle-v14",
-      "statement": "¿Cuál es el conjunto solución para la inecuación lineal $2x + 14 \\le 80$?",
-      "context": "En Pereira, Santiago presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 14 \\le 80$.",
+      "statement": "¿Para qué producción la panadería obtiene utilidad positiva?",
+      "context": "Una panadería de Pereira estima su utilidad diaria en $U(x) = -x^2 + 60x - 500$ miles de pesos, donde $x$ son cientos de buñuelos vendidos.",
       "options": [
         {
-          "letter": "D",
-          "text": "$x \\le 33$",
-          "is_correct": true,
-          "feedback": "Correcto. Restando 14 a ambos lados obtenemos $2x \\le 66$, y dividiendo entre 2 resulta $x \\le 33$."
-        },
-        {
           "letter": "A",
-          "text": "$x \\ge 33$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
+          "text": "Para $10 < x < 50$",
+          "is_correct": true,
+          "feedback": "Correcto. $-x^2 + 60x - 500 > 0 \\Leftrightarrow x^2 - 60x + 500 < 0 \\Leftrightarrow (x - 10)(x - 50) < 0$."
         },
         {
           "letter": "B",
-          "text": "$x \\le 36$",
+          "text": "Para $x > 10$",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cometió un error en la resta de 14."
+          "feedback": "Incorrecto. Si $x = 60$, $U = -3\\,600 + 3\\,600 - 500 = -500$; vender demasiado vuelve a dar pérdida."
         },
         {
           "letter": "C",
-          "text": "$x \\le 66$",
+          "text": "Para $x < 10$ o $x > 50$",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
+          "feedback": "Incorrecto. Ahí la utilidad es negativa; con $x = 0$ se pierden los 500 mil del costo fijo."
+        },
+        {
+          "letter": "D",
+          "text": "Para $0 < x < 30$",
+          "is_correct": false,
+          "feedback": "Incorrecto. 30 es el vértice, donde la utilidad es máxima (400 mil); entre 30 y 50 sigue siendo positiva."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Para despejar $x$ en $2x + 14 \\le 80$, restamos 14 de ambos miembros: $2x \\le 66$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 33$.",
+      "correct_answer": "A",
+      "explanation": "Se pide $U(x) > 0$. Multiplicando por $-1$ (se invierte el sentido): $x^2 - 60x + 500 < 0$. Las raíces son 10 y 50 porque $10 \\cdot 50 = 500$ y $10 + 50 = 60$. La parábola $x^2 - 60x + 500$ es negativa entre las raíces, así que la utilidad es positiva para $10 < x < 50$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Variacional",
-      "expected_success": 0.65,
+      "icfes_type": "Modelacion",
+      "expected_success": 0.56,
       "bundle_id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -653,42 +653,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál es el conjunto solución para la inecuación lineal $2x + 15 \\le 85$?",
-      "context": "En Manizales, Mariana presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 15 \\le 85$.",
+      "statement": "¿Cuál es el conjunto solución de $\\dfrac{3}{x - 2} < 1$?",
+      "context": "En la calibración de un instrumento de una universidad de Tunja se exige que $\\frac{3}{x - 2} < 1$.",
       "options": [
         {
           "letter": "A",
-          "text": "$x \\le 35$",
-          "is_correct": true,
-          "feedback": "Correcto. Restando 15 a ambos lados obtenemos $2x \\le 70$, y dividiendo entre 2 resulta $x \\le 35$."
+          "text": "$(5, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por $x - 2$ suponiéndolo positivo; para $x < 2$ el cociente es negativo y también es menor que 1."
         },
         {
           "letter": "B",
-          "text": "$x \\ge 35$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
+          "text": "$(-\\infty, 2) \\cup (5, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{3}{x-2} - 1 = \\frac{5 - x}{x - 2} < 0$, que se cumple para $x < 2$ o $x > 5$."
         },
         {
           "letter": "C",
-          "text": "$x \\le 38$",
+          "text": "$(2, 5)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cometió un error en la resta de 15."
+          "feedback": "Incorrecto. En ese intervalo el cociente es mayor que 1; con $x = 3$, $\\frac{3}{1} = 3$."
         },
         {
           "letter": "D",
-          "text": "$x \\le 70$",
+          "text": "$(-\\infty, 5)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
+          "feedback": "Incorrecto. Incluye valores entre 2 y 5 donde $\\frac{3}{x-2} > 1$, y además $x = 2$ anula el denominador."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Para despejar $x$ en $2x + 15 \\le 85$, restamos 15 de ambos miembros: $2x \\le 70$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 35$.",
+      "correct_answer": "B",
+      "explanation": "No se multiplica por $x - 2$ porque su signo es desconocido. Se pasa todo a un lado: $\\frac{3}{x-2} - 1 = \\frac{3 - (x-2)}{x-2} = \\frac{5 - x}{x - 2} < 0$. Puntos críticos 2 y 5. Con $x = 0$: $\\frac{5}{-2} < 0$ cumple; con $x = 3$: $\\frac{2}{1} > 0$ no cumple; con $x = 6$: $\\frac{-1}{4} < 0$ cumple.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Numerico",
-      "expected_success": 0.65,
+      "icfes_type": "Algebraico",
+      "expected_success": 0.54,
       "bundle_id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -699,42 +699,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle-v16",
-      "statement": "¿Cuál es el conjunto solución para la inecuación lineal $2x + 16 \\le 90$?",
-      "context": "En Santa Marta, Juan presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 16 \\le 90$.",
+      "statement": "¿Cuál es el conjunto solución de $|x + 1| < -2$?",
+      "context": "En un simulacro Saber 11 en Montería aparece la inecuación $|x + 1| < -2$ y varios estudiantes proponen respuestas distintas.",
       "options": [
         {
-          "letter": "D",
-          "text": "$x \\le 37$",
-          "is_correct": true,
-          "feedback": "Correcto. Restando 16 a ambos lados obtenemos $2x \\le 74$, y dividiendo entre 2 resulta $x \\le 37$."
-        },
-        {
           "letter": "A",
-          "text": "$x \\ge 37$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
+          "text": "No tiene solución, porque un valor absoluto nunca es negativo.",
+          "is_correct": true,
+          "feedback": "Correcto. $|x + 1| \\ge 0 > -2$ para todo real, así que ningún $x$ cumple la desigualdad."
         },
         {
           "letter": "B",
-          "text": "$x \\le 40$",
+          "text": "$(-3, 1)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cometió un error en la resta de 16."
+          "feedback": "Incorrecto. Se aplicó $-a < u < a$ con $a = -2$ intercambiando extremos; esa regla solo vale si $a > 0$. Con $x = 0$, $|1| = 1$, que no es menor que $-2$."
         },
         {
           "letter": "C",
-          "text": "$x \\le 74$",
+          "text": "$x < -3$",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
+          "feedback": "Incorrecto. Con $x = -4$, $|-3| = 3$, que no es menor que $-2$; el valor absoluto siempre es al menos 0."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los números reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso ocurriría con $|x + 1| > -2$; aquí se pide que el valor absoluto sea menor que un negativo."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Para despejar $x$ en $2x + 16 \\le 90$, restamos 16 de ambos miembros: $2x \\le 74$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 37$.",
+      "correct_answer": "A",
+      "explanation": "El valor absoluto mide una distancia, así que $|x + 1| \\ge 0$ para todo $x$. Un número mayor o igual que 0 nunca es menor que $-2$, de modo que el conjunto solución es vacío. La regla $|u| < a \\Leftrightarrow -a < u < a$ solo se usa cuando $a > 0$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Variacional",
-      "expected_success": 0.65,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.52,
       "bundle_id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -745,41 +745,41 @@
     },
     {
       "id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle-v17",
-      "statement": "¿Cuál es el conjunto solución para la inecuación lineal $2x + 17 \\le 95$?",
-      "context": "En Pasto, Camila presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 17 \\le 95$.",
+      "statement": "¿Cuál de estas compras respeta el presupuesto?",
+      "context": "Una familia de Bogotá tiene 180 000 pesos semanales para proteína: el kilo de carne cuesta 32 000 y el de pollo 14 000; si compra $c$ kg de carne y $q$ kg de pollo, debe cumplir $32\\,000c + 14\\,000q \\le 180\\,000$.",
       "options": [
         {
-          "letter": "B",
-          "text": "$x \\le 39$",
-          "is_correct": true,
-          "feedback": "Correcto. Restando 17 a ambos lados obtenemos $2x \\le 78$, y dividiendo entre 2 resulta $x \\le 39$."
+          "letter": "A",
+          "text": "4 kg de carne y 4 kg de pollo",
+          "is_correct": false,
+          "feedback": "Incorrecto. $32\\,000 \\cdot 4 + 14\\,000 \\cdot 4 = 128\\,000 + 56\\,000 = 184\\,000 > 180\\,000$."
         },
         {
-          "letter": "A",
-          "text": "$x \\ge 39$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
+          "letter": "B",
+          "text": "3 kg de carne y 6 kg de pollo",
+          "is_correct": true,
+          "feedback": "Correcto. $96\\,000 + 84\\,000 = 180\\,000$, que cumple $\\le 180\\,000$ (gasta exactamente el presupuesto)."
         },
         {
           "letter": "C",
-          "text": "$x \\le 42$",
+          "text": "5 kg de carne y 2 kg de pollo",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cometió un error en la resta de 17."
+          "feedback": "Incorrecto. $160\\,000 + 28\\,000 = 188\\,000$; se excede en 8 000 pesos."
         },
         {
           "letter": "D",
-          "text": "$x \\le 78$",
+          "text": "2 kg de carne y 9 kg de pollo",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
+          "feedback": "Incorrecto. $64\\,000 + 126\\,000 = 190\\,000$; aunque compra menos carne, el pollo extra supera el límite."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Para despejar $x$ en $2x + 17 \\le 95$, restamos 17 de ambos miembros: $2x \\le 78$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 39$.",
+      "explanation": "Cada opción es un punto $(c, q)$ y se reemplaza en $32\\,000c + 14\\,000q$. Resultados: A da 184 000, B da 180 000, C da 188 000 y D da 190 000. Solo B cumple la desigualdad $\\le 180\\,000$; la igualdad está permitida porque \"no pasarse\" incluye gastar exactamente el presupuesto.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Numerico",
+      "icfes_type": "Modelacion",
       "expected_success": 0.5,
       "bundle_id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle",
       "periodo": 2,
@@ -791,42 +791,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle-v18",
-      "statement": "¿Cuál es el conjunto solución para la inecuación lineal $2x + 18 \\le 100$?",
-      "context": "En Bogotá, Alejandro presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 18 \\le 100$.",
+      "statement": "¿Cuál es la mejor evaluación de la afirmación de Sofía?",
+      "context": "En un grupo de estudio de Cartagena, Sofía afirma: \"como $x^2 > 9$, entonces $x > 3$\".",
       "options": [
         {
           "letter": "A",
-          "text": "$x \\le 41$",
-          "is_correct": true,
-          "feedback": "Correcto. Restando 18 a ambos lados obtenemos $2x \\le 82$, y dividiendo entre 2 resulta $x \\le 41$."
+          "text": "Es correcta, porque sacar raíz cuadrada conserva la desigualdad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raíz de $x^2$ es $|x|$, no $x$; con $x = -4$ se tiene $16 > 9$ y, sin embargo, $-4 > 3$ es falso."
         },
         {
           "letter": "B",
-          "text": "$x \\ge 41$",
+          "text": "Es incorrecta; la solución es $-3 < x < 3$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
+          "feedback": "Incorrecto. Ese intervalo resuelve $x^2 < 9$; con $x = 0$, $0 > 9$ es falso."
         },
         {
           "letter": "C",
-          "text": "$x \\le 44$",
+          "text": "Es correcta, porque la raíz de 9 es 3 y el sentido no cambia.",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cometió un error en la resta de 18."
+          "feedback": "Incorrecto. Olvida la raíz negativa $-3$; los valores menores que $-3$ también tienen cuadrado mayor que 9."
         },
         {
           "letter": "D",
-          "text": "$x \\le 82$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
+          "text": "Es incorrecta; la solución es $x < -3$ o $x > 3$.",
+          "is_correct": true,
+          "feedback": "Correcto. $x^2 > 9 \\Leftrightarrow |x| > 3$; por ejemplo $x = -5$ cumple $25 > 9$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Para despejar $x$ en $2x + 18 \\le 100$, restamos 18 de ambos miembros: $2x \\le 82$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 41$.",
+      "correct_answer": "D",
+      "explanation": "$x^2 > 9 \\Leftrightarrow x^2 - 9 > 0 \\Leftrightarrow (x - 3)(x + 3) > 0$, que es positivo fuera de las raíces: $x < -3$ o $x > 3$. Sofía tomó solo la rama positiva. Un contraejemplo basta para refutarla: $x = -4$ cumple la hipótesis pero no la conclusión.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Variacional",
-      "expected_success": 0.5,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.48,
       "bundle_id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -837,42 +837,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle-v19",
-      "statement": "¿Cuál es el conjunto solución para la inecuación lineal $2x + 19 \\le 105$?",
-      "context": "En Medellín, Isabella presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 19 \\le 105$.",
+      "statement": "¿Qué precios cumplen la meta de recaudo?",
+      "context": "Un teatro de Cali estima que si la boleta cuesta $p$ miles de pesos asisten $400 - 10p$ personas, y necesita recaudar al menos 3 000 000 de pesos (3 000 miles) por función.",
       "options": [
         {
-          "letter": "B",
-          "text": "$x \\le 43$",
-          "is_correct": true,
-          "feedback": "Correcto. Restando 19 a ambos lados obtenemos $2x \\le 86$, y dividiendo entre 2 resulta $x \\le 43$."
+          "letter": "A",
+          "text": "$p \\ge 30$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $p = 35$ asisten 50 personas y el recaudo es $35 \\cdot 50 = 1\\,750$ miles; precios altos espantan público."
         },
         {
-          "letter": "A",
-          "text": "$x \\ge 43$",
+          "letter": "B",
+          "text": "$p \\le 10$",
           "is_correct": false,
-          "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
+          "feedback": "Incorrecto. Con $p = 5$ el recaudo es $5 \\cdot 350 = 1\\,750$ miles; precios bajos no alcanzan la meta."
         },
         {
           "letter": "C",
-          "text": "$x \\le 46$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se cometió un error en la resta de 19."
+          "text": "$10 \\le p \\le 30$",
+          "is_correct": true,
+          "feedback": "Correcto. $p(400 - 10p) \\ge 3\\,000 \\Leftrightarrow p^2 - 40p + 300 \\le 0 \\Leftrightarrow (p - 10)(p - 30) \\le 0$."
         },
         {
           "letter": "D",
-          "text": "$x \\le 86$",
+          "text": "$p \\le 20$",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
+          "feedback": "Incorrecto. 20 es el precio de máximo recaudo (4 000 miles), pero precios entre 20 y 30 también cumplen y los menores que 10 no."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para despejar $x$ en $2x + 19 \\le 105$, restamos 19 de ambos miembros: $2x \\le 86$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 43$.",
+      "correct_answer": "C",
+      "explanation": "Recaudo $R(p) = p(400 - 10p) = 400p - 10p^2$. Se exige $400p - 10p^2 \\ge 3\\,000$; dividiendo entre $-10$ se invierte el sentido: $p^2 - 40p + 300 \\le 0$, con raíces 10 y 30. La parábola es no positiva entre ellas, así que $10 \\le p \\le 30$; en ambos extremos $R = 3\\,000$ exactamente.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Numerico",
-      "expected_success": 0.5,
+      "icfes_type": "Modelacion",
+      "expected_success": 0.47,
       "bundle_id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -883,42 +883,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál es el conjunto solución para la inecuación lineal $2x + 20 \\le 110$?",
-      "context": "En Cali, Mateo presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 20 \\le 110$.",
+      "statement": "¿Qué inecuación modela la situación y cuál es el máximo de horas que puede pagar?",
+      "context": "Un parqueadero de Barranquilla cobra 2 500 pesos la primera hora y 1 800 por cada hora adicional completa; Laura tiene 15 000 pesos y $h \\ge 1$ son las horas enteras que paga.",
       "options": [
         {
-          "letter": "B",
-          "text": "$x \\le 45$",
-          "is_correct": true,
-          "feedback": "Correcto. Restando 20 a ambos lados obtenemos $2x \\le 90$, y dividiendo entre 2 resulta $x \\le 45$."
+          "letter": "A",
+          "text": "$2\\,500 + 1\\,800h \\le 15\\,000$; máximo 6 h",
+          "is_correct": false,
+          "feedback": "Incorrecto. Así se cobra la primera hora dos veces; solo las $h - 1$ horas adicionales cuestan 1 800, y con 7 h Laura paga 13 300."
         },
         {
-          "letter": "A",
-          "text": "$x \\ge 45$",
+          "letter": "B",
+          "text": "$2\\,500 + 1\\,800(h - 1) \\ge 15\\,000$; mínimo 8 h",
           "is_correct": false,
-          "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
+          "feedback": "Incorrecto. El sentido está invertido: el gasto no debe superar los 15 000 pesos, así que la desigualdad es $\\le$."
         },
         {
           "letter": "C",
-          "text": "$x \\le 48$",
+          "text": "$2\\,500 + 1\\,800(h - 1) \\le 15\\,000$; máximo 8 h",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cometió un error en la resta de 20."
+          "feedback": "Incorrecto. La inecuación es correcta, pero $h \\le 7{,}94$ se redondeó hacia arriba; 8 h cuestan $2\\,500 + 12\\,600 = 15\\,100$."
         },
         {
           "letter": "D",
-          "text": "$x \\le 90$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
+          "text": "$2\\,500 + 1\\,800(h - 1) \\le 15\\,000$; máximo 7 h",
+          "is_correct": true,
+          "feedback": "Correcto. $1\\,800(h - 1) \\le 12\\,500 \\Rightarrow h \\le 7{,}94$, y el mayor entero es 7 (cuesta 13 300)."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para despejar $x$ en $2x + 20 \\le 110$, restamos 20 de ambos miembros: $2x \\le 90$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 45$.",
+      "correct_answer": "D",
+      "explanation": "El costo de $h$ horas es $2\\,500 + 1\\,800(h - 1)$ y no puede exceder 15 000: $1\\,800(h-1) \\le 12\\,500$, $h - 1 \\le 6{,}94$, $h \\le 7{,}94$. Como las horas son enteras, el máximo es 7. Comprobación: 7 h cuestan $2\\,500 + 1\\,800 \\cdot 6 = 13\\,300$ y 8 h cuestan 15 100, que se pasa.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Variacional",
-      "expected_success": 0.5,
+      "icfes_type": "Formulacion",
+      "expected_success": 0.45,
       "bundle_id": "CO-MAT-11-2026-W02-inecuaciones-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",

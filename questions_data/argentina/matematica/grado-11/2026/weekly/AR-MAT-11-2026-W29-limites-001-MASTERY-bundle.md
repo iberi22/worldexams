@@ -433,9 +433,9 @@ La Regla de L'Hôpital permite resolver indeterminaciones 0/0 o ∞/∞ derivand
 
 ### Opciones
 - [ ] A) 0 <!-- feedback: Incorrecto. No se anula el límite de la razón. -->
-- [x] B) 1/2 <!-- feedback: Correcto. Usando el conjugado (1+cos x) queda sen²x / [x²(1+cos x)]. Como sen²x/x² tiende a 1, queda 1 / (1+1) = 1/2. -->
+- [ ] B) No existe. <!-- feedback: Incorrecto. El límite es finito y determinado. -->
 - [ ] C) 1 <!-- feedback: Incorrecto. Este es el límite de sen x / x. -->
-- [ ] D) No existe. <!-- feedback: Incorrecto. El límite es finito y determinado. -->
+- [x] D) 1/2 <!-- feedback: Correcto. Usando el conjugado (1+cos x) queda sen²x / [x²(1+cos x)]. Como sen²x/x² tiende a 1, queda 1 / (1+1) = 1/2. -->
 
 ### Explicacion Pedagogica
 Este límite es otro de los resultados clásicos del cálculo. Puede resolverse mediante identidades trigonométricas o aplicando la regla de L'Hôpital dos veces.

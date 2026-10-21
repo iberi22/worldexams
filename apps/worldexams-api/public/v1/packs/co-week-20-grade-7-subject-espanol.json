@@ -59,16 +59,16 @@
       "context": "Los argumentos son las razones, datos o pruebas que se utilizan para sustentar la tesis.",
       "options": [
         {
-          "letter": "B",
-          "text": "Hacer que el texto sea más largo para cumplir con la tarea.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La extensión no es el objetivo de la argumentación; la calidad de las razones sí lo es."
-        },
-        {
           "letter": "A",
           "text": "Proporcionar bases sólidas que demuestren la validez de la tesis.",
           "is_correct": true,
           "feedback": "¡Correcto! Los argumentos sirven para convencer al lector de que la tesis es razonable y aceptable."
+        },
+        {
+          "letter": "B",
+          "text": "Hacer que el texto sea más largo para cumplir con la tarea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no es el objetivo de la argumentación; la calidad de las razones sí lo es."
         },
         {
           "letter": "C",
@@ -105,6 +105,12 @@
       "context": "Identificar la tesis en un texto breve es una habilidad clave para la comprensión crítica.",
       "options": [
         {
+          "letter": "A",
+          "text": "Se deben crear leyes más estrictas en Colombia para prohibir plásticos de un solo uso.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Esta es la postura o propuesta principal que el autor quiere que se acepte y ejecute."
+        },
+        {
           "letter": "B",
           "text": "El plástico es un material muy versátil y útil en la vida diaria.",
           "is_correct": false,
@@ -115,12 +121,6 @@
           "text": "Las especies marinas están muriendo por culpa de la contaminación.",
           "is_correct": false,
           "feedback": "Incorrecto. Este es un dato o hecho que sirve como apoyo (argumento), no es la propuesta central de acción."
-        },
-        {
-          "letter": "A",
-          "text": "Se deben crear leyes más estrictas en Colombia para prohibir plásticos de un solo uso.",
-          "is_correct": true,
-          "feedback": "¡Correcto! Esta es la postura o propuesta principal que el autor quiere que se acepte y ejecute."
         },
         {
           "letter": "D",
@@ -151,16 +151,16 @@
       "context": "Un argumento de autoridad se basa en el prestigio de una persona o institución experta en el tema.",
       "options": [
         {
-          "letter": "B",
-          "text": "Mi vecino dice que las vacunas son buenas porque a él no le dio gripe.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta es una experiencia personal aislada, no tiene autoridad científica."
-        },
-        {
           "letter": "A",
           "text": "La Organización Mundial de la Salud (OMS) afirma que las vacunas salvan millones de vidas cada año.",
           "is_correct": true,
           "feedback": "¡Correcto! Se cita a una institución internacional reconocida como experta en salud pública."
+        },
+        {
+          "letter": "B",
+          "text": "Mi vecino dice que las vacunas son buenas porque a él no le dio gripe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una experiencia personal aislada, no tiene autoridad científica."
         },
         {
           "letter": "C",
@@ -197,12 +197,6 @@
       "context": "Los textos argumentativos suelen tener una estructura clara: introducción, desarrollo y conclusión.",
       "options": [
         {
-          "letter": "C",
-          "text": "En la introducción.",
-          "is_correct": true,
-          "feedback": "¡Correcto! La introducción sirve para plantear el tema y dejar clara la postura (tesis) que se va a defender."
-        },
-        {
           "letter": "A",
           "text": "En el medio de los párrafos de argumentos.",
           "is_correct": false,
@@ -213,6 +207,12 @@
           "text": "Solamente en la última frase del texto.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque se retoma en la conclusión, debe aparecer al inicio para guiar al lector."
+        },
+        {
+          "letter": "C",
+          "text": "En la introducción.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La introducción sirve para plantear el tema y dejar clara la postura (tesis) que se va a defender."
         },
         {
           "letter": "D",
@@ -249,16 +249,16 @@
           "feedback": "Incorrecto. Es un hecho geográfico y político indiscutible, no una opinión."
         },
         {
-          "letter": "C",
-          "text": "El río Magdalena desemboca en el Mar Caribe, cerca de Barranquilla.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Es un hecho geográfico comprobable."
-        },
-        {
           "letter": "B",
           "text": "El ciclismo es el deporte más emocionante y representativo para los colombianos.",
           "is_correct": true,
           "feedback": "¡Correcto! Es una valoración subjetiva (lo que para uno es emocionante, para otro puede no serlo)."
+        },
+        {
+          "letter": "C",
+          "text": "El río Magdalena desemboca en el Mar Caribe, cerca de Barranquilla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un hecho geográfico comprobable."
         },
         {
           "letter": "D",
@@ -289,16 +289,16 @@
       "context": "Los argumentos de ejemplificación utilizan casos concretos para ilustrar y validar una idea general.",
       "options": [
         {
-          "letter": "B",
-          "text": "La música es un lenguaje universal que une a los pueblos del mundo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta es una idea general, no un ejemplo concreto de música colombiana."
-        },
-        {
           "letter": "A",
           "text": "Artistas como Shakira, Juanes y Carlos Vives han ganado múltiples premios Grammy.",
           "is_correct": true,
           "feedback": "¡Correcto! Menciona casos específicos de artistas exitosos que demuestran el reconocimiento mundial mencionado en la tesis."
+        },
+        {
+          "letter": "B",
+          "text": "La música es un lenguaje universal que une a los pueblos del mundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una idea general, no un ejemplo concreto de música colombiana."
         },
         {
           "letter": "C",
@@ -341,16 +341,16 @@
           "feedback": "Incorrecto. Las frutas sí tienen colores bonitos, pero eso no justifica comerlas."
         },
         {
-          "letter": "C",
-          "text": "Porque la razón dada (estética) no es relevante para la acción propuesta (alimentación/salud).",
-          "is_correct": true,
-          "feedback": "¡Correcto! Un buen argumento para comer algo debería basarse en nutrición o salud, no en decoración."
-        },
-        {
           "letter": "B",
           "text": "Porque el argumento debería decir que las verduras son mejores que las frutas.",
           "is_correct": false,
           "feedback": "Incorrecto. El argumento debe apoyar la tesis dada, no cambiar de tema."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la razón dada (estética) no es relevante para la acción propuesta (alimentación/salud).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Un buen argumento para comer algo debería basarse en nutrición o salud, no en decoración."
         },
         {
           "letter": "D",
@@ -381,16 +381,16 @@
       "context": "Los contraargumentos son ideas que se oponen a la tesis y que el autor debe mencionar para luego refutarlas.",
       "options": [
         {
+          "letter": "A",
+          "text": "Apelación a la piedad para dar lástima por los estudiantes pobres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No busca dar lástima, sino proponer una solución práctica a la desigualdad."
+        },
+        {
           "letter": "B",
           "text": "Generalización apresurada de un problema social.",
           "is_correct": false,
           "feedback": "Incorrecto. No está generalizando sin pruebas, está razonando sobre un hecho común."
-        },
-        {
-          "letter": "A",
-          "text": "Concesión y refutación (admite una objeción para luego superarla con una razón de mayor peso).",
-          "is_correct": true,
-          "feedback": "¡Correcto! Reconoce el valor de la libertad de expresión pero antepone la equidad social."
         },
         {
           "letter": "C",
@@ -400,12 +400,12 @@
         },
         {
           "letter": "D",
-          "text": "Apelación a la piedad para dar lástima por los estudiantes pobres.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No busca dar lástima, sino proponer una solución práctica a la desigualdad."
+          "text": "Concesión y refutación (admite una objeción para luego superarla con una razón de mayor peso).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Reconoce el valor de la libertad de expresión pero antepone la equidad social."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La capacidad de anticipar las críticas y responder a ellas de manera lógica fortalece enormemente cualquier texto o discurso argumentativo.",
       "difficulty": "10",
       "images": [],
@@ -433,16 +433,16 @@
           "feedback": "Incorrecto. Es demasiado obvia y general; casi nadie estaría en desacuerdo, por lo que no genera debate."
         },
         {
-          "letter": "C",
-          "text": "Yo quiero hablar sobre por qué los jóvenes usan tanto el celular hoy en día.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esto es el anuncio de un tema, no una tesis. Falta la postura clara."
-        },
-        {
           "letter": "B",
           "text": "La implementación de clases de educación financiera en los colegios reduciría la pobreza a largo plazo.",
           "is_correct": true,
           "feedback": "¡Correcto! Es clara, específica, debatible y puede ser sustentada con argumentos económicos y educativos."
+        },
+        {
+          "letter": "C",
+          "text": "Yo quiero hablar sobre por qué los jóvenes usan tanto el celular hoy en día.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto es el anuncio de un tema, no una tesis. Falta la postura clara."
         },
         {
           "letter": "D",

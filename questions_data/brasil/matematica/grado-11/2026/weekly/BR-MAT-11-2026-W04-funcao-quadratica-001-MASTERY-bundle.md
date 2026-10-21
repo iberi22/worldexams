@@ -335,9 +335,9 @@ Sejam $x_1$ e $x_2$ as raízes de $f(x) = x^2 - mx + (m-1)$. Qual é o valor da 
 
 ### Opciones
 - [ ] A) $m^2$ <!-- feedback: x1² + x2² = (x1 + x2)² - 2x1x2. Faltou subtrair o termo do produto. -->
-- [x] B) $m^2 - 2m + 2$ <!-- feedback: (x1 + x2)² - 2x1x2 = m² - 2(m - 1) = m² - 2m + 2. -->
+- [ ] B) $2m - 2$ <!-- feedback: Falta o termo quadrático m². -->
 - [ ] C) $m^2 + 2m - 2$ <!-- feedback: Erro nos sinais ao expandir a expressão algébrica. -->
-- [ ] D) $2m - 2$ <!-- feedback: Falta o termo quadrático m². -->
+- [x] D) $m^2 - 2m + 2$ <!-- feedback: (x1 + x2)² - 2x1x2 = m² - 2(m - 1) = m² - 2m + 2. -->
 
 ### Explicacion Pedagogica
 Usamos as relações de Girard: $x_1 + x_2 = m$ e $x_1 \cdot x_2 = m - 1$. A expressão $x_1^2 + x_2^2$ pode ser escrita como $(x_1 + x_2)^2 - 2x_1x_2$. Substituindo os valores: $m^2 - 2(m - 1) = m^2 - 2m + 2$.

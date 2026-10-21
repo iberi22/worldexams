@@ -382,15 +382,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Que los abuelos deben aprender a usar redes sociales para contar noticias.",
-          "is_correct": false,
-          "feedback": "La oralidad no depende del soporte tecnológico para narrar el hoy."
-        },
-        {
-          "letter": "B",
           "text": "Que los relatos tradicionales se adaptan para incluir los sucesos actuales (como el conflicto, el clima o la migración), dándoles un sentido cultural propio.",
           "is_correct": true,
           "feedback": "La tradición oral es dinámica y flexible; absorbe la realidad nueva y la integra en sus estructuras narrativas."
+        },
+        {
+          "letter": "B",
+          "text": "Que los abuelos deben aprender a usar redes sociales para contar noticias.",
+          "is_correct": false,
+          "feedback": "La oralidad no depende del soporte tecnológico para narrar el hoy."
         },
         {
           "letter": "C",
@@ -405,7 +405,7 @@
           "feedback": "La grabación es una técnica de registro, no define la función narrativa de la comunidad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La tradición oral es un organismo vivo. Al igual que el lenguaje, cambia y se adapta para responder a los desafíos de cada época, manteniendo siempre su esencia de comunicación humana directa.",
       "difficulty": "10",
       "images": [],
@@ -440,18 +440,18 @@
         },
         {
           "letter": "C",
-          "text": "La tradición rural es un acto comunitario y ritual de vida, mientras que la urbana es a menudo un espectáculo artístico programado.",
-          "is_correct": true,
-          "feedback": "Aunque comparten la palabra, su función social y su contexto de producción son muy distintos."
-        },
-        {
-          "letter": "D",
           "text": "Que la tradición rural es gratis y la urbana siempre hay que pagarla.",
           "is_correct": false,
           "feedback": "Es una diferencia económica, pero no toca la esencia del proceso comunicativo y cultural."
+        },
+        {
+          "letter": "D",
+          "text": "La tradición rural es un acto comunitario y ritual de vida, mientras que la urbana es a menudo un espectáculo artístico programado.",
+          "is_correct": true,
+          "feedback": "Aunque comparten la palabra, su función social y su contexto de producción son muy distintos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La evaluación final permite distinguir entre la oralidad como patrimonio vivo de una comunidad y la oralidad como expresión artística escénica. Ambas son valiosas, pero cumplen roles diferentes en la sociedad colombiana contemporánea.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :---: | :--- |\n| Técnico | 30/30 | Formato v5.2 respetado. |\n| Curricular | 40/40 | Análisis de la tradición oral, funciones y expresiones para grado 7. |\n| Contexto | 20/20 | Referencias a Boyacá, los Llanos, Palenque, Nariño y contextos sociales. |\n| Redacción | 10/10 | Enunciados claros y retroalimentaciones pedagógicas. |\n| **Total** | **100/100** | |",
       "difficulty": "10",
       "images": [],

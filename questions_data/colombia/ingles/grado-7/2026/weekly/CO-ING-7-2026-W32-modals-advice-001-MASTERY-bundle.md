@@ -189,12 +189,12 @@ The student applies reading strategies to extract specific advice from a short t
 ### Opciones
 - [ ] A) should
   <!-- feedback: Incorrect. Bad advice. -->
-- [x] B) shouldn't
-  <!-- feedback: Correct! Standard negative advice based on health evidence. -->
+- [ ] B) can
+  <!-- feedback: Incorrect. Not appropriate for advice in this context. -->
 - [ ] C) must
   <!-- feedback: Incorrect. Strong obligation to do something unhealthy. -->
-- [ ] D) can
-  <!-- feedback: Incorrect. Not appropriate for advice in this context. -->
+- [x] D) shouldn't
+  <!-- feedback: Correct! Standard negative advice based on health evidence. -->
 
 ### Explicacion Pedagogica
 The student applies the modal "shouldn't" to a nutritional context.

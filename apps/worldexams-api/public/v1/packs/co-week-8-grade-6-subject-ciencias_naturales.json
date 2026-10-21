@@ -13,16 +13,16 @@
       "context": "En una huerta escolar de Bogotá, la profesora muestra una flor de curuba y señala el polen amarillo en los estambres.",
       "options": [
         {
-          "letter": "B",
-          "text": "El transporte del polen hasta el estigma para que ocurra la fecundación",
-          "is_correct": true,
-          "feedback": "Correcto. La polinización lleva el polen al estigma y permite la formación de semillas."
-        },
-        {
           "letter": "A",
           "text": "La caída de las hojas viejas durante el verano",
           "is_correct": false,
           "feedback": "Incorrecto. La caída de hojas se llama abscisión y no forma semillas."
+        },
+        {
+          "letter": "B",
+          "text": "El transporte del polen hasta el estigma para que ocurra la fecundación",
+          "is_correct": true,
+          "feedback": "Correcto. La polinización lleva el polen al estigma y permite la formación de semillas."
         },
         {
           "letter": "C",
@@ -59,16 +59,16 @@
       "context": "En Medellín, dos materas de geranio se propagan: una nace de semilla y la otra de un esqueje sembrado por un estudiante.",
       "options": [
         {
-          "letter": "B",
-          "text": "La sexual une células de dos progenitores y da hijos variados, la asexual usa una parte de la planta y da copias idénticas",
-          "is_correct": true,
-          "feedback": "Correcto. La semilla combina información de dos gametos, el esqueje es un clon de la madre."
-        },
-        {
           "letter": "A",
           "text": "La sexual no necesita flores y la asexual siempre necesita semillas",
           "is_correct": false,
           "feedback": "Incorrecto. Es al revés: la sexual forma semillas y la asexual no las necesita."
+        },
+        {
+          "letter": "B",
+          "text": "La sexual une células de dos progenitores y da hijos variados, la asexual usa una parte de la planta y da copias idénticas",
+          "is_correct": true,
+          "feedback": "Correcto. La semilla combina información de dos gametos, el esqueje es un clon de la madre."
         },
         {
           "letter": "C",
@@ -151,16 +151,16 @@
       "context": "En el campo colombiano del Huila, un colibrí de pico largo visita flores rojas en forma de tubo cada mañana.",
       "options": [
         {
-          "letter": "B",
-          "text": "Porque su pico largo alcanza el néctar del fondo y su cabeza roza los estambres y el estigma",
-          "is_correct": true,
-          "feedback": "Correcto. La forma del pico coincide con la flor y el polen viaja en su cabeza."
-        },
-        {
           "letter": "A",
           "text": "Porque el colibrí riega las flores con agua del río",
           "is_correct": false,
           "feedback": "Incorrecto. El colibrí bebe néctar, no transporta agua para regar."
+        },
+        {
+          "letter": "B",
+          "text": "Porque su pico largo alcanza el néctar del fondo y su cabeza roza los estambres y el estigma",
+          "is_correct": true,
+          "feedback": "Correcto. La forma del pico coincide con la flor y el polen viaja en su cabeza."
         },
         {
           "letter": "C",
@@ -197,16 +197,16 @@
       "context": "En Boyacá, una familia campesina siembra papa usando trozos de tubérculo con ojos, y en pocos meses cosecha plantas nuevas.",
       "options": [
         {
-          "letter": "B",
-          "text": "Reproducción asexual, porque una parte del tallo origina una planta idéntica sin semillas",
-          "is_correct": true,
-          "feedback": "Correcto. El tubérculo es un tallo subterráneo y cada ojo genera un clon de la madre."
-        },
-        {
           "letter": "A",
           "text": "Reproducción sexual, porque el tubérculo es una semilla verdadera",
           "is_correct": false,
           "feedback": "Incorrecto. El tubérculo no es semilla; no hubo unión de gametos."
+        },
+        {
+          "letter": "B",
+          "text": "Reproducción asexual, porque una parte del tallo origina una planta idéntica sin semillas",
+          "is_correct": true,
+          "feedback": "Correcto. El tubérculo es un tallo subterráneo y cada ojo genera un clon de la madre."
         },
         {
           "letter": "C",
@@ -243,12 +243,6 @@
       "context": "En el páramo de Chingaza, los frailejones liberan miles de semillas pequeñas con pelillos que el viento arrastra lejos de la madre.",
       "options": [
         {
-          "letter": "C",
-          "text": "Las hijas nacen lejos y no compiten con la madre por luz, agua y espacio",
-          "is_correct": true,
-          "feedback": "Correcto. Dispersarse reduce la competencia y coloniza claros nuevos del páramo."
-        },
-        {
           "letter": "A",
           "text": "Las semillas vuelan para hacer fotosíntesis en el aire",
           "is_correct": false,
@@ -259,6 +253,12 @@
           "text": "El viento rompe las semillas para que nazcan dos plantas de cada una",
           "is_correct": false,
           "feedback": "Incorrecto. El viento transporta, no multiplica ni parte las semillas."
+        },
+        {
+          "letter": "C",
+          "text": "Las hijas nacen lejos y no compiten con la madre por luz, agua y espacio",
+          "is_correct": true,
+          "feedback": "Correcto. Dispersarse reduce la competencia y coloniza claros nuevos del páramo."
         },
         {
           "letter": "D",
@@ -335,12 +335,6 @@
       "context": "En Tunja, un curso embolsa con tela unas flores de calabaza para impedir visitas de insectos y deja otras libres, con igual agua y sol.",
       "options": [
         {
-          "letter": "D",
-          "text": "Las embolsadas forman pocos o ningún fruto y las libres forman frutos normales con semillas",
-          "is_correct": true,
-          "feedback": "Correcto. Sin visitas no llega polen suficiente y el fruto no cuaja."
-        },
-        {
           "letter": "A",
           "text": "Las embolsadas darán más frutos porque la tela las alimenta",
           "is_correct": false,
@@ -357,6 +351,12 @@
           "text": "Las libres morirán porque los insectos se comen toda la planta",
           "is_correct": false,
           "feedback": "Incorrecto. Los polinizadores visitan sin destruir la flor sana."
+        },
+        {
+          "letter": "D",
+          "text": "Las embolsadas forman pocos o ningún fruto y las libres forman frutos normales con semillas",
+          "is_correct": true,
+          "feedback": "Correcto. Sin visitas no llega polen suficiente y el fruto no cuaja."
         }
       ],
       "correct_answer": "D",
@@ -381,16 +381,16 @@
       "context": "En la feria de Manizales, un caficultor duda entre sembrar todo su lote con estacas de su mejor planta o con semillas de varias plantas.",
       "options": [
         {
-          "letter": "B",
-          "text": "Sembrar la mayoría por estaca para cosechar pronto la buena variedad, y un lote por semilla para tener plantas variadas que resistan la plaga",
-          "is_correct": true,
-          "feedback": "Correcto. Combina clonación fiel y rápida con diversidad que protege a futuro."
-        },
-        {
           "letter": "A",
           "text": "Sembrar todo por semilla de una sola planta porque así salen clones idénticos",
           "is_correct": false,
           "feedback": "Incorrecto. La semilla no clona; además un monocultivo idéntico es vulnerable a plagas."
+        },
+        {
+          "letter": "B",
+          "text": "Sembrar la mayoría por estaca para cosechar pronto la buena variedad, y un lote por semilla para tener plantas variadas que resistan la plaga",
+          "is_correct": true,
+          "feedback": "Correcto. Combina clonación fiel y rápida con diversidad que protege a futuro."
         },
         {
           "letter": "C",
@@ -427,22 +427,22 @@
       "context": "En Bucaramanga, tres afirmaciones se debaten: 1) Todas las semillas necesitan pasar por el estómago de un animal para germinar. 2) El viento y los animales dispersan semillas lejos de la madre. 3) Sembrar un fragmento de tallo es reproducción asexual sin fecundación.",
       "options": [
         {
-          "letter": "B",
-          "text": "La 1 es falsa porque muchas germinan solas, la 2 es verdadera y la 3 es verdadera",
-          "is_correct": true,
-          "feedback": "Correcto. Solo algunas semillas exigen paso animal; el viento y los animales sí dispersan, y el fragmento clona sin gametos."
-        },
-        {
           "letter": "A",
           "text": "Las tres son verdaderas porque ninguna semilla germina sin animales",
           "is_correct": false,
           "feedback": "Incorrecto. Frijol, maíz y muchas semillas germinan con solo agua, aire y temperatura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las tres son falsas porque las plantas no se reproducen",
           "is_correct": false,
           "feedback": "Incorrecto. Las plantas se reproducen sexual y asexualmente de forma comprobada."
+        },
+        {
+          "letter": "C",
+          "text": "La 1 es falsa porque muchas germinan solas, la 2 es verdadera y la 3 es verdadera",
+          "is_correct": true,
+          "feedback": "Correcto. Solo algunas semillas exigen paso animal; el viento y los animales sí dispersan, y el fragmento clona sin gametos."
         },
         {
           "letter": "D",
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La 1 generaliza un caso raro y niega la dispersión y la clonación reales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Juzgar exige distinguir casos particulares de reglas generales: la zoocoria y la endozoocoria existen, pero no son obligatorias para germinar.",
       "difficulty": "10",
       "images": [],

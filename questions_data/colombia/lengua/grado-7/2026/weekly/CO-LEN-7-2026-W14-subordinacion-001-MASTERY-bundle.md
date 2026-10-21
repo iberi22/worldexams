@@ -198,9 +198,9 @@ En la frase: "**A pesar de que el café ha bajado de precio**, los productores s
 
 ### Opciones
 - [ ] A) Relación de causa y efecto. <!-- feedback: Incorrecto. La baja del precio no es la causa de mantener la calidad, sino un hecho que parecería dificultarlo. -->
-- [x] B) Relación de concesión. <!-- feedback: ¡Correcto! Expresa una dificultad u obstáculo que no impide el cumplimiento de la acción principal. -->
+- [ ] B) Relación de comparación. <!-- feedback: Incorrecto. No se están comparando dos elementos en cuanto a su grado o cualidad. -->
 - [ ] C) Relación de consecuencia. <!-- feedback: Incorrecto. No indica un resultado que deriva de la acción principal. -->
-- [ ] D) Relación de comparación. <!-- feedback: Incorrecto. No se están comparando dos elementos en cuanto a su grado o cualidad. -->
+- [x] D) Relación de concesión. <!-- feedback: ¡Correcto! Expresa una dificultad u obstáculo que no impide el cumplimiento de la acción principal. -->
 
 ### Explicacion Pedagogica
 Las subordinadas concesivas indican un hecho que se opone a la acción principal pero no logra anularla. Se introducen por nexos como "aunque", "a pesar de que" o "pese a que".

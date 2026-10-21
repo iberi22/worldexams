@@ -489,10 +489,10 @@ El corte con el eje $y$ se obtiene tomando $x = 0$, y como $f(0) = b^0 = 1$ para
 Sea $f(x) = \log_3(x)$ y sea $g$ su función inversa. ¿Cuál es el criterio de $g$?
 
 ### Opciones
-- [x] A) $g(x) = 3^x$
-  <!-- feedback: Correcto. Partiendo de $\log_3(y) = x$ se despeja en forma exponencial y se obtiene $3^x = y$, que es el criterio de $g$. -->
-- [ ] B) $g(x) = x^3$
+- [ ] A) $g(x) = x^3$
   <!-- feedback: Se han intercambiado base y exponente: la base 3 se mantiene como base y la variable pasa a ser el exponente. -->
+- [x] B) $g(x) = 3^x$
+  <!-- feedback: Correcto. Partiendo de $\log_3(y) = x$ se despeja en forma exponencial y se obtiene $3^x = y$, que es el criterio de $g$. -->
 - [ ] C) $g(x) = \log_3(x)$
   <!-- feedback: Esta es la función $f$ misma, y para que fuera su propia inversa habría de ser la identidad. -->
 - [ ] D) $g(x) = 3x$

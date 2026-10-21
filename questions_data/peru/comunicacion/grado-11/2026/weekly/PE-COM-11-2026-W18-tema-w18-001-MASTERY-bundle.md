@@ -504,10 +504,10 @@ Al realizar una ponderación analítica profunda de esta célebre proclama de Ar
   <!-- feedback: Incorrecto. Arguedas exalta la asimilación del rigor científico moderno para defender la herencia indígena; no propugna un repliegue hostil anti-tecnológico. -->
 - [ ] B) Sostener que los peruanos bilingües deben dejar de hablar castellano de forma obligatoria bajo pena de cárcel municipal en Trujillo.
   <!-- feedback: Incorrecto. Su proclama celebra el bilingüismo con "infinito amor" en ambas lenguas (quechua y castellano), rechazando la exclusión de cualquiera de los dos idiomas patrios. -->
-- [x] C) El ideal de un Perú bilingüe e integrador donde la rica herencia indígena, la dulzura del quechua andino y la cosmovisión telúrica panteísta coexistan en un pie de igualdad intelectual y de respeto civil con el desarrollo científico y tecnológico moderno de la costa criolla.
-  <!-- feedback: ¡Correcto! La proclama de Arguedas niega la asimilación homogeneizadora ("aculturación" que borra la identidad originaria) para entronizar una nación plural, mestiza con orgullo y soberana de sus dos vertientes andina e hispana. -->
-- [ ] D) La propuesta de vender todo el patrimonio arqueológico de Machu Picchu para financiar la importación de marcas de ropa fina parisina de lujo.
+- [ ] C) La propuesta de vender todo el patrimonio arqueológico de Machu Picchu para financiar la importación de marcas de ropa fina parisina de lujo.
   <!-- feedback: Incorrecto. Va en contra de la revaloración de la herencia del ande profundo y de la soberanía cultural del campesinado que Arguedas defendió a costa de su propia vida de científico. -->
+- [x] D) El ideal de un Perú bilingüe e integrador donde la rica herencia indígena, la dulzura del quechua andino y la cosmovisión telúrica panteísta coexistan en un pie de igualdad intelectual y de respeto civil con el desarrollo científico y tecnológico moderno de la costa criolla.
+  <!-- feedback: ¡Correcto! La proclama de Arguedas niega la asimilación homogeneizadora ("aculturación" que borra la identidad originaria) para entronizar una nación plural, mestiza con orgullo y soberana de sus dos vertientes andina e hispana. -->
 
 ### Explicación Pedagógica
 El estudiante demuestra una comprensión de nivel superior de los debates de identidad nacional al dilucidar el mensaje de la célebre proclama final de Arguedas. Frente al determinismo asimilador que exigía castellanizar y borrar la memoria del indio para modernizar el país, el autor de Andahuaylas propone un modelo de desarrollo ciudadano pluricultural y bilingüe andino que sintoniza con las competencias éticas de interculturalidad de nuestro currículo nacional CNEB.

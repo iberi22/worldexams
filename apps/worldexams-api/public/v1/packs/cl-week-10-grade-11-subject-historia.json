@@ -881,18 +881,18 @@
         },
         {
           "letter": "C",
-          "text": "La paradoja de que para descarbonizar y limpiar los transportes urbanos de los países del hemisferio norte, se externaliza el daño ecológico de sequía de salares en Atacama y se crean zonas de sacrificio industrial pesadas en las costas chilenas.",
-          "is_correct": true,
-          "feedback": "Correcto. Existe una profunda contradicción ética de desarrollo desigual transnacional: los automóviles eléctricos limpios que circulan por Europa o EE.UU. de libre comercio se fabrican con el litio y cobre extraído a costa de vaciar de agua dulce los salares atacameños andinos y polucionar bahías de Quintero chilenas, perpetuando el carácter primario dependiente del país."
-        },
-        {
-          "letter": "D",
           "text": "La entrega de la totalidad del presupuesto de Codelco a favor de los pescadores artesanales de Iquique de forma gratuita.",
           "is_correct": false,
           "feedback": "Incorrecto. No se desvían de forma gratuita los excedentes de la gran minería fiscal a caletas pesqueras norteñas; los presupuestos de Codelco se dirigen al erario centralizado del Estado de Chile para el gasto nacional."
+        },
+        {
+          "letter": "D",
+          "text": "La paradoja de que para descarbonizar y limpiar los transportes urbanos de los países del hemisferio norte, se externaliza el daño ecológico de sequía de salares en Atacama y se crean zonas de sacrificio industrial pesadas en las costas chilenas.",
+          "is_correct": true,
+          "feedback": "Correcto. Existe una profunda contradicción ética de desarrollo desigual transnacional: los automóviles eléctricos limpios que circulan por Europa o EE.UU. de libre comercio se fabrican con el litio y cobre extraído a costa de vaciar de agua dulce los salares atacameños andinos y polucionar bahías de Quintero chilenas, perpetuando el carácter primario dependiente del país."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La externalización del daño socioambiental de la transición energética del primer mundo expone el rostro geopolítico contemporáneo de Chile en el mundo globalizado de la APEC. Mientras el hemisferio norte limpia su atmósfera y descarboniza sus urbes, los países periféricos del cono sur cargan con la devastación ecológica andina, sequedad hídrica de salmueras de Atacama y contaminación de costas chilenas, planteando el debate de soberanía ecológica del siglo XXI.",
       "difficulty": "10",
       "images": [],

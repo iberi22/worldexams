@@ -13,12 +13,6 @@
       "context": "Describing a common practice in labs.",
       "options": [
         {
-          "letter": "D",
-          "text": "performing",
-          "is_correct": true,
-          "feedback": "Correct! The verb \"enjoy\" is followed by a gerund (-ing)."
-        },
-        {
           "letter": "A",
           "text": "to perform",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "in performing",
           "is_correct": false,
           "feedback": "Incorrect. Unnecessary preposition."
+        },
+        {
+          "letter": "D",
+          "text": "performing",
+          "is_correct": true,
+          "feedback": "Correct! The verb \"enjoy\" is followed by a gerund (-ing)."
         }
       ],
       "correct_answer": "D",
@@ -65,12 +65,6 @@
           "feedback": "Incorrect. \"Decide\" is followed by the infinitive."
         },
         {
-          "letter": "D",
-          "text": "to request",
-          "is_correct": true,
-          "feedback": "Correct! The verb \"decide\" is followed by the infinitive with \"to\"."
-        },
-        {
           "letter": "B",
           "text": "request",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "for requesting",
           "is_correct": false,
           "feedback": "Incorrect. \"For\" is not used with the infinitive of purpose in this way."
+        },
+        {
+          "letter": "D",
+          "text": "to request",
+          "is_correct": true,
+          "feedback": "Correct! The verb \"decide\" is followed by the infinitive with \"to\"."
         }
       ],
       "correct_answer": "D",
@@ -111,12 +111,6 @@
           "feedback": "Incorrect. A base verb cannot be the subject."
         },
         {
-          "letter": "D",
-          "text": "Developing",
-          "is_correct": true,
-          "feedback": "Correct! Gerunds are used as subjects of sentences."
-        },
-        {
           "letter": "B",
           "text": "To developing",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "In developing",
           "is_correct": false,
           "feedback": "Incorrect. Unnecessary preposition."
+        },
+        {
+          "letter": "D",
+          "text": "Developing",
+          "is_correct": true,
+          "feedback": "Correct! Gerunds are used as subjects of sentences."
         }
       ],
       "correct_answer": "D",
@@ -163,16 +163,16 @@
           "feedback": "Incorrect. \"For\" + gerund is for the function of an object, not a person's purpose."
         },
         {
-          "letter": "D",
-          "text": "to study",
-          "is_correct": true,
-          "feedback": "Correct! We use the infinitive to express purpose (the reason why someone does something)."
-        },
-        {
           "letter": "C",
           "text": "so studying",
           "is_correct": false,
           "feedback": "Incorrect. Grammatically incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "to study",
+          "is_correct": true,
+          "feedback": "Correct! We use the infinitive to express purpose (the reason why someone does something)."
         }
       ],
       "correct_answer": "D",
@@ -203,12 +203,6 @@
           "feedback": "Incorrect. After a preposition, we must use a gerund."
         },
         {
-          "letter": "D",
-          "text": "exploring",
-          "is_correct": true,
-          "feedback": "Correct! After prepositions (in, at, with, about, etc.), we use the gerund form."
-        },
-        {
           "letter": "B",
           "text": "to explore",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "for exploring",
           "is_correct": false,
           "feedback": "Incorrect. \"Interested in\" is the correct combination."
+        },
+        {
+          "letter": "D",
+          "text": "exploring",
+          "is_correct": true,
+          "feedback": "Correct! After prepositions (in, at, with, about, etc.), we use the gerund form."
         }
       ],
       "correct_answer": "D",
@@ -243,12 +243,6 @@
       "context": "Verbs that change meaning (stop).",
       "options": [
         {
-          "letter": "D",
-          "text": "listening",
-          "is_correct": true,
-          "feedback": "Correct! \"Stop + gerund\" means to quit or end an activity."
-        },
-        {
           "letter": "A",
           "text": "to listen",
           "is_correct": false,
@@ -256,18 +250,24 @@
         },
         {
           "letter": "B",
-          "text": "listen",
-          "is_correct": false,
-          "feedback": "Incorrect. Needs a gerund or infinitive form."
+          "text": "listening",
+          "is_correct": true,
+          "feedback": "Correct! \"Stop + gerund\" means to quit or end an activity."
         },
         {
           "letter": "C",
           "text": "of listening",
           "is_correct": false,
           "feedback": "Incorrect. Unnecessary preposition."
+        },
+        {
+          "letter": "D",
+          "text": "listen",
+          "is_correct": false,
+          "feedback": "Incorrect. Needs a gerund or infinitive form."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "Ciertos verbos cambian de significado según si les sigue un gerundio o un infinitivo. *Stop listening* significa dejar de escuchar, mientras que *stop to listen* significaría hacer una pausa para escuchar.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -295,16 +295,16 @@
           "feedback": "Incorrect. This would refer to a memory of doing it in the past."
         },
         {
-          "letter": "C",
-          "text": "to lock",
-          "is_correct": true,
-          "feedback": "Correct! \"Remember + infinitive\" means not to forget a task you need to do."
-        },
-        {
           "letter": "B",
           "text": "lock",
           "is_correct": false,
           "feedback": "Incorrect. Needs \"to\"."
+        },
+        {
+          "letter": "C",
+          "text": "to lock",
+          "is_correct": true,
+          "feedback": "Correct! \"Remember + infinitive\" means not to forget a task you need to do."
         },
         {
           "letter": "D",
@@ -341,16 +341,16 @@
           "feedback": "Incorrect. Needs \"to\"."
         },
         {
-          "letter": "C",
-          "text": "to understand",
-          "is_correct": true,
-          "feedback": "Correct! After many adjectives (difficult, easy, important, necessary), we use the infinitive."
-        },
-        {
           "letter": "B",
           "text": "understanding",
           "is_correct": false,
           "feedback": "Incorrect. Less common than the infinitive in this structure."
+        },
+        {
+          "letter": "C",
+          "text": "to understand",
+          "is_correct": true,
+          "feedback": "Correct! After many adjectives (difficult, easy, important, necessary), we use the infinitive."
         },
         {
           "letter": "D",
@@ -382,12 +382,6 @@
       "options": [
         {
           "letter": "A",
-          "text": "learning",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Would like\" is always followed by the infinitive."
-        },
-        {
-          "letter": "D",
           "text": "to learn",
           "is_correct": true,
           "feedback": "Correct! While \"like\" can take both, \"would like\" specifically requires the infinitive."
@@ -403,9 +397,15 @@
           "text": "for learn",
           "is_correct": false,
           "feedback": "Incorrect. Grammatically incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "learning",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Would like\" is always followed by the infinitive."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "Aunque el verbo *like* puede ir seguido de gerundio o infinitivo, la expresión de cortesía *would like* siempre requiere un infinitivo con *to*.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -427,12 +427,6 @@
       "context": "Finding an error in a text about scientific ethics.",
       "options": [
         {
-          "letter": "D",
-          "text": "to use",
-          "is_correct": true,
-          "feedback": "Correct! \"Avoid\" must be followed by a gerund: \"avoid using\"."
-        },
-        {
           "letter": "A",
           "text": "replacing",
           "is_correct": false,
@@ -449,6 +443,12 @@
           "text": "to achieve",
           "is_correct": false,
           "feedback": "Incorrect. \"Hope\" is correctly followed by the infinitive."
+        },
+        {
+          "letter": "D",
+          "text": "to use",
+          "is_correct": true,
+          "feedback": "Correct! \"Avoid\" must be followed by a gerund: \"avoid using\"."
         }
       ],
       "correct_answer": "D",
@@ -519,16 +519,16 @@
       "context": "Completing a conclusion about innovation.",
       "options": [
         {
-          "letter": "B",
-          "text": "take / learn / fail",
-          "is_correct": false,
-          "feedback": "Incorrect. Base verbs don't fit."
-        },
-        {
           "letter": "A",
           "text": "taking / learning / failing",
           "is_correct": true,
           "feedback": "Correct! \"Involve\" takes a gerund, and \"afraid of\" (preposition) also takes a gerund."
+        },
+        {
+          "letter": "B",
+          "text": "take / learn / fail",
+          "is_correct": false,
+          "feedback": "Incorrect. Base verbs don't fit."
         },
         {
           "letter": "C",

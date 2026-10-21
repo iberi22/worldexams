@@ -13,16 +13,16 @@
       "context": "En clase de Lectura Crítica, los estudiantes de un colegio de Pasto revisan una nota del periódico regional titulada \"Cultivos de papa en Nariño registran aumento del 12%\".",
       "options": [
         {
-          "letter": "B",
-          "text": "El lead o entrada, donde se concentran los datos esenciales.",
-          "is_correct": true,
-          "feedback": "El lead (primer párrafo) resume el qué, quién, cuándo, dónde y cómo de la noticia."
-        },
-        {
           "letter": "A",
           "text": "La firma del periodista, donde aparece el nombre del autor.",
           "is_correct": false,
           "feedback": "La firma identifica al autor pero no resume los hechos principales."
+        },
+        {
+          "letter": "B",
+          "text": "El lead o entrada, donde se concentran los datos esenciales.",
+          "is_correct": true,
+          "feedback": "El lead (primer párrafo) resume el qué, quién, cuándo, dónde y cómo de la noticia."
         },
         {
           "letter": "C",
@@ -59,16 +59,16 @@
       "context": "Un estudiante de Pereira lee el siguiente titular: \"Inauguran en Risaralda nuevo hospital pediátrico con capacidad para 120 niños\".",
       "options": [
         {
-          "letter": "B",
-          "text": "El hecho principal (apertura del hospital), el lugar (Risaralda) y un dato cuantitativo (120 niños).",
-          "is_correct": true,
-          "feedback": "El titular sintetiza la acción, la ubicación y un número concreto."
-        },
-        {
           "letter": "A",
           "text": "Una opinión personal del periodista sobre la salud del departamento.",
           "is_correct": false,
           "feedback": "Un titular informativo no expresa opiniones, sino hechos concretos."
+        },
+        {
+          "letter": "B",
+          "text": "El hecho principal (apertura del hospital), el lugar (Risaralda) y un dato cuantitativo (120 niños).",
+          "is_correct": true,
+          "feedback": "El titular sintetiza la acción, la ubicación y un número concreto."
         },
         {
           "letter": "C",
@@ -105,12 +105,6 @@
       "context": "En clase, los estudiantes leen este fragmento: \"El pasado lunes, 600 familias del municipio de Turbo fueron atendidas por la Unidad Nacional para la Gestión del Riesgo tras la creciente del río Atrato\".",
       "options": [
         {
-          "letter": "C",
-          "text": "\"El pasado lunes\", porque indica el día en que ocurrió la atención.",
-          "is_correct": true,
-          "feedback": "La expresión temporal precisa señala cuándo se produjo el hecho informativo."
-        },
-        {
           "letter": "A",
           "text": "\"600 familias\", porque es una cifra que precisa el alcance.",
           "is_correct": false,
@@ -121,6 +115,12 @@
           "text": "\"Unidad Nacional para la Gestión del Riesgo\", porque es el actor principal.",
           "is_correct": false,
           "feedback": "La entidad es el quién institucional, no el cuándo."
+        },
+        {
+          "letter": "C",
+          "text": "\"El pasado lunes\", porque indica el día en que ocurrió la atención.",
+          "is_correct": true,
+          "feedback": "La expresión temporal precisa señala cuándo se produjo el hecho informativo."
         },
         {
           "letter": "D",
@@ -151,16 +151,16 @@
       "context": "Una columna del diario local de Ibagué afirma: \"El nuevo puente es un despilfarro inaceutable del presupuesto municipal\".",
       "options": [
         {
-          "letter": "B",
-          "text": "Es un texto de opinión, porque emite un juicio de valor (\"despilfarro inaceutable\"); la noticia solo informa sin adjetivar.",
-          "is_correct": true,
-          "feedback": "Los juicios de valor pertenecen a columnas de opinión, no a noticias."
-        },
-        {
           "letter": "A",
           "text": "Es una noticia, porque describe una obra pública.",
           "is_correct": false,
           "feedback": "Aunque menciona una obra, el adjetivo valorativo lo convierte en opinión, no en noticia."
+        },
+        {
+          "letter": "B",
+          "text": "Es un texto de opinión, porque emite un juicio de valor (\"despilfarro inaceutable\"); la noticia solo informa sin adjetivar.",
+          "is_correct": true,
+          "feedback": "Los juicios de valor pertenecen a columnas de opinión, no a noticias."
         },
         {
           "letter": "C",
@@ -197,16 +197,16 @@
       "context": "En un periódico de Barranquilla aparece una nota sobre un concierto escolar con esta estructura: título \"Estudiantes de Soledad ganan concurso de danza nacional\"; primer párrafo \"35 alumnos de la IED María Goretti obtuvieron el primer puesto en el Encuentro Nacional de Danza Escolar\"; segundo párrafo \"El grupo viajó durante tres meses de ensayo y compitió contra delegaciones de 12 departamentos\".",
       "options": [
         {
-          "letter": "B",
-          "text": "Pirámide invertida, porque el dato más relevante está al inicio y los detalles van después.",
-          "is_correct": true,
-          "feedback": "En la pirámide invertida la información esencial precede a los detalles complementarios."
-        },
-        {
           "letter": "A",
           "text": "Crónica narrativa, porque cuenta los hechos en orden cronológico estricto.",
           "is_correct": false,
           "feedback": "La pirámide invertida no exige cronología, sino jerarquía."
+        },
+        {
+          "letter": "B",
+          "text": "Pirámide invertida, porque el dato más relevante está al inicio y los detalles van después.",
+          "is_correct": true,
+          "feedback": "En la pirámide invertida la información esencial precede a los detalles complementarios."
         },
         {
           "letter": "C",
@@ -243,12 +243,6 @@
       "context": "En un taller de medios en Manizales, los estudiantes comparan dos versiones de una misma noticia: versión A del diario local \"Construyen colegio nuevo en el barrio San Jorge\"; versión B del mismo hecho \"Después de 20 años de espera, por fin se inicia el colegio de San Jorge\".",
       "options": [
         {
-          "letter": "C",
-          "text": "El titular A es informativo y neutro; el titular B incluye contexto histórico y un componente valorativo al destacar \"por fin\".",
-          "is_correct": true,
-          "feedback": "La palabra \"por fin\" emite un juicio implícito de satisfacción que matiza el tono neutral."
-        },
-        {
           "letter": "A",
           "text": "Ambos son idénticos porque hablan de un colegio.",
           "is_correct": false,
@@ -259,6 +253,12 @@
           "text": "El titular A es de opinión y el B es informativo.",
           "is_correct": false,
           "feedback": "Es al contrario: A es neutro y B incorpora un matiz valorativo."
+        },
+        {
+          "letter": "C",
+          "text": "El titular A es informativo y neutro; el titular B incluye contexto histórico y un componente valorativo al destacar \"por fin\".",
+          "is_correct": true,
+          "feedback": "La palabra \"por fin\" emite un juicio implícito de satisfacción que matiza el tono neutral."
         },
         {
           "letter": "D",
@@ -289,16 +289,16 @@
       "context": "Una nota de Cali dice: \"Habitantes del barrio El Guabal cerraron la calle 5 en protesta por la demora en obras de acueducto. Según el personero delegado, 'la obra está contratada desde 2022 pero nunca inició'\".",
       "options": [
         {
-          "letter": "B",
-          "text": "Es una cita textual de una fuente, que aporta voz y respaldo al hecho informado.",
-          "is_correct": true,
-          "feedback": "Las comillas indican la voz directa de una fuente citada por el periodista."
-        },
-        {
           "letter": "A",
           "text": "Es un comentario personal del periodista.",
           "is_correct": false,
           "feedback": "Los comentarios del periodista no van entre comillas sino en su propio estilo."
+        },
+        {
+          "letter": "B",
+          "text": "Es un anuncio oficial de la alcaldía.",
+          "is_correct": false,
+          "feedback": "Una declaración oficial llevaría membrete o \"comunicado oficial\"."
         },
         {
           "letter": "C",
@@ -308,12 +308,12 @@
         },
         {
           "letter": "D",
-          "text": "Es un anuncio oficial de la alcaldía.",
-          "is_correct": false,
-          "feedback": "Una declaración oficial llevaría membrete o \"comunicado oficial\"."
+          "text": "Es una cita textual de una fuente, que aporta voz y respaldo al hecho informado.",
+          "is_correct": true,
+          "feedback": "Las comillas indican la voz directa de una fuente citada por el periodista."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En el texto periodístico, las comillas indican una cita textual de una fuente. Esto permite al lector diferenciar entre lo que el periodista narra y lo que otra persona afirma. Identificar fuentes y citas directas es una habilidad clave para evaluar la veracidad de la noticia.",
       "difficulty": "8",
       "images": [],

@@ -830,9 +830,9 @@
         },
         {
           "letter": "B",
-          "text": "Chile priorizó resguardar sus intereses bélicos en el norte en plena Guerra del Pacífico, cediendo su pretensión sobre la Patagonia oriental a cambio del control del Estrecho de Magallanes.",
-          "is_correct": true,
-          "feedback": "Correcto. El gobierno de Aníbal Pinto firmó el Tratado de 1881 bajo la presión de estar librando la Guerra del Pacífico contra Perú y Bolivia, evitando un conflicto simultáneo en dos frentes con Argentina."
+          "text": "Ambos países acordaron que la Patagonia occidental sería administrada en conjunto por una gobernación binacional perpetua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Patagonia occidental (costera y andina) quedó bajo estricta soberanía soberana exclusiva de Chile y la oriental bajo la de Argentina."
         },
         {
           "letter": "C",
@@ -842,12 +842,12 @@
         },
         {
           "letter": "D",
-          "text": "Ambos países acordaron que la Patagonia occidental sería administrada en conjunto por una gobernación binacional perpetua.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La Patagonia occidental (costera y andina) quedó bajo estricta soberanía soberana exclusiva de Chile y la oriental bajo la de Argentina."
+          "text": "Chile priorizó resguardar sus intereses bélicos en el norte en plena Guerra del Pacífico, cediendo su pretensión sobre la Patagonia oriental a cambio del control del Estrecho de Magallanes.",
+          "is_correct": true,
+          "feedback": "Correcto. El gobierno de Aníbal Pinto firmó el Tratado de 1881 bajo la presión de estar librando la Guerra del Pacífico contra Perú y Bolivia, evitando un conflicto simultáneo en dos frentes con Argentina."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El Tratado de 1881 con Argentina fijó la frontera de altas cumbres divisorias de aguas hasta el paralelo 52, consolidando el control chileno sobre el Estrecho de Magallanes pero renunciando a reclamos históricos sobre la Patagonia oriental. Chile aceptó esta negociación para evitar una conflagración bélica simultánea con Argentina mientras sus tropas ocupaban Lima.\n\n---",
       "difficulty": "10",
       "images": [],

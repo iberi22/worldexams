@@ -382,7 +382,7 @@ Entre los principales desafíos de implementación del Acuerdo Final documentado
 - [x] A) Los asesinatos de excombatientes en reincorporación y de líderes sociales, y la demora en la reforma rural y la protección territorial en zonas olvidadas
   <!-- feedback: Los informes de la Misión de Verificación de la ONU, la Defensoría y el partido FARC han documentado cientos de homicidios de firmantes de paz y de líderes sociales, síntoma de economías criminales activas e insuficiente presencia integral del Estado. -->
 - [ ] B) La inexistencia de un partido político surgido del acuerdo
-  <!-- feedback: El partido existe desde 2017, con representación en el Congreso gracias a las curules de la circunscripción de paz. -->
+  <!-- feedback: El partido existe desde 2017, con representación en el Congreso gracias a las 5 curules en Senado y 5 en Cámara que le garantizó el Acto Legislativo 03 de 2017 por dos periodos; las 16 Circunscripciones Transitorias Especiales de Paz son curules para víctimas, no para el partido. -->
 - [ ] C) El incumplimiento automático de todos los puntos en el año 2017
   <!-- feedback: La implementación ha sido desigual: avances en registro de tierras y salud, rezagos en sustitución de cultivos, PDET y seguridad. -->
 - [ ] D) La prohibición internacional de todos los procesos de paz latinoamericanos

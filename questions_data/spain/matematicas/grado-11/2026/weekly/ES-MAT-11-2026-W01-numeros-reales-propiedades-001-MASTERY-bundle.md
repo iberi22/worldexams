@@ -430,8 +430,8 @@ Para convertir un decimal periódico puro a fracción, ponemos el periodo ($6$) 
 ### Opciones
 - [ ] A) Todo número racional es también un número real. <!-- feedback: Afirmación correcta; los reales engloban a los racionales. -->
 - [ ] B) El producto de dos números irracionales puede ser un número racional. <!-- feedback: Afirmación correcta; por ejemplo, √2 · √2 = 2. -->
-- [x] C) La raíz cuadrada de cualquier número real es siempre otro número real. <!-- feedback: Correcto, esta es la afirmación INCORRECTA. Las raíces cuadradas de números negativos no son reales (son imaginarias). -->
-- [ ] D) Existe una correspondencia biunívoca entre los puntos de una recta y los números reales. <!-- feedback: Afirmación correcta; es el axioma de Cantor-Dedekind. -->
+- [ ] C) Existe una correspondencia biunívoca entre los puntos de una recta y los números reales. <!-- feedback: Afirmación correcta; es el axioma de Cantor-Dedekind. -->
+- [x] D) La raíz cuadrada de cualquier número real es siempre otro número real. <!-- feedback: Correcto, esta es la afirmación INCORRECTA. Las raíces cuadradas de números negativos no son reales (son imaginarias). -->
 
 ### Explicacion Pedagogica
 El conjunto de los números reales no es algebraicamente cerrado porque no contiene las soluciones a ecuaciones como $x^2 + 1 = 0$. La raíz cuadrada de un número negativo (como $\sqrt{-4}$) no existe dentro del campo de los reales, lo que requiere la extensión al conjunto de los números complejos ($\mathbb{C}$).

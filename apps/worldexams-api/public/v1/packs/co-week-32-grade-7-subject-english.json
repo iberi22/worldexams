@@ -296,9 +296,9 @@
         },
         {
           "letter": "B",
-          "text": "shouldn't",
-          "is_correct": true,
-          "feedback": "Correct! Standard negative advice based on health evidence."
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Incorrect. Not appropriate for advice in this context."
         },
         {
           "letter": "C",
@@ -308,12 +308,12 @@
         },
         {
           "letter": "D",
-          "text": "can",
-          "is_correct": false,
-          "feedback": "Incorrect. Not appropriate for advice in this context."
+          "text": "shouldn't",
+          "is_correct": true,
+          "feedback": "Correct! Standard negative advice based on health evidence."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student applies the modal \"shouldn't\" to a nutritional context.\n\n---",
       "difficulty": "8",
       "images": [],

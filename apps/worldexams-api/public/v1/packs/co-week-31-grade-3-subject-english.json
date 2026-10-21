@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Look at the clock: the short hand is on 3 and the long hand is on 12. What time is it?",
+      "context": "En el salón de un colegio de Manizales hay un reloj de manecillas encima del tablero.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the word for a place where you live or stay on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
+          "text": "It's twelve o'clock.",
           "is_correct": false,
-          "feedback": "'transportation' is the system of moving people or goods between places, not the place you sleep in itself."
+          "feedback": "Incorrect. This reads the long hand as the hour; the short hand on 3 shows the hour."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "It's half past three.",
           "is_correct": false,
-          "feedback": "'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live."
+          "feedback": "Incorrect. For half past three the long hand must be on 6, not on 12."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "It's two o'clock.",
           "is_correct": false,
-          "feedback": "'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in."
+          "feedback": "Incorrect. For two o'clock the short hand must be on 2, but it is on 3."
+        },
+        {
+          "letter": "D",
+          "text": "It's three o'clock.",
+          "is_correct": true,
+          "feedback": "Correct. The short hand shows the hour, 3, and the long hand on 12 means o'clock."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "explanation": "En un reloj de manecillas, la manecilla corta (\"short hand\") marca la hora y la larga (\"long hand\") marca los minutos. Si la corta está en 3 y la larga en 12, decimos \"It's three o'clock\" (las tres en punto).",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -55,41 +55,41 @@
     },
     {
       "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which question do you ask to know the time?",
+      "context": "Simón está en el parque de Pereira y quiere saber si ya es hora de volver a casa.",
       "options": [
         {
-          "letter": "C",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "What day is it?",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "Incorrect. \"What day is it?\" asks for the day of the week, not the time."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "How old are you?",
           "is_correct": false,
-          "feedback": "'destination' names only the place you are going to, without the route or the order of the whole journey."
+          "feedback": "Incorrect. \"How old are you?\" asks for a person's age."
+        },
+        {
+          "letter": "C",
+          "text": "What's the weather like?",
+          "is_correct": false,
+          "feedback": "Incorrect. This question asks about rain, sun or wind, not the time."
         },
         {
           "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "'passport' is the official document that lets you cross a border, not the plan of where you go."
+          "text": "What time is it?",
+          "is_correct": true,
+          "feedback": "Correct. \"What time is it?\" is the question we use to ask the time."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Para preguntar la hora decimos \"What time is it?\" (¿qué hora es?). \"What day is it?\" pregunta el día, \"How old are you?\" pregunta la edad y \"What's the weather like?\" pregunta por el clima.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lexico",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle",
       "periodo": 31,
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The clock says 7:30. How do you say it in English?",
+      "context": "El reloj digital de la cocina en Cartagena marca 7:30 cuando Laura sale al colegio.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' is the place someone is going to or something is being sent to."
+          "text": "It's seven o'clock.",
+          "is_correct": false,
+          "feedback": "Incorrect. Seven o'clock is 7:00; this answer forgets the thirty minutes."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "It's quarter past seven.",
           "is_correct": false,
-          "feedback": "'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself."
+          "feedback": "Incorrect. Quarter past seven is 7:15, which is fifteen minutes, not thirty."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the act of reaching a place, not the place that is reached."
+          "text": "It's half past seven.",
+          "is_correct": true,
+          "feedback": "Correct. Thirty minutes after seven is half past seven."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "It's half past eight.",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from the start to the end, not the place the trip finishes at."
+          "feedback": "Incorrect. Half past eight is 8:30; the hour on the clock is seven."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Cuando pasan 30 minutos de la hora decimos \"half past\" (y media). Entonces 7:30 es \"half past seven\". \"Quarter past\" son 15 minutos (y cuarto) y \"o'clock\" significa en punto.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.72,
       "bundle_id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: \"I go to bed at nine o'clock at ___.\"",
+      "context": "Andrés cuenta su rutina en un audio para su primo que vive en Estados Unidos.",
       "options": [
         {
-          "letter": "C",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "morning",
           "is_correct": false,
-          "feedback": "'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in."
+          "feedback": "Incorrect. Nine o'clock in the morning is school time, not bedtime; also we say \"in the morning\"."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "night",
+          "is_correct": true,
+          "feedback": "Correct. We go to bed at night, so we say \"at nine o'clock at night\"."
+        },
+        {
+          "letter": "C",
+          "text": "noon",
           "is_correct": false,
-          "feedback": "'flight' is the journey by plane itself, not the containers that hold your things."
+          "feedback": "Incorrect. Noon is twelve o'clock in the middle of the day, so it cannot be nine o'clock."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "Monday",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you make for a seat or a room, not the bag you carry."
+          "feedback": "Incorrect. Monday is a day of the week, and we say \"on Monday\", not \"at Monday\"."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Para decir a qué hora nos acostamos usamos \"at night\" (en la noche): \"I go to bed at nine o'clock at night\". \"Noon\" es el mediodía, las doce, y \"in the morning\" es la mañana.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.68,
       "bundle_id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Sebastian gets up at 6:00 a.m. He has lunch at 12:30 p.m. He does his homework at 4:00 p.m.\" What does he do at four o'clock in the afternoon?",
+      "context": "Sebastian vive en Cali y escribe su horario de un día de colegio.",
       "options": [
         {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "He gets up.",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all."
+          "feedback": "Incorrect. He gets up at 6:00 a.m., in the morning, not at four in the afternoon."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "He does his homework.",
+          "is_correct": true,
+          "feedback": "Correct. The text says he does his homework at 4:00 p.m., four in the afternoon."
+        },
+        {
+          "letter": "C",
+          "text": "He has lunch.",
           "is_correct": false,
-          "feedback": "'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle."
+          "feedback": "Incorrect. He has lunch at 12:30 p.m., not at 4:00 p.m."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "He goes to bed.",
           "is_correct": false,
-          "feedback": "'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle."
+          "feedback": "Incorrect. The text does not say when he goes to bed, and it is not at four in the afternoon."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "\"p.m.\" se usa para las horas después del mediodía. Las 4:00 p.m. son las cuatro de la tarde, y a esa hora Sebastian hace la tarea (\"does his homework\"). Las 6:00 a.m. son de la mañana.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.6,
       "bundle_id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The clock says 10:15. Which sentence is correct?",
+      "context": "El partido de fútbol del recreo en un colegio de Barranquilla empieza a las 10:15.",
       "options": [
         {
-          "letter": "C",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive."
-        },
-        {
           "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in."
+          "text": "It's quarter past ten.",
+          "is_correct": true,
+          "feedback": "Correct. Fifteen minutes after ten o'clock is quarter past ten."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "It's quarter to ten.",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for your plane, not the place where your belongings are inspected."
+          "feedback": "Incorrect. Quarter to ten is 9:45, fifteen minutes before ten."
+        },
+        {
+          "letter": "C",
+          "text": "It's half past ten.",
+          "is_correct": false,
+          "feedback": "Incorrect. Half past ten is 10:30, which is thirty minutes after ten."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "It's ten o'clock.",
           "is_correct": false,
-          "feedback": "'gate' is the door at the plane you walk through to board, not the place where officials check your things."
+          "feedback": "Incorrect. Ten o'clock is 10:00; this answer forgets the fifteen minutes."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Un cuarto de hora son 15 minutos. \"Quarter past ten\" es 10:15 (las diez y cuarto) y \"quarter to ten\" es 9:45 (un cuarto para las diez). Hay que fijarse en \"past\" (después) y \"to\" (antes).",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.56,
       "bundle_id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"School starts at 7:00 a.m. Maria arrives at half past seven.\" Is Maria on time?",
+      "context": "En un colegio de Santa Marta las clases empiezan a las siete de la mañana.",
       "options": [
         {
-          "letter": "C",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane."
-        },
-        {
           "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline."
+          "text": "No. She is late; she arrives thirty minutes after school starts.",
+          "is_correct": true,
+          "feedback": "Correct. Half past seven is 7:30, thirty minutes after 7:00, so she is late."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "Yes. She arrives at seven o'clock.",
           "is_correct": false,
-          "feedback": "'receipt' is the proof that you paid for something, which is not permission to board a plane."
+          "feedback": "Incorrect. The text says she arrives at half past seven, which is 7:30, not 7:00."
+        },
+        {
+          "letter": "C",
+          "text": "No. She is early; she arrives thirty minutes before school starts.",
+          "is_correct": false,
+          "feedback": "Incorrect. 7:30 is after 7:00, so she is not early but late."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "Yes. Half past seven is before seven o'clock.",
           "is_correct": false,
-          "feedback": "'brochure' is a leaflet with tourist information, not a travel document issued to a passenger."
+          "feedback": "Incorrect. Half past seven, 7:30, comes after seven o'clock."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Las clases empiezan a las 7:00 y Maria llega a las 7:30 (\"half past seven\"). Llega 30 minutos después, entonces llega tarde (\"late\"). \"On time\" significa a tiempo y \"early\" significa temprano.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.5,
       "bundle_id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses a.m. or p.m. correctly?",
+      "context": "La profesora de un colegio de Tunja pide escribir oraciones sobre la rutina con a.m. y p.m.",
       "options": [
         {
-          "letter": "B",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' means visiting the places of interest of a location as a traveler."
+          "letter": "A",
+          "text": "I eat breakfast at 7:00 p.m.",
+          "is_correct": false,
+          "feedback": "Incorrect. 7:00 p.m. is in the evening; breakfast is in the morning, so it needs a.m."
         },
         {
-          "letter": "A",
-          "text": "shopping",
+          "letter": "B",
+          "text": "I go to bed at 9:00 a.m.",
           "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place."
+          "feedback": "Incorrect. 9:00 a.m. is in the morning; bedtime at night needs p.m."
         },
         {
           "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city."
+          "text": "I eat dinner at 7:00 p.m.",
+          "is_correct": true,
+          "feedback": "Correct. Dinner is in the evening, and p.m. is for times after midday."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "I have lunch at 12:30 a.m.",
           "is_correct": false,
-          "feedback": "'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place."
+          "feedback": "Incorrect. 12:30 a.m. is after midnight; lunch at midday is 12:30 p.m."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "correct_answer": "C",
+      "explanation": "\"a.m.\" se usa desde la medianoche hasta el mediodía y \"p.m.\" desde el mediodía hasta la medianoche. La cena (\"dinner\") es en la noche, por eso \"7:00 p.m.\" es correcto. El desayuno sería a.m.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.45,
       "bundle_id": "CO-ING-3-2026-W31-telling-time-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",

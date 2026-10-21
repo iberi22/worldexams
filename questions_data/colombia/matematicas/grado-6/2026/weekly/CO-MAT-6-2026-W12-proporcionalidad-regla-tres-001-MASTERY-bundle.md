@@ -38,6 +38,7 @@ Este bundle de matemáticas trabaja la proporcionalidad directa e inversa y la r
   <!-- feedback: Explica el error conceptual: ser proporcionales no significa tener el mismo valor numérico. -->
 - [ ] D) Que no existe ninguna relación entre las dos magnitudes
   <!-- feedback: Explica el error conceptual: si no hay relación, no se puede hablar de proporcionalidad. -->
+
 ### Explicacion Pedagogica
 Dos magnitudes son directamente proporcionales cuando el cociente entre sus valores correspondientes es constante. Si una se duplica, la otra también se duplica, y esta regularidad es la base de la regla de tres directa.
 
@@ -50,14 +51,15 @@ Dos magnitudes son directamente proporcionales cuando el cociente entre sus valo
 ### Enunciado
 Si 2 cuadernos cuestan 6000 COP en una papelería de Medellín, ¿cuánto cuestan 4 cuadernos iguales al mismo precio unitario?
 ### Opciones
-- [x] D) 12000 COP
-  <!-- feedback: Explica por qué es correcta: al duplicar la cantidad, el precio se duplica porque es proporcionalidad directa. -->
 - [ ] A) 8000 COP
   <!-- feedback: Explica el error conceptual: suma solo 2000 COP en lugar de mantener la proporción doble. -->
 - [ ] B) 6000 COP
   <!-- feedback: Explica el error conceptual: mantiene el precio aunque aumenta la cantidad de cuadernos. -->
 - [ ] C) 10000 COP
   <!-- feedback: Explica el error conceptual: estima un valor intermedio sin aplicar el factor de proporcionalidad. -->
+- [x] D) 12000 COP
+  <!-- feedback: Explica por qué es correcta: al duplicar la cantidad, el precio se duplica porque es proporcionalidad directa. -->
+
 ### Explicacion Pedagogica
 En una situación de proporcionalidad directa, el valor total se obtiene multiplicando por el mismo factor. Como 4 es el doble de 2, el precio es el doble de 6000 COP, es decir 12000 COP.
 
@@ -70,14 +72,15 @@ En una situación de proporcionalidad directa, el valor total se obtiene multipl
 ### Enunciado
 Con el mismo precio unitario, ¿cuánto cuestan 7 pandebonos?
 ### Opciones
-- [x] B) 10500 COP
-  <!-- feedback: Explica por qué es correcta: cada pandebono cuesta 1500 COP y 7 por 1500 da 10500. -->
 - [ ] A) 9500 COP
   <!-- feedback: Explica el error conceptual: resta una cantidad arbitraria en vez de multiplicar el valor unitario. -->
+- [x] B) 10500 COP
+  <!-- feedback: Explica por qué es correcta: cada pandebono cuesta 1500 COP y 7 por 1500 da 10500. -->
 - [ ] C) 13500 COP
   <!-- feedback: Explica el error conceptual: multiplica por 9 en lugar de multiplicar por 7. -->
 - [ ] D) 7500 COP
   <!-- feedback: Explica el error conceptual: calcula el precio de 5 unidades y no de 7 unidades. -->
+
 ### Explicacion Pedagogica
 Primero se halla el valor unitario dividiendo 4500 entre 3, lo que da 1500 COP. Luego se multiplica 1500 por 7 para obtener 10500 COP. Este es el procedimiento básico de la regla de tres simple directa.
 
@@ -98,6 +101,7 @@ Con la misma medida por vaso, ¿cuántos vasos se sirven con 8 litros de jugo?
   <!-- feedback: Explica el error conceptual: supone 10 vasos más sin calcular el factor 8 quintos. -->
 - [ ] D) 25 vasos
   <!-- feedback: Explica el error conceptual: confunde la operación y divide en vez de multiplicar correctamente. -->
+
 ### Explicacion Pedagogica
 Se plantea la proporción 5 litros es a 20 vasos como 8 litros es a x. Se calcula x igual a 8 por 20 dividido en 5, lo que da 32 vasos. También se puede ver que cada litro rinde 4 vasos.
 
@@ -118,6 +122,7 @@ Si se contratan 6 recolectores al mismo ritmo, ¿cuántos días tardarán en la 
   <!-- feedback: Explica el error conceptual: resta 2 días de forma aditiva sin usar la relación inversa. -->
 - [ ] D) 9 días
   <!-- feedback: Explica el error conceptual: divide de forma incorrecta y no conserva el producto constante. -->
+
 ### Explicacion Pedagogica
 Cuando aumenta el número de trabajadores, el tiempo disminuye, por eso es proporcionalidad inversa. El producto se conserva: 4 por 12 es 48 jornadas. Al dividir 48 entre 6 se obtienen 8 días.
 
@@ -130,14 +135,15 @@ Cuando aumenta el número de trabajadores, el tiempo disminuye, por eso es propo
 ### Enunciado
 Analiza la tabla y determina cuántos metros se necesitan para 11 uniformes, manteniendo la proporción.
 ### Opciones
-- [x] D) 27.5 metros
-  <!-- feedback: Explica por qué es correcta: cada uniforme usa 2.5 metros y 11 por 2.5 da 27.5. -->
 - [ ] A) 25 metros
   <!-- feedback: Explica el error conceptual: supone 10 metros más sin calcular el valor unitario real. -->
 - [ ] B) 30 metros
   <!-- feedback: Explica el error conceptual: redondea hacia arriba y duplica la tela inicial de forma incorrecta. -->
 - [ ] C) 22 metros
   <!-- feedback: Explica el error conceptual: usa el doble de uniformes menos uno sin ajustar la proporción. -->
+- [x] D) 27.5 metros
+  <!-- feedback: Explica por qué es correcta: cada uniforme usa 2.5 metros y 11 por 2.5 da 27.5. -->
+
 ### Explicacion Pedagogica
 El análisis parte del valor unitario: 15 dividido en 6 es 2.5 metros por uniforme. Para 11 uniformes se multiplica 11 por 2.5, lo que da 27.5 metros. Verificar la constante de proporcionalidad evita errores aditivos.
 
@@ -158,6 +164,7 @@ Si por el tráfico el bus solo puede ir a 30 kilómetros por hora en el mismo tr
   <!-- feedback: Explica el error conceptual: suma 10 minutos de forma aditiva sin analizar la relación inversa. -->
 - [ ] D) 90 minutos
   <!-- feedback: Explica el error conceptual: multiplica por un factor equivocado y sobrestima el tiempo total. -->
+
 ### Explicacion Pedagogica
 Velocidad y tiempo son inversamente proporcionales cuando la distancia es fija. El producto distancia es 40 por 60 igual a 2400. Al dividir 2400 entre 30 se obtienen 80 minutos. Analizar si la relación es directa o inversa es clave antes de operar.
 
@@ -178,6 +185,7 @@ Velocidad y tiempo son inversamente proporcionales cuando la distancia es fija. 
   <!-- feedback: Explica el error conceptual: asigna a B el valor unitario de A por no dividir correctamente. -->
 - [ ] D) Ambas valen lo mismo, a 1900 COP por panela
   <!-- feedback: Explica el error conceptual: promedia sin fundamento y no calcula cada valor unitario. -->
+
 ### Explicacion Pedagogica
 Para comparar se calcula el precio unitario de cada oferta. La oferta A da 8000 dividido en 4 igual a 2000 COP. La oferta B da 10800 dividido en 6 igual a 1800 COP. Por tanto conviene la oferta B. Analizar el valor unitario permite decidir con criterio proporcional.
 
@@ -190,14 +198,15 @@ Para comparar se calcula el precio unitario de cada oferta. La oferta A da 8000 
 ### Enunciado
 Evalúa la afirmación y justifica si el razonamiento proporcional es válido.
 ### Opciones
-- [x] A) Es válida, porque 120 entre 3 es 40 cajas por empleado y 40 por 5 es 200
-  <!-- feedback: Explica por qué es correcta: verifica la constante de proporcionalidad y confirma la regla directa. -->
-- [ ] B) Es válida, porque 5 empleados son 2 más y 120 más 2 es 122
+- [ ] A) Es válida, porque 5 empleados son 2 más y 120 más 2 es 122
   <!-- feedback: Explica el error conceptual: usa suma aditiva en lugar de razonamiento multiplicativo proporcional. -->
+- [x] B) Es válida, porque 120 entre 3 es 40 cajas por empleado y 40 por 5 es 200
+  <!-- feedback: Explica por qué es correcta: verifica la constante de proporcionalidad y confirma la regla directa. -->
 - [ ] C) No es válida, porque con más empleados el total de cajas disminuye
   <!-- feedback: Explica el error conceptual: confunde proporcionalidad directa con inversa en este caso. -->
 - [ ] D) No es válida, porque 120 entre 5 es 24 y ese sería el total
   <!-- feedback: Explica el error conceptual: divide el total original entre el nuevo número sin hallar el valor unitario. -->
+
 ### Explicacion Pedagogica
 Evaluar exige comprobar la constante: 120 cajas entre 3 empleados da 40 cajas por empleado. Manteniendo ese ritmo, 5 empleados producen 200 cajas. El razonamiento es directamente proporcional y la afirmación está bien justificada.
 
@@ -210,13 +219,14 @@ Evaluar exige comprobar la constante: 120 cajas entre 3 empleados da 40 cajas po
 ### Enunciado
 ¿Quién tiene razón y qué tipo de proporcionalidad justifica la respuesta?
 ### Opciones
-- [x] C) Ana, porque es proporcionalidad inversa y el tiempo se reduce a la mitad
-  <!-- feedback: Explica por qué es correcta: más grifos reducen el tiempo, 6 dividido en 2 es 3 horas. -->
 - [ ] A) Luis, porque es proporcionalidad directa y el tiempo se duplica
   <!-- feedback: Explica el error conceptual: aplica relación directa cuando más caudal reduce el tiempo. -->
 - [ ] B) Ana, porque es proporcionalidad directa y el tiempo se mantiene igual
   <!-- feedback: Explica el error conceptual: acierta el valor pero justifica con el tipo de relación equivocado. -->
+- [x] C) Ana, porque es proporcionalidad inversa y el tiempo se reduce a la mitad
+  <!-- feedback: Explica por qué es correcta: más grifos reducen el tiempo, 6 dividido en 2 es 3 horas. -->
 - [ ] D) Ninguno, porque con dos grifos el tanque se llena en 6 horas también
   <!-- feedback: Explica el error conceptual: supone que el segundo grifo no aporta caudal adicional. -->
+
 ### Explicacion Pedagogica
 El caudal total se duplica con dos grifos, así que el tiempo se reduce a la mitad: es proporcionalidad inversa. Evaluar el argumento implica identificar primero el tipo de relación y luego calcular 6 dividido en 2 igual a 3 horas, por lo que Ana tiene razón.

@@ -250,9 +250,9 @@
         },
         {
           "letter": "B",
-          "text": "They took the bus.",
-          "is_correct": true,
-          "feedback": "Correct! \"Took\" is the past of \"take\"."
+          "text": "They walked.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says they \"took the bus\"."
         },
         {
           "letter": "C",
@@ -262,12 +262,12 @@
         },
         {
           "letter": "D",
-          "text": "They walked.",
-          "is_correct": false,
-          "feedback": "Incorrect. The text says they \"took the bus\"."
+          "text": "They took the bus.",
+          "is_correct": true,
+          "feedback": "Correct! \"Took\" is the past of \"take\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student applies reading skills to understand actions described with irregular past verbs.\n\n---",
       "difficulty": "8",
       "images": [],

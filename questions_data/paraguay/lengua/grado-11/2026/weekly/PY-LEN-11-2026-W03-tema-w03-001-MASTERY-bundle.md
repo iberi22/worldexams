@@ -104,16 +104,16 @@ El conector 'ademas' anade informacion.
 **Contexto:** Clase de lenguaje en PY.
 
 ### Enunciado
-¿Cual oracion esta correctamente escrita?
+¿Qué oración nombra la institución con su nombre propio completo, escrito con mayúscula inicial en cada palabra?
 
 ### Opciones
-- [x] D) Los estudiantes del Colegio Nacional Hernandarias estudian mucho. <!-- feedback: Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'. -->
 - [ ] A) Los estudiantes de la escuela estudian poco. <!-- feedback: Incorrecto. La oracion esta bien redactada y con buena concordancia, pero 'la escuela' es un nombre comun que puede designar cualquier centro; el enunciado pide el nombre propio completo de la institucion, y aqui no aparece. -->
 - [ ] B) Los estudiantes del instituto no estudian nada. <!-- feedback: Incorrecto. 'El instituto' vuelve a sustituir el nombre propio por una denominacion generica. La negacion 'no estudian nada' es correcta, pero no aporta el dato que el enunciado evalua. -->
 - [ ] C) Los estudiantes del instituto estudian mucho. <!-- feedback: Incorrecto. Comparte con la correcta la concordancia y el verbo 'estudian mucho', y se diferencia en un solo punto decisivo: emplea 'el instituto', un nombre comun, en lugar del nombre oficial completo. -->
+- [x] D) Los estudiantes del Colegio Nacional Hernandarias estudian mucho. <!-- feedback: Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'. -->
 
 ### Explicacion Pedagogica
-La opcion A sigue las normas ortograficas correctamente.
+'Colegio Nacional Hernandarias' es un nombre propio: identifica un colegio concreto y por eso cada palabra significativa va con mayúscula inicial. 'La escuela' o 'el instituto' son nombres comunes que pueden designar cualquier centro, así que esas oraciones, aunque tengan buena concordancia, no identifican la institución.
 
 ---
 
@@ -248,8 +248,8 @@ Lorca utiliza la estructura del romance tradicional para crear un poema narrativ
 En el Colegio Nacional Pilar de Pilar, analizando un texto. ¿Cual es la idea principal?
 
 ### Opciones
-- [x] B) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen. -->
 - [ ] A) El agua solo se usa para beber <!-- feedback: Incorrecto. Reduce el agua a un solo uso domestico. El texto la presenta como recurso vital para la vida en general, no unicamente como algo con que beber. -->
+- [x] B) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen. -->
 - [ ] C) El agua no es importante <!-- feedback: Incorrecto. Contradice de frente al texto: si el agua careciera de importancia, no tendria sentido que el texto insistiera en su cuidado. Una idea principal entre las opciones no puede negar lo que el propio texto afirma. -->
 - [ ] D) El agua es un recurso infinito <!-- feedback: Incorrecto. Afirma que el agua es inagotable y con ello borra la necesidad de cuidarla, que es justamente la tesis que el texto sostiene. -->
 
@@ -315,10 +315,10 @@ La función metalingüística predomina cuando el lenguaje se emplea para explic
 Identifica el conector: Salto del Guaira es hermosa, ____ su gente es acogedora.
 
 ### Opciones
-- [x] D) ademas <!-- feedback: Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Salto del Guaira y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro. -->
 - [ ] A) sin embargo <!-- feedback: Incorrecto. 'Sin embargo' es adversativo: introduce una idea que se opone a lo que se habia dicho. En esta oracion las dos proposiciones se refuerzan, porque la gente de Salto del Guaira no contradice a su ciudad, asi que una oposicion seria falsa. -->
 - [ ] B) por lo tanto <!-- feedback: Incorrecto. 'Por lo tanto' es conclusivo: la segunda proposicion deduce una consecuencia de la primera. Aqui no hay deduccion, sino dos caracteristicas de Salto del Guaira que se acumulan sin derivarse una de otra. -->
 - [ ] C) aunque <!-- feedback: Incorrecto. 'Aunque' introduce una concesion: lo que va detras se opone a lo esperado. La segunda proposicion no contradice la primera, la completa, asi que este conector tampoco corresponde. -->
+- [x] D) ademas <!-- feedback: Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Salto del Guaira y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro. -->
 
 ### Explicacion Pedagogica
 El conector 'ademas' anade informacion.
@@ -336,10 +336,10 @@ El conector 'ademas' anade informacion.
 ¿Cuál de las siguientes preguntas interrogativas lleva correctamente la tilde diacrítica?
 
 ### Opciones
-- [x] D) ¿Cuánto dura el viaje a San Juan Bautista? <!-- feedback: Correcto. 'Cuánto' es tónico en la interrogación, así que lleva tilde diacrítica obligatoria; esa tilde es lo que lo distingue del relativo 'cuanto', que se escribe sin ella. -->
 - [ ] A) ¿Cuanto dura el viaje a San Juan Bautista? <!-- feedback: Incorrecto. Al ser una pregunta interrogativa tónica, 'cuanto' debe llevar tilde diacrítica; sin ella se lee como el adverbio de cantidad. -->
 - [ ] B) ¿Cuanto tiempo dedico al estudio? <!-- feedback: Incorrecto. 'Cuanto tiempo' introduce una expresión interrogativa tónica, así que la primera palabra lleva tilde diacrítica obligatoria. -->
 - [ ] C) ¿Cuando llega el colectivo? <!-- feedback: Incorrecto. 'Cuando' introduce una pregunta y es tónico, así que también lleva tilde diacrítica; sin ella se lee como el relativo temporal 'cuando'. -->
+- [x] D) ¿Cuánto dura el viaje a San Juan Bautista? <!-- feedback: Correcto. 'Cuánto' es tónico en la interrogación, así que lleva tilde diacrítica obligatoria; esa tilde es lo que lo distingue del relativo 'cuanto', que se escribe sin ella. -->
 
 ### Explicacion Pedagogica
 Los pronombres y adverbios interrogativos tónicos (qué, cómo, cuándo, cuánto, dónde, quién) llevan tilde diacrítica para distinguirse de sus homófonos relativos.
@@ -475,8 +475,8 @@ La evidencia más pertinente conecta la propuesta con una necesidad comprobable 
 En el Colegio Nacional del Alto Parana de Ciudad del Este, un texto recomienda cerrar las llaves del agua y apagar las luces al salir de cada aula. ¿Cual es la idea principal?
 
 ### Opciones
-- [x] A) Ahorrar agua y energia en la escuela exige un compromiso cotidiano de todos. <!-- feedback: Correcto. La idea principal reune las dos recomendaciones del texto en una sola idea: el ahorro se consigue solo si cada estudiante lo asume a diario. -->
-- [ ] B) El agua de la escuela se desperdicia por culpa del personal de limpieza. <!-- feedback: Incorrecto. Atribuye la causa a un grupo concreto que el texto no menciona y convierte una recomendación general en una acusación. -->
+- [ ] A) El agua de la escuela se desperdicia por culpa del personal de limpieza. <!-- feedback: Incorrecto. Atribuye la causa a un grupo concreto que el texto no menciona y convierte una recomendación general en una acusación. -->
+- [x] B) Ahorrar agua y energia en la escuela exige un compromiso cotidiano de todos. <!-- feedback: Correcto. La idea principal reune las dos recomendaciones del texto en una sola idea: el ahorro se consigue solo si cada estudiante lo asume a diario. -->
 - [ ] C) La innovacion de la escuela depende de conseguir más presupuesto externo. <!-- feedback: Incorrecto. Introduce un asunto que el texto no trata: el texto habla de hábitos de ahorro, no de fuentes de financiamiento ni de presupuesto. -->
 - [ ] D) El ahorro de agua y energia es innecesario si la escuela es grande. <!-- feedback: Incorrecto. Afirma lo contrario de lo que sostiene el texto, que recomienda justamente evitar esos consumos con la intención de reducirlos. -->
 

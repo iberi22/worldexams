@@ -785,9 +785,9 @@
         },
         {
           "letter": "B",
-          "text": "7",
-          "is_correct": true,
-          "feedback": "Correto: a maior distância é d(P, C) + r = 5 + 2 = 7."
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorreto: 2 é o raio da circunferência."
         },
         {
           "letter": "C",
@@ -797,12 +797,12 @@
         },
         {
           "letter": "D",
-          "text": "2",
-          "is_correct": false,
-          "feedback": "Incorreto: 2 é o raio da circunferência."
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correto: a maior distância é d(P, C) + r = 5 + 2 = 7."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "A distância de P ao centro é d = √((4 − 1)² + (6 − 2)²) = √(9 + 16) = 5. O ponto mais afastado da circunferência está na direção que prolonga o raio, a uma distância d + r = 5 + 2 = 7.",
       "difficulty": "10",
       "images": [],
@@ -869,9 +869,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Externas, pois a distância entre os centros é maior que a soma dos raios",
-          "is_correct": true,
-          "feedback": "Correto: d = 6 e r1 + r2 = 5, logo d > r1 + r2 e as circunferências não se intersectam."
+          "text": "Secantes, pois a distância entre os centros é menor que a soma dos raios",
+          "is_correct": false,
+          "feedback": "Incorreto: para serem secantes, d deve ser menor que 5 e maior que 1."
         },
         {
           "letter": "B",
@@ -881,9 +881,9 @@
         },
         {
           "letter": "C",
-          "text": "Secantes, pois a distância entre os centros é menor que a soma dos raios",
-          "is_correct": false,
-          "feedback": "Incorreto: para serem secantes, d deve ser menor que 5 e maior que 1."
+          "text": "Externas, pois a distância entre os centros é maior que a soma dos raios",
+          "is_correct": true,
+          "feedback": "Correto: d = 6 e r1 + r2 = 5, logo d > r1 + r2 e as circunferências não se intersectam."
         },
         {
           "letter": "D",
@@ -892,7 +892,7 @@
           "feedback": "Incorreto: isso exigiria d + r2 < r1, ou seja, 6 + 2 < 3, o que é falso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Os centros são (1, 1) e (7, 1), com distância d = 6. Os raios são 3 e 2, com soma 5. Como d > r1 + r2, as circunferências são externas, sem pontos em comum.",
       "difficulty": "10",
       "images": [],

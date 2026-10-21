@@ -224,8 +224,8 @@ Si la tesis de alguien es: "Los videojuegos deben prohibirse porque vuelven viol
 ### Opciones
 - [ ] A) "A mí me gustan los videojuegos y juego todos los días". <!-- feedback: Incorrecto. Es un gusto personal, no invalida la tesis de la violencia. -->
 - [ ] B) "Los videojuegos son caros en Colombia". <!-- feedback: Incorrecto. El precio no tiene relación con el argumento de la violencia. -->
-- [x] C) "Muchos videojuegos educativos fomentan el pensamiento lógico y la coordinación; además, no hay estudios científicos definitivos que prueben una relación directa entre el juego y la violencia real". <!-- feedback: Correcto. Ataca la base del argumento contrario con otros beneficios y cuestionando la evidencia. -->
-- [ ] D) "Usted no sabe nada de videojuegos porque ya está muy viejo". <!-- feedback: Incorrecto. Es un ataque personal (*ad hominem*), no es un contraargumento válido sobre el tema. -->
+- [ ] C) "Usted no sabe nada de videojuegos porque ya está muy viejo". <!-- feedback: Incorrecto. Es un ataque personal (*ad hominem*), no es un contraargumento válido sobre el tema. -->
+- [x] D) "Muchos videojuegos educativos fomentan el pensamiento lógico y la coordinación; además, no hay estudios científicos definitivos que prueben una relación directa entre el juego y la violencia real". <!-- feedback: Correcto. Ataca la base del argumento contrario con otros beneficios y cuestionando la evidencia. -->
 
 ### Explicacion Pedagogica
 Aprender a contraargumentar es vital para el pensamiento crítico. No se trata de atacar a la persona que habla, sino de encontrar las debilidades en su lógica o presentar información nueva que demuestre que su tesis no es totalmente cierta o tiene excepciones importantes.

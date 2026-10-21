@@ -19,12 +19,6 @@
           "feedback": "Incorrect. This is for superlatives."
         },
         {
-          "letter": "D",
-          "text": "-er",
-          "is_correct": true,
-          "feedback": "Correct! We add -er to short adjectives for comparisons."
-        },
-        {
           "letter": "B",
           "text": "-ing",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "-ed",
           "is_correct": false,
           "feedback": "Incorrect. This is for past tense."
+        },
+        {
+          "letter": "D",
+          "text": "-er",
+          "is_correct": true,
+          "feedback": "Correct! We add -er to short adjectives for comparisons."
         }
       ],
       "correct_answer": "D",
@@ -59,16 +59,16 @@
       "context": "Using \"more\" with long adjectives.",
       "options": [
         {
-          "letter": "B",
-          "text": "Very",
-          "is_correct": false,
-          "feedback": "Incorrect. This just intensifies the adjective."
-        },
-        {
           "letter": "A",
           "text": "More",
           "is_correct": true,
           "feedback": "Correct! We use \"more\" for adjectives with two or more syllables."
+        },
+        {
+          "letter": "B",
+          "text": "Very",
+          "is_correct": false,
+          "feedback": "Incorrect. This just intensifies the adjective."
         },
         {
           "letter": "C",
@@ -111,12 +111,6 @@
           "feedback": "Incorrect. \"Cold\" is a short adjective, so it needs -er."
         },
         {
-          "letter": "D",
-          "text": "colder",
-          "is_correct": true,
-          "feedback": "Correct! Comparative form of a short adjective."
-        },
-        {
           "letter": "B",
           "text": "coldest",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "as cold",
           "is_correct": false,
           "feedback": "Incorrect. Missing the second \"as\" and \"than\" is already present."
+        },
+        {
+          "letter": "D",
+          "text": "colder",
+          "is_correct": true,
+          "feedback": "Correct! Comparative form of a short adjective."
         }
       ],
       "correct_answer": "D",
@@ -157,12 +157,6 @@
           "feedback": "Incorrect. This shows superiority."
         },
         {
-          "letter": "D",
-          "text": "as...as",
-          "is_correct": true,
-          "feedback": "Correct! This structure expresses equality (e.g., as tall as)."
-        },
-        {
           "letter": "B",
           "text": "er...than",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "most...of",
           "is_correct": false,
           "feedback": "Incorrect. This is for superlatives."
+        },
+        {
+          "letter": "D",
+          "text": "as...as",
+          "is_correct": true,
+          "feedback": "Correct! This structure expresses equality (e.g., as tall as)."
         }
       ],
       "correct_answer": "D",
@@ -197,6 +197,12 @@
       "context": "Comparing irregular adjectives.",
       "options": [
         {
+          "letter": "A",
+          "text": "better",
+          "is_correct": true,
+          "feedback": "Correct! \"Better\" is the irregular comparative of \"good\"."
+        },
+        {
           "letter": "B",
           "text": "more good",
           "is_correct": false,
@@ -207,12 +213,6 @@
           "text": "gooder",
           "is_correct": false,
           "feedback": "Incorrect. \"Good\" is irregular."
-        },
-        {
-          "letter": "A",
-          "text": "better",
-          "is_correct": true,
-          "feedback": "Correct! \"Better\" is the irregular comparative of \"good\"."
         },
         {
           "letter": "D",
@@ -289,16 +289,16 @@
       "context": "Using a long adjective in a classroom context.",
       "options": [
         {
-          "letter": "B",
-          "text": "difficulter",
-          "is_correct": false,
-          "feedback": "Incorrect. Adjectives with 3 syllables don't take -er."
-        },
-        {
           "letter": "A",
           "text": "more difficult",
           "is_correct": true,
           "feedback": "Correct! \"Difficult\" is a long adjective, so it needs \"more\"."
+        },
+        {
+          "letter": "B",
+          "text": "difficulter",
+          "is_correct": false,
+          "feedback": "Incorrect. Adjectives with 3 syllables don't take -er."
         },
         {
           "letter": "C",
@@ -335,16 +335,16 @@
       "context": "Analyzing spelling rules for short adjectives.",
       "options": [
         {
-          "letter": "B",
-          "text": "My dog is biger than your cat.",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Big\" is CVC, so double the 'g'."
-        },
-        {
           "letter": "A",
           "text": "My dog is bigger than your cat.",
           "is_correct": true,
           "feedback": "Correct! CVC adjectives double the last consonant before -er."
+        },
+        {
+          "letter": "B",
+          "text": "My dog is biger than your cat.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Big\" is CVC, so double the 'g'."
         },
         {
           "letter": "C",
@@ -381,16 +381,16 @@
       "context": "Comparing two people based on a description.\n\n\"Mateo is 14 years old and loves reading. Luis is 14 years old and loves sports. Mateo is as old as Luis, but Luis is more active.\"",
       "options": [
         {
-          "letter": "B",
-          "text": "Luis is older than Mateo.",
-          "is_correct": false,
-          "feedback": "Incorrect. They are both 14."
-        },
-        {
           "letter": "A",
           "text": "Mateo and Luis have the same age.",
           "is_correct": true,
           "feedback": "Correct! The text says \"Mateo is as old as Luis\"."
+        },
+        {
+          "letter": "B",
+          "text": "Luis is older than Mateo.",
+          "is_correct": false,
+          "feedback": "Incorrect. They are both 14."
         },
         {
           "letter": "C",
@@ -427,22 +427,22 @@
       "context": "Evaluating a marketing claim.\n\n\"Product X is cheaper than Product Y, but Product Y is more durable and as easy to use as Product X.\"",
       "options": [
         {
+          "letter": "A",
+          "text": "Both are the same in every way.",
+          "is_correct": false,
+          "feedback": "Incorrect. There are clear differences in price and durability."
+        },
+        {
           "letter": "B",
           "text": "Product X",
           "is_correct": false,
           "feedback": "Incorrect. It is cheaper, but not as durable."
         },
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Product Y",
           "is_correct": true,
           "feedback": "Correct! It is \"more durable\" (long-lasting) and \"as easy to use\"."
-        },
-        {
-          "letter": "C",
-          "text": "Both are the same in every way.",
-          "is_correct": false,
-          "feedback": "Incorrect. There are clear differences in price and durability."
         },
         {
           "letter": "D",
@@ -451,7 +451,7 @@
           "feedback": "Incorrect. The text says they are both easy to use."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "The student evaluates a set of comparative and equality claims to make a decision based on specific priorities.",
       "difficulty": "10",
       "images": [],

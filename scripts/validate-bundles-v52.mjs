@@ -449,6 +449,77 @@ export function checkAnswerKeyVerdicts(qText) {
   return null;
 }
 
+// ---------------------------------------------------------------------------
+// The explanation must not name a different answer than the [x] marker.
+//
+// checkAnswerKeyVerdicts compares the key with the feedback verdicts. It cannot
+// see an explanation that names the answer by its letter, and that sentence goes
+// stale the moment the options are relabelled: CO-SOC-7 W10 Q10 kept "La
+// respuesta correcta es la B." after its key moved to A, and on develop
+// CO-LC-6 W24 Q5 said "La opción C es la correcta" while [x] sat on a
+// plagiarism distractor. Both passed every rule.
+//
+// Two strengths, because the letters are also named for honest reasons:
+//   - an assertion that a letter IS the answer ("la respuesta correcta es la B",
+//     "la opción C es la correcta", "Answer: D") must name the key -> error;
+//   - a bare mention ("la opción A describe otro fenómeno") is usually a walk
+//     through the distractors, so it is only a warning, and only when it does
+//     not already name all three distractors.
+// Letters are matched in uppercase only: "la respuesta a la pregunta" is Spanish
+// grammar, not option A. Labels that are not options (Snack A, punto B,
+// Laptop C) never follow an answer noun and are not matched.
+// ---------------------------------------------------------------------------
+const ci = (word) => word.replace(/\p{L}/gu, (c) => `[${c.toLowerCase()}${c.toUpperCase()}]`);
+const anyOf = (words) => `(?:${words.map(ci).join('|')})`;
+const ANSWER_NOUN = anyOf(['respuesta', 'opción', 'opcion', 'alternativa', 'literal', 'clave', 'letra', 'answer', 'option', 'choice', 'resposta', 'opção', 'opcao']);
+const CORRECT_WORD = anyOf(['correcta', 'correcto', 'correct', 'right', 'certa', 'adecuada', 'válida', 'valida']);
+const IS_WORD = anyOf(['es', 'is', 'é', 'era', 'was']);
+const ARTICLE = `(?:${anyOf(['la', 'el', 'a', 'the', 'o'])}\\s+)?`;
+const OPTION_LETTER = '\\(?([A-D])\\)?(?![\\p{L}\\d])';
+const ANSWER_LETTER_ASSERTIONS = [
+  // "La respuesta correcta es la B", "The correct answer is C", "A alternativa certa é a D"
+  new RegExp(`${ANSWER_NOUN}\\s+${CORRECT_WORD}\\s+${IS_WORD}\\s+${ARTICLE}(?:${ANSWER_NOUN}\\s+)?${OPTION_LETTER}`, 'gu'),
+  // English order: "The correct answer is C", "the right option is (B)"
+  new RegExp(`${CORRECT_WORD}\\s+${ANSWER_NOUN}\\s+${IS_WORD}\\s+${ARTICLE}(?:${ANSWER_NOUN}\\s+)?${OPTION_LETTER}`, 'gu'),
+  // "La opción C es la correcta", "Option B is correct"
+  new RegExp(`${ANSWER_NOUN}\\s+${OPTION_LETTER}\\s+${IS_WORD}\\s+${ARTICLE}(?:${ANSWER_NOUN}\\s+)?${CORRECT_WORD}`, 'gu'),
+  // "Respuesta: B", "Answer: C", "Clave: D"
+  new RegExp(`${anyOf(['respuesta', 'answer', 'clave', 'key', 'gabarito'])}\\s*:\\s*${OPTION_LETTER}`, 'gu'),
+];
+const OPTION_MENTION = new RegExp(`${anyOf(['opción', 'opcion', 'option', 'alternativa', 'literal', 'inciso', 'opção', 'opcao'])}\\s+${OPTION_LETTER}`, 'gu');
+
+export function checkExplanationLetter(qText) {
+  const marked = [...String(qText || '').matchAll(/^- \[[xX]\]\s*([A-D])\)/gm)].map((m) => m[1]);
+  if (marked.length !== 1) return null;
+  const key = marked[0];
+  const m = String(qText).match(/###\s+Explicaci[oó]n Pedag[oó]gica\s*([\s\S]*?)$/i);
+  const explanation = m ? m[1] : '';
+  if (!explanation) return null;
+
+  const asserted = new Set();
+  for (const re of ANSWER_LETTER_ASSERTIONS) {
+    for (const hit of explanation.matchAll(re)) asserted.add(hit[1]);
+  }
+  if (asserted.size) {
+    if (asserted.has(key)) return null;
+    return {
+      rule: 'explanation-letter-mismatch',
+      level: 'error',
+      message: `the explanation says the answer is ${[...asserted].join(', ')} but option ${key} is marked [x]`,
+    };
+  }
+
+  const mentioned = new Set([...explanation.matchAll(OPTION_MENTION)].map((hit) => hit[1]));
+  if (mentioned.size && mentioned.size < 3 && !mentioned.has(key)) {
+    return {
+      rule: 'explanation-letter-unverified',
+      level: 'warning',
+      message: `the explanation names option ${[...mentioned].join(', ')} and never the key ${key}; check it is not describing a stale answer`,
+    };
+  }
+  return null;
+}
+
 export function checkAnswerLetterBias(correctLetters, totalQuestions) {
   if (totalQuestions < 8) return null;
 
@@ -980,6 +1051,13 @@ export function validateFile(file, opts = { strictQuality: false, corpusHashMap:
     // feedback rules, and still ships an answer the bundle declares wrong.
     const verdictCheck = checkAnswerKeyVerdicts(q.text);
     if (verdictCheck) errors.push(`ERROR [${verdictCheck.rule}] ${prefix}: ${verdictCheck.message}`);
+
+    // An explanation that names the answer by letter must name the [x] option.
+    const letterCheck = checkExplanationLetter(q.text);
+    if (letterCheck) {
+      if (letterCheck.level === 'error') errors.push(`ERROR [${letterCheck.rule}] ${prefix}: ${letterCheck.message}`);
+      else warnings.push(`WARNING [${letterCheck.rule}] ${prefix}: ${letterCheck.message}`);
+    }
   });
 
   if (checkExplanationTemplate(allExplanations)) {

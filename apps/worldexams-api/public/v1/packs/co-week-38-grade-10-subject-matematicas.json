@@ -480,9 +480,9 @@
         },
         {
           "letter": "B",
-          "text": "Es incorrecta; dos vectores con igual magnitud pueden tener direcciones distintas y, por tanto, no ser iguales.",
-          "is_correct": true,
-          "feedback": "Correcto. Por ejemplo, $(3, 4)$ y $(4, -3)$ tienen la misma magnitud $5$, pero son vectores distintos."
+          "text": "Es correcta solo cuando el origen es el mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El origen no afecta la igualdad de vectores; lo que importa es el par de componentes."
         },
         {
           "letter": "C",
@@ -492,12 +492,12 @@
         },
         {
           "letter": "D",
-          "text": "Es correcta solo cuando el origen es el mismo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El origen no afecta la igualdad de vectores; lo que importa es el par de componentes."
+          "text": "Es incorrecta; dos vectores con igual magnitud pueden tener direcciones distintas y, por tanto, no ser iguales.",
+          "is_correct": true,
+          "feedback": "Correcto. Por ejemplo, $(3, 4)$ y $(4, -3)$ tienen la misma magnitud $5$, pero son vectores distintos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La igualdad entre vectores exige que sus componentes coincidan. Por eso, $(3, 4) \\neq (4, -3)$ aunque ambos tengan magnitud $5$. La dirección es una característica esencial que distingue a un vector de otro.",
       "difficulty": "10",
       "images": [],

@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle-v1",
-      "statement": "Dada la segunda derivada $f''(x) = 6x - 6$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).",
-      "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
+      "statement": "Si $f''(t) > 0$ en el intervalo $(2, 6)$, ¿qué se puede afirmar con certeza sobre la gráfica de $f$ en ese intervalo?",
+      "context": "En un laboratorio de la Universidad de Antioquia se grafica la temperatura de un cultivo $f(t)$ y se sabe que $f''(t) > 0$ en todo el intervalo $(2, 6)$ horas.",
       "options": [
         {
-          "letter": "B",
-          "text": "En el intervalo $(1, \\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
+          "letter": "A",
+          "text": "La temperatura $f$ es creciente en todo el intervalo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El crecimiento de $f$ depende del signo de $f'$, no de $f''$; una curva puede bajar y ser cóncava hacia arriba, como $x^2$ en $x<0$."
         },
         {
-          "letter": "A",
-          "text": "En el intervalo $(-\\infty, 1)$",
+          "letter": "B",
+          "text": "Es cóncava hacia abajo, porque la segunda derivada es mayor que cero",
           "is_correct": false,
-          "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
+          "feedback": "Incorrecto. Invertiste la regla: $f''>0$ corresponde a concavidad hacia arriba; la concavidad hacia abajo exige $f''<0$."
         },
         {
           "letter": "C",
-          "text": "Únicamente en el punto $x = 1$",
-          "is_correct": false,
-          "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
+          "text": "Es cóncava hacia arriba, porque su pendiente $f'$ va en aumento",
+          "is_correct": true,
+          "feedback": "Correcto. Una segunda derivada positiva significa que $f'$ crece; las tangentes giran en sentido antihorario y la curva se abre hacia arriba."
         },
         {
           "letter": "D",
-          "text": "En todo el conjunto de los números reales",
+          "text": "La temperatura $f$ es decreciente en todo el intervalo",
           "is_correct": false,
-          "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
+          "feedback": "Incorrecto. Que $f$ decrezca exige $f'<0$; el dato $f''>0$ solo dice que la pendiente aumenta, sea positiva o negativa."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 6 > 0 \\implies 6x > 6 \\implies x > 1$, es decir, el intervalo $(1, \\infty)$.",
+      "correct_answer": "C",
+      "explanation": "La segunda derivada es la derivada de la pendiente. Si $f''(t)>0$ en $(2,6)$, entonces $f'$ es creciente en ese intervalo y la gráfica es cóncava hacia arriba (forma de copa). El signo de $f''$ no informa si $f$ sube o baja: eso lo dice $f'$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Algebraico",
+      "icfes_type": "Variacional",
       "expected_success": 0.85,
       "bundle_id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle",
       "periodo": 17,
@@ -55,42 +55,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle-v2",
-      "statement": "Dada la segunda derivada $f''(x) = 6x - 12$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).",
-      "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
+      "statement": "¿En qué intervalo la gráfica de $f(x) = x^3 - 6x^2 + 5$ es cóncava hacia abajo?",
+      "context": "Una cooperativa cafetera de Manizales modela su producción acumulada con $f(x) = x^3 - 6x^2 + 5$, donde $x$ son semanas de cosecha.",
       "options": [
         {
-          "letter": "D",
-          "text": "En el intervalo $(2, \\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
-        },
-        {
           "letter": "A",
-          "text": "En el intervalo $(-\\infty, 2)$",
-          "is_correct": false,
-          "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
+          "text": "$(-\\infty, 2)$",
+          "is_correct": true,
+          "feedback": "Correcto. $f''(x) = 6x - 12 < 0$ equivale a $x < 2$, así que la curva es cóncava hacia abajo en $(-\\infty, 2)$."
         },
         {
           "letter": "B",
-          "text": "Únicamente en el punto $x = 2$",
+          "text": "$(2, \\infty)$",
           "is_correct": false,
-          "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
+          "feedback": "Incorrecto. En $(2,\\infty)$ se cumple $6x-12>0$; ese es el intervalo de concavidad hacia arriba, invertiste el signo de la desigualdad."
         },
         {
           "letter": "C",
-          "text": "En todo el conjunto de los números reales",
+          "text": "$(0, 4)$",
           "is_correct": false,
-          "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
+          "feedback": "Incorrecto. $(0,4)$ es donde $f'(x) = 3x^2 - 12x = 3x(x-4)$ es negativa, es decir, donde $f$ decrece; confundiste decrecimiento con concavidad."
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $(-\\infty, 0)$ la función crece porque $f'>0$ allí; ese intervalo sale de estudiar $f'$, no del signo de $f''(x) = 6x - 12$."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 12 > 0 \\implies 6x > 12 \\implies x > 2$, es decir, el intervalo $(2, \\infty)$.",
+      "correct_answer": "A",
+      "explanation": "Se deriva dos veces: $f'(x) = 3x^2 - 12x$ y $f''(x) = 6x - 12$. La curva es cóncava hacia abajo donde $f''(x) < 0$: $6x - 12 < 0 \\Rightarrow x < 2$. Por tanto el intervalo es $(-\\infty, 2)$ y en $x = 2$ hay un punto de inflexión.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Razonamiento",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.83,
       "bundle_id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle-v3",
-      "statement": "Dada la segunda derivada $f''(x) = 6x - 18$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).",
-      "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
+      "statement": "Si $G'(c) = 0$ y $G''(c) < 0$, ¿qué concluye el criterio de la segunda derivada sobre el punto $x = c$?",
+      "context": "En una clase de cálculo en Barranquilla se estudia la ganancia $G(x)$ de una tienda de artesanías, con $G'(c) = 0$ en un precio $x = c$.",
       "options": [
         {
-          "letter": "D",
-          "text": "En el intervalo $(3, \\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
-        },
-        {
           "letter": "A",
-          "text": "En el intervalo $(-\\infty, 3)$",
+          "text": "$G$ tiene un mínimo local en $x = c$",
           "is_correct": false,
-          "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
+          "feedback": "Incorrecto. El mínimo local corresponde a $G''(c) > 0$ (concavidad hacia arriba); con $G''(c)<0$ la curva se abre hacia abajo."
         },
         {
           "letter": "B",
-          "text": "Únicamente en el punto $x = 3$",
+          "text": "$G$ tiene un punto de inflexión en $x = c$",
           "is_correct": false,
-          "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
+          "feedback": "Incorrecto. Un punto de inflexión exige que $G''$ cambie de signo; aquí $G''(c)$ es negativa, no nula, y la concavidad no cambia en $c$."
         },
         {
           "letter": "C",
-          "text": "En todo el conjunto de los números reales",
+          "text": "$G$ tiene un máximo local en $x = c$",
+          "is_correct": true,
+          "feedback": "Correcto. Con tangente horizontal ($G'(c)=0$) y concavidad hacia abajo ($G''(c)<0$) la curva forma una cima, es decir, un máximo local."
+        },
+        {
+          "letter": "D",
+          "text": "El criterio no permite concluir nada en $x = c$",
           "is_correct": false,
-          "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
+          "feedback": "Incorrecto. El criterio solo es no concluyente cuando $G''(c) = 0$; con $G''(c) < 0$ sí garantiza un máximo local."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 18 > 0 \\implies 6x > 18 \\implies x > 3$, es decir, el intervalo $(3, \\infty)$.",
+      "correct_answer": "C",
+      "explanation": "El criterio de la segunda derivada dice: si $G'(c)=0$ y $G''(c)<0$, entonces $G(c)$ es un máximo local; si $G'(c)=0$ y $G''(c)>0$, es un mínimo local; si $G''(c)=0$, el criterio no decide. Aquí se cumple el primer caso, luego hay un máximo local en $x=c$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.85,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.8,
       "bundle_id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle-v4",
-      "statement": "Dada la segunda derivada $f''(x) = 6x - 24$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).",
-      "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
+      "statement": "¿Cuál es la segunda derivada de $f(x) = 2x^4 - 3x^2 + x$?",
+      "context": "Un ingeniero de Ecopetrol en Barrancabermeja describe la presión en un ducto con el polinomio $f(x) = 2x^4 - 3x^2 + x$.",
       "options": [
         {
           "letter": "A",
-          "text": "En el intervalo $(4, \\infty)$",
+          "text": "$f''(x) = 24x^2 - 6$",
           "is_correct": true,
-          "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
+          "feedback": "Correcto. $f'(x) = 8x^3 - 6x + 1$ y al derivar de nuevo $f''(x) = 24x^2 - 6$; la constante 1 desaparece."
         },
         {
           "letter": "B",
-          "text": "En el intervalo $(-\\infty, 4)$",
+          "text": "$f''(x) = 8x^3 - 6x + 1$",
           "is_correct": false,
-          "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
+          "feedback": "Incorrecto. Esa es la primera derivada $f'(x)$; falta derivar una segunda vez."
         },
         {
           "letter": "C",
-          "text": "Únicamente en el punto $x = 4$",
+          "text": "$f''(x) = 24x^2 - 6x$",
           "is_correct": false,
-          "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
+          "feedback": "Incorrecto. La derivada de $-6x$ es $-6$, no $-6x$; dejaste la variable en el término lineal."
         },
         {
           "letter": "D",
-          "text": "En todo el conjunto de los números reales",
+          "text": "$f''(x) = 24x^2$",
           "is_correct": false,
-          "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
+          "feedback": "Incorrecto. Olvidaste derivar el término $-6x$ de $f'$, cuya derivada es $-6$ y debe aparecer en $f''$."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 24 > 0 \\implies 6x > 24 \\implies x > 4$, es decir, el intervalo $(4, \\infty)$.",
+      "explanation": "Primera derivada término a término: $f'(x) = 8x^3 - 6x + 1$. Segunda derivada: $(8x^3)' = 24x^2$, $(-6x)' = -6$ y $(1)' = 0$. Por tanto $f''(x) = 24x^2 - 6$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.85,
+      "icfes_type": "Algebraico",
+      "expected_success": 0.78,
       "bundle_id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -193,41 +193,41 @@
     },
     {
       "id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle-v5",
-      "statement": "Dada la segunda derivada $f''(x) = 6x - 30$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).",
-      "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
+      "statement": "Usando el criterio de la segunda derivada, ¿cómo se clasifican los puntos críticos de $g(x) = x^3 - 3x^2 - 9x + 2$?",
+      "context": "Una empresa de transporte en Cali modela la variación de pasajeros con $g(x) = x^3 - 3x^2 - 9x + 2$, donde $x$ mide horas desde el mediodía.",
       "options": [
         {
-          "letter": "C",
-          "text": "En el intervalo $(5, \\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
-        },
-        {
           "letter": "A",
-          "text": "En el intervalo $(-\\infty, 5)$",
+          "text": "Mínimo local en $x = -1$ y máximo local en $x = 3$",
           "is_correct": false,
-          "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
+          "feedback": "Incorrecto. Invertiste la regla: $g''(-1) = -12$ es negativa, lo que indica máximo, y $g''(3) = 12$ positiva indica mínimo."
         },
         {
           "letter": "B",
-          "text": "Únicamente en el punto $x = 5$",
+          "text": "Máximo local en $x = 1$",
           "is_correct": false,
-          "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
+          "feedback": "Incorrecto. En $x = 1$ se anula $g''$, no $g'$; $g'(1) = 3 - 6 - 9 = -12 \\neq 0$, así que no es punto crítico sino punto de inflexión."
+        },
+        {
+          "letter": "C",
+          "text": "Máximos locales en $x = -1$ y en $x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo hallaste donde $g'=0$ y no evaluaste $g''$; en $x=3$ se tiene $g''(3)=12>0$, que corresponde a un mínimo."
         },
         {
           "letter": "D",
-          "text": "En todo el conjunto de los números reales",
-          "is_correct": false,
-          "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
+          "text": "Máximo local en $x = -1$ y mínimo local en $x = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. $g''(x) = 6x - 6$: $g''(-1) = -12 < 0$ da máximo y $g''(3) = 12 > 0$ da mínimo."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 30 > 0 \\implies 6x > 30 \\implies x > 5$, es decir, el intervalo $(5, \\infty)$.",
+      "correct_answer": "D",
+      "explanation": "$g'(x) = 3x^2 - 6x - 9 = 3(x-3)(x+1)$, de modo que los puntos críticos son $x=-1$ y $x=3$. Con $g''(x) = 6x - 6$: $g''(-1) = -12 < 0$ (máximo local, $g(-1)=7$) y $g''(3) = 12 > 0$ (mínimo local, $g(3)=-25$).",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Algebraico",
+      "icfes_type": "Variacional",
       "expected_success": 0.75,
       "bundle_id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle",
       "periodo": 17,
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle-v6",
-      "statement": "Dada la segunda derivada $f''(x) = 6x - 36$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).",
-      "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
+      "statement": "¿Cuál es el punto de inflexión de la gráfica de $f(x) = x^3 + 3x^2 - 4$?",
+      "context": "En una ruta de ciclismo cerca de Tunja, el perfil de altura relativa de un tramo se modela con $f(x) = x^3 + 3x^2 - 4$ (en cientos de metros).",
       "options": [
         {
-          "letter": "B",
-          "text": "En el intervalo $(6, \\infty)$",
+          "letter": "A",
+          "text": "$(-1, -2)$",
           "is_correct": true,
-          "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
+          "feedback": "Correcto. $f''(x) = 6x + 6 = 0$ en $x = -1$, cambia de signo allí y $f(-1) = -1 + 3 - 4 = -2$."
         },
         {
-          "letter": "A",
-          "text": "En el intervalo $(-\\infty, 6)$",
+          "letter": "B",
+          "text": "$(-1, 0)$",
           "is_correct": false,
-          "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
+          "feedback": "Incorrecto. La abscisa es correcta, pero la ordenada es $f(-1) = -2$; pusiste el valor de $f''(-1) = 0$ en lugar del valor de la función."
         },
         {
           "letter": "C",
-          "text": "Únicamente en el punto $x = 6$",
+          "text": "$(0, -4)$",
           "is_correct": false,
-          "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
+          "feedback": "Incorrecto. En $x=0$ se anula $f'(x) = 3x^2 + 6x$; ese es un punto crítico (mínimo local), no el lugar donde cambia la concavidad."
         },
         {
           "letter": "D",
-          "text": "En todo el conjunto de los números reales",
+          "text": "$(1, 0)$",
           "is_correct": false,
-          "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
+          "feedback": "Incorrecto. Error de signo al resolver $6x + 6 = 0$: la solución es $x = -1$, no $x = 1$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 36 > 0 \\implies 6x > 36 \\implies x > 6$, es decir, el intervalo $(6, \\infty)$.",
+      "correct_answer": "A",
+      "explanation": "$f'(x) = 3x^2 + 6x$ y $f''(x) = 6x + 6$. Se resuelve $6x+6=0 \\Rightarrow x=-1$. Para $x<-1$, $f''<0$ y para $x>-1$, $f''>0$: hay cambio de concavidad. La ordenada es $f(-1) = (-1)^3 + 3(1) - 4 = -2$, así que el punto es $(-1,-2)$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Razonamiento",
-      "expected_success": 0.75,
+      "icfes_type": "Algebraico",
+      "expected_success": 0.72,
       "bundle_id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle-v7",
-      "statement": "Dada la segunda derivada $f''(x) = 6x - 42$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).",
-      "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
+      "statement": "¿Cuál es la aceleración del tren en el instante $t = 2$ s?",
+      "context": "Un tren de carga que sale de Santa Marta tiene posición $s(t) = t^3 - 9t^2 + 15t$ metros a lo largo de la vía, con $t$ en segundos durante una maniobra.",
       "options": [
         {
-          "letter": "B",
-          "text": "En el intervalo $(7, \\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
+          "letter": "A",
+          "text": "$-9\\ \\text{m/s}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $-9$ es la velocidad $s'(2) = 12 - 36 + 15$ en m/s; la aceleración es la segunda derivada, no la primera."
         },
         {
-          "letter": "A",
-          "text": "En el intervalo $(-\\infty, 7)$",
+          "letter": "B",
+          "text": "$6\\ \\text{m/s}^2$",
           "is_correct": false,
-          "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
+          "feedback": "Incorrecto. Error de signo: $s''(2) = 6(2) - 18 = -6$; el término $-18$ domina sobre $12$."
         },
         {
           "letter": "C",
-          "text": "Únicamente en el punto $x = 7$",
-          "is_correct": false,
-          "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
+          "text": "$-6\\ \\text{m/s}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. $a(t) = s''(t) = 6t - 18$, y en $t=2$ da $12 - 18 = -6\\ \\text{m/s}^2$."
         },
         {
           "letter": "D",
-          "text": "En todo el conjunto de los números reales",
+          "text": "$2\\ \\text{m/s}^2$",
           "is_correct": false,
-          "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
+          "feedback": "Incorrecto. $2$ es la posición $s(2) = 8 - 36 + 30 = 2$ metros; la aceleración requiere derivar dos veces."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 42 > 0 \\implies 6x > 42 \\implies x > 7$, es decir, el intervalo $(7, \\infty)$.",
+      "correct_answer": "C",
+      "explanation": "La velocidad es $v(t) = s'(t) = 3t^2 - 18t + 15$ y la aceleración es $a(t) = s''(t) = 6t - 18$. En $t = 2$: $a(2) = 12 - 18 = -6\\ \\text{m/s}^2$. El signo negativo indica que la velocidad está disminuyendo en ese instante.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.75,
+      "icfes_type": "Modelacion",
+      "expected_success": 0.7,
       "bundle_id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle-v8",
-      "statement": "Dada la segunda derivada $f''(x) = 6x - 48$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).",
-      "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
+      "statement": "Para $f(x) = x^4$ se tiene $f'(0) = 0$ y $f''(0) = 0$. ¿Qué concluye el criterio de la segunda derivada en $x = 0$?",
+      "context": "En el preicfes de un colegio de Pereira se analiza la función $f(x) = x^4$, que modela la deformación de una viga cerca de su apoyo.",
       "options": [
         {
           "letter": "A",
-          "text": "En el intervalo $(8, \\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
+          "text": "Que hay un máximo local, porque $f''(0)$ no es positiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para un máximo el criterio exige $f''(c) < 0$ estrictamente; además $x^4 \\ge 0$ muestra que en 0 hay un mínimo, no un máximo."
         },
         {
           "letter": "B",
-          "text": "En el intervalo $(-\\infty, 8)$",
-          "is_correct": false,
-          "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
+          "text": "Nada: con $f''(0) = 0$ el criterio no decide y se debe usar otro método",
+          "is_correct": true,
+          "feedback": "Correcto. El criterio solo clasifica cuando $f''(c) \\neq 0$; con $f''(0) = 0$ hay que estudiar el signo de $f'$ alrededor de 0."
         },
         {
           "letter": "C",
-          "text": "Únicamente en el punto $x = 8$",
+          "text": "Que hay un punto de inflexión, porque $f''(0) = 0$",
           "is_correct": false,
-          "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
+          "feedback": "Incorrecto. $f''(c)=0$ no basta: $f''(x) = 12x^2$ es positiva a ambos lados de 0, la concavidad no cambia y no hay inflexión."
         },
         {
           "letter": "D",
-          "text": "En todo el conjunto de los números reales",
+          "text": "Que no hay extremo, porque $f''(0)$ no es distinta de cero",
           "is_correct": false,
-          "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
+          "feedback": "Incorrecto. Que $f''(0)=0$ no descarta un extremo; de hecho $f'(x) = 4x^3$ pasa de negativa a positiva y $x=0$ es un mínimo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 48 > 0 \\implies 6x > 48 \\implies x > 8$, es decir, el intervalo $(8, \\infty)$.",
+      "correct_answer": "B",
+      "explanation": "El criterio de la segunda derivada requiere $f''(c) \\neq 0$. Para $f(x)=x^4$: $f'(x)=4x^3$, $f''(x)=12x^2$ y $f''(0)=0$, así que el criterio no concluye. Con la primera derivada: $f'<0$ para $x<0$ y $f'>0$ para $x>0$, luego $x=0$ es un mínimo; el criterio de la segunda derivada simplemente no lo detecta.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.75,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.68,
       "bundle_id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -377,42 +377,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle-v9",
-      "statement": "Dada la segunda derivada $f''(x) = 6x - 54$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).",
-      "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
+      "statement": "¿En qué conjunto la gráfica de $f(x) = x^4 - 4x^3$ es cóncava hacia arriba?",
+      "context": "Una empresa de energía solar en La Guajira modela la eficiencia de un panel con $f(x) = x^4 - 4x^3$, donde $x$ es una variable de ajuste.",
       "options": [
         {
-          "letter": "C",
-          "text": "En el intervalo $(9, \\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
-        },
-        {
           "letter": "A",
-          "text": "En el intervalo $(-\\infty, 9)$",
-          "is_correct": false,
-          "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
+          "text": "$(-\\infty, 0) \\cup (2, \\infty)$",
+          "is_correct": true,
+          "feedback": "Correcto. $f''(x) = 12x^2 - 24x = 12x(x-2)$ es positiva cuando $x<0$ o $x>2$."
         },
         {
           "letter": "B",
-          "text": "Únicamente en el punto $x = 9$",
+          "text": "$(0, 2)$",
           "is_correct": false,
-          "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
+          "feedback": "Incorrecto. En $(0,2)$ el producto $12x(x-2)$ es negativo; allí la curva es cóncava hacia abajo."
+        },
+        {
+          "letter": "C",
+          "text": "$(3, \\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(3,\\infty)$ es donde $f'(x) = 4x^2(x-3)$ es positiva, es decir, donde $f$ crece; confundiste crecimiento con concavidad."
         },
         {
           "letter": "D",
-          "text": "En todo el conjunto de los números reales",
+          "text": "$(2, \\infty)$",
           "is_correct": false,
-          "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
+          "feedback": "Incorrecto. Omitiste la región $x<0$: allí $12x$ y $x-2$ son ambos negativos y su producto es positivo, así que también hay concavidad hacia arriba."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 54 > 0 \\implies 6x > 54 \\implies x > 9$, es decir, el intervalo $(9, \\infty)$.",
+      "correct_answer": "A",
+      "explanation": "$f'(x) = 4x^3 - 12x^2$ y $f''(x) = 12x^2 - 24x = 12x(x-2)$. Los ceros de $f''$ son $0$ y $2$. Tabla de signos: para $x<0$, $(-)(-)=+$; en $(0,2)$, $(+)(-)=-$; para $x>2$, $(+)(+)=+$. La gráfica es cóncava hacia arriba en $(-\\infty,0)\\cup(2,\\infty)$ y tiene inflexiones en $x=0$ y $x=2$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Algebraico",
-      "expected_success": 0.75,
+      "icfes_type": "Variacional",
+      "expected_success": 0.66,
       "bundle_id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -423,42 +423,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle-v10",
-      "statement": "Dada la segunda derivada $f''(x) = 6x - 60$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).",
-      "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
+      "statement": "¿Qué describe correctamente el movimiento del bus en $t = 3$ min?",
+      "context": "Un bus del MIO en Cali avanza por la Calle 5 con posición $s(t) = -t^3 + 6t^2$ (en cientos de metros), con $t$ en minutos.",
       "options": [
         {
-          "letter": "B",
-          "text": "En el intervalo $(10, \\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
+          "letter": "A",
+          "text": "Avanza en sentido positivo y su velocidad está aumentando",
+          "is_correct": false,
+          "feedback": "Incorrecto. El avance es correcto porque $s'(3) = 9 > 0$, pero $s''(3) = -6$ es negativa, así que la velocidad baja."
         },
         {
-          "letter": "A",
-          "text": "En el intervalo $(-\\infty, 10)$",
+          "letter": "B",
+          "text": "Retrocede, porque la aceleración es negativa",
           "is_correct": false,
-          "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
+          "feedback": "Incorrecto. El sentido del movimiento lo da el signo de la velocidad $s'(3) = 9$, que es positiva; una aceleración negativa no implica retroceso."
         },
         {
           "letter": "C",
-          "text": "Únicamente en el punto $x = 10$",
+          "text": "Está detenido, porque $s''(3) \\neq 0$",
           "is_correct": false,
-          "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
+          "feedback": "Incorrecto. El bus está detenido solo si $s'(t) = 0$; en $t=3$ la velocidad es $9$, distinta de cero."
         },
         {
           "letter": "D",
-          "text": "En todo el conjunto de los números reales",
-          "is_correct": false,
-          "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
+          "text": "Avanza en sentido positivo y su velocidad está disminuyendo",
+          "is_correct": true,
+          "feedback": "Correcto. $s'(3) = -27 + 36 = 9 > 0$ (avanza) y $s''(3) = -18 + 12 = -6 < 0$ (la velocidad disminuye)."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 60 > 0 \\implies 6x > 60 \\implies x > 10$, es decir, el intervalo $(10, \\infty)$.",
+      "correct_answer": "D",
+      "explanation": "Velocidad: $s'(t) = -3t^2 + 12t$, entonces $s'(3) = -27 + 36 = 9$ (cientos de metros por minuto), positiva. Aceleración: $s''(t) = -6t + 12$, entonces $s''(3) = -6$. Velocidad positiva y aceleración negativa: el bus sigue avanzando pero frena.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Razonamiento",
-      "expected_success": 0.75,
+      "icfes_type": "Modelacion",
+      "expected_success": 0.64,
       "bundle_id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -469,42 +469,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle-v11",
-      "statement": "Dada la segunda derivada $f''(x) = 6x - 66$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).",
-      "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
+      "statement": "¿Qué valor de $k$ hace que $f(x) = x^3 + kx^2 + 2$ tenga un punto de inflexión en $x = 2$?",
+      "context": "Un diseñador de Bogotá ajusta la curva de una rampa de patinaje con $f(x) = x^3 + kx^2 + 2$ y necesita que la concavidad cambie exactamente en $x = 2$.",
       "options": [
         {
-          "letter": "D",
-          "text": "En el intervalo $(11, \\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
-        },
-        {
           "letter": "A",
-          "text": "En el intervalo $(-\\infty, 11)$",
+          "text": "$k = -3$",
           "is_correct": false,
-          "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
+          "feedback": "Incorrecto. Igualaste a cero la primera derivada: $f'(2) = 12 + 4k = 0$ da $k=-3$, pero la inflexión se busca con $f''$."
         },
         {
           "letter": "B",
-          "text": "Únicamente en el punto $x = 11$",
-          "is_correct": false,
-          "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
+          "text": "$k = -6$",
+          "is_correct": true,
+          "feedback": "Correcto. $f''(x) = 6x + 2k$; $f''(2) = 12 + 2k = 0$ da $k = -6$, y como $f''$ es lineal cambia de signo en 2."
         },
         {
           "letter": "C",
-          "text": "En todo el conjunto de los números reales",
+          "text": "$k = 6$",
           "is_correct": false,
-          "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
+          "feedback": "Incorrecto. Error de signo al despejar $12 + 2k = 0$: se obtiene $k = -6$, no $6$."
+        },
+        {
+          "letter": "D",
+          "text": "$k = -12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Derivaste $kx^2$ dos veces como $k$ en vez de $2k$; con $f''(x) = 6x + 2k$ la condición es $12 + 2k = 0$."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 66 > 0 \\implies 6x > 66 \\implies x > 11$, es decir, el intervalo $(11, \\infty)$.",
+      "correct_answer": "B",
+      "explanation": "$f'(x) = 3x^2 + 2kx$ y $f''(x) = 6x + 2k$. Para inflexión en $x=2$ se pide $f''(2)=0$: $12 + 2k = 0 \\Rightarrow k = -6$. Comprobación: $f''(x) = 6x - 12$ es negativa para $x<2$ y positiva para $x>2$, así que la concavidad sí cambia.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.65,
+      "icfes_type": "Algebraico",
+      "expected_success": 0.62,
       "bundle_id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -515,42 +515,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle-v12",
-      "statement": "Dada la segunda derivada $f''(x) = 6x - 72$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).",
-      "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
+      "statement": "¿Cuál de las siguientes funciones es un contraejemplo de esa afirmación?",
+      "context": "Un estudiante de Bucaramanga afirma: si $f''(c) = 0$, entonces la gráfica de $f$ tiene un punto de inflexión en $x = c$.",
       "options": [
         {
           "letter": "A",
-          "text": "En el intervalo $(12, \\infty)$",
+          "text": "$f(x) = x^4$ en $x = 0$",
           "is_correct": true,
-          "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
+          "feedback": "Correcto. $f''(x) = 12x^2$ cumple $f''(0) = 0$, pero es positiva a ambos lados de 0, así que no hay cambio de concavidad."
         },
         {
           "letter": "B",
-          "text": "En el intervalo $(-\\infty, 12)$",
+          "text": "$f(x) = x^3$ en $x = 0$",
           "is_correct": false,
-          "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
+          "feedback": "Incorrecto. $f''(x) = 6x$ cambia de negativa a positiva en 0, luego sí hay inflexión; la afirmación se cumple y no es contraejemplo."
         },
         {
           "letter": "C",
-          "text": "Únicamente en el punto $x = 12$",
+          "text": "$f(x) = x^5$ en $x = 0$",
           "is_correct": false,
-          "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
+          "feedback": "Incorrecto. $f''(x) = 20x^3$ cambia de signo en 0, así que $x=0$ sí es punto de inflexión; no contradice la afirmación."
         },
         {
           "letter": "D",
-          "text": "En todo el conjunto de los números reales",
+          "text": "$f(x) = x^3 - 3x$ en $x = 0$",
           "is_correct": false,
-          "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
+          "feedback": "Incorrecto. $f''(x) = 6x$ se anula en 0 y cambia de signo, por lo que allí hay inflexión; la afirmación se cumple."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 72 > 0 \\implies 6x > 72 \\implies x > 12$, es decir, el intervalo $(12, \\infty)$.",
+      "explanation": "Un contraejemplo necesita $f''(c)=0$ sin cambio de concavidad. En $x^4$: $f''(x)=12x^2 \\ge 0$, se anula en 0 pero no cambia de signo, luego no hay inflexión. En las otras tres funciones $f''$ es $6x$ o $20x^3$, que sí cambian de signo en 0. La condición $f''(c)=0$ es necesaria (si $f''$ existe) pero no suficiente.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.65,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.6,
       "bundle_id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -561,42 +561,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle-v13",
-      "statement": "Dada la segunda derivada $f''(x) = 6x - 78$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).",
-      "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
+      "statement": "Con solo esa información, ¿cuál afirmación está garantizada por el criterio de la segunda derivada?",
+      "context": "Un analista de una fábrica de bocadillos en Vélez tiene una tabla de su función de costo $f$: $f'(1)=0$, $f''(1)=-4$; $f'(4)=0$, $f''(4)=0$; $f'(6)=0$, $f''(6)=5$.",
       "options": [
         {
-          "letter": "B",
-          "text": "En el intervalo $(13, \\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
+          "letter": "A",
+          "text": "Hay un punto de inflexión en $x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f''(4)=0$ no garantiza inflexión; se necesitaría saber que $f''$ cambia de signo en 4, y la tabla no lo dice."
         },
         {
-          "letter": "A",
-          "text": "En el intervalo $(-\\infty, 13)$",
+          "letter": "B",
+          "text": "Hay un mínimo local en $x=1$ y un máximo local en $x=6$",
           "is_correct": false,
-          "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
+          "feedback": "Incorrecto. Invertiste el criterio: $f''(1) = -4 < 0$ indica máximo y $f''(6) = 5 > 0$ indica mínimo."
         },
         {
           "letter": "C",
-          "text": "Únicamente en el punto $x = 13$",
+          "text": "El costo máximo absoluto se alcanza en $x = 1$",
           "is_correct": false,
-          "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
+          "feedback": "Incorrecto. El criterio solo da extremos locales; sin conocer los valores de $f$ ni el dominio no se puede afirmar que $f(1)$ sea el mayor valor."
         },
         {
           "letter": "D",
-          "text": "En todo el conjunto de los números reales",
-          "is_correct": false,
-          "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
+          "text": "Hay un máximo local en $x=1$ y un mínimo local en $x=6$; sobre $x=4$ el criterio no decide",
+          "is_correct": true,
+          "feedback": "Correcto. $f''(1)<0$ da máximo, $f''(6)>0$ da mínimo y $f''(4)=0$ es el caso no concluyente."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 78 > 0 \\implies 6x > 78 \\implies x > 13$, es decir, el intervalo $(13, \\infty)$.",
+      "correct_answer": "D",
+      "explanation": "En cada punto se tiene $f'=0$. En $x=1$: $f''(1)=-4<0$, máximo local. En $x=6$: $f''(6)=5>0$, mínimo local. En $x=4$: $f''(4)=0$ y el criterio no concluye; podría ser máximo, mínimo o ningún extremo, como muestran $-x^4$, $x^4$ y $x^3$. Tampoco se pueden afirmar extremos absolutos con datos locales.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Algebraico",
-      "expected_success": 0.65,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.58,
       "bundle_id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -607,42 +607,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle-v14",
-      "statement": "Dada la segunda derivada $f''(x) = 6x - 84$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).",
-      "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
+      "statement": "¿En qué mes es máxima la rapidez de crecimiento de las descargas, y por qué?",
+      "context": "Una aplicación de domicilios creada en Cali registra descargas acumuladas $N(t) = -t^3 + 12t^2 + 5$ (miles), con $t$ en meses y $0 \\le t \\le 8$.",
       "options": [
         {
           "letter": "A",
-          "text": "En el intervalo $(14, \\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
+          "text": "En $t = 8$, porque allí $N'(t) = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $N'(8) = -192 + 192 = 0$ indica que las descargas acumuladas dejan de crecer; ahí la rapidez es mínima, no máxima."
         },
         {
           "letter": "B",
-          "text": "En el intervalo $(-\\infty, 14)$",
-          "is_correct": false,
-          "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
+          "text": "En $t = 4$, porque $N''$ pasa de positiva a negativa allí y $N'$ alcanza su máximo",
+          "is_correct": true,
+          "feedback": "Correcto. $N''(t) = -6t + 24$ se anula en 4 y cambia de $+$ a $-$; por eso $N'(t)$ tiene su máximo, $N'(4) = 48$ mil descargas por mes."
         },
         {
           "letter": "C",
-          "text": "Únicamente en el punto $x = 14$",
+          "text": "En $t = 4$, porque allí las descargas acumuladas $N$ son máximas",
           "is_correct": false,
-          "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
+          "feedback": "Incorrecto. El mes es el correcto, pero la razón no: $N$ sigue creciendo hasta $t=8$ porque $N'(t)>0$ en $(4,8)$; en $t=4$ lo máximo es $N'$, no $N$."
         },
         {
           "letter": "D",
-          "text": "En todo el conjunto de los números reales",
+          "text": "En $t = 0$, porque al lanzar la aplicación es cuando más crece",
           "is_correct": false,
-          "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
+          "feedback": "Incorrecto. $N'(0) = 0$; la rapidez inicial es nula y aumenta hasta $N'(4) = 48$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 84 > 0 \\implies 6x > 84 \\implies x > 14$, es decir, el intervalo $(14, \\infty)$.",
+      "correct_answer": "B",
+      "explanation": "La rapidez de crecimiento es $N'(t) = -3t^2 + 24t$. Para maximizarla se deriva otra vez: $N''(t) = -6t + 24 = 0 \\Rightarrow t = 4$, y $N'''(t) = -6 < 0$ confirma un máximo de $N'$. Así, $t=4$ es el punto de inflexión de $N$: antes la curva es cóncava hacia arriba (crecimiento acelerado) y después cóncava hacia abajo. El total $N$ sigue subiendo hasta $t = 8$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Razonamiento",
-      "expected_success": 0.65,
+      "icfes_type": "Modelacion",
+      "expected_success": 0.56,
       "bundle_id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -653,178 +653,40 @@
     },
     {
       "id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle-v15",
-      "statement": "Dada la segunda derivada $f''(x) = 6x - 90$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).",
-      "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
+      "statement": "Para $f(x) = x e^{-x}$ se obtiene $f'(x) = (1-x)e^{-x}$ y $f''(x) = (x-2)e^{-x}$. ¿Cuál razonamiento sobre $x = 1$ es válido?",
+      "context": "En un semillero de matemáticas en Popayán se analiza la función $f(x) = x e^{-x}$, que modela la concentración de un fertilizante en el suelo.",
       "options": [
         {
           "letter": "A",
-          "text": "En el intervalo $(15, \\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
+          "text": "Hay un mínimo local en $x=1$, porque $f''(1) = -e^{-1} < 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor de $f''(1)$ está bien calculado, pero una segunda derivada negativa indica máximo, no mínimo."
         },
         {
           "letter": "B",
-          "text": "En el intervalo $(-\\infty, 15)$",
+          "text": "Hay un máximo local en $x=1$, porque $f(1) = e^{-1} > 0$",
           "is_correct": false,
-          "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
+          "feedback": "Incorrecto. El signo de $f(1)$ no clasifica el punto crítico; lo que decide es el signo de $f''(1)$."
         },
         {
           "letter": "C",
-          "text": "Únicamente en el punto $x = 15$",
-          "is_correct": false,
-          "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
+          "text": "Hay un máximo local en $x=1$, porque $f'(1) = 0$ y $f''(1) = -e^{-1} < 0$",
+          "is_correct": true,
+          "feedback": "Correcto. $f''(1) = (1-2)e^{-1} = -\\frac{1}{e}$ es negativa y $f'(1)=0$; el criterio garantiza máximo local."
         },
         {
           "letter": "D",
-          "text": "En todo el conjunto de los números reales",
+          "text": "Hay un punto de inflexión en $x=1$, porque $f'(1) = 0$",
           "is_correct": false,
-          "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
+          "feedback": "Incorrecto. $f'(1)=0$ señala un punto crítico; la inflexión ocurre donde $f''$ cambia de signo, que es en $x = 2$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 90 > 0 \\implies 6x > 90 \\implies x > 15$, es decir, el intervalo $(15, \\infty)$.",
+      "correct_answer": "C",
+      "explanation": "Se resuelve $f'(x)=(1-x)e^{-x}=0$; como $e^{-x}>0$, el único punto crítico es $x=1$. Luego $f''(1)=(1-2)e^{-1}=-1/e<0$, de modo que $f(1)=1/e$ es un máximo local. La inflexión de esta curva está en $x=2$, donde $(x-2)e^{-x}$ cambia de signo.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.65,
-      "bundle_id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "co"
-    },
-    {
-      "id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle-v16",
-      "statement": "Dada la segunda derivada $f''(x) = 6x - 96$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).",
-      "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "En el intervalo $(16, \\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
-        },
-        {
-          "letter": "A",
-          "text": "En el intervalo $(-\\infty, 16)$",
-          "is_correct": false,
-          "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
-        },
-        {
-          "letter": "C",
-          "text": "Únicamente en el punto $x = 16$",
-          "is_correct": false,
-          "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
-        },
-        {
-          "letter": "D",
-          "text": "En todo el conjunto de los números reales",
-          "is_correct": false,
-          "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 96 > 0 \\implies 6x > 96 \\implies x > 16$, es decir, el intervalo $(16, \\infty)$.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.65,
-      "bundle_id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "co"
-    },
-    {
-      "id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle-v17",
-      "statement": "Dada la segunda derivada $f''(x) = 6x - 102$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).",
-      "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "En el intervalo $(17, \\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
-        },
-        {
-          "letter": "A",
-          "text": "En el intervalo $(-\\infty, 17)$",
-          "is_correct": false,
-          "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
-        },
-        {
-          "letter": "B",
-          "text": "Únicamente en el punto $x = 17$",
-          "is_correct": false,
-          "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
-        },
-        {
-          "letter": "C",
-          "text": "En todo el conjunto de los números reales",
-          "is_correct": false,
-          "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 102 > 0 \\implies 6x > 102 \\implies x > 17$, es decir, el intervalo $(17, \\infty)$.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Algebraico",
-      "expected_success": 0.55,
-      "bundle_id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "matematicas",
-      "grade": 11,
-      "country": "co"
-    },
-    {
-      "id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle-v18",
-      "statement": "Dada la segunda derivada $f''(x) = 6x - 108$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).",
-      "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "En el intervalo $(18, \\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
-        },
-        {
-          "letter": "A",
-          "text": "En el intervalo $(-\\infty, 18)$",
-          "is_correct": false,
-          "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
-        },
-        {
-          "letter": "C",
-          "text": "Únicamente en el punto $x = 18$",
-          "is_correct": false,
-          "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
-        },
-        {
-          "letter": "D",
-          "text": "En todo el conjunto de los números reales",
-          "is_correct": false,
-          "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 108 > 0 \\implies 6x > 108 \\implies x > 18$, es decir, el intervalo $(18, \\infty)$.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
       "icfes_type": "Razonamiento",
       "expected_success": 0.55,
       "bundle_id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle",
@@ -836,43 +698,181 @@
       "country": "co"
     },
     {
-      "id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle-v19",
-      "statement": "Dada la segunda derivada $f''(x) = 6x - 114$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).",
-      "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
+      "id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle-v16",
+      "statement": "Sabiendo solo que $f''(x) = (x-1)(x-4)$, ¿cuál afirmación es correcta?",
+      "context": "En un estudio del caudal del río Magdalena en Honda, se conoce la segunda derivada del modelo de caudal: $f''(x) = (x-1)(x-4)$.",
       "options": [
         {
           "letter": "A",
-          "text": "En el intervalo $(19, \\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
+          "text": "$f'$ decrece en $(-\\infty,1) \\cup (4,\\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esos intervalos $(x-1)(x-4)>0$, así que $f'$ crece allí; invertiste el signo del producto."
         },
         {
           "letter": "B",
-          "text": "En el intervalo $(-\\infty, 19)$",
+          "text": "$f$ decrece en $(1, 4)$",
           "is_correct": false,
-          "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
+          "feedback": "Incorrecto. $f''<0$ en $(1,4)$ dice que la pendiente $f'$ disminuye, no que $f$ baje; para eso se necesitaría $f'<0$, que no se conoce."
         },
         {
           "letter": "C",
-          "text": "Únicamente en el punto $x = 19$",
-          "is_correct": false,
-          "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
+          "text": "$f'$ decrece en $(1, 4)$ y $f$ tiene puntos de inflexión en $x=1$ y $x=4$",
+          "is_correct": true,
+          "feedback": "Correcto. $f''<0$ en $(1,4)$, así que $f'$ decrece allí, y $f''$ cambia de signo en 1 y en 4, que son las inflexiones."
         },
         {
           "letter": "D",
-          "text": "En todo el conjunto de los números reales",
+          "text": "$f$ tiene un máximo local en $x=1$ y un mínimo local en $x=4$",
           "is_correct": false,
-          "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
+          "feedback": "Incorrecto. Tomaste $f''$ como si fuera $f'$; los ceros de $f''$ son candidatos a inflexión, no a extremos de $f$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 114 > 0 \\implies 6x > 114 \\implies x > 19$, es decir, el intervalo $(19, \\infty)$.",
+      "correct_answer": "C",
+      "explanation": "Signo de $f''(x)=(x-1)(x-4)$: positivo si $x<1$, negativo en $(1,4)$, positivo si $x>4$. Donde $f''<0$ la derivada $f'$ decrece y la curva es cóncava hacia abajo; donde $f''>0$, $f'$ crece. Como $f''$ cambia de signo en $x=1$ y $x=4$, ambos son puntos de inflexión de $f$. Nada se puede decir del crecimiento de $f$ sin conocer $f'$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.53,
+      "bundle_id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál de los análisis es completamente correcto?",
+      "context": "Cuatro estudiantes de un colegio de Villavicencio analizan los puntos críticos de $f(x) = x^4 - 4x^3$, que aparecen en $x = 0$ y $x = 3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En $x=0$ hay máximo local porque $f''(0)=0$, y en $x=3$ hay mínimo local",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f''(0)=0$ no indica máximo; es el caso no concluyente, y el signo de $f'$ muestra que en 0 no hay extremo."
+        },
+        {
+          "letter": "B",
+          "text": "En $x=3$ hay mínimo local porque $f''(3)=36>0$; en $x=0$ el criterio no decide y, como $f'<0$ a ambos lados de 0, allí no hay extremo",
+          "is_correct": true,
+          "feedback": "Correcto. $f''(3) = 108 - 72 = 36 > 0$, y $f'(x) = 4x^2(x-3)$ es negativa justo antes y justo después de 0, así que $x=0$ no es extremo."
+        },
+        {
+          "letter": "C",
+          "text": "En $x=0$ hay mínimo local porque $f''(0) \\ge 0$, y en $x=3$ hay mínimo local",
+          "is_correct": false,
+          "feedback": "Incorrecto. El criterio exige $f''(c)>0$ estricto para un mínimo; con $f''(0)=0$ no concluye y, de hecho, $f$ decrece a través de 0."
+        },
+        {
+          "letter": "D",
+          "text": "No hay extremos locales, porque $f''$ se anula en $x=0$ y en $x=2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ceros de $f''$ marcan posibles inflexiones; en $x=3$ se tiene $f'(3)=0$ y $f''(3)=36>0$, un mínimo local con $f(3)=-27$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "$f'(x) = 4x^3 - 12x^2 = 4x^2(x-3)$ y $f''(x) = 12x^2 - 24x$. En $x=3$: $f''(3)=36>0$, mínimo local con $f(3) = 81 - 108 = -27$. En $x=0$: $f''(0)=0$, caso no concluyente. Se usa la primera derivada: $4x^2 \\ge 0$ y $x-3<0$ cerca de 0, así que $f'<0$ a ambos lados y no hay extremo; como $f''=12x(x-2)$ cambia de signo en 0, allí hay un punto de inflexión con tangente horizontal.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.55,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál de las funciones cumple ambas condiciones?",
+      "context": "Un ingeniero agrónomo del Tolima busca un modelo cúbico para el rendimiento de un cultivo de arroz que tenga máximo local en $x = 2$ y punto de inflexión en $x = 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = -x^3 + 3x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene máximo en $x=2$ porque $f'(2) = -12 + 12 = 0$ y $f''(2) = -6$, pero $f''(x) = -6x + 6$ se anula en $x = 1$: la inflexión no está en 0."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = -x^3 + 12x$",
+          "is_correct": true,
+          "feedback": "Correcto. $f'(x) = -3x^2 + 12$ se anula en $x=2$, $f''(x) = -6x$ da $f''(2) = -12 < 0$ (máximo) y $f''$ cambia de signo en 0."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = -x^3 + 6x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f'(2) = -12 + 24 = 12 \\neq 0$, así que $x=2$ ni siquiera es punto crítico; su inflexión además está en $x=2$."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = x^3 - 12x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f''(2) = 12 > 0$, por lo que en $x=2$ hay un mínimo local, no un máximo; el signo del término cúbico está invertido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se verifica cada condición. Para $-x^3+12x$: $f'(2) = -12+12 = 0$, $f''(x) = -6x$, $f''(2)=-12<0$ (máximo local) y $f''$ cambia de signo en 0 (inflexión). Para $-x^3+3x^2$ la inflexión cae en $x=1$; para $-x^3+6x^2$, $f'(2)=12$; para $x^3-12x$, $x=2$ es mínimo. Solo la primera cumple todo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.48,
+      "bundle_id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle-v19",
+      "statement": "¿Qué conclusión sobre el movimiento en el intervalo $2 < t < 3$ es correcta?",
+      "context": "Un mensajero en moto recorre una avenida de Bogotá con posición $s(t) = t^3 - 6t^2 + 9t$ (kilómetros), con $t$ en horas, entre $t = 0$ y $t = 4$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se mueve en sentido positivo y acelera, porque $s''>0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sentido lo da $s'$, que es negativa en $(2,3)$; $s''>0$ no implica avanzar."
+        },
+        {
+          "letter": "B",
+          "text": "Se mueve en sentido negativo y su rapidez aumenta, porque $s''>0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $s'<0$ y $s''>0$ la velocidad se acerca a cero, por ejemplo $s'(2{,}5) = -2{,}25$ y $s'(3) = 0$; la rapidez disminuye."
+        },
+        {
+          "letter": "C",
+          "text": "Está detenido durante todo el intervalo, porque $s'(3) = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $s'(3)=0$ solo indica un instante de reposo en $t=3$; dentro del intervalo, por ejemplo, $s'(2{,}5) = -2{,}25 \\neq 0$."
+        },
+        {
+          "letter": "D",
+          "text": "Se mueve en sentido negativo y frena: su rapidez disminuye",
+          "is_correct": true,
+          "feedback": "Correcto. En $(2,3)$, $s'(t) = 3(t-1)(t-3) < 0$ y $s''(t) = 6t - 12 > 0$; velocidad negativa que aumenta hacia 0 significa que la rapidez baja."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "$s'(t) = 3t^2 - 12t + 9 = 3(t-1)(t-3)$ y $s''(t) = 6t - 12$. En $(2,3)$: $t-1>0$, $t-3<0$, luego $s'<0$ (va en sentido negativo), y $s''>0$. Velocidad negativa con aceleración positiva: la velocidad sube hacia 0, por ejemplo de $s'(2)=-3$ a $s'(3)=0$, así que la moto frena. Cuando velocidad y aceleración tienen signos opuestos, la rapidez disminuye.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.47,
       "bundle_id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -883,42 +883,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle-v20",
-      "statement": "Dada la segunda derivada $f''(x) = 6x - 120$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).",
-      "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
+      "statement": "¿Cuál evaluación de la afirmación es correcta?",
+      "context": "En un debate de la Olimpiada Matemática en Medellín se discute la afirmación: si $f''(x) > 0$ para todo $x$ real, entonces $f$ tiene un mínimo local.",
       "options": [
         {
           "letter": "A",
-          "text": "En el intervalo $(20, \\infty)$",
-          "is_correct": true,
-          "feedback": "Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba."
+          "text": "Es verdadera: $f''>0$ basta para aplicar el criterio y obtener un mínimo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El criterio exige además un punto $c$ con $f'(c)=0$; sin punto crítico no hay mínimo que clasificar."
         },
         {
           "letter": "B",
-          "text": "En el intervalo $(-\\infty, 20)$",
+          "text": "Es falsa: $f(x) = x^2$ la contradice",
           "is_correct": false,
-          "feedback": "Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo)."
+          "feedback": "Incorrecto. $x^2$ tiene $f''=2>0$ y sí tiene mínimo en $x=0$; cumple la afirmación, no la refuta."
         },
         {
           "letter": "C",
-          "text": "Únicamente en el punto $x = 20$",
+          "text": "Es verdadera: toda función cóncava hacia arriba tiene un punto donde $f' = 0$",
           "is_correct": false,
-          "feedback": "Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión)."
+          "feedback": "Incorrecto. $e^x$ es cóncava hacia arriba y su derivada $e^x$ es siempre positiva, nunca cero."
         },
         {
           "letter": "D",
-          "text": "En todo el conjunto de los números reales",
-          "is_correct": false,
-          "feedback": "Incorrecto: el signo de f'' varía a los lados de x = c."
+          "text": "Es falsa: $f(x) = e^x$ cumple $f''>0$ en todo $\\mathbb{R}$ y no tiene mínimo local, porque $f'$ nunca se anula",
+          "is_correct": true,
+          "feedback": "Correcto. $f'(x) = e^x > 0$ siempre, así que no hay punto crítico; la concavidad hacia arriba sola no produce un mínimo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 120 > 0 \\implies 6x > 120 \\implies x > 20$, es decir, el intervalo $(20, \\infty)$.",
+      "correct_answer": "D",
+      "explanation": "Para refutar una afirmación universal basta un contraejemplo. Con $f(x)=e^x$: $f'(x)=e^x>0$ y $f''(x)=e^x>0$ en todo $\\mathbb{R}$. Como $f'$ no se anula, no hay puntos críticos y $f$ es estrictamente creciente, sin mínimo local. El criterio de la segunda derivada necesita las dos condiciones: $f'(c)=0$ y $f''(c)>0$.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.55,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.45,
       "bundle_id": "CO-MAT-11-2026-W17-criterio-segunda-derivada-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",

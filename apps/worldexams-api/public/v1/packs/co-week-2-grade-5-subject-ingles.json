@@ -427,12 +427,6 @@
       "context": "Read the routine sentence: \"Sara eats a delicious breakfast with fresh milk and bread at 7:00 a.m.\"",
       "options": [
         {
-          "letter": "D",
-          "text": "In the morning.",
-          "is_correct": true,
-          "feedback": "7:00 a.m. corresponds to the morning hours."
-        },
-        {
           "letter": "A",
           "text": "In the evening.",
           "is_correct": false,
@@ -449,6 +443,12 @@
           "text": "In the afternoon.",
           "is_correct": false,
           "feedback": "Afternoon is the period between noon (12:00 p.m.) and evening."
+        },
+        {
+          "letter": "D",
+          "text": "In the morning.",
+          "is_correct": true,
+          "feedback": "7:00 a.m. corresponds to the morning hours."
         }
       ],
       "correct_answer": "D",
@@ -473,12 +473,6 @@
       "context": "Carlos is talking about his sister Lucía's daily schedule.",
       "options": [
         {
-          "letter": "D",
-          "text": "does.",
-          "is_correct": true,
-          "feedback": "Third-person singular (Lucía / she) requires \"does\" in Simple Present."
-        },
-        {
           "letter": "A",
           "text": "do.",
           "is_correct": false,
@@ -495,6 +489,12 @@
           "text": "done.",
           "is_correct": false,
           "feedback": "\"Done\" is the past participle form, not simple present."
+        },
+        {
+          "letter": "D",
+          "text": "does.",
+          "is_correct": true,
+          "feedback": "Third-person singular (Lucía / she) requires \"does\" in Simple Present."
         }
       ],
       "correct_answer": "D",
@@ -519,12 +519,6 @@
       "context": "Look at the timeline: 6:30 a.m. Take a shower -> 7:00 a.m. Eat breakfast -> 7:30 a.m. Go to school.",
       "options": [
         {
-          "letter": "C",
-          "text": "He eats breakfast.",
-          "is_correct": true,
-          "feedback": "According to the timeline, 7:00 a.m. breakfast follows 6:30 a.m. shower."
-        },
-        {
           "letter": "A",
           "text": "He goes to school.",
           "is_correct": false,
@@ -535,6 +529,12 @@
           "text": "He plays soccer.",
           "is_correct": false,
           "feedback": "Playing soccer is not listed on this morning timeline."
+        },
+        {
+          "letter": "C",
+          "text": "He eats breakfast.",
+          "is_correct": true,
+          "feedback": "According to the timeline, 7:00 a.m. breakfast follows 6:30 a.m. shower."
         },
         {
           "letter": "D",
@@ -565,12 +565,6 @@
       "context": "Two friends discuss how they travel to school every day in Cali.",
       "options": [
         {
-          "letter": "D",
-          "text": "take.",
-          "is_correct": true,
-          "feedback": "\"Take the bus\" is the correct verb collocation for bus transportation."
-        },
-        {
           "letter": "A",
           "text": "drive.",
           "is_correct": false,
@@ -587,6 +581,12 @@
           "text": "cook.",
           "is_correct": false,
           "feedback": "\"Cook\" is used for food, not transportation."
+        },
+        {
+          "letter": "D",
+          "text": "take.",
+          "is_correct": true,
+          "feedback": "\"Take the bus\" is the correct verb collocation for bus transportation."
         }
       ],
       "correct_answer": "D",
@@ -658,15 +658,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "\"I always brush my teeth three times a day.\"",
-          "is_correct": true,
-          "feedback": "\"Always\" and \"three times a day\" express a consistent, healthy daily frequency."
-        },
-        {
-          "letter": "B",
           "text": "\"I never brush my teeth during the week.\"",
           "is_correct": false,
           "feedback": "\"Never\" contradicts healthy personal hygiene practices."
+        },
+        {
+          "letter": "B",
+          "text": "\"I always brush my teeth three times a day.\"",
+          "is_correct": true,
+          "feedback": "\"Always\" and \"three times a day\" express a consistent, healthy daily frequency."
         },
         {
           "letter": "C",
@@ -681,7 +681,7 @@
           "feedback": "\"Yesterday\" conflicts with simple present habits and contains grammar errors."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Using adverbs of frequency (always, usually, sometimes, never) to describe regular habits.",
       "difficulty": "8",
       "images": [],
@@ -703,12 +703,6 @@
       "context": "Read the advice column: \"Going to sleep at 11:30 p.m. and waking up at 5:00 a.m. leaves children tired during school classes. Children need 8 to 9 hours of sleep every night to concentrate well.\"",
       "options": [
         {
-          "letter": "C",
-          "text": "Go to bed earlier at night to get at least 8 hours of restful sleep.",
-          "is_correct": true,
-          "feedback": "Sleeping earlier ensures the recommended 8-9 hours of rest for learning."
-        },
-        {
           "letter": "A",
           "text": "Drink coffee at midnight to stay awake during morning classes.",
           "is_correct": false,
@@ -719,6 +713,12 @@
           "text": "Skip breakfast and run to school as fast as possible.",
           "is_correct": false,
           "feedback": "Skipping breakfast decreases energy and concentration in class."
+        },
+        {
+          "letter": "C",
+          "text": "Go to bed earlier at night to get at least 8 hours of restful sleep.",
+          "is_correct": true,
+          "feedback": "Sleeping earlier ensures the recommended 8-9 hours of rest for learning."
         },
         {
           "letter": "D",

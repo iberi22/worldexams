@@ -151,12 +151,12 @@ Aplicar el oficio del tendero a una operación real de compra y cálculo de vuel
 ### Opciones
 - [ ] A) Que solo la médica hace un trabajo importante para el barrio.
   <!-- feedback: La basura acumulada demostró que el recolector también es esencial para la salud. -->
-- [x] B) Que oficios y profesiones son igual de necesarios: la salud depende tanto de curar como de prevenir con la limpieza.
-  <!-- feedback: La situación prueba que cada trabajo sostiene una parte del bienestar común. -->
+- [ ] B) Que los trabajos manuales no aportan nada a la economía.
+  <!-- feedback: Los oficios generan ingresos, empleos y servicios que mueven la economía local. -->
 - [ ] C) Que el oficio de recolector debería desaparecer del barrio.
   <!-- feedback: Sin el recolector, el barrio se enferma; su oficio es indispensable. -->
-- [ ] D) Que los trabajos manuales no aportan nada a la economía.
-  <!-- feedback: Los oficios generan ingresos, empleos y servicios que mueven la economía local. -->
+- [x] D) Que oficios y profesiones son igual de necesarios: la salud depende tanto de curar como de prevenir con la limpieza.
+  <!-- feedback: La situación prueba que cada trabajo sostiene una parte del bienestar común. -->
 
 ### Explicacion Pedagogica
 Analizar que oficios y profesiones son igualmente necesarios para el bienestar de la comunidad.

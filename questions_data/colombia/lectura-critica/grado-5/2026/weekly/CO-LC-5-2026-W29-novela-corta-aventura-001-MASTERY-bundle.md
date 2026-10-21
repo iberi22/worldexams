@@ -199,10 +199,10 @@ Analizar la información del relato para identificar quién guía las acciones y
   <!-- feedback: No cierra la búsqueda, no reflexiona sobre la memoria ni invita a seguir leyendo la historia. -->
 - [ ] B) "La laguna era solo un charco sucio y los niños se fueron aburridos a almorzar empanadas".
   <!-- feedback: Cierra sin misterio y sin reflexión; convierte la aventura en algo sin sentido para el lector. -->
-- [x] C) "Sara y Miguel encontraron el agua que canta, escribieron sus nombres en el cuaderno y entendieron que la verdadera herencia era la historia de sus abuelos".
-  <!-- feedback: Cierra la búsqueda, deja una reflexión sobre la memoria familiar y deja al lector con un aprendizaje valioso. -->
-- [ ] D) "El loro voló lejos y nunca más apareció, así que los niños olvidaron todo lo del cuaderno".
+- [ ] C) "El loro voló lejos y nunca más apareció, así que los niños olvidaron todo lo del cuaderno".
   <!-- feedback: Cierra la aventura en forma negativa y borra la reflexión sobre la memoria familiar. -->
+- [x] D) "Sara y Miguel encontraron el agua que canta, escribieron sus nombres en el cuaderno y entendieron que la verdadera herencia era la historia de sus abuelos".
+  <!-- feedback: Cierra la búsqueda, deja una reflexión sobre la memoria familiar y deja al lector con un aprendizaje valioso. -->
 
 ### Explicacion Pedagogica
 Evaluar un final narrativo aplicando criterios explícitos de coherencia, intención y aporte cultural al lector.

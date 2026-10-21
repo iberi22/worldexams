@@ -265,12 +265,12 @@ What is the correct sequence of verbs to complete the text?
 ### Opciones
 - [ ] A) grow / fixes / hurrys
   <!-- feedback: Incorrect. "Grow" needs an 's' and "hurry" has a spelling error. -->
-- [x] B) grows / fixes / hurries
-  <!-- feedback: Correct! Grows (+s), Fixes (+es for -x), and Hurries (-y to -ies for consonant + y). -->
+- [ ] B) grows / fixes / hurrys
+  <!-- feedback: Incorrect. "Hurry" ends in consonant + y, so it must change to "hurries". -->
 - [ ] C) grows / fixs / hurries
   <!-- feedback: Incorrect. "Fix" ends in 'x', so it needs 'es'. -->
-- [ ] D) grows / fixes / hurrys
-  <!-- feedback: Incorrect. "Hurry" ends in consonant + y, so it must change to "hurries". -->
+- [x] D) grows / fixes / hurries
+  <!-- feedback: Correct! Grows (+s), Fixes (+es for -x), and Hurries (-y to -ies for consonant + y). -->
 
 ### Explicacion Pedagogica
 The student evaluates multiple verb types and their specific third-person spelling rules to complete a coherent text.

@@ -428,12 +428,12 @@ El efecto invernadero terrestre se explica principalmente porque:
 ### Opciones
 - [ ] A) La atmósfera refleja toda la radiación solar.
   <!-- feedback: La atmósfera no refleja toda la radiación. -->
-- [x] B) Los gases como CO₂ y CH₄ absorben radiación infrarroja emitida por la superficie terrestre.
-  <!-- feedback: Absorben y reemiten radiación infrarroja, atrapando calor. -->
+- [ ] B) La Tierra pierde su campo magnético.
+  <!-- feedback: Es un fenómeno térmico, no magnético. -->
 - [ ] C) El ozono emite rayos X hacia el espacio.
   <!-- feedback: El ozono absorbe UV, no emite rayos X. -->
-- [ ] D) La Tierra pierde su campo magnético.
-  <!-- feedback: Es un fenómeno térmico, no magnético. -->
+- [x] D) Los gases como CO₂ y CH₄ absorben radiación infrarroja emitida por la superficie terrestre.
+  <!-- feedback: Absorben y reemiten radiación infrarroja, atrapando calor. -->
 
 ### Explicacion Pedagogica
 El efecto invernadero es la retención parcial de calor por gases que absorben radiación infrarroja reemitida por la superficie.

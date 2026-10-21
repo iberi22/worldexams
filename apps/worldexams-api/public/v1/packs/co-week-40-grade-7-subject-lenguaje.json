@@ -382,15 +382,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "El crítico tiene razón, internet reemplaza la necesidad de tener una cultura propia.",
-          "is_correct": false,
-          "feedback": "Internet es un medio, no un sustituto de las raíces y la identidad cultural."
-        },
-        {
-          "letter": "B",
           "text": "La afirmación es errónea, pues la diversidad étnica y oral es lo que nos da una voz única y auténtica en el concierto mundial.",
           "is_correct": true,
           "feedback": "Ignorar nuestras raíces nos haría copias de otras culturas; lo propio es nuestro valor diferenciador."
+        },
+        {
+          "letter": "B",
+          "text": "El crítico tiene razón, internet reemplaza la necesidad de tener una cultura propia.",
+          "is_correct": false,
+          "feedback": "Internet es un medio, no un sustituto de las raíces y la identidad cultural."
         },
         {
           "letter": "C",
@@ -405,7 +405,7 @@
           "feedback": "El valor de la literatura no se mide solo por las ventas comerciales, sino por su profundidad humana y social."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La evaluación crítica de posturas intelectuales permite al estudiante defender el valor de la diversidad. La identidad nacional no es un obstáculo para la modernidad, sino la base desde la cual nos conectamos con el mundo.",
       "difficulty": "10",
       "images": [],
@@ -440,18 +440,18 @@
         },
         {
           "letter": "C",
-          "text": "El reconocimiento de que nuestra nación es pluriétnica y multicultural, y que cada voz (escrita u oral) merece respeto y valoración.",
-          "is_correct": true,
-          "feedback": "Es la conclusión fundamental que promueve la convivencia, la empatía y la justicia social en un país diverso."
-        },
-        {
-          "letter": "D",
           "text": "Que los libros de antes son mejores que los de ahora porque no tenían errores.",
           "is_correct": false,
           "feedback": "Es un juicio nostálgico que no evalúa el contenido ni el impacto social del aprendizaje."
+        },
+        {
+          "letter": "D",
+          "text": "El reconocimiento de que nuestra nación es pluriétnica y multicultural, y que cada voz (escrita u oral) merece respeto y valoración.",
+          "is_correct": true,
+          "feedback": "Es la conclusión fundamental que promueve la convivencia, la empatía y la justicia social en un país diverso."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La evaluación final de la asignatura de Lengua en séptimo grado busca que el estudiante se reconozca como parte de una comunidad diversa. El respeto por la palabra del otro es la base de la democracia y la paz en Colombia.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :---: | :--- |\n| Técnico | 30/30 | Formato v5.2 respetado. |\n| Curricular | 40/40 | Evaluación integral final que conecta todos los temas de la segunda mitad del año. |\n| Contexto | 20/20 | Referencias a Tunja, Chocó, Boyacá y temas de identidad nacional. |\n| Redacción | 10/10 | Enunciados claros y retroalimentaciones pedagógicas sólidas. |\n| **Total** | **100/100** | |",
       "difficulty": "10",
       "images": [],

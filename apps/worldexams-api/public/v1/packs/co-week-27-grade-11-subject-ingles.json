@@ -13,12 +13,6 @@
       "context": "Discussing migration & diaspora in Medellín.",
       "options": [
         {
-          "letter": "C",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
           "text": "alleviate",
           "is_correct": false,
@@ -29,6 +23,12 @@
           "text": "mitigate",
           "is_correct": false,
           "feedback": "Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied."
+        },
+        {
+          "letter": "C",
+          "text": "exacerbate",
+          "is_correct": true,
+          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
         },
         {
           "letter": "D",
@@ -59,12 +59,6 @@
       "context": "Discussing migration & diaspora in Cartagena.",
       "options": [
         {
-          "letter": "D",
-          "text": "deter",
-          "is_correct": true,
-          "feedback": "'Deter' means to discourage someone from doing something by making it costly or unwelcome, which is what the rule does to recruitment. The clause about why the hospital was built names the outcome the rule defeats."
-        },
-        {
           "letter": "A",
           "text": "welcome",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "resemble",
           "is_correct": false,
           "feedback": "'Resemble' means to look like, and no comparison of appearance appears anywhere in the sentence. The clause describes a consequence the rule produces, not a likeness."
+        },
+        {
+          "letter": "D",
+          "text": "deter",
+          "is_correct": true,
+          "feedback": "'Deter' means to discourage someone from doing something by making it costly or unwelcome, which is what the rule does to recruitment. The clause about why the hospital was built names the outcome the rule defeats."
         }
       ],
       "correct_answer": "D",
@@ -105,16 +105,16 @@
       "context": "Discussing migration & diaspora in Manizales.",
       "options": [
         {
-          "letter": "B",
-          "text": "cultivate",
-          "is_correct": true,
-          "feedback": "'Cultivate' means to develop something over time through care, which fits schools and clinics maintained by the community itself. The clause about belonging that cannot be handed out describes something grown rather than assigned."
-        },
-        {
           "letter": "A",
           "text": "ration",
           "is_correct": false,
           "feedback": "'Ration' means to limit the amount of something available, and the sentence describes communities providing rather than withholding resources. The clause names something that accumulates, not something held back."
+        },
+        {
+          "letter": "B",
+          "text": "cultivate",
+          "is_correct": true,
+          "feedback": "'Cultivate' means to develop something over time through care, which fits schools and clinics maintained by the community itself. The clause about belonging that cannot be handed out describes something grown rather than assigned."
         },
         {
           "letter": "C",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W27-migration-diaspora-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on migration & diaspora in Cartagena, what is implied about the role of Speculating about the Past in shaping public opinion?",
-      "context": "Discussing migration & diaspora in Cartagena.",
+      "statement": "Read the text and answer the question.\n\n\"When Luisa Pérez arrived in Cartagena from Maracaibo in 2018, she had two children, one suitcase and no job. She started by selling arepas on a street corner near the bus terminal. Her neighbours soon noticed that her arepas were different: thinner and filled with cheese and shredded beef. Five years later, Luisa has a small restaurant with six employees, four of them Colombian. 'People think migrants only take jobs,' she says. 'But many of us also create them.' According to the city's chamber of commerce, more than 2,000 businesses in Cartagena were opened by Venezuelans.\"\n\nWhat is the main idea of the text?",
+      "context": "A feature article about Venezuelan migrants who opened businesses in Cartagena.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Migrants in Cartagena take jobs away from Colombian workers.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. Luisa mentions this belief to reject it, and her restaurant employs four Colombians."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Venezuelan arepas are healthier than Colombian arepas.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. The text says her arepas were thinner and differently filled, but it never compares how healthy they are."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Cartagena.",
+          "text": "Luisa wants to return to Maracaibo with her children.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. Nothing in the text mentions a plan to return; it describes how she built a business in Cartagena."
+        },
+        {
+          "letter": "D",
+          "text": "Some migrants, like Luisa, create businesses and jobs in their new city.",
+          "is_correct": true,
+          "feedback": "Correct. Luisa's story, her quote 'many of us also create them' and the figure of 2,000 businesses all support the idea that migrants can create employment."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Feature articles often use one personal story to illustrate a general idea. Here, Luisa's experience is followed by a quote that states the idea and a statistic that generalises it. The main idea must include both the example and the generalisation, while distractors repeat a rejected belief or focus on a minor detail.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-11-2026-W27-migration-diaspora-001-MASTERY-bundle-v6",
-      "statement": "According to a recent report on migration & diaspora in Medellín, what is implied about the role of Speculating about the Past in shaping public opinion?",
-      "context": "Discussing migration & diaspora in Medellín.",
+      "statement": "Read the text and answer the question.\n\n\"My father moved from Medellín to Madrid when I was eight. Every month he sends money, and every Sunday we talk by video call. People sometimes say I am lucky because he pays for my studies and for our house. They are right, in a way. But they do not see the birthdays with an empty chair, or my mother doing everything alone. When I graduate this year, he will not be in the audience, because a plane ticket costs almost as much as a semester of university. I am grateful, but I would not call it luck.\"\n\nWhat can we infer about how the writer feels?",
+      "context": "A personal essay by a Colombian student whose father lives in Spain.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "letter": "A",
+          "text": "Completely happy, because the money solves all the family's problems.",
+          "is_correct": false,
+          "feedback": "Incorrect. She lists problems that money cannot solve, such as the empty chair and her mother doing everything alone."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "letter": "B",
+          "text": "Grateful for her father's support, but sad about the cost of the separation.",
+          "is_correct": true,
+          "feedback": "Correct. She says 'I am grateful', but she also describes the empty chair and his absence at graduation, so her feeling combines gratitude and sadness."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Angry with her father for not wanting to visit the family.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. He does not come because the ticket is very expensive, not because he does not want to; she shows no anger."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Cali.",
+          "text": "Ashamed because people know her father lives abroad.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. Nothing in the essay suggests shame; she disagrees only with the word 'lucky'."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Mixed feelings are often expressed through concession: 'They are right, in a way. But...' and 'I am grateful, but...'. The writer accepts the benefits of remittances and at the same time reveals the emotional cost. Students should look for both parts of the contrast instead of choosing an option that keeps only one.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -285,36 +285,36 @@
     },
     {
       "id": "CO-ING-11-2026-W27-migration-diaspora-001-MASTERY-bundle-v7",
-      "statement": "According to a recent report on migration & diaspora in Bogotá, what is implied about the role of Speculating about the Past in shaping public opinion?",
-      "context": "Discussing migration & diaspora in Bogotá.",
+      "statement": "Read the text and answer the question.\n\n\"The Temporary Protection Permit (PPT) allows Venezuelan migrants to live and work legally in Colombia for ten years. With the PPT, holders can open a bank account, sign a work contract, and access the public health system. To apply, migrants must first complete a registration form online and then attend an appointment to take a photo and fingerprints. The permit is free. Applicants should be careful with people who offer to 'speed up' the process in exchange for money: these offers are fraudulent, and Migración Colombia never charges for the permit.\"\n\nAccording to the notice, what should applicants do if someone offers to speed up the process for money?",
+      "context": "Information from Migración Colombia published on a public notice board in Bogotá.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "letter": "A",
+          "text": "Pay the money to receive the permit faster.",
+          "is_correct": false,
+          "feedback": "Incorrect. The notice warns against this because the permit is free and the offers are fraudulent."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "letter": "B",
+          "text": "Not accept the offer, because it is a fraud.",
+          "is_correct": true,
+          "feedback": "Correct. The notice says these offers 'are fraudulent' and that Migración Colombia never charges for the permit, so applicants should not pay."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Take the photo and fingerprints again at a new appointment.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. The photo and fingerprints are normal steps of the process, not a response to fraudulent offers."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Cartagena.",
+          "text": "Open a bank account to make the payment safely.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. A bank account is one of the benefits of the PPT, not a way to pay for it; the permit has no cost."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Official notices often include a warning at the end. The question asks about one specific situation, and the answer combines two facts: the offers are fraudulent and the permit is free. Distractors reuse other procedures or benefits mentioned in the notice, which is a typical trap in detail questions.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -335,12 +335,6 @@
       "context": "Discussing migration & diaspora in Cali.",
       "options": [
         {
-          "letter": "C",
-          "text": "to have",
-          "is_correct": true,
-          "feedback": "'Which meant to have + past participle' is the past form of speculation about an unrealised event: the ability to speak Spanish was always there in potential but never became a reality. Only 'to have' can carry that counterfactual sense after a past 'meant'."
-        },
-        {
           "letter": "A",
           "text": "having",
           "is_correct": false,
@@ -351,6 +345,12 @@
           "text": "had",
           "is_correct": false,
           "feedback": "'Which meant had my Spanish would arrive broken' is not a licensed form in English; 'meant' takes an infinitive or a that-clause, not a stranded past perfect auxiliary. A real past perfect would claim the ability had in fact occurred."
+        },
+        {
+          "letter": "C",
+          "text": "to have",
+          "is_correct": true,
+          "feedback": "'Which meant to have + past participle' is the past form of speculation about an unrealised event: the ability to speak Spanish was always there in potential but never became a reality. Only 'to have' can carry that counterfactual sense after a past 'meant'."
         },
         {
           "letter": "D",
@@ -377,36 +377,36 @@
     },
     {
       "id": "CO-ING-11-2026-W27-migration-diaspora-001-MASTERY-bundle-v9",
-      "statement": "According to a recent report on migration & diaspora in Manizales, what is implied about the role of Speculating about the Past in shaping public opinion?",
-      "context": "Discussing migration & diaspora in Manizales.",
+      "statement": "Read the text and answer the question.\n\n\"Many people think that migration from Colombia is a recent phenomenon, but it has a long history. In the 1960s and 1970s, thousands of Colombians from the coffee region travelled to New York, especially to the neighbourhood of Jackson Heights in Queens. Most of them worked in factories and restaurants. They sent letters and cassettes with recorded messages to their families, because international calls were too expensive. Today, Jackson Heights still has Colombian bakeries and a street known informally as 'Little Colombia'. The historian says these communities kept their traditions alive for decades.\"\n\nWhy did migrants send recorded cassettes to their families?",
+      "context": "A radio interview with a historian from Manizales about Colombian emigration in the past.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "letter": "A",
+          "text": "Because they worked in factories that produced cassettes.",
+          "is_correct": false,
+          "feedback": "Incorrect. They worked in factories, but the text does not say the factories made cassettes, and that is not the reason given."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "letter": "B",
+          "text": "Because international phone calls cost too much at that time.",
+          "is_correct": true,
+          "feedback": "Correct. The text gives the reason directly: they sent letters and cassettes 'because international calls were too expensive'."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Because their families could not read letters.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. The migrants also sent letters, so the text does not suggest that their families were unable to read."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Medellín.",
+          "text": "Because the historian asked them to record their traditions.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The historian studies these communities today; he did not ask the migrants of the 1960s to record anything."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "When a question asks 'why', look for connectors of cause such as 'because', 'since' or 'due to'. In this text, the reason appears right after the information about letters and cassettes. Plausible distractors use other facts from the text (factories, the historian), but they do not answer the question asked.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -423,36 +423,36 @@
     },
     {
       "id": "CO-ING-11-2026-W27-migration-diaspora-001-MASTERY-bundle-v10",
-      "statement": "According to a recent report on migration & diaspora in Cali, what is implied about the role of Speculating about the Past in shaping public opinion?",
-      "context": "Discussing migration & diaspora in Cali.",
+      "statement": "Read the text and answer the question.\n\n\"Coming back to Colombia after years abroad is not always easy. Many returnees feel like strangers in their own country: prices have changed, friends have moved, and even the way people speak seems different. This feeling has a name: reverse culture shock. Our association in Cali offers free monthly meetings where returnees can share their experiences, get advice on finding work, and learn how to validate foreign university degrees. We also organise a mentoring programme in which people who returned years ago help newcomers. You came home; now let us help you feel at home.\"\n\nWhat is the main purpose of this message?",
+      "context": "A message on a community website for Colombians who return home after living abroad.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "To offer support to people who have returned to Colombia after living abroad.",
           "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "feedback": "Correct. After describing the problem of reverse culture shock, the message presents the association's free meetings and mentoring and ends with 'let us help you feel at home'."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "To convince Colombians not to emigrate.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. The message is addressed to people who have already come back; it does not discuss whether people should leave."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "To explain why prices in Colombia have increased.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. Price changes are mentioned only as one example of what returnees notice; the text gives no explanation of them."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Pereira.",
+          "text": "To advertise a university that gives foreign degrees.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The association helps returnees validate degrees obtained abroad; it is not advertising a university."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Messages from organisations often follow a pattern: they describe a problem the reader may recognise and then present a service. The final sentence, which plays with the words 'home' and 'at home', makes the supportive purpose explicit. Examples inside the description of the problem should not be confused with the purpose.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -473,12 +473,6 @@
       "context": "Discussing migration & diaspora in Cartagena.",
       "options": [
         {
-          "letter": "D",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -495,6 +489,12 @@
           "text": "did",
           "is_correct": false,
           "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+        },
+        {
+          "letter": "D",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
         }
       ],
       "correct_answer": "D",
@@ -519,12 +519,6 @@
       "context": "Discussing migration & diaspora in Cali.",
       "options": [
         {
-          "letter": "D",
-          "text": "must have arrived",
-          "is_correct": true,
-          "feedback": "'Must have + participle' expresses a confident deduction about the past from present evidence. The letters are the evidence and the records are the comparison, so the writer is drawing a strong conclusion about a completed move."
-        },
-        {
           "letter": "A",
           "text": "will have arrived",
           "is_correct": false,
@@ -541,6 +535,12 @@
           "text": "has been arriving",
           "is_correct": false,
           "feedback": "The present perfect continuous would describe a process still continuing, and 'two years earlier' fixes a completed date. The writer needs a single finished arrival, not an ongoing habit of arriving."
+        },
+        {
+          "letter": "D",
+          "text": "must have arrived",
+          "is_correct": true,
+          "feedback": "'Must have + participle' expresses a confident deduction about the past from present evidence. The letters are the evidence and the records are the comparison, so the writer is drawing a strong conclusion about a completed move."
         }
       ],
       "correct_answer": "D",
@@ -561,36 +561,36 @@
     },
     {
       "id": "CO-ING-11-2026-W27-migration-diaspora-001-MASTERY-bundle-v13",
-      "statement": "Complete the following sentence about migration & diaspora: 'The elder daughter __________ no Spanish at all when the family landed, and ended up interpreting her parents at every appointment.' (Topic: past perfect continuous for a background state that the main clause depends on)",
+      "statement": "Complete the following sentence about migration & diaspora: 'By the time the family crossed the bridge into Cúcuta in 2019, they __________ in Maracaibo for eleven years.' (Topic: past perfect continuous for a situation that lasted up to a past moment)",
       "context": "Discussing migration & diaspora in Cali.",
       "options": [
         {
           "letter": "A",
-          "text": "had been speaking",
+          "text": "had been living",
           "is_correct": true,
-          "feedback": "'Had been speaking' is the past perfect continuous: the state was already running before the main clause began, and that unbroken state is what the interpreting depends on. Continuity, not a single past event, is what the sentence reports."
+          "feedback": "Correct. 'By the time' + a past event and 'for eleven years' describe a situation that continued up to a moment in the past, which is the use of the past perfect continuous."
         },
         {
           "letter": "B",
-          "text": "had spoke",
+          "text": "have been living",
           "is_correct": false,
-          "feedback": "The past participle of 'speak' is 'spoken', never 'spoke'. A student who writes 'had spoke' is using the simple past form where the perfect demands the participle, which breaks the construction before any meaning can be read."
+          "feedback": "Incorrect. The present perfect continuous connects with the present, but the period ended in 2019, a past moment marked by 'crossed'."
         },
         {
           "letter": "C",
-          "text": "was speaking",
+          "text": "are living",
           "is_correct": false,
-          "feedback": "'Was speaking' is the past continuous, which puts the state at the same moment as the main clause instead of before it. Because the daughter had not yet learned Spanish at the moment of landing, the state has to be established as earlier, which requires the perfect."
+          "feedback": "Incorrect. The present continuous describes now, but the sentence refers to the eleven years before the family left Maracaibo in 2019."
         },
         {
           "letter": "D",
-          "text": "had spoken",
+          "text": "will have been living",
           "is_correct": false,
-          "feedback": "'Had spoken' is the simple past perfect, which reports a completed action. The ability to speak nothing is not an event that finished; it is a state that held, so the continuous form is the one that matches the meaning."
+          "feedback": "Incorrect. The future perfect continuous looks forward from the present, while 'crossed' and '2019' place the whole situation in the past."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The past perfect continuous ('had been + participle') describes a background state that was already in progress when the main clause started, and it is preferred over the simple past perfect whenever continuity rather than completion is what the main clause depends on. The two traps are the wrong participle ('had spoke') and the wrong aspect ('was speaking'), and both are typical errors at this level.\n\n---",
+      "explanation": "The past perfect continuous ('had been + -ing') describes an action or situation that continued up to a specific moment in the past. Key signals are 'by the time' followed by a simple past verb and a duration with 'for'. Only one option places the eleven years before 2019 while showing duration.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -611,16 +611,16 @@
       "context": "Discussing migration & diaspora in Cali.",
       "options": [
         {
-          "letter": "B",
-          "text": "we would have",
-          "is_correct": true,
-          "feedback": "The if-clause carries the past perfect 'had the family settled', so the result clause must carry the matching 'would have' plus participle. A single conditional with two outcomes requires both halves to be inverted, which is what the sentence shows."
-        },
-        {
           "letter": "A",
           "text": "we will have",
           "is_correct": false,
           "feedback": "'Will have' would make the consequence certain in the future, but the first half is entirely in the past. A counterfactual about a past divergence needs 'would have', the modal that marks an unreal result."
+        },
+        {
+          "letter": "B",
+          "text": "we would have",
+          "is_correct": true,
+          "feedback": "The if-clause carries the past perfect 'had the family settled', so the result clause must carry the matching 'would have' plus participle. A single conditional with two outcomes requires both halves to be inverted, which is what the sentence shows."
         },
         {
           "letter": "C",
@@ -657,16 +657,16 @@
       "context": "Discussing migration & diaspora in Bogotá.",
       "options": [
         {
-          "letter": "B",
-          "text": "contradicting",
-          "is_correct": true,
-          "feedback": "A present participle after a comma can mark a point of contrast, and 'contradicting' sets the register against the family's account. The two competing times are exactly what makes the detail a contradiction."
-        },
-        {
           "letter": "A",
           "text": "confirming",
           "is_correct": false,
           "feedback": "'Confirming' would make the two sources agree, but the sentence gives two different days. The whole purpose of mentioning both is to record the disagreement between them."
+        },
+        {
+          "letter": "B",
+          "text": "contradicting",
+          "is_correct": true,
+          "feedback": "A present participle after a comma can mark a point of contrast, and 'contradicting' sets the register against the family's account. The two competing times are exactly what makes the detail a contradiction."
         },
         {
           "letter": "C",
@@ -749,32 +749,32 @@
       "context": "Discussing migration & diaspora in Medellín.",
       "options": [
         {
-          "letter": "C",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
           "text": "They are literally looking for something in the trees of Medellín.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads the idiom word for word; nobody in the debate is searching any trees, because the phrase is figurative and describes a mistaken strategy."
         },
         {
           "letter": "B",
           "text": "The approach is too noisy and aggressive.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. 'Barking' here does not describe loud or aggressive behaviour; the idiom is about aiming at the wrong target, not about the tone of the discussion."
+        },
+        {
+          "letter": "C",
+          "text": "The current strategy is directed towards the wrong objective.",
+          "is_correct": true,
+          "feedback": "Correct. 'Bark up the wrong tree' comes from hunting dogs barking at a tree the animal is not in, so it means putting effort into the wrong cause or the wrong solution."
         },
         {
           "letter": "D",
           "text": "A new environmental project involving trees should be started.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The speaker is criticising the current approach, not proposing a new project; 'tree' is part of a fixed expression and has no literal meaning here."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'To bark up the wrong tree' means to look for a cause or a solution in the wrong place. The words 'with this approach' show that the speaker is questioning the strategy itself, so only the figurative reading fits; the literal options ignore that an idiom is a fixed expression whose meaning is not the sum of its words.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-ING-11-2026-W27-migration-diaspora-001-MASTERY-bundle-v18",
-      "statement": "In a high-level debate about migration & diaspora, Lucía says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Lucía mean?",
-      "context": "Discussing migration & diaspora in Cartagena.",
+      "statement": "Two friends in Cartagena talk about Juliana, who moved to Chile last year.\n\nPablo: 'Do you still talk to Juliana?'\nMarcela: 'Not as much as before. We've drifted apart since she left, but I still send her messages on her birthday.'\n\nWhat does Marcela mean?",
+      "context": "A conversation between two young people in Cartagena whose friend has emigrated.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Pereira.",
+          "text": "They had a big fight and stopped talking completely.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. 'Drift apart' describes a gradual process without a conflict, and she still sends birthday messages, so they did not stop talking."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Juliana travelled to Chile by boat.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. This takes 'drift' as movement on water; the phrasal verb here describes a relationship."
         },
         {
           "letter": "C",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "They talk more now than when Juliana lived in Cartagena.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. Marcela says 'Not as much as before', so they talk less, not more."
+        },
+        {
+          "letter": "D",
+          "text": "Their friendship has gradually become less close.",
+          "is_correct": true,
+          "feedback": "Correct. 'Drift apart' means to slowly become less close to someone; 'Not as much as before' confirms that they communicate less."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Drift apart' is a phrasal verb used for relationships that weaken slowly over time, often because of distance. It differs from 'fall out', which implies an argument. The details in the dialogue, less frequent contact and birthday messages, show a gradual change, not a sudden break.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -837,36 +837,36 @@
     },
     {
       "id": "CO-ING-11-2026-W27-migration-diaspora-001-MASTERY-bundle-v19",
-      "statement": "In a high-level debate about migration & diaspora, Santiago says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Santiago mean?",
-      "context": "Discussing migration & diaspora in Manizales.",
+      "statement": "A customer talks to the owner of a restaurant in Manizales who lived in the United States for twenty years.\n\nCustomer: 'Wasn't it hard to start again here after so many years?'\nOwner: 'At first, yes. But I had to make ends meet, so I opened this place with my savings.'\n\nWhat does the owner mean by 'make ends meet'?",
+      "context": "A conversation at a Colombian restaurant in Manizales run by a returned migrant.",
       "options": [
         {
-          "letter": "C",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Bogotá.",
+          "text": "Join the two ends of a rope.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This is a literal reading of 'ends' and 'meet'; the expression is about money, not physical objects."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Meet old friends at the end of the day.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. 'Meet' here is part of a fixed expression; the owner is talking about money and his savings, not social meetings."
+        },
+        {
+          "letter": "C",
+          "text": "Earn enough money to pay for basic expenses.",
+          "is_correct": true,
+          "feedback": "Correct. 'Make ends meet' means to have enough money for what you need; opening the restaurant was his way of earning an income."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Finish his studies in the United States.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. He mentions starting again in Colombia and opening a restaurant, not studying abroad."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Make ends meet' is a common idiom about personal finances: having just enough money to cover basic costs. The owner's explanation, opening a restaurant with his savings, shows the economic pressure he faced after returning. Context about money and work helps the reader reject literal interpretations.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -883,36 +883,36 @@
     },
     {
       "id": "CO-ING-11-2026-W27-migration-diaspora-001-MASTERY-bundle-v20",
-      "statement": "In a high-level debate about migration & diaspora, Daniela says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Daniela mean?",
-      "context": "Discussing migration & diaspora in Manizales.",
+      "statement": "A social worker in Medellín talks to a family that has just arrived from Venezuela.\n\nSocial worker: 'I know everything feels new and difficult. Take it one step at a time: first the children's school registration, then the health service.'\nFather: 'Thank you. That makes it feel less overwhelming.'\n\nWhat is the social worker doing?",
+      "context": "A conversation between a social worker and a migrant family in Medellín.",
       "options": [
         {
-          "letter": "C",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Medellín.",
+          "text": "Telling the family to walk slowly to the school.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. 'One step at a time' is not about walking; it means dealing with one task before the next."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Refusing to help with the health service.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. The health service is the second step in her plan, so she includes it instead of refusing it."
+        },
+        {
+          "letter": "C",
+          "text": "Reassuring the family and suggesting an order for their tasks.",
+          "is_correct": true,
+          "feedback": "Correct. 'I know everything feels...' shows empathy, and 'one step at a time: first..., then...' organises the tasks; the father's answer confirms he feels calmer."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Criticising the family for arriving without documents.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. Her tone is supportive, and documents are never mentioned; the father thanks her, which would be unlikely after criticism."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "This item focuses on the function of an utterance. Expressions like 'I know everything feels...' acknowledge someone's emotions, and 'one step at a time' proposes a manageable sequence. The listener's response ('That makes it feel less overwhelming') confirms that the speaker's intention was to reassure and guide.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

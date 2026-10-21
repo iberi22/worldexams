@@ -35,10 +35,10 @@ cefr_level: "C1+"
 In the context of comprehensive review 3, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?
 
 ### Opciones
-- [x] B) exacerbate
-  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
 - [ ] A) alleviate
   <!-- feedback: Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed. -->
+- [x] B) exacerbate
+  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
 - [ ] C) mitigate
   <!-- feedback: Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied. -->
 - [ ] D) facilitate
@@ -127,23 +127,27 @@ Reliable and trustworthy both describe something that can be depended on. The se
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.70
-**Contexto:** Discussing comprehensive review 3 in Medellín.
+**Contexto:** Reading a short text about the Flower Festival in Medellín.
 
 ### Enunciado
-According to a recent report on comprehensive review 3 in Medellín, what is implied about the role of Final Assessment Prep in shaping public opinion?
+Read the text and answer the question.
+
+"Every August, Medellín celebrates the Flower Festival. Its most famous event is the parade of the silleteros, farmers from the area of Santa Elena who carry huge flower arrangements on their backs. Some arrangements weigh more than 70 kilograms. The tradition began when farmers carried flowers down the mountain on their backs to sell them in the city. Today, the silleteros pass the skill from parents to children, and many families have taken part for several generations."
+
+According to the text, how did the silletero tradition begin?
 
 ### Opciones
-- [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. Final Assessment Prep gives a text its nuance and precision, so it does not make the message simpler to grasp. -->
-- [ ] C) It is only used by academic elites in Cartagena.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [ ] A) As a sports competition between villages.
+  <!-- feedback: Incorrect. The text never mentions a competition; the arrangements are carried in a parade. -->
+- [ ] B) As a celebration of the end of the school year.
+  <!-- feedback: Incorrect. Schools are not mentioned; the festival is described as taking place in August. -->
+- [ ] C) As a parade organised by the city government.
+  <!-- feedback: Incorrect. The parade is today's event, but the text says the tradition started with farmers' work. -->
+- [x] D) Farmers carried flowers down to the city to sell them.
+  <!-- feedback: Correct. The text says 'The tradition began when farmers carried flowers down the mountain... to sell them in the city'. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Questions about origins are answered by expressions like 'began', 'started' or 'originally'. Here the sentence with 'began' explains that the parade comes from a practical activity: farmers carrying flowers on their backs to sell in Medellín.
 
 ---
 
@@ -152,23 +156,27 @@ This question requires inferential reading skills to understand how complex stru
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.67
-**Contexto:** Discussing comprehensive review 3 in Cali.
+**Contexto:** Reading a short text about birdwatching in Cali.
 
 ### Enunciado
-According to a recent report on comprehensive review 3 in Cali, what is implied about the role of Final Assessment Prep in shaping public opinion?
+Read the text and answer the question.
+
+"More than 500 bird species have been recorded within the municipality of Cali, which makes it one of the best cities in the world for birdwatching. Experts explain that the city's location, between the Western Andes and the Cauca River valley, creates many different habitats where birds can thrive. Every year, the city organises a birdwatching fair that attracts visitors from Colombia and abroad."
+
+In the text, "thrive" means...
 
 ### Opciones
-- [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. Final Assessment Prep gives a text its nuance and precision, so it does not make the message simpler to grasp. -->
-- [ ] C) It is only used by academic elites in Cali.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [ ] A) disappear slowly.
+  <!-- feedback: Incorrect. This is the opposite; the text explains why so many species are found in Cali. -->
+- [ ] B) migrate to other countries.
+  <!-- feedback: Incorrect. The text talks about birds living in Cali's habitats, not leaving for other countries. -->
+- [ ] C) be hunted by people.
+  <!-- feedback: Incorrect. Hunting is never mentioned, and the context is positive. -->
+- [x] D) grow and live successfully.
+  <!-- feedback: Correct. Many different habitats explain why more than 500 species do well in Cali, which is the meaning of 'thrive'. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+The meaning of 'thrive' can be guessed from the positive context: Cali has more than 500 species and is one of the best cities for birdwatching because its habitats are varied. A word that explains this success must mean doing well or flourishing.
 
 ---
 
@@ -200,23 +208,27 @@ Laura must apply both the numerical limit and the exception for reference dictio
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.61
-**Contexto:** Discussing comprehensive review 3 in Barranquilla.
+**Contexto:** Reading a short text about the Carnival of Barranquilla.
 
 ### Enunciado
-According to a recent report on comprehensive review 3 in Barranquilla, what is implied about the role of Final Assessment Prep in shaping public opinion?
+Read the text and answer the question.
+
+"The Carnival of Barranquilla takes place during the four days before Ash Wednesday, but preparations start months earlier. Dance groups rehearse in the streets after work, and families sew costumes at home. Many dancers are not professionals: they are teachers, taxi drivers or students. In 2003, UNESCO recognised the carnival as a Masterpiece of the Oral and Intangible Heritage of Humanity."
+
+What can be inferred about the carnival?
 
 ### Opciones
-- [x] A) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] B) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. Final Assessment Prep gives a text its nuance and precision, so it does not make the message simpler to grasp. -->
-- [ ] D) It is only used by academic elites in Bucaramanga.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [x] A) It depends on the effort of many ordinary citizens, not only professional artists.
+  <!-- feedback: Correct. Families make costumes, and many dancers are teachers, taxi drivers or students who rehearse after work. -->
+- [ ] B) It lasts for several months.
+  <!-- feedback: Incorrect. The carnival itself lasts four days; it is the preparation that takes months. -->
+- [ ] C) It is organised only by professional dancers.
+  <!-- feedback: Incorrect. The text says many dancers 'are not professionals'. -->
+- [ ] D) It began in 2003.
+  <!-- feedback: Incorrect. 2003 is the year of UNESCO's recognition, not the year the carnival started. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+The inference comes from several details pointing in the same direction: rehearsals 'after work', costumes sewn at home and dancers with ordinary jobs. Watch out for the dates: the four days are the event, the months are preparation, and 2003 is a recognition, not a beginning.
 
 ---
 
@@ -225,23 +237,27 @@ This question requires inferential reading skills to understand how complex stru
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.58
-**Contexto:** Discussing comprehensive review 3 in Bogotá.
+**Contexto:** Reading a notice at a museum in Bogotá.
 
 ### Enunciado
-According to a recent report on comprehensive review 3 in Bogotá, what is implied about the role of Final Assessment Prep in shaping public opinion?
+Read the notice and answer the question.
+
+"Free Sundays! On the last Sunday of every month, entrance to our museum is free for all visitors. Because these days are very popular, we recommend arriving early, as the number of people inside at the same time is limited. Large bags must be left in the lockers at the entrance. Photography without flash is permitted in most rooms. Guided tours in English are available at 11 a.m."
+
+What is the main purpose of this notice?
 
 ### Opciones
-- [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. Final Assessment Prep gives a text its nuance and precision, so it does not make the message simpler to grasp. -->
-- [ ] C) It is only used by academic elites in Cali.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [ ] A) To announce that the museum will close permanently.
+  <!-- feedback: Incorrect. The notice invites people to visit and describes regular free days, so the museum is not closing. -->
+- [ ] B) To explain the history of the museum's collection.
+  <!-- feedback: Incorrect. The notice says nothing about the collection's history. -->
+- [ ] C) To advertise guided tours in English only.
+  <!-- feedback: Incorrect. The tours are one detail at the end; most of the notice is about the free days and the rules. -->
+- [x] D) To inform visitors about free entry days and the rules they must follow.
+  <!-- feedback: Correct. The notice explains when entry is free and lists rules about capacity, bags and photography. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+To identify a notice's purpose, look at its title and at what most of the sentences do. The title 'Free Sundays!' and the instructions about arrival, bags and photos show that it informs visitors about free entry and how to behave. A single detail, like the tours, is not the main purpose.
 
 ---
 
@@ -279,10 +295,10 @@ The third conditional combines if plus past perfect with would have plus past pa
 Complete the following sentence about comprehensive review 3: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Final Assessment Prep)
 
 ### Opciones
-- [x] B) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
 - [ ] A) has
   <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
+- [x] B) had
+  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
 - [ ] C) was
   <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
 - [ ] D) did
@@ -425,17 +441,17 @@ Inversion after 'only after' places the auxiliary before the subject of the main
 In a high-level debate about comprehensive review 3, Mateo says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mateo mean?
 
 ### Opciones
-- [x] C) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
 - [ ] A) They are literally looking for something in the trees of Cartagena.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
+  <!-- feedback: Incorrect. This reads the idiom literally; nobody in the debate is searching real trees, because the expression is figurative and describes a mistaken line of action. -->
 - [ ] B) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
+  <!-- feedback: Incorrect. 'Barking' here does not describe a loud or aggressive tone; the idiom is about choosing the wrong objective, not about how people speak. -->
+- [x] C) The current strategy is directed towards the wrong objective.
+  <!-- feedback: Correct. 'Bark up the wrong tree' means aiming your effort at the wrong cause or target, so the speaker is saying the current plan on comprehensive review 3 points in the wrong direction. -->
 - [ ] D) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+  <!-- feedback: Incorrect. The word 'tree' belongs to a fixed expression, so the speaker is not proposing a project with trees; the speaker is criticising the approach under discussion. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+The idiom 'bark up the wrong tree' comes from hunting dogs that bark at a tree after the animal has escaped to another one. In a debate about comprehensive review 3, it means the group's effort is aimed at the wrong cause or solution. The literal words (barking, trees) are not part of the message, so any option that mentions real trees or noise misreads the idiom.
 
 ---
 
@@ -467,23 +483,28 @@ An improvement following an intervention does not by itself prove causation. A s
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.28
-**Contexto:** Discussing comprehensive review 3 in Cartagena.
+**Contexto:** A conversation between a tourist and a guide in Cartagena.
 
 ### Enunciado
-In a high-level debate about comprehensive review 3, Valentina says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Valentina mean?
+Read the dialogue.
+
+Tourist: "Does it ever get cold in Cartagena?"
+Guide: "Only once in a blue moon. Most of the year it's hot and humid, so bring light clothes."
+
+What does the guide mean?
 
 ### Opciones
-- [x] D) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of Barranquilla.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] B) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] C) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [ ] A) It gets cold every time there is a full moon.
+  <!-- feedback: Incorrect. This reads 'blue moon' literally; the idiom describes frequency, not the moon's phases. -->
+- [ ] B) It gets cold every night.
+  <!-- feedback: Incorrect. The guide says most of the year is hot and humid, which contradicts cold nights. -->
+- [ ] C) It is cold for most of the year.
+  <!-- feedback: Incorrect. The guide says the opposite: 'Most of the year it's hot and humid'. -->
+- [x] D) It almost never gets cold.
+  <!-- feedback: Correct. 'Once in a blue moon' means very rarely, which fits the advice to bring light clothes. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+'Once in a blue moon' is an idiom meaning 'very rarely'. The guide's next sentence supports this meaning: the weather is usually hot and humid. Using the following sentence to confirm an idiom is a useful strategy in reading tasks.
 
 ---
 
@@ -492,22 +513,27 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.25
-**Contexto:** Discussing comprehensive review 3 in Bogotá.
+**Contexto:** A conversation in an English class in Bogotá.
 
 ### Enunciado
-In a high-level debate about comprehensive review 3, Isabella says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Isabella mean?
+Read the dialogue.
+
+Pablo: "I've read this question three times and I still can't figure out what it's asking."
+Teacher: "Try underlining the key words first."
+
+What is Pablo's problem?
 
 ### Opciones
-- [x] D) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of Manizales.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] B) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] C) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [ ] A) He cannot write numbers on the question.
+  <!-- feedback: Incorrect. 'Figure' can mean a number, but 'figure out' is a phrasal verb about understanding. -->
+- [ ] B) He cannot draw a picture of the question.
+  <!-- feedback: Incorrect. 'Figure' can mean an image, but the phrasal verb has nothing to do with drawing. -->
+- [ ] C) He has decided to skip the question.
+  <!-- feedback: Incorrect. Pablo has read it three times and the teacher gives him a strategy, so he has not skipped it. -->
+- [x] D) He cannot understand what the question is asking.
+  <!-- feedback: Correct. 'Figure out' means to understand or solve something after thinking about it. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+'Figure out' is a phrasal verb meaning to understand or solve something through thinking. The context makes this clear: Pablo has read the question several times without understanding it, and the teacher suggests a reading strategy to help him.
 
 ---

@@ -158,9 +158,9 @@ Persona B: "El color de la portada no afecta la calidad de la información hist�
 
 ### Opciones
 - [ ] A) Está refutando que el color de la portada sea feo. <!-- feedback: Incorrecto. No discute sobre estética o gustos de colores. -->
-- [x] B) Está refutando la relevancia del argumento (dice que la razón dada no tiene que ver con el tema central: la calidad del libro). <!-- feedback: ¡Correcto! Señala que el oponente está usando un criterio que no es válido para juzgar el contenido. -->
+- [ ] B) Está refutando la autoridad de la Persona A para hablar de libros. <!-- feedback: Incorrecto. No ataca a la persona, sino a la falta de lógica en su argumento. -->
 - [ ] C) Está refutando que el libro sea de historia. <!-- feedback: Incorrecto. Ambos aceptan que es un libro de historia. -->
-- [ ] D) Está refutando la autoridad de la Persona A para hablar de libros. <!-- feedback: Incorrecto. No ataca a la persona, sino a la falta de lógica en su argumento. -->
+- [x] D) Está refutando la relevancia del argumento (dice que la razón dada no tiene que ver con el tema central: la calidad del libro). <!-- feedback: ¡Correcto! Señala que el oponente está usando un criterio que no es válido para juzgar el contenido. -->
 
 ### Explicacion Pedagogica
 Refutar la relevancia es fundamental en los debates académicos para evitar que la discusión se desvíe hacia detalles insignificantes o superficiales.

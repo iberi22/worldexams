@@ -428,9 +428,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Porque en varios autores la ruptura técnica convive con un retorno a la herencia poética, la voz infantil, lo popular y el paisaje americano que nutren la innovación formal.",
-          "is_correct": true,
-          "feedback": "Correcto. La lectura sostenida en la obra de Huidobro, Neruda y Vallejo muestra que el vanguardismo no se opone a la herencia: la usa como material para renovar."
+          "text": "Porque la herencia poética fue abandonada después de 1950 en todo el mundo.",
+          "is_correct": false,
+          "feedback": "No hay dato histórico que sostenga esa afirmación, y la obra de Neruda en esos años demuestra lo contrario."
         },
         {
           "letter": "B",
@@ -446,12 +446,12 @@
         },
         {
           "letter": "D",
-          "text": "Porque la herencia poética fue abandonada después de 1950 en todo el mundo.",
-          "is_correct": false,
-          "feedback": "No hay dato histórico que sostenga esa afirmación, y la obra de Neruda en esos años demuestra lo contrario."
+          "text": "Porque en varios autores la ruptura técnica convive con un retorno a la herencia poética, la voz infantil, lo popular y el paisaje americano que nutren la innovación formal.",
+          "is_correct": true,
+          "feedback": "Correcto. La lectura sostenida en la obra de Huidobro, Neruda y Vallejo muestra que el vanguardismo no se opone a la herencia: la usa como material para renovar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar exige poner a prueba una afirmación general con evidencias. La poesía de Huidobro, que exalta el paisaje americano frente a los modelos europeos, y la de Neruda, que recupera la voz popular y la infancia en \"Altazor\" (1957), muestran que la ruptura con la forma convive con un retorno a la herencia. Por eso la afirmación del evaluador es imprecisa.",
       "difficulty": "10",
       "images": [],

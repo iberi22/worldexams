@@ -369,9 +369,9 @@ Vuelve cada año el debate sobre los jóvenes y la herencia cultural: unos afirm
 
 ### Opciones
 - [ ] A) Existen talleres y plazas abiertas en casi todas las localidades del país. <!-- feedback: Incorrecto. Esto reforzaría la propuesta del autor, no la debilitaría. -->
-- [x] B) Aun con espacios públicos disponibles, la práctica de tradiciones sigue disminuyendo en varias regiones. <!-- feedback: Correcto. Si el problema persiste donde ya hay espacios, la oferta de espacios no sería la clave que el autor sostiene. -->
+- [ ] B) La jarana se practica en Mérida desde hace siglos. <!-- feedback: Incorrecto. Es un dato que respalda el ejemplo del autor. -->
 - [ ] C) Muchas familias conservan relatos y fiestas tradicionales. <!-- feedback: Incorrecto. Este dato apoya la visión del autor sobre la familia como espacio de transmisión. -->
-- [ ] D) La jarana se practica en Mérida desde hace siglos. <!-- feedback: Incorrecto. Es un dato que respalda el ejemplo del autor. -->
+- [x] D) Aun con espacios públicos disponibles, la práctica de tradiciones sigue disminuyendo en varias regiones. <!-- feedback: Correcto. Si el problema persiste donde ya hay espacios, la oferta de espacios no sería la clave que el autor sostiene. -->
 
 ### Explicacion Pedagogica
 Evaluar un argumento implica reconocer qué evidencia lo fortalece o lo debilita. Un contraejemplo en el que los espacios existen pero la práctica decae socava la tesis de que la falta de espacios explica el olvido.

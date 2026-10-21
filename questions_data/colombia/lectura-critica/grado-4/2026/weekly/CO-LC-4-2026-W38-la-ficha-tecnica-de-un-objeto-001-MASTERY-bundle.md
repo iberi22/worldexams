@@ -38,10 +38,10 @@ Lee con atención la ficha técnica del termo.
 Según la ficha, ¿de qué material está hecho el termo?
 
 ### Opciones
-- [ ] A) De plástico, porque la ficha dice que es liviano
-  <!-- feedback: Incorrecto. La ficha no menciona el plástico, y el único material que nombra es el acero inoxidable. -->
-- [x] B) De acero inoxidable
+- [x] A) De acero inoxidable
   <!-- feedback: Correcto. La línea del material dice textualmente acero inoxidable, y esa es la respuesta que pide la ficha. -->
+- [ ] B) De plástico, porque la ficha dice que es liviano
+  <!-- feedback: Incorrecto. La ficha no menciona el plástico, y el único material que nombra es el acero inoxidable. -->
 - [ ] C) De vidrio, porque el material aparece en la última línea de la ficha
   <!-- feedback: Incorrecto. La última línea describe el uso del termo, y el vidrio no aparece en ninguna parte de la ficha. -->
 - [ ] D) De madera, porque el peso de 300 gramos indica que es de madera

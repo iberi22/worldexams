@@ -13,12 +13,6 @@
       "context": "En Bogotá, en clase de geometría analítica se estudian las relaciones entre pendientes de rectas paralelas.",
       "options": [
         {
-          "letter": "C",
-          "text": "Son iguales.",
-          "is_correct": true,
-          "feedback": "Correcto. Las rectas paralelas tienen la misma inclinación y por tanto la misma pendiente."
-        },
-        {
           "letter": "A",
           "text": "Su producto es $-1$.",
           "is_correct": false,
@@ -29,6 +23,12 @@
           "text": "Son opuestas.",
           "is_correct": false,
           "feedback": "Incorrecto. Pendientes opuestas indican inclinaciones simétricas, no paralelismo."
+        },
+        {
+          "letter": "C",
+          "text": "Son iguales.",
+          "is_correct": true,
+          "feedback": "Correcto. Las rectas paralelas tienen la misma inclinación y por tanto la misma pendiente."
         },
         {
           "letter": "D",
@@ -59,12 +59,6 @@
       "context": "En Medellín, se repasa la condición de perpendicularidad entre rectas.",
       "options": [
         {
-          "letter": "C",
-          "text": "$m_1 \\cdot m_2 = -1$",
-          "is_correct": true,
-          "feedback": "Correcto. Las pendientes son recíprocas y de signo opuesto."
-        },
-        {
           "letter": "A",
           "text": "$m_1 = m_2$",
           "is_correct": false,
@@ -75,6 +69,12 @@
           "text": "$m_1 + m_2 = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. Solo indica pendientes opuestas, no perpendicularidad."
+        },
+        {
+          "letter": "C",
+          "text": "$m_1 \\cdot m_2 = -1$",
+          "is_correct": true,
+          "feedback": "Correcto. Las pendientes son recíprocas y de signo opuesto."
         },
         {
           "letter": "D",
@@ -105,12 +105,6 @@
       "context": "En Cali, se comparan las rectas $y = 2x + 1$ y $y = 2x - 5$.",
       "options": [
         {
-          "letter": "C",
-          "text": "Son paralelas.",
-          "is_correct": true,
-          "feedback": "Correcto. Ambas tienen pendiente $2$, por lo que son paralelas."
-        },
-        {
           "letter": "A",
           "text": "Son perpendiculares.",
           "is_correct": false,
@@ -121,6 +115,12 @@
           "text": "Son coincidentes.",
           "is_correct": false,
           "feedback": "Incorrecto. Tienen distintos interceptos, no son la misma recta."
+        },
+        {
+          "letter": "C",
+          "text": "Son paralelas.",
+          "is_correct": true,
+          "feedback": "Correcto. Ambas tienen pendiente $2$, por lo que son paralelas."
         },
         {
           "letter": "D",
@@ -243,12 +243,6 @@
       "context": "En Pereira, se escribe la ecuación de la recta perpendicular a $y = 2x + 3$ que pasa por el punto $(0, 5)$.",
       "options": [
         {
-          "letter": "D",
-          "text": "$y = -\\frac{1}{2}x + 5$",
-          "is_correct": true,
-          "feedback": "Correcto. Pendiente $-\\frac{1}{2}$ e intercepto $5$ (pasa por $(0, 5)$)."
-        },
-        {
           "letter": "A",
           "text": "$y = -\\frac{1}{2}x + 3$",
           "is_correct": false,
@@ -265,6 +259,12 @@
           "text": "$y = \\frac{1}{2}x + 5$",
           "is_correct": false,
           "feedback": "Incorrecto. La pendiente perpendicular lleva signo negativo."
+        },
+        {
+          "letter": "D",
+          "text": "$y = -\\frac{1}{2}x + 5$",
+          "is_correct": true,
+          "feedback": "Correcto. Pendiente $-\\frac{1}{2}$ e intercepto $5$ (pasa por $(0, 5)$)."
         }
       ],
       "correct_answer": "D",
@@ -289,12 +289,6 @@
       "context": "En Manizales, se clasifican las rectas $3x - 2y = 8$ y $2x + 3y = 5$.",
       "options": [
         {
-          "letter": "C",
-          "text": "Son perpendiculares.",
-          "is_correct": true,
-          "feedback": "Correcto. Sus pendientes son $\\frac{3}{2}$ y $-\\frac{2}{3}$; el producto es $-1$."
-        },
-        {
           "letter": "A",
           "text": "Son paralelas.",
           "is_correct": false,
@@ -305,6 +299,12 @@
           "text": "Son coincidentes.",
           "is_correct": false,
           "feedback": "Incorrecto. No representan la misma recta."
+        },
+        {
+          "letter": "C",
+          "text": "Son perpendiculares.",
+          "is_correct": true,
+          "feedback": "Correcto. Sus pendientes son $\\frac{3}{2}$ y $-\\frac{2}{3}$; el producto es $-1$."
         },
         {
           "letter": "D",
@@ -335,12 +335,6 @@
       "context": "En Cartagena, se busca el valor de $k$ para que las rectas $y = kx + 2$ y $y = 3x - 1$ sean paralelas.",
       "options": [
         {
-          "letter": "D",
-          "text": "$k = 3$",
-          "is_correct": true,
-          "feedback": "Correcto. Para que sean paralelas, las pendientes deben ser iguales: $k = 3$."
-        },
-        {
           "letter": "A",
           "text": "$k = -\\frac{1}{3}$",
           "is_correct": false,
@@ -357,6 +351,12 @@
           "text": "$k = 2$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el intercepto de la primera recta."
+        },
+        {
+          "letter": "D",
+          "text": "$k = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Para que sean paralelas, las pendientes deben ser iguales: $k = 3$."
         }
       ],
       "correct_answer": "D",
@@ -381,12 +381,6 @@
       "context": "En Cúcuta, se verifica si el triángulo con vértices $A(0, 0)$, $B(3, 1)$ y $C(1, 4)$ es rectángulo.",
       "options": [
         {
-          "letter": "C",
-          "text": "No es rectángulo, porque ningún par de lados tiene pendientes cuyo producto sea $-1$.",
-          "is_correct": true,
-          "feedback": "Correcto. $m_{AB} = \\frac{1}{3}$, $m_{AC} = 4$ y $m_{BC} = -\\frac{3}{2}$; ningún producto da $-1$."
-        },
-        {
           "letter": "A",
           "text": "Es rectángulo en $A$, pues los lados $AB$ y $AC$ son perpendiculares.",
           "is_correct": false,
@@ -397,6 +391,12 @@
           "text": "Es equilátero.",
           "is_correct": false,
           "feedback": "Incorrecto. Las longitudes de los lados son $\\sqrt{10}$, $\\sqrt{17}$ y $\\sqrt{13}$, distintas."
+        },
+        {
+          "letter": "C",
+          "text": "No es rectángulo, porque ningún par de lados tiene pendientes cuyo producto sea $-1$.",
+          "is_correct": true,
+          "feedback": "Correcto. $m_{AB} = \\frac{1}{3}$, $m_{AC} = 4$ y $m_{BC} = -\\frac{3}{2}$; ningún producto da $-1$."
         },
         {
           "letter": "D",
@@ -427,12 +427,6 @@
       "context": "En Pasto, se busca la recta paralela a $4x - 2y = 10$ que pasa por el punto $(3, 1)$.",
       "options": [
         {
-          "letter": "C",
-          "text": "$y = 2x - 5$",
-          "is_correct": true,
-          "feedback": "Correcto. La pendiente de la recta dada es $2$; con el punto $(3, 1)$: $b = 1 - 2(3) = -5$."
-        },
-        {
           "letter": "A",
           "text": "$y = 2x + 1$",
           "is_correct": false,
@@ -440,6 +434,12 @@
         },
         {
           "letter": "B",
+          "text": "$y = 2x - 5$",
+          "is_correct": true,
+          "feedback": "Correcto. La pendiente de la recta dada es $2$; con el punto $(3, 1)$: $b = 1 - 2(3) = -5$."
+        },
+        {
+          "letter": "C",
           "text": "$y = -\\frac{1}{2}x + \\frac{5}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. Esa sería la recta perpendicular."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La pendiente de la paralela es $2$, no $-2$."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "De $4x - 2y = 10$: $y = 2x - 5$, pendiente $2$. La paralela por $(3, 1)$ es $y = 2x + b$ con $b = 1 - 6 = -5$: $y = 2x - 5$.",
       "difficulty": "10",
       "images": [],

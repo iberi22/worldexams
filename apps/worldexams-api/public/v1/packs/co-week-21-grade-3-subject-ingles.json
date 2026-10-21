@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A white drink produced by cows, goats, or sheep, often drunk for breakfast.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "It is white. It comes from cows. Many children drink it for breakfast. What is it?",
+      "context": "En muchas casas de Bogotá el desayuno incluye una bebida blanca que viene de la vaca.",
       "options": [
-        {
-          "letter": "D",
-          "text": "milk",
-          "is_correct": true,
-          "feedback": "Correct! 'milk' is the white liquid produced by cows, goats, or sheep, and is a common drink."
-        },
         {
           "letter": "A",
           "text": "soda",
           "is_correct": false,
-          "feedback": "'soda' is a sweet, fizzy drink, not the white liquid produced by cows."
+          "feedback": "Incorrect. 'Soda' is a sweet fizzy drink from a bottle or can, and it does not come from cows."
         },
         {
           "letter": "B",
           "text": "coffee",
           "is_correct": false,
-          "feedback": "'coffee' is a dark, bitter drink made from roasted beans, not a white liquid from cows."
+          "feedback": "Incorrect. 'Coffee' is a brown drink made from coffee beans, not a white drink from cows."
         },
         {
           "letter": "C",
-          "text": "tea",
+          "text": "orange juice",
           "is_correct": false,
-          "feedback": "'tea' is a hot drink made from leaves, not the white liquid from cows."
+          "feedback": "Incorrect. 'Orange juice' is orange and comes from fruit, not from cows."
+        },
+        {
+          "letter": "D",
+          "text": "milk",
+          "is_correct": true,
+          "feedback": "Correct. 'Milk' is the white drink that comes from cows."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'milk' is used to describe a white liquid produced by cows, goats, or sheep, often drunk for breakfast. This is an important vocabulary word in English related to food and drinks.\n---",
+      "explanation": "La palabra 'milk' significa leche. Las pistas son el color blanco y el origen: viene de la vaca. 'Soda', 'coffee' y 'orange juice' también son bebidas, pero ninguna es blanca ni sale de la vaca.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -55,42 +55,42 @@
     },
     {
       "id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A food made of baked flour and water, often used to make sandwiches.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: \"Sofía makes a sandwich with two slices of ___.\"",
+      "context": "Sofía prepara las onces para el colegio en su casa de Pereira.",
       "options": [
         {
           "letter": "A",
           "text": "bread",
           "is_correct": true,
-          "feedback": "Correct! 'bread' is a common food made of baked flour and water, and it is frequently used to make sandwiches."
+          "feedback": "Correct. A sandwich is made with two slices of 'bread'."
         },
         {
           "letter": "B",
-          "text": "cheese",
+          "text": "water",
           "is_correct": false,
-          "feedback": "'cheese' is a dairy product made from milk, not a baked food made of flour and water."
+          "feedback": "Incorrect. 'Water' is a drink; you cannot make slices of water."
         },
         {
           "letter": "C",
-          "text": "butter",
+          "text": "juice",
           "is_correct": false,
-          "feedback": "'butter' is a yellow fat made from milk, often spread on food, but it is not baked flour."
+          "feedback": "Incorrect. 'Juice' is a drink, so it cannot be cut into slices for a sandwich."
         },
         {
           "letter": "D",
-          "text": "sugar",
+          "text": "rice",
           "is_correct": false,
-          "feedback": "'sugar' is a sweet substance used to flavor food, not a baked food made of flour."
+          "feedback": "Incorrect. 'Rice' is small grains; it does not come in slices."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'bread' is used to describe a food made of baked flour and water, often used to make sandwiches. This is an important vocabulary word in English related to food and drinks.\n---",
+      "explanation": "'Bread' es pan. Un sándwich se hace con dos tajadas ('slices') de pan. Las otras opciones son bebidas o granos, y ninguna se puede cortar en tajadas para armar un sándwich.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"A clear, colorless drink that you need to drink every day to stay healthy.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "It has no color and no taste. You drink it every day. What is it?",
+      "context": "En la clase de ciencias de un colegio de Cali hablan de la bebida más importante para el cuerpo.",
       "options": [
+        {
+          "letter": "A",
+          "text": "milk",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Milk' is white, so it has a color."
+        },
+        {
+          "letter": "B",
+          "text": "juice",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Juice' has the color and the taste of the fruit."
+        },
+        {
+          "letter": "C",
+          "text": "hot chocolate",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Hot chocolate' is brown and sweet, so it has color and taste."
+        },
         {
           "letter": "D",
           "text": "water",
           "is_correct": true,
-          "feedback": "Correct! 'water' is a clear, colorless natural liquid that is essential to drink for your health every day."
-        },
-        {
-          "letter": "A",
-          "text": "juice",
-          "is_correct": false,
-          "feedback": "'juice' is a liquid made from fruit or vegetables, which is not colorless."
-        },
-        {
-          "letter": "B",
-          "text": "soda",
-          "is_correct": false,
-          "feedback": "'soda' is a sweet, fizzy drink with added flavors, not a clear, natural liquid."
-        },
-        {
-          "letter": "C",
-          "text": "coffee",
-          "is_correct": false,
-          "feedback": "'coffee' is a dark, bitter drink made from beans, not a clear, colorless liquid."
+          "feedback": "Correct. 'Water' has no color and no taste, and we drink it every day."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'water' is used to describe a clear, colorless liquid that you need to drink every day to stay healthy. This is an important vocabulary word in English related to food and drinks.\n---",
+      "explanation": "'Water' es agua. Es la única de estas bebidas sin color y sin sabor. La leche es blanca, el jugo sabe a fruta y el chocolate caliente es café y dulce.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"A food that is small white or brown grains that are boiled in water and eaten with meals like lunch.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: \"In Colombia, many people eat ___ and beans for lunch.\"",
+      "context": "En Colombia muchas familias almuerzan arroz con fríjoles.",
       "options": [
         {
           "letter": "A",
           "text": "rice",
           "is_correct": true,
-          "feedback": "Correct! 'rice' consists of small white or brown grains that are boiled and commonly eaten with lunch."
+          "feedback": "Correct. 'Rice and beans' is a common lunch, and 'rice' is a food you eat."
         },
         {
           "letter": "B",
-          "text": "potato",
+          "text": "juice",
           "is_correct": false,
-          "feedback": "'potato' is a round root vegetable that grows underground, not small grains."
+          "feedback": "Incorrect. 'Juice' is a drink; you drink it, you do not 'eat' it."
         },
         {
           "letter": "C",
-          "text": "pasta",
+          "text": "milk",
           "is_correct": false,
-          "feedback": "'pasta' is food made from flour and egg, shaped into strings or shapes, not grains."
+          "feedback": "Incorrect. 'Milk' is a drink, so it does not go with the verb 'eat'."
         },
         {
           "letter": "D",
-          "text": "bread",
+          "text": "tea",
           "is_correct": false,
-          "feedback": "'bread' is a baked food made of flour and water, not small boiled grains."
+          "feedback": "Incorrect. 'Tea' is a hot drink, not a food you eat with beans."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'rice' is used to describe small white or brown grains that are boiled in water and eaten with meals like lunch. This is an important vocabulary word in English related to food and drinks.\n---",
+      "explanation": "'Rice' es arroz. El verbo 'eat' (comer) pide una comida, no una bebida. Por eso solo 'rice' completa bien la oración: 'eat rice and beans'.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.7,
       "bundle_id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A sweet drink made by squeezing liquid out of fresh fruit or vegetables.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read the dialogue.\nWaiter: \"What would you like to drink?\"\nBoy: \"___\"",
+      "context": "En un restaurante de Manizales, el mesero le pregunta a un niño qué quiere tomar.",
       "options": [
         {
-          "letter": "B",
-          "text": "juice",
-          "is_correct": true,
-          "feedback": "Correct! 'juice' is a sweet drink that is made by squeezing the liquid out of fresh fruit or vegetables."
+          "letter": "A",
+          "text": "I'd like a chicken, please.",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Chicken' is food, but the waiter asks about a drink."
         },
         {
-          "letter": "A",
-          "text": "water",
-          "is_correct": false,
-          "feedback": "'water' is a natural, clear liquid without flavor, not the sweet liquid squeezed from fruit."
+          "letter": "B",
+          "text": "A glass of orange juice, please.",
+          "is_correct": true,
+          "feedback": "Correct. The waiter asks about a drink, and 'a glass of orange juice' is a drink."
         },
         {
           "letter": "C",
-          "text": "milk",
+          "text": "I'm eight years old.",
           "is_correct": false,
-          "feedback": "'milk' is a white liquid produced by cows, not the liquid squeezed from fresh fruit."
+          "feedback": "Incorrect. This answers 'How old are you?', not a question about drinks."
         },
         {
           "letter": "D",
-          "text": "tea",
+          "text": "Yes, I am hungry.",
           "is_correct": false,
-          "feedback": "'tea' is a hot drink made from leaves in hot water, not a sweet drink made from fruit."
+          "feedback": "Incorrect. The question asks 'what', so 'yes' does not answer it, and 'hungry' is about food."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'juice' is used to describe a sweet drink made by squeezing liquid out of fresh fruit or vegetables. This is an important vocabulary word in English related to food and drinks.\n---",
+      "explanation": "La pregunta 'What would you like to drink?' significa '¿qué te gustaría tomar?'. La respuesta debe nombrar una bebida, como 'a glass of orange juice' (un vaso de jugo de naranja).\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.65,
       "bundle_id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"A food that is an oval object with a hard shell produced by a chicken, often eaten for breakfast.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Tomás has breakfast at 6:30. He eats eggs and bread, and he drinks hot chocolate.\"\nWhat does Tomás drink?",
+      "context": "Tomás vive en Tunja y desayuna temprano antes de ir al colegio.",
       "options": [
         {
-          "letter": "D",
-          "text": "egg",
-          "is_correct": true,
-          "feedback": "Correct! 'egg' is the oval object with a hard shell produced by a chicken and often eaten for breakfast."
-        },
-        {
           "letter": "A",
-          "text": "cheese",
+          "text": "milk",
           "is_correct": false,
-          "feedback": "'cheese' is a yellow or white food made from milk, not an oval object with a hard shell."
+          "feedback": "Incorrect. The text does not mention milk."
         },
         {
           "letter": "B",
-          "text": "apple",
+          "text": "water",
           "is_correct": false,
-          "feedback": "'apple' is a round fruit that grows on trees, not an object produced by a chicken."
+          "feedback": "Incorrect. The text does not say that Tomás drinks water."
         },
         {
           "letter": "C",
-          "text": "bread",
+          "text": "orange juice",
           "is_correct": false,
-          "feedback": "'bread' is a baked food made of flour, not an oval object with a hard shell."
+          "feedback": "Incorrect. Orange juice is not in the text."
+        },
+        {
+          "letter": "D",
+          "text": "hot chocolate",
+          "is_correct": true,
+          "feedback": "Correct. The text says 'he drinks hot chocolate'."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'egg' is used to describe an oval object with a hard shell produced by a chicken, often eaten for breakfast. This is an important vocabulary word in English related to food and drinks.\n---",
+      "explanation": "La respuesta está en la frase 'he drinks hot chocolate' (él toma chocolate caliente). 'Eggs and bread' son lo que come, y las otras bebidas no aparecen en el texto.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.6,
       "bundle_id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A food that is a round fruit with red, green, or yellow skin and a white inside.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which group has only drinks?",
+      "context": "La profesora de un colegio de Cúcuta pide clasificar palabras de comida y bebida.",
       "options": [
         {
           "letter": "A",
-          "text": "apple",
+          "text": "water, milk, juice",
           "is_correct": true,
-          "feedback": "Correct! 'apple' is a round, crunchy fruit that typically has red, green, or yellow skin and a white inside."
+          "feedback": "Correct. Water, milk and juice are all drinks."
         },
         {
           "letter": "B",
-          "text": "banana",
+          "text": "rice, milk, bread",
           "is_correct": false,
-          "feedback": "'banana' is a long, curved yellow fruit, not a round fruit with red or green skin."
+          "feedback": "Incorrect. 'Rice' and 'bread' are foods; only 'milk' is a drink."
         },
         {
           "letter": "C",
-          "text": "grape",
+          "text": "juice, chicken, tea",
           "is_correct": false,
-          "feedback": "'grape' is a small, round green or purple fruit, much smaller than this fruit."
+          "feedback": "Incorrect. 'Chicken' is a food, so this group is not only drinks."
         },
         {
           "letter": "D",
-          "text": "pear",
+          "text": "eggs, water, soup",
           "is_correct": false,
-          "feedback": "'pear' is a round citrus fruit with thick pear skin, not red or green skin."
+          "feedback": "Incorrect. 'Eggs' are food and 'soup' is eaten with a spoon; only 'water' is a drink."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'apple' is used to describe a round fruit with red, green, or yellow skin and a white inside. This is an important vocabulary word in English related to food and drinks.\n---",
+      "explanation": "Para elegir hay que revisar cada palabra del grupo. 'Water' (agua), 'milk' (leche) y 'juice' (jugo) son bebidas. En los otros grupos aparecen comidas como 'rice', 'bread', 'chicken' o 'eggs'.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.5,
       "bundle_id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"A food that is a long, curved fruit with a yellow skin that is soft and sweet inside.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read the school menu: \"Lunch: chicken, rice and salad. Drink: lemonade. Dessert: mango.\"\nLuis says: \"There is no drink on the menu.\" Is he right?",
+      "context": "Luis lee el menú del almuerzo escolar en un colegio de Barranquilla.",
       "options": [
         {
           "letter": "A",
-          "text": "banana",
-          "is_correct": true,
-          "feedback": "Correct! 'banana' is a long, curved fruit with a yellow peel that has soft, sweet flesh on the inside."
+          "text": "Yes, because mango is a drink.",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Mango' is a fruit, and the menu lists it as the dessert."
         },
         {
           "letter": "B",
-          "text": "apple",
+          "text": "Yes, because there is only food.",
           "is_correct": false,
-          "feedback": "'apple' is a round fruit with red or green skin, not long and curved with a yellow skin."
+          "feedback": "Incorrect. The menu has a line called 'Drink'."
         },
         {
           "letter": "C",
-          "text": "pear",
-          "is_correct": false,
-          "feedback": "'pear' is a round, pear-colored citrus fruit, not a long and curved fruit."
+          "text": "No, because the drink is lemonade.",
+          "is_correct": true,
+          "feedback": "Correct. The menu says 'Drink: lemonade', so Luis is wrong."
         },
         {
           "letter": "D",
-          "text": "grape",
+          "text": "No, because the drink is rice.",
           "is_correct": false,
-          "feedback": "'grape' is a small, round fruit, not a long, curved yellow fruit."
+          "feedback": "Incorrect. 'Rice' is part of the lunch, not the drink."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'banana' is used to describe a long, curved fruit with a yellow skin that is soft and sweet inside. This is an important vocabulary word in English related to food and drinks.",
+      "correct_answer": "C",
+      "explanation": "El menú tiene una línea 'Drink: lemonade' (bebida: limonada), así que Luis se equivoca. Hay que leer cada parte: 'Lunch' es el plato, 'Drink' la bebida y 'Dessert' el postre.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.45,
       "bundle_id": "CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",

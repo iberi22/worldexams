@@ -198,9 +198,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Avisar que ya no quiere recibir trabajos de los niños, porque así los obliga a dejar la clase",
-          "is_correct": false,
-          "feedback": "Incorrecto. La mamá pide un trabajo nuevo y no dice que haya dejado de recibir trabajos."
+          "text": "Llamar la atención sobre la calidad del trabajo y dejar clara la consecuencia de no mejorarlo",
+          "is_correct": true,
+          "feedback": "Correcto. La frase inicial señala el problema y la última anuncia que no habrá otra oportunidad, así que avisa y expone la consecuencia."
         },
         {
           "letter": "B",
@@ -210,9 +210,9 @@
         },
         {
           "letter": "C",
-          "text": "Llamar la atención sobre la calidad del trabajo y dejar clara la consecuencia de no mejorarlo",
-          "is_correct": true,
-          "feedback": "Correcto. La frase inicial señala el problema y la última anuncia que no habrá otra oportunidad, así que avisa y expone la consecuencia."
+          "text": "Avisar que ya no quiere recibir trabajos de los niños, porque así los obliga a dejar la clase",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mamá pide un trabajo nuevo y no dice que haya dejado de recibir trabajos."
         },
         {
           "letter": "D",
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. La intervención no enseña a escribir, y solo evalúa un trabajo que ya fue entregado."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Analizar el propósito de un diálogo es preguntarse qué efecto busca la persona con lo que dice, más allá de las palabras exactas. Cuando alguien señala un problema y anuncia una consecuencia, intenta cambiar una conducta concreta. Reconocer esa intención enseña a los niños a entender las conversaciones de su vida diaria.",
       "difficulty": "6",
       "images": [],

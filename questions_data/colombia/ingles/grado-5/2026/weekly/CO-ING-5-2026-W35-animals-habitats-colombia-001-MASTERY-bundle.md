@@ -40,6 +40,7 @@ Which words are animals of Colombia?
   <!-- feedback: Chair, table and door are furniture, not animals. -->
 - [ ] D) Rice, beans and soup.
   <!-- feedback: Rice, beans and soup are foods, not animals. -->
+
 ### Explicacion Pedagogica
 Esta pregunta presenta vocabulario básico de animales colombianos en inglés. También se conecta cada animal con imágenes visibles en el salón.
 
@@ -60,6 +61,7 @@ What is a habitat?
   <!-- feedback: A habitat is the natural home where an animal lives. -->
 - [ ] D) The sound of an animal.
   <!-- feedback: Sound is what an animal produces, not where it lives. -->
+
 ### Explicacion Pedagogica
 La palabra habitat significa el lugar donde vive un animal. También se comprende con ejemplos de la selva y las montañas colombianas.
 
@@ -80,6 +82,7 @@ Choose the correct verb to complete the sentence.
   <!-- feedback: "Living" needs am, is or are and is not correct alone here. -->
 - [ ] D) Lived.
   <!-- feedback: "Lived" is past tense and the sentence describes the present. -->
+
 ### Explicacion Pedagogica
 El presente simple usa -s con he, she e it en afirmativo. También se practica con el delfín rosado del río Amazonas.
 
@@ -100,6 +103,7 @@ Where does the condor live?
   <!-- feedback: The text says the condor flies high in the Andes mountains. -->
 - [ ] D) In the streets of Bogotá.
   <!-- feedback: The condor is a wild bird of the mountains, not the city. -->
+
 ### Explicacion Pedagogica
 Leer descripciones exige localizar el lugar mencionado en el texto. También se aplica con el cóndor, símbolo de los Andes colombianos.
 
@@ -120,6 +124,7 @@ Which word means the opposite of fast?
   <!-- feedback: Loudly describes sound, not speed. -->
 - [ ] D) Happily.
   <!-- feedback: Happily describes a feeling, not speed. -->
+
 ### Explicacion Pedagogica
 Los opuestos como fast y slowly amplían el vocabulario descriptivo. También se asocian con animales que los niños observan en casa.
 
@@ -140,6 +145,7 @@ What can you conclude about the jaguar and the toucan?
   <!-- feedback: The text contrasts a strong night hunter with a small fruit eater. -->
 - [ ] D) Both fly high in the mountains.
   <!-- feedback: Neither the jaguar nor the toucan flies in the mountains. -->
+
 ### Explicacion Pedagogica
 Analizar descripciones permite comparar tamaño, alimento y hábitos. También se trabaja el contraste entre dos animales del Chocó y la selva.
 
@@ -160,6 +166,7 @@ Which statement explains the difference?
   <!-- feedback: Both sentences use the present verb is, not the past. -->
 - [ ] D) The first shows an extreme, the second compares two.
   <!-- feedback: The roles are reversed; than compares and the biggest is extreme. -->
+
 ### Explicacion Pedagogica
 El comparativo con than contrasta dos elementos y el superlativo destaca uno. También se practica con animales que los niños ya conocen.
 
@@ -176,9 +183,10 @@ Which poster is the best for a fifth grader?
   <!-- feedback: Cookies are not healthy food for a parrot and a cage is not its habitat. -->
 - [ ] B) The cage poster, because parrots live in cages in nature.
   <!-- feedback: Parrots live free in the jungle, not in cages in nature. -->
-- [x] C) The jungle poster, because it shows habitat and real food.
-  <!-- feedback: The jungle poster teaches where the parrot lives and what it eats. -->
-- [ ] D) Both posters are equal, because colors do not matter.
+- [ ] C) Both posters are equal, because colors do not matter.
   <!-- feedback: The information is different; only one poster shows true facts. -->
+- [x] D) The jungle poster, because it shows habitat and real food.
+  <!-- feedback: The jungle poster teaches where the parrot lives and what it eats. -->
+
 ### Explicacion Pedagogica
 Evaluar materiales implica revisar si muestran el hábitat y el alimento reales. También se promueve el respeto por la fauna libre colombiana.

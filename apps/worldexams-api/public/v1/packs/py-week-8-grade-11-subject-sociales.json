@@ -13,12 +13,6 @@
       "context": "El estudiante Santiago del Colegio Nacional de la Capital estudia la contienda bélica que enfrentó a Paraguay con Bolivia en el siglo XX.",
       "options": [
         {
-          "letter": "D",
-          "text": "La Guerra del Chaco",
-          "is_correct": true,
-          "feedback": "Correcto. La Guerra del Chaco (1932-1935) fue librada por Paraguay y Bolivia para definir los límites soberanos del Chaco Boreal."
-        },
-        {
           "letter": "A",
           "text": "La Guerra de la Triple Alianza",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "La Guerra del Acre",
           "is_correct": false,
           "feedback": "Incorrecto. Combate militar fronterizo librado entre Bolivia y el Brasil por el rico territorio gomero amazónico de la región del Acre."
+        },
+        {
+          "letter": "D",
+          "text": "La Guerra del Chaco",
+          "is_correct": true,
+          "feedback": "Correcto. La Guerra del Chaco (1932-1935) fue librada por Paraguay y Bolivia para definir los límites soberanos del Chaco Boreal."
         }
       ],
       "correct_answer": "D",
@@ -58,12 +58,6 @@
       "context": "Durante un viaje cívico-histórico al departamento de Boquerón, la estudiante Liz visita los museos de los antiguos fortines de guerra.",
       "options": [
         {
-          "letter": "D",
-          "text": "El general José Félix Estigarribia",
-          "is_correct": true,
-          "feedback": "Correcto. El Gral. José Félix Estigarribia dirigió con lucidez táctica y operativa la defensa del Chaco, planificando la ofensiva que acorraló al ejército boliviano."
-        },
-        {
           "letter": "A",
           "text": "El mariscal Francisco Solano López",
           "is_correct": false,
@@ -80,6 +74,12 @@
           "text": "El coronel Rafael Franco",
           "is_correct": false,
           "feedback": "Incorrecto. Rafael Franco fue un destacado jefe militar del Chaco y líder de la Revolución Febrerista del siglo XX (1936), pero no fue el comandante supremo de guerra."
+        },
+        {
+          "letter": "D",
+          "text": "El general José Félix Estigarribia",
+          "is_correct": true,
+          "feedback": "Correcto. El Gral. José Félix Estigarribia dirigió con lucidez táctica y operativa la defensa del Chaco, planificando la ofensiva que acorraló al ejército boliviano."
         }
       ],
       "correct_answer": "D",
@@ -103,12 +103,6 @@
       "context": "El estudiante Ramón analiza en San Lorenzo el polémico rol de las compañías petroleras extranjeras antes del estallido bélico chaqueño.",
       "options": [
         {
-          "letter": "C",
-          "text": "La presunta existencia de ricos yacimientos de petróleo en el subsuelo chaqueño, con el consiguiente enfrentamiento de concesiones de la Standard Oil (apoyando a Bolivia) y la Royal Dutch Shell (asociada al Paraguay)",
-          "is_correct": true,
-          "feedback": "Correcto. Aunque la causa real fue limítrofe y territorial, el conflicto estuvo azuzado por el interés de corporaciones petroleras anglo-estadounidenses de controlar potenciales pozos de hidrocarburos."
-        },
-        {
           "letter": "A",
           "text": "La compra de la totalidad de las misiones jesuíticas por la corona británica de Londres",
           "is_correct": false,
@@ -119,6 +113,12 @@
           "text": "La donación gratuita de toda la llanura del Chaco a los reyes de Portugal a cambio de buques a vapor",
           "is_correct": false,
           "feedback": "Incorrecto. Es un completo anacronismo e inexactitud jurídica ajena al contexto geopolítico sudamericano del siglo XX."
+        },
+        {
+          "letter": "C",
+          "text": "La presunta existencia de ricos yacimientos de petróleo en el subsuelo chaqueño, con el consiguiente enfrentamiento de concesiones de la Standard Oil (apoyando a Bolivia) y la Royal Dutch Shell (asociada al Paraguay)",
+          "is_correct": true,
+          "feedback": "Correcto. Aunque la causa real fue limítrofe y territorial, el conflicto estuvo azuzado por el interés de corporaciones petroleras anglo-estadounidenses de controlar potenciales pozos de hidrocarburos."
         },
         {
           "letter": "D",
@@ -148,12 +148,6 @@
       "context": "Durante una clase sobre historia diplomática en Luque, el estudiante Jorge analiza la paz formal firmada en Buenos Aires en el año 1938.",
       "options": [
         {
-          "letter": "D",
-          "text": "El Tratado de Paz, Amistad y Límites de 1938 firmado en Buenos Aires",
-          "is_correct": true,
-          "feedback": "Correcto. Este tratado resolvió de forma pacífica y definitiva los límites chaqueños, adjudicando al Paraguay el 75% del territorio en litigio defendido por las armas."
-        },
-        {
           "letter": "A",
           "text": "El Tratado Secreto de la Triple Alianza de 1865",
           "is_correct": false,
@@ -170,6 +164,12 @@
           "text": "La mediación papal de Juan Pablo II de 1978",
           "is_correct": false,
           "feedback": "Incorrecto. Resolvió diferendos australes territoriales entre las repúblicas de Argentina y Chile, ajena a la paz del Chaco paraguaya-boliviana."
+        },
+        {
+          "letter": "D",
+          "text": "El Tratado de Paz, Amistad y Límites de 1938 firmado en Buenos Aires",
+          "is_correct": true,
+          "feedback": "Correcto. Este tratado resolvió de forma pacífica y definitiva los límites chaqueños, adjudicando al Paraguay el 75% del territorio en litigio defendido por las armas."
         }
       ],
       "correct_answer": "D",
@@ -193,12 +193,6 @@
       "context": "En Pilar, la estudiante María analiza el hostil escenario geográfico y ambiental donde se batieron los soldados en el Chaco.",
       "options": [
         {
-          "letter": "D",
-          "text": "La extrema escasez de agua dulce y las temperaturas sofocantes de calor abrasador, que causaban severa deshidratación colectiva e insolación en las tropas",
-          "is_correct": true,
-          "feedback": "Correcto. El Chaco Seco (denominado 'el infierno verde') carecía de agua potable superficial. Encontrar o defender pozos de agua y tajamares resultó decisivo y costó millares de vidas por sed."
-        },
-        {
           "letter": "A",
           "text": "La invasión de icebergs de hielo móviles que congelaban las trincheras de Boquerón",
           "is_correct": false,
@@ -215,6 +209,12 @@
           "text": "El desborde destructivo del océano Atlántico sobre el departamento de Presidente Hayes",
           "is_correct": false,
           "feedback": "Incorrecto. Paraguay es enteramente mediterráneo, incomunicado con el océano Atlántico por vía costera marina directa."
+        },
+        {
+          "letter": "D",
+          "text": "La extrema escasez de agua dulce y las temperaturas sofocantes de calor abrasador, que causaban severa deshidratación colectiva e insolación en las tropas",
+          "is_correct": true,
+          "feedback": "Correcto. El Chaco Seco (denominado 'el infierno verde') carecía de agua potable superficial. Encontrar o defender pozos de agua y tajamares resultó decisivo y costó millares de vidas por sed."
         }
       ],
       "correct_answer": "D",
@@ -283,12 +283,6 @@
       "context": "En la ciudad de Caacupé, se analiza el cerco victorioso de Boquerón librado en septiembre de 1932 como bautismo de fuego de las fuerzas nacionales.",
       "options": [
         {
-          "letter": "C",
-          "text": "Constituyó la primera gran ofensiva paraguaya victoriosa, infundiendo un inmenso fervor y confianza en la capacidad bélica del ejército nacional para vencer a Bolivia",
-          "is_correct": true,
-          "feedback": "Correcto. El triunfo del asedio de Boquerón (29 de septiembre) demostró la cohesión y valentía paraguaya, quebrando la idea de una supuesta superioridad militar boliviana en el Chaco."
-        },
-        {
           "letter": "A",
           "text": "Obligó a la junta de La Paz a ceder pacíficamente la totalidad de las minas de plata andinas bolivianas",
           "is_correct": false,
@@ -299,6 +293,12 @@
           "text": "Culminó con la rendición absoluta del ejército paraguayo y la anexión del Chaco por Bolivia",
           "is_correct": false,
           "feedback": "Incorrecto. Al contrario, fue un gran e histórico triunfo defensivo y táctico de las armas de la República del Paraguay dirigidas por el Gral. Estigarribia."
+        },
+        {
+          "letter": "C",
+          "text": "Constituyó la primera gran ofensiva paraguaya victoriosa, infundiendo un inmenso fervor y confianza en la capacidad bélica del ejército nacional para vencer a Bolivia",
+          "is_correct": true,
+          "feedback": "Correcto. El triunfo del asedio de Boquerón (29 de septiembre) demostró la cohesión y valentía paraguaya, quebrando la idea de una supuesta superioridad militar boliviana en el Chaco."
         },
         {
           "letter": "D",
@@ -328,12 +328,6 @@
       "context": "Durante un foro histórico en Villarrica, el profesor Ramón describe el papel unificador del guaraní en los frentes de combate del Chaco.",
       "options": [
         {
-          "letter": "C",
-          "text": "Porque servía como código de transmisiones telefónicas y de radio que las fuerzas bolivianas eran incapaces de descifrar o comprender, facilitando directivas rápidas y seguras",
-          "is_correct": true,
-          "feedback": "Correcto. El bilingüismo paraguayo actuó como un código criptográfico de comunicaciones naturales espontáneo sumamente eficaz en todo el frente de operaciones de guerra."
-        },
-        {
           "letter": "A",
           "text": "Porque era una lengua impuesta de forma violenta a los soldados paraguayos por asesores militares británicos",
           "is_correct": false,
@@ -344,6 +338,12 @@
           "text": "Porque consistía exclusivamente en caracteres impresos chinos indescifrables",
           "is_correct": false,
           "feedback": "Incorrecto. El guaraní paraguayo es un idioma americano originario aglutinante y nasal, no relacionado con escrituras caligráficas chinas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque servía como código de transmisiones telefónicas y de radio que las fuerzas bolivianas eran incapaces de descifrar o comprender, facilitando directivas rápidas y seguras",
+          "is_correct": true,
+          "feedback": "Correcto. El bilingüismo paraguayo actuó como un código criptográfico de comunicaciones naturales espontáneo sumamente eficaz en todo el frente de operaciones de guerra."
         },
         {
           "letter": "D",
@@ -373,12 +373,6 @@
       "context": "El estudiante Joaquín de Coronel Oviedo investiga los diferendos limítrofes y la mediación del presidente argentino Justo en la firma de la paz chaqueña en 1935.",
       "options": [
         {
-          "letter": "C",
-          "text": "El 12 de junio (Día de la Paz del Chaco)",
-          "is_correct": true,
-          "feedback": "Correcto. El 12 de junio de 1935 se firmó el Protocolo de Paz que dispuso el cese definitivo del fuego de las armas en el Chaco Boreal, conmemorándose anualmente."
-        },
-        {
           "letter": "A",
           "text": "El 15 de mayo (Día de la Independencia de España)",
           "is_correct": false,
@@ -389,6 +383,12 @@
           "text": "El 1 de marzo (Día de los Héroes de la Triple Alianza)",
           "is_correct": false,
           "feedback": "Incorrecto. Recuerda el fallecimiento de Francisco Solano López en Cerro Corá (1870), clausurando la Guerra de la Triple Alianza decimonónica."
+        },
+        {
+          "letter": "C",
+          "text": "El 12 de junio (Día de la Paz del Chaco)",
+          "is_correct": true,
+          "feedback": "Correcto. El 12 de junio de 1935 se firmó el Protocolo de Paz que dispuso el cese definitivo del fuego de las armas en el Chaco Boreal, conmemorándose anualmente."
         },
         {
           "letter": "D",
@@ -463,12 +463,6 @@
       "context": "En la mesa de debates de la Universidad Nacional de Asunción, un docente analiza críticamente el papel de la marina de guerra fluvial durante el conflicto del Chaco Boreal.",
       "options": [
         {
-          "letter": "D",
-          "text": "Sirvieron como transportes fluviales armados blindados de alta velocidad y gran capacidad, movilizando a millares de soldados y pertrechos de Asunción a Puerto Casado en tiempo récord",
-          "is_correct": true,
-          "feedback": "Correcto. Transportaron a la inmensa mayoría de la masa de soldados combatientes al Chaco de forma rápida, segura e inalcanzable para la aviación de Bolivia."
-        },
-        {
           "letter": "A",
           "text": "Lanzaron ataques de artillería de largo alcance sobre los puertos marítimos de Bolivia en las costas del océano Pacífico",
           "is_correct": false,
@@ -485,6 +479,12 @@
           "text": "Provocaron la evaporación física de todo el cauce del río Paraguay por el calor de sus calderas",
           "is_correct": false,
           "feedback": "Incorrecto. Planteamiento absurdo e insostenible físicamente ajeno a la valiosa y exitosa logística naval fluvial armada paraguaya."
+        },
+        {
+          "letter": "D",
+          "text": "Sirvieron como transportes fluviales armados blindados de alta velocidad y gran capacidad, movilizando a millares de soldados y pertrechos de Asunción a Puerto Casado en tiempo récord",
+          "is_correct": true,
+          "feedback": "Correcto. Transportaron a la inmensa mayoría de la masa de soldados combatientes al Chaco de forma rápida, segura e inalcanzable para la aviación de Bolivia."
         }
       ],
       "correct_answer": "D",
@@ -508,12 +508,6 @@
       "context": "La estudiante Valentina de Caacupé investiga la audaz e innovadora estrategia táctica del general José Félix Estigarribia en el Chaco.",
       "options": [
         {
-          "letter": "C",
-          "text": "La maniobra de cerco o guerra de movimientos (envolvente) de doble ala",
-          "is_correct": true,
-          "feedback": "Correcto. Estigarribia rehusó la rígida guerra de posiciones estáticas, prefiriendo la movilidad envolvente que cercaba fortines y divisiones bolivianas privándolas de agua."
-        },
-        {
           "letter": "A",
           "text": "La guerra de posiciones de trincheras al estilo de la Europa medieval feudal",
           "is_correct": false,
@@ -524,6 +518,12 @@
           "text": "La rendición armada voluntaria cediendo de forma pacífica las aduanas fluviales",
           "is_correct": false,
           "feedback": "Incorrecto. Paraguay defendió con fiereza intransigente y tácticas audaces de primer orden mundial sus aduanas e integridad soberana."
+        },
+        {
+          "letter": "C",
+          "text": "La maniobra de cerco o guerra de movimientos (envolvente) de doble ala",
+          "is_correct": true,
+          "feedback": "Correcto. Estigarribia rehusó la rígida guerra de posiciones estáticas, prefiriendo la movilidad envolvente que cercaba fortines y divisiones bolivianas privándolas de agua."
         },
         {
           "letter": "D",
@@ -553,12 +553,6 @@
       "context": "En Encarnación, los alumnos de bachillerato analizan el histórico Tratado de Paz de 1938 y el trazado de límites definitivos.",
       "options": [
         {
-          "letter": "D",
-          "text": "La mediación de las potencias neutrales (lideradas por Argentina y EE. UU.) que impusieron un trazado transaccional para evitar un resentimiento perpetuo de Bolivia y garantizar la estabilidad geopolítica del Cono Sur",
-          "is_correct": true,
-          "feedback": "Correcto. Los mediadores diplomáticos internacionales impusieron límites de transacción de arbitraje para balancear las demandas territoriales y asegurar una paz duradera regional."
-        },
-        {
           "letter": "A",
           "text": "La exigencia de la corona británica de anexar la totalidad del Chaco a su imperio de ultramar",
           "is_correct": false,
@@ -575,6 +569,12 @@
           "text": "La prohibición gubernamental de cultivar mandioca y de exportar carne vacuna paraguaya",
           "is_correct": false,
           "feedback": "Incorrecto. La economía paraguaya del agro y ganadería continuó consolidándose y exportando de forma activa a los mercados mundiales."
+        },
+        {
+          "letter": "D",
+          "text": "La mediación de las potencias neutrales (lideradas por Argentina y EE. UU.) que impusieron un trazado transaccional para evitar un resentimiento perpetuo de Bolivia y garantizar la estabilidad geopolítica del Cono Sur",
+          "is_correct": true,
+          "feedback": "Correcto. Los mediadores diplomáticos internacionales impusieron límites de transacción de arbitraje para balancear las demandas territoriales y asegurar una paz duradera regional."
         }
       ],
       "correct_answer": "D",
@@ -688,12 +688,6 @@
       "context": "Un historiador explica en San Lorenzo el trágico destino y cautiverio de miles de prisioneros de guerra bolivianos trasladados al interior del país.",
       "options": [
         {
-          "letter": "D",
-          "text": "Fueron empleados bajo convenios humanitarios en obras públicas de infraestructura vial, construcciones civiles (como iglesias y caminos) y respetados en su integridad por la población local",
-          "is_correct": true,
-          "feedback": "Correcto. Los prisioneros de guerra bolivianos colaboraron de forma valorada en caminos y construcciones viales (como el camino a Paraguarí), recibiendo un trato humanitario digno."
-        },
-        {
           "letter": "A",
           "text": "Fueron obligados a enrolarse de por vida en la marina de guerra japonesa para atacar puertos americanos",
           "is_correct": false,
@@ -710,6 +704,12 @@
           "text": "Fueron obligados a aprender de forma obligatoria el dialecto alemán menonita plautdietsch",
           "is_correct": false,
           "feedback": "Incorrecto. Su estadía de internamiento militar se reguló pacíficamente por los oficiales locales sin imposiciones lingüísticas forzadas germánicas."
+        },
+        {
+          "letter": "D",
+          "text": "Fueron empleados bajo convenios humanitarios en obras públicas de infraestructura vial, construcciones civiles (como iglesias y caminos) y respetados en su integridad por la población local",
+          "is_correct": true,
+          "feedback": "Correcto. Los prisioneros de guerra bolivianos colaboraron de forma valorada en caminos y construcciones viales (como el camino a Paraguarí), recibiendo un trato humanitario digno."
         }
       ],
       "correct_answer": "D",
@@ -733,12 +733,6 @@
       "context": "En la mesa de debates de la Universidad Nacional de Asunción, se juzga de forma crítica el impacto político de la Revolución Febrerista del 17 de febrero de 1936 surgida de las trincheras chaqueñas.",
       "options": [
         {
-          "letter": "C",
-          "text": "El profundo descontento de la juventud militar y combatientes campesinos (frente de veteranos) contra la desgastada conducción política liberal, exigiendo reformas de justicia social, agraria y de descolonización",
-          "is_correct": true,
-          "feedback": "Correcto. El fin de la guerra desató demandas latentes de justicia social agraria acumuladas, derrocando pacíficamente al partido liberal e inaugurando el 'febrerismo' corporativista nacionalista reformador."
-        },
-        {
           "letter": "A",
           "text": "El descontento por la firma del Tratado de límites que cedía de forma voluntaria Asunción al territorio de Bolivia",
           "is_correct": false,
@@ -749,6 +743,12 @@
           "text": "El anhelo militar de coronar a Rafael Franco como monarca absoluto y hereditario de la corona británica",
           "is_correct": false,
           "feedback": "Incorrecto. El movimiento febrerista se autodefinía de corte nacionalista, obrero y campesino popular, rechazando monarquías o sumisiones coloniales lejanas."
+        },
+        {
+          "letter": "C",
+          "text": "El profundo descontento de la juventud militar y combatientes campesinos (frente de veteranos) contra la desgastada conducción política liberal, exigiendo reformas de justicia social, agraria y de descolonización",
+          "is_correct": true,
+          "feedback": "Correcto. El fin de la guerra desató demandas latentes de justicia social agraria acumuladas, derrocando pacíficamente al partido liberal e inaugurando el 'febrerismo' corporativista nacionalista reformador."
         },
         {
           "letter": "D",
@@ -778,12 +778,6 @@
       "context": "El estudiante Santiago del Colegio Nacional de Concepción examina el tratado definitivo de límites de 1938 y reflexiona sobre el papel de la diplomacia paraguaya encabezada por Cecilio Báez.",
       "options": [
         {
-          "letter": "C",
-          "text": "Consagró de forma soberana el acceso fluvial del Paraguay al río homónimo y la posesión definitiva de Bahía Negra y zonas adyacentes, asegurando el control comercial e hídrico de la hidrovía",
-          "is_correct": true,
-          "feedback": "Correcto. La diplomacia paraguaya impuso el derecho indiscutible de soberanía sobre las costas chaqueñas del río Paraguay, bloqueando los históricos anhelos bolivianos de puertos soberanos fluviales."
-        },
-        {
           "letter": "A",
           "text": "Permitió que la escuadra naval paraguaya conquistara militarmente puertos bolivianos en el océano Pacífico",
           "is_correct": false,
@@ -794,6 +788,12 @@
           "text": "Cedió de forma pacífica la mitad de la Región Oriental a cambio de riquezas mineras de estaño de los Andes",
           "is_correct": false,
           "feedback": "Incorrecto. Paraguay resguardó de forma intransigente e invicta todo su territorio de la Región Oriental agraria, delimitando pacíficamente los confines chaqueños."
+        },
+        {
+          "letter": "C",
+          "text": "Consagró de forma soberana el acceso fluvial del Paraguay al río homónimo y la posesión definitiva de Bahía Negra y zonas adyacentes, asegurando el control comercial e hídrico de la hidrovía",
+          "is_correct": true,
+          "feedback": "Correcto. La diplomacia paraguaya impuso el derecho indiscutible de soberanía sobre las costas chaqueñas del río Paraguay, bloqueando los históricos anhelos bolivianos de puertos soberanos fluviales."
         },
         {
           "letter": "D",
@@ -868,12 +868,6 @@
       "context": "Un seminario científico en Asunción concluye valorando críticamente el papel integrador cívico-social legado por la Guerra del Chaco.",
       "options": [
         {
-          "letter": "C",
-          "text": "Consolidó la definitiva integración cívico-social de la masa campesina mestiza guaraníhablante al seno de la ciudadanía activa y sembró las bases ideológicas de las futuras reformas sociales y agrarias de la segunda mitad del siglo",
-          "is_correct": true,
-          "feedback": "Correcto. El sacrificio compartido en las trincheras del Chaco unificó de forma definitiva al campesino bilingüe con las clases urbanas, gestando una vigorosa mística de derechos sociales patrióticos nacionales."
-        },
-        {
           "letter": "A",
           "text": "Provocó la sumisión pacífica y voluntaria del Paraguay al territorio boliviano, extinguiendo la soberanía asuncena de forma definitiva",
           "is_correct": false,
@@ -881,6 +875,12 @@
         },
         {
           "letter": "B",
+          "text": "Consolidó la definitiva integración cívico-social de la masa campesina mestiza guaraníhablante al seno de la ciudadanía activa y sembró las bases ideológicas de las futuras reformas sociales y agrarias de la segunda mitad del siglo",
+          "is_correct": true,
+          "feedback": "Correcto. El sacrificio compartido en las trincheras del Chaco unificó de forma definitiva al campesino bilingüe con las clases urbanas, gestando una vigorosa mística de derechos sociales patrióticos nacionales."
+        },
+        {
+          "letter": "C",
           "text": "La privatización de todos los puertos del río Paraguay para cederlos de forma definitiva al Imperio del Japón",
           "is_correct": false,
           "feedback": "Incorrecto. No existieron tales transferencias comerciales; el Paraguay defendió celosamente el control soberano estatal de todos sus puertos fluviales mercantes."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Al contrario, la contienda de 1832 revalorizó de forma extraordinaria y patriótica nacionalista el orgullo de hablar y escribir en la lengua materna guaraní de la patria."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La Guerra del Chaco operó como un formidable crisol de integración social popular, transformando la estructura política clásica del Paraguay contemporáneo.\n\n---",
       "difficulty": "10",
       "images": [],

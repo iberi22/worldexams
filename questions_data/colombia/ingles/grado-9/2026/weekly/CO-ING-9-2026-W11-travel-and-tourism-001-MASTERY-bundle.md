@@ -273,9 +273,9 @@ Choose the best way to combine these three facts:
 
 ### Opciones
 - [ ] A) Machu Picchu, that was built by the Incas, is in Peru and attracts tourists. <!-- feedback: Incorrect. "That" after a comma. -->
-- [x] B) Machu Picchu, which was built by the Incas, is located in Peru, where it attracts thousands of tourists. <!-- feedback: Correct! Uses non-defining "which" and "where" correctly and fluently. -->
+- [ ] B) Machu Picchu is in Peru which Incas built it and attracts tourists. <!-- feedback: Incorrect. Grammatically clumsy. -->
 - [ ] C) Machu Picchu who was built by the Incas is in Peru where attracts tourists. <!-- feedback: Incorrect. "Who" for a place and missing subject for "attracts". -->
-- [ ] D) Machu Picchu is in Peru which Incas built it and attracts tourists. <!-- feedback: Incorrect. Grammatically clumsy. -->
+- [x] D) Machu Picchu, which was built by the Incas, is located in Peru, where it attracts thousands of tourists. <!-- feedback: Correct! Uses non-defining "which" and "where" correctly and fluently. -->
 
 ### Explicacion Pedagogica
 La fluidez en el nivel B2 se demuestra combinando múltiples ideas mediante el uso correcto de diversos pronombres relativos (*which*, *where*) y puntuación adecuada.

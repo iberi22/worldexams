@@ -65,12 +65,6 @@
           "feedback": "Incorrect. If the verb already ends in 'e', you only add 'd'."
         },
         {
-          "letter": "D",
-          "text": "danced",
-          "is_correct": true,
-          "feedback": "Correct! We just add 'd' to verbs ending in 'e'."
-        },
-        {
           "letter": "B",
           "text": "dancied",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "dancen",
           "is_correct": false,
           "feedback": "Incorrect. This is not a past tense form for this verb."
+        },
+        {
+          "letter": "D",
+          "text": "danced",
+          "is_correct": true,
+          "feedback": "Correct! We just add 'd' to verbs ending in 'e'."
         }
       ],
       "correct_answer": "D",
@@ -111,16 +111,16 @@
           "feedback": "Incorrect. This is present tense."
         },
         {
-          "letter": "C",
-          "text": "played",
-          "is_correct": true,
-          "feedback": "Correct! \"Played\" is the past simple of the regular verb \"play\"."
-        },
-        {
           "letter": "B",
           "text": "plaied",
           "is_correct": false,
           "feedback": "Incorrect. Since \"play\" ends in vowel + y, we don't change 'y' to 'i'."
+        },
+        {
+          "letter": "C",
+          "text": "played",
+          "is_correct": true,
+          "feedback": "Correct! \"Played\" is the past simple of the regular verb \"play\"."
         },
         {
           "letter": "D",
@@ -203,12 +203,6 @@
           "feedback": "Incorrect. Present tense."
         },
         {
-          "letter": "D",
-          "text": "watched",
-          "is_correct": true,
-          "feedback": "Correct! Past simple of the regular verb \"watch\"."
-        },
-        {
           "letter": "B",
           "text": "watches",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "watching",
           "is_correct": false,
           "feedback": "Incorrect. Present continuous."
+        },
+        {
+          "letter": "D",
+          "text": "watched",
+          "is_correct": true,
+          "feedback": "Correct! Past simple of the regular verb \"watch\"."
         }
       ],
       "correct_answer": "D",
@@ -249,16 +249,16 @@
           "feedback": "Incorrect. She visited her grandparents."
         },
         {
-          "letter": "C",
-          "text": "She helped her grandmother.",
-          "is_correct": true,
-          "feedback": "Correct! The text says \"She helped her grandmother in the garden\"."
-        },
-        {
           "letter": "B",
           "text": "She studied for a test.",
           "is_correct": false,
           "feedback": "Incorrect. This is not mentioned."
+        },
+        {
+          "letter": "C",
+          "text": "She helped her grandmother.",
+          "is_correct": true,
+          "feedback": "Correct! The text says \"She helped her grandmother in the garden\"."
         },
         {
           "letter": "D",
@@ -289,16 +289,16 @@
       "context": "Spelling rules for verbs ending in 'y'.",
       "options": [
         {
-          "letter": "B",
-          "text": "studyed",
-          "is_correct": false,
-          "feedback": "Incorrect. Spelling error."
-        },
-        {
           "letter": "A",
           "text": "studied",
           "is_correct": true,
           "feedback": "Correct! Change 'y' to 'i' and add 'ed' for verbs ending in consonant + y."
+        },
+        {
+          "letter": "B",
+          "text": "studyed",
+          "is_correct": false,
+          "feedback": "Incorrect. Spelling error."
         },
         {
           "letter": "C",
@@ -341,12 +341,6 @@
           "feedback": "Incorrect. \"Wash\" should be in the past: \"washed\"."
         },
         {
-          "letter": "D",
-          "text": "Last night I washed my car and cleaned my house.",
-          "is_correct": true,
-          "feedback": "Correct! Both verbs are correctly conjugated in the past."
-        },
-        {
           "letter": "B",
           "text": "Last night I washed my car and clean my house.",
           "is_correct": false,
@@ -357,6 +351,12 @@
           "text": "Last night I washing my car and cleaning my house.",
           "is_correct": false,
           "feedback": "Incorrect. Continuous forms without \"was/were\" are incomplete and don't fit a finished action."
+        },
+        {
+          "letter": "D",
+          "text": "Last night I washed my car and cleaned my house.",
+          "is_correct": true,
+          "feedback": "Correct! Both verbs are correctly conjugated in the past."
         }
       ],
       "correct_answer": "D",
@@ -387,16 +387,16 @@
           "feedback": "Incorrect. For CVC verbs, the last consonant must be doubled."
         },
         {
-          "letter": "C",
-          "text": "stopped",
-          "is_correct": true,
-          "feedback": "Correct! Double the 'p' before adding -ed."
-        },
-        {
           "letter": "B",
           "text": "stopied",
           "is_correct": false,
           "feedback": "Incorrect. This is only for 'y' endings."
+        },
+        {
+          "letter": "C",
+          "text": "stopped",
+          "is_correct": true,
+          "feedback": "Correct! Double the 'p' before adding -ed."
         },
         {
           "letter": "D",
@@ -434,12 +434,6 @@
         },
         {
           "letter": "B",
-          "text": "They only visited one museum.",
-          "is_correct": false,
-          "feedback": "Incorrect. They visited \"many museums\"."
-        },
-        {
-          "letter": "D",
           "text": "They arrived late, stayed for a few days, and explored the city.",
           "is_correct": true,
           "feedback": "Correct! 10:00 PM is late, three days is a few days, and museums/walking are exploring."
@@ -449,9 +443,15 @@
           "text": "They hated the trip.",
           "is_correct": false,
           "feedback": "Incorrect. It says \"the best trip ever\"."
+        },
+        {
+          "letter": "D",
+          "text": "They only visited one museum.",
+          "is_correct": false,
+          "feedback": "Incorrect. They visited \"many museums\"."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "The student evaluates the information in a past tense narrative to determine the most accurate summary of events.",
       "difficulty": "10",
       "images": [],

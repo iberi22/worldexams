@@ -125,9 +125,9 @@ Un equipo de Bogotá escribe un ensayo sobre el cuidado de los parques. ¿Qué n
   <!-- feedback: La opinión sola no fundamenta; el ensayo debe apoyarse en razones y pruebas. -->
 - [ ] B) Un solo dato sin explicar su origen, porque cualquier número sirve como prueba.
   <!-- feedback: Un dato sin fuente citada no puede verificarse y debilita la credibilidad del texto. -->
-- [ ] C) Datos, estadísticas y fuentes confiables, explicadas de manera clara y conectadas con cada afirmación.
+- [x] C) Datos, estadísticas y fuentes confiables, explicadas de manera clara y conectadas con cada afirmación.
   <!-- feedback: La evidencia debe ser pertinente, estar explicada y conectada con la tesis; así el ensayo queda fundamentado. -->
-- [x] D) Frases de otros textos copiadas sin citar, porque dar visibilidad a otros autores reemplaza los argumentos.
+- [ ] D) Frases de otros textos copiadas sin citar, porque dar visibilidad a otros autores reemplaza los argumentos.
   <!-- feedback: Copiar sin citar es plagio y no sustenta nada; la evidencia debe citarse y conectarse con la tesis. -->
 
 ### Explicacion Pedagogica

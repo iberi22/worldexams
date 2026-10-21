@@ -412,8 +412,8 @@ Esta es una aplicación del corolario del Teorema de Bolzano: entre dos raíces 
 ### Opciones
 - [ ] A) Sí, definiendo f(1) = 1. <!-- feedback: Incorrecto. No soluciona la diferencia con el límite izquierdo. -->
 - [ ] B) Sí, definiendo f(1) = 0. <!-- feedback: Incorrecto. No soluciona los límites laterales distintos. -->
-- [x] C) No, porque presenta una discontinuidad de salto finito (límites laterales 1 y -1). <!-- feedback: Correcto. Al ser los límites distintos, no existe un valor único que se pueda asignar para "unir" la función. -->
-- [ ] D) Sí, porque la discontinuidad es evitable. <!-- feedback: Incorrecto. No es evitable, el límite general no existe. -->
+- [ ] C) Sí, porque la discontinuidad es evitable. <!-- feedback: Incorrecto. No es evitable, el límite general no existe. -->
+- [x] D) No, porque presenta una discontinuidad de salto finito (límites laterales 1 y -1). <!-- feedback: Correcto. Al ser los límites distintos, no existe un valor único que se pueda asignar para "unir" la función. -->
 
 ### Explicacion Pedagogica
 En una discontinuidad de salto finito (primera especie), la brecha entre los tramos de la función es insalvable mediante la simple definición de un punto. La función es intrínsecamente discontinua allí.

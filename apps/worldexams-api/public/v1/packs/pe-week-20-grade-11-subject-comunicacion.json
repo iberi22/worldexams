@@ -881,18 +881,18 @@
         },
         {
           "letter": "C",
-          "text": "Acumula tres vicios graves del lenguaje: 1) Dequeísmo en el verbo transitivo \"detalla\" (debió escribirse \"detalla que\"). 2) Gerundio de posterioridad incorrecto (\"quedando interrumpido\" - debió ser \"...lo que causó la interrupción del paso...\"). 3) Imprecisión léxica y cacofonía en la expresión \"flete de papas de Sandia rápidamente\" (debió precisarse y dotarse de mayor eufonía).",
-          "is_correct": true,
-          "feedback": "¡Correcto! La oración condensa con rigor científico tres de las taras de estilo más graves que carcomen la prosa académica formal de posguerra peruana: el dequeísmo del objeto directo, el gerundio de posterioridad de consecuencia y la vaguedad o cacofonía del enlace final."
-        },
-        {
-          "letter": "D",
           "text": "Todos los términos de origen técnico minero como \"flete de papas\" de la sierra andina deben escribirse exclusivamente en el idioma quechua cuzqueño por ley de la RAE de 2026.",
           "is_correct": false,
           "feedback": "Incorrecto. No existe ninguna prohibición ni imposición idiomática totalitaria penal de que los términos de transportes agrarios deban escribirse solo en lengua quechua."
+        },
+        {
+          "letter": "D",
+          "text": "Acumula tres vicios graves del lenguaje: 1) Dequeísmo en el verbo transitivo \"detalla\" (debió escribirse \"detalla que\"). 2) Gerundio de posterioridad incorrecto (\"quedando interrumpido\" - debió ser \"...lo que causó la interrupción del paso...\"). 3) Imprecisión léxica y cacofonía en la expresión \"flete de papas de Sandia rápidamente\" (debió precisarse y dotarse de mayor eufonía).",
+          "is_correct": true,
+          "feedback": "¡Correcto! La oración condensa con rigor científico tres de las taras de estilo más graves que carcomen la prosa académica formal de posguerra peruana: el dequeísmo del objeto directo, el gerundio de posterioridad de consecuencia y la vaguedad o cacofonía del enlace final."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La consagración de las competencias de producción de textos de nivel preuniversitario exige que el alumno actúe como un fiscal lingüístico de su propia prosa. Detectar de manera simultánea el dequeísmo de objeto directo (reemplazar \"detallar de que\" por \"detallar que\"), el solecismo del gerundio de posterioridad de consecuencia (\"quedando interrumpido\") y pulir la eufonía de los complementos finales constituyen el andamiaje metodológico para forjar una redacción académica pulida, clara y de primer orden científico mundial en el español peruano contemporáneo.\n\n---",
       "difficulty": "10",
       "images": [],

@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle-v1",
-      "statement": "Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 2x + 5$ alcanza su punto mínimo.",
-      "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
+      "statement": "Sea $f$ una función definida en un intervalo abierto que contiene a $c$. ¿Cuándo se dice que $c$ es un punto crítico de $f$?",
+      "context": "Antes de analizar la producción de leche de una finca en San Pedro de los Milagros, una profesora repasa con su curso qué es un punto crítico.",
       "options": [
         {
           "letter": "A",
-          "text": "$x = 1$",
-          "is_correct": true,
-          "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
+          "text": "Cuando $f(c)=0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f(c)=0$ indica un corte con el eje $x$ (una raíz), no un punto de pendiente nula."
         },
         {
           "letter": "B",
-          "text": "$x = -1$",
+          "text": "Cuando $f''(c)=0$",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el despeje."
+          "feedback": "Incorrecto. La condición $f''(c)=0$ se relaciona con la concavidad y posibles puntos de inflexión, no con la definición de punto crítico."
         },
         {
           "letter": "C",
-          "text": "$x = 3$",
-          "is_correct": false,
-          "feedback": "Incorrecto: falta dividir por el coeficiente 2."
+          "text": "Cuando $f'(c)=0$ o cuando $f'(c)$ no existe",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la definición: los únicos candidatos a extremo local en el interior son los puntos donde la derivada es cero o no existe."
         },
         {
           "letter": "D",
-          "text": "$x = 0$",
+          "text": "Solo cuando $c$ es un extremo del intervalo de estudio",
           "is_correct": false,
-          "feedback": "Incorrecto: se asumió por error el origen."
+          "feedback": "Incorrecto. Los extremos del intervalo se revisan aparte; un punto crítico es interior y se define con la derivada."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 2 = 0 \\implies 2x = 2 \\implies x = 1$.",
+      "correct_answer": "C",
+      "explanation": "Un punto crítico de $f$ es un valor $c$ del dominio, en el interior, tal que $f'(c)=0$ o $f'(c)$ no existe. Por el teorema de Fermat, todo extremo local interior de una función derivable ocurre en un punto con $f'(c)=0$, por eso se buscan allí.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Algebraico",
+      "icfes_type": "Variacional",
       "expected_success": 0.85,
       "bundle_id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle",
       "periodo": 15,
@@ -55,42 +55,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle-v2",
-      "statement": "Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 4x + 5$ alcanza su punto mínimo.",
-      "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
+      "statement": "La altura del balón es $h(t) = -t^2 + 6t + 1$. ¿Cuál es el vértice de la parábola y qué tipo de extremo representa?",
+      "context": "En el estadio Metropolitano de Barranquilla, la altura (en metros) de un balón pateado se modela con una parábola en función del tiempo.",
       "options": [
         {
-          "letter": "B",
-          "text": "$x = 2$",
-          "is_correct": true,
-          "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
+          "letter": "A",
+          "text": "$(3, 10)$, un mínimo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto es correcto, pero una parábola con coeficiente principal $-1<0$ abre hacia abajo y su vértice es máximo."
         },
         {
-          "letter": "A",
-          "text": "$x = -2$",
-          "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el despeje."
+          "letter": "B",
+          "text": "$(3, 10)$, un máximo",
+          "is_correct": true,
+          "feedback": "Correcto. $h'(t)=-2t+6=0$ da $t=3$ y $h(3)=-9+18+1=10$; como el coeficiente de $t^2$ es negativo, es máximo."
         },
         {
           "letter": "C",
-          "text": "$x = 5$",
+          "text": "$(-3, -26)$, un máximo",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir por el coeficiente 2."
+          "feedback": "Incorrecto. Error de signo en $t=-\\frac{b}{2a}=-\\frac{6}{-2}=3$; además $h(-3)=-26$ no es la altura máxima."
         },
         {
           "letter": "D",
-          "text": "$x = 0$",
+          "text": "$(6, 1)$, un máximo",
           "is_correct": false,
-          "feedback": "Incorrecto: se asumió por error el origen."
+          "feedback": "Incorrecto. En $t=6$ el balón vuelve a la altura inicial: $h(6)=-36+36+1=1$; ese no es el vértice."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 4 = 0 \\implies 2x = 4 \\implies x = 2$.",
+      "explanation": "El vértice está donde $h'(t)=-2t+6=0$, es decir $t=3$ s, con $h(3)=10$ m. Como $a=-1<0$, la parábola abre hacia abajo y el vértice es el punto más alto: el balón alcanza 10 m a los 3 s.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Razonamiento",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.83,
       "bundle_id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle-v3",
-      "statement": "Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 6x + 5$ alcanza su punto mínimo.",
-      "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
+      "statement": "¿Cuál de las siguientes afirmaciones expresa correctamente el teorema del valor extremo?",
+      "context": "Un estudiante de Tunja se pregunta si siempre existe la temperatura más alta del día cuando la temperatura varía de forma continua entre las 6:00 y las 18:00.",
       "options": [
         {
           "letter": "A",
-          "text": "$x = 3$",
-          "is_correct": true,
-          "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
+          "text": "Toda función continua tiene máximo absoluto en un intervalo abierto $(a,b)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f(x)=x$ en $(0,1)$ es continua y no alcanza máximo: se acerca a 1 sin llegar."
         },
         {
           "letter": "B",
-          "text": "$x = -3$",
+          "text": "El máximo absoluto siempre ocurre donde $f'(x)=0$",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el despeje."
+          "feedback": "Incorrecto. El máximo puede estar en un extremo del intervalo, donde la derivada no tiene por qué anularse."
         },
         {
           "letter": "C",
-          "text": "$x = 7$",
+          "text": "Una función continua en $[a,b]$ puede no tener mínimo absoluto",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir por el coeficiente 2."
+          "feedback": "Incorrecto. Eso contradice el teorema: la continuidad en un intervalo cerrado asegura el mínimo."
         },
         {
           "letter": "D",
-          "text": "$x = 0$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se asumió por error el origen."
+          "text": "Si $f$ es continua en $[a,b]$, entonces alcanza un valor máximo y un valor mínimo absolutos en $[a,b]$",
+          "is_correct": true,
+          "feedback": "Correcto. La continuidad en un intervalo cerrado y acotado garantiza la existencia de ambos extremos absolutos."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 6 = 0 \\implies 2x = 6 \\implies x = 3$.",
+      "correct_answer": "D",
+      "explanation": "El teorema del valor extremo exige dos condiciones: $f$ continua y un intervalo cerrado $[a,b]$. Con ellas existen $c,d$ en $[a,b]$ con $f(c)$ máximo y $f(d)$ mínimo. Si el intervalo es abierto, puede fallar, como ocurre con $f(x)=x$ en $(0,1)$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.85,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.8,
       "bundle_id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle-v4",
-      "statement": "Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 8x + 5$ alcanza su punto mínimo.",
-      "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
+      "statement": "¿Cuáles son los puntos críticos de $f(x) = x^3 - 3x$?",
+      "context": "Un ingeniero de una planta de cementos en Sogamoso estudia la eficiencia de un horno con la función $f(x)=x^3-3x$.",
       "options": [
         {
-          "letter": "B",
-          "text": "$x = 4$",
+          "letter": "A",
+          "text": "$x=-1$ y $x=1$",
           "is_correct": true,
-          "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
+          "feedback": "Correcto. $f'(x)=3x^2-3=3(x-1)(x+1)$, que se anula en $\\pm 1$."
         },
         {
-          "letter": "A",
-          "text": "$x = -4$",
+          "letter": "B",
+          "text": "$x=0$ y $x=\\pm\\sqrt{3}$",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el despeje."
+          "feedback": "Incorrecto. Esas son las raíces de $f(x)=x(x^2-3)$, no los ceros de la derivada."
         },
         {
           "letter": "C",
-          "text": "$x = 9$",
+          "text": "Solo $x=1$",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir por el coeficiente 2."
+          "feedback": "Incorrecto. $x^2=1$ tiene dos soluciones; olvidó la raíz $x=-1$."
         },
         {
           "letter": "D",
-          "text": "$x = 0$",
+          "text": "$x=0$",
           "is_correct": false,
-          "feedback": "Incorrecto: se asumió por error el origen."
+          "feedback": "Incorrecto. Resolvió $f''(x)=6x=0$, la segunda derivada, en lugar de $f'(x)=0$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 8 = 0 \\implies 2x = 8 \\implies x = 4$.",
+      "correct_answer": "A",
+      "explanation": "Como $f$ es un polinomio, es derivable en todo $\\mathbb{R}$ y los puntos críticos son las soluciones de $f'(x)=0$. Se tiene $f'(x)=3x^2-3=3(x^2-1)=0$, de donde $x=1$ o $x=-1$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.85,
+      "icfes_type": "Algebraico",
+      "expected_success": 0.78,
       "bundle_id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -193,41 +193,41 @@
     },
     {
       "id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle-v5",
-      "statement": "Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 10x + 5$ alcanza su punto mínimo.",
-      "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
+      "statement": "¿Cuáles son el máximo y el mínimo absolutos de $f(x) = x^2 - 4x + 1$ en el intervalo $[0, 5]$?",
+      "context": "Un técnico de un cultivo de flores en la Sabana de Bogotá modela una variable de riego con $f(x)=x^2-4x+1$ para $x$ entre 0 y 5 horas.",
       "options": [
         {
-          "letter": "B",
-          "text": "$x = 5$",
-          "is_correct": true,
-          "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
+          "letter": "A",
+          "text": "Máximo $1$ en $x=0$; mínimo $-3$ en $x=2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No evaluó el extremo derecho: $f(5)=25-20+1=6>1$."
         },
         {
-          "letter": "A",
-          "text": "$x = -5$",
+          "letter": "B",
+          "text": "Máximo $6$ en $x=5$; mínimo $1$ en $x=0$",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el despeje."
+          "feedback": "Incorrecto. Revisó solo los extremos del intervalo y omitió el punto crítico $x=2$, donde $f(2)=-3$."
         },
         {
           "letter": "C",
-          "text": "$x = 11$",
-          "is_correct": false,
-          "feedback": "Incorrecto: falta dividir por el coeficiente 2."
+          "text": "Máximo $6$ en $x=5$; mínimo $-3$ en $x=2$",
+          "is_correct": true,
+          "feedback": "Correcto. Se comparan $f(0)=1$, $f(2)=-3$ y $f(5)=6$: el mayor es 6 y el menor $-3$."
         },
         {
           "letter": "D",
-          "text": "$x = 0$",
+          "text": "Mínimo $-3$ en $x=2$; no hay máximo absoluto",
           "is_correct": false,
-          "feedback": "Incorrecto: se asumió por error el origen."
+          "feedback": "Incorrecto. En un intervalo cerrado una función continua siempre tiene máximo; aquí está en $x=5$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 10 = 0 \\implies 2x = 10 \\implies x = 5$.",
+      "correct_answer": "C",
+      "explanation": "Punto crítico: $f'(x)=2x-4=0$, $x=2$, que está en $[0,5]$. Se evalúa en el crítico y en los extremos: $f(0)=1$, $f(2)=4-8+1=-3$, $f(5)=6$. El máximo absoluto es 6 (en $x=5$) y el mínimo absoluto es $-3$ (en $x=2$).",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Algebraico",
+      "icfes_type": "Variacional",
       "expected_success": 0.75,
       "bundle_id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle",
       "periodo": 15,
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle-v6",
-      "statement": "Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 12x + 5$ alcanza su punto mínimo.",
-      "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
+      "statement": "La temperatura es $T(h) = -0.1h^2 + 1.6h + 8$ (°C). ¿Cuál es la temperatura máxima del día y a qué hora se alcanza?",
+      "context": "Con datos de una estación meteorológica se modela la temperatura en Bogotá durante un día despejado; $h$ son las horas transcurridas desde las 6:00 a. m., con $0 \\le h \\le 12$.",
       "options": [
         {
-          "letter": "D",
-          "text": "$x = 6$",
-          "is_correct": true,
-          "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
-        },
-        {
           "letter": "A",
-          "text": "$x = -6$",
+          "text": "$8$ °C a las 6:00 a. m.",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el despeje."
+          "feedback": "Incorrecto. $T(0)=8$ es la temperatura inicial; el crítico $h=8$ da un valor mayor, $14.4$."
         },
         {
           "letter": "B",
-          "text": "$x = 13$",
+          "text": "$14.4$ °C a las 8:00 a. m.",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir por el coeficiente 2."
+          "feedback": "Incorrecto. Leyó $h=8$ como la hora del reloj; $h$ cuenta horas desde las 6:00, así que es a las 14:00."
         },
         {
           "letter": "C",
-          "text": "$x = 0$",
+          "text": "$12.8$ °C a las 6:00 p. m.",
           "is_correct": false,
-          "feedback": "Incorrecto: se asumió por error el origen."
+          "feedback": "Incorrecto. $T(12)=-14.4+19.2+8=12.8$ es el valor en el extremo final, menor que $T(8)=14.4$."
+        },
+        {
+          "letter": "D",
+          "text": "$14.4$ °C a las 2:00 p. m.",
+          "is_correct": true,
+          "feedback": "Correcto. $T'(h)=-0.2h+1.6=0$ da $h=8$, es decir 6:00 + 8 h = 14:00, con $T(8)=14.4$."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 12 = 0 \\implies 2x = 12 \\implies x = 6$.",
+      "explanation": "$T'(h)=-0.2h+1.6=0$ implica $h=8$. Se comparan $T(0)=8$, $T(8)=-6.4+12.8+8=14.4$ y $T(12)=12.8$. El máximo es 14.4 °C, ocho horas después de las 6:00 a. m., es decir a las 2:00 p. m.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Razonamiento",
-      "expected_success": 0.75,
+      "icfes_type": "Modelacion",
+      "expected_success": 0.73,
       "bundle_id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle-v7",
-      "statement": "Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 14x + 5$ alcanza su punto mínimo.",
-      "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
+      "statement": "La utilidad es $U(x) = -2x^2 + 240x - 4000$. ¿Cuántas mochilas maximizan la utilidad y cuál es esa utilidad máxima?",
+      "context": "Una asociación de artesanas wayuu de La Guajira estima su utilidad mensual, en miles de COP, según el número $x$ de mochilas vendidas.",
       "options": [
         {
-          "letter": "C",
-          "text": "$x = 7$",
-          "is_correct": true,
-          "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
-        },
-        {
           "letter": "A",
-          "text": "$x = -7$",
+          "text": "120 mochilas y utilidad de $-4.000$ miles de COP",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el despeje."
+          "feedback": "Incorrecto. Usó $x=\\frac{240}{2}$ sin el coeficiente $-2$; la derivada correcta es $-4x+240$."
         },
         {
           "letter": "B",
-          "text": "$x = 15$",
+          "text": "60 mochilas y utilidad de 7.200 miles de COP",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir por el coeficiente 2."
+          "feedback": "Incorrecto. Olvidó restar el costo fijo 4000: $-7200+14400-4000=3200$."
+        },
+        {
+          "letter": "C",
+          "text": "60 mochilas y utilidad de 3.200 miles de COP",
+          "is_correct": true,
+          "feedback": "Correcto. $U'(x)=-4x+240=0$ da $x=60$ y $U(60)=-7200+14400-4000=3200$."
         },
         {
           "letter": "D",
-          "text": "$x = 0$",
+          "text": "60 mochilas y utilidad de 17.600 miles de COP",
           "is_correct": false,
-          "feedback": "Incorrecto: se asumió por error el origen."
+          "feedback": "Incorrecto. Sumó el término cuadrático: $-2(60)^2=-7200$, no $+7200$."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 14 = 0 \\implies 2x = 14 \\implies x = 7$.",
+      "explanation": "$U'(x)=-4x+240=0$ da $x=60$; como $U''(x)=-4<0$ (parábola hacia abajo), es un máximo. $U(60)=-2(3600)+240(60)-4000=-7200+14400-4000=3200$, es decir 3.200.000 COP.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.75,
+      "icfes_type": "Modelacion",
+      "expected_success": 0.71,
       "bundle_id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle-v8",
-      "statement": "Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 16x + 5$ alcanza su punto mínimo.",
-      "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
+      "statement": "¿Cuáles son el valor máximo absoluto y el valor mínimo absoluto de $f(x) = x^3 - 3x^2 + 1$ en $[-1, 3]$?",
+      "context": "Un ingeniero de una hidroeléctrica en Antioquia analiza la variación del nivel de un embalse con el modelo $f(x)=x^3-3x^2+1$ en el periodo $[-1,3]$.",
       "options": [
         {
-          "letter": "C",
-          "text": "$x = 8$",
-          "is_correct": true,
-          "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
-        },
-        {
           "letter": "A",
-          "text": "$x = -8$",
-          "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el despeje."
+          "text": "Máximo $1$ y mínimo $-3$",
+          "is_correct": true,
+          "feedback": "Correcto. $f(-1)=-3$, $f(0)=1$, $f(2)=-3$, $f(3)=1$: el mayor valor es 1 y el menor es $-3$."
         },
         {
           "letter": "B",
-          "text": "$x = 17$",
+          "text": "Máximo $0$ y mínimo $2$",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir por el coeficiente 2."
+          "feedback": "Incorrecto. 0 y 2 son las abscisas de los puntos críticos, no los valores de la función."
+        },
+        {
+          "letter": "C",
+          "text": "Máximo $3$ y mínimo $-3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó $f(-1)$ con $-3(-1)^2=+3$; en realidad $-3(-1)^2=-3$ y $f(-1)=-1-3+1=-3$."
         },
         {
           "letter": "D",
-          "text": "$x = 0$",
+          "text": "No hay extremos absolutos, solo un máximo local en $x=0$ y un mínimo local en $x=2$",
           "is_correct": false,
-          "feedback": "Incorrecto: se asumió por error el origen."
+          "feedback": "Incorrecto. $f$ es continua en un intervalo cerrado, así que tiene extremos absolutos."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 16 = 0 \\implies 2x = 16 \\implies x = 8$.",
+      "correct_answer": "A",
+      "explanation": "$f'(x)=3x^2-6x=3x(x-2)$ da críticos $x=0$ y $x=2$, ambos en $[-1,3]$. Valores: $f(-1)=-3$, $f(0)=1$, $f(2)=8-12+1=-3$, $f(3)=27-27+1=1$. El máximo absoluto es 1 (en $x=0$ y $x=3$) y el mínimo absoluto es $-3$ (en $x=-1$ y $x=2$).",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.75,
+      "icfes_type": "Variacional",
+      "expected_success": 0.69,
       "bundle_id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -377,42 +377,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle-v9",
-      "statement": "Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 18x + 5$ alcanza su punto mínimo.",
-      "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
+      "statement": "Para $f(x) = x^4 - 2x^2$ definida en $\\mathbb{R}$, ¿cuál afirmación sobre sus extremos es correcta?",
+      "context": "En un laboratorio de materiales de la Universidad de Antioquia se estudia la energía potencial de una pieza con el modelo $f(x)=x^4-2x^2$ en todos los reales.",
       "options": [
         {
-          "letter": "B",
-          "text": "$x = 9$",
-          "is_correct": true,
-          "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
+          "letter": "A",
+          "text": "En $x=0$ hay un máximo absoluto",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f(x)\\to\\infty$ cuando $|x|\\to\\infty$; por ejemplo $f(2)=16-8=8>f(0)$."
         },
         {
-          "letter": "A",
-          "text": "$x = -9$",
-          "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el despeje."
+          "letter": "B",
+          "text": "En $x=0$ hay un máximo local que no es absoluto, y el mínimo absoluto es $-1$, alcanzado en $x=\\pm 1$",
+          "is_correct": true,
+          "feedback": "Correcto. $f(0)=0$ es máximo local, pero $f(2)=8>0$; y $f(\\pm 1)=-1$ es el menor valor."
         },
         {
           "letter": "C",
-          "text": "$x = 19$",
+          "text": "No hay mínimo absoluto porque el polinomio es de grado 4",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir por el coeficiente 2."
+          "feedback": "Incorrecto. Un polinomio de grado par con coeficiente principal positivo sí alcanza mínimo absoluto; aquí es $-1$."
         },
         {
           "letter": "D",
-          "text": "$x = 0$",
+          "text": "El mínimo absoluto es $0$, en $x=0$",
           "is_correct": false,
-          "feedback": "Incorrecto: se asumió por error el origen."
+          "feedback": "Incorrecto. $f(1)=1-2=-1<0$, así que 0 no es el menor valor; en $x=0$ hay un máximo local."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 18 = 0 \\implies 2x = 18 \\implies x = 9$.",
+      "explanation": "$f'(x)=4x^3-4x=4x(x-1)(x+1)$ da críticos $-1, 0, 1$. $f(\\pm 1)=-1$ y $f(0)=0$. Como $f$ crece sin cota para $|x|$ grande, no hay máximo absoluto: $x=0$ es solo un máximo local. El mínimo absoluto es $-1$ en $x=\\pm 1$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Algebraico",
-      "expected_success": 0.75,
+      "icfes_type": "Variacional",
+      "expected_success": 0.67,
       "bundle_id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -423,42 +423,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle-v10",
-      "statement": "Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 20x + 5$ alcanza su punto mínimo.",
-      "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
+      "statement": "¿Qué valor de $k$ hace que $f(x) = x^2 + kx + 5$ tenga su mínimo en $x = 3$?",
+      "context": "Una empresa de transporte de Pereira ajusta el parámetro $k$ de su modelo de costos $f(x)=x^2+kx+5$ para que el costo mínimo ocurra con 3 viajes.",
       "options": [
         {
           "letter": "A",
-          "text": "$x = 10$",
-          "is_correct": true,
-          "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
+          "text": "$k = 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo: de $6+k=0$ se obtiene $k=-6$; con $k=6$ el mínimo estaría en $x=-3$."
         },
         {
           "letter": "B",
-          "text": "$x = -10$",
-          "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el despeje."
+          "text": "$k = -6$",
+          "is_correct": true,
+          "feedback": "Correcto. $f'(x)=2x+k$ y $f'(3)=6+k=0$ da $k=-6$."
         },
         {
           "letter": "C",
-          "text": "$x = 21$",
+          "text": "$k = -3$",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir por el coeficiente 2."
+          "feedback": "Incorrecto. Derivó $x^2$ como $x$: la derivada es $2x$, así que en $x=3$ queda $6+k=0$."
         },
         {
           "letter": "D",
-          "text": "$x = 0$",
+          "text": "$k = -\\frac{14}{3}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se asumió por error el origen."
+          "feedback": "Incorrecto. Resolvió $f(3)=9+3k+5=0$, que hace cero la función, no su derivada."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 20 = 0 \\implies 2x = 20 \\implies x = 10$.",
+      "correct_answer": "B",
+      "explanation": "El mínimo de una parábola con $a=1>0$ está donde $f'(x)=0$: $2x+k=0$, es decir $x=-\\frac{k}{2}$. Para que sea $x=3$: $-\\frac{k}{2}=3$, así que $k=-6$. Así $f(x)=x^2-6x+5$ y su mínimo es $f(3)=-4$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Razonamiento",
-      "expected_success": 0.75,
+      "icfes_type": "Algebraico",
+      "expected_success": 0.65,
       "bundle_id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -469,42 +469,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle-v11",
-      "statement": "Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 22x + 5$ alcanza su punto mínimo.",
-      "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
+      "statement": "Para $f(x) = x^3 - 12x$ en $[-3, 5]$, ¿cuál afirmación es correcta?",
+      "context": "Un analista de una empresa de logística en Buenaventura estudia la función $f(x)=x^3-12x$ en el intervalo $[-3,5]$.",
       "options": [
         {
-          "letter": "C",
-          "text": "$x = 11$",
-          "is_correct": true,
-          "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
-        },
-        {
           "letter": "A",
-          "text": "$x = -11$",
-          "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el despeje."
+          "text": "En $x=-2$ hay un máximo local, $f(-2)=16$, que no es el máximo absoluto; este es $f(5)=65$",
+          "is_correct": true,
+          "feedback": "Correcto. Se comparan $f(-3)=9$, $f(-2)=16$, $f(2)=-16$, $f(5)=65$: el máximo absoluto está en el extremo $x=5$."
         },
         {
           "letter": "B",
-          "text": "$x = 23$",
+          "text": "El máximo absoluto es 16, en $x=-2$, porque allí $f'=0$",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir por el coeficiente 2."
+          "feedback": "Incorrecto. $f'=0$ solo produce candidatos; el extremo $x=5$ da $f(5)=125-60=65>16$."
+        },
+        {
+          "letter": "C",
+          "text": "El mínimo absoluto es 9, en $x=-3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f(2)=8-24=-16<9$, así que el mínimo absoluto es $-16$, en $x=2$."
         },
         {
           "letter": "D",
-          "text": "$x = 0$",
+          "text": "No hay máximo absoluto porque $f$ crece sin límite",
           "is_correct": false,
-          "feedback": "Incorrecto: se asumió por error el origen."
+          "feedback": "Incorrecto. Eso ocurre en $\\mathbb{R}$, pero en el intervalo cerrado $[-3,5]$ la función continua sí alcanza máximo."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 22 = 0 \\implies 2x = 22 \\implies x = 11$.",
+      "correct_answer": "A",
+      "explanation": "$f'(x)=3x^2-12=0$ da $x=\\pm 2$. Valores: $f(-3)=-27+36=9$, $f(-2)=16$, $f(2)=-16$, $f(5)=65$. El máximo local en $x=-2$ no es absoluto: el máximo absoluto es 65 en $x=5$ y el mínimo absoluto es $-16$ en $x=2$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.65,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.62,
       "bundle_id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -515,42 +515,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle-v12",
-      "statement": "Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 24x + 5$ alcanza su punto mínimo.",
-      "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
+      "statement": "Sea $f$ continua en $[0, 4]$ y derivable en $(0, 4)$, con $f'(x) > 0$ para todo $x$ en $(0, 4)$. ¿Qué se puede concluir sobre sus extremos absolutos?",
+      "context": "Un sensor registra el caudal de agua de un acueducto veredal en Santander durante 4 horas; el caudal es continuo y su tasa de cambio fue positiva todo el tiempo.",
       "options": [
         {
           "letter": "A",
-          "text": "$x = 12$",
-          "is_correct": true,
-          "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
+          "text": "No tiene extremos absolutos porque $f'$ nunca se anula",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que $f'$ no se anule solo descarta extremos interiores; en $[0,4]$ los extremos absolutos están en los bordes."
         },
         {
           "letter": "B",
-          "text": "$x = -12$",
+          "text": "El máximo absoluto está en $x=2$, el punto medio",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el despeje."
+          "feedback": "Incorrecto. Nada indica un cambio en $x=2$; una función creciente sigue aumentando hasta $x=4$."
         },
         {
           "letter": "C",
-          "text": "$x = 25$",
+          "text": "El máximo absoluto está en $x=0$ y el mínimo absoluto en $x=4$",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir por el coeficiente 2."
+          "feedback": "Incorrecto. Esa es la situación de una función decreciente ($f'<0$), no de una creciente."
         },
         {
           "letter": "D",
-          "text": "$x = 0$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se asumió por error el origen."
+          "text": "El máximo absoluto está en $x=4$ y el mínimo absoluto en $x=0$",
+          "is_correct": true,
+          "feedback": "Correcto. Con $f'>0$, $f$ es creciente: el menor valor está al inicio y el mayor al final."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 24 = 0 \\implies 2x = 24 \\implies x = 12$.",
+      "correct_answer": "D",
+      "explanation": "Si $f'(x)>0$ en $(0,4)$, $f$ es estrictamente creciente en $[0,4]$, así que $f(0)<f(x)<f(4)$ para $0<x<4$. Por el teorema del valor extremo hay máximo y mínimo; al no haber puntos críticos, se ubican en los extremos: mínimo en 0 y máximo en 4.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.65,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.6,
       "bundle_id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -561,42 +561,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle-v13",
-      "statement": "Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 26x + 5$ alcanza su punto mínimo.",
-      "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
+      "statement": "La estudiante escribe: \"El vértice está en $x=2$, así que el máximo absoluto en $[3,6]$ es $f(2)=4$\". ¿Cuál es la corrección adecuada?",
+      "context": "En una monitoría de cálculo en Neiva, una estudiante busca los extremos absolutos de $f(x)=-x^2+4x$ en el intervalo $[3,6]$.",
       "options": [
         {
-          "letter": "D",
-          "text": "$x = 13$",
-          "is_correct": true,
-          "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
-        },
-        {
           "letter": "A",
-          "text": "$x = -13$",
+          "text": "No hay error: el máximo absoluto es $f(2)=4$",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el despeje."
+          "feedback": "Incorrecto. El valor 4 se alcanza fuera del intervalo; en $[3,6]$ ningún punto da 4."
         },
         {
           "letter": "B",
-          "text": "$x = 27$",
+          "text": "El máximo absoluto es $f(6)=-12$, por ser el extremo derecho",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir por el coeficiente 2."
+          "feedback": "Incorrecto. $-12$ es el menor valor en $[3,6]$, ya que $f$ decrece allí; es el mínimo."
         },
         {
           "letter": "C",
-          "text": "$x = 0$",
+          "text": "$x=2$ no pertenece a $[3,6]$; allí $f$ decrece, así que el máximo es $f(3)=3$ y el mínimo $f(6)=-12$",
+          "is_correct": true,
+          "feedback": "Correcto. Solo cuentan los críticos dentro del intervalo; con $f'(x)=-2x+4<0$ en $[3,6]$, el máximo está en $x=3$."
+        },
+        {
+          "letter": "D",
+          "text": "El vértice está en $x=4$, con $f(4)=0$",
           "is_correct": false,
-          "feedback": "Incorrecto: se asumió por error el origen."
+          "feedback": "Incorrecto. $x=4$ es una raíz de $f(x)=x(4-x)$, no el vértice; $f'(4)=-4\\neq 0$."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 26 = 0 \\implies 2x = 26 \\implies x = 13$.",
+      "correct_answer": "C",
+      "explanation": "$f'(x)=-2x+4=0$ da $x=2$, que está fuera de $[3,6]$. En el intervalo $f'(x)<0$, así que $f$ decrece y se comparan solo los extremos: $f(3)=-9+12=3$ (máximo) y $f(6)=-36+24=-12$ (mínimo).",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Algebraico",
-      "expected_success": 0.65,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.58,
       "bundle_id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -607,42 +607,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle-v14",
-      "statement": "Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 28x + 5$ alcanza su punto mínimo.",
-      "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
+      "statement": "El ingreso diario es $R(p) = p\\,(300 - 50p)$, en miles de COP. ¿Qué precio maximiza el ingreso y cuál es el ingreso máximo?",
+      "context": "Un vendedor de arepas de Medellín observa que si cobra $p$ miles de COP por arepa, vende $q = 300 - 50p$ arepas al día.",
       "options": [
         {
-          "letter": "D",
-          "text": "$x = 14$",
-          "is_correct": true,
-          "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
-        },
-        {
           "letter": "A",
-          "text": "$x = -14$",
+          "text": "$p=6$ mil COP",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el despeje."
+          "feedback": "Incorrecto. Derivó $-50p^2$ como $-50p$ y resolvió $300-50p=0$; además con $p=6$ no se vende ninguna arepa."
         },
         {
           "letter": "B",
-          "text": "$x = 29$",
-          "is_correct": false,
-          "feedback": "Incorrecto: falta dividir por el coeficiente 2."
+          "text": "$p=3$ mil COP, con ingreso de 450 mil COP",
+          "is_correct": true,
+          "feedback": "Correcto. $R'(p)=300-100p=0$ da $p=3$ y $R(3)=3\\cdot 150=450$."
         },
         {
           "letter": "C",
-          "text": "$x = 0$",
+          "text": "$p=3$ mil COP, con ingreso de 150 mil COP",
           "is_correct": false,
-          "feedback": "Incorrecto: se asumió por error el origen."
+          "feedback": "Incorrecto. 150 es la cantidad de arepas vendidas, $q=300-150$; el ingreso es $p\\cdot q=3\\cdot 150=450$."
+        },
+        {
+          "letter": "D",
+          "text": "$p=3$ mil COP, con ingreso de 900 mil COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó restar el término $50p^2=450$: $R(3)=900-450=450$."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 28 = 0 \\implies 2x = 28 \\implies x = 14$.",
+      "correct_answer": "B",
+      "explanation": "$R(p)=300p-50p^2$, así que $R'(p)=300-100p=0$ da $p=3$. Como $R''(p)=-100<0$, es máximo. Se venden $300-150=150$ arepas y el ingreso es $3\\cdot 150=450$ mil COP.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Razonamiento",
-      "expected_success": 0.65,
+      "icfes_type": "Modelacion",
+      "expected_success": 0.56,
       "bundle_id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -653,42 +653,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle-v15",
-      "statement": "Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 30x + 5$ alcanza su punto mínimo.",
-      "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
+      "statement": "¿Cuál de las siguientes funciones tiene un punto crítico en $x=0$ que NO es máximo ni mínimo local?",
+      "context": "En un club de matemáticas de Pasto se discute si todo punto donde la derivada vale cero es necesariamente un máximo o un mínimo.",
       "options": [
         {
-          "letter": "B",
-          "text": "$x = 15$",
-          "is_correct": true,
-          "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
+          "letter": "A",
+          "text": "$f(x) = x^2 + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f'(0)=0$ y $x^2+1\\ge 1=f(0)$: en $x=0$ hay un mínimo."
         },
         {
-          "letter": "A",
-          "text": "$x = -15$",
+          "letter": "B",
+          "text": "$f(x) = -x^2$",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el despeje."
+          "feedback": "Incorrecto. $f'(0)=0$ y $-x^2\\le 0=f(0)$: en $x=0$ hay un máximo."
         },
         {
           "letter": "C",
-          "text": "$x = 31$",
+          "text": "$f(x) = x^4$",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir por el coeficiente 2."
+          "feedback": "Incorrecto. $f'(0)=0$ y $x^4\\ge 0=f(0)$: en $x=0$ hay un mínimo, aunque la parábola sea más plana."
         },
         {
           "letter": "D",
-          "text": "$x = 0$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se asumió por error el origen."
+          "text": "$f(x) = x^3 + 2$",
+          "is_correct": true,
+          "feedback": "Correcto. $f'(x)=3x^2$ vale 0 en $x=0$, pero $f$ crece a ambos lados: $f(-0.1)<2<f(0.1)$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 30 = 0 \\implies 2x = 30 \\implies x = 15$.",
+      "correct_answer": "D",
+      "explanation": "Que $f'(c)=0$ es condición necesaria pero no suficiente para un extremo. En $f(x)=x^3+2$, $f'(x)=3x^2\\ge 0$, así que $f$ es creciente: a la izquierda de 0 vale menos de 2 y a la derecha más de 2. Por eso $x=0$ es crítico y no es extremo.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.65,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.54,
       "bundle_id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -699,42 +699,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle-v16",
-      "statement": "Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 32x + 5$ alcanza su punto mínimo.",
-      "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
+      "statement": "¿Para qué valores de $a$ la función $f(x) = x^3 + ax$ no tiene puntos críticos?",
+      "context": "Un ingeniero de una empresa de energía solar en La Guajira estudia la familia de modelos $f(x)=x^3+ax$ y quiere saber cuándo no tiene puntos críticos.",
       "options": [
         {
-          "letter": "D",
-          "text": "$x = 16$",
-          "is_correct": true,
-          "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
-        },
-        {
           "letter": "A",
-          "text": "$x = -16$",
+          "text": "Para $a < 0$",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el despeje."
+          "feedback": "Incorrecto. Si $a<0$, $3x^2+a=0$ tiene dos soluciones $x=\\pm\\sqrt{-\\frac{a}{3}}$."
         },
         {
           "letter": "B",
-          "text": "$x = 33$",
+          "text": "Solo para $a = 0$",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir por el coeficiente 2."
+          "feedback": "Incorrecto. Con $a=0$, $f'(x)=3x^2$ se anula en $x=0$, que es un punto crítico."
         },
         {
           "letter": "C",
-          "text": "$x = 0$",
+          "text": "Para $a > 0$",
+          "is_correct": true,
+          "feedback": "Correcto. $f'(x)=3x^2+a>0$ para todo $x$ si $a>0$, así que nunca se anula."
+        },
+        {
+          "letter": "D",
+          "text": "Para todo valor real de $a$",
           "is_correct": false,
-          "feedback": "Incorrecto: se asumió por error el origen."
+          "feedback": "Incorrecto. Para $a\\le 0$ la ecuación $3x^2=-a$ tiene solución real, de modo que sí hay críticos."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 32 = 0 \\implies 2x = 32 \\implies x = 16$.",
+      "correct_answer": "C",
+      "explanation": "Como $f$ es un polinomio, sus puntos críticos son las soluciones de $f'(x)=3x^2+a=0$, es decir $x^2=-\\frac{a}{3}$. Esta ecuación no tiene solución real exactamente cuando $-\\frac{a}{3}<0$, o sea $a>0$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.65,
+      "icfes_type": "Algebraico",
+      "expected_success": 0.52,
       "bundle_id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -745,42 +745,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle-v17",
-      "statement": "Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 34x + 5$ alcanza su punto mínimo.",
-      "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
+      "statement": "¿Cuál procedimiento garantiza encontrar el máximo absoluto de una función continua y derivable $f$ en un intervalo cerrado $[a, b]$?",
+      "context": "Una empresa de café de Huila quiere determinar la producción que maximiza su utilidad semanal $U$, que es continua en el rango posible $[a,b]$ de producción.",
       "options": [
         {
-          "letter": "C",
-          "text": "$x = 17$",
-          "is_correct": true,
-          "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
-        },
-        {
           "letter": "A",
-          "text": "$x = -17$",
+          "text": "Resolver $f'(x)=0$ y tomar la solución con el mayor valor de $x$",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el despeje."
+          "feedback": "Incorrecto. El mayor $x$ no implica el mayor $f(x)$; además se ignoran los extremos del intervalo."
         },
         {
           "letter": "B",
-          "text": "$x = 35$",
+          "text": "Evaluar $f$ solo en $a$ y en $b$",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir por el coeficiente 2."
+          "feedback": "Incorrecto. El máximo puede estar en un punto interior, como el vértice de una parábola que abre hacia abajo."
+        },
+        {
+          "letter": "C",
+          "text": "Buscar dónde $f''(x)<0$, porque allí está siempre el máximo absoluto",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f''<0$ indica concavidad hacia abajo en un intervalo, no ubica el máximo absoluto."
         },
         {
           "letter": "D",
-          "text": "$x = 0$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se asumió por error el origen."
+          "text": "Hallar los puntos críticos en $(a,b)$, evaluar $f$ en ellos y en $a$ y $b$, y escoger el mayor valor",
+          "is_correct": true,
+          "feedback": "Correcto. Es el método del intervalo cerrado: el máximo está en un crítico interior o en un extremo."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 34 = 0 \\implies 2x = 34 \\implies x = 17$.",
+      "correct_answer": "D",
+      "explanation": "Por el teorema del valor extremo el máximo absoluto existe, y por el teorema de Fermat solo puede estar en un punto crítico interior o en $a$ o $b$. Por eso se evalúa $f$ en todos esos candidatos y se compara: el mayor valor es el máximo absoluto.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Algebraico",
-      "expected_success": 0.55,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.5,
       "bundle_id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -791,42 +791,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle-v18",
-      "statement": "Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 36x + 5$ alcanza su punto mínimo.",
-      "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
+      "statement": "¿Cuál conclusión sobre los extremos de $f(x) = x^4 - 4x^3$ es correcta?",
+      "context": "Dos estudiantes de un colegio de Cúcuta analizan $f(x)=x^4-4x^3$ en todos los reales y llegan a conclusiones distintas.",
       "options": [
         {
-          "letter": "B",
-          "text": "$x = 18$",
+          "letter": "A",
+          "text": "El mínimo absoluto es $-27$, en $x=3$; $x=0$ es crítico pero no es extremo",
           "is_correct": true,
-          "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
+          "feedback": "Correcto. $f'(x)=4x^2(x-3)$ es negativa a ambos lados de 0 y cambia a positiva en 3."
         },
         {
-          "letter": "A",
-          "text": "$x = -18$",
+          "letter": "B",
+          "text": "Hay un máximo local en $x=0$ y un mínimo en $x=3$",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el despeje."
+          "feedback": "Incorrecto. $f'(-1)=-16<0$ y $f'(1)=-8<0$: $f$ decrece a ambos lados de 0, así que no hay máximo allí."
         },
         {
           "letter": "C",
-          "text": "$x = 37$",
+          "text": "El mínimo absoluto es $0$, en $x=0$",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir por el coeficiente 2."
+          "feedback": "Incorrecto. $f(3)=81-108=-27<0$, de modo que 0 no es el menor valor."
         },
         {
           "letter": "D",
-          "text": "$x = 0$",
+          "text": "El mínimo absoluto es $189$, en $x=-3$",
           "is_correct": false,
-          "feedback": "Incorrecto: se asumió por error el origen."
+          "feedback": "Incorrecto. Tomó el crítico con signo cambiado: $f'(-3)\\neq 0$, y $f(-3)=189$ es mucho mayor que $f(3)$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 36 = 0 \\implies 2x = 36 \\implies x = 18$.",
+      "correct_answer": "A",
+      "explanation": "$f'(x)=4x^3-12x^2=4x^2(x-3)$, con críticos $x=0$ y $x=3$. El factor $4x^2\\ge 0$ no cambia de signo, así que $f'<0$ para $x<3$ (salvo en 0) y $f'>0$ para $x>3$. Entonces $x=0$ no es extremo y $f(3)=81-108=-27$ es el mínimo absoluto.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
       "icfes_type": "Razonamiento",
-      "expected_success": 0.55,
+      "expected_success": 0.48,
       "bundle_id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -837,42 +837,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle-v19",
-      "statement": "Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 38x + 5$ alcanza su punto mínimo.",
-      "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
+      "statement": "Con $0 \\le x \\le 40$, ¿cuántos sacos debe procesar la cooperativa para obtener la mayor utilidad y cuál es esa utilidad?",
+      "context": "Una cooperativa cafetera del Huila tiene una utilidad semanal $U(x)=-x^2+100x-1600$ (miles de COP), pero su beneficiadero solo puede procesar como máximo 40 sacos.",
       "options": [
         {
           "letter": "A",
-          "text": "$x = 19$",
-          "is_correct": true,
-          "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
+          "text": "50 sacos, con utilidad de 900 miles de COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoró la capacidad: $x=50$ no es posible porque el límite es 40 sacos."
         },
         {
           "letter": "B",
-          "text": "$x = -19$",
-          "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el despeje."
+          "text": "40 sacos, con utilidad de 800 miles de COP",
+          "is_correct": true,
+          "feedback": "Correcto. El vértice $x=50$ está fuera de $[0,40]$; como $U$ crece en ese intervalo, el máximo es $U(40)=800$."
         },
         {
           "letter": "C",
-          "text": "$x = 39$",
+          "text": "20 sacos, con utilidad de 0",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir por el coeficiente 2."
+          "feedback": "Incorrecto. $x=20$ es el punto de equilibrio, donde $U(20)=0$; no maximiza nada."
         },
         {
           "letter": "D",
-          "text": "$x = 0$",
+          "text": "No se puede maximizar porque el vértice está fuera del intervalo",
           "is_correct": false,
-          "feedback": "Incorrecto: se asumió por error el origen."
+          "feedback": "Incorrecto. $U$ es continua en $[0,40]$ y alcanza máximo; simplemente ocurre en el extremo $x=40$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 38 = 0 \\implies 2x = 38 \\implies x = 19$.",
+      "correct_answer": "B",
+      "explanation": "$U'(x)=-2x+100=0$ da $x=50$, fuera de $[0,40]$. En $[0,40]$, $U'(x)>0$, así que $U$ es creciente y el máximo está en $x=40$: $U(40)=-1600+4000-1600=800$ mil COP. La restricción de capacidad cambia la respuesta.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.55,
+      "icfes_type": "Modelacion",
+      "expected_success": 0.47,
       "bundle_id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -883,42 +883,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle-v20",
-      "statement": "Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 40x + 5$ alcanza su punto mínimo.",
-      "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
+      "statement": "¿Cuál de las siguientes afirmaciones sobre polinomios definidos en $\\mathbb{R}$ es verdadera?",
+      "context": "En un semillero de investigación de la Universidad del Valle se formulan afirmaciones generales sobre extremos de polinomios en todos los reales.",
       "options": [
         {
-          "letter": "B",
-          "text": "$x = 20$",
+          "letter": "A",
+          "text": "Un polinomio de grado impar no tiene máximo ni mínimo absolutos, aunque puede tener extremos locales",
           "is_correct": true,
-          "feedback": "Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo."
+          "feedback": "Correcto. Un polinomio de grado impar tiende a $+\\infty$ en un sentido y a $-\\infty$ en el otro; $x^3-3x$ tiene extremos locales en $\\pm 1$."
         },
         {
-          "letter": "A",
-          "text": "$x = -20$",
+          "letter": "B",
+          "text": "Todo polinomio de grado 3 tiene exactamente un máximo local y un mínimo local",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el despeje."
+          "feedback": "Incorrecto. $x^3$ es de grado 3 y no tiene extremos locales, pues $3x^2\\ge 0$ no cambia de signo."
         },
         {
           "letter": "C",
-          "text": "$x = 41$",
+          "text": "Si un polinomio tiene un máximo local, ese máximo es absoluto",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir por el coeficiente 2."
+          "feedback": "Incorrecto. $x^3-3x$ tiene máximo local $f(-1)=2$, pero $f(3)=18>2$."
         },
         {
           "letter": "D",
-          "text": "$x = 0$",
+          "text": "Un polinomio de grado par siempre tiene máximo absoluto",
           "is_correct": false,
-          "feedback": "Incorrecto: se asumió por error el origen."
+          "feedback": "Incorrecto. $x^2$ es de grado par y crece sin cota: tiene mínimo absoluto, no máximo."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x) = 2x - 40 = 0 \\implies 2x = 40 \\implies x = 20$.",
+      "correct_answer": "A",
+      "explanation": "Si el grado es impar, $p(x)\\to\\pm\\infty$ en extremos opuestos, así que toma valores arbitrariamente grandes y pequeños: no hay extremos absolutos. Aun así, $x^3-3x$ tiene máximo local en $-1$ y mínimo local en $1$. Los contraejemplos $x^3$ y $x^2$ refutan las demás afirmaciones.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.55,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.45,
       "bundle_id": "CO-MAT-11-2026-W15-maximos-minimos-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",

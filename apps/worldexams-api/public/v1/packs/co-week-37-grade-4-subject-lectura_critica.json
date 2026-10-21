@@ -152,15 +152,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "La parte del sujeto, porque allí se menciona a los jugadores",
-          "is_correct": false,
-          "feedback": "Incorrecto. El sujeto nombra a quién se aplica la norma, y no es la parte que anuncia qué pasa si se cumple."
-        },
-        {
-          "letter": "B",
           "text": "La parte del predicado, porque ahí se dice qué ocurre si la condición se cumple",
           "is_correct": true,
           "feedback": "Correcto. El verbo puede empezar y lo que lo acompaña dependen de la frase que empieza con si, así que el predicado expresa la consecuencia."
+        },
+        {
+          "letter": "B",
+          "text": "La parte del sujeto, porque allí se menciona a los jugadores",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto nombra a quién se aplica la norma, y no es la parte que anuncia qué pasa si se cumple."
         },
         {
           "letter": "C",
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. La palabra acuerdo nombra el documento, y la consecuencia está en el verbo y en lo que lo acompaña."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Analizar la estructura de una frase normativa enseña que una regla suele traer una condición y un resultado. El grupo pequeño observa que las frases que empiezan con si construyen un razonamiento completo y no solo un mandato. Esa mirada sintáctica ayuda a los niños a escribir acuerdos propios con la misma claridad.",
       "difficulty": "6",
       "images": [],

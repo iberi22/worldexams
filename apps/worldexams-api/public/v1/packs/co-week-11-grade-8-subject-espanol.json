@@ -532,18 +532,18 @@
         },
         {
           "letter": "C",
-          "text": "Las descripciones sobre la humanidad o \"barbarie\" de los indígenas sirvieron de base para justificar leyes de protección o sistemas de explotación como la encomienda.",
-          "is_correct": true,
-          "feedback": "Correcto. El poder de la palabra escrita determinó la vida y libertad de millones de personas."
-        },
-        {
-          "letter": "D",
           "text": "Las crónicas solo servían para que el Rey eligiera qué animales quería tener en su zoológico.",
           "is_correct": false,
           "feedback": "Aunque incluían fauna, su mayor impacto fue en la organización social y jurídica de las colonias."
+        },
+        {
+          "letter": "D",
+          "text": "Las descripciones sobre la humanidad o \"barbarie\" de los indígenas sirvieron de base para justificar leyes de protección o sistemas de explotación como la encomienda.",
+          "is_correct": true,
+          "feedback": "Correcto. El poder de la palabra escrita determinó la vida y libertad de millones de personas."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La palabra escrita en la Colonia tenía un valor jurídico supremo; lo que un cronista ponía en papel podía convertirse en una ley que afectaba a todo el imperio.\n\n---",
       "difficulty": "10",
       "images": [],

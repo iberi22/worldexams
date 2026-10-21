@@ -13,12 +13,6 @@
       "context": "Durante el almuerzo en un colegio de Bucaramanga, los estudiantes mastican una arepa de choclo antes de pasarla hacia el estómago.",
       "options": [
         {
-          "letter": "C",
-          "text": "En la boca.",
-          "is_correct": true,
-          "feedback": "La boca realiza la digestión mecánica (dientes) y química inicial (enzimas salivales)."
-        },
-        {
           "letter": "A",
           "text": "En el esófago.",
           "is_correct": false,
@@ -29,6 +23,12 @@
           "text": "En el intestino delgado.",
           "is_correct": false,
           "feedback": "El intestino delgado absorbe nutrientes en etapas posteriores del proceso digestivo."
+        },
+        {
+          "letter": "C",
+          "text": "En la boca.",
+          "is_correct": true,
+          "feedback": "La boca realiza la digestión mecánica (dientes) y química inicial (enzimas salivales)."
         },
         {
           "letter": "D",
@@ -59,12 +59,6 @@
       "context": "El bolo alimenticio desciende desde la boca hasta el estómago a través de un tubo muscular de unos 25 cm de largo.",
       "options": [
         {
-          "letter": "C",
-          "text": "Esófago.",
-          "is_correct": true,
-          "feedback": "El esófago conduce el bolo alimenticio hacia el estómago mediante movimientos peristálticos."
-        },
-        {
           "letter": "A",
           "text": "Tráquea.",
           "is_correct": false,
@@ -75,6 +69,12 @@
           "text": "Intestino grueso.",
           "is_correct": false,
           "feedback": "El intestino grueso absorbe agua y forma la materia fecal en la etapa final."
+        },
+        {
+          "letter": "C",
+          "text": "Esófago.",
+          "is_correct": true,
+          "feedback": "El esófago conduce el bolo alimenticio hacia el estómago mediante movimientos peristálticos."
         },
         {
           "letter": "D",
@@ -105,16 +105,16 @@
       "context": "En el estómago, el bolo alimenticio se mezcla con los jugos gástricos ácidos y se transforma en una masa semilíquida llamada quimo.",
       "options": [
         {
-          "letter": "B",
-          "text": "Digestión química.",
-          "is_correct": true,
-          "feedback": "La acción de enzimas y ácidos para transformar moléculas complejas en simples es digestión química."
-        },
-        {
           "letter": "A",
           "text": "Digestión mecánica.",
           "is_correct": false,
           "feedback": "La digestión mecánica se refiere a la trituración física por dientes o paredes musculares."
+        },
+        {
+          "letter": "B",
+          "text": "Digestión química.",
+          "is_correct": true,
+          "feedback": "La acción de enzimas y ácidos para transformar moléculas complejas en simples es digestión química."
         },
         {
           "letter": "C",
@@ -151,16 +151,16 @@
       "context": "El intestino delgado posee en su pared interior millones de pliegues microscópicos llamados vellosidades intestinales altamente vascularizadas.",
       "options": [
         {
-          "letter": "B",
-          "text": "Aumentar la superficie de contacto para absorber los nutrientes hacia el torrente sanguíneo.",
-          "is_correct": true,
-          "feedback": "Las vellosidades amplían el área disponible para transferir agua, vitaminas y nutrientes a la sangre."
-        },
-        {
           "letter": "A",
           "text": "Producir saliva para ablandar los alimentos duros.",
           "is_correct": false,
           "feedback": "La saliva es producida por las glándulas salivales situadas en la cavidad bucal."
+        },
+        {
+          "letter": "B",
+          "text": "Aumentar la superficie de contacto para absorber los nutrientes hacia el torrente sanguíneo.",
+          "is_correct": true,
+          "feedback": "Las vellosidades amplían el área disponible para transferir agua, vitaminas y nutrientes a la sangre."
         },
         {
           "letter": "C",
@@ -197,16 +197,16 @@
       "context": "El hígado secreta un líquido verdoso amarillento llamado bilis, la cual se almacena en la vesícula biliar antes de liberarse al intestino.",
       "options": [
         {
-          "letter": "B",
-          "text": "Grasas o lípidos.",
-          "is_correct": true,
-          "feedback": "La bilis emulsiona las grasas en pequeñas gotas facilitando la acción de las lipasas."
-        },
-        {
           "letter": "A",
           "text": "Glúcidos o azúcares sencillos.",
           "is_correct": false,
           "feedback": "Los glúcidos son digeridos por amilasas salivales y pancreáticas."
+        },
+        {
+          "letter": "B",
+          "text": "Grasas o lípidos.",
+          "is_correct": true,
+          "feedback": "La bilis emulsiona las grasas en pequeñas gotas facilitando la acción de las lipasas."
         },
         {
           "letter": "C",
@@ -335,16 +335,16 @@
       "context": "Un comercial de televisión afirma: \"Consumir alimentos ricos en fibra natural (como frutas enteras, verduras y cereales) mejora el tránsito intestinal y previene enfermedades del colon\".",
       "options": [
         {
-          "letter": "B",
-          "text": "La fibra retiene agua en el intestino grueso, aumentando el volumen de las heces y facilitando su evacuación constante.",
-          "is_correct": true,
-          "feedback": "La fibra insoluble no se digiere totalmente y actúa como esponja hidratando la masa fecal para un tránsito fluido."
-        },
-        {
           "letter": "A",
           "text": "La fibra destruye todos los ácidos gástricos producidos por el estómago.",
           "is_correct": false,
           "feedback": "La fibra no destruye los jugos gástricos; cumple una función mecánica de tránsito en el intestino."
+        },
+        {
+          "letter": "B",
+          "text": "La fibra reemplaza la función de bombeo del corazón.",
+          "is_correct": false,
+          "feedback": "Afirmación errónea que confunde el sistema digestivo con el sistema circulatorio."
         },
         {
           "letter": "C",
@@ -354,12 +354,12 @@
         },
         {
           "letter": "D",
-          "text": "La fibra reemplaza la función de bombeo del corazón.",
-          "is_correct": false,
-          "feedback": "Afirmación errónea que confunde el sistema digestivo con el sistema circulatorio."
+          "text": "La fibra retiene agua en el intestino grueso, aumentando el volumen de las heces y facilitando su evacuación constante.",
+          "is_correct": true,
+          "feedback": "La fibra insoluble no se digiere totalmente y actúa como esponja hidratando la masa fecal para un tránsito fluido."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Evaluación crítica de recomendaciones nutricionales mediante el análisis biológico del tránsito de la fibra dietaria.",
       "difficulty": "10",
       "images": [],

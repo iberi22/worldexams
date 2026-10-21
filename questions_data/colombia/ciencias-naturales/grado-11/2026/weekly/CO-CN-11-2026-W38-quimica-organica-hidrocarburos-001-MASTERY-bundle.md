@@ -449,14 +449,14 @@ El fracking presenta controversias por consumo de agua, posible contaminación q
 El polietileno se obtiene por polimerización por adición del:
 
 ### Opciones
-- [x] A) Etileno (CH₂=CH₂).
-  <!-- feedback: La polimerización por adición del etileno produce polietileno. -->
+- [ ] A) Acetileno únicamente.
+  <!-- feedback: El acetileno genera poliacetileno. -->
 - [ ] B) Benceno.
   <!-- feedback: El benceno se polimeriza de manera diferente. -->
 - [ ] C) Tolueno.
   <!-- feedback: El tolueno no es monómero del polietileno. -->
-- [ ] D) Acetileno únicamente.
-  <!-- feedback: El acetileno genera poliacetileno. -->
+- [x] D) Etileno (CH₂=CH₂).
+  <!-- feedback: La polimerización por adición del etileno produce polietileno. -->
 
 ### Explicacion Pedagogica
 La polimerización por adición requiere monómeros con insaturaciones que se rompen para formar la cadena.

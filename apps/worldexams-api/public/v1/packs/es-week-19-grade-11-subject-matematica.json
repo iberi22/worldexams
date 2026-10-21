@@ -64,16 +64,16 @@
           "feedback": "Esta es la definición de una hipérbola."
         },
         {
-          "letter": "C",
-          "text": "La suma de sus distancias a los focos es constante.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta suma es igual a la longitud del eje mayor ($2a$)."
-        },
-        {
           "letter": "B",
           "text": "La distancia a un foco es igual a la distancia al otro.",
           "is_correct": false,
           "feedback": "Esto solo se cumpliría para los puntos del eje menor (mediatriz del segmento focal)."
+        },
+        {
+          "letter": "C",
+          "text": "La suma de sus distancias a los focos es constante.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta suma es igual a la longitud del eje mayor ($2a$)."
         },
         {
           "letter": "D",
@@ -154,16 +154,16 @@
           "feedback": "Esta es la elipse o hipérbola."
         },
         {
-          "letter": "C",
-          "text": "De dos rectas paralelas.",
-          "is_correct": false,
-          "feedback": "La equidistancia a dos rectas paralelas es otra recta paralela a ambas."
-        },
-        {
           "letter": "B",
           "text": "De un punto fijo (foco) y una recta fija (directriz).",
           "is_correct": true,
           "feedback": "Correcto. Esta es la definición clásica de la parábola."
+        },
+        {
+          "letter": "C",
+          "text": "De dos rectas paralelas.",
+          "is_correct": false,
+          "feedback": "La equidistancia a dos rectas paralelas es otra recta paralela a ambas."
         },
         {
           "letter": "D",
@@ -193,16 +193,16 @@
       "context": "Un estudiante en Barcelona tiene una elipse con semieje mayor $a = 5$ y semieje menor $b = 3$.",
       "options": [
         {
-          "letter": "B",
-          "text": "2",
-          "is_correct": false,
-          "feedback": "Se han restado los semiejes directamente, lo cual es incorrecto."
-        },
-        {
           "letter": "A",
           "text": "4",
           "is_correct": true,
           "feedback": "Correcto. En la elipse se cumple la relación pitagórica $a^2 = b^2 + c^2$. Por tanto, $c = \\sqrt{25 - 9} = \\sqrt{16} = 4$."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Se han restado los semiejes directamente, lo cual es incorrecto."
         },
         {
           "letter": "C",
@@ -238,16 +238,16 @@
       "context": "Un ingeniero en Zaragoza analiza la excentricidad de una órbita elíptica.",
       "options": [
         {
-          "letter": "B",
-          "text": "$e = a/c$; valores entre 0 y 1.",
-          "is_correct": false,
-          "feedback": "La fórmula es $c/a$, el foco está más cerca del centro que el vértice."
-        },
-        {
           "letter": "A",
           "text": "$e = c/a$; valores entre 0 y 1.",
           "is_correct": true,
           "feedback": "Correcto. Mide el grado de \"achatamiento\" de la elipse. Si tiende a 0, la elipse se parece a un círculo."
+        },
+        {
+          "letter": "B",
+          "text": "$e = a/c$; valores entre 0 y 1.",
+          "is_correct": false,
+          "feedback": "La fórmula es $c/a$, el foco está más cerca del centro que el vértice."
         },
         {
           "letter": "C",
@@ -328,16 +328,16 @@
       "context": "Un estudiante estudia la propiedad reflectora de la parábola.",
       "options": [
         {
-          "letter": "B",
-          "text": "Convergen en un punto del eje.",
-          "is_correct": false,
-          "feedback": "Esto ocurriría si fuera un espejo circular para rayos no paraxiales."
-        },
-        {
           "letter": "A",
           "text": "Salen paralelos al eje de simetría de la parábola.",
           "is_correct": true,
           "feedback": "Correcto. Esta propiedad se usa en focos de coches y antenas parabólicas."
+        },
+        {
+          "letter": "B",
+          "text": "Convergen en un punto del eje.",
+          "is_correct": false,
+          "feedback": "Esto ocurriría si fuera un espejo circular para rayos no paraxiales."
         },
         {
           "letter": "C",
@@ -373,16 +373,16 @@
       "context": "Una elipse tiene por ecuación $9x^2 + 25y^2 = 225$.",
       "options": [
         {
-          "letter": "B",
-          "text": "$a = 9, b = 25$",
-          "is_correct": false,
-          "feedback": "Estos son los coeficientes, no los semiejes."
-        },
-        {
           "letter": "A",
           "text": "$a = 5, b = 3$",
           "is_correct": true,
           "feedback": "Correcto. Dividiendo entre 225: $x^2/25 + y^2/9 = 1$. Entonces $a^2=25 \\Rightarrow a=5$ y $b^2=9 \\Rightarrow b=3$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 9, b = 25$",
+          "is_correct": false,
+          "feedback": "Estos son los coeficientes, no los semiejes."
         },
         {
           "letter": "C",
@@ -424,12 +424,6 @@
           "feedback": "La directriz debe ser una recta horizontal en este caso."
         },
         {
-          "letter": "D",
-          "text": "$y = -3$",
-          "is_correct": true,
-          "feedback": "Correcto. $2p = 12 \\Rightarrow p = 6$. La directriz está en $y = -p/2 = -3$."
-        },
-        {
           "letter": "B",
           "text": "$y = 3$",
           "is_correct": false,
@@ -440,6 +434,12 @@
           "text": "$y = -6$",
           "is_correct": false,
           "feedback": "Distancia incorrecta al vértice."
+        },
+        {
+          "letter": "D",
+          "text": "$y = -3$",
+          "is_correct": true,
+          "feedback": "Correcto. $2p = 12 \\Rightarrow p = 6$. La directriz está en $y = -p/2 = -3$."
         }
       ],
       "correct_answer": "D",
@@ -463,6 +463,12 @@
       "context": "Un matemático en Salamanca estudia la hipérbola como la tercera sección cónica.",
       "options": [
         {
+          "letter": "A",
+          "text": "Las asíntotas.",
+          "is_correct": true,
+          "feedback": "Correcto. Son las rectas hacia las que tiende la curva en el infinito pero que nunca llega a tocar."
+        },
+        {
           "letter": "B",
           "text": "Los ejes de simetría.",
           "is_correct": false,
@@ -473,12 +479,6 @@
           "text": "Las directrices.",
           "is_correct": false,
           "feedback": "Las directrices de la hipérbola son rectas verticales u horizontales."
-        },
-        {
-          "letter": "A",
-          "text": "Las asíntotas.",
-          "is_correct": true,
-          "feedback": "Correcto. Son las rectas hacia las que tiende la curva en el infinito pero que nunca llega a tocar."
         },
         {
           "letter": "D",
@@ -514,12 +514,6 @@
           "feedback": "El denominador bajo y debe ser b^2, no c^2."
         },
         {
-          "letter": "D",
-          "text": "$\\frac{x^2}{25} + \\frac{y^2}{16} = 1$",
-          "is_correct": true,
-          "feedback": "Correcto. $a = 5$, $c = 3$. Entonces $b^2 = a^2 - c^2 = 25 - 9 = 16$."
-        },
-        {
           "letter": "B",
           "text": "$\\frac{x^2}{16} + \\frac{y^2}{25} = 1$",
           "is_correct": false,
@@ -530,6 +524,12 @@
           "text": "$\\frac{x^2}{25} + \\frac{y^2}{34} = 1$",
           "is_correct": false,
           "feedback": "El semieje b debe ser menor que a en una elipse."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{x^2}{25} + \\frac{y^2}{16} = 1$",
+          "is_correct": true,
+          "feedback": "Correcto. $a = 5$, $c = 3$. Entonces $b^2 = a^2 - c^2 = 25 - 9 = 16$."
         }
       ],
       "correct_answer": "D",
@@ -598,6 +598,12 @@
       "context": "Se desea hallar la ecuación de la parábola con foco en $(3, 2)$ y directriz la recta $y = 0$.",
       "options": [
         {
+          "letter": "A",
+          "text": "$(3, 1)$",
+          "is_correct": true,
+          "feedback": "Correcto. El vértice es el punto medio entre el foco y la directriz sobre el eje de simetría."
+        },
+        {
           "letter": "B",
           "text": "$(3, 0)$",
           "is_correct": false,
@@ -608,12 +614,6 @@
           "text": "$(3, 2)$",
           "is_correct": false,
           "feedback": "Este es el foco."
-        },
-        {
-          "letter": "A",
-          "text": "$(3, 1)$",
-          "is_correct": true,
-          "feedback": "Correcto. El vértice es el punto medio entre el foco y la directriz sobre el eje de simetría."
         },
         {
           "letter": "D",
@@ -649,16 +649,16 @@
           "feedback": "No define una hipérbola equilátera."
         },
         {
-          "letter": "C",
-          "text": "$a = b$",
-          "is_correct": true,
-          "feedback": "Correcto. En este caso las asíntotas son las bisectrices de los cuadrantes ($y = \\pm x$) y son perpendiculares entre sí."
-        },
-        {
           "letter": "B",
           "text": "$a^2 + b^2 = 1$",
           "is_correct": false,
           "feedback": "Esta es una relación de normalización."
+        },
+        {
+          "letter": "C",
+          "text": "$a = b$",
+          "is_correct": true,
+          "feedback": "Correcto. En este caso las asíntotas son las bisectrices de los cuadrantes ($y = \\pm x$) y son perpendiculares entre sí."
         },
         {
           "letter": "D",
@@ -688,16 +688,16 @@
       "context": "Un estudiante analiza la ecuación $x^2 - y^2 = 0$.",
       "options": [
         {
-          "letter": "B",
-          "text": "Una hipérbola equilátera.",
-          "is_correct": false,
-          "feedback": "Una hipérbola no puede estar igualada a cero en su forma canónica (salvo el caso degenerado)."
-        },
-        {
           "letter": "A",
           "text": "Dos rectas secantes que se cortan en el origen ($y = x$ e $y = -x$).",
           "is_correct": true,
           "feedback": "Correcto. Al factorizar como diferencia de cuadrados $(x-y)(x+y)=0$, se obtienen las dos rectas."
+        },
+        {
+          "letter": "B",
+          "text": "Una hipérbola equilátera.",
+          "is_correct": false,
+          "feedback": "Una hipérbola no puede estar igualada a cero en su forma canónica (salvo el caso degenerado)."
         },
         {
           "letter": "C",
@@ -733,16 +733,16 @@
       "context": "Un ingeniero en Málaga quiere hallar los puntos de intersección de la elipse $x^2/16 + y^2/9 = 1$ y la recta $x = 4$.",
       "options": [
         {
-          "letter": "B",
-          "text": "$(4, 3)$ y $(4, -3)$",
-          "is_correct": false,
-          "feedback": "Estos puntos no cumplen la ecuación de la elipse ($1 + 1 = 2$, no 1)."
-        },
-        {
           "letter": "A",
           "text": "Solo el punto $(4, 0)$.",
           "is_correct": true,
           "feedback": "Correcto. Sustituyendo $x=4$: $16/16 + y^2/9 = 1 \\Rightarrow 1 + y^2/9 = 1 \\Rightarrow y = 0$. La recta es tangente en el vértice."
+        },
+        {
+          "letter": "B",
+          "text": "$(4, 3)$ y $(4, -3)$",
+          "is_correct": false,
+          "feedback": "Estos puntos no cumplen la ecuación de la elipse ($1 + 1 = 2$, no 1)."
         },
         {
           "letter": "C",
@@ -778,6 +778,12 @@
       "context": "Se plantea la definición de cónica mediante el foco, la directriz y la excentricidad $e$.",
       "options": [
         {
+          "letter": "A",
+          "text": "$e > 1$",
+          "is_correct": true,
+          "feedback": "Correcto. En la hipérbola, el punto está siempre más lejos de la directriz que del foco."
+        },
+        {
           "letter": "B",
           "text": "$e = 0$",
           "is_correct": false,
@@ -794,12 +800,6 @@
           "text": "$e = 1$",
           "is_correct": false,
           "feedback": "Esta es la parábola."
-        },
-        {
-          "letter": "A",
-          "text": "$e > 1$",
-          "is_correct": true,
-          "feedback": "Correcto. En la hipérbola, el punto está siempre más lejos de la directriz que del foco."
         }
       ],
       "correct_answer": "A",
@@ -829,12 +829,6 @@
           "feedback": "Este es el punto más alejado del Sol."
         },
         {
-          "letter": "D",
-          "text": "Perihelio.",
-          "is_correct": true,
-          "feedback": "Correcto. Corresponde al vértice de la elipse situado en el mismo lado que el foco ocupado por el Sol."
-        },
-        {
           "letter": "B",
           "text": "Equinoccio.",
           "is_correct": false,
@@ -845,6 +839,12 @@
           "text": "Cenit.",
           "is_correct": false,
           "feedback": "Punto de la esfera celeste situado directamente sobre el observador."
+        },
+        {
+          "letter": "D",
+          "text": "Perihelio.",
+          "is_correct": true,
+          "feedback": "Correcto. Corresponde al vértice de la elipse situado en el mismo lado que el foco ocupado por el Sol."
         }
       ],
       "correct_answer": "D",
@@ -868,22 +868,22 @@
       "context": "Un estudiante reflexiona sobre la clasificación de cónicas mediante el discriminante $B^2 - 4AC$ de la ecuación general $Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0$.",
       "options": [
         {
+          "letter": "A",
+          "text": "Una parábola.",
+          "is_correct": false,
+          "feedback": "Para la parábola, uno de los dos (A o C) debe ser cero."
+        },
+        {
           "letter": "B",
           "text": "Una elipse.",
           "is_correct": false,
           "feedback": "Para la elipse deben tener el mismo signo."
         },
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Una hipérbola.",
           "is_correct": true,
           "feedback": "Correcto. Signos opuestos en los coeficientes cuadráticos generan una diferencia de cuadrados característica de la hipérbola."
-        },
-        {
-          "letter": "C",
-          "text": "Una parábola.",
-          "is_correct": false,
-          "feedback": "Para la parábola, uno de los dos (A o C) debe ser cero."
         },
         {
           "letter": "D",
@@ -892,7 +892,7 @@
           "feedback": "Deben tener el mismo signo y además ser iguales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El análisis de los coeficientes de segundo grado permite identificar el tipo de cónica incluso si está rotada o desplazada. Es el punto final del estudio de curvas de segundo grado en el bachillerato.\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

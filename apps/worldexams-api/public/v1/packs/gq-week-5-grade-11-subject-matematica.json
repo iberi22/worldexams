@@ -701,18 +701,18 @@
         },
         {
           "letter": "C",
-          "text": "$x = 7$",
-          "is_correct": true,
-          "feedback": "¡Correcto! $2(x+2) = 3(x-1) \\rightarrow 2x+4 = 3x-3 \\rightarrow x = 7$."
-        },
-        {
-          "letter": "D",
           "text": "$x = -1$",
           "is_correct": false,
           "feedback": "Los resultados de las fracciones no coinciden."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 7$",
+          "is_correct": true,
+          "feedback": "¡Correcto! $2(x+2) = 3(x-1) \\rightarrow 2x+4 = 3x-3 \\rightarrow x = 7$."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Cuando tenemos una igualdad de dos razones (proporcion), podemos aplicar el producto cruzado: el numerador de una fraccion por el denominador de la otra. Esto convierte la ecuacion fraccionaria en una lineal entera.",
       "difficulty": "8",
       "images": [],
@@ -869,15 +869,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "5 años",
-          "is_correct": false,
-          "feedback": "Si Maria tiene 5, Juan tiene 10. Hace 5 años Maria tendria 0 y Juan 5. La suma seria 5, no 20."
-        },
-        {
-          "letter": "B",
           "text": "10 años",
           "is_correct": true,
           "feedback": "¡Correcto! Si Maria tiene 10, Juan tiene 20. Hace 5 años tenian 5 y 15. $5 + 15 = 20$."
+        },
+        {
+          "letter": "B",
+          "text": "5 años",
+          "is_correct": false,
+          "feedback": "Si Maria tiene 5, Juan tiene 10. Hace 5 años Maria tendria 0 y Juan 5. La suma seria 5, no 20."
         },
         {
           "letter": "C",
@@ -892,7 +892,7 @@
           "feedback": "Esto excede los valores de la suma dada."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Sea $x$ la edad de Maria. Juan tiene $2x$. Hace 5 años: Maria $(x-5)$, Juan $(2x-5)$. La ecuacion es: $(x-5) + (2x-5) = 20$. Resolviendo: $3x - 10 = 20 \\rightarrow 3x = 30 \\rightarrow x = 10$.\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

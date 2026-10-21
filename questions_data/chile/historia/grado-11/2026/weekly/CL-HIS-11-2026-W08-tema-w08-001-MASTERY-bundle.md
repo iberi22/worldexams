@@ -416,12 +416,12 @@ A partir de la tesis del 'Milagro Económico de Chile de libre mercado', ¿qué 
 ### Opciones
 - [ ] A) Chile regaló la totalidad de sus reservas de cobre refinado a los mercados de la Unión Soviética.
   <!-- feedback: Incorrecto. Chile exportó su cobre de forma mixta y privada a mercados globales de Occidente y Asia (principalmente China y EE.UU.), ajeno a cesiones gratuitas soviéticas. -->
-- [x] B) El crecimiento de mercado y la estabilidad fiscal se basaron en la persistente exportación monoproductora de materias primas sin refinar (extractivismo del cobre, celulosa, harina de pescado) de bajo valor agregado, manteniendo la dependencia e incubando una profunda desigualdad social de clases.
-  <!-- feedback: Correcto. Si bien el modelo de libre mercado generó innegables ingresos aduaneros fiscales macroeconómicos estables, perpetuó el carácter primario dependiente del país del salitre de antaño. El éxito financiero benefició preferentemente a escasos grupos económicos concentrados, mientras precarizó la base laboral del proletariado pampino y campesino chileno contemporáneo. -->
+- [ ] B) La privatización de CODELCO permitió duplicar de forma gratuita el presupuesto del Servicio Nacional de Salud.
+  <!-- feedback: Incorrecto. Codelco continuó siendo la gran corporación estatal inalienable de Chile, y sus excedentes se desviaban preferentemente a la Ley Reservada del Cobre de Pinochet para las FF.AA., debilitando el presupuesto del SNS. -->
 - [ ] C) El milagro económico chileno fue producto de un arbitraje internacional vinculante ordenado por el Imperio Británico en favor de los mapuches de Temuco.
   <!-- feedback: Incorrecto. No hubo arbitrajes de tal cariz británico colonial en las reformas económicas neoliberales chilenas contemporáneas. -->
-- [ ] D) La privatización de CODELCO permitió duplicar de forma gratuita el presupuesto del Servicio Nacional de Salud.
-  <!-- feedback: Incorrecto. Codelco continuó siendo la gran corporación estatal inalienable de Chile, y sus excedentes se desviaban preferentemente a la Ley Reservada del Cobre de Pinochet para las FF.AA., debilitando el presupuesto del SNS. -->
+- [x] D) El crecimiento de mercado y la estabilidad fiscal se basaron en la persistente exportación monoproductora de materias primas sin refinar (extractivismo del cobre, celulosa, harina de pescado) de bajo valor agregado, manteniendo la dependencia e incubando una profunda desigualdad social de clases.
+  <!-- feedback: Correcto. Si bien el modelo de libre mercado generó innegables ingresos aduaneros fiscales macroeconómicos estables, perpetuó el carácter primario dependiente del país del salitre de antaño. El éxito financiero benefició preferentemente a escasos grupos económicos concentrados, mientras precarizó la base laboral del proletariado pampino y campesino chileno contemporáneo. -->
 
 ### Explicacion Pedagogica
 El 'milagro económico' chileno descansa sobre cimientos extractivistas de bajo valor agregado y asimetría de riqueza. Al omitir de forma ineludible la industrialización pesada y de tecnología nacional (bienes de capital), Chile mantuvo su fisonomía colonial de exportador de recursos básicos naturales, sujeto a los vaivenes de precios globales y de inflación externa.

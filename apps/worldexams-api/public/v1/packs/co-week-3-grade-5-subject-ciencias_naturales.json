@@ -13,12 +13,6 @@
       "context": "La radiación solar calienta el agua de los océanos, ríos y embalses en Colombia, haciendo que pase de estado líquido a vapor de agua.",
       "options": [
         {
-          "letter": "C",
-          "text": "Evaporación.",
-          "is_correct": true,
-          "feedback": "La evaporación ocurre cuando la energía solar transforma el agua líquida superficial en vapor de agua."
-        },
-        {
           "letter": "A",
           "text": "Infiltración.",
           "is_correct": false,
@@ -29,6 +23,12 @@
           "text": "Solidificación.",
           "is_correct": false,
           "feedback": "La solidificación es la conversión de agua líquida en hielo por pérdida de temperatura."
+        },
+        {
+          "letter": "C",
+          "text": "Evaporación.",
+          "is_correct": true,
+          "feedback": "La evaporación ocurre cuando la energía solar transforma el agua líquida superficial en vapor de agua."
         },
         {
           "letter": "D",
@@ -59,12 +59,6 @@
       "context": "El vapor de agua asciende a la atmósfera donde la temperatura es más baja, agrupándose en diminutas gotas suspendidas.",
       "options": [
         {
-          "letter": "D",
-          "text": "Las nubes.",
-          "is_correct": true,
-          "feedback": "Las nubes son agrupaciones de gotas microscópicas de agua o cristales de hielo formados por condensación."
-        },
-        {
           "letter": "A",
           "text": "Las rocas volcánicas.",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "Los terremotos subterráneos.",
           "is_correct": false,
           "feedback": "Los terremotos ocurren por movimientos de placas tectónicas en la litosfera."
+        },
+        {
+          "letter": "D",
+          "text": "Las nubes.",
+          "is_correct": true,
+          "feedback": "Las nubes son agrupaciones de gotas microscópicas de agua o cristales de hielo formados por condensación."
         }
       ],
       "correct_answer": "D",
@@ -151,12 +151,6 @@
       "context": "Las plantas de los bosques nublados en los páramos colombianos absorben agua del suelo por sus raíces y liberan vapor de agua a través de los poros de sus hojas.",
       "options": [
         {
-          "letter": "D",
-          "text": "Transpiración vegetal.",
-          "is_correct": true,
-          "feedback": "La transpiración vegetal libera agua en forma de vapor contribuyendo a la humedad atmosférica."
-        },
-        {
           "letter": "A",
           "text": "Fotosíntesis oscura.",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "Germinación de semillas.",
           "is_correct": false,
           "feedback": "La germinación es el desarrollo del embrión vegetal para dar origen a una nueva planta."
+        },
+        {
+          "letter": "D",
+          "text": "Transpiración vegetal.",
+          "is_correct": true,
+          "feedback": "La transpiración vegetal libera agua en forma de vapor contribuyendo a la humedad atmosférica."
         }
       ],
       "correct_answer": "D",
@@ -197,12 +197,6 @@
       "context": "Después de una fuerte tormenta en Neiva, el agua corre sobre la superficie de las calles inclinadas y senderos hasta desembocar en el río Magdalena.",
       "options": [
         {
-          "letter": "D",
-          "text": "Escorrentía.",
-          "is_correct": true,
-          "feedback": "La escorrentía es la circulación de agua de lluvia sobre la superficie terrestre hacia ríos y mares."
-        },
-        {
           "letter": "A",
           "text": "Condensación.",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "Evaporación.",
           "is_correct": false,
           "feedback": "La evaporación es el ascenso del vapor de agua al aire."
+        },
+        {
+          "letter": "D",
+          "text": "Escorrentía.",
+          "is_correct": true,
+          "feedback": "La escorrentía es la circulación de agua de lluvia sobre la superficie terrestre hacia ríos y mares."
         }
       ],
       "correct_answer": "D",
@@ -289,12 +289,6 @@
       "context": "Un mapa ambiental muestra la tala indiscriminada de bosques (deforestación) en la cuenca de un río tributario del Amazonas.",
       "options": [
         {
-          "letter": "D",
-          "text": "Reduce la evapotranspiración, disminuye las lluvias locales y aumenta los riesgos de erosión por escorrentía sin freno.",
-          "is_correct": true,
-          "feedback": "Sin árboles disminuye el vapor devuelto a la atmósfera y la capa vegetal retenedora, erosionando el suelo."
-        },
-        {
           "letter": "A",
           "text": "Aumenta la producción de glaciares en las cumbres montañosas.",
           "is_correct": false,
@@ -302,18 +296,24 @@
         },
         {
           "letter": "B",
-          "text": "Detiene por completo la evaporación del agua de todos los mares del planeta.",
-          "is_correct": false,
-          "feedback": "La evaporación marina continúa por acción del Sol independientemente de la vegetación continental."
+          "text": "Reduce la evapotranspiración, disminuye las lluvias locales y aumenta los riesgos de erosión por escorrentía sin freno.",
+          "is_correct": true,
+          "feedback": "Sin árboles disminuye el vapor devuelto a la atmósfera y la capa vegetal retenedora, erosionando el suelo."
         },
         {
           "letter": "C",
           "text": "Transforma el agua dulce de los ríos en agua salada instantáneamente.",
           "is_correct": false,
           "feedback": "La salinidad depende de minerales disueltos, no directamente de la presencia inmediata de árboles."
+        },
+        {
+          "letter": "D",
+          "text": "Detiene por completo la evaporación del agua de todos los mares del planeta.",
+          "is_correct": false,
+          "feedback": "La evaporación marina continúa por acción del Sol independientemente de la vegetación continental."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "Análisis de las consecuencias ecológicas de las actividades humanas sobre las fases del ciclo hidrológico.",
       "difficulty": "8",
       "images": [],
@@ -335,12 +335,6 @@
       "context": "Un proyecto de desarrollo propone canalizar un río natural en concreto recto para \"acelerar el paso del agua de lluvia\". Un equipo de ecólogos rechaza la propuesta.",
       "options": [
         {
-          "letter": "C",
-          "text": "Canalizar destruye las zonas de inundación natural, reduce la infiltración a acuíferos y aumenta las inundaciones severas aguas abajo.",
-          "is_correct": true,
-          "feedback": "Eliminar la sinuosidad y lecho natural reduce la absorción, acelera el caudal y genera destructivas avenidas torrenciales en partes bajas."
-        },
-        {
           "letter": "A",
           "text": "El concreto disuelve todo el oxígeno del aire evitando que llueva en el departamento.",
           "is_correct": false,
@@ -351,6 +345,12 @@
           "text": "Los ríos rectos impiden que los peces puedan nadar en cualquier dirección.",
           "is_correct": false,
           "feedback": "Aunque altera hábitats acuáticos, la razón de mayor impacto hidrológico es el riesgo de inundaciones y falta de recarga hídrica."
+        },
+        {
+          "letter": "C",
+          "text": "Canalizar destruye las zonas de inundación natural, reduce la infiltración a acuíferos y aumenta las inundaciones severas aguas abajo.",
+          "is_correct": true,
+          "feedback": "Eliminar la sinuosidad y lecho natural reduce la absorción, acelera el caudal y genera destructivas avenidas torrenciales en partes bajas."
         },
         {
           "letter": "D",

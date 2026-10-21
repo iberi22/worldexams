@@ -211,17 +211,17 @@
         {
           "letter": "C",
           "text": "Datos, estadísticas y fuentes confiables, explicadas de manera clara y conectadas con cada afirmación.",
-          "is_correct": false,
+          "is_correct": true,
           "feedback": "La evidencia debe ser pertinente, estar explicada y conectada con la tesis; así el ensayo queda fundamentado."
         },
         {
           "letter": "D",
           "text": "Frases de otros textos copiadas sin citar, porque dar visibilidad a otros autores reemplaza los argumentos.",
-          "is_correct": true,
+          "is_correct": false,
           "feedback": "Copiar sin citar es plagio y no sustenta nada; la evidencia debe citarse y conectarse con la tesis."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": "La comprensión crítico-intertextual implica saber evaluar y usar fuentes externas con honestidad. La opción C es la correcta porque reúne los tres requisitos de una evidencia bien usada: pertinencia, cuando el dato trata sobre lo que se afirma; fiabilidad, cuando proviene de una fuente confiable; y explicación, cuando el autor indica qué significa ese dato para su argumento. Las otras opciones describen prácticas defectuosas frecuentes en trabajos escolares. La opción A confunde la opinión con la prueba. La opción B usa el dato como ornamento numérico, sin contexto ni procedencia, lo que impide verificarlo. La opción D emplea plagio, es decir, presentar palabras ajenas como propias, una falta ética que además no construye un argumento propio. Este tipo de pregunta prepara a los estudiantes para la vida académica: citar bien no es un trámite, es una forma de honestidad intelectual. Como práctica, se puede pedir que revisen si cada afirmación de su ensayo tiene al menos un respaldo y si la fuente está claramente mencionada.",
       "difficulty": "6",
       "images": [],

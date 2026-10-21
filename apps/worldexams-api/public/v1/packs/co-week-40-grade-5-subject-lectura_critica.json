@@ -59,16 +59,16 @@
       "context": "El mismo manual señala en su presentación: \"Este Manual de Convivencia es un pacto colectivo construido con la participación de estudiantes, docentes y familias. Su propósito no es castigar, sino formar ciudadanos responsables que resuelvan sus diferencias mediante el diálogo y el respeto por los derechos de los demás\".",
       "options": [
         {
-          "letter": "B",
-          "text": "Formar ciudadanos responsables que resuelvan sus diferencias mediante el diálogo y el respeto.",
-          "is_correct": true,
-          "feedback": "La presentación declara que el propósito es formar, no castigar, promoviendo el diálogo y el respeto por los derechos."
-        },
-        {
           "letter": "A",
           "text": "Establecer un listado de castigos severos para sancionar cualquier falta de inmediato.",
           "is_correct": false,
           "feedback": "El texto aclara expresamente que su propósito no es castigar, sino formar."
+        },
+        {
+          "letter": "B",
+          "text": "Formar ciudadanos responsables que resuelvan sus diferencias mediante el diálogo y el respeto.",
+          "is_correct": true,
+          "feedback": "La presentación declara que el propósito es formar, no castigar, promoviendo el diálogo y el respeto por los derechos."
         },
         {
           "letter": "C",
@@ -105,16 +105,16 @@
       "context": "Durante el descanso en un colegio de Pasto, dos estudiantes de quinto grado discuten porque ambos quieren usar el único balón disponible. Uno de ellos insulta al otro y amenaza con empujarlo. El manual establece: \"Ante un conflicto, los estudiantes deben: primero, detenerse y respirar; segundo, expresar lo que sienten sin insultos; tercero, buscar un acuerdo justo o acudir al mediador escolar\".",
       "options": [
         {
-          "letter": "B",
-          "text": "Detenerse, expresar lo que sienten sin insultos y buscar un acuerdo justo o acudir al mediador.",
-          "is_correct": true,
-          "feedback": "Este es el procedimiento de tres pasos que el manual prescribe para resolver los conflictos de forma pacífica."
-        },
-        {
           "letter": "A",
           "text": "Resolver la disputa con empujones para demostrar quién es más fuerte con el balón.",
           "is_correct": false,
           "feedback": "La agresión física contradice el principio de resolución pacífica del manual."
+        },
+        {
+          "letter": "B",
+          "text": "Detenerse, expresar lo que sienten sin insultos y buscar un acuerdo justo o acudir al mediador.",
+          "is_correct": true,
+          "feedback": "Este es el procedimiento de tres pasos que el manual prescribe para resolver los conflictos de forma pacífica."
         },
         {
           "letter": "C",
@@ -244,9 +244,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Como falta grave, porque dañó intencionalmente un bien del colegio comparable al pupitre del ejemplo.",
-          "is_correct": true,
-          "feedback": "El daño intencional a los bienes institucionales corresponde a la categoría de faltas graves del manual."
+          "text": "Como conducta sin falta, porque el enojo justifica cualquier daño en el colegio.",
+          "is_correct": false,
+          "feedback": "Ninguna emoción justifica el daño intencional; el manual lo sanciona como falta grave."
         },
         {
           "letter": "B",
@@ -262,12 +262,12 @@
         },
         {
           "letter": "D",
-          "text": "Como conducta sin falta, porque el enojo justifica cualquier daño en el colegio.",
-          "is_correct": false,
-          "feedback": "Ninguna emoción justifica el daño intencional; el manual lo sanciona como falta grave."
+          "text": "Como falta grave, porque dañó intencionalmente un bien del colegio comparable al pupitre del ejemplo.",
+          "is_correct": true,
+          "feedback": "El daño intencional a los bienes institucionales corresponde a la categoría de faltas graves del manual."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar la tipificación de las faltas enseña a diferenciar la gravedad de las conductas según el daño causado y la intención.",
       "difficulty": "8",
       "images": [],
@@ -289,12 +289,6 @@
       "context": "Compare dos textos sobre el mismo tema. Texto del manual: \"Artículo 14. Los estudiantes tienen derecho a ser escuchados por los docentes y directivos antes de recibir cualquier sanción, garantizando el debido proceso\". Nota informal de un estudiante: \"El profe me castigó sin dejarme explicar lo que pasó en el patio\".",
       "options": [
         {
-          "letter": "C",
-          "text": "La situación vulnera el derecho al debido proceso porque el estudiante fue sancionado sin ser escuchado.",
-          "is_correct": true,
-          "feedback": "El artículo garantiza ser escuchado antes de la sanción; castigar sin escuchar contradice esa norma."
-        },
-        {
           "letter": "A",
           "text": "La nota confirma que el manual se cumplió correctamente en todos sus pasos.",
           "is_correct": false,
@@ -305,6 +299,12 @@
           "text": "El artículo y la nota hablan de temas completamente distintos sin relación entre sí.",
           "is_correct": false,
           "feedback": "Ambos tratan del mismo derecho: ser escuchado antes de recibir una sanción."
+        },
+        {
+          "letter": "C",
+          "text": "La situación vulnera el derecho al debido proceso porque el estudiante fue sancionado sin ser escuchado.",
+          "is_correct": true,
+          "feedback": "El artículo garantiza ser escuchado antes de la sanción; castigar sin escuchar contradice esa norma."
         },
         {
           "letter": "D",
@@ -335,16 +335,16 @@
       "context": "Un estudiante afirma: \"El Manual de Convivencia no sirve para nada porque los problemas del descanso se arreglan mejor con peleas que con diálogos y mediadores\".",
       "options": [
         {
-          "letter": "B",
-          "text": "El diálogo y la mediación reparan las relaciones y enseñan a convivir, mientras la pelea genera más violencia y sanciones.",
-          "is_correct": true,
-          "feedback": "La resolución pacífica preserva los vínculos y forma ciudadanía; la agresión multiplica el daño y vulnera derechos."
-        },
-        {
           "letter": "A",
           "text": "El estudiante tiene razón porque dialogar quita demasiado tiempo y pelear es más divertido.",
           "is_correct": false,
           "feedback": "La rapidez de la pelea no la hace justa; el diálogo construye acuerdos duraderos y respetuosos."
+        },
+        {
+          "letter": "B",
+          "text": "El diálogo y la mediación reparan las relaciones y enseñan a convivir, mientras la pelea genera más violencia y sanciones.",
+          "is_correct": true,
+          "feedback": "La resolución pacífica preserva los vínculos y forma ciudadanía; la agresión multiplica el daño y vulnera derechos."
         },
         {
           "letter": "C",

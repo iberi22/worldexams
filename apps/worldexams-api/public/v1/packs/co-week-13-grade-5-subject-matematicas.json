@@ -59,12 +59,6 @@
       "context": "Lee: \"Un prisma se armó con cubos unidad iguales. La capa de abajo tiene 6 cubos y encima se puso otra capa igual de 6 cubos.\"",
       "options": [
         {
-          "letter": "C",
-          "text": "12 cubos unidad, por lo que el volumen es 12 cubos unidad.",
-          "is_correct": true,
-          "feedback": "6 + 6 = 12 cubos, y ese conteo es el volumen del prisma."
-        },
-        {
           "letter": "A",
           "text": "6 cubos unidad, porque solo cuenta la capa de abajo.",
           "is_correct": false,
@@ -75,6 +69,12 @@
           "text": "8 cubos unidad, porque se suman los lados visibles.",
           "is_correct": false,
           "feedback": "El volumen cuenta todos los cubos, también los que no se ven."
+        },
+        {
+          "letter": "C",
+          "text": "12 cubos unidad, por lo que el volumen es 12 cubos unidad.",
+          "is_correct": true,
+          "feedback": "6 + 6 = 12 cubos, y ese conteo es el volumen del prisma."
         },
         {
           "letter": "D",
@@ -105,12 +105,6 @@
       "context": "En una finca cafetera de Manizales empacan café en una caja con largo 4, ancho 3 y alto 2, medidos en cubos unidad.",
       "options": [
         {
-          "letter": "D",
-          "text": "24 cubos unidad.",
-          "is_correct": true,
-          "feedback": "4 x 3 x 2 = 24, que es el total de cubos que caben en la caja."
-        },
-        {
           "letter": "A",
           "text": "9 cubos unidad.",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "12 cubos unidad.",
           "is_correct": false,
           "feedback": "12 es solo el volumen de una capa de 4 x 3."
+        },
+        {
+          "letter": "D",
+          "text": "24 cubos unidad.",
+          "is_correct": true,
+          "feedback": "4 x 3 x 2 = 24, que es el total de cubos que caben en la caja."
         }
       ],
       "correct_answer": "D",
@@ -151,12 +151,6 @@
       "context": "Una familia en Cúcuta tiene un tanque de agua en forma de prisma con largo 5 dm, ancho 2 dm y alto 2 dm. Cada decímetro cúbico guarda 1 litro de agua.",
       "options": [
         {
-          "letter": "C",
-          "text": "20 litros.",
-          "is_correct": true,
-          "feedback": "5 x 2 x 2 = 20 decímetros cúbicos, es decir 20 litros."
-        },
-        {
           "letter": "A",
           "text": "9 litros.",
           "is_correct": false,
@@ -167,6 +161,12 @@
           "text": "10 litros.",
           "is_correct": false,
           "feedback": "5 x 2 = 10 es solo el área de la base, falta multiplicar por el alto."
+        },
+        {
+          "letter": "C",
+          "text": "20 litros.",
+          "is_correct": true,
+          "feedback": "5 x 2 x 2 = 20 decímetros cúbicos, es decir 20 litros."
         },
         {
           "letter": "D",
@@ -243,12 +243,6 @@
       "context": "Compara dos cajas para guardar panela en Vélez: la caja A mide 4 de largo, 2 de ancho y 3 de alto; la caja B mide 3 de largo, 3 de ancho y 3 de alto.",
       "options": [
         {
-          "letter": "D",
-          "text": "La caja B es mayor por 3 cubos unidad.",
-          "is_correct": true,
-          "feedback": "A = 4 x 2 x 3 = 24 y B = 3 x 3 x 3 = 27; 27 - 24 = 3."
-        },
-        {
           "letter": "A",
           "text": "La caja A es mayor por 3 cubos unidad.",
           "is_correct": false,
@@ -265,6 +259,12 @@
           "text": "La caja B es mayor por 6 cubos unidad.",
           "is_correct": false,
           "feedback": "La diferencia real es 27 - 24 = 3, no 6."
+        },
+        {
+          "letter": "D",
+          "text": "La caja B es mayor por 3 cubos unidad.",
+          "is_correct": true,
+          "feedback": "A = 4 x 2 x 3 = 24 y B = 3 x 3 x 3 = 27; 27 - 24 = 3."
         }
       ],
       "correct_answer": "D",
@@ -289,12 +289,6 @@
       "context": "Lee: \"Un balde en Pasto tiene forma de prisma con volumen de 30 cubos unidad. El largo es 5 y el ancho es 3. Falta conocer el alto.\"",
       "options": [
         {
-          "letter": "D",
-          "text": "2 cubos unidad.",
-          "is_correct": true,
-          "feedback": "5 x 3 x 2 = 30, así que el alto debe ser 2."
-        },
-        {
           "letter": "A",
           "text": "5 cubos unidad.",
           "is_correct": false,
@@ -311,6 +305,12 @@
           "text": "6 cubos unidad.",
           "is_correct": false,
           "feedback": "5 x 3 x 6 = 90, el triple del volumen pedido."
+        },
+        {
+          "letter": "D",
+          "text": "2 cubos unidad.",
+          "is_correct": true,
+          "feedback": "5 x 3 x 2 = 30, así que el alto debe ser 2."
         }
       ],
       "correct_answer": "D",
@@ -335,12 +335,6 @@
       "context": "Lee: \"En una tienda de Manizales venden dos cajas para empacar café. La caja pequeña mide 2 de largo, 2 de ancho y 2 de alto y cuesta 8.000 pesos colombianos (COP). La caja grande mide 4 de largo, 2 de ancho y 2 de alto y cuesta 12.000 COP.\"",
       "options": [
         {
-          "letter": "D",
-          "text": "La caja grande, porque guarda 16 cubos y cada cubo sale más barato.",
-          "is_correct": true,
-          "feedback": "Pequeña: 8 cubos a 1.000 COP cada uno; grande: 16 cubos a 750 COP cada uno."
-        },
-        {
           "letter": "A",
           "text": "La caja pequeña, porque cuesta menos dinero en total.",
           "is_correct": false,
@@ -348,18 +342,24 @@
         },
         {
           "letter": "B",
-          "text": "Las dos son iguales, porque tienen la misma forma.",
-          "is_correct": false,
-          "feedback": "La forma es parecida, pero los volúmenes y precios por cubo son distintos."
+          "text": "La caja grande, porque guarda 16 cubos y cada cubo sale más barato.",
+          "is_correct": true,
+          "feedback": "Pequeña: 8 cubos a 1.000 COP cada uno; grande: 16 cubos a 750 COP cada uno."
         },
         {
           "letter": "C",
           "text": "Ninguna sirve, porque el volumen no ayuda a decidir la compra.",
           "is_correct": false,
           "feedback": "Comparar volumen y precio por cubo sí permite elegir la mejor opción."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos son iguales, porque tienen la misma forma.",
+          "is_correct": false,
+          "feedback": "La forma es parecida, pero los volúmenes y precios por cubo son distintos."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "Evaluar cuál empaque conviene más comparando el volumen total y el costo por cubo unidad.",
       "difficulty": "10",
       "images": [],

@@ -440,18 +440,18 @@
         },
         {
           "letter": "C",
-          "text": "Mezcla de Romanticismo (pasión y heroísmo) y Costumbrismo (precisión en los detalles externos).",
-          "is_correct": true,
-          "feedback": "¡Correcto! Es una hibridación común en el siglo XIX colombiano."
-        },
-        {
-          "letter": "D",
           "text": "Es un texto que no tiene estilo porque es anónimo.",
           "is_correct": false,
           "feedback": "Incorrecto. El anonimato no quita la presencia de rasgos estilísticos claros."
+        },
+        {
+          "letter": "D",
+          "text": "Mezcla de Romanticismo (pasión y heroísmo) y Costumbrismo (precisión en los detalles externos).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es una hibridación común en el siglo XIX colombiano."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Los movimientos literarios no son \"cajas cerradas\". A menudo se mezclan. Saber identificar los rasgos de cada uno dentro de un mismo texto es el nivel más alto de análisis literario que se busca al cerrar este primer periodo.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
       "difficulty": "10",
       "images": [],

@@ -13,12 +13,6 @@
       "context": "En Bogotá, un profesor muestra cómo ampliar el logo del colegio sin deformarlo.",
       "options": [
         {
-          "letter": "C",
-          "text": "La amplía o la reduce conservando su forma",
-          "is_correct": true,
-          "feedback": "Correcto. La homotecia cambia el tamaño pero mantiene la forma y los ángulos."
-        },
-        {
           "letter": "A",
           "text": "La desplaza sin cambiar su tamaño",
           "is_correct": false,
@@ -29,6 +23,12 @@
           "text": "La refleja como en un espejo",
           "is_correct": false,
           "feedback": "Incorrecto. Eso describe una reflexión."
+        },
+        {
+          "letter": "C",
+          "text": "La amplía o la reduce conservando su forma",
+          "is_correct": true,
+          "feedback": "Correcto. La homotecia cambia el tamaño pero mantiene la forma y los ángulos."
         },
         {
           "letter": "D",
@@ -59,16 +59,16 @@
       "context": "En Medellín, los estudiantes mueven una ficha de parqués tres casillas a la derecha sin girarla.",
       "options": [
         {
-          "letter": "B",
-          "text": "Desplaza todos los puntos la misma distancia y en la misma dirección, conservando tamaño y forma",
-          "is_correct": true,
-          "feedback": "Correcto. Esa es la definición de traslación."
-        },
-        {
           "letter": "A",
           "text": "Cambia el tamaño de la figura",
           "is_correct": false,
           "feedback": "Incorrecto. La traslación nunca cambia el tamaño."
+        },
+        {
+          "letter": "B",
+          "text": "Desplaza todos los puntos la misma distancia y en la misma dirección, conservando tamaño y forma",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la definición de traslación."
         },
         {
           "letter": "C",
@@ -105,12 +105,6 @@
       "context": "En Cali, un diseñador aplica una homotecia con centro en el origen y factor 2 al punto (3, 5).",
       "options": [
         {
-          "letter": "D",
-          "text": "El punto (6, 10)",
-          "is_correct": true,
-          "feedback": "Correcto. Se multiplica cada coordenada por 2: (6, 10)."
-        },
-        {
           "letter": "A",
           "text": "El punto (5, 7)",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "El punto (1.5, 2.5)",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste entre 2, lo que corresponde al factor un medio."
+        },
+        {
+          "letter": "D",
+          "text": "El punto (6, 10)",
+          "is_correct": true,
+          "feedback": "Correcto. Se multiplica cada coordenada por 2: (6, 10)."
         }
       ],
       "correct_answer": "D",
@@ -151,16 +151,16 @@
       "context": "En Barranquilla, un mapa desplaza cada punto según la regla (x, y) se transforma en (x + 4, y - 3).",
       "options": [
         {
-          "letter": "B",
-          "text": "En el punto (6, 4)",
-          "is_correct": true,
-          "feedback": "Correcto. Se suma 4 a x y se resta 3 a y: (6, 4)."
-        },
-        {
           "letter": "A",
           "text": "En el punto (2, 4)",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumar 4 a la coordenada x."
+        },
+        {
+          "letter": "B",
+          "text": "En el punto (6, 4)",
+          "is_correct": true,
+          "feedback": "Correcto. Se suma 4 a x y se resta 3 a y: (6, 4)."
         },
         {
           "letter": "C",
@@ -197,12 +197,6 @@
       "context": "En Bucaramanga, un plano amplía con homotecia de factor 3 un segmento que mide 4 cm.",
       "options": [
         {
-          "letter": "D",
-          "text": "12 cm",
-          "is_correct": true,
-          "feedback": "Correcto. Las longitudes se multiplican por el factor: 4 por 3 = 12."
-        },
-        {
           "letter": "A",
           "text": "7 cm",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "9 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste mal 4 por 3."
+        },
+        {
+          "letter": "D",
+          "text": "12 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Las longitudes se multiplican por el factor: 4 por 3 = 12."
         }
       ],
       "correct_answer": "D",
@@ -243,12 +243,6 @@
       "context": "En Pereira, un triángulo de área 20 centímetros cuadrados se traslada 6 unidades a la derecha.",
       "options": [
         {
-          "letter": "D",
-          "text": "20 centímetros cuadrados",
-          "is_correct": true,
-          "feedback": "Correcto. La traslación conserva todas las medidas, incluida el área."
-        },
-        {
           "letter": "A",
           "text": "40 centímetros cuadrados",
           "is_correct": false,
@@ -265,6 +259,12 @@
           "text": "26 centímetros cuadrados",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste el desplazamiento al área, lo cual no tiene sentido."
+        },
+        {
+          "letter": "D",
+          "text": "20 centímetros cuadrados",
+          "is_correct": true,
+          "feedback": "Correcto. La traslación conserva todas las medidas, incluida el área."
         }
       ],
       "correct_answer": "D",
@@ -289,12 +289,6 @@
       "context": "En Manizales, un cuadrado de lado 3 cm (área 9 centímetros cuadrados) se amplía con homotecia de factor 2.",
       "options": [
         {
-          "letter": "C",
-          "text": "36 centímetros cuadrados",
-          "is_correct": true,
-          "feedback": "Correcto. El área se multiplica por el factor al cuadrado: 9 por 4 = 36."
-        },
-        {
           "letter": "A",
           "text": "18 centímetros cuadrados",
           "is_correct": false,
@@ -305,6 +299,12 @@
           "text": "12 centímetros cuadrados",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste el factor al área en vez de aplicar la escala."
+        },
+        {
+          "letter": "C",
+          "text": "36 centímetros cuadrados",
+          "is_correct": true,
+          "feedback": "Correcto. El área se multiplica por el factor al cuadrado: 9 por 4 = 36."
         },
         {
           "letter": "D",
@@ -335,12 +335,6 @@
       "context": "En Cartagena, un rectángulo de 8 cm por 6 cm se reduce con homotecia de factor un medio.",
       "options": [
         {
-          "letter": "C",
-          "text": "4 cm por 3 cm",
-          "is_correct": true,
-          "feedback": "Correcto. Cada lado se multiplica por un medio: 4 por 3."
-        },
-        {
           "letter": "A",
           "text": "8 cm por 6 cm",
           "is_correct": false,
@@ -351,6 +345,12 @@
           "text": "6 cm por 4 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste 2 a cada lado en vez de multiplicar por un medio."
+        },
+        {
+          "letter": "C",
+          "text": "4 cm por 3 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Cada lado se multiplica por un medio: 4 por 3."
         },
         {
           "letter": "D",
@@ -381,12 +381,6 @@
       "context": "En Santa Marta, un videojuego transforma cada punto (x, y) en (x - 5, y + 2).",
       "options": [
         {
-          "letter": "D",
-          "text": "Traslación de 5 unidades a la izquierda y 2 hacia arriba",
-          "is_correct": true,
-          "feedback": "Correcto. Restar 5 en x mueve a la izquierda y sumar 2 en y mueve hacia arriba."
-        },
-        {
           "letter": "A",
           "text": "Homotecia de factor 5",
           "is_correct": false,
@@ -403,6 +397,12 @@
           "text": "Reflexión respecto al eje x",
           "is_correct": false,
           "feedback": "Incorrecto. La reflexión cambiaría el signo de una coordenada."
+        },
+        {
+          "letter": "D",
+          "text": "Traslación de 5 unidades a la izquierda y 2 hacia arriba",
+          "is_correct": true,
+          "feedback": "Correcto. Restar 5 en x mueve a la izquierda y sumar 2 en y mueve hacia arriba."
         }
       ],
       "correct_answer": "D",
@@ -427,12 +427,6 @@
       "context": "En Armenia, una homotecia con centro en el origen y factor menos 1 se aplica al punto (4, 2).",
       "options": [
         {
-          "letter": "C",
-          "text": "El punto (menos 4, menos 2)",
-          "is_correct": true,
-          "feedback": "Correcto. Multiplicar por menos 1 cambia el signo de ambas coordenadas."
-        },
-        {
           "letter": "A",
           "text": "El punto (4, 2)",
           "is_correct": false,
@@ -443,6 +437,12 @@
           "text": "El punto (menos 4, 2)",
           "is_correct": false,
           "feedback": "Incorrecto. Cambiaste solo el signo de x; el factor afecta ambas coordenadas."
+        },
+        {
+          "letter": "C",
+          "text": "El punto (menos 4, menos 2)",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicar por menos 1 cambia el signo de ambas coordenadas."
         },
         {
           "letter": "D",
@@ -473,16 +473,16 @@
       "context": "En Villavicencio, un estudiante afirma que una homotecia de factor 3 conserva el área de la figura.",
       "options": [
         {
-          "letter": "B",
-          "text": "Es falsa: el área se multiplica por 9, es decir 3 al cuadrado",
-          "is_correct": true,
-          "feedback": "Correcto. Las áreas escalan con el cuadrado del factor."
-        },
-        {
           "letter": "A",
           "text": "Es verdadera: la homotecia conserva todas las medidas",
           "is_correct": false,
           "feedback": "Incorrecto. La homotecia conserva la forma, pero no las longitudes ni el área."
+        },
+        {
+          "letter": "B",
+          "text": "Es falsa: el área se multiplica por 9, es decir 3 al cuadrado",
+          "is_correct": true,
+          "feedback": "Correcto. Las áreas escalan con el cuadrado del factor."
         },
         {
           "letter": "C",
@@ -519,13 +519,13 @@
       "context": "En Neiva, un estudiante aplica al cuadrado la traslación (x + 2, y + 2) y dice que el área se duplica.",
       "options": [
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No hay duplicación: la traslación conserva el área exactamente igual",
           "is_correct": true,
           "feedback": "Correcto. Trasladar solo cambia la posición, no las medidas."
         },
         {
-          "letter": "A",
+          "letter": "B",
           "text": "No hay error: el área sí se duplica",
           "is_correct": false,
           "feedback": "Incorrecto. Ninguna traslación modifica el área."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. La traslación ni aumenta ni reduce el área."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La traslación es una isometría: lados, ángulos, perímetro y área de la imagen son idénticos a los originales.",
       "difficulty": "10",
       "images": [],

@@ -103,14 +103,14 @@ Aplicar la estructura narrativa para ubicar la parte donde mito y leyenda concen
 ¿Qué significa la expresión "sin esperar nada a cambio" en este contexto?
 
 ### Opciones
-- [x] A) Que la ayuda es generosa y no busca recompensas materiales ni reconocimiento.
-  <!-- feedback: La expresión indica una ayuda desinteresada, sin pedir retribución por la buena acción. -->
+- [ ] A) Que la ayuda se oculta para que nadie se entere jamás en el pueblo.
+  <!-- feedback: La expresión no habla de ocultar la ayuda, sino de no buscar recompensa por hacerla. -->
 - [ ] B) Que la persona recibe a cambio una bolsa llena de monedas de oro.
   <!-- feedback: "Sin esperar nada a cambio" excluye precisamente el recibir pagos o premios materiales. -->
 - [ ] C) Que la ayuda se da únicamente cuando hay cámaras de televisión presentes.
   <!-- feedback: El sentido de la expresión no depende de cámaras ni de escenarios públicos. -->
-- [ ] D) Que la ayuda se oculta para que nadie se entere jamás en el pueblo.
-  <!-- feedback: La expresión no habla de ocultar la ayuda, sino de no buscar recompensa por hacerla. -->
+- [x] D) Que la ayuda es generosa y no busca recompensas materiales ni reconocimiento.
+  <!-- feedback: La expresión indica una ayuda desinteresada, sin pedir retribución por la buena acción. -->
 
 ### Explicacion Pedagogica
 Aplicar el significado de expresiones en contexto para interpretar la enseñanza ética de la leyenda.

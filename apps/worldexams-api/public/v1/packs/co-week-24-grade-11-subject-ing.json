@@ -13,16 +13,16 @@
       "context": "Discussing tourism & heritage in Bucaramanga.",
       "options": [
         {
-          "letter": "B",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
           "text": "alleviate",
           "is_correct": false,
           "feedback": "Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed."
+        },
+        {
+          "letter": "B",
+          "text": "exacerbate",
+          "is_correct": true,
+          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
         },
         {
           "letter": "C",
@@ -59,12 +59,6 @@
       "context": "Discussing tourism & heritage in Medellín.",
       "options": [
         {
-          "letter": "D",
-          "text": "forfeit",
-          "is_correct": true,
-          "feedback": "'Forfeit' means to lose something one had been entitled to hold, and the clause describes a loss of credibility with a specific audience. The later discovery that the account differs is what the trust was worth and no longer is."
-        },
-        {
           "letter": "A",
           "text": "secure",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "postpone",
           "is_correct": false,
           "feedback": "'Postpone' means to move something to a later time, and the clause describes a consequence that has already happened to the guides' reputation. Nothing here is delayed."
+        },
+        {
+          "letter": "D",
+          "text": "forfeit",
+          "is_correct": true,
+          "feedback": "'Forfeit' means to lose something one had been entitled to hold, and the clause describes a loss of credibility with a specific audience. The later discovery that the account differs is what the trust was worth and no longer is."
         }
       ],
       "correct_answer": "D",
@@ -105,12 +105,6 @@
       "context": "Discussing tourism & heritage in Barranquilla.",
       "options": [
         {
-          "letter": "D",
-          "text": "strips",
-          "is_correct": true,
-          "feedback": "'Strips' means removes something from something, and the sentence describes a building losing the evidence embedded in its materials. The clause 'of the record it was supposed to preserve' names precisely what has been taken away."
-        },
-        {
           "letter": "A",
           "text": "restores",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "extends",
           "is_correct": false,
           "feedback": "'Extend' means to make longer, and the sentence is about loss rather than addition. Nothing in it suggests the building gained anything by the substitution."
+        },
+        {
+          "letter": "D",
+          "text": "strips",
+          "is_correct": true,
+          "feedback": "'Strips' means removes something from something, and the sentence describes a building losing the evidence embedded in its materials. The clause 'of the record it was supposed to preserve' names precisely what has been taken away."
         }
       ],
       "correct_answer": "D",
@@ -197,12 +197,6 @@
       "context": "Discussing tourism & heritage in Pereira.",
       "options": [
         {
-          "letter": "C",
-          "text": "It praises the first area and signals that the second should be looked at closely.",
-          "is_correct": true,
-          "feedback": "'Remarkably' intensifies approval of the well-preserved quarter, while 'conspicuously' shifts to something standing out for the wrong reason. Used together the pair directs the reader's attention rather than flattening the judgement into praise."
-        },
-        {
           "letter": "A",
           "text": "It intensifies the praise for both areas equally.",
           "is_correct": false,
@@ -213,6 +207,12 @@
           "text": "It softens the criticism of the second area by balancing it against the first.",
           "is_correct": false,
           "feedback": "The comparison sharpens rather than softens the criticism, because the excellence of the first area makes the neglect of the second more glaring. 'Conspicuously' points at a problem rather than smoothing it over."
+        },
+        {
+          "letter": "C",
+          "text": "It praises the first area and signals that the second should be looked at closely.",
+          "is_correct": true,
+          "feedback": "'Remarkably' intensifies approval of the well-preserved quarter, while 'conspicuously' shifts to something standing out for the wrong reason. Used together the pair directs the reader's attention rather than flattening the judgement into praise."
         },
         {
           "letter": "D",
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-11-2026-W24-tourism-heritage-001-MASTERY-bundle-v6",
-      "statement": "According to a recent report on tourism & heritage in Manizales, what is implied about the role of Adjectives & Adverbs in shaping public opinion?",
-      "context": "Discussing tourism & heritage in Manizales.",
+      "statement": "Read the text and answer the question.\n\n\"I almost did not go to Barichara. A friend in Manizales told me it was 'just another old town', and I only had one free day. I am glad I ignored her. The streets are made of stone, the houses are white with green doors, and there are no tall buildings anywhere. In the afternoon I walked the Camino Real to Guane, an old path built by indigenous people and later repaired in the nineteenth century. It took me two hours, and I did not see a single car. If you go, take water: there are no shops on the way.\"\n\nWhat is the writer's main message?",
+      "context": "A travel blog post about a visit to Barichara, Santander.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "Barichara and its old path were worth visiting, even with little time.",
           "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "feedback": "Correct. The writer is 'glad' to have ignored the friend's opinion and describes the town and the Camino Real positively, so the message is that the visit was worth it."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Barichara is just another old town with nothing special.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. That is the friend's opinion, which the writer rejects with 'I am glad I ignored her'."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Tourists should not walk the Camino Real because it is dangerous.",
           "is_correct": false,
-          "feedback": "Incorrect. Adjectives & Adverbs give a text its nuance and precision, so they does not make the message simpler to grasp."
+          "feedback": "Incorrect. The writer recommends taking water, but never says the path is dangerous; the walk is presented as a positive experience."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bucaramanga.",
+          "text": "The Camino Real was built in the nineteenth century by Spanish engineers.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The text says it was built by indigenous people and only 'later repaired' in the nineteenth century."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "A writer's main message is often clearer when you notice how they react to another opinion. Here the friend's negative view is quoted and immediately rejected, and the rest of the text supports that rejection with positive descriptions. Distractors repeat the rejected opinion or change a historical detail.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -289,16 +289,16 @@
       "context": "Discussing tourism & heritage in Pereira.",
       "options": [
         {
-          "letter": "B",
-          "text": "Because uniform restoration erases the evidence of how the buildings actually developed.",
-          "is_correct": true,
-          "feedback": "When every element is reconstructed identically, the record of successive periods is lost with the original fabric. The panel is objecting to what 'strikingly uniform' makes invisible, not to the quality of the workmanship."
-        },
-        {
           "letter": "A",
           "text": "Because uniformity makes the buildings easier and cheaper to restore.",
           "is_correct": false,
           "feedback": "Ease and cost are not raised as concerns in the sentence, and efficient restoration would not by itself be a fault for a panel. The complaint concerns what is lost from the record, not what is spent."
+        },
+        {
+          "letter": "B",
+          "text": "Because uniform restoration erases the evidence of how the buildings actually developed.",
+          "is_correct": true,
+          "feedback": "When every element is reconstructed identically, the record of successive periods is lost with the original fabric. The panel is objecting to what 'strikingly uniform' makes invisible, not to the quality of the workmanship."
         },
         {
           "letter": "C",
@@ -331,36 +331,36 @@
     },
     {
       "id": "CO-ING-11-2026-W24-tourism-heritage-001-MASTERY-bundle-v8",
-      "statement": "In an article on tourism & heritage in Pereira, a sentence reads: 'Visitors arrive daily and they stay, on average, barely two nights.' What is wrong with the adverb placement as written?",
-      "context": "Discussing tourism & heritage in Pereira.",
+      "statement": "Read the text and answer the question.\n\n\"Welcome to Hacienda La Esperanza, near Pereira. This farm has produced coffee since 1898 and is part of the Coffee Cultural Landscape of Colombia, recognised by UNESCO in 2011. The landscape was not chosen for one beautiful building, but for the way families have adapted coffee farming to steep mountains for more than a century. During your visit, you will see how the beans are picked by hand, washed and dried in the sun. Please stay on the marked paths: the coffee plants are fragile, and the workers are harvesting during your tour.\"\n\nAccording to the panel, why was the Coffee Cultural Landscape recognised by UNESCO?",
+      "context": "An information panel at a coffee heritage farm near Pereira.",
       "options": [
         {
           "letter": "A",
-          "text": "'Barely' quantifies the average the wrong way round, implying a longer stay than two nights.",
+          "text": "Because of the way families have adapted coffee farming to the mountains over a long time.",
           "is_correct": true,
-          "feedback": "Read as placed, 'barely two nights' suggests the stay is almost longer than two nights. Intending 'only two nights', the adverb has to modify the number directly without an intervening comparative, which the sentence as written does not achieve."
+          "feedback": "Correct. The panel says the landscape was chosen 'for the way families have adapted coffee farming to steep mountains for more than a century'."
         },
         {
           "letter": "B",
-          "text": "'Daily' and 'on average' contradict each other, so no stay can be described at all.",
+          "text": "Because Hacienda La Esperanza has the most beautiful building in the region.",
           "is_correct": false,
-          "feedback": "Frequent arrivals and a short average stay are perfectly compatible. The difficulty is not a logical contradiction between the two time expressions but the way the intensifying adverb sits next to the quantity."
+          "feedback": "Incorrect. The panel says the landscape was 'not chosen for one beautiful building', which directly contradicts this option."
         },
         {
           "letter": "C",
-          "text": "'Two nights' should be written 'two night' because the modifier precedes the noun.",
+          "text": "Because the farm started producing coffee in 2011.",
           "is_correct": false,
-          "feedback": "Plural agreement is not affected by where an adverb appears. 'Two nights' is correct as written, and the sentence has a genuine problem elsewhere that no change of number would solve."
+          "feedback": "Incorrect. 2011 is the year of the UNESCO recognition; the farm has produced coffee since 1898."
         },
         {
           "letter": "D",
-          "text": "'They stay' should be 'they are staying', because an average requires the progressive.",
+          "text": "Because visitors can pick coffee beans on the marked paths.",
           "is_correct": false,
-          "feedback": "An average can perfectly well be reported with a simple present. The aspect choice is available but not obligatory, so the objection the item is testing is not about which tense the verb requires."
+          "feedback": "Incorrect. Visitors watch the process and must stay on the paths; the workers, not the tourists, pick the beans."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Adverb placement changes scope. A degree adverb such as 'barely' is read against the quantity it governs, and inserting a comparative between them reverses the effect. C1+ readers need to check what each adverb modifies and how far its scope extends, since a perfectly grammatical sentence can still mean the opposite of what its writer intended.\n\n---",
+      "explanation": "This item checks whether the reader can separate the reason for the recognition from other details on the panel. The structure 'not chosen for X, but for Y' is a strong signal: Y is the reason, and X is explicitly excluded. Dates must also be matched carefully to the right event (1898 production, 2011 recognition).\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -377,36 +377,36 @@
     },
     {
       "id": "CO-ING-11-2026-W24-tourism-heritage-001-MASTERY-bundle-v9",
-      "statement": "According to a recent report on tourism & heritage in Bogotá, what is implied about the role of Adjectives & Adverbs in shaping public opinion?",
-      "context": "Discussing tourism & heritage in Bogotá.",
+      "statement": "Read the text and answer the question.\n\n\"Welcome to the Gold Museum. The museum is open from Tuesday to Saturday, 9:00 a.m. to 7:00 p.m., and on Sundays from 10:00 a.m. to 5:00 p.m. It is closed on Mondays, including public holidays. Entry is free on Sundays. Large bags and backpacks must be left in the cloakroom on the ground floor. Photographs are allowed, but without flash, because strong light can damage some objects. Guided tours in English start at 11:00 a.m. and 3:00 p.m. and last about one hour. Groups of more than ten people must book in advance.\"\n\nA tourist wants to see the museum for free and join a tour in English. What can we infer?",
+      "context": "A notice at the entrance of the Gold Museum in Bogotá.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "She should go on a Monday holiday, when entry is free.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. The museum is 'closed on Mondays, including public holidays', so she cannot visit at all on that day."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "She must book in advance because she is alone.",
           "is_correct": false,
-          "feedback": "Incorrect. Adjectives & Adverbs give a text its nuance and precision, so they does not make the message simpler to grasp."
+          "feedback": "Incorrect. Booking is required only for groups of more than ten people, not for an individual visitor."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Pereira.",
+          "text": "She cannot take any photographs inside the museum.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The notice says photographs are allowed, only without flash, so this option exaggerates the rule."
+        },
+        {
+          "letter": "D",
+          "text": "She should go on a Sunday and arrive for the 11:00 a.m. or the 3:00 p.m. tour.",
+          "is_correct": true,
+          "feedback": "Correct. Entry is free only on Sundays, and both English tour times, 11:00 a.m. and 3:00 p.m., fall within the Sunday opening hours of 10:00 a.m. to 5:00 p.m."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Inference questions sometimes require combining two pieces of information. Free entry (Sundays) and the tour times (11:00 a.m. and 3:00 p.m.) must both fit inside the Sunday schedule (10:00 a.m. to 5:00 p.m.). The careful wording of the key avoids claiming more than the notice says, which is a good habit when inferring.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -423,36 +423,36 @@
     },
     {
       "id": "CO-ING-11-2026-W24-tourism-heritage-001-MASTERY-bundle-v10",
-      "statement": "According to a recent report on tourism & heritage in Bucaramanga, what is implied about the role of Adjectives & Adverbs in shaping public opinion?",
-      "context": "Discussing tourism & heritage in Bucaramanga.",
+      "statement": "Read the text and answer the question.\n\n\"In the Wayuu community of Jepirra, near Cabo de la Vela, families have started receiving small groups of tourists. Visitors sleep in hammocks, eat goat meat and learn how the women weave the colourful bags known as mochilas. A single bag can take up to a month to make. The community decided to limit visits to twenty people per week. 'We want visitors, but we do not want to become a show,' says Ana Epieyú, one of the organisers. All the money goes to a common fund that pays for water tanks and school materials.\"\n\nWhat does Ana Epieyú mean when she says 'we do not want to become a show'?",
+      "context": "A short article about community tourism in a Wayuu settlement in La Guajira.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "The community wants to build a theatre for tourists.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. This reads 'show' as a literal performance venue; the text says nothing about building a theatre."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "The community does not want any tourists to visit.",
           "is_correct": false,
-          "feedback": "Incorrect. Adjectives & Adverbs give a text its nuance and precision, so they does not make the message simpler to grasp."
+          "feedback": "Incorrect. She says 'We want visitors', so the community accepts tourism; it only wants to control it."
+        },
+        {
+          "letter": "C",
+          "text": "The community wants to keep its daily life authentic, not perform for tourists.",
+          "is_correct": true,
+          "feedback": "Correct. Her words, together with the limit of twenty visitors per week, show that the community wants real contact, not a performance created for tourists."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bucaramanga.",
+          "text": "The community wants to sell more bags to large groups.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The community limits visits to twenty people per week, which shows it is not trying to attract large groups."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Understanding a speaker's meaning requires reading the quotation together with the facts around it. 'We want visitors, but...' accepts tourism, and the weekly limit shows the community protects its way of life. The figurative use of 'show' here means a performance for outsiders, which the community wants to avoid.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -473,12 +473,6 @@
       "context": "Discussing tourism & heritage in Cartagena.",
       "options": [
         {
-          "letter": "C",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -489,6 +483,12 @@
           "text": "was",
           "is_correct": false,
           "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+        },
+        {
+          "letter": "C",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
         },
         {
           "letter": "D",
@@ -519,12 +519,6 @@
       "context": "Discussing tourism & heritage in Bucaramanga.",
       "options": [
         {
-          "letter": "C",
-          "text": "were",
-          "is_correct": true,
-          "feedback": "'The restored balconies were visited' is the simple past passive: the balconies receive the action and the sentence reports a completed pattern of events. The rare visiting is what the 'so rarely' clause builds on, and it is compatible with a simple past form."
-        },
-        {
           "letter": "A",
           "text": "are",
           "is_correct": false,
@@ -535,6 +529,12 @@
           "text": "have been",
           "is_correct": false,
           "feedback": "The present perfect passive would leave the visiting open to the present, but the sentence is anchored by a past perfect auxiliary. A completed extent of years has to be expressed in the past, not in a form extending to now."
+        },
+        {
+          "letter": "C",
+          "text": "were",
+          "is_correct": true,
+          "feedback": "'The restored balconies were visited' is the simple past passive: the balconies receive the action and the sentence reports a completed pattern of events. The rare visiting is what the 'so rarely' clause builds on, and it is compatible with a simple past form."
         },
         {
           "letter": "D",
@@ -565,16 +565,16 @@
       "context": "Discussing tourism & heritage in Pereira.",
       "options": [
         {
-          "letter": "B",
-          "text": "most",
-          "is_correct": true,
-          "feedback": "The superlative takes the definite article: 'the most visited'. The plural museums make the correct form 'most' and never 'the mostest'. 'Most' also pairs naturally with 'by far', which reinforces the comparison."
-        },
-        {
           "letter": "A",
           "text": "mostest",
           "is_correct": false,
           "feedback": "English has no superlative ending '-est' on top of 'most'; doubling the marker produces a form that is not part of the language. The article is required, but the degree word itself stops at 'most'."
+        },
+        {
+          "letter": "B",
+          "text": "most",
+          "is_correct": true,
+          "feedback": "The superlative takes the definite article: 'the most visited'. The plural museums make the correct form 'most' and never 'the mostest'. 'Most' also pairs naturally with 'by far', which reinforces the comparison."
         },
         {
           "letter": "C",
@@ -611,12 +611,6 @@
       "context": "Discussing tourism & heritage in Bucaramanga.",
       "options": [
         {
-          "letter": "C",
-          "text": "otherwise",
-          "is_correct": true,
-          "feedback": "'Otherwise' stands for the opposite of what the guide has just asserted, which is precisely what the casting marks contradict. A nominal clause object after a verb of saying needs a word that carries meaning rather than one that introduces another clause."
-        },
-        {
           "letter": "A",
           "text": "so",
           "is_correct": false,
@@ -627,6 +621,12 @@
           "text": "because",
           "is_correct": false,
           "feedback": "'Because' introduces a reason clause, which would likewise leave a second finite verb with no subject of its own. It also carries no content that could stand for the casting marks' claim."
+        },
+        {
+          "letter": "C",
+          "text": "otherwise",
+          "is_correct": true,
+          "feedback": "'Otherwise' stands for the opposite of what the guide has just asserted, which is precisely what the casting marks contradict. A nominal clause object after a verb of saying needs a word that carries meaning rather than one that introduces another clause."
         },
         {
           "letter": "D",
@@ -657,16 +657,16 @@
       "context": "Discussing tourism & heritage in Pereira.",
       "options": [
         {
-          "letter": "B",
-          "text": "less",
-          "is_correct": true,
-          "feedback": "A comparative adverb is required because the sentence compares two quantities, and 'less' is the form that pairs with the following 'than'. The clause about the museum taking more visitors confirms the direction of the comparison."
-        },
-        {
           "letter": "A",
           "text": "fewest",
           "is_correct": false,
           "feedback": "'Fewest' is the superlative and requires 'in' rather than 'than'. Using it here would contradict the comparative structure that 'than' demands."
+        },
+        {
+          "letter": "B",
+          "text": "less",
+          "is_correct": true,
+          "feedback": "A comparative adverb is required because the sentence compares two quantities, and 'less' is the form that pairs with the following 'than'. The clause about the museum taking more visitors confirms the direction of the comparison."
         },
         {
           "letter": "C",
@@ -703,16 +703,16 @@
       "context": "Discussing tourism & heritage in Barranquilla.",
       "options": [
         {
-          "letter": "B",
-          "text": "have not been",
-          "is_correct": true,
-          "feedback": "'Have not been' plus the past participle is the present perfect passive, which is what pairs with 'since' to link a past event to a present state. The clause about the green still being there confirms the repainting did not happen."
-        },
-        {
           "letter": "A",
           "text": "were not",
           "is_correct": false,
           "feedback": "'Were not' is the past passive, which locates the failure at a single past moment. 'Since' needs a period extending up to the present, and the upper floors are still unpainted now."
+        },
+        {
+          "letter": "B",
+          "text": "have not been",
+          "is_correct": true,
+          "feedback": "'Have not been' plus the past participle is the present perfect passive, which is what pairs with 'since' to link a past event to a present state. The clause about the green still being there confirms the repainting did not happen."
         },
         {
           "letter": "C",
@@ -749,32 +749,32 @@
       "context": "Discussing tourism & heritage in Cartagena.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
           "text": "They are literally looking for something in the trees of Bogotá.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads the idiom word for word; nobody in the debate is searching any trees, because the phrase is figurative and describes a mistaken strategy."
         },
         {
           "letter": "B",
           "text": "The approach is too noisy and aggressive.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. 'Barking' here does not describe loud or aggressive behaviour; the idiom is about aiming at the wrong target, not about the tone of the discussion."
         },
         {
           "letter": "C",
           "text": "A new environmental project involving trees should be started.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The speaker is criticising the current approach, not proposing a new project; 'tree' is part of a fixed expression and has no literal meaning here."
+        },
+        {
+          "letter": "D",
+          "text": "The current strategy is directed towards the wrong objective.",
+          "is_correct": true,
+          "feedback": "Correct. 'Bark up the wrong tree' comes from hunting dogs barking at a tree the animal is not in, so it means putting effort into the wrong cause or the wrong solution."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'To bark up the wrong tree' means to look for a cause or a solution in the wrong place. The words 'with this approach' show that the speaker is questioning the strategy itself, so only the figurative reading fits; the literal options ignore that an idiom is a fixed expression whose meaning is not the sum of its words.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -837,36 +837,36 @@
     },
     {
       "id": "CO-ING-11-2026-W24-tourism-heritage-001-MASTERY-bundle-v19",
-      "statement": "In a high-level debate about tourism & heritage, Valentina says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Valentina mean?",
-      "context": "Discussing tourism & heritage in Manizales.",
+      "statement": "Two tour guides in Cartagena talk before the high season.\n\nRosa: 'The new hotel opened next to the city wall. Some people say it ruins the view.'\nDaniel: 'Well, it's a double-edged sword. It brings jobs, but it also brings more traffic and noise to the old city.'\n\nWhat does Daniel mean?",
+      "context": "A conversation between two tour guides in Cartagena before the high season.",
       "options": [
         {
-          "letter": "B",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "letter": "A",
+          "text": "The hotel is dangerous because it sells weapons to tourists.",
+          "is_correct": false,
+          "feedback": "Incorrect. This interprets 'sword' literally; the idiom is about mixed consequences, not real weapons."
         },
         {
-          "letter": "A",
-          "text": "They are literally looking for something in the trees of Medellín.",
-          "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "letter": "B",
+          "text": "The hotel has both positive and negative effects.",
+          "is_correct": true,
+          "feedback": "Correct. A 'double-edged sword' is something with good and bad consequences; Daniel gives one benefit (jobs) and two problems (traffic and noise)."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The hotel is completely good for the city.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. Daniel mentions traffic and noise as problems, so he does not think the hotel is only positive."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "He agrees that the hotel completely ruins the view.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. He does not repeat the complaint about the view; instead he balances a benefit against other problems."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'A double-edged sword' describes something that has advantages and disadvantages at the same time. Daniel's sentence structure, 'It brings jobs, but it also brings...', explains the idiom immediately. Recognising this pattern of expression plus explanation helps students infer the meaning of unknown idioms.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -883,36 +883,36 @@
     },
     {
       "id": "CO-ING-11-2026-W24-tourism-heritage-001-MASTERY-bundle-v20",
-      "statement": "In a high-level debate about tourism & heritage, Nicolás says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Nicolás mean?",
-      "context": "Discussing tourism & heritage in Barranquilla.",
+      "statement": "A tourist talks to the receptionist at a hostel in Salento.\n\nTourist: 'I'd like to visit the Cocora Valley tomorrow, but I don't know if it's going to rain.'\nReceptionist: 'The weather here changes a lot. Why don't you play it by ear and decide in the morning?'\n\nWhat is the receptionist suggesting?",
+      "context": "A conversation at a hostel reception in Salento, Quindío.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Barranquilla.",
+          "text": "Listening to music during the walk in the valley.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This is a literal interpretation of 'ear'; the expression is about flexible decisions, not music."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Cancelling the trip because it will certainly rain.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. The receptionist says the weather changes a lot, so she does not know it will rain; she recommends waiting, not cancelling."
         },
         {
           "letter": "C",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Booking a fixed tour for tomorrow immediately.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. A fixed booking is the opposite of her advice, which is to decide later depending on the weather."
+        },
+        {
+          "letter": "D",
+          "text": "Waiting to see the conditions and deciding at the last moment.",
+          "is_correct": true,
+          "feedback": "Correct. 'Play it by ear' means to decide according to the situation instead of planning in advance; she suggests deciding in the morning when the weather is known."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Play it by ear' means to act without a fixed plan and respond to circumstances. The receptionist's reason ('The weather here changes a lot') and the suggestion 'decide in the morning' confirm the meaning. 'Why don't you...?' is also a polite way to make a suggestion in English, a useful pragmatic form.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

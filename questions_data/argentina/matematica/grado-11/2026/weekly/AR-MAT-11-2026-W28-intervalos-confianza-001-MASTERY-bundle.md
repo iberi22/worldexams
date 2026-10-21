@@ -457,9 +457,9 @@ Al aumentar n, el error estándar disminuye, haciendo que el intervalo sea más 
 
 ### Opciones
 - [ ] A) Porque la probabilidad debería ser del 100%. <!-- feedback: Incorrecto. No hay certezas absolutas en muestreo. -->
-- [x] B) Porque μ es un valor fijo (no aleatorio), por lo que ya está o no está en el intervalo; la probabilidad se aplica al proceso de construcción. <!-- feedback: Correcto. La frase correcta es "El intervalo [10, 20] se construyó con un método que captura a μ el 95% de las veces". -->
+- [ ] B) Porque no se menciona el tamaño de la muestra. <!-- feedback: Incorrecto. No es el motivo principal de la crítica formal. -->
 - [ ] C) Porque el 95% es un valor demasiado bajo para ser ciencia. <!-- feedback: Incorrecto. Es el estándar científico habitual. -->
-- [ ] D) Porque no se menciona el tamaño de la muestra. <!-- feedback: Incorrecto. No es el motivo principal de la crítica formal. -->
+- [x] D) Porque μ es un valor fijo (no aleatorio), por lo que ya está o no está en el intervalo; la probabilidad se aplica al proceso de construcción. <!-- feedback: Correcto. La frase correcta es "El intervalo [10, 20] se construyó con un método que captura a μ el 95% de las veces". -->
 
 ### Explicacion Pedagogica
 En estadística clásica (frecuentista), el parámetro es una constante. Por lo tanto, no tiene sentido asignarle una probabilidad de "estar" en un rango fijo. La aleatoriedad reside en el intervalo mismo, que cambia con cada muestra.

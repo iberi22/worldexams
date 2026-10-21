@@ -21,424 +21,464 @@ creador: "Jules-Agent"
 
 # Bundle MASTERY: Mecánica Newtoniana y Dinámica de Fuerzas - Grado 11
 
-Este bundle aborda contenidos curriculares prioritarios de Mecánica Newtoniana y Dinámica de Fuerzas alineados al marco de evaluación Aprender de Argentina.
-
----
+Veinte situaciones argentinas para aplicar las leyes de Newton, el rozamiento, el plano inclinado y los pares de acción y reacción.
 
 ## Question 1 [D3-D4]
-**Contexto:** Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 1.
 **ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**EJE:** Física y Mecánica
-**Expected_Success:** 0.90
+**EJE:** Física
+**Expected_Success:** 0.85
+**Contexto:** Un colectivo de la línea 60 frena de golpe en la avenida Cabildo, en Buenos Aires, y los pasajeros parados se inclinan hacia adelante.
 
 ### Enunciado
-Un objeto de masa $m = 10\text{ kg}$ acelera horizontalmente a $2\text{ m/s}^2$ venciendo un rozamiento constante de $5\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?
+¿Qué principio explica que los pasajeros se desplacen hacia adelante cuando el colectivo frena bruscamente?
 
 ### Opciones
-- [x] B) Fuerza aplicada = $25\text{ N}$ <!-- feedback: Correcto. $F_{\text{neta}} = 10 \cdot 2 = 20\text{ N}$. $F_{\text{aplicada}} = 20 + 5 = 25\text{ N}$. -->
-- [ ] A) Fuerza aplicada = $20\text{ N}$ <!-- feedback: Incorrecto. No consideró la fuerza para compensar la fricción. -->
-- [ ] C) Fuerza aplicada = $15\text{ N}$ <!-- feedback: Incorrecto. Restó la fuerza de fricción a la fuerza neta. -->
-- [ ] D) Fuerza aplicada = $100\text{ N}$ <!-- feedback: Incorrecto. Confundió la aceleración con la masa por $g$. -->
+- [ ] A) La tercera ley de Newton: el colectivo empuja a los pasajeros hacia adelante
+  <!-- feedback: Incorrecto. al frenar, el colectivo no empuja hacia adelante a nadie; la fuerza de los frenos actúa hacia atrás sobre el vehículo. -->
+- [ ] B) La ley de gravitación universal: la Tierra atrae a los pasajeros hacia adelante
+  <!-- feedback: Incorrecto. la gravedad apunta hacia abajo, hacia el centro de la Tierra, no en la dirección del movimiento del colectivo. -->
+- [ ] C) La ley de Ohm: la corriente del motor se corta y lanza a los pasajeros
+  <!-- feedback: Incorrecto. la ley de Ohm relaciona tensión, corriente y resistencia eléctrica; no describe el movimiento de cuerpos. -->
+- [x] D) La primera ley de Newton (inercia): el cuerpo de cada pasajero tiende a mantener su velocidad
+  <!-- feedback: Correcto. la inercia hace que el cuerpo conserve la velocidad que traía mientras el piso del colectivo se detiene debajo de sus pies. -->
 
 ### Explicacion Pedagogica
-Por la Segunda Ley de Newton $F_{\text{neta}} = m \cdot a = 10 \cdot 2 = 20\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\text{aplicada}} = 20 + 5 = 25\text{ N}$.
-
----
+Según la primera ley de Newton, un cuerpo mantiene su estado de movimiento si la fuerza neta sobre él es nula. Los pasajeros viajaban a la velocidad del colectivo; al frenar, la fuerza de rozamiento con el piso actúa sobre los pies, pero el torso sigue avanzando por inercia. Por eso parecen 'ir hacia adelante', aunque ninguna fuerza los empuja en ese sentido.
 
 ## Question 2 [D3-D4]
-**Contexto:** Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 2.
 **ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**EJE:** Física y Mecánica
-**Expected_Success:** 0.88
+**EJE:** Física
+**Expected_Success:** 0.83
+**Contexto:** En el laboratorio de una escuela técnica de Rosario se rotulan los dinamómetros en la unidad de fuerza del Sistema Internacional.
 
 ### Enunciado
-Un objeto de masa $m = 20\text{ kg}$ acelera horizontalmente a $2\text{ m/s}^2$ venciendo un rozamiento constante de $10\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?
+¿A qué combinación de unidades básicas del SI equivale 1 newton (N)?
 
 ### Opciones
-- [x] B) Fuerza aplicada = $50\text{ N}$ <!-- feedback: Correcto. $F_{\text{neta}} = 20 \cdot 2 = 40\text{ N}$. $F_{\text{aplicada}} = 40 + 10 = 50\text{ N}$. -->
-- [ ] A) Fuerza aplicada = $40\text{ N}$ <!-- feedback: Incorrecto. No consideró la fuerza para compensar la fricción. -->
-- [ ] C) Fuerza aplicada = $30\text{ N}$ <!-- feedback: Incorrecto. Restó la fuerza de fricción a la fuerza neta. -->
-- [ ] D) Fuerza aplicada = $200\text{ N}$ <!-- feedback: Incorrecto. Confundió la aceleración con la masa por $g$. -->
+- [ ] A) 1 kg·m/s
+  <!-- feedback: Incorrecto. kg·m/s es la unidad de cantidad de movimiento (m·v), no de fuerza; le falta dividir otra vez por segundo. -->
+- [ ] B) 1 kg/m²
+  <!-- feedback: Incorrecto. kg/m² corresponde a una densidad superficial de masa, que no involucra aceleración. -->
+- [ ] C) 1 g·cm/s²
+  <!-- feedback: Incorrecto. g·cm/s² es la dina del sistema CGS, que equivale a 0,00001 N, no a 1 N. -->
+- [x] D) 1 kg·m/s²
+  <!-- feedback: Correcto. de F = m·a se obtiene kg multiplicado por m/s², que es exactamente la definición del newton. -->
 
 ### Explicacion Pedagogica
-Por la Segunda Ley de Newton $F_{\text{neta}} = m \cdot a = 20 \cdot 2 = 40\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\text{aplicada}} = 40 + 10 = 50\text{ N}$.
-
----
+La segunda ley de Newton, F = m·a, define la unidad de fuerza: 1 N es la fuerza que le imprime a 1 kg una aceleración de 1 m/s². Por eso 1 N = 1 kg·m/s². Distinguir esta unidad de la de cantidad de movimiento (kg·m/s) evita confundir fuerza con impulso.
 
 ## Question 3 [D3-D4]
-**Contexto:** Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 3.
 **ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Física y Mecánica
-**Expected_Success:** 0.86
+**EJE:** Física
+**Expected_Success:** 0.80
+**Contexto:** Una astronauta argentina de 70 kg se entrena para una misión lunar; en la Luna la gravedad es aproximadamente 1,6 m/s².
 
 ### Enunciado
-Un objeto de masa $m = 30\text{ kg}$ acelera horizontalmente a $2\text{ m/s}^2$ venciendo un rozamiento constante de $15\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?
+¿Qué ocurre con la masa y con el peso de la astronauta al pasar de la Tierra a la Luna?
 
 ### Opciones
-- [x] C) Fuerza aplicada = $75\text{ N}$ <!-- feedback: Correcto. $F_{\text{neta}} = 30 \cdot 2 = 60\text{ N}$. $F_{\text{aplicada}} = 60 + 15 = 75\text{ N}$. -->
-- [ ] A) Fuerza aplicada = $60\text{ N}$ <!-- feedback: Incorrecto. No consideró la fuerza para compensar la fricción. -->
-- [ ] B) Fuerza aplicada = $45\text{ N}$ <!-- feedback: Incorrecto. Restó la fuerza de fricción a la fuerza neta. -->
-- [ ] D) Fuerza aplicada = $300\text{ N}$ <!-- feedback: Incorrecto. Confundió la aceleración con la masa por $g$. -->
+- [ ] A) La masa y el peso disminuyen en la misma proporción
+  <!-- feedback: Incorrecto. la masa no cambia con el lugar; solo el peso depende de la gravedad local. -->
+- [x] B) La masa sigue siendo 70 kg y el peso disminuye
+  <!-- feedback: Correcto. la masa mide la cantidad de materia e inercia y no depende del lugar; el peso P = m·g baja porque g lunar es menor. -->
+- [ ] C) La masa disminuye y el peso sigue siendo el mismo
+  <!-- feedback: Incorrecto. invierte los conceptos: el peso es el que depende de g, mientras que la masa es una propiedad del cuerpo. -->
+- [ ] D) La masa y el peso se mantienen iguales porque es la misma persona
+  <!-- feedback: Incorrecto. ignora que el peso es una fuerza que depende de la gravedad: en la Luna vale 70·1,6 = 112 N y no 686 N. -->
 
 ### Explicacion Pedagogica
-Por la Segunda Ley de Newton $F_{\text{neta}} = m \cdot a = 30 \cdot 2 = 60\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\text{aplicada}} = 60 + 15 = 75\text{ N}$.
-
----
+La masa (kg) es una medida de la inercia del cuerpo y es la misma en cualquier lugar. El peso es la fuerza gravitatoria P = m·g: en la Tierra vale 70·9,8 = 686 N y en la Luna 70·1,6 = 112 N. Una balanza de resorte en la Luna marcaría menos, pero la masa de la astronauta no cambió.
 
 ## Question 4 [D3-D4]
-**Contexto:** Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 4.
 **ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**EJE:** Física y Mecánica
-**Expected_Success:** 0.84
+**EJE:** Física
+**Expected_Success:** 0.78
+**Contexto:** Un libro de Química descansa sobre un pupitre en una escuela de Mendoza; un alumno debe identificar los pares de acción y reacción.
 
 ### Enunciado
-Un objeto de masa $m = 40\text{ kg}$ acelera horizontalmente a $2\text{ m/s}^2$ venciendo un rozamiento constante de $20\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?
+Si la 'acción' es la fuerza con que la Tierra atrae al libro (su peso), ¿cuál es la 'reacción' según la tercera ley de Newton?
 
 ### Opciones
-- [x] A) Fuerza aplicada = $100\text{ N}$ <!-- feedback: Correcto. $F_{\text{neta}} = 40 \cdot 2 = 80\text{ N}$. $F_{\text{aplicada}} = 80 + 20 = 100\text{ N}$. -->
-- [ ] B) Fuerza aplicada = $80\text{ N}$ <!-- feedback: Incorrecto. No consideró la fuerza para compensar la fricción. -->
-- [ ] C) Fuerza aplicada = $60\text{ N}$ <!-- feedback: Incorrecto. Restó la fuerza de fricción a la fuerza neta. -->
-- [ ] D) Fuerza aplicada = $400\text{ N}$ <!-- feedback: Incorrecto. Confundió la aceleración con la masa por $g$. -->
+- [ ] A) La fuerza normal que el pupitre ejerce hacia arriba sobre el libro
+  <!-- feedback: Incorrecto. la normal también actúa sobre el libro, y un par acción-reacción siempre actúa sobre cuerpos distintos; además es una fuerza de contacto, no gravitatoria. -->
+- [x] B) La fuerza con que el libro atrae a la Tierra hacia arriba
+  <!-- feedback: Correcto. el par de la atracción gravitatoria Tierra→libro es la atracción libro→Tierra: mismo tipo de fuerza, igual módulo, sentido opuesto y aplicada en el otro cuerpo. -->
+- [ ] C) La fuerza que el libro ejerce hacia abajo sobre el pupitre
+  <!-- feedback: Incorrecto. esa fuerza de contacto forma par con la normal del pupitre, no con el peso del libro. -->
+- [ ] D) No tiene reacción porque el libro está en reposo
+  <!-- feedback: Incorrecto. la tercera ley vale siempre, esté el cuerpo quieto o en movimiento; toda interacción genera un par de fuerzas. -->
 
 ### Explicacion Pedagogica
-Por la Segunda Ley de Newton $F_{\text{neta}} = m \cdot a = 40 \cdot 2 = 80\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\text{aplicada}} = 80 + 20 = 100\text{ N}$.
-
----
+Los pares de acción y reacción son dos fuerzas del mismo tipo que surgen de una misma interacción y actúan sobre cuerpos diferentes. El peso es la interacción gravitatoria Tierra-libro, así que su par es la atracción del libro sobre la Tierra. La normal y el peso se equilibran sobre el libro, pero no son un par de tercera ley: ambas actúan sobre el mismo cuerpo.
 
 ## Question 5 [D5-D6]
-**Contexto:** Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 5.
 **ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Física y Mecánica
-**Expected_Success:** 0.82
+**Bloom:** Apply
+**EJE:** Física
+**Expected_Success:** 0.75
+**Contexto:** En un supermercado de Córdoba, un repositor empuja un carro cargado de 25 kg; la fuerza neta horizontal sobre el carro es de 50 N.
 
 ### Enunciado
-Un objeto de masa $m = 50\text{ kg}$ acelera horizontalmente a $2\text{ m/s}^2$ venciendo un rozamiento constante de $25\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?
+¿Cuál es la aceleración del carro?
 
 ### Opciones
-- [x] D) Fuerza aplicada = $125\text{ N}$ <!-- feedback: Correcto. $F_{\text{neta}} = 50 \cdot 2 = 100\text{ N}$. $F_{\text{aplicada}} = 100 + 25 = 125\text{ N}$. -->
-- [ ] A) Fuerza aplicada = $100\text{ N}$ <!-- feedback: Incorrecto. No consideró la fuerza para compensar la fricción. -->
-- [ ] B) Fuerza aplicada = $75\text{ N}$ <!-- feedback: Incorrecto. Restó la fuerza de fricción a la fuerza neta. -->
-- [ ] C) Fuerza aplicada = $500\text{ N}$ <!-- feedback: Incorrecto. Confundió la aceleración con la masa por $g$. -->
+- [ ] A) 1250 m/s²
+  <!-- feedback: Incorrecto. multiplicaste F por m (50·25) en lugar de dividir la fuerza por la masa. -->
+- [ ] B) 0,5 m/s²
+  <!-- feedback: Incorrecto. dividiste la masa por la fuerza (25/50), invirtiendo la relación a = F/m. -->
+- [ ] C) 75 m/s²
+  <!-- feedback: Incorrecto. sumaste fuerza y masa (50 + 25), magnitudes con unidades distintas que no se pueden sumar. -->
+- [x] D) 2 m/s²
+  <!-- feedback: Correcto. a = F/m = 50 N / 25 kg = 2 m/s². -->
 
 ### Explicacion Pedagogica
-Por la Segunda Ley de Newton $F_{\text{neta}} = m \cdot a = 50 \cdot 2 = 100\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\text{aplicada}} = 100 + 25 = 125\text{ N}$.
-
----
+La segunda ley de Newton establece F_neta = m·a, por lo que a = F_neta/m. Reemplazando: a = 50 N / 25 kg = 2 m/s². Verificación de unidades: N/kg = (kg·m/s²)/kg = m/s². El resultado indica que la velocidad del carro aumenta 2 m/s cada segundo.
 
 ## Question 6 [D5-D6]
-**Contexto:** Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 6.
 **ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**EJE:** Física y Mecánica
-**Expected_Success:** 0.80
+**EJE:** Física
+**Expected_Success:** 0.73
+**Contexto:** En el Hospital de Clínicas de Buenos Aires una camilla registra la masa de un paciente: 60 kg.
 
 ### Enunciado
-Un objeto de masa $m = 60\text{ kg}$ acelera horizontalmente a $2\text{ m/s}^2$ venciendo un rozamiento constante de $30\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?
+Tomando g = 9,8 m/s², ¿cuál es el peso del paciente?
 
 ### Opciones
-- [x] D) Fuerza aplicada = $150\text{ N}$ <!-- feedback: Correcto. $F_{\text{neta}} = 60 \cdot 2 = 120\text{ N}$. $F_{\text{aplicada}} = 120 + 30 = 150\text{ N}$. -->
-- [ ] A) Fuerza aplicada = $120\text{ N}$ <!-- feedback: Incorrecto. No consideró la fuerza para compensar la fricción. -->
-- [ ] B) Fuerza aplicada = $90\text{ N}$ <!-- feedback: Incorrecto. Restó la fuerza de fricción a la fuerza neta. -->
-- [ ] C) Fuerza aplicada = $600\text{ N}$ <!-- feedback: Incorrecto. Confundió la aceleración con la masa por $g$. -->
+- [x] A) 588 N
+  <!-- feedback: Correcto. P = m·g = 60 kg · 9,8 m/s² = 588 N. -->
+- [ ] B) 60 N
+  <!-- feedback: Incorrecto. confundiste masa con peso: 60 es la masa en kg, falta multiplicar por g. -->
+- [ ] C) 6,1 N
+  <!-- feedback: Incorrecto. dividiste la masa por g (60/9,8 ≈ 6,1) en lugar de multiplicar. -->
+- [ ] D) 69,8 N
+  <!-- feedback: Incorrecto. sumaste 60 + 9,8; el peso es el producto de masa por aceleración de la gravedad, no la suma. -->
 
 ### Explicacion Pedagogica
-Por la Segunda Ley de Newton $F_{\text{neta}} = m \cdot a = 60 \cdot 2 = 120\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\text{aplicada}} = 120 + 30 = 150\text{ N}$.
-
----
+El peso es la fuerza con que la Tierra atrae a un cuerpo: P = m·g. Con m = 60 kg y g = 9,8 m/s², P = 588 N. En el lenguaje cotidiano decimos 'pesa 60 kilos', pero en física los 60 kg son la masa y el peso se mide en newtons.
 
 ## Question 7 [D5-D6]
-**Contexto:** Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 7.
 **ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Física y Mecánica
-**Expected_Success:** 0.78
+**EJE:** Física
+**Expected_Success:** 0.71
+**Contexto:** En un depósito de Rosario se arrastra una caja de 40 kg por un piso horizontal de cemento; el coeficiente de rozamiento cinético es 0,3.
 
 ### Enunciado
-Un objeto de masa $m = 70\text{ kg}$ acelera horizontalmente a $2\text{ m/s}^2$ venciendo un rozamiento constante de $35\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?
+¿Qué fuerza horizontal hay que aplicar para que la caja se deslice a velocidad constante? (g = 9,8 m/s²)
 
 ### Opciones
-- [x] D) Fuerza aplicada = $175\text{ N}$ <!-- feedback: Correcto. $F_{\text{neta}} = 70 \cdot 2 = 140\text{ N}$. $F_{\text{aplicada}} = 140 + 35 = 175\text{ N}$. -->
-- [ ] A) Fuerza aplicada = $140\text{ N}$ <!-- feedback: Incorrecto. No consideró la fuerza para compensar la fricción. -->
-- [ ] B) Fuerza aplicada = $105\text{ N}$ <!-- feedback: Incorrecto. Restó la fuerza de fricción a la fuerza neta. -->
-- [ ] C) Fuerza aplicada = $700\text{ N}$ <!-- feedback: Incorrecto. Confundió la aceleración con la masa por $g$. -->
+- [ ] A) 12 N
+  <!-- feedback: Incorrecto. multiplicaste μ por la masa (0,3·40) sin pasar a fuerza normal: faltó multiplicar por g. -->
+- [x] B) 117,6 N
+  <!-- feedback: Correcto. a velocidad constante F = f_r = μ·N = 0,3 · 40 · 9,8 = 117,6 N. -->
+- [ ] C) 392 N
+  <!-- feedback: Incorrecto. calculaste el peso (40·9,8) pero olvidaste multiplicar por el coeficiente de rozamiento 0,3. -->
+- [ ] D) 509,6 N
+  <!-- feedback: Incorrecto. sumaste peso y rozamiento (392 + 117,6); a velocidad constante la fuerza aplicada solo debe equilibrar el rozamiento. -->
 
 ### Explicacion Pedagogica
-Por la Segunda Ley de Newton $F_{\text{neta}} = m \cdot a = 70 \cdot 2 = 140\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\text{aplicada}} = 140 + 35 = 175\text{ N}$.
-
----
+A velocidad constante la aceleración es cero, así que la fuerza neta horizontal es nula: la fuerza aplicada iguala al rozamiento cinético. En un piso horizontal N = m·g = 392 N, y f_r = μ_k·N = 0,3·392 = 117,6 N. Por lo tanto F = 117,6 N.
 
 ## Question 8 [D5-D6]
-**Contexto:** Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 8.
 **ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Física y Mecánica
-**Expected_Success:** 0.76
+**EJE:** Física
+**Expected_Success:** 0.69
+**Contexto:** En la Antártida Argentina, dos científicos tiran de un trineo de 10 kg con sogas horizontales perpendiculares entre sí: uno con 30 N hacia el norte y otro con 40 N hacia el este. El rozamiento con el hielo es despreciable.
 
 ### Enunciado
-Un objeto de masa $m = 80\text{ kg}$ acelera horizontalmente a $2\text{ m/s}^2$ venciendo un rozamiento constante de $40\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?
+¿Cuál es el módulo de la aceleración del trineo?
 
 ### Opciones
-- [x] A) Fuerza aplicada = $200\text{ N}$ <!-- feedback: Correcto. $F_{\text{neta}} = 80 \cdot 2 = 160\text{ N}$. $F_{\text{aplicada}} = 160 + 40 = 200\text{ N}$. -->
-- [ ] B) Fuerza aplicada = $160\text{ N}$ <!-- feedback: Incorrecto. No consideró la fuerza para compensar la fricción. -->
-- [ ] C) Fuerza aplicada = $120\text{ N}$ <!-- feedback: Incorrecto. Restó la fuerza de fricción a la fuerza neta. -->
-- [ ] D) Fuerza aplicada = $800\text{ N}$ <!-- feedback: Incorrecto. Confundió la aceleración con la masa por $g$. -->
+- [ ] A) 7 m/s²
+  <!-- feedback: Incorrecto. sumaste los módulos (30 + 40 = 70 N) como si las fuerzas fueran paralelas; las fuerzas perpendiculares se suman vectorialmente. -->
+- [ ] B) 1 m/s²
+  <!-- feedback: Incorrecto. restaste los módulos (40 − 30 = 10 N), lo que solo vale si las fuerzas tienen sentidos opuestos. -->
+- [x] C) 5 m/s²
+  <!-- feedback: Correcto. la fuerza neta es √(30² + 40²) = 50 N y a = 50/10 = 5 m/s². -->
+- [ ] D) 50 m/s²
+  <!-- feedback: Incorrecto. calculaste bien la fuerza neta de 50 N, pero olvidaste dividir por la masa de 10 kg. -->
 
 ### Explicacion Pedagogica
-Por la Segunda Ley de Newton $F_{\text{neta}} = m \cdot a = 80 \cdot 2 = 160\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\text{aplicada}} = 160 + 40 = 200\text{ N}$.
-
----
+Las fuerzas son vectores. Al ser perpendiculares, la resultante se obtiene con Pitágoras: F = √(30² + 40²) = √2500 = 50 N, dirigida hacia el noreste. Luego a = F/m = 50/10 = 5 m/s², en la misma dirección que la fuerza neta.
 
 ## Question 9 [D5-D6]
-**Contexto:** Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 9.
 **ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Física y Mecánica
-**Expected_Success:** 0.74
+**EJE:** Física
+**Expected_Success:** 0.67
+**Contexto:** Una esquiadora baja por una pista del cerro Catedral, en Bariloche, inclinada 30° respecto de la horizontal; suponé el rozamiento despreciable.
 
 ### Enunciado
-Un objeto de masa $m = 90\text{ kg}$ acelera horizontalmente a $2\text{ m/s}^2$ venciendo un rozamiento constante de $45\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?
+¿Cuál es la aceleración de la esquiadora a lo largo de la pendiente? (g = 9,8 m/s²)
 
 ### Opciones
-- [x] C) Fuerza aplicada = $225\text{ N}$ <!-- feedback: Correcto. $F_{\text{neta}} = 90 \cdot 2 = 180\text{ N}$. $F_{\text{aplicada}} = 180 + 45 = 225\text{ N}$. -->
-- [ ] A) Fuerza aplicada = $180\text{ N}$ <!-- feedback: Incorrecto. No consideró la fuerza para compensar la fricción. -->
-- [ ] B) Fuerza aplicada = $135\text{ N}$ <!-- feedback: Incorrecto. Restó la fuerza de fricción a la fuerza neta. -->
-- [ ] D) Fuerza aplicada = $900\text{ N}$ <!-- feedback: Incorrecto. Confundió la aceleración con la masa por $g$. -->
+- [ ] A) 9,8 m/s²
+  <!-- feedback: Incorrecto. es la aceleración de caída libre vertical; en el plano solo actúa la componente del peso paralela a la pendiente. -->
+- [ ] B) 8,5 m/s²
+  <!-- feedback: Incorrecto. usaste cos 30° (9,8·0,866); el coseno da la componente perpendicular al plano, que equilibra la normal. -->
+- [ ] C) 0 m/s²
+  <!-- feedback: Incorrecto. sin rozamiento nada equilibra la componente paralela del peso, así que la esquiadora sí acelera. -->
+- [x] D) 4,9 m/s²
+  <!-- feedback: Correcto. a lo largo del plano solo actúa la componente m·g·sen 30°, por lo que a = g·sen 30° = 9,8·0,5 = 4,9 m/s². -->
 
 ### Explicacion Pedagogica
-Por la Segunda Ley de Newton $F_{\text{neta}} = m \cdot a = 90 \cdot 2 = 180\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\text{aplicada}} = 180 + 45 = 225\text{ N}$.
-
----
+En un plano inclinado sin rozamiento se descompone el peso: m·g·sen θ paralelo a la pendiente y m·g·cos θ perpendicular (equilibrada por la normal). Por la segunda ley, m·a = m·g·sen θ, entonces a = g·sen θ = 9,8·sen 30° = 4,9 m/s². La masa se simplifica: no importa cuánto pese la esquiadora.
 
 ## Question 10 [D5-D6]
-**Contexto:** Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 10.
 **ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**EJE:** Física y Mecánica
-**Expected_Success:** 0.72
+**EJE:** Física
+**Expected_Success:** 0.65
+**Contexto:** Una estudiante de 50 kg se para sobre una balanza de baño dentro de un ascensor de una torre de Puerto Madero que arranca hacia arriba con aceleración de 2 m/s².
 
 ### Enunciado
-Un objeto de masa $m = 100\text{ kg}$ acelera horizontalmente a $2\text{ m/s}^2$ venciendo un rozamiento constante de $50\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?
+¿Qué fuerza indica la balanza (fuerza normal) durante el arranque? (g = 9,8 m/s²)
 
 ### Opciones
-- [x] D) Fuerza aplicada = $250\text{ N}$ <!-- feedback: Correcto. $F_{\text{neta}} = 100 \cdot 2 = 200\text{ N}$. $F_{\text{aplicada}} = 200 + 50 = 250\text{ N}$. -->
-- [ ] A) Fuerza aplicada = $200\text{ N}$ <!-- feedback: Incorrecto. No consideró la fuerza para compensar la fricción. -->
-- [ ] B) Fuerza aplicada = $150\text{ N}$ <!-- feedback: Incorrecto. Restó la fuerza de fricción a la fuerza neta. -->
-- [ ] C) Fuerza aplicada = $1000\text{ N}$ <!-- feedback: Incorrecto. Confundió la aceleración con la masa por $g$. -->
+- [x] A) 590 N
+  <!-- feedback: Correcto. N − m·g = m·a, por lo tanto N = m·(g + a) = 50·(9,8 + 2) = 590 N. -->
+- [ ] B) 490 N
+  <!-- feedback: Incorrecto. es el peso m·g; solo coincide con la normal si el ascensor está quieto o a velocidad constante. -->
+- [ ] C) 390 N
+  <!-- feedback: Incorrecto. usaste N = m·(g − a), que corresponde a un ascensor que acelera hacia abajo. -->
+- [ ] D) 100 N
+  <!-- feedback: Incorrecto. calculaste solo m·a = 50·2; la balanza debe además sostener el peso de la estudiante. -->
 
 ### Explicacion Pedagogica
-Por la Segunda Ley de Newton $F_{\text{neta}} = m \cdot a = 100 \cdot 2 = 200\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\text{aplicada}} = 200 + 50 = 250\text{ N}$.
-
----
+Sobre la estudiante actúan el peso (hacia abajo) y la normal de la balanza (hacia arriba). Si acelera hacia arriba, la fuerza neta debe apuntar hacia arriba: N − m·g = m·a. Despejando, N = 50·(9,8 + 2) = 590 N. Por eso al arrancar hacia arriba 'nos sentimos más pesados'.
 
 ## Question 11 [D7-D8]
-**Contexto:** Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 11.
 **ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v11
 **Bloom:** Analyze
-**EJE:** Física y Mecánica
-**Expected_Success:** 0.70
+**EJE:** Física
+**Expected_Success:** 0.62
+**Contexto:** En una práctica en el Parque Sarmiento de Córdoba, un alumno lanza una pelota verticalmente hacia arriba; se desprecia la resistencia del aire.
 
 ### Enunciado
-Un objeto de masa $m = 110\text{ kg}$ acelera horizontalmente a $2\text{ m/s}^2$ venciendo un rozamiento constante de $55\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?
+Cuando la pelota está en el punto más alto de su trayectoria, ¿qué fuerzas actúan sobre ella?
 
 ### Opciones
-- [x] B) Fuerza aplicada = $275\text{ N}$ <!-- feedback: Correcto. $F_{\text{neta}} = 110 \cdot 2 = 220\text{ N}$. $F_{\text{aplicada}} = 220 + 55 = 275\text{ N}$. -->
-- [ ] A) Fuerza aplicada = $220\text{ N}$ <!-- feedback: Incorrecto. No consideró la fuerza para compensar la fricción. -->
-- [ ] C) Fuerza aplicada = $165\text{ N}$ <!-- feedback: Incorrecto. Restó la fuerza de fricción a la fuerza neta. -->
-- [ ] D) Fuerza aplicada = $1100\text{ N}$ <!-- feedback: Incorrecto. Confundió la aceleración con la masa por $g$. -->
+- [ ] A) Ninguna fuerza, porque su velocidad es cero
+  <!-- feedback: Incorrecto. velocidad cero no implica fuerza nula: el peso sigue actuando y por eso la pelota vuelve a caer. -->
+- [x] B) Solo el peso, vertical hacia abajo
+  <!-- feedback: Correcto. una vez que la pelota deja la mano, la única interacción es la gravitatoria con la Tierra, en todo momento del vuelo. -->
+- [ ] C) El peso hacia abajo y la 'fuerza del lanzamiento' hacia arriba, equilibradas
+  <!-- feedback: Incorrecto. la mano dejó de tocar la pelota; no existe una fuerza que la pelota 'lleve' consigo después del lanzamiento. -->
+- [ ] D) Solo la fuerza del lanzamiento, que se agota justo en ese punto
+  <!-- feedback: Incorrecto. es la idea precientífica del 'ímpetu'; la fuerza de la mano solo actúa mientras hay contacto. -->
 
 ### Explicacion Pedagogica
-Por la Segunda Ley de Newton $F_{\text{neta}} = m \cdot a = 110 \cdot 2 = 220\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\text{aplicada}} = 220 + 55 = 275\text{ N}$.
-
----
+Un diagrama de cuerpo libre incluye solo fuerzas ejercidas por otros cuerpos en ese instante. Tras el lanzamiento, la mano ya no interactúa con la pelota; queda solo el peso m·g hacia abajo. En el punto más alto la velocidad es cero, pero la aceleración sigue siendo 9,8 m/s² hacia abajo, y por eso la pelota invierte su movimiento.
 
 ## Question 12 [D7-D8]
-**Contexto:** Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 12.
 **ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**EJE:** Física y Mecánica
-**Expected_Success:** 0.68
+**EJE:** Física
+**Expected_Success:** 0.60
+**Contexto:** Una caja de 10 kg queda en reposo sobre una rampa de carga de un camión en el Mercado Central, inclinada 30°; el coeficiente de rozamiento estático es 0,7.
 
 ### Enunciado
-Un objeto de masa $m = 120\text{ kg}$ acelera horizontalmente a $2\text{ m/s}^2$ venciendo un rozamiento constante de $60\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?
+¿Cuánto vale la fuerza de rozamiento estático que actúa sobre la caja? (g = 9,8 m/s²)
 
 ### Opciones
-- [x] D) Fuerza aplicada = $300\text{ N}$ <!-- feedback: Correcto. $F_{\text{neta}} = 120 \cdot 2 = 240\text{ N}$. $F_{\text{aplicada}} = 240 + 60 = 300\text{ N}$. -->
-- [ ] A) Fuerza aplicada = $240\text{ N}$ <!-- feedback: Incorrecto. No consideró la fuerza para compensar la fricción. -->
-- [ ] B) Fuerza aplicada = $180\text{ N}$ <!-- feedback: Incorrecto. Restó la fuerza de fricción a la fuerza neta. -->
-- [ ] C) Fuerza aplicada = $1200\text{ N}$ <!-- feedback: Incorrecto. Confundió la aceleración con la masa por $g$. -->
+- [x] A) 49 N
+  <!-- feedback: Correcto. en reposo el rozamiento equilibra la componente paralela del peso: f = m·g·sen 30° = 10·9,8·0,5 = 49 N. -->
+- [ ] B) 59,4 N
+  <!-- feedback: Incorrecto. calculaste el máximo posible μ_s·N = 0,7·84,9; el rozamiento estático solo toma el valor necesario para el equilibrio, que es menor. -->
+- [ ] C) 84,9 N
+  <!-- feedback: Incorrecto. es la componente perpendicular m·g·cos 30°, que equilibra la normal, no la que tiende a hacer deslizar la caja. -->
+- [ ] D) 98 N
+  <!-- feedback: Incorrecto. es el peso completo; sobre el plano solo la componente m·g·sen θ tiende a mover la caja. -->
 
 ### Explicacion Pedagogica
-Por la Segunda Ley de Newton $F_{\text{neta}} = m \cdot a = 120 \cdot 2 = 240\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\text{aplicada}} = 240 + 60 = 300\text{ N}$.
-
----
+En equilibrio la suma de fuerzas paralelas a la rampa es cero: f_s = m·g·sen θ = 49 N. El valor μ_s·N = 0,7·10·9,8·cos 30° ≈ 59,4 N es el máximo que puede alcanzar el rozamiento estático antes de que la caja deslice. Como 49 N < 59,4 N, la caja permanece quieta y el rozamiento vale exactamente 49 N.
 
 ## Question 13 [D7-D8]
-**Contexto:** Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 13.
 **ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** Física y Mecánica
-**Expected_Success:** 0.66
+**EJE:** Física
+**Expected_Success:** 0.58
+**Contexto:** En un laboratorio de Salta, un carrito de 3 kg sobre una mesa horizontal sin rozamiento está unido por un hilo que pasa por una polea a una pesa colgante de 2 kg.
 
 ### Enunciado
-Un objeto de masa $m = 130\text{ kg}$ acelera horizontalmente a $2\text{ m/s}^2$ venciendo un rozamiento constante de $65\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?
+¿Cuál es la aceleración del sistema al soltarlo? (g = 9,8 m/s², hilo y polea ideales)
 
 ### Opciones
-- [x] D) Fuerza aplicada = $325\text{ N}$ <!-- feedback: Correcto. $F_{\text{neta}} = 130 \cdot 2 = 260\text{ N}$. $F_{\text{aplicada}} = 260 + 65 = 325\text{ N}$. -->
-- [ ] A) Fuerza aplicada = $260\text{ N}$ <!-- feedback: Incorrecto. No consideró la fuerza para compensar la fricción. -->
-- [ ] B) Fuerza aplicada = $195\text{ N}$ <!-- feedback: Incorrecto. Restó la fuerza de fricción a la fuerza neta. -->
-- [ ] C) Fuerza aplicada = $1300\text{ N}$ <!-- feedback: Incorrecto. Confundió la aceleración con la masa por $g$. -->
+- [ ] A) 9,8 m/s²
+  <!-- feedback: Incorrecto. supone que la pesa cae libremente; el hilo la frena porque también debe arrastrar al carrito. -->
+- [ ] B) 6,53 m/s²
+  <!-- feedback: Incorrecto. dividiste 19,6 N solo por la masa del carrito (3 kg), olvidando que la pesa colgante también se acelera. -->
+- [x] C) 3,92 m/s²
+  <!-- feedback: Correcto. la única fuerza neta externa es el peso colgante 2·9,8 = 19,6 N, que acelera la masa total de 5 kg: a = 19,6/5 = 3,92 m/s². -->
+- [ ] D) 1,96 m/s²
+  <!-- feedback: Incorrecto. restaste las masas (3 − 2 = 1 kg) y multiplicaste por g/5; las masas no se oponen porque el carrito no tiene un peso a lo largo de la mesa. -->
 
 ### Explicacion Pedagogica
-Por la Segunda Ley de Newton $F_{\text{neta}} = m \cdot a = 130 \cdot 2 = 260\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\text{aplicada}} = 260 + 65 = 325\text{ N}$.
-
----
+Se analiza cada cuerpo. Carrito: T = 3·a. Pesa: 2·9,8 − T = 2·a. Sumando: 19,6 = 5·a, de donde a = 3,92 m/s². La tensión resulta T = 3·3,92 = 11,76 N, menor que el peso de la pesa (19,6 N), lo que confirma que la pesa no cae libremente.
 
 ## Question 14 [D7-D8]
-**Contexto:** Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 14.
 **ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**EJE:** Física y Mecánica
-**Expected_Success:** 0.64
+**EJE:** Física
+**Expected_Success:** 0.56
+**Contexto:** Un caballo tira de un sulky en una exhibición rural en San Antonio de Areco. Un estudiante razona: 'Si el carro tira del caballo con la misma fuerza que el caballo tira del carro, se anulan y nunca deberían moverse'.
 
 ### Enunciado
-Un objeto de masa $m = 140\text{ kg}$ acelera horizontalmente a $2\text{ m/s}^2$ venciendo un rozamiento constante de $70\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?
+¿Dónde está el error del razonamiento del estudiante?
 
 ### Opciones
-- [x] C) Fuerza aplicada = $350\text{ N}$ <!-- feedback: Correcto. $F_{\text{neta}} = 140 \cdot 2 = 280\text{ N}$. $F_{\text{aplicada}} = 280 + 70 = 350\text{ N}$. -->
-- [ ] A) Fuerza aplicada = $280\text{ N}$ <!-- feedback: Incorrecto. No consideró la fuerza para compensar la fricción. -->
-- [ ] B) Fuerza aplicada = $210\text{ N}$ <!-- feedback: Incorrecto. Restó la fuerza de fricción a la fuerza neta. -->
-- [ ] D) Fuerza aplicada = $1400\text{ N}$ <!-- feedback: Incorrecto. Confundió la aceleración con la masa por $g$. -->
+- [ ] A) El caballo tira con más fuerza que la que el carro ejerce sobre él
+  <!-- feedback: Incorrecto. contradice la tercera ley: las fuerzas del par siempre tienen igual módulo. -->
+- [ ] B) La tercera ley de Newton solo vale para cuerpos en reposo
+  <!-- feedback: Incorrecto. la tercera ley vale en cualquier estado de movimiento, también cuando los cuerpos aceleran. -->
+- [ ] C) El carro se mueve por inercia, sin necesidad de fuerza neta
+  <!-- feedback: Incorrecto. si parte del reposo, el carro necesita una fuerza neta para acelerar; la inercia solo mantiene la velocidad que ya tiene. -->
+- [x] D) Las fuerzas del par acción-reacción actúan sobre cuerpos distintos, por lo que no se anulan entre sí
+  <!-- feedback: Correcto. para saber si el carro acelera se suman solo las fuerzas sobre el carro: la tracción del caballo supera el rozamiento y el carro acelera. -->
 
 ### Explicacion Pedagogica
-Por la Segunda Ley de Newton $F_{\text{neta}} = m \cdot a = 140 \cdot 2 = 280\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\text{aplicada}} = 280 + 70 = 350\text{ N}$.
-
----
+La tercera ley asegura que la fuerza caballo→carro y carro→caballo son iguales y opuestas, pero cada una actúa sobre un cuerpo diferente. Para el carro, la fuerza neta es la tracción del caballo menos el rozamiento: si es positiva, acelera. Para el caballo, el suelo lo empuja hacia adelante (reacción a sus cascos empujando el suelo hacia atrás) con más fuerza que la del carro.
 
 ## Question 15 [D7-D8]
-**Contexto:** Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 15.
 **ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v15
-**Bloom:** Apply
-**EJE:** Física y Mecánica
-**Expected_Success:** 0.62
+**Bloom:** Analyze
+**EJE:** Física
+**Expected_Success:** 0.54
+**Contexto:** Un auto circula a 20 m/s (72 km/h) por la Ruta Nacional 9 cerca de Rosario y frena bloqueando las ruedas; el coeficiente de rozamiento cinético neumático-asfalto seco es 0,8.
 
 ### Enunciado
-Un objeto de masa $m = 150\text{ kg}$ acelera horizontalmente a $2\text{ m/s}^2$ venciendo un rozamiento constante de $75\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?
+¿Qué distancia recorre hasta detenerse? (g = 9,8 m/s²)
 
 ### Opciones
-- [x] A) Fuerza aplicada = $375\text{ N}$ <!-- feedback: Correcto. $F_{\text{neta}} = 150 \cdot 2 = 300\text{ N}$. $F_{\text{aplicada}} = 300 + 75 = 375\text{ N}$. -->
-- [ ] B) Fuerza aplicada = $300\text{ N}$ <!-- feedback: Incorrecto. No consideró la fuerza para compensar la fricción. -->
-- [ ] C) Fuerza aplicada = $225\text{ N}$ <!-- feedback: Incorrecto. Restó la fuerza de fricción a la fuerza neta. -->
-- [ ] D) Fuerza aplicada = $1500\text{ N}$ <!-- feedback: Incorrecto. Confundió la aceleración con la masa por $g$. -->
+- [x] A) Aproximadamente 25,5 m
+  <!-- feedback: Correcto. a = μ·g = 0,8·9,8 = 7,84 m/s² y d = v²/(2a) = 400/15,68 ≈ 25,5 m. -->
+- [ ] B) Aproximadamente 2,55 m
+  <!-- feedback: Incorrecto. calculaste v/a = 20/7,84 ≈ 2,55, que es el tiempo de frenado en segundos, no la distancia. -->
+- [ ] C) 250 m
+  <!-- feedback: Incorrecto. usaste a = μ = 0,8 m/s², olvidando multiplicar por g para obtener la desaceleración. -->
+- [ ] D) Aproximadamente 51 m
+  <!-- feedback: Incorrecto. calculaste v²/a = 400/7,84 sin el factor 2 de la ecuación v² = 2·a·d. -->
 
 ### Explicacion Pedagogica
-Por la Segunda Ley de Newton $F_{\text{neta}} = m \cdot a = 150 \cdot 2 = 300\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\text{aplicada}} = 300 + 75 = 375\text{ N}$.
-
----
+La única fuerza horizontal es el rozamiento cinético f = μ·m·g, así que la desaceleración es a = μ·g = 7,84 m/s² (independiente de la masa del auto). Con v_f² = v_0² − 2·a·d y v_f = 0: d = 20²/(2·7,84) ≈ 25,5 m. Si el asfalto está mojado, μ baja y la distancia aumenta en forma inversamente proporcional.
 
 ## Question 16 [D7-D8]
-**Contexto:** Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 16.
 **ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**EJE:** Física y Mecánica
-**Expected_Success:** 0.60
+**EJE:** Física
+**Expected_Success:** 0.52
+**Contexto:** Un camión viaja por la Ruta 40 en Mendoza a velocidad constante de 90 km/h en línea recta; el motor ejerce una fuerza de tracción de 6000 N.
 
 ### Enunciado
-Un objeto de masa $m = 160\text{ kg}$ acelera horizontalmente a $2\text{ m/s}^2$ venciendo un rozamiento constante de $80\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?
+¿Cuál de las siguientes afirmaciones sobre las fuerzas horizontales que actúan sobre el camión es correcta?
 
 ### Opciones
-- [x] D) Fuerza aplicada = $400\text{ N}$ <!-- feedback: Correcto. $F_{\text{neta}} = 160 \cdot 2 = 320\text{ N}$. $F_{\text{aplicada}} = 320 + 80 = 400\text{ N}$. -->
-- [ ] A) Fuerza aplicada = $320\text{ N}$ <!-- feedback: Incorrecto. No consideró la fuerza para compensar la fricción. -->
-- [ ] B) Fuerza aplicada = $240\text{ N}$ <!-- feedback: Incorrecto. Restó la fuerza de fricción a la fuerza neta. -->
-- [ ] C) Fuerza aplicada = $1600\text{ N}$ <!-- feedback: Incorrecto. Confundió la aceleración con la masa por $g$. -->
+- [ ] A) La fuerza neta es 6000 N hacia adelante, por eso el camión avanza
+  <!-- feedback: Incorrecto. con 6000 N netos el camión aceleraría; avanzar a velocidad constante no requiere fuerza neta. -->
+- [ ] B) Las fuerzas resistivas son menores que 6000 N, si no el camión se detendría
+  <!-- feedback: Incorrecto. si fueran menores, la fuerza neta apuntaría hacia adelante y la velocidad aumentaría, contra lo que dice el enunciado. -->
+- [x] C) Las fuerzas resistivas (aire y rodadura) suman 6000 N y la fuerza neta es cero
+  <!-- feedback: Correcto. a velocidad constante y en línea recta la aceleración es nula, así que la tracción debe estar exactamente equilibrada por las resistencias. -->
+- [ ] D) No actúa ninguna fuerza horizontal porque la velocidad no cambia
+  <!-- feedback: Incorrecto. la fuerza neta es cero, pero sí actúan fuerzas: la tracción y las resistencias, que se anulan entre sí. -->
 
 ### Explicacion Pedagogica
-Por la Segunda Ley de Newton $F_{\text{neta}} = m \cdot a = 160 \cdot 2 = 320\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\text{aplicada}} = 320 + 80 = 400\text{ N}$.
-
----
+La segunda ley se aplica a la fuerza neta: si a = 0, F_neta = 0. Sobre el camión actúan la tracción hacia adelante y la resistencia del aire más la de rodadura hacia atrás. Para que la velocidad se mantenga, ambas deben valer 6000 N. Si el motor dejara de traccionar, la fuerza neta sería hacia atrás y el camión desaceleraría.
 
 ## Question 17 [D9-D10]
-**Contexto:** Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 17.
 **ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**EJE:** Física y Mecánica
-**Expected_Success:** 0.58
+**EJE:** Física
+**Expected_Success:** 0.50
+**Contexto:** En una clase de física en Ushuaia, un compañero afirma: 'Si un objeto se mueve, necesariamente tiene una fuerza neta en la dirección de su movimiento'.
 
 ### Enunciado
-Un objeto de masa $m = 170\text{ kg}$ acelera horizontalmente a $2\text{ m/s}^2$ venciendo un rozamiento constante de $85\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?
+¿Qué observación refuta mejor esa afirmación?
 
 ### Opciones
-- [x] B) Fuerza aplicada = $425\text{ N}$ <!-- feedback: Correcto. $F_{\text{neta}} = 170 \cdot 2 = 340\text{ N}$. $F_{\text{aplicada}} = 340 + 85 = 425\text{ N}$. -->
-- [ ] A) Fuerza aplicada = $340\text{ N}$ <!-- feedback: Incorrecto. No consideró la fuerza para compensar la fricción. -->
-- [ ] C) Fuerza aplicada = $255\text{ N}$ <!-- feedback: Incorrecto. Restó la fuerza de fricción a la fuerza neta. -->
-- [ ] D) Fuerza aplicada = $1700\text{ N}$ <!-- feedback: Incorrecto. Confundió la aceleración con la masa por $g$. -->
+- [ ] A) Una caja empujada sobre el piso se detiene al dejar de empujarla
+  <!-- feedback: Incorrecto. parece apoyar la afirmación; la caja se frena por el rozamiento, una fuerza que el compañero no consideró. -->
+- [ ] B) Un auto acelera cuando el conductor pisa el acelerador
+  <!-- feedback: Incorrecto. es un caso con fuerza neta y aceleración, que es compatible con la afirmación y no la refuta. -->
+- [x] C) Un disco de hockey que se desliza sobre hielo casi sin rozamiento sigue a velocidad prácticamente constante sin que nadie lo empuje
+  <!-- feedback: Correcto. muestra movimiento sin fuerza neta, como predice la primera ley: la fuerza cambia la velocidad, no la mantiene. -->
+- [ ] D) Una piedra en reposo sobre el suelo no se mueve
+  <!-- feedback: Incorrecto. describe un cuerpo sin movimiento; no dice nada sobre cuerpos que se mueven sin fuerza neta. -->
 
 ### Explicacion Pedagogica
-Por la Segunda Ley de Newton $F_{\text{neta}} = m \cdot a = 170 \cdot 2 = 340\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\text{aplicada}} = 340 + 85 = 425\text{ N}$.
-
----
+La idea aristotélica 'el movimiento requiere fuerza' se refuta con un caso de movimiento sin fuerza neta. En el hielo el rozamiento es casi nulo, y el disco conserva su velocidad por inercia. La primera ley de Newton dice que la fuerza neta se relaciona con el cambio de velocidad (aceleración), no con la velocidad misma.
 
 ## Question 18 [D9-D10]
-**Contexto:** Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 18.
 **ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**EJE:** Física y Mecánica
-**Expected_Success:** 0.56
+**EJE:** Física
+**Expected_Success:** 0.48
+**Contexto:** Para cargar un tanque de agua en una obra de Neuquén, se sube un balde de 20 kg por una rampa inclinada 30° a velocidad constante; el coeficiente de rozamiento cinético es 0,2. Cuatro alumnos proponen el valor de la fuerza paralela a la rampa necesaria.
 
 ### Enunciado
-Un objeto de masa $m = 180\text{ kg}$ acelera horizontalmente a $2\text{ m/s}^2$ venciendo un rozamiento constante de $90\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?
+¿Qué valor es el correcto? (g = 9,8 m/s²)
 
 ### Opciones
-- [x] D) Fuerza aplicada = $450\text{ N}$ <!-- feedback: Correcto. $F_{\text{neta}} = 180 \cdot 2 = 360\text{ N}$. $F_{\text{aplicada}} = 360 + 90 = 450\text{ N}$. -->
-- [ ] A) Fuerza aplicada = $360\text{ N}$ <!-- feedback: Incorrecto. No consideró la fuerza para compensar la fricción. -->
-- [ ] B) Fuerza aplicada = $270\text{ N}$ <!-- feedback: Incorrecto. Restó la fuerza de fricción a la fuerza neta. -->
-- [ ] C) Fuerza aplicada = $1800\text{ N}$ <!-- feedback: Incorrecto. Confundió la aceleración con la masa por $g$. -->
+- [ ] A) 64,1 N
+  <!-- feedback: Incorrecto. restaste el rozamiento (196·(0,5 − 0,173)); al subir, el rozamiento se opone al movimiento y apunta hacia abajo, así que se suma. -->
+- [x] B) 131,9 N
+  <!-- feedback: Correcto. F = m·g·(sen 30° + μ·cos 30°) = 196·(0,5 + 0,2·0,866) ≈ 131,9 N: hay que vencer la componente del peso y el rozamiento, ambos hacia abajo del plano. -->
+- [ ] C) 98 N
+  <!-- feedback: Incorrecto. solo equilibraste la componente m·g·sen 30° = 98 N y olvidaste el rozamiento. -->
+- [ ] D) 33,9 N
+  <!-- feedback: Incorrecto. consideraste solo el rozamiento μ·m·g·cos 30° ≈ 33,9 N, olvidando la componente del peso a lo largo de la rampa. -->
 
 ### Explicacion Pedagogica
-Por la Segunda Ley de Newton $F_{\text{neta}} = m \cdot a = 180 \cdot 2 = 360\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\text{aplicada}} = 360 + 90 = 450\text{ N}$.
-
----
+A velocidad constante, la fuerza neta es nula. Al subir, actúan hacia abajo del plano la componente del peso m·g·sen θ = 98 N y el rozamiento μ·m·g·cos θ ≈ 33,9 N. La fuerza aplicada debe igualar la suma: F ≈ 131,9 N. Si se bajara el balde, el rozamiento cambiaría de sentido y la cuenta sería distinta.
 
 ## Question 19 [D9-D10]
-**Contexto:** Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 19.
 **ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Física y Mecánica
-**Expected_Success:** 0.54
+**EJE:** Física
+**Expected_Success:** 0.47
+**Contexto:** El cable de un ascensor de carga en un edificio de Córdoba soporta como máximo una tensión de 12 000 N; la cabina cargada tiene 1000 kg.
 
 ### Enunciado
-Un objeto de masa $m = 190\text{ kg}$ acelera horizontalmente a $2\text{ m/s}^2$ venciendo un rozamiento constante de $95\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?
+¿Cuál es la máxima aceleración hacia arriba que puede tener la cabina sin superar la tensión límite? (g = 9,8 m/s²)
 
 ### Opciones
-- [x] C) Fuerza aplicada = $475\text{ N}$ <!-- feedback: Correcto. $F_{\text{neta}} = 190 \cdot 2 = 380\text{ N}$. $F_{\text{aplicada}} = 380 + 95 = 475\text{ N}$. -->
-- [ ] A) Fuerza aplicada = $380\text{ N}$ <!-- feedback: Incorrecto. No consideró la fuerza para compensar la fricción. -->
-- [ ] B) Fuerza aplicada = $285\text{ N}$ <!-- feedback: Incorrecto. Restó la fuerza de fricción a la fuerza neta. -->
-- [ ] D) Fuerza aplicada = $1900\text{ N}$ <!-- feedback: Incorrecto. Confundió la aceleración con la masa por $g$. -->
+- [ ] A) 12 m/s²
+  <!-- feedback: Incorrecto. dividiste T por m sin restar g; parte de la tensión se usa en sostener el peso de la cabina. -->
+- [ ] B) 21,8 m/s²
+  <!-- feedback: Incorrecto. sumaste g en lugar de restarla; esa expresión corresponde a una situación físicamente imposible para este cable. -->
+- [x] C) 2,2 m/s²
+  <!-- feedback: Correcto. T − m·g = m·a, así que a = T/m − g = 12 − 9,8 = 2,2 m/s². -->
+- [ ] D) 9,8 m/s²
+  <!-- feedback: Incorrecto. es la aceleración de la gravedad, que no depende de la tensión del cable ni de la masa de la cabina. -->
 
 ### Explicacion Pedagogica
-Por la Segunda Ley de Newton $F_{\text{neta}} = m \cdot a = 190 \cdot 2 = 380\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\text{aplicada}} = 380 + 95 = 475\text{ N}$.
-
----
+Sobre la cabina actúan la tensión T hacia arriba y el peso m·g = 9800 N hacia abajo. Con T máxima: 12 000 − 9800 = 1000·a, entonces a_máx = 2,2 m/s². Un diseño seguro debería limitar la aceleración por debajo de ese valor, porque al acelerar hacia arriba la tensión supera el peso.
 
 ## Question 20 [D9-D10]
-**Contexto:** Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 20.
 **ID:** AR-CIE-11-2026-W11-mecanica-newtoniana-dinamica-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Física y Mecánica
-**Expected_Success:** 0.52
+**EJE:** Física
+**Expected_Success:** 0.45
+**Contexto:** En el laboratorio de una escuela de La Plata se tira de un carrito con un elástico estirado siempre la misma longitud, y se le agregan pesas. Resultados: con 0,5 kg, a = 4,0 m/s²; con 1,0 kg, a = 2,0 m/s²; con 2,0 kg, a = 1,0 m/s².
 
 ### Enunciado
-Un objeto de masa $m = 200\text{ kg}$ acelera horizontalmente a $2\text{ m/s}^2$ venciendo un rozamiento constante de $100\text{ N}$. ¿Cuál es la magnitud de la fuerza motor aplicada?
+¿Qué conclusión es la mejor fundamentada por estos datos?
 
 ### Opciones
-- [x] B) Fuerza aplicada = $500\text{ N}$ <!-- feedback: Correcto. $F_{\text{neta}} = 200 \cdot 2 = 400\text{ N}$. $F_{\text{aplicada}} = 400 + 100 = 500\text{ N}$. -->
-- [ ] A) Fuerza aplicada = $400\text{ N}$ <!-- feedback: Incorrecto. No consideró la fuerza para compensar la fricción. -->
-- [ ] C) Fuerza aplicada = $300\text{ N}$ <!-- feedback: Incorrecto. Restó la fuerza de fricción a la fuerza neta. -->
-- [ ] D) Fuerza aplicada = $2000\text{ N}$ <!-- feedback: Incorrecto. Confundió la aceleración con la masa por $g$. -->
+- [x] A) Con fuerza neta constante de unos 2 N, la aceleración es inversamente proporcional a la masa
+  <!-- feedback: Correcto. el producto m·a vale 0,5·4 = 1·2 = 2·1 = 2 N en los tres ensayos, como predice a = F/m. -->
+- [ ] B) La aceleración es directamente proporcional a la masa
+  <!-- feedback: Incorrecto. al duplicar la masa la aceleración se reduce a la mitad, que es proporcionalidad inversa, no directa. -->
+- [ ] C) La fuerza del elástico aumenta cuando se agrega masa
+  <!-- feedback: Incorrecto. el elástico se estira siempre igual, y el producto m·a constante muestra que la fuerza no cambió. -->
+- [ ] D) La masa no influye en la aceleración
+  <!-- feedback: Incorrecto. los datos muestran que la aceleración cambia de 4,0 a 1,0 m/s² al cambiar la masa. -->
 
 ### Explicacion Pedagogica
-Por la Segunda Ley de Newton $F_{\text{neta}} = m \cdot a = 200 \cdot 2 = 400\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\text{aplicada}} = 400 + 100 = 500\text{ N}$.
+Para verificar la segunda ley se controla una variable (la fuerza, con el elástico siempre igual de estirado) y se varía otra (la masa). Si a·m es constante, a es inversamente proporcional a m. Aquí 0,5·4,0 = 1,0·2,0 = 2,0·1,0 = 2 N, consistente con F = m·a y una fuerza neta de 2 N.

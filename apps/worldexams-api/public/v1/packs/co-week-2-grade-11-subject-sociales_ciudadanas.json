@@ -756,9 +756,9 @@
         },
         {
           "letter": "B",
-          "text": "Canalizaba el comercio de la Casa de Contratación, el flujo de oro y esmeraldas y la trata esclavista hacia el interior",
-          "is_correct": true,
-          "feedback": "Cartagena fue puerta de entrada del tráfico atlántico de personas esclavizadas, salida de metales preciosos y nudo del sistema de flotas."
+          "text": "Carecía de población indígena al momento de la conquista española",
+          "is_correct": false,
+          "feedback": "La región estaba poblada por grupos como los muso o tairona; hubo presencia indígena y mestizaje desde el primer momento."
         },
         {
           "letter": "C",
@@ -768,12 +768,12 @@
         },
         {
           "letter": "D",
-          "text": "Carecía de población indígena al momento de la conquista española",
-          "is_correct": false,
-          "feedback": "La región estaba poblada por grupos como los muso o tairona; hubo presencia indígena y mestizaje desde el primer momento."
+          "text": "Canalizaba el comercio de la Casa de Contratación, el flujo de oro y esmeraldas y la trata esclavista hacia el interior",
+          "is_correct": true,
+          "feedback": "Cartagena fue puerta de entrada del tráfico atlántico de personas esclavizadas, salida de metales preciosos y nudo del sistema de flotas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El sistema portuario de Cartagena, Portobelo y La Habana organizaba el comercio atlántico. Su fortificación (Castillo Grande de San Felipe) protegía el circuito de la riqueza americana. Comprender esa función económica explica tanto la diversidad cultural del Caribe como las jerarquías raciales coloniales cuya superación sigue siendo un reto ciudadano.",
       "difficulty": "8",
       "images": [],

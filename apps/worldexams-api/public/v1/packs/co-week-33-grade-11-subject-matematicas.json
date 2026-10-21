@@ -13,12 +13,6 @@
       "context": "Camilo tiene 4 camisas distintas y 3 pantalones distintos para vestir en una reunión familiar en Bogotá.",
       "options": [
         {
-          "letter": "C",
-          "text": "12",
-          "is_correct": true,
-          "feedback": "Por el principio multiplicativo, el total de combinaciones es 4 * 3 = 12."
-        },
-        {
           "letter": "A",
           "text": "7",
           "is_correct": false,
@@ -29,6 +23,12 @@
           "text": "14",
           "is_correct": false,
           "feedback": "Se realizó un cálculo erróneo sumando y multiplicando."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "Por el principio multiplicativo, el total de combinaciones es 4 * 3 = 12."
         },
         {
           "letter": "D",
@@ -59,16 +59,16 @@
       "context": "Un restaurante en Medellín ofrece un menú del día compuesto por 3 entradas, 4 platos fuertes y 2 postres.",
       "options": [
         {
-          "letter": "B",
-          "text": "24",
-          "is_correct": true,
-          "feedback": "Aplicando el principio multiplicativo: 3 * 4 * 2 = 24 opciones distintas de almuerzo."
-        },
-        {
           "letter": "A",
           "text": "9",
           "is_correct": false,
           "feedback": "Se sumaron las opciones disponibles de cada categoría (3 + 4 + 2 = 9)."
+        },
+        {
+          "letter": "B",
+          "text": "24",
+          "is_correct": true,
+          "feedback": "Aplicando el principio multiplicativo: 3 * 4 * 2 = 24 opciones distintas de almuerzo."
         },
         {
           "letter": "C",
@@ -105,16 +105,16 @@
       "context": "En una carrera atletica en Cali compiten 5 atletas y no hay empates.",
       "options": [
         {
-          "letter": "B",
-          "text": "120",
-          "is_correct": true,
-          "feedback": "Es una permutación de 5 elementos: 5! = 5 * 4 * 3 * 2 * 1 = 120."
-        },
-        {
           "letter": "A",
           "text": "25",
           "is_correct": false,
           "feedback": "Se calculó 5 al cuadrado (5^2)."
+        },
+        {
+          "letter": "B",
+          "text": "120",
+          "is_correct": true,
+          "feedback": "Es una permutación de 5 elementos: 5! = 5 * 4 * 3 * 2 * 1 = 120."
         },
         {
           "letter": "C",
@@ -151,16 +151,16 @@
       "context": "Un código de seguridad en una tienda de Barranquilla está formado por 2 letras distintas seleccionadas del conjunto {A, B, C, D}.",
       "options": [
         {
-          "letter": "B",
-          "text": "12",
-          "is_correct": true,
-          "feedback": "Es una variación de 4 elementos tomados de a 2: V(4,2) = 4 * 3 = 12."
-        },
-        {
           "letter": "A",
           "text": "6",
           "is_correct": false,
           "feedback": "Corresponde a la combinación C(4,2) donde el orden no importa."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "Es una variación de 4 elementos tomados de a 2: V(4,2) = 4 * 3 = 12."
         },
         {
           "letter": "C",
@@ -197,16 +197,16 @@
       "context": "Un comité estudiantil de 8 personas en Bucaramanga debe seleccionar una delegación de 3 integrantes sin cargos específicos.",
       "options": [
         {
-          "letter": "B",
-          "text": "56",
-          "is_correct": true,
-          "feedback": "Es una combinación C(8,3) = 8! / (3! * 5!) = (8 * 7 * 6) / 6 = 56."
-        },
-        {
           "letter": "A",
           "text": "336",
           "is_correct": false,
           "feedback": "Se calculó la permutación P(8,3) = 8 * 7 * 6, pero el orden no importa en una delegación."
+        },
+        {
+          "letter": "B",
+          "text": "56",
+          "is_correct": true,
+          "feedback": "Es una combinación C(8,3) = 8! / (3! * 5!) = (8 * 7 * 6) / 6 = 56."
         },
         {
           "letter": "C",
@@ -243,16 +243,16 @@
       "context": "De un grupo de 6 hombres y 5 mujeres en una empresa de Cartagena, se va a formar un equipo de trabajo de 4 personas.",
       "options": [
         {
-          "letter": "B",
-          "text": "150",
-          "is_correct": true,
-          "feedback": "C(6,2) = 15 maneras para los hombres; C(5,2) = 10 maneras para las mujeres. Total = 15 * 10 = 150."
-        },
-        {
           "letter": "A",
           "text": "25",
           "is_correct": false,
           "feedback": "Se sumaron las combinaciones C(6,2) + C(5,2) = 15 + 10 = 25."
+        },
+        {
+          "letter": "B",
+          "text": "150",
+          "is_correct": true,
+          "feedback": "C(6,2) = 15 maneras para los hombres; C(5,2) = 10 maneras para las mujeres. Total = 15 * 10 = 150."
         },
         {
           "letter": "C",
@@ -289,16 +289,16 @@
       "context": "Se quieren acomodar 6 libros distintos en un estante de una biblioteca en Pereira.",
       "options": [
         {
-          "letter": "B",
-          "text": "240",
-          "is_correct": true,
-          "feedback": "Consideramos los 2 libros como 1 solo bloque: 5! = 120 formas. Los 2 libros se pueden ordenar entre sí de 2! = 2 maneras. Total = 120 * 2 = 240."
-        },
-        {
           "letter": "A",
           "text": "120",
           "is_correct": false,
           "feedback": "Se olvidó multiplicar por las 2! formas de permutar los 2 libros entre sí dentro del bloque."
+        },
+        {
+          "letter": "B",
+          "text": "240",
+          "is_correct": true,
+          "feedback": "Consideramos los 2 libros como 1 solo bloque: 5! = 120 formas. Los 2 libros se pueden ordenar entre sí de 2! = 2 maneras. Total = 120 * 2 = 240."
         },
         {
           "letter": "C",
@@ -381,16 +381,16 @@
       "context": "Una placa vehicular en Colombia consta de 3 letras seguidas de 3 dígitos.",
       "options": [
         {
-          "letter": "B",
-          "text": "$26^3   imes 10^3$",
-          "is_correct": true,
-          "feedback": "Hay 26 opciones para cada una de las 3 letras y 10 opciones para cada uno de los 3 dígitos: 26^3 * 10^3 = 17,576,000."
-        },
-        {
           "letter": "A",
           "text": "$26   imes 3 + 10   imes 3$",
           "is_correct": false,
           "feedback": "Se aplicó principio aditivo en lugar de multiplicativo."
+        },
+        {
+          "letter": "B",
+          "text": "$26^3   imes 10^3$",
+          "is_correct": true,
+          "feedback": "Hay 26 opciones para cada una de las 3 letras y 10 opciones para cada uno de los 3 dígitos: 26^3 * 10^3 = 17,576,000."
         },
         {
           "letter": "C",
@@ -611,12 +611,6 @@
       "context": "Un examen consta de 10 preguntas. Un estudiante debe responder exactamente 7 preguntas.",
       "options": [
         {
-          "letter": "C",
-          "text": "35",
-          "is_correct": true,
-          "feedback": "Como las 3 primeras son obligatorias, le falta elegir 4 preguntas entre las 7 restantes: C(7,4) = C(7,3) = (7 * 6 * 5) / 6 = 35."
-        },
-        {
           "letter": "A",
           "text": "120",
           "is_correct": false,
@@ -627,6 +621,12 @@
           "text": "21",
           "is_correct": false,
           "feedback": "Se calculó C(7,2) en lugar de C(7,4)."
+        },
+        {
+          "letter": "C",
+          "text": "35",
+          "is_correct": true,
+          "feedback": "Como las 3 primeras son obligatorias, le falta elegir 4 preguntas entre las 7 restantes: C(7,4) = C(7,3) = (7 * 6 * 5) / 6 = 35."
         },
         {
           "letter": "D",
@@ -657,12 +657,6 @@
       "context": "En un plano hay 8 puntos marcados, de los cuales ningún trío está alineado.",
       "options": [
         {
-          "letter": "C",
-          "text": "56",
-          "is_correct": true,
-          "feedback": "Para formar un triángulo se eligen 3 puntos sin importar el orden: C(8,3) = (8 * 7 * 6) / 6 = 56."
-        },
-        {
           "letter": "A",
           "text": "336",
           "is_correct": false,
@@ -673,6 +667,12 @@
           "text": "28",
           "is_correct": false,
           "feedback": "Corresponde a la cantidad de segmentos (líneas) formados por 2 puntos: C(8,2) = 28."
+        },
+        {
+          "letter": "C",
+          "text": "56",
+          "is_correct": true,
+          "feedback": "Para formar un triángulo se eligen 3 puntos sin importar el orden: C(8,3) = (8 * 7 * 6) / 6 = 56."
         },
         {
           "letter": "D",
@@ -703,12 +703,6 @@
       "context": "Se quiere repartir 4 premios distintos entre 3 estudiantes en un evento escolar en Ibagué.",
       "options": [
         {
-          "letter": "C",
-          "text": "81",
-          "is_correct": true,
-          "feedback": "Cada uno de los 4 premios tiene 3 opciones de estudiante a quien asignarlo: 3^4 = 81."
-        },
-        {
           "letter": "A",
           "text": "64",
           "is_correct": false,
@@ -719,6 +713,12 @@
           "text": "12",
           "is_correct": false,
           "feedback": "Se multiplicó 4 por 3."
+        },
+        {
+          "letter": "C",
+          "text": "81",
+          "is_correct": true,
+          "feedback": "Cada uno de los 4 premios tiene 3 opciones de estudiante a quien asignarlo: 3^4 = 81."
         },
         {
           "letter": "D",
@@ -841,16 +841,16 @@
       "context": "Un grupo de 4 parejas de esposos (8 personas) asiste a una función de teatro.",
       "options": [
         {
-          "letter": "B",
-          "text": "384",
-          "is_correct": true,
-          "feedback": "Ordenar las 4 parejas como bloques: 4! = 24. Cada una de las 4 parejas puede ordenarse internamente de 2! formas: 2^4 = 16. Total = 24 * 16 = 384."
-        },
-        {
           "letter": "A",
           "text": "576",
           "is_correct": false,
           "feedback": "Se multiplicó 24 por 24 por un error de exponenciación."
+        },
+        {
+          "letter": "B",
+          "text": "96",
+          "is_correct": false,
+          "feedback": "Se multiplicó 24 * 4 en lugar de 24 * 16."
         },
         {
           "letter": "C",
@@ -860,12 +860,12 @@
         },
         {
           "letter": "D",
-          "text": "96",
-          "is_correct": false,
-          "feedback": "Se multiplicó 24 * 4 en lugar de 24 * 16."
+          "text": "384",
+          "is_correct": true,
+          "feedback": "Ordenar las 4 parejas como bloques: 4! = 24. Cada una de las 4 parejas puede ordenarse internamente de 2! formas: 2^4 = 16. Total = 24 * 16 = 384."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Consideramos cada pareja como un bloque. Hay $4! = 24$ formas de ordenar las parejas. Dentro de cada bloque, los 2 esposos se acomodan de $2! = 2$ formas. Por lo tanto, el total es $4!   imes 2^4 = 24   imes 16 = 384$.",
       "difficulty": "10",
       "images": [],
@@ -887,12 +887,6 @@
       "context": "Se dispone de 6 monedas idénticas de 500 pesos para repartir entre 3 niños en Popayán.",
       "options": [
         {
-          "letter": "C",
-          "text": "28",
-          "is_correct": true,
-          "feedback": "Es una combinación con repetición CR(n,k) = C(n+k-1, k) = C(3+6-1, 6) = C(8,6) = C(8,2) = 28."
-        },
-        {
           "letter": "A",
           "text": "18",
           "is_correct": false,
@@ -903,6 +897,12 @@
           "text": "216",
           "is_correct": false,
           "feedback": "Se calculó 6^3 como si las monedas fueran distinguibles."
+        },
+        {
+          "letter": "C",
+          "text": "28",
+          "is_correct": true,
+          "feedback": "Es una combinación con repetición CR(n,k) = C(n+k-1, k) = C(3+6-1, 6) = C(8,6) = C(8,2) = 28."
         },
         {
           "letter": "D",

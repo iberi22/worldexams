@@ -265,12 +265,12 @@ Un juez necesita un criterio que se aplique igual a los dos trabajos. El número
 ¿Qué capacidad se desarrolla al escribir esa historieta y qué trabajo exige?
 
 ### Opciones
-- [ ] A) Se desarrolla la capacidad de calcar, porque basta con copiar los dibujos del texto original.
-  <!-- feedback: Copiar no es crear: la historieta exige construir imágenes propias. -->
+- [x] A) Se desarrolla la capacidad de adaptar información de un texto a otro género, lo que exige decidir qué se conserva y qué se transforma.
+  <!-- feedback: Toda adaptación supone selección: no todo puede trasladarse igual de un género a otro. -->
 - [ ] B) Se desarrolla la capacidad de inventar una obra sin relación con el texto de partida.
   <!-- feedback: La relación con el texto de partida es justamente lo que hace posible la adaptación. -->
-- [x] C) Se desarrolla la capacidad de adaptar información de un texto a otro género, lo que exige decidir qué se conserva y qué se transforma.
-  <!-- feedback: Toda adaptación supone selección: no todo puede trasladarse igual de un género a otro. -->
+- [ ] C) Se desarrolla la capacidad de calcar, porque basta con copiar los dibujos del texto original.
+  <!-- feedback: Copiar no es crear: la historieta exige construir imágenes propias. -->
 - [ ] D) Se desarrolla la capacidad de resumir, porque la historieta siempre cuenta la misma historia en menos palabras.
   <!-- feedback: Adaptar a la historieta exige cambiar la forma de contar, no solo reducir el volumen. -->
 

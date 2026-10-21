@@ -198,10 +198,10 @@ El tráfico excesivo en las ciudades tiene consecuencias graves para la calidad 
   <!-- feedback: Incorrecto. Aunque la falta de vehículos particulares puede ser un problema, la situación descrita se refiere específicamente a la falta de conocimiento sobre las rutas de transporte público. -->
 - [ ] B) Exceso de opciones de transporte
   <!-- feedback: Incorrecto. El problema no es el exceso de opciones, sino la falta de información sobre las opciones disponibles; la comunidad necesita conocer las rutas para poder usar el transporte. -->
-- [x] C) Falta de información sobre el transporte público
-  <!-- feedback: Correcto. La falta de conocimiento sobre las rutas y horarios del transporte público limita la movilidad de los migrantes, dificultando su acceso a servicios y oportunidades. -->
-- [ ] D) Demasiadas ciclovías en la ciudad
+- [ ] C) Demasiadas ciclovías en la ciudad
   <!-- feedback: Incorrecto. Las ciclovías no son una barrera para la movilidad; son una opción de transporte sostenible. El problema es la falta de información sobre el transporte público. -->
+- [x] D) Falta de información sobre el transporte público
+  <!-- feedback: Correcto. La falta de conocimiento sobre las rutas y horarios del transporte público limita la movilidad de los migrantes, dificultando su acceso a servicios y oportunidades. -->
 
 ### Explicacion Pedagogica
 La información sobre el transporte público es esencial para la movilidad urbana. Las personas que no conocen las rutas, horarios y tarifas del transporte público enfrentan barreras para moverse por la ciudad, lo que limita su acceso al trabajo, la educación y otros servicios.

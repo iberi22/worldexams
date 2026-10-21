@@ -434,9 +434,9 @@
         },
         {
           "letter": "B",
-          "text": "La unidad temática, el ritmo y la intención comunicativa del texto.",
-          "is_correct": true,
-          "feedback": "Correcto. Esos tres ejes sostienen al poema."
+          "text": "La opinión de un único compañero de clase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La crítica requiere varias voces argumentadas."
         },
         {
           "letter": "C",
@@ -446,12 +446,12 @@
         },
         {
           "letter": "D",
-          "text": "La opinión de un único compañero de clase.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La crítica requiere varias voces argumentadas."
+          "text": "La unidad temática, el ritmo y la intención comunicativa del texto.",
+          "is_correct": true,
+          "feedback": "Correcto. Esos tres ejes sostienen al poema."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para juzgar la coherencia de un poema se considera la unidad de sentido, el ritmo que producen los versos y la intención del autor. La mezcla de formas es válida si esos ejes se sostienen.",
       "difficulty": "10",
       "images": [],
