@@ -48,6 +48,7 @@ describe('labels', () => {
   it('names countries in Spanish and handles unknowns', () => {
     expect(countryLabel({ country: 'CO', iso2: 'CO' })).toBe('Colombia');
     expect(countryLabel({ country: 'XX' })).toBe('Desconocido');
+    expect(countryLabel({ country: 'OTROS' })).toMatch(/^Otros países/);
     expect(countryLabel({ country: 'T1' })).toBe('T1');
   });
 
