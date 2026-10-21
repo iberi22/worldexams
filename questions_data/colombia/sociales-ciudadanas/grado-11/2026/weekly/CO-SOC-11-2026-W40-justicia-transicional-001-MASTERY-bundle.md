@@ -35,9 +35,9 @@ El Acuerdo Final para la Terminación del Conflicto y la Construcción de una Pa
 
 ### Opciones
 - [ ] A) La Habana
-  <!-- feedback: En La Habana se negoció y rubricó el texto en agosto de 2016, pero la firma pública del Acuerdo Final fue en Cartagena. -->
-- [x] B) Cartagena de Indias
-  <!-- feedback: Correcto. La firma solemne del Acuerdo Final tuvo lugar el 24 de noviembre de 2016 en Cartagena. -->
+  <!-- feedback: En La Habana se negoció y rubricó el texto en agosto de 2016; la primera versión del acuerdo se firmó en Cartagena el 26 de septiembre de 2016 y, tras el triunfo del 'No' en el plebiscito, el Acuerdo Final renegociado se firmó en Bogotá. -->
+- [x] B) Bogotá
+  <!-- feedback: Correcto. La firma solemne del Acuerdo Final tuvo lugar el 24 de noviembre de 2016 en el Teatro Colón de Bogotá. -->
 - [ ] C) Medellín
   <!-- feedback: Medellín fue sede de eventos posteriores de implementación, no de la firma. -->
 
@@ -46,7 +46,7 @@ El Acuerdo Final para la Terminación del Conflicto y la Construcción de una Pa
   <!-- feedback: La firma del 24 de noviembre de 2016 no tuvo lugar en Cali. -->
 
 ### Explicacion Pedagogica
-Tras el rechazo del plebiscito del 2 de octubre de 2016 y una renegociación con incorporaciones de la oposición, el Acuerdo Final se firmó en el Teatro Colón de Cartagena el 24 de noviembre de 2016. Consta de cinco puntos: reforma rural integral, participación política, fin del conflicto, solución al problema de drogas ilícitas y víctimas, más implementación, verificación y refrendación, y fue convalidado por el Acto Legislativo 01 de 2017, el "Acto Legislativo para la Paz".
+Tras el rechazo del plebiscito del 2 de octubre de 2016 y una renegociación con incorporaciones de la oposición, el Acuerdo Final se firmó en el Teatro Colón de Bogotá el 24 de noviembre de 2016. Consta de cinco puntos: reforma rural integral, participación política, fin del conflicto, solución al problema de drogas ilícitas y víctimas, más implementación, verificación y refrendación, y fue convalidado por el Acto Legislativo 01 de 2017, el "Acto Legislativo para la Paz".
 
 ## Question 2 [D3-D4]
 **ID:** CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v2
@@ -171,7 +171,7 @@ La entidad humanitaria del Sistema Integral, extrajudicial, que coordina la bús
   <!-- feedback: El CICR es una organización humanitaria internacional, no una entidad estatal colombiana. -->
 
 ### Explicacion Pedagogica
-La UBPD, creada en el marco del Acuerdo Final mediante el Decreto 589 de 2017, desarrolla la política nacional de búsqueda e identificación en el contexto y en razón del conflicto armado, con un Plan Nacional de Búsqueda. Su carácter humanitario y extrajudicial le permite acuerdos de búsqueda con todos los actores sin afectar garantías procesales. El informe "Coexistir" de la Comisión de la Verdad estimo en cientos de miles las personas desaparecidas, la herida más persistente del conflicto.
+La UBPD, creada en el marco del Acuerdo Final mediante el Decreto 589 de 2017, desarrolla la política nacional de búsqueda e identificación en el contexto y en razón del conflicto armado, con un Plan Nacional de Búsqueda. Su carácter humanitario y extrajudicial le permite acuerdos de búsqueda con todos los actores sin afectar garantías procesales. El informe final "Hay futuro si hay verdad" de la Comisión de la Verdad estimó en cientos de miles las personas desaparecidas, la herida más persistente del conflicto.
 
 ## Question 7 [D5-D6]
 **ID:** CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v7
@@ -186,8 +186,8 @@ La Comisión para el Esclarecimiento de la Verdad, la Convivencia y la No Repeti
 ### Opciones
 - [ ] A) El envío de condenados a prisión por crímenes del conflicto
   <!-- feedback: La Comisión no tenía funciones jurisdiccionales: su producto es narrativo y de recomendaciones, no punitivo. -->
-- [x] D) Un informe final presentado el 29 de noviembre de 2022 —"Coexistir: la búsqueda de una verdad que nos permita seguir construyendo la paz"— con un relato histórico del conflicto y recomendaciones de no repetición
-  <!-- feedback: Correcto. Tras tres años de trabajo, la Comisión entregó su informe con recomendaciones, incluidos hallazgos sobre magnitudes y patrones. -->
+- [x] D) Un informe final entregado el 28 de junio de 2022 —"Hay futuro si hay verdad"— con un relato histórico del conflicto y recomendaciones de no repetición
+  <!-- feedback: Correcto. Tras tres años de trabajo, la Comisión entregó su informe final "Hay futuro si hay verdad" el 28 de junio de 2022, con recomendaciones, incluidos hallazgos sobre magnitudes y patrones. -->
 - [ ] B) La reparación económica directa a todas las víctimas del país
   <!-- feedback: La reparación económica corresponde a la Unidad para las Víctimas y a rutas administrativas y judiciales. -->
 
@@ -196,7 +196,7 @@ La Comisión para el Esclarecimiento de la Verdad, la Convivencia y la No Repeti
   <!-- feedback: La restitución de tierras la adelantan la URT y jueces y magistrados especializados bajo la Ley 1448. -->
 
 ### Explicacion Pedagogica
-El informe "Coexistir" de la Comisión de la Verdad —presidida por el padre Francisco de Roux— registró cerca de 900.000 víctimas mortales estimadas en el periodo 1985-2018, documentó patrones de responsabilidad, afectaciones diferenciadas por género y territorialidades, y formuló más de cien recomendaciones. A diferencia de los tribunales, su método es la escucha y el contraste: construir verdad como base de memoria y convivencia futura.
+El informe final "Hay futuro si hay verdad" de la Comisión de la Verdad —presidida por el padre Francisco de Roux— estimó cerca de 450.000 víctimas de homicidio en el periodo 1985-2018, documentó patrones de responsabilidad, afectaciones diferenciadas por género y territorialidades, y formuló más de cien recomendaciones. A diferencia de los tribunales, su método es la escucha y el contraste: construir verdad como base de memoria y convivencia futura.
 
 ## Question 8 [D5-D6]
 **ID:** CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v8
@@ -253,15 +253,15 @@ El reclutamiento ilícito, tipificado en el artículo 162 del Código Penal y co
 **Bloom:** Apply
 **ICFES:** Ciudadano
 **Expected_Success:** 0.70
-**Contexto:** Un estudiante de Sincelejo pregunta qué es un "acta 04" o un "RIT".
+**Contexto:** Un estudiante de Sincelejo pregunta qué son los PDET en el acuerdo de paz.
 
 ### Enunciado
-Las Areas de Interés Transicional para la Paz con Enfoque Territorial, o RIT, creadas por el acuerdo de paz, buscan
+Los Programas de Desarrollo con Enfoque Territorial, PDET, creados por el acuerdo de paz, buscan
 
 ### Opciones
 - [ ] A) Repartir el territorio nacional entre los firmantes como premio
-  <!-- feedback: Las RIT son zonas de transformación estructural para comunidades, no botines territoriales. -->
-- [x] D) Transformar las condiciones materiales que alimentaron el conflicto mediante planes de desarrollo con participación comunitaria, con énfasis en los PDET
+  <!-- feedback: Los PDET son planes de desarrollo concertados con las comunidades, no un reparto de territorio entre los firmantes. -->
+- [x] D) Transformar las condiciones materiales que alimentaron el conflicto mediante planes de desarrollo concertados con las comunidades de los territorios más afectados
   <!-- feedback: Correcto. Los Programas de Desarrollo con Enfoque Territorial concertados con las comunidades construyen la paz desde los territorios más golpeados. -->
 - [ ] B) Cerrar las fronteras municipales al comercio legal
   <!-- feedback: El acuerdo promueve conectividad e integración económica, no cierre. -->
@@ -321,7 +321,7 @@ La garantía de "no repetición", entendida constitucionalmente, implica princip
   <!-- feedback: Es exactamente lo contrario: la memoria es parte de la no repetición. -->
 
 ### Explicacion Pedagogica
-El informe de la Comisión de la Verdad llamó a "coexistir" sobre bases estructurales nuevas, y los índices de asesinatos de líderes sociales y excombatientes firmantes del acuerdo revelan que el desmantelamiento de causas —economías ilícitas, matrices de opinión de odio, presencia armada residual— sigue inconcluso. Analizar la no repetición como política de Estado de largo plazo cambia el foco: del castigo al diseño social que impide la guerra futura.
+El informe final de la Comisión de la Verdad, "Hay futuro si hay verdad", propuso construir bases estructurales nuevas para la convivencia, y los índices de asesinatos de líderes sociales y excombatientes firmantes del acuerdo revelan que el desmantelamiento de causas —economías ilícitas, matrices de opinión de odio, presencia armada residual— sigue inconcluso. Analizar la no repetición como política de Estado de largo plazo cambia el foco: del castigo al diseño social que impide la guerra futura.
 
 ## Question 13 [D7-D8]
 **ID:** CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v13
@@ -410,7 +410,7 @@ La violencia sexual en el conflicto armado colombiano, analizada desde los enfoq
 
 ### Opciones
 - [ ] A) Ser un daño colateral accidental y no una estrategia deliberada de ningún actor
-  <!-- feedback: El informe "Coexistir" y la magistratura de la JEP documentaron patrones sistemáticos de uso del cuerpo como botín de guerra. -->
+  <!-- feedback: El informe final "Hay futuro si hay verdad" y la magistratura de la JEP documentaron patrones sistemáticos de uso del cuerpo como botín de guerra. -->
 - [x] C) Configurar una grave afectación con fines de dominación, terror y disciplinamiento territorial, con mayorías de víctimas mujeres, y exigir rutas de atención diferenciadas y reparadoras
   <!-- feedback: Correcto. El enfoque de género del acuerdo atraviesa la verdad, la justicia y la reparación para estas víctimas. -->
 - [ ] B) Afectar únicamente a mujeres adultas de zonas rurales
@@ -496,7 +496,7 @@ El valor educativo de la memoria histórica del conflicto para la democracia col
   <!-- feedback: Los derechos a la verdad y a la memoria pertenecen a las víctimas y a la sociedad en su conjunto. -->
 
 ### Explicacion Pedagogica
-El deber de memoria —como enseñó Primo Levi y reafirmó la ONU para las masacres del siglo XX— no es nostalgia ni castigo: es una tecnología de prevención. El informe "Coexistir", el Museo de la Memoria y los relatos de las víctimas en aulas convierten la historia en competencia ciudadana viva: reconocer al otro, dudar del odio, asumir que la violencia siempre comienza con la deshumanización del adversario. Aquí la semana temática se cierre: de la Constitución escrita a la Constitución vivida por la memoria.
+El deber de memoria —como enseñó Primo Levi y reafirmó la ONU para las masacres del siglo XX— no es nostalgia ni castigo: es una tecnología de prevención. El informe final "Hay futuro si hay verdad", el Museo de la Memoria y los relatos de las víctimas en aulas convierten la historia en competencia ciudadana viva: reconocer al otro, dudar del odio, asumir que la violencia siempre comienza con la deshumanización del adversario. Aquí la semana temática se cierre: de la Constitución escrita a la Constitución vivida por la memoria.
 
 ## Question 20 [D9-D10]
 **ID:** CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v20

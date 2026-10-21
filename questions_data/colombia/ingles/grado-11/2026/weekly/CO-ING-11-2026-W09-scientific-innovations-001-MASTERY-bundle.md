@@ -141,7 +141,7 @@ According to a recent report on scientific innovations in Bogotá, what is impli
   <!-- feedback: This calls the device irrelevant, but the report treats this kind of precision as central to shaping public opinion, so calling it irrelevant contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the compound adds a second layer of meaning to the claim rather than simplifying the message. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Pereira.
   <!-- feedback: This restricts the device to specialists in a single city, but the report describes the device as ordinary in media and discourse, not as jargon limited to one city's specialists. -->
 
 ### Explicacion Pedagogica
@@ -191,7 +191,7 @@ According to a recent report on scientific innovations in Medellín, what is imp
   <!-- feedback: This calls the device irrelevant, but the report treats this kind of precision as central to shaping public opinion, so calling it irrelevant contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the compound adds a second layer of meaning to the claim rather than simplifying the message. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Cali.
   <!-- feedback: This restricts the device to specialists in a single city, but the report describes the device as ordinary in media and discourse, not as jargon limited to one city's specialists. -->
 
 ### Explicacion Pedagogica
@@ -216,7 +216,7 @@ According to a recent report on scientific innovations in Bucaramanga, what is i
   <!-- feedback: This calls the device irrelevant, but the report treats this kind of precision as central to shaping public opinion, so calling it irrelevant contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the compound adds a second layer of meaning to the claim rather than simplifying the message. -->
-- [ ] C) It is only used by academic elites in {city}.
+- [ ] C) It is only used by academic elites in Barranquilla.
   <!-- feedback: This restricts the device to specialists in a single city, but the report describes the device as ordinary in media and discourse, not as jargon limited to one city's specialists. -->
 
 ### Explicacion Pedagogica
@@ -241,7 +241,7 @@ According to a recent report on scientific innovations in Manizales, what is imp
   <!-- feedback: This calls the device irrelevant, but the report treats this kind of precision as central to shaping public opinion, so calling it irrelevant contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the compound adds a second layer of meaning to the claim rather than simplifying the message. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Bucaramanga.
   <!-- feedback: This restricts the device to specialists in a single city, but the report describes the device as ordinary in media and discourse, not as jargon limited to one city's specialists. -->
 
 ### Explicacion Pedagogica
@@ -437,7 +437,7 @@ In a high-level debate about scientific innovations, Sebastián says: 'I can't h
 ### Opciones
 - [x] D) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Cartagena.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -462,7 +462,7 @@ In a high-level debate about scientific innovations, Alejandro says: 'I can't he
 ### Opciones
 - [x] B) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Medellín.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -487,7 +487,7 @@ In a high-level debate about scientific innovations, Santiago says: 'I can't hel
 ### Opciones
 - [x] D) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Cali.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -512,7 +512,7 @@ In a high-level debate about scientific innovations, Nicolás says: 'I can't hel
 ### Opciones
 - [x] D) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Cartagena.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->

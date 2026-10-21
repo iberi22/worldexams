@@ -141,7 +141,7 @@ According to a recent report on cultural diplomacy in Bucaramanga, what is impli
   <!-- feedback: This calls the device irrelevant, but the report treats this distinction as central to how public opinion forms, so writing it off as irrelevant contradicts the argument. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the subjunctive adds a layer of proposed meaning to the message rather than making it plainer. -->
-- [ ] C) It is only used by academic elites in {city}.
+- [ ] C) It is only used by academic elites in Manizales.
   <!-- feedback: This restricts the device to specialists in a single city, but the report applies this across media and public discourse, so it is not the property of an academic minority in one city. -->
 
 ### Explicacion Pedagogica
@@ -191,7 +191,7 @@ According to a recent report on cultural diplomacy in Cartagena, what is implied
   <!-- feedback: This calls the device irrelevant, but the report treats this distinction as central to how public opinion forms, so writing it off as irrelevant contradicts the argument. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the subjunctive adds a layer of proposed meaning to the message rather than making it plainer. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Barranquilla.
   <!-- feedback: This restricts the device to specialists in a single city, but the report applies this across media and public discourse, so it is not the property of an academic minority in one city. -->
 
 ### Explicacion Pedagogica
@@ -216,7 +216,7 @@ According to a recent report on cultural diplomacy in Cali, what is implied abou
   <!-- feedback: This calls the device irrelevant, but the report treats this distinction as central to how public opinion forms, so writing it off as irrelevant contradicts the argument. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the subjunctive adds a layer of proposed meaning to the message rather than making it plainer. -->
-- [ ] C) It is only used by academic elites in {city}.
+- [ ] C) It is only used by academic elites in Bogotá.
   <!-- feedback: This restricts the device to specialists in a single city, but the report applies this across media and public discourse, so it is not the property of an academic minority in one city. -->
 
 ### Explicacion Pedagogica
@@ -241,7 +241,7 @@ According to a recent report on cultural diplomacy in Pereira, what is implied a
   <!-- feedback: This calls the device irrelevant, but the report treats this distinction as central to how public opinion forms, so writing it off as irrelevant contradicts the argument. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the subjunctive adds a layer of proposed meaning to the message rather than making it plainer. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Barranquilla.
   <!-- feedback: This restricts the device to specialists in a single city, but the report applies this across media and public discourse, so it is not the property of an academic minority in one city. -->
 
 ### Explicacion Pedagogica
@@ -437,7 +437,7 @@ In a high-level debate about cultural diplomacy, Lucía says: 'I can't help but 
 ### Opciones
 - [x] C) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Cartagena.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -462,7 +462,7 @@ In a high-level debate about cultural diplomacy, Mateo says: 'I can't help but f
 ### Opciones
 - [x] C) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Cartagena.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -487,7 +487,7 @@ In a high-level debate about cultural diplomacy, Mariana says: 'I can't help but
 ### Opciones
 - [x] B) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Barranquilla.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
