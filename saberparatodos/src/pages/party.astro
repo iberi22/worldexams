@@ -1,8 +1,18 @@
 ---
+import '../styles/global.css';
 import ExamRoomHost from '../components/ExamRoomHost.svelte';
+import { getCountryExamSlug, resolveRuntimeCountryConfig } from '../config';
 
 const title = 'Party Mode | Saber Para Todos';
-const description = 'Únete a una party y compite con tus amigos en tiempo real';
+const description = 'Crea una sala en vivo o únete con un código y compite con tu clase en tiempo real';
+
+// Mismo `#api-config` que Layout.astro: el cargador de packs de Práctica lo lee.
+const countryConfig = resolveRuntimeCountryConfig(Astro.locals.country);
+const apiConfig = {
+  apiBaseUrl: import.meta.env.PUBLIC_API_BASE_URL || '/api',
+  countryCode: Astro.locals.countryCode || countryConfig.code,
+  exam: getCountryExamSlug(countryConfig),
+};
 ---
 
 <!DOCTYPE html>
@@ -12,16 +22,11 @@ const description = 'Únete a una party y compite con tus amigos en tiempo real'
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{title}</title>
   <meta name="description" content={description}>
+  <script is:inline type="application/json" id="api-config" set:html={JSON.stringify(apiConfig)} />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&display=swap" rel="stylesheet">
   <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
-
     body {
       font-family: 'Inter', sans-serif;
       background: #0a0a0a;
