@@ -139,7 +139,7 @@ According to a recent report on global issues in Pereira, what is implied about 
   <!-- feedback: This calls the device irrelevant, but the report builds its argument on this precision mattering to ordinary readers, so writing it off as irrelevant contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the device qualifies a claim and layers meaning onto it, so the message gains depth rather than simplicity. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Cartagena.
   <!-- feedback: This restricts the device to specialists in a single city, but the report presents this as a feature of everyday media and public discourse, not as jargon confined to specialists in one city. -->
 
 ### Explicacion Pedagogica
@@ -164,7 +164,7 @@ According to a recent report on global issues in Manizales, what is implied abou
   <!-- feedback: This calls the device irrelevant, but the report builds its argument on this precision mattering to ordinary readers, so writing it off as irrelevant contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the device qualifies a claim and layers meaning onto it, so the message gains depth rather than simplicity. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Bogotá.
   <!-- feedback: This restricts the device to specialists in a single city, but the report presents this as a feature of everyday media and public discourse, not as jargon confined to specialists in one city. -->
 
 ### Explicacion Pedagogica
@@ -189,7 +189,7 @@ According to a recent report on global issues in Bucaramanga, what is implied ab
   <!-- feedback: This calls the device irrelevant, but the report builds its argument on this precision mattering to ordinary readers, so writing it off as irrelevant contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the device qualifies a claim and layers meaning onto it, so the message gains depth rather than simplicity. -->
-- [ ] C) It is only used by academic elites in {city}.
+- [ ] C) It is only used by academic elites in Bogotá.
   <!-- feedback: This restricts the device to specialists in a single city, but the report presents this as a feature of everyday media and public discourse, not as jargon confined to specialists in one city. -->
 
 ### Explicacion Pedagogica
@@ -214,7 +214,7 @@ According to a recent report on global issues in Cali, what is implied about the
   <!-- feedback: This calls the device irrelevant, but the report builds its argument on this precision mattering to ordinary readers, so writing it off as irrelevant contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the device qualifies a claim and layers meaning onto it, so the message gains depth rather than simplicity. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Cali.
   <!-- feedback: This restricts the device to specialists in a single city, but the report presents this as a feature of everyday media and public discourse, not as jargon confined to specialists in one city. -->
 
 ### Explicacion Pedagogica
@@ -239,7 +239,7 @@ According to a recent report on global issues in Barranquilla, what is implied a
   <!-- feedback: This calls the device irrelevant, but the report builds its argument on this precision mattering to ordinary readers, so writing it off as irrelevant contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the device qualifies a claim and layers meaning onto it, so the message gains depth rather than simplicity. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Cali.
   <!-- feedback: This restricts the device to specialists in a single city, but the report presents this as a feature of everyday media and public discourse, not as jargon confined to specialists in one city. -->
 
 ### Explicacion Pedagogica
@@ -264,7 +264,7 @@ According to a recent report on global issues in Bogotá, what is implied about 
   <!-- feedback: This calls the device irrelevant, but the report builds its argument on this precision mattering to ordinary readers, so writing it off as irrelevant contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the device qualifies a claim and layers meaning onto it, so the message gains depth rather than simplicity. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Manizales.
   <!-- feedback: This restricts the device to specialists in a single city, but the report presents this as a feature of everyday media and public discourse, not as jargon confined to specialists in one city. -->
 
 ### Explicacion Pedagogica
@@ -433,7 +433,7 @@ In a high-level debate about global issues, Mateo says: 'I can't help but feel t
 ### Opciones
 - [x] A) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] B) They are literally looking for something in the trees of {city}.
+- [ ] B) They are literally looking for something in the trees of Cali.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -458,7 +458,7 @@ In a high-level debate about global issues, Nicolás says: 'I can't help but fee
 ### Opciones
 - [x] A) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] B) They are literally looking for something in the trees of {city}.
+- [ ] B) They are literally looking for something in the trees of Cartagena.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -483,7 +483,7 @@ In a high-level debate about global issues, Daniela says: 'I can't help but feel
 ### Opciones
 - [x] B) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Bucaramanga.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->

@@ -139,7 +139,7 @@ According to a recent report on review p1 in Pereira, what is implied about the 
   <!-- feedback: Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: General Advanced Review add a layer of qualification rather than removing one, so it makes the argument harder, not simpler. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Cali.
   <!-- feedback: The report presents General Advanced Review as common in journalism, advertising and everyday debate, so it is not restricted to academics. -->
 
 ### Explicacion Pedagogica
@@ -164,7 +164,7 @@ According to a recent report on review p1 in Cartagena, what is implied about th
   <!-- feedback: Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: General Advanced Review add a layer of qualification rather than removing one, so it makes the argument harder, not simpler. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Bucaramanga.
   <!-- feedback: The report presents General Advanced Review as common in journalism, advertising and everyday debate, so it is not restricted to academics. -->
 
 ### Explicacion Pedagogica
@@ -212,7 +212,7 @@ According to a recent report on review p1 in Bucaramanga, what is implied about 
   <!-- feedback: Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: General Advanced Review add a layer of qualification rather than removing one, so it makes the argument harder, not simpler. -->
-- [ ] C) It is only used by academic elites in {city}.
+- [ ] C) It is only used by academic elites in Barranquilla.
   <!-- feedback: The report presents General Advanced Review as common in journalism, advertising and everyday debate, so it is not restricted to academics. -->
 
 ### Explicacion Pedagogica
@@ -260,7 +260,7 @@ According to a recent report on review p1 in Barranquilla, what is implied about
   <!-- feedback: Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: General Advanced Review add a layer of qualification rather than removing one, so it makes the argument harder, not simpler. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Manizales.
   <!-- feedback: The report presents General Advanced Review as common in journalism, advertising and everyday debate, so it is not restricted to academics. -->
 
 ### Explicacion Pedagogica
@@ -429,7 +429,7 @@ In a high-level debate about review p1, Mariana says: 'I can't help but feel tha
 ### Opciones
 - [x] D) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Barranquilla.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -454,7 +454,7 @@ In a high-level debate about review p1, Daniela says: 'I can't help but feel tha
 ### Opciones
 - [x] B) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Cali.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -479,7 +479,7 @@ In a high-level debate about review p1, Nicolás says: 'I can't help but feel th
 ### Opciones
 - [x] B) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Cali.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
