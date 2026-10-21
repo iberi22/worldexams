@@ -1793,7 +1793,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "La opción B es un producto notable (suma por su diferencia), cuya fórmula es $(a+b)(a-b) = a^2 - b^2$. Aplicándola: $(\\sqrt{3})^2 - (\\sqrt{2})^2 = 3 - 2 = 1$. Dado que 1 es un número entero, también es un número racional.",
+      "explanation": "La expresión $(\\sqrt{3} + \\sqrt{2})(\\sqrt{3} - \\sqrt{2})$ es un producto notable (suma por su diferencia), cuya fórmula es $(a+b)(a-b) = a^2 - b^2$. Aplicándola: $(\\sqrt{3})^2 - (\\sqrt{2})^2 = 3 - 2 = 1$. Dado que 1 es un número entero, también es un número racional.",
       "difficulty": "10",
       "images": [],
       "tags": [],
