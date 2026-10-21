@@ -99,7 +99,7 @@ El conector 'ademas' anade informacion.
 **Contexto:** Clase de lenguaje en PY.
 
 ### Enunciado
-¿Cual oracion esta correctamente escrita?
+¿Qué oración nombra la institución con su nombre propio completo, escrito con mayúscula inicial en cada palabra?
 
 ### Opciones
 - [ ] A) Los estudiantes de la escuela estudian poco. <!-- feedback: Incorrecto. La oracion esta bien redactada y con buena concordancia, pero 'la escuela' es un nombre comun que puede designar cualquier centro; el enunciado pide el nombre propio completo de la institucion, y aqui no aparece. -->
@@ -108,7 +108,7 @@ El conector 'ademas' anade informacion.
 - [x] D) Los estudiantes del Colegio Nacional Encaracion estudian mucho. <!-- feedback: Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'. -->
 
 ### Explicacion Pedagogica
-La opcion A sigue las normas ortograficas correctamente.
+'Colegio Nacional Encaracion' es un nombre propio: identifica un colegio concreto y por eso cada palabra significativa va con mayúscula inicial. 'La escuela' o 'el instituto' son nombres comunes que pueden designar cualquier centro, así que esas oraciones, aunque tengan buena concordancia, no identifican la institución.
 
 ---
 
@@ -336,8 +336,7 @@ El conector 'ademas' anade informacion.
   <!-- feedback: El acento es abierto, no grave: la palabra termina en vocal y es aguda. -->
 
 ### Explicacion Pedagogica
-Una palabra aguda terminada en vocal nunca lleva tilde, de modo que 'practiqué' se escribe sin ella. Colocar la tilde en la sílaba anterior convertiría la palabra en llana.## Explicacion Pedagogica
-La opcion A sigue las normas ortograficas correctamente.
+Una palabra aguda terminada en vocal nunca lleva tilde, de modo que 'practiqué' se escribe sin ella. Colocar la tilde en la sílaba anterior convertiría la palabra en llana.
 ## Question 15 [D7-D8]
 **ID:** PY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v15
 **Bloom:** Analyze

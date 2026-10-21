@@ -97,8 +97,7 @@ El conector 'ademas' anade informacion.
 - [ ] D) Hablaremos <!-- feedback: Es futuro simple, no un pretérito. -->
 
 ### Explicacion Pedagogica
-El pretérito perfecto simple se forma con el indicativo del presente, sin auxiliar, y alude a acciones pasadas y concluidas.## Explicacion Pedagogica
-La opcion A sigue las normas ortograficas correctamente.
+El pretérito perfecto simple se forma con el indicativo del presente, sin auxiliar, y alude a acciones pasadas y concluidas.
 ## Question 5 [D5-D6]
 **ID:** PY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v5
 **Bloom:** Analyze
@@ -289,8 +288,7 @@ El conector 'ademas' anade informacion.
 - [ ] D) Hablado <!-- feedback: Es el participio, que por sí solo no indica modo ni tiempo verbal. -->
 
 ### Explicacion Pedagogica
-El imperfecto de subjuntivo se forma con las terminaciones -ra, -ras, -ra y -ramos sobre la raíz del presente de indicativo.## Explicacion Pedagogica
-La opcion A sigue las normas ortograficas correctamente.
+El imperfecto de subjuntivo se forma con las terminaciones -ra, -ras, -ra y -ramos sobre la raíz del presente de indicativo.
 ## Question 15 [D7-D8]
 **ID:** PY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v15
 **Bloom:** Analyze
