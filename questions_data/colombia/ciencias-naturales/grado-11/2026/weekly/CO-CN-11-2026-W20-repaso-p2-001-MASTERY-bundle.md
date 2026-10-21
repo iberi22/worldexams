@@ -120,7 +120,7 @@ La desnaturalización desorganiza las estructuras superior mantenidas por fuerza
 **Bloom:** Apply
 **ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.72
-**Contexto:** En un experimento integrador en Tunja, se lanza un objeto de 2 kg hacia arriba con $E_k = 100 \text{ J}$. Simultáneamente se calienta un vaso con 100 g de agua elevando su temperatura en $0.239^\circ\text{C}$ ($100 \text{ cal} \approx 100 \text{ J}$).
+**Contexto:** En un experimento integrador en Tunja, se lanza un objeto de 2 kg hacia arriba con $E_k = 100 \text{ J}$. Simultáneamente se calienta un vaso con 100 g de agua elevando su temperatura en $0.239^\circ\text{C}$ (equivale a $100 \text{ J}$: $Q = m \cdot c \cdot \Delta T = 100 \text{ g} \times 4.184 \frac{\text{J}}{\text{g}\cdot^\circ\text{C}} \times 0.239^\circ\text{C} \approx 100 \text{ J}$).
 
 ### Enunciado
 ¿Qué afirmación expresa el principio de equivalencia de la energía en ambos experimentos?
@@ -136,7 +136,7 @@ La desnaturalización desorganiza las estructuras superior mantenidas por fuerza
   <!-- feedback: Incorrecto. El calentamiento modifica la energía térmica sin alterar la masa. -->
 
 ### Explicacion Pedagogica
-La energía mecánica (Julios) y el calor (Calorías) son formas interconvertibles de energía ($1 \text{ cal} = 4.184 \text{ J}$).
+La energía mecánica (Julios) y el calor (que se mide en Julios) son formas interconvertibles de energía ($1 \text{ cal} = 4.184 \text{ J}$): los $100 \text{ J}$ del lanzamiento y los $100 \text{ J}$ transferidos al agua son la misma cantidad de energía expresada en trabajo mecánico y en calor.
 
 ## Question 6 [D5-D6]
 **ID:** CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v6
