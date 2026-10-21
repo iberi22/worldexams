@@ -106,7 +106,7 @@ Se aplica la fórmula del n-ésimo término: $a_n = a_1 + (n-1)d$. Sustituyendo 
 - [ ] D) 1/2, 1, 3/2, 2, ... <!-- feedback: Incorrecto. Es aritmética con d = 1/2. -->
 
 ### Explicacion Pedagogica
-Una sucesión aritmética requiere que la diferencia entre términos consecutivos sea constante. En la opción C, $4-2=2$ pero $8-4=4$, por lo tanto no es aritmética.
+Una sucesión aritmética requiere que la diferencia entre términos consecutivos sea constante. En la sucesión 2, 4, 8, 16, ...: $4-2=2$ pero $8-4=4$, por lo tanto no es aritmética.
 
 ---
 
