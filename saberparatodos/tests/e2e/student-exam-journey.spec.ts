@@ -5,9 +5,9 @@ import { test, expect, type Page, type Route } from '@playwright/test';
  *
  *  1. Examen de práctica completo (ICFES Saber 11 · Matemáticas) contra prod.
  *     Responde todas las preguntas, valida contenido y revisa la vista de resultados.
- *  2. Ranking: regresión conocida. La sección semanal pide
- *     /leaderboards/leaderboard-weekly.json (404 en prod) y LeaderboardView muestra
- *     "No se pudo cargar el ranking". Este test DEBE fallar en esa aserción.
+ *  2. Ranking: la tabla oficial (RankedLeaderboard) carga sin error contra la API real.
+ *     En el preview la app llama a la API preview de su rama (PUBLIC_RANKED_API_BASE_URL
+ *     en deploy-preview.yml), que concede CORS a *.workers.dev.
  *  3. Ranked con API mockeada (no se crean sesiones reales en D1 de prod):
  *     payload de submit, puntaje en pantalla y variante status "flagged".
  *
@@ -446,7 +446,11 @@ test.describe('3. Ranked con API mockeada', () => {
     const fx = buildRankedFixture();
     await playRankedExam(page, fx, 'flagged');
 
-    await expect(page.getByText('Intento marcado por integridad')).toBeVisible();
+    // Se valida por data-status y no por la frase exacta: el texto cambió en 40b2208
+    // ("Intento marcado por integridad" → explicación de que no entra al ranking).
+    const status = page.getByTestId('ranked-result-status');
+    await expect(status).toHaveAttribute('data-status', 'flagged');
+    await expect(status).toContainText('marcado por integridad');
     const body = norm(await page.locator('body').innerText());
     expect(body, 'el puntaje sigue visible con status flagged').toMatch(/\/\s*1000/);
 
@@ -454,10 +458,10 @@ test.describe('3. Ranked con API mockeada', () => {
     // Solo frases de exclusión: el botón "Ranking" del pie de resultados NO cuenta como explicación.
     const explicaExclusion = /no (cuenta|entra|ser[aá]|se publica|aparece)|no elegible|no (participa|se (publicar|incluye))|fuera del ranking/i.test(body);
     const hallazgo = {
-      estado_mostrado: 'Intento marcado por integridad',
+      estado_mostrado: norm(await status.innerText()),
       puntaje_visible: true,
       explica_que_no_entra_al_ranking: explicaExclusion,
-      nota: 'ResultsView de ranked: el texto "Publicado si estás sobre el promedio" solo aparece con status valid; con flagged no hay explicación.',
+      nota: 'RankedExamView: con status flagged el resultado explica que el intento no entra al ranking público del mes.',
     };
     await test.info().attach('flagged-hallazgo.json', {
       body: JSON.stringify(hallazgo, null, 2),

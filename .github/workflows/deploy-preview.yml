@@ -114,6 +114,11 @@ jobs:
           NODE_ENV: production
           PUBLIC_SITE_URL: https://${{ steps.refname.outputs.safe }}.saberparatodos.pages.dev
           PUBLIC_API_BASE_URL: https://api.saberparatodos.space/v1
+          # Ranked/leaderboard go to this branch's API preview (deploy-api-preview),
+          # so the preview exercises the branch's ranked code and its CORS grant for
+          # *.workers.dev. Production api.saberparatodos.space only trusts its own
+          # origins until that change ships, so the preview's leaderboard always failed.
+          PUBLIC_RANKED_API_BASE_URL: https://worldexams-api-preview-${{ steps.refname.outputs.safe }}.iberi22.workers.dev
 
       - name: Pre-deploy check
         run: node saberparatodos/scripts/pre-deploy-check.js
@@ -206,8 +211,11 @@ jobs:
           # The production wrangler.toml binds [[routes]] api.saberparatodos.space/*,
           # which a preview script can't claim ("routes assigned to another worker").
           # Deploy previews from a copy without the routes block (workers.dev only).
-          python3 -c "import re;s=open('wrangler.toml').read();open('wrangler.preview.toml','w').write(re.sub(r'(?ms)^\[\[routes\]\].*?(?=^\[|\Z)','',s))"
+          # It also needs workers_dev = true: with the production "false" the preview
+          # had no URL at all ("No targets deployed") and the app preview could not reach it.
+          python3 -c "import re;s=open('wrangler.toml').read();s=re.sub(r'(?ms)^\[\[routes\]\].*?(?=^\[|\Z)','',s);s=re.sub(r'(?m)^workers_dev\s*=.*$','workers_dev = true',s);open('wrangler.preview.toml','w').write(s)"
           ! grep -q '^\[\[routes\]\]' wrangler.preview.toml
+          grep -q '^workers_dev = true' wrangler.preview.toml
           npx wrangler deploy --config wrangler.preview.toml --name="worldexams-api-preview-${SAFE_REF}" || {
             echo "::warning::API preview deploy falló. Revisar logs (ya no debería ser el bug del '/' en el nombre)."
             exit 1
@@ -254,7 +262,8 @@ jobs:
 
   e2e-preview:
     if: github.event_name != 'pull_request'
-    needs: [deploy-preview, smoke-test]
+    # deploy-api-preview: the app preview's ranked calls go to that worker.
+    needs: [deploy-preview, deploy-api-preview, smoke-test]
     runs-on: ubuntu-latest
     timeout-minutes: 15
     # Informativo mientras el sprint de estabilidad (#1709) entra en main;

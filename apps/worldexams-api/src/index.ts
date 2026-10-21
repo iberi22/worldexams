@@ -29,6 +29,14 @@ const ALLOWED_ORIGINS = [
   "http://127.0.0.1:4321",
 ]
 
+// Branch previews of the app (deploy-preview.yml): "saberparatodos-preview-<ref>" on
+// the account's workers.dev subdomain. Only this Cloudflare account can deploy there.
+const PREVIEW_ORIGIN = /^https:\/\/saberparatodos-preview-[a-z0-9-]+\.iberi22\.workers\.dev$/
+
+export function isAllowedOrigin(origin: string | null | undefined): origin is string {
+  return !!origin && (ALLOWED_ORIGINS.includes(origin) || PREVIEW_ORIGIN.test(origin))
+}
+
 function corsHeadersFor(request?: Request): Record<string, string> {
   const base = {
     "Access-Control-Allow-Headers": "authorization, content-type, x-api-key",
@@ -36,7 +44,7 @@ function corsHeadersFor(request?: Request): Record<string, string> {
     Vary: "Origin",
   }
   const origin = request?.headers.get("Origin")
-  if (origin && ALLOWED_ORIGINS.includes(origin)) {
+  if (isAllowedOrigin(origin)) {
     return { ...base, "Access-Control-Allow-Origin": origin }
   }
   // Same-origin or non-browser callers: no cross-origin grant.
