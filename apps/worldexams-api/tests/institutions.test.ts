@@ -8,7 +8,7 @@ import { describe, it, expect, vi, beforeEach, afterEach } from "vitest";
 import { readFileSync } from "node:fs";
 import { DatabaseSync } from "node:sqlite";
 import worker from "../src/index";
-import { PLAN_LIMITS, csvCell, INST_RESULTS_PER_STUDENT_DAY } from "../src/institutions";
+import { PLAN_LIMITS, csvCell, INST_RESULTS_PER_STUDENT_DAY, INST_RATE_LIMITS } from "../src/institutions";
 import { newJoinCode, isJoinCode, timingSafeEqual } from "../src/institutions-auth";
 import { buildMagicLinkEmail } from "../src/email";
 import { isValidNickname } from "../src/ranked";
@@ -89,8 +89,9 @@ afterEach(() => {
   vi.restoreAllMocks();
 });
 
-async function call(method: string, path: string, opts: { token?: string; body?: unknown; raw?: string } = {}) {
+async function call(method: string, path: string, opts: { token?: string; body?: unknown; raw?: string; ip?: string } = {}) {
   const headers: Record<string, string> = { Origin: "https://saberparatodos.space" };
+  if (opts.ip) headers["cf-connecting-ip"] = opts.ip;
   if (opts.token) headers.Authorization = `Bearer ${opts.token}`;
   if (opts.body !== undefined || opts.raw !== undefined) headers["Content-Type"] = "application/json";
   const res = await worker.fetch(
@@ -620,6 +621,62 @@ describe("institutions: rate limits (D1 counted)", () => {
     expect(over.data.error).toBe("RATE_LIMITED");
     clock += 24 * 3600 * 1000;
     expect((await call("POST", "/student/results", { token: studentToken, body })).status).toBe(201);
+  });
+});
+
+describe("institutions: abuse limits (per IP / per code)", () => {
+  it(`${INST_RATE_LIMITS.authRequestsPerIp} login links per IP per hour, across emails`, async () => {
+    for (let i = 0; i < INST_RATE_LIMITS.authRequestsPerIp; i++) {
+      expect((await call("POST", "/auth/request", { ip: "1.1.1.1", body: { email: `t${i}@b.co` } })).status).toBe(202);
+    }
+    const over = await call("POST", "/auth/request", { ip: "1.1.1.1", body: { email: "fresh@b.co" } });
+    expect(over.status).toBe(429);
+    expect(over.data.error).toBe("RATE_LIMITED");
+    expect((await call("POST", "/auth/request", { ip: "2.2.2.2", body: { email: "fresh@b.co" } })).status).toBe(202);
+    // Raw IPs are never stored.
+    expect(db.rows("SELECT bucket FROM inst_rate_events").every((r) => !r.bucket.includes("1.1.1.1"))).toBe(true);
+    clock += INST_RATE_LIMITS.windowS * 1000 + 1000;
+    expect((await call("POST", "/auth/request", { ip: "1.1.1.1", body: { email: "fresh@b.co" } })).status).toBe(202);
+  });
+
+  it("unknown join codes lock out the guessing IP, not the classroom", async () => {
+    const { token } = await teacherWithInstitution();
+    const g = await createGroup(token);
+    const wrong = g.joinCode === "AAAAAA" ? "BBBBBB" : "AAAAAA";
+    const guess = (ip: string, joinCode: string) =>
+      call("POST", "/join", { ip, body: { joinCode, nickname: "Lucía", anonymousId: `guess-${ip.replace(/\./g, "-")}-device` } });
+    for (let i = 0; i < INST_RATE_LIMITS.joinMissesPerIp; i++) expect((await guess("6.6.6.6", wrong)).status).toBe(404);
+    // Locked out even with the right code once the miss budget is spent.
+    expect((await guess("6.6.6.6", wrong)).status).toBe(429);
+    expect((await guess("6.6.6.6", g.joinCode)).status).toBe(429);
+    // Another IP (the real classroom) still joins.
+    expect((await guess("7.7.7.7", g.joinCode)).status).toBe(200);
+  });
+
+  it(`${INST_RATE_LIMITS.joinsPerCode} joins per code per hour`, async () => {
+    const { token } = await teacherWithInstitution();
+    const g = await createGroup(token);
+    // Re-joins of one device keep the plan seat count at 1 while hitting the code limit.
+    for (let i = 0; i < INST_RATE_LIMITS.joinsPerCode; i++) {
+      expect((await join(g.joinCode, "Lucía", "same-device-01")).status).toBe(200);
+    }
+    const over = await join(g.joinCode, "Lucía", "same-device-01");
+    expect(over.status).toBe(429);
+    clock += INST_RATE_LIMITS.windowS * 1000 + 1000;
+    expect((await join(g.joinCode, "Lucía", "same-device-01")).status).toBe(200);
+  });
+
+  it(`${INST_RATE_LIMITS.joinsPerIp} join requests per IP per hour`, async () => {
+    const { token, institution } = await teacherWithInstitution();
+    db.exec("UPDATE institutions SET plan = 'district' WHERE id = ?", institution.id);
+    const g1 = await createGroup(token, "A");
+    const g2 = await createGroup(token, "B");
+    for (let i = 0; i < INST_RATE_LIMITS.joinsPerIp; i++) {
+      const code = i % 2 === 0 ? g1.joinCode : g2.joinCode;
+      expect((await call("POST", "/join", { ip: "9.9.9.9", body: { joinCode: code, nickname: "Ana", anonymousId: `ip-dev-${i}-xx` } })).status).toBe(200);
+    }
+    const over = await call("POST", "/join", { ip: "9.9.9.9", body: { joinCode: g1.joinCode, nickname: "Ana", anonymousId: "ip-dev-x-xx" } });
+    expect(over.status).toBe(429);
   });
 });
 
