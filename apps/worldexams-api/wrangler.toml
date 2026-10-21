@@ -15,6 +15,12 @@ SUPABASE_ANON_KEY = "your_supabase_anon_key_here"
 # token in the response: local `.dev.vars` only, never here.
 SITE_ORIGIN = "https://saberparatodos.space"
 INST_EMAIL_FROM = "no-reply@saberparatodos.space"
+# /v1/stats/traffic (Cloudflare Web Analytics). The account id is not a secret.
+# The token IS a secret: `wrangler secret put CF_ANALYTICS_TOKEN` (Account Analytics:Read).
+# Without the token the endpoint answers 503 STATS_NOT_CONFIGURED.
+# Hosts: Spanish exams on saberparatodos.space (+www), non-Spanish exams on worldexam.swal.network.
+CF_ACCOUNT_ID = "963f01052b7f84cb785e72ba2b4d6e12"
+STATS_HOSTS = "saberparatodos.space,www.saberparatodos.space,worldexam.swal.network"
 
 [assets]
 directory = "public"
