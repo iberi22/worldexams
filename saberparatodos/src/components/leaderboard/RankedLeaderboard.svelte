@@ -77,7 +77,7 @@
   }
 </script>
 
-<div class="mb-8">
+<div class="mb-8" data-testid="ranked-leaderboard">
   <div class="flex items-center justify-between mb-4">
     <h2 class="text-xl font-bold text-[#F5F5DC]">Ranking Oficial (Ranked)</h2>
     <select
@@ -95,10 +95,10 @@
     <!-- Header -->
     <div class="grid grid-cols-12 p-3 sm:p-4 border-b border-emerald-500/20 bg-emerald-500/5">
       <div class="text-[10px] sm:text-xs font-bold uppercase tracking-widest text-emerald-400/60 col-span-2 sm:col-span-1">#</div>
-      <div class="text-[10px] sm:text-xs font-bold uppercase tracking-widest text-emerald-400/60 col-span-5 sm:col-span-5">Jugador</div>
-      <div class="text-[10px] sm:text-xs font-bold uppercase tracking-widest text-emerald-400/60 col-span-3 text-center hidden sm:block">Aciertos</div>
-      <div class="text-[10px] sm:text-xs font-bold uppercase tracking-widest text-emerald-400/60 col-span-3 text-right">Puntaje</div>
-      <div class="text-[10px] sm:text-xs font-bold uppercase tracking-widest text-emerald-400/60 col-span-2 text-right hidden sm:block">Fecha</div>
+      <div class="text-[10px] sm:text-xs font-bold uppercase tracking-widest text-emerald-400/60 col-span-5 sm:col-span-4">Jugador</div>
+      <div class="text-[10px] sm:text-xs font-bold uppercase tracking-widest text-emerald-400/60 hidden sm:block sm:col-span-2 text-center">Aciertos</div>
+      <div class="text-[10px] sm:text-xs font-bold uppercase tracking-widest text-emerald-400/60 col-span-5 sm:col-span-3 text-right">Puntaje</div>
+      <div class="text-[10px] sm:text-xs font-bold uppercase tracking-widest text-emerald-400/60 hidden sm:block sm:col-span-2 text-right">Fecha</div>
     </div>
 
     <!-- Content -->
@@ -108,20 +108,29 @@
         <p class="text-xs text-white/40">Cargando ranking oficial...</p>
       </div>
     {:else if errorMsg}
-      <div class="p-8 text-center text-red-400 text-sm">
+      <div class="p-8 text-center text-red-400 text-sm" data-testid="ranked-leaderboard-error">
         {errorMsg}
+        <div class="mt-3">
+          <button
+            onclick={() => loadData(selectedMonth)}
+            class="px-4 py-2 text-xs border border-white/20 hover:bg-white/10 rounded"
+          >
+            Reintentar
+          </button>
+        </div>
       </div>
     {:else if data && data.entries.length === 0}
-      <div class="p-8 text-center">
+      <div class="p-8 text-center" data-testid="ranked-leaderboard-empty">
         <p class="text-sm text-white/60 mb-2">Aún no hay puntajes publicados este mes — ¡sé el primero!</p>
         <p class="text-xs text-white/40">
-          Solo se publican intentos ranked con más de 30 preguntas respondidas y puntaje igual o superior al promedio del mes (promedio actual: {data.average}).
+          Solo se publican intentos ranked con más de 30 preguntas respondidas y puntaje igual o superior al promedio del mes{data.average !== 0 ? ` (promedio actual: ${data.average})` : ''}.
         </p>
       </div>
     {:else if data}
       {#each data.entries as entry}
         {@const isCurrentUser = currentUserNickname && entry.nickname === currentUserNickname}
         <div
+          data-testid="ranked-leaderboard-row"
           class={`
             grid grid-cols-12 p-3 sm:p-4 border-b border-white/5
             hover:bg-white/[0.03] transition-colors duration-200
@@ -134,11 +143,11 @@
             {:else if entry.rank === 3}🥉
             {:else}{entry.rank}{/if}
           </div>
-          <div class="col-span-5 sm:col-span-5 flex flex-col justify-center">
+          <div class="col-span-5 sm:col-span-4 flex flex-col justify-center">
             <span class="font-medium text-sm text-[#F5F5DC] truncate">{entry.nickname}</span>
             <span class="text-[10px] text-white/40 sm:hidden">{entry.correct}/{entry.answered} aciertos</span>
           </div>
-          <div class="col-span-3 text-center hidden sm:flex items-center justify-center">
+          <div class="hidden sm:flex sm:col-span-2 items-center justify-center text-center">
             <span class="text-xs text-white/60">{entry.correct} <span class="text-white/30">/</span> {entry.answered}</span>
           </div>
           <div class="col-span-5 sm:col-span-3 flex flex-col justify-center text-right">
@@ -152,7 +161,7 @@
       {/each}
       <div class="p-3 bg-white/5 border-t border-emerald-500/20 text-center">
         <p class="text-[10px] text-white/40">
-          Solo se publican intentos ranked con más de 30 preguntas respondidas y puntaje igual o superior al promedio del mes (promedio actual: {data.average}).
+          Solo se publican intentos ranked con más de 30 preguntas respondidas y puntaje igual o superior al promedio del mes{data.average !== 0 ? ` (promedio actual: ${data.average})` : ''}.
         </p>
       </div>
     {/if}
