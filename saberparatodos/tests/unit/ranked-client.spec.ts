@@ -62,6 +62,15 @@ describe('ranked-client', () => {
       await expect(startRanked('TestUser').catch(e => e.code)).resolves.toBe('RATE_LIMITED');
     });
 
+    it('throws POOL_INSUFFICIENT on 503 with that error body', async () => {
+      (global.fetch as any).mockImplementation(async () =>
+        new Response(JSON.stringify({ error: 'POOL_INSUFFICIENT' }), { status: 503 })
+      );
+
+      await expect(startRanked('TestUser')).rejects.toThrowError(/Insufficient question pool/);
+      await expect(startRanked('TestUser').catch(e => e.code)).resolves.toBe('POOL_INSUFFICIENT');
+    });
+
     it('throws UNAVAILABLE on 503', async () => {
       (global.fetch as any).mockResolvedValue(new Response('Service Unavailable', { status: 503 }));
 
