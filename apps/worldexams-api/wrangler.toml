@@ -15,6 +15,12 @@ SUPABASE_ANON_KEY = "your_supabase_anon_key_here"
 # token in the response: local `.dev.vars` only, never here.
 SITE_ORIGIN = "https://saberparatodos.space"
 INST_EMAIL_FROM = "no-reply@saberparatodos.space"
+# /v1/stats/traffic (Cloudflare Web Analytics). Set the account id at deploy time
+# (dashboard var or `--var`); never commit real ids/tokens. The token is a secret:
+# `wrangler secret put CF_ANALYTICS_TOKEN` (Account Analytics:Read).
+# Empty CF_ACCOUNT_ID => the endpoint answers 503 STATS_NOT_CONFIGURED.
+CF_ACCOUNT_ID = ""
+STATS_HOSTS = "saberparatodos.space,www.saberparatodos.space,worldexam.swal.network"
 
 [assets]
 directory = "public"

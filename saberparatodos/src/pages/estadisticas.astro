@@ -1,0 +1,31 @@
+---
+/**
+ * /estadisticas — Tráfico público del sitio (W2.03).
+ * Fuente: GET /v1/stats/traffic (Cloudflare Web Analytics, RUM). Solo agregados.
+ */
+import Layout from '../layouts/Layout.astro';
+import TrafficDashboard from '../components/stats/TrafficDashboard.svelte';
+import { resolveRuntimeCountryConfig } from '../config';
+
+const country = resolveRuntimeCountryConfig(Astro.locals.country);
+---
+
+<Layout
+  title={`Estadísticas de tráfico | ${country.product.siteName}`}
+  description="Estadísticas públicas de tráfico: visitas reales, páginas vistas, países, páginas más vistas, dispositivos y sitios de referencia. Sin cookies ni datos personales."
+>
+  <div class="min-h-screen bg-[#121212]">
+    <div class="max-w-5xl mx-auto px-4 pt-6 pb-6">
+      <a href="/" class="inline-flex items-center gap-2 text-white/40 hover:text-white/80 transition-colors text-sm mb-4">
+        ← Volver al inicio
+      </a>
+      <h1 class="text-3xl sm:text-4xl font-bold text-[#F5F5DC] tracking-tight">Estadísticas de tráfico</h1>
+      <p class="text-sm text-white/60 mt-2 max-w-2xl">
+        Cuántas personas usan {country.product.siteName}, desde qué países y qué páginas visitan.
+        Publicamos estas cifras por transparencia: son agregadas y no identifican a nadie.
+      </p>
+    </div>
+
+    <TrafficDashboard client:load />
+  </div>
+</Layout>
