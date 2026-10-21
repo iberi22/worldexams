@@ -11,6 +11,8 @@
  */
 import bakedIndex from './preguntas-index.json';
 import { getCountryManifest } from '../country-manifest-loader';
+import { scanQuestionsData } from './index-builder.mjs';
+import { packIdCandidates, packUrl, selectBundleQuestions, type ApiPackQuestion } from './pack-source';
 
 export interface BundleEntry {
   id: string;
@@ -24,6 +26,8 @@ export interface BundleEntry {
   tema: string;
   total: number;
   alignment: string;
+  /** Clave del pack estático (ver index-builder.mjs); ausente en índices antiguos. */
+  packId?: string;
 }
 
 export interface BundleQuestionOption {
@@ -38,6 +42,7 @@ export interface BundleQuestion {
   number: number;
   difficulty: string;
   bloom: string;
+  context?: string;
   statement: string;
   options: BundleQuestionOption[];
   explanation: string;
@@ -65,11 +70,6 @@ export function hasFileSystemAccess(): boolean {
   return isNodeContext();
 }
 
-function parseFrontmatterField(block: string, key: string): string {
-  const m = block.match(new RegExp(`^${key}:\\s*"?([^"\\n]+)"?\\s*$`, 'm'));
-  return m ? m[1].trim() : '';
-}
-
 async function rescanFromDisk(): Promise<BundleEntry[] | null> {
   if (!isNodeContext()) return null;
   try {
@@ -83,52 +83,8 @@ async function rescanFromDisk(): Promise<BundleEntry[] | null> {
     } catch {
       return null;
     }
-    const entries: BundleEntry[] = [];
-    const countryDirs = await fs.readdir(root);
-    for (const countryDir of countryDirs) {
-      const cdir = nodePath.join(root, countryDir);
-      if (!(await fs.stat(cdir)).isDirectory()) continue;
-      const subjects = await fs.readdir(cdir);
-      for (const subject of subjects) {
-        const sdir = nodePath.join(cdir, subject);
-        if (!(await fs.stat(sdir)).isDirectory()) continue;
-        const gradeDirs = await fs.readdir(sdir);
-        for (const gradeDir of gradeDirs) {
-          const weekly = nodePath.join(sdir, gradeDir, '2026', 'weekly');
-          let files: string[] = [];
-          try {
-            files = await fs.readdir(weekly);
-          } catch {
-            continue;
-          }
-          for (const f of files) {
-            if (!f.endsWith('-bundle.md')) continue;
-            const txt = await fs.readFile(nodePath.join(weekly, f), 'utf8');
-            const fm = txt.match(/^---\n([\s\S]*?)\n---/);
-            if (!fm) continue;
-            const id = parseFrontmatterField(fm[1], 'id') || f.replace(/\.md$/, '');
-            const gradeMatch = gradeDir.match(/^grado-(\d+)$/);
-            entries.push({
-              id,
-              countryDir,
-              country: countryDir.replace(/_/g, '-'),
-              code: id.split('-')[0].toUpperCase(),
-              subject,
-              grade: gradeMatch ? Number(gradeMatch[1]) : null,
-              gradeSlug: gradeDir,
-              week: parseFrontmatterField(fm[1], 'week'),
-              tema: parseFrontmatterField(fm[1], 'tema'),
-              total: Number(parseFrontmatterField(fm[1], 'total_questions') || 0),
-              alignment: parseFrontmatterField(fm[1], 'alignment'),
-            });
-          }
-        }
-      }
-    }
-    if (entries.length >= bakedIndex.bundles.length) {
-      return entries.sort((a, b) => a.id.localeCompare(b.id));
-    }
-    return null;
+    const entries: BundleEntry[] = await scanQuestionsData(root, fs, nodePath);
+    return entries.length >= bakedIndex.bundles.length ? entries : null;
   } catch {
     return null;
   }
@@ -227,7 +183,18 @@ export function weekLabel(week: string): string {
   return `Semana ${Number(n) || n}`;
 }
 
-function parseMarkdownQuestions(md: string): BundleQuestion[] {
+/**
+ * Explicación publicable: sin la regla `---` final ni notas internas de
+ * revisión (`[//]: # (QUALITY_REVIEW)` + tabla) que algunos bundles arrastran.
+ */
+export function cleanExplanation(text: string): string {
+  return text
+    .split(/^\s*\[\/\/\]: #/m)[0]
+    .replace(/\n+---\s*$/, '')
+    .trim();
+}
+
+export function parseMarkdownQuestions(md: string): BundleQuestion[] {
   const questions: BundleQuestion[] = [];
   const blocks = md.split(/^## Question /m).slice(1);
   for (const block of blocks) {
@@ -236,6 +203,7 @@ function parseMarkdownQuestions(md: string): BundleQuestion[] {
     const difficulty = header.match(/\[(D[^\]]+)\]/)?.[1] ?? '';
     const id = block.match(/\*\*ID:\*\*\s*(\S+)/)?.[1] ?? `q-${number}`;
     const bloom = block.match(/\*\*Bloom:\*\*\s*([^\n]+)/)?.[1].trim() ?? '';
+    const context = block.match(/\*\*Contexto:\*\*\s*([^\n]+)/)?.[1].trim() ?? '';
     const statement = block.match(/### Enunciado\n([\s\S]*?)(?=\n### |$)/)?.[1].trim() ?? '';
     const optionsBlock = block.match(/### Opciones\n([\s\S]*?)(?=\n### |$)/)?.[1] ?? '';
     const options: BundleQuestionOption[] = [];
@@ -249,51 +217,58 @@ function parseMarkdownQuestions(md: string): BundleQuestion[] {
         feedback: (m[4] ?? '').replace(/\n\s*/g, ' ').trim(),
       });
     }
-    const explanation = block.match(/### Explicacion Pedagogica\n([\s\S]*?)(?=\n## |\n---|$)/)?.[1].trim() ?? '';
-    questions.push({ id, number, difficulty, bloom, statement, options, explanation });
+    const explanation = cleanExplanation(
+      block.match(/### Explicaci[oó]n Pedag[oó]gica\n([\s\S]*?)(?=\n## |\n---|$)/)?.[1] ?? ''
+    );
+    questions.push({ id, number, difficulty, bloom, context, statement, options, explanation });
   }
   return questions;
 }
 
 export function packIdForBundle(entry: BundleEntry): string {
-  const weekNum = Number(entry.week.replace(/^W/i, '')) || 1;
-  const grade = entry.grade ?? '3em';
-  return `${entry.code.toLowerCase()}-week-${weekNum}-grade-${grade}-subject-${entry.subject}`;
+  return packIdCandidates(entry)[0];
 }
 
-interface ApiPackQuestion {
-  id: string;
-  statement: string;
-  options: { letter: string; text: string; is_correct: boolean; feedback?: string }[];
-  explanation?: string;
+function difficultyLabel(raw: string | number | undefined): string {
+  const value = String(raw ?? '').trim();
+  if (!value) return '';
+  return /^\d+$/.test(value) ? `D${value}` : value;
 }
 
 async function questionsFromPack(entry: BundleEntry): Promise<BundleQuestion[] | null> {
   const envUrl =
     typeof import.meta !== 'undefined' ? (import.meta.env?.PUBLIC_API_BASE_URL as string | undefined) : undefined;
-  const apiBase = envUrl || '/api';
-  try {
-    const res = await fetch(`${apiBase}/v1/packs/${packIdForBundle(entry)}.json`);
-    if (!res.ok) return null;
-    const json = (await res.json()) as { questions?: ApiPackQuestion[] };
-    if (!Array.isArray(json.questions)) return null;
-    return json.questions.map((q, i) => ({
-      id: q.id,
-      number: i + 1,
-      difficulty: '',
-      bloom: '',
-      statement: q.statement ?? '',
-      options: (q.options ?? []).map((o) => ({
-        letter: o.letter,
-        text: o.text,
-        correct: Boolean(o.is_correct),
-        feedback: o.feedback ?? '',
-      })),
-      explanation: q.explanation ?? '',
-    }));
-  } catch {
-    return null;
+  for (const packId of packIdCandidates(entry)) {
+    try {
+      const res = await fetch(packUrl(envUrl, packId));
+      if (!res.ok) continue;
+      const json = (await res.json()) as { questions?: ApiPackQuestion[] };
+      if (!Array.isArray(json.questions)) continue;
+      const selected = selectBundleQuestions(json.questions, entry.id);
+      if (!selected.length) continue;
+      return selected.map((q, i) => ({
+        id: q.id,
+        number: i + 1,
+        difficulty: difficultyLabel(q.difficulty),
+        bloom: q.bloom ?? '',
+        context: q.context ?? '',
+        statement: q.statement ?? '',
+        // Algunos packs guardan las opciones desordenadas (B, A, C, D).
+        options: [...(q.options ?? [])]
+          .sort((a, b) => String(a.letter).localeCompare(String(b.letter)))
+          .map((o) => ({
+            letter: o.letter,
+            text: o.text,
+            correct: Boolean(o.is_correct),
+            feedback: o.feedback ?? '',
+          })),
+        explanation: cleanExplanation(q.explanation ?? ''),
+      }));
+    } catch {
+      // try next candidate
+    }
   }
+  return null;
 }
 
 /** Preguntas de un bundle: markdown en Node, pack del API en runtime edge. */
