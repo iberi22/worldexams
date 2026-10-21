@@ -284,10 +284,6 @@
   // Derived: Exam questions based on generatedExamQuestions or filtered
   let examQuestions = $derived(generatedExamQuestions || filteredLocalQuestions);
 
-  $effect(() => {
-  });
-
-
   // Auth & Lifecycle
   onMount(async () => {
     try {
