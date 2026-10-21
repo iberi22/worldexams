@@ -73,6 +73,12 @@ jobs:
       - name: Pack manifest freshness (blocking)
         run: node apps/worldexams-api/scripts/build-pack-manifest.mjs --check
 
+      - name: Alias packs match their canonical pack (blocking)
+        run: |
+          if [ -f apps/worldexams-api/scripts/sync-alias-packs.mjs ]; then
+            node apps/worldexams-api/scripts/sync-alias-packs.mjs --check
+          fi
+
       - name: Vitest — API worker + question pipeline
         run: npx vitest run apps/worldexams-api/tests saberparatodos/src/lib
 
