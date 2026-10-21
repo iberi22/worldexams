@@ -197,16 +197,16 @@ La diferencia entre fisión y fusión nuclear es:
 
 ### Opciones
 - [x] B) La fisión divide núcleos pesados; la fusión une núcleos ligeros.
-  <!-- feedback: Procesos opuestos pero ambos liberan energía. -->
-- [ ] A) La fisión ocurre en el Sol; la fusión en reactores terrestres.
-  <!-- feedback: Es al revés en general. -->
-- [ ] C) La fusión produce elementos más pesados; la fisión los produce más ligeros.
-  <!-- feedback: La fusión también puede producir elementos más pesados. -->
+  <!-- feedback: Correcto. La fisión parte un núcleo pesado en núcleos más ligeros, mientras la fusión une núcleos ligeros en uno más pesado. -->
+- [ ] A) La fisión se dispara con un protón que golpea el núcleo, y la fusión se dispara con un neutrón.
+  <!-- feedback: Es incorrecta porque están invertidos: la fisión se inicia con la absorción de un neutrón, mientras que la fusión exige calor y presión (como en el Sol) para unir los núcleos ligeros. -->
+- [ ] C) La fisión solo ocurre en estrellas y la fusión solo en reactores de centrales nucleares.
+  <!-- feedback: Es incorrecta porque están intercambiadas: la fusión es la que ocurre en las estrellas, como el Sol, y la fisión es la que se aprovecha en los reactores de las centrales nucleares y en las armas. -->
 - [ ] D) No hay diferencia: ambas son iguales.
   <!-- feedback: Son procesos distintos. -->
 
 ### Explicacion Pedagogica
-Fisión y fusión son reacciones nucleares con diferencias fundamentales en reactivos, productos y condiciones.
+Fisión y fusión son reacciones nucleares con diferencias fundamentales en reactivos, productos y condiciones: la fisión divide un núcleo pesado (uranio o plutonio) liberando energía y neutrones, y la fusión une núcleos ligeros (deuterio y tritio) para formar un núcleo más pesado, como ocurre en el Sol y en las estrellas.
 
 ## Question 9 [D5-D6]
 **ID:** CO-CN-11-2026-W40-fisica-moderna-atomos-001-MASTERY-bundle-v9
