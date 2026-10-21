@@ -48,9 +48,9 @@ migrations_dir = "migrations"
 # Institutions magic-link email (Cloudflare Email Sending). Without this binding
 # POST /v1/inst/auth/request answers 503 EMAIL_UNAVAILABLE. Enable once the
 # sending domain is onboarded:
-# [[send_email]]
-# name = "EMAIL"
-# allowed_sender_addresses = ["no-reply@saberparatodos.space"]
+[[send_email]]
+name = "EMAIL"
+allowed_sender_addresses = ["no-reply@saberparatodos.space"]
 
 [[routes]]
 pattern = "api.saberparatodos.space/*"
