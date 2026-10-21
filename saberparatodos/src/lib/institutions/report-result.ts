@@ -19,6 +19,9 @@ import {
 import { normalizeSubjectKey } from '../question-transformer';
 
 export const PENDING_ASSIGNMENT_KEY = 'inst.student.pendingAssignment';
+/** Attempt keys already reported, so a remounted results view never reports twice. */
+export const REPORTED_ATTEMPTS_KEY = 'inst.student.reportedAttempts';
+const REPORTED_ATTEMPTS_MAX = 100;
 /** An assignment opened with "Empezar" counts for the next practice within this window. */
 const PENDING_ASSIGNMENT_TTL_MS = 6 * 60 * 60 * 1000;
 
@@ -39,15 +42,60 @@ export interface SchoolResultReport {
   perArea?: PerArea | null;
   /** Ranked exams must pass `true`; they are never reported. */
   ranked?: boolean;
+  /** Stable id of this attempt (see `examAttemptKey`); a key is reported at most once. */
+  attemptKey?: string;
 }
 
-function normalizeSubject(value: string | null | undefined): string {
-  return String(value || '')
-    .normalize('NFD')
-    .replace(/[̀-ͯ]/g, '')
-    .toLowerCase()
-    .replace(/[^a-z0-9]/g, '');
+function hashString(value: string): string {
+  let h1 = 0x811c9dc5;
+  let h2 = 0;
+  for (let i = 0; i < value.length; i++) {
+    const c = value.charCodeAt(i);
+    h1 = Math.imul(h1 ^ c, 0x01000193) >>> 0;
+    h2 = (Math.imul(h2, 31) + c) >>> 0;
+  }
+  return `${h1.toString(36)}${h2.toString(36)}`;
 }
+
+/**
+ * Stable key for one practice attempt: the same exam data and answers always
+ * give the same key, so remounting the results view does not report again.
+ */
+export function examAttemptKey(
+  examData: { subject?: string | null; grade?: number | null; totalTimeMs?: number; questions?: Array<{ questionId: string | number }> } | null | undefined,
+  userAnswers: Record<string | number, string> | null | undefined
+): string {
+  const ids = (examData?.questions || []).map((q) => String(q?.questionId));
+  const answers = Object.entries(userAnswers || {})
+    .map(([id, letter]) => `${id}=${letter}`)
+    .sort();
+  const raw = [examData?.subject ?? '', examData?.grade ?? '', examData?.totalTimeMs ?? '', ids.join(','), answers.join(',')].join('|');
+  return `exam_${hashString(raw)}`;
+}
+
+function readReportedAttempts(): string[] {
+  try {
+    const parsed = JSON.parse(localStorage.getItem(REPORTED_ATTEMPTS_KEY) || '[]');
+    return Array.isArray(parsed) ? parsed.filter((k) => typeof k === 'string') : [];
+  } catch {
+    return [];
+  }
+}
+
+/** Records the key; returns false when it was already recorded. */
+function claimAttempt(key: string): boolean {
+  const keys = readReportedAttempts();
+  if (keys.includes(key)) return false;
+  keys.push(key);
+  try {
+    localStorage.setItem(REPORTED_ATTEMPTS_KEY, JSON.stringify(keys.slice(-REPORTED_ATTEMPTS_MAX)));
+  } catch {
+    // Without storage the in-memory check below still covers same-page remounts.
+  }
+  return true;
+}
+
+const claimedThisPage = new Set<string>();
 
 export function markAssignmentStarted(assignment: { id: string; grade: number; subject: string | null }): void {
   try {
@@ -74,7 +122,9 @@ function takePendingAssignment(grade: number, subject: string | null | undefined
       return undefined;
     }
     if (Number(pending.grade) !== grade) return undefined;
-    if (pending.subject && normalizeSubject(pending.subject) !== normalizeSubject(subject)) return undefined;
+    // Both sides go through the same canonical id: 'ciencias' and 'Ciencias Naturales'
+    // are both 'ciencias_naturales'.
+    if (pending.subject && toSubjectId(pending.subject) !== subject) return undefined;
     localStorage.removeItem(PENDING_ASSIGNMENT_KEY);
     return pending.assignmentId;
   } catch {
@@ -90,7 +140,8 @@ function clampInt(value: unknown, min: number, max: number): number {
 
 export const MAX_AREA_KEY_LENGTH = 40;
 export const MAX_AREAS = 20;
-const SUBJECT_ID_PATTERN = /^[a-z0-9_-]{1,40}$/;
+/** Same rules as the API (apps/worldexams-api/src/institutions.ts SUBJECT_RE / AREA_KEY_RE). */
+const SUBJECT_ID_PATTERN = /^[a-z0-9_-]{2,40}$/;
 
 /**
  * The API only accepts subject ids (`[a-z0-9_-]`). Exams carry display names
@@ -103,10 +154,15 @@ export function toSubjectId(value: string | null | undefined): string | undefine
   return SUBJECT_ID_PATTERN.test(id) ? id : undefined;
 }
 
-/** Strips separators the API rejects (':' ','), control chars, and caps the length. */
+/**
+ * Keeps only what the API accepts in an area key (letters, digits, space, `_`
+ * and `-`) and caps the length: 'Competencia Lectora (Inferencial)' becomes
+ * 'Competencia Lectora Inferencial'.
+ */
 export function sanitizeAreaKey(value: string): string {
   return String(value || '')
-    .replace(/[\u0000-\u001f\u007f:,]/g, ' ')
+    .normalize('NFC')
+    .replace(/[^\p{L}\p{N} _-]/gu, ' ')
     .replace(/\s+/g, ' ')
     .trim()
     .slice(0, MAX_AREA_KEY_LENGTH)
@@ -161,6 +217,10 @@ export async function reportResultToSchool(report: SchoolResultReport): Promise<
 
     const total = clampInt(report.total, 0, 200);
     if (total === 0) return 'skipped';
+    if (report.attemptKey) {
+      if (claimedThisPage.has(report.attemptKey) || !claimAttempt(report.attemptKey)) return 'skipped';
+      claimedThisPage.add(report.attemptKey);
+    }
     const grade = clampInt(report.grade || session.group.grade || 1, 1, 12);
     const subject = toSubjectId(report.subject);
 
@@ -184,7 +244,7 @@ export async function reportResultToSchool(report: SchoolResultReport): Promise<
     }
 
     ensureAutoFlush();
-    return await submitResult(body);
+    return await submitResult(body, report.attemptKey);
   } catch (error) {
     console.warn('[reportResultToSchool] Could not report result', error);
     return 'dropped';
