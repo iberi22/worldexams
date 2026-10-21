@@ -9,7 +9,7 @@ function makeEnv(files: string[], withDb = false) {
   const packFor = (name: string) => ({
     questions: Array.from({ length: 20 }, (_, i) => ({
       id: `${name}-q${i}`,
-      statement: `S ${name} ${i}`,
+      statement: `S ${[...`${name} ${i}`].map((c) => "abcdefghij"[Number(c)] ?? c).join("")}`,
       options: [
         { text: "Right", is_correct: true, feedback: "ok" },
         { text: "W1" }, { text: "W2" }, { text: "W3" },
@@ -82,7 +82,8 @@ describe("pack manifest resolution", () => {
     }), env)
     const data = (await res.json()) as any
     expect(res.status).toBe(200)
-    expect(calls.length).toBeLessThanOrEqual(1 + 5 * 3)
+    // manifest + RANKED_PACKS_PER_AREA (4) x 5 areas; Workers free plan allows 50 subrequests
+    expect(calls.length).toBeLessThanOrEqual(1 + 5 * 4)
     for (const a of AREAS) expect(data.meta.area_counts[a]).toBe(8)
     expect(new Set(data.questions.map((q: any) => q.id)).size).toBe(40)
   })
