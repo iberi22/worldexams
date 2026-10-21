@@ -103,12 +103,6 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "ademas",
-          "is_correct": true,
-          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Hernandarias y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
-        },
-        {
           "letter": "A",
           "text": "sin embargo",
           "is_correct": false,
@@ -125,6 +119,12 @@
           "text": "aunque",
           "is_correct": false,
           "feedback": "Incorrecto. 'Aunque' introduce una concesion: lo que va detras se opone a lo esperado. La segunda proposicion no contradice la primera, la completa, asi que este conector tampoco corresponde."
+        },
+        {
+          "letter": "D",
+          "text": "ademas",
+          "is_correct": true,
+          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Hernandarias y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
         }
       ],
       "correct_answer": "D",
@@ -148,12 +148,6 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "C",
-          "text": "Los estudiantes del Colegio Nacional del Alto Parana estudian mucho.",
-          "is_correct": true,
-          "feedback": "Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'."
-        },
-        {
           "letter": "A",
           "text": "Los estudiantes de la escuela estudian poco.",
           "is_correct": false,
@@ -164,6 +158,12 @@
           "text": "Los estudiantes del instituto no estudian nada.",
           "is_correct": false,
           "feedback": "Incorrecto. 'El instituto' vuelve a sustituir el nombre propio por una denominacion generica. La negacion 'no estudian nada' es correcta, pero no aporta el dato que el enunciado evalua."
+        },
+        {
+          "letter": "C",
+          "text": "Los estudiantes del Colegio Nacional del Alto Parana estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'."
         },
         {
           "letter": "D",
@@ -554,15 +554,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "El pronombre átono \"se\", que marca la impersonalidad y oculta al agente",
-          "is_correct": true,
-          "feedback": "Es correcto: el \"se\" átono impide identificar a quién corresponde la acción de estudiar."
-        },
-        {
-          "letter": "B",
           "text": "El artículo \"mucho\", que actúa como sujeto",
           "is_correct": false,
           "feedback": "\"Mucho\" es un cuantificador adverbial y no puede funcionar como sujeto."
+        },
+        {
+          "letter": "B",
+          "text": "El pronombre átono \"se\", que marca la impersonalidad y oculta al agente",
+          "is_correct": true,
+          "feedback": "Es correcto: el \"se\" átono impide identificar a quién corresponde la acción de estudiar."
         },
         {
           "letter": "C",
@@ -577,7 +577,7 @@
           "feedback": "El verbo es el núcleo del predicado, no el sujeto de la oración."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En las construcciones impersonales con se átono no hay sujeto identificable, y esa es la diferencia respecto de la pasiva refleja.",
       "difficulty": "8",
       "images": [],
@@ -598,12 +598,6 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "Los estudiantes del Colegio Nacional Lambare estudian mucho.",
-          "is_correct": true,
-          "feedback": "Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'."
-        },
-        {
           "letter": "A",
           "text": "Los estudiantes de la escuela estudian poco.",
           "is_correct": false,
@@ -620,6 +614,12 @@
           "text": "Los estudiantes del instituto estudian mucho.",
           "is_correct": false,
           "feedback": "Incorrecto. Comparte con la correcta la concordancia y el verbo 'estudian mucho', y se diferencia en un solo punto decisivo: emplea 'el instituto', un nombre comun, en lugar del nombre oficial completo."
+        },
+        {
+          "letter": "D",
+          "text": "Los estudiantes del Colegio Nacional Lambare estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'."
         }
       ],
       "correct_answer": "D",
@@ -644,9 +644,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "El impersonal no tiene sujeto y el de la pasiva refleja lo tiene, y ese sujeto realiza la acción",
-          "is_correct": true,
-          "feedback": "Es correcta: en la pasiva refleja el sujeto aparece y ejecuta la acción, mientras que en la impersonal queda oculto."
+          "text": "El impersonal solo se usa con verbos transitivos y la pasiva refleja solo con intransitivos",
+          "is_correct": false,
+          "feedback": "La selección del verbo no es lo que distingue ambas construcciones."
         },
         {
           "letter": "B",
@@ -662,12 +662,12 @@
         },
         {
           "letter": "D",
-          "text": "El impersonal solo se usa con verbos transitivos y la pasiva refleja solo con intransitivos",
-          "is_correct": false,
-          "feedback": "La selección del verbo no es lo que distingue ambas construcciones."
+          "text": "El impersonal no tiene sujeto y el de la pasiva refleja lo tiene, y ese sujeto realiza la acción",
+          "is_correct": true,
+          "feedback": "Es correcta: en la pasiva refleja el sujeto aparece y ejecuta la acción, mientras que en la impersonal queda oculto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La pasiva refleja tiene la estructura sujeto más se más verbo transitivo, mientras que la impersonal emplea un verbo impersonal y oculta el agente.",
       "difficulty": "8",
       "images": [],
@@ -689,9 +689,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Los libros que están en la mesa son míos.",
-          "is_correct": true,
-          "feedback": "Es correcta: la proposición \"que están en la mesa\" modifica al sustantivo y está entre el determinante y él."
+          "text": "Que están en la mesa son los libros.",
+          "is_correct": false,
+          "feedback": "Aquí la proposición inicial ocupa la posición de sujeto y es sustantiva."
         },
         {
           "letter": "B",
@@ -701,9 +701,9 @@
         },
         {
           "letter": "C",
-          "text": "Que están en la mesa son los libros.",
-          "is_correct": false,
-          "feedback": "Aquí la proposición inicial ocupa la posición de sujeto y es sustantiva."
+          "text": "Los libros que están en la mesa son míos.",
+          "is_correct": true,
+          "feedback": "Es correcta: la proposición \"que están en la mesa\" modifica al sustantivo y está entre el determinante y él."
         },
         {
           "letter": "D",
@@ -712,7 +712,7 @@
           "feedback": "La segunda proposición relativa está mal formada porque \"comprado\" no concuerda con el antecedente plural."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La proposición adjetiva se inserta entre el determinante y el sustantivo, y esa posición es la que garantiza su equilibrio sintáctico.",
       "difficulty": "8",
       "images": [],
@@ -734,15 +734,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Por lo tanto",
-          "is_correct": true,
-          "feedback": "Es correcta: \"por lo tanto\" enlaza la consecuencia que se deduce de lo expuesto antes."
-        },
-        {
-          "letter": "B",
           "text": "Aunque",
           "is_correct": false,
           "feedback": "Introduce una relación concessiva, con un dato que se opone a lo esperado."
+        },
+        {
+          "letter": "B",
+          "text": "Por lo tanto",
+          "is_correct": true,
+          "feedback": "Es correcta: \"por lo tanto\" enlaza la consecuencia que se deduce de lo expuesto antes."
         },
         {
           "letter": "C",
@@ -757,7 +757,7 @@
           "feedback": "Introduce una excepción, es decir, un caso que queda fuera de lo general."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los conectores lógicos hacen explícita la estructura del razonamiento y permiten distinguir entre causa, consecuencia, oposición, condición y finalidad.",
       "difficulty": "10",
       "images": [],
@@ -779,9 +779,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Se venden frutas en el mercado.",
-          "is_correct": true,
-          "feedback": "Es correcta: el sujeto \"frutas\" aparece y realiza la acción de venderse, que es la pasiva refleja."
+          "text": "Se habla mucho en clase.",
+          "is_correct": false,
+          "feedback": "Es impersonal, porque no hay sujeto que ejecute la acción de hablar."
         },
         {
           "letter": "B",
@@ -791,9 +791,9 @@
         },
         {
           "letter": "C",
-          "text": "Se habla mucho en clase.",
-          "is_correct": false,
-          "feedback": "Es impersonal, porque no hay sujeto que ejecute la acción de hablar."
+          "text": "Se venden frutas en el mercado.",
+          "is_correct": true,
+          "feedback": "Es correcta: el sujeto \"frutas\" aparece y realiza la acción de venderse, que es la pasiva refleja."
         },
         {
           "letter": "D",
@@ -802,7 +802,7 @@
           "feedback": "Es activa: el sujeto es quien ejecuta la acción, no quien la recibe."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La pasiva refleja se reconoce porque el pronombre \"se\" acompaña a un verbo transitivo y el sujeto aparece y ejecuta la acción.",
       "difficulty": "10",
       "images": [],
@@ -824,15 +824,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "María, trae el cuaderno por favor.",
-          "is_correct": true,
-          "feedback": "Es correcta: el vocativo se separa con comas y aquí aparece al principio de la oración."
-        },
-        {
-          "letter": "B",
           "text": "María trae, el cuaderno por favor.",
           "is_correct": false,
           "feedback": "La coma no corresponde: el vocativo no introduce el objeto directo de esa manera."
+        },
+        {
+          "letter": "B",
+          "text": "María, trae el cuaderno por favor.",
+          "is_correct": true,
+          "feedback": "Es correcta: el vocativo se separa con comas y aquí aparece al principio de la oración."
         },
         {
           "letter": "C",
@@ -847,7 +847,7 @@
           "feedback": "La coma separa un elemento que no es vocativo, y aquí funciona como pausa hipotética."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El vocativo se delimita con comas porque es un elemento que se puede suprimir sin alterar el sentido de la oración.",
       "difficulty": "10",
       "images": [],
@@ -869,15 +869,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Expresa una invitación o cortesía, no una hipótesis",
-          "is_correct": true,
-          "feedback": "Es correcta: en la pregunta el condicional cumple la función de invitación cortés."
-        },
-        {
-          "letter": "B",
           "text": "Expresa una hipótesis sobre el pasado",
           "is_correct": false,
           "feedback": "La hipótesis sobre el pasado se construiría con pluscuamperfecto de subjuntivo, no con condicional simple."
+        },
+        {
+          "letter": "B",
+          "text": "Expresa una invitación o cortesía, no una hipótesis",
+          "is_correct": true,
+          "feedback": "Es correcta: en la pregunta el condicional cumple la función de invitación cortés."
         },
         {
           "letter": "C",
@@ -892,7 +892,7 @@
           "feedback": "La obligación se marcaría con \"deber\" más infinitivo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El condicional simple tiene un valor de cortesía, de deseo o de hipótesis según el contexto, y en preguntas suele servir para invitar.",
       "difficulty": "10",
       "images": [],

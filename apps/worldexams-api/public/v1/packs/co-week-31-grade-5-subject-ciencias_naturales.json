@@ -296,9 +296,9 @@
         },
         {
           "letter": "B",
-          "text": "Porque la luz de estrellas lejanas tarda mucho en llegar y por eso vemos cómo eran hace tiempo.",
-          "is_correct": true,
-          "feedback": "Es correcta: si la luz tarda años en viajar, la imagen que observamos muestra el estado antiguo de la estrella."
+          "text": "Porque el telescopio del observatorio guarda imágenes viejas.",
+          "is_correct": false,
+          "feedback": "Error: el telescopio no guarda imágenes; capta la luz que llega en ese momento."
         },
         {
           "letter": "C",
@@ -308,12 +308,12 @@
         },
         {
           "letter": "D",
-          "text": "Porque el telescopio del observatorio guarda imágenes viejas.",
-          "is_correct": false,
-          "feedback": "Error: el telescopio no guarda imágenes; capta la luz que llega en ese momento."
+          "text": "Porque la luz de estrellas lejanas tarda mucho en llegar y por eso vemos cómo eran hace tiempo.",
+          "is_correct": true,
+          "feedback": "Es correcta: si la luz tarda años en viajar, la imagen que observamos muestra el estado antiguo de la estrella."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La luz viaja a una velocidad enorme, pero finita. Cuando observamos estrellas muy lejanas, vemos la luz que salió de ellas hace mucho tiempo, así que contemplamos una imagen del pasado de esas estrellas.",
       "difficulty": "8",
       "images": [],

@@ -526,9 +526,9 @@
         },
         {
           "letter": "B",
-          "text": "had rejected / had",
-          "is_correct": true,
-          "feedback": "Correct! Rejection happened before the pandemic, and the realization followed."
+          "text": "were rejecting / were having",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Have\" (possession) is a stative verb."
         },
         {
           "letter": "C",
@@ -538,12 +538,12 @@
         },
         {
           "letter": "D",
-          "text": "were rejecting / were having",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Have\" (possession) is a stative verb."
+          "text": "had rejected / had",
+          "is_correct": true,
+          "feedback": "Correct! Rejection happened before the pandemic, and the realization followed."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Esta pregunta requiere evaluar el orden cronológico lógico: primero se rechaza una idea (*had rejected*), luego llega un cambio externo, y finalmente se tiene una necesidad (*had*).",
       "difficulty": "10",
       "images": [],

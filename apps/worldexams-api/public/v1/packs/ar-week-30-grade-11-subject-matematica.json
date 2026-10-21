@@ -746,18 +746,18 @@
         },
         {
           "letter": "C",
-          "text": "No, porque presenta una discontinuidad de salto finito (límites laterales 1 y -1).",
-          "is_correct": true,
-          "feedback": "Correcto. Al ser los límites distintos, no existe un valor único que se pueda asignar para \"unir\" la función."
-        },
-        {
-          "letter": "D",
           "text": "Sí, porque la discontinuidad es evitable.",
           "is_correct": false,
           "feedback": "Incorrecto. No es evitable, el límite general no existe."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque presenta una discontinuidad de salto finito (límites laterales 1 y -1).",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser los límites distintos, no existe un valor único que se pueda asignar para \"unir\" la función."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "En una discontinuidad de salto finito (primera especie), la brecha entre los tramos de la función es insalvable mediante la simple definición de un punto. La función es intrínsecamente discontinua allí.\n\n---",
       "difficulty": "10",
       "images": [],

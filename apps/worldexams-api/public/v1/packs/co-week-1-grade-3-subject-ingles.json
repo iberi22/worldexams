@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "It is 7:00 in the morning. Mateo sees his teacher. What does he say?",
+      "context": "Son las 7:00 de la mañana en un colegio de Bucaramanga y Mateo entra al salón donde está su profesora.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the word for a place where you live or stay on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' is the system of moving people or goods between places, not the place you sleep in itself."
+          "text": "Good morning!",
+          "is_correct": true,
+          "feedback": "Correct. \"Good morning\" is the greeting we use from the time we wake up until 12 noon, and 7:00 is in the morning."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "Good night!",
           "is_correct": false,
-          "feedback": "'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live."
+          "feedback": "Incorrect. \"Good night\" is said at night when we go to bed or leave, not at 7:00 in the morning."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "Good afternoon!",
           "is_correct": false,
-          "feedback": "'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in."
+          "feedback": "Incorrect. \"Good afternoon\" is used after 12 noon, and 7:00 a.m. is still the morning."
+        },
+        {
+          "letter": "D",
+          "text": "Goodbye!",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Goodbye\" is a farewell for when you leave, but Mateo is arriving, so he needs a greeting."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "En inglés el saludo cambia según la hora. Desde que nos levantamos hasta las 12 del mediodía decimos \"Good morning\" (buenos días). Como Mateo llega a las 7:00 a.m., el saludo correcto es \"Good morning!\".",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -55,36 +55,36 @@
     },
     {
       "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which word do you say when you leave?",
+      "context": "Al terminar la clase en una escuela de Pereira, los niños se despiden de sus compañeros antes de irse a casa.",
       "options": [
         {
-          "letter": "B",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them."
+          "letter": "A",
+          "text": "Hello",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Hello\" is a greeting for when you arrive or meet someone, not for when you go away."
         },
         {
-          "letter": "A",
-          "text": "baggage",
+          "letter": "B",
+          "text": "Hi",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "Incorrect. \"Hi\" is an informal way to say hello when you meet someone, so it starts a conversation instead of ending it."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "Good morning",
           "is_correct": false,
-          "feedback": "'destination' names only the place you are going to, without the route or the order of the whole journey."
+          "feedback": "Incorrect. \"Good morning\" greets people in the morning when you arrive; it does not mean you are leaving."
         },
         {
           "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "'passport' is the official document that lets you cross a border, not the plan of where you go."
+          "text": "Goodbye",
+          "is_correct": true,
+          "feedback": "Correct. \"Goodbye\" is the farewell word that means you are leaving, so it is the word for the end of a meeting."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Hay palabras para llegar (saludos) y palabras para irse (despedidas). \"Hello\", \"Hi\" y \"Good morning\" son saludos. \"Goodbye\" significa adiós y se dice cuando nos vamos, por eso es la respuesta correcta.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Ana: \"How are you, Luis?\"\nLuis: \"________\"",
+      "context": "Ana y Luis se encuentran en el recreo de su colegio en Cartagena y Ana le pregunta cómo está.",
       "options": [
         {
-          "letter": "D",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' is the place someone is going to or something is being sent to."
-        },
-        {
           "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself."
+          "text": "I'm fine, thank you.",
+          "is_correct": true,
+          "feedback": "Correct. \"How are you?\" asks how you feel, and \"I'm fine, thank you\" answers with how Luis feels."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "I'm Luis.",
           "is_correct": false,
-          "feedback": "'arrival' is the act of reaching a place, not the place that is reached."
+          "feedback": "Incorrect. \"I'm Luis\" gives his name, which answers \"What's your name?\", not a question about how he feels."
         },
         {
           "letter": "C",
-          "text": "journey",
+          "text": "I'm eight years old.",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from the start to the end, not the place the trip finishes at."
+          "feedback": "Incorrect. \"I'm eight years old\" tells his age, which answers \"How old are you?\", not \"How are you?\"."
+        },
+        {
+          "letter": "D",
+          "text": "Good night.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Good night\" is a farewell for the night and does not tell Ana how Luis feels."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "La pregunta \"How are you?\" significa \"¿Cómo estás?\". Por eso la respuesta debe decir cómo se siente la persona: \"I'm fine, thank you\" (estoy bien, gracias). No hay que confundirla con \"How old are you?\", que pregunta la edad.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.75,
       "bundle_id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: \"Hello, my name is Sara. Nice to ______ you.\"",
+      "context": "Sara es una niña nueva en un colegio de Medellín y se presenta ante su compañero de puesto el primer día de clases.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel."
+          "text": "make",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Make\" means to build or create something, and the fixed phrase for a first meeting does not use it."
         },
         {
           "letter": "B",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in."
+          "text": "meet",
+          "is_correct": true,
+          "feedback": "Correct. The phrase \"Nice to meet you\" is what we say when we see a person for the first time."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "eat",
           "is_correct": false,
-          "feedback": "'flight' is the journey by plane itself, not the containers that hold your things."
+          "feedback": "Incorrect. \"Eat\" is the action of having food, so \"Nice to eat you\" has no sense in a greeting."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "sleep",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you make for a seat or a room, not the bag you carry."
+          "feedback": "Incorrect. \"Sleep\" is the action of resting at night, and it does not form a polite phrase for meeting someone."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Cuando conocemos a alguien por primera vez decimos \"Nice to meet you\" (mucho gusto en conocerte). El verbo \"meet\" significa conocer o encontrarse con alguien. Los otros verbos (\"make\", \"eat\", \"sleep\") no forman esa expresión.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.7,
       "bundle_id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Pedro comes home from school at 3:00 p.m. He sees his grandmother in the kitchen.\"\nWhat does Pedro say?",
+      "context": "Pedro vive en Tunja y llega a su casa después del colegio; su abuela lo espera en la cocina.",
       "options": [
         {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "Good night, Grandma!",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all."
+          "feedback": "Incorrect. \"Good night\" belongs to the night or bedtime, and 3:00 p.m. is in the middle of the day."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "Good afternoon, Grandma!",
+          "is_correct": true,
+          "feedback": "Correct. \"Good afternoon\" greets people after 12 noon, and Pedro arrives at 3:00 p.m."
+        },
+        {
+          "letter": "C",
+          "text": "Good morning, Grandma!",
           "is_correct": false,
-          "feedback": "'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle."
+          "feedback": "Incorrect. \"Good morning\" is used before 12 noon, but the text says Pedro arrives at 3:00 p.m."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "Goodbye, Grandma!",
           "is_correct": false,
-          "feedback": "'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle."
+          "feedback": "Incorrect. \"Goodbye\" is said when you leave, but Pedro is arriving home and needs a greeting."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Hay que leer la hora en el texto: \"3:00 p.m.\" La sigla \"p.m.\" indica la tarde. Después de las 12 del mediodía el saludo es \"Good afternoon\" (buenas tardes). Además Pedro llega, no se va, así que no sirve \"Goodbye\".",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.65,
       "bundle_id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Tom: \"Bye, Mia! See you tomorrow.\"\nMia: \"________\"",
+      "context": "Tom y Mia salen del colegio en Cali y cada uno toma un camino distinto para volver a casa.",
       "options": [
         {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive."
+          "letter": "A",
+          "text": "Good morning!",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Good morning\" is a greeting for arriving in the morning, but Tom is saying goodbye."
         },
         {
-          "letter": "A",
-          "text": "security",
+          "letter": "B",
+          "text": "Nice to meet you!",
           "is_correct": false,
-          "feedback": "'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in."
+          "feedback": "Incorrect. \"Nice to meet you\" is for the first time you know someone, and Tom and Mia are already friends."
         },
         {
           "letter": "C",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for your plane, not the place where your belongings are inspected."
+          "text": "Bye, Tom! See you!",
+          "is_correct": true,
+          "feedback": "Correct. Tom says a farewell, so Mia answers with another farewell: \"Bye\" and \"See you\" both mean they are leaving."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "I'm fine, thanks!",
           "is_correct": false,
-          "feedback": "'gate' is the door at the plane you walk through to board, not the place where officials check your things."
+          "feedback": "Incorrect. \"I'm fine, thanks\" answers \"How are you?\", a question Tom never asks in this dialog."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Tom se despide con \"Bye\" y \"See you tomorrow\" (nos vemos mañana). Lo natural es responder también con una despedida: \"Bye, Tom! See you!\". Las otras opciones son saludos o respuestas a otras preguntas.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.6,
       "bundle_id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Camila meets a new girl at school. The girl says: 'Hi! I'm Valeria.'\"\nWhat is the best answer for Camila?",
+      "context": "En un colegio de Barranquilla, Camila conoce a una niña que acaba de llegar de otra ciudad.",
       "options": [
         {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane."
+          "letter": "A",
+          "text": "Goodbye, Valeria.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Goodbye\" closes a conversation, but Valeria is just starting one by saying hi."
         },
         {
-          "letter": "A",
-          "text": "visa",
+          "letter": "B",
+          "text": "Good night, Valeria.",
           "is_correct": false,
-          "feedback": "'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline."
+          "feedback": "Incorrect. \"Good night\" is for bedtime or leaving at night, and the girls are at school during the day."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "I'm fine, thank you.",
           "is_correct": false,
-          "feedback": "'receipt' is the proof that you paid for something, which is not permission to board a plane."
+          "feedback": "Incorrect. Valeria did not ask \"How are you?\", she gave her name, so this answer does not match."
         },
         {
           "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "'brochure' is a leaflet with tourist information, not a travel document issued to a passenger."
+          "text": "Hi, Valeria! I'm Camila. Nice to meet you.",
+          "is_correct": true,
+          "feedback": "Correct. Camila greets back with \"Hi\", gives her own name, and says \"Nice to meet you\" because it is their first meeting."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Valeria saluda y dice su nombre. La mejor respuesta hace lo mismo: saluda (\"Hi, Valeria!\"), dice el propio nombre (\"I'm Camila\") y, como es la primera vez que se conocen, agrega \"Nice to meet you\" (mucho gusto).",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.5,
       "bundle_id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which dialog is correct?",
+      "context": "La profesora de inglés de un colegio de Villavicencio escribe cuatro diálogos en el tablero y pide escoger el que está bien.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' means visiting the places of interest of a location as a traveler."
+          "text": "\"Good night!\" - \"Good morning!\"",
+          "is_correct": false,
+          "feedback": "Incorrect. The first person speaks at night and the second answers with a morning greeting, so the times do not match."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "\"How are you?\" - \"My name is Juan.\"",
           "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place."
+          "feedback": "Incorrect. \"How are you?\" asks how someone feels, and \"My name is Juan\" only gives a name."
         },
         {
           "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city."
+          "text": "\"How are you?\" - \"I'm fine, thanks. And you?\"",
+          "is_correct": true,
+          "feedback": "Correct. The answer tells how the person feels and asks back with \"And you?\", a polite and complete reply."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "\"Nice to meet you.\" - \"See you yesterday.\"",
           "is_correct": false,
-          "feedback": "'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place."
+          "feedback": "Incorrect. \"See you\" points to a future meeting, so \"yesterday\", a day in the past, does not fit, and it does not answer \"Nice to meet you\"."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "correct_answer": "C",
+      "explanation": "Un diálogo correcto tiene una respuesta que encaja con lo primero que se dice. A \"How are you?\" (¿cómo estás?) se responde con el estado de ánimo: \"I'm fine, thanks\" y se puede devolver la pregunta con \"And you?\" (¿y tú?).",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.45,
       "bundle_id": "CO-ING-3-2026-W01-greetings-farewells-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",

@@ -59,12 +59,6 @@
       "context": "En Medellín, Andrés lee en voz alta la palabra \"café\" en un aviso de la tienda y su hermana le pregunta por qué lleva tilde.",
       "options": [
         {
-          "letter": "D",
-          "text": "Que la fuerza de voz está en la última sílaba y por eso lleva tilde.",
-          "is_correct": true,
-          "feedback": "Es correcta porque \"fé\" es la sílaba tónica y la palabra es aguda terminada en vocal."
-        },
-        {
           "letter": "A",
           "text": "Que la fuerza de voz está en la primera sílaba.",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "Que la palabra cambia de significado según la tilde.",
           "is_correct": false,
           "feedback": "Es incorrecta porque en \"café\" la tilde no cambia el significado de la palabra."
+        },
+        {
+          "letter": "D",
+          "text": "Que la fuerza de voz está en la última sílaba y por eso lleva tilde.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"fé\" es la sílaba tónica y la palabra es aguda terminada en vocal."
         }
       ],
       "correct_answer": "D",
@@ -105,16 +105,16 @@
       "context": "En Cali, el profesor de quinto dicta tres palabras para clasificarlas según su sílaba tónica: \"violín\", \"lápiz\" y \"música\".",
       "options": [
         {
-          "letter": "B",
-          "text": "Violín.",
-          "is_correct": true,
-          "feedback": "Es correcta porque su fuerza de voz está en \"lín\", la última sílaba."
-        },
-        {
           "letter": "A",
           "text": "Lápiz.",
           "is_correct": false,
           "feedback": "Es incorrecta porque su fuerza de voz está en \"lá\", la penúltima sílaba."
+        },
+        {
+          "letter": "B",
+          "text": "Violín.",
+          "is_correct": true,
+          "feedback": "Es correcta porque su fuerza de voz está en \"lín\", la última sílaba."
         },
         {
           "letter": "C",
@@ -151,12 +151,6 @@
       "context": "En Barranquilla, una estudiante escribió \"arbol\" sin tilde en su cuaderno y la maestra le pidió corregir la palabra.",
       "options": [
         {
-          "letter": "D",
-          "text": "Árbol, con tilde en la primera sílaba porque termina en consonante distinta de n o s.",
-          "is_correct": true,
-          "feedback": "Es correcta porque las palabras graves que no terminan en n o s llevan tilde."
-        },
-        {
           "letter": "A",
           "text": "Arbol, sin tilde porque las palabras graves nunca llevan tilde.",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "Àrbol, con acento en la consonante final.",
           "is_correct": false,
           "feedback": "Es incorrecta porque las tildes se marcan sobre vocales, no sobre consonantes."
+        },
+        {
+          "letter": "D",
+          "text": "Árbol, con tilde en la primera sílaba porque termina en consonante distinta de n o s.",
+          "is_correct": true,
+          "feedback": "Es correcta porque las palabras graves que no terminan en n o s llevan tilde."
         }
       ],
       "correct_answer": "D",
@@ -197,12 +197,6 @@
       "context": "En Pereira, Mateo y su mamá escriben la lista del mercado y anotan las palabras \"papá\", \"mamá\" y \"sábado\" para repasar tildes.",
       "options": [
         {
-          "letter": "D",
-          "text": "Las tres llevan tilde: \"papá\" y \"mamá\" son agudas y \"sábado\" es esdrújula.",
-          "is_correct": true,
-          "feedback": "Es correcta porque las agudas terminadas en vocal y todas las esdrújulas llevan tilde."
-        },
-        {
           "letter": "A",
           "text": "Solo \"sábado\" lleva tilde porque es la palabra más larga.",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "Solo \"papá\" lleva tilde porque termina en vocal.",
           "is_correct": false,
           "feedback": "Es incorrecta porque \"mamá\" también es aguda terminada en vocal."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres llevan tilde: \"papá\" y \"mamá\" son agudas y \"sábado\" es esdrújula.",
+          "is_correct": true,
+          "feedback": "Es correcta porque las agudas terminadas en vocal y todas las esdrújulas llevan tilde."
         }
       ],
       "correct_answer": "D",
@@ -243,12 +243,6 @@
       "context": "En Bucaramanga, dos estudiantes discuten sobre la forma correcta de escribir la palabra \"examen\" en la cartelera del salón.",
       "options": [
         {
-          "letter": "D",
-          "text": "Ana, porque \"examen\" es grave terminada en \"n\" y las graves terminadas en n no llevan tilde.",
-          "is_correct": true,
-          "feedback": "Es correcta porque la fuerza de voz está en la penúltima sílaba y termina en n."
-        },
-        {
           "letter": "A",
           "text": "Luis, porque todas las palabras terminadas en \"n\" llevan tilde.",
           "is_correct": false,
@@ -265,6 +259,12 @@
           "text": "Ana, porque \"examen\" es una palabra aguda.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la palabra es grave, aunque la conclusión sobre la tilde sea correcta."
+        },
+        {
+          "letter": "D",
+          "text": "Ana, porque \"examen\" es grave terminada en \"n\" y las graves terminadas en n no llevan tilde.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la fuerza de voz está en la penúltima sílaba y termina en n."
         }
       ],
       "correct_answer": "D",
@@ -289,12 +289,6 @@
       "context": "En Cartagena, un cartel del colegio dice: \"El café de la tienda es el más rico de la ciudad\".",
       "options": [
         {
-          "letter": "D",
-          "text": "Las dos llevan tilde, pero por razones diferentes: \"café\" es aguda y \"más\" se distingue de \"mas\".",
-          "is_correct": true,
-          "feedback": "Es correcta porque cada tilde responde a una regla distinta."
-        },
-        {
           "letter": "A",
           "text": "Solo \"café\" lleva tilde porque es la única palabra que suena fuerte.",
           "is_correct": false,
@@ -308,12 +302,18 @@
         },
         {
           "letter": "C",
+          "text": "Las dos llevan tilde, pero por razones diferentes: \"café\" es aguda y \"más\" se distingue de \"mas\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque cada tilde responde a una regla distinta."
+        },
+        {
+          "letter": "D",
           "text": "Solo \"más\" lleva tilde porque termina en \"s\".",
           "is_correct": false,
           "feedback": "Es incorrecta porque \"café\" también lleva tilde en el cartel."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": "Analizar tildes exige distinguir el motivo de cada una. \"Café\" lleva tilde porque es aguda terminada en vocal, mientras que \"más\" la lleva para diferenciarse de \"mas\", que significa \"pero\". Reconocer que no todas las tildes obedecen a la misma regla amplía la comprensión de la ortografía.",
       "difficulty": "8",
       "images": [],
@@ -335,16 +335,16 @@
       "context": "En Bogotá, la profesora pide elegir la oración mejor escrita en cuanto a las tildes para publicarla en el periódico mural del curso.",
       "options": [
         {
-          "letter": "B",
-          "text": "El lápiz está sobre la mesa y el árbol del patio crece mucho.",
-          "is_correct": true,
-          "feedback": "Es correcta porque \"lápiz\" y \"árbol\" son graves terminadas en consonante distinta de n o s."
-        },
-        {
           "letter": "A",
           "text": "El lapiz está sobre la mesa y el arbol del patio crece mucho.",
           "is_correct": false,
           "feedback": "Es incorrecta porque omite las tildes de dos palabras graves."
+        },
+        {
+          "letter": "B",
+          "text": "El lápiz está sobre la mesa y el árbol del patio crece mucho.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"lápiz\" y \"árbol\" son graves terminadas en consonante distinta de n o s."
         },
         {
           "letter": "C",

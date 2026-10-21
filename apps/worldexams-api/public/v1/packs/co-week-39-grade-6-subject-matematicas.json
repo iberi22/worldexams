@@ -13,12 +13,6 @@
       "context": "En los juegos intercolegiados de Bogotá se lanza una moneda honesta para decidir qué equipo empieza el partido.",
       "options": [
         {
-          "letter": "C",
-          "text": "1/2",
-          "is_correct": true,
-          "feedback": "Es correcta porque la moneda tiene dos resultados igualmente probables: cara y sello."
-        },
-        {
           "letter": "A",
           "text": "1/3",
           "is_correct": false,
@@ -29,6 +23,12 @@
           "text": "1/4",
           "is_correct": false,
           "feedback": "Error conceptual: confunde el número de lanzamientos con el número de resultados posibles."
+        },
+        {
+          "letter": "C",
+          "text": "1/2",
+          "is_correct": true,
+          "feedback": "Es correcta porque la moneda tiene dos resultados igualmente probables: cara y sello."
         },
         {
           "letter": "D",
@@ -59,12 +59,6 @@
       "context": "En el festival escolar de Medellín un estudiante lee en un cartel que la probabilidad de obtener cara con una moneda es 1/2.",
       "options": [
         {
-          "letter": "D",
-          "text": "Que al repetir muchos lanzamientos, cerca de la mitad serán cara",
-          "is_correct": true,
-          "feedback": "Es correcta porque la probabilidad describe la frecuencia esperada al repetir el experimento muchas veces."
-        },
-        {
           "letter": "A",
           "text": "Que en el próximo lanzamiento saldrá cara con seguridad",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "Que solo existe un resultado posible",
           "is_correct": false,
           "feedback": "Error conceptual: existen dos resultados y por eso la fracción no es 1/1."
+        },
+        {
+          "letter": "D",
+          "text": "Que al repetir muchos lanzamientos, cerca de la mitad serán cara",
+          "is_correct": true,
+          "feedback": "Es correcta porque la probabilidad describe la frecuencia esperada al repetir el experimento muchas veces."
         }
       ],
       "correct_answer": "D",
@@ -105,12 +105,6 @@
       "context": "En una caseta del festival escolar de Cali hay una ruleta dividida en 8 sectores iguales numerados del 1 al 8.",
       "options": [
         {
-          "letter": "D",
-          "text": "1/2",
-          "is_correct": true,
-          "feedback": "Es correcta porque hay 4 números pares (2, 4, 6, 8) entre 8 sectores: 4/8 = 1/2."
-        },
-        {
           "letter": "A",
           "text": "1/4",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "1/8",
           "is_correct": false,
           "feedback": "Error conceptual: considera solo un sector favorable en lugar de los cuatro pares."
+        },
+        {
+          "letter": "D",
+          "text": "1/2",
+          "is_correct": true,
+          "feedback": "Es correcta porque hay 4 números pares (2, 4, 6, 8) entre 8 sectores: 4/8 = 1/2."
         }
       ],
       "correct_answer": "D",
@@ -151,12 +151,6 @@
       "context": "En un juego de mesa de los intercolegiados en Barranquilla se lanza un dado honesto de 6 caras numeradas del 1 al 6.",
       "options": [
         {
-          "letter": "C",
-          "text": "1/3",
-          "is_correct": true,
-          "feedback": "Es correcta porque los casos favorables son 5 y 6: 2/6 = 1/3."
-        },
-        {
           "letter": "A",
           "text": "4/6",
           "is_correct": false,
@@ -167,6 +161,12 @@
           "text": "2/4",
           "is_correct": false,
           "feedback": "Error conceptual: usa cuatro resultados posibles cuando el dado tiene seis."
+        },
+        {
+          "letter": "C",
+          "text": "1/3",
+          "is_correct": true,
+          "feedback": "Es correcta porque los casos favorables son 5 y 6: 2/6 = 1/3."
         },
         {
           "letter": "D",
@@ -197,12 +197,6 @@
       "context": "En una rifa del festival escolar de Bucaramanga hay una bolsa con 3 balotas rojas, 5 azules y 2 verdes, todas del mismo tamaño.",
       "options": [
         {
-          "letter": "C",
-          "text": "3/10",
-          "is_correct": true,
-          "feedback": "Es correcta porque hay 3 balotas rojas entre 10 balotas en total: 3/10."
-        },
-        {
           "letter": "A",
           "text": "3/7",
           "is_correct": false,
@@ -213,6 +207,12 @@
           "text": "5/10",
           "is_correct": false,
           "feedback": "Error conceptual: usa la cantidad de balotas azules y no la de rojas."
+        },
+        {
+          "letter": "C",
+          "text": "3/10",
+          "is_correct": true,
+          "feedback": "Es correcta porque hay 3 balotas rojas entre 10 balotas en total: 3/10."
         },
         {
           "letter": "D",
@@ -243,12 +243,6 @@
       "context": "En un puesto del festival escolar de Pereira un jugador gana si saca un número par con un dado o si obtiene cara con una moneda.",
       "options": [
         {
-          "letter": "D",
-          "text": "Los dos eventos tienen la misma probabilidad",
-          "is_correct": true,
-          "feedback": "Es correcta porque par y cara valen 1/2 cada uno: 3/6 y 1/2 representan lo mismo."
-        },
-        {
           "letter": "A",
           "text": "Sacar número par es más probable que sacar cara",
           "is_correct": false,
@@ -265,6 +259,12 @@
           "text": "No se pueden comparar eventos de experimentos distintos",
           "is_correct": false,
           "feedback": "Error conceptual: dos probabilidades siempre se pueden comparar como fracciones."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos eventos tienen la misma probabilidad",
+          "is_correct": true,
+          "feedback": "Es correcta porque par y cara valen 1/2 cada uno: 3/6 y 1/2 representan lo mismo."
         }
       ],
       "correct_answer": "D",
@@ -289,16 +289,16 @@
       "context": "En el festival escolar de Ibagué una ruleta tiene 12 sectores iguales: 5 rojos, 3 azules y 4 verdes.",
       "options": [
         {
-          "letter": "B",
-          "text": "Es más probable caer en un sector que no sea rojo",
-          "is_correct": true,
-          "feedback": "Es correcta porque los no rojos son 7 de 12, mientras que los rojos son 5 de 12."
-        },
-        {
           "letter": "A",
           "text": "Es más probable caer en un sector rojo",
           "is_correct": false,
           "feedback": "Error conceptual: 5/12 es menor que 7/12, así que el rojo es menos probable."
+        },
+        {
+          "letter": "B",
+          "text": "Es más probable caer en un sector que no sea rojo",
+          "is_correct": true,
+          "feedback": "Es correcta porque los no rojos son 7 de 12, mientras que los rojos son 5 de 12."
         },
         {
           "letter": "C",
@@ -335,16 +335,10 @@
       "context": "En la final de los juegos intercolegiados en Santa Marta se lanzan dos monedas honestas al mismo tiempo.",
       "options": [
         {
-          "letter": "C",
+          "letter": "A",
           "text": "1/2",
           "is_correct": true,
           "feedback": "Es correcta porque los resultados son CC, CS, SC y SS; dos de ellos tienen exactamente una cara: 2/4 = 1/2."
-        },
-        {
-          "letter": "A",
-          "text": "1/4",
-          "is_correct": false,
-          "feedback": "Error conceptual: cuenta solo el caso cara-sello y olvida sello-cara."
         },
         {
           "letter": "B",
@@ -353,13 +347,19 @@
           "feedback": "Error conceptual: incluye el caso de dos caras, que no cumple la condición."
         },
         {
+          "letter": "C",
+          "text": "1/4",
+          "is_correct": false,
+          "feedback": "Error conceptual: cuenta solo el caso cara-sello y olvida sello-cara."
+        },
+        {
           "letter": "D",
           "text": "2/3",
           "is_correct": false,
           "feedback": "Error conceptual: usa un total de tres resultados cuando en realidad hay cuatro."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Al lanzar dos monedas hay cuatro resultados igualmente probables: CC, CS, SC y SS. Dos de ellos (CS y SC) tienen exactamente una cara, así que la probabilidad es 2/4, que se simplifica a 1/2.",
       "difficulty": "8",
       "images": [],
@@ -381,12 +381,6 @@
       "context": "En el festival escolar de Villavicencio un estudiante afirma: \"Como un dado tiene 6 números, la probabilidad de sacar un número par es mayor que la de sacar un número impar\".",
       "options": [
         {
-          "letter": "D",
-          "text": "No, porque hay 3 números pares y 3 impares, así que ambas probabilidades son iguales",
-          "is_correct": true,
-          "feedback": "Es correcta porque los pares (2, 4, 6) y los impares (1, 3, 5) son tres casos cada uno: 3/6 en ambos."
-        },
-        {
           "letter": "A",
           "text": "Sí, porque hay más números pares que impares",
           "is_correct": false,
@@ -403,6 +397,12 @@
           "text": "No, porque no se puede calcular la probabilidad de un dado",
           "is_correct": false,
           "feedback": "Error conceptual: la probabilidad de un dado honesto sí se calcula contando sus caras."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque hay 3 números pares y 3 impares, así que ambas probabilidades son iguales",
+          "is_correct": true,
+          "feedback": "Es correcta porque los pares (2, 4, 6) y los impares (1, 3, 5) son tres casos cada uno: 3/6 en ambos."
         }
       ],
       "correct_answer": "D",
@@ -427,16 +427,16 @@
       "context": "En la feria escolar de Neiva un estudiante quiere estimar la probabilidad de que una ruleta se detenga en rojo, pero no conoce cuántos sectores de cada color tiene.",
       "options": [
         {
-          "letter": "B",
-          "text": "Girar la ruleta muchas veces y comparar cuántas veces cae en rojo con el total de giros",
-          "is_correct": true,
-          "feedback": "Es correcta porque repetir el experimento permite estimar la probabilidad a partir de la frecuencia observada."
-        },
-        {
           "letter": "A",
           "text": "Girar la ruleta una sola vez y anotar el color que sale",
           "is_correct": false,
           "feedback": "Error conceptual: un solo giro no representa el comportamiento del azar."
+        },
+        {
+          "letter": "B",
+          "text": "Girar la ruleta muchas veces y comparar cuántas veces cae en rojo con el total de giros",
+          "is_correct": true,
+          "feedback": "Es correcta porque repetir el experimento permite estimar la probabilidad a partir de la frecuencia observada."
         },
         {
           "letter": "C",

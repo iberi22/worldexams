@@ -526,9 +526,9 @@
         },
         {
           "letter": "B",
-          "text": "$\\frac{a}{3}x^3 + \\frac{b}{2}x^2 + cx + C$",
-          "is_correct": true,
-          "feedback": "Correcto. Cada monomio se integra aplicando la regla de la potencia y el múltiplo constante."
+          "text": "$\\frac{a}{3}x^3 + \\frac{b}{2}x^2 + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Te faltó el término lineal $cx$ proveniente de la constante $c$."
         },
         {
           "letter": "C",
@@ -538,12 +538,12 @@
         },
         {
           "letter": "D",
-          "text": "$\\frac{a}{3}x^3 + \\frac{b}{2}x^2 + C$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Te faltó el término lineal $cx$ proveniente de la constante $c$."
+          "text": "$\\frac{a}{3}x^3 + \\frac{b}{2}x^2 + cx + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Cada monomio se integra aplicando la regla de la potencia y el múltiplo constante."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Aplicando término a término: $\\int ax^2 dx = \\frac{a}{3}x^3$, $\\int bx dx = \\frac{b}{2}x^2$, $\\int c dx = cx$, y se suma $+C$. Así, $\\int (ax^2 + bx + c) \\, dx = \\frac{a}{3}x^3 + \\frac{b}{2}x^2 + cx + C$.",
       "difficulty": "10",
       "images": [],

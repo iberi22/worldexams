@@ -13,12 +13,6 @@
       "context": "En un taller de teatro escolar en Bogotá, los estudiantes leen una obra breve del escritor colombiano Carlos Repetto.",
       "options": [
         {
-          "letter": "C",
-          "text": "El diálogo entre personajes, organizado en parlamentos y acotaciones.",
-          "is_correct": true,
-          "feedback": "La esencia del teatro es el diálogo, con parlamentos y acotaciones que orientan la puesta en escena."
-        },
-        {
           "letter": "A",
           "text": "La descripción detallada de paisajes.",
           "is_correct": false,
@@ -29,6 +23,12 @@
           "text": "Los capítulos numerados y un narrador omnisciente.",
           "is_correct": false,
           "feedback": "Esos son rasgos típicos de la novela."
+        },
+        {
+          "letter": "C",
+          "text": "El diálogo entre personajes, organizado en parlamentos y acotaciones.",
+          "is_correct": true,
+          "feedback": "La esencia del teatro es el diálogo, con parlamentos y acotaciones que orientan la puesta en escena."
         },
         {
           "letter": "D",
@@ -59,16 +59,16 @@
       "context": "En una obra escolar de Bucaramanga, antes de un parlamento aparece entre paréntesis: \"(Suspira y mira hacia la ventana)\".",
       "options": [
         {
-          "letter": "B",
-          "text": "Es una acotación o didascalia que indica el gesto o emoción del personaje.",
-          "is_correct": true,
-          "feedback": "Las acotaciones orientan la interpretación del actor sobre el escenario."
-        },
-        {
           "letter": "A",
           "text": "Es un aparte que el personaje dice en voz alta al público.",
           "is_correct": false,
           "feedback": "El aparte sería una intervención hablada, no una indicación entre paréntesis."
+        },
+        {
+          "letter": "B",
+          "text": "Es una acotación o didascalia que indica el gesto o emoción del personaje.",
+          "is_correct": true,
+          "feedback": "Las acotaciones orientan la interpretación del actor sobre el escenario."
         },
         {
           "letter": "C",
@@ -105,16 +105,16 @@
       "context": "En una lectura dramatizada en clase de Medellín, la obra dice:\n\nPEDRO: (entra corriendo) ¡Ya vienen los toros!\n\nJUANA: (asustada) ¿Y mi hermano?",
       "options": [
         {
-          "letter": "B",
-          "text": "Juana está asustada e inquieta por la suerte de su hermano menor.",
-          "is_correct": true,
-          "feedback": "La acotación \"asustada\" y la pregunta por el hermano muestran preocupación y miedo."
-        },
-        {
           "letter": "A",
           "text": "Juana está feliz porque llegan los toros.",
           "is_correct": false,
           "feedback": "La acotación indica miedo, no alegría."
+        },
+        {
+          "letter": "B",
+          "text": "Juana está asustada e inquieta por la suerte de su hermano menor.",
+          "is_correct": true,
+          "feedback": "La acotación \"asustada\" y la pregunta por el hermano muestran preocupación y miedo."
         },
         {
           "letter": "C",
@@ -151,12 +151,6 @@
       "context": "Una microobra estudiantil del barrio San Cristóbal en Bogotá presenta este fragmento:\n\nMAESTRO: La vida es un camino largo.\n\nALUMNO: ¿Y si me canso?\n\nMAESTRO: Descansas, y sigues.",
       "options": [
         {
-          "letter": "C",
-          "text": "Una relación de enseñanza-aprendizaje, con un maestro que orienta a un alumno dubitativo.",
-          "is_correct": true,
-          "feedback": "El diálogo refleja la transmisión de experiencia y confianza entre un guía y un aprendiz."
-        },
-        {
           "letter": "A",
           "text": "Una riña entre compañeros de clase.",
           "is_correct": false,
@@ -167,6 +161,12 @@
           "text": "Un pacto comercial entre desconocidos.",
           "is_correct": false,
           "feedback": "El vocabulario es reflexivo, no mercantil."
+        },
+        {
+          "letter": "C",
+          "text": "Una relación de enseñanza-aprendizaje, con un maestro que orienta a un alumno dubitativo.",
+          "is_correct": true,
+          "feedback": "El diálogo refleja la transmisión de experiencia y confianza entre un guía y un aprendiz."
         },
         {
           "letter": "D",
@@ -197,12 +197,6 @@
       "context": "En una obra de teatro infantil de Cali, un personaje dice: \"Yo no tengo la culpa; él lo hizo primero\". Otro responde: \"Las excusas no arreglan los platos rotos\".",
       "options": [
         {
-          "letter": "D",
-          "text": "Confrontar al personaje para que asuma su responsabilidad.",
-          "is_correct": true,
-          "feedback": "El segundo personaje rechaza la excusa y exige responsabilidad."
-        },
-        {
           "letter": "A",
           "text": "Reforzar la disculpa del primer personaje.",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "Pedir perdón en nombre del primero.",
           "is_correct": false,
           "feedback": "La expresión \"no arreglan los platos rotos\" responsabiliza, no disculpa."
+        },
+        {
+          "letter": "D",
+          "text": "Confrontar al personaje para que asuma su responsabilidad.",
+          "is_correct": true,
+          "feedback": "El segundo personaje rechaza la excusa y exige responsabilidad."
         }
       ],
       "correct_answer": "D",
@@ -243,12 +243,6 @@
       "context": "En una obra breve escrita por estudiantes de Ibagué aparecen cinco personajes, pero solo dos de ellos hablan durante toda la pieza; los otros tres aparecen en acotaciones mudas.",
       "options": [
         {
-          "letter": "C",
-          "text": "Crear un contraste entre lo que se dice y lo que se muestra, enriqueciendo la puesta en escena.",
-          "is_correct": true,
-          "feedback": "Los personajes mudos comunican por gestos y acciones, complementando el diálogo."
-        },
-        {
           "letter": "A",
           "text": "Disminuir la importancia del diálogo en el teatro.",
           "is_correct": false,
@@ -259,6 +253,12 @@
           "text": "Convertir la obra en un cuento narrado.",
           "is_correct": false,
           "feedback": "El formato sigue siendo teatral, con parlamentos y acotaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Crear un contraste entre lo que se dice y lo que se muestra, enriqueciendo la puesta en escena.",
+          "is_correct": true,
+          "feedback": "Los personajes mudos comunican por gestos y acciones, complementando el diálogo."
         },
         {
           "letter": "D",
@@ -289,12 +289,6 @@
       "context": "Un dramaturgo latinoamericano del siglo XX escribió: \"En el teatro, el público no mira el mundo: mira al mundo mirándose a sí mismo\".",
       "options": [
         {
-          "letter": "C",
-          "text": "Que el teatro funciona como espejo social y emocional: permite a la audiencia verse en las historias representadas.",
-          "is_correct": true,
-          "feedback": "El teatro invita al reconocimiento y a la reflexión sobre la propia experiencia."
-        },
-        {
           "letter": "A",
           "text": "Que el teatro es solo un entretenimiento superficial.",
           "is_correct": false,
@@ -305,6 +299,12 @@
           "text": "Que el público debe permanecer callado durante toda la obra.",
           "is_correct": false,
           "feedback": "La frase habla del sentido, no del comportamiento del público."
+        },
+        {
+          "letter": "C",
+          "text": "Que el teatro funciona como espejo social y emocional: permite a la audiencia verse en las historias representadas.",
+          "is_correct": true,
+          "feedback": "El teatro invita al reconocimiento y a la reflexión sobre la propia experiencia."
         },
         {
           "letter": "D",
@@ -335,16 +335,10 @@
       "context": "Un grupo de docentes debate si incluir una obra de teatro breve escrita por un autor colombiano contemporáneo en la lectura obligatoria de grado quinto, frente a mantener obras clásicas universales.",
       "options": [
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Los textos contemporáneos permiten a los estudiantes reconocer su contexto, su lengua y sus problemáticas, fortaleciendo la identidad cultural y el hábito lector.",
           "is_correct": true,
           "feedback": "Leer autores cercanos favorece la apropiación cultural y la motivación lectora."
-        },
-        {
-          "letter": "A",
-          "text": "Los clásicos universales son inútiles porque ya nadie los entiende.",
-          "is_correct": false,
-          "feedback": "Los clásicos mantienen valor; el debate es sobre equilibrio, no exclusión."
         },
         {
           "letter": "B",
@@ -353,13 +347,19 @@
           "feedback": "La calidad no depende solo de la época, sino del propósito y el lector."
         },
         {
+          "letter": "C",
+          "text": "Los clásicos universales son inútiles porque ya nadie los entiende.",
+          "is_correct": false,
+          "feedback": "Los clásicos mantienen valor; el debate es sobre equilibrio, no exclusión."
+        },
+        {
           "letter": "D",
           "text": "Solo deben leerse autores de la propia ciudad.",
           "is_correct": false,
           "feedback": "El criterio geográfico es demasiado restrictivo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La selección de lecturas en la escuela debe equilibrar tradición y contemporaneidad. Incluir autores colombianos cercanos al estudiante (repensando su ciudad, su habla y sus problemas) genera sentido de pertenencia, sin descartar el aporte de los grandes clásicos universales.",
       "difficulty": "10",
       "images": [],

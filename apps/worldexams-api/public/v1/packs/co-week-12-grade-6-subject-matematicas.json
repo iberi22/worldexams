@@ -59,12 +59,6 @@
       "context": "Un bus de Medellín recorre la misma ruta todos los días a velocidad constante.",
       "options": [
         {
-          "letter": "D",
-          "text": "12000 COP",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: al duplicar la cantidad, el precio se duplica porque es proporcionalidad directa."
-        },
-        {
           "letter": "A",
           "text": "8000 COP",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "10000 COP",
           "is_correct": false,
           "feedback": "Explica el error conceptual: estima un valor intermedio sin aplicar el factor de proporcionalidad."
+        },
+        {
+          "letter": "D",
+          "text": "12000 COP",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: al duplicar la cantidad, el precio se duplica porque es proporcionalidad directa."
         }
       ],
       "correct_answer": "D",
@@ -105,16 +105,16 @@
       "context": "Una panadería de Cali vende 3 pandebonos por 4500 COP.",
       "options": [
         {
-          "letter": "B",
-          "text": "10500 COP",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: cada pandebono cuesta 1500 COP y 7 por 1500 da 10500."
-        },
-        {
           "letter": "A",
           "text": "9500 COP",
           "is_correct": false,
           "feedback": "Explica el error conceptual: resta una cantidad arbitraria en vez de multiplicar el valor unitario."
+        },
+        {
+          "letter": "B",
+          "text": "10500 COP",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: cada pandebono cuesta 1500 COP y 7 por 1500 da 10500."
         },
         {
           "letter": "C",
@@ -243,12 +243,6 @@
       "context": "Un taller de Barranquilla registra el consumo de tela para uniformes: con 15 metros se hacen 6 uniformes.",
       "options": [
         {
-          "letter": "D",
-          "text": "27.5 metros",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: cada uniforme usa 2.5 metros y 11 por 2.5 da 27.5."
-        },
-        {
           "letter": "A",
           "text": "25 metros",
           "is_correct": false,
@@ -265,6 +259,12 @@
           "text": "22 metros",
           "is_correct": false,
           "feedback": "Explica el error conceptual: usa el doble de uniformes menos uno sin ajustar la proporción."
+        },
+        {
+          "letter": "D",
+          "text": "27.5 metros",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: cada uniforme usa 2.5 metros y 11 por 2.5 da 27.5."
         }
       ],
       "correct_answer": "D",
@@ -382,15 +382,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Es válida, porque 120 entre 3 es 40 cajas por empleado y 40 por 5 es 200",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: verifica la constante de proporcionalidad y confirma la regla directa."
-        },
-        {
-          "letter": "B",
           "text": "Es válida, porque 5 empleados son 2 más y 120 más 2 es 122",
           "is_correct": false,
           "feedback": "Explica el error conceptual: usa suma aditiva en lugar de razonamiento multiplicativo proporcional."
+        },
+        {
+          "letter": "B",
+          "text": "Es válida, porque 120 entre 3 es 40 cajas por empleado y 40 por 5 es 200",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: verifica la constante de proporcionalidad y confirma la regla directa."
         },
         {
           "letter": "C",
@@ -405,7 +405,7 @@
           "feedback": "Explica el error conceptual: divide el total original entre el nuevo número sin hallar el valor unitario."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar exige comprobar la constante: 120 cajas entre 3 empleados da 40 cajas por empleado. Manteniendo ese ritmo, 5 empleados producen 200 cajas. El razonamiento es directamente proporcional y la afirmación está bien justificada.",
       "difficulty": "10",
       "images": [],
@@ -427,12 +427,6 @@
       "context": "Dos estudiantes de Montería discuten: Ana dice que si un grifo llena un tanque en 6 horas, dos grifos iguales lo llenan en 3 horas. Luis dice que lo llenan en 12 horas.",
       "options": [
         {
-          "letter": "C",
-          "text": "Ana, porque es proporcionalidad inversa y el tiempo se reduce a la mitad",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: más grifos reducen el tiempo, 6 dividido en 2 es 3 horas."
-        },
-        {
           "letter": "A",
           "text": "Luis, porque es proporcionalidad directa y el tiempo se duplica",
           "is_correct": false,
@@ -443,6 +437,12 @@
           "text": "Ana, porque es proporcionalidad directa y el tiempo se mantiene igual",
           "is_correct": false,
           "feedback": "Explica el error conceptual: acierta el valor pero justifica con el tipo de relación equivocado."
+        },
+        {
+          "letter": "C",
+          "text": "Ana, porque es proporcionalidad inversa y el tiempo se reduce a la mitad",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: más grifos reducen el tiempo, 6 dividido en 2 es 3 horas."
         },
         {
           "letter": "D",

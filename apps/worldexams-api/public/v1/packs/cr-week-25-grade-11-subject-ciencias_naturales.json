@@ -875,9 +875,9 @@
         },
         {
           "letter": "B",
-          "text": "Transferencia de genes a parientes silvestres (flujo génico) creando \"supermalezas\".",
-          "is_correct": true,
-          "feedback": "¡Correcto! Los genes de resistencia a herbicidas podrían pasar a malezas cercanas."
+          "text": "Que la tierra se vuelva estéril para siempre en una sola cosecha.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si bien el suelo se agota, el término \"estéril para siempre\" es una exageración."
         },
         {
           "letter": "C",
@@ -887,12 +887,12 @@
         },
         {
           "letter": "D",
-          "text": "Que la tierra se vuelva estéril para siempre en una sola cosecha.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Si bien el suelo se agota, el término \"estéril para siempre\" es una exageración."
+          "text": "Transferencia de genes a parientes silvestres (flujo génico) creando \"supermalezas\".",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los genes de resistencia a herbicidas podrían pasar a malezas cercanas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La biotecnología ofrece soluciones pero también desafíos éticos y ambientales. El flujo génico es una de las principales preocupaciones de los ecólogos respecto a los cultivos OGM.\n\n---",
       "difficulty": "10",
       "images": [],

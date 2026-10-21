@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W28-days-week-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which day comes after Monday?",
+      "context": "En el salón de clase de un colegio de Cali hay un calendario con los días de la semana en inglés.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the word for a place where you live or stay on holiday."
+          "text": "Sunday",
+          "is_correct": false,
+          "feedback": "Incorrect. Sunday comes before Monday, not after it."
         },
         {
           "letter": "B",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' is the system of moving people or goods between places, not the place you sleep in itself."
+          "text": "Tuesday",
+          "is_correct": true,
+          "feedback": "Correct. The order is Monday, Tuesday, so Tuesday comes after Monday."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "Thursday",
           "is_correct": false,
-          "feedback": "'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live."
+          "feedback": "Incorrect. Thursday comes three days after Monday, not right after it."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "Wednesday",
           "is_correct": false,
-          "feedback": "'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in."
+          "feedback": "Incorrect. Wednesday comes after Tuesday, so it is two days after Monday."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "El orden de la semana es \"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday\". Después del lunes (\"Monday\") viene el martes, \"Tuesday\". El domingo (\"Sunday\") va antes del lunes.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W28-days-week-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -55,36 +55,36 @@
     },
     {
       "id": "CO-ING-3-2026-W28-days-week-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which two days are the weekend?",
+      "context": "Los sábados y domingos muchas familias de Bogotá van a la ciclovía porque no hay colegio.",
       "options": [
         {
-          "letter": "C",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "text": "Saturday and Sunday",
+          "is_correct": true,
+          "feedback": "Correct. The weekend is Saturday and Sunday, the days with no school."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "Monday and Tuesday",
           "is_correct": false,
-          "feedback": "'destination' names only the place you are going to, without the route or the order of the whole journey."
+          "feedback": "Incorrect. Monday and Tuesday are school days at the start of the week."
+        },
+        {
+          "letter": "C",
+          "text": "Friday and Monday",
+          "is_correct": false,
+          "feedback": "Incorrect. Friday and Monday are school days; the weekend is between them."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "Wednesday and Thursday",
           "is_correct": false,
-          "feedback": "'passport' is the official document that lets you cross a border, not the plan of where you go."
+          "feedback": "Incorrect. Wednesday and Thursday are in the middle of the week."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "El fin de semana se dice \"weekend\" y son dos días: \"Saturday\" (sábado) y \"Sunday\" (domingo). De lunes a viernes son los días de colegio, llamados \"weekdays\" o \"school days\".",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-3-2026-W28-days-week-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: \"Today is Thursday. Tomorrow is ___.\"",
+      "context": "Hoy es jueves en un colegio de Cartagena y los niños esperan la clase de educación física de mañana.",
       "options": [
         {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' is the place someone is going to or something is being sent to."
-        },
-        {
           "letter": "A",
-          "text": "departure",
+          "text": "Wednesday",
           "is_correct": false,
-          "feedback": "'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself."
+          "feedback": "Incorrect. Wednesday comes before Thursday, so it was yesterday."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "Saturday",
           "is_correct": false,
-          "feedback": "'arrival' is the act of reaching a place, not the place that is reached."
+          "feedback": "Incorrect. Saturday comes two days after Thursday, not tomorrow."
+        },
+        {
+          "letter": "C",
+          "text": "Tuesday",
+          "is_correct": false,
+          "feedback": "Incorrect. Tuesday comes before Wednesday and Thursday, so it is in the past."
         },
         {
           "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "'journey' is the whole trip from the start to the end, not the place the trip finishes at."
+          "text": "Friday",
+          "is_correct": true,
+          "feedback": "Correct. Friday comes right after Thursday, so tomorrow is Friday."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "\"Tomorrow\" significa mañana, el día siguiente. Si hoy (\"today\") es jueves, \"Thursday\", el día siguiente es viernes, \"Friday\". \"Wednesday\" fue ayer (\"yesterday\").",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.72,
       "bundle_id": "CO-ING-3-2026-W28-days-week-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-3-2026-W28-days-week-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "How many days are there in one week?",
+      "context": "En la clase de inglés en Neiva, los niños cuentan los días de una semana en el calendario.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel."
+          "text": "five",
+          "is_correct": false,
+          "feedback": "Incorrect. Five is the number of school days, Monday to Friday, not the whole week."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "six",
           "is_correct": false,
-          "feedback": "'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in."
+          "feedback": "Incorrect. Six days is one day short; Monday to Sunday makes seven."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "ten",
           "is_correct": false,
-          "feedback": "'flight' is the journey by plane itself, not the containers that hold your things."
+          "feedback": "Incorrect. Ten is too many; a week has only seven days."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'reservation' is the booking you make for a seat or a room, not the bag you carry."
+          "text": "seven",
+          "is_correct": true,
+          "feedback": "Correct. A week has seven days, from Monday to Sunday."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Una semana (\"week\") tiene siete días: \"seven days\". Cinco (\"five\") son solo los días de colegio de lunes a viernes; si sumamos el sábado y el domingo tenemos siete.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.68,
       "bundle_id": "CO-ING-3-2026-W28-days-week-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-3-2026-W28-days-week-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Camila goes to school from Monday to Friday. On Saturday she visits her grandma in Bogota. On Sunday she goes to the park.\" When does Camila visit her grandma?",
+      "context": "Camila vive en Soacha y los fines de semana visita a su familia en Bogotá.",
       "options": [
         {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "on Sunday",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all."
+          "feedback": "Incorrect. On Sunday Camila goes to the park, not to her grandma's house."
         },
         {
           "letter": "B",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle."
+          "text": "on Saturday",
+          "is_correct": true,
+          "feedback": "Correct. The text says \"On Saturday she visits her grandma\"."
         },
         {
           "letter": "C",
-          "text": "tourist",
+          "text": "on Monday",
           "is_correct": false,
-          "feedback": "'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle."
+          "feedback": "Incorrect. On Monday Camila goes to school, according to the text."
+        },
+        {
+          "letter": "D",
+          "text": "on Friday",
+          "is_correct": false,
+          "feedback": "Incorrect. Friday is a school day for Camila, so she does not visit her grandma then."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Hay que buscar en el texto la palabra \"grandma\" (abuela): \"On Saturday she visits her grandma\". El domingo va al parque y de lunes a viernes va al colegio. Con los días usamos \"on\": \"on Saturday\".",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.6,
       "bundle_id": "CO-ING-3-2026-W28-days-week-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-3-2026-W28-days-week-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which list is in the correct order?",
+      "context": "Un niño de Santa Marta ordena las tarjetas de los días para el mural del salón.",
       "options": [
         {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive."
+          "letter": "A",
+          "text": "Friday, Thursday, Saturday",
+          "is_correct": false,
+          "feedback": "Incorrect. Thursday comes before Friday, so this order is wrong."
         },
         {
-          "letter": "A",
-          "text": "security",
+          "letter": "B",
+          "text": "Tuesday, Thursday, Wednesday",
           "is_correct": false,
-          "feedback": "'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in."
+          "feedback": "Incorrect. Wednesday comes before Thursday, so the last two are swapped."
         },
         {
           "letter": "C",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for your plane, not the place where your belongings are inspected."
+          "text": "Wednesday, Thursday, Friday",
+          "is_correct": true,
+          "feedback": "Correct. Wednesday, Thursday and Friday follow the order of the week."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "Sunday, Saturday, Monday",
           "is_correct": false,
-          "feedback": "'gate' is the door at the plane you walk through to board, not the place where officials check your things."
+          "feedback": "Incorrect. Saturday comes before Sunday, so the first two are swapped."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Para revisar el orden hay que recordar la secuencia completa: \"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday\". Solo \"Wednesday, Thursday, Friday\" respeta esa secuencia.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.56,
       "bundle_id": "CO-ING-3-2026-W28-days-week-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-3-2026-W28-days-week-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Pedro says: \"Yesterday was Saturday, so today is a school day.\" Is Pedro right?",
+      "context": "Pedro se despierta en su casa de Valledupar y piensa que tiene que ir al colegio.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane."
+          "text": "Yes. Today is Monday, a school day.",
+          "is_correct": false,
+          "feedback": "Incorrect. Monday comes after Sunday, so it is two days after Saturday."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "Yes. Today is Friday, a school day.",
           "is_correct": false,
-          "feedback": "'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline."
+          "feedback": "Incorrect. Friday comes before Saturday, so it cannot be today."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'receipt' is the proof that you paid for something, which is not permission to board a plane."
+          "text": "No. Today is Sunday, and there is no school.",
+          "is_correct": true,
+          "feedback": "Correct. The day after Saturday is Sunday, which is part of the weekend."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "No. Today is Saturday again.",
           "is_correct": false,
-          "feedback": "'brochure' is a leaflet with tourist information, not a travel document issued to a passenger."
+          "feedback": "Incorrect. Saturday was yesterday; the day changes, so today is Sunday."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Si ayer (\"yesterday\") fue sábado, hoy es domingo (\"Sunday\"). El domingo es parte del fin de semana y no hay colegio. Por eso Pedro está equivocado: el lunes llega mañana, no hoy.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.5,
       "bundle_id": "CO-ING-3-2026-W28-days-week-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-3-2026-W28-days-week-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read the dialogue.\nAna: \"What day is it today?\"\nLuis: \"___\"",
+      "context": "Ana y Luis conversan en la ruta escolar en Villavicencio.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
+          "text": "It's Wednesday.",
           "is_correct": true,
-          "feedback": "Correct! 'sightseeing' means visiting the places of interest of a location as a traveler."
+          "feedback": "Correct. The question asks for the day, and Wednesday is a day of the week."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "It's ten o'clock.",
           "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place."
+          "feedback": "Incorrect. \"Ten o'clock\" tells the time, not the day of the week."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "It's July.",
           "is_correct": false,
-          "feedback": "'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city."
+          "feedback": "Incorrect. July is a month of the year, not a day of the week."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "It's sunny.",
           "is_correct": false,
-          "feedback": "'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place."
+          "feedback": "Incorrect. \"Sunny\" describes the weather, not the day."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "explanation": "La pregunta \"What day is it today?\" pide un día de la semana, por ejemplo \"It's Wednesday\". \"Ten o'clock\" es una hora, \"July\" es un mes y \"sunny\" habla del clima.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.45,
       "bundle_id": "CO-ING-3-2026-W28-days-week-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",

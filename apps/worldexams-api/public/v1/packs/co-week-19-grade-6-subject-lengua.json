@@ -394,18 +394,18 @@
         },
         {
           "letter": "C",
-          "text": "Sujeto tácito (se entiende «ustedes») que implica a todos los visitantes.",
-          "is_correct": true,
-          "feedback": "Correcto. La estructura impersonal generaliza la prohibición."
-        },
-        {
-          "letter": "D",
           "text": "Sujeto plural explícito: «todos los alumnos».",
           "is_correct": false,
           "feedback": "Incorrecto. El cartel no menciona a nadie en particular."
+        },
+        {
+          "letter": "D",
+          "text": "Sujeto tácito (se entiende «ustedes») que implica a todos los visitantes.",
+          "is_correct": true,
+          "feedback": "Correcto. La estructura impersonal generaliza la prohibición."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "En avisos y normas, es frecuente usar sujetos tácitos para incluir a todos sin señalar a nadie: «se prohíbe», «se recomienda», «se solicita». El verbo en tercera persona y la ausencia de sujeto explícito generalizan la orden.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -428,15 +428,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "La alumna escribió de forma impecable y no hay nada que mejorar.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El sujeto de la segunda oración es ambiguo."
-        },
-        {
-          "letter": "B",
           "text": "La segunda oración debería decir «los compañeros y la profesora».",
           "is_correct": true,
           "feedback": "Correcto. El sujeto tácito «ellos» se entiende, pero conviene ser explícita para evitar confusión."
+        },
+        {
+          "letter": "B",
+          "text": "La alumna escribió de forma impecable y no hay nada que mejorar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto de la segunda oración es ambiguo."
         },
         {
           "letter": "C",
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La primera oración tiene sujeto explícito claro."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Aunque el sujeto tácito es válido, en textos académicos conviene ser explícito para evitar ambigüedades. Cuando un pronombre como «ellos» pueda referirse a varios grupos, mejor repetir el sustantivo para mayor claridad.",
       "difficulty": "10",
       "images": [],

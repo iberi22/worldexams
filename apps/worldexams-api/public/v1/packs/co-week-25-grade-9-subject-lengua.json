@@ -382,15 +382,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Explica que el libro fue retirado del mercado por decisión de la editora.",
-          "is_correct": false,
-          "feedback": "La falta de un ejemplar en una librería no implica una retirada del mercado."
-        },
-        {
-          "letter": "B",
           "text": "Explica que la disponibilidad depende del canal de difusión, y que cada punto de venta maneja su propio inventario.",
           "is_correct": true,
           "feedback": "El agotamiento es local: cada librería o biblioteca administra un stock propio."
+        },
+        {
+          "letter": "B",
+          "text": "Explica que el libro fue retirado del mercado por decisión de la editora.",
+          "is_correct": false,
+          "feedback": "La falta de un ejemplar en una librería no implica una retirada del mercado."
         },
         {
           "letter": "C",
@@ -405,7 +405,7 @@
           "feedback": "La calidad de una edición no depende del punto de venta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La disponibilidad de un libro es un dato de la red de difusión, no de la obra. Cada punto de venta compra ejemplares por su cuenta y los agota según sus lectores. Por eso, preguntar dónde encontrar un libro exige conocer los canales, en lugar de suponer que la ausencia en un punto de venta significa que el título se ha retirado.",
       "difficulty": "8",
       "images": [],

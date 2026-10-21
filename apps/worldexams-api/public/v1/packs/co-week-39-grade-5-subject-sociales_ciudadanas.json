@@ -250,9 +250,9 @@
         },
         {
           "letter": "B",
-          "text": "Que en San Pedro hay participación masiva y cumplimiento de acuerdos, mientras en San Pablo la apatía paraliza la organización.",
-          "is_correct": true,
-          "feedback": "Correcto: la organización funciona cuando la gente asiste, decide y cumple; sin participación no hay resultados."
+          "text": "Que las Juntas solo funcionan en las ciudades y no en las veredas.",
+          "is_correct": false,
+          "feedback": "Incorrecto: San Pedro es vereda y su Junta sí funciona gracias a la participación."
         },
         {
           "letter": "C",
@@ -262,12 +262,12 @@
         },
         {
           "letter": "D",
-          "text": "Que las Juntas solo funcionan en las ciudades y no en las veredas.",
-          "is_correct": false,
-          "feedback": "Incorrecto: San Pedro es vereda y su Junta sí funciona gracias a la participación."
+          "text": "Que en San Pedro hay participación masiva y cumplimiento de acuerdos, mientras en San Pablo la apatía paraliza la organización.",
+          "is_correct": true,
+          "feedback": "Correcto: la organización funciona cuando la gente asiste, decide y cumple; sin participación no hay resultados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las organizaciones comunitarias viven de la participación: asistir, opinar, votar y cumplir los acuerdos. Cuando los vecinos se desentienden, la Junta existe solo en el papel y los problemas se acumulan. La apatía es el enemigo de la democracia; la participación constante, su motor.",
       "difficulty": "8",
       "images": [],

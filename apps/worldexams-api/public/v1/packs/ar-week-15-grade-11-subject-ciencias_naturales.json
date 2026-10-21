@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v1",
-      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $1\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
-      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 1.",
+      "statement": "¿Qué establece la ley de conservación de la masa (Lavoisier) para una reacción química en un sistema cerrado?",
+      "context": "En el laboratorio de una escuela de Rosario se hace reaccionar una pastilla efervescente con agua en un frasco cerrado, sobre una balanza.",
       "options": [
         {
           "letter": "A",
-          "text": "$2\\text{ moles de NH}_3$",
-          "is_correct": true,
-          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $1 \\cdot 2 = 2\\text{ moles}$."
+          "text": "La masa de los productos siempre es menor porque parte se transforma en energía",
+          "is_correct": false,
+          "feedback": "Incorrecto. en las reacciones químicas la variación de masa por energía es imperceptible; lo que se observa es conservación."
         },
         {
           "letter": "B",
-          "text": "$1\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+          "text": "La masa total de los reactivos es igual a la masa total de los productos",
+          "is_correct": true,
+          "feedback": "Correcto. los átomos solo se reordenan en nuevas sustancias; no se crean ni se destruyen, por eso la masa total se mantiene."
         },
         {
           "letter": "C",
-          "text": "$3\\text{ moles de NH}_3$",
+          "text": "El número de moléculas de reactivos y productos es siempre el mismo",
           "is_correct": false,
-          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+          "feedback": "Incorrecto. lo que se conserva es el número de átomos de cada elemento; el número de moléculas puede cambiar, como en 2 H₂ + O₂ → 2 H₂O."
         },
         {
           "letter": "D",
-          "text": "$0,5\\text{ moles de NH}_3$",
+          "text": "La masa de cada sustancia se mantiene constante durante la reacción",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+          "feedback": "Incorrecto. los reactivos se consumen y los productos se forman, así que la masa de cada sustancia cambia; solo la suma total se conserva."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 1\\text{ moles N}_2 \\cdot 2 = 2\\text{ moles de NH}_3$.\n\n---",
+      "correct_answer": "B",
+      "explanation": "Lavoisier demostró, pesando cuidadosamente reacciones en recipientes cerrados, que la masa total no cambia: 'nada se pierde, nada se crea, todo se transforma'. La razón microscópica es que en una reacción química los átomos se reorganizan formando nuevas sustancias, pero su número y tipo se conservan. Por eso las ecuaciones deben estar balanceadas.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.9,
+      "expected_success": 0.85,
       "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -54,41 +54,41 @@
     },
     {
       "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v2",
-      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $2\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
-      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 2.",
+      "statement": "¿Cuántas partículas (átomos, moléculas o iones) contiene 1 mol de una sustancia?",
+      "context": "En una clase de química de un colegio de Salta se introduce el concepto de mol para contar partículas.",
       "options": [
         {
-          "letter": "B",
-          "text": "$4\\text{ moles de NH}_3$",
+          "letter": "A",
+          "text": "Aproximadamente 6,02·10²³ partículas",
           "is_correct": true,
-          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $2 \\cdot 2 = 4\\text{ moles}$."
+          "feedback": "Correcto. es el número de Avogadro, la cantidad de átomos que hay en 12 g de carbono-12."
         },
         {
-          "letter": "A",
-          "text": "$2\\text{ moles de NH}_3$",
+          "letter": "B",
+          "text": "1 partícula de masa igual a la masa molar",
           "is_correct": false,
-          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+          "feedback": "Incorrecto. un mol es una cantidad enorme de partículas, no una sola; la masa molar es la masa de todo ese conjunto."
         },
         {
           "letter": "C",
-          "text": "$6\\text{ moles de NH}_3$",
+          "text": "6,02·10⁻²³ partículas",
           "is_correct": false,
-          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+          "feedback": "Incorrecto. el exponente negativo daría una fracción de partícula; el número de Avogadro tiene exponente positivo 23."
         },
         {
           "letter": "D",
-          "text": "$0,5\\text{ moles de NH}_3$",
+          "text": "Tantas partículas como gramos tenga la muestra",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+          "feedback": "Incorrecto. la cantidad de partículas por gramo depende de la sustancia; el mol fija un número constante, no un número por gramo."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 2\\text{ moles N}_2 \\cdot 2 = 4\\text{ moles de NH}_3$.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El mol es la unidad de cantidad de sustancia del SI. Un mol contiene N_A ≈ 6,02·10²³ entidades elementales, el número de Avogadro. Esta unidad permite pasar del mundo de los átomos, imposibles de contar uno a uno, a cantidades que se pueden pesar en el laboratorio usando la masa molar.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.88,
+      "expected_success": 0.83,
       "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -99,175 +99,40 @@
     },
     {
       "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v3",
-      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $3\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
-      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 3.",
+      "statement": "¿Qué tipo de reacción es la que ocurre en el horno?",
+      "context": "En las caleras de las Sierras de Córdoba se calienta piedra caliza en hornos para obtener cal viva: CaCO₃ → CaO + CO₂.",
       "options": [
         {
-          "letter": "C",
-          "text": "$6\\text{ moles de NH}_3$",
-          "is_correct": true,
-          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $3 \\cdot 2 = 6\\text{ moles}$."
-        },
-        {
           "letter": "A",
-          "text": "$3\\text{ moles de NH}_3$",
+          "text": "Síntesis o combinación",
           "is_correct": false,
-          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+          "feedback": "Incorrecto. en la síntesis dos o más reactivos se unen en un solo producto; aquí ocurre lo contrario."
         },
         {
           "letter": "B",
-          "text": "$9\\text{ moles de NH}_3$",
+          "text": "Descomposición",
+          "is_correct": true,
+          "feedback": "Correcto. un único reactivo, el carbonato de calcio, se separa por acción del calor en dos sustancias más simples."
+        },
+        {
+          "letter": "C",
+          "text": "Sustitución simple",
           "is_correct": false,
-          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+          "feedback": "Incorrecto. en la sustitución un elemento reemplaza a otro en un compuesto; aquí no participa ningún elemento libre."
         },
         {
           "letter": "D",
-          "text": "$0,5\\text{ moles de NH}_3$",
+          "text": "Neutralización",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+          "feedback": "Incorrecto. la neutralización es la reacción entre un ácido y una base que forma sal y agua; no hay ácido ni base reaccionando."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 3\\text{ moles N}_2 \\cdot 2 = 6\\text{ moles de NH}_3$.\n\n---",
+      "correct_answer": "B",
+      "explanation": "Una reacción de descomposición tiene la forma AB → A + B: un compuesto se divide en sustancias más sencillas, en general con aporte de energía. La calcinación de la caliza (CaCO₃) produce óxido de calcio (cal viva, CaO), usado en construcción, y libera dióxido de carbono. Es una reacción endotérmica que requiere temperaturas cercanas a 900 °C.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.86,
-      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v4",
-      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $4\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
-      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 4.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$8\\text{ moles de NH}_3$",
-          "is_correct": true,
-          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $4 \\cdot 2 = 8\\text{ moles}$."
-        },
-        {
-          "letter": "B",
-          "text": "$4\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
-        },
-        {
-          "letter": "C",
-          "text": "$12\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
-        },
-        {
-          "letter": "D",
-          "text": "$0,5\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 4\\text{ moles N}_2 \\cdot 2 = 8\\text{ moles de NH}_3$.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.84,
-      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v5",
-      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $5\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
-      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 5.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$10\\text{ moles de NH}_3$",
-          "is_correct": true,
-          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $5 \\cdot 2 = 10\\text{ moles}$."
-        },
-        {
-          "letter": "B",
-          "text": "$5\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
-        },
-        {
-          "letter": "C",
-          "text": "$15\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
-        },
-        {
-          "letter": "D",
-          "text": "$0,5\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 5\\text{ moles N}_2 \\cdot 2 = 10\\text{ moles de NH}_3$.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.82,
-      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v6",
-      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $6\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
-      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 6.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "$12\\text{ moles de NH}_3$",
-          "is_correct": true,
-          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $6 \\cdot 2 = 12\\text{ moles}$."
-        },
-        {
-          "letter": "A",
-          "text": "$6\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
-        },
-        {
-          "letter": "B",
-          "text": "$18\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
-        },
-        {
-          "letter": "C",
-          "text": "$0,5\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 6\\text{ moles N}_2 \\cdot 2 = 12\\text{ moles de NH}_3$.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
       "periodo": 15,
@@ -278,41 +143,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v7",
-      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $7\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
-      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 7.",
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v4",
+      "statement": "¿Qué significan los coeficientes de la ecuación balanceada?",
+      "context": "En una presentación sobre el hidrógeno verde que se proyecta producir en la Patagonia, se muestra la ecuación 2 H₂ + O₂ → 2 H₂O.",
       "options": [
         {
-          "letter": "C",
-          "text": "$14\\text{ moles de NH}_3$",
-          "is_correct": true,
-          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $7 \\cdot 2 = 14\\text{ moles}$."
-        },
-        {
           "letter": "A",
-          "text": "$7\\text{ moles de NH}_3$",
+          "text": "Que 2 g de H₂ reaccionan con 1 g de O₂ para formar 2 g de H₂O",
           "is_correct": false,
-          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+          "feedback": "Incorrecto. los coeficientes no son masas; 2 mol de H₂ pesan 4 g y 1 mol de O₂ pesa 32 g."
         },
         {
           "letter": "B",
-          "text": "$21\\text{ moles de NH}_3$",
+          "text": "Que la molécula de agua tiene 2 átomos de oxígeno",
           "is_correct": false,
-          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+          "feedback": "Incorrecto. el coeficiente 2 delante de H₂O indica dos moléculas; la fórmula H₂O muestra un solo átomo de oxígeno."
+        },
+        {
+          "letter": "C",
+          "text": "Que 2 moles de H₂ reaccionan con 1 mol de O₂ para formar 2 moles de H₂O",
+          "is_correct": true,
+          "feedback": "Correcto. los coeficientes indican la proporción en moles (o moléculas) de cada sustancia que reacciona o se forma."
         },
         {
           "letter": "D",
-          "text": "$0,5\\text{ moles de NH}_3$",
+          "text": "Que se forma el doble de masa de agua que la que había de reactivos",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+          "feedback": "Incorrecto. la masa se conserva: 4 g + 32 g = 36 g de agua, igual a la de los reactivos."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 7\\text{ moles N}_2 \\cdot 2 = 14\\text{ moles de NH}_3$.\n\n---",
-      "difficulty": "6",
+      "explanation": "En una ecuación balanceada, los coeficientes estequiométricos expresan la proporción en número de partículas, y por lo tanto en moles: 2 mol H₂ : 1 mol O₂ : 2 mol H₂O. Para pasar a masa hay que multiplicar por las masas molares: 4 g de H₂ con 32 g de O₂ forman 36 g de agua, lo que también verifica la conservación de la masa.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.78,
       "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
       "periodo": 15,
@@ -323,42 +188,177 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v8",
-      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $8\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
-      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 8.",
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la masa molar del ácido sulfúrico?",
+      "context": "En el laboratorio de la planta química de un parque industrial de Campana se rotula un bidón de ácido sulfúrico, H₂SO₄. Masas atómicas: H = 1, S = 32, O = 16.",
       "options": [
         {
-          "letter": "C",
-          "text": "$16\\text{ moles de NH}_3$",
-          "is_correct": true,
-          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $8 \\cdot 2 = 16\\text{ moles}$."
-        },
-        {
           "letter": "A",
-          "text": "$8\\text{ moles de NH}_3$",
+          "text": "97 g/mol",
           "is_correct": false,
-          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+          "feedback": "Incorrecto. contaste un solo átomo de hidrógeno; la fórmula H₂SO₄ tiene dos."
         },
         {
           "letter": "B",
-          "text": "$24\\text{ moles de NH}_3$",
+          "text": "50 g/mol",
           "is_correct": false,
-          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+          "feedback": "Incorrecto. contaste un solo átomo de oxígeno; el subíndice 4 indica cuatro oxígenos, que aportan 64 g/mol."
+        },
+        {
+          "letter": "C",
+          "text": "49 g/mol",
+          "is_correct": false,
+          "feedback": "Incorrecto. dividiste la masa molar por 2, quizás por los dos hidrógenos; la masa molar es la suma de todas las masas atómicas."
         },
         {
           "letter": "D",
-          "text": "$0,5\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+          "text": "98 g/mol",
+          "is_correct": true,
+          "feedback": "Correcto. 2·1 + 32 + 4·16 = 2 + 32 + 64 = 98 g/mol."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 8\\text{ moles N}_2 \\cdot 2 = 16\\text{ moles de NH}_3$.\n\n---",
+      "correct_answer": "D",
+      "explanation": "La masa molar de un compuesto es la suma de las masas atómicas de todos los átomos de su fórmula, cada una multiplicada por su subíndice. H₂SO₄: 2 hidrógenos (2·1 = 2), 1 azufre (32) y 4 oxígenos (4·16 = 64). Total: 98 g/mol. Es decir, 1 mol de ácido sulfúrico pesa 98 g.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.76,
+      "expected_success": 0.75,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuáles son los coeficientes que balancean la ecuación, en el orden CH₄, O₂, CO₂, H₂O?",
+      "context": "El gas natural que llega a las cocinas de Buenos Aires desde Vaca Muerta es principalmente metano, que arde según CH₄ + O₂ → CO₂ + H₂O (sin balancear).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1, 1, 1, 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. quedan 4 H a la izquierda y 2 a la derecha, y 2 O a la izquierda contra 3 a la derecha."
+        },
+        {
+          "letter": "B",
+          "text": "1, 2, 1, 2",
+          "is_correct": true,
+          "feedback": "Correcto. con CH₄ + 2 O₂ → CO₂ + 2 H₂O hay 1 C, 4 H y 4 O en cada lado."
+        },
+        {
+          "letter": "C",
+          "text": "1, 2, 1, 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. el hidrógeno no queda balanceado: 4 H en el metano y solo 2 H en una molécula de agua."
+        },
+        {
+          "letter": "D",
+          "text": "2, 3, 2, 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. el oxígeno no cierra: 6 O a la izquierda y 4 + 4 = 8 O a la derecha."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se balancea primero el carbono (1 CO₂), luego el hidrógeno: 4 H del metano requieren 2 H₂O. Del lado de los productos hay 2 O en el CO₂ y 2 O en las dos aguas: 4 O, que se obtienen con 2 O₂. La ecuación es CH₄ + 2 O₂ → CO₂ + 2 H₂O. Al final se verifica átomo por átomo: C 1 = 1, H 4 = 4, O 4 = 4.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.73,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v7",
+      "statement": "¿Cuántos moles de agua hay en la muestra?",
+      "context": "En una escuela de Santa Fe se miden 90 g de agua destilada para un experimento. Masas atómicas: H = 1, O = 16.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1620 mol",
+          "is_correct": false,
+          "feedback": "Incorrecto. multiplicaste la masa por la masa molar (90·18); los moles se obtienen dividiendo."
+        },
+        {
+          "letter": "B",
+          "text": "Aproximadamente 5,3 mol",
+          "is_correct": false,
+          "feedback": "Incorrecto. usaste M = 17 g/mol, contando un solo hidrógeno; el agua tiene 2·1 + 16 = 18 g/mol."
+        },
+        {
+          "letter": "C",
+          "text": "5 mol",
+          "is_correct": true,
+          "feedback": "Correcto. n = m/M = 90 g / 18 g/mol = 5 mol."
+        },
+        {
+          "letter": "D",
+          "text": "90 mol",
+          "is_correct": false,
+          "feedback": "Incorrecto. tomaste la masa en gramos como si fuera la cantidad en moles, sin dividir por la masa molar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La cantidad de sustancia se calcula como n = m/M. La masa molar del agua es 2·1 + 16 = 18 g/mol. Entonces n = 90/18 = 5 mol, que equivalen a 5·6,02·10²³ ≈ 3,01·10²⁴ moléculas de agua.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.71,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuántas moléculas de CO₂ hay en la muestra? (N_A = 6,02·10²³)",
+      "context": "En un trabajo sobre el efecto invernadero en una escuela de Mendoza se analiza una muestra que contiene 2 mol de CO₂.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3,01·10²³ moléculas",
+          "is_correct": false,
+          "feedback": "Incorrecto. dividiste el número de Avogadro por 2 en lugar de multiplicarlo por los 2 moles."
+        },
+        {
+          "letter": "B",
+          "text": "3,612·10²⁴ moléculas",
+          "is_correct": false,
+          "feedback": "Incorrecto. multiplicaste además por los 3 átomos de cada molécula: ese es el número de átomos, no de moléculas."
+        },
+        {
+          "letter": "C",
+          "text": "2 moléculas",
+          "is_correct": false,
+          "feedback": "Incorrecto. confundiste moles con moléculas; cada mol contiene 6,02·10²³ moléculas."
+        },
+        {
+          "letter": "D",
+          "text": "1,204·10²⁴ moléculas",
+          "is_correct": true,
+          "feedback": "Correcto. N = n·N_A = 2·6,02·10²³ = 12,04·10²³ = 1,204·10²⁴ moléculas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El número de partículas se obtiene multiplicando la cantidad de moles por el número de Avogadro: N = 2·6,02·10²³ = 1,204·10²⁴ moléculas de CO₂. Como cada molécula tiene 3 átomos, la muestra contiene 3,612·10²⁴ átomos en total; hay que distinguir siempre qué partículas se están contando.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.69,
       "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v9",
-      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $9\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
-      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 9.",
+      "statement": "¿Qué masa de CO₂ se produce?",
+      "context": "Una garrafa de gas de un camping en Villa Gesell quema 32 g de metano según CH₄ + 2 O₂ → CO₂ + 2 H₂O. Masas atómicas: C = 12, H = 1, O = 16.",
       "options": [
         {
-          "letter": "D",
-          "text": "$18\\text{ moles de NH}_3$",
-          "is_correct": true,
-          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $9 \\cdot 2 = 18\\text{ moles}$."
-        },
-        {
           "letter": "A",
-          "text": "$9\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+          "text": "88 g",
+          "is_correct": true,
+          "feedback": "Correcto. 32 g de CH₄ son 2 mol (32/16); por la relación 1:1 se forman 2 mol de CO₂, que pesan 2·44 = 88 g."
         },
         {
           "letter": "B",
-          "text": "$27\\text{ moles de NH}_3$",
+          "text": "32 g",
           "is_correct": false,
-          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+          "feedback": "Incorrecto. supusiste que la masa de CO₂ es igual a la de metano; la relación 1:1 es en moles, no en gramos."
         },
         {
           "letter": "C",
-          "text": "$0,5\\text{ moles de NH}_3$",
+          "text": "44 g",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+          "feedback": "Incorrecto. es la masa de 1 mol de CO₂; olvidaste que 32 g de metano son 2 mol."
+        },
+        {
+          "letter": "D",
+          "text": "176 g",
+          "is_correct": false,
+          "feedback": "Incorrecto. usaste el coeficiente 2 del O₂ como si fuera del CO₂, duplicando los moles de producto."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 9\\text{ moles N}_2 \\cdot 2 = 18\\text{ moles de NH}_3$.\n\n---",
+      "correct_answer": "A",
+      "explanation": "En estequiometría se trabaja en moles: (1) masa de CH₄ → moles: 32/16 = 2 mol; (2) relación de la ecuación CH₄ : CO₂ = 1 : 1 → 2 mol de CO₂; (3) moles → masa: 2·44 = 88 g. Que se produzca más masa de CO₂ que de metano se explica porque el carbono se combina con oxígeno tomado del aire.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.74,
+      "expected_success": 0.67,
       "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v10",
-      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $10\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
-      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 10.",
+      "statement": "¿Qué masa de amoníaco se obtiene, como máximo, a partir de 28 g de N₂ con suficiente hidrógeno?",
+      "context": "En la planta de Profertil en Bahía Blanca se produce amoníaco para fertilizantes mediante N₂ + 3 H₂ → 2 NH₃. Masas atómicas: N = 14, H = 1.",
       "options": [
         {
           "letter": "A",
-          "text": "$20\\text{ moles de NH}_3$",
-          "is_correct": true,
-          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $10 \\cdot 2 = 20\\text{ moles}$."
+          "text": "17 g",
+          "is_correct": false,
+          "feedback": "Incorrecto. es la masa de 1 mol de NH₃; olvidaste que cada mol de N₂ forma 2 mol de NH₃."
         },
         {
           "letter": "B",
-          "text": "$10\\text{ moles de NH}_3$",
+          "text": "28 g",
           "is_correct": false,
-          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+          "feedback": "Incorrecto. supusiste que la masa de producto es igual a la de N₂, sin sumar el hidrógeno que se incorpora."
         },
         {
           "letter": "C",
-          "text": "$30\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+          "text": "34 g",
+          "is_correct": true,
+          "feedback": "Correcto. 28 g de N₂ son 1 mol; la ecuación da 2 mol de NH₃, que pesan 2·17 = 34 g."
         },
         {
           "letter": "D",
-          "text": "$0,5\\text{ moles de NH}_3$",
+          "text": "51 g",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+          "feedback": "Incorrecto. multiplicaste 17 g/mol por el coeficiente 3 del hidrógeno en lugar del 2 del amoníaco."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 10\\text{ moles N}_2 \\cdot 2 = 20\\text{ moles de NH}_3$.\n\n---",
+      "correct_answer": "C",
+      "explanation": "Pasos: n(N₂) = 28 g / 28 g/mol = 1 mol. Por la ecuación, 1 mol de N₂ produce 2 mol de NH₃. La masa molar del NH₃ es 14 + 3 = 17 g/mol, así que se obtienen 2·17 = 34 g. Verificación con conservación de la masa: 28 g de N₂ + 6 g de H₂ (3 mol) = 34 g de NH₃.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.72,
+      "expected_success": 0.65,
       "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -459,220 +459,40 @@
     },
     {
       "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v11",
-      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $11\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
-      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 11.",
+      "statement": "¿Cuál es el reactivo limitante y qué ocurre con el otro reactivo?",
+      "context": "En un ensayo de celdas de combustible en el INTI se mezclan 4 mol de H₂ con 3 mol de O₂ para la reacción 2 H₂ + O₂ → 2 H₂O.",
       "options": [
         {
           "letter": "A",
-          "text": "$22\\text{ moles de NH}_3$",
+          "text": "El H₂ es el limitante y sobra 1 mol de O₂",
           "is_correct": true,
-          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $11 \\cdot 2 = 22\\text{ moles}$."
+          "feedback": "Correcto. 4 mol de H₂ necesitan solo 4/2 = 2 mol de O₂; como hay 3 mol, sobra 1 mol de O₂ y se forman 4 mol de agua."
         },
         {
           "letter": "B",
-          "text": "$11\\text{ moles de NH}_3$",
+          "text": "El O₂ es el limitante porque hay menos moles de O₂ que de H₂",
           "is_correct": false,
-          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+          "feedback": "Incorrecto. comparar moles directamente no alcanza: hay que usar la proporción 2:1 de la ecuación, y el O₂ alcanza de sobra."
         },
         {
           "letter": "C",
-          "text": "$33\\text{ moles de NH}_3$",
+          "text": "No hay limitante: reaccionan los 7 mol completos",
           "is_correct": false,
-          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+          "feedback": "Incorrecto. la proporción 2:1 exige 6 mol de H₂ para 3 mol de O₂, y solo hay 4; no pueden reaccionar todos."
         },
         {
           "letter": "D",
-          "text": "$0,5\\text{ moles de NH}_3$",
+          "text": "El H₂ es el limitante y sobran 2 mol de O₂",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+          "feedback": "Incorrecto. se consumen 2 mol de O₂ con los 4 mol de H₂; de los 3 mol iniciales sobra solo 1 mol."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 11\\text{ moles N}_2 \\cdot 2 = 22\\text{ moles de NH}_3$.\n\n---",
+      "explanation": "Para hallar el limitante se compara lo disponible con lo que exige la ecuación. Con 4 mol de H₂ hacen falta 4·(1/2) = 2 mol de O₂; hay 3 mol, así que el O₂ está en exceso. El H₂ se agota primero (limitante) y determina el producto: 4 mol de H₂O. Sobra 3 − 2 = 1 mol de O₂ sin reaccionar.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v12",
-      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $12\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
-      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 12.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "$24\\text{ moles de NH}_3$",
-          "is_correct": true,
-          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $12 \\cdot 2 = 24\\text{ moles}$."
-        },
-        {
-          "letter": "A",
-          "text": "$12\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
-        },
-        {
-          "letter": "B",
-          "text": "$36\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
-        },
-        {
-          "letter": "D",
-          "text": "$0,5\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 12\\text{ moles N}_2 \\cdot 2 = 24\\text{ moles de NH}_3$.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.68,
-      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v13",
-      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $13\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
-      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 13.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$26\\text{ moles de NH}_3$",
-          "is_correct": true,
-          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $13 \\cdot 2 = 26\\text{ moles}$."
-        },
-        {
-          "letter": "B",
-          "text": "$13\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
-        },
-        {
-          "letter": "C",
-          "text": "$39\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
-        },
-        {
-          "letter": "D",
-          "text": "$0,5\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 13\\text{ moles N}_2 \\cdot 2 = 26\\text{ moles de NH}_3$.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.66,
-      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v14",
-      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $14\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
-      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 14.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "$28\\text{ moles de NH}_3$",
-          "is_correct": true,
-          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $14 \\cdot 2 = 28\\text{ moles}$."
-        },
-        {
-          "letter": "A",
-          "text": "$14\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
-        },
-        {
-          "letter": "B",
-          "text": "$42\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
-        },
-        {
-          "letter": "C",
-          "text": "$0,5\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 14\\text{ moles N}_2 \\cdot 2 = 28\\text{ moles de NH}_3$.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.64,
-      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v15",
-      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $15\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
-      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 15.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "$30\\text{ moles de NH}_3$",
-          "is_correct": true,
-          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $15 \\cdot 2 = 30\\text{ moles}$."
-        },
-        {
-          "letter": "A",
-          "text": "$15\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
-        },
-        {
-          "letter": "B",
-          "text": "$45\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
-        },
-        {
-          "letter": "D",
-          "text": "$0,5\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 15\\text{ moles N}_2 \\cdot 2 = 30\\text{ moles de NH}_3$.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
       "expected_success": 0.62,
       "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
       "periodo": 15,
@@ -683,37 +503,37 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v16",
-      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $16\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
-      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 16.",
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál fue el rendimiento de la reacción?",
+      "context": "En una planta piloto de fertilizantes en Bahía Blanca, a partir de una carga de reactivos se esperaba obtener teóricamente 34 g de amoníaco, pero se recolectaron 25,5 g.",
       "options": [
         {
-          "letter": "C",
-          "text": "$32\\text{ moles de NH}_3$",
-          "is_correct": true,
-          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $16 \\cdot 2 = 32\\text{ moles}$."
-        },
-        {
           "letter": "A",
-          "text": "$16\\text{ moles de NH}_3$",
+          "text": "Aproximadamente 133 %",
           "is_correct": false,
-          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+          "feedback": "Incorrecto. dividiste el teórico por el real (34/25,5); el rendimiento no puede superar 100 %."
         },
         {
           "letter": "B",
-          "text": "$48\\text{ moles de NH}_3$",
+          "text": "8,5 %",
           "is_correct": false,
-          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+          "feedback": "Incorrecto. calculaste la diferencia 34 − 25,5 = 8,5 g y la tomaste como porcentaje."
+        },
+        {
+          "letter": "C",
+          "text": "25 %",
+          "is_correct": false,
+          "feedback": "Incorrecto. es el porcentaje que no se obtuvo (100 − 75); el rendimiento mide lo que sí se obtuvo."
         },
         {
           "letter": "D",
-          "text": "$0,5\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+          "text": "75 %",
+          "is_correct": true,
+          "feedback": "Correcto. rendimiento = real/teórico·100 = 25,5/34·100 = 75 %."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 16\\text{ moles N}_2 \\cdot 2 = 32\\text{ moles de NH}_3$.\n\n---",
+      "correct_answer": "D",
+      "explanation": "El rendimiento porcentual compara la cantidad obtenida con la máxima calculada por estequiometría: η = (masa real / masa teórica)·100 = 25,5/34·100 = 75 %. En la síntesis de amoníaco el rendimiento es menor que 100 % porque la reacción es reversible y alcanza un equilibrio, además de pérdidas en la separación del producto.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -728,41 +548,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v17",
-      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $17\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
-      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 17.",
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v13",
+      "statement": "¿Qué masa de MgO se forma y por qué pesa más que el magnesio inicial?",
+      "context": "En una clase en Ushuaia se quema una cinta de magnesio de 4,8 g en un crisol abierto: 2 Mg + O₂ → 2 MgO. Los alumnos se sorprenden porque el polvo blanco final pesa más que la cinta. Masas atómicas: Mg = 24, O = 16.",
       "options": [
         {
-          "letter": "D",
-          "text": "$34\\text{ moles de NH}_3$",
-          "is_correct": true,
-          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $17 \\cdot 2 = 34\\text{ moles}$."
-        },
-        {
           "letter": "A",
-          "text": "$17\\text{ moles de NH}_3$",
+          "text": "4,8 g, porque la masa se conserva",
           "is_correct": false,
-          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+          "feedback": "Incorrecto. la masa total sí se conserva, pero hay que incluir el oxígeno que reacciona, que viene del aire y no se pesó al principio."
         },
         {
           "letter": "B",
-          "text": "$51\\text{ moles de NH}_3$",
+          "text": "3,2 g, porque parte del magnesio se pierde como humo",
           "is_correct": false,
-          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+          "feedback": "Incorrecto. 3,2 g es la masa de oxígeno incorporado; si se perdiera magnesio el producto pesaría menos de 4,8 g, no más."
         },
         {
           "letter": "C",
-          "text": "$0,5\\text{ moles de NH}_3$",
+          "text": "9,6 g, porque se duplica la masa por el coeficiente 2",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+          "feedback": "Incorrecto. el coeficiente 2 multiplica moles de Mg y de MgO por igual; no duplica la masa."
+        },
+        {
+          "letter": "D",
+          "text": "8,0 g, porque el magnesio incorpora oxígeno del aire",
+          "is_correct": true,
+          "feedback": "Correcto. 4,8 g de Mg son 0,2 mol, que forman 0,2 mol de MgO de 40 g/mol: 8,0 g. La masa extra (3,2 g) es oxígeno del aire."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 17\\text{ moles N}_2 \\cdot 2 = 34\\text{ moles de NH}_3$.\n\n---",
-      "difficulty": "10",
+      "explanation": "n(Mg) = 4,8/24 = 0,2 mol. La ecuación indica relación 1:1 entre Mg y MgO, por lo que se forman 0,2 mol de MgO, con masa molar 24 + 16 = 40 g/mol: 0,2·40 = 8,0 g. La ley de conservación de la masa se cumple si se cuenta el oxígeno: 4,8 g de Mg + 3,2 g de O₂ = 8,0 g de MgO. El crisol abierto no es un sistema cerrado.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.58,
       "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
       "periodo": 15,
@@ -773,41 +593,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v18",
-      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $18\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
-      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 18.",
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v14",
+      "statement": "¿Qué masa de sulfuro de hierro(II) se forma como máximo?",
+      "context": "En un laboratorio de una escuela técnica de San Nicolás se calientan 56 g de hierro con 40 g de azufre: Fe + S → FeS. Masas atómicas: Fe = 56, S = 32.",
       "options": [
         {
           "letter": "A",
-          "text": "$36\\text{ moles de NH}_3$",
-          "is_correct": true,
-          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $18 \\cdot 2 = 36\\text{ moles}$."
+          "text": "96 g",
+          "is_correct": false,
+          "feedback": "Incorrecto. sumaste las masas de los reactivos (56 + 40) suponiendo que todo reacciona; sobran 8 g de azufre."
         },
         {
           "letter": "B",
-          "text": "$18\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+          "text": "88 g",
+          "is_correct": true,
+          "feedback": "Correcto. Fe: 56/56 = 1 mol; S: 40/32 = 1,25 mol. Con relación 1:1, el Fe es limitante y se forma 1 mol de FeS = 56 + 32 = 88 g."
         },
         {
           "letter": "C",
-          "text": "$54\\text{ moles de NH}_3$",
+          "text": "110 g",
           "is_correct": false,
-          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+          "feedback": "Incorrecto. usaste los 1,25 mol de azufre como si fuera el limitante (1,25·88); no hay hierro suficiente para eso."
         },
         {
           "letter": "D",
-          "text": "$0,5\\text{ moles de NH}_3$",
+          "text": "56 g",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+          "feedback": "Incorrecto. tomaste solo la masa del hierro limitante y olvidaste sumar los 32 g de azufre que se combinan con él (56 + 32 = 88 g)."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 18\\text{ moles N}_2 \\cdot 2 = 36\\text{ moles de NH}_3$.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "Se convierten las masas a moles: 1 mol de Fe y 1,25 mol de S. La ecuación pide 1 mol de S por cada mol de Fe, así que el Fe es el reactivo limitante y sobran 0,25 mol de S (8 g). Se forma 1 mol de FeS, de masa molar 88 g/mol: 88 g. La conservación se verifica: 96 g de reactivos = 88 g de FeS + 8 g de S sin reaccionar.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.56,
       "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
       "periodo": 15,
@@ -818,41 +638,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v19",
-      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $19\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
-      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 19.",
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v15",
+      "statement": "¿Qué masa de NaOH se necesita para neutralizarlo completamente?",
+      "context": "Para tratar un efluente ácido en una curtiembre de Lanús se usa hidróxido de sodio: HCl + NaOH → NaCl + H₂O. El efluente contiene 0,5 mol de HCl. Masas atómicas: Na = 23, O = 16, H = 1.",
       "options": [
         {
           "letter": "A",
-          "text": "$38\\text{ moles de NH}_3$",
-          "is_correct": true,
-          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $19 \\cdot 2 = 38\\text{ moles}$."
+          "text": "40 g",
+          "is_correct": false,
+          "feedback": "Incorrecto. es la masa de 1 mol de NaOH; solo hacen falta 0,5 mol."
         },
         {
           "letter": "B",
-          "text": "$19\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+          "text": "20 g",
+          "is_correct": true,
+          "feedback": "Correcto. la relación es 1:1, así que hacen falta 0,5 mol de NaOH; con M = 40 g/mol, la masa es 0,5·40 = 20 g."
         },
         {
           "letter": "C",
-          "text": "$57\\text{ moles de NH}_3$",
+          "text": "18,25 g",
           "is_correct": false,
-          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+          "feedback": "Incorrecto. calculaste la masa del HCl (0,5·36,5) en lugar de la del NaOH."
         },
         {
           "letter": "D",
-          "text": "$0,5\\text{ moles de NH}_3$",
+          "text": "80 g",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+          "feedback": "Incorrecto. dividiste la masa molar por los moles (40/0,5) en lugar de multiplicar."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 19\\text{ moles N}_2 \\cdot 2 = 38\\text{ moles de NH}_3$.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "La neutralización ácido-base forma sal y agua. Con HCl y NaOH la relación molar es 1:1: para 0,5 mol de HCl se necesitan 0,5 mol de NaOH. La masa molar del NaOH es 23 + 16 + 1 = 40 g/mol, por lo que m = 0,5·40 = 20 g. En la práctica se controla el pH para no agregar exceso de base.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.54,
       "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
       "periodo": 15,
@@ -863,42 +683,222 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v20",
-      "statement": "En la reacción $\\text{N}_2(g) + 3\\text{H}_2(g) \\rightarrow 2\\text{NH}_3(g)$, ¿cuántos moles de $\\text{NH}_3$ se obtienen al reaccionar totalmente $20\\text{ moles}$ de $\\text{N}_2$ con exceso de $\\text{H}_2$?",
-      "context": "Cálculos estequiométricos en la producción industrial de amoníaco Caso N° 20.",
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v16",
+      "statement": "¿Qué porcentaje en masa de nitrógeno tiene el nitrato de amonio?",
+      "context": "Un productor de soja de Pergamino compara fertilizantes nitrogenados y quiere saber el contenido de nitrógeno del nitrato de amonio, NH₄NO₃. Masas atómicas: N = 14, H = 1, O = 16.",
       "options": [
         {
-          "letter": "C",
-          "text": "$40\\text{ moles de NH}_3$",
-          "is_correct": true,
-          "feedback": "Correcto. Por estequiometría $1\\text{ mol N}_2 : 2\\text{ moles NH}_3$. $20 \\cdot 2 = 40\\text{ moles}$."
-        },
-        {
           "letter": "A",
-          "text": "$20\\text{ moles de NH}_3$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Asumió erróneamente relación $1:1$."
+          "text": "35 %",
+          "is_correct": true,
+          "feedback": "Correcto. la masa molar es 2·14 + 4·1 + 3·16 = 80 g/mol, y el nitrógeno aporta 2·14 = 28 g: 28/80 = 0,35."
         },
         {
           "letter": "B",
-          "text": "$60\\text{ moles de NH}_3$",
+          "text": "17,5 %",
           "is_correct": false,
-          "feedback": "Incorrecto. Multiplicó por el coeficiente del hidrógeno."
+          "feedback": "Incorrecto. contaste un solo átomo de nitrógeno; el NH₄NO₃ tiene uno en el amonio y otro en el nitrato."
+        },
+        {
+          "letter": "C",
+          "text": "Aproximadamente 22,2 %",
+          "is_correct": false,
+          "feedback": "Incorrecto. dividiste 2 átomos de N por el total de 9 átomos de la fórmula; el porcentaje en masa usa masas atómicas, no número de átomos."
         },
         {
           "letter": "D",
-          "text": "$0,5\\text{ moles de NH}_3$",
+          "text": "60 %",
           "is_correct": false,
-          "feedback": "Incorrecto. Dividió en vez de multiplicar por el coeficiente 2."
+          "feedback": "Incorrecto. es el porcentaje de oxígeno (48/80), no el de nitrógeno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La composición porcentual se calcula como (masa del elemento en un mol del compuesto / masa molar)·100. NH₄NO₃: M = 28 + 4 + 48 = 80 g/mol. Nitrógeno: 28 g. % N = 28/80·100 = 35 %. Este dato permite comparar fertilizantes: la urea, por ejemplo, tiene alrededor de 46 % de N.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál de las ecuaciones propuestas está correctamente balanceada?",
+      "context": "En el alto horno de una acería de San Nicolás de los Arroyos se reduce el mineral de hierro con monóxido de carbono. Cuatro alumnos escriben la ecuación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fe₂O₃ + CO → 2 Fe + CO₂",
+          "is_correct": false,
+          "feedback": "Incorrecto. el oxígeno no cierra: hay 3 + 1 = 4 O a la izquierda y 2 a la derecha."
+        },
+        {
+          "letter": "B",
+          "text": "Fe₂O₃ + 3 CO → Fe + 3 CO₂",
+          "is_correct": false,
+          "feedback": "Incorrecto. el hierro no cierra: 2 átomos de Fe en el óxido y solo 1 en los productos."
+        },
+        {
+          "letter": "C",
+          "text": "Fe₂O₃ + 3 CO → 2 Fe + 3 CO₂",
+          "is_correct": true,
+          "feedback": "Correcto. hay 2 Fe, 3 C y 3 + 3 = 6 O a la izquierda, y 2 Fe, 3 C y 6 O a la derecha."
+        },
+        {
+          "letter": "D",
+          "text": "Fe₂O₃ + 2 CO → 2 Fe + 2 CO₂",
+          "is_correct": false,
+          "feedback": "Incorrecto. faltan oxígenos en los productos: 3 + 2 = 5 O a la izquierda y 4 a la derecha."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La ecuación balanceada muestra que $1\\text{ mol}$ de $\\text{N}_2$ produce $2\\text{ moles}$ de $\\text{NH}_3$. Por ende, $ 20\\text{ moles N}_2 \\cdot 2 = 40\\text{ moles de NH}_3$.",
+      "explanation": "Para evaluar si una ecuación está balanceada se cuentan los átomos de cada elemento a ambos lados. En Fe₂O₃ + 3 CO → 2 Fe + 3 CO₂: Fe 2 = 2; C 3 = 3; O 3 + 3 = 6 y 3·2 = 6. Cada CO toma un oxígeno del óxido de hierro y se transforma en CO₂; como el Fe₂O₃ tiene 3 oxígenos, hacen falta 3 CO.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.52,
+      "expected_success": 0.5,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v18",
+      "statement": "¿Cómo se evalúa la afirmación del alumno?",
+      "context": "En un laboratorio de Córdoba se hacen reaccionar 10 g de H₂ con 64 g de O₂: 2 H₂ + O₂ → 2 H₂O. Un alumno afirma: 'Como hay mucha más masa de oxígeno, el hidrógeno es el reactivo limitante'. Masas atómicas: H = 1, O = 16.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque el reactivo con menor masa siempre es el limitante",
+          "is_correct": false,
+          "feedback": "Incorrecto. la masa no indica cantidad de partículas: 10 g de H₂ son 5 mol, mientras que 64 g de O₂ son solo 2 mol."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque hay menos moles de H₂ que de O₂",
+          "is_correct": false,
+          "feedback": "Incorrecto. hay 5 mol de H₂ y 2 mol de O₂, es decir, más moles de hidrógeno, no menos."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta: no hay limitante porque las masas están en proporción 2:1",
+          "is_correct": false,
+          "feedback": "Incorrecto. la proporción 2:1 de la ecuación es en moles; en masa la relación estequiométrica es 4 g de H₂ por cada 32 g de O₂."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta: el O₂ es el limitante; hay 2 mol de O₂ y harían falta 2,5 mol para los 5 mol de H₂",
+          "is_correct": true,
+          "feedback": "Correcto. el limitante se decide en moles y con la proporción de la ecuación, no comparando masas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Se convierten las masas a moles: H₂ = 10/2 = 5 mol; O₂ = 64/32 = 2 mol. Los 5 mol de H₂ requerirían 2,5 mol de O₂ (80 g), y solo hay 2 mol. El O₂ se agota primero y es el limitante: se forman 4 mol de agua (72 g) y sobra 1 mol de H₂ (2 g). Comparar masas directamente lleva a conclusiones erróneas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.48,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es la evaluación correcta de sus rendimientos?",
+      "context": "Dos caleras de Olavarría compiten por un contrato. La calera A calcina 100 kg de CaCO₃ y obtiene 50 kg de CaO; la calera B calcina 200 kg de CaCO₃ y obtiene 98 kg de CaO. Reacción: CaCO₃ → CaO + CO₂; masas molares CaCO₃ = 100 g/mol, CaO = 56 g/mol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A tiene mayor rendimiento: ≈ 89,3 % frente a 87,5 % de B",
+          "is_correct": true,
+          "feedback": "Correcto. teórico A = 56 kg y 50/56 ≈ 89,3 %; teórico B = 112 kg y 98/112 = 87,5 %."
+        },
+        {
+          "letter": "B",
+          "text": "B tiene mayor rendimiento porque obtiene más kilogramos de CaO",
+          "is_correct": false,
+          "feedback": "Incorrecto. B procesa el doble de caliza; el rendimiento compara lo obtenido con lo teórico, no la producción absoluta."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas tienen 100 % de rendimiento porque toda la caliza se descompone",
+          "is_correct": false,
+          "feedback": "Incorrecto. ninguna obtiene la masa teórica (56 kg y 112 kg), así que ambas tienen pérdidas."
+        },
+        {
+          "letter": "D",
+          "text": "A tiene 50 % y B 49 % de rendimiento",
+          "is_correct": false,
+          "feedback": "Incorrecto. dividiste la masa de CaO por la de caliza; la masa teórica de CaO es 56 % de la caliza, no el 100 %."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por cada 100 g de CaCO₃ (1 mol) se forman como máximo 56 g de CaO; la diferencia es el CO₂ liberado. Teóricos: A = 56 kg y B = 112 kg. Rendimientos: A = 50/56 ≈ 89,3 % y B = 98/112 = 87,5 %. Aunque B produce más cal, A aprovecha mejor la materia prima. Comparar masas obtenidas sin considerar el teórico es un error frecuente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.47,
+      "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la mejor evaluación de esa conclusión?",
+      "context": "En una escuela de Neuquén se repite un experimento: se mezcla bicarbonato de sodio con vinagre en un vaso abierto sobre una balanza y la masa final es menor que la inicial. Un grupo concluye que la ley de conservación de la masa no se cumple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta: en las reacciones con gases la masa se destruye",
+          "is_correct": false,
+          "feedback": "Incorrecto. la masa no se destruye; los átomos de carbono y oxígeno siguen existiendo en el CO₂ que se dispersa."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecta: la balanza estaba mal calibrada",
+          "is_correct": false,
+          "feedback": "Incorrecto. la disminución es real y se explica por el gas que escapa; culpar a la balanza no explica el fenómeno."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta: se forma CO₂ gaseoso que escapa del vaso abierto; en un recipiente cerrado la masa total se mantendría",
+          "is_correct": true,
+          "feedback": "Correcto. el sistema no es cerrado; la masa 'perdida' corresponde al gas producido que salió al aire."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta: la energía liberada se llevó parte de la masa",
+          "is_correct": false,
+          "feedback": "Incorrecto. en una reacción química la variación de masa asociada a la energía es imperceptible; la diferencia medida es el CO₂ que salió."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La reacción NaHCO₃ + CH₃COOH → CH₃COONa + H₂O + CO₂ produce dióxido de carbono gaseoso. En un vaso abierto el gas se escapa y la balanza registra menos masa. Si se repite en un frasco cerrado con un globo, la masa se mantiene constante. Para poner a prueba la ley de Lavoisier el sistema debe ser cerrado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.45,
       "bundle_id": "AR-CIE-11-2026-W15-estequiometria-reacciones-quimicas-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",

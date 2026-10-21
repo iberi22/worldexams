@@ -13,12 +13,6 @@
       "context": "Discussing review p1 in Pereira.",
       "options": [
         {
-          "letter": "C",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
           "text": "alleviate",
           "is_correct": false,
@@ -29,6 +23,12 @@
           "text": "mitigate",
           "is_correct": false,
           "feedback": "Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied."
+        },
+        {
+          "letter": "C",
+          "text": "exacerbate",
+          "is_correct": true,
+          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
         },
         {
           "letter": "D",
@@ -59,16 +59,16 @@
       "context": "Discussing review p1 in Bucaramanga.",
       "options": [
         {
-          "letter": "B",
-          "text": "undermine",
-          "is_correct": true,
-          "feedback": "'Undermine' means to weaken the strength of a claim or conclusion, which is exactly what a sample chosen with knowledge of the outcome does. The clause 'every conclusion drawn from it' tells the student the target is the reasoning, not the data itself."
-        },
-        {
           "letter": "A",
           "text": "corroborate",
           "is_correct": false,
           "feedback": "'Corroborate' means to confirm a claim with supporting evidence, and selecting a sample after seeing results removes independence rather than providing it. The word names the opposite of what the procedure does."
+        },
+        {
+          "letter": "B",
+          "text": "undermine",
+          "is_correct": true,
+          "feedback": "'Undermine' means to weaken the strength of a claim or conclusion, which is exactly what a sample chosen with knowledge of the outcome does. The clause 'every conclusion drawn from it' tells the student the target is the reasoning, not the data itself."
         },
         {
           "letter": "C",
@@ -105,12 +105,6 @@
       "context": "Discussing review p1 in Cali.",
       "options": [
         {
-          "letter": "D",
-          "text": "in effect",
-          "is_correct": true,
-          "feedback": "The phrase 'in effect' marks a consequence that follows in practice without anyone announcing it. The disagreement is described as unavoidable given that two examiners read the same essay differently, which is what makes a third reader necessary rather than optional."
-        },
-        {
           "letter": "A",
           "text": "in theory",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "in retrospect",
           "is_correct": false,
           "feedback": "'In retrospect' means looking back, and nothing in the sentence indicates a later reconsideration. The third reader is needed at the moment the examiners disagree, not afterwards."
+        },
+        {
+          "letter": "D",
+          "text": "in effect",
+          "is_correct": true,
+          "feedback": "The phrase 'in effect' marks a consequence that follows in practice without anyone announcing it. The disagreement is described as unavoidable given that two examiners read the same essay differently, which is what makes a third reader necessary rather than optional."
         }
       ],
       "correct_answer": "D",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W10-review-p1-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on review p1 in Pereira, what is implied about the role of General Advanced Review in shaping public opinion?",
-      "context": "Discussing review p1 in Pereira.",
+      "statement": "Read the text and answer the question.\n\n\"Every Sunday and public holiday, more than 120 kilometres of Bogotá's main roads close to cars from 7 a.m. to 2 p.m. During these hours, the Ciclovía belongs to cyclists, runners, skaters and families with children. The idea started in 1974 and has been copied by cities in Mexico, the United States and other countries. Supporters say it improves public health and brings people from different social classes together in the same space.\"\n\nWhat is the text mainly about?",
+      "context": "Reading a city guide about the Ciclovía in Bogotá.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats General Advanced Review as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "The problems that the Ciclovía causes for car drivers.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "Cars are mentioned only to say the roads close to them; no problems for drivers are described."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "A new law that will close Bogotá's roads every day.",
           "is_correct": false,
-          "feedback": "General Advanced Review add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "The Ciclovía started in 1974 and happens on Sundays and holidays, not every day."
+        },
+        {
+          "letter": "C",
+          "text": "Bogotá's Ciclovía, how it works and why it is valued.",
+          "is_correct": true,
+          "feedback": "The text explains when and where it happens, who uses it, its international influence and its benefits."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Cali.",
+          "text": "The history of cycling competitions in Colombia.",
           "is_correct": false,
-          "feedback": "The report presents General Advanced Review as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "The Ciclovía is a recreational space, not a competition, and no races are mentioned."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "This review item combines the themes of sustainability and urban life. A main-idea answer must be broad enough to cover the description, the history and the benefits, without adding information that is not in the text.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-11-2026-W10-review-p1-001-MASTERY-bundle-v6",
-      "statement": "According to a recent report on review p1 in Cartagena, what is implied about the role of General Advanced Review in shaping public opinion?",
-      "context": "Discussing review p1 in Cartagena.",
+      "statement": "Read the text and answer the question.\n\n\"At a library in Sincelejo, teenagers volunteer every Wednesday to teach older adults how to use smartphones. Doña Elvira, 72, wanted to learn video calls so she could see her grandson, who studies in Spain. After four classes, she called him for the first time. 'Now I check the news on my phone too,' she says, 'but my teacher told me to look at the source before believing anything.'\"\n\nWhat can be inferred about Doña Elvira's teacher?",
+      "context": "Reading a story from a public library in Sincelejo about digital skills for older adults.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats General Advanced Review as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "The teacher studies in Spain with her grandson.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "The grandson studies in Spain; the teacher is one of the teenage volunteers at the library in Sincelejo."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "The teacher thinks older adults should not read news online.",
           "is_correct": false,
-          "feedback": "General Advanced Review add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "The teacher helped her use the phone and gave advice on reading news carefully, not a prohibition."
+        },
+        {
+          "letter": "C",
+          "text": "The teacher taught her to be careful about unreliable information.",
+          "is_correct": true,
+          "feedback": "The advice 'look at the source before believing anything' shows the teacher included media literacy in the lessons."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bucaramanga.",
+          "text": "The teacher is 72 years old.",
           "is_correct": false,
-          "feedback": "The report presents General Advanced Review as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "Doña Elvira is 72; the volunteers who teach are teenagers."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "This review item connects technology and media ethics. The inference comes from reported advice ('my teacher told me to...'), which reveals what the teacher considered important beyond the technical skills.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -331,36 +331,36 @@
     },
     {
       "id": "CO-ING-11-2026-W10-review-p1-001-MASTERY-bundle-v8",
-      "statement": "According to a recent report on review p1 in Bucaramanga, what is implied about the role of General Advanced Review in shaping public opinion?",
-      "context": "Discussing review p1 in Bucaramanga.",
+      "statement": "Read the text and answer the question.\n\n\"Twenty years ago, Comuna 13 in Medellín was known mainly for violence. Today, it is one of the city's most visited places. Outdoor escalators, colourful murals and hip-hop tours led by local young people attract thousands of tourists every month. Small businesses selling coffee, ice cream and art are thriving. Some residents worry that rising rents could push long-time families out, but most agree the neighbourhood's image has changed.\"\n\nIn the text, the word \"thriving\" means:",
+      "context": "Reading a travel article about Comuna 13 in Medellín.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats General Advanced Review as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "closing down",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "If businesses were closing, the text would not describe the area as one of the most visited places with thousands of tourists."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "moving to another city",
           "is_correct": false,
-          "feedback": "General Advanced Review add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "Nothing suggests that businesses are leaving; the text describes activity inside Comuna 13."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Barranquilla.",
+          "text": "receiving government money",
           "is_correct": false,
-          "feedback": "The report presents General Advanced Review as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "The text does not mention any government funding for the businesses."
+        },
+        {
+          "letter": "D",
+          "text": "doing very well and growing",
+          "is_correct": true,
+          "feedback": "Thousands of tourists every month create many customers, so small businesses are successful and growing."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "This review item connects economic trends and urban change. The word 'thriving' is explained by the surrounding context: many visitors create demand, and the contrast with the past ('known mainly for violence') shows positive change.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -423,36 +423,36 @@
     },
     {
       "id": "CO-ING-11-2026-W10-review-p1-001-MASTERY-bundle-v10",
-      "statement": "According to a recent report on review p1 in Barranquilla, what is implied about the role of General Advanced Review in shaping public opinion?",
-      "context": "Discussing review p1 in Barranquilla.",
+      "statement": "Read the text and answer the question.\n\n\"Hi Lucas, I'm so glad you're coming to Bogotá for the exchange programme! A few tips before you arrive: bring a warm jacket, because nights here can be cold, even though Colombia is near the equator. Download a transport app to plan your trips, and always carry a little cash for small shops. Most importantly, don't be shy about speaking Spanish. People will appreciate your effort. See you in February! Mariana\"\n\nWhat is the main purpose of Mariana's message?",
+      "context": "Reading an email from a Colombian student to an exchange student arriving in Bogotá.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "To give Lucas practical advice before his trip.",
           "is_correct": true,
-          "feedback": "The report treats General Advanced Review as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
+          "feedback": "Mariana writes 'A few tips before you arrive' and gives advice about clothes, transport, cash and language."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "To invite Lucas to study Spanish in a course.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "She encourages him to speak Spanish, but she does not invite him to any course."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "To complain about the cold weather in Bogotá.",
           "is_correct": false,
-          "feedback": "General Advanced Review add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "She mentions cold nights only to explain why he should bring a jacket; it is advice, not a complaint."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Manizales.",
+          "text": "To ask Lucas to bring cash from his country.",
           "is_correct": false,
-          "feedback": "The report presents General Advanced Review as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "She tells him to carry cash for small shops in Bogotá, not to bring money from his country."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "This review item connects cultural exchange and everyday communication. Phrases like 'A few tips' and imperative verbs ('bring', 'download', 'carry') show that the purpose of the email is to give practical advice.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -473,12 +473,6 @@
       "context": "Discussing review p1 in Pereira.",
       "options": [
         {
-          "letter": "D",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -495,6 +489,12 @@
           "text": "did",
           "is_correct": false,
           "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+        },
+        {
+          "letter": "D",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
         }
       ],
       "correct_answer": "D",
@@ -749,12 +749,6 @@
       "context": "Discussing review p1 in Pereira.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
           "text": "They are literally looking for something in the trees of Barranquilla.",
           "is_correct": false,
@@ -771,6 +765,12 @@
           "text": "A new environmental project involving trees should be started.",
           "is_correct": false,
           "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+        },
+        {
+          "letter": "D",
+          "text": "The current strategy is directed towards the wrong objective.",
+          "is_correct": true,
+          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
         }
       ],
       "correct_answer": "D",
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-ING-11-2026-W10-review-p1-001-MASTERY-bundle-v18",
-      "statement": "In a high-level debate about review p1, Daniela says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Daniela mean?",
-      "context": "Discussing review p1 in Cali.",
+      "statement": "Read what Camilo says at 9 p.m.\n\nCamilo: \"We've finished most of the slides. Let's call it a day and continue tomorrow morning.\"\n\nWhat does Camilo suggest?",
+      "context": "Two students in Bogotá work late on a review presentation.",
       "options": [
         {
-          "letter": "B",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "letter": "A",
+          "text": "Naming the presentation 'A Day of Review'.",
+          "is_correct": false,
+          "feedback": "This reads 'call it' literally as giving a name. The idiom is about stopping work."
         },
         {
-          "letter": "A",
-          "text": "They are literally looking for something in the trees of Cali.",
-          "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "letter": "B",
+          "text": "Stopping work for now.",
+          "is_correct": true,
+          "feedback": "'Call it a day' means to stop working for the day; 'continue tomorrow morning' confirms that they will finish later."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Working through the night to finish.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Camilo proposes to continue the next morning, which is the opposite of working all night."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Presenting the slides the same night.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "He says they have finished most, not all, of the slides, and he wants to continue tomorrow."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Call it a day' is common in school and work contexts. The second part of the sentence ('continue tomorrow morning') is a clear clue that the speaker wants to stop temporarily, not abandon the task.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -837,36 +837,36 @@
     },
     {
       "id": "CO-ING-11-2026-W10-review-p1-001-MASTERY-bundle-v19",
-      "statement": "In a high-level debate about review p1, Nicolás says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Nicolás mean?",
-      "context": "Discussing review p1 in Pereira.",
+      "statement": "Read the conversation.\n\nAna: \"Should we put off the meeting with the environmental committee?\"\nDiego: \"Yes, half of the members are sick. Let's move it to next Friday.\"\n\nWhat does Ana propose?",
+      "context": "Two members of an environmental committee in Manizales discuss a meeting.",
       "options": [
         {
-          "letter": "B",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "letter": "A",
+          "text": "Cancelling the committee permanently.",
+          "is_correct": false,
+          "feedback": "'Put off' means to delay, not to cancel; Diego's answer moves the meeting to another day."
         },
         {
-          "letter": "A",
-          "text": "They are literally looking for something in the trees of Cali.",
-          "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "letter": "B",
+          "text": "Postponing the meeting to a later date.",
+          "is_correct": true,
+          "feedback": "The phrasal verb 'put off' means to postpone, and Diego confirms it by moving the meeting to next Friday."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Turning off the lights in the meeting room.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "This confuses 'put off' with 'turn off'. The object of the verb is 'the meeting', not the lights."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Inviting more members to the meeting.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Ana's question is about the date of the meeting, not about the number of participants."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Put off' (postpone) is often confused with 'turn off' (stop a machine) or 'call off' (cancel). The reply 'Let's move it to next Friday' is the clue that the meeting is delayed, not cancelled.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -887,16 +887,16 @@
       "context": "Discussing review p1 in Cali.",
       "options": [
         {
-          "letter": "B",
-          "text": "She is reporting a recurring pattern while explicitly declining to present it as proven evidence.",
-          "is_correct": true,
-          "feedback": "The final clause draws a firm line between a rule she has observed and a finding she can demonstrate. She states the pattern and marks its limits at the same time, which is exactly what the two phrases together do."
-        },
-        {
           "letter": "A",
           "text": "She is retracting a claim she had already proved.",
           "is_correct": false,
           "feedback": "A retraction would state that a proven claim proved false. Here she is qualifying a claim she never presented as established, so nothing is withdrawn."
+        },
+        {
+          "letter": "B",
+          "text": "She is reporting a recurring pattern while explicitly declining to present it as proven evidence.",
+          "is_correct": true,
+          "feedback": "The final clause draws a firm line between a rule she has observed and a finding she can demonstrate. She states the pattern and marks its limits at the same time, which is exactly what the two phrases together do."
         },
         {
           "letter": "C",

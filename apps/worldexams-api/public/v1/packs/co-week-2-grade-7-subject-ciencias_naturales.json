@@ -105,6 +105,12 @@
       "context": "En una carrera atlética escolar en el estadio de Cali, una niña siente que sus piernas se mueven con fuerza rítmica.",
       "options": [
         {
+          "letter": "A",
+          "text": "Tejido muscular esquelético de las piernas",
+          "is_correct": true,
+          "feedback": "Correcta porque sus fibras se contraen y tiran de los huesos para correr."
+        },
+        {
           "letter": "B",
           "text": "Tejido nervioso del cerebro",
           "is_correct": false,
@@ -115,12 +121,6 @@
           "text": "Tejido epitelial de la piel",
           "is_correct": false,
           "feedback": "Incorrecta porque el epitelial recubre, no produce contracción."
-        },
-        {
-          "letter": "A",
-          "text": "Tejido muscular esquelético de las piernas",
-          "is_correct": true,
-          "feedback": "Correcta porque sus fibras se contraen y tiran de los huesos para correr."
         },
         {
           "letter": "D",
@@ -151,16 +151,16 @@
       "context": "En el hospital de Bucaramanga, un médico explica que un hueso fracturado y la sangre pertenecen a la misma familia de tejidos.",
       "options": [
         {
-          "letter": "B",
-          "text": "Porque ambos transmiten impulsos nerviosos",
-          "is_correct": false,
-          "feedback": "Incorrecta porque la transmisión de impulsos es propia del tejido nervioso."
-        },
-        {
           "letter": "A",
           "text": "Porque ambos sostienen, conectan o transportan dentro del cuerpo",
           "is_correct": true,
           "feedback": "Correcta porque el conectivo incluye sostén como el hueso y transporte como la sangre."
+        },
+        {
+          "letter": "B",
+          "text": "Porque ambos transmiten impulsos nerviosos",
+          "is_correct": false,
+          "feedback": "Incorrecta porque la transmisión de impulsos es propia del tejido nervioso."
         },
         {
           "letter": "C",
@@ -249,12 +249,6 @@
           "feedback": "Incorrecta porque ninguna muestra describe células aplanadas y unidas típicas del epitelio."
         },
         {
-          "letter": "D",
-          "text": "P es tejido muscular y Q es tejido nervioso por su forma y función",
-          "is_correct": true,
-          "feedback": "Correcta porque las fibras contráctiles indican músculo y la red estrellada indica neuronas."
-        },
-        {
           "letter": "B",
           "text": "P es tejido nervioso y Q es tejido muscular",
           "is_correct": false,
@@ -265,6 +259,12 @@
           "text": "Ambas son tejido conectivo sanguíneo",
           "is_correct": false,
           "feedback": "Incorrecta porque la sangre muestra células separadas en plasma, no fibras ni redes."
+        },
+        {
+          "letter": "D",
+          "text": "P es tejido muscular y Q es tejido nervioso por su forma y función",
+          "is_correct": true,
+          "feedback": "Correcta porque las fibras contráctiles indican músculo y la red estrellada indica neuronas."
         }
       ],
       "correct_answer": "D",
@@ -347,16 +347,16 @@
           "feedback": "Incorrecta porque generar células no explica el ascenso de agua ya absorbida."
         },
         {
-          "letter": "D",
-          "text": "Tejido vascular xilema, porque conduce savia bruta hacia arriba",
-          "is_correct": true,
-          "feedback": "Correcta porque el xilema transporta agua y sales desde la raíz al resto de la planta."
-        },
-        {
           "letter": "C",
           "text": "Tejido nervioso, porque ordena el ascenso",
           "is_correct": false,
           "feedback": "Incorrecta porque las plantas carecen de tejido nervioso."
+        },
+        {
+          "letter": "D",
+          "text": "Tejido vascular xilema, porque conduce savia bruta hacia arriba",
+          "is_correct": true,
+          "feedback": "Correcta porque el xilema transporta agua y sales desde la raíz al resto de la planta."
         }
       ],
       "correct_answer": "D",
@@ -381,22 +381,22 @@
       "context": "Un programa de radio en Pasto afirma: \"Tomar jugos cura cualquier enfermedad porque la sangre enferma se reemplaza sola sin necesidad de órganos ni sistemas\".",
       "options": [
         {
+          "letter": "A",
+          "text": "Se acepta porque los tejidos no necesitan órganos para funcionar",
+          "is_correct": false,
+          "feedback": "Incorrecta porque los tejidos solo funcionan integrados en órganos y sistemas."
+        },
+        {
           "letter": "B",
           "text": "Se acepta porque la sangre actúa de forma independiente del cuerpo",
           "is_correct": false,
           "feedback": "Incorrecta porque la sangre depende del corazón, vasos, médula ósea y otros órganos."
         },
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Se rechaza porque la salud depende de células, tejidos, órganos y sistemas coordinados, no de un solo tejido",
           "is_correct": true,
           "feedback": "Correcta porque aplica el modelo de niveles integrados frente a una explicación simplista."
-        },
-        {
-          "letter": "C",
-          "text": "Se acepta porque los tejidos no necesitan órganos para funcionar",
-          "is_correct": false,
-          "feedback": "Incorrecta porque los tejidos solo funcionan integrados en órganos y sistemas."
         },
         {
           "letter": "D",
@@ -405,7 +405,7 @@
           "feedback": "Incorrecta porque los jugos sí aportan nutrientes, pero eso no valida la afirmación sobre curar todo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluar afirmaciones de salud exige pensar en sistemas: la sangre se produce, se bombea y se filtra gracias a varios órganos. El pensamiento sistémico protege contra remedios milagrosos sin evidencia.",
       "difficulty": "10",
       "images": [],
@@ -439,16 +439,16 @@
           "feedback": "Incorrecta porque el sabor no evidencia la anatomía de los tejidos foliares."
         },
         {
-          "letter": "D",
-          "text": "Comparar cortes de epidermis y de nervadura, dibujar, medir y repetir en varias hojas",
-          "is_correct": true,
-          "feedback": "Correcta porque contrasta ambos tejidos con evidencia repetible y registrada."
-        },
-        {
           "letter": "C",
           "text": "Regar una planta con gaseosa y otra sin agua durante un mes",
           "is_correct": false,
           "feedback": "Incorrecta porque maltrata las plantas y no compara los dos tejidos solicitados."
+        },
+        {
+          "letter": "D",
+          "text": "Comparar cortes de epidermis y de nervadura, dibujar, medir y repetir en varias hojas",
+          "is_correct": true,
+          "feedback": "Correcta porque contrasta ambos tejidos con evidencia repetible y registrada."
         }
       ],
       "correct_answer": "D",

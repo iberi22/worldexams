@@ -13,12 +13,6 @@
       "context": "En una finca cafetera del departamento de Caldas, don Hernando cultiva y recolecta granos de café para venderlos en la cooperativa municipal.",
       "options": [
         {
-          "letter": "D",
-          "text": "Sector primario.",
-          "is_correct": true,
-          "feedback": "El sector primario comprende las actividades de extracción y aprovechamiento directo de los recursos naturales, como la agricultura y la ganadería."
-        },
-        {
           "letter": "A",
           "text": "Sector secundario.",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "Sector cuaternario.",
           "is_correct": false,
           "feedback": "El sector cuaternario se relaciona con la investigación científica, la consultoría avanzada y las tecnologías de la información."
+        },
+        {
+          "letter": "D",
+          "text": "Sector primario.",
+          "is_correct": true,
+          "feedback": "El sector primario comprende las actividades de extracción y aprovechamiento directo de los recursos naturales, como la agricultura y la ganadería."
         }
       ],
       "correct_answer": "D",
@@ -105,12 +105,6 @@
       "context": "En Cartagena de Indias, doña Marcela administra un hotel que ofrece hospedaje, recorridos guiados y alimentación a turistas nacionales y extranjeros.",
       "options": [
         {
-          "letter": "D",
-          "text": "Sector terciario o de servicios.",
-          "is_correct": true,
-          "feedback": "El turismo, la hotelería y la gastronomía son actividades que prestan servicios a las personas y forman parte del sector terciario."
-        },
-        {
           "letter": "A",
           "text": "Sector primario o extractivo.",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "Sector agropecuario tradicional.",
           "is_correct": false,
           "feedback": "El sector agropecuario corresponde al cultivo de la tierra y la cría de animales en el campo."
+        },
+        {
+          "letter": "D",
+          "text": "Sector terciario o de servicios.",
+          "is_correct": true,
+          "feedback": "El turismo, la hotelería y la gastronomía son actividades que prestan servicios a las personas y forman parte del sector terciario."
         }
       ],
       "correct_answer": "D",
@@ -151,12 +151,6 @@
       "context": "En la sabana de Bogotá, una empresa compra leche a los ganaderos locales, la pasteuriza y envasa en botellas de yogur, y luego contrata camiones para distribuirla a tiendas de barrio.",
       "options": [
         {
-          "letter": "D",
-          "text": "Sector primario (ordeño de vacas), sector secundario (elaboración del yogur) y sector terciario (distribución y venta).",
-          "is_correct": true,
-          "feedback": "Primero se extrae la leche (primario), luego se procesa en la fábrica (secundario) y finalmente se comercializa (terciario)."
-        },
-        {
           "letter": "A",
           "text": "Sector secundario (ordeño de vacas), sector primario (elaboración del yogur) y sector terciario (distribución y venta).",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "Sector primario (ordeño de vacas), sector terciario (elaboración del yogur) y sector secundario (distribución y venta).",
           "is_correct": false,
           "feedback": "La elaboración y envasado de alimentos es una actividad industrial del sector secundario."
+        },
+        {
+          "letter": "D",
+          "text": "Sector primario (ordeño de vacas), sector secundario (elaboración del yogur) y sector terciario (distribución y venta).",
+          "is_correct": true,
+          "feedback": "Primero se extrae la leche (primario), luego se procesa en la fábrica (secundario) y finalmente se comercializa (terciario)."
         }
       ],
       "correct_answer": "D",
@@ -243,12 +243,6 @@
       "context": "En un municipio del departamento del Cesar, la economía local depende en un 80% de la extracción minera de carbón. Durante un foro ciudadano, los habitantes analizan el futuro económico del territorio.",
       "options": [
         {
-          "letter": "C",
-          "text": "La alta vulnerabilidad frente a la caída de precios internacionales y el eventual agotamiento de los recursos no renovables.",
-          "is_correct": true,
-          "feedback": "Si el mineral se agota o baja de precio en el mercado mundial, el municipio puede enfrentar crisis de desempleo e ingresos fiscales."
-        },
-        {
           "letter": "A",
           "text": "El aumento inevitable de fábricas textiles y talleres automotrices en el área rural.",
           "is_correct": false,
@@ -259,6 +253,12 @@
           "text": "La desaparición inmediata de la necesidad de construir hospitales y escuelas públicas.",
           "is_correct": false,
           "feedback": "Los servicios de salud y educación siguen siendo indispensables independientemente de la actividad económica."
+        },
+        {
+          "letter": "C",
+          "text": "La alta vulnerabilidad frente a la caída de precios internacionales y el eventual agotamiento de los recursos no renovables.",
+          "is_correct": true,
+          "feedback": "Si el mineral se agota o baja de precio en el mercado mundial, el municipio puede enfrentar crisis de desempleo e ingresos fiscales."
         },
         {
           "letter": "D",
@@ -289,12 +289,6 @@
       "context": "Un grupo de estudiantes en Bucaramanga analiza un informe económico donde se observa que el sector terciario (comercio, salud, educación, transporte y finanzas) concentra la mayor proporción de trabajadores en Colombia.",
       "options": [
         {
-          "letter": "D",
-          "text": "Las zonas urbanas demandan una gran variedad de servicios para satisfacer las necesidades diarias de sus habitantes.",
-          "is_correct": true,
-          "feedback": "El crecimiento poblacional de las ciudades impulsa actividades como el comercio, el transporte, la educación y los servicios públicos."
-        },
-        {
           "letter": "A",
           "text": "En las ciudades ya no se consumen productos provenientes del sector primario ni de la industria.",
           "is_correct": false,
@@ -311,6 +305,12 @@
           "text": "La totalidad de la fuerza laboral del país se dedica exclusivamente a actividades agropecuarias en el campo.",
           "is_correct": false,
           "feedback": "El informe demuestra justamente que la mayoría labora en servicios y comercio en centros urbanos."
+        },
+        {
+          "letter": "D",
+          "text": "Las zonas urbanas demandan una gran variedad de servicios para satisfacer las necesidades diarias de sus habitantes.",
+          "is_correct": true,
+          "feedback": "El crecimiento poblacional de las ciudades impulsa actividades como el comercio, el transporte, la educación y los servicios públicos."
         }
       ],
       "correct_answer": "D",
@@ -335,12 +335,6 @@
       "context": "En un municipio del Tolima conocido por sus cultivos de arroz y sus fuentes de agua limpia, una empresa presenta un proyecto para instalar una fábrica industrial. La comunidad y las autoridades locales deben evaluar la conveniencia del proyecto.",
       "options": [
         {
-          "letter": "D",
-          "text": "Exigir estudios de impacto ambiental y tecnología no contaminante antes de conceder la licencia, protegiendo las fuentes hídricas y el empleo agrícola.",
-          "is_correct": true,
-          "feedback": "Esta alternativa equilibra el crecimiento industrial con la conservación ecológica y la seguridad alimentaria de la comunidad."
-        },
-        {
           "letter": "A",
           "text": "Aprobar la construcción de la fábrica de forma inmediata sin evaluar los riesgos ambientales para priorizar el dinero a corto plazo.",
           "is_correct": false,
@@ -348,18 +342,24 @@
         },
         {
           "letter": "B",
-          "text": "Prohibir cualquier tipo de actividad económica moderna para forzar a la comunidad a vivir exclusivamente de la recolección silvestre.",
-          "is_correct": false,
-          "feedback": "Frenar todo desarrollo productivo impide el acceso a oportunidades laborales, servicios de salud y bienestar social."
+          "text": "Exigir estudios de impacto ambiental y tecnología no contaminante antes de conceder la licencia, protegiendo las fuentes hídricas y el empleo agrícola.",
+          "is_correct": true,
+          "feedback": "Esta alternativa equilibra el crecimiento industrial con la conservación ecológica y la seguridad alimentaria de la comunidad."
         },
         {
           "letter": "C",
           "text": "Ordenar el cierre definitivo de todos los cultivos de arroz para convertir todo el municipio en una sola zona industrial.",
           "is_correct": false,
           "feedback": "Eliminar la agricultura destruye la vocación tradicional del territorio y afecta la seguridad alimentaria regional."
+        },
+        {
+          "letter": "D",
+          "text": "Prohibir cualquier tipo de actividad económica moderna para forzar a la comunidad a vivir exclusivamente de la recolección silvestre.",
+          "is_correct": false,
+          "feedback": "Frenar todo desarrollo productivo impide el acceso a oportunidades laborales, servicios de salud y bienestar social."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "El desarrollo sostenible exige conciliar el crecimiento económico con la preservación del patrimonio natural y la cohesión social, evaluando rigurosamente los impactos de cualquier proyecto productivo.",
       "difficulty": "10",
       "images": [],

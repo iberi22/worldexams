@@ -875,9 +875,9 @@
         },
         {
           "letter": "B",
-          "text": "Que la lírica boricua de principios del siglo XX es un mosaico complejo donde conviven la rebelión de género, la afirmación étnica caribeña de la herencia africana y el combate ético nacionalista por la soberanía de la patria.",
-          "is_correct": true,
-          "feedback": "¡Correcto! La síntesis de Burgos, Palés y Corretjer devela que la identidad puertorriqueña literaria de vanguardia se teje mediante la confluencia de estas tres grandes corrientes emancipadoras que definen nuestra herencia cultural caribeña contemporánea."
+          "text": "Sostener que la poesía es una ciencia inerte destinada únicamente al cálculo matemático de la duración de las olas de El Yunque.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La poesía boricua es un arte social vivo y político cargado de pasión íntima y combate cívico, ajeno al cálculo frío inerte de la geografía física."
         },
         {
           "letter": "C",
@@ -887,12 +887,12 @@
         },
         {
           "letter": "D",
-          "text": "Sostener que la poesía es una ciencia inerte destinada únicamente al cálculo matemático de la duración de las olas de El Yunque.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La poesía boricua es un arte social vivo y político cargado de pasión íntima y combate cívico, ajeno al cálculo frío inerte de la geografía física."
+          "text": "Que la lírica boricua de principios del siglo XX es un mosaico complejo donde conviven la rebelión de género, la afirmación étnica caribeña de la herencia africana y el combate ético nacionalista por la soberanía de la patria.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La síntesis de Burgos, Palés y Corretjer devela que la identidad puertorriqueña literaria de vanguardia se teje mediante la confluencia de estas tres grandes corrientes emancipadoras que definen nuestra herencia cultural caribeña contemporánea."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La síntesis crítica de la lírica nacional puertorriqueña revela la herencia viva de sus poetas fundamentales. Al conjugar la revolución personal de Julia de Burgos, el compás mestizo de Luis Palés Matos y el ideal soberano de Juan Antonio Corretjer, el sistema poético de Puerto Rico consolida un discurso de emancipación, hibridez caribeña y orgullo de identidad nacional de primer orden mundial.",
       "difficulty": "10",
       "images": [],

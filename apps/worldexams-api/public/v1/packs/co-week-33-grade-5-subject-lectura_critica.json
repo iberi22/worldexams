@@ -152,9 +152,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Que la ayuda es generosa y no busca recompensas materiales ni reconocimiento.",
-          "is_correct": true,
-          "feedback": "La expresión indica una ayuda desinteresada, sin pedir retribución por la buena acción."
+          "text": "Que la ayuda se oculta para que nadie se entere jamás en el pueblo.",
+          "is_correct": false,
+          "feedback": "La expresión no habla de ocultar la ayuda, sino de no buscar recompensa por hacerla."
         },
         {
           "letter": "B",
@@ -170,12 +170,12 @@
         },
         {
           "letter": "D",
-          "text": "Que la ayuda se oculta para que nadie se entere jamás en el pueblo.",
-          "is_correct": false,
-          "feedback": "La expresión no habla de ocultar la ayuda, sino de no buscar recompensa por hacerla."
+          "text": "Que la ayuda es generosa y no busca recompensas materiales ni reconocimiento.",
+          "is_correct": true,
+          "feedback": "La expresión indica una ayuda desinteresada, sin pedir retribución por la buena acción."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicar el significado de expresiones en contexto para interpretar la enseñanza ética de la leyenda.",
       "difficulty": "6",
       "images": [],

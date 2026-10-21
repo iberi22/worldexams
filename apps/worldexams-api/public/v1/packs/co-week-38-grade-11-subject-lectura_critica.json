@@ -1814,9 +1814,9 @@
         },
         {
           "letter": "B",
-          "text": "Ofrecer una interpretación argumentada de los asuntos públicos que contribuye al debate ciudadano cuando se ejerce con rigor y apertura.",
-          "is_correct": true,
-          "feedback": "Es correcta porque el editorial aporta análisis y perspectivas que enriquecen la deliberación democrática."
+          "text": "Repetir sin análisis los comunicados oficiales.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la mera repetición no aporta interpretación ni criterio a los lectores."
         },
         {
           "letter": "C",
@@ -1826,12 +1826,12 @@
         },
         {
           "letter": "D",
-          "text": "Repetir sin análisis los comunicados oficiales.",
-          "is_correct": false,
-          "feedback": "Es incorrecta porque la mera repetición no aporta interpretación ni criterio a los lectores."
+          "text": "Ofrecer una interpretación argumentada de los asuntos públicos que contribuye al debate ciudadano cuando se ejerce con rigor y apertura.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el editorial aporta análisis y perspectivas que enriquecen la deliberación democrática."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En una democracia, el editorial contribuye al debate público cuando interpreta con argumentos los asuntos colectivos y ayuda a los ciudadanos a formarse un criterio. Su valor depende del rigor, la transparencia y la disposición a reconocer otras posiciones.",
       "difficulty": "10",
       "images": [],

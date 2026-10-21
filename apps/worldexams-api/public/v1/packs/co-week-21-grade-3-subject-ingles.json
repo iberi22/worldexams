@@ -13,12 +13,6 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "D",
-          "text": "milk",
-          "is_correct": true,
-          "feedback": "Correct! 'milk' is the white liquid produced by cows, goats, or sheep, and is a common drink."
-        },
-        {
           "letter": "A",
           "text": "soda",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "tea",
           "is_correct": false,
           "feedback": "'tea' is a hot drink made from leaves, not the white liquid from cows."
+        },
+        {
+          "letter": "D",
+          "text": "milk",
+          "is_correct": true,
+          "feedback": "Correct! 'milk' is the white liquid produced by cows, goats, or sheep, and is a common drink."
         }
       ],
       "correct_answer": "D",
@@ -105,12 +105,6 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "D",
-          "text": "water",
-          "is_correct": true,
-          "feedback": "Correct! 'water' is a clear, colorless natural liquid that is essential to drink for your health every day."
-        },
-        {
           "letter": "A",
           "text": "juice",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "coffee",
           "is_correct": false,
           "feedback": "'coffee' is a dark, bitter drink made from beans, not a clear, colorless liquid."
+        },
+        {
+          "letter": "D",
+          "text": "water",
+          "is_correct": true,
+          "feedback": "Correct! 'water' is a clear, colorless natural liquid that is essential to drink for your health every day."
         }
       ],
       "correct_answer": "D",
@@ -197,16 +197,16 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "B",
-          "text": "juice",
-          "is_correct": true,
-          "feedback": "Correct! 'juice' is a sweet drink that is made by squeezing the liquid out of fresh fruit or vegetables."
-        },
-        {
           "letter": "A",
           "text": "water",
           "is_correct": false,
           "feedback": "'water' is a natural, clear liquid without flavor, not the sweet liquid squeezed from fruit."
+        },
+        {
+          "letter": "B",
+          "text": "juice",
+          "is_correct": true,
+          "feedback": "Correct! 'juice' is a sweet drink that is made by squeezing the liquid out of fresh fruit or vegetables."
         },
         {
           "letter": "C",
@@ -243,12 +243,6 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "D",
-          "text": "egg",
-          "is_correct": true,
-          "feedback": "Correct! 'egg' is the oval object with a hard shell produced by a chicken and often eaten for breakfast."
-        },
-        {
           "letter": "A",
           "text": "cheese",
           "is_correct": false,
@@ -265,6 +259,12 @@
           "text": "bread",
           "is_correct": false,
           "feedback": "'bread' is a baked food made of flour, not an oval object with a hard shell."
+        },
+        {
+          "letter": "D",
+          "text": "egg",
+          "is_correct": true,
+          "feedback": "Correct! 'egg' is the oval object with a hard shell produced by a chicken and often eaten for breakfast."
         }
       ],
       "correct_answer": "D",
@@ -336,9 +336,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "banana",
-          "is_correct": true,
-          "feedback": "Correct! 'banana' is a long, curved fruit with a yellow peel that has soft, sweet flesh on the inside."
+          "text": "pear",
+          "is_correct": false,
+          "feedback": "'pear' is a round, pear-colored citrus fruit, not a long and curved fruit."
         },
         {
           "letter": "B",
@@ -348,9 +348,9 @@
         },
         {
           "letter": "C",
-          "text": "pear",
-          "is_correct": false,
-          "feedback": "'pear' is a round, pear-colored citrus fruit, not a long and curved fruit."
+          "text": "banana",
+          "is_correct": true,
+          "feedback": "Correct! 'banana' is a long, curved fruit with a yellow peel that has soft, sweet flesh on the inside."
         },
         {
           "letter": "D",
@@ -359,7 +359,7 @@
           "feedback": "'grape' is a small, round fruit, not a long, curved yellow fruit."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "The word 'banana' is used to describe a long, curved fruit with a yellow skin that is soft and sweet inside. This is an important vocabulary word in English related to food and drinks.",
       "difficulty": "10",
       "images": [],

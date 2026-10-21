@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W40-repaso-integral-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "It is 8 p.m. Daniela sees her neighbor. What does she say?",
+      "context": "Son las 8 de la noche en un conjunto de Soacha y Daniela se encuentra con su vecino en el ascensor.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the word for a place where you live or stay on holiday."
+          "text": "Good morning!",
+          "is_correct": false,
+          "feedback": "Incorrect. Good morning is for the morning, before 12 p.m., and it is 8 p.m."
         },
         {
           "letter": "B",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' is the system of moving people or goods between places, not the place you sleep in itself."
+          "text": "Good evening!",
+          "is_correct": true,
+          "feedback": "Correct. Good evening is the greeting for the evening, and 8 p.m. is evening."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "Good afternoon!",
           "is_correct": false,
-          "feedback": "'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live."
+          "feedback": "Incorrect. Good afternoon is for the afternoon, from 12 p.m. to about 6 p.m."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "Thank you!",
           "is_correct": false,
-          "feedback": "'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in."
+          "feedback": "Incorrect. Thank you is to show you are grateful, not to greet a person."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Para saludar de noche usamos \"Good evening\" (buenas noches al llegar). \"Good morning\" es por la mañana y \"Good afternoon\" por la tarde. \"Thank you\" es para dar las gracias.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W40-repaso-integral-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -55,36 +55,36 @@
     },
     {
       "id": "CO-ING-3-2026-W40-repaso-integral-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Ana has twelve crayons. Her aunt gives her eight more. How many crayons does she have now?",
+      "context": "Ana tiene 12 colores en su cartuchera y su tía en Tunja le regala 8 colores más.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
+          "text": "twenty",
           "is_correct": true,
-          "feedback": "Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them."
+          "feedback": "Correct. Twelve + eight = 20, and 20 is twenty."
         },
         {
           "letter": "B",
-          "text": "baggage",
+          "text": "eighteen",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "Incorrect. Eighteen is 18, but 12 + 8 = 20."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "twelve",
           "is_correct": false,
-          "feedback": "'destination' names only the place you are going to, without the route or the order of the whole journey."
+          "feedback": "Incorrect. Twelve is the number before her aunt gives her more; 12 + 8 = 20."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "four",
           "is_correct": false,
-          "feedback": "'passport' is the official document that lets you cross a border, not the plan of where you go."
+          "feedback": "Incorrect. Four is 12 - 8; she gets more crayons, so we add, not subtract."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "explanation": "Sumamos: 12 + 8 = 20. En inglés 20 se dice \"twenty\". \"Eighteen\" es 18 y \"four\" sería el resultado de restar, pero Ana recibe más colores, entonces sumamos.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-3-2026-W40-repaso-integral-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: \"The flag of Colombia is yellow, blue and ____.\"",
+      "context": "En el colegio de Rionegro los niños pintan la bandera de Colombia para el 20 de julio.",
       "options": [
         {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' is the place someone is going to or something is being sent to."
+          "letter": "A",
+          "text": "green",
+          "is_correct": false,
+          "feedback": "Incorrect. Green is not on the Colombian flag; it has yellow, blue and red."
         },
         {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself."
+          "letter": "B",
+          "text": "red",
+          "is_correct": true,
+          "feedback": "Correct. The flag of Colombia has three colors: yellow, blue and red."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "white",
           "is_correct": false,
-          "feedback": "'arrival' is the act of reaching a place, not the place that is reached."
+          "feedback": "Incorrect. White is not a color of the Colombian flag; the third color is red."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "black",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from the start to the end, not the place the trip finishes at."
+          "feedback": "Incorrect. Black is not on the Colombian flag; its colors are yellow, blue and red."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "explanation": "La bandera de Colombia es amarilla, azul y roja: en inglés \"yellow, blue and red\". Por eso la palabra que falta es \"red\" (rojo).",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.72,
       "bundle_id": "CO-ING-3-2026-W40-repaso-integral-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-3-2026-W40-repaso-integral-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: \"My mother's mother is my ____.\"",
+      "context": "Mateo vive en Duitama y los domingos visita a la mamá de su mamá.",
       "options": [
         {
-          "letter": "C",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "aunt",
           "is_correct": false,
-          "feedback": "'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in."
+          "feedback": "Incorrect. An aunt is the sister of your mother or father, not her mother."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "sister",
           "is_correct": false,
-          "feedback": "'flight' is the journey by plane itself, not the containers that hold your things."
+          "feedback": "Incorrect. A sister is a girl with the same parents as you."
+        },
+        {
+          "letter": "C",
+          "text": "grandmother",
+          "is_correct": true,
+          "feedback": "Correct. The mother of your mother is your grandmother."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "cousin",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you make for a seat or a room, not the bag you carry."
+          "feedback": "Incorrect. A cousin is the child of your aunt or uncle."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "La mamá de tu mamá es tu abuela, en inglés \"grandmother\". \"Aunt\" es tía, \"sister\" es hermana y \"cousin\" es primo o prima.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.68,
       "bundle_id": "CO-ING-3-2026-W40-repaso-integral-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-3-2026-W40-repaso-integral-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"This animal is a bird. It is green and it can repeat words.\"\nWhat animal is it?",
+      "context": "En la Amazonia, cerca de Leticia, hay muchas aves de colores que pueden repetir sonidos.",
       "options": [
         {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "a cow",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all."
+          "feedback": "Incorrect. A cow is a farm animal that gives milk; it is not a bird."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "a fish",
           "is_correct": false,
-          "feedback": "'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle."
+          "feedback": "Incorrect. A fish lives in water and swims; it is not a bird."
         },
         {
           "letter": "C",
-          "text": "tourist",
+          "text": "a monkey",
           "is_correct": false,
-          "feedback": "'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle."
+          "feedback": "Incorrect. A monkey climbs trees, but it is not a bird and it cannot repeat words."
+        },
+        {
+          "letter": "D",
+          "text": "a parrot",
+          "is_correct": true,
+          "feedback": "Correct. A parrot is a green bird that can repeat words."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "explanation": "El loro, \"parrot\", es un ave (\"bird\") verde que puede repetir palabras (\"repeat words\"). La vaca, el pez y el mono no son aves.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.6,
       "bundle_id": "CO-ING-3-2026-W40-repaso-integral-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-3-2026-W40-repaso-integral-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Juan wears a cap on his head, a T-shirt and shorts.\"\nWhat does Juan wear on his head?",
+      "context": "Juan va a jugar al parque en Girardot, donde hace mucho calor.",
       "options": [
         {
-          "letter": "D",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive."
-        },
-        {
           "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in."
+          "text": "a cap",
+          "is_correct": true,
+          "feedback": "Correct. The text says \"a cap on his head\"."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "shorts",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for your plane, not the place where your belongings are inspected."
+          "feedback": "Incorrect. Shorts are for the legs, not for the head."
         },
         {
           "letter": "C",
-          "text": "gate",
+          "text": "a T-shirt",
           "is_correct": false,
-          "feedback": "'gate' is the door at the plane you walk through to board, not the place where officials check your things."
+          "feedback": "Incorrect. A T-shirt is for the body, not for the head."
+        },
+        {
+          "letter": "D",
+          "text": "shoes",
+          "is_correct": false,
+          "feedback": "Incorrect. Shoes are for the feet, and the text does not mention shoes."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "La gorra, \"cap\", se usa en la cabeza (\"head\"). La camiseta (\"T-shirt\") va en el cuerpo y la pantaloneta (\"shorts\") en las piernas.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.56,
       "bundle_id": "CO-ING-3-2026-W40-repaso-integral-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-3-2026-W40-repaso-integral-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"It is sunny and very hot in Cartagena today.\"\nWhat is the best thing for Maria to take to the beach?",
+      "context": "Maria va a la playa de Bocagrande en Cartagena un día de mucho sol.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane."
+          "text": "a coat and boots",
+          "is_correct": false,
+          "feedback": "Incorrect. A coat and boots are for cold weather, and it is very hot."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "a scarf",
           "is_correct": false,
-          "feedback": "'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline."
+          "feedback": "Incorrect. A scarf keeps your neck warm in cold weather, not in hot weather."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'receipt' is the proof that you paid for something, which is not permission to board a plane."
+          "text": "a hat and sunglasses",
+          "is_correct": true,
+          "feedback": "Correct. A hat and sunglasses protect you from the sun on a sunny day."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "gloves",
           "is_correct": false,
-          "feedback": "'brochure' is a leaflet with tourist information, not a travel document issued to a passenger."
+          "feedback": "Incorrect. Gloves keep your hands warm, and it is a very hot day."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Si está soleado y hace calor (\"sunny and very hot\") necesitamos protegernos del sol con sombrero (\"hat\") y gafas de sol (\"sunglasses\"). El abrigo, la bufanda y los guantes son para el frío.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.5,
       "bundle_id": "CO-ING-3-2026-W40-repaso-integral-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-3-2026-W40-repaso-integral-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Today is Friday. Ana's party is in two days.\"\nWhat day is the party?",
+      "context": "Ana vive en Santa Marta y prepara una fiesta para el fin de semana.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' means visiting the places of interest of a location as a traveler."
+          "text": "Saturday",
+          "is_correct": false,
+          "feedback": "Incorrect. Saturday is one day after Friday, but the party is in two days."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "Monday",
           "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place."
+          "feedback": "Incorrect. Monday is three days after Friday, not two."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "Thursday",
           "is_correct": false,
-          "feedback": "'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city."
+          "feedback": "Incorrect. Thursday is the day before Friday, and the party is in the future."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place."
+          "text": "Sunday",
+          "is_correct": true,
+          "feedback": "Correct. Friday + two days: Saturday is one, Sunday is two."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "correct_answer": "D",
+      "explanation": "Contamos desde el viernes (\"Friday\"): un día después es sábado (\"Saturday\") y dos días después es domingo (\"Sunday\"). Por eso la fiesta es el domingo.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.45,
       "bundle_id": "CO-ING-3-2026-W40-repaso-integral-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",

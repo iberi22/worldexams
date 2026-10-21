@@ -779,9 +779,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "La quema intencionada de miles de hectáreas de milenarios bosques nativos para despejar suelos con fines agrarios, transformando la ecología y el paisaje de la zona.",
-          "is_correct": true,
-          "feedback": "Correcto. Para abrir paso a los colonos en Llanquihue, Pérez Rosales ordenó quemar enormes extensiones de bosque nativo impenetrable (la famosa quema de los bosques del río Negro o del lago Llanquihue), un desastre ambiental del siglo XIX que habilitó la agricultura triguera y ganadera."
+          "text": "La prohibición de plantar trigo en todo el Valle Central de Chile.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, el trigo era el producto estrella de exportación del periodo."
         },
         {
           "letter": "B",
@@ -797,12 +797,12 @@
         },
         {
           "letter": "D",
-          "text": "La prohibición de plantar trigo en todo el Valle Central de Chile.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Al contrario, el trigo era el producto estrella de exportación del periodo."
+          "text": "La quema intencionada de miles de hectáreas de milenarios bosques nativos para despejar suelos con fines agrarios, transformando la ecología y el paisaje de la zona.",
+          "is_correct": true,
+          "feedback": "Correcto. Para abrir paso a los colonos en Llanquihue, Pérez Rosales ordenó quemar enormes extensiones de bosque nativo impenetrable (la famosa quema de los bosques del río Negro o del lago Llanquihue), un desastre ambiental del siglo XIX que habilitó la agricultura triguera y ganadera."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Bajo la lógica del siglo XIX, la selva austral era vista como un obstáculo para la soberanía y la producción agrícola. La quema descontrolada de miles de hectáreas de bosque templado lluvioso por parte de los colonizadores, coordinada por Pérez Rosales, abrió suelos productivos pero dañó irreparablemente la biodiversidad del ecosistema del sur.\n\n---",
       "difficulty": "10",
       "images": [],

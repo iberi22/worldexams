@@ -13,16 +13,16 @@
       "context": "En un colegio de Medellín, los estudiantes de grado 5 reciben una cartilla sobre el gobierno escolar antes de participar en la elección del personero estudiantil.",
       "options": [
         {
-          "letter": "B",
-          "text": "El estudiante elegido por votación de sus compañeros para promover y defender sus derechos y deberes.",
-          "is_correct": true,
-          "feedback": "El personero representa a los estudiantes y vela por el respeto de sus derechos ante las autoridades del colegio."
-        },
-        {
           "letter": "A",
           "text": "El docente encargado de firmar las calificaciones finales del año escolar.",
           "is_correct": false,
           "feedback": "Las calificaciones las registran los docentes de cada área; esa no es la función del personero."
+        },
+        {
+          "letter": "B",
+          "text": "El estudiante elegido por votación de sus compañeros para promover y defender sus derechos y deberes.",
+          "is_correct": true,
+          "feedback": "El personero representa a los estudiantes y vela por el respeto de sus derechos ante las autoridades del colegio."
         },
         {
           "letter": "C",
@@ -59,16 +59,16 @@
       "context": "Antes de la jornada electoral, los estudiantes de grado 5 analizan en clase por qué el voto es un mecanismo de participación ciudadana.",
       "options": [
         {
-          "letter": "B",
-          "text": "Porque permite que cada estudiante exprese su opinión y elija a sus representantes de forma libre.",
-          "is_correct": true,
-          "feedback": "El voto convierte la opinión de cada estudiante en una decisión colectiva sobre quién representa a la comunidad."
-        },
-        {
           "letter": "A",
           "text": "Porque obliga a los estudiantes a entregar dinero para financiar las campañas.",
           "is_correct": false,
           "feedback": "Ninguna elección escolar exige dinero a los votantes; el voto es un derecho gratuito."
+        },
+        {
+          "letter": "B",
+          "text": "Porque permite que cada estudiante exprese su opinión y elija a sus representantes de forma libre.",
+          "is_correct": true,
+          "feedback": "El voto convierte la opinión de cada estudiante en una decisión colectiva sobre quién representa a la comunidad."
         },
         {
           "letter": "C",
@@ -105,12 +105,6 @@
       "context": "Tres candidatos a personero de un colegio de Cali organizan sus campañas con un presupuesto de 20.000 COP para carteles y volantes.",
       "options": [
         {
-          "letter": "C",
-          "text": "Presentar propuestas claras y respetar las reglas acordadas para la campaña escolar.",
-          "is_correct": true,
-          "feedback": "Una campaña democrática se basa en propuestas y en el respeto de las normas comunes, no en la ventaja indebida."
-        },
-        {
           "letter": "A",
           "text": "Romper los carteles de los otros candidatos para que no sean vistos.",
           "is_correct": false,
@@ -121,6 +115,12 @@
           "text": "Prometer dinero en efectivo a quienes voten por su candidatura.",
           "is_correct": false,
           "feedback": "Comprar votos es una práctica antidemocrática que anula la libre decisión de los votantes."
+        },
+        {
+          "letter": "C",
+          "text": "Presentar propuestas claras y respetar las reglas acordadas para la campaña escolar.",
+          "is_correct": true,
+          "feedback": "Una campaña democrática se basa en propuestas y en el respeto de las normas comunes, no en la ventaja indebida."
         },
         {
           "letter": "D",
@@ -151,12 +151,6 @@
       "context": "El consejo directivo de un colegio de Barranquilla se reúne para aprobar el manual de convivencia y el presupuesto anual del plantel.",
       "options": [
         {
-          "letter": "C",
-          "text": "Un representante de los estudiantes elegido por sus compañeros.",
-          "is_correct": true,
-          "feedback": "El consejo directivo incluye a un representante de los estudiantes, elegido por ellos, junto con docentes, padres y directivas."
-        },
-        {
           "letter": "A",
           "text": "Un vendedor de la tienda escolar que no tiene vínculo con el colegio.",
           "is_correct": false,
@@ -167,6 +161,12 @@
           "text": "Un turista que visita la ciudad durante la semana de receso.",
           "is_correct": false,
           "feedback": "El consejo directivo lo conforman miembros de la comunidad educativa, no visitantes externos."
+        },
+        {
+          "letter": "C",
+          "text": "Un representante de los estudiantes elegido por sus compañeros.",
+          "is_correct": true,
+          "feedback": "El consejo directivo incluye a un representante de los estudiantes, elegido por ellos, junto con docentes, padres y directivas."
         },
         {
           "letter": "D",
@@ -197,12 +197,6 @@
       "context": "En un colegio de Bucaramanga, la jornada de votación tiene mesas, tarjetones y jurados estudiantes que acompañan el proceso.",
       "options": [
         {
-          "letter": "D",
-          "text": "Marca en secreto el tarjetón por el candidato de su preferencia y deposita el voto en la urna.",
-          "is_correct": true,
-          "feedback": "El voto escolar es libre y secreto; cada estudiante decide sin presión y deposita personalmente su tarjetón."
-        },
-        {
           "letter": "A",
           "text": "Entrega el tarjetón ya marcado a otro compañero para que lo deposite por él.",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "Se lleva el tarjetón a la casa y lo entrega al día siguiente.",
           "is_correct": false,
           "feedback": "El tarjetón se deposita en la urna durante la jornada; sacarlo invalida el voto y altera el proceso."
+        },
+        {
+          "letter": "D",
+          "text": "Marca en secreto el tarjetón por el candidato de su preferencia y deposita el voto en la urna.",
+          "is_correct": true,
+          "feedback": "El voto escolar es libre y secreto; cada estudiante decide sin presión y deposita personalmente su tarjetón."
         }
       ],
       "correct_answer": "D",
@@ -243,12 +243,6 @@
       "context": "Una candidata a personero solo visita los salones de grado 11 y promete beneficios exclusivos para ese curso, ignorando a los demás grados del colegio.",
       "options": [
         {
-          "letter": "C",
-          "text": "Que ignora las necesidades de los demás grados y por eso no representa a toda la comunidad estudiantil.",
-          "is_correct": true,
-          "feedback": "Quien aspira a representar a todos debe escuchar a los distintos cursos; atender solo a uno rompe la igualdad de la representación."
-        },
-        {
           "letter": "A",
           "text": "Que conoce muy bien a todos los estudiantes del colegio y por eso no necesita visitarlos.",
           "is_correct": false,
@@ -259,6 +253,12 @@
           "text": "Que cumple con el requisito de escuchar a la mayoría de los cursos del plantel.",
           "is_correct": false,
           "feedback": "Visitar un solo grado no es escuchar a la mayoría; la mayoría está formada por los demás cursos."
+        },
+        {
+          "letter": "C",
+          "text": "Que ignora las necesidades de los demás grados y por eso no representa a toda la comunidad estudiantil.",
+          "is_correct": true,
+          "feedback": "Quien aspira a representar a todos debe escuchar a los distintos cursos; atender solo a uno rompe la igualdad de la representación."
         },
         {
           "letter": "D",
@@ -289,12 +289,6 @@
       "context": "En las elecciones de un colegio de Pereira, la mayoría de los estudiantes decide no votar por considerar que \"nada cambia\" con el gobierno escolar.",
       "options": [
         {
-          "letter": "D",
-          "text": "Que unos pocos eligen a los representantes y las decisiones dejan de reflejar la voluntad de la mayoría.",
-          "is_correct": true,
-          "feedback": "Cuando muchos se abstienen, el resultado lo definen pocos votos y la representación pierde legitimidad."
-        },
-        {
           "letter": "A",
           "text": "Que la jornada electoral se prolonga varios días más hasta lograr el voto de cada estudiante.",
           "is_correct": false,
@@ -311,6 +305,12 @@
           "text": "Que se cancelan automáticamente todas las clases del resto del año.",
           "is_correct": false,
           "feedback": "La abstención en una elección no afecta el calendario académico del colegio."
+        },
+        {
+          "letter": "D",
+          "text": "Que unos pocos eligen a los representantes y las decisiones dejan de reflejar la voluntad de la mayoría.",
+          "is_correct": true,
+          "feedback": "Cuando muchos se abstienen, el resultado lo definen pocos votos y la representación pierde legitimidad."
         }
       ],
       "correct_answer": "D",
@@ -335,16 +335,10 @@
       "context": "Un grupo de estudiantes de grado 5 no está de acuerdo con una norma del manual de convivencia y solicita que el personero actúe en su nombre.",
       "options": [
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Escuchar a los estudiantes, presentar su solicitud por los canales institucionales y buscar acuerdos con las directivas.",
           "is_correct": true,
           "feedback": "La vía democrática combina la escucha, el uso de los canales formales y la búsqueda de acuerdos sin romper las normas."
-        },
-        {
-          "letter": "A",
-          "text": "Organizar un grupo para destruir el manual de convivencia en el patio del colegio.",
-          "is_correct": false,
-          "feedback": "Destruir el manual es un acto violento que desconoce los mecanismos legales de participación y diálogo."
         },
         {
           "letter": "B",
@@ -353,13 +347,19 @@
           "feedback": "Todos los estudiantes de la comunidad educativa tienen derecho a ser escuchados por su representante."
         },
         {
+          "letter": "C",
+          "text": "Organizar un grupo para destruir el manual de convivencia en el patio del colegio.",
+          "is_correct": false,
+          "feedback": "Destruir el manual es un acto violento que desconoce los mecanismos legales de participación y diálogo."
+        },
+        {
           "letter": "D",
           "text": "Prometer que la norma será eliminada de inmediato sin consultar a ninguna autoridad.",
           "is_correct": false,
           "feedback": "El personero no puede decidir por encima de las instancias del colegio; su rol es representar y gestionar, no imponer."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Evaluación de la actuación del personero conforme a los principios democráticos de diálogo, legalidad y búsqueda de acuerdos.",
       "difficulty": "10",
       "images": [],

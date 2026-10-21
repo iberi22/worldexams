@@ -425,9 +425,9 @@
         },
         {
           "letter": "B",
-          "text": "Que sea biodegradable (química), impermeable a líquidos (física) y resistente a la tracción (física).",
-          "is_correct": true,
-          "feedback": "¡Excelente! Estas propiedades aseguran que cumpla su función y que se reintegre a la naturaleza."
+          "text": "Que sea pesado, brillante y que conduzca muy bien la electricidad.",
+          "is_correct": false,
+          "feedback": "Estas son propiedades de metales, que no suelen ser los mejores materiales para envases degradables."
         },
         {
           "letter": "C",
@@ -437,12 +437,12 @@
         },
         {
           "letter": "D",
-          "text": "Que sea pesado, brillante y que conduzca muy bien la electricidad.",
-          "is_correct": false,
-          "feedback": "Estas son propiedades de metales, que no suelen ser los mejores materiales para envases degradables."
+          "text": "Que sea biodegradable (química), impermeable a líquidos (física) y resistente a la tracción (física).",
+          "is_correct": true,
+          "feedback": "¡Excelente! Estas propiedades aseguran que cumpla su función y que se reintegre a la naturaleza."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El diseño de materiales implica elegir propiedades específicas. La biodegradabilidad es una propiedad química clave para el medio ambiente, mientras que la impermeabilidad y resistencia son necesarias para proteger los alimentos.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación |\n| :--- | :--- |\n| Técnico | 30 |\n| Curricular | 40 |\n| Contexto | 20 |\n| Redacción | 10 |\n| **Total** | **100** |",
       "difficulty": "10",
       "images": [],

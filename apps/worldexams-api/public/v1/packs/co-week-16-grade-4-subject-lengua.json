@@ -342,9 +342,9 @@
         },
         {
           "letter": "B",
-          "text": "Que la fábula enseña algo sobre la confianza.",
-          "is_correct": true,
-          "feedback": "Es correcta porque contar el secreto de un amigo enseña que no conviene confiar en quien habla de más."
+          "text": "Que la fábula termina sin ninguna moraleja.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el enunciado no dice que la fábula termine sin moraleja."
         },
         {
           "letter": "C",
@@ -354,12 +354,12 @@
         },
         {
           "letter": "D",
-          "text": "Que la fábula termina sin ninguna moraleja.",
-          "is_correct": false,
-          "feedback": "Es incorrecta porque el enunciado no dice que la fábula termine sin moraleja."
+          "text": "Que la fábula enseña algo sobre la confianza.",
+          "is_correct": true,
+          "feedback": "Es correcta porque contar el secreto de un amigo enseña que no conviene confiar en quien habla de más."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Evaluar una fábula escrita por uno mismo es comprobar si su historia deja una enseñanza clara. Si los personajes hacen algo que contradice la moraleja, el texto necesita revisión.",
       "difficulty": "8",
       "images": [],

@@ -336,15 +336,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Para distraer al lector con un personaje que no tiene relación con el problema.",
-          "is_correct": false,
-          "feedback": "Don Eliseo es justamente quien les da las llaves, por lo que sí tiene relación directa con la reparación."
-        },
-        {
-          "letter": "B",
           "text": "Para mostrar que pedir ayuda y trabajar en equipo son buenas formas de resolver un problema.",
           "is_correct": true,
           "feedback": "Es la intención correcta porque ese detalle enseña la lección que el autor quiere transmitir con la historia."
+        },
+        {
+          "letter": "B",
+          "text": "Para distraer al lector con un personaje que no tiene relación con el problema.",
+          "is_correct": false,
+          "feedback": "Don Eliseo es justamente quien les da las llaves, por lo que sí tiene relación directa con la reparación."
         },
         {
           "letter": "C",
@@ -359,7 +359,7 @@
           "feedback": "El autor no busca informar sobre un taller, sino contar una historia con una secuencia de hechos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Un texto se escribe con una intención y el lector puede identificarla en los detalles. En este caso, el autor muestra cómo una ayuda externa resolvió el problema de las niñas. Evaluar la intención del autor permite comprender el mensaje que hay detrás de cada hecho.",
       "difficulty": "10",
       "images": [],

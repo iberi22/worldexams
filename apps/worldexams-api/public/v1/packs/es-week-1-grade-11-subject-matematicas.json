@@ -881,18 +881,18 @@
         },
         {
           "letter": "C",
-          "text": "La raíz cuadrada de cualquier número real es siempre otro número real.",
-          "is_correct": true,
-          "feedback": "Correcto, esta es la afirmación INCORRECTA. Las raíces cuadradas de números negativos no son reales (son imaginarias)."
-        },
-        {
-          "letter": "D",
           "text": "Existe una correspondencia biunívoca entre los puntos de una recta y los números reales.",
           "is_correct": false,
           "feedback": "Afirmación correcta; es el axioma de Cantor-Dedekind."
+        },
+        {
+          "letter": "D",
+          "text": "La raíz cuadrada de cualquier número real es siempre otro número real.",
+          "is_correct": true,
+          "feedback": "Correcto, esta es la afirmación INCORRECTA. Las raíces cuadradas de números negativos no son reales (son imaginarias)."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El conjunto de los números reales no es algebraicamente cerrado porque no contiene las soluciones a ecuaciones como $x^2 + 1 = 0$. La raíz cuadrada de un número negativo (como $\\sqrt{-4}$) no existe dentro del campo de los reales, lo que requiere la extensión al conjunto de los números complejos ($\\mathbb{C}$).\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

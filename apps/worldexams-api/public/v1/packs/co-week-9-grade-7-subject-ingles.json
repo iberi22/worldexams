@@ -388,9 +388,9 @@
         },
         {
           "letter": "B",
-          "text": "The dog is running in the garden.",
-          "is_correct": true,
-          "feedback": "Correct! Double 'n' before adding -ing for \"run\"."
+          "text": "The dog is runs in the garden.",
+          "is_correct": false,
+          "feedback": "Incorrect. You cannot use the present simple 's' form with \"is\"."
         },
         {
           "letter": "C",
@@ -400,12 +400,12 @@
         },
         {
           "letter": "D",
-          "text": "The dog is runs in the garden.",
-          "is_correct": false,
-          "feedback": "Incorrect. You cannot use the present simple 's' form with \"is\"."
+          "text": "The dog is running in the garden.",
+          "is_correct": true,
+          "feedback": "Correct! Double 'n' before adding -ing for \"run\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student analyzes the CVC rule (consonant-vowel-consonant) for doubling consonants in the -ing form.\n\n---",
       "difficulty": "10",
       "images": [],

@@ -394,18 +394,18 @@
         },
         {
           "letter": "C",
-          "text": "His desk is still messy.",
-          "is_correct": true,
-          "feedback": "Correct! Since he didn't organize it, it remains as it was (likely messy)."
-        },
-        {
-          "letter": "D",
           "text": "He didn't do anything.",
           "is_correct": false,
           "feedback": "Incorrect. He cleaned the floor."
+        },
+        {
+          "letter": "D",
+          "text": "His desk is still messy.",
+          "is_correct": true,
+          "feedback": "Correct! Since he didn't organize it, it remains as it was (likely messy)."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "The student analyzes affirmative and negative past statements to infer the current state of a situation.\n\n---",
       "difficulty": "10",
       "images": [],

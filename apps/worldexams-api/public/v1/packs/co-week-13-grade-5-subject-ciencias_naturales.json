@@ -13,12 +13,6 @@
       "context": "En una clase de ciencias en un colegio de Montería, la profesora muestra un modelo del tórax humano y señala el órgano que late sin descansar.",
       "options": [
         {
-          "letter": "D",
-          "text": "El corazón.",
-          "is_correct": true,
-          "feedback": "El corazón es el órgano muscular que impulsa la sangre por todo el cuerpo."
-        },
-        {
           "letter": "A",
           "text": "Los pulmones.",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "Los riñones.",
           "is_correct": false,
           "feedback": "Los riñones filtran la sangre, pero no la impulsan por el cuerpo."
+        },
+        {
+          "letter": "D",
+          "text": "El corazón.",
+          "is_correct": true,
+          "feedback": "El corazón es el órgano muscular que impulsa la sangre por todo el cuerpo."
         }
       ],
       "correct_answer": "D",
@@ -59,12 +59,6 @@
       "context": "Un estudiante de Valledupar se hace una pequeña herida y observa que sale sangre. Su profesora explica que la sangre recorre todo el cuerpo llevando sustancias.",
       "options": [
         {
-          "letter": "D",
-          "text": "Transportar oxígeno y nutrientes a las células y recoger los desechos.",
-          "is_correct": true,
-          "feedback": "La sangre actúa como medio de transporte de sustancias por todo el organismo."
-        },
-        {
           "letter": "A",
           "text": "Producir la energía que el cuerpo necesita para moverse.",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "Sostener los huesos del esqueleto.",
           "is_correct": false,
           "feedback": "Los huesos se sostienen por su propia estructura, no por la sangre."
+        },
+        {
+          "letter": "D",
+          "text": "Transportar oxígeno y nutrientes a las células y recoger los desechos.",
+          "is_correct": true,
+          "feedback": "La sangre actúa como medio de transporte de sustancias por todo el organismo."
         }
       ],
       "correct_answer": "D",
@@ -105,12 +105,6 @@
       "context": "En un laboratorio escolar de Ibagué, los estudiantes comparan dos tubos que simulan vasos sanguíneos: uno de pared gruesa y otro de pared delgada.",
       "options": [
         {
-          "letter": "D",
-          "text": "Llevar la sangre desde el corazón hacia los demás órganos.",
-          "is_correct": true,
-          "feedback": "Las arterias conducen la sangre impulsada por el corazón hacia los tejidos."
-        },
-        {
           "letter": "A",
           "text": "Llevar la sangre desde los órganos hasta el corazón.",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "Almacenar el aire que respiramos.",
           "is_correct": false,
           "feedback": "El aire se aloja en los pulmones, no en las arterias."
+        },
+        {
+          "letter": "D",
+          "text": "Llevar la sangre desde el corazón hacia los demás órganos.",
+          "is_correct": true,
+          "feedback": "Las arterias conducen la sangre impulsada por el corazón hacia los tejidos."
         }
       ],
       "correct_answer": "D",
@@ -151,12 +151,6 @@
       "context": "Durante la clase de educación física en un colegio de Villavicencio, los estudiantes trotan durante diez minutos y notan que su corazón late más rápido.",
       "options": [
         {
-          "letter": "D",
-          "text": "Porque el cuerpo necesita llevar más oxígeno y nutrientes a los músculos que trabajan.",
-          "is_correct": true,
-          "feedback": "Al aumentar la actividad muscular, la sangre debe transportar más oxígeno y energía."
-        },
-        {
           "letter": "A",
           "text": "Porque los músculos dejan de necesitar sangre mientras se mueven.",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "Porque la sangre se convierte en aire dentro del pecho.",
           "is_correct": false,
           "feedback": "La sangre no se transforma en aire; transporta el oxígeno que llega de los pulmones."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el cuerpo necesita llevar más oxígeno y nutrientes a los músculos que trabajan.",
+          "is_correct": true,
+          "feedback": "Al aumentar la actividad muscular, la sangre debe transportar más oxígeno y energía."
         }
       ],
       "correct_answer": "D",
@@ -197,16 +197,10 @@
       "context": "Una niña de Sincelejo se hace una pequeña herida en la rodilla y, al cabo de unos minutos, observa que la sangre deja de salir.",
       "options": [
         {
-          "letter": "D",
+          "letter": "A",
           "text": "Las plaquetas.",
           "is_correct": true,
           "feedback": "Las plaquetas forman coágulos que sellan las heridas y detienen el sangrado."
-        },
-        {
-          "letter": "A",
-          "text": "El plasma.",
-          "is_correct": false,
-          "feedback": "El plasma es el componente líquido que transporta células y sustancias."
         },
         {
           "letter": "B",
@@ -219,9 +213,15 @@
           "text": "Los bronquios.",
           "is_correct": false,
           "feedback": "Los bronquios pertenecen al sistema respiratorio, no a la sangre."
+        },
+        {
+          "letter": "D",
+          "text": "El plasma.",
+          "is_correct": false,
+          "feedback": "El plasma es el componente líquido que transporta células y sustancias."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "Identificación de las plaquetas como células encargadas de la coagulación y el cierre de las heridas.",
       "difficulty": "6",
       "images": [],
@@ -243,12 +243,6 @@
       "context": "Un grupo de estudiantes de Armenia compara dos vasos sanguíneos: las arterias tienen paredes gruesas y elásticas, mientras que las venas tienen paredes más delgadas y válvulas.",
       "options": [
         {
-          "letter": "D",
-          "text": "Las arterias soportan mayor presión porque la sangre sale impulsada por el corazón.",
-          "is_correct": true,
-          "feedback": "La presión del bombeo cardíaco exige paredes más gruesas y resistentes en las arterias."
-        },
-        {
           "letter": "A",
           "text": "Las venas son más gruesas porque llevan más sangre que las arterias.",
           "is_correct": false,
@@ -256,18 +250,24 @@
         },
         {
           "letter": "B",
-          "text": "El grosor depende del color de la sangre que transportan.",
-          "is_correct": false,
-          "feedback": "El color de la sangre no determina la estructura de la pared del vaso."
+          "text": "Las arterias soportan mayor presión porque la sangre sale impulsada por el corazón.",
+          "is_correct": true,
+          "feedback": "La presión del bombeo cardíaco exige paredes más gruesas y resistentes en las arterias."
         },
         {
           "letter": "C",
           "text": "Las arterias son delgadas para que la sangre fluya más despacio.",
           "is_correct": false,
           "feedback": "Las arterias son gruesas precisamente para resistir la presión del flujo."
+        },
+        {
+          "letter": "D",
+          "text": "El grosor depende del color de la sangre que transportan.",
+          "is_correct": false,
+          "feedback": "El color de la sangre no determina la estructura de la pared del vaso."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "Análisis comparativo de la estructura de arterias y venas en relación con la presión sanguínea.",
       "difficulty": "8",
       "images": [],
@@ -289,12 +289,6 @@
       "context": "En un colegio de Tunja se analiza un esquema donde la sangre sale del corazón, recorre el cuerpo y vuelve a él, pasando también por los pulmones.",
       "options": [
         {
-          "letter": "C",
-          "text": "Forman un circuito cerrado donde el corazón impulsa la sangre que lleva oxígeno y recoge desechos.",
-          "is_correct": true,
-          "feedback": "La circulación es un circuito continuo que conecta el corazón, los pulmones y todos los tejidos."
-        },
-        {
           "letter": "A",
           "text": "Cada órgano trabaja de forma aislada sin conectarse con los demás.",
           "is_correct": false,
@@ -305,6 +299,12 @@
           "text": "La sangre solo circula por los pulmones y nunca llega a las piernas.",
           "is_correct": false,
           "feedback": "La sangre llega a todas las regiones del cuerpo, incluidas las extremidades."
+        },
+        {
+          "letter": "C",
+          "text": "Forman un circuito cerrado donde el corazón impulsa la sangre que lleva oxígeno y recoge desechos.",
+          "is_correct": true,
+          "feedback": "La circulación es un circuito continuo que conecta el corazón, los pulmones y todos los tejidos."
         },
         {
           "letter": "D",

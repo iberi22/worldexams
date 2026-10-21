@@ -105,12 +105,6 @@
       "context": "En Cali, el periódico escolar publica: \"El recreo dura veinte minutos\" y \"el recreo es muy corto\".",
       "options": [
         {
-          "letter": "D",
-          "text": "\"El recreo es muy corto\", porque expresa un punto de vista.",
-          "is_correct": true,
-          "feedback": "Es correcta porque la palabra \"muy\" muestra la valoración de quien escribe."
-        },
-        {
           "letter": "A",
           "text": "\"El recreo dura veinte minutos\", porque se puede medir.",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "Ninguna expresa una idea personal.",
           "is_correct": false,
           "feedback": "Es incorrecta porque una de las dos sí valora la duración."
+        },
+        {
+          "letter": "D",
+          "text": "\"El recreo es muy corto\", porque expresa un punto de vista.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la palabra \"muy\" muestra la valoración de quien escribe."
         }
       ],
       "correct_answer": "D",
@@ -151,12 +151,6 @@
       "context": "En Cartagena, Juan quiere convencer a sus compañeros de reciclar en el colegio.",
       "options": [
         {
-          "letter": "D",
-          "text": "Porque así cuidamos el ambiente y reducimos la basura.",
-          "is_correct": true,
-          "feedback": "Es correcta porque relaciona el reciclaje con un beneficio real y claro."
-        },
-        {
           "letter": "A",
           "text": "Porque a mí me gusta el color verde.",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "Porque el patio es grande.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el tamaño del patio no justifica reciclar."
+        },
+        {
+          "letter": "D",
+          "text": "Porque así cuidamos el ambiente y reducimos la basura.",
+          "is_correct": true,
+          "feedback": "Es correcta porque relaciona el reciclaje con un beneficio real y claro."
         }
       ],
       "correct_answer": "D",
@@ -197,12 +197,6 @@
       "context": "En Barranquilla, la tienda escolar vende jugos a dos mil pesos y María opina que son caros.",
       "options": [
         {
-          "letter": "C",
-          "text": "Con dos mil pesos puede comprar también una fruta y un pan.",
-          "is_correct": true,
-          "feedback": "Es correcta porque compara precios y muestra que el jugo cuesta más que otros alimentos."
-        },
-        {
           "letter": "A",
           "text": "Porque el jugo es de color naranja.",
           "is_correct": false,
@@ -213,6 +207,12 @@
           "text": "Porque la tienda está cerca del salón.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la cercanía no determina si algo es caro."
+        },
+        {
+          "letter": "C",
+          "text": "Con dos mil pesos puede comprar también una fruta y un pan.",
+          "is_correct": true,
+          "feedback": "Es correcta porque compara precios y muestra que el jugo cuesta más que otros alimentos."
         },
         {
           "letter": "D",
@@ -243,12 +243,6 @@
       "context": "En Bucaramanga, dos niños opinan sobre la tarea. Luis dice: \"No me gusta la tarea porque me quita tiempo de jugar\". Ana dice: \"La tarea ayuda a repasar lo aprendido porque practico lo de clase\".",
       "options": [
         {
-          "letter": "D",
-          "text": "El de Ana, porque explica un beneficio con un motivo claro.",
-          "is_correct": true,
-          "feedback": "Es correcta porque la razón se conecta con el aprendizaje y lo explica."
-        },
-        {
           "letter": "A",
           "text": "El de Luis, porque el juego es más importante que todo.",
           "is_correct": false,
@@ -265,6 +259,12 @@
           "text": "Ninguno, porque los dos son opiniones sin ningún motivo.",
           "is_correct": false,
           "feedback": "Es incorrecta porque al menos uno de los dos presenta una razón."
+        },
+        {
+          "letter": "D",
+          "text": "El de Ana, porque explica un beneficio con un motivo claro.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la razón se conecta con el aprendizaje y lo explica."
         }
       ],
       "correct_answer": "D",
@@ -289,12 +289,6 @@
       "context": "En Pereira, un estudiante afirma: \"Todos los perros del barrio son peligrosos porque uno me ladró una vez\".",
       "options": [
         {
-          "letter": "C",
-          "text": "Generaliza a partir de un solo caso.",
-          "is_correct": true,
-          "feedback": "Es correcta porque toma una experiencia aislada y la aplica a todos los perros."
-        },
-        {
           "letter": "A",
           "text": "Usa demasiados datos comprobados.",
           "is_correct": false,
@@ -305,6 +299,12 @@
           "text": "Consulta a un experto antes de opinar.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no consulta a nadie, solo cuenta su experiencia."
+        },
+        {
+          "letter": "C",
+          "text": "Generaliza a partir de un solo caso.",
+          "is_correct": true,
+          "feedback": "Es correcta porque toma una experiencia aislada y la aplica a todos los perros."
         },
         {
           "letter": "D",
@@ -336,15 +336,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "\"Las bibliotecas del barrio deben abrir los sábados porque muchos estudiantes quieren leer y estudiar ese día.\"",
-          "is_correct": true,
-          "feedback": "Es correcta porque da una opinión clara y un motivo que la apoya."
-        },
-        {
-          "letter": "B",
           "text": "\"Las bibliotecas son aburridas y ya.\"",
           "is_correct": false,
           "feedback": "Es incorrecta porque no explica por qué lo piensa ni ofrece razones."
+        },
+        {
+          "letter": "B",
+          "text": "\"Las bibliotecas del barrio deben abrir los sábados porque muchos estudiantes quieren leer y estudiar ese día.\"",
+          "is_correct": true,
+          "feedback": "Es correcta porque da una opinión clara y un motivo que la apoya."
         },
         {
           "letter": "C",
@@ -359,7 +359,7 @@
           "feedback": "Es incorrecta porque solo informa un hecho y no expresa una opinión con razones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar un texto argumentativo exige buscar una opinión clara y razones que la sostengan. El texto con mayor calidad une la idea principal con un motivo comprensible para el lector.",
       "difficulty": "10",
       "images": [],

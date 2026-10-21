@@ -59,16 +59,16 @@
       "context": "La literatura medieval se difundía a través de dos grandes oficios: uno popular y oral, y otro culto y escrito.",
       "options": [
         {
-          "letter": "B",
-          "text": "Mester de juglaría",
-          "is_correct": false,
-          "feedback": "El mester de juglaría era el oficio de los juglares, de carácter popular y oral."
-        },
-        {
           "letter": "A",
           "text": "Mester de clerecía",
           "is_correct": true,
           "feedback": "Correcto. Los clérigos usaban la \"cuaderna vía\" para enseñar valores cristianos a través de sus escritos."
+        },
+        {
+          "letter": "B",
+          "text": "Mester de juglaría",
+          "is_correct": false,
+          "feedback": "El mester de juglaría era el oficio de los juglares, de carácter popular y oral."
         },
         {
           "letter": "C",
@@ -111,16 +111,16 @@
           "feedback": "Aunque el Cid gana riquezas, su objetivo principal no es el dinero, sino limpiar su nombre."
         },
         {
-          "letter": "C",
-          "text": "El honor",
-          "is_correct": true,
-          "feedback": "Correcto. El destierro supone la pérdida del honor público, que el Cid recupera mediante sus conquistas y lealtad."
-        },
-        {
           "letter": "B",
           "text": "El poder político",
           "is_correct": false,
           "feedback": "El Cid busca servir a su rey, no arrebatarle el trono o gobernar por su cuenta de forma independiente."
+        },
+        {
+          "letter": "C",
+          "text": "El honor",
+          "is_correct": true,
+          "feedback": "Correcto. El destierro supone la pérdida del honor público, que el Cid recupera mediante sus conquistas y lealtad."
         },
         {
           "letter": "D",
@@ -163,16 +163,16 @@
           "feedback": "En esa época convivían diversas hablas romances y el árabe/hebreo culto."
         },
         {
-          "letter": "D",
-          "text": "Había una convivencia cultural y lingüística entre el mundo árabe y el romance.",
-          "is_correct": true,
-          "feedback": "Correcto. Las jarchas son testimonios de bilingüismo y mestizaje cultural."
-        },
-        {
           "letter": "C",
           "text": "La literatura estaba prohibida para las clases populares.",
           "is_correct": false,
           "feedback": "Las jarchas son precisamente una muestra de la lírica popular que se filtró en poemas cultos."
+        },
+        {
+          "letter": "D",
+          "text": "Había una convivencia cultural y lingüística entre el mundo árabe y el romance.",
+          "is_correct": true,
+          "feedback": "Correcto. Las jarchas son testimonios de bilingüismo y mestizaje cultural."
         }
       ],
       "correct_answer": "D",
@@ -301,16 +301,16 @@
           "feedback": "El lenguaje juglaresco buscaba ser claro y accesible para el pueblo."
         },
         {
-          "letter": "D",
-          "text": "Facilitar la memorización del poema para el juglar y resaltar las virtudes del héroe.",
-          "is_correct": true,
-          "feedback": "Correcto. Eran fórmulas mnemotécnicas y recursos para enfatizar la nobleza del protagonista."
-        },
-        {
           "letter": "C",
           "text": "Cumplir con las leyes gramaticales impuestas por la Iglesia en el siglo XII.",
           "is_correct": false,
           "feedback": "La gramática no era regulada por leyes eclesiásticas de esa forma en la literatura popular."
+        },
+        {
+          "letter": "D",
+          "text": "Facilitar la memorización del poema para el juglar y resaltar las virtudes del héroe.",
+          "is_correct": true,
+          "feedback": "Correcto. Eran fórmulas mnemotécnicas y recursos para enfatizar la nobleza del protagonista."
         }
       ],
       "correct_answer": "D",
@@ -341,12 +341,6 @@
           "feedback": "En ambos periodos el amor es un tema lírico, no una transacción."
         },
         {
-          "letter": "D",
-          "text": "El amor se vuelve una experiencia interior más melancólica y reflexiva sobre el propio yo del poeta.",
-          "is_correct": true,
-          "feedback": "Correcto. El Renacimiento profundiza en la psicología del amante y el análisis de su sufrimiento."
-        },
-        {
           "letter": "B",
           "text": "Se abandona la naturaleza como escenario y se prefiere la descripción de grandes batallas.",
           "is_correct": false,
@@ -357,6 +351,12 @@
           "text": "El amor desaparece de la literatura y es sustituido por temas exclusivamente científicos.",
           "is_correct": false,
           "feedback": "El amor es el tema central de la lírica renacentista."
+        },
+        {
+          "letter": "D",
+          "text": "El amor se vuelve una experiencia interior más melancólica y reflexiva sobre el propio yo del poeta.",
+          "is_correct": true,
+          "feedback": "Correcto. El Renacimiento profundiza en la psicología del amante y el análisis de su sufrimiento."
         }
       ],
       "correct_answer": "D",
@@ -387,16 +387,16 @@
           "feedback": "El anonimato juglaresco se debe a la naturaleza colectiva y oral de la tradición, no solo al analfabetismo."
         },
         {
-          "letter": "C",
-          "text": "El inicio de una conciencia de \"autor\" culto que se enorgullece de su habilidad técnica y conocimiento.",
-          "is_correct": true,
-          "feedback": "Correcto. Los clérigos valoraban su formación académica y el prestigio de su escritura."
-        },
-        {
           "letter": "B",
           "text": "Que la Iglesia obligaba a poner nombres para cobrar impuestos por cada libro.",
           "is_correct": false,
           "feedback": "No existe evidencia de impuestos de autoría cobrados por la Iglesia de esa forma."
+        },
+        {
+          "letter": "C",
+          "text": "El inicio de una conciencia de \"autor\" culto que se enorgullece de su habilidad técnica y conocimiento.",
+          "is_correct": true,
+          "feedback": "Correcto. Los clérigos valoraban su formación académica y el prestigio de su escritura."
         },
         {
           "letter": "D",
@@ -433,12 +433,6 @@
           "feedback": "El Cid es una obra realista, no fantástica; el poder del rey es político y legal."
         },
         {
-          "letter": "D",
-          "text": "Porque la lealtad al monarca sostenía el orden feudal, y la rebelión se consideraba una ruptura del orden divino.",
-          "is_correct": true,
-          "feedback": "Correcto. El rey era el representante de Dios en la tierra; rebelarse era un pecado y un crimen social grave."
-        },
-        {
           "letter": "B",
           "text": "Porque el Cid planeaba casarse con la hija del rey y necesitaba su permiso.",
           "is_correct": false,
@@ -449,6 +443,12 @@
           "text": "Porque en la Edad Media no existía el concepto de justicia ni de leyes escritas.",
           "is_correct": false,
           "feedback": "Existían leyes (fueros) y un sistema de justicia, aunque basado en el honor y el estamento."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la lealtad al monarca sostenía el orden feudal, y la rebelión se consideraba una ruptura del orden divino.",
+          "is_correct": true,
+          "feedback": "Correcto. El rey era el representante de Dios en la tierra; rebelarse era un pecado y un crimen social grave."
         }
       ],
       "correct_answer": "D",
@@ -526,15 +526,15 @@
         },
         {
           "letter": "B",
-          "text": "Los clérigos usaban versos largos para que sus poemas fueran más difíciles de leer y así elitistas.",
-          "is_correct": false,
-          "feedback": "Querían ser entendidos por el pueblo, pero querían diferenciarse de la \"vulgaridad\" juglaresca."
-        },
-        {
-          "letter": "C",
           "text": "La regularidad métrica de la cuaderna vía simbolizaba el orden, el conocimiento culto y la seriedad del mensaje religioso.",
           "is_correct": true,
           "feedback": "Correcto. La forma \"cerrada\" y perfecta del verso reflejaba la autoridad del saber escrito."
+        },
+        {
+          "letter": "C",
+          "text": "Los clérigos usaban versos largos para que sus poemas fueran más difíciles de leer y así elitistas.",
+          "is_correct": false,
+          "feedback": "Querían ser entendidos por el pueblo, pero querían diferenciarse de la \"vulgaridad\" juglaresca."
         },
         {
           "letter": "D",
@@ -543,7 +543,7 @@
           "feedback": "En la literatura medieval, la forma (el \"mester\") definía la categoría y el propósito de la obra."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El término \"mester\" significa oficio. Los clérigos se jactaban de su \"oficio\" (clerecía) por ser rima consonante y sílabas contadas, lo que confería a sus textos un carácter de verdad y prestigio frente al entretenimiento juglaresco.\n\n---",
       "difficulty": "10",
       "images": [],

@@ -19,16 +19,16 @@
           "feedback": "La Ley 100 organizó el sistema de seguridad social integral, no la ética pública."
         },
         {
-          "letter": "C",
-          "text": "Ley 843 de 1998, que incorporó el Código de Ética del Servidor Público con principios como bien común, integridad y igualdad",
-          "is_correct": true,
-          "feedback": "Correcto. El Anexo General de la Ley 843 de 1998 contiene el Código Deontológico y de Ética del Servidor Público."
-        },
-        {
           "letter": "B",
           "text": "Ley 1150 de 2007",
           "is_correct": false,
           "feedback": "La Ley 1150 modernizó las reglas de contratación pública."
+        },
+        {
+          "letter": "C",
+          "text": "Ley 843 de 1998, que incorporó el Código de Ética del Servidor Público con principios como bien común, integridad y igualdad",
+          "is_correct": true,
+          "feedback": "Correcto. El Anexo General de la Ley 843 de 1998 contiene el Código Deontológico y de Ética del Servidor Público."
         },
         {
           "letter": "D",
@@ -71,16 +71,16 @@
           "feedback": "La transmisión hereditaria de cargos corresponde a regímenes feudales, no a la república constitucional."
         },
         {
-          "letter": "D",
-          "text": "Una misión del Estado para con la sociedad, de la que se deriva una ética social y política para garantizar el bien común",
-          "is_correct": true,
-          "feedback": "Correcto. Esa es la formulación del Código: el servidor es servidor de la comunidad."
-        },
-        {
           "letter": "C",
           "text": "Un premio electoral para los colaboradores del gobierno",
           "is_correct": false,
           "feedback": "El clientelismo en el empleo público viola el mérito (artículo 125) y la moralidad administrativa."
+        },
+        {
+          "letter": "D",
+          "text": "Una misión del Estado para con la sociedad, de la que se deriva una ética social y política para garantizar el bien común",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la formulación del Código: el servidor es servidor de la comunidad."
         }
       ],
       "correct_answer": "D",
@@ -111,12 +111,6 @@
           "feedback": "El problema no es de tiempo: es de parcialidad e interés privado."
         },
         {
-          "letter": "D",
-          "text": "Imparcialidad y moralidad, y configura causal de impedimento por conflicto de intereses",
-          "is_correct": true,
-          "feedback": "Correcto. La participación en decisiones con interés personal o familiar está prohibida (artículo 209, Ley 734 de 2002 y Ley 1952 de 2019)."
-        },
-        {
           "letter": "B",
           "text": "Publicidad, porque el contrato debía transmitirse por televisión",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "Economía, porque el contrato era de bajo valor",
           "is_correct": false,
           "feedback": "El valor del contrato no sanea el conflicto de interés: la ética no tiene umbral de precio."
+        },
+        {
+          "letter": "D",
+          "text": "Imparcialidad y moralidad, y configura causal de impedimento por conflicto de intereses",
+          "is_correct": true,
+          "feedback": "Correcto. La participación en decisiones con interés personal o familiar está prohibida (artículo 209, Ley 734 de 2002 y Ley 1952 de 2019)."
         }
       ],
       "correct_answer": "D",
@@ -295,12 +295,6 @@
           "feedback": "La Constitución protege la libertad de trabajo (artículo 26); las restricciones son temporales y materiales."
         },
         {
-          "letter": "D",
-          "text": "Reglas de inhabilidad e incompatibilidad posterior al cargo, y el deber de declararse impedido cuando se use información privilegiada",
-          "is_correct": true,
-          "feedback": "Correcto. El régimen de conflicto de intereses posterior (impedimentos del artículo 26 y Ley 2014 de 2019) limita el tránsito a quien se sirvió del cargo."
-        },
-        {
           "letter": "B",
           "text": "La exigencia de un aval del antiguo jefe inmediato",
           "is_correct": false,
@@ -311,6 +305,12 @@
           "text": "El simple registro de la empresa en la cámara de comercio",
           "is_correct": false,
           "feedback": "El registro mercantil no examina información privilegiada ni lealtades funcionales."
+        },
+        {
+          "letter": "D",
+          "text": "Reglas de inhabilidad e incompatibilidad posterior al cargo, y el deber de declararse impedido cuando se use información privilegiada",
+          "is_correct": true,
+          "feedback": "Correcto. El régimen de conflicto de intereses posterior (impedimentos del artículo 26 y Ley 2014 de 2019) limita el tránsito a quien se sirvió del cargo."
         }
       ],
       "correct_answer": "D",
@@ -381,16 +381,16 @@
       "context": "Un grupo de funcionarios del hospital de Villavicencio firma un pacto colectivo de integridad para su gestión.",
       "options": [
         {
-          "letter": "B",
-          "text": "Rendición de cuentas y compromiso voluntario de servidores y organizaciones con metas de gestión y anti-corrupción",
-          "is_correct": true,
-          "feedback": "Correcto. El Pacto Colectivo por la Integridad canaliza compromisos públicos verificables."
-        },
-        {
           "letter": "A",
           "text": "Sindicalización obligatoria de los empleados hospitalarios",
           "is_correct": false,
           "feedback": "La sindicalización es un derecho libre (artículo 39); los pactos de integridad son otra figura."
+        },
+        {
+          "letter": "B",
+          "text": "Rendición de cuentas y compromiso voluntario de servidores y organizaciones con metas de gestión y anti-corrupción",
+          "is_correct": true,
+          "feedback": "Correcto. El Pacto Colectivo por la Integridad canaliza compromisos públicos verificables."
         },
         {
           "letter": "C",
@@ -433,12 +433,6 @@
           "feedback": "La lealtad institucional es al Estado y a la misión, no a la presión de terceros."
         },
         {
-          "letter": "D",
-          "text": "Integridad y responsabilidad: no usar la función para ventajas indebidas, aunque provengan de actores influyentes",
-          "is_correct": true,
-          "feedback": "Correcto. La integridad es coherencia entre valores y acción bajo presión."
-        },
-        {
           "letter": "B",
           "text": "Violación del derecho de petición del concejal",
           "is_correct": false,
@@ -449,6 +443,12 @@
           "text": "Ejercicio indebido de la autonomía escolar curricular",
           "is_correct": false,
           "feedback": "La autonomía curricular (Ley 115 de 1994) no trata sobre protección de instrumentos de evaluación ante presiones."
+        },
+        {
+          "letter": "D",
+          "text": "Integridad y responsabilidad: no usar la función para ventajas indebidas, aunque provengan de actores influyentes",
+          "is_correct": true,
+          "feedback": "Correcto. La integridad es coherencia entre valores y acción bajo presión."
         }
       ],
       "correct_answer": "D",
@@ -519,12 +519,6 @@
       "context": "Un debate escolar compara la \"mermelada\" —cupartida presupuestal a congresistas— con el clientelismo local.",
       "options": [
         {
-          "letter": "C",
-          "text": "Desvía la destinación del gasto público hacia intereses electorales de quienes deciden el presupuesto, en lugar de criterios técnicos y de necesidad ciudadana",
-          "is_correct": true,
-          "feedback": "Correcto. El vicio es la inversión del fin: el presupuesto sirve a la reelección, no al plan nacional (artículos 339-346)."
-        },
-        {
           "letter": "A",
           "text": "Viola el principio de unidad de caja si se paga en efectivo",
           "is_correct": false,
@@ -535,6 +529,12 @@
           "text": "Prohíbe a los congresistas presentar proyectos de ley",
           "is_correct": false,
           "feedback": "La iniciativa legislativa es derecho y función de los congresistas."
+        },
+        {
+          "letter": "C",
+          "text": "Desvía la destinación del gasto público hacia intereses electorales de quienes deciden el presupuesto, en lugar de criterios técnicos y de necesidad ciudadana",
+          "is_correct": true,
+          "feedback": "Correcto. El vicio es la inversión del fin: el presupuesto sirve a la reelección, no al plan nacional (artículos 339-346)."
         },
         {
           "letter": "D",
@@ -623,16 +623,16 @@
           "feedback": "La neutralidad axiológica del Estado tiene límites: la Constitución misma es un pacto de valores."
         },
         {
-          "letter": "D",
-          "text": "Institucionaliza la dimensión moral de la función: los valores constitucionales (artículo 2, 209) traducen la ética en deberes jurídicos y controles, porque el poder sin ética degenera en arbitrariedad",
-          "is_correct": true,
-          "feedback": "Correcto. El constitucionalismo convierte valores en normas: moralidad, probidad y bien común son mandatos, no preferencias."
-        },
-        {
           "letter": "C",
           "text": "Solo obliga a los gobernantes electos, no a los empleados de carrera",
           "is_correct": false,
           "feedback": "El Código de Ética del Servidor Público obliga a todos los que sirven al Estado."
+        },
+        {
+          "letter": "D",
+          "text": "Institucionaliza la dimensión moral de la función: los valores constitucionales (artículo 2, 209) traducen la ética en deberes jurídicos y controles, porque el poder sin ética degenera en arbitrariedad",
+          "is_correct": true,
+          "feedback": "Correcto. El constitucionalismo convierte valores en normas: moralidad, probidad y bien común son mandatos, no preferencias."
         }
       ],
       "correct_answer": "D",
@@ -703,16 +703,16 @@
       "context": "Un medio de Ipiales cubre el hallazgo de obras \"fantasma\" pagadas en tres municipios con contratos simulados.",
       "options": [
         {
-          "letter": "B",
-          "text": "Contrato realidad, porque el interventor siempre cumple",
-          "is_correct": false,
-          "feedback": "\"Contrato realidad\" designa proteger al trabajador bajo la forma, no una trama de simulación."
-        },
-        {
           "letter": "A",
           "text": "Corrupción administrativa en red: la conjunción de documentos falsos, pago sin ejecución y vigilancia capturada, lo que agrava la ilicitud y multiplica responsables",
           "is_correct": true,
           "feedback": "Correcto. La simulación contractual es un delito en cadena: falsedad, celebración indebida, peculado por apropiación y prevaricato si hay jueces y abogados."
+        },
+        {
+          "letter": "B",
+          "text": "Contrato realidad, porque el interventor siempre cumple",
+          "is_correct": false,
+          "feedback": "\"Contrato realidad\" designa proteger al trabajador bajo la forma, no una trama de simulación."
         },
         {
           "letter": "C",
@@ -841,6 +841,12 @@
       "context": "Un debate estudiantil sobre el \"perdonavidismo\": el ciudadano que soborna para agilizar trámites denuncia después al cobrador.",
       "options": [
         {
+          "letter": "A",
+          "text": "Es corresponsabilidad: los artículos 95 y 209 obligan a respetar el ordenamiento, y el ciudadano corruptor es parte del problema; la ética pública requiere una ética privada de lo público",
+          "is_correct": true,
+          "feedback": "Correcto. El deber de obrar conforme al bien común no es exclusivo de funcionarios."
+        },
+        {
           "letter": "B",
           "text": "Es irreprochable: el que paga coimas es siempre una víctima inocente del sistema",
           "is_correct": false,
@@ -851,12 +857,6 @@
           "text": "Es inexistente: la corrupción es exclusivamente un fenómeno de servidores públicos",
           "is_correct": false,
           "feedback": "La evidencia de cohecho por dar u ofrecer y de trámites acelerados con pago desmiente la exclusividad."
-        },
-        {
-          "letter": "A",
-          "text": "Es corresponsabilidad: los artículos 95 y 209 obligan a respetar el ordenamiento, y el ciudadano corruptor es parte del problema; la ética pública requiere una ética privada de lo público",
-          "is_correct": true,
-          "feedback": "Correcto. El deber de obrar conforme al bien común no es exclusivo de funcionarios."
         },
         {
           "letter": "D",
@@ -893,16 +893,16 @@
           "feedback": "La Constitución reconoce a la familia como núcleo básico de la sociedad (artículo 42); la escuela la complementa."
         },
         {
-          "letter": "C",
-          "text": "La moralidad administrativa (artículo 209), el bien común y la dignidad humana (artículo 1) son valores constitucionales que orientan toda educación ciudadana, incluida la formación ética escolar",
-          "is_correct": true,
-          "feedback": "Correcto. Los decálogos escolares traducen los valores de la \"constitución ética\" en normas de convivencia."
-        },
-        {
           "letter": "B",
           "text": "La ética solo puede enseñarse desde una confesión religiosa",
           "is_correct": false,
           "feedback": "La laicidad del Estado (artículo 1) y el derecho a la libertad religiosa hacen de la ética un espacio plural y común."
+        },
+        {
+          "letter": "C",
+          "text": "La moralidad administrativa (artículo 209), el bien común y la dignidad humana (artículo 1) son valores constitucionales que orientan toda educación ciudadana, incluida la formación ética escolar",
+          "is_correct": true,
+          "feedback": "Correcto. Los decálogos escolares traducen los valores de la \"constitución ética\" en normas de convivencia."
         },
         {
           "letter": "D",

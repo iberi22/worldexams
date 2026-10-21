@@ -13,16 +13,16 @@
       "context": "En una heladería de Cartagena, Gabriela combina 2 sabores de helado con 3 coberturas distintas y anota cada combinación en una tabla.",
       "options": [
         {
-          "letter": "B",
-          "text": "6 combinaciones.",
-          "is_correct": true,
-          "feedback": "Cada uno de los 2 sabores se combina con las 3 coberturas, y 2 por 3 da 6 parejas distintas."
-        },
-        {
           "letter": "A",
           "text": "5 combinaciones.",
           "is_correct": false,
           "feedback": "5 sería el resultado de sumar mal los grupos, porque cada sabor se combina con las 3 coberturas."
+        },
+        {
+          "letter": "B",
+          "text": "6 combinaciones.",
+          "is_correct": true,
+          "feedback": "Cada uno de los 2 sabores se combina con las 3 coberturas, y 2 por 3 da 6 parejas distintas."
         },
         {
           "letter": "C",
@@ -59,16 +59,16 @@
       "context": "Tomás organiza en una tabla las combinaciones de 3 jugos y 2 tamaños para la tienda escolar de un colegio de Santa Marta.",
       "options": [
         {
-          "letter": "B",
-          "text": "Para contar todas las posibilidades sin repetir ni olvidar ninguna combinación.",
-          "is_correct": true,
-          "feedback": "La tabla ordena cada pareja en una casilla y así se evita repetir u omitir combinaciones."
-        },
-        {
           "letter": "A",
           "text": "Para saber el precio exacto de cada jugo.",
           "is_correct": false,
           "feedback": "El precio de un jugo no se obtiene de una tabla de combinaciones."
+        },
+        {
+          "letter": "B",
+          "text": "Para contar todas las posibilidades sin repetir ni olvidar ninguna combinación.",
+          "is_correct": true,
+          "feedback": "La tabla ordena cada pareja en una casilla y así se evita repetir u omitir combinaciones."
         },
         {
           "letter": "C",
@@ -105,12 +105,6 @@
       "context": "En un almacén de Cartagena, Tomás elige su uniforme entre 4 camisetas de colores distintos y 3 pantalones diferentes.",
       "options": [
         {
-          "letter": "D",
-          "text": "12 formas.",
-          "is_correct": true,
-          "feedback": "Cada camiseta se combina con los 3 pantalones, y 4 por 3 da 12 formas distintas."
-        },
-        {
           "letter": "A",
           "text": "7 formas.",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "3 formas.",
           "is_correct": false,
           "feedback": "3 son solo los pantalones, y falta combinarlos con las 4 camisetas."
+        },
+        {
+          "letter": "D",
+          "text": "12 formas.",
+          "is_correct": true,
+          "feedback": "Cada camiseta se combina con los 3 pantalones, y 4 por 3 da 12 formas distintas."
         }
       ],
       "correct_answer": "D",
@@ -197,12 +197,6 @@
       "context": "Para una rifa escolar en Cartagena, Gabriela arma cada boleta con un color entre 4 colores y un número entre 5 números distintos.",
       "options": [
         {
-          "letter": "D",
-          "text": "20 boletas.",
-          "is_correct": true,
-          "feedback": "Cada color se combina con los 5 números, y 4 por 5 da 20 boletas distintas."
-        },
-        {
           "letter": "A",
           "text": "9 boletas.",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "4 boletas.",
           "is_correct": false,
           "feedback": "4 son solo los colores, y falta combinarlos con los 5 números."
+        },
+        {
+          "letter": "D",
+          "text": "20 boletas.",
+          "is_correct": true,
+          "feedback": "Cada color se combina con los 5 números, y 4 por 5 da 20 boletas distintas."
         }
       ],
       "correct_answer": "D",
@@ -243,16 +243,16 @@
       "context": "Dos estudiantes cuentan las combinaciones de 3 ensaladas y 4 jugos en el comedor de un colegio de Santa Marta. Tomás multiplica 3 por 4 y obtiene 12. Gabriela suma 3 más 4 y obtiene 7.",
       "options": [
         {
-          "letter": "B",
-          "text": "Tomás, porque cada ensalada se combina con los 4 jugos y 3 por 4 es 12.",
-          "is_correct": true,
-          "feedback": "Multiplicar los grupos cuenta cada pareja ensalada-jugo exactamente una vez."
-        },
-        {
           "letter": "A",
           "text": "Gabriela, porque sumar los grupos siempre da el total de combinaciones.",
           "is_correct": false,
           "feedback": "Sumar 3 más 4 solo cuenta la cantidad de grupos, no las parejas que se forman."
+        },
+        {
+          "letter": "B",
+          "text": "Tomás, porque cada ensalada se combina con los 4 jugos y 3 por 4 es 12.",
+          "is_correct": true,
+          "feedback": "Multiplicar los grupos cuenta cada pareja ensalada-jugo exactamente una vez."
         },
         {
           "letter": "C",
@@ -289,22 +289,22 @@
       "context": "En la tienda escolar de Santa Marta se pueden armar sándwiches con 2 tipos de pan y 4 rellenos, para un total de 8 combinaciones. La profesora solo quiere ofrecer los sándwiches que llevan relleno de pollo.",
       "options": [
         {
-          "letter": "B",
-          "text": "2 sándwiches, porque el pollo se combina con los 2 tipos de pan.",
-          "is_correct": true,
-          "feedback": "Al fijar el relleno de pollo, solo se combina con los 2 panes y resultan 2 parejas."
-        },
-        {
           "letter": "A",
           "text": "4 sándwiches, porque hay 4 rellenos en total.",
           "is_correct": false,
           "feedback": "4 es la cantidad de rellenos disponibles, no la de sándwiches que llevan pollo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "8 sándwiches, porque todos los sándwiches llevan pollo.",
           "is_correct": false,
           "feedback": "Solo uno de los cuatro rellenos es pollo, así que no todos lo llevan."
+        },
+        {
+          "letter": "C",
+          "text": "2 sándwiches, porque el pollo se combina con los 2 tipos de pan.",
+          "is_correct": true,
+          "feedback": "Al fijar el relleno de pollo, solo se combina con los 2 panes y resultan 2 parejas."
         },
         {
           "letter": "D",
@@ -313,7 +313,7 @@
           "feedback": "Restar 2 no corresponde; hay que contar las parejas que incluyen el relleno de pollo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Analizar una condición sobre una tabla de combinaciones para contar solo las parejas que cumplen dicha condición.",
       "difficulty": "8",
       "images": [],
@@ -335,12 +335,6 @@
       "context": "Para contar las combinaciones de 4 sabores de helado y 3 coberturas, Gabriela propone dibujar una tabla de 4 filas por 3 columnas y contar las casillas. Tomás prefiere escribir cada pareja a mano en una lista larga.",
       "options": [
         {
-          "letter": "D",
-          "text": "La tabla de Gabriela es más confiable porque ordena todas las parejas y evita repetir u omitir combinaciones.",
-          "is_correct": true,
-          "feedback": "La tabla de doble entrada organiza cada pareja en una casilla y controla que no se repita ninguna."
-        },
-        {
           "letter": "A",
           "text": "La lista de Tomás es mejor porque una lista a mano siempre resulta más ordenada.",
           "is_correct": false,
@@ -357,6 +351,12 @@
           "text": "La tabla no sirve cuando se combinan más de dos grupos de opciones.",
           "is_correct": false,
           "feedback": "La tabla de doble entrada funciona igual con dos grupos, sin importar cuántas opciones tenga cada uno."
+        },
+        {
+          "letter": "D",
+          "text": "La tabla de Gabriela es más confiable porque ordena todas las parejas y evita repetir u omitir combinaciones.",
+          "is_correct": true,
+          "feedback": "La tabla de doble entrada organiza cada pareja en una casilla y controla que no se repita ninguna."
         }
       ],
       "correct_answer": "D",

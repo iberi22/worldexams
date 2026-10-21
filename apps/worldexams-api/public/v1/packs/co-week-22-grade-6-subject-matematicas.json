@@ -13,12 +13,6 @@
       "context": "En un juego de rayuela en Bogotá los niños saltan las casillas 2, 4, 6, 8 en orden.",
       "options": [
         {
-          "letter": "D",
-          "text": "10",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: la secuencia suma 2 cada vez, y 8 + 2 = 10."
-        },
-        {
           "letter": "A",
           "text": "9",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "16",
           "is_correct": false,
           "feedback": "Explica el error conceptual: duplica el último término en vez de seguir sumando 2."
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: la secuencia suma 2 cada vez, y 8 + 2 = 10."
         }
       ],
       "correct_answer": "D",
@@ -59,12 +59,6 @@
       "context": "En Medellín un niño apila monedas de 5 en 5: 5, 10, 15, 20, ...",
       "options": [
         {
-          "letter": "C",
-          "text": "Sumar 5 cada vez",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: cada término es el anterior más 5 (5, 10, 15, 20)."
-        },
-        {
           "letter": "A",
           "text": "Multiplicar por 5 cada vez",
           "is_correct": false,
@@ -75,6 +69,12 @@
           "text": "Sumar 10 cada vez",
           "is_correct": false,
           "feedback": "Explica el error conceptual: sumar 10 daría 5, 15, 25, no la secuencia mostrada."
+        },
+        {
+          "letter": "C",
+          "text": "Sumar 5 cada vez",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: cada término es el anterior más 5 (5, 10, 15, 20)."
         },
         {
           "letter": "D",
@@ -105,12 +105,6 @@
       "context": "En Cali una vendedora organiza filas de frutas de 3 en 3: 3, 6, 9, 12, ...",
       "options": [
         {
-          "letter": "C",
-          "text": "15",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: la secuencia es 3 × posición: 3, 6, 9, 12 y el quinto es 15."
-        },
-        {
           "letter": "A",
           "text": "14",
           "is_correct": false,
@@ -121,6 +115,12 @@
           "text": "18",
           "is_correct": false,
           "feedback": "Explica el error conceptual: calcula el sexto término (6 × 3) en vez del quinto."
+        },
+        {
+          "letter": "C",
+          "text": "15",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: la secuencia es 3 × posición: 3, 6, 9, 12 y el quinto es 15."
         },
         {
           "letter": "D",
@@ -151,12 +151,6 @@
       "context": "En un taller de Pasto los aprendices cortan baldosas cuadradas: 1, 4, 9, 16, ... (cuadrados perfectos).",
       "options": [
         {
-          "letter": "D",
-          "text": "25",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: la secuencia es 1², 2², 3², 4² y el quinto es 5² = 25."
-        },
-        {
           "letter": "A",
           "text": "20",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "18",
           "is_correct": false,
           "feedback": "Explica el error conceptual: suma 2 al último término sin identificar la regla real."
+        },
+        {
+          "letter": "D",
+          "text": "25",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: la secuencia es 1², 2², 3², 4² y el quinto es 5² = 25."
         }
       ],
       "correct_answer": "D",
@@ -197,12 +197,6 @@
       "context": "En Tunja la temperatura baja de 3 en 3 grados cada hora: 20, 17, 14, 11, ...",
       "options": [
         {
-          "letter": "C",
-          "text": "8 °C",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: la secuencia resta 3 cada vez, y 11 - 3 = 8."
-        },
-        {
           "letter": "A",
           "text": "10 °C",
           "is_correct": false,
@@ -213,6 +207,12 @@
           "text": "7 °C",
           "is_correct": false,
           "feedback": "Explica el error conceptual: resta 4 en vez de 3, alterando la diferencia constante."
+        },
+        {
+          "letter": "C",
+          "text": "8 °C",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: la secuencia resta 3 cada vez, y 11 - 3 = 8."
         },
         {
           "letter": "D",
@@ -289,12 +289,6 @@
       "context": "En Barranquilla una bacteria se duplica cada hora: 7, 14, 28, 56, ...",
       "options": [
         {
-          "letter": "C",
-          "text": "112",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: la regla es multiplicar por 2, y 56 × 2 = 112."
-        },
-        {
           "letter": "A",
           "text": "63",
           "is_correct": false,
@@ -302,6 +296,12 @@
         },
         {
           "letter": "B",
+          "text": "112",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: la regla es multiplicar por 2, y 56 × 2 = 112."
+        },
+        {
+          "letter": "C",
           "text": "84",
           "is_correct": false,
           "feedback": "Explica el error conceptual: suma 28 (el término anterior) en vez de multiplicar por 2."
@@ -313,7 +313,7 @@
           "feedback": "Explica el error conceptual: suma 4 sin relación con la regla de duplicación."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Las secuencias geométricas multiplican por una razón constante (×2). Crecen mucho más rápido que las aritméticas, por eso modelan fenómenos como la reproducción bacteriana.",
       "difficulty": "8",
       "images": [],
@@ -381,12 +381,6 @@
       "context": "En Manizales una estudiante afirma que en la secuencia 5, 9, 13, 17, ... el décimo término es 41.",
       "options": [
         {
-          "letter": "D",
-          "text": "Sí, porque la regla es 4n + 1 y 4 × 10 + 1 = 41",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: la diferencia es 4 y el primer término 5 = 4 + 1; evaluar en n = 10 da 41."
-        },
-        {
           "letter": "A",
           "text": "No, porque el décimo término es 45",
           "is_correct": false,
@@ -403,6 +397,12 @@
           "text": "Sí, porque 17 + 10 + 14 = 41",
           "is_correct": false,
           "feedback": "Explica el error conceptual: suma números sin justificación en vez de usar la regla general."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque la regla es 4n + 1 y 4 × 10 + 1 = 41",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: la diferencia es 4 y el primer término 5 = 4 + 1; evaluar en n = 10 da 41."
         }
       ],
       "correct_answer": "D",

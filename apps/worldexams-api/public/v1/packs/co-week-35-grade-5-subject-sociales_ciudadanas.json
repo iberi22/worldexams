@@ -250,9 +250,9 @@
         },
         {
           "letter": "B",
-          "text": "Que la violencia genera más violencia, mientras el diálogo reduce los conflictos.",
-          "is_correct": true,
-          "feedback": "Los gritos escalan las peleas y el círculo de la palabra enseña a resolver sin agredir."
+          "text": "Que los profesores de quinto A son mejores porque dejan pelear libremente.",
+          "is_correct": false,
+          "feedback": "Dejar pelear sin intervenir abandona la convivencia y permite que crezca la violencia."
         },
         {
           "letter": "C",
@@ -262,12 +262,12 @@
         },
         {
           "letter": "D",
-          "text": "Que los profesores de quinto A son mejores porque dejan pelear libremente.",
-          "is_correct": false,
-          "feedback": "Dejar pelear sin intervenir abandona la convivencia y permite que crezca la violencia."
+          "text": "Que la violencia genera más violencia, mientras el diálogo reduce los conflictos.",
+          "is_correct": true,
+          "feedback": "Los gritos escalan las peleas y el círculo de la palabra enseña a resolver sin agredir."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Análisis del efecto comparado de la violencia y el diálogo en la escalada o solución de los conflictos.",
       "difficulty": "8",
       "images": [],

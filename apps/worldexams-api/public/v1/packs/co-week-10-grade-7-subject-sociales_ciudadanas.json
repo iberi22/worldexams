@@ -428,15 +428,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Es neutra, porque las tres actividades valen lo mismo entre sí.",
-          "is_correct": false,
-          "feedback": "Que las actividades valgan lo mismo no dice nada sobre si se está ofreciendo o no un espacio real de decisión al estudiante."
-        },
-        {
-          "letter": "B",
           "text": "Reduce la participación, porque deja poco margen para elegir la propia.",
           "is_correct": true,
           "feedback": "Es correcta porque si una sola opción es obligatoria, el estudiante no elige libremente a cuál acercarse y su margen de decisión es mínimo."
+        },
+        {
+          "letter": "B",
+          "text": "Es neutra, porque las tres actividades valen lo mismo entre sí.",
+          "is_correct": false,
+          "feedback": "Que las actividades valgan lo mismo no dice nada sobre si se está ofreciendo o no un espacio real de decisión al estudiante."
         },
         {
           "letter": "C",
@@ -451,7 +451,7 @@
           "feedback": "Las tres acciones sí son formas de deber cívico; el problema de la regla no está en las actividades sino en que solo una sea impuesta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Evaluar una regla de participación exige mirar cuánto margen de decisión deja. Si una sola opción es obligatoria y las demás quedan por fuera, el estudiante cumple con lo que le imponen, pero no ha elegido cómo participar. La participación de verdad incluye poder escoger y también asumir consecuencias de esa elección. La respuesta correcta es la B.",
       "difficulty": "10",
       "images": [],

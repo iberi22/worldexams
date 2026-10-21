@@ -830,9 +830,9 @@
         },
         {
           "letter": "B",
-          "text": "would feel",
-          "is_correct": true,
-          "feedback": "Correct. Mixed conditional (past condition, present result)."
+          "text": "feels",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
         },
         {
           "letter": "C",
@@ -842,12 +842,12 @@
         },
         {
           "letter": "D",
-          "text": "feels",
-          "is_correct": false,
-          "feedback": "Incorrect. Present simple."
+          "text": "would feel",
+          "is_correct": true,
+          "feedback": "Correct. Mixed conditional (past condition, present result)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The mixed conditional connects a past hypothetical event with its present consequence.\n\n---",
       "difficulty": "10",
       "images": [],

@@ -58,16 +58,16 @@
       "context": "Clase de ciencias sociales en Soyapango estudiando segunda guerra mundial.",
       "options": [
         {
-          "letter": "B",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Las fábricas concentraron el trabajo en las ciudades: la población rural emigró y surgieron la burguesía industrial y el proletariado."
-        },
-        {
           "letter": "A",
           "text": "Retorno a la vida agrícola",
           "is_correct": false,
           "feedback": "La Revolución Industrial diminishó el peso de la agricultura en la economía, en vez de devolver la sociedad al campo."
+        },
+        {
+          "letter": "B",
+          "text": "Urbanización masiva y nuevas clases sociales",
+          "is_correct": true,
+          "feedback": "Las fábricas concentraron el trabajo en las ciudades: la población rural emigró y surgieron la burguesía industrial y el proletariado."
         },
         {
           "letter": "C",
@@ -103,12 +103,6 @@
       "context": "Clase de ciencias sociales en Soyapango estudiando segunda guerra mundial.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "La Constitución de un país democrático reconoce los derechos esenciales de toda persona, como la vida, la libertad y la igualdad."
-        },
-        {
           "letter": "A",
           "text": "Solo derechos de propiedad",
           "is_correct": false,
@@ -125,6 +119,12 @@
           "text": "Derechos exclusivos del gobierno",
           "is_correct": false,
           "feedback": "La Constitución limita al gobierno y protege a los ciudadanos; lo que el Estado tiene frente a ellos son deberes, no derechos."
+        },
+        {
+          "letter": "D",
+          "text": "Derechos humanos fundamentales",
+          "is_correct": true,
+          "feedback": "La Constitución de un país democrático reconoce los derechos esenciales de toda persona, como la vida, la libertad y la igualdad."
         }
       ],
       "correct_answer": "D",
@@ -148,12 +148,6 @@
       "context": "Clase de ciencias sociales en San Miguel estudiando segunda guerra mundial.",
       "options": [
         {
-          "letter": "D",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Exportar por encima de las importaciones significa que entra más dinero del que sale, y eso es superávit comercial."
-        },
-        {
           "letter": "A",
           "text": "Déficit comercial",
           "is_correct": false,
@@ -170,6 +164,12 @@
           "text": "Crisis económica",
           "is_correct": false,
           "feedback": "Un superávit comercial indica un saldo favorable, no una crisis."
+        },
+        {
+          "letter": "D",
+          "text": "Superávit comercial",
+          "is_correct": true,
+          "feedback": "Exportar por encima de las importaciones significa que entra más dinero del que sale, y eso es superávit comercial."
         }
       ],
       "correct_answer": "D",
@@ -193,12 +193,6 @@
       "context": "Clase de ciencias sociales en San Miguel estudiando segunda guerra mundial.",
       "options": [
         {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "El asesinato del Archiduque Francisco Fernando en Sarajevo en junio de 1914 fue el detonante directo de la guerra."
-        },
-        {
           "letter": "A",
           "text": "El Tratado de Versalles",
           "is_correct": false,
@@ -209,6 +203,12 @@
           "text": "La Revolución Rusa",
           "is_correct": false,
           "feedback": "La Revolución Rusa ocurrió en 1917, durante la guerra, y pertenece a otro conflicto posterior."
+        },
+        {
+          "letter": "C",
+          "text": "El asesinato del Archiduque Francisco Fernando",
+          "is_correct": true,
+          "feedback": "El asesinato del Archiduque Francisco Fernando en Sarajevo en junio de 1914 fue el detonante directo de la guerra."
         },
         {
           "letter": "D",
@@ -289,12 +289,6 @@
           "feedback": "El avance soviético llegó hasta el centro de Europa, no hasta el norte de Rusia."
         },
         {
-          "letter": "D",
-          "text": "Pérdida de la iniciativa ofensiva alemana y avance soviético hacia occidente",
-          "is_correct": true,
-          "feedback": "La iniciativa pasó a los soviéticos, que avanzaron hacia occidente y obligaron a Alemania a repartir sus tropas."
-        },
-        {
           "letter": "B",
           "text": "Victoria alemana en el norte de Rusia",
           "is_correct": false,
@@ -305,6 +299,12 @@
           "text": "Derrota de Alemania dos años antes de la rendición de 1945",
           "is_correct": false,
           "feedback": "La rendición llegó en 1945 y Stalingrad no cerró la guerra: tras la batalla el conflicto continuó casi dos años."
+        },
+        {
+          "letter": "D",
+          "text": "Pérdida de la iniciativa ofensiva alemana y avance soviético hacia occidente",
+          "is_correct": true,
+          "feedback": "La iniciativa pasó a los soviéticos, que avanzaron hacia occidente y obligaron a Alemania a repartir sus tropas."
         }
       ],
       "correct_answer": "D",
@@ -379,16 +379,16 @@
           "feedback": "Exportar e importar a la vez no da equilibrio: este solo se produce cuando ambos valores coinciden."
         },
         {
-          "letter": "C",
-          "text": "Un déficit, porque la maquinaria importada vale más que lo exportado",
-          "is_correct": true,
-          "feedback": "Cuando el valor de las importaciones supera al de las exportaciones, el saldo comercial de ese país es negativo."
-        },
-        {
           "letter": "B",
           "text": "Un superávit, porque toda exportación lo genera",
           "is_correct": false,
           "feedback": "El superávit exige que las exportaciones superen a las importaciones, y aquí la maquinaria tiene un valor mayor."
+        },
+        {
+          "letter": "C",
+          "text": "Un déficit, porque la maquinaria importada vale más que lo exportado",
+          "is_correct": true,
+          "feedback": "Cuando el valor de las importaciones supera al de las exportaciones, el saldo comercial de ese país es negativo."
         },
         {
           "letter": "D",
@@ -418,16 +418,16 @@
       "context": "Clase de ciencias sociales en Santa Ana estudiando segunda guerra mundial.",
       "options": [
         {
-          "letter": "B",
-          "text": "La rendicion inmediata de Alemania",
-          "is_correct": false,
-          "feedback": "El bloqueo agravó la crisis interna, pero la guerra siguió dos años más con los ejércitos en el frente."
-        },
-        {
           "letter": "A",
           "text": "Escasez de alimentos y grave crisis en la retaguardia",
           "is_correct": true,
           "feedback": "El bloqueo quitaba a Alemania los alimentos importados, y la población civil pasó hambre durante años."
+        },
+        {
+          "letter": "B",
+          "text": "La rendicion inmediata de Alemania",
+          "is_correct": false,
+          "feedback": "El bloqueo agravó la crisis interna, pero la guerra siguió dos años más con los ejércitos en el frente."
         },
         {
           "letter": "C",
@@ -553,10 +553,10 @@
       "context": "Clase de ciencias sociales en Mejicanos estudiando segunda guerra mundial.",
       "options": [
         {
-          "letter": "C",
-          "text": "Solo esta obligado por las decisiones de su propio partido",
+          "letter": "A",
+          "text": "Puede gobernar como mejor le parezca porque la constitucion no lo ata",
           "is_correct": false,
-          "feedback": "El partido no es la norma suprema: las decisiones del gobierno pueden revisarse frente a la Constitucion y los tribunales."
+          "feedback": "La constitucion ata a todo gobierno, y un golpe de Estado tampoco elimina esa norma suprema."
         },
         {
           "letter": "B",
@@ -565,10 +565,10 @@
           "feedback": "La Constitucion es la norma suprema, asi que un gobierno militar no puede apartarse de ella ni negar los derechos que protege."
         },
         {
-          "letter": "A",
-          "text": "Puede gobernar como mejor le parezca porque la constitucion no lo ata",
+          "letter": "C",
+          "text": "Solo esta obligado por las decisiones de su propio partido",
           "is_correct": false,
-          "feedback": "La constitucion ata a todo gobierno, y un golpe de Estado tampoco elimina esa norma suprema."
+          "feedback": "El partido no es la norma suprema: las decisiones del gobierno pueden revisarse frente a la Constitucion y los tribunales."
         },
         {
           "letter": "D",
@@ -643,10 +643,10 @@
       "context": "Clase de ciencias sociales en San Salvador estudiando segunda guerra mundial.",
       "options": [
         {
-          "letter": "D",
-          "text": "Europa oriental, incluida la parte de Alemania ocupada por los sovieticos",
-          "is_correct": true,
-          "feedback": "En Yalta se fijo una linea de demarcacion, y el este de Europa quedo bajo la influencia sovietica tras la guerra."
+          "letter": "A",
+          "text": "Todo el continente, sin excepcion de ninguna zona",
+          "is_correct": false,
+          "feedback": "Yalta dibujo una frontera de influencia: el oeste quedo con las potencias occidentales y solo una parte cambio de bando."
         },
         {
           "letter": "B",
@@ -661,10 +661,10 @@
           "feedback": "La demarcacion de Yalta era europea, y en America central no hubo ocupacion sovietica de ningun tipo."
         },
         {
-          "letter": "A",
-          "text": "Todo el continente, sin excepcion de ninguna zona",
-          "is_correct": false,
-          "feedback": "Yalta dibujo una frontera de influencia: el oeste quedo con las potencias occidentales y solo una parte cambio de bando."
+          "letter": "D",
+          "text": "Europa oriental, incluida la parte de Alemania ocupada por los sovieticos",
+          "is_correct": true,
+          "feedback": "En Yalta se fijo una linea de demarcacion, y el este de Europa quedo bajo la influencia sovietica tras la guerra."
         }
       ],
       "correct_answer": "D",
@@ -829,16 +829,16 @@
           "feedback": "La seguridad alimentaria depende de la comida, no del combustible, y una crisis de petroleo la puede empeorar."
         },
         {
-          "letter": "C",
-          "text": "Un choque en los costos y una parada del crecimiento",
-          "is_correct": true,
-          "feedback": "Sin petroleo ajeno, la produccion se encarece y el transporte se detiene, por eso la economia se contrae de inmediato."
-        },
-        {
           "letter": "B",
           "text": "Un aumento de las exportaciones de ese pais",
           "is_correct": false,
           "feedback": "Sin la materia prima, ese pais no puede exportar mas: al contrario, se queda sin energia para producir."
+        },
+        {
+          "letter": "C",
+          "text": "Un choque en los costos y una parada del crecimiento",
+          "is_correct": true,
+          "feedback": "Sin petroleo ajeno, la produccion se encarece y el transporte se detiene, por eso la economia se contrae de inmediato."
         },
         {
           "letter": "D",
@@ -869,15 +869,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Alemania, que quedó partida entre las potencias vencedoras",
-          "is_correct": true,
-          "feedback": "La partición de Alemania en zonas de ocupación y luego dos Estados es el caso más visible de esa división."
-        },
-        {
-          "letter": "B",
           "text": "España, que quedó bajo control de Portugal",
           "is_correct": false,
           "feedback": "España no fue particionada y permaneció fuera de los dos bloques hasta incorporarse en 1955."
+        },
+        {
+          "letter": "B",
+          "text": "Alemania, que quedó partida entre las potencias vencedoras",
+          "is_correct": true,
+          "feedback": "La partición de Alemania en zonas de ocupación y luego dos Estados es el caso más visible de esa división."
         },
         {
           "letter": "C",
@@ -892,7 +892,7 @@
           "feedback": "Japón se reconstruyó como un solo país, con la ocupación terminada en 1952."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La partición de Alemania y de Europa en bloques opuestos reflejó la tensión que daría origen a la guerra fría.",
       "difficulty": "10",
       "images": [],

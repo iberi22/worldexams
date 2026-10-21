@@ -290,9 +290,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Que en las fronteras las comunidades comparten servicios, idiomas y actividades diarias con los países vecinos.",
-          "is_correct": true,
-          "feedback": "Leticia muestra una frontera viva donde tres pueblos conviven e intercambian a diario."
+          "text": "Que las fronteras solo existen en los mapas y no afectan la vida real.",
+          "is_correct": false,
+          "feedback": "Las fronteras organizan la vida diaria: documentos, moneda y servicios de cada país."
         },
         {
           "letter": "B",
@@ -308,12 +308,12 @@
         },
         {
           "letter": "D",
-          "text": "Que las fronteras solo existen en los mapas y no afectan la vida real.",
-          "is_correct": false,
-          "feedback": "Las fronteras organizan la vida diaria: documentos, moneda y servicios de cada país."
+          "text": "Que en las fronteras las comunidades comparten servicios, idiomas y actividades diarias con los países vecinos.",
+          "is_correct": true,
+          "feedback": "Leticia muestra una frontera viva donde tres pueblos conviven e intercambian a diario."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar la frontera como un espacio de convivencia e intercambio entre pueblos vecinos.",
       "difficulty": "8",
       "images": [],

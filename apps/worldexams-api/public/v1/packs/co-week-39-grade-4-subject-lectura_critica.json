@@ -14,15 +14,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "En línea recta, porque el fragmento menciona una sola casa central",
-          "is_correct": false,
-          "feedback": "Incorrecto. El fragmento dice que las casas forman un círculo, y una línea recta no es un círculo."
-        },
-        {
-          "letter": "B",
           "text": "En círculo, porque el fragmento lo dice de forma directa",
           "is_correct": true,
           "feedback": "Correcto. El texto afirma que las casas están construidas en círculo, y eso responde la pregunta de manera literal."
+        },
+        {
+          "letter": "B",
+          "text": "En línea recta, porque el fragmento menciona una sola casa central",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento dice que las casas forman un círculo, y una línea recta no es un círculo."
         },
         {
           "letter": "C",
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. El fragmento dice que desde el centro se ve la montaña, y no que las casas queden unas lejos de otras."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Leer un relato de forma literal es responder solo con lo que el texto escribe, sin agregar datos de nuestra imaginación. Reconocer el verbo principal de una frase, como construir o sembrar, ayuda a los niños a no inventar hechos que el autor nunca dice. Esa disciplina es la base para leer con respeto los relatos de los pueblos.",
       "difficulty": "4",
       "images": [],
@@ -336,9 +336,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "La del grupo 1, porque llama antiguo al relato y con eso responde todo",
-          "is_correct": false,
-          "feedback": "Incorrecto. El grupo 1 no da ninguna fuente y además inventa que nadie puede saber cuándo nació, así que su versión no tiene ninguna prueba."
+          "text": "La del grupo 2, porque señala una fuente, explica quién recogió el relato y dice qué hizo después",
+          "is_correct": true,
+          "feedback": "Correcto. Esa versión menciona el libro de la biblioteca, al narrador, a la abuela y la publicación, y con eso el lector puede buscar la evidencia."
         },
         {
           "letter": "B",
@@ -354,12 +354,12 @@
         },
         {
           "letter": "D",
-          "text": "La del grupo 2, porque señala una fuente, explica quién recogió el relato y dice qué hizo después",
-          "is_correct": true,
-          "feedback": "Correcto. Esa versión menciona el libro de la biblioteca, al narrador, a la abuela y la publicación, y con eso el lector puede buscar la evidencia."
+          "text": "La del grupo 1, porque llama antiguo al relato y con eso responde todo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grupo 1 no da ninguna fuente y además inventa que nadie puede saber cuándo nació, así que su versión no tiene ninguna prueba."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "Comparar cuatro versiones sobre un mismo relato enseña a ver qué tiene que tener un texto confiable. Nombra la fuente, explica quién recogió el relato y cuenta qué pasó después con palabras comprobables. Practicar estos criterios les permite a los niños escribir sobre las tradiciones de los pueblos indígenas con honestidad y sin inventar datos.",
       "difficulty": "10",
       "images": [],

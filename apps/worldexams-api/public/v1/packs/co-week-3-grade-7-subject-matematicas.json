@@ -13,12 +13,6 @@
       "context": "En Medellín, Camila compró $\\frac{3}{8}$ de libra de queso y después compró $\\frac{2}{8}$ de libra más.",
       "options": [
         {
-          "letter": "D",
-          "text": "$\\frac{5}{8}$ de libra",
-          "is_correct": true,
-          "feedback": "Correcto. Al tener igual denominador se suman los numeradores: $3 + 2 = 5$, y se conserva el denominador $8$."
-        },
-        {
           "letter": "A",
           "text": "$\\frac{5}{16}$ de libra",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "$\\frac{6}{8}$ de libra",
           "is_correct": false,
           "feedback": "Incorrecto. La suma de los numeradores $3 + 2$ no es $6$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{5}{8}$ de libra",
+          "is_correct": true,
+          "feedback": "Correcto. Al tener igual denominador se suman los numeradores: $3 + 2 = 5$, y se conserva el denominador $8$."
         }
       ],
       "correct_answer": "D",
@@ -59,16 +59,16 @@
       "context": "En Bucaramanga, un tanque de agua está lleno hasta $\\frac{3}{4}$ de su capacidad y se consumen $\\frac{1}{2}$ de su capacidad.",
       "options": [
         {
-          "letter": "B",
-          "text": "$\\frac{1}{4}$",
-          "is_correct": true,
-          "feedback": "Correcto. Se igualan los denominadores: $\\frac{3}{4} - \\frac{2}{4} = \\frac{1}{4}$."
-        },
-        {
           "letter": "A",
           "text": "$\\frac{1}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el consumo, no lo que queda en el tanque."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{4}$",
+          "is_correct": true,
+          "feedback": "Correcto. Se igualan los denominadores: $\\frac{3}{4} - \\frac{2}{4} = \\frac{1}{4}$."
         },
         {
           "letter": "C",
@@ -105,12 +105,6 @@
       "context": "En Cali, una persona gasta $\\frac{2}{3}$ de sus ahorros en un mercado y $\\frac{1}{6}$ en el transporte.",
       "options": [
         {
-          "letter": "C",
-          "text": "$\\frac{5}{6}$",
-          "is_correct": true,
-          "feedback": "Correcto. $\\frac{2}{3} = \\frac{4}{6}$; entonces $\\frac{4}{6} + \\frac{1}{6} = \\frac{5}{6}$."
-        },
-        {
           "letter": "A",
           "text": "$\\frac{1}{2}$",
           "is_correct": false,
@@ -121,6 +115,12 @@
           "text": "$\\frac{5}{9}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste numeradores y denominadores entre sí."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{5}{6}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{2}{3} = \\frac{4}{6}$; entonces $\\frac{4}{6} + \\frac{1}{6} = \\frac{5}{6}$."
         },
         {
           "letter": "D",
@@ -151,12 +151,6 @@
       "context": "En Pereira, un ciclista recorre $\\frac{1}{2}$ de un tramo, luego avanza $\\frac{1}{3}$ más y finalmente retrocede $\\frac{1}{6}$ del tramo.",
       "options": [
         {
-          "letter": "D",
-          "text": "$\\frac{2}{3}$",
-          "is_correct": true,
-          "feedback": "Correcto. $\\frac{1}{2} + \\frac{1}{3} - \\frac{1}{6} = \\frac{3}{6} + \\frac{2}{6} - \\frac{1}{6} = \\frac{4}{6} = \\frac{2}{3}$."
-        },
-        {
           "letter": "A",
           "text": "$\\frac{1}{3}$",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "$\\frac{1}{6}$",
           "is_correct": false,
           "feedback": "Incorrecto. Solo consideraste el retroceso final."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{2}{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{1}{2} + \\frac{1}{3} - \\frac{1}{6} = \\frac{3}{6} + \\frac{2}{6} - \\frac{1}{6} = \\frac{4}{6} = \\frac{2}{3}$."
         }
       ],
       "correct_answer": "D",
@@ -197,12 +197,6 @@
       "context": "En Barranquilla, una familia destina $\\frac{1}{4}$ de su salario mensual al arriendo y $\\frac{3}{8}$ a la alimentación.",
       "options": [
         {
-          "letter": "C",
-          "text": "$\\frac{5}{8}$",
-          "is_correct": true,
-          "feedback": "Correcto. $\\frac{1}{4} = \\frac{2}{8}$; entonces $\\frac{2}{8} + \\frac{3}{8} = \\frac{5}{8}$."
-        },
-        {
           "letter": "A",
           "text": "$\\frac{1}{3}$",
           "is_correct": false,
@@ -213,6 +207,12 @@
           "text": "$\\frac{1}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. No convertiste $\\frac{1}{4}$ a octavos correctamente."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{5}{8}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{1}{4} = \\frac{2}{8}$; entonces $\\frac{2}{8} + \\frac{3}{8} = \\frac{5}{8}$."
         },
         {
           "letter": "D",
@@ -243,12 +243,6 @@
       "context": "En Manizales, un albañil mezcla $2\\frac{1}{4}$ bultos de cemento con $1\\frac{1}{2}$ bultos y luego retira $\\frac{3}{4}$ de bulto de la mezcla.",
       "options": [
         {
-          "letter": "C",
-          "text": "$3$ bultos",
-          "is_correct": true,
-          "feedback": "Correcto. $\\frac{9}{4} + \\frac{3}{2} - \\frac{3}{4} = \\frac{9}{4} + \\frac{6}{4} - \\frac{3}{4} = \\frac{12}{4} = 3$."
-        },
-        {
           "letter": "A",
           "text": "$\\frac{11}{4}$ bultos",
           "is_correct": false,
@@ -259,6 +253,12 @@
           "text": "$\\frac{7}{2}$ bultos",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste sin restar el retiro de cemento."
+        },
+        {
+          "letter": "C",
+          "text": "$3$ bultos",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{9}{4} + \\frac{3}{2} - \\frac{3}{4} = \\frac{9}{4} + \\frac{6}{4} - \\frac{3}{4} = \\frac{12}{4} = 3$."
         },
         {
           "letter": "D",
@@ -289,12 +289,6 @@
       "context": "En Cartagena, un estudiante sabe que al sumar cierto número racional $x$ con $\\frac{2}{5}$ obtiene $\\frac{9}{10}$.",
       "options": [
         {
-          "letter": "C",
-          "text": "$\\frac{1}{2}$",
-          "is_correct": true,
-          "feedback": "Correcto. $x = \\frac{9}{10} - \\frac{2}{5} = \\frac{9}{10} - \\frac{4}{10} = \\frac{5}{10} = \\frac{1}{2}$."
-        },
-        {
           "letter": "A",
           "text": "$\\frac{7}{10}$",
           "is_correct": false,
@@ -305,6 +299,12 @@
           "text": "$\\frac{1}{10}$",
           "is_correct": false,
           "feedback": "Incorrecto. El error está en la conversión de $\\frac{2}{5}$ a décimos."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. $x = \\frac{9}{10} - \\frac{2}{5} = \\frac{9}{10} - \\frac{4}{10} = \\frac{5}{10} = \\frac{1}{2}$."
         },
         {
           "letter": "D",
@@ -335,16 +335,10 @@
       "context": "En Santa Marta, una receta requiere $\\frac{3}{4}$ de taza de harina y el cocinero ya ha agregado $\\frac{1}{3}$ de taza.",
       "options": [
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$\\frac{5}{12}$ de taza",
           "is_correct": true,
           "feedback": "Correcto. $\\frac{3}{4} - \\frac{1}{3} = \\frac{9}{12} - \\frac{4}{12} = \\frac{5}{12}$."
-        },
-        {
-          "letter": "A",
-          "text": "$\\frac{1}{12}$ de taza",
-          "is_correct": false,
-          "feedback": "Incorrecto. Error al amplificar las fracciones a doceavos."
         },
         {
           "letter": "B",
@@ -353,13 +347,19 @@
           "feedback": "Incorrecto. Restaste numeradores y denominadores entre sí."
         },
         {
+          "letter": "C",
+          "text": "$\\frac{1}{12}$ de taza",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al amplificar las fracciones a doceavos."
+        },
+        {
           "letter": "D",
           "text": "$\\frac{5}{7}$ de taza",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste los denominadores en lugar de igualarlos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El común denominador es $12$: $\\frac{3}{4} = \\frac{9}{12}$ y $\\frac{1}{3} = \\frac{4}{12}$. Falta $\\frac{9}{12} - \\frac{4}{12} = \\frac{5}{12}$ de taza.",
       "difficulty": "8",
       "images": [],
@@ -381,16 +381,16 @@
       "context": "En Bogotá, una ciclovía de $2\\text{ km}$ se construye en tres tramos. El primer día se construyen $\\frac{5}{8}\\text{ km}$ y el segundo día $\\frac{3}{4}\\text{ km}$.",
       "options": [
         {
-          "letter": "B",
-          "text": "$\\frac{5}{8}\\text{ km}$",
-          "is_correct": true,
-          "feedback": "Correcto. Faltante $= 2 - \\left(\\frac{5}{8} + \\frac{6}{8}\\right) = \\frac{16}{8} - \\frac{11}{8} = \\frac{5}{8}$ km."
-        },
-        {
           "letter": "A",
           "text": "$\\frac{3}{8}\\text{ km}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error al convertir los $2$ km a octavos."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{5}{8}\\text{ km}$",
+          "is_correct": true,
+          "feedback": "Correcto. Faltante $= 2 - \\left(\\frac{5}{8} + \\frac{6}{8}\\right) = \\frac{16}{8} - \\frac{11}{8} = \\frac{5}{8}$ km."
         },
         {
           "letter": "C",
@@ -427,12 +427,6 @@
       "context": "En Ibagué, Ana recibe $120000\\text{ COP}$ de pago. Gasta $\\frac{1}{3}$ en transporte y luego gasta $\\frac{1}{4}$ de lo que le queda en alimentación.",
       "options": [
         {
-          "letter": "D",
-          "text": "$60000\\text{ COP}$",
-          "is_correct": true,
-          "feedback": "Correcto. Tras transporte queda $80000$; gasta $\\frac{1}{4}$ de $80000 = 20000$; quedan $60000$ COP."
-        },
-        {
           "letter": "A",
           "text": "$40000\\text{ COP}$",
           "is_correct": false,
@@ -449,6 +443,12 @@
           "text": "$20000\\text{ COP}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el gasto en alimentación, no el saldo final."
+        },
+        {
+          "letter": "D",
+          "text": "$60000\\text{ COP}$",
+          "is_correct": true,
+          "feedback": "Correcto. Tras transporte queda $80000$; gasta $\\frac{1}{4}$ de $80000 = 20000$; quedan $60000$ COP."
         }
       ],
       "correct_answer": "D",

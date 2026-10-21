@@ -296,9 +296,9 @@
         },
         {
           "letter": "B",
-          "text": "Está refutando la relevancia del argumento (dice que la razón dada no tiene que ver con el tema central: la calidad del libro).",
-          "is_correct": true,
-          "feedback": "¡Correcto! Señala que el oponente está usando un criterio que no es válido para juzgar el contenido."
+          "text": "Está refutando la autoridad de la Persona A para hablar de libros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No ataca a la persona, sino a la falta de lógica en su argumento."
         },
         {
           "letter": "C",
@@ -308,12 +308,12 @@
         },
         {
           "letter": "D",
-          "text": "Está refutando la autoridad de la Persona A para hablar de libros.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No ataca a la persona, sino a la falta de lógica en su argumento."
+          "text": "Está refutando la relevancia del argumento (dice que la razón dada no tiene que ver con el tema central: la calidad del libro).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Señala que el oponente está usando un criterio que no es válido para juzgar el contenido."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Refutar la relevancia es fundamental en los debates académicos para evitar que la discusión se desvíe hacia detalles insignificantes o superficiales.",
       "difficulty": "8",
       "images": [],

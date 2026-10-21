@@ -348,18 +348,18 @@
         },
         {
           "letter": "C",
-          "text": "Las dos: cada niño recibe 6 galletas y el reparto es exacto porque 24 ÷ 6 = 6",
-          "is_correct": true,
-          "feedback": "Correcto. 24 ÷ 6 = 6 sin residuo, así que el reparto es exacto y las dos propuestas dicen lo mismo de otra forma."
-        },
-        {
-          "letter": "D",
           "text": "Ninguna, porque la caja no se puede dividir",
           "is_correct": false,
           "feedback": "Incorrecto. El enunciado pide repartir las galletas y eso sí se puede, porque las 24 galletas se pueden dividir entre 6."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos: cada niño recibe 6 galletas y el reparto es exacto porque 24 ÷ 6 = 6",
+          "is_correct": true,
+          "feedback": "Correcto. 24 ÷ 6 = 6 sin residuo, así que el reparto es exacto y las dos propuestas dicen lo mismo de otra forma."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El reparto es exacto cuando el total divide sin residuo. Aquí 24 ÷ 6 = 6, así que a cada niño le tocan 6 galletas y no queda ninguna sobrante. Las dos propuestas describen ese mismo resultado, una hablando del total que recibe cada niño y la otra de la condición que lo hace posible, por eso las dos son correctas.",
       "difficulty": "10",
       "images": [],

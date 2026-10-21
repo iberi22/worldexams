@@ -881,18 +881,18 @@
         },
         {
           "letter": "C",
-          "text": "que / z / en",
-          "is_correct": true,
-          "feedback": "¡Correcto! Se elimina de forma idónea el deísmo (\"Es obligatorio que\", no \"obligatorio de que\"). El verbo \"realizará\" se escribe con \"z\" de realizar. Se utiliza de manera perfecta la locución prepositiva correcta \"con base en\" (es decir: con base -en- las normativas), completando el texto con impecable idoneidad gramatical."
-        },
-        {
-          "letter": "D",
           "text": "de que / c / en relación a de gratis",
           "is_correct": false,
           "feedback": "Incorrecto. Acumula múltiples e insalvables solecismos de deísmo, ortografía verbal con c (\"realicará\") y de nuevo utiliza el vicio vulgar de preposición \"de gratis\"."
+        },
+        {
+          "letter": "D",
+          "text": "que / z / en",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se elimina de forma idónea el deísmo (\"Es obligatorio que\", no \"obligatorio de que\"). El verbo \"realizará\" se escribe con \"z\" de realizar. Se utiliza de manera perfecta la locución prepositiva correcta \"con base en\" (es decir: con base -en- las normativas), completando el texto con impecable idoneidad gramatical."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El rigor de la redacción formal de directrices exige la erradicación del deísmo (\"Es obligatorio que\") y de locuciones prepositivas agramaticales de estilo (\"en base a\" o \"con base a\"). Se consagra como locución prepositiva correcta y elegante del español académico \"con base en\" o \"sobre la base de\", unida a la impecable flexión ortográfica de los verbos del idioma (\"realizará\" con \"z\").",
       "difficulty": "10",
       "images": [],

@@ -342,9 +342,9 @@
         },
         {
           "letter": "B",
-          "text": "The organized parade with safe sound.",
-          "is_correct": true,
-          "feedback": "An organized parade with safe sound respects everyone."
+          "text": "Both groups are equal for the party.",
+          "is_correct": false,
+          "feedback": "The groups are very different; only one respects the community."
         },
         {
           "letter": "C",
@@ -354,12 +354,12 @@
         },
         {
           "letter": "D",
-          "text": "Both groups are equal for the party.",
-          "is_correct": false,
-          "feedback": "The groups are very different; only one respects the community."
+          "text": "The organized parade with safe sound.",
+          "is_correct": true,
+          "feedback": "An organized parade with safe sound respects everyone."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Evaluar grupos implica revisar volumen seguro y respeto por la comunidad. También se promueve disfrutar el carnaval sin dañar los oídos.",
       "difficulty": "10",
       "images": [],

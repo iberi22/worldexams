@@ -244,9 +244,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Porque si se dividen las tres entre 1, 2 y 3 respectivamente todas dan 0,75",
-          "is_correct": true,
-          "feedback": "Correcto. 3 ÷ 4 = 0,75, 6 ÷ 8 = 0,75 y 9 ÷ 12 = 0,75, y por eso las tres valen lo mismo."
+          "text": "Porque el denominador siempre es el doble del numerador",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa regla solo se cumple en 6/12, porque en 3/4 el denominador no es el doble del numerador."
         },
         {
           "letter": "B",
@@ -262,12 +262,12 @@
         },
         {
           "letter": "D",
-          "text": "Porque el denominador siempre es el doble del numerador",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esa regla solo se cumple en 6/12, porque en 3/4 el denominador no es el doble del numerador."
+          "text": "Porque si se dividen las tres entre 1, 2 y 3 respectivamente todas dan 0,75",
+          "is_correct": true,
+          "feedback": "Correcto. 3 ÷ 4 = 0,75, 6 ÷ 8 = 0,75 y 9 ÷ 12 = 0,75, y por eso las tres valen lo mismo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La forma segura de comprobar la equivalencia es dividir. Si en las tres fracciones el cociente entre numerador y denominador da lo mismo, entonces representan la misma cantidad. Aquí 3 ÷ 4, 6 ÷ 8 y 9 ÷ 12 dan todos 0,75, así que las tres son equivalentes y valen tres cuartas partes del mismo todo.",
       "difficulty": "8",
       "images": [],

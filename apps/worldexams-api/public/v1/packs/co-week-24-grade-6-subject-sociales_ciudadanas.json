@@ -428,9 +428,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Contribuye a garantizar el derecho a la alimentación de las personas vulnerables",
-          "is_correct": true,
-          "feedback": "Correcto. El comedor popular asegura que las personas de escasos recursos tengan acceso a alimentos, garantizando así su derecho a la alimentación digna."
+          "text": "Es innecesario porque todas las personas tienen comida suficiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas personas en Colombia no tienen acceso suficiente a alimentos; el comedor popular responde a una necesidad real de la comunidad."
         },
         {
           "letter": "B",
@@ -446,12 +446,12 @@
         },
         {
           "letter": "D",
-          "text": "Es innecesario porque todas las personas tienen comida suficiente",
-          "is_correct": false,
-          "feedback": "Incorrecto. Muchas personas en Colombia no tienen acceso suficiente a alimentos; el comedor popular responde a una necesidad real de la comunidad."
+          "text": "Contribuye a garantizar el derecho a la alimentación de las personas vulnerables",
+          "is_correct": true,
+          "feedback": "Correcto. El comedor popular asegura que las personas de escasos recursos tengan acceso a alimentos, garantizando así su derecho a la alimentación digna."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El derecho a la alimentación es un derecho social fundamental que garantiza que todas las personas tengan acceso a alimentos suficientes y nutritivos. Las iniciativas comunitarias como los comedores populares complementan la acción del Estado y ayudan a proteger a las personas más vulnerables.",
       "difficulty": "10",
       "images": [],

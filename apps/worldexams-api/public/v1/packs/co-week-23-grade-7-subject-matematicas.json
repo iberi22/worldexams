@@ -434,9 +434,9 @@
         },
         {
           "letter": "B",
-          "text": "(1, 4), porque completa lados de longitud 3 y ángulos rectos sobre la cuadrícula",
-          "is_correct": true,
-          "feedback": "Correcto. Con D(1, 4), AB = BC = CD = DA = 3 y los lados quedan paralelos a los ejes, formando un cuadrado."
+          "text": "(1, 1), porque así el parque queda simétrico respecto al origen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese punto ya es el vértice A y la simetría respecto al origen no define un cuadrado."
         },
         {
           "letter": "C",
@@ -446,12 +446,12 @@
         },
         {
           "letter": "D",
-          "text": "(1, 1), porque así el parque queda simétrico respecto al origen",
-          "is_correct": false,
-          "feedback": "Incorrecto. Ese punto ya es el vértice A y la simetría respecto al origen no define un cuadrado."
+          "text": "(1, 4), porque completa lados de longitud 3 y ángulos rectos sobre la cuadrícula",
+          "is_correct": true,
+          "feedback": "Correcto. Con D(1, 4), AB = BC = CD = DA = 3 y los lados quedan paralelos a los ejes, formando un cuadrado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "AB mide 4 - 1 = 3 y BC mide 4 - 1 = 3, con ángulo recto en B. Para cerrar el cuadrado se necesita D con la abscisa de A (x = 1) y la ordenada de C (y = 4), es decir D(1, 4).",
       "difficulty": "10",
       "images": [],

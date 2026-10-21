@@ -382,15 +382,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Que el lector llame por teléfono al periódico para responderla.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No es una pregunta para obtener una respuesta literal inmediata."
-        },
-        {
-          "letter": "B",
           "text": "Invitar al lector a reflexionar profundamente sobre el tema, cuya respuesta suele ser obvia según los argumentos dados.",
           "is_correct": true,
           "feedback": "Correcto. La pregunta retórica es una herramienta de estilo para involucrar al receptor."
+        },
+        {
+          "letter": "B",
+          "text": "Que el lector llame por teléfono al periódico para responderla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una pregunta para obtener una respuesta literal inmediata."
         },
         {
           "letter": "C",
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Todo elemento en un buen artículo debe tener un propósito comunicativo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las preguntas retóricas no esperan respuesta, sino que sirven para enfatizar una idea y hacer que el lector se sienta partícipe del razonamiento del autor.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -440,18 +440,18 @@
         },
         {
           "letter": "C",
-          "text": "Porque se limita a narrar hechos sin dar ninguna valoración, juicio o postura personal del autor.",
-          "is_correct": true,
-          "feedback": "Correcto. Carece de subjetividad y argumentación; es un texto puramente informativo (noticia corta)."
-        },
-        {
-          "letter": "D",
           "text": "Porque el autor no puso su nombre completo.",
           "is_correct": false,
           "feedback": "Incorrecto. La falta de firma no cambia la naturaleza informativa del contenido."
+        },
+        {
+          "letter": "D",
+          "text": "Porque se limita a narrar hechos sin dar ninguna valoración, juicio o postura personal del autor.",
+          "is_correct": true,
+          "feedback": "Correcto. Carece de subjetividad y argumentación; es un texto puramente informativo (noticia corta)."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La ausencia de tesis y argumentos, sumada a un tono neutral y descriptivo, hace que un texto sea informativo y no de opinión. Reconocer esta diferencia es clave para la comprensión crítica de medios.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Protocolo v5.2 respetado. |\n| Curricular | 40/40 | Cubre el tema de artículo de opinión para Grado 6. |\n| Contexto | 20/20 | Referencias a Ibagué, Tunja, Cali, Barranquilla, etc. |\n| Redacción | 10/10 | Alta calidad en las preguntas y opciones. |\n| **TOTAL** | **100/100** | |",
       "difficulty": "10",
       "images": [],
