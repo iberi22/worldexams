@@ -139,7 +139,7 @@ According to a recent report on future cities in Cali, what is implied about the
   <!-- feedback: This calls the device irrelevant, but the report treats that confidence level as central to public discussion, so calling it irrelevant contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the modal adds a degree of certainty to the forecast rather than making the message simpler. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Medellín.
   <!-- feedback: This restricts the device to specialists in a single city, but the report shows this usage across media and discourse, not as jargon owned by one city's planners. -->
 
 ### Explicacion Pedagogica
@@ -187,7 +187,7 @@ According to a recent report on future cities in Manizales, what is implied abou
   <!-- feedback: This calls the device irrelevant, but the report treats that confidence level as central to public discussion, so calling it irrelevant contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the modal adds a degree of certainty to the forecast rather than making the message simpler. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Cartagena.
   <!-- feedback: This restricts the device to specialists in a single city, but the report shows this usage across media and discourse, not as jargon owned by one city's planners. -->
 
 ### Explicacion Pedagogica
@@ -212,7 +212,7 @@ According to a recent report on future cities in Barranquilla, what is implied a
   <!-- feedback: This calls the device irrelevant, but the report treats that confidence level as central to public discussion, so calling it irrelevant contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the modal adds a degree of certainty to the forecast rather than making the message simpler. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Manizales.
   <!-- feedback: This restricts the device to specialists in a single city, but the report shows this usage across media and discourse, not as jargon owned by one city's planners. -->
 
 ### Explicacion Pedagogica
@@ -237,7 +237,7 @@ According to a recent report on future cities in Pereira, what is implied about 
   <!-- feedback: This calls the device irrelevant, but the report treats that confidence level as central to public discussion, so calling it irrelevant contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the modal adds a degree of certainty to the forecast rather than making the message simpler. -->
-- [ ] C) It is only used by academic elites in {city}.
+- [ ] C) It is only used by academic elites in Cartagena.
   <!-- feedback: This restricts the device to specialists in a single city, but the report shows this usage across media and discourse, not as jargon owned by one city's planners. -->
 
 ### Explicacion Pedagogica
@@ -262,7 +262,7 @@ According to a recent report on future cities in Medellín, what is implied abou
   <!-- feedback: This calls the device irrelevant, but the report treats that confidence level as central to public discussion, so calling it irrelevant contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the modal adds a degree of certainty to the forecast rather than making the message simpler. -->
-- [ ] C) It is only used by academic elites in {city}.
+- [ ] C) It is only used by academic elites in Manizales.
   <!-- feedback: This restricts the device to specialists in a single city, but the report shows this usage across media and discourse, not as jargon owned by one city's planners. -->
 
 ### Explicacion Pedagogica
@@ -431,7 +431,7 @@ In a high-level debate about future cities, Mariana says: 'I can't help but feel
 ### Opciones
 - [x] D) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Pereira.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -456,7 +456,7 @@ In a high-level debate about future cities, Sebastián says: 'I can't help but f
 ### Opciones
 - [x] D) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Manizales.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -481,7 +481,7 @@ In a high-level debate about future cities, Lucía says: 'I can't help but feel 
 ### Opciones
 - [x] C) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Cartagena.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -506,7 +506,7 @@ In a high-level debate about future cities, Isabella says: 'I can't help but fee
 ### Opciones
 - [x] D) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Medellín.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->

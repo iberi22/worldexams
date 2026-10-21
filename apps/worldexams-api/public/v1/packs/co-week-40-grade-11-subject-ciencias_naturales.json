@@ -338,19 +338,19 @@
           "letter": "B",
           "text": "La fisión divide núcleos pesados; la fusión une núcleos ligeros.",
           "is_correct": true,
-          "feedback": "Procesos opuestos pero ambos liberan energía."
+          "feedback": "Correcto. La fisión parte un núcleo pesado en núcleos más ligeros, mientras la fusión une núcleos ligeros en uno más pesado."
         },
         {
           "letter": "A",
-          "text": "La fisión ocurre en el Sol; la fusión en reactores terrestres.",
+          "text": "La fisión se dispara con un protón que golpea el núcleo, y la fusión se dispara con un neutrón.",
           "is_correct": false,
-          "feedback": "Es al revés en general."
+          "feedback": "Es incorrecta porque están invertidos: la fisión se inicia con la absorción de un neutrón, mientras que la fusión exige calor y presión (como en el Sol) para unir los núcleos ligeros."
         },
         {
           "letter": "C",
-          "text": "La fusión produce elementos más pesados; la fisión los produce más ligeros.",
+          "text": "La fisión solo ocurre en estrellas y la fusión solo en reactores de centrales nucleares.",
           "is_correct": false,
-          "feedback": "La fusión también puede producir elementos más pesados."
+          "feedback": "Es incorrecta porque están intercambiadas: la fusión es la que ocurre en las estrellas, como el Sol, y la fisión es la que se aprovecha en los reactores de las centrales nucleares y en las armas."
         },
         {
           "letter": "D",
@@ -360,7 +360,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "Fisión y fusión son reacciones nucleares con diferencias fundamentales en reactivos, productos y condiciones.",
+      "explanation": "Fisión y fusión son reacciones nucleares con diferencias fundamentales en reactivos, productos y condiciones: la fisión divide un núcleo pesado (uranio o plutonio) liberando energía y neutrones, y la fusión une núcleos ligeros (deuterio y tritio) para formar un núcleo más pesado, como ocurre en el Sol y en las estrellas.",
       "difficulty": "6",
       "images": [],
       "tags": [],

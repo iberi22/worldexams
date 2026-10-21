@@ -13,32 +13,32 @@
       "context": "Reviewing advice.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "should",
           "is_correct": true,
           "feedback": "Correct! \"Should\" is the appropriate modal for giving advice."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "must to",
           "is_correct": false,
           "feedback": "Incorrect. \"Must\" does not take \"to\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "shouldn't",
           "is_correct": false,
           "feedback": "Incorrect. Illogical advice for someone who wants to pass."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "are should",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "This stacks two verbs with 'are' in front of the modal. A modal such as 'should' is already the complete verb, so nothing can precede it here."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Recordamos que \"should\" se utiliza para dar consejos y va seguido de la forma base del verbo.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "Recordamos que \"should\" se utiliza para dar consejos y va seguido de la forma base del verbo.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -80,11 +80,11 @@
           "letter": "D",
           "text": "am / riding",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Am riding' is the present continuous and describes an action happening now. The word 'never' plus 'before' asks about a whole life experience, which is present perfect."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Para hablar de cosas que hemos (o no hemos) hecho en nuestra vida, usamos el Presente Perfecto.\r\n\r\n---",
+      "explanation": "Para hablar de cosas que hemos (o no hemos) hecho en nuestra vida, usamos el Presente Perfecto.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -126,11 +126,11 @@
           "letter": "D",
           "text": "where",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Where' asks about a place and would turn the sentence into a question, which it is not here."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Usamos \"who\" o \"that\" para dar información sobre una persona mencionada previamente.\r\n\r\n---",
+      "explanation": "Usamos \"who\" o \"that\" para dar información sobre una persona mencionada previamente.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -157,26 +157,26 @@
           "feedback": "Incorrect. Result needs \"will\"."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "go / will bring",
           "is_correct": true,
           "feedback": "Correct! First conditional structure."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "will go / bring",
           "is_correct": false,
           "feedback": "Incorrect. No \"will\" after \"if\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "goes / will bring",
           "is_correct": false,
           "feedback": "Incorrect. \"We\" takes \"go\"."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El Primer Condicional conecta una condición presente (Present Simple) con un resultado futuro probable (Will).\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "El Primer Condicional conecta una condición presente (Present Simple) con un resultado futuro probable (Will).\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -203,26 +203,26 @@
           "feedback": "Incorrect. For is for periods of time (years)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "since",
           "is_correct": true,
           "feedback": "Correct! Since is for a specific starting point."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "during",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'During' marks a specific period or event, as in 'during the war'. The present perfect with a starting point needs 'since'."
         },
         {
           "letter": "D",
           "text": "ago",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Ago' counts backwards from now, as in 'two years ago', and is normally used with a past tense, not with 'has worked'."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "\"Since\" marca el inicio de una acción que continúa hasta el presente.\r\n\r\n---",
+      "correct_answer": "C",
+      "explanation": "\"Since\" marca el inicio de una acción que continúa hasta el presente.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -264,11 +264,11 @@
           "letter": "D",
           "text": "must",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Must' is the affirmative form: it would say smoking is required. The clause says the opposite, that it is strictly forbidden."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Es crucial distinguir entre \"mustn't\" (prohibido) y \"don't have to\" (no es necesario).\r\n\r\n---",
+      "explanation": "Es crucial distinguir entre \"mustn't\" (prohibido) y \"don't have to\" (no es necesario).\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -292,7 +292,7 @@
           "letter": "A",
           "text": "who",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Who' cannot come before a noun to show possession. To say the brother of the girl, the relative pronoun used is 'whose'."
         },
         {
           "letter": "B",
@@ -304,17 +304,17 @@
           "letter": "C",
           "text": "which",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Which' is only used for things, and a brother is a person."
         },
         {
           "letter": "D",
           "text": "whom",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Whom' is the object form, as in 'the boy whom I met'. Here the blank comes before 'brother' and has to show ownership, which is what 'whose' does."
         }
       ],
       "correct_answer": "B",
-      "explanation": "\"Whose\" se usa para unir dos ideas a través de una relación de pertenencia.\r\n\r\n---",
+      "explanation": "\"Whose\" se usa para unir dos ideas a través de una relación de pertenencia.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -338,7 +338,7 @@
           "letter": "A",
           "text": "if",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'If' would make it a straight condition, so the sentence would say the call will be made in every case that is an emergency, which is the opposite of the meaning."
         },
         {
           "letter": "B",
@@ -350,17 +350,17 @@
           "letter": "C",
           "text": "when",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'When' marks any time at all, including ordinary times, so it would promise to call you whenever something happened, not only in an emergency."
         },
         {
           "letter": "D",
           "text": "already",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Already' is an adverb of time and cannot introduce the clause that carries the condition here."
         }
       ],
       "correct_answer": "B",
-      "explanation": "\"Unless\" introduce una excepción a lo que se ha dicho anteriormente.\r\n\r\n---",
+      "explanation": "\"Unless\" introduce una excepción a lo que se ha dicho anteriormente.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -377,17 +377,17 @@
     },
     {
       "id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-v9",
-      "statement": "**A:** \"Have you seen the new movie yet?\"\r\n**B:** \"No, I ________.\"",
+      "statement": "**A:** \"Have you seen the new movie yet?\"\n**B:** \"No, I ________.\"",
       "context": "Reviewing Present Perfect with \"yet\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "haven't see it yet",
           "is_correct": false,
           "feedback": "Incorrect. Participle \"seen\" is required."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "haven't seen it yet",
           "is_correct": true,
           "feedback": "Correct! Correct use of negative Present Perfect with \"yet\"."
@@ -405,8 +405,8 @@
           "feedback": "Incorrect. Doesn't match the \"No\" in the response."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "En respuestas negativas con \"yet\", debemos usar la estructura completa del Presente Perfecto Negativo.\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "En respuestas negativas con \"yet\", debemos usar la estructura completa del Presente Perfecto Negativo.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -423,36 +423,36 @@
     },
     {
       "id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-v10",
-      "statement": "Identify the error:\r\n\"If you **will see (A)** the man **whose (B)** car was stolen, you **should (C)** tell him to call **the police (D)**.\"",
+      "statement": "Identify the error:\n\"If you **will see (A)** the man **whose (B)** car was stolen, you **should (C)** tell him to call **the police (D)**.\"",
       "context": "Identifying grammatical errors in a complex sentence.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "will see",
           "is_correct": true,
           "feedback": "Correct! Error found. \"Will\" cannot be used in the \"if\" clause. It should be \"see\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "whose",
           "is_correct": false,
           "feedback": "Incorrect. Correct use of possessive relative pronoun."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "should",
           "is_correct": false,
           "feedback": "Incorrect. Correct use for giving advice."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "the police",
           "is_correct": false,
           "feedback": "Incorrect. Correct noun."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Se evalúa la capacidad de detectar el uso incorrecto del futuro en cláusulas condicionales, un error común incluso en niveles intermedios.\r\n\r\n---",
+      "correct_answer": "D",
+      "explanation": "Se evalúa la capacidad de detectar el uso incorrecto del futuro en cláusulas condicionales, un error común incluso en niveles intermedios.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -473,13 +473,13 @@
       "context": "Evaluating advice for a social situation.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "You must buy a new one now.",
           "is_correct": false,
           "feedback": "Incorrect. Too direct/commanding."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "You should try to remember where you saw it last, and maybe we can call it.",
           "is_correct": true,
           "feedback": "Correct! Helpful advice using \"should\" and \"can\"."
@@ -497,8 +497,8 @@
           "feedback": "Incorrect. Critical and unhelpful."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "En B1, se espera que el estudiante use el lenguaje no solo con precisión gramatical, sino también con adecuación pragmática (empatía y cortesía).\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "En B1, se espera que el estudiante use el lenguaje no solo con precisión gramatical, sino también con adecuación pragmática (empatía y cortesía).\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -515,7 +515,7 @@
     },
     {
       "id": "CO-ING-8-2026-W10-review-p2-001-MASTERY-v12",
-      "statement": "\"I have a friend. Her name is Carla. She lives in a house. The house is very old. She has visited many countries.\"\r\nChoose the best combined sentence:",
+      "statement": "\"I have a friend. Her name is Carla. She lives in a house. The house is very old. She has visited many countries.\"\nChoose the best combined sentence:",
       "context": "Summarizing a complex situation using relative clauses.",
       "options": [
         {

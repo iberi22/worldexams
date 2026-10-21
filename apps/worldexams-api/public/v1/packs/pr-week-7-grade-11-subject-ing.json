@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the past perfect correctly?",
+      "context": "Past perfect sequences, San Juan, grado 11, W07.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "When I arrived, the bus had already left.",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "Correct. 'Had left' places the bus's departure before the arrival, which is what 'when' expresses."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "When I arrived, the bus already left.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Without 'had', the sentence does not show which of the two past events happened first."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "When I had arrive, the bus left.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The participle of 'to arrive' is 'arrived', and the past perfect never uses the base form."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "When I arrived, the bus has left.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The present perfect is not used with a past-tense 'when' clause, because 'has' belongs to a different time frame."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\n---",
+      "explanation": "El pasado perfecto se forma con 'had' mas el participio pasado y expresa una accion anterior a otra accion en pasado. Es el tiempo que se usa en las secuencias narrativas, donde hay que marcar con claridad que ocurrio primero.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle",
       "periodo": 7,
@@ -54,40 +54,40 @@
     },
     {
       "id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'By the time we reached the beach, the sun ____ (already / set).'",
+      "context": "Past perfect with regular participles, Ponce, grado 11, W07.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "had already sit",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Sit' is not a participle; the participle of 'to set' is 'set' and has no -ed ending."
         },
         {
           "letter": "B",
-          "text": "baggage",
+          "text": "has already set",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Has' is present perfect and cannot express an action that happened before another past action."
         },
         {
           "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "had already set",
+          "is_correct": true,
+          "feedback": "Correct. 'Had' plus the participle 'set' with 'already' forms the past perfect and marks the earlier action."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "already had setting",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The past perfect requires the past participle, not the gerund 'setting'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "Los adverbios como 'already', 'just' y 'never' ocupan la posicion intermedia en el pasado perfecto: 'had' mas adverbio mas participio. La estructura es la misma que en presente perfecto, con 'had' en lugar de 'have' o 'has'.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle",
       "periodo": 7,
@@ -99,40 +99,40 @@
     },
     {
       "id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'She couldn't enter because she ____ (lose) her keys.'",
+      "context": "Past perfect with the verb to be, Carolina, grado 11, W07.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "text": "has lost",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Has' belongs to the present perfect and cannot be placed within a past sequence."
         },
         {
           "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "had lost",
+          "is_correct": true,
+          "feedback": "Correct. 'Had lost' places the loss of the keys before the attempt to get in, which is the sequence the sentence explains."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "had lose",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. After 'had', the verb takes the past participle 'lost', not the base form 'lose'."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "had losing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The past perfect does not allow the gerund 'losing' after 'had'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "Cuando una accion pasada explica o impide otra accion pasada, la primera va en pasado perfecto. Esa secuencia es la funcion central de esta unidad y aparece con 'because', 'after', 'before' o 'when' como nexos.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle",
       "periodo": 7,
@@ -144,40 +144,40 @@
     },
     {
       "id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'He told us he ____ (write) the letter the night before.'",
+      "context": "Past perfect with irregular participles, Bayamon, grado 11, W07.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "text": "had wrote",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Wrote' is the past simple and cannot function as a participle after 'had'."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "had writed",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Adding -ed to an irregular verb does not produce any valid English form."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "has written",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Has' is present perfect and does not fit a sequence of two past actions."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "had written",
+          "is_correct": true,
+          "feedback": "Correct. 'Had written' is the past perfect, and 'written' is the irregular participle of 'to write'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "El pasado perfecto usa el mismo participio que el presente perfecto. La diferencia esta unicamente en el auxiliar: 'had' mas participio para el pasado perfecto y 'have' o 'has' mas participio para el presente perfecto.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle",
       "periodo": 7,
@@ -189,40 +189,40 @@
     },
     {
       "id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence expresses the correct order of past events?",
+      "context": "Past perfect with before and after, Arecibo, grado 11, W07.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "text": "After he had left, the lights had gone out.",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Had gone out' places the switching off before the leaving, but 'after' requires the opposite."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "After he left, the lights had gone out.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Here both actions are in the past simple, so the order the connector calls for is not marked."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "After he would left, the lights went out.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Would' does not express an earlier past action, and the structure does not match the past perfect."
         },
         {
           "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "After he had left, the lights went out.",
+          "is_correct": true,
+          "feedback": "Correct. 'Had left' is the earlier action and 'went out' happens afterward, as 'after' indicates."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "D",
+      "explanation": "Los nexos temporales 'before' y 'after' determinan que tiempo verbal corresponde a cada accion. Con 'after', la accion que va en pasado perfecto es la primera; con 'before', es la segunda. Esa logica se verifica siempre antes de conjugar.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle",
       "periodo": 7,
@@ -234,40 +234,40 @@
     },
     {
       "id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'By the time I arrived, they ____ (finish) the project.'",
+      "context": "Past perfect with by the time, Humacao, grado 11, W07.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "text": "have finished",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Have' is present perfect and cannot appear within a past sequence."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "had finished",
+          "is_correct": true,
+          "feedback": "Correct. 'By the time' introduces the second event, so the earlier one goes in the past perfect."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "had finish",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. After 'had', the verb takes the past participle 'finished', not the base form."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "were finishing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Were finishing' is an impossible conditional and does not express the earlier action the sentence calls for."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "La expresion 'by the time' es la senal mas clara de que hace falta pasado perfecto. Marca el momento de referencia y todo lo que ocurrio antes de ese momento va en 'had' mas participio.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle",
       "periodo": 7,
@@ -279,37 +279,37 @@
     },
     {
       "id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'We missed the concert because the band ____ (cancel) it.'",
+      "context": "Past perfect with the verb to go, Aguadilla, grado 11, W07.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
+          "text": "had cancelled",
           "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "feedback": "Correct. 'Had cancelled' shows that the cancellation happened first, which is why we didn't make it to the concert."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "had cancel",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. After 'had', the verb takes the participle 'cancelled', not the base form 'cancel'."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "has cancelled",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Has' is present perfect and does not fit a cause that already took effect in the past."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "had cancelling",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The gerund is not used in the past perfect, which always requires a past participle."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "explanation": "Cuando un pasado simple se explica por otro hecho anterior, la causa va en pasado perfecto. La estructura es 'because' mas 'had' mas participio, y es una de las combinaciones que mas se prueba en los exámenes de narracion.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which question is correct?",
+      "context": "Past perfect questions, Guayanilla, grado 11, W07.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "Did you finished the report before the meeting?",
+          "is_correct": false,
+          "feedback": "Incorrect. After 'did', the verb takes the base form, so the -ed ending is wrong."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "Have you finished the report before the meeting?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Have' is present perfect and does not fit a question about the past."
         },
         {
           "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Had you finished the report before the meeting?",
+          "is_correct": true,
+          "feedback": "Correct. The past perfect begins with 'Had', and the verb stays in the participle form 'finished'."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "Had you finish the report before the meeting?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. After 'had', the verb takes the past participle 'finished', not the base form."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "En las preguntas de pasado perfecto el auxiliar 'had' va al principio y el verbo principal en participio. La misma logica que en el presente perfecto se aplica aqui cambiando 'have' o 'has' por 'had'.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,40 +369,40 @@
     },
     {
       "id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "When is the past simple enough, without 'had'?",
+      "context": "Past perfect versus past simple, Trujillo Alto, grado 11, W07.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "text": "Never. Every sequence of past events requires the past perfect.",
+          "is_correct": false,
+          "feedback": "Incorrect. The past perfect is needed only when the order must be marked explicitly with the participle."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "Only when the events happen every day.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Frequency belongs to the present simple, not to the choice between past simple and past perfect."
         },
         {
           "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "When the order of two past events is already clear from the verb forms.",
+          "is_correct": true,
+          "feedback": "Correct. If the past simple already shows the order through the position of the actions, the past perfect is not needed."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "Only when the events take place in the future.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The past perfect always describes the past and is not used with future events."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "El pasado perfecto no es obligatorio en toda narracion en pasado. Cuando el orden ya se entiende por el desarrollo de la historia, dos pasado simples bastan. El pasado perfecto se reserva para marcar la traslacion temporal de forma explicita.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle",
       "periodo": 7,
@@ -414,37 +414,37 @@
     },
     {
       "id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The party was boring because nobody ____ (arrive) on time.'",
+      "context": "Past perfect with the verb to be, Barceloneta, grado 11, W07.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
+          "text": "had arrived",
           "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "feedback": "Correct. 'Had arrived' indicates that the late arrivals had already happened by the time the party is being judged."
         },
         {
           "letter": "B",
-          "text": "cancellation",
+          "text": "has arrived",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Has' is present perfect and does not fit a situation judged in the past."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "had arrive",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. After 'had', the verb takes the participle 'arrived', not the base form 'arrive'."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "was arrive",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Was' is the past simple of 'to be' and cannot be followed by an action verb without 'had'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "explanation": "El pasado perfecto con verbos de movimiento como 'arrive', 'leave' o 'finish' es muy frecuente cuando la accion previa explica el estado posterior. Reconocer el patron 'porque algo ya habia ocurrido' facilita mucho la eleccion del tiempo.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,37 +459,37 @@
     },
     {
       "id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'He was thirsty because he ____ (not / drink) all day.'",
+      "context": "Past perfect with the verb to drink, Maunabo, grado 11, W07.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
+          "text": "hadn't drink",
+          "is_correct": false,
+          "feedback": "Incorrect. After 'had', the verb takes the participle 'drunk', not the base form 'drink'."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "didn't drunk",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The option mixes the past simple and the participle, so the sentence is not valid."
         },
         {
           "letter": "C",
-          "text": "booking",
+          "text": "hasn't drunk",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Hasn't' is present perfect and does not fit the cause of a past situation."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "hadn't drunk",
+          "is_correct": true,
+          "feedback": "Correct. 'Hadn't drunk' is the negative past perfect and expresses an earlier, completed action."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "D",
+      "explanation": "El participio de 'to drink' es 'drunk', que es irregular y distinto del pasado simple 'drank'. En pasado perfecto se usa siempre el participio, de modo que la forma correcta con negacion es 'had not drunk' o 'hadn't drunk'.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,82 @@
     },
     {
       "id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is correct?",
+      "context": "Past perfect with although and because, Yauco, grado 11, W07.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "text": "Although she studied hard, she had failed the test.",
+          "is_correct": false,
+          "feedback": "Incorrect. This reverses the order, and a failed exam cannot come before the effort of studying for it."
         },
         {
           "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Although she had studied hard, she failed the test.",
+          "is_correct": true,
+          "feedback": "Correct. 'Had studied' places the effort before the exam, and 'although' introduces the contrast between the two actions."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "Although she had studied hard, she had failed the test.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. With two past perfects in a row, the sentence becomes ambiguous and does not express the order 'although' requires."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "Although she studied had hard, she failed the test.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Studied had' is not a valid structure, because the auxiliary never comes after the participle."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Los conectores como 'although', 'because' y 'so' ordenan la secuencia. Con 'although' la clausula que se presenta como concessiva suele ir en pasado perfecto o en pasado simple, y la principal en pasado simple. La logica temporal debe ser coherente con el mundo de la frase.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v13",
+      "statement": "Complete the sentence: 'The film was confusing because I ____ (not / understand) the ending.'",
+      "context": "Past perfect with the verb to see, Cayey, grado 11, W07.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "haven't understood",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Haven't' is present perfect and does not fit a cause that was already over in the past."
+        },
+        {
+          "letter": "B",
+          "text": "hadn't understood",
+          "is_correct": true,
+          "feedback": "Correct. 'Hadn't understood' marks the earlier lack of understanding that explains the later confusion."
+        },
+        {
+          "letter": "C",
+          "text": "hadn't understand",
+          "is_correct": false,
+          "feedback": "Incorrect. After 'had', the verb takes the participle 'understood', not the base form 'understand'."
+        },
+        {
+          "letter": "D",
+          "text": "wasn't understand",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Was' is a past form of 'to be' and cannot be followed by an action verb."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El participio de 'to understand' es 'understood', una forma irregular con cambio de vocal y terminacion -od. Los verbos que cambian la raiz en pasado suelen hacer lo mismo en participio, y hay que conocer las dos formas.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -548,86 +593,41 @@
       "country": "pr"
     },
     {
-      "id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
       "id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'They couldn't enter the concert because they ____ (not / buy) a ticket.'",
+      "context": "Past perfect with the verb to buy, San Sebastian, grado 11, W07.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "text": "hadn't buyed",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Buyed' does not exist in English, because the participle of 'to buy' is 'bought'."
         },
         {
           "letter": "B",
-          "text": "map",
+          "text": "haven't bought",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Haven't' is present perfect and does not fit a cause within a past narrative."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "hadn't buy",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. After 'had', the verb takes the participle 'bought', not the base form 'buy'."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "hadn't bought",
+          "is_correct": true,
+          "feedback": "Correct. 'Hadn't bought' is the negative past perfect and explains the later situation at the concert."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "En pasado perfecto negativo la estructura es 'had not' o 'hadn't' mas participio pasado. Las tres piezas deben ir juntas: si falta el auxiliar, si sobra -ed o si aparece la forma base, la frase es incorrecta.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle",
       "periodo": 7,
@@ -639,40 +639,40 @@
     },
     {
       "id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Question: 'Had you ever eaten Spanish stew before?' Answer: '____'",
+      "context": "Past perfect in short answers, Camuy, grado 11, W07.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "text": "No, I didn't.",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Didn't' belongs to a past simple question, not to one built with 'had'."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "No, I hadn't eaten before.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. It is a valid answer but not a short one, and the expected form leaves out the participle."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "No, I hadn't.",
+          "is_correct": true,
+          "feedback": "Correct. The short answer repeats the auxiliary 'had' from the question, with the negation before the pronoun."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "No, I never.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Never' is an adverb and needs the auxiliary 'hadn't' after it to form the negative."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "Las respuestas cortas del pasado perfecto usan 'had' igual que la pregunta, con el adverbio de negacion en posicion intermedia. Al igual que en presente perfecto, el auxiliar es el que decide el tiempo verbal de toda la frase.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle",
       "periodo": 7,
@@ -684,37 +684,37 @@
     },
     {
       "id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'I didn't recognise her because she ____ (change) her hair completely.'",
+      "context": "Past perfect with the verb to be, Luquillo, grado 11, W07.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
+          "text": "had changed",
           "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "feedback": "Correct. 'Had changed' places the change in appearance before the meeting, which explains why there was no recognition."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "has changed",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Has' is present perfect and cannot appear within a sequence of two past actions."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "had change",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. After 'had', the verb takes the participle 'changed', not the base form 'change'."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "had changed her hair completely yesterday",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Adding 'yesterday' sets a specific date, which contradicts the completed nature of the past perfect."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "explanation": "La secuencia 'no reconoci a alguien porque algo habia cambiado' es uno de los patrones mas comunes del pasado perfecto. La causa va siempre en 'had' mas participio, sin fecha concreta que la situe en un momento cerrado.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -729,40 +729,40 @@
     },
     {
       "id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'When she arrived, she ____ (not / know) anyone at the party.'",
+      "context": "Past perfect with the verb to know, Toa Baja, grado 11, W07.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
+          "text": "didn't know",
           "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
+          "feedback": "Correct. 'Didn't know' is past simple and is enough, because no earlier action requires the past perfect."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "didn't knew",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. After 'did', the verb goes back to the base form 'know', not the irregular past 'knew'."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "had known",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The past perfect is used only when there is an earlier action to mark, and this sentence has no second, earlier event."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "hasn't known",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Hasn't' is present perfect and does not fit a scene that took place in the past."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "explanation": "El pasado perfecto no se usa solo por hablar del pasado. Solo hace falta cuando hay una accion anterior que marcar. Si la frase no contiene un segundo evento previo, el pasado simple es suficiente y mas natural.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle",
       "periodo": 7,
@@ -774,40 +774,40 @@
     },
     {
       "id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The exam was very easy because the teacher ____ (give) us a study guide.'",
+      "context": "Past perfect with the verb to find, Naguabo, grado 11, W07.",
       "options": [
         {
           "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
+          "text": "had give",
+          "is_correct": false,
+          "feedback": "Incorrect. After 'had', the verb takes the participle 'given', not the irregular base form 'give'."
         },
         {
           "letter": "B",
-          "text": "warranty",
+          "text": "has given",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Has' is present perfect and does not fit the cause of an exam that was already taken."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "had given us a study guide before the term",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The expression 'before the term' is acceptable, but the sentence does not need that extra time reference."
         },
         {
           "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "had given",
+          "is_correct": true,
+          "feedback": "Correct. 'Had given' marks the earlier handing out of the guide, which explains why the later exam was easy."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "El participio de 'to give' es 'given', uno de los mas irregulares del idioma. Cuando el verbo en pasado perfecto va seguido de un complemento con articulo definido, se mantiene la estructura natural del objeto directo sin alterar el orden de las palabras.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle",
       "periodo": 7,
@@ -819,40 +819,40 @@
     },
     {
       "id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The restaurant was full, so we ate somewhere else because we ____ (reserve) a table too late.'",
+      "context": "Past perfect with the verb to eat, Hatillo, grado 11, W07.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
+          "text": "hadn't reservate",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Reservate' is not a past form of 'to reserve', which is a regular verb and becomes 'reserved'."
         },
         {
           "letter": "B",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "hadn't reserved",
+          "is_correct": true,
+          "feedback": "Correct. 'Hadn't reserved' explains the decision to eat elsewhere: the earlier reservation was not made in time."
         },
         {
           "letter": "C",
-          "text": "prescription",
+          "text": "haven't reserved",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Haven't' is present perfect and does not fit a chain of events that are already over."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "hadn't reserve",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. After 'had', the verb takes the participle 'reserved', not the base form 'reserve'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "Los verbos regulares forman su participio con -ed, y el pasado perfecto no exige que sean irregulares. El error tipico en esta unidad es buscar siempre una forma especial, cuando en la mayoria de los casos basta con anadir -ed al verbo base.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle",
       "periodo": 7,
@@ -864,40 +864,40 @@
     },
     {
       "id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which time expression is most natural with the past perfect?",
+      "context": "Past perfect with time expressions, Yabucoa, grado 11, W07.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "text": "Every day after breakfast",
+          "is_correct": false,
+          "feedback": "Incorrect. That expression describes a present habit and does not mark a past reference point, which is what the past perfect requires."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "Nowadays people call an ambulance quickly",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The expression 'nowadays' belongs to the habitual present and does not fit the past perfect."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "By the time the ambulance arrived",
+          "is_correct": true,
+          "feedback": "Correct. 'By the time' marks a reference point, and everything before it goes in the past perfect."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "Since 2020 people have used that number",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Since 2020' with the present perfect describes a period that lasts until today, not until a specific point in the past."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "La expresion 'by the time' es la senal clasica del pasado perfecto, porque todo lo que ocurre antes de ese momento se situa en 'had' mas participio. Las demas expresiones propuestas pertenecen a otros tiempos verbales y no combinan con esta unidad.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle",
       "periodo": 7,

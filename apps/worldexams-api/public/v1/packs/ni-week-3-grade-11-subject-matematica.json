@@ -64,25 +64,25 @@
           "feedback": "Incorrecto. Este es el intercepto con el eje x de la función logarítmica básica."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$(0, 1)$",
           "is_correct": true,
           "feedback": "Correcto. Cualquier número (excepto cero) elevado a la potencia 0 es igual a 1."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(0, 0)$",
           "is_correct": false,
           "feedback": "Incorrecto. La función exponencial básica nunca pasa por el origen."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No tiene intercepto con el eje $y$.",
           "is_correct": false,
           "feedback": "Incorrecto. Todas las funciones exponenciales de la forma $b^x$ cruzan el eje y en el punto 1."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para hallar el intercepto con el eje $y$, evaluamos la función en $x=0$. Como $f(0) = b^0 = 1$, el punto es $(0, 1)$.",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "El crecimiento de una inversión en un banco de Managua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La función es estrictamente creciente.",
           "is_correct": true,
           "feedback": "Correcto. Cuando la base es mayor a 1, a medida que $x$ aumenta, el valor de la función crece aceleradamente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La función es estrictamente decreciente.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto ocurre cuando la base está entre 0 y 1."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. La función crece indefinidamente hacia el infinito."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Si $b > 1$, la función representa un crecimiento exponencial. Si $0 < b < 1$, representa un decaimiento o decrecimiento exponencial.",
       "difficulty": "4",
       "images": [],
@@ -199,25 +199,25 @@
           "feedback": "Incorrecto. La base 3 es mayor que 1, por lo que es creciente."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$f(x) = (0.5)^x$",
           "is_correct": true,
           "feedback": "Correcto. Al ser la base un número entre 0 y 1, el valor disminuye conforme x aumenta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = e^x$",
           "is_correct": false,
           "feedback": "Incorrecto. El número e es aproximadamente 2.718, mayor que 1, por lo tanto es creciente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$f(x) = 2 \\cdot 5^x$",
           "is_correct": false,
           "feedback": "Incorrecto. La base es 5, lo que indica un crecimiento."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El decaimiento exponencial ocurre cuando la base $b$ cumple con $0 < b < 1$. En este caso, $0.5$ cumple la condición.",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. Esta es la asíntota de la función básica $2^x$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$y = 1$",
           "is_correct": true,
           "feedback": "Correcto. El término independiente '+1' desplaza toda la gráfica y su asíntota una unidad hacia arriba."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$y = -3$",
           "is_correct": false,
           "feedback": "Incorrecto. El -3 en el exponente causa un desplazamiento horizontal, no vertical."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. El desplazamiento vertical está dado por la constante sumada a la potencia."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En una función de la forma $f(x) = b^{x-h} + k$, la asíntota horizontal siempre está en $y = k$. Aquí $k = 1$.",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrecto. Una potencia con base positiva nunca resulta en un número negativo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "-6",
           "is_correct": false,
           "feedback": "Incorrecto. Se multiplicó 3 por -2, error de concepto de potencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1/9",
           "is_correct": true,
           "feedback": "Correcto. $3^{-2} = 1 / 3^2 = 1 / 9$."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Se ignoró el signo negativo del exponente."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Un exponente negativo indica el recíproco de la base elevado al exponente positivo: $b^{-n} = 1 / b^n$. Así, $3^{-2} = 1/9$.",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Incorrecto. Este es el valor aproximado de pi ($\\pi$)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "2.7182...",
           "is_correct": true,
           "feedback": "Correcto. El número e es aproximadamente 2.718."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1.4142...",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el valor aproximado de la raíz cuadrada de 2 ($\\sqrt{2}$)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "0.6931...",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el logaritmo natural de 2 ($\\ln 2$)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El número $e$ es un número irracional fundamental en matemáticas, definido como el límite de $(1 + 1/n)^n$ cuando $n$ tiende al infinito.",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Un plan de ahorro con interés compuesto mensualmente en Nicaragua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$C(t) = 1,000 \\cdot (1.06)^t$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta fórmula es para capitalización anual simple."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$C(t) = 1,000 \\cdot (1 + 0.06/12)^{12t}$",
           "is_correct": true,
           "feedback": "Correcto. Se divide la tasa entre 12 periodos y se eleva al número total de meses ($12t$)."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Esta es una función de interés simple lineal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La fórmula del interés compuesto es $A = P(1 + r/n)^{nt}$, donde $r$ es la tasa decimal y $n$ el número de capitalizaciones por año.",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Comparación del crecimiento de diferentes funciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$f(x)$ siempre será mayor que $g(x)$.",
           "is_correct": false,
           "feedback": "Incorrecto. Las funciones lineales crecen más lento que las exponenciales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$g(x)$ terminará superando a $f(x)$ y crecerá mucho más rápido.",
           "is_correct": true,
           "feedback": "Correcto. Cualquier función exponencial con base $b>1$ supera eventualmente a cualquier función lineal o polinómica."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Ninguna de las dos funciones tiene asíntota vertical."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Este es el concepto de crecimiento exponencial vs lineal. Las funciones exponenciales dominan a largo plazo debido a que su tasa de crecimiento se multiplica en cada paso.",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "El análisis de la vida media de un isótopo radiactivo en un estudio geológico en Nicaragua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que la masa inicial era negativa.",
           "is_correct": false,
           "feedback": "Incorrecto. La masa inicial $M_0$ es una cantidad positiva."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que la cantidad de sustancia está disminuyendo con el tiempo.",
           "is_correct": true,
           "feedback": "Correcto. Un exponente negativo en la base e (o base $>1$) genera una función decreciente."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. $k$ es una constante real positiva."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La función $e^{-kt}$ es equivalente a $(1/e^k)^t$. Como $e^k > 1$, entonces $1/e^k < 1$, lo que resulta en un decrecimiento exponencial.",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. Al evaluar en x=2, daría $4 \\cdot 81 = 324$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$f(x) = 4 \\cdot 3^x$",
           "is_correct": true,
           "feedback": "Correcto. En $x=0$, $f(0)=4(1)=4$. En $x=2$, $f(2)=4(3^2)=4(9)=36$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = 2 \\cdot 6^x$",
           "is_correct": false,
           "feedback": "Incorrecto. En $x=0$, daría 2, no 4."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. En $x=2$, daría $4 \\cdot 4 = 16$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Sustituimos el primer punto $(0, a)$ para hallar $a=4$. Luego sustituimos el segundo para hallar $b$: $36 = 4 \\cdot b^2 \\Rightarrow 9 = b^2 \\Rightarrow b = 3$.",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. Una es creciente y la otra decreciente."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Sus gráficas son simétricas respecto al eje $y$.",
           "is_correct": true,
           "feedback": "Correcto. $(1/2)^x = 2^{-x}$. El cambio de $x$ por $-x$ genera una reflexión respecto al eje vertical."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sus gráficas son simétricas respecto al origen.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso requeriría que $g(x) = -2^{-x}$."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Existe una relación de reflexión clara."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La propiedad $b^{-x} = (1/b)^x$ implica que la función con base inversa es el reflejo lateral (respecto al eje $y$) de la función original.",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Incorrecto. La población inicial es $P(0) = 5,000 / 5 = 1,000$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La capacidad de carga o población máxima sostenible de la laguna.",
           "is_correct": true,
           "feedback": "Correcto. Cuando $t$ tiende al infinito, $e^{-0.2t}$ tiende a 0, y la población se estabiliza en 5,000."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La tasa de crecimiento de la población.",
           "is_correct": false,
           "feedback": "Incorrecto. La tasa está relacionada con el coeficiente 0.2."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El tiempo que tardan en extinguirse los peces.",
           "is_correct": false,
           "feedback": "Incorrecto. El modelo describe crecimiento, no extinción."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Este es un modelo logístico. A diferencia del crecimiento exponencial puro, el crecimiento logístico reconoce que los recursos son limitados y la población tiene un límite superior o asíntota horizontal superior.",
       "difficulty": "10",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Resolución de una ecuación exponencial mediante igualación de bases.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 2$",
           "is_correct": false,
           "feedback": "Incorrecto. $9^3 = 729$; $27^1 = 27$. No son iguales."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x = 4$",
           "is_correct": false,
           "feedback": "Incorrecto. $9^5 = 59,049$; $27^3 = 19,683$. No son iguales."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$x = 5$",
           "is_correct": true,
           "feedback": "Correcto. Escribimos en base 3: $(3^2)^{x+1} = (3^3)^{x-1} \\Rightarrow 2x + 2 = 3x - 3 \\Rightarrow 5 = x$."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Error al igualar los exponentes."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Para resolver ecuaciones exponenciales donde las bases son potencias de un mismo número, se igualan las bases y luego se igualan los exponentes resultantes.",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Análisis de la composición de funciones exponenciales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es una función impar (simétrica respecto al origen).",
           "is_correct": false,
           "feedback": "Incorrecto. $f(-x)$ no es igual a $-f(x)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es una función par (simétrica respecto al eje $y$).",
           "is_correct": true,
           "feedback": "Correcto. Como $x$ está elevado al cuadrado, $f(-x) = e^{(-x)^2} = e^{x^2} = f(x)$."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Esta simetría es propia de funciones inversas, no de la función misma."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Una función es par si $f(-x) = f(x)$. Dado que el exponente de $e$ es una función cuadrática simétrica, la función resultante también lo es.",
       "difficulty": "10",
       "images": [],

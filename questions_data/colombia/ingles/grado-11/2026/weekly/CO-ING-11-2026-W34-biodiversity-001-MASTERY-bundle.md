@@ -139,7 +139,7 @@ According to a recent report on biodiversity in Bucaramanga, what is implied abo
   <!-- feedback: Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: Complex Noun Phrases add a layer of qualification rather than removing one, so it makes the argument harder, not simpler. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Bogotá.
   <!-- feedback: The report presents Complex Noun Phrases as common in journalism, advertising and everyday debate, so it is not restricted to academics. -->
 
 ### Explicacion Pedagogica
@@ -164,7 +164,7 @@ According to a recent report on biodiversity in Cartagena, what is implied about
   <!-- feedback: Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: Complex Noun Phrases add a layer of qualification rather than removing one, so it makes the argument harder, not simpler. -->
-- [ ] C) It is only used by academic elites in {city}.
+- [ ] C) It is only used by academic elites in Barranquilla.
   <!-- feedback: The report presents Complex Noun Phrases as common in journalism, advertising and everyday debate, so it is not restricted to academics. -->
 
 ### Explicacion Pedagogica
@@ -212,7 +212,7 @@ According to a recent report on biodiversity in Barranquilla, what is implied ab
   <!-- feedback: Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: Complex Noun Phrases add a layer of qualification rather than removing one, so it makes the argument harder, not simpler. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Cartagena.
   <!-- feedback: The report presents Complex Noun Phrases as common in journalism, advertising and everyday debate, so it is not restricted to academics. -->
 
 ### Explicacion Pedagogica
@@ -237,7 +237,7 @@ According to a recent report on biodiversity in Manizales, what is implied about
   <!-- feedback: Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: Complex Noun Phrases add a layer of qualification rather than removing one, so it makes the argument harder, not simpler. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Manizales.
   <!-- feedback: The report presents Complex Noun Phrases as common in journalism, advertising and everyday debate, so it is not restricted to academics. -->
 
 ### Explicacion Pedagogica
@@ -427,7 +427,7 @@ In a high-level debate about biodiversity, Lucía says: 'I can't help but feel t
 ### Opciones
 - [x] B) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Medellín.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -452,7 +452,7 @@ In a high-level debate about biodiversity, Valentina says: 'I can't help but fee
 ### Opciones
 - [x] A) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] B) They are literally looking for something in the trees of {city}.
+- [ ] B) They are literally looking for something in the trees of Manizales.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -500,7 +500,7 @@ In a high-level debate about biodiversity, Mateo says: 'I can't help but feel th
 ### Opciones
 - [x] D) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Manizales.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->

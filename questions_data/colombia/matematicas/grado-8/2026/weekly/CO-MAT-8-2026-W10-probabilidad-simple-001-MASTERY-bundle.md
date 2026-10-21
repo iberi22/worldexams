@@ -34,7 +34,7 @@ Al lanzar una moneda legal una sola vez, ¿cuál es el espacio muestral del expe
 ### Opciones
 - [x] A) {cara, sello}
   <!-- feedback: Correcto. Son los dos resultados posibles y distintos del lanzamiento. -->
-- [ ] B) {cara}
+- [ ] B) { cara }
   <!-- feedback: Incorrecto. Falta incluir el resultado sello. -->
 - [ ] C) {1, 2, 3, 4, 5, 6}
   <!-- feedback: Incorrecto. Ese es el espacio muestral de un dado, no de una moneda. -->

@@ -141,7 +141,7 @@ According to a recent report on conflict resolution in Cali, what is implied abo
   <!-- feedback: This calls the device irrelevant, but the report makes this naming convention central to its argument, so dismissing it contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the preposition adds relational meaning to the message rather than making it plainer. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Cali.
   <!-- feedback: This restricts the device to specialists in a single city, but the report presents the usage as common in media and discourse, not as something limited to one city's specialists. -->
 
 ### Explicacion Pedagogica
@@ -191,7 +191,7 @@ According to a recent report on conflict resolution in Barranquilla, what is imp
   <!-- feedback: This calls the device irrelevant, but the report makes this naming convention central to its argument, so dismissing it contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the preposition adds relational meaning to the message rather than making it plainer. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Cartagena.
   <!-- feedback: This restricts the device to specialists in a single city, but the report presents the usage as common in media and discourse, not as something limited to one city's specialists. -->
 
 ### Explicacion Pedagogica
@@ -241,7 +241,7 @@ According to a recent report on conflict resolution in Bogotá, what is implied 
   <!-- feedback: This calls the device irrelevant, but the report makes this naming convention central to its argument, so dismissing it contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the preposition adds relational meaning to the message rather than making it plainer. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Cali.
   <!-- feedback: This restricts the device to specialists in a single city, but the report presents the usage as common in media and discourse, not as something limited to one city's specialists. -->
 
 ### Explicacion Pedagogica
@@ -266,7 +266,7 @@ According to a recent report on conflict resolution in Cartagena, what is implie
   <!-- feedback: This calls the device irrelevant, but the report makes this naming convention central to its argument, so dismissing it contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the preposition adds relational meaning to the message rather than making it plainer. -->
-- [ ] C) It is only used by academic elites in {city}.
+- [ ] C) It is only used by academic elites in Barranquilla.
   <!-- feedback: This restricts the device to specialists in a single city, but the report presents the usage as common in media and discourse, not as something limited to one city's specialists. -->
 
 ### Explicacion Pedagogica
@@ -437,7 +437,7 @@ In a high-level debate about conflict resolution, Sebastián says: 'I can't help
 ### Opciones
 - [x] C) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Bucaramanga.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -462,7 +462,7 @@ In a high-level debate about conflict resolution, Mariana says: 'I can't help bu
 ### Opciones
 - [x] A) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] B) They are literally looking for something in the trees of {city}.
+- [ ] B) They are literally looking for something in the trees of Cartagena.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -487,7 +487,7 @@ In a high-level debate about conflict resolution, Isabella says: 'I can't help b
 ### Opciones
 - [x] D) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Bogotá.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -512,7 +512,7 @@ In a high-level debate about conflict resolution, Alejandro says: 'I can't help 
 ### Opciones
 - [x] C) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Bogotá.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->

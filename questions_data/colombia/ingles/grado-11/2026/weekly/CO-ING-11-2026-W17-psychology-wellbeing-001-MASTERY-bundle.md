@@ -141,7 +141,7 @@ According to a recent report on psychology & well-being in Cartagena, what is im
   <!-- feedback: This calls the device irrelevant, but the report builds on the idea that this gradation is what matters to the public, so calling it irrelevant contradicts the text. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the modal qualifies the claim and adds a degree of certainty to it, so the message gains depth rather than simplicity. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Bogotá.
   <!-- feedback: This restricts the device to specialists in a single city, but the report presents this as normal usage in media and discourse, not as a marker reserved for one city's scholars. -->
 
 ### Explicacion Pedagogica
@@ -166,7 +166,7 @@ According to a recent report on psychology & well-being in Bogotá, what is impl
   <!-- feedback: This calls the device irrelevant, but the report builds on the idea that this gradation is what matters to the public, so calling it irrelevant contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the modal qualifies the claim and adds a degree of certainty to it, so the message gains depth rather than simplicity. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Bucaramanga.
   <!-- feedback: This restricts the device to specialists in a single city, but the report presents this as normal usage in media and discourse, not as a marker reserved for one city's scholars. -->
 
 ### Explicacion Pedagogica
@@ -191,7 +191,7 @@ According to a recent report on psychology & well-being in Cali, what is implied
   <!-- feedback: This calls the device irrelevant, but the report builds on the idea that this gradation is what matters to the public, so calling it irrelevant contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the modal qualifies the claim and adds a degree of certainty to it, so the message gains depth rather than simplicity. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Bucaramanga.
   <!-- feedback: This restricts the device to specialists in a single city, but the report presents this as normal usage in media and discourse, not as a marker reserved for one city's scholars. -->
 
 ### Explicacion Pedagogica
@@ -241,7 +241,7 @@ According to a recent report on psychology & well-being in Bucaramanga, what is 
   <!-- feedback: This calls the device irrelevant, but the report builds on the idea that this gradation is what matters to the public, so calling it irrelevant contradicts the text. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: This claims the device makes the claim plainer, whereas the modal qualifies the claim and adds a degree of certainty to it, so the message gains depth rather than simplicity. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Medellín.
   <!-- feedback: This restricts the device to specialists in a single city, but the report presents this as normal usage in media and discourse, not as a marker reserved for one city's scholars. -->
 
 ### Explicacion Pedagogica
@@ -437,7 +437,7 @@ In a high-level debate about psychology & well-being, Mateo says: 'I can't help 
 ### Opciones
 - [x] A) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] B) They are literally looking for something in the trees of {city}.
+- [ ] B) They are literally looking for something in the trees of Cartagena.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -462,7 +462,7 @@ In a high-level debate about psychology & well-being, Santiago says: 'I can't he
 ### Opciones
 - [x] A) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] B) They are literally looking for something in the trees of {city}.
+- [ ] B) They are literally looking for something in the trees of Bogotá.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -487,7 +487,7 @@ In a high-level debate about psychology & well-being, Isabella says: 'I can't he
 ### Opciones
 - [x] C) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Pereira.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->

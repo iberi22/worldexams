@@ -16,30 +16,30 @@
           "letter": "A",
           "text": "Reactive",
           "is_correct": false,
-          "feedback": "Incorrect. Reactive leadership waits for things to happen."
+          "feedback": "'Reactive' means acting after events happen, whereas the sentence describes imagining and planning ahead."
         },
         {
           "letter": "B",
           "text": "Visionary",
           "is_correct": true,
-          "feedback": "Correct. Visionary means thinking about or planning the future with imagination."
+          "feedback": "Correct. 'Visionary' means using imagination to think about and plan a better future, which is what the definition describes."
         },
         {
           "letter": "C",
           "text": "Passive",
           "is_correct": false,
-          "feedback": "Incorrect. Passive leadership is inactive."
+          "feedback": "'Passive' means not taking action, the opposite of planning for a future."
         },
         {
           "letter": "D",
           "text": "Conventional",
           "is_correct": false,
-          "feedback": "Incorrect. Unimaginative."
+          "feedback": "'Conventional' means following usual and expected ways, without imagination or novelty."
         }
       ],
       "correct_answer": "B",
       "explanation": "'Visionary' is the specific term for a leadership style focused on future possibilities and innovation.\n\n---",
-      "difficulty": "3",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -64,13 +64,13 @@
           "feedback": "Incorrect. Present continuous."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "have been working",
           "is_correct": true,
           "feedback": "Correct. Present perfect continuous for an ongoing effort."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "worked",
           "is_correct": false,
           "feedback": "Incorrect. Past simple."
@@ -82,7 +82,7 @@
           "feedback": "Incorrect. Future."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The present perfect continuous highlights the duration and current persistence of the collaborative effort.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -129,7 +129,7 @@
       ],
       "correct_answer": "B",
       "explanation": "The third conditional is used to speculate about how a different past action would have changed an outcome.\n\n---",
-      "difficulty": "5",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -148,31 +148,31 @@
       "context": "Article about \"servant leadership\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "serve",
           "is_correct": true,
-          "feedback": "Correct. The core function of a servant leader."
+          "feedback": "'Ignore' means to pay no attention to, which is the opposite of serving a team's needs."
+        },
+        {
+          "letter": "A",
+          "text": "ignore",
+          "is_correct": false,
+          "feedback": "'Control' means to direct others strictly; a servant leader supports them instead."
         },
         {
           "letter": "B",
-          "text": "ignore",
+          "text": "control",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Exploit' means to use people unfairly for one's own gain, the opposite of serving."
         },
         {
           "letter": "C",
-          "text": "control",
-          "is_correct": false,
-          "feedback": "Incorrect. Servant leadership is about support, not just control."
-        },
-        {
-          "letter": "D",
           "text": "exploit",
           "is_correct": false,
-          "feedback": "Incorrect. Negative."
+          "feedback": "Correct. 'Serve' means to meet the needs of others, and that is the stated goal of servant leadership."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "'Serve' is the defining verb for this specific leadership model, which prioritizes the well-being of others.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Discussion on \"ethical leadership\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "by accident",
           "is_correct": false,
           "feedback": "Incorrect. It should be intentional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "by example",
           "is_correct": true,
           "feedback": "Correct. Leading by example means showing others how to behave through your own actions."
@@ -217,7 +217,7 @@
           "feedback": "Incorrect. Ethics usually requires transparency."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'By example' is the key phrase for describing the modeling of behavior that is central to ethical leadership.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -241,30 +241,30 @@
           "letter": "A",
           "text": "pilot",
           "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "diplomat",
-          "is_correct": true,
-          "feedback": "Correct. Formal term for a state representative."
-        },
-        {
-          "letter": "C",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A 'pilot' flies an aircraft and does not represent a country abroad."
         },
         {
           "letter": "D",
+          "text": "diplomat",
+          "is_correct": true,
+          "feedback": "Correct. A 'diplomat' is the official who formally represents a state and negotiates on its behalf."
+        },
+        {
+          "letter": "B",
+          "text": "tourist",
+          "is_correct": false,
+          "feedback": "A 'tourist' travels for pleasure and has no official role."
+        },
+        {
+          "letter": "C",
           "text": "refugee",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A 'refugee' is someone forced to leave their country and seeks protection, not a representative."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Diplomat' is the specific title for a professional who represents a nation in global leadership contexts.\n\n---",
-      "difficulty": "3",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -286,7 +286,7 @@
           "letter": "A",
           "text": "are adopting",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Are adopting' is the active voice and would make the models do the adopting."
         },
         {
           "letter": "B",
@@ -304,12 +304,12 @@
           "letter": "D",
           "text": "have adopted",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Have adopted' is the Present Perfect active, which would again make the models the agents of the action."
         }
       ],
       "correct_answer": "B",
       "explanation": "The present continuous passive describes the active and current trend of shifting towards new leadership styles.\n\n---",
-      "difficulty": "4",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -328,33 +328,33 @@
       "context": "Text on \"charismatic leadership\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "boring",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Boring' means dull and uninteresting, which cannot inspire or motivate anyone."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Charismatic",
           "is_correct": true,
-          "feedback": "Correct. Having a compelling charm that inspires devotion."
+          "feedback": "Correct. 'Charismatic' means having a compelling personal charm that inspires devotion and motivates others."
         },
         {
           "letter": "C",
           "text": "Passive",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Passive' means uninvolved, so it cannot lead through personality."
         },
         {
           "letter": "D",
           "text": "Indifferent",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Indifferent' means unconcerned, the opposite of inspiring others."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Charismatic' is the term for leaders who use their personal appeal and charm to influence others.\n\n---",
-      "difficulty": "5",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -376,30 +376,30 @@
           "letter": "A",
           "text": "has reached",
           "is_correct": false,
-          "feedback": "Incorrect. Backshifted in reported speech."
-        },
-        {
-          "letter": "B",
-          "text": "had reached",
-          "is_correct": true,
-          "feedback": "Correct. Backshifted from present perfect to past perfect."
-        },
-        {
-          "letter": "C",
-          "text": "reach",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Has reached' keeps the present perfect, but reported speech about a past announcement needs the tense backshifted."
         },
         {
           "letter": "D",
+          "text": "had reached",
+          "is_correct": true,
+          "feedback": "'Reach' is the base form and cannot stand alone in that reported past statement."
+        },
+        {
+          "letter": "B",
+          "text": "reach",
+          "is_correct": false,
+          "feedback": "'Will reach' is future, but the agreement was already reached before the announcement."
+        },
+        {
+          "letter": "C",
           "text": "will reach",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Correct. 'Had reached' is the past perfect, the correct backshift of 'has reached' in reported speech."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "In reported speech, we backshift the tense to show the achievement occurred before the announcement.\n\n---",
-      "difficulty": "4",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -424,13 +424,13 @@
           "feedback": "Incorrect. Characterized by freedom."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Authoritarianism",
           "is_correct": true,
           "feedback": "Correct. Characterized by central power and restricted freedom."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Liberalism",
           "is_correct": false,
           "feedback": "Incorrect. Focuses on individual freedom."
@@ -442,7 +442,7 @@
           "feedback": "Incorrect. Lack of central power."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Authoritarianism' correctly identifies the restrictive and power-heavy leadership style described.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -466,30 +466,30 @@
           "letter": "A",
           "text": "Greed",
           "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Integrity",
-          "is_correct": true,
-          "feedback": "Correct. Fundamental leadership value."
+          "feedback": "'Greed' is a selfish desire for more, the opposite of honesty."
         },
         {
           "letter": "C",
+          "text": "Integrity",
+          "is_correct": true,
+          "feedback": "'Wealth' is money and property, not a moral quality."
+        },
+        {
+          "letter": "B",
           "text": "Wealth",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Correct. 'Integrity' means being honest and holding strong moral principles, which is what the sentence defines."
         },
         {
           "letter": "D",
           "text": "Power",
           "is_correct": false,
-          "feedback": "Incorrect. While related to leadership, 'integrity' is the moral quality described."
+          "feedback": "'Power' is influence over others, but the quality described here is honesty, not authority."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Integrity' is the core character trait that ensures a leader is trusted and respected.\n\n---",
-      "difficulty": "3",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -508,13 +508,13 @@
       "context": "Describing a future summit outcome.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "will finalize",
           "is_correct": false,
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "will have been finalized",
           "is_correct": true,
           "feedback": "Correct. Future perfect passive for a completed state in the future."
@@ -532,9 +532,9 @@
           "feedback": "Incorrect. Gerund."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The future perfect passive indicates that the agreement will be a finished achievement by the stated deadline.\n\n---",
-      "difficulty": "4",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -553,33 +553,33 @@
       "context": "Discussing \"collaboration\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "collaboration",
           "is_correct": true,
-          "feedback": "Correct. Collaboration means working together."
+          "feedback": "'Isolation' means keeping separate, the opposite of working together."
+        },
+        {
+          "letter": "A",
+          "text": "isolation",
+          "is_correct": false,
+          "feedback": "'Competition' is rivalry between parties, and competing nations cannot lead effectively together."
         },
         {
           "letter": "B",
-          "text": "isolation",
-          "is_correct": false,
-          "feedback": "Incorrect. Opposite of leadership."
-        },
-        {
-          "letter": "C",
           "text": "competition",
           "is_correct": false,
-          "feedback": "Incorrect. While competition exists, 'collaboration' is the requirement for *effective global* leadership discussed."
+          "feedback": "'Secrecy' means hiding information, which works against coordination between nations."
         },
         {
           "letter": "D",
           "text": "secrecy",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Correct. 'Collaboration' means working together on a shared goal, which is what effective global leadership requires."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Collaboration' is the essential process of working together that global leadership aims to facilitate.\n\n---",
-      "difficulty": "5",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -624,7 +624,7 @@
       ],
       "correct_answer": "B",
       "explanation": "The second conditional 'if + past simple' describes the likely result of a hypothetical change in leadership behavior.\n\n---",
-      "difficulty": "4",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -643,33 +643,33 @@
       "context": "Conclusion of an essay on \"adaptive leadership\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "adaptive",
           "is_correct": true,
-          "feedback": "Correct. Adaptive means able to adjust to new conditions."
+          "feedback": "'Rigid' means fixed and unwilling to change, and the challenges described are unpredictable."
+        },
+        {
+          "letter": "A",
+          "text": "rigid",
+          "is_correct": false,
+          "feedback": "'Simple' is wrong because the sentence calls the challenges complex."
         },
         {
           "letter": "B",
-          "text": "rigid",
+          "text": "simple",
           "is_correct": false,
-          "feedback": "Incorrect. Authoritarian/unyielding."
+          "feedback": "'Accidental' means happening by chance, and leadership is deliberate rather than lucky."
         },
         {
           "letter": "C",
-          "text": "simple",
-          "is_correct": false,
-          "feedback": "Incorrect. Challenges are complex."
-        },
-        {
-          "letter": "D",
           "text": "accidental",
           "is_correct": false,
-          "feedback": "Incorrect. Leadership should be intentional."
+          "feedback": "Correct. 'Adaptive' means able to adjust to new conditions, which is what unpredictable challenges require."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "'Adaptive' correctly identifies the flexible leadership style that the author evaluates as necessary for modern times.\n\n---",
-      "difficulty": "6",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -691,30 +691,30 @@
           "letter": "A",
           "text": "Fighter",
           "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "Mediator",
-          "is_correct": true,
-          "feedback": "Correct. Neutral go-between."
-        },
-        {
-          "letter": "C",
-          "text": "Judge",
-          "is_correct": false,
-          "feedback": "Incorrect. Judges make a decision; mediators help *others* agree."
+          "feedback": "A 'fighter' escalates the conflict rather than resolving it."
         },
         {
           "letter": "D",
+          "text": "Mediator",
+          "is_correct": true,
+          "feedback": "A 'judge' imposes a decision, while a mediator helps the parties themselves agree."
+        },
+        {
+          "letter": "B",
+          "text": "Judge",
+          "is_correct": false,
+          "feedback": "A 'spy' gathers secret information for another party, which is not neutral."
+        },
+        {
+          "letter": "C",
           "text": "Spy",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Correct. A 'mediator' is a neutral go-between who helps those in conflict reach an agreement themselves."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Mediator' is the specific title for an individual who facilitates agreement between conflicting parties.\n\n---",
-      "difficulty": "3",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -739,13 +739,13 @@
           "feedback": "Incorrect. Present."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "were",
           "is_correct": true,
           "feedback": "Correct. 'Wish + were' for a present hypothetical desire."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "was",
           "is_correct": false,
           "feedback": "Incorrect. 'Were' preferred in formal speech."
@@ -757,9 +757,9 @@
           "feedback": "Incorrect. Future."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The 'wish + past' structure expresses a desire for the current focus of leadership to change.\n\n---",
-      "difficulty": "4",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -784,13 +784,13 @@
           "feedback": "Incorrect. This is 'hard power'."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "persuasion",
           "is_correct": true,
           "feedback": "Correct. To persuade is to convince someone to do something through reasoning or argument."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "threats",
           "is_correct": false,
           "feedback": "Incorrect. Soft power avoids threats."
@@ -802,9 +802,9 @@
           "feedback": "Incorrect. Unethical and usually hard power (economic)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Persuasion' correctly describes the mechanism through which 'soft power' influences others.\n\n---",
-      "difficulty": "5",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -826,30 +826,30 @@
           "letter": "A",
           "text": "will",
           "is_correct": false,
-          "feedback": "Incorrect. Backshifted in reported speech."
-        },
-        {
-          "letter": "B",
-          "text": "would",
-          "is_correct": true,
-          "feedback": "Correct. Backshifted from 'will' to 'would' in reported speech."
+          "feedback": "'Will' is the direct form used in the original promise, but reported speech about a past promise needs 'would'."
         },
         {
           "letter": "C",
+          "text": "would",
+          "is_correct": true,
+          "feedback": "'Should' expresses advice or obligation rather than a future commitment."
+        },
+        {
+          "letter": "B",
           "text": "should",
           "is_correct": false,
-          "feedback": "Incorrect. Expresses advice."
+          "feedback": "Correct. In reported speech a past 'will' becomes 'would', which is what the sentence uses."
         },
         {
           "letter": "D",
           "text": "can",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Can' expresses possibility or ability, not a promise about a budget."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "In reported speech, we change 'will' to 'would' when reporting a promise made in the past.\n\n---",
-      "difficulty": "4",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -871,30 +871,30 @@
           "letter": "A",
           "text": "wisdom",
           "is_correct": true,
-          "feedback": "Correct. The quality of having experience, knowledge, and good judgment."
+          "feedback": "'Greed' is a selfish desire for gain, which is a fault rather than a virtue."
         },
         {
           "letter": "B",
           "text": "greed",
           "is_correct": false,
-          "feedback": "Incorrect. Negative."
+          "feedback": "'Ignorance' means lack of knowledge, and the sentence calls for knowledge."
         },
         {
           "letter": "C",
           "text": "ignorance",
           "is_correct": false,
-          "feedback": "Incorrect. Negative."
+          "feedback": "'Speed' means acting fast, which is helpful but not the quality the sentence names."
         },
         {
           "letter": "D",
           "text": "speed",
           "is_correct": false,
-          "feedback": "Incorrect. While important, 'wisdom' is a deeper requirement for the planet's future."
+          "feedback": "Correct. 'Wisdom' means sound judgment founded on knowledge and experience, which the future of the planet depends on."
         }
       ],
       "correct_answer": "A",
       "explanation": "'Wisdom' correctly identifies the profound judgment and knowledge required of world leaders to manage global risks.",
-      "difficulty": "6",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",

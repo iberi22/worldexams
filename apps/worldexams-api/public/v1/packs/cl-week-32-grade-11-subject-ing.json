@@ -19,13 +19,13 @@
           "feedback": "Incorrect. Dividends are payments to shareholders."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Tariffs",
           "is_correct": true,
           "feedback": "Correct. Specific term for import taxes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Subsidies",
           "is_correct": false,
           "feedback": "Incorrect. Subsidies are payments *from* a government to support a business."
@@ -37,9 +37,9 @@
           "feedback": "Incorrect. Total income."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Tariff' is the standard economic and political term for a tax on imports.\n\n---",
-      "difficulty": "3",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -58,13 +58,13 @@
       "context": "Discussing international commerce.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "increases",
           "is_correct": false,
           "feedback": "Incorrect. Present simple."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "has been increasing",
           "is_correct": true,
           "feedback": "Correct. Present perfect continuous for an ongoing trend starting in the past."
@@ -82,7 +82,7 @@
           "feedback": "Incorrect. Simple future."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The present perfect continuous highlights the continuous growth of trade over several decades.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Conditional about a free trade agreement.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "wasn't signed",
           "is_correct": false,
           "feedback": "Incorrect. Second conditional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "hadn't been signed",
           "is_correct": true,
           "feedback": "Correct. Third conditional for hypothetical past."
@@ -127,9 +127,9 @@
           "feedback": "Incorrect. 'Would' not in 'if' clause."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The third conditional is used to speculate about the consequences of a past economic decision.\n\n---",
-      "difficulty": "5",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -148,22 +148,22 @@
       "context": "Article about \"comparative advantage\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "efficiently",
           "is_correct": true,
           "feedback": "Correct. Efficiency is the key to comparative advantage."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "slowly",
           "is_correct": false,
           "feedback": "Incorrect. Trade advantage usually implies being better/faster."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "rarely",
           "is_correct": false,
-          "feedback": "Incorrect. Unrelated."
+          "feedback": "Comparative advantage is about doing a task more efficiently, and how often something happens says nothing about efficiency."
         },
         {
           "letter": "D",
@@ -172,7 +172,7 @@
           "feedback": "Incorrect. Efficiency usually reduces costs."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Efficiently' describes the ability to produce goods with fewer resources, the core of comparative advantage.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Discussion on \"protectionism\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "promote",
           "is_correct": false,
           "feedback": "Incorrect. Protectionism restricts trade."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "restrict",
           "is_correct": true,
           "feedback": "Correct. To restrict means to put a limit on."
@@ -217,7 +217,7 @@
           "feedback": "Incorrect. While it might involve subsidies, 'restrict' is the core function described."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Restrict' correctly identifies the primary action of protectionist policies like tariffs and quotas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -241,7 +241,7 @@
           "letter": "A",
           "text": "Gossip",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Gossip\" is casual talk about other people's private lives, not the coordination of moving goods and supplies."
         },
         {
           "letter": "B",
@@ -253,18 +253,18 @@
           "letter": "C",
           "text": "Fiction",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Fiction\" is an invented story; logistics is the real operational work behind a supply chain."
         },
         {
           "letter": "D",
           "text": "Ritual",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Ritual\" is a set of fixed ceremonies or habits, which has nothing to do with coordinating facilities and supplies."
         }
       ],
       "correct_answer": "B",
       "explanation": "'Logistics' is the specific professional term for the management of the flow of goods.\n\n---",
-      "difficulty": "3",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -283,13 +283,13 @@
       "context": "Describing a shift in trade routes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "are exploring",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "\"Are exploring\" is the active voice and would make the routes the thing doing the exploring; here it is the routes that receive the exploration."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "are being explored",
           "is_correct": true,
           "feedback": "Correct. Present continuous passive for an ongoing development."
@@ -304,12 +304,12 @@
           "letter": "D",
           "text": "have explored",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "\"Have explored\" is active and perfect; the exploration described is still going on, and the routes are what is being explored."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The present continuous passive describes the current, active investigation into new commercial paths.\n\n---",
-      "difficulty": "4",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -328,13 +328,13 @@
       "context": "Text on \"supply chains\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "fragment",
           "is_correct": false,
           "feedback": "Incorrect. A chain is a whole system."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "system",
           "is_correct": true,
           "feedback": "Correct. A set of things working together as parts of a mechanism or an interconnecting network."
@@ -352,9 +352,9 @@
           "feedback": "Incorrect. The chain connects different entities."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'System' correctly identifies the complex, interconnected nature of a modern global supply chain.\n\n---",
-      "difficulty": "5",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -379,13 +379,13 @@
           "feedback": "Incorrect. Past simple doesn't show sequence as well here."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "had caused",
           "is_correct": true,
           "feedback": "Correct. Past perfect for an action before another past action."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "has caused",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect."
@@ -397,9 +397,9 @@
           "feedback": "Incorrect. Present tense."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The past perfect 'had caused' establishes that the price increase happened before the intervention.\n\n---",
-      "difficulty": "4",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -424,13 +424,13 @@
           "feedback": "Incorrect. 'Equitable' means fair, not necessarily cheap."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "equitable",
           "is_correct": true,
           "feedback": "Correct. Equitable means fair and impartial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "random",
           "is_correct": false,
           "feedback": "Incorrect. Prices should be systematic."
@@ -442,7 +442,7 @@
           "feedback": "Incorrect. Transparency is key to fair trade."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Equitable' is the formal term used to describe fairness and justice in economic relationships.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrect. Too broad."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Outsourcing",
           "is_correct": true,
           "feedback": "Correct. Specific term for moving functions outside the company."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Investing",
           "is_correct": false,
           "feedback": "Incorrect. Putting money into something."
@@ -487,9 +487,9 @@
           "feedback": "Incorrect. Promoting products."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Outsourcing' is the standard business term for obtaining goods or services from an outside or foreign supplier.\n\n---",
-      "difficulty": "3",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -508,13 +508,13 @@
       "context": "Describing a future trade milestone.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "will implement",
           "is_correct": false,
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "will have been fully implemented",
           "is_correct": true,
           "feedback": "Correct. Future perfect passive for a completed state in the future."
@@ -532,9 +532,9 @@
           "feedback": "Incorrect. Present."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The future perfect passive indicates that the implementation will be a finished reality by the deadline.\n\n---",
-      "difficulty": "4",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -559,27 +559,27 @@
           "feedback": "Incorrect. This would be a balance."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "exceed",
           "is_correct": true,
           "feedback": "Correct. To exceed means to be greater in number or size than."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "follow",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Follow\" means to come after, which would describe exports coming after imports, not exceeding them."
         },
         {
           "letter": "D",
           "text": "ignore",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Ignore\" means to pay no attention to; a deficit is defined by comparing the two figures, not disregarding one."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Exceed' is the correct verb for describing when one quantity (imports) is larger than another (exports).\n\n---",
-      "difficulty": "5",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -598,13 +598,13 @@
       "context": "Conditional about economic sanctions.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "are",
           "is_correct": false,
           "feedback": "Incorrect. First conditional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "were",
           "is_correct": true,
           "feedback": "Correct. Second conditional for a hypothetical change."
@@ -622,9 +622,9 @@
           "feedback": "Incorrect. 'Would' not in 'if' clause."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The second conditional describes the likely result of a hypothetical change in geopolitical policy.\n\n---",
-      "difficulty": "4",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -649,27 +649,27 @@
           "feedback": "Incorrect. Digital trade aims to make things cheaper."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "reducing",
           "is_correct": true,
           "feedback": "Correct. Reducing means making smaller or less in amount."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "ignoring",
           "is_correct": false,
           "feedback": "Incorrect. Digital trade actively changes the cost."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "complicates",
           "is_correct": false,
           "feedback": "Incorrect. While systems are complex, the goal is efficiency."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Reducing' correctly identifies the primary economic benefit of digital trade mentioned in the text.\n\n---",
-      "difficulty": "6",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -688,13 +688,13 @@
       "context": "Defining a \"subsidy\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Tax",
           "is_correct": false,
           "feedback": "Incorrect. Money paid TO the government."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Subsidy",
           "is_correct": true,
           "feedback": "Correct. Money given BY the government."
@@ -709,12 +709,12 @@
           "letter": "D",
           "text": "Fine",
           "is_correct": false,
-          "feedback": "Incorrect. Punishment."
+          "feedback": "A fine is a punishment a company pays for breaking the law, whereas a subsidy is money the state gives it in support."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Subsidy' is the specific economic term for financial aid provided by the government to support a sector.\n\n---",
-      "difficulty": "3",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -759,7 +759,7 @@
       ],
       "correct_answer": "B",
       "explanation": "'Wish + would' is used to express a desire for an ongoing, annoying or harmful situation to stop.\n\n---",
-      "difficulty": "4",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -778,13 +778,13 @@
       "context": "Text about \"sustainable trade\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "internal",
           "is_correct": false,
           "feedback": "Incorrect. Externalized means passed to others (society/nature)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "externalized",
           "is_correct": true,
           "feedback": "Correct. Costs not reflected in the price."
@@ -793,7 +793,7 @@
           "letter": "C",
           "text": "matching",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Costs are externalized when they are pushed onto society or the environment instead of appearing in the price, so they are not matched."
         },
         {
           "letter": "D",
@@ -802,9 +802,9 @@
           "feedback": "Incorrect. While they are often hidden, 'externalized' is the technical term."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Externalized' costs are those generated by a business but paid for by society or the environment.\n\n---",
-      "difficulty": "5",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -829,13 +829,13 @@
           "feedback": "Incorrect. Backshifted in reported speech."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "had grown",
           "is_correct": true,
           "feedback": "Correct. Backshifted from past simple or present perfect."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "is growing",
           "is_correct": false,
           "feedback": "Incorrect. Present tense."
@@ -847,9 +847,9 @@
           "feedback": "Incorrect. Future."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "In reported speech, we backshift the tense of the original data ('Trade grew/has grown...') to the past perfect.\n\n---",
-      "difficulty": "4",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -868,19 +868,19 @@
       "context": "Final thought on trade ethics.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "equitable",
           "is_correct": true,
           "feedback": "Correct. Fair and impartial."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "greedy",
           "is_correct": false,
-          "feedback": "Incorrect. Negative."
+          "feedback": "A system built on greed distributes its benefits unfairly, while the sentence asks for one that is equitable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "isolated",
           "is_correct": false,
           "feedback": "Incorrect. Trade requires connection."
@@ -892,9 +892,9 @@
           "feedback": "Incorrect. We want resilience, the opposite of fragility."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Equitable' correctly identifies the ethical requirement for a trade system that benefits all participants fairly.",
-      "difficulty": "6",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",

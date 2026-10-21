@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "44",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Cambiaste el signo del término independiente: $27 + 15 + 2 = 44$, pero el término es $-2$, así que se resta."
         },
         {
           "letter": "B",
           "text": "25",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Te faltó el término $5x$. Sin él, $3(3)^2 - 2 = 27 - 2 = 25$; la expresión tiene tres términos y todos se sustituyen."
         },
         {
           "letter": "C",
           "text": "32",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Multiplicaste el coeficiente 5 directamente: $3(9) + 5 = 32$. El $5$ también se multiplica por $x = 3$, y da $15$, no $5$."
         },
         {
           "letter": "D",
           "text": "40",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Sustituyendo $x = 3$: $3(3)^2 + 5(3) - 2 = 27 + 15 - 2 = 40$."
         }
       ],
       "correct_answer": "D",
@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "44",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Cambiaste el signo del término independiente: $27 + 15 + 2 = 44$, pero el término es $-2$, así que se resta."
         },
         {
           "letter": "B",
           "text": "32",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Multiplicaste el coeficiente 5 directamente: $3(9) + 5 = 32$. El $5$ también se multiplica por $x = 3$, y da $15$, no $5$."
         },
         {
           "letter": "C",
           "text": "25",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Te faltó el término $5x$. Sin él, $3(3)^2 - 2 = 27 - 2 = 25$; la expresión tiene tres términos y todos se sustituyen."
         },
         {
           "letter": "D",
           "text": "40",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Sustituyendo $x = 3$: $3(3)^2 + 5(3) - 2 = 27 + 15 - 2 = 40$."
         }
       ],
       "correct_answer": "D",
@@ -106,25 +106,25 @@
           "letter": "A",
           "text": "32",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Multiplicaste el coeficiente 5 directamente: $3(9) + 5 = 32$. El $5$ también se multiplica por $x = 3$, y da $15$, no $5$."
         },
         {
           "letter": "B",
           "text": "40",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Sustituyendo $x = 3$: $3(3)^2 + 5(3) - 2 = 27 + 15 - 2 = 40$."
         },
         {
           "letter": "C",
           "text": "25",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Te faltó el término $5x$. Sin él, $3(3)^2 - 2 = 27 - 2 = 25$; la expresión tiene tres términos y todos se sustituyen."
         },
         {
           "letter": "D",
           "text": "44",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Cambiaste el signo del término independiente: $27 + 15 + 2 = 44$, pero el término es $-2$, así que se resta."
         }
       ],
       "correct_answer": "B",
@@ -151,25 +151,25 @@
           "letter": "A",
           "text": "32",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Multiplicaste el coeficiente 5 directamente: $3(9) + 5 = 32$. El $5$ también se multiplica por $x = 3$, y da $15$, no $5$."
         },
         {
           "letter": "B",
           "text": "40",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Sustituyendo $x = 3$: $3(3)^2 + 5(3) - 2 = 27 + 15 - 2 = 40$."
         },
         {
           "letter": "C",
           "text": "25",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Te faltó el término $5x$. Sin él, $3(3)^2 - 2 = 27 - 2 = 25$; la expresión tiene tres términos y todos se sustituyen."
         },
         {
           "letter": "D",
           "text": "44",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Cambiaste el signo del término independiente: $27 + 15 + 2 = 44$, pero el término es $-2$, así que se resta."
         }
       ],
       "correct_answer": "B",
@@ -196,25 +196,25 @@
           "letter": "A",
           "text": "$8x^4y^2 + 2x^2y^4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Multiplicaste los exponentes, como si hubieras hecho un producto: al sumar términos semejantes los exponentes se conservan y solo se suman los coeficientes."
         },
         {
           "letter": "B",
           "text": "$8x^2y - xy^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Sumaste los coeficientes en vez de agrupar por partes: $4 + 2 = 6$ y $-3 + 5 = 2$, de modo que los signos no se cancelan y el total es $6x^2y + 2xy^2$."
         },
         {
           "letter": "C",
           "text": "$6x^2y + 2xy^2$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Agrupando términos semejantes: $4x^2y + 2x^2y = 6x^2y$ y $-3xy^2 + 5xy^2 = 2xy^2$."
         },
         {
           "letter": "D",
           "text": "$6x^2y - 2xy^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El primer grupo está bien, $4 + 2 = 6$, pero en el segundo cambiaste el signo: $-3 + 5 = +2$, no $-2$."
         }
       ],
       "correct_answer": "C",
@@ -241,25 +241,25 @@
           "letter": "A",
           "text": "$6x^2y + 2xy^2$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Agrupando términos semejantes: $4x^2y + 2x^2y = 6x^2y$ y $-3xy^2 + 5xy^2 = 2xy^2$."
         },
         {
           "letter": "B",
           "text": "$6x^2y - 2xy^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El primer grupo está bien, $4 + 2 = 6$, pero en el segundo cambiaste el signo: $-3 + 5 = +2$, no $-2$."
         },
         {
           "letter": "C",
           "text": "$8x^2y - xy^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Sumaste los coeficientes en vez de agrupar por partes: $4 + 2 = 6$ y $-3 + 5 = 2$, de modo que los signos no se cancelan y el total es $6x^2y + 2xy^2$."
         },
         {
           "letter": "D",
           "text": "$8x^4y^2 + 2x^2y^4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Multiplicaste los exponentes, como si hubieras hecho un producto: al sumar términos semejantes los exponentes se conservan y solo se suman los coeficientes."
         }
       ],
       "correct_answer": "A",
@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "$8x^4y^2 + 2x^2y^4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Multiplicaste los exponentes, como si hubieras hecho un producto: al sumar términos semejantes los exponentes se conservan y solo se suman los coeficientes."
         },
         {
           "letter": "B",
           "text": "$8x^2y - xy^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Sumaste los coeficientes en vez de agrupar por partes: $4 + 2 = 6$ y $-3 + 5 = 2$, de modo que los signos no se cancelan y el total es $6x^2y + 2xy^2$."
         },
         {
           "letter": "C",
           "text": "$6x^2y - 2xy^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El primer grupo está bien, $4 + 2 = 6$, pero en el segundo cambiaste el signo: $-3 + 5 = +2$, no $-2$."
         },
         {
           "letter": "D",
           "text": "$6x^2y + 2xy^2$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Agrupando términos semejantes: $4x^2y + 2x^2y = 6x^2y$ y $-3xy^2 + 5xy^2 = 2xy^2$."
         }
       ],
       "correct_answer": "D",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "$6x^2y + 2xy^2$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Agrupando términos semejantes: $4x^2y + 2x^2y = 6x^2y$ y $-3xy^2 + 5xy^2 = 2xy^2$."
         },
         {
           "letter": "B",
           "text": "$8x^2y - xy^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Sumaste los coeficientes en vez de agrupar por partes: $4 + 2 = 6$ y $-3 + 5 = 2$, de modo que los signos no se cancelan y el total es $6x^2y + 2xy^2$."
         },
         {
           "letter": "C",
           "text": "$6x^2y - 2xy^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El primer grupo está bien, $4 + 2 = 6$, pero en el segundo cambiaste el signo: $-3 + 5 = +2$, no $-2$."
         },
         {
           "letter": "D",
           "text": "$8x^4y^2 + 2x^2y^4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Multiplicaste los exponentes, como si hubieras hecho un producto: al sumar términos semejantes los exponentes se conservan y solo se suman los coeficientes."
         }
       ],
       "correct_answer": "A",
@@ -376,25 +376,25 @@
           "letter": "A",
           "text": "$8x^4y^2 + 2x^2y^4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Multiplicaste los exponentes, como si hubieras hecho un producto: al sumar términos semejantes los exponentes se conservan y solo se suman los coeficientes."
         },
         {
           "letter": "B",
           "text": "$6x^2y + 2xy^2$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Agrupando términos semejantes: $4x^2y + 2x^2y = 6x^2y$ y $-3xy^2 + 5xy^2 = 2xy^2$."
         },
         {
           "letter": "C",
           "text": "$6x^2y - 2xy^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El primer grupo está bien, $4 + 2 = 6$, pero en el segundo cambiaste el signo: $-3 + 5 = +2$, no $-2$."
         },
         {
           "letter": "D",
           "text": "$8x^2y - xy^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Sumaste los coeficientes en vez de agrupar por partes: $4 + 2 = 6$ y $-3 + 5 = 2$, de modo que los signos no se cancelan y el total es $6x^2y + 2xy^2$."
         }
       ],
       "correct_answer": "B",
@@ -421,25 +421,25 @@
           "letter": "A",
           "text": "$8x^2y - xy^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Sumaste los coeficientes en vez de agrupar por partes: $4 + 2 = 6$ y $-3 + 5 = 2$, de modo que los signos no se cancelan y el total es $6x^2y + 2xy^2$."
         },
         {
           "letter": "B",
           "text": "$6x^2y - 2xy^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El primer grupo está bien, $4 + 2 = 6$, pero en el segundo cambiaste el signo: $-3 + 5 = +2$, no $-2$."
         },
         {
           "letter": "C",
           "text": "$6x^2y + 2xy^2$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Agrupando términos semejantes: $4x^2y + 2x^2y = 6x^2y$ y $-3xy^2 + 5xy^2 = 2xy^2$."
         },
         {
           "letter": "D",
           "text": "$8x^4y^2 + 2x^2y^4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Multiplicaste los exponentes, como si hubieras hecho un producto: al sumar términos semejantes los exponentes se conservan y solo se suman los coeficientes."
         }
       ],
       "correct_answer": "C",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "$2x^2 + 5x + 12$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término independiente tiene mal el signo: $(-3)(4) = -12$, no $+12$. El producto de dos números negativos no puede ser positivo aquí."
         },
         {
           "letter": "B",
           "text": "$2x^2 + 11x - 12$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término lineal está mal calculado: en realidad es $8x - 3x = 5x$. El 11 sale de sumar $8 + 3$ en vez de restarlos, y el signo de $x$ también cambia al restar."
         },
         {
           "letter": "C",
           "text": "$2x^2 + 5x - 12$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Multiplicando término a término, $2x\\cdot x = 2x^2$, $2x\\cdot 4 = 8x$, $(-3)\\cdot x = -3x$ y $(-3)(4) = -12$; al reducir, $8x - 3x = 5x$, y el resultado es $2x^2 + 5x - 12$."
         },
         {
           "letter": "D",
           "text": "$2x^2 - 5x - 12$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término lineal no puede ser negativo: $2x\\cdot 4 = 8x$ y $(-3)\\cdot x = -3x$, y $8 + (-3) = 5$. Poner $-5x$ equivale a sumar los coeficientes donde corresponde restarlos."
         }
       ],
       "correct_answer": "C",
@@ -511,25 +511,25 @@
           "letter": "A",
           "text": "$2x^2 + 5x - 12$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Multiplicando término a término, $2x\\cdot x = 2x^2$, $2x\\cdot 4 = 8x$, $(-3)\\cdot x = -3x$ y $(-3)(4) = -12$; al reducir, $8x - 3x = 5x$, y el resultado es $2x^2 + 5x - 12$."
         },
         {
           "letter": "B",
           "text": "$2x^2 + 11x - 12$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término lineal está mal calculado: en realidad es $8x - 3x = 5x$. El 11 sale de sumar $8 + 3$ en vez de restarlos, y el signo de $x$ también cambia al restar."
         },
         {
           "letter": "C",
           "text": "$2x^2 + 5x + 12$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término independiente tiene mal el signo: $(-3)(4) = -12$, no $+12$. El producto de dos números negativos no puede ser positivo aquí."
         },
         {
           "letter": "D",
           "text": "$2x^2 - 5x - 12$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término lineal no puede ser negativo: $2x\\cdot 4 = 8x$ y $(-3)\\cdot x = -3x$, y $8 + (-3) = 5$. Poner $-5x$ equivale a sumar los coeficientes donde corresponde restarlos."
         }
       ],
       "correct_answer": "A",
@@ -556,25 +556,25 @@
           "letter": "A",
           "text": "$2x^2 + 5x - 12$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Multiplicando término a término, $2x\\cdot x = 2x^2$, $2x\\cdot 4 = 8x$, $(-3)\\cdot x = -3x$ y $(-3)(4) = -12$; al reducir, $8x - 3x = 5x$, y el resultado es $2x^2 + 5x - 12$."
         },
         {
           "letter": "B",
           "text": "$2x^2 + 11x - 12$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término lineal está mal calculado: en realidad es $8x - 3x = 5x$. El 11 sale de sumar $8 + 3$ en vez de restarlos, y el signo de $x$ también cambia al restar."
         },
         {
           "letter": "C",
           "text": "$2x^2 - 5x - 12$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término lineal no puede ser negativo: $2x\\cdot 4 = 8x$ y $(-3)\\cdot x = -3x$, y $8 + (-3) = 5$. Poner $-5x$ equivale a sumar los coeficientes donde corresponde restarlos."
         },
         {
           "letter": "D",
           "text": "$2x^2 + 5x + 12$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término independiente tiene mal el signo: $(-3)(4) = -12$, no $+12$. El producto de dos números negativos no puede ser positivo aquí."
         }
       ],
       "correct_answer": "A",
@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "$2x^2 - 5x - 12$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término lineal no puede ser negativo: $2x\\cdot 4 = 8x$ y $(-3)\\cdot x = -3x$, y $8 + (-3) = 5$. Poner $-5x$ equivale a sumar los coeficientes donde corresponde restarlos."
         },
         {
           "letter": "B",
           "text": "$2x^2 + 11x - 12$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término lineal está mal calculado: en realidad es $8x - 3x = 5x$. El 11 sale de sumar $8 + 3$ en vez de restarlos, y el signo de $x$ también cambia al restar."
         },
         {
           "letter": "C",
           "text": "$2x^2 + 5x - 12$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Multiplicando término a término, $2x\\cdot x = 2x^2$, $2x\\cdot 4 = 8x$, $(-3)\\cdot x = -3x$ y $(-3)(4) = -12$; al reducir, $8x - 3x = 5x$, y el resultado es $2x^2 + 5x - 12$."
         },
         {
           "letter": "D",
           "text": "$2x^2 + 5x + 12$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término independiente tiene mal el signo: $(-3)(4) = -12$, no $+12$. El producto de dos números negativos no puede ser positivo aquí."
         }
       ],
       "correct_answer": "C",
@@ -646,25 +646,25 @@
           "letter": "A",
           "text": "$2x^2 + 11x - 12$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término lineal está mal calculado: en realidad es $8x - 3x = 5x$. El 11 sale de sumar $8 + 3$ en vez de restarlos, y el signo de $x$ también cambia al restar."
         },
         {
           "letter": "B",
           "text": "$2x^2 - 5x - 12$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término lineal no puede ser negativo: $2x\\cdot 4 = 8x$ y $(-3)\\cdot x = -3x$, y $8 + (-3) = 5$. Poner $-5x$ equivale a sumar los coeficientes donde corresponde restarlos."
         },
         {
           "letter": "C",
           "text": "$2x^2 + 5x - 12$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Multiplicando término a término, $2x\\cdot x = 2x^2$, $2x\\cdot 4 = 8x$, $(-3)\\cdot x = -3x$ y $(-3)(4) = -12$; al reducir, $8x - 3x = 5x$, y el resultado es $2x^2 + 5x - 12$."
         },
         {
           "letter": "D",
           "text": "$2x^2 + 5x + 12$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término independiente tiene mal el signo: $(-3)(4) = -12$, no $+12$. El producto de dos números negativos no puede ser positivo aquí."
         }
       ],
       "correct_answer": "C",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "$2x^2 + 5x + 12$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término independiente tiene mal el signo: $(-3)(4) = -12$, no $+12$. El producto de dos números negativos no puede ser positivo aquí."
         },
         {
           "letter": "B",
           "text": "$2x^2 + 5x - 12$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Multiplicando término a término, $2x\\cdot x = 2x^2$, $2x\\cdot 4 = 8x$, $(-3)\\cdot x = -3x$ y $(-3)(4) = -12$; al reducir, $8x - 3x = 5x$, y el resultado es $2x^2 + 5x - 12$."
         },
         {
           "letter": "C",
           "text": "$2x^2 + 11x - 12$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término lineal está mal calculado: en realidad es $8x - 3x = 5x$. El 11 sale de sumar $8 + 3$ en vez de restarlos, y el signo de $x$ también cambia al restar."
         },
         {
           "letter": "D",
           "text": "$2x^2 - 5x - 12$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término lineal no puede ser negativo: $2x\\cdot 4 = 8x$ y $(-3)\\cdot x = -3x$, y $8 + (-3) = 5$. Poner $-5x$ equivale a sumar los coeficientes donde corresponde restarlos."
         }
       ],
       "correct_answer": "B",
@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "-1",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El residuo es $1$, no $-1$: al evaluar $P(2)$ sale positivo. Si te da negativo, has cambiado el signo al copiar el coeficiente del término independiente, que es $-5$."
         },
         {
           "letter": "B",
           "text": "1",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. El residuo es el valor del polinomio en $x = 2$: $2(8) - 3(4) + 2 - 5 = 16 - 12 + 2 - 5 = 1$."
         },
         {
           "letter": "C",
           "text": "-5",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El $-5$ es el término independiente del polinomio, no el residuo. El residuo se obtiene evaluando todo el polinomio en $x = 2$, y ahí el resultado es $1$."
         },
         {
           "letter": "D",
           "text": "3",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Ese valor no corresponde a $P(2)$. Al sustituir $x = 2$ en los cuatro términos se obtiene $16 - 12 + 2 - 5$, que suma $1$, no $3$."
         }
       ],
       "correct_answer": "B",
@@ -781,25 +781,25 @@
           "letter": "A",
           "text": "1",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. El residuo es el valor del polinomio en $x = 2$: $2(8) - 3(4) + 2 - 5 = 16 - 12 + 2 - 5 = 1$."
         },
         {
           "letter": "B",
           "text": "-5",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El $-5$ es el término independiente del polinomio, no el residuo. El residuo se obtiene evaluando todo el polinomio en $x = 2$, y ahí el resultado es $1$."
         },
         {
           "letter": "C",
           "text": "-1",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El residuo es $1$, no $-1$: al evaluar $P(2)$ sale positivo. Si te da negativo, has cambiado el signo al copiar el coeficiente del término independiente, que es $-5$."
         },
         {
           "letter": "D",
           "text": "3",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Ese valor no corresponde a $P(2)$. Al sustituir $x = 2$ en los cuatro términos se obtiene $16 - 12 + 2 - 5$, que suma $1$, no $3$."
         }
       ],
       "correct_answer": "A",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "1",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. El residuo es el valor del polinomio en $x = 2$: $2(8) - 3(4) + 2 - 5 = 16 - 12 + 2 - 5 = 1$."
         },
         {
           "letter": "B",
           "text": "3",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Ese valor no corresponde a $P(2)$. Al sustituir $x = 2$ en los cuatro términos se obtiene $16 - 12 + 2 - 5$, que suma $1$, no $3$."
         },
         {
           "letter": "C",
           "text": "-1",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El residuo es $1$, no $-1$: al evaluar $P(2)$ sale positivo. Si te da negativo, has cambiado el signo al copiar el coeficiente del término independiente, que es $-5$."
         },
         {
           "letter": "D",
           "text": "-5",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El $-5$ es el término independiente del polinomio, no el residuo. El residuo se obtiene evaluando todo el polinomio en $x = 2$, y ahí el resultado es $1$."
         }
       ],
       "correct_answer": "A",
@@ -871,25 +871,25 @@
           "letter": "A",
           "text": "-5",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El $-5$ es el término independiente del polinomio, no el residuo. El residuo se obtiene evaluando todo el polinomio en $x = 2$, y ahí el resultado es $1$."
         },
         {
           "letter": "B",
           "text": "3",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Ese valor no corresponde a $P(2)$. Al sustituir $x = 2$ en los cuatro términos se obtiene $16 - 12 + 2 - 5$, que suma $1$, no $3$."
         },
         {
           "letter": "C",
           "text": "1",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. El residuo es el valor del polinomio en $x = 2$: $2(8) - 3(4) + 2 - 5 = 16 - 12 + 2 - 5 = 1$."
         },
         {
           "letter": "D",
           "text": "-1",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El residuo es $1$, no $-1$: al evaluar $P(2)$ sale positivo. Si te da negativo, has cambiado el signo al copiar el coeficiente del término independiente, que es $-5$."
         }
       ],
       "correct_answer": "C",

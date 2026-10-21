@@ -99,36 +99,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v3",
-      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(2, -2)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?",
+      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 2$ al punto $B(3, -4)$, ¿cuáles son las coordenadas del punto imagen $B'$?",
       "context": "Un grupo de estudiantes de la Escuela Superior de la Universidad de Puerto Rico en San Juan realiza una investigación guiada por José.",
       "options": [
         {
-          "letter": "A",
-          "text": "$(2, -2)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. No se aplicó el factor de escala."
+          "letter": "B",
+          "text": "(6, -8)",
+          "is_correct": true,
+          "feedback": "Correcto. La dilatación multiplica cada coordenada por $k$: $B' = (2 \\times 3, 2 \\times (-4)) = (6, -8)$."
         },
         {
-          "letter": "B",
-          "text": "$(5, -5)$",
+          "letter": "A",
+          "text": "(-8, 6)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumó el factor en lugar de multiplicar."
+          "feedback": "Incorrecto. Intercambiaste las componentes; cada coordenada se multiplica por $k$ en su propia posición, sin cruzarse."
         },
         {
           "letter": "C",
-          "text": "$(6, -6)$",
-          "is_correct": true,
-          "feedback": "Correcto. Multiplicando ambas coordenadas por el factor de escala 3."
+          "text": "(6, 8)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ordenada aparece positiva; un factor de escala positivo no cambia el signo de $y$."
         },
         {
           "letter": "D",
-          "text": "$(6, 6)$",
+          "text": "(-6, -8)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cambió el signo de la segunda coordenada de forma errónea."
+          "feedback": "Incorrecto. La abscisa aparece negativa; el signo de $x$ se conserva cuando $k$ es positivo."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La regla para una dilatación o homotecia con centro en el origen y factor de escala $k$ es $(x, y) \\to (kx, ky)$. Para el punto $B(2, -2)$ con $k = 3$, obtenemos $B'(2 \\times 3, -2 \\times 3) = (6, -6)$.\n\n---",
+      "correct_answer": "B",
+      "explanation": "Una homotecia de centro en el origen y factor $k$ aplica la regla $(x, y) \\to (kx, ky)$. Con $k = 2$ y el punto $B(3, -4)$: $B' = (2 \\times 3,\\; 2 \\times (-4)) = (6, -8)$. Como el centro es el origen, cada coordenada conserva su signo.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -144,36 +144,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v4",
-      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(2, -2)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?",
+      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 2$ al punto $B(5, -3)$, ¿cuáles son las coordenadas del punto imagen $B'$?",
       "context": "Durante un taller de preparación académica en la Escuela Superior Ana Roque de Duprey de Carolina, Yaritza resuelve un ejercicio propuesto.",
       "options": [
         {
           "letter": "A",
-          "text": "$(2, -2)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. No se aplicó el factor de escala."
+          "text": "(10, -6)",
+          "is_correct": true,
+          "feedback": "Correcto. La dilatación multiplica cada coordenada por $k$: $B' = (2 \\times 5, 2 \\times (-3)) = (10, -6)$."
         },
         {
           "letter": "B",
-          "text": "$(5, -5)$",
+          "text": "(-6, 10)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumó el factor en lugar de multiplicar."
+          "feedback": "Incorrecto. Intercambiaste las componentes; cada coordenada se multiplica por $k$ en su propia posición, sin cruzarse."
         },
         {
           "letter": "C",
-          "text": "$(6, -6)$",
-          "is_correct": true,
-          "feedback": "Correcto. Multiplicando ambas coordenadas por el factor de escala 3."
+          "text": "(10, 6)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ordenada aparece positiva; un factor de escala positivo no cambia el signo de $y$."
         },
         {
           "letter": "D",
-          "text": "$(6, 6)$",
+          "text": "(-10, -6)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cambió el signo de la segunda coordenada de forma errónea."
+          "feedback": "Incorrecto. La abscisa aparece negativa; el signo de $x$ se conserva cuando $k$ es positivo."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La regla para una dilatación o homotecia con centro en el origen y factor de escala $k$ es $(x, y) \\to (kx, ky)$. Para el punto $B(2, -2)$ con $k = 3$, obtenemos $B'(2 \\times 3, -2 \\times 3) = (6, -6)$.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Una homotecia de centro en el origen y factor $k$ aplica la regla $(x, y) \\to (kx, ky)$. Con $k = 2$ y el punto $B(5, -3)$: $B' = (2 \\times 5,\\; 2 \\times (-3)) = (10, -6)$. Como el centro es el origen, cada coordenada conserva su signo.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -189,36 +189,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v5",
-      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(2, -6)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?",
+      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 2$ al punto $B(6, -5)$, ¿cuáles son las coordenadas del punto imagen $B'$?",
       "context": "Durante un taller de preparación académica en la Escuela Superior Ana Roque de Duprey de Carolina, Sebastián resuelve un ejercicio propuesto.",
       "options": [
         {
+          "letter": "D",
+          "text": "(12, -10)",
+          "is_correct": true,
+          "feedback": "Correcto. La dilatación multiplica cada coordenada por $k$: $B' = (2 \\times 6, 2 \\times (-5)) = (12, -10)$."
+        },
+        {
           "letter": "A",
-          "text": "$(2, -6)$",
+          "text": "(-10, 12)",
           "is_correct": false,
-          "feedback": "Incorrecto. No se aplicó el factor de escala."
+          "feedback": "Incorrecto. Intercambiaste las componentes; cada coordenada se multiplica por $k$ en su propia posición, sin cruzarse."
         },
         {
           "letter": "B",
-          "text": "$(5, -9)$",
+          "text": "(12, 10)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumó el factor en lugar de multiplicar."
+          "feedback": "Incorrecto. La ordenada aparece positiva; un factor de escala positivo no cambia el signo de $y$."
         },
         {
           "letter": "C",
-          "text": "$(6, -18)$",
-          "is_correct": true,
-          "feedback": "Correcto. Multiplicando ambas coordenadas por el factor de escala 3."
-        },
-        {
-          "letter": "D",
-          "text": "$(6, 18)$",
+          "text": "(-12, -10)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cambió el signo de la segunda coordenada de forma errónea."
+          "feedback": "Incorrecto. La abscisa aparece negativa; el signo de $x$ se conserva cuando $k$ es positivo."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La regla para una dilatación o homotecia con centro en el origen y factor de escala $k$ es $(x, y) \\to (kx, ky)$. Para el punto $B(2, -6)$ con $k = 3$, obtenemos $B'(2 \\times 3, -6 \\times 3) = (6, -18)$.\n\n---",
+      "correct_answer": "D",
+      "explanation": "Una homotecia de centro en el origen y factor $k$ aplica la regla $(x, y) \\to (kx, ky)$. Con $k = 2$ y el punto $B(6, -5)$: $B' = (2 \\times 6,\\; 2 \\times (-5)) = (12, -10)$. Como el centro es el origen, cada coordenada conserva su signo.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v6",
-      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(2, -2)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?",
+      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 2$ al punto $B(4, -7)$, ¿cuáles son las coordenadas del punto imagen $B'$?",
       "context": "Un grupo de estudiantes de la Escuela Superior Dra. Concepción Aponte en Bayamón realiza una investigación guiada por Yaritza.",
       "options": [
         {
+          "letter": "C",
+          "text": "(8, -14)",
+          "is_correct": true,
+          "feedback": "Correcto. La dilatación multiplica cada coordenada por $k$: $B' = (2 \\times 4, 2 \\times (-7)) = (8, -14)$."
+        },
+        {
           "letter": "A",
-          "text": "$(2, -2)$",
+          "text": "(-14, 8)",
           "is_correct": false,
-          "feedback": "Incorrecto. No se aplicó el factor de escala."
+          "feedback": "Incorrecto. Intercambiaste las componentes; cada coordenada se multiplica por $k$ en su propia posición, sin cruzarse."
         },
         {
           "letter": "B",
-          "text": "$(5, -5)$",
+          "text": "(8, 14)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumó el factor en lugar de multiplicar."
-        },
-        {
-          "letter": "C",
-          "text": "$(6, -6)$",
-          "is_correct": true,
-          "feedback": "Correcto. Multiplicando ambas coordenadas por el factor de escala 3."
+          "feedback": "Incorrecto. La ordenada aparece positiva; un factor de escala positivo no cambia el signo de $y$."
         },
         {
           "letter": "D",
-          "text": "$(6, 6)$",
+          "text": "(-8, -14)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cambió el signo de la segunda coordenada de forma errónea."
+          "feedback": "Incorrecto. La abscisa aparece negativa; el signo de $x$ se conserva cuando $k$ es positivo."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La regla para una dilatación o homotecia con centro en el origen y factor de escala $k$ es $(x, y) \\to (kx, ky)$. Para el punto $B(2, -2)$ con $k = 3$, obtenemos $B'(2 \\times 3, -2 \\times 3) = (6, -6)$.\n\n---",
+      "explanation": "Una homotecia de centro en el origen y factor $k$ aplica la regla $(x, y) \\to (kx, ky)$. Con $k = 2$ y el punto $B(4, -7)$: $B' = (2 \\times 4,\\; 2 \\times (-7)) = (8, -14)$. Como el centro es el origen, cada coordenada conserva su signo.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v7",
-      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(3, -2)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?",
+      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(2, -5)$, ¿cuáles son las coordenadas del punto imagen $B'$?",
       "context": "En Caguas, Luis estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior José Gautier Benítez.",
       "options": [
         {
-          "letter": "A",
-          "text": "$(3, -2)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. No se aplicó el factor de escala."
+          "letter": "B",
+          "text": "(6, -15)",
+          "is_correct": true,
+          "feedback": "Correcto. La dilatación multiplica cada coordenada por $k$: $B' = (3 \\times 2, 3 \\times (-5)) = (6, -15)$."
         },
         {
-          "letter": "B",
-          "text": "$(6, -5)$",
+          "letter": "A",
+          "text": "(-15, 6)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumó el factor en lugar de multiplicar."
+          "feedback": "Incorrecto. Intercambiaste las componentes; cada coordenada se multiplica por $k$ en su propia posición, sin cruzarse."
         },
         {
           "letter": "C",
-          "text": "$(9, -6)$",
-          "is_correct": true,
-          "feedback": "Correcto. Multiplicando ambas coordenadas por el factor de escala 3."
+          "text": "(6, 15)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ordenada aparece positiva; un factor de escala positivo no cambia el signo de $y$."
         },
         {
           "letter": "D",
-          "text": "$(9, 6)$",
+          "text": "(-6, -15)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cambió el signo de la segunda coordenada de forma errónea."
+          "feedback": "Incorrecto. La abscisa aparece negativa; el signo de $x$ se conserva cuando $k$ es positivo."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La regla para una dilatación o homotecia con centro en el origen y factor de escala $k$ es $(x, y) \\to (kx, ky)$. Para el punto $B(3, -2)$ con $k = 3$, obtenemos $B'(3 \\times 3, -2 \\times 3) = (9, -6)$.\n\n---",
+      "correct_answer": "B",
+      "explanation": "Una homotecia de centro en el origen y factor $k$ aplica la regla $(x, y) \\to (kx, ky)$. Con $k = 3$ y el punto $B(2, -5)$: $B' = (3 \\times 2,\\; 3 \\times (-5)) = (6, -15)$. Como el centro es el origen, cada coordenada conserva su signo.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v8",
-      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(5, -6)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?",
+      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(4, -4)$, ¿cuáles son las coordenadas del punto imagen $B'$?",
       "context": "Durante un taller de preparación académica en la Escuela Superior Luis Muñoz Iglesias de Cidra, Mariana resuelve un ejercicio propuesto.",
       "options": [
         {
           "letter": "A",
-          "text": "$(15, -18)$",
+          "text": "(12, -12)",
           "is_correct": true,
-          "feedback": "Correcto. Multiplicando ambas coordenadas por el factor de escala 3."
+          "feedback": "Correcto. La dilatación multiplica cada coordenada por $k$: $B' = (3 \\times 4, 3 \\times (-4)) = (12, -12)$."
         },
         {
           "letter": "B",
-          "text": "$(15, 18)$",
+          "text": "(-12, 12)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cambió el signo de la segunda coordenada de forma errónea."
+          "feedback": "Incorrecto. Intercambiaste las componentes; cada coordenada se multiplica por $k$ en su propia posición, sin cruzarse."
         },
         {
           "letter": "C",
-          "text": "$(5, -6)$",
+          "text": "(12, 12)",
           "is_correct": false,
-          "feedback": "Incorrecto. No se aplicó el factor de escala."
+          "feedback": "Incorrecto. La ordenada aparece positiva; un factor de escala positivo no cambia el signo de $y$."
         },
         {
           "letter": "D",
-          "text": "$(8, -9)$",
+          "text": "(-12, -12)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumó el factor en lugar de multiplicar."
+          "feedback": "Incorrecto. La abscisa aparece negativa; el signo de $x$ se conserva cuando $k$ es positivo."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La regla para una dilatación o homotecia con centro en el origen y factor de escala $k$ es $(x, y) \\to (kx, ky)$. Para el punto $B(5, -6)$ con $k = 3$, obtenemos $B'(5 \\times 3, -6 \\times 3) = (15, -18)$.\n\n---",
+      "explanation": "Una homotecia de centro en el origen y factor $k$ aplica la regla $(x, y) \\to (kx, ky)$. Con $k = 3$ y el punto $B(4, -4)$: $B' = (3 \\times 4,\\; 3 \\times (-4)) = (12, -12)$. Como el centro es el origen, cada coordenada conserva su signo.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v9",
-      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(4, -3)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?",
+      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(5, -6)$, ¿cuáles son las coordenadas del punto imagen $B'$?",
       "context": "En Guaynabo, Carmen diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Margarita Janer Palacios.",
       "options": [
         {
-          "letter": "A",
-          "text": "$(12, -9)$",
+          "letter": "D",
+          "text": "(15, -18)",
           "is_correct": true,
-          "feedback": "Correcto. Multiplicando ambas coordenadas por el factor de escala 3."
+          "feedback": "Correcto. La dilatación multiplica cada coordenada por $k$: $B' = (3 \\times 5, 3 \\times (-6)) = (15, -18)$."
+        },
+        {
+          "letter": "A",
+          "text": "(-18, 15)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Intercambiaste las componentes; cada coordenada se multiplica por $k$ en su propia posición, sin cruzarse."
         },
         {
           "letter": "B",
-          "text": "$(12, 9)$",
+          "text": "(15, 18)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cambió el signo de la segunda coordenada de forma errónea."
+          "feedback": "Incorrecto. La ordenada aparece positiva; un factor de escala positivo no cambia el signo de $y$."
         },
         {
           "letter": "C",
-          "text": "$(4, -3)$",
+          "text": "(-15, -18)",
           "is_correct": false,
-          "feedback": "Incorrecto. No se aplicó el factor de escala."
-        },
-        {
-          "letter": "D",
-          "text": "$(7, -6)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se sumó el factor en lugar de multiplicar."
+          "feedback": "Incorrecto. La abscisa aparece negativa; el signo de $x$ se conserva cuando $k$ es positivo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La regla para una dilatación o homotecia con centro en el origen y factor de escala $k$ es $(x, y) \\to (kx, ky)$. Para el punto $B(4, -3)$ con $k = 3$, obtenemos $B'(4 \\times 3, -3 \\times 3) = (12, -9)$.\n\n---",
+      "correct_answer": "D",
+      "explanation": "Una homotecia de centro en el origen y factor $k$ aplica la regla $(x, y) \\to (kx, ky)$. Con $k = 3$ y el punto $B(5, -6)$: $B' = (3 \\times 5,\\; 3 \\times (-6)) = (15, -18)$. Como el centro es el origen, cada coordenada conserva su signo.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v10",
-      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(4, -2)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?",
+      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(7, -2)$, ¿cuáles son las coordenadas del punto imagen $B'$?",
       "context": "Como parte de las olimpiades científicas en Trujillo Alto, Carlos aplica conceptos algebraicos en la Escuela Superior Medardo Carazo.",
       "options": [
         {
-          "letter": "A",
-          "text": "$(12, -6)$",
+          "letter": "C",
+          "text": "(21, -6)",
           "is_correct": true,
-          "feedback": "Correcto. Multiplicando ambas coordenadas por el factor de escala 3."
+          "feedback": "Correcto. La dilatación multiplica cada coordenada por $k$: $B' = (3 \\times 7, 3 \\times (-2)) = (21, -6)$."
+        },
+        {
+          "letter": "A",
+          "text": "(-6, 21)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Intercambiaste las componentes; cada coordenada se multiplica por $k$ en su propia posición, sin cruzarse."
         },
         {
           "letter": "B",
-          "text": "$(12, 6)$",
+          "text": "(21, 6)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cambió el signo de la segunda coordenada de forma errónea."
-        },
-        {
-          "letter": "C",
-          "text": "$(4, -2)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. No se aplicó el factor de escala."
+          "feedback": "Incorrecto. La ordenada aparece positiva; un factor de escala positivo no cambia el signo de $y$."
         },
         {
           "letter": "D",
-          "text": "$(7, -5)$",
+          "text": "(-21, -6)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumó el factor en lugar de multiplicar."
+          "feedback": "Incorrecto. La abscisa aparece negativa; el signo de $x$ se conserva cuando $k$ es positivo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La regla para una dilatación o homotecia con centro en el origen y factor de escala $k$ es $(x, y) \\to (kx, ky)$. Para el punto $B(4, -2)$ con $k = 3$, obtenemos $B'(4 \\times 3, -2 \\times 3) = (12, -6)$.\n\n---",
+      "correct_answer": "C",
+      "explanation": "Una homotecia de centro en el origen y factor $k$ aplica la regla $(x, y) \\to (kx, ky)$. Con $k = 3$ y el punto $B(7, -2)$: $B' = (3 \\times 7,\\; 3 \\times (-2)) = (21, -6)$. Como el centro es el origen, cada coordenada conserva su signo.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v11",
-      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(2, -2)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?",
+      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(3, -7)$, ¿cuáles son las coordenadas del punto imagen $B'$?",
       "context": "En Bayamón, Carlos diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Dra. Concepción Aponte.",
       "options": [
         {
-          "letter": "A",
-          "text": "$(2, -2)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. No se aplicó el factor de escala."
+          "letter": "B",
+          "text": "(9, -21)",
+          "is_correct": true,
+          "feedback": "Correcto. La dilatación multiplica cada coordenada por $k$: $B' = (3 \\times 3, 3 \\times (-7)) = (9, -21)$."
         },
         {
-          "letter": "B",
-          "text": "$(5, -5)$",
+          "letter": "A",
+          "text": "(-21, 9)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumó el factor en lugar de multiplicar."
+          "feedback": "Incorrecto. Intercambiaste las componentes; cada coordenada se multiplica por $k$ en su propia posición, sin cruzarse."
         },
         {
           "letter": "C",
-          "text": "$(6, -6)$",
-          "is_correct": true,
-          "feedback": "Correcto. Multiplicando ambas coordenadas por el factor de escala 3."
+          "text": "(9, 21)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ordenada aparece positiva; un factor de escala positivo no cambia el signo de $y$."
         },
         {
           "letter": "D",
-          "text": "$(6, 6)$",
+          "text": "(-9, -21)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cambió el signo de la segunda coordenada de forma errónea."
+          "feedback": "Incorrecto. La abscisa aparece negativa; el signo de $x$ se conserva cuando $k$ es positivo."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La regla para una dilatación o homotecia con centro en el origen y factor de escala $k$ es $(x, y) \\to (kx, ky)$. Para el punto $B(2, -2)$ con $k = 3$, obtenemos $B'(2 \\times 3, -2 \\times 3) = (6, -6)$.\n\n---",
+      "correct_answer": "B",
+      "explanation": "Una homotecia de centro en el origen y factor $k$ aplica la regla $(x, y) \\to (kx, ky)$. Con $k = 3$ y el punto $B(3, -7)$: $B' = (3 \\times 3,\\; 3 \\times (-7)) = (9, -21)$. Como el centro es el origen, cada coordenada conserva su signo.\n\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v12",
-      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(3, -4)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?",
+      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(6, -6)$, ¿cuáles son las coordenadas del punto imagen $B'$?",
       "context": "Como parte de las olimpiades científicas en Arecibo, Keylor aplica conceptos algebraicos en la Escuela Superior Luis Muñoz Marín.",
       "options": [
         {
           "letter": "A",
-          "text": "$(3, -4)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. No se aplicó el factor de escala."
+          "text": "(18, -18)",
+          "is_correct": true,
+          "feedback": "Correcto. La dilatación multiplica cada coordenada por $k$: $B' = (3 \\times 6, 3 \\times (-6)) = (18, -18)$."
         },
         {
           "letter": "B",
-          "text": "$(6, -7)$",
+          "text": "(-18, 18)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumó el factor en lugar de multiplicar."
+          "feedback": "Incorrecto. Intercambiaste las componentes; cada coordenada se multiplica por $k$ en su propia posición, sin cruzarse."
         },
         {
           "letter": "C",
-          "text": "$(9, -12)$",
-          "is_correct": true,
-          "feedback": "Correcto. Multiplicando ambas coordenadas por el factor de escala 3."
+          "text": "(18, 18)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ordenada aparece positiva; un factor de escala positivo no cambia el signo de $y$."
         },
         {
           "letter": "D",
-          "text": "$(9, 12)$",
+          "text": "(-18, -18)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cambió el signo de la segunda coordenada de forma errónea."
+          "feedback": "Incorrecto. La abscisa aparece negativa; el signo de $x$ se conserva cuando $k$ es positivo."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La regla para una dilatación o homotecia con centro en el origen y factor de escala $k$ es $(x, y) \\to (kx, ky)$. Para el punto $B(3, -4)$ con $k = 3$, obtenemos $B'(3 \\times 3, -4 \\times 3) = (9, -12)$.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Una homotecia de centro en el origen y factor $k$ aplica la regla $(x, y) \\to (kx, ky)$. Con $k = 3$ y el punto $B(6, -6)$: $B' = (3 \\times 6,\\; 3 \\times (-6)) = (18, -18)$. Como el centro es el origen, cada coordenada conserva su signo.\n\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v13",
-      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(3, -2)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?",
+      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 4$ al punto $B(2, -3)$, ¿cuáles son las coordenadas del punto imagen $B'$?",
       "context": "Como parte de las olimpiades científicas en Caguas, José aplica conceptos algebraicos en la Escuela Superior José Gautier Benítez.",
       "options": [
         {
+          "letter": "D",
+          "text": "(8, -12)",
+          "is_correct": true,
+          "feedback": "Correcto. La dilatación multiplica cada coordenada por $k$: $B' = (4 \\times 2, 4 \\times (-3)) = (8, -12)$."
+        },
+        {
           "letter": "A",
-          "text": "$(3, -2)$",
+          "text": "(-12, 8)",
           "is_correct": false,
-          "feedback": "Incorrecto. No se aplicó el factor de escala."
+          "feedback": "Incorrecto. Intercambiaste las componentes; cada coordenada se multiplica por $k$ en su propia posición, sin cruzarse."
         },
         {
           "letter": "B",
-          "text": "$(6, -5)$",
+          "text": "(8, 12)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumó el factor en lugar de multiplicar."
+          "feedback": "Incorrecto. La ordenada aparece positiva; un factor de escala positivo no cambia el signo de $y$."
         },
         {
           "letter": "C",
-          "text": "$(9, -6)$",
-          "is_correct": true,
-          "feedback": "Correcto. Multiplicando ambas coordenadas por el factor de escala 3."
-        },
-        {
-          "letter": "D",
-          "text": "$(9, 6)$",
+          "text": "(-8, -12)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cambió el signo de la segunda coordenada de forma errónea."
+          "feedback": "Incorrecto. La abscisa aparece negativa; el signo de $x$ se conserva cuando $k$ es positivo."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La regla para una dilatación o homotecia con centro en el origen y factor de escala $k$ es $(x, y) \\to (kx, ky)$. Para el punto $B(3, -2)$ con $k = 3$, obtenemos $B'(3 \\times 3, -2 \\times 3) = (9, -6)$.\n\n---",
+      "correct_answer": "D",
+      "explanation": "Una homotecia de centro en el origen y factor $k$ aplica la regla $(x, y) \\to (kx, ky)$. Con $k = 4$ y el punto $B(2, -3)$: $B' = (4 \\times 2,\\; 4 \\times (-3)) = (8, -12)$. Como el centro es el origen, cada coordenada conserva su signo.\n\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v14",
-      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(2, -5)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?",
+      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 4$ al punto $B(3, -5)$, ¿cuáles son las coordenadas del punto imagen $B'$?",
       "context": "Un grupo de estudiantes de la Escuela Superior Ana Roque de Duprey en Carolina realiza una investigación guiada por Mateo.",
       "options": [
         {
+          "letter": "C",
+          "text": "(12, -20)",
+          "is_correct": true,
+          "feedback": "Correcto. La dilatación multiplica cada coordenada por $k$: $B' = (4 \\times 3, 4 \\times (-5)) = (12, -20)$."
+        },
+        {
           "letter": "A",
-          "text": "$(2, -5)$",
+          "text": "(-20, 12)",
           "is_correct": false,
-          "feedback": "Incorrecto. No se aplicó el factor de escala."
+          "feedback": "Incorrecto. Intercambiaste las componentes; cada coordenada se multiplica por $k$ en su propia posición, sin cruzarse."
         },
         {
           "letter": "B",
-          "text": "$(5, -8)$",
+          "text": "(12, 20)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumó el factor en lugar de multiplicar."
-        },
-        {
-          "letter": "C",
-          "text": "$(6, -15)$",
-          "is_correct": true,
-          "feedback": "Correcto. Multiplicando ambas coordenadas por el factor de escala 3."
+          "feedback": "Incorrecto. La ordenada aparece positiva; un factor de escala positivo no cambia el signo de $y$."
         },
         {
           "letter": "D",
-          "text": "$(6, 15)$",
+          "text": "(-12, -20)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cambió el signo de la segunda coordenada de forma errónea."
+          "feedback": "Incorrecto. La abscisa aparece negativa; el signo de $x$ se conserva cuando $k$ es positivo."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La regla para una dilatación o homotecia con centro en el origen y factor de escala $k$ es $(x, y) \\to (kx, ky)$. Para el punto $B(2, -5)$ con $k = 3$, obtenemos $B'(2 \\times 3, -5 \\times 3) = (6, -15)$.\n\n---",
+      "explanation": "Una homotecia de centro en el origen y factor $k$ aplica la regla $(x, y) \\to (kx, ky)$. Con $k = 4$ y el punto $B(3, -5)$: $B' = (4 \\times 3,\\; 4 \\times (-5)) = (12, -20)$. Como el centro es el origen, cada coordenada conserva su signo.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v15",
-      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(4, -2)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?",
+      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 4$ al punto $B(5, -4)$, ¿cuáles son las coordenadas del punto imagen $B'$?",
       "context": "En Trujillo Alto, Luis estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Medardo Carazo.",
       "options": [
         {
-          "letter": "A",
-          "text": "$(12, -6)$",
+          "letter": "B",
+          "text": "(20, -16)",
           "is_correct": true,
-          "feedback": "Correcto. Multiplicando ambas coordenadas por el factor de escala 3."
+          "feedback": "Correcto. La dilatación multiplica cada coordenada por $k$: $B' = (4 \\times 5, 4 \\times (-4)) = (20, -16)$."
         },
         {
-          "letter": "B",
-          "text": "$(12, 6)$",
+          "letter": "A",
+          "text": "(-16, 20)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cambió el signo de la segunda coordenada de forma errónea."
+          "feedback": "Incorrecto. Intercambiaste las componentes; cada coordenada se multiplica por $k$ en su propia posición, sin cruzarse."
         },
         {
           "letter": "C",
-          "text": "$(4, -2)$",
+          "text": "(20, 16)",
           "is_correct": false,
-          "feedback": "Incorrecto. No se aplicó el factor de escala."
+          "feedback": "Incorrecto. La ordenada aparece positiva; un factor de escala positivo no cambia el signo de $y$."
         },
         {
           "letter": "D",
-          "text": "$(7, -5)$",
+          "text": "(-20, -16)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumó el factor en lugar de multiplicar."
+          "feedback": "Incorrecto. La abscisa aparece negativa; el signo de $x$ se conserva cuando $k$ es positivo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La regla para una dilatación o homotecia con centro en el origen y factor de escala $k$ es $(x, y) \\to (kx, ky)$. Para el punto $B(4, -2)$ con $k = 3$, obtenemos $B'(4 \\times 3, -2 \\times 3) = (12, -6)$.\n\n---",
+      "correct_answer": "B",
+      "explanation": "Una homotecia de centro en el origen y factor $k$ aplica la regla $(x, y) \\to (kx, ky)$. Con $k = 4$ y el punto $B(5, -4)$: $B' = (4 \\times 5,\\; 4 \\times (-4)) = (20, -16)$. Como el centro es el origen, cada coordenada conserva su signo.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v16",
-      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(6, -2)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?",
+      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 4$ al punto $B(4, -6)$, ¿cuáles son las coordenadas del punto imagen $B'$?",
       "context": "Durante un taller de preparación académica en la Escuela Superior Francisco Mendoza de Isabela, Yaritza resuelve un ejercicio propuesto.",
       "options": [
         {
           "letter": "A",
-          "text": "$(18, -6)$",
+          "text": "(16, -24)",
           "is_correct": true,
-          "feedback": "Correcto. Multiplicando ambas coordenadas por el factor de escala 3."
+          "feedback": "Correcto. La dilatación multiplica cada coordenada por $k$: $B' = (4 \\times 4, 4 \\times (-6)) = (16, -24)$."
         },
         {
           "letter": "B",
-          "text": "$(18, 6)$",
+          "text": "(-24, 16)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cambió el signo de la segunda coordenada de forma errónea."
+          "feedback": "Incorrecto. Intercambiaste las componentes; cada coordenada se multiplica por $k$ en su propia posición, sin cruzarse."
         },
         {
           "letter": "C",
-          "text": "$(6, -2)$",
+          "text": "(16, 24)",
           "is_correct": false,
-          "feedback": "Incorrecto. No se aplicó el factor de escala."
+          "feedback": "Incorrecto. La ordenada aparece positiva; un factor de escala positivo no cambia el signo de $y$."
         },
         {
           "letter": "D",
-          "text": "$(9, -5)$",
+          "text": "(-16, -24)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumó el factor en lugar de multiplicar."
+          "feedback": "Incorrecto. La abscisa aparece negativa; el signo de $x$ se conserva cuando $k$ es positivo."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La regla para una dilatación o homotecia con centro en el origen y factor de escala $k$ es $(x, y) \\to (kx, ky)$. Para el punto $B(6, -2)$ con $k = 3$, obtenemos $B'(6 \\times 3, -2 \\times 3) = (18, -6)$.\n\n---",
+      "explanation": "Una homotecia de centro en el origen y factor $k$ aplica la regla $(x, y) \\to (kx, ky)$. Con $k = 4$ y el punto $B(4, -6)$: $B' = (4 \\times 4,\\; 4 \\times (-6)) = (16, -24)$. Como el centro es el origen, cada coordenada conserva su signo.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v17",
-      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(6, -4)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?",
+      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 5$ al punto $B(2, -2)$, ¿cuáles son las coordenadas del punto imagen $B'$?",
       "context": "En Yauco, Ana estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Loaiza Cordero.",
       "options": [
         {
-          "letter": "A",
-          "text": "$(18, -12)$",
+          "letter": "D",
+          "text": "(10, -10)",
           "is_correct": true,
-          "feedback": "Correcto. Multiplicando ambas coordenadas por el factor de escala 3."
+          "feedback": "Correcto. La dilatación multiplica cada coordenada por $k$: $B' = (5 \\times 2, 5 \\times (-2)) = (10, -10)$."
+        },
+        {
+          "letter": "A",
+          "text": "(-10, 10)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Intercambiaste las componentes; cada coordenada se multiplica por $k$ en su propia posición, sin cruzarse."
         },
         {
           "letter": "B",
-          "text": "$(18, 12)$",
+          "text": "(10, 10)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cambió el signo de la segunda coordenada de forma errónea."
+          "feedback": "Incorrecto. La ordenada aparece positiva; un factor de escala positivo no cambia el signo de $y$."
         },
         {
           "letter": "C",
-          "text": "$(6, -4)$",
+          "text": "(-10, -10)",
           "is_correct": false,
-          "feedback": "Incorrecto. No se aplicó el factor de escala."
-        },
-        {
-          "letter": "D",
-          "text": "$(9, -7)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se sumó el factor en lugar de multiplicar."
+          "feedback": "Incorrecto. La abscisa aparece negativa; el signo de $x$ se conserva cuando $k$ es positivo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La regla para una dilatación o homotecia con centro en el origen y factor de escala $k$ es $(x, y) \\to (kx, ky)$. Para el punto $B(6, -4)$ con $k = 3$, obtenemos $B'(6 \\times 3, -4 \\times 3) = (18, -12)$.\n\n---",
+      "correct_answer": "D",
+      "explanation": "Una homotecia de centro en el origen y factor $k$ aplica la regla $(x, y) \\to (kx, ky)$. Con $k = 5$ y el punto $B(2, -2)$: $B' = (5 \\times 2,\\; 5 \\times (-2)) = (10, -10)$. Como el centro es el origen, cada coordenada conserva su signo.\n\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v18",
-      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(6, -3)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?",
+      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 5$ al punto $B(3, -6)$, ¿cuáles son las coordenadas del punto imagen $B'$?",
       "context": "En Utuado, Alondra diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Luis Muñoz Rivera.",
       "options": [
         {
-          "letter": "A",
-          "text": "$(18, -9)$",
+          "letter": "C",
+          "text": "(15, -30)",
           "is_correct": true,
-          "feedback": "Correcto. Multiplicando ambas coordenadas por el factor de escala 3."
+          "feedback": "Correcto. La dilatación multiplica cada coordenada por $k$: $B' = (5 \\times 3, 5 \\times (-6)) = (15, -30)$."
+        },
+        {
+          "letter": "A",
+          "text": "(-30, 15)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Intercambiaste las componentes; cada coordenada se multiplica por $k$ en su propia posición, sin cruzarse."
         },
         {
           "letter": "B",
-          "text": "$(18, 9)$",
+          "text": "(15, 30)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cambió el signo de la segunda coordenada de forma errónea."
-        },
-        {
-          "letter": "C",
-          "text": "$(6, -3)$",
-          "is_correct": false,
-          "feedback": "Incorrecto. No se aplicó el factor de escala."
+          "feedback": "Incorrecto. La ordenada aparece positiva; un factor de escala positivo no cambia el signo de $y$."
         },
         {
           "letter": "D",
-          "text": "$(9, -6)$",
+          "text": "(-15, -30)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumó el factor en lugar de multiplicar."
+          "feedback": "Incorrecto. La abscisa aparece negativa; el signo de $x$ se conserva cuando $k$ es positivo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La regla para una dilatación o homotecia con centro en el origen y factor de escala $k$ es $(x, y) \\to (kx, ky)$. Para el punto $B(6, -3)$ con $k = 3$, obtenemos $B'(6 \\times 3, -3 \\times 3) = (18, -9)$.\n\n---",
+      "correct_answer": "C",
+      "explanation": "Una homotecia de centro en el origen y factor $k$ aplica la regla $(x, y) \\to (kx, ky)$. Con $k = 5$ y el punto $B(3, -6)$: $B' = (5 \\times 3,\\; 5 \\times (-6)) = (15, -30)$. Como el centro es el origen, cada coordenada conserva su signo.\n\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v19",
-      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(4, -2)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?",
+      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 5$ al punto $B(4, -3)$, ¿cuáles son las coordenadas del punto imagen $B'$?",
       "context": "Como parte de las olimpiades científicas en Guaynabo, Luis aplica conceptos algebraicos en la Escuela Superior Margarita Janer Palacios.",
       "options": [
         {
-          "letter": "A",
-          "text": "$(12, -6)$",
+          "letter": "B",
+          "text": "(20, -15)",
           "is_correct": true,
-          "feedback": "Correcto. Multiplicando ambas coordenadas por el factor de escala 3."
+          "feedback": "Correcto. La dilatación multiplica cada coordenada por $k$: $B' = (5 \\times 4, 5 \\times (-3)) = (20, -15)$."
         },
         {
-          "letter": "B",
-          "text": "$(12, 6)$",
+          "letter": "A",
+          "text": "(-15, 20)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cambió el signo de la segunda coordenada de forma errónea."
+          "feedback": "Incorrecto. Intercambiaste las componentes; cada coordenada se multiplica por $k$ en su propia posición, sin cruzarse."
         },
         {
           "letter": "C",
-          "text": "$(4, -2)$",
+          "text": "(20, 15)",
           "is_correct": false,
-          "feedback": "Incorrecto. No se aplicó el factor de escala."
+          "feedback": "Incorrecto. La ordenada aparece positiva; un factor de escala positivo no cambia el signo de $y$."
         },
         {
           "letter": "D",
-          "text": "$(7, -5)$",
+          "text": "(-20, -15)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumó el factor en lugar de multiplicar."
+          "feedback": "Incorrecto. La abscisa aparece negativa; el signo de $x$ se conserva cuando $k$ es positivo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La regla para una dilatación o homotecia con centro en el origen y factor de escala $k$ es $(x, y) \\to (kx, ky)$. Para el punto $B(4, -2)$ con $k = 3$, obtenemos $B'(4 \\times 3, -2 \\times 3) = (12, -6)$.\n\n---",
+      "correct_answer": "B",
+      "explanation": "Una homotecia de centro en el origen y factor $k$ aplica la regla $(x, y) \\to (kx, ky)$. Con $k = 5$ y el punto $B(4, -3)$: $B' = (5 \\times 4,\\; 5 \\times (-3)) = (20, -15)$. Como el centro es el origen, cada coordenada conserva su signo.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W20-tema-w20-001-MASTERY-bundle-v20",
-      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(5, -5)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?",
+      "statement": "Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 5$ al punto $B(6, -4)$, ¿cuáles son las coordenadas del punto imagen $B'$?",
       "context": "En Río Piedras, Diego diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Ramón Power y Giralt.",
       "options": [
         {
           "letter": "A",
-          "text": "$(15, -15)$",
+          "text": "(30, -20)",
           "is_correct": true,
-          "feedback": "Correcto. Multiplicando ambas coordenadas por el factor de escala 3."
+          "feedback": "Correcto. La dilatación multiplica cada coordenada por $k$: $B' = (5 \\times 6, 5 \\times (-4)) = (30, -20)$."
         },
         {
           "letter": "B",
-          "text": "$(15, 15)$",
+          "text": "(-20, 30)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se cambió el signo de la segunda coordenada de forma errónea."
+          "feedback": "Incorrecto. Intercambiaste las componentes; cada coordenada se multiplica por $k$ en su propia posición, sin cruzarse."
         },
         {
           "letter": "C",
-          "text": "$(5, -5)$",
+          "text": "(30, 20)",
           "is_correct": false,
-          "feedback": "Incorrecto. No se aplicó el factor de escala."
+          "feedback": "Incorrecto. La ordenada aparece positiva; un factor de escala positivo no cambia el signo de $y$."
         },
         {
           "letter": "D",
-          "text": "$(8, -8)$",
+          "text": "(-30, -20)",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumó el factor en lugar de multiplicar."
+          "feedback": "Incorrecto. La abscisa aparece negativa; el signo de $x$ se conserva cuando $k$ es positivo."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La regla para una dilatación o homotecia con centro en el origen y factor de escala $k$ es $(x, y) \\to (kx, ky)$. Para el punto $B(5, -5)$ con $k = 3$, obtenemos $B'(5 \\times 3, -5 \\times 3) = (15, -15)$.\n\n---",
+      "explanation": "Una homotecia de centro en el origen y factor $k$ aplica la regla $(x, y) \\to (kx, ky)$. Con $k = 5$ y el punto $B(6, -4)$: $B' = (5 \\times 6,\\; 5 \\times (-4)) = (30, -20)$. Como el centro es el origen, cada coordenada conserva su signo.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

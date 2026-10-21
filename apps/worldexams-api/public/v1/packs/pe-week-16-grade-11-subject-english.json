@@ -9,37 +9,37 @@
   "questions": [
     {
       "id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'Have you ever seen ___ volcano?'",
+      "context": "You mention one thing that you have never seen before.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "a",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "Correct. 'A volcano' introduces a single thing for the first time, which is exactly what the indefinite article does."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "some",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Some' would not normally be used with a singular countable noun in this question."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "an",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'An' is required before a vowel sound and volcano begins with a consonant sound."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "the",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'The volcano' assumes the listener already knows which volcano is meant."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
+      "explanation": "The indefinite article a or an introduces something new, while the definite article the points to something already identified.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -54,36 +54,36 @@
     },
     {
       "id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct article before the word 'orange'.",
+      "context": "You mention one thing for the first time, and its name starts with a vowel sound.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "a orange",
+          "is_correct": false,
+          "feedback": "Wrong. 'A orange' would be correct before a consonant sound but not before this vowel sound."
         },
         {
           "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "an orange",
+          "is_correct": true,
+          "feedback": "Correct. The choice between a and an depends on the sound, and orange begins with a vowel sound."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "some orange",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Some' is normally used with plural or uncountable nouns and not with a single countable item."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "the orange",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'The orange' presupposes a specific orange already known to the listener."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "The article is decided by the initial sound of the following word, not by the letter, which is why an hour and a university both take a.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,40 +99,40 @@
     },
     {
       "id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: '___ water boils at one hundred degrees Celsius.'",
+      "context": "You introduce a general concept.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "text": "A water",
+          "is_correct": false,
+          "feedback": "Wrong. 'A water' would treat the noun as countable, which it is not."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "The water",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'The water' refers to a specific body of water already identified in the context."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Water",
+          "is_correct": true,
+          "feedback": "Correct. When a statement is true of all instances of a noun, English normally omits the article altogether."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "Some waters",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Some waters' pluralises an uncountable noun, which is not permitted here."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
+      "correct_answer": "C",
+      "explanation": "General statements about uncountable nouns such as water take no article at all, which is one of the commonest examination traps.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-bundle",
       "periodo": 16,
@@ -144,41 +144,41 @@
     },
     {
       "id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the question with the correct article.",
+      "context": "A classmate asks about something you do not know.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "text": "What time does film start?",
+          "is_correct": false,
+          "feedback": "Wrong. Leaving the article out makes the sentence ungrammatical for a countable noun."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "What time does the a film start?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The two articles together contradict each other and cannot modify the same noun."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "What time does a film start?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'A film' would introduce a different film each time, which is not the meaning of the question."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "What time does the film start?",
+          "is_correct": true,
+          "feedback": "Correct. 'The film' refers to a specific film that both speakers are discussing, so the definite article is required."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "A question about a mutually identified item takes the definite article, whereas asking about any instance of a class would take an indefinite one.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -189,40 +189,40 @@
     },
     {
       "id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The sun rises in the ___.'",
+      "context": "A description refers to something unique in the world.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "east",
           "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "feedback": "Correct. In geographical expressions such as 'in the east', the definite article precedes the direction word."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "east's",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. A possessive ending cannot be attached to a direction word in this phrase."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "an east",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'An east' is not a standard expression for a direction."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "the east",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Omitting the article is unusual in this fixed geographical construction."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\n---",
+      "explanation": "Directions are unusual because they take the definite article when used as noun phrases, unlike most uncountable general references.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-bundle",
       "periodo": 16,
@@ -234,40 +234,40 @@
     },
     {
       "id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly refers to meals as a class.",
+      "context": "A speaker mentions meals in general.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "text": "The breakfast is usually served at seven.",
+          "is_correct": false,
+          "feedback": "Wrong. 'The breakfast' refers to a particular meal already mentioned."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Breakfast is usually served at seven.",
+          "is_correct": true,
+          "feedback": "Correct. 'Breakfast' used in this general sense takes no article, which is the standard pattern for meal names."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "Breakfasts are usually served at seven in Peru.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Pluralising meal names in this sense is not standard English and would refer to individual portions."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "A breakfast is usually served at seven.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'A breakfast' counts a single instance rather than referring to the meal as a general category."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Meal names such as breakfast, lunch and dinner take the definite article only when referring to a specific meal, not when used generally.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-bundle",
       "periodo": 16,
@@ -279,41 +279,41 @@
     },
     {
       "id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that uses the correct article for a general statement about hospitals.",
+      "context": "A sentence mentions a hospital, and the speaker wants to generalise.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "text": "A hospitals usually have a qualified staff.",
+          "is_correct": false,
+          "feedback": "Wrong. 'A hospitals' is impossible because the indefinite article cannot modify a plural noun."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "The hospitals usually have a qualified staff.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'The hospitals' points to particular hospitals already identified."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Hospitals usually have a qualified staff.",
+          "is_correct": true,
+          "feedback": "Correct. A general statement about all hospitals takes the plural noun without an article."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "Hospital usually have a qualified staff.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Hospital' without a determiner and with a plural verb is ungrammatical here."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "C",
+      "explanation": "General plural references to institutions take no article, whereas specific institutions referred to individually take the definite article.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the statement that best describes the zero article.",
+      "context": "A grammar handbook explains when the zero article is used.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "It is used only with plural nouns and never with singular ones.",
+          "is_correct": false,
+          "feedback": "Wrong. The zero article is also used with singular uncountable nouns and with some singular proper names."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "It is never used with proper names in English.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Many proper names, such as city names and the names of rivers, normally take no article at all."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "It is used with any singular countable noun that has not been mentioned before.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. A singular countable noun requires an article; the indefinite article is exactly what this rule rules out."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "It is used with uncountable nouns in general statements and with many fixed expressions and proper names.",
+          "is_correct": true,
+          "feedback": "Correct. This accurately lists the main contexts, since the zero article covers general uncountables, fixed phrases and many proper names."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "D",
+      "explanation": "The zero article is defined by what it excludes, so describing it accurately requires covering both its genuine uses and the cases it cannot cover.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the version with the correct article before the country name.",
+      "context": "An editor checks a sentence about a country.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
+          "text": "Peru is in the west of South America.",
           "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "feedback": "Correct. Most country names take the zero article, so no article is needed before Peru."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "Peru are in the west of South America.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The subject is singular, so the verb must be 'is' rather than 'are'."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "A Peru is in the west of South America.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'A Peru' would imply that Peru were one country among several unnamed ones."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "The Peru is in the west of South America.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'The Peru' is not used; the article does not appear with the name of this country."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "explanation": "Country names usually take no article, though a few such as the Netherlands and the Philippines are well-known exceptions.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that uses the correct article in a fixed expression.",
+      "context": "A grammar task tests a fixed expression that includes an article.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "text": "I go to the school by bus every day.",
+          "is_correct": false,
+          "feedback": "Wrong. 'The school' would refer to a specific building and would change the meaning entirely."
         },
         {
           "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "I go to school by bus every day.",
+          "is_correct": true,
+          "feedback": "Correct. 'Go to school' is a fixed expression meaning to attend school as a pupil, and it takes no article."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "I go to school on bus every day.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'On bus' is not a valid prepositional phrase; transport by bus uses 'by'."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "I go to a school by bus every day.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'A school' would introduce one unspecified school, which is not what the expression means."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "Fixed expressions such as go to school, go to bed and go to church describe activities rather than places and never take an article.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'I have ___ brother and ___ sister.'",
+      "context": "A classmate asks about your family.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
+          "text": "an; a",
+          "is_correct": false,
+          "feedback": "Wrong. 'An brother' is incorrect because brother begins with a consonant sound."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "a; an",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'An sister' is incorrect because sister begins with a consonant sound."
         },
         {
           "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "a; a",
+          "is_correct": true,
+          "feedback": "Correct. The indefinite article is used before both nouns because brother and the first mention of sister are both new information beginning with consonants."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "the; a",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'The brother' would imply a brother already identified, which the sentence does not establish."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "Each singular countable noun needs its own determiner, so a repeated noun in the same sentence takes the article again.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly uses each and every with singular nouns.",
+      "context": "A sentence refers to a sequence of institutions.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "text": "Each of the candidates and every of the panel were interviewed.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Every of the panel' is not a valid construction, because every cannot be followed by of."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "Each of the candidate and every members of the panel were interviewed.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Each of the candidate' needs the plural noun, and 'every members' wrongly pluralises after every."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "Each of the candidates and every member of the panel was interviewed.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. A plural verb is used where both subjects are grammatically singular, so the agreement is wrong."
         },
         {
           "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Each of the candidates and every member of the panel were interviewed.",
+          "is_correct": true,
+          "feedback": "Correct. 'Each of' and 'every' are both singular determiners, so the singular verb 'was' is the correct agreement."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Each and every behave like singular determiners for the purposes of subject-verb agreement, which is a standard examination point.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly uses the zero article with a mode of transport.",
+      "context": "A speaker compares two ways of travelling to school.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
+          "text": "I go to work by bicycle on Tuesdays.",
           "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
+          "feedback": "Correct. Modes of transport such as bicycle, bus and train take the zero article in the phrase 'by bicycle'."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "I go to work by a bicycle on Tuesdays.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'By a bicycle' also refers to a specific or unspecified bicycle, not to the general activity."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "I go to work by the bicycle on Tuesdays.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'By the bicycle' would refer to a particular bicycle rather than the mode of transport."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "I go to work on bicycle on Tuesdays.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'On bicycle' is not a valid combination of preposition and noun in this meaning."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "explanation": "By plus a mode of transport refers to the activity rather than to a vehicle, so it follows the same pattern as go by train.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly uses the definite article with an abstract noun.",
+      "context": "An exercise tests articles before abstract nouns.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "text": "The music is important in Peruvian culture.",
+          "is_correct": false,
+          "feedback": "Wrong. 'The music' would refer to a particular piece or body of music already under discussion."
         },
         {
           "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Music is important in Peruvian culture.",
+          "is_correct": true,
+          "feedback": "Correct. When music refers to the whole field or activity in general, English takes the zero article."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "Musics are important in Peruvian culture.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Musics' pluralises an uncountable noun, which English does not allow here."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "A music is important in Peruvian culture.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'A music' is ungrammatical because music is uncountable and has no plural form."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Abstract and mass nouns take the zero article in general statements but the definite article when a specific instance is intended.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly uses a possessive determiner.",
+      "context": "A grammar task tests possessive determiners.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "text": "This is a notebook of mine here.",
+          "is_correct": false,
+          "feedback": "Wrong. 'A' cannot be inserted between a possessive determiner and the noun it accompanies."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "This is the notebook of me.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Of me' reverses the correct order, which requires a noun before of and a pronoun after it."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "This is my notebook.",
+          "is_correct": true,
+          "feedback": "Correct. 'My' is a possessive determiner that goes directly before the noun without an article."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "This is my a notebook.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'My a notebook' stacks two determiners before one noun, which is not permitted in English."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "C",
+      "explanation": "English allows only one determiner before a noun, and possessive determiners occupy that single slot on their own.\n\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the revision with the correct article usage.",
+      "context": "An editor corrects an article error in a paragraph about schools.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "text": "The school we attend is the nearest to the city centre's.",
+          "is_correct": false,
+          "feedback": "Wrong. A possessive ending cannot replace the preposition in a superlative comparison."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "The school we attend is the nearest to a city centre.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'A city centre' would refer to some unspecified centre rather than the one being compared."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "The school we attend is nearest to the city centre.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Is nearest' omits the article that the superlative requires."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The school we attend is the nearest to the city centre.",
+          "is_correct": true,
+          "feedback": "Correct. The superlative takes the definite article, and the comparison is completed with the preposition to plus a definite noun phrase."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "A superlative needs the definite article, and the phrase after the comparative preposition must also be definite for the comparison to make sense.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly uses a determiner of quantity.",
+      "context": "An exam tests a determiner that indicates a limited quantity.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
+          "text": "I have a lot of work to do this week.",
           "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
+          "feedback": "Correct. 'A lot of' is a quantity determiner that takes an uncountable noun such as work."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "I have the lot of work to do this week.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'The lot of' would refer to a specific known quantity and does not function as a general quantity phrase."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "I have a lot of many work to do this week.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'A lot of many' stacks two quantifiers before a single noun, which is ungrammatical."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "I have lot of work to do this week.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Lot of' requires the article, since a lot of is a determiner and not a bare noun phrase."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "explanation": "Quantity determiners such as a lot of, a few of and plenty of each occupy the single determiner slot before their noun.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which statement best describes the article in the sentence 'She has been studying at the university since 2019'?",
+      "context": "A semantics exercise examines article use with institution names.",
       "options": [
         {
           "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
+          "text": "The article should be zero because no institution is named in the sentence.",
+          "is_correct": false,
+          "feedback": "Wrong. The zero article is used with general plurals such as universities, not with a single institution the speaker has in mind."
         },
         {
           "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The university is specific, because it is the one where she is registered, which is why the definite article is used.",
+          "is_correct": true,
+          "feedback": "Correct. Definite articles are used for institutions whose identity is fixed by context or general knowledge, not only when they are named."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "The article is wrong because institutions are never referred to with the definite article.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Institutions are routinely referred to with the definite article whenever they are identifiable."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "The article should be an indefinite one because a new institution is being introduced.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. An indefinite article would suggest any university rather than the particular one the speaker means."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "Definiteness depends on identifiability rather than on whether a name is spelled out, which is why institutions take the.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is both grammatical and free of an unnecessary article?",
+      "context": "A style task asks for the most economical accurate version.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
+          "text": "A life of nurse involves night shifts.",
+          "is_correct": false,
+          "feedback": "Wrong. 'A life of nurse' lacks the article that the singular countable noun nurse requires."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "The life of a nurse involves the night shifts.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'The night shifts' restricts the reference to particular shifts, adding an article the sentence does not need."
         },
         {
           "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The life of a nurse involves night shifts.",
+          "is_correct": true,
+          "feedback": "Correct. 'Night shifts' in the general sense takes no article, and 'a nurse' correctly introduces one unspecified member of the profession."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "The life of the a nurse involves night shifts.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'The a nurse' contains two articles before one noun, which is never possible."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "Economy in article use means removing the article that general and plural references do not require, without removing those they do.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence in which both articles are correct.",
+      "context": "An exam tests articles in a sentence with two nouns.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "text": "The head of the department the resigned yesterday.",
+          "is_correct": false,
+          "feedback": "Wrong. 'The department the resigned' inserts an extra article and leaves the structure with two determiners."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "Head of the department resigned yesterday.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Head of the department' lacks the article before the singular noun head, which is required."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "The head of department resigned yesterday.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Of department' lacks the article before a singular countable noun used as a role or institution."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The head of the department resigned yesterday.",
+          "is_correct": true,
+          "feedback": "Correct. 'The head' takes the definite article because the role is unique, and 'the department' is also identifiable in the context."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "Roles and institutions are singular countable nouns, so each one needs its own determiner and cannot share a single one.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W16-articles-determiners-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",

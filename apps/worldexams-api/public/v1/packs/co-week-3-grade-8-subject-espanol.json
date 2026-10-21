@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es la obra más importante de la épica castellana, cuyo manuscrito conservado fue copiado por Per Abbat en el siglo XIV?",
-      "context": "Los cantares de gesta son poemas épicos de la Edad Media que narran las hazañas de un caballero que representa los valores de una nación.\n**Expected_Success:** 0.85",
+      "context": "Los cantares de gesta son poemas épicos de la Edad Media que narran las hazañas de un caballero que representa los valores de una nación.",
       "options": [
         {
           "letter": "A",
@@ -19,25 +19,25 @@
           "feedback": "Esta es la obra cumbre de la épica francesa, no castellana."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El Cantar de Mio Cid",
           "is_correct": true,
           "feedback": "Es el poema épico más antiguo y mejor conservado de la literatura española."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El Cantar de los Nibelungos",
           "is_correct": false,
           "feedback": "Es la obra principal de la épica germánica."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La Eneida",
           "is_correct": false,
           "feedback": "Es una epopeya latina escrita por Virgilio en la época romana."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El Cantar de Mio Cid es la piedra angular de la literatura en lengua castellana, narrando el proceso de recuperación del honor del héroe Rodrigo Díaz de Vivar.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle-v2",
       "statement": "¿Cómo se denomina el primer cantar de la obra, en el que Rodrigo Díaz de Vivar debe abandonar su tierra por orden del rey Alfonso VI?",
-      "context": "El Cantar de Mio Cid se divide tradicionalmente en tres partes o cantares que marcan la progresión de la historia.\n**Expected_Success:** 0.82",
+      "context": "El Cantar de Mio Cid se divide tradicionalmente en tres partes o cantares que marcan la progresión de la historia.",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es la forma métrica característica de los cantares de gesta castellanos, donde los versos tienen un número variable de sílabas y una pausa central?",
-      "context": "Debido a que estaban destinados a la recitación oral, los cantares de gesta presentan una métrica particular.\n**Expected_Success:** 0.80",
+      "context": "Debido a que estaban destinados a la recitación oral, los cantares de gesta presentan una métrica particular.",
       "options": [
         {
           "letter": "A",
@@ -117,19 +117,19 @@
           "feedback": "El soneto es una forma culta de 14 versos endecasílabos que se popularizó en el Renacimiento."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Serie o tirada monorrima asonante",
           "is_correct": true,
           "feedback": "Los versos se agrupan en tiradas de extensión variable con la misma rima asonante."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Octavilla real",
           "is_correct": false,
           "feedback": "Es una estrofa de ocho versos de arte menor, no usada en la épica medieval."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La métrica irregular (anisosilabismo) y la rima asonante facilitaban la improvisación y la memorización del juglar durante las sesiones de recitación pública.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,22 +148,22 @@
     {
       "id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle-v4",
       "statement": "¿Qué acción del Cid demuestra su \"mesura\" tras descubrir que las arcas de arena que entregó a los judíos Raquel y Vidas eran un engaño necesario para financiar su ejército?",
-      "context": "En el Cantar de Mio Cid, el héroe se caracteriza por su \"mesura\", es decir, su equilibrio y prudencia incluso en situaciones difíciles.\n**Expected_Success:** 0.75",
+      "context": "En el Cantar de Mio Cid, el héroe se caracteriza por su \"mesura\", es decir, su equilibrio y prudencia incluso en situaciones difíciles.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Burlarse públicamente de ellos para demostrar su ingenio.",
           "is_correct": false,
           "feedback": "El Cid no busca la humillación, sino la supervivencia en una situación desesperada."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Matarlos para que no pudieran reclamar su dinero de vuelta.",
           "is_correct": false,
           "feedback": "Esto iría en contra del código de honor del Cid."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Prometer devolverles el dinero con intereses una vez que logre sus conquistas.",
           "is_correct": true,
           "feedback": "La mesura implica responsabilidad y la intención de reparar los males causados por la necesidad."
@@ -175,7 +175,7 @@
           "feedback": "El Cid es honesto con sus acciones, aunque sean astutas por necesidad."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La mesura es la cualidad que diferencia al Cid de otros héroes épicos más impulsivos; representa la madurez y la sabiduría del caballero castellano.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -194,22 +194,22 @@
     {
       "id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle-v5",
       "statement": "¿Cuál es la función del epíteto épico \"el que en buena hora ciñó espada\" en el contexto de la recitación oral del poema?",
-      "context": "Los juglares utilizaban epítetos épicos para referirse al héroe, como \"el de la barba vellida\" o \"el que en buena hora nació\".\n**Expected_Success:** 0.70",
+      "context": "Los juglares utilizaban epítetos épicos para referirse al héroe, como \"el de la barba vellida\" o \"el que en buena hora nació\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Indicar que el Cid era un caballero joven que acababa de recibir sus armas.",
           "is_correct": false,
           "feedback": "El Cid ya era un guerrero experimentado; la frase alude a su destino heroico."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Informar al público sobre la hora exacta en la que se realizaban las batallas.",
           "is_correct": false,
           "feedback": "\"Buena hora\" es una expresión simbólica de buena suerte o destino favorable."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Mantener el ritmo del verso y reforzar la imagen positiva y predestinada del héroe.",
           "is_correct": true,
           "feedback": "Estos recursos ayudaban a la sonoridad y a la caracterización constante del personaje."
@@ -221,7 +221,7 @@
           "feedback": "Ambos bandos usaban espadas; el epíteto es exclusivo para honrar al protagonista."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Los epítetos épicos son fórmulas fijas que permiten al juglar \"descansar\" mentalmente mientras prepara el siguiente verso, al tiempo que fijan la identidad del héroe.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle-v6",
       "statement": "¿Qué función narrativa cumple el contraste entre la actitud del Cid y la de los Infantes de Carrión en el episodio del león?",
-      "context": "El episodio del león, donde los Infantes de Carrión se esconden por miedo mientras el Cid amansa a la fiera con solo mirarla, es fundamental para la trama.\n**Expected_Success:** 0.65",
+      "context": "El episodio del león, donde los Infantes de Carrión se esconden por miedo mientras el Cid amansa a la fiera con solo mirarla, es fundamental para la trama.",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle-v7",
       "statement": "¿Cómo influye el factor económico en la construcción de la figura heroica del Cid en comparación con héroes mitológicos como Aquiles?",
-      "context": "A diferencia de la épica de otros países, el Cid se preocupa constantemente por las necesidades económicas de su familia y sus vasallos.\n**Expected_Success:** 0.60",
+      "context": "A diferencia de la épica de otros países, el Cid se preocupa constantemente por las necesidades económicas de su familia y sus vasallos.",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle-v8",
       "statement": "¿Qué significado político tiene el segundo matrimonio de las hijas del Cid con los príncipes de los reinos de Navarra y Aragón?",
-      "context": "El final de la obra muestra al Cid recuperando su honor mediante un juicio y casando a sus hijas con reyes de Navarra y Aragón.\n**Expected_Success:** 0.58",
+      "context": "El final de la obra muestra al Cid recuperando su honor mediante un juicio y casando a sus hijas con reyes de Navarra y Aragón.",
       "options": [
         {
           "letter": "A",
@@ -378,22 +378,22 @@
     {
       "id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle-v9",
       "statement": "¿Qué nos revela la comparación \"como la uña de la carne\" sobre la sensibilidad del héroe épico castellano?",
-      "context": "El Cid se despide de su esposa Jimena y de sus hijas en el monasterio de San Pedro de Cardeña \"como la uña de la carne\".\n**Expected_Success:** 0.55",
+      "context": "El Cid se despide de su esposa Jimena y de sus hijas en el monasterio de San Pedro de Cardeña \"como la uña de la carne\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que el Cid tenía problemas de salud en las manos por las batallas.",
           "is_correct": false,
           "feedback": "Es una metáfora, no una descripción médica."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que era un hombre rudo que no sabía expresar sus sentimientos con delicadeza.",
           "is_correct": false,
           "feedback": "La metáfora es profundamente expresiva y dolorosa."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "La profundidad del vínculo afectivo y el dolor físico que le produce la separación familiar.",
           "is_correct": true,
           "feedback": "Muestra el lado humano y tierno del guerrero, reforzando la empatía del público."
@@ -405,7 +405,7 @@
           "feedback": "La metáfora indica unión vital, no utilidad laboral."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La ternura familiar es otra faceta del realismo del Cantar, humanizando al héroe y elevando el drama personal al nivel del drama bélico.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es la consecuencia literaria de que los cantares de gesta fueran principalmente orales en su origen?",
-      "context": "Muchos cantares de gesta se perdieron porque no se pusieron por escrito a tiempo. El Cantar de Mio Cid sobrevivió gracias a una copia tardía.\n**Expected_Success:** 0.45",
+      "context": "Muchos cantares de gesta se perdieron porque no se pusieron por escrito a tiempo. El Cantar de Mio Cid sobrevivió gracias a una copia tardía.",
       "options": [
         {
           "letter": "A",
@@ -433,13 +433,13 @@
           "feedback": "La oralidad permitía variantes locales y adaptaciones según el público."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que no se utilizaban figuras retóricas para no confundir a los oyentes.",
           "is_correct": false,
           "feedback": "La oralidad tiene sus propias figuras retóricas (paralelismos, epítetos)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La existencia de múltiples versiones de un mismo hecho y la pérdida de muchos textos tras el fin del oficio de juglaría.",
           "is_correct": true,
           "feedback": "Sin el soporte escrito, la supervivencia dependía de la memoria y la continuidad de los juglares."
@@ -451,7 +451,7 @@
           "feedback": "Al contrario, la recitación en plazas hacía la literatura accesible a todo el pueblo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La oralidad define la estructura, el estilo y la precaria conservación de la épica medieval, marcando una diferencia fundamental con la literatura de autor moderna.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -470,7 +470,7 @@
     {
       "id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle-v11",
       "statement": "¿Qué visión de la frontera y de la Reconquista nos ofrece el Cantar de Mio Cid, más allá de la lucha religiosa simplista?",
-      "context": "El Cid lucha contra los moros, pero también contra otros nobles cristianos e incluso tiene aliados musulmanes como Abengalbón.\n**Expected_Success:** 0.42",
+      "context": "El Cid lucha contra los moros, pero también contra otros nobles cristianos e incluso tiene aliados musulmanes como Abengalbón.",
       "options": [
         {
           "letter": "A",
@@ -516,7 +516,7 @@
     {
       "id": "CO-LEN-8-2026-W03-cantar-gesta-001-MASTERY-bundle-v12",
       "statement": "¿Por qué el autor del Cantar incluiría un episodio tan cruel y aparentemente ajeno a las batallas como la Afrenta de Corpes?",
-      "context": "La \"Afrenta de Corpes\" es considerada por algunos críticos como un añadido posterior para aumentar el dramatismo y la gloria final del Cid.\n**Expected_Success:** 0.38",
+      "context": "La \"Afrenta de Corpes\" es considerada por algunos críticos como un añadido posterior para aumentar el dramatismo y la gloria final del Cid.",
       "options": [
         {
           "letter": "A",
@@ -525,13 +525,13 @@
           "feedback": "El poema ya es extenso; cada episodio cumple una función estructural."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque le gustaba la violencia gratuita para atraer a más público.",
           "is_correct": false,
           "feedback": "La violencia tiene una justificación moral y legal en la trama."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Para trasladar el conflicto del ámbito bélico al ámbito familiar y legal, permitiendo la apoteosis final del héroe en las Cortes.",
           "is_correct": true,
           "feedback": "La deshonra familiar es necesaria para que el Cid demuestre su valor como hombre de leyes, no solo como guerrero."
@@ -543,7 +543,7 @@
           "feedback": "No es una advertencia de viaje, sino un conflicto de honor entre linajes."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La estructura del Cantar es una doble curva de pérdida y recuperación del honor: primero el honor político y luego el honor familiar, logrando una victoria completa.\n\n---",
       "difficulty": "10",
       "images": [],

@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the present continuous correctly?",
+      "context": "Present continuous, San Juan, grado 11, W02.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "She is studying for the biology test right now.",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "Correct! The present continuous is the auxiliary 'is' plus the participle 'studying', and 'right now' marks the action as happening at this moment."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "She study for the biology test right now.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! The bare verb 'study' is the simple present, which describes a repeated habit instead of an action in progress."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "She is study for the biology test right now.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! After the auxiliary 'is' the verb must be the participle 'studying', never the base form 'study'."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "She studying for the biology test right now.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! The participle 'studying' can never stand on its own here, because it requires the auxiliary 'is' in front of it."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\n---",
+      "explanation": "El presente continuo se forma con el verbo 'to be' en presente mas el gerundio. Sirve para acciones que estan ocurriendo ahora mismo o que estan de forma temporal. Reconocer los marcadores 'now', 'currently' o 'at the moment' es la via rapida para identificar el tiempo verbal.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle",
       "periodo": 2,
@@ -54,40 +54,40 @@
     },
     {
       "id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'They ____ (wait) for the bus in Caguas.'",
+      "context": "Present continuous with the verb to be, Ponce, grado 11, W02.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "is waiting",
+          "is_correct": false,
+          "feedback": "Incorrect! The auxiliary 'is' is singular, and the subject of this sentence is the plural 'they'."
         },
         {
           "letter": "B",
-          "text": "baggage",
+          "text": "waits",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Waits' carries the -s of the singular third person, and a simple present cannot describe an action still in progress."
         },
         {
           "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "are waiting",
+          "is_correct": true,
+          "feedback": "Correct! 'They' is plural, so the auxiliary of the present continuous is 'are' in front of the participle 'waiting'."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "wait",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Wait' is the bare form, and the progressive would need 'are waiting' with a plural subject."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "En el presente continuo el auxiliar y el gerundio deben concordar con el sujeto. Es el error mas comun de la unidad: escribir 'is waiting' con 'they' o 'are waiting' con 'he'. Revisar siempre el sujeto antes de conjugar.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle",
       "periodo": 2,
@@ -99,40 +99,40 @@
     },
     {
       "id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct negative form: 'He ____ (not / read) the newspaper at the moment.'",
+      "context": "Present continuous negatives, Carolina, grado 11, W02.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "text": "don't read",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Don't' is the auxiliary of I, you, we and they, and it never carries the third person ending."
         },
         {
           "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "isn't reading",
+          "is_correct": true,
+          "feedback": "Correct! The negative present continuous is 'is not' plus the participle, which contracts to 'isn't reading'."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "isn't read",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! After 'isn't' the verb must be the participle 'reading', and the base form 'read' is impossible there."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "not reads",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! The negative needs the auxiliary 'does not', so the -s in 'not reads' sits in the wrong place."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "El negativo del presente continuo sigue el mismo esquema que el afirmativo: auxiliar 'to be' mas 'not' mas gerundio. La forma contracta mas frecuente es \"isn't, aren't\" y \"am not\" aunque tambien se admite la forma completa.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle",
       "periodo": 2,
@@ -144,40 +144,40 @@
     },
     {
       "id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which question is correct?",
+      "context": "Present continuous questions, Bayamon, grado 11, W02.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "text": "Do you use the library room now?",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Do you use' is a question in the simple present, while the marker 'now' asks for the present continuous."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "Are you use the library room now?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! After the auxiliary 'Are' the verb must be the participle 'using', and the base form 'use' is impossible."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "You are using the library room now?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'You are using ...?' keeps the order of a statement, and a question puts the auxiliary in front of the subject."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Are you using the library room now?",
+          "is_correct": true,
+          "feedback": "Correct! 'Are you using' has the auxiliary before the subject and the participle 'using' after it, which is question form in the continuous."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "Para preguntar por lo que esta pasando se invierte el orden del presente continuo: el auxiliar 'to be' abre la frase, luego va el sujeto y despues el gerundio. El gerundio nunca lleva auxiliar al final.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle",
       "periodo": 2,
@@ -189,40 +189,40 @@
     },
     {
       "id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which is the correct gerund form of the verb 'to run'?",
+      "context": "Present continuous spelling, Arecibo, grado 11, W02.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "text": "runing",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Runing' drops the doubled consonant that the spelling requires when the stem ends in one consonant after a short vowel."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "runnning",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Runnning' triples the n, and English never writes three of the same consonant in a stem like this."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "runeing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Runeing' is not a spelling of any English form; the participle keeps the spelling of the base verb."
         },
         {
           "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "running",
+          "is_correct": true,
+          "feedback": "Correct! 'To run' doubles the n before -ing, so the participle is written 'running'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "D",
+      "explanation": "Hay tres reglas para formar el gerundio. Si el verbo termina en -e se quita la -e, si termina en vocal breve tensa se duplica la consonante final, y en los demas casos se añade -ing directamente. 'To be' da 'being' y es la excepcion a la primera regla.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle",
       "periodo": 2,
@@ -234,40 +234,40 @@
     },
     {
       "id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which is the correct gerund form of the verb 'to swim'?",
+      "context": "Present continuous spelling, Humacao, grado 11, W02.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "text": "swiming",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Swiming' drops the doubled m, and the spelling of the participle never changes the base form."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "swimming",
+          "is_correct": true,
+          "feedback": "Correct! 'To swim' doubles the final m before -ing, and that is exactly how the participle 'swimming' is written."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "swimm ing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Swimm ing' splits one word in two, and a participle is always written as a single word."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "swuming",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Swuming' changes the vowel of the base verb, which no English spelling rule allows."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "La duplicacion de la consonante ocurre tras vocal breve tensa, como en 'swim', 'run', 'sit' o 'begin'. El objetivo es que la palabra conserve dos sílabas en el gerundio. Si el sonido ya es largo, no se duplica, como en 'open' o 'travel'.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle",
       "periodo": 2,
@@ -279,37 +279,37 @@
     },
     {
       "id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'My sister ____ (make) a cake for the party right now.'",
+      "context": "Present continuous with third person, Aguadilla, grado 11, W02.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
+          "text": "is making",
           "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "feedback": "Correct! 'My sister' is a singular subject, so the auxiliary of the present continuous is 'is' before 'making'."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "are making",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Are' is the plural auxiliary, and it disagrees with the singular subject 'my sister'."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "is make",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! After 'is' the verb must be the participle 'making', and the base form is impossible in that slot."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "makes",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Makes' is the simple present of a singular subject, which describes a habit rather than an action in progress."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "explanation": "El presente continuo tiene el mismo auxiliar que el presente simple: 'am', 'is' o 'are' segun el sujeto. Lo que cambia es el verbo principal, que siempre pasa a gerundio. Revisar la concordancia del auxiliar es la mitad del trabajo.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'I ____ (study) for the test at the moment.'",
+      "context": "Present continuous with the verb to be, Guayanilla, grado 11, W02.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "is studying",
+          "is_correct": false,
+          "feedback": "Incorrect! The auxiliary 'is' belongs to the second and third persons, and the subject of this sentence is the pronoun 'I'."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "am study",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! After 'am' the verb must be the participle 'studying', so the base form is impossible."
         },
         {
           "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "am studying",
+          "is_correct": true,
+          "feedback": "Correct! The pronoun 'I' always takes the auxiliary 'am', which is followed by the participle 'studying'."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "study",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Study' is the simple present, and the marker 'at the moment' asks for an action happening now."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "La conjugacion de 'to be' en presente es I am, you are, he, she e it is, y nosotros, ustedes y ellos son are. Solo el auxiliar cambia de forma; el gerundio del verbo principal se mantiene igual en todas las personas.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,40 +369,40 @@
     },
     {
       "id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The children ____ (play) in the park every afternoon.'",
+      "context": "Present continuous with the verb to be, Trujillo Alto, grado 11, W02.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "text": "is playing",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Is' is the singular auxiliary, and the subject 'the children' is plural."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "plays",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Plays' is the simple present of a singular subject, and 'every afternoon' describes a habit rather than an action in progress."
         },
         {
           "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "are playing",
+          "is_correct": true,
+          "feedback": "Correct! 'The children' is plural, so the auxiliary of the present continuous is 'are' in front of 'playing'."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "play",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Play' is the bare form, and the progressive with 'the children' would need 'are playing'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "Hay que distinguir el uso habitual del uso actual. El presente continuo con 'every afternoon' suena poco natural porque esa expresion marca repeticion; aun asi la frase no es incorrecta si el hablante quiere decir que estan jugando en este momento. El contexto decide cual es la opcion mas natural.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle",
       "periodo": 2,
@@ -414,37 +414,37 @@
     },
     {
       "id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct tag: 'They are coming tonight, ____?'",
+      "context": "Present continuous question tags, Barceloneta, grado 11, W02.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
+          "text": "aren't they",
           "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "feedback": "Correct! A tag built on a positive present continuous clause takes the negative of the same auxiliary, which gives 'aren't they'."
         },
         {
           "letter": "B",
-          "text": "cancellation",
+          "text": "isn't they",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Isn't' is singular, and the subject of the main clause is the plural 'they'."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "don't they",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Don't' cannot negate the auxiliary 'are', because a tag repeats the auxiliary of the clause it closes."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "they are not",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'They are not' is a statement of its own, and a question tag must be a short contracted question."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "explanation": "El question tag reutiliza el auxiliar de la frase principal e invierte la polaridad. En presente continuo el tag se construye con el mismo 'to be' del enunciado: 'isn't he', 'aren't they', 'am not I' en las formas contractas mas usadas.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,37 +459,37 @@
     },
     {
       "id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'They ____ (lie) on the beach this afternoon.'",
+      "context": "Present continuous with spelling changes, Maunabo, grado 11, W02.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
+          "text": "are lieing",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Lieing' adds an extra e before -ing, and the spelling of 'to lie' stays unchanged in the participle."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "are lain",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Lain' is the past participle, which needs 'have' and describes a finished action rather than one in progress."
         },
         {
           "letter": "C",
-          "text": "booking",
+          "text": "is lying",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Is lying' uses the singular auxiliary, and the subject of this sentence is the plural 'they'."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "are lying",
+          "is_correct": true,
+          "feedback": "Correct! 'They' takes the plural auxiliary 'are', and 'lie' keeps its spelling in front of the participle -ing."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "D",
+      "explanation": "Algunos verbos cambian de forma al pasar al gerundio. 'To lie' da 'lying', 'to die' da 'dying' e 'to tie' da 'tying'. En estos casos la vocal breve tensa se convierte en una vocal larga y la -y se mantiene sin duplicar la consonante.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,37 @@
     },
     {
       "id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is correct?",
+      "context": "Present continuous with adverbs of frequency, Yauco, grado 11, W02.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "text": "He never is late for class.",
+          "is_correct": false,
+          "feedback": "Incorrect! English never splits the present continuous around the adverb, so 'never is late' is not a natural order."
         },
         {
           "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "He is never late for class.",
+          "is_correct": true,
+          "feedback": "Correct! The adverb 'never' sits between the auxiliary 'is' and the adjective, which is the natural order in English."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "He is late never for class.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Late never' pushes the adverb to the end of the clause, and no English clause allows that position here."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "He never late for class.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Never' without any auxiliary leaves the verb with no tense at all, and English always needs one."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "La negacion del presente continuo se puede hacer de dos maneras equivalentes: con el auxiliar 'not' o con adverbios como 'never', 'always' o 'often'. En ambos casos el orden es auxiliar, adverbio y gerundio, con el adverbio pegado al auxiliar.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,40 +549,40 @@
     },
     {
       "id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'She ____ (teach) biology at the high school.'",
+      "context": "Present continuous with the verb to be, Cayey, grado 11, W02.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
+          "text": "is teach ing",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Teach ing' splits one word into two, and a participle is always written as a single word."
         },
         {
           "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "is teaching",
+          "is_correct": true,
+          "feedback": "Correct! 'Is teaching' is the auxiliary 'is' plus the participle 'teaching', which is exactly the present continuous."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "teaches",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Teaches' is the simple present, and the question asks for the progressive form."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "is teatching",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Teatching' mis-spells the base verb, and a participle can never change the spelling of the stem."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "Cuando el verbo termina en vocal mas -e la -e desaparece antes de -ing, como en 'teach' que da 'teaching' o 'dance' que da 'dancing'. La duplicacion de consonante se reserva para vocal breve tensa, por lo que 'teaching' lleva una sola -t.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle",
       "periodo": 2,
@@ -594,40 +594,40 @@
     },
     {
       "id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'He ____ (write) an email to his teacher right now.'",
+      "context": "Present continuous with the verb to write, San Sebastian, grado 11, W02.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "text": "is writeing",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Writeing' keeps the silent e before -ing, and a verb ending in -e simply drops it."
         },
         {
           "letter": "B",
-          "text": "map",
+          "text": "is writting",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Writting' doubles a consonant that this verb never doubles, so the participle keeps a single t."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "writes",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Writes' is the simple present of a singular subject, while the marker 'right now' asks for the progressive."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "is writing",
+          "is_correct": true,
+          "feedback": "Correct! 'Is writing' is the auxiliary 'is' followed by the participle 'writing', with no extra letter anywhere."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Los verbos terminados en -w con vocal breve tensa forman el gerundio duplicando la consonante: 'write' da 'writing'. En cambio los terminados en -e como 'dance' o 'smile' solo pierden la -e y no duplican nada. Reconocer la vocal evita confundir ambos grupos.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle",
       "periodo": 2,
@@ -639,40 +639,40 @@
     },
     {
       "id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct form: '____ you waiting for the results?'",
+      "context": "Present continuous in the negative question, Camuy, grado 11, W02.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "text": "Do",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Do' builds questions with action verbs in the simple present, but 'waiting' is a participle."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "Is",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Is' is the singular auxiliary, and the subject 'you' always takes the plural one."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Are",
+          "is_correct": true,
+          "feedback": "Correct! 'You' takes the plural auxiliary 'Are', which is followed by the participle 'waiting' in this question."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "Am",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Am' belongs to the pronoun 'I', and the subject of this question is 'you'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "En una pregunta el auxiliar 'to be' abre la frase y decide la concordancia con el sujeto. El gerundio no lleva auxiliar propio y simplemente sigue al verbo 'to be'. Cualquier otra forma de auxiliar rompe la estructura del presente continuo.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle",
       "periodo": 2,
@@ -684,37 +684,37 @@
     },
     {
       "id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What does this sentence express? 'We are meeting the teacher tomorrow at ten.'",
+      "context": "Present continuous with future meaning, Luquillo, grado 11, W02.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
+          "text": "An arrangement for a future time.",
           "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "feedback": "Correct! An arrangement such as 'We are meeting the teacher tomorrow at ten' uses 'be' plus the participle, which signals a fixed plan rather than a guess."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "An action that is happening right now.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'An action that is happening right now' would need 'tomorrow at ten' to point at this moment, and it does not."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "A habit from the past.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'A habit from the past' describes a repeated action that stopped, which the present continuous can never express."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "A prediction about the future.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'A prediction about the future' is made with 'will' plus a base verb, and this sentence contains no modal."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "explanation": "El presente continuo tiene un uso especial con el futuro: un acuerdo o plan definido. Cuando hay una hora exacta y un compromiso asumido, como 'we are meeting tomorrow at ten', la frase describe algo futuro pero seguro y ya organizado.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -729,40 +729,40 @@
     },
     {
       "id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Question: 'Are you eating lunch now?' Answer: '____'",
+      "context": "Present continuous in short answers, Toa Baja, grado 11, W02.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
+          "text": "Yes, I am.",
           "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
+          "feedback": "Correct! 'Yes, I am' repeats the auxiliary of the question and adds nothing else, which is the standard short answer."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "Yes, I eat.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Yes, I eat' repeats the simple present instead of the auxiliary, so it does not answer a continuous question."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "Yes, I am eating.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Yes, I am eating' adds a new piece of information, and a short answer only agrees with the question."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "Yes, I do.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Yes, I do' uses the auxiliary of an action verb, but the question was built with 'are'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "explanation": "Las respuestas cortas siguen el mismo auxiliar que la pregunta. Si la pregunta abre con 'are', la respuesta abre con 'am' para 'I'; si abre con 'do', la respuesta abre con 'do'. Ignorar el auxiliar cambia el tiempo verbal de la respuesta.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle",
       "periodo": 2,
@@ -774,40 +774,40 @@
     },
     {
       "id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is not natural in English?",
+      "context": "Present continuous with state verbs, Naguabo, grado 11, W02.",
       "options": [
         {
           "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
+          "text": "An action that is happening right now.",
+          "is_correct": false,
+          "feedback": "Incorrect! 'An action that is happening right now' is a perfectly natural use of the present continuous, so this reading does not make the sentence unnatural."
         },
         {
           "letter": "B",
-          "text": "warranty",
+          "text": "A habit from the past.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'A habit from the past' could never be what this sentence means, so this reading is not the reason to reject it."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "A prediction about the future.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'A prediction about the future' is not what this sentence says either, because it contains no modal at all."
         },
         {
           "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "An arrangement for a future time.",
+          "is_correct": true,
+          "feedback": "Correct! 'An arrangement for a future time' is the odd reading here, because the present continuous marks actions in progress or habits rather than a fixed future plan."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "Ciertos verbos de estado, como 'to know', 'to love', 'to want' o 'to believe', no se usan normalmente en presente continuo. Se expresan con presente simple, porque describen una situacion permanente y no una actividad en curso.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle",
       "periodo": 2,
@@ -819,40 +819,40 @@
     },
     {
       "id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'Look! The bus ____ (come) around the corner.'",
+      "context": "Present continuous with the verb to go, Hatillo, grado 11, W02.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
+          "text": "comes",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Comes' is the simple present, and the marker 'Look!' signals an action in progress at this moment."
         },
         {
           "letter": "B",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "is coming",
+          "is_correct": true,
+          "feedback": "Correct! The marker 'Look!' always introduces the present continuous, which here is 'is' plus 'coming'."
         },
         {
           "letter": "C",
-          "text": "prescription",
+          "text": "is come",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! After 'is' the verb must be the participle 'coming', and the base form is impossible there."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "is comming",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Comming' doubles the m, and English never writes two of the same consonant in a stem like this."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "Verbos como 'look', 'listen' y 'now' indican que algo esta pasando en el momento en que se habla. En esos casos el presente continuo es obligatorio, y el gerundio se forma quitando la -e final del verbo cuando existe.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle",
       "periodo": 2,
@@ -864,40 +864,40 @@
     },
     {
       "id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct tag: 'I am not tired yet, ____?'",
+      "context": "Present continuous question tags, Yabucoa, grado 11, W02.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "text": "aren't I",
+          "is_correct": false,
+          "feedback": "Incorrect! 'Aren't I' is not a possible contraction, because 'am' never shortens to 'aren't' anywhere in English."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "do I not",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Do I not' negates an action verb, and the verb of this clause is the one of 'to be'."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "am I not",
+          "is_correct": true,
+          "feedback": "Correct! A tag on a negative clause keeps the same auxiliary in its full form, which gives 'am I not'."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "isn't I",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect! 'Isn't I' mixes two different auxiliaries, and 'am' is the only one that agrees with the pronoun 'I'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "En presente continuo el tag se construye con el mismo auxiliar de la frase principal. Con 'I' ese auxiliar es 'am', de modo que la forma contracta mas usual es \"aren't I\" en la afirmacion y \"am I\" en la negacion, que es la unica combinacion posible.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle",
       "periodo": 2,

@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. Esa es la función de los ribosomas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Producir energía mediante la respiración celular.",
           "is_correct": true,
           "feedback": "¡Correcto! Las mitocondrias transforman la energía química de los alimentos en ATP."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Almacenar la información genética.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la función del núcleo."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Esa es la función de la membrana plasmática."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Las mitocondrias son conocidas como las centrales energéticas de la célula. En ellas se lleva a cabo el ciclo de Krebs y la cadena de transporte de electrones para obtener ATP.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -64,13 +64,13 @@
           "feedback": "Incorrecto. En el comensalismo, uno se beneficia y el otro es indiferente."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Parasitismo",
           "is_correct": false,
           "feedback": "Incorrecto. En el parasitismo, uno se beneficia a costa del daño del otro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Mutualismo",
           "is_correct": true,
           "feedback": "¡Correcto! Ambos organismos cooperan y se benefician mutuamente."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. En la competencia, ambos luchan por un recurso limitado."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El mutualismo es una interacción biológica vital para muchos ecosistemas hondureños, permitiendo la supervivencia y reproducción de múltiples especies.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrecto. Según la ley de uniformidad, el rasgo dominante prevalece en F1."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "100% amarillas.",
           "is_correct": true,
           "feedback": "¡Correcto! Todos los descendientes serán heterocigotos (Aa) expresando el color dominante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "100% blancas.",
           "is_correct": false,
           "feedback": "Incorrecto. El blanco es el rasgo recesivo y queda enmascarado."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. No sigue las proporciones mendelianas para este cruce."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Según la Primera Ley de Mendel, al cruzar dos líneas puras para un carácter diferente, todos los descendientes son iguales entre sí (Aa) y muestran el rasgo dominante.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. Esta placa afecta principalmente a Suramérica."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Placa de Cocos",
           "is_correct": true,
           "feedback": "¡Correcto! Es la responsable de la actividad volcánica y sísmica en el Pacífico de Honduras."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Placa Norteamericana",
           "is_correct": false,
           "feedback": "Incorrecto. El límite con esta placa se encuentra más al norte."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Se encuentra en el extremo sur del continente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La interacción entre la Placa de Cocos y la Placa del Caribe es un proceso dinámico fundamental que da forma al relieve y la geología de la región sur de Honduras.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Un profesor de química en Comayagua explica las propiedades de los compuestos orgánicos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Oxígeno",
           "is_correct": false,
           "feedback": "Incorrecto. El oxígeno es común pero no es la base de las cadenas orgánicas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Hidrógeno",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque acompaña al carbono, no es el elemento central estructurador."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Carbono",
           "is_correct": true,
           "feedback": "¡Correcto! Su capacidad de tetravalencia le permite formar estructuras complejas."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Se encuentra en proteínas, pero el esqueleto es de carbono."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La química del carbono es la base de la vida. Su capacidad para formar enlaces covalentes estables con otros átomos de carbono permite la diversidad de biomoléculas.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -340,19 +340,19 @@
           "feedback": "Incorrecto. Sumaste los valores en lugar de multiplicarlos."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "10000 N",
           "is_correct": true,
           "feedback": "¡Correcto! F = m * a. 5000 kg * 2 m/s² = 10000 N."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1000 N",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la operación aritmética."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La fuerza es directamente proporcional al producto de la masa por la aceleración (F=ma). Este concepto es crucial para la seguridad vial y el diseño de vehículos en Honduras.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Incorrecto. No hay reacciones químicas involucradas en la caída del agua."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Energía potencial gravitatoria a energía cinética y luego eléctrica.",
           "is_correct": true,
           "feedback": "¡Correcto! La altura (potencial) se convierte en movimiento (cinética) y luego en electricidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Energía nuclear a energía térmica.",
           "is_correct": false,
           "feedback": "Incorrecto. La hidroelectricidad no usa fisión nuclear."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Energía sonora a energía mecánica.",
           "is_correct": false,
           "feedback": "Incorrecto. El sonido es una consecuencia, no la fuente de energía."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las plantas hidroeléctricas aprovechan el ciclo hidrológico y la gravedad para producir energía limpia y renovable, fundamental para la red eléctrica hondureña.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Un estudiante de bachillerato en La Ceiba investiga sobre el sistema inmunológico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Eritrocitos (Glóbulos rojos)",
           "is_correct": false,
           "feedback": "Incorrecto. Su función es transportar oxígeno."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Linfocitos B",
           "is_correct": true,
           "feedback": "¡Correcto! Son los glóbulos blancos especializados en la producción de anticuerpos específicos."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Son células del sistema nervioso, no del sistema inmune."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los linfocitos B forman parte de la inmunidad adaptativa. Cuando detectan un antígeno, se activan y secretan anticuerpos que neutralizan al patógeno.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Se mide la resistencia eléctrica de una instalación en una vivienda en Juticalpa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "22 W",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste los valores en lugar de multiplicarlos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2200 W",
           "is_correct": true,
           "feedback": "¡Correcto! P = V * I. 220 V * 10 A = 2200 W."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Sumaste los valores."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La potencia eléctrica es el ritmo al que se consume energía y se calcula multiplicando el voltaje por la intensidad de corriente.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Análisis de la contaminación del aire por quema de combustibles fósiles en zonas urbanas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Metano (CH4)",
           "is_correct": false,
           "feedback": "Incorrecto. El metano es un gas de efecto invernadero pero no causa lluvia ácida directamente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Dióxido de azufre (SO2)",
           "is_correct": true,
           "feedback": "¡Correcto! Forma ácido sulfúrico al entrar en contacto con el vapor de agua."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Es un gas noble que no reacciona."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las emisiones de azufre y nitrógeno de las industrias y vehículos motorizados son las precursoras de la acidificación de las precipitaciones a nivel global.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "Un oceanógrafo analiza las corrientes marinas frente a las costas de Gracias a Dios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Los vientos predominantes (alisios).",
           "is_correct": true,
           "feedback": "¡Correcto! El viento arrastra las capas superiores de agua debido a la fricción."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las mareas causadas por la luna.",
           "is_correct": false,
           "feedback": "Incorrecto. Las mareas son movimientos verticales y rítmicos, no corrientes constantes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El movimiento de los barcos comerciales.",
           "is_correct": false,
           "feedback": "Incorrecto. La escala es insignificante comparada con los procesos oceánicos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La pesca excesiva.",
           "is_correct": false,
           "feedback": "Incorrecto. No afecta los patrones de circulación física del agua."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La circulación oceánica superficial es impulsada por la atmósfera, mientras que la profunda depende de diferencias de temperatura y salinidad (circulación termohalina).\n\n---",
       "difficulty": "7",
       "images": [],
@@ -655,19 +655,19 @@
           "feedback": "Incorrecto. El O3 no es la fuente primaria de oxígeno respirable."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Filtrar la mayor parte de la radiación ultravioleta B y C del sol.",
           "is_correct": true,
           "feedback": "¡Correcto! Protege el ADN de daños que causan cáncer y mutaciones."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Reflejar la luz visible para iluminar la noche.",
           "is_correct": false,
           "feedback": "Incorrecto. El ozono no tiene esta propiedad óptica."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Sin la capa de ozono, la vida terrestre sería imposible debido al daño letal de los rayos UV de alta energía sobre las células.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Un estudiante identifica las partes del átomo en su clase de física-química.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Iones",
           "is_correct": false,
           "feedback": "Incorrecto. Los iones tienen diferente número de electrones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Isótopos",
           "is_correct": true,
           "feedback": "¡Correcto! Tienen diferentes masas atómicas pero las mismas propiedades químicas."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Una molécula es la unión de dos o más átomos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los isótopos son fundamentales en aplicaciones que van desde la medicina nuclear hasta la datación de fósiles arqueológicos en Copán.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Cálculo de la concentración de una solución para purificar agua en una aldea rural.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "5%",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste que el volumen es 1000 ml."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0.5%",
           "is_correct": true,
           "feedback": "¡Correcto! (5g / 1000ml) * 100 = 0.5%."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Error de escala masivo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El porcentaje m/v indica los gramos de soluto por cada 100 ml de solución. En este caso, 5g en 1000ml equivale a 0.5g en 100ml.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorrecto. Esto causaría un corrimiento al azul."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Que la estrella se está alejando de nosotros.",
           "is_correct": true,
           "feedback": "¡Correcto! El Efecto Doppler estira las ondas de luz hacia frecuencias más bajas (rojo)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que la estrella va a explotar pronto.",
           "is_correct": false,
           "feedback": "Incorrecto. El corrimiento al rojo indica movimiento, no destino final estelar."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que la estrella es más fría que el Sol.",
           "is_correct": false,
           "feedback": "Incorrecto. El color de la estrella indica temperatura, pero el \"corrimiento\" indica movimiento."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El corrimiento al rojo es una prueba fundamental de la expansión del universo, permitiendo a los astrónomos medir la velocidad de alejamiento de las galaxias.\n\n---",
       "difficulty": "9",
       "images": [],

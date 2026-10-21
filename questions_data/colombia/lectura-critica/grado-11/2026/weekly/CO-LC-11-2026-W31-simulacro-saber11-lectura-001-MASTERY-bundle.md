@@ -285,20 +285,20 @@ La metáfora en el ensayo persuasivo refuerza la carga evaluativa del discurso m
 **Contexto:** Simulacro Saber 11: Análisis de la deixis anafórica en textos legales (Medellín).
 
 ### Enunciado
-¿A qué referente concreto alude el demostrativo 'aquella' en la cláusula 'La norma A deroga a la norma B; aquella quedará sin vigencia'?
+¿A qué referente concreto alude el demostrativo 'aquella' en la cláusula 'La norma A fue derogada por la norma B; aquella quedó sin vigencia'?
 
 ### Opciones
-- [x] A) A la 'norma B', por ser el antecedente femenino más cercano en la estructura del enunciado.
-  <!-- feedback: Es correcta porque en el uso de los demostrativos 'este/aquel', 'aquella' remite al primer término nombrado o antecedente previo distante. -->
-- [ ] B) A la 'norma A', por ser la primera palabra que aparece en el texto completo de la ley.
-  <!-- feedback: Es incorrecta porque 'esta' remitiría al término más cercano (norma B), mientras que 'aquella' remite al primero de la relación (norma A) o segundo en distinción. -->
+- [ ] A) A la 'norma B', por ser el antecedente femenino más cercano en la estructura del enunciado.
+  <!-- feedback: Es incorrecta porque el antecedente más próximo se señala con 'este/esta': aquí 'esta' sería la norma B. -->
+- [x] B) A la 'norma A', por ser el antecedente más distante al que remite 'aquella'.
+  <!-- feedback: Es correcta porque 'este/esta' remite al antecedente más próximo y 'aquel/aquella' al más distante: en 'La norma A fue derogada por la norma B', 'aquella' = la norma A, que es la que quedó sin vigencia. -->
 - [ ] C) Al Congreso de la República que aprobó la derogación durante la sesión plenaria.
   <!-- feedback: Es incorrecta porque el demostrativo recupera un sustantivo expresado en la oración y no la institución externa. -->
 - [ ] D) Al texto de la Constitución Política de 1991 que regula las votaciones.
   <!-- feedback: Es incorrecta porque la deixis anafórica opera sobre los antecedentes presentes en el texto inmediato. -->
 
 ### Explicacion Pedagogica
-La deixis demostrativa anafórica regula la referencia precisa de elementos antecedidos en textos normativos complejos.
+La deixis demostrativa anafórica regula la referencia precisa de elementos antecedidos en textos normativos complejos: en español, 'este/esta' señala lo más cercano al referente y 'aquel/aquella' lo más lejano, de modo que el orden de los términos en la cláusula determina qué antecedente se queda sin vigencia.
 
 ## Question 13 [D7-D8]
 **ID:** CO-LC-11-2026-W31-simulacro-saber11-lectura-001-MASTERY-bundle-v13

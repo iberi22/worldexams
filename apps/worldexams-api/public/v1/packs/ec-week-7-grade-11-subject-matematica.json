@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "$(x - 5)(x + 6)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: ese producto da $x^2 + x - 30$; ni la suma de los números ni su producto coinciden con el trinomio."
         },
         {
           "letter": "B",
           "text": "$(x + 3)(x + 2)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: el producto independiente es 6, pero la suma sería $+5$ en lugar de $-5$, así que falta el signo menos."
         },
         {
           "letter": "C",
           "text": "$(x - 1)(x - 6)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: ese producto da $x^2 - 7x + 6$, porque $1 + 6 = 7$ y no 5 como pide el coeficiente."
         },
         {
           "letter": "D",
           "text": "$(x - 3)(x - 2)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto: 3 y 2 suman 5 y su producto es 6, de modo que $(x - 3)(x - 2) = x^2 - 5x + 6$."
         }
       ],
       "correct_answer": "D",
@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "$(x - 3)(x - 2)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto: 3 y 2 suman 5 y su producto es 6, de modo que $(x - 3)(x - 2) = x^2 - 5x + 6$."
         },
         {
           "letter": "B",
           "text": "$(x + 3)(x + 2)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: el producto independiente es 6, pero la suma sería $+5$ en lugar de $-5$, así que falta el signo menos."
         },
         {
           "letter": "C",
           "text": "$(x - 5)(x + 6)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: ese producto da $x^2 + x - 30$; ni la suma de los números ni su producto coinciden con el trinomio."
         },
         {
           "letter": "D",
           "text": "$(x - 1)(x - 6)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: ese producto da $x^2 - 7x + 6$, porque $1 + 6 = 7$ y no 5 como pide el coeficiente."
         }
       ],
       "correct_answer": "A",
@@ -106,25 +106,25 @@
           "letter": "A",
           "text": "$(x - 1)(x - 6)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: ese producto da $x^2 - 7x + 6$, porque $1 + 6 = 7$ y no 5 como pide el coeficiente."
         },
         {
           "letter": "B",
           "text": "$(x - 5)(x + 6)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: ese producto da $x^2 + x - 30$; ni la suma de los números ni su producto coinciden con el trinomio."
         },
         {
           "letter": "C",
           "text": "$(x - 3)(x - 2)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto: 3 y 2 suman 5 y su producto es 6, de modo que $(x - 3)(x - 2) = x^2 - 5x + 6$."
         },
         {
           "letter": "D",
           "text": "$(x + 3)(x + 2)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: el producto independiente es 6, pero la suma sería $+5$ en lugar de $-5$, así que falta el signo menos."
         }
       ],
       "correct_answer": "C",
@@ -151,25 +151,25 @@
           "letter": "A",
           "text": "$(x + 3)(x + 2)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: el producto independiente es 6, pero la suma sería $+5$ en lugar de $-5$, así que falta el signo menos."
         },
         {
           "letter": "B",
           "text": "$(x - 1)(x - 6)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: ese producto da $x^2 - 7x + 6$, porque $1 + 6 = 7$ y no 5 como pide el coeficiente."
         },
         {
           "letter": "C",
           "text": "$(x - 3)(x - 2)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto: 3 y 2 suman 5 y su producto es 6, de modo que $(x - 3)(x - 2) = x^2 - 5x + 6$."
         },
         {
           "letter": "D",
           "text": "$(x - 5)(x + 6)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: ese producto da $x^2 + x - 30$; ni la suma de los números ni su producto coinciden con el trinomio."
         }
       ],
       "correct_answer": "C",
@@ -196,25 +196,25 @@
           "letter": "A",
           "text": "$3xy(2x^2 - 3y^2)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: en $x$ y en $y$ se tomó exponente 1 en lugar de los mínimos, que son 2 y 2, así que no es el máximo factor común."
         },
         {
           "letter": "B",
           "text": "$3x^2y^2(2x - 3y)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto: el mayor factor común de 6 y 9 es 3 y de los exponentes se toman los mínimos, $x^2$ y $y^2$; al dividir entre $3x^2y^2$ queda $2x - 3y$."
         },
         {
           "letter": "C",
           "text": "$3x^2y^2(2x + 3y)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: al factorizar una resta el segundo término conserva el signo menos, y por eso va $2x - 3y$ y no $2x + 3y$."
         },
         {
           "letter": "D",
           "text": "$x^2y^2(6x - 9y)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: la expresión es correcta pero no está simplificada, porque el 3 también es factor común y debe extraerse."
         }
       ],
       "correct_answer": "B",
@@ -241,25 +241,25 @@
           "letter": "A",
           "text": "$3xy(2x^2 - 3y^2)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: en $x$ y en $y$ se tomó exponente 1 en lugar de los mínimos, que son 2 y 2, así que no es el máximo factor común."
         },
         {
           "letter": "B",
           "text": "$3x^2y^2(2x - 3y)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto: el mayor factor común de 6 y 9 es 3 y de los exponentes se toman los mínimos, $x^2$ y $y^2$; al dividir entre $3x^2y^2$ queda $2x - 3y$."
         },
         {
           "letter": "C",
           "text": "$x^2y^2(6x - 9y)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: la expresión es correcta pero no está simplificada, porque el 3 también es factor común y debe extraerse."
         },
         {
           "letter": "D",
           "text": "$3x^2y^2(2x + 3y)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: al factorizar una resta el segundo término conserva el signo menos, y por eso va $2x - 3y$ y no $2x + 3y$."
         }
       ],
       "correct_answer": "B",
@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "$3x^2y^2(2x + 3y)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: al factorizar una resta el segundo término conserva el signo menos, y por eso va $2x - 3y$ y no $2x + 3y$."
         },
         {
           "letter": "B",
           "text": "$3x^2y^2(2x - 3y)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto: el mayor factor común de 6 y 9 es 3 y de los exponentes se toman los mínimos, $x^2$ y $y^2$; al dividir entre $3x^2y^2$ queda $2x - 3y$."
         },
         {
           "letter": "C",
           "text": "$3xy(2x^2 - 3y^2)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: en $x$ y en $y$ se tomó exponente 1 en lugar de los mínimos, que son 2 y 2, así que no es el máximo factor común."
         },
         {
           "letter": "D",
           "text": "$x^2y^2(6x - 9y)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: la expresión es correcta pero no está simplificada, porque el 3 también es factor común y debe extraerse."
         }
       ],
       "correct_answer": "B",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "$x^2y^2(6x - 9y)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: la expresión es correcta pero no está simplificada, porque el 3 también es factor común y debe extraerse."
         },
         {
           "letter": "B",
           "text": "$3x^2y^2(2x + 3y)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: al factorizar una resta el segundo término conserva el signo menos, y por eso va $2x - 3y$ y no $2x + 3y$."
         },
         {
           "letter": "C",
           "text": "$3x^2y^2(2x - 3y)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto: el mayor factor común de 6 y 9 es 3 y de los exponentes se toman los mínimos, $x^2$ y $y^2$; al dividir entre $3x^2y^2$ queda $2x - 3y$."
         },
         {
           "letter": "D",
           "text": "$3xy(2x^2 - 3y^2)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: en $x$ y en $y$ se tomó exponente 1 en lugar de los mínimos, que son 2 y 2, así que no es el máximo factor común."
         }
       ],
       "correct_answer": "C",
@@ -376,25 +376,25 @@
           "letter": "A",
           "text": "$x^2y^2(6x - 9y)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: la expresión es correcta pero no está simplificada, porque el 3 también es factor común y debe extraerse."
         },
         {
           "letter": "B",
           "text": "$3x^2y^2(2x + 3y)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: al factorizar una resta el segundo término conserva el signo menos, y por eso va $2x - 3y$ y no $2x + 3y$."
         },
         {
           "letter": "C",
           "text": "$3xy(2x^2 - 3y^2)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: en $x$ y en $y$ se tomó exponente 1 en lugar de los mínimos, que son 2 y 2, así que no es el máximo factor común."
         },
         {
           "letter": "D",
           "text": "$3x^2y^2(2x - 3y)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto: el mayor factor común de 6 y 9 es 3 y de los exponentes se toman los mínimos, $x^2$ y $y^2$; al dividir entre $3x^2y^2$ queda $2x - 3y$."
         }
       ],
       "correct_answer": "D",
@@ -421,25 +421,25 @@
           "letter": "A",
           "text": "$x^2y^2(6x - 9y)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: la expresión es correcta pero no está simplificada, porque el 3 también es factor común y debe extraerse."
         },
         {
           "letter": "B",
           "text": "$3x^2y^2(2x - 3y)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto: el mayor factor común de 6 y 9 es 3 y de los exponentes se toman los mínimos, $x^2$ y $y^2$; al dividir entre $3x^2y^2$ queda $2x - 3y$."
         },
         {
           "letter": "C",
           "text": "$3x^2y^2(2x + 3y)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: al factorizar una resta el segundo término conserva el signo menos, y por eso va $2x - 3y$ y no $2x + 3y$."
         },
         {
           "letter": "D",
           "text": "$3xy(2x^2 - 3y^2)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: en $x$ y en $y$ se tomó exponente 1 en lugar de los mínimos, que son 2 y 2, así que no es el máximo factor común."
         }
       ],
       "correct_answer": "B",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "$(16x - 25)(16x + 25)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: la raíz de $16x^2$ es $4x$ y no $16x$, así que ese producto da $256x^2 - 625$."
         },
         {
           "letter": "B",
           "text": "$(4x - 5)(4x + 5)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto: $16x^2$ y $25$ son cuadrados perfectos y sus raíces son $4x$ y $5$; la diferencia de cuadrados da el signo menos entre paréntesis."
         },
         {
           "letter": "C",
           "text": "$(4x - 5)^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: el cuadrado de un binomio suma el término doble, de modo que $(4x - 5)^2 = 16x^2 - 40x + 25$."
         },
         {
           "letter": "D",
           "text": "$(2x - 5)(2x + 5)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: la raíz de 16 es 4 y no 2, por lo que ese producto da $4x^2 - 25$ en lugar de $16x^2 - 25$."
         }
       ],
       "correct_answer": "B",
@@ -511,25 +511,25 @@
           "letter": "A",
           "text": "$(2x - 5)(2x + 5)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: la raíz de 16 es 4 y no 2, por lo que ese producto da $4x^2 - 25$ en lugar de $16x^2 - 25$."
         },
         {
           "letter": "B",
           "text": "$(16x - 25)(16x + 25)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: la raíz de $16x^2$ es $4x$ y no $16x$, así que ese producto da $256x^2 - 625$."
         },
         {
           "letter": "C",
           "text": "$(4x - 5)^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: el cuadrado de un binomio suma el término doble, de modo que $(4x - 5)^2 = 16x^2 - 40x + 25$."
         },
         {
           "letter": "D",
           "text": "$(4x - 5)(4x + 5)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto: $16x^2$ y $25$ son cuadrados perfectos y sus raíces son $4x$ y $5$; la diferencia de cuadrados da el signo menos entre paréntesis."
         }
       ],
       "correct_answer": "D",
@@ -556,25 +556,25 @@
           "letter": "A",
           "text": "$(4x - 5)(4x + 5)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto: $16x^2$ y $25$ son cuadrados perfectos y sus raíces son $4x$ y $5$; la diferencia de cuadrados da el signo menos entre paréntesis."
         },
         {
           "letter": "B",
           "text": "$(4x - 5)^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: el cuadrado de un binomio suma el término doble, de modo que $(4x - 5)^2 = 16x^2 - 40x + 25$."
         },
         {
           "letter": "C",
           "text": "$(2x - 5)(2x + 5)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: la raíz de 16 es 4 y no 2, por lo que ese producto da $4x^2 - 25$ en lugar de $16x^2 - 25$."
         },
         {
           "letter": "D",
           "text": "$(16x - 25)(16x + 25)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: la raíz de $16x^2$ es $4x$ y no $16x$, así que ese producto da $256x^2 - 625$."
         }
       ],
       "correct_answer": "A",
@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "$(16x - 25)(16x + 25)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: la raíz de $16x^2$ es $4x$ y no $16x$, así que ese producto da $256x^2 - 625$."
         },
         {
           "letter": "B",
           "text": "$(4x - 5)^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: el cuadrado de un binomio suma el término doble, de modo que $(4x - 5)^2 = 16x^2 - 40x + 25$."
         },
         {
           "letter": "C",
           "text": "$(2x - 5)(2x + 5)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: la raíz de 16 es 4 y no 2, por lo que ese producto da $4x^2 - 25$ en lugar de $16x^2 - 25$."
         },
         {
           "letter": "D",
           "text": "$(4x - 5)(4x + 5)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto: $16x^2$ y $25$ son cuadrados perfectos y sus raíces son $4x$ y $5$; la diferencia de cuadrados da el signo menos entre paréntesis."
         }
       ],
       "correct_answer": "D",
@@ -646,25 +646,25 @@
           "letter": "A",
           "text": "$(2x - 5)(2x + 5)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: la raíz de 16 es 4 y no 2, por lo que ese producto da $4x^2 - 25$ en lugar de $16x^2 - 25$."
         },
         {
           "letter": "B",
           "text": "$(4x - 5)(4x + 5)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto: $16x^2$ y $25$ son cuadrados perfectos y sus raíces son $4x$ y $5$; la diferencia de cuadrados da el signo menos entre paréntesis."
         },
         {
           "letter": "C",
           "text": "$(16x - 25)(16x + 25)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: la raíz de $16x^2$ es $4x$ y no $16x$, así que ese producto da $256x^2 - 625$."
         },
         {
           "letter": "D",
           "text": "$(4x - 5)^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: el cuadrado de un binomio suma el término doble, de modo que $(4x - 5)^2 = 16x^2 - 40x + 25$."
         }
       ],
       "correct_answer": "B",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "$(4x - 5)^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: el cuadrado de un binomio suma el término doble, de modo que $(4x - 5)^2 = 16x^2 - 40x + 25$."
         },
         {
           "letter": "B",
           "text": "$(2x - 5)(2x + 5)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: la raíz de 16 es 4 y no 2, por lo que ese producto da $4x^2 - 25$ en lugar de $16x^2 - 25$."
         },
         {
           "letter": "C",
           "text": "$(16x - 25)(16x + 25)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: la raíz de $16x^2$ es $4x$ y no $16x$, así que ese producto da $256x^2 - 625$."
         },
         {
           "letter": "D",
           "text": "$(4x - 5)(4x + 5)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto: $16x^2$ y $25$ son cuadrados perfectos y sus raíces son $4x$ y $5$; la diferencia de cuadrados da el signo menos entre paréntesis."
         }
       ],
       "correct_answer": "D",
@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "$(2x - 1)(x - 3)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: los signos negativos dan $2x^2 - 7x + 3$, con el término lineal en negativo."
         },
         {
           "letter": "B",
           "text": "$(2x + 3)(x + 1)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: el coeficiente de $x$ sería $2(1) + 3 = 5$ y no 7, así que el factor está mal elegido."
         },
         {
           "letter": "C",
           "text": "$(2x + 2)(x + 3.5)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: los términos independientes darían $2 \\times 3.5 = 7$, y el término independiente del trinomio es 3."
         },
         {
           "letter": "D",
           "text": "$(2x + 1)(x + 3)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto: el producto de los términos independientes es 3 y el coeficiente de $x$ es $2(3) + 1 = 7$, como exige el trinomio."
         }
       ],
       "correct_answer": "D",
@@ -781,25 +781,25 @@
           "letter": "A",
           "text": "$(2x - 1)(x - 3)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: los signos negativos dan $2x^2 - 7x + 3$, con el término lineal en negativo."
         },
         {
           "letter": "B",
           "text": "$(2x + 2)(x + 3.5)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: los términos independientes darían $2 \\times 3.5 = 7$, y el término independiente del trinomio es 3."
         },
         {
           "letter": "C",
           "text": "$(2x + 3)(x + 1)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: el coeficiente de $x$ sería $2(1) + 3 = 5$ y no 7, así que el factor está mal elegido."
         },
         {
           "letter": "D",
           "text": "$(2x + 1)(x + 3)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto: el producto de los términos independientes es 3 y el coeficiente de $x$ es $2(3) + 1 = 7$, como exige el trinomio."
         }
       ],
       "correct_answer": "D",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "$(2x + 3)(x + 1)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: el coeficiente de $x$ sería $2(1) + 3 = 5$ y no 7, así que el factor está mal elegido."
         },
         {
           "letter": "B",
           "text": "$(2x + 2)(x + 3.5)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: los términos independientes darían $2 \\times 3.5 = 7$, y el término independiente del trinomio es 3."
         },
         {
           "letter": "C",
           "text": "$(2x + 1)(x + 3)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto: el producto de los términos independientes es 3 y el coeficiente de $x$ es $2(3) + 1 = 7$, como exige el trinomio."
         },
         {
           "letter": "D",
           "text": "$(2x - 1)(x - 3)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: los signos negativos dan $2x^2 - 7x + 3$, con el término lineal en negativo."
         }
       ],
       "correct_answer": "C",
@@ -871,25 +871,25 @@
           "letter": "A",
           "text": "$(2x - 1)(x - 3)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: los signos negativos dan $2x^2 - 7x + 3$, con el término lineal en negativo."
         },
         {
           "letter": "B",
           "text": "$(2x + 3)(x + 1)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: el coeficiente de $x$ sería $2(1) + 3 = 5$ y no 7, así que el factor está mal elegido."
         },
         {
           "letter": "C",
           "text": "$(2x + 1)(x + 3)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto: el producto de los términos independientes es 3 y el coeficiente de $x$ es $2(3) + 1 = 7$, como exige el trinomio."
         },
         {
           "letter": "D",
           "text": "$(2x + 2)(x + 3.5)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Incorrecto: los términos independientes darían $2 \\times 3.5 = 7$, y el término independiente del trinomio es 3."
         }
       ],
       "correct_answer": "C",

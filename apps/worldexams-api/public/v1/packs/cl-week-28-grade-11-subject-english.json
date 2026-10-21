@@ -13,13 +13,13 @@
       "context": "Introduction to negotiation terms.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Combat",
           "is_correct": false,
           "feedback": "Incorrect. Combat is fighting."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Mediation",
           "is_correct": true,
           "feedback": "Correct. Process involving a neutral third party."
@@ -37,9 +37,9 @@
           "feedback": "Incorrect. Mediation involves communication."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Mediation' is the formal term for the assisted negotiation process described.\n\n---",
-      "difficulty": "3",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -58,13 +58,13 @@
       "context": "Discussing peace processes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "are ongoing",
           "is_correct": false,
           "feedback": "Incorrect. Present continuous."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "have been ongoing",
           "is_correct": true,
           "feedback": "Correct. Present perfect continuous for an action starting in the past and continuing."
@@ -82,7 +82,7 @@
           "feedback": "Incorrect. Future."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The present perfect continuous emphasizes the duration and current persistence of the talks.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -129,7 +129,7 @@
       ],
       "correct_answer": "B",
       "explanation": "The second conditional 'if + were' describes how a hypothetical change in attitude would lead to a better result.\n\n---",
-      "difficulty": "5",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -157,7 +157,7 @@
           "letter": "B",
           "text": "ignored",
           "is_correct": false,
-          "feedback": "Incorrect. Opposite of the goal."
+          "feedback": "'Ignored' means the listener failed to pay attention, which defeats the whole purpose of the technique."
         },
         {
           "letter": "C",
@@ -169,7 +169,7 @@
           "letter": "D",
           "text": "silenced",
           "is_correct": false,
-          "feedback": "Incorrect. Opposite of the goal."
+          "feedback": "'Silenced' means the listener stopped the speaker from talking, the opposite of making that speaker feel heard."
         }
       ],
       "correct_answer": "A",
@@ -241,30 +241,30 @@
           "letter": "A",
           "text": "fight",
           "is_correct": false,
-          "feedback": "Incorrect. Conflict."
+          "feedback": "A fight is the armed clash itself, not the written agreement made to end it; 'fight' also takes no formal object such as 'a treaty'."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "treaty",
           "is_correct": true,
           "feedback": "Correct. Formal international agreement."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "rumor",
           "is_correct": false,
           "feedback": "Incorrect. Informal."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "protest",
           "is_correct": false,
           "feedback": "Incorrect. Expression of objection."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Treaty' is the standard term for a formal agreement that ends or prevents conflict between nations.\n\n---",
-      "difficulty": "3",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -283,13 +283,13 @@
       "context": "Describing an ongoing negotiation.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "are discussing",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Are discussing' is active, so the legal teams would have to be the subject, but the sentence makes the terms the thing being discussed."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "are being discussed",
           "is_correct": true,
           "feedback": "Correct. Present continuous passive for an ongoing process."
@@ -304,12 +304,12 @@
           "letter": "D",
           "text": "have discussed",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Have discussed' is an active present perfect, which would mean the teams already finished this week's talks."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The present continuous passive describes the current status of the negotiation process.\n\n---",
-      "difficulty": "4",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -354,7 +354,7 @@
       ],
       "correct_answer": "B",
       "explanation": "'De-escalation' is the specific term for techniques used to calm a tense situation.\n\n---",
-      "difficulty": "5",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -399,7 +399,7 @@
       ],
       "correct_answer": "B",
       "explanation": "In reported speech, we backshift the tense of the original statement to show it happened before the report.\n\n---",
-      "difficulty": "4",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -418,13 +418,13 @@
       "context": "Critique of \"zero-sum\" thinking.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "promote",
           "is_correct": false,
           "feedback": "Incorrect. It makes it harder."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "hinder",
           "is_correct": true,
           "feedback": "Correct. To hinder means to create difficulties for someone or something."
@@ -442,7 +442,7 @@
           "feedback": "Incorrect. It active prevents progress."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Hinder' correctly describes how competitive (zero-sum) mindsets prevent collaborative solutions.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -466,7 +466,7 @@
           "letter": "A",
           "text": "Hatred",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Hatred is a strong dislike, and it would block a mediator from seeing any other side's point of view."
         },
         {
           "letter": "B",
@@ -478,18 +478,18 @@
           "letter": "C",
           "text": "Greed",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Greed is a selfish desire for more, which is the opposite of the concern for others this definition describes."
         },
         {
           "letter": "D",
           "text": "Apathy",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Apathy is a lack of interest in the matter, whereas the definition stresses actively understanding every perspective."
         }
       ],
       "correct_answer": "B",
       "explanation": "'Empathy' is a key competency for professionals who help others resolve disputes.\n\n---",
-      "difficulty": "3",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -508,13 +508,13 @@
       "context": "Describing a future peace milestone.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "will establish",
           "is_correct": false,
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "will have been established",
           "is_correct": true,
           "feedback": "Correct. Future perfect passive for a completed state in the future."
@@ -532,9 +532,9 @@
           "feedback": "Incorrect. Gerund."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The future perfect passive describes a desired goal as a finished fact at a specific future time.\n\n---",
-      "difficulty": "4",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -553,13 +553,13 @@
       "context": "Discussing \"reconciliation\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Aggression",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Aggression is hostile behaviour that damages relations, so it is the opposite of the healing this term names."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Reconciliation",
           "is_correct": true,
           "feedback": "Correct. The process of healing relationships."
@@ -574,12 +574,12 @@
           "letter": "D",
           "text": "Competition",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Competition sets parties against each other to win, which continues the division instead of repairing it."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Reconciliation' is the standard term for the process of repairing trust and connection after a dispute.\n\n---",
-      "difficulty": "5",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -604,27 +604,27 @@
           "feedback": "Incorrect. Second conditional."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "had communicated",
           "is_correct": true,
           "feedback": "Correct. Third conditional for hypothetical past."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "communicate",
           "is_correct": false,
           "feedback": "Incorrect. Present."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "were communicating",
           "is_correct": false,
           "feedback": "Incorrect. Past continuous."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The third conditional allows for the analysis of how past mistakes contributed to an outcome.\n\n---",
-      "difficulty": "4",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -643,13 +643,13 @@
       "context": "Conclusion of an essay on forgiveness.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "unnecessary",
           "is_correct": false,
           "feedback": "Incorrect. The author says it's necessary."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "necessary",
           "is_correct": true,
           "feedback": "Correct. Essential for the result."
@@ -667,9 +667,9 @@
           "feedback": "Incorrect. It's a deliberate act."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Necessary' correctly identifies the author's argument about the essential nature of forgiveness.\n\n---",
-      "difficulty": "6",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -694,27 +694,27 @@
           "feedback": "Incorrect. Taking a side."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "neutral",
           "is_correct": true,
-          "feedback": "Correct. Impartial."
+          "feedback": "Correct. Neutral is the exact term for someone who takes no side in the argument, so it matches the definition word for word."
+        },
+        {
+          "letter": "B",
+          "text": "hostile",
+          "is_correct": false,
+          "feedback": "Hostile means unfriendly and ready to fight, which is the opposite of staying out of the dispute."
         },
         {
           "letter": "C",
-          "text": "hostile",
-          "is_correct": false,
-          "feedback": "Incorrect. Unfriendly."
-        },
-        {
-          "letter": "D",
           "text": "active",
           "is_correct": false,
           "feedback": "Incorrect. While they can be active in the process, 'neutral' refers specifically to side-taking."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Neutral' is the defining characteristic of an effective mediator or arbitrator.\n\n---",
-      "difficulty": "3",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -739,27 +739,27 @@
           "feedback": "Incorrect. Need 'would' for a desired change in others' behavior."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "would stop",
           "is_correct": true,
           "feedback": "Correct. 'Wish + would' for a change in a situation or behavior."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "stopped",
           "is_correct": false,
           "feedback": "Incorrect. 'Wish + past' is for present state desires."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "have stopped",
           "is_correct": false,
           "feedback": "Incorrect. Past regret."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Wish + would' is used to express a desire for an annoying or harmful situation to change.\n\n---",
-      "difficulty": "4",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -784,27 +784,27 @@
           "feedback": "Incorrect. Binding is the opposite of optional."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "binding",
           "is_correct": true,
           "feedback": "Correct. Binding means that it must be obeyed."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "secret",
           "is_correct": false,
           "feedback": "Incorrect. Usually formal and recorded."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "ignored",
           "is_correct": false,
           "feedback": "Incorrect. If it's binding, it can't be ignored without consequences."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Binding' is the legal term for a decision that carries the force of law and must be followed.\n\n---",
-      "difficulty": "5",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -829,27 +829,27 @@
           "feedback": "Incorrect. Past continuous."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "had been building",
           "is_correct": true,
           "feedback": "Correct. Past perfect continuous for duration before a past event."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "has been building",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect continuous."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "builds",
           "is_correct": false,
           "feedback": "Incorrect. Present simple."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The past perfect continuous describes a situation (tension) that was intensifying over time leading up to a specific past point.\n\n---",
-      "difficulty": "4",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -868,33 +868,33 @@
       "context": "Final thought on dialogue.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "bridging",
           "is_correct": true,
           "feedback": "Correct. To bridge a divide means to connect two different groups."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "creating",
           "is_correct": false,
           "feedback": "Incorrect. We want to solve divides, not create them."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "ignoring",
           "is_correct": false,
           "feedback": "Incorrect. Dialogue requires engagement."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "reinforcing",
           "is_correct": false,
           "feedback": "Incorrect. Reinforcing a divide makes it worse."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "'Bridging' is a common metaphorical verb for the act of bringing two conflicting sides together.",
-      "difficulty": "6",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
