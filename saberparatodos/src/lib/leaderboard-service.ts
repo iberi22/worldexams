@@ -14,7 +14,7 @@ import type {
   ScoreSubmission,
   LeaderboardConfig
 } from './leaderboard';
-import { getScoreRange, getPeriodDates, upsertEntry } from './leaderboard';
+import { getScoreRange, getPeriodDates, upsertEntry, isLeaderboardEligible } from './leaderboard';
 import type { ExamScore } from './scoring';
 import type { AnonymousIdentity } from './identity';
 import { supabase } from './supabase';
@@ -273,12 +273,34 @@ export async function submitScoreInput(input: ScoreSubmissionInput): Promise<boo
     checksum: generateChecksum({ anonymousId: input.anonymousId, score: input.totalPoints, timestamp: new Date(input.timestamp).toISOString() })
   };
 
+  const settings = getLeaderboardSettings();
+  const optedIn = settings.isOptedIn === true;
+  const eligible = isLeaderboardEligible(input.questionsAnswered);
+
+  // Privacidad: sin opt-in o sin elegibilidad psicométrica, no se envía nada a la red.
+  // Se puede guardar localmente, pero sin displayName (solo el hash anonymousId).
+  const localDisplayName = (optedIn && eligible && settings.displayName)
+    ? input.displayName
+    : input.anonymousId;
+
+  const localSubmission: ScoreSubmission = {
+    ...submission,
+    displayName: localDisplayName,
+    isAnonymous: !(optedIn && eligible && Boolean(settings.displayName))
+  };
+
   // Save locally as backup
-  saveLocalScore(submission);
+  saveLocalScore(localSubmission);
+
+  if (!optedIn || !eligible) {
+    return false;
+  }
+
+  // Modo anónimo dentro del opt-in: no se envía displayName.
+  const anonymousMode = !Boolean(settings.displayName && settings.displayName.trim());
 
   const edgeSubmission: EdgeScoreSubmission = {
     anonymousId: input.anonymousId,
-    displayName: input.displayName,
     grade: Number(input.grade),
     region: input.region || 'CO',
     totalPoints: input.totalPoints,
@@ -286,7 +308,8 @@ export async function submitScoreInput(input: ScoreSubmissionInput): Promise<boo
     correctAnswers: input.correctAnswers,
     averageDifficulty: input.averageDifficulty,
     examDurationMs: input.examDurationMs,
-    timestamp: input.timestamp
+    timestamp: input.timestamp,
+    ...(anonymousMode ? {} : { displayName: settings.displayName || input.displayName })
   };
 
   // If offline, queue score for batch sync without blocking
@@ -318,7 +341,7 @@ interface LocalScoreEntry {
 
 interface EdgeScoreSubmission {
   anonymousId: string;
-  displayName: string;
+  displayName?: string;
   grade: number;
   region: string;
   totalPoints: number;
