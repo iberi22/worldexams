@@ -9,6 +9,12 @@ workers_dev = false
 [vars]
 SUPABASE_URL = "https://your-project.supabase.co"
 SUPABASE_ANON_KEY = "your_supabase_anon_key_here"
+# Institutions panel (docs/institutions/CONTRACT.md). Magic links point to
+# ${SITE_ORIGIN}/institucion/entrar; INST_EMAIL_FROM must be a sender address
+# verified for Cloudflare Email Sending. INST_DEV_LOGIN = "1" returns the login
+# token in the response: local `.dev.vars` only, never here.
+SITE_ORIGIN = "https://saberparatodos.space"
+INST_EMAIL_FROM = "no-reply@saberparatodos.space"
 
 [assets]
 directory = "public"
@@ -32,6 +38,13 @@ binding = "RANKED_DB"
 database_name = "worldexams-ranked"
 database_id = "6ae1b0c0-0f6d-45b2-854d-cb076b14ea40"
 migrations_dir = "migrations"
+
+# Institutions magic-link email (Cloudflare Email Sending). Without this binding
+# POST /v1/inst/auth/request answers 503 EMAIL_UNAVAILABLE. Enable once the
+# sending domain is onboarded:
+# [[send_email]]
+# name = "EMAIL"
+# allowed_sender_addresses = ["no-reply@saberparatodos.space"]
 
 [[routes]]
 pattern = "api.saberparatodos.space/*"

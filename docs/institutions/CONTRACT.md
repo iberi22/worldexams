@@ -72,3 +72,60 @@ A teacher can only touch groups of their own institution (`403 FORBIDDEN` otherw
 - `/institucion/entrar` (W2.05): consumes `?token=`, stores the session token in `localStorage['inst.teacher.session']`.
 - Student side (W2.06): `src/lib/institution-client.ts` (typed client for `/join`, `/student/*`), a "Unirme a mi colegio" entry that replaces the localStorage-only handshake, and opt-in result sharing after an exam and after NeuroGym. Student token in `localStorage['inst.student.session']`. Results are sent **only** when the student has joined a group and has the "compartir con mi colegio" switch on (default on after joining, visible and reversible).
 - The API base comes from the existing helper the app already uses for `PUBLIC_API_BASE_URL`. Watch the existing `/v1/v1` double-prefix bug: build URLs from the origin, never by concatenating `/v1` twice.
+
+## Clarifications from the API implementation (W2.04, additive)
+
+These fill gaps the tables above leave open. They change no response shape above.
+
+- **Timestamps:** every timestamp in a response (`createdAt`, `joinedAt`, `lastResultAt`, `dueAt`) is an ISO-8601 UTC string or `null`, like ranked's `expiresAt`. D1 stores unix seconds. `dueAt` in a request body is an ISO-8601 string or `null`. A number is refused.
+- **Codes:** `country` (institution and assignment) is one of the supported ISO alpha-2 codes `co mx ar br cl pe ec pa cr gt do sv hn ni es pr gq uy py bo`. Upper case is accepted and stored lower case. `subject` is a lower-case slug (`[a-z0-9_-]{2,40}`) or `null`. `grade` is an integer 1–12.
+- **Lengths (trimmed):** institution `name` 2–120 and `city` 1–80, teacher `name` 1–80, group `name` 1–60, assignment `title` 1–120, `studentCode` 1–32 or `null` (`""` also clears it). Control characters are refused. Bodies over 16 KB get `400 BODY_TOO_LARGE`.
+- **Nickname:** ranked's character set (letters, digits, space, `_`, `-`), length 2–24 as stated above. Ranked itself keeps 3–20. Both use `isValidNickname` in `src/ranked.ts`.
+- **`anonymousId`:** same shape as ranked's `deviceId`, `^[A-Za-z0-9_-]{8,64}$` (a UUID fits).
+- **Shapes not spelled out above:**
+  - `Institution` is `{id, name, country, city, plan, createdAt}`.
+  - `Group` is `{id, institutionId, teacherId, name, grade, joinCode, archived, createdAt, studentCount, assignmentCount}`.
+  - `Assignment` is `{id, groupId, title, country, grade, subject, questionCount, dueAt, createdAt, completedCount}`. `completedCount` counts distinct students with at least one result for the assignment.
+  - `PATCH /groups/:id/students/:sid` returns `200 {student:{id, nickname, studentCode}}`.
+- **Results:**
+  - `assignmentId` is required when `source` is `"assignment"` and refused for any other source. It must belong to the student's group, else `404`.
+  - `perArea` holds at most 20 areas. Each area is `{total, correct}` with `0 ≤ correct ≤ total ≤ 200`.
+  - `pct` is `correct/total` as a percentage with one decimal, and `0` when `total` is 0.
+  - `summary.avgPct` and each student's `avgPct` are `null` when there are no results.
+  - `summary.students` counts distinct students in `rows`.
+  - `bySubject` uses the key `"general"` for results with no subject.
+  - The JSON response also carries `truncated: boolean`. Rows are newest first and capped at 10,000, and the CSV has the same cap.
+  - The daily cap of 60 results counts per UTC day.
+- **Plan limits:**
+  - `409 PLAN_LIMIT` also carries `resource` (`"groups"`, `"students"` or `"activeAssignments"`).
+  - Students count across the whole institution.
+  - An active assignment has `dueAt` null or in the future, counted across the institution.
+  - A student who re-joins does not take a new seat.
+  - `PLAN_LIMITS` uses `null` for unlimited.
+- **Join:**
+  - The join code is case-insensitive.
+  - A malformed code gets `400 INVALID_JOIN_CODE`. An unknown or archived group gets `404 JOIN_CODE_NOT_FOUND`.
+  - A re-join returns the same `student.id`, updates the nickname to the latest value and issues a new `studentToken`. Older tokens stay valid until they expire.
+- **Auth errors:**
+  - Every missing, malformed or expired session gets `401 UNAUTHORIZED`. So does a session of the wrong kind: a student token on a teacher route, or the reverse.
+  - `/auth/verify` answers `401` with `INVALID_TOKEN`, `TOKEN_USED` or `TOKEN_EXPIRED`.
+  - A malformed email gets `400 INVALID_EMAIL`.
+  - Going over 5 links per email per hour gets `429 RATE_LIMITED`.
+  - When the email binding fails to send, the response is `503 EMAIL_UNAVAILABLE` and the token is discarded.
+- **Teacher flow:**
+  - `POST /institutions` answers `409 INSTITUTION_EXISTS` when the teacher already has an institution.
+  - `POST /groups` answers `409 NO_INSTITUTION` before an institution exists.
+  - A teacher with no institution gets `GET /groups` → `{groups: []}`.
+  - `:id` paths answer `404 NOT_FOUND` for unknown ids and `403 FORBIDDEN` for groups outside the teacher's reach.
+  - v1 has no endpoint to invite a second teacher. Set `teachers.institution_id` and `role` in D1 by hand.
+- **CSV:**
+  - Rows are separated by CRLF.
+  - Any cell that starts with `=`, `+`, `-`, `@`, a tab or CR gets a leading `'`.
+  - Cells with `,`, `"` or line breaks are quoted.
+  - The response has `Content-Disposition: attachment; filename="resultados-<groupId>.csv"`.
+- **CORS:** the shared allowlist helper now allows `PATCH` and `DELETE` as well.
+- **Abuse limits (rolling hour, counted in D1 table `inst_rate_events`, IPs stored only as SHA-256):** these come on top of the contract's limits, and every one of them answers `429 RATE_LIMITED`.
+  - `/auth/request`: 20 per IP.
+  - `/join`: 300 requests per IP, plus 200 joins per join code.
+  - After 20 unknown join codes from one IP, that IP gets `429` on `/join` for the rest of the hour, even with a valid code. This blocks code guessing without blocking a classroom behind one NAT.
+  - The values live in `INST_RATE_LIMITS` in `institutions.ts`.
