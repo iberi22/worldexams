@@ -2,7 +2,6 @@
   import { onMount } from 'svelte';
   import { getAiCore } from '../../lib/ai/ai-core-client';
   import type { DeviceCapabilities, ModelRecommendation, DownloadedModel } from '../../lib/ai/__mocks__/edge-mesh-stub';
-  import { recordMejoraInterna } from '../../lib/mejora-interna-telemetry';
   import TierSelector from './TierSelector.svelte';
 
   let scanning = $state(true);
@@ -21,7 +20,6 @@
       recommendation = ai.recommend(caps);
       downloaded = await ai.listDownloaded();
       asrEnabled = localStorage.getItem('swal.ai.asr') !== '0';
-      recordMejoraInterna('ai.model_manager.scan', { tier: caps.tier });
     } catch (e) {
       error = e instanceof Error ? e.message : 'Error al escanear dispositivo';
     } finally {
@@ -46,7 +44,6 @@
               : 0;
         progress = { ...progress, [modelId]: ratio };
       });
-      recordMejoraInterna('ai.model_manager.download', { modelId });
       await refreshDownloaded();
     } catch (e) {
       error = e instanceof Error ? e.message : 'Error de descarga';
@@ -59,7 +56,6 @@
     busyId = modelId;
     try {
       await getAiCore().removeModel(modelId);
-      recordMejoraInterna('ai.model_manager.remove', { modelId });
       await refreshDownloaded();
     } catch (e) {
       error = e instanceof Error ? e.message : 'Error al borrar';
