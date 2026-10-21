@@ -25,6 +25,13 @@
   let currentMessage = messages[0];
   let messageIdx = 0;
 
+  let dispatched = false;
+  function emitComplete() {
+    if (dispatched) return;
+    dispatched = true;
+    dispatch('complete');
+  }
+
   // Cycle messages
   onMount(() => {
     const interval = setInterval(() => {
@@ -35,9 +42,9 @@
     return () => clearInterval(interval);
   });
 
-  // Watch loading prop and dispatch complete when done
+  // Emit once, as soon as the exam has finished loading.
   $: if (!loading) {
-    dispatch('complete');
+    emitComplete();
   }
 </script>
 
