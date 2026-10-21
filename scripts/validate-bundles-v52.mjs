@@ -259,6 +259,7 @@ const VAGUE_ONLY =
 const VAGUE_EN =
   /^\s*(please\s+|por favor\s+)?(review|revise|revisit|read again|go back|check|look again|practise|practice|try again|see again|consult|estudie|leia|releia|consulte)\b[\s\wáéíóúñ]{0,40}$/i;
 const UNFILLED_TOKEN = /\{[a-z_]+\}/i;
+const UNRESOLVED_PLACEHOLDER = /(?<!\\[a-zA-Z]+)(?<!\\)(?<!\^)(?<!_)(?<!\})(?<!\{)\{[a-z_]{3,}\}/g;
 // A category label: the name of the tense, voice, mood, part of speech, semantic
 // relation or vocabulary register that an option belongs to. In language
 // courses this is the pedagogically correct answer to "why is this wrong?",
@@ -746,6 +747,11 @@ export function validateFile(file, opts = { strictQuality: false, corpusHashMap:
   const mojibakeLines = detectMojibakeLines(content);
   for (const m of mojibakeLines) {
     errors.push(`ERROR [encoding] ${relative}:${m.line} contiene mojibake ("${m.sequence}"); repara a UTF-8 antes de publicar.`);
+  }
+
+  for (const m of content.matchAll(UNRESOLVED_PLACEHOLDER)) {
+    const line = content.slice(0, m.index).split('\n').length;
+    errors.push(`ERROR [unresolved-placeholder] ${relative}:${line} unresolved placeholder "${m[0]}"`);
   }
 
   const fm = parseFrontmatter(content);

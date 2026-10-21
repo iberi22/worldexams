@@ -141,7 +141,7 @@ According to a recent report on comprehensive review 2 in Pereira, what is impli
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
-- [ ] C) It is only used by academic elites in {city}.
+- [ ] C) It is only used by academic elites in Bucaramanga.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
 
 ### Explicacion Pedagogica
@@ -166,7 +166,7 @@ According to a recent report on comprehensive review 2 in Bogotá, what is impli
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Manizales.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
 
 ### Explicacion Pedagogica
@@ -191,7 +191,7 @@ According to a recent report on comprehensive review 2 in Manizales, what is imp
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
-- [ ] C) It is only used by academic elites in {city}.
+- [ ] C) It is only used by academic elites in Cartagena.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
 
 ### Explicacion Pedagogica
@@ -216,7 +216,7 @@ According to a recent report on comprehensive review 2 in Cali, what is implied 
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Barranquilla.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
 
 ### Explicacion Pedagogica
@@ -241,7 +241,7 @@ According to a recent report on comprehensive review 2 in Bucaramanga, what is i
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Bucaramanga.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
 
 ### Explicacion Pedagogica
@@ -266,7 +266,7 @@ According to a recent report on comprehensive review 2 in Medellín, what is imp
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Bucaramanga.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
 
 ### Explicacion Pedagogica
@@ -437,7 +437,7 @@ In a high-level debate about comprehensive review 2, Valentina says: 'I can't he
 ### Opciones
 - [x] A) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] B) They are literally looking for something in the trees of {city}.
+- [ ] B) They are literally looking for something in the trees of Cartagena.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -462,7 +462,7 @@ In a high-level debate about comprehensive review 2, Mariana says: 'I can't help
 ### Opciones
 - [x] B) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Medellín.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -487,7 +487,7 @@ In a high-level debate about comprehensive review 2, Mateo says: 'I can't help b
 ### Opciones
 - [x] D) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Manizales.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -512,7 +512,7 @@ In a high-level debate about comprehensive review 2, Isabella says: 'I can't hel
 ### Opciones
 - [x] B) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Manizales.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->

@@ -19,7 +19,7 @@ tier: "legacy"
 creador: "Jules-Agent"
 ---
 # MASTERY Bundle - Ingles: Daily Routines 2 (W32)
-**8 preguntas | Ingles | {alignment}**
+**8 preguntas | Ingles | DBA MEN Colombia**
 
 ---
 ## Question 1 [D3-D4]

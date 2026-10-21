@@ -166,7 +166,7 @@ According to a recent report on tourism & heritage in Manizales, what is implied
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: Incorrect. Adjectives & Adverbs give a text its nuance and precision, so they does not make the message simpler to grasp. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Bucaramanga.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
 
 ### Explicacion Pedagogica
@@ -241,7 +241,7 @@ According to a recent report on tourism & heritage in Bogotá, what is implied a
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: Incorrect. Adjectives & Adverbs give a text its nuance and precision, so they does not make the message simpler to grasp. -->
-- [ ] C) It is only used by academic elites in {city}.
+- [ ] C) It is only used by academic elites in Pereira.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
 
 ### Explicacion Pedagogica
@@ -266,7 +266,7 @@ According to a recent report on tourism & heritage in Bucaramanga, what is impli
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: Incorrect. Adjectives & Adverbs give a text its nuance and precision, so they does not make the message simpler to grasp. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Bucaramanga.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
 
 ### Explicacion Pedagogica
@@ -437,7 +437,7 @@ In a high-level debate about tourism & heritage, Mariana says: 'I can't help but
 ### Opciones
 - [x] D) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Bogotá.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -487,7 +487,7 @@ In a high-level debate about tourism & heritage, Valentina says: 'I can't help b
 ### Opciones
 - [x] B) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Medellín.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -512,7 +512,7 @@ In a high-level debate about tourism & heritage, Nicolás says: 'I can't help bu
 ### Opciones
 - [x] D) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Barranquilla.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->

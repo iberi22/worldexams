@@ -166,7 +166,7 @@ According to a recent report on education systems in Medellín, what is implied 
   <!-- feedback: Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: Ellipsis & Substitution add a layer of qualification rather than removing one, so it makes the argument harder, not simpler. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Pereira.
   <!-- feedback: The report presents Ellipsis & Substitution as common in journalism, advertising and everyday debate, so it is not restricted to academics. -->
 
 ### Explicacion Pedagogica
@@ -191,7 +191,7 @@ According to a recent report on education systems in Barranquilla, what is impli
   <!-- feedback: Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: Ellipsis & Substitution add a layer of qualification rather than removing one, so it makes the argument harder, not simpler. -->
-- [ ] C) It is only used by academic elites in {city}.
+- [ ] C) It is only used by academic elites in Medellín.
   <!-- feedback: The report presents Ellipsis & Substitution as common in journalism, advertising and everyday debate, so it is not restricted to academics. -->
 
 ### Explicacion Pedagogica
@@ -241,7 +241,7 @@ According to a recent report on education systems in Manizales, what is implied 
   <!-- feedback: Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: Ellipsis & Substitution add a layer of qualification rather than removing one, so it makes the argument harder, not simpler. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Barranquilla.
   <!-- feedback: The report presents Ellipsis & Substitution as common in journalism, advertising and everyday debate, so it is not restricted to academics. -->
 
 ### Explicacion Pedagogica
@@ -437,7 +437,7 @@ In a high-level debate about education systems, Mariana says: 'I can't help but 
 ### Opciones
 - [x] D) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Cali.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -462,7 +462,7 @@ In a high-level debate about education systems, Nicolás says: 'I can't help but
 ### Opciones
 - [x] B) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Bogotá.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -512,7 +512,7 @@ In a high-level debate about education systems, Mateo says: 'I can't help but fe
 ### Opciones
 - [x] B) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Bucaramanga.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->

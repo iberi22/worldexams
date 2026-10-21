@@ -201,7 +201,7 @@ Cuando la carta aparece inserta dentro de una novela, suele funcionar como un re
 **Expected_Success:** 0.66
 
 ### Enunciado
-Un grupo analiza dos cartas: una de un militar y otra de un{documento}> region's poblador, ambas sobre las mismas tropas. ¿Qué muestra la comparación?
+Un grupo analiza dos cartas: una de un militar y otra de un poblador de la región, ambas sobre las mismas tropas. ¿Qué muestra la comparación?
 
 ### Opciones
 - [x] A) Que la posición social del emisor cambia lo que se observa y lo que se omite <!-- feedback: La mirada del emisor determina el foco del relato sobre los mismos hechos. -->

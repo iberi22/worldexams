@@ -139,7 +139,7 @@ According to a recent report on media ethics in Barranquilla, what is implied ab
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] D) It is only used by academic elites in Bucaramanga.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
 
 ### Explicacion Pedagogica
@@ -164,7 +164,7 @@ According to a recent report on media ethics in Cali, what is implied about the 
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
-- [ ] C) It is only used by academic elites in {city}.
+- [ ] C) It is only used by academic elites in Barranquilla.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
 
 ### Explicacion Pedagogica
@@ -258,7 +258,7 @@ According to a recent report on media ethics in Medellín, what is implied about
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
 - [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it. -->
-- [ ] C) It is only used by academic elites in {city}.
+- [ ] C) It is only used by academic elites in Manizales.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
 
 ### Explicacion Pedagogica
@@ -425,7 +425,7 @@ In a high-level debate about media ethics, Santiago says: 'I can't help but feel
 ### Opciones
 - [x] A) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] B) They are literally looking for something in the trees of {city}.
+- [ ] B) They are literally looking for something in the trees of Cali.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -450,7 +450,7 @@ In a high-level debate about media ethics, Isabella says: 'I can't help but feel
 ### Opciones
 - [x] D) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Cali.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -475,7 +475,7 @@ In a high-level debate about media ethics, Nicolás says: 'I can't help but feel
 ### Opciones
 - [x] C) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Pereira.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -500,7 +500,7 @@ In a high-level debate about media ethics, Alejandro says: 'I can't help but fee
 ### Opciones
 - [x] D) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of Pereira.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
