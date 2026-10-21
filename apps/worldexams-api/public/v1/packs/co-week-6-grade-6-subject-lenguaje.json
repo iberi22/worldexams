@@ -296,9 +296,9 @@
         },
         {
           "letter": "B",
-          "text": "Conjunciones disyuntivas.",
-          "is_correct": true,
-          "feedback": "Correcto. Las conjunciones disyuntivas (o, u) se utilizan para presentar opciones o alternativas."
+          "text": "Conjunciones concesivas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las concesivas indican un obstáculo que no impide la acción, no una alternativa."
         },
         {
           "letter": "C",
@@ -308,12 +308,12 @@
         },
         {
           "letter": "D",
-          "text": "Conjunciones concesivas.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Las concesivas indican un obstáculo que no impide la acción, no una alternativa."
+          "text": "Conjunciones disyuntivas.",
+          "is_correct": true,
+          "feedback": "Correcto. Las conjunciones disyuntivas (o, u) se utilizan para presentar opciones o alternativas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las conjunciones disyuntivas permiten al hablante presentar dos o más posibilidades, de las cuales generalmente solo una puede ocurrir o ser elegida.\n\n---",
       "difficulty": "8",
       "images": [],

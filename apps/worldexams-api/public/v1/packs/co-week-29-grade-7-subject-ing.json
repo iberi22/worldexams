@@ -434,9 +434,9 @@
         },
         {
           "letter": "B",
-          "text": "Sincere",
-          "is_correct": true,
-          "feedback": "Correct! The use of \"promise\" and the repetition of \"will\" for commitment show sincerity."
+          "text": "Unsure",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Will\" and \"Never\" show certainty in the commitment."
         },
         {
           "letter": "C",
@@ -446,12 +446,12 @@
         },
         {
           "letter": "D",
-          "text": "Unsure",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Will\" and \"Never\" show certainty in the commitment."
+          "text": "Sincere",
+          "is_correct": true,
+          "feedback": "Correct! The use of \"promise\" and the repetition of \"will\" for commitment show sincerity."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student evaluates the communicative intent and tone of a series of promises made using the future auxiliary \"will\".",
       "difficulty": "10",
       "images": [],

@@ -19,12 +19,6 @@
           "feedback": "'Did' does not invert with 'never' and 'had' cannot follow 'the students' in this structure."
         },
         {
-          "letter": "D",
-          "text": "have / had",
-          "is_correct": true,
-          "feedback": "A negative fronted phrase ('Never') triggers inversion: the auxiliary 'have' precedes the subject, and 'had' is the past participle of 'have'."
-        },
-        {
           "letter": "B",
           "text": "have / have",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "had / did",
           "is_correct": false,
           "feedback": "'Had' cannot open the inversion and 'did' would be left without a base verb."
+        },
+        {
+          "letter": "D",
+          "text": "have / had",
+          "is_correct": true,
+          "feedback": "A negative fronted phrase ('Never') triggers inversion: the auxiliary 'have' precedes the subject, and 'had' is the past participle of 'have'."
         }
       ],
       "correct_answer": "D",
@@ -59,12 +59,6 @@
       "context": "Restricting an action to a specific condition.",
       "options": [
         {
-          "letter": "D",
-          "text": "are",
-          "is_correct": true,
-          "feedback": "A fronted 'Only' phrase triggers subject-auxiliary inversion, giving 'are students allowed'."
-        },
-        {
           "letter": "A",
           "text": "do",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "will",
           "is_correct": false,
           "feedback": "'Will' would predict a future situation, while the sentence describes an existing restriction."
+        },
+        {
+          "letter": "D",
+          "text": "are",
+          "is_correct": true,
+          "feedback": "A fronted 'Only' phrase triggers subject-auxiliary inversion, giving 'are students allowed'."
         }
       ],
       "correct_answer": "D",
@@ -105,16 +105,16 @@
       "context": "Describing a rare educational achievement.",
       "options": [
         {
-          "letter": "B",
-          "text": "does / has",
-          "is_correct": false,
-          "feedback": "'Does' must be followed by the base form 'have', so 'has' is wrong after it."
-        },
-        {
           "letter": "A",
           "text": "does / have",
           "is_correct": true,
           "feedback": "A fronted 'Rarely' triggers inversion: 'does' precedes the subject and the main verb reverts to the base form 'have'."
+        },
+        {
+          "letter": "B",
+          "text": "does / has",
+          "is_correct": false,
+          "feedback": "'Does' must be followed by the base form 'have', so 'has' is wrong after it."
         },
         {
           "letter": "C",
@@ -157,12 +157,6 @@
           "feedback": "'Received' after 'did' would have to be the base form 'receive', and 'did' is the wrong auxiliary for a past perfect."
         },
         {
-          "letter": "D",
-          "text": "did / receive",
-          "is_correct": true,
-          "feedback": "'Not until' triggers inversion with 'did', and the main verb returns to the base form 'receive'."
-        },
-        {
           "letter": "B",
           "text": "had / received",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "has / received",
           "is_correct": false,
           "feedback": "'Has received' is present perfect, which cannot follow the fronted 'Not until' with inversion."
+        },
+        {
+          "letter": "D",
+          "text": "did / receive",
+          "is_correct": true,
+          "feedback": "'Not until' triggers inversion with 'did', and the main verb returns to the base form 'receive'."
         }
       ],
       "correct_answer": "D",
@@ -203,12 +203,6 @@
           "feedback": "'they knew' leaves the clause in normal order, but a fronted 'Little' requires inversion."
         },
         {
-          "letter": "D",
-          "text": "did they know",
-          "is_correct": true,
-          "feedback": "With a fronted 'Little' the subject 'they' follows the auxiliary 'did'."
-        },
-        {
           "letter": "B",
           "text": "they did know",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "had they known",
           "is_correct": false,
           "feedback": "'had they known' is the past perfect, which would place the unawareness in the past."
+        },
+        {
+          "letter": "D",
+          "text": "did they know",
+          "is_correct": true,
+          "feedback": "With a fronted 'Little' the subject 'they' follows the auxiliary 'did'."
         }
       ],
       "correct_answer": "D",
@@ -243,16 +243,16 @@
       "context": "Describing two simultaneous events.",
       "options": [
         {
-          "letter": "B",
-          "text": "did / rang",
-          "is_correct": false,
-          "feedback": "'Did / rang' would need the base form after 'did', and it loses the completion implied by 'no sooner'."
-        },
-        {
           "letter": "A",
           "text": "had / rung",
           "is_correct": true,
           "feedback": "The 'No sooner... than' structure puts the event in the past perfect before 'than'."
+        },
+        {
+          "letter": "B",
+          "text": "did / rang",
+          "is_correct": false,
+          "feedback": "'Did / rang' would need the base form after 'did', and it loses the completion implied by 'no sooner'."
         },
         {
           "letter": "C",
@@ -295,12 +295,6 @@
           "feedback": "'Could' after 'Only by' would need the base form, and 'managed' is not that base form."
         },
         {
-          "letter": "D",
-          "text": "did / manage",
-          "is_correct": true,
-          "feedback": "A fronted 'Only by' phrase triggers inversion: 'did the community manage', with the base verb after the subject."
-        },
-        {
           "letter": "B",
           "text": "they / managed",
           "is_correct": false,
@@ -311,6 +305,12 @@
           "text": "had / manage",
           "is_correct": false,
           "feedback": "'Had' would require a past participle, and 'manage' is not a participle."
+        },
+        {
+          "letter": "D",
+          "text": "did / manage",
+          "is_correct": true,
+          "feedback": "A fronted 'Only by' phrase triggers inversion: 'did the community manage', with the base verb after the subject."
         }
       ],
       "correct_answer": "D",
@@ -341,12 +341,6 @@
           "feedback": "'Are / -' lacks the modal the sentence needs, and a bare hyphen cannot fill the second blank."
         },
         {
-          "letter": "D",
-          "text": "should / be allowed",
-          "is_correct": true,
-          "feedback": "'Under no circumstances' is a negative fronted phrase, so the modal 'should' precedes the subject and 'be allowed' follows."
-        },
-        {
           "letter": "B",
           "text": "they should / be",
           "is_correct": false,
@@ -357,6 +351,12 @@
           "text": "must / -",
           "is_correct": false,
           "feedback": "'Must / -' is incomplete: the second blank needs the passive 'be allowed'."
+        },
+        {
+          "letter": "D",
+          "text": "should / be allowed",
+          "is_correct": true,
+          "feedback": "'Under no circumstances' is a negative fronted phrase, so the modal 'should' precedes the subject and 'be allowed' follows."
         }
       ],
       "correct_answer": "D",
@@ -387,25 +387,25 @@
           "feedback": "'Is / also' cannot work with 'improve' as the second verb of the correlative structure."
         },
         {
-          "letter": "D",
+          "letter": "B",
           "text": "does / also",
           "is_correct": true,
           "feedback": "In the 'Not only... but also' correlative, inversion puts 'does' before the subject and the base verb 'improve' after it."
-        },
-        {
-          "letter": "B",
-          "text": "did / also",
-          "is_correct": false,
-          "feedback": "'Did' would need a past form, but the sentence is in the present simple."
         },
         {
           "letter": "C",
           "text": "has / also",
           "is_correct": false,
           "feedback": "'Has' would need a past participle, and 'improve' is not one."
+        },
+        {
+          "letter": "D",
+          "text": "did / also",
+          "is_correct": false,
+          "feedback": "'Did' would need a past form, but the sentence is in the present simple."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "Using 'Not only' at the beginning of a sentence requires inversion in the first clause.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -479,25 +479,25 @@
           "feedback": "'Is / being' is not the passive needed here, and 'being' requires a following participle."
         },
         {
-          "letter": "D",
+          "letter": "B",
           "text": "has / been",
           "is_correct": true,
           "feedback": "A fronted 'Seldom' triggers inversion, so 'has' precedes the subject and the passive 'been addressed' follows."
-        },
-        {
-          "letter": "B",
-          "text": "did / be",
-          "is_correct": false,
-          "feedback": "'Did / be' is ungrammatical: 'be' cannot follow 'did' as a passive."
         },
         {
           "letter": "C",
           "text": "was / be",
           "is_correct": false,
           "feedback": "'Was / be' is ungrammatical for the same reason."
+        },
+        {
+          "letter": "D",
+          "text": "did / be",
+          "is_correct": false,
+          "feedback": "'Did / be' is ungrammatical: 'be' cannot follow 'did' as a passive."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "Combining 'Seldom' with the passive voice and Present Perfect to emphasize the rarity of an event.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -519,12 +519,6 @@
       "context": "A complex theoretical conclusion.",
       "options": [
         {
-          "letter": "C",
-          "text": "can / -",
-          "is_correct": true,
-          "feedback": "A fronted 'Only if' clause triggers inversion, giving 'can we'."
-        },
-        {
           "letter": "A",
           "text": "we / can",
           "is_correct": false,
@@ -535,6 +529,12 @@
           "text": "will / be",
           "is_correct": false,
           "feedback": "'will / be' would predict a future state, while the sentence describes a condition in the present."
+        },
+        {
+          "letter": "C",
+          "text": "can / -",
+          "is_correct": true,
+          "feedback": "A fronted 'Only if' clause triggers inversion, giving 'can we'."
         },
         {
           "letter": "D",

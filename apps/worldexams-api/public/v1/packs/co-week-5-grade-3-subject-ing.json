@@ -13,12 +13,6 @@
       "context": "Read the situation and choose the correct English greeting or color.",
       "options": [
         {
-          "letter": "D",
-          "text": "Good morning!",
-          "is_correct": true,
-          "feedback": "Correct! 'Good morning' is the right greeting for early in the day when you arrive at school."
-        },
-        {
           "letter": "A",
           "text": "Good night!",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "Good evening!",
           "is_correct": false,
           "feedback": "'Good evening' is used when it is getting dark outside, not at 7:00 AM."
+        },
+        {
+          "letter": "D",
+          "text": "Good morning!",
+          "is_correct": true,
+          "feedback": "Correct! 'Good morning' is the right greeting for early in the day when you arrive at school."
         }
       ],
       "correct_answer": "D",
@@ -59,12 +59,6 @@
       "context": "Read the situation and choose the correct English greeting or color.",
       "options": [
         {
-          "letter": "D",
-          "text": "yellow",
-          "is_correct": true,
-          "feedback": "Correct! The color of the bright flower she saw is 'yellow'."
-        },
-        {
           "letter": "A",
           "text": "blue",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "black",
           "is_correct": false,
           "feedback": "'black' is the color of the night sky, not the bright color of the flower."
+        },
+        {
+          "letter": "D",
+          "text": "yellow",
+          "is_correct": true,
+          "feedback": "Correct! The color of the bright flower she saw is 'yellow'."
         }
       ],
       "correct_answer": "D",
@@ -105,12 +105,6 @@
       "context": "Read the situation and choose the correct English greeting or color.",
       "options": [
         {
-          "letter": "D",
-          "text": "Goodbye!",
-          "is_correct": true,
-          "feedback": "Correct! 'Goodbye' is the appropriate farewell to use when you are leaving a place or parting ways with someone."
-        },
-        {
           "letter": "A",
           "text": "Hello!",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "Welcome!",
           "is_correct": false,
           "feedback": "'Welcome' is used to greet someone who is arriving at your home, not when you are the one leaving."
+        },
+        {
+          "letter": "D",
+          "text": "Goodbye!",
+          "is_correct": true,
+          "feedback": "Correct! 'Goodbye' is the appropriate farewell to use when you are leaving a place or parting ways with someone."
         }
       ],
       "correct_answer": "D",
@@ -151,12 +151,6 @@
       "context": "Read the situation and choose the correct English greeting or color.",
       "options": [
         {
-          "letter": "D",
-          "text": "blue",
-          "is_correct": true,
-          "feedback": "Correct! 'blue' is the color of the clear sky on a sunny day."
-        },
-        {
           "letter": "A",
           "text": "green",
           "is_correct": false,
@@ -170,12 +164,18 @@
         },
         {
           "letter": "C",
+          "text": "blue",
+          "is_correct": true,
+          "feedback": "Correct! 'blue' is the color of the clear sky on a sunny day."
+        },
+        {
+          "letter": "D",
           "text": "orange",
           "is_correct": false,
           "feedback": "'orange' can be seen at sunset, but a typical clear sky is not orange."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": "The word 'blue' describes the color of a clear daytime sky or the ocean. Recognizing colors helps us describe our environment accurately.\n---",
       "difficulty": "6",
       "images": [],
@@ -197,16 +197,10 @@
       "context": "Read the situation and choose the correct English greeting or color.",
       "options": [
         {
-          "letter": "D",
+          "letter": "A",
           "text": "Good night!",
           "is_correct": true,
           "feedback": "Correct! 'Good night' is the phrase we use right before going to sleep or parting ways late in the evening."
-        },
-        {
-          "letter": "A",
-          "text": "Good morning!",
-          "is_correct": false,
-          "feedback": "'Good morning' is for when you wake up or early in the day, not when going to sleep."
         },
         {
           "letter": "B",
@@ -219,9 +213,15 @@
           "text": "Good afternoon!",
           "is_correct": false,
           "feedback": "'Good afternoon' is used in the middle of the day, not late at night."
+        },
+        {
+          "letter": "D",
+          "text": "Good morning!",
+          "is_correct": false,
+          "feedback": "'Good morning' is for when you wake up or early in the day, not when going to sleep."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "'Good night' is a specific farewell used only late in the evening or right before going to bed. It is different from 'Good evening', which is used as a greeting when arriving somewhere late in the day.\n---",
       "difficulty": "8",
       "images": [],
@@ -243,16 +243,16 @@
       "context": "Read the situation and choose the correct English greeting or color.",
       "options": [
         {
-          "letter": "B",
-          "text": "green",
-          "is_correct": true,
-          "feedback": "Correct! 'green' is the color of healthy grass and leaves on trees."
-        },
-        {
           "letter": "A",
           "text": "red",
           "is_correct": false,
           "feedback": "'red' is the color of an apple, but grass is not typically red."
+        },
+        {
+          "letter": "B",
+          "text": "green",
+          "is_correct": true,
+          "feedback": "Correct! 'green' is the color of healthy grass and leaves on trees."
         },
         {
           "letter": "C",
@@ -289,16 +289,16 @@
       "context": "Read the situation and choose the correct English greeting or color.",
       "options": [
         {
-          "letter": "B",
-          "text": "Hello!",
-          "is_correct": true,
-          "feedback": "Correct! 'Hello!' is the most common and friendly way to greet someone when you first meet them."
-        },
-        {
           "letter": "A",
           "text": "Goodbye!",
           "is_correct": false,
           "feedback": "'Goodbye!' is for when you are leaving, not when you are starting a conversation."
+        },
+        {
+          "letter": "B",
+          "text": "Hello!",
+          "is_correct": true,
+          "feedback": "Correct! 'Hello!' is the most common and friendly way to greet someone when you first meet them."
         },
         {
           "letter": "C",
@@ -335,16 +335,16 @@
       "context": "Read the situation and choose the correct English greeting or color.",
       "options": [
         {
-          "letter": "B",
-          "text": "red",
-          "is_correct": true,
-          "feedback": "Correct! 'red' is the color of a strawberry and a stop sign."
-        },
-        {
           "letter": "A",
           "text": "blue",
           "is_correct": false,
           "feedback": "'blue' is the color of the ocean, not the color of a ripe strawberry."
+        },
+        {
+          "letter": "B",
+          "text": "red",
+          "is_correct": true,
+          "feedback": "Correct! 'red' is the color of a strawberry and a stop sign."
         },
         {
           "letter": "C",

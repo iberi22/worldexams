@@ -830,9 +830,9 @@
         },
         {
           "letter": "B",
-          "text": "Porque μ es un valor fijo (no aleatorio), por lo que ya está o no está en el intervalo; la probabilidad se aplica al proceso de construcción.",
-          "is_correct": true,
-          "feedback": "Correcto. La frase correcta es \"El intervalo [10, 20] se construyó con un método que captura a μ el 95% de las veces\"."
+          "text": "Porque no se menciona el tamaño de la muestra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es el motivo principal de la crítica formal."
         },
         {
           "letter": "C",
@@ -842,12 +842,12 @@
         },
         {
           "letter": "D",
-          "text": "Porque no se menciona el tamaño de la muestra.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No es el motivo principal de la crítica formal."
+          "text": "Porque μ es un valor fijo (no aleatorio), por lo que ya está o no está en el intervalo; la probabilidad se aplica al proceso de construcción.",
+          "is_correct": true,
+          "feedback": "Correcto. La frase correcta es \"El intervalo [10, 20] se construyó con un método que captura a μ el 95% de las veces\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En estadística clásica (frecuentista), el parámetro es una constante. Por lo tanto, no tiene sentido asignarle una probabilidad de \"estar\" en un rango fijo. La aleatoriedad reside en el intervalo mismo, que cambia con cada muestra.\n\n---",
       "difficulty": "10",
       "images": [],

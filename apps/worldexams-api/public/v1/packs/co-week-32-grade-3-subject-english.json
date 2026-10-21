@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "You are in the bathroom at night. You use water and soap to get clean. What do you do?",
+      "context": "Tomás vive en Pereira y antes de dormir se baña con agua tibia en el baño de su casa.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the word for a place where you live or stay on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' is the system of moving people or goods between places, not the place you sleep in itself."
+          "text": "take a shower",
+          "is_correct": true,
+          "feedback": "Correct. To take a shower means you wash your body with water and soap in the bathroom."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "have dinner",
           "is_correct": false,
-          "feedback": "'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live."
+          "feedback": "Incorrect. To have dinner means you eat the evening meal, and you do that at the table, not with soap."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "watch TV",
           "is_correct": false,
-          "feedback": "'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in."
+          "feedback": "Incorrect. To watch TV means you look at programs on a screen; it does not make you clean."
+        },
+        {
+          "letter": "D",
+          "text": "do homework",
+          "is_correct": false,
+          "feedback": "Incorrect. To do homework means you write and study school tasks, not wash your body."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "La expresión \"take a shower\" significa ducharse o bañarse con agua y jabón. Las otras opciones son rutinas reales, pero \"have dinner\" es comer, \"watch TV\" es ver televisión y \"do homework\" es hacer tareas.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -55,36 +55,36 @@
     },
     {
       "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Sofia eats rice and beans with her family at 7 p.m. What does she do at 7 p.m.?",
+      "context": "En Manizales, la familia de Sofia se sienta a comer arroz, frijoles y arepa a las 7 de la noche.",
       "options": [
         {
-          "letter": "B",
-          "text": "itinerary",
+          "letter": "A",
+          "text": "She has dinner.",
           "is_correct": true,
-          "feedback": "Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them."
+          "feedback": "Correct. Dinner is the meal we eat in the evening, and 7 p.m. is in the evening."
         },
         {
-          "letter": "A",
-          "text": "baggage",
+          "letter": "B",
+          "text": "She has breakfast.",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "Incorrect. Breakfast is the first meal of the day, in the morning, not at 7 p.m."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "She takes a shower.",
           "is_correct": false,
-          "feedback": "'destination' names only the place you are going to, without the route or the order of the whole journey."
+          "feedback": "Incorrect. The text says she eats rice and beans; taking a shower is washing, not eating."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "She goes to school.",
           "is_correct": false,
-          "feedback": "'passport' is the official document that lets you cross a border, not the plan of where you go."
+          "feedback": "Incorrect. Children go to school in the morning, and the text talks about eating with her family."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "La cena se dice \"dinner\" y por eso decimos \"She has dinner\" cuando Sofia come por la noche. \"Breakfast\" es el desayuno de la mañana, así que no corresponde a las 7 p.m.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: \"Every evening, my brother ____ TV in the living room.\"",
+      "context": "Samuel vive en Barranquilla y todas las noches su hermano mayor ve televisión en la sala.",
       "options": [
         {
-          "letter": "D",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' is the place someone is going to or something is being sent to."
-        },
-        {
           "letter": "A",
-          "text": "departure",
+          "text": "watch",
           "is_correct": false,
-          "feedback": "'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself."
+          "feedback": "Incorrect. \"My brother\" is he, so the verb needs -s: watch is for I, you, we and they."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "watching",
           "is_correct": false,
-          "feedback": "'arrival' is the act of reaching a place, not the place that is reached."
+          "feedback": "Incorrect. The -ing form needs \"is\" before it, and \"every evening\" asks for the present simple."
         },
         {
           "letter": "C",
-          "text": "journey",
+          "text": "to watch",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from the start to the end, not the place the trip finishes at."
+          "feedback": "Incorrect. \"To watch\" is the infinitive; a sentence about a habit needs a conjugated verb."
+        },
+        {
+          "letter": "D",
+          "text": "watches",
+          "is_correct": true,
+          "feedback": "Correct. With he or she the verb takes -es after \"ch\": he watches, so my brother watches."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "explanation": "Cuando hablamos de una sola persona (he, she, my brother) el verbo en presente lleva -s o -es. Como \"watch\" termina en \"ch\", agregamos -es y queda \"watches\".",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.72,
       "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Teacher: \"What do you do after school?\"\nMateo: \"____\"",
+      "context": "En un colegio de Bucaramanga, la profesora pregunta a cada estudiante qué hace después de clases.",
       "options": [
         {
-          "letter": "C",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "I am nine years old.",
           "is_correct": false,
-          "feedback": "'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in."
+          "feedback": "Incorrect. This answer tells his age, and the teacher asks about activities after school."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "It is three o'clock.",
           "is_correct": false,
-          "feedback": "'flight' is the journey by plane itself, not the containers that hold your things."
+          "feedback": "Incorrect. This answer tells the time, not an activity Mateo does."
+        },
+        {
+          "letter": "C",
+          "text": "I play soccer with my friends.",
+          "is_correct": true,
+          "feedback": "Correct. The question asks for an activity, and \"I play soccer\" names an activity Mateo does."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "Yes, I do.",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you make for a seat or a room, not the bag you carry."
+          "feedback": "Incorrect. \"Yes, I do\" answers a yes/no question, but \"What do you do\" asks for information."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "La pregunta \"What do you do after school?\" significa qué haces después del colegio. Se responde con una actividad, como \"I play soccer\". Responder la edad o la hora no contesta lo que se pregunta.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.68,
       "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Laura gets home at 2 p.m. First, she has lunch. Then, she does her homework. At night, she reads a book and goes to bed.\"\nWhat does Laura do right after lunch?",
+      "context": "Laura estudia en un colegio de Ibagué y llega a su casa a las 2 de la tarde.",
       "options": [
         {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "She reads a book.",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all."
+          "feedback": "Incorrect. She reads a book at night, which is later in the text, not right after lunch."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "She does her homework.",
+          "is_correct": true,
+          "feedback": "Correct. The word \"Then\" comes after lunch, and then she does her homework."
+        },
+        {
+          "letter": "C",
+          "text": "She goes to bed.",
           "is_correct": false,
-          "feedback": "'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle."
+          "feedback": "Incorrect. Going to bed is the last activity of the day in the text."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "She gets home.",
           "is_correct": false,
-          "feedback": "'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle."
+          "feedback": "Incorrect. She gets home before lunch, at 2 p.m., so it is not after lunch."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Las palabras \"First\" (primero) y \"Then\" (luego) muestran el orden. Primero Laura almuerza (\"has lunch\") y luego hace la tarea (\"does her homework\"). Leer y dormir ocurren en la noche.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.6,
       "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is correct?",
+      "context": "Juan José vive en Neiva; su papá se ducha cada noche antes de dormir porque hace mucho calor.",
       "options": [
         {
-          "letter": "D",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "He take a shower at night.",
           "is_correct": false,
-          "feedback": "'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in."
+          "feedback": "Incorrect. With he the verb needs -s: \"take\" must change to \"takes\"."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "He taking a shower at night.",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for your plane, not the place where your belongings are inspected."
+          "feedback": "Incorrect. The -ing form needs \"is\" before it, and this is a habit, so it needs \"takes\"."
         },
         {
           "letter": "C",
-          "text": "gate",
+          "text": "He a shower takes at night.",
           "is_correct": false,
-          "feedback": "'gate' is the door at the plane you walk through to board, not the place where officials check your things."
+          "feedback": "Incorrect. The word order is wrong: in English the verb goes before \"a shower\"."
+        },
+        {
+          "letter": "D",
+          "text": "He takes a shower at night.",
+          "is_correct": true,
+          "feedback": "Correct. He + takes is the present simple with -s, and the words are in the right order."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "explanation": "En presente simple con he o she el verbo lleva -s: \"He takes a shower\". Además el orden es sujeto + verbo + complemento. Las otras oraciones olvidan la -s, usan -ing sin \"is\" o cambian el orden.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.56,
       "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Andres goes to bed at 8 p.m. He takes a shower before bed. He has dinner before his shower.\"\nWhat is the correct order of his evening?",
+      "context": "Andres vive en Villavicencio y su mamá le pide seguir el mismo orden todas las noches.",
       "options": [
         {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane."
+          "letter": "A",
+          "text": "shower, dinner, bed",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says dinner is before his shower, so dinner must come first."
         },
         {
-          "letter": "A",
-          "text": "visa",
+          "letter": "B",
+          "text": "bed, dinner, shower",
           "is_correct": false,
-          "feedback": "'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline."
+          "feedback": "Incorrect. Going to bed is at the end, because the shower is before bed."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'receipt' is the proof that you paid for something, which is not permission to board a plane."
+          "text": "dinner, shower, bed",
+          "is_correct": true,
+          "feedback": "Correct. Dinner is before the shower, and the shower is before bed: dinner, shower, bed."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "dinner, bed, shower",
           "is_correct": false,
-          "feedback": "'brochure' is a leaflet with tourist information, not a travel document issued to a passenger."
+          "feedback": "Incorrect. The shower is before bed, so bed cannot come before the shower."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "La palabra \"before\" significa antes. La cena va antes de la ducha y la ducha va antes de dormir, por eso el orden es: \"dinner\", \"shower\", \"bed\". Hay que leer cada pista y unirlas.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.5,
       "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Today is Monday. Camila says: \"I watch TV after dinner, but on school nights I go to bed at 8:30.\" Her mom says: \"Camila, it's 8:30!\"\nWhat should Camila do now?",
+      "context": "En Tunja, Camila tiene una regla en su casa para las noches de colegio.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' means visiting the places of interest of a location as a traveler."
+          "text": "Watch TV.",
+          "is_correct": false,
+          "feedback": "Incorrect. She watches TV after dinner, but at 8:30 on a school night her rule says bed."
         },
         {
           "letter": "B",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place."
+          "text": "Go to bed.",
+          "is_correct": true,
+          "feedback": "Correct. Monday is a school night and it is 8:30, the time Camila goes to bed."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "Have dinner.",
           "is_correct": false,
-          "feedback": "'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city."
+          "feedback": "Incorrect. TV comes after dinner, so dinner is already finished by 8:30."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "Do homework.",
           "is_correct": false,
-          "feedback": "'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place."
+          "feedback": "Incorrect. Camila does not mention homework; her rule for 8:30 is to go to bed."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "correct_answer": "B",
+      "explanation": "Lunes es una noche de colegio (\"school night\"). Camila dice que esas noches se acuesta a las 8:30 (\"go to bed\"). Como su mamá dice que ya son las 8:30, lo correcto es irse a dormir.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.45,
       "bundle_id": "CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",

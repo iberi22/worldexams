@@ -19,16 +19,16 @@
           "feedback": "Incorrecto. La puntuación ayuda a la cohesión, pero no garantiza por sí sola el sentido global."
         },
         {
-          "letter": "C",
-          "text": "Que todas las ideas se relacionen con un mismo tema principal.",
-          "is_correct": true,
-          "feedback": "¡Correcto! La unidad temática es la base de la coherencia global."
-        },
-        {
           "letter": "B",
           "text": "Que el texto tenga exactamente tres párrafos.",
           "is_correct": false,
           "feedback": "Incorrecto. La extensión del texto no determina su coherencia."
+        },
+        {
+          "letter": "C",
+          "text": "Que todas las ideas se relacionen con un mismo tema principal.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La unidad temática es la base de la coherencia global."
         },
         {
           "letter": "D",
@@ -71,16 +71,16 @@
           "feedback": "Incorrecto. Aunque el castillo está en Cartagena, \"allí\" se refiere específicamente al sitio mencionado justo antes."
         },
         {
-          "letter": "D",
-          "text": "Al Castillo de San Felipe.",
-          "is_correct": true,
-          "feedback": "¡Correcto! \"Allí\" es un adverbio que funciona como referencia anafórica de lugar para evitar repetir el nombre del monumento."
-        },
-        {
           "letter": "C",
           "text": "A la historia.",
           "is_correct": false,
           "feedback": "Incorrecto. La historia es un concepto abstracto, no un lugar físico al que pueda referirse \"allí\"."
+        },
+        {
+          "letter": "D",
+          "text": "Al Castillo de San Felipe.",
+          "is_correct": true,
+          "feedback": "¡Correcto! \"Allí\" es un adverbio que funciona como referencia anafórica de lugar para evitar repetir el nombre del monumento."
         }
       ],
       "correct_answer": "D",
@@ -111,16 +111,16 @@
           "feedback": "Incorrecto. Es repetitivo y no aplica elipsis."
         },
         {
-          "letter": "C",
-          "text": "Los jaguares son felinos americanos. Habitan principalmente en selvas tropicales.",
-          "is_correct": true,
-          "feedback": "¡Correcto! En la segunda oración se omite el sujeto \"Los jaguares\" porque el lector ya sabe de quién se habla."
-        },
-        {
           "letter": "B",
           "text": "El café colombiano es famoso. El café colombiano se exporta a todo el mundo.",
           "is_correct": false,
           "feedback": "Incorrecto. Repite innecesariamente el sujeto completo."
+        },
+        {
+          "letter": "C",
+          "text": "Los jaguares son felinos americanos. Habitan principalmente en selvas tropicales.",
+          "is_correct": true,
+          "feedback": "¡Correcto! En la segunda oración se omite el sujeto \"Los jaguares\" porque el lector ya sabe de quién se habla."
         },
         {
           "letter": "D",
@@ -209,16 +209,16 @@
           "feedback": "Incorrecto. Hay una relación de finalidad y consecuencia lógica."
         },
         {
-          "letter": "D",
-          "text": "El cultivo de flores es una industria importante en Colombia. Me gusta mucho comer pizza los sábados.",
-          "is_correct": true,
-          "feedback": "¡Correcto! No hay ninguna relación lógica ni temática entre la industria de las flores y el gusto personal por la pizza."
-        },
-        {
           "letter": "C",
           "text": "Gabriel García Márquez ganó el Premio Nobel en 1982. Su obra cumbre es Cien años de soledad.",
           "is_correct": false,
           "feedback": "Incorrecto. Ambas oraciones hablan del mismo autor y sus logros."
+        },
+        {
+          "letter": "D",
+          "text": "El cultivo de flores es una industria importante en Colombia. Me gusta mucho comer pizza los sábados.",
+          "is_correct": true,
+          "feedback": "¡Correcto! No hay ninguna relación lógica ni temática entre la industria de las flores y el gusto personal por la pizza."
         }
       ],
       "correct_answer": "D",
@@ -249,12 +249,6 @@
           "feedback": "Incorrecto. Aquí las ideas están al mismo nivel jerárquico como una lista."
         },
         {
-          "letter": "D",
-          "text": "Progresión de temas derivados, donde un tema general se desglosa en varios aspectos.",
-          "is_correct": true,
-          "feedback": "¡Correcto! El tema general (medidas de convivencia) se divide en tres puntos específicos."
-        },
-        {
           "letter": "B",
           "text": "Progresión constante, donde se repite la misma información con diferentes palabras.",
           "is_correct": false,
@@ -265,6 +259,12 @@
           "text": "Progresión circular, donde el texto termina exactamente donde empezó sin añadir nada.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto avanza hacia una conclusión tras enumerar medidas."
+        },
+        {
+          "letter": "D",
+          "text": "Progresión de temas derivados, donde un tema general se desglosa en varios aspectos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El tema general (medidas de convivencia) se divide en tres puntos específicos."
         }
       ],
       "correct_answer": "D",
@@ -295,16 +295,16 @@
           "feedback": "Incorrecto. Hortaliza incluye al tomate, pero no es su sinónimo directo."
         },
         {
-          "letter": "C",
-          "text": "Es un hiperónimo que engloba a los elementos mencionados anteriormente.",
-          "is_correct": true,
-          "feedback": "¡Correcto! Permite referirse a todo el grupo de vegetales sin repetirlos uno por uno."
-        },
-        {
           "letter": "B",
           "text": "Es un antónimo que sirve para contrastar los tipos de siembra.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay contraste, sino inclusión."
+        },
+        {
+          "letter": "C",
+          "text": "Es un hiperónimo que engloba a los elementos mencionados anteriormente.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Permite referirse a todo el grupo de vegetales sin repetirlos uno por uno."
         },
         {
           "letter": "D",
@@ -428,9 +428,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Al mencionar que los empresarios pagan impuestos.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Este es un dato económico que puede ser parte de un argumento coherente."
+          "text": "En la contradicción entre pedir más inversión y al mismo tiempo querer reducir su financiamiento, minimizando la necesidad del dinero.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El argumento se anula a sí mismo al proponer dos acciones opuestas respecto al dinero de la educación."
         },
         {
           "letter": "B",
@@ -440,9 +440,9 @@
         },
         {
           "letter": "C",
-          "text": "En la contradicción entre pedir más inversión y al mismo tiempo querer reducir su financiamiento, minimizando la necesidad del dinero.",
-          "is_correct": true,
-          "feedback": "¡Correcto! El argumento se anula a sí mismo al proponer dos acciones opuestas respecto al dinero de la educación."
+          "text": "Al mencionar que los empresarios pagan impuestos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un dato económico que puede ser parte de un argumento coherente."
         },
         {
           "letter": "D",
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. El conector es adecuado para introducir un contraste, el problema es el fondo de la idea contrastada."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La no-contradicción es un principio básico de la lógica y la coherencia. Un texto que afirma algo y luego lo niega sin una síntesis superior pierde su validez comunicativa.",
       "difficulty": "10",
       "images": [],

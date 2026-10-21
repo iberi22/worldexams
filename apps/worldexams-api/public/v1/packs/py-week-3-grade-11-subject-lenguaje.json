@@ -148,12 +148,6 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "Los estudiantes del Colegio Nacional Hernandarias estudian mucho.",
-          "is_correct": true,
-          "feedback": "Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'."
-        },
-        {
           "letter": "A",
           "text": "Los estudiantes de la escuela estudian poco.",
           "is_correct": false,
@@ -170,6 +164,12 @@
           "text": "Los estudiantes del instituto estudian mucho.",
           "is_correct": false,
           "feedback": "Incorrecto. Comparte con la correcta la concordancia y el verbo 'estudian mucho', y se diferencia en un solo punto decisivo: emplea 'el instituto', un nombre comun, en lugar del nombre oficial completo."
+        },
+        {
+          "letter": "D",
+          "text": "Los estudiantes del Colegio Nacional Hernandarias estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'."
         }
       ],
       "correct_answer": "D",
@@ -418,16 +418,16 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "El agua es esencial para la vida y debe cuidarse",
-          "is_correct": true,
-          "feedback": "Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen."
-        },
-        {
           "letter": "A",
           "text": "El agua solo se usa para beber",
           "is_correct": false,
           "feedback": "Incorrecto. Reduce el agua a un solo uso domestico. El texto la presenta como recurso vital para la vida en general, no unicamente como algo con que beber."
+        },
+        {
+          "letter": "B",
+          "text": "El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen."
         },
         {
           "letter": "C",
@@ -553,12 +553,6 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "ademas",
-          "is_correct": true,
-          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Salto del Guaira y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
-        },
-        {
           "letter": "A",
           "text": "sin embargo",
           "is_correct": false,
@@ -575,6 +569,12 @@
           "text": "aunque",
           "is_correct": false,
           "feedback": "Incorrecto. 'Aunque' introduce una concesion: lo que va detras se opone a lo esperado. La segunda proposicion no contradice la primera, la completa, asi que este conector tampoco corresponde."
+        },
+        {
+          "letter": "D",
+          "text": "ademas",
+          "is_correct": true,
+          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Salto del Guaira y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
         }
       ],
       "correct_answer": "D",
@@ -598,12 +598,6 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "¿Cuánto dura el viaje a San Juan Bautista?",
-          "is_correct": true,
-          "feedback": "Correcto. 'Cuánto' es tónico en la interrogación, así que lleva tilde diacrítica obligatoria; esa tilde es lo que lo distingue del relativo 'cuanto', que se escribe sin ella."
-        },
-        {
           "letter": "A",
           "text": "¿Cuanto dura el viaje a San Juan Bautista?",
           "is_correct": false,
@@ -620,6 +614,12 @@
           "text": "¿Cuando llega el colectivo?",
           "is_correct": false,
           "feedback": "Incorrecto. 'Cuando' introduce una pregunta y es tónico, así que también lleva tilde diacrítica; sin ella se lee como el relativo temporal 'cuando'."
+        },
+        {
+          "letter": "D",
+          "text": "¿Cuánto dura el viaje a San Juan Bautista?",
+          "is_correct": true,
+          "feedback": "Correcto. 'Cuánto' es tónico en la interrogación, así que lleva tilde diacrítica obligatoria; esa tilde es lo que lo distingue del relativo 'cuanto', que se escribe sin ella."
         }
       ],
       "correct_answer": "D",
@@ -869,15 +869,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Ahorrar agua y energia en la escuela exige un compromiso cotidiano de todos.",
-          "is_correct": true,
-          "feedback": "Correcto. La idea principal reune las dos recomendaciones del texto en una sola idea: el ahorro se consigue solo si cada estudiante lo asume a diario."
-        },
-        {
-          "letter": "B",
           "text": "El agua de la escuela se desperdicia por culpa del personal de limpieza.",
           "is_correct": false,
           "feedback": "Incorrecto. Atribuye la causa a un grupo concreto que el texto no menciona y convierte una recomendación general en una acusación."
+        },
+        {
+          "letter": "B",
+          "text": "Ahorrar agua y energia en la escuela exige un compromiso cotidiano de todos.",
+          "is_correct": true,
+          "feedback": "Correcto. La idea principal reune las dos recomendaciones del texto en una sola idea: el ahorro se consigue solo si cada estudiante lo asume a diario."
         },
         {
           "letter": "C",
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Afirma lo contrario de lo que sostiene el texto, que recomienda justamente evitar esos consumos con la intención de reducirlos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El texto destaca que el ahorro de agua y energia depende de un compromiso cotidiano de toda la comunidad escolar.\n\n---",
       "difficulty": "10",
       "images": [],

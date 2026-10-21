@@ -103,12 +103,6 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "ademas",
-          "is_correct": true,
-          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Luque y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
-        },
-        {
           "letter": "A",
           "text": "sin embargo",
           "is_correct": false,
@@ -125,6 +119,12 @@
           "text": "aunque",
           "is_correct": false,
           "feedback": "Incorrecto. 'Aunque' introduce una concesion: lo que va detras se opone a lo esperado. La segunda proposicion no contradice la primera, la completa, asi que este conector tampoco corresponde."
+        },
+        {
+          "letter": "D",
+          "text": "ademas",
+          "is_correct": true,
+          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Luque y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
         }
       ],
       "correct_answer": "D",
@@ -148,12 +148,6 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "Los estudiantes del Colegio Nacional Caaguazu estudian mucho.",
-          "is_correct": true,
-          "feedback": "Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'."
-        },
-        {
           "letter": "A",
           "text": "Los estudiantes de la escuela estudian poco.",
           "is_correct": false,
@@ -170,6 +164,12 @@
           "text": "Los estudiantes del instituto estudian mucho.",
           "is_correct": false,
           "feedback": "Incorrecto. Comparte con la correcta la concordancia y el verbo 'estudian mucho', y se diferencia en un solo punto decisivo: emplea 'el instituto', un nombre comun, en lugar del nombre oficial completo."
+        },
+        {
+          "letter": "D",
+          "text": "Los estudiantes del Colegio Nacional Caaguazu estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'."
         }
       ],
       "correct_answer": "D",
@@ -418,12 +418,6 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "El agua es esencial para la vida y debe cuidarse",
-          "is_correct": true,
-          "feedback": "Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen."
-        },
-        {
           "letter": "A",
           "text": "El agua solo se usa para beber",
           "is_correct": false,
@@ -440,6 +434,12 @@
           "text": "El agua es un recurso infinito",
           "is_correct": false,
           "feedback": "Incorrecto. Afirma que el agua es inagotable y con ello borra la necesidad de cuidarla, que es justamente la tesis que el texto sostiene."
+        },
+        {
+          "letter": "D",
+          "text": "El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen."
         }
       ],
       "correct_answer": "D",
@@ -553,16 +553,16 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "ademas",
-          "is_correct": true,
-          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Concepcion y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
-        },
-        {
           "letter": "A",
           "text": "sin embargo",
           "is_correct": false,
           "feedback": "Incorrecto. 'Sin embargo' es adversativo: introduce una idea que se opone a lo que se habia dicho. En esta oracion las dos proposiciones se refuerzan, porque la gente de Concepcion no contradice a su ciudad, asi que una oposicion seria falsa."
+        },
+        {
+          "letter": "B",
+          "text": "ademas",
+          "is_correct": true,
+          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Concepcion y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
         },
         {
           "letter": "C",
@@ -598,16 +598,16 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "Los estudiantes del Colegio Nacional Mariscal Estigarribia estudian mucho.",
-          "is_correct": true,
-          "feedback": "Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'."
-        },
-        {
           "letter": "A",
           "text": "Los estudiantes de la escuela estudian poco.",
           "is_correct": false,
           "feedback": "Incorrecto. La oracion esta bien redactada y con buena concordancia, pero 'la escuela' es un nombre comun que puede designar cualquier centro; el enunciado pide el nombre propio completo de la institucion, y aqui no aparece."
+        },
+        {
+          "letter": "B",
+          "text": "Los estudiantes del Colegio Nacional Mariscal Estigarribia estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'."
         },
         {
           "letter": "C",
@@ -734,15 +734,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Es necesario que estudies para el examen.",
-          "is_correct": true,
-          "feedback": "Es correcta: 'que estudies' es una completiva que ocupa la posición de sujeto y es regida por 'es necesario'."
-        },
-        {
-          "letter": "B",
           "text": "El libro que leí es interesante.",
           "is_correct": false,
           "feedback": "La proposición 'que leí' es adjetiva porque modifica al sustantivo 'libro'."
+        },
+        {
+          "letter": "B",
+          "text": "Es necesario que estudies para el examen.",
+          "is_correct": true,
+          "feedback": "Es correcta: 'que estudies' es una completiva que ocupa la posición de sujeto y es regida por 'es necesario'."
         },
         {
           "letter": "C",
@@ -757,7 +757,7 @@
           "feedback": "Aquí la subordinada también es sustantiva, pero funciona como objeto directo y no como sujeto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las subordinadas sustantivas ejercen la función de sujeto, objeto directo, objeto indirecto o atributo. La que importa en este caso es la que completa la estructura impersonal 'es necesario que'.",
       "difficulty": "10",
       "images": [],
@@ -779,9 +779,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Como llovía, no salimos a pasear.",
-          "is_correct": true,
-          "feedback": "Es correcta: 'como' introduce una subordinada causal que explica la causa de la proposición principal."
+          "text": "Mientras llovía, leímos un libro.",
+          "is_correct": false,
+          "feedback": "Es temporal: indica el momento en que ocurrió la lectura."
         },
         {
           "letter": "B",
@@ -791,9 +791,9 @@
         },
         {
           "letter": "C",
-          "text": "Mientras llovía, leímos un libro.",
-          "is_correct": false,
-          "feedback": "Es temporal: indica el momento en que ocurrió la lectura."
+          "text": "Como llovía, no salimos a pasear.",
+          "is_correct": true,
+          "feedback": "Es correcta: 'como' introduce una subordinada causal que explica la causa de la proposición principal."
         },
         {
           "letter": "D",
@@ -802,7 +802,7 @@
           "feedback": "Es condicional: expresa una hipótesis con la conjunción 'si'."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los conectores causales como 'como', 'porque' o 'ya que' introducen una subordinada que explica el motivo de lo que afirma la proposición principal.",
       "difficulty": "10",
       "images": [],
@@ -824,9 +824,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Concesiva, porque contrasta una circunstancia con el hecho principal",
-          "is_correct": true,
-          "feedback": "Es correcto: que fuera temprano no preveía muita gente, de modo que la proposición se opone a lo esperado."
+          "text": "Temporal, porque sitúa la escena en un momento concreto",
+          "is_correct": false,
+          "feedback": "Aunque admite un sentido temporal, aquí se usa con valor concessivo porque hay contraste con la proposición principal."
         },
         {
           "letter": "B",
@@ -836,9 +836,9 @@
         },
         {
           "letter": "C",
-          "text": "Temporal, porque sitúa la escena en un momento concreto",
-          "is_correct": false,
-          "feedback": "Aunque admite un sentido temporal, aquí se usa con valor concessivo porque hay contraste con la proposición principal."
+          "text": "Concesiva, porque contrasta una circunstancia con el hecho principal",
+          "is_correct": true,
+          "feedback": "Es correcto: que fuera temprano no preveía muita gente, de modo que la proposición se opone a lo esperado."
         },
         {
           "letter": "D",
@@ -847,7 +847,7 @@
           "feedback": "No hay ningún propósito expresado; el conector no cumple esa función."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El valor de la subordinada depende de la relación lógica con la proposición principal. Aquí existe una contraposición entre la hora del día y la multitud, de modo que es concessiva.",
       "difficulty": "10",
       "images": [],
@@ -868,12 +868,6 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "C",
-          "text": "El agua es esencial para la vida y debe cuidarse",
-          "is_correct": true,
-          "feedback": "Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen."
-        },
-        {
           "letter": "A",
           "text": "El agua solo se usa para beber",
           "is_correct": false,
@@ -884,6 +878,12 @@
           "text": "El agua no es importante",
           "is_correct": false,
           "feedback": "Incorrecto. Contradice de frente al texto: si el agua careciera de importancia, no tendria sentido que el texto insistiera en su cuidado. Una idea principal entre las opciones no puede negar lo que el propio texto afirma."
+        },
+        {
+          "letter": "C",
+          "text": "El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen."
         },
         {
           "letter": "D",

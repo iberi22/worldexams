@@ -19,12 +19,6 @@
           "feedback": "Incorrect. Needs third person 's'."
         },
         {
-          "letter": "D",
-          "text": "rides",
-          "is_correct": true,
-          "feedback": "Correct! Present Simple third person."
-        },
-        {
           "letter": "B",
           "text": "riding",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "is ride",
           "is_correct": false,
           "feedback": "The third person singular takes \"is\", and a main verb needs the base form \"ride\", not the bare infinitive after an auxiliary."
+        },
+        {
+          "letter": "D",
+          "text": "rides",
+          "is_correct": true,
+          "feedback": "Correct! Present Simple third person."
         }
       ],
       "correct_answer": "D",
@@ -59,16 +59,16 @@
       "context": "Reviewing the past of \"to be\".",
       "options": [
         {
-          "letter": "B",
-          "text": "was",
-          "is_correct": false,
-          "feedback": "Incorrect. \"We\" is plural."
-        },
-        {
           "letter": "A",
           "text": "were",
           "is_correct": true,
           "feedback": "Correct! Past plural of \"to be\"."
+        },
+        {
+          "letter": "B",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "Incorrect. \"We\" is plural."
         },
         {
           "letter": "C",
@@ -105,12 +105,6 @@
       "context": "Understanding the use of \"should\" for advice.",
       "options": [
         {
-          "letter": "D",
-          "text": "should",
-          "is_correct": true,
-          "feedback": "Correct! Modal for giving advice."
-        },
-        {
           "letter": "A",
           "text": "mustn't",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "will",
           "is_correct": false,
           "feedback": "Incorrect. Not the standard modal for advice."
+        },
+        {
+          "letter": "D",
+          "text": "should",
+          "is_correct": true,
+          "feedback": "Correct! Modal for giving advice."
         }
       ],
       "correct_answer": "D",
@@ -151,16 +151,16 @@
       "context": "Future with \"going to\".",
       "options": [
         {
-          "letter": "B",
-          "text": "am going",
-          "is_correct": false,
-          "feedback": "Incorrect. Missing \"to\"."
-        },
-        {
           "letter": "A",
           "text": "am going to",
           "is_correct": true,
           "feedback": "Correct! Future plan/intention."
+        },
+        {
+          "letter": "B",
+          "text": "am going",
+          "is_correct": false,
+          "feedback": "Incorrect. Missing \"to\"."
         },
         {
           "letter": "C",
@@ -243,6 +243,12 @@
       "context": "A description of a student's achievements.\n\n\"Lucia has visited five countries. She speaks three languages perfectly. Last year, she won a prize for her science project.\"",
       "options": [
         {
+          "letter": "A",
+          "text": "Winning a science prize.",
+          "is_correct": true,
+          "feedback": "Correct! This is a specific past event (\"Last year... won\")."
+        },
+        {
           "letter": "B",
           "text": "Visiting five countries.",
           "is_correct": false,
@@ -253,12 +259,6 @@
           "text": "Speaking three languages.",
           "is_correct": false,
           "feedback": "Incorrect. This is a current ability (Present Simple)."
-        },
-        {
-          "letter": "A",
-          "text": "Winning a science prize.",
-          "is_correct": true,
-          "feedback": "Correct! This is a specific past event (\"Last year... won\")."
         },
         {
           "letter": "D",
@@ -289,12 +289,6 @@
       "context": "Using \"must\" for obligation in a public place.",
       "options": [
         {
-          "letter": "D",
-          "text": "must",
-          "is_correct": true,
-          "feedback": "Correct! Strong obligation/rule."
-        },
-        {
           "letter": "A",
           "text": "don't have to",
           "is_correct": false,
@@ -311,6 +305,12 @@
           "text": "can",
           "is_correct": false,
           "feedback": "Incorrect. While possible, \"must\" is better for rules."
+        },
+        {
+          "letter": "D",
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Correct! Strong obligation/rule."
         }
       ],
       "correct_answer": "D",
@@ -341,12 +341,6 @@
           "feedback": "Incorrect participle."
         },
         {
-          "letter": "D",
-          "text": "I have already done my homework.",
-          "is_correct": true,
-          "feedback": "Correct! Auxiliary + participle \"done\"."
-        },
-        {
           "letter": "B",
           "text": "I has already done my homework.",
           "is_correct": false,
@@ -357,6 +351,12 @@
           "text": "I have already do my homework.",
           "is_correct": false,
           "feedback": "Incorrect verb form."
+        },
+        {
+          "letter": "D",
+          "text": "I have already done my homework.",
+          "is_correct": true,
+          "feedback": "Correct! Auxiliary + participle \"done\"."
         }
       ],
       "correct_answer": "D",
@@ -381,12 +381,6 @@
       "context": "Comparing two people's abilities and plans.\n\n\"Andrés can play soccer very well. He is going to join the school team next week. Mateo doesn't play soccer, but he is a great swimmer.\"",
       "options": [
         {
-          "letter": "D",
-          "text": "They have different athletic skills and Andrés has a specific plan for his sport.",
-          "is_correct": true,
-          "feedback": "Correct! Soccer vs swimming (different skills) and Andrés joining the team (plan)."
-        },
-        {
           "letter": "A",
           "text": "Mateo is going to join the soccer team.",
           "is_correct": false,
@@ -400,12 +394,18 @@
         },
         {
           "letter": "C",
+          "text": "They have different athletic skills and Andrés has a specific plan for his sport.",
+          "is_correct": true,
+          "feedback": "Correct! Soccer vs swimming (different skills) and Andrés joining the team (plan)."
+        },
+        {
+          "letter": "D",
           "text": "Andrés is a swimmer.",
           "is_correct": false,
           "feedback": "Incorrect. Mateo is."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": "The student analyzes details about ability and future intention to identify a correct synthesis.\n\n---",
       "difficulty": "10",
       "images": [],

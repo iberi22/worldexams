@@ -13,16 +13,16 @@
       "context": "El Naturalismo es una corriente literaria que surgió en la segunda mitad del siglo XIX, llevando al extremo los principios del Realismo.",
       "options": [
         {
-          "letter": "B",
-          "text": "Gustave Flaubert",
-          "is_correct": false,
-          "feedback": "Flaubert es un maestro del Realismo, pero no el teórico del Naturalismo."
-        },
-        {
           "letter": "A",
           "text": "Émile Zola",
           "is_correct": true,
           "feedback": "Zola propuso que el novelista debía actuar como un científico que estudia el comportamiento humano."
+        },
+        {
+          "letter": "B",
+          "text": "Gustave Flaubert",
+          "is_correct": false,
+          "feedback": "Flaubert es un maestro del Realismo, pero no el teórico del Naturalismo."
         },
         {
           "letter": "C",
@@ -111,12 +111,6 @@
           "feedback": "Estos escenarios son más propios de la novela realista burguesa."
         },
         {
-          "letter": "D",
-          "text": "Ambientes marginales, miseria, alcoholismo y enfermedades.",
-          "is_correct": true,
-          "feedback": "Se busca analizar la realidad en sus condiciones más extremas y difíciles."
-        },
-        {
           "letter": "B",
           "text": "Paisajes exóticos en islas desiertas y selvas vírgenes.",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "Sueños e imágenes fantásticas del subconsciente.",
           "is_correct": false,
           "feedback": "Esto es propio de movimientos vanguardistas posteriores."
+        },
+        {
+          "letter": "D",
+          "text": "Ambientes marginales, miseria, alcoholismo y enfermedades.",
+          "is_correct": true,
+          "feedback": "Se busca analizar la realidad en sus condiciones más extremas y difíciles."
         }
       ],
       "correct_answer": "D",
@@ -163,16 +163,16 @@
           "feedback": "Se busca la objetividad impersonal, dejando que los hechos hablen solos."
         },
         {
-          "letter": "D",
-          "text": "Observar y registrar los hechos de forma objetiva, sin juzgar moralmente a los personajes.",
-          "is_correct": true,
-          "feedback": "El autor es un observador imparcial que analiza causas y efectos."
-        },
-        {
           "letter": "C",
           "text": "Escribir poemas líricos sobre la belleza de la naturaleza salvaje.",
           "is_correct": false,
           "feedback": "El Naturalismo prefiere la prosa narrativa y temas sociales crudos."
+        },
+        {
+          "letter": "D",
+          "text": "Observar y registrar los hechos de forma objetiva, sin juzgar moralmente a los personajes.",
+          "is_correct": true,
+          "feedback": "El autor es un observador imparcial que analiza causas y efectos."
         }
       ],
       "correct_answer": "D",
@@ -203,16 +203,16 @@
           "feedback": "No es suerte, es una ley biológica predecible según el autor."
         },
         {
-          "letter": "C",
-          "text": "Que la voluntad del joven es débil y no quiere esforzarse.",
-          "is_correct": false,
-          "feedback": "El Naturalismo minimiza la importancia de la voluntad frente a la herencia."
-        },
-        {
           "letter": "B",
           "text": "La herencia biológica como un factor determinante e inevitable de la conducta.",
           "is_correct": true,
           "feedback": "Los vicios o virtudes se transmiten a través de la sangre según esta visión."
+        },
+        {
+          "letter": "C",
+          "text": "Que la voluntad del joven es débil y no quiere esforzarse.",
+          "is_correct": false,
+          "feedback": "El Naturalismo minimiza la importancia de la voluntad frente a la herencia."
         },
         {
           "letter": "D",
@@ -295,16 +295,16 @@
           "feedback": "Es una crítica metafórica sobre el contenido, no física sobre el objeto."
         },
         {
-          "letter": "C",
-          "text": "Porque los autores escribían sus obras dentro de los túneles del metro.",
-          "is_correct": false,
-          "feedback": "No se refiere al lugar de escritura, sino a la temática marginal."
-        },
-        {
           "letter": "B",
           "text": "Por su insistencia en describir los aspectos más crudos, feos y animales del ser humano.",
           "is_correct": true,
           "feedback": "La descripción de enfermedades y vicios rompía con el decoro tradicional de la literatura."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los autores escribían sus obras dentro de los túneles del metro.",
+          "is_correct": false,
+          "feedback": "No se refiere al lugar de escritura, sino a la temática marginal."
         },
         {
           "letter": "D",
@@ -341,16 +341,16 @@
           "feedback": "La obra muestra que el trabajo excesivo en esas condiciones es deshumanizador."
         },
         {
-          "letter": "C",
-          "text": "Demostrar que los dueños de las fábricas eran siempre personas santas.",
-          "is_correct": false,
-          "feedback": "Critica duramente la explotación y la desigualdad social."
-        },
-        {
           "letter": "B",
           "text": "Denunciar las injusticias del sistema y provocar una reflexión sobre la necesidad de cambios sociales profundos.",
           "is_correct": true,
           "feedback": "El naturalismo tiene una fuerte carga de denuncia social y política."
+        },
+        {
+          "letter": "C",
+          "text": "Demostrar que los dueños de las fábricas eran siempre personas santas.",
+          "is_correct": false,
+          "feedback": "Critica duramente la explotación y la desigualdad social."
         },
         {
           "letter": "D",
@@ -387,13 +387,13 @@
           "feedback": "El Naturalismo es realista, no usa elementos fantásticos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que los lobos son animales muy inteligentes y parecidos a nosotros.",
           "is_correct": false,
           "feedback": "La comparación busca degradar al hombre a su estado puramente biológico."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que bajo condiciones extremas, la cultura desaparece y el hombre queda reducido a sus impulsos biológicos.",
           "is_correct": true,
           "feedback": "Es la visión materialista del ser humano como un organismo regido por instintos."
@@ -405,7 +405,7 @@
           "feedback": "La metáfora se aplica a la condición humana en la miseria."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La animalización subraya el pesimismo naturalista: el hombre no es un ser espiritual superior, sino un animal más sometido a las leyes de la naturaleza.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -427,6 +427,12 @@
       "context": "Blasco Ibáñez, en sus novelas valencianas como \"La barraca\", aplicó el Naturalismo a la realidad del campo español.",
       "options": [
         {
+          "letter": "A",
+          "text": "El Renacimiento muestra una naturaleza armoniosa; el Naturalismo muestra una naturaleza hostil y un trabajo campesino agotador y brutal.",
+          "is_correct": true,
+          "feedback": "El campo naturalista es un lugar de lucha, sudor y conflictos sociales violentos."
+        },
+        {
           "letter": "B",
           "text": "En el Renacimiento el campo era feo y en el Naturalismo es muy bonito.",
           "is_correct": false,
@@ -437,12 +443,6 @@
           "text": "En el Renacimiento los pastores eran pobres y en el Naturalismo son todos ricos.",
           "is_correct": false,
           "feedback": "En el Naturalismo se muestra la pobreza real y la lucha por la tierra."
-        },
-        {
-          "letter": "A",
-          "text": "El Renacimiento muestra una naturaleza armoniosa; el Naturalismo muestra una naturaleza hostil y un trabajo campesino agotador y brutal.",
-          "is_correct": true,
-          "feedback": "El campo naturalista es un lugar de lucha, sudor y conflictos sociales violentos."
         },
         {
           "letter": "D",
@@ -485,16 +485,16 @@
           "feedback": "Eran novelas muy extensas y densas."
         },
         {
-          "letter": "D",
-          "text": "Mediante el uso de \"planos\" descriptivos, atención a la luz y una mirada casi mecánica sobre la realidad.",
-          "is_correct": true,
-          "feedback": "La minuciosidad descriptiva preparó al lector para la narrativa visual de la cámara."
-        },
-        {
           "letter": "C",
           "text": "Porque los personajes hablaban poco para que se pudiera ver bien la acción.",
           "is_correct": false,
           "feedback": "Los diálogos eran extensos, pero la fuerza residía en la ambientación visual detallada."
+        },
+        {
+          "letter": "D",
+          "text": "Mediante el uso de \"planos\" descriptivos, atención a la luz y una mirada casi mecánica sobre la realidad.",
+          "is_correct": true,
+          "feedback": "La minuciosidad descriptiva preparó al lector para la narrativa visual de la cámara."
         }
       ],
       "correct_answer": "D",
@@ -519,6 +519,12 @@
       "context": "El Naturalismo ha sido criticado por ser excesivamente pesimista, eliminando la esperanza de cambio personal.",
       "options": [
         {
+          "letter": "A",
+          "text": "Un valor trágico: la lucha resalta la injusticia de un sistema y de unas leyes que aplastan al individuo a pesar de su esfuerzo.",
+          "is_correct": true,
+          "feedback": "La tragedia reside en la imposibilidad de escapar de la \"trampa\" biológica y social."
+        },
+        {
           "letter": "B",
           "text": "Tiene un gran valor porque siempre logran vencer al destino al final.",
           "is_correct": false,
@@ -529,12 +535,6 @@
           "text": "Ningún valor, por eso las novelas naturalistas no tienen protagonistas.",
           "is_correct": false,
           "feedback": "Tienen protagonistas, pero su lucha es contra fuerzas superiores."
-        },
-        {
-          "letter": "A",
-          "text": "Un valor trágico: la lucha resalta la injusticia de un sistema y de unas leyes que aplastan al individuo a pesar de su esfuerzo.",
-          "is_correct": true,
-          "feedback": "La tragedia reside en la imposibilidad de escapar de la \"trampa\" biológica y social."
         },
         {
           "letter": "D",

@@ -388,9 +388,9 @@
         },
         {
           "letter": "B",
-          "text": "Para proteger sus conocimientos sagrados de la censura y persecución de los frailes españoles.",
-          "is_correct": true,
-          "feedback": "Correcto. El simbolismo servía como una clave que solo los iniciados mayas podían entender."
+          "text": "Para que los futuros científicos del siglo XXI tuvieran acertijos que resolver.",
+          "is_correct": false,
+          "feedback": "Los textos se escribieron para su uso contemporáneo por la propia comunidad."
         },
         {
           "letter": "C",
@@ -400,12 +400,12 @@
         },
         {
           "letter": "D",
-          "text": "Para que los futuros científicos del siglo XXI tuvieran acertijos que resolver.",
-          "is_correct": false,
-          "feedback": "Los textos se escribieron para su uso contemporáneo por la propia comunidad."
+          "text": "Para proteger sus conocimientos sagrados de la censura y persecución de los frailes españoles.",
+          "is_correct": true,
+          "feedback": "Correcto. El simbolismo servía como una clave que solo los iniciados mayas podían entender."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El simbolismo en la literatura de resistencia permite conservar la esencia de una creencia bajo una apariencia que puede resultar inofensiva o incomprensible para el opresor.\n\n---",
       "difficulty": "8",
       "images": [],

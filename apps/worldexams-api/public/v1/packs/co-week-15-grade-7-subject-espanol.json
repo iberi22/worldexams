@@ -296,9 +296,9 @@
         },
         {
           "letter": "B",
-          "text": "La primera muestra una secuencia lógica esperada y la segunda una situación inesperada o contraria.",
-          "is_correct": true,
-          "feedback": "¡Correcto! El nexo copulativo suma hechos, mientras que el adversativo subraya que no ocurrió lo que se esperaba."
+          "text": "La primera oración es falsa porque siempre que llueve fuerte los ríos suben.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis es lingüístico sobre la intención del nexo, no sobre verdades geográficas universales."
         },
         {
           "letter": "C",
@@ -308,12 +308,12 @@
         },
         {
           "letter": "D",
-          "text": "La primera oración es falsa porque siempre que llueve fuerte los ríos suben.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El análisis es lingüístico sobre la intención del nexo, no sobre verdades geográficas universales."
+          "text": "La primera muestra una secuencia lógica esperada y la segunda una situación inesperada o contraria.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El nexo copulativo suma hechos, mientras que el adversativo subraya que no ocurrió lo que se esperaba."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los nexos coordinantes no solo unen palabras, sino que establecen marcos lógicos (suma vs. oposición) que el lector debe interpretar para comprender la postura del emisor.",
       "difficulty": "8",
       "images": [],

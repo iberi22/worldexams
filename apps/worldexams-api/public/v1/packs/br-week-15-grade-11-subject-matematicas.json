@@ -13,16 +13,16 @@
       "context": "Um estudante em São Paulo revisa os elementos de uma pirâmide para o ENEM.",
       "options": [
         {
-          "letter": "B",
-          "text": "4",
-          "is_correct": false,
-          "feedback": "Incorreto: 4 é o número de faces laterais."
-        },
-        {
           "letter": "A",
           "text": "5",
           "is_correct": true,
           "feedback": "Correto: 4 faces laterais triangulares + 1 base = 5 faces."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorreto: 4 é o número de faces laterais."
         },
         {
           "letter": "C",
@@ -58,16 +58,16 @@
       "context": "Durante uma aula em Curitiba, o professor pergunta a fórmula do volume de um cone.",
       "options": [
         {
-          "letter": "B",
-          "text": "πr²h",
-          "is_correct": false,
-          "feedback": "Incorreto: essa é a fórmula do volume do cilindro."
-        },
-        {
           "letter": "A",
           "text": "(1/3)πr²h",
           "is_correct": true,
           "feedback": "Correto: o volume do cone é um terço do volume do cilindro de mesma base e altura."
+        },
+        {
+          "letter": "B",
+          "text": "πr²h",
+          "is_correct": false,
+          "feedback": "Incorreto: essa é a fórmula do volume do cilindro."
         },
         {
           "letter": "C",
@@ -103,12 +103,6 @@
       "context": "Um arquiteto no Rio de Janeiro calcula o volume de uma pirâmide de base quadrada.",
       "options": [
         {
-          "letter": "D",
-          "text": "108 cm³",
-          "is_correct": true,
-          "feedback": "Correto: V = (1/3) × 36 × 9 = 108 cm³."
-        },
-        {
           "letter": "A",
           "text": "324 cm³",
           "is_correct": false,
@@ -125,6 +119,12 @@
           "text": "216 cm³",
           "is_correct": false,
           "feedback": "Incorreto: 216 seria o volume de um cubo de aresta 6."
+        },
+        {
+          "letter": "D",
+          "text": "108 cm³",
+          "is_correct": true,
+          "feedback": "Correto: V = (1/3) × 36 × 9 = 108 cm³."
         }
       ],
       "correct_answer": "D",
@@ -154,12 +154,6 @@
           "feedback": "Incorreto: a geratriz não é a soma do raio com a altura."
         },
         {
-          "letter": "D",
-          "text": "g² = r² + h²",
-          "is_correct": true,
-          "feedback": "Correto: o triângulo formado por geratriz, raio e altura é retângulo."
-        },
-        {
           "letter": "B",
           "text": "g = r·h",
           "is_correct": false,
@@ -170,6 +164,12 @@
           "text": "g² = r² − h²",
           "is_correct": false,
           "feedback": "Incorreto: o quadrado da geratriz é a soma, não a diferença."
+        },
+        {
+          "letter": "D",
+          "text": "g² = r² + h²",
+          "is_correct": true,
+          "feedback": "Correto: o triângulo formado por geratriz, raio e altura é retângulo."
         }
       ],
       "correct_answer": "D",
@@ -193,12 +193,6 @@
       "context": "Um estudante em Salvador analisa a área lateral de um cone.",
       "options": [
         {
-          "letter": "C",
-          "text": "15π cm²",
-          "is_correct": true,
-          "feedback": "Correto: A_lat = πrg = π × 3 × 5 = 15π cm²."
-        },
-        {
           "letter": "A",
           "text": "12π cm²",
           "is_correct": false,
@@ -209,6 +203,12 @@
           "text": "20π cm²",
           "is_correct": false,
           "feedback": "Incorreto: 20π seria πg² com g = 2√5."
+        },
+        {
+          "letter": "C",
+          "text": "15π cm²",
+          "is_correct": true,
+          "feedback": "Correto: A_lat = πrg = π × 3 × 5 = 15π cm²."
         },
         {
           "letter": "D",
@@ -289,12 +289,6 @@
           "feedback": "Incorreto: 24 seria o volume se a área da base fosse 18 m²."
         },
         {
-          "letter": "D",
-          "text": "64 m³",
-          "is_correct": true,
-          "feedback": "Correto: V = (1/3) × 64 × 3 = 64 m³."
-        },
-        {
           "letter": "B",
           "text": "192 m³",
           "is_correct": false,
@@ -305,6 +299,12 @@
           "text": "32 m³",
           "is_correct": false,
           "feedback": "Incorreto: 32 seria o volume se o lado da base fosse 4√2."
+        },
+        {
+          "letter": "D",
+          "text": "64 m³",
+          "is_correct": true,
+          "feedback": "Correto: V = (1/3) × 64 × 3 = 64 m³."
         }
       ],
       "correct_answer": "D",
@@ -379,16 +379,16 @@
           "feedback": "Incorreto: 24 é apenas a área lateral."
         },
         {
-          "letter": "C",
-          "text": "36 cm²",
-          "is_correct": true,
-          "feedback": "Correto: A_total = πr(r + g) = 3 × 2 × (2 + 4) = 36 cm²."
-        },
-        {
           "letter": "B",
           "text": "48 cm²",
           "is_correct": false,
           "feedback": "Incorreto: 48 seria o dobro da área total correta."
+        },
+        {
+          "letter": "C",
+          "text": "36 cm²",
+          "is_correct": true,
+          "feedback": "Correto: A_total = πr(r + g) = 3 × 2 × (2 + 4) = 36 cm²."
         },
         {
           "letter": "D",
@@ -463,12 +463,6 @@
       "context": "Um arquiteto em Florianópolis calcula a área lateral de uma pirâmide regular de base quadrada.",
       "options": [
         {
-          "letter": "D",
-          "text": "60 cm²",
-          "is_correct": true,
-          "feedback": "Correto: o apótema da face é √(4² + 3²) = 5 cm; cada face tem área (6 × 5)/2 = 15 cm²; total = 60 cm²."
-        },
-        {
           "letter": "A",
           "text": "120 cm²",
           "is_correct": false,
@@ -485,6 +479,12 @@
           "text": "30 cm²",
           "is_correct": false,
           "feedback": "Incorreto: 30 é a área de apenas duas faces."
+        },
+        {
+          "letter": "D",
+          "text": "60 cm²",
+          "is_correct": true,
+          "feedback": "Correto: o apótema da face é √(4² + 3²) = 5 cm; cada face tem área (6 × 5)/2 = 15 cm²; total = 60 cm²."
         }
       ],
       "correct_answer": "D",
@@ -508,12 +508,6 @@
       "context": "Um fabricante de embalagens em Porto Alegre dimensiona um cone de papel.",
       "options": [
         {
-          "letter": "C",
-          "text": "6 cm",
-          "is_correct": true,
-          "feedback": "Correto: V = (1/3)πr²h, logo 32π = (1/3)·π·16·h, e h = 6 cm."
-        },
-        {
           "letter": "A",
           "text": "8 cm",
           "is_correct": false,
@@ -524,6 +518,12 @@
           "text": "4 cm",
           "is_correct": false,
           "feedback": "Incorreto: 4 seria a altura se o volume fosse 64π/3."
+        },
+        {
+          "letter": "C",
+          "text": "6 cm",
+          "is_correct": true,
+          "feedback": "Correto: V = (1/3)πr²h, logo 32π = (1/3)·π·16·h, e h = 6 cm."
         },
         {
           "letter": "D",
@@ -559,12 +559,6 @@
           "feedback": "Incorreto: 5 é o raio da base."
         },
         {
-          "letter": "D",
-          "text": "5√3 cm",
-          "is_correct": true,
-          "feedback": "Correto: r = 5 cm e h = √(10² − 5²) = √75 = 5√3 cm."
-        },
-        {
           "letter": "B",
           "text": "10√3 cm",
           "is_correct": false,
@@ -575,6 +569,12 @@
           "text": "10 cm",
           "is_correct": false,
           "feedback": "Incorreto: 10 é a geratriz."
+        },
+        {
+          "letter": "D",
+          "text": "5√3 cm",
+          "is_correct": true,
+          "feedback": "Correto: r = 5 cm e h = √(10² − 5²) = √75 = 5√3 cm."
         }
       ],
       "correct_answer": "D",
@@ -598,12 +598,6 @@
       "context": "Um estudante em Natal calcula o volume de um tetraedro regular.",
       "options": [
         {
-          "letter": "D",
-          "text": "18√2 cm³",
-          "is_correct": true,
-          "feedback": "Correto: V = 6³√2/12 = 216√2/12 = 18√2 cm³."
-        },
-        {
           "letter": "A",
           "text": "36√2 cm³",
           "is_correct": false,
@@ -620,6 +614,12 @@
           "text": "54√2 cm³",
           "is_correct": false,
           "feedback": "Incorreto: 54√2 seria o volume se a aresta fosse 9."
+        },
+        {
+          "letter": "D",
+          "text": "18√2 cm³",
+          "is_correct": true,
+          "feedback": "Correto: V = 6³√2/12 = 216√2/12 = 18√2 cm³."
         }
       ],
       "correct_answer": "D",
@@ -733,12 +733,6 @@
       "context": "Um candidato ao ITA avalia a área lateral de uma pirâmide cujas faces são triângulos equiláteros.",
       "options": [
         {
-          "letter": "C",
-          "text": "16√3 cm²",
-          "is_correct": true,
-          "feedback": "Correto: cada face equilátera de lado 4 tem área 4²√3/4 = 4√3 cm²; total = 4 × 4√3 = 16√3 cm²."
-        },
-        {
           "letter": "A",
           "text": "8√3 cm²",
           "is_correct": false,
@@ -749,6 +743,12 @@
           "text": "32 cm²",
           "is_correct": false,
           "feedback": "Incorreto: 32 seria a área lateral se as faces fossem quadradas."
+        },
+        {
+          "letter": "C",
+          "text": "16√3 cm²",
+          "is_correct": true,
+          "feedback": "Correto: cada face equilátera de lado 4 tem área 4²√3/4 = 4√3 cm²; total = 4 × 4√3 = 16√3 cm²."
         },
         {
           "letter": "D",
@@ -778,16 +778,16 @@
       "context": "Um engenheiro em Belo Horizonte dimensiona um reservatório cônico invertido.",
       "options": [
         {
-          "letter": "B",
-          "text": "1/2",
-          "is_correct": false,
-          "feedback": "Incorreto: o volume não varia linearmente com a altura."
-        },
-        {
           "letter": "A",
           "text": "1/8",
           "is_correct": true,
           "feedback": "Correto: o cone de água é semelhante ao cone total com razão 2/4 = 1/2; o volume é (1/2)³ = 1/8 do total."
+        },
+        {
+          "letter": "B",
+          "text": "1/2",
+          "is_correct": false,
+          "feedback": "Incorreto: o volume não varia linearmente com a altura."
         },
         {
           "letter": "C",
@@ -824,15 +824,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "8√3 cm³",
-          "is_correct": true,
-          "feedback": "Correto: V = (1/3) × 6√3 × 4 = 8√3 cm³."
-        },
-        {
-          "letter": "B",
           "text": "24√3 cm³",
           "is_correct": false,
           "feedback": "Incorreto: 24√3 seria o volume do prisma de mesma base e altura."
+        },
+        {
+          "letter": "B",
+          "text": "8√3 cm³",
+          "is_correct": true,
+          "feedback": "Correto: V = (1/3) × 6√3 × 4 = 8√3 cm³."
         },
         {
           "letter": "C",
@@ -847,7 +847,7 @@
           "feedback": "Incorreto: 4√3 seria o volume se a altura fosse 2 cm."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "O volume da pirâmide é V = (1/3) × área da base × altura = (1/3) × 6√3 × 4 = 8√3 cm³.",
       "difficulty": "10",
       "images": [],
@@ -868,12 +868,6 @@
       "context": "Um pesquisador em Campinas avalia a relação entre a área lateral de um cone e a área de sua base.",
       "options": [
         {
-          "letter": "C",
-          "text": "g = 2r",
-          "is_correct": true,
-          "feedback": "Correto: πrg = 2πr², logo g = 2r (o cone é equilátero)."
-        },
-        {
           "letter": "A",
           "text": "g = r/2",
           "is_correct": false,
@@ -884,6 +878,12 @@
           "text": "g = √2·r",
           "is_correct": false,
           "feedback": "Incorreto: √2·r faria a área lateral ser √2 vezes a base."
+        },
+        {
+          "letter": "C",
+          "text": "g = 2r",
+          "is_correct": true,
+          "feedback": "Correto: πrg = 2πr², logo g = 2r (o cone é equilátero)."
         },
         {
           "letter": "D",

@@ -875,9 +875,9 @@
         },
         {
           "letter": "B",
-          "text": "$k = 2$",
-          "is_correct": true,
-          "feedback": "¡Correcto! Con $k = 2$ la segunda ecuación es el doble de la primera: misma recta."
+          "text": "$k = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema quedaría $x = 4$ y $x + 2y = 4$: solución única."
         },
         {
           "letter": "C",
@@ -887,12 +887,12 @@
         },
         {
           "letter": "D",
-          "text": "$k = 0$",
-          "is_correct": false,
-          "feedback": "Incorrecto. El sistema quedaría $x = 4$ y $x + 2y = 4$: solución única."
+          "text": "$k = 2$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Con $k = 2$ la segunda ecuación es el doble de la primera: misma recta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para infinitas soluciones se necesita proporcionalidad total: $\\frac{1}{2} = \\frac{k}{4} = \\frac{4}{8}$. La primera razón exige $k = 2$, que también cumple la proporción de los términos independientes.",
       "difficulty": "10",
       "images": [],

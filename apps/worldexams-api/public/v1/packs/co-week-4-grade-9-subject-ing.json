@@ -65,16 +65,16 @@
           "feedback": "Incorrect. While possible for a spontaneous decision, \"be going to\" is better for a planned intention."
         },
         {
-          "letter": "C",
-          "text": "am going to recycle",
-          "is_correct": true,
-          "feedback": "Correct! \"Be going to\" expresses a personal intention or plan."
-        },
-        {
           "letter": "B",
           "text": "recycle",
           "is_correct": false,
           "feedback": "Incorrect. This describes a current habit, not a future intention."
+        },
+        {
+          "letter": "C",
+          "text": "am going to recycle",
+          "is_correct": true,
+          "feedback": "Correct! \"Be going to\" expresses a personal intention or plan."
         },
         {
           "letter": "D",
@@ -105,16 +105,16 @@
       "context": "Talking about a scheduled event.",
       "options": [
         {
-          "letter": "B",
-          "text": "will start",
-          "is_correct": false,
-          "feedback": "Incorrect. While used for future, it's less specific than the arrangement form."
-        },
-        {
           "letter": "A",
           "text": "is taking place",
           "is_correct": true,
           "feedback": "Correct! Present Continuous is used for fixed arrangements in the future."
+        },
+        {
+          "letter": "B",
+          "text": "will start",
+          "is_correct": false,
+          "feedback": "Incorrect. While used for future, it's less specific than the arrangement form."
         },
         {
           "letter": "C",
@@ -151,16 +151,16 @@
       "context": "Describing an ongoing action in the future.",
       "options": [
         {
-          "letter": "B",
-          "text": "will use",
-          "is_correct": false,
-          "feedback": "Incorrect. This just predicts the use, not the ongoing state at that time."
-        },
-        {
           "letter": "A",
           "text": "will be using",
           "is_correct": true,
           "feedback": "Correct! Future Continuous describes an action that will be in progress at a specific time in the future."
+        },
+        {
+          "letter": "B",
+          "text": "will use",
+          "is_correct": false,
+          "feedback": "Incorrect. This just predicts the use, not the ongoing state at that time."
         },
         {
           "letter": "C",
@@ -243,16 +243,16 @@
       "context": "Discussing long-term goals for a city.",
       "options": [
         {
-          "letter": "B",
-          "text": "will implement",
-          "is_correct": false,
-          "feedback": "Incorrect. This just states a future act."
-        },
-        {
           "letter": "A",
           "text": "will have implemented",
           "is_correct": true,
           "feedback": "Correct! Future Perfect shows an action that will be completed by a certain point in the future."
+        },
+        {
+          "letter": "B",
+          "text": "will implement",
+          "is_correct": false,
+          "feedback": "Incorrect. This just states a future act."
         },
         {
           "letter": "C",
@@ -289,6 +289,12 @@
       "context": "Distinguishing between future forms.",
       "options": [
         {
+          "letter": "A",
+          "text": "I will be visiting the recycling plant tomorrow.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is more about the ongoing activity during the day."
+        },
+        {
           "letter": "B",
           "text": "I will visit the recycling plant tomorrow.",
           "is_correct": false,
@@ -301,19 +307,13 @@
           "feedback": "Incorrect. This is a plan or intention, but not necessarily a firm arrangement with others."
         },
         {
-          "letter": "A",
+          "letter": "D",
           "text": "I am visiting the recycling plant tomorrow morning.",
           "is_correct": true,
           "feedback": "Correct! Present Continuous for future indicates a fixed arrangement."
-        },
-        {
-          "letter": "D",
-          "text": "I will be visiting the recycling plant tomorrow.",
-          "is_correct": false,
-          "feedback": "Incorrect. This is more about the ongoing activity during the day."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En el nivel B2, es clave distinguir que el Presente Continuo para el futuro implica que ya se han hecho los arreglos necesarios (como una cita o reserva) con otras personas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -335,16 +335,16 @@
       "context": "Understanding the use of \"will\" for spontaneous offers.",
       "options": [
         {
-          "letter": "B",
-          "text": "will take",
-          "is_correct": true,
-          "feedback": "Correct! \"Will\" is used for spontaneous decisions or offers made at the moment of speaking."
-        },
-        {
           "letter": "A",
           "text": "am going to take",
           "is_correct": false,
           "feedback": "Incorrect. This would imply you already planned to take it before the person spoke."
+        },
+        {
+          "letter": "B",
+          "text": "will take",
+          "is_correct": true,
+          "feedback": "Correct! \"Will\" is used for spontaneous decisions or offers made at the moment of speaking."
         },
         {
           "letter": "C",
@@ -387,16 +387,16 @@
           "feedback": "Incorrect. Simple future doesn't emphasize the state by that time."
         },
         {
-          "letter": "C",
-          "text": "will have disappeared",
-          "is_correct": true,
-          "feedback": "Correct! Future Perfect emphasizes the completion of the disappearance by the deadline."
-        },
-        {
           "letter": "B",
           "text": "will be disappearing",
           "is_correct": false,
           "feedback": "Incorrect. This shows the process, but the context usually focuses on the result by the deadline."
+        },
+        {
+          "letter": "C",
+          "text": "will have disappeared",
+          "is_correct": true,
+          "feedback": "Correct! Future Perfect emphasizes the completion of the disappearance by the deadline."
         },
         {
           "letter": "D",
@@ -433,16 +433,16 @@
           "feedback": "Incorrect. Correct for a future event."
         },
         {
-          "letter": "C",
-          "text": "are going to collect",
-          "is_correct": false,
-          "feedback": "Incorrect. Correct for an intention."
-        },
-        {
           "letter": "B",
           "text": "will be collecting",
           "is_correct": true,
           "feedback": "Correct! This should be Future Perfect (*will have collected*) because it refers to the total amount of waste accumulated by the end of the event."
+        },
+        {
+          "letter": "C",
+          "text": "are going to collect",
+          "is_correct": false,
+          "feedback": "Incorrect. Correct for an intention."
         },
         {
           "letter": "D",

@@ -13,16 +13,16 @@
       "context": "Discussing governance & democracy in Barranquilla.",
       "options": [
         {
-          "letter": "B",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
           "text": "alleviate",
           "is_correct": false,
           "feedback": "Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed."
+        },
+        {
+          "letter": "B",
+          "text": "exacerbate",
+          "is_correct": true,
+          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
         },
         {
           "letter": "C",
@@ -59,12 +59,6 @@
       "context": "Discussing governance & democracy in Cartagena.",
       "options": [
         {
-          "letter": "C",
-          "text": "legitimise",
-          "is_correct": true,
-          "feedback": "'Legitimise' means to make something acceptable or valid in the eyes of others, and a low turnout undermines that claim."
-        },
-        {
           "letter": "A",
           "text": "provoke",
           "is_correct": false,
@@ -75,6 +69,12 @@
           "text": "distribute",
           "is_correct": false,
           "feedback": "'Distribute' means to share out among people, and no sharing of anything is mentioned in relation to the vote."
+        },
+        {
+          "letter": "C",
+          "text": "legitimise",
+          "is_correct": true,
+          "feedback": "'Legitimise' means to make something acceptable or valid in the eyes of others, and a low turnout undermines that claim."
         },
         {
           "letter": "D",
@@ -151,12 +151,6 @@
       "context": "Discussing governance & democracy in Barranquilla.",
       "options": [
         {
-          "letter": "C",
-          "text": "confer",
-          "is_correct": true,
-          "feedback": "'Confer' means to give or grant, and a mandate is something conferred by a vote, which very few people cast."
-        },
-        {
           "letter": "A",
           "text": "confiscate",
           "is_correct": false,
@@ -167,6 +161,12 @@
           "text": "defer",
           "is_correct": false,
           "feedback": "'Defer' means to postpone, so it would describe delaying a decision rather than failing to grant one."
+        },
+        {
+          "letter": "C",
+          "text": "confer",
+          "is_correct": true,
+          "feedback": "'Confer' means to give or grant, and a mandate is something conferred by a vote, which very few people cast."
         },
         {
           "letter": "D",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W35-governance-democracy-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on governance & democracy in Barranquilla, what is implied about the role of Advanced Reporting Structures in shaping public opinion?",
-      "context": "Discussing governance & democracy in Barranquilla.",
+      "statement": "Read the text and answer the question.\n\n\"In Barranquilla, young people between 14 and 28 years old can vote for the municipal youth council. The council cannot pass laws, but it can present proposals to the mayor and follow how public money for youth programmes is spent. In the last election, fewer than one in ten eligible young people voted. Council member Daniela believes many did not even know the council existed. 'Before we ask for more power,' she says, 'we need people to know who we are.'\"\n\nWhat does Daniela think is the main problem?",
+      "context": "Reading a short text about a youth council in Barranquilla.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "The council has too much power.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. Daniela talks about asking for more power in the future, so she does not think the council has too much."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "The mayor rejects all of the council's proposals.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. The text says the council can present proposals, but it never says the mayor rejects them."
+        },
+        {
+          "letter": "C",
+          "text": "Many young people do not know that the council exists.",
+          "is_correct": true,
+          "feedback": "Correct. Daniela explains the low turnout by saying many did not know the council existed, and she wants people to know who they are."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Cali.",
+          "text": "The voting age should be raised.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The text gives the age range (14 to 28) but no one suggests changing it."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "The question asks for a speaker's opinion, so focus on Daniela's words. She links the low turnout (fewer than one in ten) to a lack of awareness and says the priority is to make the council known. The other options mention topics from the text but not her view.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-11-2026-W35-governance-democracy-001-MASTERY-bundle-v6",
-      "statement": "According to a recent report on governance & democracy in Cartagena, what is implied about the role of Advanced Reporting Structures in shaping public opinion?",
-      "context": "Discussing governance & democracy in Cartagena.",
+      "statement": "Read the text and answer the question.\n\n\"In some neighbourhoods of Cartagena, residents can decide how to spend part of the local budget. In open meetings, people propose projects, such as fixing a street or building a small library, and then vote for their favourites. The projects with the most votes receive funding. Afterwards, a committee of residents visits the works to check that the money is spent as promised. Supporters say this process makes local officials more accountable, because citizens can see exactly where the money goes.\"\n\nIn the text, \"accountable\" means that officials...",
+      "context": "Reading a short text about participatory budgeting in Cartagena.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "letter": "A",
+          "text": "count the votes more quickly.",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Accountable' looks like 'count', but it is not about counting votes; it is about responsibility for decisions."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "letter": "B",
+          "text": "must explain and justify how they use public money.",
+          "is_correct": true,
+          "feedback": "Correct. Citizens check the works and see 'exactly where the money goes', so officials have to answer for their spending."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "can spend money without asking anyone.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. This is the opposite: the process adds citizen control over how the money is spent."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bucaramanga.",
+          "text": "are elected for longer periods.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The text does not mention the length of officials' terms."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Being 'accountable' means being responsible for your actions and having to explain them to others. The clause 'because citizens can see exactly where the money goes' gives the reason, showing that officials' spending is open to checking by residents.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -285,36 +285,36 @@
     },
     {
       "id": "CO-ING-11-2026-W35-governance-democracy-001-MASTERY-bundle-v7",
-      "statement": "According to a recent report on governance & democracy in Bogotá, what is implied about the role of Advanced Reporting Structures in shaping public opinion?",
-      "context": "Discussing governance & democracy in Bogotá.",
+      "statement": "Read the text and answer the question.\n\n\"Last year, the local council of a district in Bogotá planned to remove a bicycle lane to make room for more parking. Cyclists collected more than 5,000 signatures and asked for a public hearing. At the hearing, shop owners, cyclists and residents presented their views for three hours. In the end, the council decided to keep the bicycle lane and create parking spaces on a nearby side street instead.\"\n\nWhat does the text suggest about the signatures?",
+      "context": "Reading a short text about a public hearing in Bogotá.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "They were collected by the shop owners.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. The text says the cyclists collected the signatures; shop owners only spoke at the hearing."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "The council ignored them.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. A public hearing took place after the signatures were delivered, so they were not ignored."
+        },
+        {
+          "letter": "C",
+          "text": "They helped the cyclists obtain a public hearing on the decision.",
+          "is_correct": true,
+          "feedback": "Correct. The cyclists collected signatures and asked for a hearing, which then happened, so the signatures supported that request."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Manizales.",
+          "text": "They were needed to elect a new council.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. No election is mentioned; the signatures were about the bicycle lane decision."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "The sequence of events supports the inference: signatures were collected, a hearing was requested, the hearing took place and the decision changed. Citizen participation tools such as petitions and hearings can influence local government decisions.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -331,36 +331,36 @@
     },
     {
       "id": "CO-ING-11-2026-W35-governance-democracy-001-MASTERY-bundle-v8",
-      "statement": "According to a recent report on governance & democracy in Medellín, what is implied about the role of Advanced Reporting Structures in shaping public opinion?",
-      "context": "Discussing governance & democracy in Medellín.",
+      "statement": "Read the text and answer the question.\n\n\"In every public school in Colombia, students elect a 'personero', a student from the last grade whose job is to defend students' rights. At a school in Medellín, this year's candidates had to present their proposals in a public debate. One candidate promised free ice cream every Friday; another proposed a box where students could report problems anonymously. The second candidate won by a large majority. Teachers said the result showed that students valued realistic proposals over easy promises.\"\n\nWhat is the main idea of the text?",
+      "context": "Reading a short text about a school election in Medellín.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "letter": "A",
+          "text": "Free ice cream is the most popular proposal in Medellín schools.",
+          "is_correct": false,
+          "feedback": "Incorrect. The candidate who promised ice cream lost, so the proposal was not the most popular."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "letter": "B",
+          "text": "Students chose a candidate with a practical proposal over one with an easy promise.",
+          "is_correct": true,
+          "feedback": "Correct. The anonymous box won by a large majority, and the teachers explain this as students valuing realistic proposals."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Teachers choose the personero in Colombian schools.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. The first sentence says students elect the personero; teachers only commented on the result."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bogotá.",
+          "text": "Debates are not allowed in school elections.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The candidates had to present their proposals in a public debate, which contradicts this option."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "A main idea summarises the whole text. Here the facts (two different proposals, the second candidate's victory) lead to the conclusion in the last sentence: students preferred a realistic proposal. Options that contradict details are easy to eliminate.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -381,16 +381,16 @@
       "context": "Discussing governance & democracy in Cartagena.",
       "options": [
         {
-          "letter": "B",
-          "text": "It reduces the strength of the claim",
-          "is_correct": true,
-          "feedback": "By conceding a limitation with 'to some extent', the official commits less to the statement, so the claim carries less force."
-        },
-        {
           "letter": "A",
           "text": "It strengthens the claim beyond doubt",
           "is_correct": false,
           "feedback": "Acknowledging an exception is the opposite of removing doubt, so it weakens rather than confirms the claim."
+        },
+        {
+          "letter": "B",
+          "text": "It reduces the strength of the claim",
+          "is_correct": true,
+          "feedback": "By conceding a limitation with 'to some extent', the official commits less to the statement, so the claim carries less force."
         },
         {
           "letter": "C",
@@ -423,36 +423,36 @@
     },
     {
       "id": "CO-ING-11-2026-W35-governance-democracy-001-MASTERY-bundle-v10",
-      "statement": "According to a recent report on governance & democracy in Pereira, what is implied about the role of Advanced Reporting Structures in shaping public opinion?",
-      "context": "Discussing governance & democracy in Pereira.",
+      "statement": "Read the text and answer the question.\n\n\"Every four years, some people in Pereira say that voting changes nothing. I disagree. Local elections decide who manages our water, our buses and our schools. In some local elections in Colombia, the difference between the winner and the second candidate has been only a few hundred votes, fewer people than fit in a school auditorium. If you think your vote is too small to matter, remember that small numbers can decide a result. On election day, please go and vote.\"\n\nWhat is the writer's main purpose?",
+      "context": "Reading a short opinion text about voting in Pereira.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "To explain how buses are managed in Pereira.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. Buses are only one example of what local governments manage; the text does not explain how they work."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "To report the official results of the last election.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. The writer gives no official results; the example of close elections supports an argument."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Pereira.",
+          "text": "To criticise the people who organise elections.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The writer criticises the idea that voting changes nothing, not the election organisers."
+        },
+        {
+          "letter": "D",
+          "text": "To persuade readers that their vote matters and that they should vote.",
+          "is_correct": true,
+          "feedback": "Correct. The writer states 'I disagree', gives reasons and ends with a direct request: 'please go and vote'."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Persuasive texts state a position, support it with reasons or examples and often end with a call to action. Here the position is 'I disagree', the evidence is that local governments manage important services and that close results happen, and the call to action is 'please go and vote'.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -473,16 +473,16 @@
       "context": "Discussing governance & democracy in Medellín.",
       "options": [
         {
-          "letter": "B",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
           "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
+        },
+        {
+          "letter": "B",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
         },
         {
           "letter": "C",
@@ -519,16 +519,16 @@
       "context": "Discussing governance & democracy in Bogotá.",
       "options": [
         {
-          "letter": "B",
-          "text": "does",
-          "is_correct": true,
-          "feedback": "'Rarely' is a negative-frequency adverb and it takes an affirmative auxiliary, so 'does a bill pass' is correct."
-        },
-        {
           "letter": "A",
           "text": "a bill does",
           "is_correct": false,
           "feedback": "In formal English the auxiliary precedes the subject after 'rarely', so the order must be 'does a bill pass'."
+        },
+        {
+          "letter": "B",
+          "text": "does",
+          "is_correct": true,
+          "feedback": "'Rarely' is a negative-frequency adverb and it takes an affirmative auxiliary, so 'does a bill pass' is correct."
         },
         {
           "letter": "C",
@@ -561,36 +561,36 @@
     },
     {
       "id": "CO-ING-11-2026-W35-governance-democracy-001-MASTERY-bundle-v13",
-      "statement": "Complete the following sentence about governance & democracy: 'Not once during the entire term __________ the prime minister faced a vote of no confidence.'",
+      "statement": "Complete the following sentence about governance & democracy: 'Not once during her current term __________ the prime minister faced a vote of no confidence.'",
       "context": "Discussing governance & democracy in Bucaramanga.",
       "options": [
         {
           "letter": "A",
-          "text": "did",
+          "text": "has",
           "is_correct": true,
-          "feedback": "Fronting 'Not once' triggers inversion, so the auxiliary 'did' comes before the subject 'the prime minister'."
+          "feedback": "Correct. 'Faced' is a past participle and the term is still running, so the present perfect inverts after 'Not once': 'has the prime minister faced'."
         },
         {
           "letter": "B",
-          "text": "has",
+          "text": "did",
           "is_correct": false,
-          "feedback": "'Has' would not create the inversion that 'Not once' requires, so the emphatic absence of such a vote is lost."
+          "feedback": "Incorrect. 'Did' must be followed by a base form ('did the prime minister face'), but the sentence has the participle 'faced'."
         },
         {
           "letter": "C",
-          "text": "was",
+          "text": "does",
           "is_correct": false,
-          "feedback": "'Was' cannot be inverted to open this clause and does not place the vote after the term described."
+          "feedback": "Incorrect. 'Does' needs a base form and present-simple meaning, so 'does the prime minister faced' is ungrammatical."
         },
         {
           "letter": "D",
-          "text": "did not",
+          "text": "is",
           "is_correct": false,
-          "feedback": "'Did not' would say the prime minister was never in office, whereas the sentence stresses that no such vote occurred."
+          "feedback": "Incorrect. 'Is' with a participle forms a passive, and 'the prime minister is faced a vote' does not work with the object 'a vote of no confidence'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "'Not once' is a fronted negative expression, and English puts the auxiliary before the subject after it: 'not once did the prime minister face a vote of no confidence'.\n\n---",
+      "explanation": "A fronted negative such as 'Not once' triggers subject-auxiliary inversion. Because the sentence already contains the participle 'faced' and the period ('her current term') continues to the present, the correct auxiliary is 'has': 'Not once during her current term has the prime minister faced a vote of no confidence.'\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -611,12 +611,6 @@
       "context": "Discussing governance & democracy in Barranquilla.",
       "options": [
         {
-          "letter": "D",
-          "text": "did",
-          "is_correct": true,
-          "feedback": "Fronting 'Only after' obliges inversion, so the correct order is 'did the ministry agree' rather than the subject leading."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -633,6 +627,12 @@
           "text": "had",
           "is_correct": false,
           "feedback": "'Had' would place the agreement entirely in the past without the inversion the fronted phrase demands."
+        },
+        {
+          "letter": "D",
+          "text": "did",
+          "is_correct": true,
+          "feedback": "Fronting 'Only after' obliges inversion, so the correct order is 'did the ministry agree' rather than the subject leading."
         }
       ],
       "correct_answer": "D",
@@ -657,16 +657,16 @@
       "context": "Discussing governance & democracy in Cali.",
       "options": [
         {
-          "letter": "B",
-          "text": "was",
-          "is_correct": true,
-          "feedback": "'So little' is an intensifier in the formal register and it takes an affirmative auxiliary, so 'was' follows it correctly."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
           "feedback": "'Has' would need a perfect construction, and the sentence describes a completed consultation rather than an ongoing one."
+        },
+        {
+          "letter": "B",
+          "text": "was",
+          "is_correct": true,
+          "feedback": "'So little' is an intensifier in the formal register and it takes an affirmative auxiliary, so 'was' follows it correctly."
         },
         {
           "letter": "C",
@@ -703,16 +703,16 @@
       "context": "Discussing governance & democracy in Manizales.",
       "options": [
         {
-          "letter": "B",
-          "text": "have",
-          "is_correct": true,
-          "feedback": "Fronting 'Only since' obliges inversion, and 'since' points to a period continuing until now, so 'have' is required."
-        },
-        {
           "letter": "A",
           "text": "had",
           "is_correct": false,
           "feedback": "'Had' would place the counting entirely in the past, with no link to the ongoing dispute described."
+        },
+        {
+          "letter": "B",
+          "text": "have",
+          "is_correct": true,
+          "feedback": "Fronting 'Only since' obliges inversion, and 'since' points to a period continuing until now, so 'have' is required."
         },
         {
           "letter": "C",
@@ -749,32 +749,32 @@
       "context": "Discussing governance & democracy in Cali.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
           "text": "They are literally looking for something in the trees of Medellín.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads the idiom literally; nobody in the debate is searching real trees, because the expression is figurative and describes a mistaken line of action."
         },
         {
           "letter": "B",
           "text": "The approach is too noisy and aggressive.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. 'Barking' here does not describe a loud or aggressive tone; the idiom is about choosing the wrong objective, not about how people speak."
         },
         {
           "letter": "C",
           "text": "A new environmental project involving trees should be started.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The word 'tree' belongs to a fixed expression, so the speaker is not proposing a project with trees; the speaker is criticising the approach under discussion."
+        },
+        {
+          "letter": "D",
+          "text": "The current strategy is directed towards the wrong objective.",
+          "is_correct": true,
+          "feedback": "Correct. 'Bark up the wrong tree' means aiming your effort at the wrong cause or target, so the speaker is saying the current plan on governance & democracy points in the wrong direction."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "The idiom 'bark up the wrong tree' comes from hunting dogs that bark at a tree after the animal has escaped to another one. In a debate about governance & democracy, it means the group's effort is aimed at the wrong cause or solution. The literal words (barking, trees) are not part of the message, so any option that mentions real trees or noise misreads the idiom.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -795,12 +795,6 @@
       "context": "Discussing governance & democracy in Bogotá.",
       "options": [
         {
-          "letter": "C",
-          "text": "The discussion keeps returning to the same points without progress.",
-          "is_correct": true,
-          "feedback": "'Going round in circles' means making no actual progress, which is exactly what Camila observes in the committee."
-        },
-        {
           "letter": "A",
           "text": "The committee is meeting far too often.",
           "is_correct": false,
@@ -811,6 +805,12 @@
           "text": "The members are physically walking in a circle.",
           "is_correct": false,
           "feedback": "That is a literal reading of a figurative expression, and no physical movement is described."
+        },
+        {
+          "letter": "C",
+          "text": "The discussion keeps returning to the same points without progress.",
+          "is_correct": true,
+          "feedback": "'Going round in circles' means making no actual progress, which is exactly what Camila observes in the committee."
         },
         {
           "letter": "D",
@@ -837,36 +837,36 @@
     },
     {
       "id": "CO-ING-11-2026-W35-governance-democracy-001-MASTERY-bundle-v19",
-      "statement": "In a high-level debate about governance & democracy, Lucía says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Lucía mean?",
-      "context": "Discussing governance & democracy in Bucaramanga.",
+      "statement": "Read the dialogue.\n\nJournalist: \"Who is responsible for repairing the broken traffic lights?\"\nOfficial from the mayor's office: \"That's the transport department's job.\"\nOfficial from the transport department: \"You should ask the mayor's office.\"\nResident: \"They're just passing the buck.\"\n\nWhat does the resident mean?",
+      "context": "A conversation about broken traffic lights in Bucaramanga.",
       "options": [
         {
           "letter": "A",
-          "text": "The current strategy is directed towards the wrong objective.",
+          "text": "Each office is avoiding responsibility by blaming the other.",
           "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "feedback": "Correct. 'Pass the buck' means to make someone else responsible, which is exactly what both officials do."
         },
         {
           "letter": "B",
-          "text": "They are literally looking for something in the trees of Barranquilla.",
+          "text": "The offices are giving money to each other.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads 'buck' as money (a dollar); in the idiom it refers to responsibility, not payment."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The two offices are working together efficiently.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. Each office sends the journalist to the other, which shows a lack of cooperation, not efficiency."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "The traffic lights will be repaired quickly.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. Nobody accepts the job, so the dialogue suggests the opposite: the repair is being delayed."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "The idiom 'pass the buck' means to avoid a duty by making another person or office responsible for it. The dialogue shows the pattern clearly: the first official points to the transport department, and the transport department points back to the mayor's office.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -883,36 +883,36 @@
     },
     {
       "id": "CO-ING-11-2026-W35-governance-democracy-001-MASTERY-bundle-v20",
-      "statement": "In a high-level debate about governance & democracy, Sebastián says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Sebastián mean?",
-      "context": "Discussing governance & democracy in Bogotá.",
+      "statement": "Read the dialogue.\n\nAndrea: \"Did you hear the news about the president of the local council?\"\nFelipe: \"Yes. After the scandal, she decided to step down, so the council will choose someone new next week.\"\n\nWhat does \"step down\" mean here?",
+      "context": "A conversation about a council president in Bogotá.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Pereira.",
+          "text": "Walk downstairs to talk to journalists.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This is a literal reading of 'step' and 'down'; the phrasal verb refers to leaving a position."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Be promoted to a higher position.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. This is the opposite direction; she leaves her post and the council must replace her."
         },
         {
           "letter": "C",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Refuse to answer questions about the scandal.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The dialogue mentions no questions; 'step down' is about her job, not about speaking."
+        },
+        {
+          "letter": "D",
+          "text": "Resign from her position.",
+          "is_correct": true,
+          "feedback": "Correct. 'Step down' means to leave an important job voluntarily, which is why the council will choose someone new."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Step down' is a phrasal verb meaning to resign from an important position. The context confirms it: there was a scandal, and the council now needs to choose a new president, which only makes sense if the current one has left.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
