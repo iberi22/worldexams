@@ -1,0 +1,179 @@
+---
+/**
+ * Pregunta practicable para /preguntas/: las opciones son botones; al elegir
+ * una se muestra correcto/incorrecto, el feedback de esa opción y la
+ * explicación. Sin JS todo el contenido sigue en el HTML dentro de
+ * <details> ("Ver respuesta"), así que los buscadores lo indexan completo.
+ */
+import 'katex/dist/katex.min.css';
+import type { BundleQuestion } from '../../lib/preguntas/bundle-fetcher';
+import { renderRichText } from '../../lib/preguntas/rich-text';
+
+interface Props {
+  question: BundleQuestion;
+  index: number;
+  lang?: string;
+  highlight?: boolean;
+}
+
+const { question: q, index, lang = 'es', highlight = false } = Astro.props;
+
+const pt = lang.toLowerCase().startsWith('pt');
+const L = pt
+  ? {
+      question: 'Pergunta',
+      reveal: 'Ver resposta',
+      correct: 'Correto!',
+      incorrect: 'Incorreto',
+      answer: 'Resposta correta',
+      explanation: 'Explicação',
+      retry: 'Tentar novamente',
+      pick: 'Escolha uma opção para verificar sua resposta.',
+    }
+  : {
+      question: 'Pregunta',
+      reveal: 'Ver respuesta',
+      correct: '¡Correcto!',
+      incorrect: 'Incorrecto',
+      answer: 'Respuesta correcta',
+      explanation: 'Explicación',
+      retry: 'Intentar de nuevo',
+      pick: 'Elige una opción para comprobar tu respuesta.',
+    };
+
+const correct = q.options.find((o) => o.correct);
+const explanationHtml = renderRichText(q.explanation);
+---
+
+<article
+  class="practice-question bg-slate-800/80 border border-slate-700/80 rounded-2xl p-6 shadow-xl scroll-mt-24"
+  id={`q-${q.id}`}
+  data-practice-question
+  data-revisar={highlight ? 'true' : undefined}
+  aria-labelledby={`q-${q.id}-title`}
+>
+  <div class="flex items-center justify-between mb-4 gap-2 flex-wrap">
+    <h2 id={`q-${q.id}-title`} class="sr-only">{L.question} {q.number || index + 1}</h2>
+    <span aria-hidden="true" class="text-xs font-mono bg-emerald-500/20 text-emerald-300 px-2.5 py-1 rounded-full font-semibold">
+      {L.question} {q.number || index + 1}{q.difficulty ? ` · ${q.difficulty}` : ''}
+    </span>
+    {q.bloom && <span class="text-xs text-slate-400">Bloom: {q.bloom}</span>}
+  </div>
+
+  {q.context && <p class="text-sm text-slate-300 italic mb-3 leading-relaxed" set:html={renderRichText(q.context)} />}
+  <div class="text-base md:text-lg text-white font-medium mb-5 leading-relaxed" set:html={renderRichText(q.statement)} />
+
+  <p class="sr-only">{L.pick}</p>
+  <ul class="grid gap-2.5 mb-4 list-none p-0 m-0">
+    {q.options.map((opt) => (
+      <li>
+        <button
+          type="button"
+          class="w-full text-left p-3.5 rounded-xl border text-sm flex gap-2 items-start transition bg-slate-900/40 border-slate-700/50 text-slate-200 enabled:hover:border-emerald-500/60 enabled:cursor-pointer data-[state=correct]:bg-emerald-950/50 data-[state=correct]:border-emerald-500/70 data-[state=correct]:text-emerald-100 data-[state=incorrect]:bg-rose-950/50 data-[state=incorrect]:border-rose-500/70 data-[state=incorrect]:text-rose-100 data-[state=dim]:opacity-60"
+          data-option={opt.letter}
+          data-correct={opt.correct ? 'true' : 'false'}
+          aria-pressed="false"
+        >
+          <strong class="text-white font-bold shrink-0">{opt.letter})</strong>
+          <span set:html={renderRichText(opt.text)} />
+        </button>
+      </li>
+    ))}
+  </ul>
+
+  <div data-result hidden aria-live="polite" class="rounded-xl border p-4 mb-4 text-sm leading-relaxed data-[state=correct]:border-emerald-500/50 data-[state=correct]:bg-emerald-950/40 data-[state=incorrect]:border-rose-500/50 data-[state=incorrect]:bg-rose-950/40">
+    <p class="font-bold text-white mb-1" data-result-verdict></p>
+    <p class="text-slate-200" data-result-feedback></p>
+    {correct && (
+      <p class="text-slate-300 mt-2" data-result-answer hidden>
+        {L.answer}: <strong class="text-emerald-300">{correct.letter})</strong> <span set:html={renderRichText(correct.text)} />
+      </p>
+    )}
+    {explanationHtml && (
+      <div class="mt-3 pt-3 border-t border-white/10 text-slate-300">
+        <p class="text-xs font-bold text-emerald-400 mb-1">💡 {L.explanation}</p>
+        <div set:html={explanationHtml} />
+      </div>
+    )}
+    <button type="button" data-retry class="mt-3 text-xs font-semibold text-emerald-300 hover:text-emerald-200 underline underline-offset-2">
+      {L.retry}
+    </button>
+  </div>
+
+  <details data-answer-key class="mt-2 pt-4 border-t border-slate-700/60">
+    <summary class="cursor-pointer text-xs font-bold text-emerald-400 hover:text-emerald-300 transition">{L.reveal}</summary>
+    <div class="mt-3 space-y-3 text-sm">
+      {correct && (
+        <p class="text-emerald-200">
+          {L.answer}: <strong>{correct.letter})</strong> <span set:html={renderRichText(correct.text)} />
+        </p>
+      )}
+      <ul class="space-y-2 list-none p-0 m-0">
+        {q.options.map((opt) => (
+          <li class={`p-3 rounded-lg border ${opt.correct ? 'border-emerald-500/40 bg-emerald-950/30' : 'border-slate-700/50 bg-slate-900/40'}`}>
+            <strong class="text-white">{opt.letter})</strong> <span class="text-slate-200" set:html={renderRichText(opt.text)} />
+            {opt.feedback && (
+              <span class="block text-xs text-slate-400 mt-1 leading-relaxed" data-feedback-for={opt.letter} set:html={renderRichText(opt.feedback)} />
+            )}
+          </li>
+        ))}
+      </ul>
+      {explanationHtml && (
+        <div class="text-slate-300 leading-relaxed bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/40">
+          <p class="text-xs font-bold text-emerald-400 mb-1">💡 {L.explanation}</p>
+          <div set:html={explanationHtml} />
+        </div>
+      )}
+    </div>
+  </details>
+
+  <template data-labels data-correct-label={L.correct} data-incorrect-label={L.incorrect}></template>
+</article>
+
+<script>
+  function setup(card: HTMLElement) {
+    const buttons = Array.from(card.querySelectorAll<HTMLButtonElement>('button[data-option]'));
+    const result = card.querySelector<HTMLElement>('[data-result]');
+    const labels = card.querySelector<HTMLElement>('[data-labels]');
+    if (!result || !labels || !buttons.length) return;
+    const verdict = result.querySelector<HTMLElement>('[data-result-verdict]');
+    const feedback = result.querySelector<HTMLElement>('[data-result-feedback]');
+    const answer = result.querySelector<HTMLElement>('[data-result-answer]');
+
+    const reset = () => {
+      for (const b of buttons) {
+        b.disabled = false;
+        b.removeAttribute('data-state');
+        b.setAttribute('aria-pressed', 'false');
+      }
+      result.hidden = true;
+      result.removeAttribute('data-state');
+      buttons[0].focus();
+    };
+
+    for (const button of buttons) {
+      button.addEventListener('click', () => {
+        const ok = button.dataset.correct === 'true';
+        for (const b of buttons) {
+          b.disabled = true;
+          if (b === button) b.dataset.state = ok ? 'correct' : 'incorrect';
+          else if (b.dataset.correct === 'true') b.dataset.state = 'correct';
+          else b.dataset.state = 'dim';
+        }
+        button.setAttribute('aria-pressed', 'true');
+        result.dataset.state = ok ? 'correct' : 'incorrect';
+        if (verdict) verdict.textContent = ok ? labels.dataset.correctLabel ?? '' : labels.dataset.incorrectLabel ?? '';
+        if (feedback) {
+          // Nodo ya renderizado (y escapado) en el servidor dentro de <details>.
+          const source = card.querySelector(`[data-feedback-for="${button.dataset.option}"]`);
+          feedback.replaceChildren(...(source ? Array.from(source.cloneNode(true).childNodes) : []));
+        }
+        if (answer) answer.hidden = ok;
+        result.hidden = false;
+      });
+    }
+    result.querySelector('[data-retry]')?.addEventListener('click', reset);
+  }
+
+  document.querySelectorAll<HTMLElement>('[data-practice-question]').forEach(setup);
+</script>
