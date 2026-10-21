@@ -67,7 +67,8 @@ export function toBundleId(source: PermalinkSource): string {
 
 /**
  * Construye la URL pública de la pregunta, o `null` si el ID no sigue el
- * formato canónico v5.2 (en ese caso no se muestra el enlace).
+ * formato canónico v5.2 (en ese caso no se muestra el enlace). Si se conoce el
+ * ID de la pregunta, se añade `?revisar=<id>` para que la página haga scroll a ella.
  */
 export function buildPublicQuestionUrl(source: PermalinkSource): string | null {
   const bundleId = toBundleId(source);
@@ -82,5 +83,7 @@ export function buildPublicQuestionUrl(source: PermalinkSource): string | null {
   const gradeSlug = gradeToken.toUpperCase() === '3EM' ? '3o-ano' : `grado-${Number(gradeToken)}`;
   const country = countryDir.replace(/_/g, '-');
 
-  return `/preguntas/${country}/${gradeSlug}/${subject}/${encodeURIComponent(bundleId)}/`;
+  const path = `/preguntas/${country}/${gradeSlug}/${subject}/${encodeURIComponent(bundleId)}/`;
+  const questionId = String(source.id ?? '').trim();
+  return questionId && questionId !== bundleId ? `${path}?revisar=${encodeURIComponent(questionId)}` : path;
 }
