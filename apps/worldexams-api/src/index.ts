@@ -1,13 +1,14 @@
 import { routeMesh, createMeshStores, type MeshStores } from "./mesh";
 import { routeRanked } from "./ranked";
 import { routeInstitutions } from "./institutions";
+import { handleTrafficStats, type StatsEnv } from "./stats";
 
 const meshStores: MeshStores = createMeshStores();
 
 import type { RateLimit } from "@cloudflare/workers-types";
 import { mulberry32, shuffle } from "./ranked";
 
-export interface Env {
+export interface Env extends StatsEnv {
   SUPABASE_URL: string
   SUPABASE_ANON_KEY: string
   ASSETS: Fetcher
@@ -689,6 +690,7 @@ export default {
     if (url.pathname.startsWith("/v1/inst/")) {
       return withCors(await routeInstitutions(request, env), request);
     }
+    if (url.pathname === "/v1/stats/traffic") return withCors(await handleTrafficStats(request, env), request)
 
     const r = await routeRanked(request, env);
     if (r) return withCors(r, request);
