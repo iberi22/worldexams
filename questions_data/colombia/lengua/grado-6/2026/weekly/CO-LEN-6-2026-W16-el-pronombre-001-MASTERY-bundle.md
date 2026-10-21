@@ -180,8 +180,8 @@ La cohesión textual se logra cuando el lector identifica sin esfuerzo a qué se
 ¿Qué pronombres aparecen y a qué sustantivo se refieren?
 
 ### Opciones
-- [ ] A) Agrega y Pon son pronombres porque son verbos. <!-- feedback: Incorrecto. Esas palabras son verbos en imperativo, no pronombres. -->
-- [x] B) «Lo» y «te» se refieren al cilantro y al cocinero que prepara. <!-- feedback: Correcto. Cada pronombre evita repetir el sustantivo. -->
+- [x] A) «Lo» y «te» se refieren al cilantro y al cocinero que prepara. <!-- feedback: Correcto. Cada pronombre evita repetir el sustantivo. -->
+- [ ] B) Agrega y Pon son pronombres porque son verbos. <!-- feedback: Incorrecto. Esas palabras son verbos en imperativo, no pronombres. -->
 - [ ] C) Final y gusta son pronombres porque complementan al verbo. <!-- feedback: Incorrecto. Esas palabras son sustantivo y verbo conjugado. -->
 - [ ] D) No hay pronombres, solo verbos y sustantivos. <!-- feedback: Incorrecto. «Lo» y «te» son claramente pronombres. -->
 
@@ -224,8 +224,8 @@ Una referencia pronominal ambigua rompe la comprensión. Para evitarla, el prono
 ### Opciones
 - [ ] A) La alumna escribió correctamente y no hay nada que mejorar. <!-- feedback: Incorrecto. Hay repeticiones que se pueden corregir. -->
 - [ ] B) El verbo «divertimos» está mal conjugado. <!-- feedback: Incorrecto. La conjugación es correcta. -->
-- [x] C) «Nosotras» se repite de forma innecesaria y puede sustituirse por «también». <!-- feedback: Correcto. La repetición del pronombre hace el texto pesado. -->
-- [ ] D) El sustantivo «amigas» debería ir antes del pronombre. <!-- feedback: Incorrecto. El orden no afecta la corrección. -->
+- [ ] C) El sustantivo «amigas» debería ir antes del pronombre. <!-- feedback: Incorrecto. El orden no afecta la corrección. -->
+- [x] D) «Nosotras» se repite de forma innecesaria y puede sustituirse por «también». <!-- feedback: Correcto. La repetición del pronombre hace el texto pesado. -->
 
 ### Explicacion Pedagogica
 Escribir bien incluye evitar repeticiones. Sustituir pronombres por adverbios (también, además), por sinónimos o por elidir el pronombre cuando se sobreentiende mejora la fluidez del texto.

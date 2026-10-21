@@ -19,12 +19,6 @@
           "feedback": "Incorrecto. Sumar incluiría dos veces la zona interior, que no lleva baldosa."
         },
         {
-          "letter": "D",
-          "text": "Restar el área de la figura interior al área de la figura exterior",
-          "is_correct": true,
-          "feedback": "Correcto. La región sombreada es lo que queda del exterior al quitar el interior: área exterior menos área interior."
-        },
-        {
           "letter": "B",
           "text": "Multiplicar el área exterior por el área interior",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "Dividir el área exterior entre el área interior",
           "is_correct": false,
           "feedback": "Incorrecto. Dividir áreas da una razón, no el área de la región."
+        },
+        {
+          "letter": "D",
+          "text": "Restar el área de la figura interior al área de la figura exterior",
+          "is_correct": true,
+          "feedback": "Correcto. La región sombreada es lo que queda del exterior al quitar el interior: área exterior menos área interior."
         }
       ],
       "correct_answer": "D",
@@ -59,16 +59,16 @@
       "context": "En Medellín, un cartel rectangular de 10 cm por 6 cm tiene un logo circular sin pintar en el centro. El resto del cartel va pintado de azul.",
       "options": [
         {
-          "letter": "B",
-          "text": "Calcular el área del rectángulo y restarle el área del círculo",
-          "is_correct": true,
-          "feedback": "Correcto. Lo pintado es todo el cartel menos el logo: 10 × 6 menos pi × r²."
-        },
-        {
           "letter": "A",
           "text": "Calcular el área del círculo y sumarle el área del rectángulo",
           "is_correct": false,
           "feedback": "Incorrecto. Sumar contaría el logo como pintado, lo cual es falso."
+        },
+        {
+          "letter": "B",
+          "text": "Calcular el área del rectángulo y restarle el área del círculo",
+          "is_correct": true,
+          "feedback": "Correcto. Lo pintado es todo el cartel menos el logo: 10 × 6 menos pi × r²."
         },
         {
           "letter": "C",
@@ -151,12 +151,6 @@
       "context": "En Barranquilla, una plaza cuadrada de 20 m de lado tiene en el centro una fuente circular de 4 m de radio que no se pisa. El resto se enchaqueta con adoquín.",
       "options": [
         {
-          "letter": "D",
-          "text": "349,76 m²",
-          "is_correct": true,
-          "feedback": "Correcto. Plaza 20 × 20 = 400 menos fuente 3,14 × 16 = 50,24; 400 - 50,24 = 349,76 m²."
-        },
-        {
           "letter": "A",
           "text": "450,24 m²",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "400 m²",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el área total sin descontar la fuente."
+        },
+        {
+          "letter": "D",
+          "text": "349,76 m²",
+          "is_correct": true,
+          "feedback": "Correcto. Plaza 20 × 20 = 400 menos fuente 3,14 × 16 = 50,24; 400 - 50,24 = 349,76 m²."
         }
       ],
       "correct_answer": "D",
@@ -203,12 +203,6 @@
           "feedback": "Incorrecto. Ese valor resta las áreas en vez de sumar las partes que forman la L."
         },
         {
-          "letter": "D",
-          "text": "56 cm²",
-          "is_correct": true,
-          "feedback": "Correcto. Las partes se suman sin traslapo: 10 × 4 = 40 más 4 × 4 = 16, total 56 cm²."
-        },
-        {
           "letter": "B",
           "text": "40 cm²",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "64 cm²",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor supone un cuadrado de lado mayor al real."
+        },
+        {
+          "letter": "D",
+          "text": "56 cm²",
+          "is_correct": true,
+          "feedback": "Correcto. Las partes se suman sin traslapo: 10 × 4 = 40 más 4 × 4 = 16, total 56 cm²."
         }
       ],
       "correct_answer": "D",
@@ -249,12 +249,6 @@
           "feedback": "Incorrecto. Ese valor multiplica las dimensiones externas con las internas, sin sentido geométrico."
         },
         {
-          "letter": "D",
-          "text": "288 cm²",
-          "is_correct": true,
-          "feedback": "Correcto. Área externa 30 × 24 = 720 menos abertura 24 × 18 = 432; 720 - 432 = 288 cm²."
-        },
-        {
           "letter": "B",
           "text": "432 cm²",
           "is_correct": false,
@@ -265,6 +259,12 @@
           "text": "720 cm²",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el rectángulo completo, sin descontar la abertura."
+        },
+        {
+          "letter": "D",
+          "text": "288 cm²",
+          "is_correct": true,
+          "feedback": "Correcto. Área externa 30 × 24 = 720 menos abertura 24 × 18 = 432; 720 - 432 = 288 cm²."
         }
       ],
       "correct_answer": "D",
@@ -381,12 +381,6 @@
       "context": "En Villavicencio, un contratista afirma que en un cuadrado de 10 m de lado con un círculo inscrito de 5 m de radio, el área de las cuatro esquinas (lo que queda fuera del círculo) es menor que 22 m². Usa pi = 3,14.",
       "options": [
         {
-          "letter": "C",
-          "text": "Sí, porque 100 - 78,5 = 21,5 m², que es menor que 22 m²",
-          "is_correct": true,
-          "feedback": "Correcto. Cuadrado 10 × 10 = 100 menos círculo 3,14 × 25 = 78,5 da 21,5 m² en las esquinas."
-        },
-        {
           "letter": "A",
           "text": "No, porque el área de las esquinas es 78,5 m²",
           "is_correct": false,
@@ -397,6 +391,12 @@
           "text": "Sí, porque el círculo inscrito ocupa todo el cuadrado y no quedan esquinas",
           "is_correct": false,
           "feedback": "Incorrecto. El círculo inscrito deja cuatro esquinas libres que sí tienen área."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque 100 - 78,5 = 21,5 m², que es menor que 22 m²",
+          "is_correct": true,
+          "feedback": "Correcto. Cuadrado 10 × 10 = 100 menos círculo 3,14 × 25 = 78,5 da 21,5 m² en las esquinas."
         },
         {
           "letter": "D",
@@ -428,12 +428,6 @@
       "options": [
         {
           "letter": "A",
-          "text": "El A, porque al recortar un triángulo más grande queda más tela que con el rectángulo pequeño",
-          "is_correct": false,
-          "feedback": "Incorrecto. Recortar más deja MENOS tela: el triángulo quita 16 cm² y el rectángulo solo 8 cm²."
-        },
-        {
-          "letter": "D",
           "text": "El B, porque deja 64 - 8 = 56 cm² frente a 64 - 16 = 48 cm² del A",
           "is_correct": true,
           "feedback": "Correcto. Ambos parten de 64 cm²; al recortar 8 frente a 16, el diseño B conserva más tela (56 > 48)."
@@ -449,9 +443,15 @@
           "text": "Ambos dejan lo mismo porque parten del mismo cuadrado",
           "is_correct": false,
           "feedback": "Incorrecto. Partir del mismo cuadrado no iguala el resultado si los recortes difieren."
+        },
+        {
+          "letter": "D",
+          "text": "El A, porque al recortar un triángulo más grande queda más tela que con el rectángulo pequeño",
+          "is_correct": false,
+          "feedback": "Incorrecto. Recortar más deja MENOS tela: el triángulo quita 16 cm² y el rectángulo solo 8 cm²."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "Tela restante = 64 menos recorte. Diseño A: 64 - 16 = 48 cm². Diseño B: 64 - 8 = 56 cm². El diseño B deja mayor área de tela.",
       "difficulty": "10",
       "images": [],

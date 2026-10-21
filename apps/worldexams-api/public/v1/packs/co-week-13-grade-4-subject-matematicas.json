@@ -250,9 +250,9 @@
         },
         {
           "letter": "B",
-          "text": "Que se están mezclando partes de tamaños diferentes, porque el medio y el tercio no miden igual",
-          "is_correct": true,
-          "feedback": "Correcto. Un medio y un tercio son tamaños distintos, así que hay que convertirlos a sextos antes de sumarlos."
+          "text": "Que las fracciones deben llevar siempre punto y coma",
+          "is_correct": false,
+          "feedback": "Incorrecto. La notación no es el problema, porque las fracciones se pueden escribir con guion o con barra sin cambiar su valor."
         },
         {
           "letter": "C",
@@ -262,12 +262,12 @@
         },
         {
           "letter": "D",
-          "text": "Que las fracciones deben llevar siempre punto y coma",
-          "is_correct": false,
-          "feedback": "Incorrecto. La notación no es el problema, porque las fracciones se pueden escribir con guion o con barra sin cambiar su valor."
+          "text": "Que se están mezclando partes de tamaños diferentes, porque el medio y el tercio no miden igual",
+          "is_correct": true,
+          "feedback": "Correcto. Un medio y un tercio son tamaños distintos, así que hay que convertirlos a sextos antes de sumarlos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Sumar fracciones exige que las dos partes midan lo mismo. Como un medio y un tercio tienen tamaños diferentes, no se pueden sumar de inmediato. El camino correcto es convertirlas a sextos: 1/2 = 3/6 y 1/3 = 2/6, y luego sumar 3 + 2 = 5, lo que da 5/6.",
       "difficulty": "8",
       "images": [],

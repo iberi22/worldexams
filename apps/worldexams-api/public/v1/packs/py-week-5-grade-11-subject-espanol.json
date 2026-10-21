@@ -419,15 +419,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Pretérito pluscuamperfecto de indicativo",
-          "is_correct": true,
-          "feedback": "Es correcta: la combinación del auxiliar 'había' con el participio expresa una acción anterior a otra pasada."
-        },
-        {
-          "letter": "B",
           "text": "Pretérito perfecto compuesto",
           "is_correct": false,
           "feedback": "El pretérito perfecto compuesto se forma con el presente de 'haber', como 'ha terminado'."
+        },
+        {
+          "letter": "B",
+          "text": "Pretérito pluscuamperfecto de indicativo",
+          "is_correct": true,
+          "feedback": "Es correcta: la combinación del auxiliar 'había' con el participio expresa una acción anterior a otra pasada."
         },
         {
           "letter": "C",
@@ -442,7 +442,7 @@
           "feedback": "El condicional expresa una situación hipotética y no una anterioridad en el pasado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los tiempos compuestos articulan la relación temporal entre las acciones. El pluscuamperfecto sitúa una acción antes de otra que ya había ocurrido.",
       "difficulty": "6",
       "images": [],
@@ -464,9 +464,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Llueve mucho en esta región.",
-          "is_correct": true,
-          "feedback": "Es correcta: los impersonales carecen de sujeto explícito y el gerundio se usa con sentido impersonal."
+          "text": "El niño corrió por el parque.",
+          "is_correct": false,
+          "feedback": "Tiene sujeto explícito y por tanto no es impersonal."
         },
         {
           "letter": "B",
@@ -482,12 +482,12 @@
         },
         {
           "letter": "D",
-          "text": "El niño corrió por el parque.",
-          "is_correct": false,
-          "feedback": "Tiene sujeto explícito y por tanto no es impersonal."
+          "text": "Llueve mucho en esta región.",
+          "is_correct": true,
+          "feedback": "Es correcta: los impersonales carecen de sujeto explícito y el gerundio se usa con sentido impersonal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los verbos impersonales no tienen sujeto identificable y el gerundio que los acompaña pierde su valor de participio para asumir un sentido impersonal.",
       "difficulty": "8",
       "images": [],
@@ -509,9 +509,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Al futuro simple de indicativo, primera persona del plural",
-          "is_correct": true,
-          "feedback": "Es correcta: la terminación -emos es la del futuro simple de indicativo en la primera persona del plural."
+          "text": "Al condicional simple, primera persona del plural",
+          "is_correct": false,
+          "feedback": "El condicional correspondiente sería \"seríamos\", con la \"i\" propia de ese modo."
         },
         {
           "letter": "B",
@@ -521,9 +521,9 @@
         },
         {
           "letter": "C",
-          "text": "Al condicional simple, primera persona del plural",
-          "is_correct": false,
-          "feedback": "El condicional correspondiente sería \"seríamos\", con la \"i\" propia de ese modo."
+          "text": "Al futuro simple de indicativo, primera persona del plural",
+          "is_correct": true,
+          "feedback": "Es correcta: la terminación -emos es la del futuro simple de indicativo en la primera persona del plural."
         },
         {
           "letter": "D",
@@ -532,7 +532,7 @@
           "feedback": "El imperfecto se construye con la terminación -ábamos, y la forma dada es claramente futura."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las terminaciones del futuro simple son las mismas para todos los verbos salvo el futuro irregular de 'ser' e 'ir', que tienen formas propias y se aprenden aparte.",
       "difficulty": "8",
       "images": [],
@@ -553,12 +553,6 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "ademas",
-          "is_correct": true,
-          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Itaugua y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
-        },
-        {
           "letter": "A",
           "text": "sin embargo",
           "is_correct": false,
@@ -575,6 +569,12 @@
           "text": "aunque",
           "is_correct": false,
           "feedback": "Incorrecto. 'Aunque' introduce una concesion: lo que va detras se opone a lo esperado. La segunda proposicion no contradice la primera, la completa, asi que este conector tampoco corresponde."
+        },
+        {
+          "letter": "D",
+          "text": "ademas",
+          "is_correct": true,
+          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Itaugua y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
         }
       ],
       "correct_answer": "D",
@@ -644,15 +644,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Una situación hipotética o conditioned",
-          "is_correct": true,
-          "feedback": "Es correcta: el condicional simple expresa hechos hipotéticos o dudosos."
-        },
-        {
-          "letter": "B",
           "text": "Un hecho pasado y consumado",
           "is_correct": false,
           "feedback": "El pretérito perfecto simple afirma un pasado concluido, no una hipótesis."
+        },
+        {
+          "letter": "B",
+          "text": "Una situación hipotética o conditioned",
+          "is_correct": true,
+          "feedback": "Es correcta: el condicional simple expresa hechos hipotéticos o dudosos."
         },
         {
           "letter": "C",
@@ -667,7 +667,7 @@
           "feedback": "El imperativo da órdenes, y no comparte forma con el condicional simple."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El condicional simple tiene un valor dubitativo y otro hipotético. Aparece enperiodo condicional, en las cortesías y en los Titulares de periodicals.",
       "difficulty": "8",
       "images": [],
@@ -689,9 +689,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Hablando",
-          "is_correct": true,
-          "feedback": "Es correcta: el gerundio se forma añadiendo -ando o -iendo al infinitivo, y es invariable."
+          "text": "Hablaré",
+          "is_correct": false,
+          "feedback": "Es futuro simple de indicativo."
         },
         {
           "letter": "B",
@@ -701,9 +701,9 @@
         },
         {
           "letter": "C",
-          "text": "Hablaré",
-          "is_correct": false,
-          "feedback": "Es futuro simple de indicativo."
+          "text": "Hablando",
+          "is_correct": true,
+          "feedback": "Es correcta: el gerundio se forma añadiendo -ando o -iendo al infinitivo, y es invariable."
         },
         {
           "letter": "D",
@@ -712,7 +712,7 @@
           "feedback": "Es una forma del pretérito imperfecto de subjuntivo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El gerundio es invariable y expresa un proceso en curso. Su uso como tal es restringido en español, pues en muchos casos la normativa prefiere otras construcciones.",
       "difficulty": "8",
       "images": [],
@@ -734,15 +734,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Es un verbo sustantivo que une atributo y sujeto",
-          "is_correct": true,
-          "feedback": "Es correcto: 'ser' vincula el sujeto con un atributo que identifica su naturaleza o condición."
-        },
-        {
-          "letter": "B",
           "text": "Es un verbo copulativo que expresa cualidad pasajera",
           "is_correct": false,
           "feedback": "Es copulativo, pero esa cualidad es duradera, no pasajera como la de 'estar'."
+        },
+        {
+          "letter": "B",
+          "text": "Es un verbo sustantivo que une atributo y sujeto",
+          "is_correct": true,
+          "feedback": "Es correcto: 'ser' vincula el sujeto con un atributo que identifica su naturaleza o condición."
         },
         {
           "letter": "C",
@@ -757,7 +757,7 @@
           "feedback": "Tiene un sujeto explícito, 'Ella', así que no es impersonal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El verbo 'ser' cumple una función sustantiva al vincular el sujeto con el atributo. Es el verbo copulativo por excelencia del español.",
       "difficulty": "10",
       "images": [],
@@ -779,9 +779,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Vas",
-          "is_correct": true,
-          "feedback": "Es correcta: el verbo 'ir' es irregular en presente y la segunda del singular toma la forma 'vas'."
+          "text": "Ibas",
+          "is_correct": false,
+          "feedback": "Es pretérito imperfecto de indicativo."
         },
         {
           "letter": "B",
@@ -791,9 +791,9 @@
         },
         {
           "letter": "C",
-          "text": "Ibas",
-          "is_correct": false,
-          "feedback": "Es pretérito imperfecto de indicativo."
+          "text": "Vas",
+          "is_correct": true,
+          "feedback": "Es correcta: el verbo 'ir' es irregular en presente y la segunda del singular toma la forma 'vas'."
         },
         {
           "letter": "D",
@@ -802,7 +802,7 @@
           "feedback": "Es la forma de futuro simple de este verbo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El presente de indicativo de 'ir' es uno de los más irregulares del español y debe aprenderse de manera especial, al igual que el de 'ser'.",
       "difficulty": "10",
       "images": [],
@@ -824,15 +824,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Tienen",
-          "is_correct": true,
-          "feedback": "Es correcta: el verbo 'tener' es irregular y su presente de indicativo no sigue el patrón regular."
-        },
-        {
-          "letter": "B",
           "text": "Tener",
           "is_correct": false,
           "feedback": "Es el infinitivo, que no lleva marca de persona ni de tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Tienen",
+          "is_correct": true,
+          "feedback": "Es correcta: el verbo 'tener' es irregular y su presente de indicativo no sigue el patrón regular."
         },
         {
           "letter": "C",
@@ -847,7 +847,7 @@
           "feedback": "Es pretérito imperfecto de indicativo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los verbos irregulares presentan formas propias en presente de indicativo que deben aprenderse de forma especial, porque no se deducen del infinitivo.",
       "difficulty": "10",
       "images": [],
@@ -868,12 +868,6 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "El agua es esencial para la vida y debe cuidarse",
-          "is_correct": true,
-          "feedback": "Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen."
-        },
-        {
           "letter": "A",
           "text": "El agua solo se usa para beber",
           "is_correct": false,
@@ -890,6 +884,12 @@
           "text": "El agua es un recurso infinito",
           "is_correct": false,
           "feedback": "Incorrecto. Afirma que el agua es inagotable y con ello borra la necesidad de cuidarla, que es justamente la tesis que el texto sostiene."
+        },
+        {
+          "letter": "D",
+          "text": "El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen."
         }
       ],
       "correct_answer": "D",

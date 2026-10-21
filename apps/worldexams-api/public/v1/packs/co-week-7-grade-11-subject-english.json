@@ -13,12 +13,6 @@
       "context": "Discussing media ethics in Bucaramanga.",
       "options": [
         {
-          "letter": "D",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
           "text": "alleviate",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "facilitate",
           "is_correct": false,
           "feedback": "Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide."
+        },
+        {
+          "letter": "D",
+          "text": "exacerbate",
+          "is_correct": true,
+          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
         }
       ],
       "correct_answer": "D",
@@ -105,16 +105,16 @@
       "context": "Discussing media ethics in Medellín.",
       "options": [
         {
-          "letter": "B",
-          "text": "foreground",
-          "is_correct": true,
-          "feedback": "'Foreground' means to place something in a prominent position. The contrast is between putting the correction where the rumour circulated and hiding it at the end, and only this word names that first practice."
-        },
-        {
           "letter": "A",
           "text": "bury",
           "is_correct": false,
           "feedback": "'Bury' is precisely what the sentence tells editors not to do, and the phrase 'not merely bury it' removes it as a possible answer. Choosing it would contradict the instruction the sentence gives."
+        },
+        {
+          "letter": "B",
+          "text": "foreground",
+          "is_correct": true,
+          "feedback": "'Foreground' means to place something in a prominent position. The contrast is between putting the correction where the rumour circulated and hiding it at the end, and only this word names that first practice."
         },
         {
           "letter": "C",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W07-media-ethics-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on media ethics in Barranquilla, what is implied about the role of Cleft Sentences in shaping public opinion?",
-      "context": "Discussing media ethics in Barranquilla.",
+      "statement": "Read the text and answer the question.\n\n\"During heavy rains in a town in Sucre, a video of a broken dam spread quickly on WhatsApp groups. Many families left their homes in panic at night. Hours later, journalists from a local radio station discovered that the video had been recorded in another country years earlier. The station now runs a weekly programme that teaches listeners how to check where a video comes from before sharing it.\"\n\nWhat is the text mainly about?",
+      "context": "Reading a local news story from Sucre about a false video shared during heavy rains.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "letter": "A",
+          "text": "How dams are built in the Caribbean region.",
+          "is_correct": false,
+          "feedback": "The dam appears only in the false video; the text gives no information about building dams."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "letter": "B",
+          "text": "How a false video caused panic and led to an effort to teach fact-checking.",
+          "is_correct": true,
+          "feedback": "The text describes the false video, the panic it caused, the journalists' discovery and the new programme to teach listeners to verify videos."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Why radio is more popular than WhatsApp in Sucre.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "The text does not compare the popularity of radio and WhatsApp."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bucaramanga.",
+          "text": "Why families refused to leave their homes during the heavy rains.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "The text says families did leave their homes, in panic, because of the video."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "A main-idea answer must include the problem and the response in a narrative text. Here the problem is misinformation and the response is a fact-checking programme, which connects to media ethics and responsible sharing.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-11-2026-W07-media-ethics-001-MASTERY-bundle-v6",
-      "statement": "According to a recent report on media ethics in Cali, what is implied about the role of Cleft Sentences in shaping public opinion?",
-      "context": "Discussing media ethics in Cali.",
+      "statement": "Read the text and answer the question.\n\n\"A newspaper in Cali had to decide whether to publish a photograph of a young man injured in a traffic accident. The image was powerful and would attract many readers online. The editor chose to publish a photo of the damaged motorbike instead. 'A picture can inform without exposing someone on the worst day of their life,' she wrote in a note to readers.\"\n\nWhat can be inferred about the editor?",
+      "context": "Reading a note from an editor in Cali about a decision on an accident photograph.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "She wanted to attract as many readers as possible.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "The editor rejected the image that 'would attract many readers', so attracting readers was not her priority."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "She thought the accident was not newsworthy.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "She still published the story with a photo of the motorbike, so she considered the accident news."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Barranquilla.",
+          "text": "She did not have any photographs of the accident.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "The text says she had to decide whether to publish a photograph of the injured man, so she had one."
+        },
+        {
+          "letter": "D",
+          "text": "She considered the injured man's dignity more important than a dramatic image.",
+          "is_correct": true,
+          "feedback": "Her note says a picture can inform 'without exposing someone on the worst day of their life', showing she chose to protect the man's privacy."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Media ethics often involves balancing public interest and personal dignity. The editor's choice of a different photo, explained in her own words, lets the reader infer her values even though she does not use the word 'dignity'.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -423,36 +423,36 @@
     },
     {
       "id": "CO-ING-11-2026-W07-media-ethics-001-MASTERY-bundle-v10",
-      "statement": "According to a recent report on media ethics in Medellín, what is implied about the role of Cleft Sentences in shaping public opinion?",
-      "context": "Discussing media ethics in Medellín.",
+      "statement": "Read the text and answer the question.\n\n\"Have you noticed that some posts by your favourite influencers include the words 'paid partnership' or '#ad'? In Colombia, the Superintendence of Industry and Commerce has published guidelines saying that influencers should make it clear when a brand pays them to promote a product. The idea is simple: followers have the right to know if an opinion is sincere or if it is advertising. So next time you see a product review, look for the label before you decide to buy.\"\n\nWhat is the main purpose of the text?",
+      "context": "Reading a media literacy guide for teenagers about advertising on social media.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "To sell products through influencers.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "The text does not promote any product; it teaches readers to identify advertising."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "To criticise all influencers for lying.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "The text explains a rule about labels; it does not accuse all influencers of lying."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Manizales.",
+          "text": "To explain how to become a paid influencer.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "The reader is addressed as a follower who sees posts, not as someone who wants to work as an influencer."
+        },
+        {
+          "letter": "D",
+          "text": "To help readers recognise when online content is advertising.",
+          "is_correct": true,
+          "feedback": "The text explains what labels like '#ad' mean, why they exist, and ends with advice: 'look for the label before you decide to buy'."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Informative texts with advice for the reader usually end with an instruction ('look for the label'). That final sentence often reveals the purpose: here, to help young people identify paid content and make informed decisions.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -473,12 +473,6 @@
       "context": "Discussing media ethics in Barranquilla.",
       "options": [
         {
-          "letter": "C",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -489,6 +483,12 @@
           "text": "was",
           "is_correct": false,
           "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+        },
+        {
+          "letter": "C",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
         },
         {
           "letter": "D",
@@ -519,16 +519,16 @@
       "context": "Discussing media ethics in Cartagena.",
       "options": [
         {
-          "letter": "B",
-          "text": "It places the day, rather than the action, in focus.",
-          "is_correct": true,
-          "feedback": "The cleft moves 'on Tuesday' into the position after 'It was', which is exactly what the focus slot is for. The retraction and its date are unchanged; only which element is treated as given information differs."
-        },
-        {
           "letter": "A",
           "text": "It establishes that the retraction was published by mistake.",
           "is_correct": false,
           "feedback": "The cleft reorganises information structure and says nothing about intention or accident. Choosing it would read a grammatical device as evidence about the circumstances of publication."
+        },
+        {
+          "letter": "B",
+          "text": "It places the day, rather than the action, in focus.",
+          "is_correct": true,
+          "feedback": "The cleft moves 'on Tuesday' into the position after 'It was', which is exactly what the focus slot is for. The retraction and its date are unchanged; only which element is treated as given information differs."
         },
         {
           "letter": "C",
@@ -565,12 +565,6 @@
       "context": "Discussing media ethics in Medellín.",
       "options": [
         {
-          "letter": "C",
-          "text": "It foregrounds the role of the person who declined, rather than the act of declining.",
-          "is_correct": true,
-          "feedback": "The cleft substitutes 'a source' into the focus slot after 'It was', so the role becomes the new information. The refusal itself is unchanged, and only the information structure shifts."
-        },
-        {
           "letter": "A",
           "text": "It implies that the refusal was hostile.",
           "is_correct": false,
@@ -581,6 +575,12 @@
           "text": "It shows that the refusal happened more than once.",
           "is_correct": false,
           "feedback": "Both sentences use the singular 'a source' and a single past verb. A cleft cannot introduce repetition that the underlying proposition does not contain."
+        },
+        {
+          "letter": "C",
+          "text": "It foregrounds the role of the person who declined, rather than the act of declining.",
+          "is_correct": true,
+          "feedback": "The cleft substitutes 'a source' into the focus slot after 'It was', so the role becomes the new information. The refusal itself is unchanged, and only the information structure shifts."
         },
         {
           "letter": "D",
@@ -611,12 +611,6 @@
       "context": "Discussing media ethics in Bucaramanga.",
       "options": [
         {
-          "letter": "C",
-          "text": "It brings the timing of the decision into focus, without adding a claim about who cropped it.",
-          "is_correct": true,
-          "feedback": "The cleft moves 'before publication' into the focus slot, so the sequence becomes the new information. It attributes nothing new: the second version has no agent, and the crop remains exactly as described in the first."
-        },
-        {
           "letter": "A",
           "text": "It shows that the cropping was intentional.",
           "is_correct": false,
@@ -627,6 +621,12 @@
           "text": "It changes the crop into a permanent alteration.",
           "is_correct": false,
           "feedback": "'Permanent' appears nowhere in either sentence, and a cleft cannot turn a described act into an enduring state. The proposition is identical in both versions."
+        },
+        {
+          "letter": "C",
+          "text": "It brings the timing of the decision into focus, without adding a claim about who cropped it.",
+          "is_correct": true,
+          "feedback": "The cleft moves 'before publication' into the focus slot, so the sequence becomes the new information. It attributes nothing new: the second version has no agent, and the crop remains exactly as described in the first."
         },
         {
           "letter": "D",
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-ING-11-2026-W07-media-ethics-001-MASTERY-bundle-v18",
-      "statement": "In a high-level debate about media ethics, Isabella says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Isabella mean?",
-      "context": "Discussing media ethics in Bogotá.",
+      "statement": "Read the conversation.\n\nCarolina: \"This website says chocolate cures the flu.\"\nJavier: \"I'd take that with a pinch of salt. It doesn't mention any scientific studies.\"\n\nWhat does Javier mean?",
+      "context": "Two students in Medellín discuss a health claim found on a website.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Cali.",
+          "text": "Carolina should add salt to her chocolate.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "This is a literal reading. Javier is talking about how to judge the claim, not about cooking."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The website is a reliable source of health information.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Javier points out that the site mentions no studies, which suggests it is not reliable."
         },
         {
           "letter": "C",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Carolina should eat chocolate to cure the flu.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Javier doubts the claim, so he is not recommending chocolate as a cure."
+        },
+        {
+          "letter": "D",
+          "text": "Carolina should be sceptical about the claim.",
+          "is_correct": true,
+          "feedback": "'Take something with a pinch of salt' means not to believe it completely; Javier explains why: there is no scientific evidence."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Take it with a pinch (or grain) of salt' is a useful expression for discussing unreliable information. In this dialogue the second sentence gives the reason for doubt, which is a key habit in media literacy.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -837,36 +837,36 @@
     },
     {
       "id": "CO-ING-11-2026-W07-media-ethics-001-MASTERY-bundle-v19",
-      "statement": "In a high-level debate about media ethics, Nicolás says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Nicolás mean?",
-      "context": "Discussing media ethics in Bogotá.",
+      "statement": "Read what the editor says.\n\nEditor: \"Every outlet is publishing the rumour about the singer's arrest. We are not going to jump on the bandwagon until the police confirm it.\"\n\nWhat does the editor decide?",
+      "context": "A newspaper editor in Bogotá decides how to handle a celebrity rumour.",
       "options": [
         {
-          "letter": "C",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Pereira.",
+          "text": "To publish the rumour first, before other outlets.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Other outlets are already publishing it, and the editor refuses to follow them, so this is the opposite of the decision."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "To send a reporter to travel with the singer's band.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "This reads 'bandwagon' literally as a vehicle for a band. The idiom is about following a trend."
+        },
+        {
+          "letter": "C",
+          "text": "Not to follow what other media are doing until the information is confirmed.",
+          "is_correct": true,
+          "feedback": "'Jump on the bandwagon' means to join something because it is popular; the editor refuses to do this without police confirmation."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "To stop reporting news about famous people forever.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "The editor only waits 'until the police confirm it', so the decision is temporary, not permanent."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "Responsible journalism requires verification before publication. The idiom 'jump on the bandwagon' describes copying what others do, and the time clause 'until the police confirm it' shows the condition for publishing.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -883,36 +883,36 @@
     },
     {
       "id": "CO-ING-11-2026-W07-media-ethics-001-MASTERY-bundle-v20",
-      "statement": "In a high-level debate about media ethics, Alejandro says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Alejandro mean?",
-      "context": "Discussing media ethics in Bucaramanga.",
+      "statement": "Read the conversation.\n\nStudent: \"I think the problem with clickbait is that the headline promises one thing and the article says another.\"\nTeacher: \"You've hit the nail on the head.\"\n\nWhat does the teacher mean?",
+      "context": "A teacher in Tunja comments on a student's analysis of clickbait.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Pereira.",
+          "text": "The student has made a serious mistake.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "The idiom is a compliment; it expresses agreement, not criticism."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The student should be more careful with tools.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "This is a literal reading of 'nail' and 'head'. The conversation is about clickbait, not about tools."
         },
         {
           "letter": "C",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "The student's idea is interesting but not relevant.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "The teacher's expression means the idea is exactly right, so it is fully relevant."
+        },
+        {
+          "letter": "D",
+          "text": "The student has described the problem exactly.",
+          "is_correct": true,
+          "feedback": "'Hit the nail on the head' means to describe something precisely; the teacher agrees with the student's definition of clickbait."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "Teachers and colleagues often use 'hit the nail on the head' to praise an accurate idea. Recognising positive feedback expressed through idioms is part of understanding the speaker's intention in a conversation.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

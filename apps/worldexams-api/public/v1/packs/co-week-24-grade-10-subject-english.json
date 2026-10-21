@@ -13,16 +13,16 @@
       "context": "General advice for a healthy life.",
       "options": [
         {
-          "letter": "B",
-          "text": "might",
-          "is_correct": false,
-          "feedback": "Too weak for general advice."
-        },
-        {
           "letter": "A",
           "text": "should",
           "is_correct": true,
           "feedback": "Correct. Standard modal for giving advice."
+        },
+        {
+          "letter": "B",
+          "text": "might",
+          "is_correct": false,
+          "feedback": "Too weak for general advice."
         },
         {
           "letter": "C",
@@ -65,12 +65,6 @@
           "feedback": "Incorrect syntax ('should to' is wrong)."
         },
         {
-          "letter": "D",
-          "text": "ought",
-          "is_correct": true,
-          "feedback": "Correct. 'Ought to' is a synonym for 'should' and requires 'to'."
-        },
-        {
           "letter": "B",
           "text": "had better",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "must",
           "is_correct": false,
           "feedback": "Too strong, and doesn't take 'to'."
+        },
+        {
+          "letter": "D",
+          "text": "ought",
+          "is_correct": true,
+          "feedback": "Correct. 'Ought to' is a synonym for 'should' and requires 'to'."
         }
       ],
       "correct_answer": "D",
@@ -151,16 +151,16 @@
       "context": "An article about mental health.",
       "options": [
         {
-          "letter": "B",
-          "text": "must",
-          "is_correct": false,
-          "feedback": "Too strong for a suggestion."
-        },
-        {
           "letter": "A",
           "text": "should",
           "is_correct": true,
           "feedback": "Correct. Common in suggestions."
+        },
+        {
+          "letter": "B",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Too strong for a suggestion."
         },
         {
           "letter": "C",
@@ -197,6 +197,12 @@
       "context": "Discussing stress management.",
       "options": [
         {
+          "letter": "A",
+          "text": "ought",
+          "is_correct": true,
+          "feedback": "Correct. 'Ought not to' is the negative form."
+        },
+        {
           "letter": "B",
           "text": "should",
           "is_correct": false,
@@ -207,12 +213,6 @@
           "text": "had better",
           "is_correct": false,
           "feedback": "Incorrect syntax ('had better not to' is wrong)."
-        },
-        {
-          "letter": "A",
-          "text": "ought",
-          "is_correct": true,
-          "feedback": "Correct. 'Ought not to' is the negative form."
         },
         {
           "letter": "D",
@@ -243,16 +243,16 @@
       "context": "A health blog entry.",
       "options": [
         {
-          "letter": "B",
-          "text": "would",
-          "is_correct": false,
-          "feedback": "'Would' belongs to the second conditional for a hypothetical situation and does not state the firm advice this sentence needs."
-        },
-        {
           "letter": "A",
           "text": "had better",
           "is_correct": true,
           "feedback": "Correct strong advice."
+        },
+        {
+          "letter": "B",
+          "text": "would",
+          "is_correct": false,
+          "feedback": "'Would' belongs to the second conditional for a hypothetical situation and does not state the firm advice this sentence needs."
         },
         {
           "letter": "C",
@@ -289,16 +289,16 @@
       "context": "Reflecting on past advice.",
       "options": [
         {
-          "letter": "B",
-          "text": "shouldn't eat",
-          "is_correct": false,
-          "feedback": "This is for present/future."
-        },
-        {
           "letter": "A",
           "text": "shouldn't have eaten",
           "is_correct": true,
           "feedback": "Correct. 'Shouldn't have' + past participle for past regret/advice."
+        },
+        {
+          "letter": "B",
+          "text": "shouldn't eat",
+          "is_correct": false,
+          "feedback": "This is for present/future."
         },
         {
           "letter": "C",
@@ -335,16 +335,16 @@
       "context": "A text on hydration.",
       "options": [
         {
-          "letter": "B",
-          "text": "should",
-          "is_correct": false,
-          "feedback": "This modal is followed directly by 'to' and the infinitive, so 'should to drink' doubles the marker. 'Should drink' would be right, but the sentence already supplies the 'to'."
-        },
-        {
           "letter": "A",
           "text": "ought",
           "is_correct": true,
           "feedback": "Correct formal advice structure."
+        },
+        {
+          "letter": "B",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "This modal is followed directly by 'to' and the infinitive, so 'should to drink' doubles the marker. 'Should drink' would be right, but the sentence already supplies the 'to'."
         },
         {
           "letter": "C",
@@ -427,12 +427,6 @@
       "context": "A formal health warning.",
       "options": [
         {
-          "letter": "C",
-          "text": "had better / could be",
-          "is_correct": true,
-          "feedback": "Correct strong advice + possibility."
-        },
-        {
           "letter": "A",
           "text": "should / must be",
           "is_correct": false,
@@ -443,6 +437,12 @@
           "text": "ought / might be",
           "is_correct": false,
           "feedback": "Missing 'to'."
+        },
+        {
+          "letter": "C",
+          "text": "had better / could be",
+          "is_correct": true,
+          "feedback": "Correct strong advice + possibility."
         },
         {
           "letter": "D",
@@ -479,16 +479,16 @@
           "feedback": "'Should do' can only point forward, but the sentence criticises what the government failed to do years ago."
         },
         {
-          "letter": "C",
-          "text": "ought to do",
-          "is_correct": false,
-          "feedback": "'Ought to do' has the same problem: it describes what should happen, not what should have happened at a past moment."
-        },
-        {
           "letter": "B",
           "text": "should have done",
           "is_correct": true,
           "feedback": "Correct. Criticism of a past lack of action."
+        },
+        {
+          "letter": "C",
+          "text": "ought to do",
+          "is_correct": false,
+          "feedback": "'Ought to do' has the same problem: it describes what should happen, not what should have happened at a past moment."
         },
         {
           "letter": "D",
@@ -520,9 +520,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "be / making",
-          "is_correct": true,
-          "feedback": "Correct. Subjunctive 'be' + gerund after preposition."
+          "text": "was / to make",
+          "is_correct": false,
+          "feedback": "'Was' would point at a past recommendation, and 'to make' is a to-infinitive where the sentence needs a gerund after the preposition."
         },
         {
           "letter": "B",
@@ -532,9 +532,9 @@
         },
         {
           "letter": "C",
-          "text": "was / to make",
-          "is_correct": false,
-          "feedback": "'Was' would point at a past recommendation, and 'to make' is a to-infinitive where the sentence needs a gerund after the preposition."
+          "text": "be / making",
+          "is_correct": true,
+          "feedback": "Correct. Subjunctive 'be' + gerund after preposition."
         },
         {
           "letter": "D",
@@ -543,7 +543,7 @@
           "feedback": "'Should be' would add a modal to a structure that already carries the verb of recommendation, and 'made' is a past participle where a gerund belongs."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Mastery level: Using the subjunctive 'be' in a formal recommendation and the gerund after 'before' in a medical context.\n\n---",
       "difficulty": "10",
       "images": [],

@@ -34,12 +34,12 @@ Basic weather words and simple climate vocabulary to describe the weather and th
 Which word in English describes the weather when the sky is full of clouds and you cannot see the sun?
 
 ### Opciones
-- [x] C) Cloudy.
-  <!-- feedback: "Cloudy" describes a sky covered with clouds, so the sun is hidden. -->
 - [ ] A) Sunny.
   <!-- feedback: "Sunny" means the sun is bright and there are few or no clouds. -->
 - [ ] B) Windy.
   <!-- feedback: "Windy" describes moving air, not a sky full of clouds. -->
+- [x] C) Cloudy.
+  <!-- feedback: "Cloudy" describes a sky covered with clouds, so the sun is hidden. -->
 - [ ] D) Rainy.
   <!-- feedback: "Rainy" describes falling water, not just clouds covering the sun. -->
 
@@ -57,14 +57,14 @@ Recognizing basic weather words in English by matching each word with the sky co
 Why do people in Cartagena wear light clothes?
 
 ### Opciones
-- [x] D) Because the weather there is hot and sunny.
-  <!-- feedback: The text connects hot and sunny weather with wearing light clothes. -->
 - [ ] A) Because it is very cold and snowy every day.
   <!-- feedback: The text says Cartagena is hot, not cold or snowy. -->
 - [ ] B) Because it rains heavily every single hour.
   <!-- feedback: Constant heavy rain is not mentioned in the text. -->
 - [ ] C) Because the city is high in the snowy mountains.
   <!-- feedback: Cartagena is on the coast, and the text does not mention mountains. -->
+- [x] D) Because the weather there is hot and sunny.
+  <!-- feedback: The text connects hot and sunny weather with wearing light clothes. -->
 
 ### Explicacion Pedagogica
 Understanding a cause-effect relationship about weather in a short descriptive text in English.
@@ -126,10 +126,10 @@ Completing sentences about Colombian seasons using the correct weather vocabular
 Which sentence uses the word "windy" correctly to describe Barranquilla?
 
 ### Opciones
-- [x] B) It is windy in Barranquilla, so the flags move a lot.
-  <!-- feedback: In a windy place, moving air makes flags and kites move. -->
 - [ ] A) It is windy in Barranquilla, so the sun does not exist.
   <!-- feedback: Wind does not make the sun disappear; that is not what "windy" means. -->
+- [x] B) It is windy in Barranquilla, so the flags move a lot.
+  <!-- feedback: In a windy place, moving air makes flags and kites move. -->
 - [ ] C) It is windy in Barranquilla, so the city is always cold and snowy.
   <!-- feedback: Wind does not mean cold and snowy; Barranquilla is described as hot. -->
 - [ ] D) It is windy in Barranquilla, so people never go outside.
@@ -195,10 +195,10 @@ Analyzing a simple weather report to decide which item is needed on a specific d
 What is the most important message of this paragraph?
 
 ### Opciones
-- [x] A) Colombia has different climate zones, so people wear different clothes in each one.
-  <!-- feedback: The paragraph links the variety of climate zones with the different clothes people wear. -->
-- [ ] B) All of Colombia is equally hot and sunny every day.
+- [ ] A) All of Colombia is equally hot and sunny every day.
   <!-- feedback: The text describes hot, mild, and cold zones, so the country is not equally hot everywhere. -->
+- [x] B) Colombia has different climate zones, so people wear different clothes in each one.
+  <!-- feedback: The paragraph links the variety of climate zones with the different clothes people wear. -->
 - [ ] C) People in Colombia always wear the same clothes in every zone.
   <!-- feedback: The text says the opposite: clothing changes from zone to zone. -->
 - [ ] D) The coasts of Colombia are the coldest places in the country.

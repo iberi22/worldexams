@@ -869,15 +869,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "$S = \\{2\\}$",
-          "is_correct": true,
-          "feedback": "Correcto. Con $u = 2^x > 0$ se resuelve $u^2 - 2u - 8 = 0 = (u - 4)(u + 2)$; la raíz $u = -2$ se descarta por ser negativa y de $u = 4 = 2^2$ sale $x = 2$."
-        },
-        {
-          "letter": "B",
           "text": "$S = \\{4,\\ -2\\}$",
           "is_correct": false,
           "feedback": "El $-2$ es una raíz del polinomio auxiliar, pero no puede ser $2^x$ porque una potencia de base 2 siempre es positiva."
+        },
+        {
+          "letter": "B",
+          "text": "$S = \\{2\\}$",
+          "is_correct": true,
+          "feedback": "Correcto. Con $u = 2^x > 0$ se resuelve $u^2 - 2u - 8 = 0 = (u - 4)(u + 2)$; la raíz $u = -2$ se descarta por ser negativa y de $u = 4 = 2^2$ sale $x = 2$."
         },
         {
           "letter": "C",
@@ -892,7 +892,7 @@
           "feedback": "La raíz $u = 4$ es positiva y se convierte en un exponente real válido, así que hay solución."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El cambio $u = 2^x$ lleva la ecuación a $u^2 - 2u - 8 = 0$, con raíces $u = 4$ y $u = -2$. Como $2^x$ es siempre positivo, $u = -2$ queda fuera y solo se conserva $u = 4$. De $2^x = 4 = 2^2$ se obtiene $x = 2$, de modo que $S = \\{2\\}$.\n\n---",
       "difficulty": "10",
       "images": [],

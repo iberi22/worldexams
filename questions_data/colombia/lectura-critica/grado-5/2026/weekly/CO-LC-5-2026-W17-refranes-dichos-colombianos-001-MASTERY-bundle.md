@@ -34,12 +34,12 @@ El significado literal y figurado de los refranes y dichos populares, su intenci
 ¿Qué es un refrán?
 
 ### Opciones
-- [x] C) Un dicho popular breve que transmite una enseñanza o un consejo.
-  <!-- feedback: Los refranes son expresiones populares cortas con una enseñanza. -->
 - [ ] A) Un texto largo que narra una historia fantástica.
   <!-- feedback: Los refranes son breves y no narran historias extensas. -->
 - [ ] B) Una lista de números para resolver problemas.
   <!-- feedback: Los refranes son expresiones populares, no datos numéricos. -->
+- [x] C) Un dicho popular breve que transmite una enseñanza o un consejo.
+  <!-- feedback: Los refranes son expresiones populares cortas con una enseñanza. -->
 - [ ] D) Una canción que se canta para dormir a los bebés.
   <!-- feedback: Un refrán no es una canción de cuna. -->
 
@@ -57,14 +57,14 @@ Recordar el concepto de refrán como dicho popular con una enseñanza.
 ¿Qué quiere enseñar el refrán "Al que madruga Dios le ayuda"?
 
 ### Opciones
-- [x] D) Que ser puntual y esforzarse desde temprano trae buenos resultados.
-  <!-- feedback: El refrán valora el esfuerzo y la puntualidad desde la mañana. -->
 - [ ] A) Que solo las personas adultas reciben ayuda.
   <!-- feedback: El refrán no habla de la edad de las personas. -->
 - [ ] B) Que es mejor quedarse durmiendo sin esforzarse.
   <!-- feedback: El refrán valora el esfuerzo, no la pereza. -->
 - [ ] C) Que madrugar garantiza hacerse rico de inmediato.
   <!-- feedback: El refrán no promete riqueza inmediata; valora el esfuerzo. -->
+- [x] D) Que ser puntual y esforzarse desde temprano trae buenos resultados.
+  <!-- feedback: El refrán valora el esfuerzo y la puntualidad desde la mañana. -->
 
 ### Explicacion Pedagogica
 Comprender el significado figurado del refrán sobre el esfuerzo y la puntualidad.
@@ -80,12 +80,12 @@ Comprender el significado figurado del refrán sobre el esfuerzo y la puntualida
 ¿Qué le están advirtiendo los compañeros al estudiante?
 
 ### Opciones
-- [x] C) Que si se descuida, puede quedarse atrás o perder oportunidades.
-  <!-- feedback: El refrán advierte sobre las consecuencias del descuido. -->
 - [ ] A) Que debe ir a nadar al río con más frecuencia.
   <!-- feedback: El refrán no es una invitación a nadar; usa una imagen para aconsejar. -->
 - [ ] B) Que los camarones son su comida favorita.
   <!-- feedback: El refrán no habla de comida, sino de las consecuencias de dormirse. -->
+- [x] C) Que si se descuida, puede quedarse atrás o perder oportunidades.
+  <!-- feedback: El refrán advierte sobre las consecuencias del descuido. -->
 - [ ] D) Que debe dormir más horas cada noche.
   <!-- feedback: El refrán aconseja estar atento, no dormir más. -->
 
@@ -103,10 +103,10 @@ Aplicar el refrán en un contexto escolar para interpretar la advertencia sobre 
 ¿Qué refrán expresa mejor la decisión de la niña?
 
 ### Opciones
-- [x] B) "Más vale pájaro en mano que cien volando".
-  <!-- feedback: Este refrán enseña a valorar lo seguro en lugar de lo incierto. -->
 - [ ] A) "Camarón que se duerme se lo lleva la corriente".
   <!-- feedback: Este refrán habla de las consecuencias del descuido, no de valorar lo seguro. -->
+- [x] B) "Más vale pájaro en mano que cien volando".
+  <!-- feedback: Este refrán enseña a valorar lo seguro en lugar de lo incierto. -->
 - [ ] C) "De tal palo, tal astilla".
   <!-- feedback: Este refrán habla de parecerse a los padres, no de valorar lo que se tiene. -->
 - [ ] D) "Al que madruga Dios le ayuda".
@@ -126,14 +126,14 @@ Aplicar el refrán adecuado a una situación en la que se valora lo seguro sobre
 ¿Qué refrán le recomienda agradecer el regalo sin fijarse en los detalles?
 
 ### Opciones
-- [x] D) "A caballo regalado no se le mira el colmillo".
-  <!-- feedback: Este refrán enseña a aceptar con agradecimiento lo que se recibe. -->
 - [ ] A) "Más vale pájaro en mano que cien volando".
   <!-- feedback: Este refrán habla de valorar lo seguro, no de aceptar regalos. -->
 - [ ] B) "Camarón que se duerme se lo lleva la corriente".
   <!-- feedback: Este refrán habla del descuido, no de los regalos. -->
 - [ ] C) "Al que madruga Dios le ayuda".
   <!-- feedback: Este refrán habla del esfuerzo temprano, no de los regalos. -->
+- [x] D) "A caballo regalado no se le mira el colmillo".
+  <!-- feedback: Este refrán enseña a aceptar con agradecimiento lo que se recibe. -->
 
 ### Explicacion Pedagogica
 Aplicar el refrán adecuado para valorar y agradecer un regalo recibido.
@@ -149,10 +149,10 @@ Aplicar el refrán adecuado para valorar y agradecer un regalo recibido.
 Este refrán no habla de brazos ni de abrazar. ¿Qué analiza correctamente su significado?
 
 ### Opciones
-- [x] B) Significa que quien intenta hacer muchas cosas a la vez no hace bien ninguna.
-  <!-- feedback: Es un significado figurado: se refiere a las tareas, no a un abrazo real. -->
 - [ ] A) Significa que hay que abrazar a las personas con cuidado.
   <!-- feedback: Es una interpretación literal; el refrán se usa en sentido figurado. -->
+- [x] B) Significa que quien intenta hacer muchas cosas a la vez no hace bien ninguna.
+  <!-- feedback: Es un significado figurado: se refiere a las tareas, no a un abrazo real. -->
 - [ ] C) Significa que las cosas se aprietan con las manos.
   <!-- feedback: No se refiere a apretar objetos, sino a abarcar demasiadas tareas. -->
 - [ ] D) Significa que es mejor tener los brazos cortos.
@@ -172,9 +172,9 @@ Analizar el significado figurado de un refrán y distinguirlo de su interpretaci
 ¿Cuál es la intención de la profesora al usar este refrán?
 
 ### Opciones
-- [x] B) Aconsejar al estudiante para que no aplace sus responsabilidades.
+- [x] A) Aconsejar al estudiante para que no aplace sus responsabilidades.
   <!-- feedback: El refrán busca corregir la costumbre de aplazar las tareas. -->
-- [ ] A) Contar una historia divertida sobre el día de mañana.
+- [ ] B) Contar una historia divertida sobre el día de mañana.
   <!-- feedback: El refrán no narra una historia, expresa un consejo. -->
 - [ ] C) Informar sobre el clima del día siguiente.
   <!-- feedback: El refrán no informa sobre el clima. -->
@@ -195,14 +195,14 @@ Analizar la intención comunicativa de un refrán en una situación escolar.
 ¿Por qué es útil conocer el significado de los refranes para comprender las conversaciones cotidianas?
 
 ### Opciones
-- [x] D) Porque los refranes transmiten consejos y valores que ayudan a interpretar lo que otros quieren decir.
-  <!-- feedback: Conocer los refranes permite entender mensajes que se expresan en sentido figurado. -->
 - [ ] A) Porque los refranes son la única forma de comunicarse en Colombia.
   <!-- feedback: Los refranes son una forma de expresión, pero no la única. -->
 - [ ] B) Porque sin refranes no se puede leer ningún texto.
   <!-- feedback: Se puede leer sin refranes; estos solo enriquecen el lenguaje. -->
 - [ ] C) Porque los refranes solo se usan en los exámenes de matemáticas.
   <!-- feedback: Los refranes pertenecen al lenguaje, no a las matemáticas. -->
+- [x] D) Porque los refranes transmiten consejos y valores que ayudan a interpretar lo que otros quieren decir.
+  <!-- feedback: Conocer los refranes permite entender mensajes que se expresan en sentido figurado. -->
 
 ### Explicacion Pedagogica
 Evaluar la utilidad de comprender los refranes para interpretar conversaciones cotidianas.

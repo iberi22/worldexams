@@ -29,14 +29,15 @@ Este bundle trabaja radio, diámetro, longitud de la circunferencia y área del 
 ### Enunciado
 ¿Qué relación hay entre el diámetro y el radio de una circunferencia?
 ### Opciones
-- [x] B) El diámetro es el doble del radio
-  <!-- feedback: Explica por qué es correcta: el diámetro cruza el centro uniendo dos puntos opuestos, por eso mide dos radios. -->
 - [ ] A) El diámetro es la mitad del radio
   <!-- feedback: Explica el error conceptual: invierte la relación; el radio es la mitad del diámetro, no al revés. -->
+- [x] B) El diámetro es el doble del radio
+  <!-- feedback: Explica por qué es correcta: el diámetro cruza el centro uniendo dos puntos opuestos, por eso mide dos radios. -->
 - [ ] C) Son segmentos iguales
   <!-- feedback: Explica el error conceptual: el radio va del centro al borde y el diámetro lo atraviesa completo, no miden igual. -->
 - [ ] D) No tienen ninguna relación
   <!-- feedback: Explica el error conceptual: ambos se definen desde el centro, así que están directamente relacionados. -->
+
 ### Explicacion Pedagogica
 Radio (r) es la distancia del centro a la circunferencia y diámetro (d) la atraviesa por el centro: d = 2 × r. Esta relación es la base de todas las fórmulas del círculo.
 ## Question 2 [D3-D4]
@@ -48,14 +49,15 @@ Radio (r) es la distancia del centro a la circunferencia y diámetro (d) la atra
 ### Enunciado
 ¿Cuánto mide el diámetro de esa rueda?
 ### Opciones
-- [x] B) 60 cm
-  <!-- feedback: Explica por qué es correcta: el diámetro es el doble del radio, y 2 × 30 = 60 cm. -->
 - [ ] A) 30 cm
   <!-- feedback: Explica el error conceptual: repite el radio en vez de duplicarlo para hallar el diámetro. -->
+- [x] B) 60 cm
+  <!-- feedback: Explica por qué es correcta: el diámetro es el doble del radio, y 2 × 30 = 60 cm. -->
 - [ ] C) 15 cm
   <!-- feedback: Explica el error conceptual: divide el radio entre dos, lo que daría medio radio, no el diámetro. -->
 - [ ] D) 90 cm
   <!-- feedback: Explica el error conceptual: multiplica el radio por tres sin justificación geométrica. -->
+
 ### Explicacion Pedagogica
 Aplicar d = 2 × r con r = 30 cm da d = 60 cm. Comprender la relación permite pasar del radio al diámetro y viceversa en cualquier problema circular.
 ## Question 3 [D5-D6]
@@ -67,14 +69,15 @@ Aplicar d = 2 × r con r = 30 cm da d = 60 cm. Comprender la relación permite p
 ### Enunciado
 ¿Cuántos metros de alambre necesita para rodearlo una vez?
 ### Opciones
-- [x] C) 43.96 m
-  <!-- feedback: Explica por qué es correcta: L = 2 × 3.14 × 7 = 43.96 m de longitud de circunferencia. -->
 - [ ] A) 21.98 m
   <!-- feedback: Explica el error conceptual: usa solo un radio (3.14 × 7) olvidando el factor 2 de la fórmula. -->
 - [ ] B) 153.86 m
   <!-- feedback: Explica el error conceptual: calcula el área (3.14 × 49) en vez de la longitud del borde. -->
+- [x] C) 43.96 m
+  <!-- feedback: Explica por qué es correcta: L = 2 × 3.14 × 7 = 43.96 m de longitud de circunferencia. -->
 - [ ] D) 14 m
   <!-- feedback: Explica el error conceptual: suma apenas el diámetro sin multiplicar por pi. -->
+
 ### Explicacion Pedagogica
 Rodear un círculo es hallar la longitud de la circunferencia: L = 2 × pi × r = 2 × 3.14 × 7 = 43.96 m. Longitud y área son magnitudes distintas que no deben confundirse.
 ## Question 4 [D5-D6]
@@ -94,6 +97,7 @@ Rodear un círculo es hallar la longitud de la circunferencia: L = 2 × pi × r 
   <!-- feedback: Explica el error conceptual: multiplica 3.14 × 10 sin elevar el radio al cuadrado. -->
 - [ ] D) 1256 cm²
   <!-- feedback: Explica el error conceptual: usa el diámetro (20) como si fuera el radio al elevar al cuadrado. -->
+
 ### Explicacion Pedagogica
 El área del círculo es A = pi × r². Con r = 10, r² = 100 y A = 314 cm². Elevar al cuadrado antes de multiplicar por pi es el paso clave.
 ## Question 5 [D5-D6]
@@ -105,14 +109,15 @@ El área del círculo es A = pi × r². Con r = 10, r² = 100 y A = 314 cm². El
 ### Enunciado
 ¿Cuántos metros de línea se pintan?
 ### Opciones
-- [x] B) 62.8 m
-  <!-- feedback: Explica por qué es correcta: L = pi × d = 3.14 × 20 = 62.8 m. -->
 - [ ] A) 31.4 m
   <!-- feedback: Explica el error conceptual: usa el radio (10) en la fórmula del diámetro sin el factor correcto. -->
+- [x] B) 62.8 m
+  <!-- feedback: Explica por qué es correcta: L = pi × d = 3.14 × 20 = 62.8 m. -->
 - [ ] C) 1256 m
   <!-- feedback: Explica el error conceptual: calcula el área con el radio mal elevado en vez de la longitud. -->
 - [ ] D) 40 m
   <!-- feedback: Explica el error conceptual: duplica el diámetro sin multiplicar por pi. -->
+
 ### Explicacion Pedagogica
 Con el diámetro conocido, la fórmula directa es L = pi × d. Así, 3.14 × 20 = 62.8 m. Elegir la fórmula según el dato disponible ahorra pasos y errores.
 ## Question 6 [D7-D8]
@@ -132,6 +137,7 @@ Con el diámetro conocido, la fórmula directa es L = pi × d. Así, 3.14 × 20 
   <!-- feedback: Explica el error conceptual: calcula el área de la rueda, que no representa distancia recorrida. -->
 - [ ] D) 6.28 m
   <!-- feedback: Explica el error conceptual: usa el diámetro como radio y duplica el recorrido real. -->
+
 ### Explicacion Pedagogica
 Cada vuelta completa de una rueda recorre exactamente su circunferencia. Con r = 0.5, L = 3.14 m, lo que conecta la geometría con el movimiento real.
 ## Question 7 [D7-D8]
@@ -143,14 +149,15 @@ Cada vuelta completa de una rueda recorre exactamente su circunferencia. Con r =
 ### Enunciado
 ¿Cuál mesa tiene mayor superficie y por cuánto supera a la otra?
 ### Opciones
-- [x] B) La circular, supera por 3.56 m²
-  <!-- feedback: Explica por qué es correcta: círculo: 3.14 × 4 = 12.56; cuadrado: 9; diferencia: 12.56 - 9 = 3.56 m². -->
 - [ ] A) La cuadrada, supera por 3.56 m²
   <!-- feedback: Explica el error conceptual: invierte la comparación; 9 es menor que 12.56, no mayor. -->
+- [x] B) La circular, supera por 3.56 m²
+  <!-- feedback: Explica por qué es correcta: círculo: 3.14 × 4 = 12.56; cuadrado: 9; diferencia: 12.56 - 9 = 3.56 m². -->
 - [ ] C) La circular, supera por 6.28 m²
   <!-- feedback: Explica el error conceptual: usa la longitud (2 × 3.14 × 2 = 25.12) en vez del área del círculo. -->
 - [ ] D) Son iguales porque ambas miden parecido
   <!-- feedback: Explica el error conceptual: 12.56 y 9 difieren en más de 3 m², no son iguales. -->
+
 ### Explicacion Pedagogica
 Comparar áreas exige calcular cada una con su fórmula: círculo 12.56 m² frente a cuadrado 9 m². La diferencia de 3.56 m² muestra que formas distintas con medidas parecidas rinden superficies distintas.
 ## Question 8 [D7-D8]
@@ -162,14 +169,15 @@ Comparar áreas exige calcular cada una con su fórmula: círculo 12.56 m² fren
 ### Enunciado
 ¿Cuál es el radio de la pista?
 ### Opciones
-- [x] D) 10 m
-  <!-- feedback: Explica por qué es correcta: r = 62.8 ÷ (2 × 3.14) = 62.8 ÷ 6.28 = 10 m. -->
 - [ ] A) 20 m
   <!-- feedback: Explica el error conceptual: divide solo entre 3.14 y obtiene el diámetro, no el radio. -->
 - [ ] B) 31.4 m
   <!-- feedback: Explica el error conceptual: divide entre 2 olvidando dividir también entre pi. -->
 - [ ] C) 5 m
   <!-- feedback: Explica el error conceptual: divide dos veces entre 2, reduciendo el radio a la mitad real. -->
+- [x] D) 10 m
+  <!-- feedback: Explica por qué es correcta: r = 62.8 ÷ (2 × 3.14) = 62.8 ÷ 6.28 = 10 m. -->
+
 ### Explicacion Pedagogica
 Despejar el radio de L = 2 × pi × r da r = L ÷ (2 × pi). Con L = 62.8 y pi = 3.14, r = 10 m. Invertir fórmulas es una destreza algebraica fundamental.
 ## Question 9 [D9-D10]
@@ -181,14 +189,15 @@ Despejar el radio de L = 2 × pi × r da r = L ÷ (2 × pi). Con L = 62.8 y pi =
 ### Enunciado
 ¿Es correcta la afirmación? Comprueba con radio 3 m y radio 6 m.
 ### Opciones
-- [x] B) No, el área se cuadruplica: pasa de 28.26 m² a 113.04 m²
-  <!-- feedback: Explica por qué es correcta: 3.14 × 9 = 28.26 y 3.14 × 36 = 113.04; 113.04 es 4 veces 28.26. -->
 - [ ] A) Sí, el área pasa de 28.26 m² a 56.52 m²
   <!-- feedback: Explica el error conceptual: duplica el área en vez de recalcular con el nuevo radio al cuadrado. -->
+- [x] B) No, el área se cuadruplica: pasa de 28.26 m² a 113.04 m²
+  <!-- feedback: Explica por qué es correcta: 3.14 × 9 = 28.26 y 3.14 × 36 = 113.04; 113.04 es 4 veces 28.26. -->
 - [ ] C) No, el área queda igual porque pi no cambia
   <!-- feedback: Explica el error conceptual: pi es constante pero el radio al cuadrado sí cambia el área. -->
 - [ ] D) Sí, porque todas las medidas se duplican juntas
   <!-- feedback: Explica el error conceptual: la longitud se duplica pero el área depende del cuadrado del radio. -->
+
 ### Explicacion Pedagogica
 El área depende de r²: al duplicar r, r² se multiplica por 4. Por eso el área se cuadruplica (28.26 → 113.04). Distinguir crecimiento lineal de cuadrático es clave en geometría.
 ## Question 10 [D9-D10]
@@ -200,13 +209,14 @@ El área depende de r²: al duplicar r, r² se multiplica por 4. Por eso el áre
 ### Enunciado
 ¿Cuál lote conviene elegir para obtener mayor área de siembra?
 ### Opciones
-- [x] B) El rectangular, con 80 m² frente a 78.5 m² del circular
-  <!-- feedback: Explica por qué es correcta: círculo: 3.14 × 25 = 78.5; rectángulo: 8 × 10 = 80; 80 > 78.5. -->
 - [ ] A) El circular, porque el círculo siempre rinde más área
   <!-- feedback: Explica el error conceptual: ninguna forma "siempre" gana; hay que calcular cada caso concreto. -->
-- [ ] C) El circular, con 157 m² porque se suma el diámetro
+- [ ] B) El circular, con 157 m² porque se suma el diámetro
   <!-- feedback: Explica el error conceptual: inventa una fórmula inválida; el área correcta es 78.5 m². -->
+- [x] C) El rectangular, con 80 m² frente a 78.5 m² del circular
+  <!-- feedback: Explica por qué es correcta: círculo: 3.14 × 25 = 78.5; rectángulo: 8 × 10 = 80; 80 > 78.5. -->
 - [ ] D) Ambos rinden igual porque 5 + 5 = 10
   <!-- feedback: Explica el error conceptual: sumar medidas lineales no equivale a comparar superficies. -->
+
 ### Explicacion Pedagogica
 Decidir con geometría exige calcular: 78.5 m² contra 80 m². El rectángulo gana por 1.5 m², una diferencia pequeña pero real que solo aparece al operar con precisión.

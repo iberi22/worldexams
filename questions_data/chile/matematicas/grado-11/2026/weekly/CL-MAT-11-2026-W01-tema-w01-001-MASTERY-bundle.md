@@ -397,13 +397,4 @@ Para despejar $x$, elevamos ambos lados de la ecuación al cubo: $(\sqrt[3]{x})^
 - [ ] D) $\sqrt{8} / 2$ <!-- feedback: $\sqrt{8} = 2\sqrt{2}$, al dividir por 2 queda $\sqrt{2}$, que es irracional. -->
 
 ### Explicacion Pedagogica
-La opción B es un producto notable (suma por su diferencia), cuya fórmula es $(a+b)(a-b) = a^2 - b^2$. Aplicándola: $(\sqrt{3})^2 - (\sqrt{2})^2 = 3 - 2 = 1$. Dado que 1 es un número entero, también es un número racional.
-
-### Revision de Calidad
-| Dimension | Puntaje |
-|-----------|---------|
-| Tecnico | 30/30 |
-| Curricular | 40/40 |
-| Contexto | 20/20 |
-| Redaccion | 10/10 |
-| **Total** | **100/100** |
+La expresión $(\sqrt{3} + \sqrt{2})(\sqrt{3} - \sqrt{2})$ es un producto notable (suma por su diferencia), cuya fórmula es $(a+b)(a-b) = a^2 - b^2$. Aplicándola: $(\sqrt{3})^2 - (\sqrt{2})^2 = 3 - 2 = 1$. Dado que 1 es un número entero, también es un número racional.

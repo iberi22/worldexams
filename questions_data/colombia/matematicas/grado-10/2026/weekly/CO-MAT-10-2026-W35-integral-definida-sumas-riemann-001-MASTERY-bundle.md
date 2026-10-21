@@ -32,14 +32,15 @@ Este bundle contiene 12 preguntas sobre **integral-definida-sumas-riemann** para
 ### Enunciado
 ¿Qué representa geométricamente una suma de Riemann asociada a una función $f$ en el intervalo $[a, b]$?
 ### Opciones
-- [x] B) Una aproximación del área bajo la curva mediante rectángulos.
-  <!-- feedback: Correcto. La suma de Riemann aproxima el área con rectángulos de base $\Delta x$ y altura $f(x_i^*)$. -->
 - [ ] A) La derivada exacta de $f$ en cada punto del intervalo.
   <!-- feedback: Incorrecto. La suma de Riemann aproxima un área, no una derivada. -->
+- [x] B) Una aproximación del área bajo la curva mediante rectángulos.
+  <!-- feedback: Correcto. La suma de Riemann aproxima el área con rectángulos de base $\Delta x$ y altura $f(x_i^*)$. -->
 - [ ] C) La longitud del arco entre los extremos del intervalo.
   <!-- feedback: Incorrecto. La longitud de arco es otra magnitud geométrica. -->
 - [ ] D) El valor máximo de $f$ en el intervalo $[a, b]$.
   <!-- feedback: Incorrecto. La suma no calcula un máximo. -->
+
 ### Explicacion Pedagogica
 Una suma de Riemann aproxima el área bajo la curva de $f$ entre $a$ y $b$ sumando áreas de rectángulos cuya base es $\Delta x$ y cuya altura es un valor de $f$ en cada subintervalo.
 
@@ -60,6 +61,7 @@ Una suma de Riemann aproxima el área bajo la curva de $f$ entre $a$ y $b$ suman
   <!-- feedback: Correcto. La integral definida entrega el área neta bajo la curva en el intervalo $[a, b]$. -->
 - [ ] D) La derivada de $f$ en el extremo superior $b$.
   <!-- feedback: Incorrecto. La derivada es otra operación. -->
+
 ### Explicacion Pedagogica
 La integral definida $\int_{a}^{b} f(x) \, dx$ representa el área bajo la curva de $f$ entre $a$ y $b$, tomada como suma continua de rectángulos infinitesimales.
 
@@ -72,14 +74,15 @@ La integral definida $\int_{a}^{b} f(x) \, dx$ representa el área bajo la curva
 ### Enunciado
 ¿En qué se diferencia una suma de Riemann por la izquierda de una por la derecha?
 ### Opciones
-- [x] C) La suma por la izquierda usa el valor de $f$ en el extremo izquierdo de cada subintervalo; la derecha usa el extremo derecho.
-  <!-- feedback: Correcto. La diferencia está en el punto donde se evalúa la altura del rectángulo. -->
 - [ ] A) La suma por la izquierda no usa rectángulos.
   <!-- feedback: Incorrecto. Ambas aproximaciones usan rectángulos. -->
 - [ ] B) La suma por la izquierda aproxima derivadas, la derecha aproxima áreas.
   <!-- feedback: Incorrecto. Ambas aproximan el área. -->
+- [x] C) La suma por la izquierda usa el valor de $f$ en el extremo izquierdo de cada subintervalo; la derecha usa el extremo derecho.
+  <!-- feedback: Correcto. La diferencia está en el punto donde se evalúa la altura del rectángulo. -->
 - [ ] D) La suma por la izquierda solo aplica a funciones negativas.
   <!-- feedback: Incorrecto. La elección del extremo no depende del signo de $f$. -->
+
 ### Explicacion Pedagogica
 En la suma izquierda, la altura se toma en $x_i^* = x_i$; en la suma derecha, en $x_i^* = x_{i+1}$. Ambas aproximan la misma integral con rectángulos, pero por lados distintos.
 
@@ -92,14 +95,15 @@ En la suma izquierda, la altura se toma en $x_i^* = x_i$; en la suma derecha, en
 ### Enunciado
 Si toma $f(0) = 0$ y $f(1) = 1$, ¿cuál es el valor de la suma?
 ### Opciones
-- [ ] B) $4$
-  <!-- feedback: Incorrecto. Usaste ambos extremos derechos a la vez. -->
 - [x] A) $1$
   <!-- feedback: Correcto. Suma izquierda con $n=2$: $0 \cdot 1 + 1 \cdot 1 = 1$. -->
+- [ ] B) $4$
+  <!-- feedback: Incorrecto. Usaste ambos extremos derechos a la vez. -->
 - [ ] C) $2$
   <!-- feedback: Incorrecto. Sumaste las alturas pero olvidaste multiplicar por el ancho. -->
 - [ ] D) $0$
   <!-- feedback: Incorrecto. Usaste solo $f(0)$ y descartaste el otro rectángulo. -->
+
 ### Explicacion Pedagogica
 La suma izquierda con $n=2$ y $\Delta x=1$ da $f(0) \cdot 1 + f(1) \cdot 1 = 0 + 1 = 1$. Esta es una subestimación porque $f(x) = x$ es creciente.
 
@@ -120,6 +124,7 @@ Con $f(1) = 1$ y $f(2) = 2$, ¿cuál es la suma derecha con dos rectángulos?
   <!-- feedback: Incorrecto. Multiplicaste solo por el ancho de un rectángulo. -->
 - [ ] D) $4$
   <!-- feedback: Incorrecto. Sumaste las alturas pero sin multiplicar por $\Delta x$. -->
+
 ### Explicacion Pedagogica
 Con la suma derecha y $\Delta x = 1$, se obtiene $f(1) \cdot 1 + f(2) \cdot 1 = 1 + 2 = 3$. Esta es una sobreestimación porque $f(x) = x$ es creciente en $[0, 2]$.
 
@@ -134,12 +139,13 @@ Con la suma derecha y $\Delta x = 1$, se obtiene $f(1) \cdot 1 + f(2) \cdot 1 = 
 ### Opciones
 - [ ] A) $1 + 4 + 9 = 14$.
   <!-- feedback: Incorrecto. Sumaste las alturas pero no multiplicaste por el ancho $\Delta x = 1$. -->
-- [x] C) $1 + 4 + 9 = 14$, porque $\Delta x = 1$.
-  <!-- feedback: Correcto. Con $\Delta x = 1$, multiplicar por el ancho no cambia la suma. -->
 - [ ] B) $\frac{14}{3}$.
   <!-- feedback: Incorrecto. Dividiste incorrectamente entre 3. -->
+- [x] C) $1 + 4 + 9 = 14$, porque $\Delta x = 1$.
+  <!-- feedback: Correcto. Con $\Delta x = 1$, multiplicar por el ancho no cambia la suma. -->
 - [ ] D) $0 + 1 + 4 = 5$.
   <!-- feedback: Incorrecto. Usaste extremo izquierdo en lugar del derecho. -->
+
 ### Explicacion Pedagogica
 Con $n=3$ y $\Delta x=1$, los puntos derechos son $1, 2, 3$. Las alturas son $1^2 = 1$, $2^2 = 4$, $3^2 = 9$. La suma da $(1+4+9) \cdot 1 = 14$, una sobreestimación porque $x^2$ es creciente.
 
@@ -160,6 +166,7 @@ Con $n=3$ y $\Delta x=1$, los puntos derechos son $1, 2, 3$. Las alturas son $1^
   <!-- feedback: Incorrecto. Aunque el ancho tiende a $0$, las alturas pueden compensar. -->
 - [ ] D) La suma deja de existir porque se vuelve una suma infinita.
   <!-- feedback: Incorrecto. El límite existe cuando $f$ es integrable. -->
+
 ### Explicacion Pedagogica
 Por definición, la integral definida es el límite de las sumas de Riemann cuando $n \to \infty$, siempre que $f$ sea integrable en el intervalo.
 
@@ -174,12 +181,13 @@ Por definición, la integral definida es el límite de las sumas de Riemann cuan
 ### Opciones
 - [ ] A) Porque $f$ es constante.
   <!-- feedback: Incorrecto. $f(x) = x$ no es constante. -->
-- [x] C) Porque el área bajo la curva en $[-1, 0]$ cancela exactamente el área bajo la curva en $[0, 1]$.
-  <!-- feedback: Correcto. La función es impar, y el intervalo es simétrico respecto al origen, así que las áreas se cancelan. -->
 - [ ] B) Porque la integral definida siempre vale $0$ en $[-1, 1]$.
   <!-- feedback: Incorrecto. Depende de la función; por ejemplo $\int_{-1}^{1} 1 \, dx = 2$. -->
+- [x] C) Porque el área bajo la curva en $[-1, 0]$ cancela exactamente el área bajo la curva en $[0, 1]$.
+  <!-- feedback: Correcto. La función es impar, y el intervalo es simétrico respecto al origen, así que las áreas se cancelan. -->
 - [ ] D) Porque $f$ no es continua.
   <!-- feedback: Incorrecto. $f(x) = x$ sí es continua. -->
+
 ### Explicacion Pedagogica
 Como $x$ es una función impar y el intervalo $[-1, 1]$ es simétrico, el área negativa en $[-1, 0]$ se cancela con el área positiva en $[0, 1]$, dando como resultado $0$.
 
@@ -200,6 +208,7 @@ Como $x$ es una función impar y el intervalo $[-1, 1]$ es simétrico, el área 
   <!-- feedback: Incorrecto. $\int_{a}^{b} k \, dx = k(b-a)$, no $k$. -->
 - [ ] D) $\int_{a}^{b} f \, dx = \int_{b}^{a} f \, dx$.
   <!-- feedback: Incorrecto. Cambiar el orden de los límites cambia el signo. -->
+
 ### Explicacion Pedagogica
 La integral definida es lineal: la integral de una suma es la suma de las integrales. En cambio, cambiar los límites invierte el signo: $\int_{a}^{b} f \, dx = -\int_{b}^{a} f \, dx$.
 
@@ -212,14 +221,15 @@ La integral definida es lineal: la integral de una suma es la suma de las integr
 ### Enunciado
 ¿Por qué es importante interpretar la integral definida como un límite de sumas de Riemann en grado 10?
 ### Opciones
+- [x] A) Porque conecta la noción intuitiva de área con la definición formal de integral.
+  <!-- feedback: Correcto. La suma de Riemann es el puente entre el área geométrica y el análisis matemático. -->
 - [ ] B) Porque permite calcular derivadas exactas.
   <!-- feedback: Incorrecto. La derivada no es el foco de la integral definida. -->
 - [ ] C) Porque reemplaza el uso de las funciones trigonométricas.
   <!-- feedback: Incorrecto. Las funciones trigonométricas no se ven afectadas. -->
-- [x] A) Porque conecta la noción intuitiva de área con la definición formal de integral.
-  <!-- feedback: Correcto. La suma de Riemann es el puente entre el área geométrica y el análisis matemático. -->
 - [ ] D) Porque elimina la necesidad de la constante $+C$.
   <!-- feedback: Incorrecto. La constante $+C$ solo aparece en la integral indefinida. -->
+
 ### Explicacion Pedagogica
 Interpretar la integral como un límite de sumas de Riemann permite entenderla como el área bajo la curva, lo que conecta la geometría con la formalización del cálculo integral.
 
@@ -232,14 +242,15 @@ Interpretar la integral como un límite de sumas de Riemann permite entenderla c
 ### Enunciado
 ¿Cuál de las siguientes afirmaciones es VERDADERA sobre las aproximaciones obtenidas?
 ### Opciones
-- [ ] B) La suma por la izquierda y por la derecha coinciden siempre que $n$ sea par.
-  <!-- feedback: Incorrecto. Solo coinciden en casos muy particulares. -->
 - [x] A) Como $f(x) = x^2$ es creciente, la suma por la izquierda subestima y la derecha sobreestima.
   <!-- feedback: Correcto. Para una función creciente, izquierda $\leq$ integral $\leq$ derecha. -->
+- [ ] B) La suma por la izquierda y por la derecha coinciden siempre que $n$ sea par.
+  <!-- feedback: Incorrecto. Solo coinciden en casos muy particulares. -->
 - [ ] C) La suma por la derecha siempre subestima, sin importar la función.
   <!-- feedback: Incorrecto. Eso depende de si la función es creciente o decreciente. -->
 - [ ] D) La suma por la izquierda y por la derecha son siempre mayores que la integral.
   <!-- feedback: Incorrecto. La suma izquierda suele subestimar en funciones crecientes. -->
+
 ### Explicacion Pedagogica
 Para funciones crecientes positivas, la suma izquierda queda por debajo de la integral y la derecha por encima. En funciones decrecientes, las relaciones se invierten.
 
@@ -252,13 +263,14 @@ Para funciones crecientes positivas, la suma izquierda queda por debajo de la in
 ### Enunciado
 Si $\Delta x = 1$, $f(1) = 3$, $f(2) = 5$, $f(3) = 7$ y $f(4) = 9$, ¿cuál es el promedio de las dos aproximaciones?
 ### Opciones
+- [ ] A) $21$.
+  <!-- feedback: Incorrecto. Solo tomaste la suma derecha sin promediar. -->
 - [ ] B) $12$.
   <!-- feedback: Incorrecto. Sumaste solo las alturas pero sin promediar las dos aproximaciones. -->
-- [x] A) $18$.
-  <!-- feedback: Correcto. Suma izquierda: $3+5+7 = 15$. Suma derecha: $5+7+9 = 21$. Promedio: $(15+21)/2 = 18$. -->
 - [ ] C) $15$.
   <!-- feedback: Incorrecto. Solo tomaste la suma izquierda sin promediar. -->
-- [ ] D) $21$.
-  <!-- feedback: Incorrecto. Solo tomaste la suma derecha sin promediar. -->
+- [x] D) $18$.
+  <!-- feedback: Correcto. Suma izquierda: $3+5+7 = 15$. Suma derecha: $5+7+9 = 21$. Promedio: $(15+21)/2 = 18$. -->
+
 ### Explicacion Pedagogica
 Izquierda: $3+5+7 = 15$. Derecha: $5+7+9 = 21$. Promedio: $(15+21)/2 = 18$. Como $f$ es lineal, este promedio coincide con el valor exacto $18$ de la integral.

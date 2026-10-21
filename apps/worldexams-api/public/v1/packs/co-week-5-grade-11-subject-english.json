@@ -13,16 +13,16 @@
       "context": "Discussing cultural diplomacy in Barranquilla.",
       "options": [
         {
-          "letter": "B",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
           "text": "alleviate",
           "is_correct": false,
           "feedback": "Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed."
+        },
+        {
+          "letter": "B",
+          "text": "exacerbate",
+          "is_correct": true,
+          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
         },
         {
           "letter": "C",
@@ -59,12 +59,6 @@
       "context": "Discussing cultural diplomacy in Medellín.",
       "options": [
         {
-          "letter": "D",
-          "text": "undermines",
-          "is_correct": true,
-          "feedback": "'Undermine' means to weaken something gradually from below, and a one-sided invitation list erodes the principle of exchange the funding was meant to build. The contrast with 'it was funded to promote' names what the imbalance undoes."
-        },
-        {
           "letter": "A",
           "text": "strengthens",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "surrenders",
           "is_correct": false,
           "feedback": "'Surrender' means to give up possession or control, and no one is ceding anything here. The sentence describes an imbalance in who was invited, which is a weakening rather than a relinquishment."
+        },
+        {
+          "letter": "D",
+          "text": "undermines",
+          "is_correct": true,
+          "feedback": "'Undermine' means to weaken something gradually from below, and a one-sided invitation list erodes the principle of exchange the funding was meant to build. The contrast with 'it was funded to promote' names what the imbalance undoes."
         }
       ],
       "correct_answer": "D",
@@ -151,16 +151,16 @@
       "context": "Discussing cultural diplomacy in Cali.",
       "options": [
         {
-          "letter": "B",
-          "text": "frustrates",
-          "is_correct": true,
-          "feedback": "'Frustrate' means to prevent someone from achieving something they were in a position to achieve, and the one-sided funding blocks the local half of a two-way exchange. The clause 'the very exchange its name implies' names the possibility being blocked."
-        },
-        {
           "letter": "A",
           "text": "encourages",
           "is_correct": false,
           "feedback": "'Encourage' means to make something more likely, and the sentence describes a barrier rather than a stimulus. A restriction on who can travel cannot be described as promoting the activity."
+        },
+        {
+          "letter": "B",
+          "text": "frustrates",
+          "is_correct": true,
+          "feedback": "'Frustrate' means to prevent someone from achieving something they were in a position to achieve, and the one-sided funding blocks the local half of a two-way exchange. The clause 'the very exchange its name implies' names the possibility being blocked."
         },
         {
           "letter": "C",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W05-cultural-diplomacy-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on cultural diplomacy in Bucaramanga, what is implied about the role of Subjunctive Mood in shaping public opinion?",
-      "context": "Discussing cultural diplomacy in Bucaramanga.",
+      "statement": "Read the text and answer the question.\n\n\"In 2015, UNESCO added vallenato to its list of Intangible Cultural Heritage in Need of Urgent Safeguarding. The decision recognised the music's importance for the Caribbean region of Colombia, but it also warned that traditional forms were disappearing as commercial versions became more popular. Since then, music schools in Valledupar have offered classes for children in accordion, caja and guacharaca, the three traditional instruments, so that the older style can be passed to new generations.\"\n\nWhat is the text mainly about?",
+      "context": "Reading a cultural article about vallenato and UNESCO.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. the subjunctive mood is the point here: the subjunctive sets the proposal apart from fact (\"It is essential that every culture be respected\" does not claim it already is), so a diplomat can argue for a goal without claiming it as an accomplished fact. Reading that implication is what the question asks."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Why commercial vallenato is more popular than traditional vallenato.",
           "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report treats this distinction as central to how public opinion forms, so writing it off as irrelevant contradicts the argument."
+          "feedback": "The popularity of commercial vallenato is mentioned only as the reason for UNESCO's warning; the text does not explain why it is popular."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "How to play the accordion, caja and guacharaca.",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the subjunctive adds a layer of proposed meaning to the message rather than making it plainer."
+          "feedback": "The instruments are named, but the text gives no instructions on how to play them."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Manizales.",
+          "text": "The history of the city of Valledupar.",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report applies this across media and public discourse, so it is not the property of an academic minority in one city."
+          "feedback": "Valledupar is mentioned only as the place where the music schools are located."
+        },
+        {
+          "letter": "D",
+          "text": "International recognition of vallenato and efforts to protect its traditional form.",
+          "is_correct": true,
+          "feedback": "The text explains UNESCO's decision and then describes the music schools that teach the traditional style to children."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "A main-idea answer should connect the beginning and the end of the text. Here the UNESCO recognition (beginning) and the classes in Valledupar (end) are linked by the idea of protecting a tradition.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -285,36 +285,36 @@
     },
     {
       "id": "CO-ING-11-2026-W05-cultural-diplomacy-001-MASTERY-bundle-v7",
-      "statement": "According to a recent report on cultural diplomacy in Cartagena, what is implied about the role of Subjunctive Mood in shaping public opinion?",
-      "context": "Discussing cultural diplomacy in Cartagena.",
+      "statement": "Read the text and answer the question.\n\n\"Every year, the Colombian Embassy in Seoul organises a food and coffee festival. Last year, Korean visitors waited in long lines to try arepas, and a local café chain later added Colombian coffee from Nariño to its menu. A Colombian diplomat said the festival costs less than a single trade mission, 'but people remember a flavour longer than a speech.'\"\n\nWhat does the diplomat imply?",
+      "context": "Reading a report about a Colombian food and coffee festival in Seoul.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. the subjunctive mood is the point here: the subjunctive sets the proposal apart from fact (\"It is essential that every culture be respected\" does not claim it already is), so a diplomat can argue for a goal without claiming it as an accomplished fact. Reading that implication is what the question asks."
+          "letter": "A",
+          "text": "Trade missions are more effective than cultural festivals.",
+          "is_correct": false,
+          "feedback": "The diplomat suggests the opposite: the festival is cheaper and leaves a longer memory than speeches."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report treats this distinction as central to how public opinion forms, so writing it off as irrelevant contradicts the argument."
+          "letter": "B",
+          "text": "Cultural experiences can create lasting interest in a country.",
+          "is_correct": true,
+          "feedback": "'People remember a flavour longer than a speech' implies that tasting Colombian food creates a stronger connection than formal events, as the café chain's decision shows."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Korean visitors did not enjoy the arepas.",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the subjunctive adds a layer of proposed meaning to the message rather than making it plainer."
+          "feedback": "Visitors waited in long lines to try them, which shows strong interest."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Barranquilla.",
+          "text": "The festival is too expensive to continue.",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report applies this across media and public discourse, so it is not the property of an academic minority in one city."
+          "feedback": "The diplomat says the festival costs less than a trade mission, so cost is presented as an advantage."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Cultural diplomacy uses culture to build relations between countries. In this text, the inference comes from the comparison 'a flavour longer than a speech' and from the concrete result: a café chain adding Colombian coffee.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -331,36 +331,36 @@
     },
     {
       "id": "CO-ING-11-2026-W05-cultural-diplomacy-001-MASTERY-bundle-v8",
-      "statement": "According to a recent report on cultural diplomacy in Cali, what is implied about the role of Subjunctive Mood in shaping public opinion?",
-      "context": "Discussing cultural diplomacy in Cali.",
+      "statement": "Read the text and answer the question.\n\n\"Each year, the Bogotá International Book Fair invites a guest country of honour. The guest country builds a large pavilion to showcase its writers, music and food. Hundreds of thousands of people visit the fair, and many of them go to the pavilion first. For smaller countries, the invitation is a rare opportunity to reach Latin American readers, and many publishers sign translation agreements during the event.\"\n\nIn the text, the word \"showcase\" is closest in meaning to:",
+      "context": "Reading an article about the guest country at the Bogotá International Book Fair.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. the subjunctive mood is the point here: the subjunctive sets the proposal apart from fact (\"It is essential that every culture be respected\" does not claim it already is), so a diplomat can argue for a goal without claiming it as an accomplished fact. Reading that implication is what the question asks."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "hide",
           "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report treats this distinction as central to how public opinion forms, so writing it off as irrelevant contradicts the argument."
+          "feedback": "To hide something is to keep it from being seen, but a large pavilion visited by many people is built to be seen."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "sell cheaply",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the subjunctive adds a layer of proposed meaning to the message rather than making it plainer."
+          "feedback": "The text does not talk about prices; the pavilion presents culture, not discounts."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Bogotá.",
+          "text": "translate",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report applies this across media and public discourse, so it is not the property of an academic minority in one city."
+          "feedback": "Translation agreements are mentioned later, but the pavilion itself presents writers, music and food, it does not translate them."
+        },
+        {
+          "letter": "D",
+          "text": "display and present proudly",
+          "is_correct": true,
+          "feedback": "A showcase is a place where valuable things are shown; the guest country uses the pavilion to present its writers, music and food to visitors."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Context clues include the purpose of the place (a large pavilion) and the audience (hundreds of thousands of visitors). Distractors often reuse a word from elsewhere in the text, like 'translation', to attract careless readers.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -377,36 +377,36 @@
     },
     {
       "id": "CO-ING-11-2026-W05-cultural-diplomacy-001-MASTERY-bundle-v9",
-      "statement": "According to a recent report on cultural diplomacy in Pereira, what is implied about the role of Subjunctive Mood in shaping public opinion?",
-      "context": "Discussing cultural diplomacy in Pereira.",
+      "statement": "Read the text and answer the question.\n\n\"Through a cultural exchange programme, twenty students from Cartagena spent three weeks in Senegal last year. The programme was created to explore the African roots of Caribbean music and dance. In Dakar, the students learned about the sabar drum and compared its rhythms with those of the champeta played in their own neighbourhoods. When they returned, they gave free workshops in their schools to share what they had learned.\"\n\nWhat did the students do after they returned to Cartagena?",
+      "context": "Reading a news story about a cultural exchange between Cartagena and Senegal.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "They taught free workshops at their schools.",
           "is_correct": true,
-          "feedback": "Correct. the subjunctive mood is the point here: the subjunctive sets the proposal apart from fact (\"It is essential that every culture be respected\" does not claim it already is), so a diplomat can argue for a goal without claiming it as an accomplished fact. Reading that implication is what the question asks."
+          "feedback": "The last sentence says 'When they returned, they gave free workshops in their schools to share what they had learned.'"
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "They moved to Dakar to study music.",
           "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report treats this distinction as central to how public opinion forms, so writing it off as irrelevant contradicts the argument."
+          "feedback": "The students spent three weeks in Senegal and then returned; they did not move there."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "They recorded a champeta album in Senegal.",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the subjunctive adds a layer of proposed meaning to the message rather than making it plainer."
+          "feedback": "Champeta is mentioned as a comparison with the sabar rhythms; no recording is described."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Barranquilla.",
+          "text": "They invited Senegalese students to Cartagena.",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report applies this across media and public discourse, so it is not the property of an academic minority in one city."
+          "feedback": "The text does not mention any visit by Senegalese students."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Time expressions such as 'When they returned' signal the part of the text that answers 'after' questions. Students should match the time reference in the question with the time reference in the text.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -519,12 +519,6 @@
       "context": "Discussing cultural diplomacy in Medellín.",
       "options": [
         {
-          "letter": "C",
-          "text": "be cleared",
-          "is_correct": true,
-          "feedback": "'Agreed that' introduces an arrangement the parties commit to rather than a fact, so the clause takes the subjunctive, which for most verbs is the bare infinitive. 'Be cleared' is that form and fits a requirement attached to photographs."
-        },
-        {
           "letter": "A",
           "text": "cleared",
           "is_correct": false,
@@ -535,6 +529,12 @@
           "text": "were cleared",
           "is_correct": false,
           "feedback": "'Were cleared' is past indicative passive and would report that the photographs were in fact cleared before exhibition. The sentence states a condition the delegation agreed on, not a completed sequence."
+        },
+        {
+          "letter": "C",
+          "text": "be cleared",
+          "is_correct": true,
+          "feedback": "'Agreed that' introduces an arrangement the parties commit to rather than a fact, so the clause takes the subjunctive, which for most verbs is the bare infinitive. 'Be cleared' is that form and fits a requirement attached to photographs."
         },
         {
           "letter": "D",
@@ -565,12 +565,6 @@
       "context": "Discussing cultural diplomacy in Cali.",
       "options": [
         {
-          "letter": "D",
-          "text": "should leave",
-          "is_correct": true,
-          "feedback": "A modal in the that-clause of 'warned that' is a standard alternative to the subjunctive, and 'should leave' presents the prohibition as a requirement. The phrase 'no part of the collection' and the absence of an agreement both point to a rule, not a report of what happened."
-        },
-        {
           "letter": "A",
           "text": "will leave",
           "is_correct": false,
@@ -587,6 +581,12 @@
           "text": "left",
           "is_correct": false,
           "feedback": "'Left' is past simple and would report a completed departure of the collection. The sentence is about a condition that has to be met before any journey happens, so no past event is involved."
+        },
+        {
+          "letter": "D",
+          "text": "should leave",
+          "is_correct": true,
+          "feedback": "A modal in the that-clause of 'warned that' is a standard alternative to the subjunctive, and 'should leave' presents the prohibition as a requirement. The phrase 'no part of the collection' and the absence of an agreement both point to a rule, not a report of what happened."
         }
       ],
       "correct_answer": "D",
@@ -611,16 +611,16 @@
       "context": "Discussing cultural diplomacy in Cartagena.",
       "options": [
         {
-          "letter": "B",
-          "text": "be",
-          "is_correct": true,
-          "feedback": "When 'stressed that' introduces something presented as the point of principle rather than as an event, English uses the subjunctive, and for 'be' that form is 'be'. The clause states what holds true of the process, not a report of a particular outcome."
-        },
-        {
           "letter": "A",
           "text": "is",
           "is_correct": false,
           "feedback": "'Is' is the present indicative and turns the statement into an assertion about current practice. 'Stressed that' marks the content as something the speakers wished to emphasise, which is not the same as reporting it as established fact."
+        },
+        {
+          "letter": "B",
+          "text": "be",
+          "is_correct": true,
+          "feedback": "When 'stressed that' introduces something presented as the point of principle rather than as an event, English uses the subjunctive, and for 'be' that form is 'be'. The clause states what holds true of the process, not a report of a particular outcome."
         },
         {
           "letter": "C",
@@ -703,16 +703,16 @@
       "context": "Discussing cultural diplomacy in Medellín.",
       "options": [
         {
-          "letter": "B",
-          "text": "consults",
-          "is_correct": true,
-          "feedback": "After expressions of necessity such as 'it is essential that', English uses the subjunctive, so the bare form 'consults' appears. The modal 'it is essential' sets the requirement, and the subjunctive marks the action as obligatory."
-        },
-        {
           "letter": "A",
           "text": "is consulting",
           "is_correct": false,
           "feedback": "A progressive would suggest an action already under way, and the subjunctive form cannot be built on 'is'. The pattern 'it is essential that' takes the bare infinitive, so the verb must appear as 'consults'."
+        },
+        {
+          "letter": "B",
+          "text": "consults",
+          "is_correct": true,
+          "feedback": "After expressions of necessity such as 'it is essential that', English uses the subjunctive, so the bare form 'consults' appears. The modal 'it is essential' sets the requirement, and the subjunctive marks the action as obligatory."
         },
         {
           "letter": "C",
@@ -749,12 +749,6 @@
       "context": "Discussing cultural diplomacy in Medellín.",
       "options": [
         {
-          "letter": "C",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
           "text": "They are literally looking for something in the trees of Cartagena.",
           "is_correct": false,
@@ -765,6 +759,12 @@
           "text": "The approach is too noisy and aggressive.",
           "is_correct": false,
           "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+        },
+        {
+          "letter": "C",
+          "text": "The current strategy is directed towards the wrong objective.",
+          "is_correct": true,
+          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
         },
         {
           "letter": "D",
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-ING-11-2026-W05-cultural-diplomacy-001-MASTERY-bundle-v18",
-      "statement": "In a high-level debate about cultural diplomacy, Mateo says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mateo mean?",
-      "context": "Discussing cultural diplomacy in Barranquilla.",
+      "statement": "Read what the host says.\n\nHost: \"Welcome, everyone. Let me break the ice with a short story about my first attempt to use chopsticks.\"\n\nWhy does the host tell the story?",
+      "context": "A host welcomes a Japanese trade and culture delegation at a dinner in Bogotá.",
       "options": [
         {
-          "letter": "C",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Cartagena.",
+          "text": "To criticise Japanese table manners.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "The story is about the host's own difficulty with chopsticks, so it is a friendly joke about himself, not a criticism of the guests."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "To end the dinner early.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "The host has just welcomed the guests; breaking the ice is a way to begin a conversation, not to finish it."
+        },
+        {
+          "letter": "C",
+          "text": "To make the guests feel relaxed and start a friendly conversation.",
+          "is_correct": true,
+          "feedback": "'Break the ice' means to reduce tension at the start of a meeting; a funny personal story is a typical way to do this."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "To complain about the cold weather in Bogotá.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "This takes 'ice' literally. The idiom refers to social tension, not to temperature."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "In diplomatic and social contexts, speakers often use humour to create a relaxed atmosphere. Recognising 'break the ice' as a strategy for starting conversations is part of pragmatic competence in English.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -837,36 +837,36 @@
     },
     {
       "id": "CO-ING-11-2026-W05-cultural-diplomacy-001-MASTERY-bundle-v19",
-      "statement": "In a high-level debate about cultural diplomacy, Mariana says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mariana mean?",
-      "context": "Discussing cultural diplomacy in Medellín.",
+      "statement": "Read the conversation.\n\nJournalist: \"Did the two ministers agree on the cultural exchange agreement?\"\nSpokesperson: \"They don't see eye to eye on the budget, but both support the programme.\"\n\nWhat does the spokesperson mean?",
+      "context": "A journalist interviews a government spokesperson about a cultural agreement.",
       "options": [
         {
-          "letter": "B",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "letter": "A",
+          "text": "The ministers refused to look at each other.",
+          "is_correct": false,
+          "feedback": "This is a literal interpretation of 'eye to eye'. The expression is about opinions, not about looking."
         },
         {
-          "letter": "A",
-          "text": "They are literally looking for something in the trees of Barranquilla.",
-          "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "letter": "B",
+          "text": "The ministers disagree about the budget but agree on the programme.",
+          "is_correct": true,
+          "feedback": "'Not see eye to eye' means to disagree; 'but both support the programme' shows that the disagreement is only about money."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The ministers agree completely on every point.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "The negative 'don't see eye to eye' shows there is at least one disagreement, about the budget."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "The ministers will cancel the programme.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Both ministers support the programme, so there is no reason to think it will be cancelled."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "Spokespeople often use idioms to soften disagreement. The structure 'They don't ... on X, but ... Y' separates the area of disagreement from the area of agreement, and students must track both parts.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -887,16 +887,16 @@
       "context": "Discussing cultural diplomacy in Cali.",
       "options": [
         {
-          "letter": "B",
-          "text": "She is reporting strong attendance while implicitly countering an earlier claim that the material attracts only a narrow audience.",
-          "is_correct": true,
-          "feedback": "'I would not describe the audience as niche' rejects a description rather than asserting its opposite directly, and the attendance figures are given as the evidence for that rejection. The hedging frame is what signals she is responding to someone else's wording."
-        },
-        {
           "letter": "A",
           "text": "She is admitting the audiences were small.",
           "is_correct": false,
           "feedback": "Four sold-out venues argue the opposite, and the phrase she refuses to use is 'niche', which is the label for a narrow audience. Nothing in the sentence concedes low attendance."
+        },
+        {
+          "letter": "B",
+          "text": "She is reporting strong attendance while implicitly countering an earlier claim that the material attracts only a narrow audience.",
+          "is_correct": true,
+          "feedback": "'I would not describe the audience as niche' rejects a description rather than asserting its opposite directly, and the attendance figures are given as the evidence for that rejection. The hedging frame is what signals she is responding to someone else's wording."
         },
         {
           "letter": "C",

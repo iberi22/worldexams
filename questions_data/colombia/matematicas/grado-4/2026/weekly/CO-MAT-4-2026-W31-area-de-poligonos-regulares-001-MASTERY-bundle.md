@@ -88,6 +88,7 @@ El área de un cuadrado se calcula multiplicando la longitud de un lado por sí 
   <!-- feedback: Incorrecto. 21 cm² sería la mitad del resultado correcto. No olvides que el área es (P × a) ÷ 2, no (P × a) ÷ 4. -->
 - [ ] D) 63 cm²
   <!-- feedback: Incorrecto. 63 cm² no es el resultado del problema. Es un error típico de cálculo: ese valor no aparece al aplicar bien la fórmula. El cálculo correcto es: El área de un polígono regular es (perímetro × apotema) ÷ 2 = (24 × 3.5) ÷ 2 = 42 cm². -->
+
 ### Explicacion Pedagogica
 El área de un polígono regular se calcula con la fórmula A = (P × a) ÷ 2, donde P es el perímetro y a es el apotema. Para un hexágono regular con lado de 4 cm, el perímetro es 6 × 4 = 24 cm. Si el apotema mide 3.5 cm, el área es (24 × 3.5) ÷ 2 = 42 cm². El apotema es la distancia desde el centro del polígono hasta el punto medio de un lado.
 ## Question 4 [D5-D6]
@@ -109,6 +110,7 @@ El área de un polígono regular se calcula con la fórmula A = (P × a) ÷ 2, d
   <!-- feedback: Incorrecto. 60 cm² sería la mitad del resultado correcto. Recuerda que el área es (P × a) ÷ 2, no (P × a) ÷ 4. -->
 - [ ] D) 180 cm²
   <!-- feedback: Incorrecto. 180 cm² no es el resultado del problema. Es un error típico de cálculo: ese valor no aparece al aplicar bien la fórmula. El cálculo correcto es: El perímetro es 8 × 5 = 40 cm, y el área es (40 × 6) ÷ 2 = 120 cm². -->
+
 ### Explicacion Pedagogica
 Para calcular el área de un octágono regular, primero se encuentra el perímetro multiplicando el lado por 8: P = 8 × 5 = 40 cm. Luego se aplica la fórmula A = (P × a) ÷ 2 = (40 × 6) ÷ 2 = 120 cm². Es común olvidar dividir entre 2, lo que daría 240 cm², pero la fórmula correcta siempre incluye esa división.
 ## Question 5 [D5-D6]
@@ -130,6 +132,7 @@ Para calcular el área de un octágono regular, primero se encuentra el perímet
   <!-- feedback: Incorrecto. 55 cm² sería la mitad del resultado correcto. El área es (P × a) ÷ 2, no (P × a) ÷ 4. -->
 - [ ] D) 165 cm²
   <!-- feedback: Incorrecto. 165 cm² no es el resultado del problema. Es un error típico de cálculo: ese valor no aparece al aplicar bien la fórmula. El cálculo correcto es: El perímetro es 5 × 8 = 40 cm, y el área es (40 × 5.5) ÷ 2 = 110 cm². -->
+
 ### Explicacion Pedagogica
 El área de un pentágono regular se calcula primero encontrando el perímetro: P = 5 × 8 = 40 cm. Luego se aplica la fórmula A = (P × a) ÷ 2 = (40 × 5.5) ÷ 2 = 110 cm². Es importante recordar que el apotema es la distancia perpendicular desde el centro hasta el punto medio de un lado, y que la fórmula del área siempre divide el producto entre 2.
 ## Question 6 [D7-D8]
@@ -191,12 +194,12 @@ Un hexágono regular se puede dividir exactamente en 6 triángulos equiláteros 
 ### Opciones
 - [ ] A) Sí, porque así se calcula el área de todos los polígonos
   <!-- feedback: Incorrecto. La fórmula correcta es (P × a) ÷ 2, no P × a. Si no se divide entre 2, el resultado es el doble del área real. -->
-- [x] B) No, porque falta dividir el resultado entre 2
-  <!-- feedback: Correcto. La fórmula correcta es A = (P × a) ÷ 2. Si solo multiplicas P × a, obtienes el doble del área real. -->
+- [ ] B) No, porque primero hay que elevar el apotema al cuadrado
+  <!-- feedback: Incorrecto. El apotema no se eleva al cuadrado en la fórmula del área. La fórmula correcta es (P × a) ÷ 2. -->
 - [ ] C) Sí, porque el apotema ya incluye la división entre 2
   <!-- feedback: Incorrecto. El apotema es solo la distancia desde el centro al punto medio de un lado, no incluye ninguna división. -->
-- [ ] D) No, porque primero hay que elevar el apotema al cuadrado
-  <!-- feedback: Incorrecto. El apotema no se eleva al cuadrado en la fórmula del área. La fórmula correcta es (P × a) ÷ 2. -->
+- [x] D) No, porque falta dividir el resultado entre 2
+  <!-- feedback: Correcto. La fórmula correcta es A = (P × a) ÷ 2. Si solo multiplicas P × a, obtienes el doble del área real. -->
 
 ### Explicacion Pedagogica
 La fórmula correcta para el área de un polígono regular es A = (P × a) ÷ 2, donde P es el perímetro y a es el apotema. Si se omite la división entre 2, el resultado es exactamente el doble del área real. Por ejemplo, un cuadrado de lado 4 cm tiene perímetro 16 cm y apotema 2 cm. El área correcta es (16 × 2) ÷ 2 = 16 cm², pero sin dividir entre 2 se obtendría 32 cm², que es incorrecto.

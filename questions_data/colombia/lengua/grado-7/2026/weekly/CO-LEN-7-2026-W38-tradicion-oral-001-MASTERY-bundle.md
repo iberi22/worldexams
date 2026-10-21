@@ -182,8 +182,8 @@ El estudio de la tradición oral no debe ser nostálgico o acrítico. Es una opo
 ¿Qué significa que la tradición oral tenga la capacidad de "narrar el presente"?
 
 ### Opciones
-- [ ] A) Que los abuelos deben aprender a usar redes sociales para contar noticias. <!-- feedback: La oralidad no depende del soporte tecnológico para narrar el hoy. -->
-- [x] B) Que los relatos tradicionales se adaptan para incluir los sucesos actuales (como el conflicto, el clima o la migración), dándoles un sentido cultural propio. <!-- feedback: La tradición oral es dinámica y flexible; absorbe la realidad nueva y la integra en sus estructuras narrativas. -->
+- [x] A) Que los relatos tradicionales se adaptan para incluir los sucesos actuales (como el conflicto, el clima o la migración), dándoles un sentido cultural propio. <!-- feedback: La tradición oral es dinámica y flexible; absorbe la realidad nueva y la integra en sus estructuras narrativas. -->
+- [ ] B) Que los abuelos deben aprender a usar redes sociales para contar noticias. <!-- feedback: La oralidad no depende del soporte tecnológico para narrar el hoy. -->
 - [ ] C) Que la tradición oral solo sirve para hablar de cosas que pasaron hace mil años. <!-- feedback: Esto sería una tradición muerta; la oralidad viva siempre habla desde el presente. -->
 - [ ] D) Que es obligatorio grabar todas las conversaciones de la gente en el mercado. <!-- feedback: La grabación es una técnica de registro, no define la función narrativa de la comunidad. -->
 
@@ -203,8 +203,8 @@ La tradición oral es un organismo vivo. Al igual que el lenguaje, cambia y se a
 ### Opciones
 - [ ] A) Que los cuenteros urbanos son más inteligentes porque fueron a la universidad. <!-- feedback: Es un prejuicio que ignora la inmensa sabiduría y complejidad de los narradores rurales. -->
 - [ ] B) Que en el campo no se usan palabras bonitas para contar historias. <!-- feedback: El lenguaje rural es rico en metáforas, ritmos y matices poéticos. -->
-- [x] C) La tradición rural es un acto comunitario y ritual de vida, mientras que la urbana es a menudo un espectáculo artístico programado. <!-- feedback: Aunque comparten la palabra, su función social y su contexto de producción son muy distintos. -->
-- [ ] D) Que la tradición rural es gratis y la urbana siempre hay que pagarla. <!-- feedback: Es una diferencia económica, pero no toca la esencia del proceso comunicativo y cultural. -->
+- [ ] C) Que la tradición rural es gratis y la urbana siempre hay que pagarla. <!-- feedback: Es una diferencia económica, pero no toca la esencia del proceso comunicativo y cultural. -->
+- [x] D) La tradición rural es un acto comunitario y ritual de vida, mientras que la urbana es a menudo un espectáculo artístico programado. <!-- feedback: Aunque comparten la palabra, su función social y su contexto de producción son muy distintos. -->
 
 ### Explicacion Pedagogica
 La evaluación final permite distinguir entre la oralidad como patrimonio vivo de una comunidad y la oralidad como expresión artística escénica. Ambas son valiosas, pero cumplen roles diferentes en la sociedad colombiana contemporánea.

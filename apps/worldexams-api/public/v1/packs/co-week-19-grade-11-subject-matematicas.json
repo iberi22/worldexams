@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle-v1",
-      "statement": "Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\\frac{dr}{dt} = 3\\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\\frac{dA}{dt}$ cuando el radio es $r = 1\\text{ m}$?",
-      "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
+      "statement": "Si en cierto instante $\\frac{dV}{dt} = 3$ L/min, ¿qué significa ese dato?",
+      "context": "La empresa de acueducto de Bucaramanga llena un tanque de reserva; el volumen de agua es $V(t)$ litros, con $t$ en minutos.",
       "options": [
         {
-          "letter": "C",
-          "text": "$6\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": true,
-          "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
-        },
-        {
           "letter": "A",
-          "text": "$3\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
+          "text": "En ese instante el volumen aumenta a razón de 3 litros por minuto",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada $\\frac{dV}{dt}$ mide la rapidez de cambio del volumen; su unidad es litros por minuto y el signo positivo indica que aumenta."
         },
         {
           "letter": "B",
-          "text": "$6\\text{ m}^2\\text{/s}$",
+          "text": "El tanque contiene 3 litros de agua en ese instante",
           "is_correct": false,
-          "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
+          "feedback": "Incorrecto. 3 L/min es una rapidez, no una cantidad; el volumen en ese instante es $V(t)$, que no se conoce."
+        },
+        {
+          "letter": "C",
+          "text": "El nivel del agua sube 3 centímetros por minuto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rapidez del nivel es $\\frac{dh}{dt}$, en unidades de longitud por tiempo; $\\frac{dV}{dt}$ está en litros por minuto."
         },
         {
           "letter": "D",
-          "text": "$9\\pi\\text{ m}^2\\text{/s}$",
+          "text": "El volumen disminuye 3 litros cada minuto",
           "is_correct": false,
-          "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
+          "feedback": "Incorrecto. Una derivada positiva significa aumento; una disminución correspondería a $\\frac{dV}{dt} = -3$ L/min."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 1$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(1)(3) = 6\\pi\\text{ m}^2\\text{/s}$.",
+      "correct_answer": "A",
+      "explanation": "La notación $\\frac{dV}{dt}$ es la razón de cambio instantánea del volumen respecto al tiempo. Sus unidades son las de $V$ divididas por las de $t$: litros por minuto. El valor $+3$ indica que, en ese instante, el volumen crece a un ritmo de 3 litros por cada minuto; no informa cuánta agua hay ni cómo cambia la altura.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Algebraico",
+      "icfes_type": "Variacional",
       "expected_success": 0.85,
       "bundle_id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle",
       "periodo": 19,
@@ -55,42 +55,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle-v2",
-      "statement": "Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\\frac{dr}{dt} = 3\\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\\frac{dA}{dt}$ cuando el radio es $r = 2\\text{ m}$?",
-      "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
+      "statement": "¿Cuál es la razón de cambio promedio de la temperatura entre esas dos horas?",
+      "context": "Una estación del IDEAM en Bogotá registró 8 °C a las 6:00 a. m. y 20 °C a las 2:00 p. m. del mismo día.",
       "options": [
         {
-          "letter": "C",
-          "text": "$12\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": true,
-          "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
-        },
-        {
           "letter": "A",
-          "text": "$6\\pi\\text{ m}^2\\text{/s}$",
+          "text": "12 °C por hora",
           "is_correct": false,
-          "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
+          "feedback": "Incorrecto. 12 °C es el cambio total de temperatura; faltó dividir entre las 8 horas transcurridas."
         },
         {
           "letter": "B",
-          "text": "$12\\text{ m}^2\\text{/s}$",
+          "text": "2,5 °C por hora",
           "is_correct": false,
-          "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
+          "feedback": "Incorrecto. Dividiste la temperatura final entre el tiempo, $\\frac{20}{8}$; la razón promedio usa la diferencia $20 - 8$."
+        },
+        {
+          "letter": "C",
+          "text": "0,67 horas por °C",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el cociente, $\\frac{8}{12}$; la razón de cambio de la temperatura es cambio de temperatura sobre cambio de tiempo."
         },
         {
           "letter": "D",
-          "text": "$18\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
+          "text": "1,5 °C por hora",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{20 - 8}{14 - 6} = \\frac{12}{8} = 1{,}5$ °C por hora."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 2$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(2)(3) = 12\\pi\\text{ m}^2\\text{/s}$.",
+      "correct_answer": "D",
+      "explanation": "La razón de cambio promedio es $\\frac{\\Delta T}{\\Delta t} = \\frac{T(14) - T(6)}{14 - 6}$, con las horas en formato de 24 horas. Así, $\\frac{20 - 8}{8} = \\frac{12}{8} = 1{,}5$ °C/h. Significa que, en promedio, la temperatura subió 1,5 grados por cada hora, aunque en algunos momentos haya subido más rápido y en otros más lento.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Razonamiento",
-      "expected_success": 0.85,
+      "icfes_type": "Numerico",
+      "expected_success": 0.83,
       "bundle_id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle-v3",
-      "statement": "Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\\frac{dr}{dt} = 3\\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\\frac{dA}{dt}$ cuando el radio es $r = 3\\text{ m}$?",
-      "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
+      "statement": "Al derivar $A = \\pi r^2$ respecto al tiempo $t$, ¿qué expresión se obtiene?",
+      "context": "En un estanque de tilapias en el Huila, una onda circular se expande y tanto su radio $r$ como su área $A = \\pi r^2$ dependen del tiempo $t$.",
       "options": [
         {
-          "letter": "C",
-          "text": "$18\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": true,
-          "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
-        },
-        {
           "letter": "A",
-          "text": "$9\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
+          "text": "$\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$",
+          "is_correct": true,
+          "feedback": "Correcto. Por la regla de la cadena, $\\frac{d}{dt}(r^2) = 2r\\frac{dr}{dt}$, porque $r$ es función de $t$."
         },
         {
           "letter": "B",
-          "text": "$18\\text{ m}^2\\text{/s}$",
+          "text": "$\\frac{dA}{dt} = 2\\pi r$",
           "is_correct": false,
-          "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
+          "feedback": "Incorrecto. Esa es la derivada respecto a $r$; al derivar respecto a $t$ falta el factor $\\frac{dr}{dt}$ que exige la regla de la cadena."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{dA}{dt} = \\pi r^2 \\frac{dr}{dt}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No derivaste $r^2$: copiaste la fórmula del área y le agregaste $\\frac{dr}{dt}$; la derivada de $r^2$ es $2r$."
         },
         {
           "letter": "D",
-          "text": "$27\\pi\\text{ m}^2\\text{/s}$",
+          "text": "$\\frac{dA}{dt} = 2\\pi \\frac{dr}{dt}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
+          "feedback": "Incorrecto. Perdiste el factor $r$: la derivada de $r^2$ respecto a $t$ es $2r\\frac{dr}{dt}$, no $2\\frac{dr}{dt}$."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 3$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(3)(3) = 18\\pi\\text{ m}^2\\text{/s}$.",
+      "correct_answer": "A",
+      "explanation": "En los problemas de razones relacionadas todas las variables dependen de $t$. Al derivar $A = \\pi r^2$ con la regla de la cadena: $\\frac{dA}{dt} = \\pi \\cdot 2r \\cdot \\frac{dr}{dt} = 2\\pi r\\frac{dr}{dt}$. Esta ecuación relaciona la rapidez del área con la rapidez del radio en cada instante.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.85,
+      "icfes_type": "Algebraico",
+      "expected_success": 0.8,
       "bundle_id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle-v4",
-      "statement": "Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\\frac{dr}{dt} = 3\\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\\frac{dA}{dt}$ cuando el radio es $r = 4\\text{ m}$?",
-      "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
+      "statement": "¿Con qué rapidez aumenta el área de la mancha cuando el radio mide 10 m?",
+      "context": "Una mancha de aceite en la bahía de Cartagena se extiende en forma circular y su radio crece a 2 m/s.",
       "options": [
         {
-          "letter": "C",
-          "text": "$24\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": true,
-          "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
-        },
-        {
           "letter": "A",
-          "text": "$12\\pi\\text{ m}^2\\text{/s}$",
+          "text": "$20\\pi\\ \\text{m}^2/\\text{s}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
+          "feedback": "Incorrecto. Calculaste $2\\pi r = 20\\pi$ y olvidaste multiplicar por $\\frac{dr}{dt} = 2$."
         },
         {
           "letter": "B",
-          "text": "$24\\text{ m}^2\\text{/s}$",
+          "text": "$100\\pi\\ \\text{m}^2/\\text{s}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
+          "feedback": "Incorrecto. $100\\pi\\ \\text{m}^2$ es el área de la mancha cuando $r = 10$; la pregunta pide su rapidez de cambio."
+        },
+        {
+          "letter": "C",
+          "text": "$40\\pi\\ \\text{m}^2/\\text{s}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt} = 2\\pi(10)(2) = 40\\pi \\approx 125{,}7\\ \\text{m}^2/\\text{s}$."
         },
         {
           "letter": "D",
-          "text": "$36\\pi\\text{ m}^2\\text{/s}$",
+          "text": "$4\\pi\\ \\text{m}^2/\\text{s}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
+          "feedback": "Incorrecto. Omitiste el radio: $2\\pi \\cdot 2 = 4\\pi$; la fórmula es $2\\pi r\\frac{dr}{dt}$ con $r = 10$."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 4$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(4)(3) = 24\\pi\\text{ m}^2\\text{/s}$.",
+      "explanation": "Relación: $A = \\pi r^2$. Derivando respecto a $t$: $\\frac{dA}{dt} = 2\\pi r\\frac{dr}{dt}$. Con $r = 10$ m y $\\frac{dr}{dt} = 2$ m/s: $\\frac{dA}{dt} = 2\\pi \\cdot 10 \\cdot 2 = 40\\pi\\ \\text{m}^2/\\text{s}$. El área crece cada vez más rápido aunque el radio crezca a ritmo constante, porque el factor $r$ aumenta.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.85,
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
       "bundle_id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -193,41 +193,41 @@
     },
     {
       "id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle-v5",
-      "statement": "Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\\frac{dr}{dt} = 3\\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\\frac{dA}{dt}$ cuando el radio es $r = 5\\text{ m}$?",
-      "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
+      "statement": "¿Con qué rapidez baja el extremo superior cuando la base está a 6 m de la pared?",
+      "context": "Un pintor en Tunja apoya una escalera de 10 m contra una pared vertical y la base resbala alejándose de la pared a 1 m/s.",
       "options": [
         {
-          "letter": "D",
-          "text": "$30\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": true,
-          "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
-        },
-        {
           "letter": "A",
-          "text": "$15\\pi\\text{ m}^2\\text{/s}$",
+          "text": "1 m/s",
           "is_correct": false,
-          "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
+          "feedback": "Incorrecto. Supusiste que ambos extremos se mueven igual; la relación $\\frac{dy}{dt} = -\\frac{x}{y}\\frac{dx}{dt}$ depende de la posición."
         },
         {
           "letter": "B",
-          "text": "$30\\text{ m}^2\\text{/s}$",
+          "text": "$\\frac{4}{3}$ m/s",
           "is_correct": false,
-          "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
+          "feedback": "Incorrecto. Invertiste el cociente: usaste $\\frac{y}{x} = \\frac{8}{6}$ en lugar de $\\frac{x}{y} = \\frac{6}{8}$."
         },
         {
           "letter": "C",
-          "text": "$45\\pi\\text{ m}^2\\text{/s}$",
+          "text": "0,75 m/s",
+          "is_correct": true,
+          "feedback": "Correcto. $x^2 + y^2 = 100$ da $x\\frac{dx}{dt} + y\\frac{dy}{dt} = 0$; con $x = 6$, $y = 8$: $\\frac{dy}{dt} = -\\frac{6}{8}(1) = -0{,}75$ m/s."
+        },
+        {
+          "letter": "D",
+          "text": "0,6 m/s",
           "is_correct": false,
-          "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
+          "feedback": "Incorrecto. Dividiste entre la longitud de la escalera, $\\frac{6}{10}$; en la derivada implícita el divisor es la altura $y = 8$."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 5$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(5)(3) = 30\\pi\\text{ m}^2\\text{/s}$.",
+      "correct_answer": "C",
+      "explanation": "Sea $x$ la distancia de la base a la pared e $y$ la altura del extremo superior: $x^2 + y^2 = 100$. Derivando: $2x\\frac{dx}{dt} + 2y\\frac{dy}{dt} = 0$. Cuando $x = 6$, $y = \\sqrt{100 - 36} = 8$. Entonces $\\frac{dy}{dt} = -\\frac{x}{y}\\frac{dx}{dt} = -\\frac{6}{8} \\cdot 1 = -0{,}75$ m/s; el signo negativo indica que baja.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Algebraico",
+      "icfes_type": "Geometrico",
       "expected_success": 0.75,
       "bundle_id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle",
       "periodo": 19,
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle-v6",
-      "statement": "Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\\frac{dr}{dt} = 3\\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\\frac{dA}{dt}$ cuando el radio es $r = 6\\text{ m}$?",
-      "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
+      "statement": "¿Con qué rapidez sube el nivel del agua?",
+      "context": "En una planta de tratamiento de agua de Villavicencio se llena un tanque cilíndrico de 2 m de radio a razón de $0{,}5\\ \\text{m}^3$ por minuto.",
       "options": [
         {
-          "letter": "C",
-          "text": "$36\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": true,
-          "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
-        },
-        {
           "letter": "A",
-          "text": "$18\\pi\\text{ m}^2\\text{/s}$",
+          "text": "$\\frac{1}{4\\pi}$ m/min",
           "is_correct": false,
-          "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
+          "feedback": "Incorrecto. Usaste $\\pi r$ en lugar de $\\pi r^2$: $\\frac{0{,}5}{2\\pi} = \\frac{1}{4\\pi}$; el área de la base es $\\pi \\cdot 2^2 = 4\\pi$."
         },
         {
           "letter": "B",
-          "text": "$36\\text{ m}^2\\text{/s}$",
+          "text": "$\\frac{1}{8\\pi}$ m/min, unos 4 cm/min",
+          "is_correct": true,
+          "feedback": "Correcto. $V = \\pi r^2 h = 4\\pi h$, de modo que $\\frac{dh}{dt} = \\frac{0{,}5}{4\\pi} = \\frac{1}{8\\pi} \\approx 0{,}040$ m/min."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{8}$ m/min",
           "is_correct": false,
-          "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
+          "feedback": "Incorrecto. Olvidaste el factor $\\pi$ del área circular: la base mide $4\\pi\\ \\text{m}^2$, no $4\\ \\text{m}^2$."
         },
         {
           "letter": "D",
-          "text": "$54\\pi\\text{ m}^2\\text{/s}$",
+          "text": "$2\\pi$ m/min",
           "is_correct": false,
-          "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
+          "feedback": "Incorrecto. Multiplicaste $0{,}5 \\cdot 4\\pi$ en lugar de dividir; $\\frac{dV}{dt} = 4\\pi\\frac{dh}{dt}$ obliga a dividir entre $4\\pi$."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 6$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(6)(3) = 36\\pi\\text{ m}^2\\text{/s}$.",
+      "correct_answer": "B",
+      "explanation": "En un cilindro de radio fijo $r = 2$: $V = \\pi r^2 h = 4\\pi h$. Derivando: $\\frac{dV}{dt} = 4\\pi\\frac{dh}{dt}$. Con $\\frac{dV}{dt} = 0{,}5$: $\\frac{dh}{dt} = \\frac{0{,}5}{4\\pi} = \\frac{1}{8\\pi} \\approx 0{,}0398$ m/min, casi 4 cm por minuto. Como el radio no cambia, el nivel sube a ritmo constante.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Razonamiento",
-      "expected_success": 0.75,
+      "icfes_type": "Resolucion",
+      "expected_success": 0.72,
       "bundle_id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle-v7",
-      "statement": "Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\\frac{dr}{dt} = 3\\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\\frac{dA}{dt}$ cuando el radio es $r = 7\\text{ m}$?",
-      "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
+      "statement": "¿Con qué rapidez aumenta la longitud de su sombra?",
+      "context": "En el parque Santander de Bucaramanga, una persona de 1,8 m de estatura se aleja de un poste de luz de 6 m de altura caminando a 1,4 m/s.",
       "options": [
         {
-          "letter": "D",
-          "text": "$42\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": true,
-          "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
-        },
-        {
           "letter": "A",
-          "text": "$21\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
+          "text": "0,6 m/s",
+          "is_correct": true,
+          "feedback": "Correcto. Por triángulos semejantes $\\frac{6}{x + s} = \\frac{1{,}8}{s}$, así que $s = \\frac{3x}{7}$ y $\\frac{ds}{dt} = \\frac{3}{7}(1{,}4) = 0{,}6$ m/s."
         },
         {
           "letter": "B",
-          "text": "$42\\text{ m}^2\\text{/s}$",
+          "text": "2 m/s",
           "is_correct": false,
-          "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
+          "feedback": "Incorrecto. 2 m/s es la rapidez de la punta de la sombra, $1{,}4 + 0{,}6$; la longitud de la sombra crece solo 0,6 m/s."
         },
         {
           "letter": "C",
-          "text": "$63\\pi\\text{ m}^2\\text{/s}$",
+          "text": "1,4 m/s",
           "is_correct": false,
-          "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
+          "feedback": "Incorrecto. Supusiste que la sombra crece igual que la persona camina; la semejanza da $s = \\frac{3}{7}x$, no $s = x$."
+        },
+        {
+          "letter": "D",
+          "text": "0,42 m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $1{,}4$ por $\\frac{1{,}8}{6} = 0{,}3$; la proporción correcta es $\\frac{1{,}8}{6 - 1{,}8} = \\frac{3}{7}$."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 7$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(7)(3) = 42\\pi\\text{ m}^2\\text{/s}$.",
+      "correct_answer": "A",
+      "explanation": "Sea $x$ la distancia de la persona al poste y $s$ la longitud de la sombra. Triángulos semejantes: $\\frac{6}{x + s} = \\frac{1{,}8}{s} \\Rightarrow 6s = 1{,}8x + 1{,}8s \\Rightarrow 4{,}2s = 1{,}8x \\Rightarrow s = \\frac{3}{7}x$. Derivando: $\\frac{ds}{dt} = \\frac{3}{7}\\cdot 1{,}4 = 0{,}6$ m/s. La rapidez es constante y no depende de la distancia al poste.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.75,
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
       "bundle_id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle-v8",
-      "statement": "Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\\frac{dr}{dt} = 3\\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\\frac{dA}{dt}$ cuando el radio es $r = 8\\text{ m}$?",
-      "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
+      "statement": "¿Con qué rapidez aumenta la distancia entre los carros en ese momento?",
+      "context": "Dos carros salen de un mismo cruce en Yopal: uno hacia el norte a 60 km/h y otro hacia el este a 80 km/h; en cierto momento están a 30 km y 40 km del cruce, respectivamente.",
       "options": [
         {
-          "letter": "C",
-          "text": "$48\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": true,
-          "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
-        },
-        {
           "letter": "A",
-          "text": "$24\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
+          "text": "100 km/h",
+          "is_correct": true,
+          "feedback": "Correcto. $D^2 = x^2 + y^2$ da $\\frac{dD}{dt} = \\frac{x\\frac{dx}{dt} + y\\frac{dy}{dt}}{D} = \\frac{40 \\cdot 80 + 30 \\cdot 60}{50} = 100$ km/h."
         },
         {
           "letter": "B",
-          "text": "$48\\text{ m}^2\\text{/s}$",
+          "text": "140 km/h",
           "is_correct": false,
-          "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
+          "feedback": "Incorrecto. Sumaste las velocidades $60 + 80$; eso solo valdría si se movieran en sentidos opuestos sobre una misma recta."
+        },
+        {
+          "letter": "C",
+          "text": "20 km/h",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste las velocidades $80 - 60$; las trayectorias son perpendiculares y se combinan con Pitágoras, no con una resta."
         },
         {
           "letter": "D",
-          "text": "$72\\pi\\text{ m}^2\\text{/s}$",
+          "text": "50 km/h",
           "is_correct": false,
-          "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
+          "feedback": "Incorrecto. 50 km es la distancia entre los carros, $\\sqrt{30^2 + 40^2}$, no su rapidez de cambio."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 8$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(8)(3) = 48\\pi\\text{ m}^2\\text{/s}$.",
+      "correct_answer": "A",
+      "explanation": "Con el cruce en el origen, $D^2 = x^2 + y^2$. Derivando: $2D\\frac{dD}{dt} = 2x\\frac{dx}{dt} + 2y\\frac{dy}{dt}$. Con $x = 40$, $y = 30$, $D = 50$: $\\frac{dD}{dt} = \\frac{40 \\cdot 80 + 30 \\cdot 60}{50} = \\frac{3200 + 1800}{50} = 100$ km/h.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "icfes_type": "Modelacion",
-      "expected_success": 0.75,
+      "expected_success": 0.68,
       "bundle_id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -377,42 +377,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle-v9",
-      "statement": "Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\\frac{dr}{dt} = 3\\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\\frac{dA}{dt}$ cuando el radio es $r = 9\\text{ m}$?",
-      "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
+      "statement": "¿Con qué rapidez sube el nivel cuando la profundidad es de 2 m?",
+      "context": "Un tanque de café en una trilladora de Armenia tiene forma de cono invertido de 4 m de altura y 2 m de radio en la boca; se llena a razón de $2\\ \\text{m}^3$ por minuto.",
       "options": [
         {
-          "letter": "B",
-          "text": "$54\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": true,
-          "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
+          "letter": "A",
+          "text": "$\\frac{1}{8\\pi}$ m/min",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la proporción y tomaste $r = 2h$; por semejanza $\\frac{r}{h} = \\frac{2}{4}$, es decir, $r = \\frac{h}{2}$."
         },
         {
-          "letter": "A",
-          "text": "$27\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
+          "letter": "B",
+          "text": "$\\frac{2}{\\pi}$ m/min",
+          "is_correct": true,
+          "feedback": "Correcto. Con $r = \\frac{h}{2}$, $V = \\frac{\\pi h^3}{12}$ y $\\frac{dV}{dt} = \\frac{\\pi h^2}{4}\\frac{dh}{dt}$; con $h = 2$: $\\frac{dh}{dt} = \\frac{2}{\\pi} \\approx 0{,}64$ m/min."
         },
         {
           "letter": "C",
-          "text": "$54\\text{ m}^2\\text{/s}$",
+          "text": "$2\\pi$ m/min",
           "is_correct": false,
-          "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
+          "feedback": "Incorrecto. Multiplicaste $2 \\cdot \\pi$ en lugar de despejar: con $\\frac{dV}{dt} = \\pi\\frac{dh}{dt}$ en $h = 2$ hay que dividir entre $\\pi$."
         },
         {
           "letter": "D",
-          "text": "$81\\pi\\text{ m}^2\\text{/s}$",
+          "text": "0 m/min",
           "is_correct": false,
-          "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
+          "feedback": "Incorrecto. Sustituiste $h = 2$ antes de derivar y el volumen quedó constante; primero se deriva respecto a $t$ y después se reemplaza."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 9$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(9)(3) = 54\\pi\\text{ m}^2\\text{/s}$.",
+      "explanation": "Por semejanza, $\\frac{r}{h} = \\frac{2}{4}$, así que $r = \\frac{h}{2}$ y $V = \\frac{1}{3}\\pi r^2 h = \\frac{\\pi h^3}{12}$. Derivando: $\\frac{dV}{dt} = \\frac{\\pi h^2}{4}\\frac{dh}{dt}$. Con $h = 2$ y $\\frac{dV}{dt} = 2$: $2 = \\pi\\frac{dh}{dt}$, luego $\\frac{dh}{dt} = \\frac{2}{\\pi} \\approx 0{,}64$ m/min.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Algebraico",
-      "expected_success": 0.75,
+      "icfes_type": "Resolucion",
+      "expected_success": 0.66,
       "bundle_id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -423,42 +423,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle-v10",
-      "statement": "Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\\frac{dr}{dt} = 3\\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\\frac{dA}{dt}$ cuando el radio es $r = 10\\text{ m}$?",
-      "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
+      "statement": "¿Cuál es la razón de cambio promedio de usuarios entre el mes 1 y el mes 3?",
+      "context": "Una aplicación de pagos creada en Medellín tiene $f(t) = t^2 + 3t$ miles de usuarios, donde $t$ son meses desde su lanzamiento.",
       "options": [
         {
-          "letter": "B",
-          "text": "$60\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": true,
-          "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
+          "letter": "A",
+          "text": "9 mil usuarios por mes",
+          "is_correct": false,
+          "feedback": "Incorrecto. 9 es la razón instantánea $f'(3) = 2(3) + 3$; la pregunta pide la razón promedio en $[1, 3]$."
         },
         {
-          "letter": "A",
-          "text": "$30\\pi\\text{ m}^2\\text{/s}$",
+          "letter": "B",
+          "text": "14 mil usuarios por mes",
           "is_correct": false,
-          "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
+          "feedback": "Incorrecto. 14 mil es el aumento total $f(3) - f(1)$; faltó dividir entre los 2 meses."
         },
         {
           "letter": "C",
-          "text": "$60\\text{ m}^2\\text{/s}$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
+          "text": "7 mil usuarios por mes",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{f(3) - f(1)}{3 - 1} = \\frac{18 - 4}{2} = 7$ mil usuarios por mes."
         },
         {
           "letter": "D",
-          "text": "$90\\pi\\text{ m}^2\\text{/s}$",
+          "text": "5 mil usuarios por mes",
           "is_correct": false,
-          "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
+          "feedback": "Incorrecto. 5 es la razón instantánea $f'(1) = 2(1) + 3$ al inicio del intervalo, no el promedio."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 10$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(10)(3) = 60\\pi\\text{ m}^2\\text{/s}$.",
+      "correct_answer": "C",
+      "explanation": "Razón de cambio promedio en $[1, 3]$: $\\frac{f(3) - f(1)}{3 - 1}$. Se calcula $f(3) = 9 + 9 = 18$ y $f(1) = 1 + 3 = 4$, de modo que $\\frac{18 - 4}{2} = 7$ mil usuarios por mes. Es la pendiente de la recta secante entre $(1, 4)$ y $(3, 18)$; las razones instantáneas en los extremos son 5 y 9.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Razonamiento",
-      "expected_success": 0.75,
+      "icfes_type": "Variacional",
+      "expected_success": 0.64,
       "bundle_id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -469,42 +469,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle-v11",
-      "statement": "Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\\frac{dr}{dt} = 3\\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\\frac{dA}{dt}$ cuando el radio es $r = 11\\text{ m}$?",
-      "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
+      "statement": "¿Con qué rapidez aumenta el área de la superficie del globo cuando el radio es 5 cm?",
+      "context": "Para la Feria de las Flores en Medellín se infla un globo esférico al que se le inyectan $100\\ \\text{cm}^3$ de aire por segundo.",
       "options": [
         {
-          "letter": "B",
-          "text": "$66\\pi\\text{ m}^2\\text{/s}$",
+          "letter": "A",
+          "text": "$40\\ \\text{cm}^2/\\text{s}$",
           "is_correct": true,
-          "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
+          "feedback": "Correcto. $\\frac{dr}{dt} = \\frac{100}{4\\pi \\cdot 25} = \\frac{1}{\\pi}$ y $\\frac{dS}{dt} = 8\\pi r\\frac{dr}{dt} = 8\\pi \\cdot 5 \\cdot \\frac{1}{\\pi} = 40$."
         },
         {
-          "letter": "A",
-          "text": "$33\\pi\\text{ m}^2\\text{/s}$",
+          "letter": "B",
+          "text": "$\\frac{1}{\\pi}\\ \\text{cm}^2/\\text{s}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
+          "feedback": "Incorrecto. $\\frac{1}{\\pi}$ cm/s es la rapidez del radio, un paso intermedio; falta multiplicar por $8\\pi r$ para obtener la del área."
         },
         {
           "letter": "C",
-          "text": "$66\\text{ m}^2\\text{/s}$",
+          "text": "$40\\pi\\ \\text{cm}^2/\\text{s}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
+          "feedback": "Incorrecto. Usaste $\\frac{dr}{dt} = 1$ sin calcularla; con $\\frac{dr}{dt} = \\frac{1}{\\pi}$ el factor $\\pi$ se cancela."
         },
         {
           "letter": "D",
-          "text": "$99\\pi\\text{ m}^2\\text{/s}$",
+          "text": "$100\\ \\text{cm}^2/\\text{s}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
+          "feedback": "Incorrecto. Supusiste que el área cambia igual que el volumen; son magnitudes distintas, relacionadas por $\\frac{dS}{dt} = \\frac{2}{r}\\frac{dV}{dt}$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 11$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(11)(3) = 66\\pi\\text{ m}^2\\text{/s}$.",
+      "correct_answer": "A",
+      "explanation": "Volumen: $V = \\frac{4}{3}\\pi r^3$, así que $\\frac{dV}{dt} = 4\\pi r^2\\frac{dr}{dt}$. Con $r = 5$: $100 = 100\\pi\\frac{dr}{dt}$, luego $\\frac{dr}{dt} = \\frac{1}{\\pi}$ cm/s. Superficie: $S = 4\\pi r^2$, así que $\\frac{dS}{dt} = 8\\pi r\\frac{dr}{dt} = 8\\pi \\cdot 5 \\cdot \\frac{1}{\\pi} = 40\\ \\text{cm}^2/\\text{s}$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.65,
+      "icfes_type": "Geometrico",
+      "expected_success": 0.62,
       "bundle_id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -515,42 +515,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle-v12",
-      "statement": "Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\\frac{dr}{dt} = 3\\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\\frac{dA}{dt}$ cuando el radio es $r = 12\\text{ m}$?",
-      "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
+      "statement": "¿Cómo cambia la rapidez con que baja el extremo superior entre el momento en que la base está a 5 m y el momento en que está a 12 m de la pared?",
+      "context": "En una bodega de Barranquilla, una escalera de 13 m apoyada en la pared resbala y su base se aleja a 0,5 m/s constantes.",
       "options": [
         {
-          "letter": "B",
-          "text": "$72\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": true,
-          "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
+          "letter": "A",
+          "text": "Se mantiene en 0,5 m/s, porque la escalera es rígida",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud fija relaciona las posiciones, $x^2 + y^2 = 169$, pero la rapidez $\\frac{x}{y}(0{,}5)$ cambia con la posición."
         },
         {
-          "letter": "A",
-          "text": "$36\\pi\\text{ m}^2\\text{/s}$",
+          "letter": "B",
+          "text": "Disminuye: pasa de 1,2 m/s a unos 0,21 m/s",
           "is_correct": false,
-          "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
+          "feedback": "Incorrecto. Usaste el cociente invertido $\\frac{y}{x}$; con $\\frac{dy}{dt} = -\\frac{x}{y}\\frac{dx}{dt}$ la rapidez crece al aumentar $x$."
         },
         {
           "letter": "C",
-          "text": "$72\\text{ m}^2\\text{/s}$",
+          "text": "Aumenta de 0,21 m/s a 1,2 m/s, pero el extremo sube",
           "is_correct": false,
-          "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
+          "feedback": "Incorrecto. Los valores son correctos, pero el signo de $\\frac{dy}{dt} = -\\frac{x}{y}\\frac{dx}{dt}$ es negativo: el extremo baja."
         },
         {
           "letter": "D",
-          "text": "$108\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
+          "text": "Aumenta: pasa de unos 0,21 m/s a 1,2 m/s",
+          "is_correct": true,
+          "feedback": "Correcto. $|\\frac{dy}{dt}| = \\frac{x}{y}(0{,}5)$: con $x = 5$, $y = 12$ da $\\frac{5}{24} \\approx 0{,}21$ y con $x = 12$, $y = 5$ da $1{,}2$ m/s."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 12$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(12)(3) = 72\\pi\\text{ m}^2\\text{/s}$.",
+      "correct_answer": "D",
+      "explanation": "De $x^2 + y^2 = 169$ se obtiene $\\frac{dy}{dt} = -\\frac{x}{y}\\frac{dx}{dt}$. Con $x = 5$: $y = 12$ y $\\frac{dy}{dt} = -\\frac{5}{12}(0{,}5) \\approx -0{,}21$ m/s. Con $x = 12$: $y = 5$ y $\\frac{dy}{dt} = -\\frac{12}{5}(0{,}5) = -1{,}2$ m/s. Aunque la base se mueve a ritmo constante, la parte superior cae cada vez más rápido a medida que $y$ disminuye.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.65,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.6,
       "bundle_id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -561,42 +561,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle-v13",
-      "statement": "Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\\frac{dr}{dt} = 3\\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\\frac{dA}{dt}$ cuando el radio es $r = 13\\text{ m}$?",
-      "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
+      "statement": "¿Con qué rapidez cambia $\\theta$ cuando el dron está a 300 m de altura?",
+      "context": "Desde un punto del suelo en el desierto de la Tatacoa, a 300 m de donde despega un dron, un observador mide el ángulo de elevación $\\theta$; el dron sube verticalmente a 5 m/s.",
       "options": [
         {
-          "letter": "B",
-          "text": "$78\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": true,
-          "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
+          "letter": "A",
+          "text": "$\\frac{1}{60}$ rad/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste el factor $\\sec^2\\theta$ que aparece al derivar $\\tan\\theta$; en $45^\\circ$ vale 2 y reduce el resultado a la mitad."
         },
         {
-          "letter": "A",
-          "text": "$39\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
+          "letter": "B",
+          "text": "$\\frac{1}{120}$ rad/s",
+          "is_correct": true,
+          "feedback": "Correcto. $\\tan\\theta = \\frac{h}{300}$ da $\\sec^2\\theta\\,\\frac{d\\theta}{dt} = \\frac{5}{300}$; con $\\theta = 45^\\circ$, $\\sec^2\\theta = 2$ y $\\frac{d\\theta}{dt} = \\frac{1}{120}$."
         },
         {
           "letter": "C",
-          "text": "$78\\text{ m}^2\\text{/s}$",
+          "text": "$\\frac{1}{30}$ rad/s",
           "is_correct": false,
-          "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
+          "feedback": "Incorrecto. Multiplicaste por $\\sec^2\\theta = 2$ en lugar de dividir; al despejar $\\frac{d\\theta}{dt}$ el factor pasa dividiendo."
         },
         {
           "letter": "D",
-          "text": "$117\\pi\\text{ m}^2\\text{/s}$",
+          "text": "5 rad/s",
           "is_correct": false,
-          "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
+          "feedback": "Incorrecto. 5 m/s es la rapidez vertical del dron; un ángulo cambia en radianes por segundo y requiere la relación $\\tan\\theta = \\frac{h}{300}$."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 13$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(13)(3) = 78\\pi\\text{ m}^2\\text{/s}$.",
+      "explanation": "Relación: $\\tan\\theta = \\frac{h}{300}$. Derivando respecto a $t$: $\\sec^2\\theta\\,\\frac{d\\theta}{dt} = \\frac{1}{300}\\frac{dh}{dt}$. Cuando $h = 300$, $\\tan\\theta = 1$, $\\theta = 45^\\circ$ y $\\sec^2\\theta = 1 + \\tan^2\\theta = 2$. Entonces $\\frac{d\\theta}{dt} = \\frac{5}{300 \\cdot 2} = \\frac{1}{120} \\approx 0{,}0083$ rad/s.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Algebraico",
-      "expected_success": 0.65,
+      "icfes_type": "Geometrico",
+      "expected_success": 0.58,
       "bundle_id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -607,42 +607,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle-v14",
-      "statement": "Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\\frac{dr}{dt} = 3\\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\\frac{dA}{dt}$ cuando el radio es $r = 14\\text{ m}$?",
-      "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
+      "statement": "¿A qué velocidad va el carro y supera el límite de 100 km/h?",
+      "context": "Una patrulla de tránsito está detenida 0,6 km al norte de un cruce en la vía Bogotá–Girardot; un carro que va hacia el cruce desde el este está a 0,8 km de él, y el radar indica que la distancia patrulla–carro disminuye a 90 km/h.",
       "options": [
         {
-          "letter": "C",
-          "text": "$84\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": true,
-          "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
-        },
-        {
           "letter": "A",
-          "text": "$42\\pi\\text{ m}^2\\text{/s}$",
+          "text": "A 90 km/h; no supera el límite",
           "is_correct": false,
-          "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
+          "feedback": "Incorrecto. El radar mide cómo cambia la distancia en diagonal, no la velocidad del carro sobre la vía; hay que usar $D\\frac{dD}{dt} = x\\frac{dx}{dt}$."
         },
         {
           "letter": "B",
-          "text": "$84\\text{ m}^2\\text{/s}$",
+          "text": "A 72 km/h; no supera el límite",
           "is_correct": false,
-          "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
+          "feedback": "Incorrecto. Multiplicaste $90 \\cdot 0{,}8$; al despejar $\\frac{dx}{dt} = \\frac{D}{x}\\frac{dD}{dt}$ se divide entre $x = 0{,}8$ y se multiplica por $D = 1$."
+        },
+        {
+          "letter": "C",
+          "text": "A 150 km/h; sí supera el límite",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre la distancia de la patrulla, $\\frac{90}{0{,}6}$; en la relación aparece $x = 0{,}8$, la posición del carro."
         },
         {
           "letter": "D",
-          "text": "$126\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
+          "text": "A 112,5 km/h; sí supera el límite",
+          "is_correct": true,
+          "feedback": "Correcto. Con $D^2 = x^2 + 0{,}6^2$, $D\\frac{dD}{dt} = x\\frac{dx}{dt}$: $1 \\cdot (-90) = 0{,}8\\frac{dx}{dt}$, luego $\\frac{dx}{dt} = -112{,}5$ km/h."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 14$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(14)(3) = 84\\pi\\text{ m}^2\\text{/s}$.",
+      "correct_answer": "D",
+      "explanation": "Sea $x$ la distancia del carro al cruce; la patrulla está fija a 0,6 km. $D^2 = x^2 + 0{,}36$, y con $x = 0{,}8$ se tiene $D = 1$ km. Derivando: $D\\frac{dD}{dt} = x\\frac{dx}{dt}$, pues la patrulla no se mueve. Con $\\frac{dD}{dt} = -90$: $\\frac{dx}{dt} = \\frac{1 \\cdot (-90)}{0{,}8} = -112{,}5$ km/h. El carro va a 112,5 km/h, por encima del límite.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Razonamiento",
-      "expected_success": 0.65,
+      "icfes_type": "Modelacion",
+      "expected_success": 0.56,
       "bundle_id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -653,42 +653,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle-v15",
-      "statement": "Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\\frac{dr}{dt} = 3\\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\\frac{dA}{dt}$ cuando el radio es $r = 15\\text{ m}$?",
-      "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
+      "statement": "¿Después de cuántos segundos el área encerrada por la onda crece a razón de $10\\pi\\ \\text{m}^2/\\text{s}$?",
+      "context": "En el lago de Tota se lanza una piedra y se forma una onda circular cuyo radio crece a 0,5 m/s desde $r = 0$.",
       "options": [
         {
-          "letter": "D",
-          "text": "$90\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": true,
-          "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
-        },
-        {
           "letter": "A",
-          "text": "$45\\pi\\text{ m}^2\\text{/s}$",
+          "text": "10 s",
           "is_correct": false,
-          "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
+          "feedback": "Incorrecto. Olvidaste el factor $\\frac{dr}{dt} = 0{,}5$: con $2\\pi r = 10\\pi$ sale $r = 5$ y $t = 10$ s, pero la ecuación correcta es $\\pi r = 10\\pi$."
         },
         {
           "letter": "B",
-          "text": "$90\\text{ m}^2\\text{/s}$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
+          "text": "20 s",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{dA}{dt} = 2\\pi r(0{,}5) = \\pi r = 10\\pi$ da $r = 10$ m, y como $r = 0{,}5t$, el tiempo es $t = 20$ s."
         },
         {
           "letter": "C",
-          "text": "$135\\pi\\text{ m}^2\\text{/s}$",
+          "text": "5 s",
           "is_correct": false,
-          "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
+          "feedback": "Incorrecto. Encontraste $r = 10$ m pero multiplicaste por la rapidez, $10 \\cdot 0{,}5$; el tiempo es $t = \\frac{r}{0{,}5} = 20$ s."
+        },
+        {
+          "letter": "D",
+          "text": "Aproximadamente 3,16 s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Igualaste el área $\\pi r^2$ a $10\\pi$; la condición es sobre la rapidez $\\frac{dA}{dt}$, no sobre el área."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 15$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(15)(3) = 90\\pi\\text{ m}^2\\text{/s}$.",
+      "correct_answer": "B",
+      "explanation": "Como $A = \\pi r^2$, se tiene $\\frac{dA}{dt} = 2\\pi r\\frac{dr}{dt} = 2\\pi r(0{,}5) = \\pi r$. Se pide $\\pi r = 10\\pi$, es decir, $r = 10$ m. Si el radio crece desde 0 a 0,5 m/s, entonces $r = 0{,}5t$ y $t = \\frac{10}{0{,}5} = 20$ s.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "icfes_type": "Resolucion",
-      "expected_success": 0.65,
+      "expected_success": 0.55,
       "bundle_id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -699,42 +699,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle-v16",
-      "statement": "Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\\frac{dr}{dt} = 3\\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\\frac{dA}{dt}$ cuando el radio es $r = 16\\text{ m}$?",
-      "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
+      "statement": "¿Cuál afirmación sobre la velocidad del bus está garantizada?",
+      "context": "Un bus intermunicipal recorre los 150 km entre Bogotá y Tunja en exactamente 2,5 horas, con una posición que varía de forma continua y suave.",
       "options": [
         {
-          "letter": "C",
-          "text": "$96\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": true,
-          "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
-        },
-        {
           "letter": "A",
-          "text": "$48\\pi\\text{ m}^2\\text{/s}$",
+          "text": "Su velocidad fue 60 km/h durante todo el viaje",
           "is_correct": false,
-          "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
+          "feedback": "Incorrecto. 60 km/h es el promedio $\\frac{150}{2{,}5}$; el bus pudo detenerse en peajes y acelerar en rectas."
         },
         {
           "letter": "B",
-          "text": "$96\\text{ m}^2\\text{/s}$",
+          "text": "Su velocidad nunca superó los 60 km/h",
           "is_correct": false,
-          "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
+          "feedback": "Incorrecto. Un promedio de 60 permite tramos más rápidos que compensen los lentos; nada impide ir a 80 km/h en algún momento."
+        },
+        {
+          "letter": "C",
+          "text": "En algún instante del viaje su velocidad fue exactamente 60 km/h",
+          "is_correct": true,
+          "feedback": "Correcto. Por el teorema del valor medio, existe un instante $c$ con $s'(c) = \\frac{150}{2{,}5} = 60$ km/h."
         },
         {
           "letter": "D",
-          "text": "$144\\pi\\text{ m}^2\\text{/s}$",
+          "text": "Su velocidad máxima fue de 60 km/h",
           "is_correct": false,
-          "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
+          "feedback": "Incorrecto. Si en algún tramo fue más lento que 60, en otro debió ir más rápido para mantener el promedio; la máxima puede ser mayor."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 16$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(16)(3) = 96\\pi\\text{ m}^2\\text{/s}$.",
+      "explanation": "La razón de cambio promedio es $\\frac{\\Delta s}{\\Delta t} = \\frac{150}{2{,}5} = 60$ km/h. El teorema del valor medio dice que, si $s(t)$ es continua y derivable, existe un instante $c$ en el que la velocidad instantánea $s'(c)$ coincide con ese promedio. No dice nada sobre la velocidad en el resto del viaje.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.65,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.53,
       "bundle_id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -745,42 +745,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle-v17",
-      "statement": "Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\\frac{dr}{dt} = 3\\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\\frac{dA}{dt}$ cuando el radio es $r = 17\\text{ m}$?",
-      "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
+      "statement": "¿Cuál evaluación del procedimiento de Andrés es correcta?",
+      "context": "Para un globo esférico en el Festival del Viento de Villa de Leyva, Andrés escribe: «cuando $r = 5$, $V = \\frac{4}{3}\\pi(5)^3 = \\frac{500\\pi}{3}$; al derivar, $\\frac{dV}{dt} = 0$».",
       "options": [
         {
           "letter": "A",
-          "text": "$102\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": true,
-          "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
+          "text": "Es incorrecto: debió usar $4\\pi r^2$ como fórmula del volumen",
+          "is_correct": false,
+          "feedback": "Incorrecto. $4\\pi r^2$ es el área de la esfera; la fórmula del volumen $\\frac{4}{3}\\pi r^3$ que usó Andrés es correcta."
         },
         {
           "letter": "B",
-          "text": "$51\\pi\\text{ m}^2\\text{/s}$",
+          "text": "Es incorrecto: debió derivar respecto a $r$ y no respecto a $t$",
           "is_correct": false,
-          "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
+          "feedback": "Incorrecto. Lo que se busca es una rapidez en el tiempo; derivar respecto a $r$ omitiría el factor $\\frac{dr}{dt}$."
         },
         {
           "letter": "C",
-          "text": "$102\\text{ m}^2\\text{/s}$",
+          "text": "Es correcto: en un instante fijo el volumen no cambia",
           "is_correct": false,
-          "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
+          "feedback": "Incorrecto. Que $r$ valga 5 en un instante no impide que esté cambiando; si el globo se infla, $\\frac{dV}{dt} > 0$ en ese instante."
         },
         {
           "letter": "D",
-          "text": "$153\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
+          "text": "Es incorrecto: reemplazó $r = 5$ antes de derivar; debe derivar $V = \\frac{4}{3}\\pi r^3$ respecto a $t$ y luego sustituir",
+          "is_correct": true,
+          "feedback": "Correcto. Al sustituir primero, $V$ queda como una constante y su derivada es 0; la relación correcta es $\\frac{dV}{dt} = 4\\pi r^2\\frac{dr}{dt}$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 17$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(17)(3) = 102\\pi\\text{ m}^2\\text{/s}$.",
+      "correct_answer": "D",
+      "explanation": "El error típico en razones relacionadas es sustituir los valores del instante antes de derivar. Las cantidades que varían deben quedar como funciones de $t$: $V = \\frac{4}{3}\\pi r^3 \\Rightarrow \\frac{dV}{dt} = 4\\pi r^2\\frac{dr}{dt}$. Solo después se reemplaza $r = 5$: $\\frac{dV}{dt} = 100\\pi\\frac{dr}{dt}$, que no es cero si el radio está cambiando.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Algebraico",
-      "expected_success": 0.55,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.5,
       "bundle_id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -791,42 +791,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle-v18",
-      "statement": "Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\\frac{dr}{dt} = 3\\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\\frac{dA}{dt}$ cuando el radio es $r = 18\\text{ m}$?",
-      "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
+      "statement": "Un estudiante afirma: «el nivel baja cada vez más rápido a medida que el tanque se vacía». ¿Cuál evaluación es correcta?",
+      "context": "Un tanque de agua en forma de cono invertido de 6 m de altura y 3 m de radio en la boca, en una vereda de Santander, se vacía a razón constante de $1\\ \\text{m}^3$ por minuto.",
       "options": [
         {
           "letter": "A",
-          "text": "$108\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": true,
-          "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
+          "text": "Falsa: como el agua sale a ritmo constante, el nivel baja a ritmo constante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso solo ocurre si el área de la sección no cambia, como en un cilindro; en el cono la sección se achica al bajar el nivel."
         },
         {
           "letter": "B",
-          "text": "$54\\pi\\text{ m}^2\\text{/s}$",
+          "text": "Falsa: el nivel baja cada vez más despacio porque queda menos agua",
           "is_correct": false,
-          "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
+          "feedback": "Incorrecto. La cantidad de agua no frena la salida, que es constante; lo que importa es el área de la superficie, $\\pi\\frac{h^2}{4}$, que disminuye."
         },
         {
           "letter": "C",
-          "text": "$108\\text{ m}^2\\text{/s}$",
+          "text": "Verdadera, porque $|\\frac{dh}{dt}|$ es directamente proporcional a $h$",
           "is_correct": false,
-          "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
+          "feedback": "Incorrecto. La conclusión es cierta, pero la razón no: $|\\frac{dh}{dt}| = \\frac{4}{\\pi h^2}$ es inversamente proporcional a $h^2$."
         },
         {
           "letter": "D",
-          "text": "$162\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
+          "text": "Verdadera: $|\\frac{dh}{dt}| = \\frac{4}{\\pi h^2}$, y en $h = 2$ es cuatro veces mayor que en $h = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. Con $V = \\frac{\\pi h^3}{12}$ se tiene $\\frac{dh}{dt} = -\\frac{4}{\\pi h^2}$: en $h = 4$ vale $\\frac{1}{4\\pi}$ y en $h = 2$ vale $\\frac{1}{\\pi}$ m/min."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 18$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(18)(3) = 108\\pi\\text{ m}^2\\text{/s}$.",
+      "correct_answer": "D",
+      "explanation": "Por semejanza, $r = \\frac{h}{2}$, así que $V = \\frac{1}{3}\\pi\\left(\\frac{h}{2}\\right)^2 h = \\frac{\\pi h^3}{12}$. Derivando: $\\frac{dV}{dt} = \\frac{\\pi h^2}{4}\\frac{dh}{dt} = -1$, luego $\\frac{dh}{dt} = -\\frac{4}{\\pi h^2}$. En $h = 4$: $\\frac{1}{4\\pi} \\approx 0{,}08$ m/min; en $h = 2$: $\\frac{1}{\\pi} \\approx 0{,}32$ m/min. Al disminuir $h$ la superficie se reduce y el nivel cae más rápido.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Razonamiento",
-      "expected_success": 0.55,
+      "icfes_type": "Modelacion",
+      "expected_success": 0.48,
       "bundle_id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -837,42 +837,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle-v19",
-      "statement": "Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\\frac{dr}{dt} = 3\\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\\frac{dA}{dt}$ cuando el radio es $r = 19\\text{ m}$?",
-      "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
+      "statement": "Se afirma que la razón de cambio promedio en $[0, 4]$ coincide con la razón instantánea en $t = 2$. ¿Cuál evaluación es correcta?",
+      "context": "Una empresa de servicios públicos de Pereira modela el consumo acumulado de agua de un barrio con $V(t) = 3t^2 + 2t$ (miles de m³), con $t$ en días.",
       "options": [
         {
           "letter": "A",
-          "text": "$114\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": true,
-          "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
+          "text": "Falsa: la razón promedio es 14 pero $V'(2) = 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al derivar omitiste el término constante de $V'$: $V'(t) = 6t + 2$, así que $V'(2) = 14$."
         },
         {
           "letter": "B",
-          "text": "$57\\pi\\text{ m}^2\\text{/s}$",
+          "text": "Falsa: la razón promedio es 56",
           "is_correct": false,
-          "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
+          "feedback": "Incorrecto. 56 es el cambio total $V(4) - V(0)$; la razón promedio exige dividir entre los 4 días y da 14."
         },
         {
           "letter": "C",
-          "text": "$114\\text{ m}^2\\text{/s}$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
+          "text": "Verdadera para esta función: la razón promedio es 14 y $V'(2) = 14$, porque en una cuadrática coinciden en el punto medio",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{V(4) - V(0)}{4} = \\frac{56}{4} = 14$ y $V'(t) = 6t + 2$ da $V'(2) = 14$."
         },
         {
           "letter": "D",
-          "text": "$171\\pi\\text{ m}^2\\text{/s}$",
+          "text": "Verdadera, porque en toda función la razón promedio coincide con la instantánea en el punto medio",
           "is_correct": false,
-          "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
+          "feedback": "Incorrecto. Eso solo se cumple siempre en las cuadráticas; con $f(t) = t^3$ en $[0, 4]$ la razón promedio es 16 y $f'(2) = 12$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 19$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(19)(3) = 114\\pi\\text{ m}^2\\text{/s}$.",
+      "correct_answer": "C",
+      "explanation": "Razón promedio: $\\frac{V(4) - V(0)}{4 - 0} = \\frac{48 + 8 - 0}{4} = 14$. Razón instantánea: $V'(t) = 6t + 2$, entonces $V'(2) = 14$. Coinciden. Para una cuadrática $at^2 + bt + c$ la pendiente secante en $[p, q]$ es $a(p + q) + b$, que es la derivada en $\\frac{p + q}{2}$; en funciones de otro grado esto falla en general.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.55,
+      "icfes_type": "Variacional",
+      "expected_success": 0.47,
       "bundle_id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -883,42 +883,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle-v20",
-      "statement": "Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\\frac{dr}{dt} = 3\\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\\frac{dA}{dt}$ cuando el radio es $r = 20\\text{ m}$?",
-      "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
+      "statement": "Una estudiante afirma que en ese momento la distancia avión–radar aumenta a 600 km/h. ¿Cuál evaluación es correcta?",
+      "context": "Un avión que despegó de Rionegro vuela horizontalmente a 3 km de altura y a 600 km/h, alejándose de una estación de radar en tierra; en un momento está a 4 km de distancia horizontal de la estación.",
       "options": [
         {
-          "letter": "D",
-          "text": "$120\\pi\\text{ m}^2\\text{/s}$",
-          "is_correct": true,
-          "feedback": "Correcto: aplicación impecable de la derivación implícita con respecto al tiempo."
-        },
-        {
           "letter": "A",
-          "text": "$60\\pi\\text{ m}^2\\text{/s}$",
+          "text": "Sí: la distancia cambia a la misma velocidad que el avión",
           "is_correct": false,
-          "feedback": "Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2."
+          "feedback": "Incorrecto. El avión se mueve en horizontal y la distancia es oblicua; la rapidez de $D$ es $\\frac{x}{D}\\frac{dx}{dt}$, menor que 600."
         },
         {
           "letter": "B",
-          "text": "$120\\text{ m}^2\\text{/s}$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se omitió la constante pi en la respuesta."
+          "text": "No: $\\frac{dD}{dt} = \\frac{x}{D}\\frac{dx}{dt} = \\frac{4}{5}(600) = 480$ km/h",
+          "is_correct": true,
+          "feedback": "Correcto. Con $D^2 = x^2 + 9$ y $x = 4$, $D = 5$; solo la componente del movimiento en la dirección del radar alarga la distancia."
         },
         {
           "letter": "C",
-          "text": "$180\\pi\\text{ m}^2\\text{/s}$",
+          "text": "No: aumenta a 360 km/h",
           "is_correct": false,
-          "feedback": "Incorrecto: se elevó al cuadrado el valor de dr/dt."
+          "feedback": "Incorrecto. Usaste el cociente $\\frac{3}{5}$ con la altura; en la derivada aparece $x = 4$, la distancia horizontal, y da $\\frac{4}{5}(600)$."
+        },
+        {
+          "letter": "D",
+          "text": "No: aumenta a 750 km/h",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste $600$ entre $\\frac{4}{5}$ en lugar de multiplicar; la distancia oblicua no puede crecer más rápido que el avión."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Diferenciando el área del círculo $A = \\pi r^2$ respecto al tiempo $t$ por regla de la cadena: $\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$. Sustituyendo $r = 20$ y $\\frac{dr}{dt} = 3$: $\\frac{dA}{dt} = 2\\pi(20)(3) = 120\\pi\\text{ m}^2\\text{/s}$.",
+      "correct_answer": "B",
+      "explanation": "Sea $x$ la distancia horizontal y $D$ la distancia avión–radar: $D^2 = x^2 + 3^2$. Derivando: $D\\frac{dD}{dt} = x\\frac{dx}{dt}$. Con $x = 4$, $D = 5$ y $\\frac{dx}{dt} = 600$: $\\frac{dD}{dt} = \\frac{4 \\cdot 600}{5} = 480$ km/h. A medida que el avión se aleja, $\\frac{x}{D}$ se acerca a 1 y la rapidez se aproxima a 600 km/h sin alcanzarla.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.55,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.45,
       "bundle_id": "CO-MAT-11-2026-W19-razon-de-cambio-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",

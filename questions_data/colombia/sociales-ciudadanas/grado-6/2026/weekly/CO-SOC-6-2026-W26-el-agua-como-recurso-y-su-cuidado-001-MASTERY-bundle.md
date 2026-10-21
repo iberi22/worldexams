@@ -198,10 +198,10 @@ El acceso al agua potable es un derecho fundamental que afecta directamente la c
   <!-- feedback: Incorrecto. El objetivo no es aumentar el consumo, sino promover un uso responsable y eficiente del agua para garantizar su disponibilidad a largo plazo. -->
 - [ ] B) Vender más agua a la población
   <!-- feedback: Incorrecto. El programa no busca vender agua; busca concienciar sobre la importancia de cuidar este recurso para que todos tengan acceso a ella. -->
-- [x] C) Promover el uso responsable y la conservación del agua
-  <!-- feedback: Correcto. El objetivo del programa es educar a la población sobre la importancia de usar el agua de manera responsable y conservar este recurso para las generaciones futuras. -->
-- [ ] D) Construir más edificios en la ciudad
+- [ ] C) Construir más edificios en la ciudad
   <!-- feedback: Incorrecto. El programa no está relacionado con la construcción de edificios; se enfoca en la educación y concienciación sobre el cuidado del agua. -->
+- [x] D) Promover el uso responsable y la conservación del agua
+  <!-- feedback: Correcto. El objetivo del programa es educar a la población sobre la importancia de usar el agua de manera responsable y conservar este recurso para las generaciones futuras. -->
 
 ### Explicacion Pedagogica
 La concienciación sobre el cuidado del agua es fundamental para garantizar la sostenibilidad de este recurso. Educar a la población sobre el uso responsable del agua ayuda a reducir el desperdicio y a proteger las fuentes hídricas para las generaciones futuras.

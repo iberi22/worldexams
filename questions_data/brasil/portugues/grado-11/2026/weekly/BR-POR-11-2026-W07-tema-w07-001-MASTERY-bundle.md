@@ -457,10 +457,10 @@ Censurar a vertente satírica de Gregório de Matos (o "Boca do Inferno" de Salv
 Considerando essa fundamentação científica de Letras, avalie qual diagnóstico descritivo do Barroco colonial baiano está correto sobre a construção da identidade nacional brasileira de vestibular:
 
 ### Opciones
-- [ ] A) O Barroco é uma cópia burra sem valor estético de Portugal medieval, provando que os poetas do Nordeste não sabiam escrever em silêncio absoluto.
-  <!-- feedback: Incorreto. O Barroco brasileiro possui originalidade vigorosa, injetando termos tupis e africanos e críticas locais de desvios morais de elites coloniais de Salvador. -->
-- [x] B) O Barroco traduz as contradições dramáticas do contato de culturas do país (sincretismo, conflito espírito-matéria, opulência das igrejas e miséria de escravidão de engenhos) sob refinado rebuscamento estilístico poético de prestígio.
+- [x] A) O Barroco traduz as contradições dramáticas do contato de culturas do país (sincretismo, conflito espírito-matéria, opulência das igrejas e miséria de escravidão de engenhos) sob refinado rebuscamento estilístico poético de prestígio.
   <!-- feedback: Correto! As antíteses barrocas de Gregório e Vieira mimetizam perfeitamente a fratura moral e cívica da colonização da bacia açucareira baiana. -->
+- [ ] B) O Barroco é uma cópia burra sem valor estético de Portugal medieval, provando que os poetas do Nordeste não sabiam escrever em silêncio absoluto.
+  <!-- feedback: Incorreto. O Barroco brasileiro possui originalidade vigorosa, injetando termos tupis e africanos e críticas locais de desvios morais de elites coloniais de Salvador. -->
 - [ ] C) Os jesuítas foram proibidos de pregar homilias por leis do trânsito marítimo baiano que regulavam as praias coloniais paulistas em silêncio de morte.
   <!-- feedback: Incorreto. Jesuítas dominavam a oratória sacra de missas livres e exerciam enorme influência política e educacional curricular em todo o Brasil imperial de época. -->
 - [ ] D) A poesia lírica de Gregório de Matos baiana foi inventada por robôs de informática de startups paulistanas de luxo em 2026 para acelerar cliques na internet.
@@ -485,10 +485,10 @@ Avalie criticamente o uso desse teatro adaptado de Anchieta sob a perspectiva pe
   <!-- feedback: Incorreto. Adaptar lendas anchietanas clássicas coloniais a riscos de asfalto modernos de Brasília constitui rico processo de intertextualidade didática e de mobilização cívica de mídias. -->
 - [ ] B) O coletivo usa conectivos de Portugal de 1549 de editais públicos judiciais para prender em cartórios federais quem mexer em fiações de metal em Brasília.
   <!-- feedback: Incorreto. É uma peça cênica comunitária voluntária didática escolar de estudantes, longe de atuações cartorárias oficiais burocráticas secas do Ministério Público. -->
-- [x] C) O teatro funde alegorias medievais de Anchieta de forças morais (bem bombeiro contra o mal do choque elétrico) sob formato de teatro popular para conscientizar de forma lúdica a comunidade sobre perigos e salvar vidas em Brasília.
-  <!-- feedback: Correto! A pedagogia cênica anchietana colonial de catequese é recontextualizada de forma brilhante cívica no asfalto moderno periférico do país de forma inclusiva. -->
-- [ ] D) Trata-se de uma receita culinária de cozinha prescrevendo temperos de comida de forma de bulas de remédios de informática de robôs do Paraná.
+- [ ] C) Trata-se de uma receita culinária de cozinha prescrevendo temperos de comida de forma de bulas de remédios de informática de robôs do Paraná.
   <!-- feedback: Incorreto. O teatro comunitário adaptado de jesuítas é cívico-social preventivo urgente de segurança viária de Brasília, sem receitas de comida ou robôs industriais. -->
+- [x] D) O teatro funde alegorias medievais de Anchieta de forças morais (bem bombeiro contra o mal do choque elétrico) sob formato de teatro popular para conscientizar de forma lúdica a comunidade sobre perigos e salvar vidas em Brasília.
+  <!-- feedback: Correto! A pedagogia cênica anchietana colonial de catequese é recontextualizada de forma brilhante cívica no asfalto moderno periférico do país de forma inclusiva. -->
 
 ### Explicacion Pedagogica
 A adaptação contemporânea de mídias de peças teatrais de José de Anchieta do Quinhentismo colonial (os autos religiosos morais) por estudantes de Brasília para combater riscos físicos elétricos domésticos nas favelas e periferias urbanas brasileiras (como Sol Nascente) de forma de teatro de bonecos constitui um brilhante e elogiável processo de intertextualidade de base nacional (BNCC). Unir a semiótica de batalhas de forças morais do bem (bombeiros de salvamento de asfalto) contra o mal físico (os riscos de choque de fiações expostas de metal de favelas de Brasília) conscientiza e mobiliza de forma lúdica, democrática e inclusiva a comunidade de moradores leigos, provando o valor social contínuo das heranças literárias históricas do país de forma prática.

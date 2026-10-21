@@ -39,6 +39,7 @@ The clock shows 3:00. How do you say the time in English?
   <!-- feedback: Quarter past three means 3:15, not 3:00. -->
 - [ ] D) It is three apples.
   <!-- feedback: Apples are fruit and do not tell the time. -->
+
 ### Explicacion Pedagogica
 La expresión o clock se usa para horas exactas. También es fundamental practicar con un reloj real para fijar el vocabulario.
 
@@ -59,6 +60,7 @@ Juan has breakfast at half past seven. What time does Juan have breakfast?
   <!-- feedback: At 6:30 is half past six, not half past seven. -->
 - [ ] D) At 8:30.
   <!-- feedback: At 8:30 is half past eight, not half past seven. -->
+
 ### Explicacion Pedagogica
 La expresión half past indica treinta minutos después de la hora. Además, relacionarla con 7:30 facilita la comprensión del horario.
 
@@ -79,6 +81,7 @@ Math class is at quarter past eight. What time is math class?
   <!-- feedback: At 8:00 is eight o clock, not quarter past eight. -->
 - [x] D) At 8:15.
   <!-- feedback: At 8:15 is correct because quarter past means fifteen minutes after. -->
+
 ### Explicacion Pedagogica
 La expresión quarter past equivale a quince minutos después. También contrasta con quarter to, que indica quince minutos antes.
 
@@ -99,6 +102,7 @@ I ___ my homework at 4:00 in the afternoon. Which verb completes the routine?
   <!-- feedback: Eat homework is impossible, you eat food not homework. -->
 - [ ] D) drink soccer
   <!-- feedback: Drink soccer mixes a drink with a sport and is wrong. -->
+
 ### Explicacion Pedagogica
 La colocación do homework es fija en inglés. También es necesario distinguirla de make breakfast y have lunch.
 
@@ -119,6 +123,7 @@ We have English class ___ Monday morning. Which preposition is correct for days?
   <!-- feedback: At is for hours, not for days of the week. -->
 - [ ] D) by
   <!-- feedback: By means transport or near, not for days. -->
+
 ### Explicacion Pedagogica
 La preposición on acompaña días de la semana. Además, at se reserva para horas y in para meses.
 
@@ -139,6 +144,7 @@ Schedule: 6:30 get up, 7:00 breakfast, 8:00 school. What does Maria do at 7:00?
   <!-- feedback: She goes to school at 8:00, not at 7:00. -->
 - [ ] D) She goes to bed.
   <!-- feedback: She goes to bed at night, not at 7:00 in the morning. -->
+
 ### Explicacion Pedagogica
 Leer un horario exige asociar cada hora con su actividad. También es útil ordenar la rutina con first, then y after.
 
@@ -159,6 +165,7 @@ Art is at quarter to ten. Music is at half past ten. Which class is earlier?
   <!-- feedback: Clocks show time and the two hours are different. -->
 - [x] D) Art, because 9:45 is before 10:30.
   <!-- feedback: This is correct because quarter to ten means 9:45. -->
+
 ### Explicacion Pedagogica
 La expresión quarter to significa quince minutos antes de la hora. Además, comparar 9:45 y 10:30 desarrolla el análisis del horario escolar.
 
@@ -171,13 +178,14 @@ La expresión quarter to significa quince minutos antes de la hora. Además, com
 ### Enunciado
 School starts at 7:00. Luis arrives at half past seven. Ana arrives at quarter to seven. Who is on time and why?
 ### Opciones
-- [x] A) Ana, because quarter to seven means 6:45, before 7:00.
-  <!-- feedback: This is correct because 6:45 is early and 7:30 is late. -->
+- [ ] A) Both, because 6:45 and 7:30 are the same as 7:00.
+  <!-- feedback: Only 7:00 is on time, the others are early or late. -->
 - [ ] B) Luis, because half past seven means 7:00 exactly.
   <!-- feedback: Half past seven means 7:30, thirty minutes late. -->
-- [ ] C) Both, because 6:45 and 7:30 are the same as 7:00.
-  <!-- feedback: Only 7:00 is on time, the others are early or late. -->
+- [x] C) Ana, because quarter to seven means 6:45, before 7:00.
+  <!-- feedback: This is correct because 6:45 is early and 7:30 is late. -->
 - [ ] D) Neither, because school starts at night.
   <!-- feedback: School starts at 7:00 in the morning, not at night. -->
+
 ### Explicacion Pedagogica
 Evaluar puntualidad exige convertir expresiones de tiempo a números. Asimismo, distinguir early, on time y late es clave para la rutina diaria.

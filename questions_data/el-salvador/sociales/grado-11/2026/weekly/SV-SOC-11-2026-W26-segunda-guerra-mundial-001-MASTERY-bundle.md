@@ -57,10 +57,10 @@ La Constitución es la norma suprema que organiza el Estado y garantiza derechos
 ¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?
 
 ### Opciones
-- [x] B) Urbanización masiva y nuevas clases sociales
-  <!-- feedback: Las fábricas concentraron el trabajo en las ciudades: la población rural emigró y surgieron la burguesía industrial y el proletariado. -->
 - [ ] A) Retorno a la vida agrícola
   <!-- feedback: La Revolución Industrial diminishó el peso de la agricultura en la economía, en vez de devolver la sociedad al campo. -->
+- [x] B) Urbanización masiva y nuevas clases sociales
+  <!-- feedback: Las fábricas concentraron el trabajo en las ciudades: la población rural emigró y surgieron la burguesía industrial y el proletariado. -->
 - [ ] C) Disminución del comercio global
   <!-- feedback: El comercio creció con los ferrocarriles y las fábricas, de modo que no disminuyó. -->
 - [ ] D) Eliminación del trabajo manual
@@ -80,14 +80,14 @@ La Revolución Industrial causó migración a ciudades y creó nuevas clases soc
 ¿Qué derechos protegen la Constitución de un país democrático?
 
 ### Opciones
-- [x] D) Derechos humanos fundamentales
-  <!-- feedback: La Constitución de un país democrático reconoce los derechos esenciales de toda persona, como la vida, la libertad y la igualdad. -->
 - [ ] A) Solo derechos de propiedad
   <!-- feedback: La propiedad es uno de los derechos, pero la Constitución reconoce muchos más, como la igualdad ante la ley y el debido proceso. -->
 - [ ] B) Únicamente derechos políticos
   <!-- feedback: El voto y la participación son parte de los derechos, pero la Constitución protege también derechos civiles y sociales. -->
 - [ ] C) Derechos exclusivos del gobierno
   <!-- feedback: La Constitución limita al gobierno y protege a los ciudadanos; lo que el Estado tiene frente a ellos son deberes, no derechos. -->
+- [x] D) Derechos humanos fundamentales
+  <!-- feedback: La Constitución de un país democrático reconoce los derechos esenciales de toda persona, como la vida, la libertad y la igualdad. -->
 
 ### Explicacion Pedagogica
 Las constituciones democráticas protegen derechos humanos fundamentales.
@@ -103,14 +103,14 @@ Las constituciones democráticas protegen derechos humanos fundamentales.
 Si un país exporta más de lo que importa, ¿qué tiene?
 
 ### Opciones
-- [x] D) Superávit comercial
-  <!-- feedback: Exportar por encima de las importaciones significa que entra más dinero del que sale, y eso es superávit comercial. -->
 - [ ] A) Déficit comercial
   <!-- feedback: El déficit es el caso contrario: exportar menos de lo que se importa. -->
 - [ ] B) Balanza equilibrada
   <!-- feedback: Una balanza equilibrada exige exportar e importar la misma cantidad, y aquí las exportaciones son mayores. -->
 - [ ] C) Crisis económica
   <!-- feedback: Un superávit comercial indica un saldo favorable, no una crisis. -->
+- [x] D) Superávit comercial
+  <!-- feedback: Exportar por encima de las importaciones significa que entra más dinero del que sale, y eso es superávit comercial. -->
 
 ### Explicacion Pedagogica
 Exportar más que importar genera superávit comercial favorable.
@@ -126,12 +126,12 @@ Exportar más que importar genera superávit comercial favorable.
 ¿Cuál fue una causa importante de la Primera Guerra Mundial?
 
 ### Opciones
-- [x] C) El asesinato del Archiduque Francisco Fernando
-  <!-- feedback: El asesinato del Archiduque Francisco Fernando en Sarajevo en junio de 1914 fue el detonante directo de la guerra. -->
 - [ ] A) El Tratado de Versalles
   <!-- feedback: El Tratado de Versalles se firmó en 1919, ya terminada la guerra, para imponer las condiciones de paz a Alemania. -->
 - [ ] B) La Revolución Rusa
   <!-- feedback: La Revolución Rusa ocurrió en 1917, durante la guerra, y pertenece a otro conflicto posterior. -->
+- [x] C) El asesinato del Archiduque Francisco Fernando
+  <!-- feedback: El asesinato del Archiduque Francisco Fernando en Sarajevo en junio de 1914 fue el detonante directo de la guerra. -->
 - [ ] D) La invención del avión
   <!-- feedback: El avión no fue la causa de la guerra; el detonante fue un conflicto entre potencias europeas, y la aviación se usó en los combates. -->
 
@@ -169,12 +169,12 @@ La seguridad colectiva convirtió la defensa de un país en una obligación comp
 ### Opciones
 - [ ] A) Victoria soviética en el norte de Rusia
   <!-- feedback: El avance soviético llegó hasta el centro de Europa, no hasta el norte de Rusia. -->
-- [x] D) Pérdida de la iniciativa ofensiva alemana y avance soviético hacia occidente
-  <!-- feedback: La iniciativa pasó a los soviéticos, que avanzaron hacia occidente y obligaron a Alemania a repartir sus tropas. -->
 - [ ] B) Victoria alemana en el norte de Rusia
   <!-- feedback: Alemania ganó terreno en el norte, pero la iniciativa militar se perdió en el sur, en Stalingrad. -->
 - [ ] C) Derrota de Alemania dos años antes de la rendición de 1945
   <!-- feedback: La rendición llegó en 1945 y Stalingrad no cerró la guerra: tras la batalla el conflicto continuó casi dos años. -->
+- [x] D) Pérdida de la iniciativa ofensiva alemana y avance soviético hacia occidente
+  <!-- feedback: La iniciativa pasó a los soviéticos, que avanzaron hacia occidente y obligaron a Alemania a repartir sus tropas. -->
 
 ### Explicacion Pedagogica
 Stalingrad, en 1942, marcaría el momento en que la iniciativa ofensiva deja de estar en manos de Alemania y pasa a la Unión Soviética.
@@ -210,10 +210,10 @@ Un país importa toda la maquinaria que necesita, pero exporta banano y café. �
 ### Opciones
 - [ ] A) Una balanza equilibrada, porque exporta e importa
   <!-- feedback: Exportar e importar a la vez no da equilibrio: este solo se produce cuando ambos valores coinciden. -->
-- [x] C) Un déficit, porque la maquinaria importada vale más que lo exportado
-  <!-- feedback: Cuando el valor de las importaciones supera al de las exportaciones, el saldo comercial de ese país es negativo. -->
 - [ ] B) Un superávit, porque toda exportación lo genera
   <!-- feedback: El superávit exige que las exportaciones superen a las importaciones, y aquí la maquinaria tiene un valor mayor. -->
+- [x] C) Un déficit, porque la maquinaria importada vale más que lo exportado
+  <!-- feedback: Cuando el valor de las importaciones supera al de las exportaciones, el saldo comercial de ese país es negativo. -->
 - [ ] D) Ningún saldo, porque ese país no comercia
   <!-- feedback: Ese país sí comercia en ambos sentidos, por eso sus cuentas registran un saldo comercial definido. -->
 
@@ -231,10 +231,10 @@ El saldo se obtiene comparando valores y no cantidades: si la maquinaria importa
 ¿Qué consecuencia tuvo el bloqueo naval britanico contra Alemania durante la Primera Guerra Mundial?
 
 ### Opciones
-- [ ] B) La rendicion inmediata de Alemania
-  <!-- feedback: El bloqueo agravó la crisis interna, pero la guerra siguió dos años más con los ejércitos en el frente. -->
 - [x] A) Escasez de alimentos y grave crisis en la retaguardia
   <!-- feedback: El bloqueo quitaba a Alemania los alimentos importados, y la población civil pasó hambre durante años. -->
+- [ ] B) La rendicion inmediata de Alemania
+  <!-- feedback: El bloqueo agravó la crisis interna, pero la guerra siguió dos años más con los ejércitos en el frente. -->
 - [ ] C) El fin de la Primera Guerra Mundial
   <!-- feedback: El bloqueo fue una medida más, no la causa que cerró la guerra: el conflicto terminó con la rendición alemana de 1918. -->
 - [ ] D) El aumento de la produccion agricola alemana
@@ -290,12 +290,12 @@ El saldo humano de la guerra incluyó millones de muertos, huérfanos y ciudades
 Un gobierno militar llega al poder por un golpe de Estado. ¿Qué límite institucional enfrenta al asumir el Estado?
 
 ### Opciones
-- [ ] C) Solo esta obligado por las decisiones de su propio partido
-  <!-- feedback: El partido no es la norma suprema: las decisiones del gobierno pueden revisarse frente a la Constitucion y los tribunales. -->
-- [x] B) Debe respetar la Constitucion y los derechos que ella garantiza
-  <!-- feedback: La Constitucion es la norma suprema, asi que un gobierno militar no puede apartarse de ella ni negar los derechos que protege. -->
 - [ ] A) Puede gobernar como mejor le parezca porque la constitucion no lo ata
   <!-- feedback: La constitucion ata a todo gobierno, y un golpe de Estado tampoco elimina esa norma suprema. -->
+- [x] B) Debe respetar la Constitucion y los derechos que ella garantiza
+  <!-- feedback: La Constitucion es la norma suprema, asi que un gobierno militar no puede apartarse de ella ni negar los derechos que protege. -->
+- [ ] C) Solo esta obligado por las decisiones de su propio partido
+  <!-- feedback: El partido no es la norma suprema: las decisiones del gobierno pueden revisarse frente a la Constitucion y los tribunales. -->
 - [ ] D) Debe aplicar la ley del pais vecino que lo respalda
   <!-- feedback: El limite del gobierno lo fija su propia Constitucion, no la legislacion de otro pais. -->
 
@@ -331,14 +331,14 @@ El saldo comercial se calcula comparando los valores de exportación e importaci
 ¿Que region europea quedo bajo control de la Union Sovietica despues del acuerdo de Yalta de 1945?
 
 ### Opciones
-- [x] D) Europa oriental, incluida la parte de Alemania ocupada por los sovieticos
-  <!-- feedback: En Yalta se fijo una linea de demarcacion, y el este de Europa quedo bajo la influencia sovietica tras la guerra. -->
+- [ ] A) Todo el continente, sin excepcion de ninguna zona
+  <!-- feedback: Yalta dibujo una frontera de influencia: el oeste quedo con las potencias occidentales y solo una parte cambio de bando. -->
 - [ ] B) Europa occidental, que paso a depender de los Estados Unidos
   <!-- feedback: Yalta no reparto el oeste: las potencias occidentales ya libéraron Europa occidental y la reconstruyeron ellas mismas. -->
 - [ ] C) America central, que quedo bajo administracion sovietica
   <!-- feedback: La demarcacion de Yalta era europea, y en America central no hubo ocupacion sovietica de ningun tipo. -->
-- [ ] A) Todo el continente, sin excepcion de ninguna zona
-  <!-- feedback: Yalta dibujo una frontera de influencia: el oeste quedo con las potencias occidentales y solo una parte cambio de bando. -->
+- [x] D) Europa oriental, incluida la parte de Alemania ocupada por los sovieticos
+  <!-- feedback: En Yalta se fijo una linea de demarcacion, y el este de Europa quedo bajo la influencia sovietica tras la guerra. -->
 
 ### Explicacion Pedagogica
 El acuerdo de Yalta de 1945 dibujo una linea de influencia en Europa, y el este del continente quedo bajo control sovietico.
@@ -410,10 +410,10 @@ Un pais que depende del petroleo ajeno enfrenta una interrupcion del suministro.
 ### Opciones
 - [ ] A) Una mejora en la seguridad alimentaria
   <!-- feedback: La seguridad alimentaria depende de la comida, no del combustible, y una crisis de petroleo la puede empeorar. -->
-- [x] C) Un choque en los costos y una parada del crecimiento
-  <!-- feedback: Sin petroleo ajeno, la produccion se encarece y el transporte se detiene, por eso la economia se contrae de inmediato. -->
 - [ ] B) Un aumento de las exportaciones de ese pais
   <!-- feedback: Sin la materia prima, ese pais no puede exportar mas: al contrario, se queda sin energia para producir. -->
+- [x] C) Un choque en los costos y una parada del crecimiento
+  <!-- feedback: Sin petroleo ajeno, la produccion se encarece y el transporte se detiene, por eso la economia se contrae de inmediato. -->
 - [ ] D) Un aumento del superávit comercial de ese pais
   <!-- feedback: Sin ingresos nuevos, el gasto en petroleo ajeno aumenta y la balanza comercial de ese pais empeora. -->
 
@@ -431,8 +431,8 @@ Un pais importador de petroleo sufre un choque externo en sus costos y detiene s
 ¿Qué territorio quedó dividido en dos bloques tras la Segunda Guerra Mundial?
 
 ### Opciones
-- [x] A) Alemania, que quedó partida entre las potencias vencedoras  <!-- feedback: La partición de Alemania en zonas de ocupación y luego dos Estados es el caso más visible de esa división. -->
-- [ ] B) España, que quedó bajo control de Portugal  <!-- feedback: España no fue particionada y permaneció fuera de los dos bloques hasta incorporarse en 1955. -->
+- [ ] A) España, que quedó bajo control de Portugal  <!-- feedback: España no fue particionada y permaneció fuera de los dos bloques hasta incorporarse en 1955. -->
+- [x] B) Alemania, que quedó partida entre las potencias vencedoras  <!-- feedback: La partición de Alemania en zonas de ocupación y luego dos Estados es el caso más visible de esa división. -->
 - [ ] C) India, que quedó repartida entre Portugal y Francia  <!-- feedback: India se independizó en 1947 y su partición no tiene relación con el reparto de Europa. -->
 - [ ] D) Japón, que fue dividido en dos Estados  <!-- feedback: Japón se reconstruyó como un solo país, con la ocupación terminada en 1952. -->
 

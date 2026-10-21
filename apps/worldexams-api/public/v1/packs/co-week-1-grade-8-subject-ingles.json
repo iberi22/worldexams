@@ -13,12 +13,6 @@
       "context": "Describing a regular morning activity.",
       "options": [
         {
-          "letter": "D",
-          "text": "drinks",
-          "is_correct": true,
-          "feedback": "Correct! We use Present Simple for habitual actions like \"usually\"."
-        },
-        {
           "letter": "A",
           "text": "is drinking",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "drinking",
           "is_correct": false,
           "feedback": "Incorrect. This form requires an auxiliary verb (is/are) and doesn't show habit."
+        },
+        {
+          "letter": "D",
+          "text": "drinks",
+          "is_correct": true,
+          "feedback": "Correct! We use Present Simple for habitual actions like \"usually\"."
         }
       ],
       "correct_answer": "D",
@@ -59,16 +59,16 @@
       "context": "Asking about frequency.",
       "options": [
         {
-          "letter": "B",
-          "text": "many",
-          "is_correct": false,
-          "feedback": "Incorrect. \"How many\" is used for countable quantities."
-        },
-        {
           "letter": "A",
           "text": "often",
           "is_correct": true,
           "feedback": "Correct! \"How often\" is the standard question for frequency."
+        },
+        {
+          "letter": "B",
+          "text": "many",
+          "is_correct": false,
+          "feedback": "Incorrect. \"How many\" is used for countable quantities."
         },
         {
           "letter": "C",
@@ -151,16 +151,16 @@
       "context": "Contrasting habit vs. temporary action.",
       "options": [
         {
-          "letter": "B",
-          "text": "lives / lives",
-          "is_correct": false,
-          "feedback": "Incorrect. The second part is a temporary action, so it needs Present Continuous."
-        },
-        {
           "letter": "A",
           "text": "lives / is staying",
           "is_correct": true,
           "feedback": "Correct! \"Lives\" is a permanent state (Simple), \"is staying\" is temporary (Continuous)."
+        },
+        {
+          "letter": "B",
+          "text": "lives / lives",
+          "is_correct": false,
+          "feedback": "Incorrect. The second part is a temporary action, so it needs Present Continuous."
         },
         {
           "letter": "C",
@@ -197,16 +197,16 @@
       "context": "Using adverbs of frequency correctly.",
       "options": [
         {
-          "letter": "B",
-          "text": "I go always to the library on Mondays.",
-          "is_correct": false,
-          "feedback": "Incorrect. Adverbs of frequency usually go before the main verb."
-        },
-        {
           "letter": "A",
           "text": "I always go to the library on Mondays.",
           "is_correct": true,
           "feedback": "Correct! The adverb \"always\" correctly precedes the verb \"go\"."
+        },
+        {
+          "letter": "B",
+          "text": "I go always to the library on Mondays.",
+          "is_correct": false,
+          "feedback": "Incorrect. Adverbs of frequency usually go before the main verb."
         },
         {
           "letter": "C",
@@ -335,16 +335,16 @@
       "context": "Understanding the nuance of \"always\" with Present Continuous.",
       "options": [
         {
-          "letter": "B",
-          "text": "He lost his keys one time today.",
-          "is_correct": false,
-          "feedback": "Incorrect. The sentence describes a repeated behavior."
-        },
-        {
           "letter": "A",
           "text": "It is a frequent and irritating habit.",
           "is_correct": true,
           "feedback": "Correct! \"Always\" with Continuous often expresses annoyance."
+        },
+        {
+          "letter": "B",
+          "text": "He lost his keys one time today.",
+          "is_correct": false,
+          "feedback": "Incorrect. The sentence describes a repeated behavior."
         },
         {
           "letter": "C",
@@ -387,12 +387,6 @@
           "feedback": "Incorrect. Usually, \"while\" introduces a continuous action."
         },
         {
-          "letter": "D",
-          "text": "is eating / is taking",
-          "is_correct": true,
-          "feedback": "Correct! Two actions happening simultaneously in the present."
-        },
-        {
           "letter": "B",
           "text": "is eat / take",
           "is_correct": false,
@@ -403,6 +397,12 @@
           "text": "eat / taking",
           "is_correct": false,
           "feedback": "Incorrect. Missing auxiliary verbs and subject-verb agreement."
+        },
+        {
+          "letter": "D",
+          "text": "is eating / is taking",
+          "is_correct": true,
+          "feedback": "Correct! Two actions happening simultaneously in the present."
         }
       ],
       "correct_answer": "D",
@@ -427,12 +427,6 @@
       "context": "Correcting errors in a complex routine description.",
       "options": [
         {
-          "letter": "D",
-          "text": "am preferring",
-          "is_correct": true,
-          "feedback": "Correct! \"Prefer\" is a stative verb and should be in Simple Present: \"I prefer\"."
-        },
-        {
           "letter": "A",
           "text": "to walk",
           "is_correct": false,
@@ -449,6 +443,12 @@
           "text": "to think",
           "is_correct": false,
           "feedback": "Incorrect. This is a correct infinitive of purpose."
+        },
+        {
+          "letter": "D",
+          "text": "am preferring",
+          "is_correct": true,
+          "feedback": "Correct! \"Prefer\" is a stative verb and should be in Simple Present: \"I prefer\"."
         }
       ],
       "correct_answer": "D",
@@ -473,16 +473,16 @@
       "context": "Formal vs. Informal routine inquiry.",
       "options": [
         {
-          "letter": "B",
-          "text": "What time do I gotta show up?",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Gotta\" is too informal for an interview."
-        },
-        {
           "letter": "A",
           "text": "Could you please tell me what the typical daily responsibilities are?",
           "is_correct": true,
           "feedback": "Correct! It is polite, formal, and uses B1 level structures."
+        },
+        {
+          "letter": "B",
+          "text": "What time do I gotta show up?",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Gotta\" is too informal for an interview."
         },
         {
           "letter": "C",
@@ -520,15 +520,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "establishing a healthy morning routine is achievable with persistence.",
-          "is_correct": true,
-          "feedback": "Correct! It logically follows the idea of repeating actions to form habits."
-        },
-        {
-          "letter": "B",
           "text": "we are always changing our minds about what we like to do.",
           "is_correct": false,
           "feedback": "Incorrect. This doesn't follow the logic of habit formation."
+        },
+        {
+          "letter": "B",
+          "text": "establishing a healthy morning routine is achievable with persistence.",
+          "is_correct": true,
+          "feedback": "Correct! It logically follows the idea of repeating actions to form habits."
         },
         {
           "letter": "C",
@@ -543,7 +543,7 @@
           "feedback": "Incorrect. Off-topic and overly judgmental."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Completar un párrafo requiere coherencia y cohesión (nivel B1). El estudiante debe identificar que la persistencia lleva a la formación de rutinas automáticas según el texto previo.",
       "difficulty": "10",
       "images": [],

@@ -29,14 +29,15 @@ Este bundle trabaja secuencias numéricas, reglas de formación y término gener
 ### Enunciado
 ¿Qué número sigue en la secuencia 2, 4, 6, 8, ...?
 ### Opciones
-- [x] D) 10
-  <!-- feedback: Explica por qué es correcta: la secuencia suma 2 cada vez, y 8 + 2 = 10. -->
 - [ ] A) 9
   <!-- feedback: Explica el error conceptual: suma solo 1 en vez de mantener el patrón de sumar 2. -->
 - [ ] B) 12
   <!-- feedback: Explica el error conceptual: suma 4 en vez de 2, rompiendo la regularidad de la secuencia. -->
 - [ ] C) 16
   <!-- feedback: Explica el error conceptual: duplica el último término en vez de seguir sumando 2. -->
+- [x] D) 10
+  <!-- feedback: Explica por qué es correcta: la secuencia suma 2 cada vez, y 8 + 2 = 10. -->
+
 ### Explicacion Pedagogica
 Una secuencia aritmética suma una diferencia constante: aquí +2. Identificar esa diferencia permite predecir cualquier término siguiente con seguridad.
 ## Question 2 [D3-D4]
@@ -48,14 +49,15 @@ Una secuencia aritmética suma una diferencia constante: aquí +2. Identificar e
 ### Enunciado
 ¿Cuál es la regla que forma esta secuencia?
 ### Opciones
-- [x] C) Sumar 5 cada vez
-  <!-- feedback: Explica por qué es correcta: cada término es el anterior más 5 (5, 10, 15, 20). -->
 - [ ] A) Multiplicar por 5 cada vez
   <!-- feedback: Explica el error conceptual: multiplicar por 5 daría 5, 25, 125, una secuencia muy distinta. -->
 - [ ] B) Sumar 10 cada vez
   <!-- feedback: Explica el error conceptual: sumar 10 daría 5, 15, 25, no la secuencia mostrada. -->
+- [x] C) Sumar 5 cada vez
+  <!-- feedback: Explica por qué es correcta: cada término es el anterior más 5 (5, 10, 15, 20). -->
 - [ ] D) Restar 5 cada vez
   <!-- feedback: Explica el error conceptual: restar haría la secuencia decreciente, pero esta crece. -->
+
 ### Explicacion Pedagogica
 La regla de formación describe cómo se obtiene cada término desde el anterior. Aquí la diferencia constante es +5, lo que clasifica la secuencia como aritmética creciente.
 ## Question 3 [D5-D6]
@@ -67,14 +69,15 @@ La regla de formación describe cómo se obtiene cada término desde el anterior
 ### Enunciado
 ¿Cuántas frutas hay en la quinta fila de la secuencia?
 ### Opciones
-- [x] C) 15
-  <!-- feedback: Explica por qué es correcta: la secuencia es 3 × posición: 3, 6, 9, 12 y el quinto es 15. -->
 - [ ] A) 14
   <!-- feedback: Explica el error conceptual: suma 2 al último término en vez de mantener el paso de 3. -->
 - [ ] B) 18
   <!-- feedback: Explica el error conceptual: calcula el sexto término (6 × 3) en vez del quinto. -->
+- [x] C) 15
+  <!-- feedback: Explica por qué es correcta: la secuencia es 3 × posición: 3, 6, 9, 12 y el quinto es 15. -->
 - [ ] D) 13
   <!-- feedback: Explica el error conceptual: suma 1 al último término sin respetar la regla de formación. -->
+
 ### Explicacion Pedagogica
 Extender una secuencia es aplicar la regla paso a paso: 12 + 3 = 15. También se puede usar la posición: término n = 3 × n, así el quinto es 3 × 5 = 15.
 ## Question 4 [D5-D6]
@@ -86,14 +89,15 @@ Extender una secuencia es aplicar la regla paso a paso: 12 + 3 = 15. También se
 ### Enunciado
 ¿Cuántas divisiones tendrá la quinta baldosa de la secuencia?
 ### Opciones
-- [x] D) 25
-  <!-- feedback: Explica por qué es correcta: la secuencia es 1², 2², 3², 4² y el quinto es 5² = 25. -->
 - [ ] A) 20
   <!-- feedback: Explica el error conceptual: suma 4 al último término como si fuera aritmética, pero esta es cuadrática. -->
 - [ ] B) 32
   <!-- feedback: Explica el error conceptual: duplica 16 como si fuera geométrica, ignorando el patrón de cuadrados. -->
 - [ ] C) 18
   <!-- feedback: Explica el error conceptual: suma 2 al último término sin identificar la regla real. -->
+- [x] D) 25
+  <!-- feedback: Explica por qué es correcta: la secuencia es 1², 2², 3², 4² y el quinto es 5² = 25. -->
+
 ### Explicacion Pedagogica
 No toda secuencia es aritmética: 1, 4, 9, 16 son cuadrados perfectos (n²). El quinto término es 5² = 25. Reconocer familias de secuencias amplía el repertorio de patrones.
 ## Question 5 [D5-D6]
@@ -105,14 +109,15 @@ No toda secuencia es aritmética: 1, 4, 9, 16 son cuadrados perfectos (n²). El 
 ### Enunciado
 ¿Qué temperatura habrá en la siguiente medición?
 ### Opciones
-- [x] C) 8 °C
-  <!-- feedback: Explica por qué es correcta: la secuencia resta 3 cada vez, y 11 - 3 = 8. -->
 - [ ] A) 10 °C
   <!-- feedback: Explica el error conceptual: resta solo 1 en vez de mantener la diferencia de 3. -->
 - [ ] B) 7 °C
   <!-- feedback: Explica el error conceptual: resta 4 en vez de 3, alterando la diferencia constante. -->
+- [x] C) 8 °C
+  <!-- feedback: Explica por qué es correcta: la secuencia resta 3 cada vez, y 11 - 3 = 8. -->
 - [ ] D) 14 °C
   <!-- feedback: Explica el error conceptual: repite un término anterior en vez de continuar la secuencia. -->
+
 ### Explicacion Pedagogica
 Las secuencias decrecientes también tienen diferencia constante, aquí −3. Aplicar 11 − 3 = 8 muestra que el método vale para subir o bajar.
 ## Question 6 [D7-D8]
@@ -132,6 +137,7 @@ Las secuencias decrecientes también tienen diferencia constante, aquí −3. Ap
   <!-- feedback: Explica el error conceptual: usa n = 5 (quinto término) en vez de n = 4. -->
 - [ ] D) 8
   <!-- feedback: Explica el error conceptual: calcula 2 × 4 pero olvida sumar el 1 de la regla. -->
+
 ### Explicacion Pedagogica
 El término general 2n + 1 genera toda la secuencia (3, 5, 7, 9, ...). Reemplazar n por la posición pedida es la técnica para hallar cualquier término sin listar todos.
 ## Question 7 [D7-D8]
@@ -143,14 +149,15 @@ El término general 2n + 1 genera toda la secuencia (3, 5, 7, 9, ...). Reemplaza
 ### Enunciado
 ¿Cuántas bacterias habrá en la siguiente hora?
 ### Opciones
-- [x] C) 112
-  <!-- feedback: Explica por qué es correcta: la regla es multiplicar por 2, y 56 × 2 = 112. -->
 - [ ] A) 63
   <!-- feedback: Explica el error conceptual: suma 7 en vez de duplicar, mezclando patrones aditivos y multiplicativos. -->
-- [ ] B) 84
+- [x] B) 112
+  <!-- feedback: Explica por qué es correcta: la regla es multiplicar por 2, y 56 × 2 = 112. -->
+- [ ] C) 84
   <!-- feedback: Explica el error conceptual: suma 28 (el término anterior) en vez de multiplicar por 2. -->
 - [ ] D) 60
   <!-- feedback: Explica el error conceptual: suma 4 sin relación con la regla de duplicación. -->
+
 ### Explicacion Pedagogica
 Las secuencias geométricas multiplican por una razón constante (×2). Crecen mucho más rápido que las aritméticas, por eso modelan fenómenos como la reproducción bacteriana.
 ## Question 8 [D7-D8]
@@ -170,6 +177,7 @@ Si la regla es puntos = 3n + 1, ¿cuántos puntos da la jugada 5?
   <!-- feedback: Explica el error conceptual: multiplica 3 × 5 pero olvida sumar el 1 de la regla. -->
 - [ ] D) 19 puntos
   <!-- feedback: Explica el error conceptual: calcula la jugada 6 (3 × 6 + 1) en vez de la jugada 5. -->
+
 ### Explicacion Pedagogica
 Verificar la regla con los datos (3×1+1=4, 3×2+1=7, 3×3+1=10) confirma el modelo antes de predecir. Luego se evalúa en n = 5 para obtener 16 puntos.
 ## Question 9 [D9-D10]
@@ -181,14 +189,15 @@ Verificar la regla con los datos (3×1+1=4, 3×2+1=7, 3×3+1=10) confirma el mod
 ### Enunciado
 ¿Es correcta la afirmación? Justifica con la regla general.
 ### Opciones
-- [x] D) Sí, porque la regla es 4n + 1 y 4 × 10 + 1 = 41
-  <!-- feedback: Explica por qué es correcta: la diferencia es 4 y el primer término 5 = 4 + 1; evaluar en n = 10 da 41. -->
 - [ ] A) No, porque el décimo término es 45
   <!-- feedback: Explica el error conceptual: 45 correspondería a la regla 4n + 5, que no genera el primer término 5. -->
 - [ ] B) No, porque la secuencia no tiene regla
   <!-- feedback: Explica el error conceptual: la diferencia constante de 4 sí define una regla aritmética clara. -->
 - [ ] C) Sí, porque 17 + 10 + 14 = 41
   <!-- feedback: Explica el error conceptual: suma números sin justificación en vez de usar la regla general. -->
+- [x] D) Sí, porque la regla es 4n + 1 y 4 × 10 + 1 = 41
+  <!-- feedback: Explica por qué es correcta: la diferencia es 4 y el primer término 5 = 4 + 1; evaluar en n = 10 da 41. -->
+
 ### Explicacion Pedagogica
 Deducir la regla (diferencia 4, ajuste +1) y evaluar en n = 10 verifica la afirmación con rigor. Justificar con el término general es más sólido que extender la lista a mano.
 ## Question 10 [D9-D10]
@@ -208,5 +217,6 @@ Deducir la regla (diferencia 4, ajuste +1) y evaluar en n = 10 verifica la afirm
   <!-- feedback: Explica el error conceptual: multiplica por el número de semana en vez de aplicar duplicaciones sucesivas. -->
 - [ ] D) Usar 2.000 × 2⁵ = 64.000 COP
   <!-- feedback: Explica el error conceptual: cuenta 5 duplicaciones en vez de 4; el exponente es semanas menos 1. -->
+
 ### Explicacion Pedagogica
 El crecimiento geométrico se modela con potencias: semana n guarda 2000 × 2^(n−1). Para n = 5, 2000 × 16 = 32.000 COP. Elegir el modelo correcto evita listar términos y errores de conteo.

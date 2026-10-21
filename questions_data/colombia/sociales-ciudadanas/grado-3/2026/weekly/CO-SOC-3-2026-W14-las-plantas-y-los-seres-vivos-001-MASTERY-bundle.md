@@ -170,12 +170,12 @@ En ese barrio, ¿qué hecho muestra mejor cómo la distribución de las plantas 
 ### Opciones
 - [ ] A) Que en el solar vacío no hay ningún árbol
   <!-- feedback: Incorrecto. Ese dato describe lo que falta en un lugar, pero no muestra el efecto de la distribución de las plantas. -->
-- [ ] B) Que los árboles del parque son más grandes que los arbustos
-  <!-- feedback: Incorrecto. Comparar tamaños es un dato de medida, pero no explica el efecto sobre el ambiente del barrio. -->
+- [x] B) Que en una parte del barrio hay sombra y en el solar vacío no hay ninguna
+  <!-- feedback: Correcto. Esa diferencia muestra que la sombra depende de dónde estén los árboles y cómo eso cambia el ambiente del lugar. -->
 - [ ] C) Que la plaza tiene un banco debajo de los árboles
   <!-- feedback: Incorrecto. La ubicación del banco es un dato de sitio, pero no explica cómo afecta la distribución de plantas al ambiente. -->
-- [x] D) Que en una parte del barrio hay sombra y en el solar vacío no hay ninguna
-  <!-- feedback: Correcto. Esa diferencia muestra que la sombra depende de dónde estén los árboles y cómo eso cambia el ambiente del lugar. -->
+- [ ] D) Que los árboles del parque son más grandes que los arbustos
+  <!-- feedback: Incorrecto. Comparar tamaños es un dato de medida, pero no explica el efecto sobre el ambiente del barrio. -->
 
 ### Explicacion Pedagogica
 La forma como están repartidas las plantas en un barrio cambia el ambiente de manera concreta. Donde hay árboles grandes hay sombra, el suelo se mantiene húmedo y hace menos calor; donde no hay nada, el sol pega más y el lugar se siente más seco. En el barrio La Ceiba, esa diferencia se nota entre el parque y el solar vacío. Reconocer esta relación espacial enseña a los niños que sembrar y cuidar plantas no es solo decorar: es mejorar el aire, la temperatura y la comodidad de las personas que viven cerca.

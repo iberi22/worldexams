@@ -151,12 +151,12 @@ Reconocimiento de la imparcialidad y la escucha como cualidades de la mediación
 ### Opciones
 - [ ] A) Que en quinto A los niños son malos por naturaleza y no pueden cambiar.
   <!-- feedback: Ningún niño es malo por naturaleza; la diferencia está en cómo resuelven sus desacuerdos. -->
-- [x] B) Que la violencia genera más violencia, mientras el diálogo reduce los conflictos.
-  <!-- feedback: Los gritos escalan las peleas y el círculo de la palabra enseña a resolver sin agredir. -->
+- [ ] B) Que los profesores de quinto A son mejores porque dejan pelear libremente.
+  <!-- feedback: Dejar pelear sin intervenir abandona la convivencia y permite que crezca la violencia. -->
 - [ ] C) Que en quinto B los niños nunca tienen desacuerdos entre ellos.
   <!-- feedback: Los desacuerdos son normales en todos los cursos; la clave es cómo se manejan. -->
-- [ ] D) Que los profesores de quinto A son mejores porque dejan pelear libremente.
-  <!-- feedback: Dejar pelear sin intervenir abandona la convivencia y permite que crezca la violencia. -->
+- [x] D) Que la violencia genera más violencia, mientras el diálogo reduce los conflictos.
+  <!-- feedback: Los gritos escalan las peleas y el círculo de la palabra enseña a resolver sin agredir. -->
 
 ### Explicacion Pedagogica
 Análisis del efecto comparado de la violencia y el diálogo en la escalada o solución de los conflictos.

@@ -13,12 +13,6 @@
       "context": "Discussing urban development in Medellín.",
       "options": [
         {
-          "letter": "C",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
           "text": "alleviate",
           "is_correct": false,
@@ -29,6 +23,12 @@
           "text": "mitigate",
           "is_correct": false,
           "feedback": "Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied."
+        },
+        {
+          "letter": "C",
+          "text": "exacerbate",
+          "is_correct": true,
+          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
         },
         {
           "letter": "D",
@@ -59,16 +59,16 @@
       "context": "Discussing urban development in Manizales.",
       "options": [
         {
-          "letter": "B",
-          "text": "erode",
-          "is_correct": true,
-          "feedback": "'Erode' means to wear away gradually, which is what repeated broken promises do to confidence. The word carries the slow, cumulative loss implied by a pattern of announcements rather than one dramatic failure."
-        },
-        {
           "letter": "A",
           "text": "galvanise",
           "is_correct": false,
           "feedback": "'Galvanise' means to inspire people to take action, which is the opposite effect. Nothing in the sentence suggests the authority gained support; the trust described is being spent, not built."
+        },
+        {
+          "letter": "B",
+          "text": "erode",
+          "is_correct": true,
+          "feedback": "'Erode' means to wear away gradually, which is what repeated broken promises do to confidence. The word carries the slow, cumulative loss implied by a pattern of announcements rather than one dramatic failure."
         },
         {
           "letter": "C",
@@ -105,16 +105,16 @@
       "context": "Discussing urban development in Bogotá.",
       "options": [
         {
-          "letter": "B",
-          "text": "undercuts",
-          "is_correct": true,
-          "feedback": "'Undercuts' means to weaken a claim from beneath, which is what an unconsulted eviction does to the moral justification for the programme. The word takes an argument as its object, exactly as the sentence requires."
-        },
-        {
           "letter": "A",
           "text": "reinforces",
           "is_correct": false,
           "feedback": "'Reinforces' is the opposite of what the sentence claims, since the eviction is presented as damaging the case rather than supporting it. The clause 'not only' sets up a cost, not a gain."
+        },
+        {
+          "letter": "B",
+          "text": "undercuts",
+          "is_correct": true,
+          "feedback": "'Undercuts' means to weaken a claim from beneath, which is what an unconsulted eviction does to the moral justification for the programme. The word takes an argument as its object, exactly as the sentence requires."
         },
         {
           "letter": "C",
@@ -151,16 +151,16 @@
       "context": "Discussing urban development in Pereira.",
       "options": [
         {
-          "letter": "B",
-          "text": "aggravate",
-          "is_correct": true,
-          "feedback": "'Aggravate' means to make a situation worse, and the sentence warns that solving a problem in one place can worsen it elsewhere. The clause about shared air supplies the mechanism that makes the word fit."
-        },
-        {
           "letter": "A",
           "text": "alleviate",
           "is_correct": false,
           "feedback": "'Alleviate' means to make something less severe, and the sentence describes an unintended consequence rather than relief. Nothing in the clause suggests the peripheral neighbourhoods benefited."
+        },
+        {
+          "letter": "B",
+          "text": "aggravate",
+          "is_correct": true,
+          "feedback": "'Aggravate' means to make a situation worse, and the sentence warns that solving a problem in one place can worsen it elsewhere. The clause about shared air supplies the mechanism that makes the word fit."
         },
         {
           "letter": "C",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W13-urban-development-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on urban development in Barranquilla, what is implied about the role of Passive Reporting Verbs in shaping public opinion?",
-      "context": "Discussing urban development in Barranquilla.",
+      "statement": "Read the text and answer the question.\n\n\"For decades, people in Comuna 13, on the steep hills of western Medellín, had to climb hundreds of steps to get home. In 2011 the city installed a series of outdoor electric escalators that turned a 35-minute climb into a ride of about six minutes. The escalators did not solve every problem of the area, but they changed daily life: older residents could go down to the market more often, and children arrived at school less tired. Today the escalators are also a tourist attraction, and many local families sell food, art and souvenirs to visitors.\"\n\nWhat is the text mainly about?",
+      "context": "The outdoor escalators of Comuna 13 in Medellín.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. Passive reporting verbs is the point here: the passive leaves the agent out (\"Buildings were left unfinished\") so attention stays on the state of the city, so the problem is presented as a condition to be diagnosed rather than as one person's fault. Reading that implication is what the question asks."
+          "letter": "A",
+          "text": "Why tourists prefer Medellín to other Colombian cities.",
+          "is_correct": false,
+          "feedback": "Incorrect. Tourism is mentioned as one effect of the escalators, but the text never compares Medellín with other cities."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report makes this the very focus of its argument, so saying it does not matter to the public contradicts the text."
+          "letter": "B",
+          "text": "How a transport project improved daily life in a hillside neighbourhood.",
+          "is_correct": true,
+          "feedback": "Correct. The text explains the problem (a long climb), the solution (the escalators) and its effects on residents, from older people to children and local businesses."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "The engineering problems of building escalators on steep hills.",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the passive adds responsibility and context to the report rather than stripping meaning out of it."
+          "feedback": "Incorrect. The text does not describe how the escalators were built or any technical difficulties; it focuses on their impact on residents."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Barranquilla.",
+          "text": "How the escalators solved all the social problems of Comuna 13.",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report discusses this across media and public discourse, not as something used only by a group in one city."
+          "feedback": "Incorrect. The writer says directly that the escalators \"did not solve every problem of the area\", so this option exaggerates the text."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "A main-idea answer must cover the whole text without exaggerating it. The text moves from the problem to the escalators and then lists their effects on residents, which is broader than tourism and more limited than \"solving all problems\".\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-11-2026-W13-urban-development-001-MASTERY-bundle-v6",
-      "statement": "According to a recent report on urban development in Bogotá, what is implied about the role of Passive Reporting Verbs in shaping public opinion?",
-      "context": "Discussing urban development in Bogotá.",
+      "statement": "Read the text and answer the question.\n\n\"Every Sunday and public holiday, from seven in the morning until two in the afternoon, Bogotá closes more than 100 kilometres of its main roads to cars. Cyclists, runners, skaters and families with prams take over the streets. The Ciclovía started in 1974 with a few kilometres, and today it attracts more than a million people on a typical Sunday. Several cities in Latin America and other parts of the world have copied the idea. Street vendors selling fruit juice and repairing bicycles have also become part of the experience.\"\n\nWhat can be inferred from the text?",
+      "context": "The Sunday Ciclovía in Bogotá.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. Passive reporting verbs is the point here: the passive leaves the agent out (\"Buildings were left unfinished\") so attention stays on the state of the city, so the problem is presented as a condition to be diagnosed rather than as one person's fault. Reading that implication is what the question asks."
+          "letter": "A",
+          "text": "Cars are not allowed in Bogotá on any day of the week.",
+          "is_correct": false,
+          "feedback": "Incorrect. The roads are closed only on Sundays and holidays, and only from seven to two, so cars are normally allowed on other days."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report makes this the very focus of its argument, so saying it does not matter to the public contradicts the text."
+          "letter": "B",
+          "text": "The Ciclovía has become a model that other cities consider successful.",
+          "is_correct": true,
+          "feedback": "Correct. The text says that several cities in Latin America and other parts of the world \"have copied the idea\"; cities copy a programme because they see it as successful, so this can be inferred."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "The Ciclovía has become smaller since it started in 1974.",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the passive adds responsibility and context to the report rather than stripping meaning out of it."
+          "feedback": "Incorrect. The text suggests the opposite: it began with \"a few kilometres\" and now covers more than 100 kilometres."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Barranquilla.",
+          "text": "Street vendors are not allowed to work during the Ciclovía.",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report discusses this across media and public discourse, not as something used only by a group in one city."
+          "feedback": "Incorrect. The text says vendors selling juice and repairing bicycles \"have become part of the experience\", which shows they are present."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "An inference goes one step beyond the words but must stay supported by them. That other cities \"have copied the idea\" supports the conclusion that the Ciclovía is seen as a model; the other options contradict specific details about the timetable, growth and vendors.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -331,36 +331,36 @@
     },
     {
       "id": "CO-ING-11-2026-W13-urban-development-001-MASTERY-bundle-v8",
-      "statement": "According to a recent report on urban development in Pereira, what is implied about the role of Passive Reporting Verbs in shaping public opinion?",
-      "context": "Discussing urban development in Pereira.",
+      "statement": "Read the text and answer the question.\n\n\"For most of its history, Barranquilla grew with its back to the Magdalena River. The riverbanks were used for warehouses and industry, and most residents rarely saw the water. That changed in 2017, when the city opened the Gran Malecón, a long public walkway with parks, restaurants and sports areas along the river. Now families go there in the evening, when the temperature drops, and the city organises concerts and festivals on the riverbank. Urban planners say the project shows that a city can become more liveable by recovering spaces that already exist.\"\n\nAccording to the text, why do families visit the Gran Malecón in the evening?",
+      "context": "The riverside walk on the Magdalena River in Barranquilla.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. Passive reporting verbs is the point here: the passive leaves the agent out (\"Buildings were left unfinished\") so attention stays on the state of the city, so the problem is presented as a condition to be diagnosed rather than as one person's fault. Reading that implication is what the question asks."
+          "letter": "A",
+          "text": "Because the warehouses close and the area becomes quieter.",
+          "is_correct": false,
+          "feedback": "Incorrect. The warehouses belong to the river's past use; the text does not say they close in the evening or that this is why families come."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report makes this the very focus of its argument, so saying it does not matter to the public contradicts the text."
+          "letter": "B",
+          "text": "Because it is cooler at that time of day.",
+          "is_correct": true,
+          "feedback": "Correct. The text says families go there in the evening \"when the temperature drops\", so the reason given is the cooler weather."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Because the restaurants are cheaper at night.",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the passive adds responsibility and context to the report rather than stripping meaning out of it."
+          "feedback": "Incorrect. Restaurants are mentioned as part of the walkway, but the text gives no information about their prices at any time."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Pereira.",
+          "text": "Because concerts take place there every evening.",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report discusses this across media and public discourse, not as something used only by a group in one city."
+          "feedback": "Incorrect. The text says the city organises concerts and festivals, but not that they happen every evening or that this is the reason for the evening visits."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Detail questions are answered by finding the exact sentence. The phrase \"in the evening, when the temperature drops\" links the time of the visit to the reason; options that mention other elements of the text (warehouses, restaurants, concerts) do not answer \"why in the evening\".\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -377,36 +377,36 @@
     },
     {
       "id": "CO-ING-11-2026-W13-urban-development-001-MASTERY-bundle-v9",
-      "statement": "According to a recent report on urban development in Cali, what is implied about the role of Passive Reporting Verbs in shaping public opinion?",
-      "context": "Discussing urban development in Cali.",
+      "statement": "Read the text and answer the question.\n\n\"El Progreso began twenty years ago as an informal settlement on the edge of Cúcuta. Families built their own houses with bricks and metal sheets, but because the neighbourhood was not legal, the city could not install water pipes or a sewage system. Last year, after a long process, the municipality finally legalised the neighbourhood. Residents received documents that prove they own their homes, and the first water pipes are already being installed. 'Now we can ask for a loan to improve the house,' says Rosa Medina, who has lived there since the beginning.\"\n\nWhy could the city not install water pipes before?",
+      "context": "Legalising an informal neighbourhood in Cúcuta.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. Passive reporting verbs is the point here: the passive leaves the agent out (\"Buildings were left unfinished\") so attention stays on the state of the city, so the problem is presented as a condition to be diagnosed rather than as one person's fault. Reading that implication is what the question asks."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Because the houses were built with bricks and metal sheets.",
           "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report makes this the very focus of its argument, so saying it does not matter to the public contradicts the text."
+          "feedback": "Incorrect. The building materials are described, but the text does not present them as the reason why pipes could not be installed."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Because the residents did not want a sewage system.",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the passive adds responsibility and context to the report rather than stripping meaning out of it."
+          "feedback": "Incorrect. Nothing in the text says the residents refused the service; the obstacle was legal, and residents seem happy with the changes."
+        },
+        {
+          "letter": "C",
+          "text": "Because the neighbourhood did not have legal status.",
+          "is_correct": true,
+          "feedback": "Correct. The text uses \"because\" to give the reason directly: \"because the neighbourhood was not legal, the city could not install water pipes or a sewage system\"."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bucaramanga.",
+          "text": "Because the families could not get a loan from the bank.",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report discusses this across media and public discourse, not as something used only by a group in one city."
+          "feedback": "Incorrect. Loans are mentioned at the end as a new possibility after legalisation, not as the reason for the missing water pipes."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Cause-and-effect questions often depend on connectors such as \"because\", \"so\" or \"as a result\". Locating \"because the neighbourhood was not legal\" gives the answer, and it also explains why legalisation is followed by the installation of pipes.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -473,12 +473,6 @@
       "context": "Discussing urban development in Bogotá.",
       "options": [
         {
-          "letter": "C",
-          "text": "did",
-          "is_correct": true,
-          "feedback": "'Not until' is a fronted negative that inverts the main clause, and 'did' carries the simple past: 'not until the assessment was published did the company withdraw'. The main verb returns to its base form 'withdraw'."
-        },
-        {
           "letter": "A",
           "text": "had",
           "is_correct": false,
@@ -489,6 +483,12 @@
           "text": "must",
           "is_correct": false,
           "feedback": "'Must' expresses obligation or deduction about the present, and the clause describes a completed past action. Nothing in the sentence states an obligation or supports a deduction about now."
+        },
+        {
+          "letter": "C",
+          "text": "did",
+          "is_correct": true,
+          "feedback": "'Not until' is a fronted negative that inverts the main clause, and 'did' carries the simple past: 'not until the assessment was published did the company withdraw'. The main verb returns to its base form 'withdraw'."
         },
         {
           "letter": "D",
@@ -519,16 +519,16 @@
       "context": "Discussing urban development in Pereira.",
       "options": [
         {
-          "letter": "B",
-          "text": "did",
-          "is_correct": true,
-          "feedback": "'Only when' fronted inverts the main clause, and 'did' carries the simple past: 'only when the association was granted standing did the residents challenge'. The main verb returns to its base form 'challenge'."
-        },
-        {
           "letter": "A",
           "text": "had",
           "is_correct": false,
           "feedback": "'Had' would form a past perfect and need the participle 'challenged', placing the challenge before another past point. The sentence describes the challenge as following the legal decision."
+        },
+        {
+          "letter": "B",
+          "text": "did",
+          "is_correct": true,
+          "feedback": "'Only when' fronted inverts the main clause, and 'did' carries the simple past: 'only when the association was granted standing did the residents challenge'. The main verb returns to its base form 'challenge'."
         },
         {
           "letter": "C",
@@ -561,36 +561,36 @@
     },
     {
       "id": "CO-ING-11-2026-W13-urban-development-001-MASTERY-bundle-v13",
-      "statement": "Complete the following sentence about urban development: 'Seldom __________ a pedestrianisation scheme be reinstated once it has been removed from the city plan.' (Topic: inversion with 'seldom' and a singular subject)",
-      "context": "Discussing urban development in Medellín.",
+      "statement": "Complete the following sentence about urban development: 'Seldom __________ a pedestrianisation scheme reinstated once it has been removed from the city plan.' (Topic: inversion with 'seldom' and the present passive)",
+      "context": "A city plan for pedestrian streets in Medellín.",
       "options": [
         {
-          "letter": "B",
-          "text": "does",
-          "is_correct": true,
-          "feedback": "'Seldom' inverts the clause, and 'does' carries the present with the singular subject 'a pedestrianisation scheme'. The modal 'be' follows, so the auxiliary 'does' supplies the tense and 'be' supplies the passive."
+          "letter": "A",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Are\" is plural, but the subject \"a pedestrianisation scheme\" is singular, so the verb does not agree."
         },
         {
-          "letter": "A",
-          "text": "do",
-          "is_correct": false,
-          "feedback": "'Do' is the plural auxiliary, but the subject 'a pedestrianisation scheme' is singular. The inversion has moved that subject to the right without altering its number."
+          "letter": "B",
+          "text": "is",
+          "is_correct": true,
+          "feedback": "Correct. \"Seldom\" inverts subject and auxiliary; the present passive \"a scheme is reinstated\" becomes \"Seldom is a scheme reinstated\", and \"is\" agrees with the singular subject."
         },
         {
           "letter": "C",
-          "text": "did",
+          "text": "does",
           "is_correct": false,
-          "feedback": "'Did' would place the observation in the past simple, and it would also conflict with the following modal 'be'. A modal following the auxiliary cannot carry the tense in the same clause."
+          "feedback": "Incorrect. \"Does\" must be followed by a base verb; with the past participle \"reinstated\" the result \"does... reinstated\" is ungrammatical. The passive needs a form of \"be\"."
         },
         {
           "letter": "D",
-          "text": "had",
+          "text": "do",
           "is_correct": false,
-          "feedback": "'Had' would form a past perfect and require the participle 'been reinstated', placing the reinstatement before another past point. The clause makes a general claim about how schemes are treated."
+          "feedback": "Incorrect. \"Do\" is plural and requires a base verb, so it fails twice: agreement with \"a scheme\" and the form of \"reinstated\"."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This item adds a third element to the two usual decisions: a modal sits after the auxiliary. At C1+ the student must establish that 'be' is a modal rather than part of the tense, and then choose the auxiliary that agrees with the singular subject without competing with it.\n\n---",
+      "explanation": "When a passive clause is inverted after a negative adverb, the auxiliary that moves is the form of \"be\": \"A scheme is seldom reinstated\" becomes \"Seldom is a scheme reinstated\". \"Do/does\" is only used when there is no other auxiliary in the clause.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -607,36 +607,36 @@
     },
     {
       "id": "CO-ING-11-2026-W13-urban-development-001-MASTERY-bundle-v14",
-      "statement": "Complete the following sentence about urban development: 'Only after the informal settlement was regularised __________ its residents be eligible for piped water.' (Topic: 'only after' with an inverted clause and a modal passive')",
-      "context": "Discussing urban development in Manizales.",
+      "statement": "Complete the following sentence about urban development: 'Only after the informal settlement was regularised __________ its residents eligible for piped water.' (Topic: 'only after' with inversion of the verb 'be')",
+      "context": "Basic services for a regularised settlement in Manizales.",
       "options": [
         {
-          "letter": "D",
-          "text": "did",
-          "is_correct": true,
-          "feedback": "'Only after' fronted inverts the main clause, and 'did' carries the tense while the modal 'be' carries the passive and the modality: 'only after it was regularised did its residents be eligible'."
-        },
-        {
           "letter": "A",
-          "text": "had",
+          "text": "did",
           "is_correct": false,
-          "feedback": "'Had' would need a participle rather than the bare infinitive 'be', and it would place the eligibility before another past point. The sentence describes a state of eligibility arising from the registration."
+          "feedback": "Incorrect. \"Did\" needs a base verb after the subject, but \"eligible\" is an adjective; the clause would have no main verb. With \"be\" the verb itself moves: \"were its residents eligible\"."
         },
         {
           "letter": "B",
           "text": "was",
           "is_correct": false,
-          "feedback": "'Was' would form a past passive on the subject itself, leaving the residents as the thing regularised. The main clause is about residents being eligible, which is a modal passive with a different structure."
+          "feedback": "Incorrect. \"Was\" is singular, but the subject \"its residents\" is plural, so the verb must be \"were\"."
         },
         {
           "letter": "C",
-          "text": "must",
+          "text": "do",
           "is_correct": false,
-          "feedback": "'Must' would assert an obligation, and the sentence makes no claim that residents are required to qualify. It states the condition under which they come to be eligible, which is what 'only after' expresses."
+          "feedback": "Incorrect. \"Do\" is present tense and needs a base verb; the sentence is in the past (\"was regularised\") and \"eligible\" is not a verb."
+        },
+        {
+          "letter": "D",
+          "text": "were",
+          "is_correct": true,
+          "feedback": "Correct. \"Only after...\" at the start inverts the main clause; the original clause \"its residents were eligible\" becomes \"were its residents eligible\", with \"were\" agreeing with the plural \"residents\"."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Combining a fronted negative or limiting expression with a modal passive is a C1+ construction that requires two separate analyses. The first identifies 'only after' as the trigger for inversion; the second recognises that 'be' is modal, so the auxiliary supplies tense alone and cannot compete with it.\n\n---",
+      "explanation": "With the verb \"be\", inversion moves \"be\" itself, not \"do\": \"they were eligible\" becomes \"only after... were they eligible\". Students should first find the verb of the main clause and then check its tense and agreement with the subject.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -745,36 +745,36 @@
     },
     {
       "id": "CO-ING-11-2026-W13-urban-development-001-MASTERY-bundle-v17",
-      "statement": "In a high-level debate about urban development, Alejandro says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Alejandro mean?",
-      "context": "Discussing urban development in Cali.",
+      "statement": "At a neighbourhood meeting about traffic jams, Daniela says: 'I can't help but feel that we are barking up the wrong tree. Building another lane won't help if most people still have no good bus to take.' What does Daniela mean?",
+      "context": "A neighbourhood meeting in Bogotá about traffic jams.",
       "options": [
         {
           "letter": "A",
-          "text": "The current strategy is directed towards the wrong objective.",
+          "text": "The group is focusing on the wrong solution to the problem.",
           "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "feedback": "Correct. \"Barking up the wrong tree\" means looking for an answer in the wrong place; Daniela says that the real issue is public transport, not the number of lanes."
         },
         {
           "letter": "B",
-          "text": "They are literally looking for something in the trees of Manizales.",
+          "text": "They are literally looking for something in the trees of the city.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads the idiom literally; the meeting is about traffic, and no trees are involved."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The meeting has become too noisy and aggressive.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. \"Barking\" here does not refer to noise; the idiom is about choosing the wrong target, as her second sentence shows."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "The city should plant more trees along the avenues.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. This takes the image of the tree as a proposal; Daniela proposes better buses, not an environmental project."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "Idioms are understood through their figurative meaning and the context. Daniela's second sentence names a different solution, which confirms that the idiom \"bark up the wrong tree\" means the group was focusing on the wrong answer.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-ING-11-2026-W13-urban-development-001-MASTERY-bundle-v18",
-      "statement": "In a high-level debate about urban development, Lucía says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Lucía mean?",
-      "context": "Discussing urban development in Bucaramanga.",
+      "statement": "Read the conversation.\n\nElena: Have you seen the new convention centre near the bay? It cost millions, and it has been closed most of the year.\nRaúl: Yes, it's a real white elephant. The city has to pay for maintenance, and nobody uses it.\n\nWhat does Raúl mean?",
+      "context": "Two neighbours in Cartagena talk about an unused public building.",
       "options": [
         {
-          "letter": "B",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "letter": "A",
+          "text": "The building is painted white and looks like an animal.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a literal reading of the idiom; Raúl is describing the cost and use of the building, not its colour or shape."
         },
         {
-          "letter": "A",
-          "text": "They are literally looking for something in the trees of Barranquilla.",
-          "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "letter": "B",
+          "text": "The building is expensive to keep but not useful.",
+          "is_correct": true,
+          "feedback": "Correct. \"A white elephant\" is something that costs a lot to maintain but brings little benefit; Raúl adds that the city pays maintenance and nobody uses it."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The building is very popular with tourists.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. Elena says it \"has been closed most of the year\" and Raúl says \"nobody uses it\", which contradicts popularity."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "The building is beautiful and worth the money.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. Raúl's comment is critical: he complains about the cost of maintenance for a building nobody uses."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "\"A white elephant\" is a common idiom in news about public works. The context gives both elements of its meaning (high cost and little use), so the expression is a criticism of the project, not a description of its appearance.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -841,12 +841,6 @@
       "context": "Discussing urban development in Barranquilla.",
       "options": [
         {
-          "letter": "C",
-          "text": "She is asserting a recurring pattern while marking it as an observation rather than proven evidence.",
-          "is_correct": true,
-          "feedback": "The final clause separates a rule she has noticed from a finding she can demonstrate. She states the pattern and simultaneously limits its authority, which is what the two phrases together accomplish."
-        },
-        {
           "letter": "A",
           "text": "She is retracting a claim she had already proved.",
           "is_correct": false,
@@ -857,6 +851,12 @@
           "text": "She is demanding that the city hire residents as consultants.",
           "is_correct": false,
           "feedback": "The final clause describes what she is doing with her own statement. There is no imperative, no question and no reference to any hiring decision in the quotation."
+        },
+        {
+          "letter": "C",
+          "text": "She is asserting a recurring pattern while marking it as an observation rather than proven evidence.",
+          "is_correct": true,
+          "feedback": "The final clause separates a rule she has noticed from a finding she can demonstrate. She states the pattern and simultaneously limits its authority, which is what the two phrases together accomplish."
         },
         {
           "letter": "D",
@@ -887,12 +887,6 @@
       "context": "Discussing urban development in Manizales.",
       "options": [
         {
-          "letter": "D",
-          "text": "He is stating a pattern of uneven effects while marking it as an observation rather than proven evidence.",
-          "is_correct": true,
-          "feedback": "The final clause separates a rule he has noticed from a finding he can demonstrate, and the sentence before it already describes benefits and costs falling on different groups. Naming the pattern and limiting its authority are both present."
-        },
-        {
           "letter": "A",
           "text": "He is retracting a claim he had already proved.",
           "is_correct": false,
@@ -909,6 +903,12 @@
           "text": "He is asking the city to close the avenue.",
           "is_correct": false,
           "feedback": "The final clause describes what he is doing with his own statement. There is no imperative, no question and no recommendation about closing anything in the quotation."
+        },
+        {
+          "letter": "D",
+          "text": "He is stating a pattern of uneven effects while marking it as an observation rather than proven evidence.",
+          "is_correct": true,
+          "feedback": "The final clause separates a rule he has noticed from a finding he can demonstrate, and the sentence before it already describes benefits and costs falling on different groups. Naming the pattern and limiting its authority are both present."
         }
       ],
       "correct_answer": "D",

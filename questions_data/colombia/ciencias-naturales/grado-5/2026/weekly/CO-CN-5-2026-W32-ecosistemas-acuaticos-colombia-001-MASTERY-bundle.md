@@ -172,14 +172,14 @@ Analizar las adaptaciones de los peces a la salinidad del agua permite comprende
 ¿Cuál plan permite responder mejor esa pregunta?
 
 ### Opciones
-- [x] A) Medir la salinidad del agua en varios puntos de la ciénaga, repetir la medición cada mes y comparar los datos.
-  <!-- feedback: Tomar varias muestras y medir en distintos momentos permite comparar los datos y observar si la salinidad cambia. -->
+- [ ] A) Observar el color del agua desde lejos y sacar conclusiones sin anotar datos.
+  <!-- feedback: El color no indica la salinidad y, sin datos anotados, no se puede comprobar ningún cambio. -->
 - [ ] B) Preguntar a un pescador cuánta sal cree que tiene el agua y anotar su respuesta.
   <!-- feedback: Una opinión no reemplaza una medición; para responder la pregunta se necesitan datos del agua. -->
 - [ ] C) Tomar una sola muestra de agua un día cualquiera y no volver a medir.
   <!-- feedback: Con una sola muestra no se puede saber si la salinidad aumenta con el paso de los meses. -->
-- [ ] D) Observar el color del agua desde lejos y sacar conclusiones sin anotar datos.
-  <!-- feedback: El color no indica la salinidad y, sin datos anotados, no se puede comprobar ningún cambio. -->
+- [x] D) Medir la salinidad del agua en varios puntos de la ciénaga, repetir la medición cada mes y comparar los datos.
+  <!-- feedback: Tomar varias muestras y medir en distintos momentos permite comparar los datos y observar si la salinidad cambia. -->
 
 ### Explicacion Pedagogica
 Analizar un plan de indagación adecuado, con varias mediciones repetidas en el tiempo y comparación de datos, permite responder preguntas sobre los cambios en las condiciones de un ecosistema acuático.

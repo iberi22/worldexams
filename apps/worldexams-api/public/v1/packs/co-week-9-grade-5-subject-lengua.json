@@ -13,12 +13,6 @@
       "context": "En Bogotá, Juan escribe un mensaje a su profesora para avisar que llevará los libros el lunes.",
       "options": [
         {
-          "letter": "D",
-          "text": "Llevaré los libros el lunes.",
-          "is_correct": true,
-          "feedback": "Es correcta porque la oración afirmativa termina con punto y expresa una idea completa."
-        },
-        {
           "letter": "A",
           "text": "Llevaré los libros el lunes",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "Llevaré los libros el lunes?",
           "is_correct": false,
           "feedback": "Es incorrecta porque el signo de cierre interroga y el mensaje es una afirmación."
+        },
+        {
+          "letter": "D",
+          "text": "Llevaré los libros el lunes.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la oración afirmativa termina con punto y expresa una idea completa."
         }
       ],
       "correct_answer": "D",
@@ -59,12 +59,6 @@
       "context": "Valentina escribe en Medellín la lista de frutas que comprará con diez mil pesos para la ensalada del curso.",
       "options": [
         {
-          "letter": "C",
-          "text": "Para separar los elementos de una lista.",
-          "is_correct": true,
-          "feedback": "Es correcta porque cada coma separa una fruta de la siguiente en la enumeración."
-        },
-        {
           "letter": "A",
           "text": "Para indicar una pregunta a la vendedora.",
           "is_correct": false,
@@ -75,6 +69,12 @@
           "text": "Para mostrar alegría por la compra.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la alegría se expresa con signos de exclamación, no con comas."
+        },
+        {
+          "letter": "C",
+          "text": "Para separar los elementos de una lista.",
+          "is_correct": true,
+          "feedback": "Es correcta porque cada coma separa una fruta de la siguiente en la enumeración."
         },
         {
           "letter": "D",
@@ -105,12 +105,6 @@
       "context": "En Cali, Santiago quiere preguntar a su amigo a qué hora empieza el partido en la cancha del barrio.",
       "options": [
         {
-          "letter": "C",
-          "text": "¿A qué hora empieza el partido?",
-          "is_correct": true,
-          "feedback": "Es correcta porque abre con el signo inicial y cierra con el final en una pregunta completa."
-        },
-        {
           "letter": "A",
           "text": "A qué hora empieza el partido?",
           "is_correct": false,
@@ -121,6 +115,12 @@
           "text": "¿A qué hora empieza el partido.",
           "is_correct": false,
           "feedback": "Es incorrecta porque cierra con punto y no completa la interrogación."
+        },
+        {
+          "letter": "C",
+          "text": "¿A qué hora empieza el partido?",
+          "is_correct": true,
+          "feedback": "Es correcta porque abre con el signo inicial y cierra con el final en una pregunta completa."
         },
         {
           "letter": "D",
@@ -151,12 +151,6 @@
       "context": "En Cartagena, Mariana celebra con emoción que su equipo ganó el festival de lectura.",
       "options": [
         {
-          "letter": "C",
-          "text": "¡Ganamos el festival de lectura!",
-          "is_correct": true,
-          "feedback": "Es correcta porque usa apertura y cierre de exclamación para una emoción completa."
-        },
-        {
           "letter": "A",
           "text": "Ganamos el festival de lectura!",
           "is_correct": false,
@@ -167,6 +161,12 @@
           "text": "¡Ganamos el festival de lectura?",
           "is_correct": false,
           "feedback": "Es incorrecta porque mezcla exclamación con interrogación y crea confusión."
+        },
+        {
+          "letter": "C",
+          "text": "¡Ganamos el festival de lectura!",
+          "is_correct": true,
+          "feedback": "Es correcta porque usa apertura y cierre de exclamación para una emoción completa."
         },
         {
           "letter": "D",
@@ -197,16 +197,16 @@
       "context": "En Manizales, la profesora escribe en el tablero los materiales de arte: témperas, pinceles y cartulina.",
       "options": [
         {
-          "letter": "B",
-          "text": "Dos puntos: \"Atención: traigan témperas, pinceles y cartulina\".",
-          "is_correct": true,
-          "feedback": "Es correcta porque los dos puntos anuncian la lista que viene después."
-        },
-        {
           "letter": "A",
           "text": "Signo de interrogación: \"Atención? traigan témperas, pinceles y cartulina\".",
           "is_correct": false,
           "feedback": "Es incorrecta porque el aviso no pregunta, sino que ordena o informa."
+        },
+        {
+          "letter": "B",
+          "text": "Dos puntos: \"Atención: traigan témperas, pinceles y cartulina\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque los dos puntos anuncian la lista que viene después."
         },
         {
           "letter": "C",
@@ -243,16 +243,16 @@
       "context": "Juan pegó este aviso en Pereira: \"Se busca , un perro blanco , juguetón y , cariñoso\".",
       "options": [
         {
-          "letter": "B",
-          "text": "Hay comas innecesarias que cortan la oración y separan palabras que deben ir unidas.",
-          "is_correct": true,
-          "feedback": "Es correcta porque sobran las comas después de \"busca\", \"blanco\" con espacios y antes de \"cariñoso\"."
-        },
-        {
           "letter": "A",
           "text": "Faltan signos de interrogación porque todo aviso debe preguntar.",
           "is_correct": false,
           "feedback": "Es incorrecta porque este aviso informa y no necesita preguntar."
+        },
+        {
+          "letter": "B",
+          "text": "Hay comas innecesarias que cortan la oración y separan palabras que deben ir unidas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque sobran las comas después de \"busca\", \"blanco\" con espacios y antes de \"cariñoso\"."
         },
         {
           "letter": "C",
@@ -289,16 +289,10 @@
       "context": "Dos carteles de Bogotá anuncian la feria. Cartel 1: \"¿Vienes a la feria del libro?\" Cartel 2: \"Vienes a la feria del libro.\"",
       "options": [
         {
-          "letter": "C",
+          "letter": "A",
           "text": "El cartel 1 invita con una pregunta y el cartel 2 solo informa con una afirmación.",
           "is_correct": true,
           "feedback": "Es correcta porque distingue la intención comunicativa que marca cada signo final."
-        },
-        {
-          "letter": "A",
-          "text": "Los dos carteles preguntan lo mismo porque el punto también interroga.",
-          "is_correct": false,
-          "feedback": "Es incorrecta porque el punto cierra afirmaciones y no formula preguntas."
         },
         {
           "letter": "B",
@@ -307,13 +301,19 @@
           "feedback": "Es incorrecta porque invierte las funciones de los signos usados."
         },
         {
+          "letter": "C",
+          "text": "Los dos carteles preguntan lo mismo porque el punto también interroga.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el punto cierra afirmaciones y no formula preguntas."
+        },
+        {
           "letter": "D",
           "text": "No hay diferencia, los signos no cambian el mensaje.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la puntuación transforma el sentido y la entonación del mensaje."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El mismo grupo de palabras cambia de sentido según la puntuación. La interrogación invita a responder y crea cercanía, mientras el punto solo entrega un dato. Analizar estas diferencias enseña a elegir el signo según la intención del autor.",
       "difficulty": "8",
       "images": [],
@@ -335,12 +335,6 @@
       "context": "Valentina debe elegir el mejor texto para invitar a la feria del libro de Medellín.",
       "options": [
         {
-          "letter": "D",
-          "text": "¿Vienes a la feria? Trae cuentos, colores y alegría. ¡Te esperamos!",
-          "is_correct": true,
-          "feedback": "Es correcta porque combina pregunta, enumeración con comas y exclamación con apertura y cierre."
-        },
-        {
           "letter": "A",
           "text": "Vienes a la feria Trae cuentos colores y alegría Te esperamos",
           "is_correct": false,
@@ -357,6 +351,12 @@
           "text": "Vienes, a la feria? Trae cuentos colores y, alegría Te, esperamos!",
           "is_correct": false,
           "feedback": "Es incorrecta porque coloca comas y signos en lugares que rompen las oraciones."
+        },
+        {
+          "letter": "D",
+          "text": "¿Vienes a la feria? Trae cuentos, colores y alegría. ¡Te esperamos!",
+          "is_correct": true,
+          "feedback": "Es correcta porque combina pregunta, enumeración con comas y exclamación con apertura y cierre."
         }
       ],
       "correct_answer": "D",

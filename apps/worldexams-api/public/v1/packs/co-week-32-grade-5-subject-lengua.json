@@ -13,12 +13,6 @@
       "context": "En un mercado de Bogotá, la profesora escribe en el tablero la lista de frutas que vendió un tendero durante la mañana.",
       "options": [
         {
-          "letter": "D",
-          "text": "La coma.",
-          "is_correct": true,
-          "feedback": "Es correcta porque las comas separan manzanas, peras y mangos dentro de la lista."
-        },
-        {
           "letter": "A",
           "text": "El punto final.",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "El signo de interrogación.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la oración no es una pregunta."
+        },
+        {
+          "letter": "D",
+          "text": "La coma.",
+          "is_correct": true,
+          "feedback": "Es correcta porque las comas separan manzanas, peras y mangos dentro de la lista."
         }
       ],
       "correct_answer": "D",
@@ -59,12 +59,6 @@
       "context": "En Medellín, Camila escribe la lista de útiles que llevará al colegio y quiere que su mamá la entienda bien.",
       "options": [
         {
-          "letter": "D",
-          "text": "Que la coma separa los elementos de una enumeración.",
-          "is_correct": true,
-          "feedback": "Es correcta porque cada útil queda separado por una coma dentro de la lista."
-        },
-        {
           "letter": "A",
           "text": "Que la coma sirve para terminar la oración.",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "Que la coma cambia el significado de los útiles.",
           "is_correct": false,
           "feedback": "Es incorrecta porque los útiles siguen siendo los mismos."
+        },
+        {
+          "letter": "D",
+          "text": "Que la coma separa los elementos de una enumeración.",
+          "is_correct": true,
+          "feedback": "Es correcta porque cada útil queda separado por una coma dentro de la lista."
         }
       ],
       "correct_answer": "D",
@@ -105,12 +105,6 @@
       "context": "En Cali, un estudiante escribió la oración \"Compré pan leche huevos y queso\" y la maestra le pidió corregirla.",
       "options": [
         {
-          "letter": "C",
-          "text": "Compré pan, leche, huevos y queso.",
-          "is_correct": true,
-          "feedback": "Es correcta porque las comas separan los cuatro productos enumerados."
-        },
-        {
           "letter": "A",
           "text": "Compré pan leche, huevos y, queso.",
           "is_correct": false,
@@ -121,6 +115,12 @@
           "text": "Compré, pan leche huevos y queso.",
           "is_correct": false,
           "feedback": "Es incorrecta porque coloca la coma después del verbo y no entre los productos."
+        },
+        {
+          "letter": "C",
+          "text": "Compré pan, leche, huevos y queso.",
+          "is_correct": true,
+          "feedback": "Es correcta porque las comas separan los cuatro productos enumerados."
         },
         {
           "letter": "D",
@@ -197,12 +197,6 @@
       "context": "En Pereira, una familia anota la cuenta del mercado: \"pagué 12000 pesos por la papa, 8000 pesos por el arroz y 5000 pesos por el pan\".",
       "options": [
         {
-          "letter": "C",
-          "text": "Separar los productos y sus precios dentro de la enumeración.",
-          "is_correct": true,
-          "feedback": "Es correcta porque cada grupo de producto y precio queda separado por comas."
-        },
-        {
           "letter": "A",
           "text": "Indicar que la oración terminó.",
           "is_correct": false,
@@ -213,6 +207,12 @@
           "text": "Mostrar que la familia hace una pregunta.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la oración afirma un gasto, no pregunta nada."
+        },
+        {
+          "letter": "C",
+          "text": "Separar los productos y sus precios dentro de la enumeración.",
+          "is_correct": true,
+          "feedback": "Es correcta porque cada grupo de producto y precio queda separado por comas."
         },
         {
           "letter": "D",
@@ -243,12 +243,6 @@
       "context": "En Bucaramanga, dos estudiantes comparan dos formas de escribir la misma lista de útiles para la clase de arte.",
       "options": [
         {
-          "letter": "C",
-          "text": "Que la oración de Juan separa los elementos con comas y la de Sara no.",
-          "is_correct": true,
-          "feedback": "Es correcta porque Juan usa comas en la enumeración y Sara las omite."
-        },
-        {
           "letter": "A",
           "text": "Que la oración de Sara usa más comas que la de Juan.",
           "is_correct": false,
@@ -259,6 +253,12 @@
           "text": "Que las dos oraciones hablan de objetos diferentes.",
           "is_correct": false,
           "feedback": "Es incorrecta porque ambas mencionan los mismos útiles."
+        },
+        {
+          "letter": "C",
+          "text": "Que la oración de Juan separa los elementos con comas y la de Sara no.",
+          "is_correct": true,
+          "feedback": "Es correcta porque Juan usa comas en la enumeración y Sara las omite."
         },
         {
           "letter": "D",
@@ -289,12 +289,6 @@
       "context": "En Cartagena, un aviso del colegio dice: \"Trae tu cuaderno, tu lápiz, tu borrador y tu cartuchera para la actividad del viernes\".",
       "options": [
         {
-          "letter": "D",
-          "text": "Para enumerar los elementos que el estudiante debe llevar.",
-          "is_correct": true,
-          "feedback": "Es correcta porque las comas separan cada objeto de la lista."
-        },
-        {
           "letter": "A",
           "text": "Para señalar que el aviso es una pregunta.",
           "is_correct": false,
@@ -311,6 +305,12 @@
           "text": "Para separar únicamente la primera palabra del aviso.",
           "is_correct": false,
           "feedback": "Es incorrecta porque las comas separan varios elementos y no solo el primero."
+        },
+        {
+          "letter": "D",
+          "text": "Para enumerar los elementos que el estudiante debe llevar.",
+          "is_correct": true,
+          "feedback": "Es correcta porque las comas separan cada objeto de la lista."
         }
       ],
       "correct_answer": "D",
@@ -335,12 +335,6 @@
       "context": "En Bogotá, el curso va a publicar una lista de normas de convivencia y la profesora revisa la escritura antes de imprimirla.",
       "options": [
         {
-          "letter": "C",
-          "text": "En el salón cuidamos los libros, las sillas, las paredes y el tablero.",
-          "is_correct": true,
-          "feedback": "Es correcta porque las comas separan los cuatro elementos de la enumeración."
-        },
-        {
           "letter": "A",
           "text": "En el salón, cuidamos los libros las sillas las paredes y el tablero.",
           "is_correct": false,
@@ -348,6 +342,12 @@
         },
         {
           "letter": "B",
+          "text": "En el salón cuidamos los libros, las sillas, las paredes y el tablero.",
+          "is_correct": true,
+          "feedback": "Es correcta porque las comas separan los cuatro elementos de la enumeración."
+        },
+        {
+          "letter": "C",
           "text": "En el salón cuidamos los libros las sillas, las paredes, y el tablero.",
           "is_correct": false,
           "feedback": "Es incorrecta porque omite comas y deja una coma antes de la \"y\" al final."
@@ -359,7 +359,7 @@
           "feedback": "Es incorrecta porque pone coma después del verbo y deja parte de la lista sin separar."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Evaluar una oración completa exige revisar toda la puntuación y no solo una parte. La forma correcta separa con comas los cuatro elementos y usa la \"y\" antes del último. Publicar textos bien escritos en el periódico mural demuestra respeto por los lectores y cuidado con el lenguaje.",
       "difficulty": "10",
       "images": [],

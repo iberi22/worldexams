@@ -428,9 +428,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "What is your name?",
-          "is_correct": true,
-          "feedback": "Correct! 'What is your name?' uses the polite question word and the full verb form, which is what makes it a polite request."
+          "text": "Give me your name.",
+          "is_correct": false,
+          "feedback": "'Give me your name' is a command, and a command is not a polite way to ask."
         },
         {
           "letter": "B",
@@ -440,9 +440,9 @@
         },
         {
           "letter": "C",
-          "text": "Give me your name.",
-          "is_correct": false,
-          "feedback": "'Give me your name' is a command, and a command is not a polite way to ask."
+          "text": "What is your name?",
+          "is_correct": true,
+          "feedback": "Correct! 'What is your name?' uses the polite question word and the full verb form, which is what makes it a polite request."
         },
         {
           "letter": "D",
@@ -451,7 +451,7 @@
           "feedback": "'Name?' is a single word with no verb, which makes it very informal and can sound rude."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "This question evaluates the student's ability to evaluate the topic of Advanced Greetings and Introductions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
       "difficulty": "10",
       "images": [],

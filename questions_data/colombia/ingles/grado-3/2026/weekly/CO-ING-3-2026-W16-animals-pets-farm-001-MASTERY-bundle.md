@@ -18,190 +18,195 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-# MASTERY Bundle - Ingles: Animals Pets Farm (W16)
-**8 preguntas | Ingles | DBA MEN Colombia**
 
----
+# Bundle MASTERY: Mascotas y animales de la finca - Grado 3
+
+Este bundle evalúa el vocabulario de mascotas y animales de la finca en inglés, sus sonidos y los productos que nos dan, como la leche, los huevos y la lana.
+
 ## Question 1 [D3-D4]
 **ID:** CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Expected_Success:** 0.85
+**Contexto:** En una finca de Fusagasugá, Mariana escucha a un animal rosado que come en el barro.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which animal says "oink, oink"?
 
 ### Opciones
-- [x] A) accommodation
-  <!-- feedback: Correct! 'accommodation' is the word for a place where you live or stay on holiday. -->
-- [ ] B) transportation
-  <!-- feedback: 'transportation' is the system of moving people or goods between places, not the place you sleep in itself. -->
-- [ ] C) entertainment
-  <!-- feedback: 'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in. -->
+- [ ] A) dog
+  <!-- feedback: Incorrect. A dog says "woof, woof", not "oink". -->
+- [ ] B) fish
+  <!-- feedback: Incorrect. A fish lives in water and makes no "oink" sound. -->
+- [ ] C) hen
+  <!-- feedback: Incorrect. A hen says "cluck, cluck", a different sound from "oink". -->
+- [x] D) pig
+  <!-- feedback: Correct. The pig is the pink farm animal that says "oink, oink". -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
+En inglés los animales hacen sonidos distintos a los del español. El cerdo o marrano se dice "pig" y su sonido es "oink, oink". El perro dice "woof" y la gallina dice "cluck".
+
 ## Question 2 [D3-D4]
 **ID:** CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Lexico
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** En un apartamento de Cali, Sebastián tiene una pecera con una mascota de color naranja.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Which pet lives in water?
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' names only the place you are going to, without the route or the order of the whole journey. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official document that lets you cross a border, not the plan of where you go. -->
+- [ ] A) cat
+  <!-- feedback: Incorrect. A cat lives on land and does not like to get wet. -->
+- [x] B) fish
+  <!-- feedback: Correct. A fish lives in water and swims in a fish tank or a river. -->
+- [ ] C) horse
+  <!-- feedback: Incorrect. A horse is a big farm animal that walks and runs on land, not in water. -->
+- [ ] D) pig
+  <!-- feedback: Incorrect. A pig lives on a farm, on land, and does not live in water. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
+"Fish" significa pez. Los peces viven en el agua y pueden ser mascotas en una pecera. El gato ("cat"), el caballo ("horse") y el cerdo ("pig") viven en la tierra.
+
 ## Question 3 [D5-D6]
 **ID:** CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.75
+**Contexto:** En la finca de su abuela en Santander, Juan recoge los huevos del gallinero para el desayuno.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Complete: "The ______ gives us eggs."
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! 'destination' is the place someone is going to or something is being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the act of reaching a place, not the place that is reached. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from the start to the end, not the place the trip finishes at. -->
+- [ ] A) cow
+  <!-- feedback: Incorrect. A cow gives us milk, not eggs. -->
+- [ ] B) horse
+  <!-- feedback: Incorrect. A horse helps on the farm and people ride it, but it does not lay eggs. -->
+- [x] C) hen
+  <!-- feedback: Correct. A hen is a female chicken, and hens lay the eggs we eat. -->
+- [ ] D) dog
+  <!-- feedback: Incorrect. A dog is a pet that plays and guards the house, and it does not lay eggs. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
+"Hen" significa gallina. Las gallinas ponen los huevos ("eggs") que comemos en el desayuno, por ejemplo en los huevos pericos. También se puede decir "chicken" para el ave en general.
+
 ## Question 4 [D5-D6]
 **ID:** CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Expected_Success:** 0.70
+**Contexto:** En Nariño, la abuela de Camila teje una ruana con la lana de los animales de su finca.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Complete: "A ______ has wool. We make ruanas and sweaters with it."
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel. -->
-- [ ] B) ticket
-  <!-- feedback: 'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in. -->
-- [ ] C) flight
-  <!-- feedback: 'flight' is the journey by plane itself, not the containers that hold your things. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you make for a seat or a room, not the bag you carry. -->
+- [x] A) sheep
+  <!-- feedback: Correct. A sheep has soft white wool, and people use it to make ruanas and sweaters. -->
+- [ ] B) fish
+  <!-- feedback: Incorrect. A fish has scales and lives in water, so it has no wool. -->
+- [ ] C) hen
+  <!-- feedback: Incorrect. A hen has feathers and gives eggs, not wool. -->
+- [ ] D) cat
+  <!-- feedback: Incorrect. A cat has fur, but we do not make sweaters from a pet cat. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
+"Sheep" significa oveja. La oveja tiene lana ("wool") y con ella se tejen ruanas y sacos, como en Boyacá y Nariño. Ojo: "sheep" es igual en singular y plural: "one sheep, two sheep".
+
 ## Question 5 [D7-D8]
 **ID:** CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.65
+**Contexto:** Ana visita la finca de su abuelo en el Eje Cafetero y él le propone dar un paseo por las montañas.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Grandpa: "Let's ride on the farm!"
+Ana: "Ride what?"
+Grandpa: "The ______. It is big and it runs fast."
 
 ### Opciones
-- [x] C) passenger
-  <!-- feedback: Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all. -->
-- [ ] B) commuter
-  <!-- feedback: 'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle. -->
-- [ ] D) tourist
-  <!-- feedback: 'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle. -->
+- [ ] A) fish
+  <!-- feedback: Incorrect. A fish is small and lives in water, so nobody can ride it. -->
+- [ ] B) hen
+  <!-- feedback: Incorrect. A hen is a small bird that gives eggs, too small for a person to ride. -->
+- [x] C) horse
+  <!-- feedback: Correct. A horse is big and fast, and people ride horses on farms. -->
+- [ ] D) cat
+  <!-- feedback: Incorrect. A cat is a small pet, so a person cannot ride it. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
+Las pistas son "ride" (montar), "big" (grande) y "runs fast" (corre rápido). El único animal grande y rápido que se puede montar es el caballo, que en inglés se dice "horse".
+
 ## Question 6 [D7-D8]
 **ID:** CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.60
+**Contexto:** Un niño de Duitama describe los animales de la finca de su abuelo en Boyacá.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Read: "On my grandpa's finca there are three cows, two pigs and five sheep. The cows give us milk."
+How many pigs are there?
 
 ### Opciones
-- [x] B) customs
-  <!-- feedback: Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive. -->
-- [ ] A) security
-  <!-- feedback: 'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in. -->
-- [ ] C) terminal
-  <!-- feedback: 'terminal' is the building where you wait for your plane, not the place where your belongings are inspected. -->
-- [ ] D) gate
-  <!-- feedback: 'gate' is the door at the plane you walk through to board, not the place where officials check your things. -->
+- [ ] A) three
+  <!-- feedback: Incorrect. The text says "three cows"; three is the number of cows, not pigs. -->
+- [ ] B) five
+  <!-- feedback: Incorrect. The number five goes with "sheep" in the text, not with pigs. -->
+- [ ] C) one
+  <!-- feedback: Incorrect. The word "one" does not appear next to any animal in the text. -->
+- [x] D) two
+  <!-- feedback: Correct. The text says "two pigs", so there are 2 pigs on the finca. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
+En el texto cada número va justo antes del animal: "three cows" (tres vacas), "two pigs" (dos cerdos) y "five sheep" (cinco ovejas). Para encontrar la respuesta hay que buscar el número que acompaña a "pigs", y es "two".
+
 ## Question 7 [D9-D10]
 **ID:** CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.50
+**Contexto:** En Neiva, Lucía escribe una adivinanza sobre su mascota para que sus compañeros la descubran.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Read: "I have a pet. It is small. It has four legs and a long tail. It says 'meow' and it likes milk."
+What is the pet?
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: 'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline. -->
-- [ ] C) receipt
-  <!-- feedback: 'receipt' is the proof that you paid for something, which is not permission to board a plane. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a leaflet with tourist information, not a travel document issued to a passenger. -->
+- [x] A) a cat
+  <!-- feedback: Correct. A cat is small, has four legs and a long tail, and says "meow". -->
+- [ ] B) a dog
+  <!-- feedback: Incorrect. A dog also has four legs and a tail, but it says "woof", not "meow". -->
+- [ ] C) a bird
+  <!-- feedback: Incorrect. A bird has two legs and wings, so it does not match "four legs". -->
+- [ ] D) a pig
+  <!-- feedback: Incorrect. A pig says "oink", and its tail is short and curly, not long. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
+Hay que usar todas las pistas. El perro también tiene cuatro patas y cola, pero la pista decisiva es el sonido: "meow" (miau) es el sonido del gato. Por eso la mascota es "a cat".
+
 ## Question 8 [D9-D10]
 **ID:** CO-ING-3-2026-W16-animals-pets-farm-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.45
+**Contexto:** En una clase de inglés en Sincelejo, los niños revisan oraciones sobre lo que nos dan los animales de la finca.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which sentence is true?
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'sightseeing' means visiting the places of interest of a location as a traveler. -->
-- [ ] B) shopping
-  <!-- feedback: 'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place. -->
+- [ ] A) Sheep give us eggs.
+  <!-- feedback: Incorrect. Sheep give us wool; eggs come from hens. -->
+- [x] B) Cows give us milk.
+  <!-- feedback: Correct. Cows give milk, which we drink and use to make cheese. -->
+- [ ] C) Horses give us eggs.
+  <!-- feedback: Incorrect. Horses do not lay eggs; we ride them and they carry things. -->
+- [ ] D) Fish give us wool.
+  <!-- feedback: Incorrect. Fish have scales, not wool; wool comes from sheep. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Cada animal de la finca nos da algo distinto: la vaca ("cow") da leche ("milk"), la gallina ("hen") da huevos ("eggs") y la oveja ("sheep") da lana ("wool"). Solo la oración "Cows give us milk" es verdadera.

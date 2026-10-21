@@ -238,17 +238,17 @@ Evaluar una propuesta que limita la participación exige preguntarse si respeta 
 **Contexto:** Un colegio de Florencia pide a los alumnos una de estas tres actividades: votar el presupuesto del barrio, limpiar el parque o cuidar el acuario escolar.
 
 ### Enunciado
-Un colegio pide a cada alumno una de tres actividades y solo una es obligatoria. ¿Qué consecuecia tiene esa regla para la ciudadanía de los estudiantes?
+Un colegio pide a cada alumno una de tres actividades y solo una es obligatoria. ¿Qué consecuencia tiene esa regla para la ciudadanía de los estudiantes?
 
 ### Opciones
-- [ ] A) Es neutra, porque las tres actividades valen lo mismo entre sí.
-  <!-- feedback: Que las actividades valgan lo mismo no dice nada sobre si se está ofreciendo o no un espacio real de decisión al estudiante. -->
-- [x] B) Reduce la participación, porque deja poco margen para elegir la propia.
+- [x] A) Reduce la participación, porque deja poco margen para elegir la propia.
   <!-- feedback: Es correcta porque si una sola opción es obligatoria, el estudiante no elige libremente a cuál acercarse y su margen de decisión es mínimo. -->
+- [ ] B) Es neutra, porque las tres actividades valen lo mismo entre sí.
+  <!-- feedback: Que las actividades valgan lo mismo no dice nada sobre si se está ofreciendo o no un espacio real de decisión al estudiante. -->
 - [ ] C) Aumenta la participación, porque obliga a todos a hacer algo por el barrio.
   <!-- feedback: Obligar no equivale a abrir participación; si la opción se impone, el estudiante cumple pero no ha elegido cómo participar. -->
 - [ ] D) Es negativa, porque ninguna de las actividades sirve como deber cívico.
   <!-- feedback: Las tres acciones sí son formas de deber cívico; el problema de la regla no está en las actividades sino en que solo una sea impuesta. -->
 
 ### Explicacion Pedagogica
-Evaluar una regla de participación exige mirar cuánto margen de decisión deja. Si una sola opción es obligatoria y las demás quedan por fuera, el estudiante cumple con lo que le imponen, pero no ha elegido cómo participar. La participación de verdad incluye poder escoger y también asumir consecuencias de esa elección. La respuesta correcta es la B.
+Evaluar una regla de participación exige mirar cuánto margen de decisión deja. Si una sola opción es obligatoria y las demás quedan por fuera, el estudiante cumple con lo que le imponen, pero no ha elegido cómo participar. La participación de verdad incluye poder escoger y también asumir consecuencias de esa elección. Por eso la regla reduce la participación: deja al estudiante poco margen para elegir la suya.

@@ -353,9 +353,9 @@ La sección A tiene $20$ alumnos con promedio de $80$. La sección B tiene $30$ 
 
 ### Opciones
 - [ ] A) $85$ <!-- feedback: Este es el promedio de los promedios, pero no toma en cuenta que la sección B tiene más alumnos. -->
-- [x] B) $86$ <!-- feedback: Correcto. $(20 \times 80 + 30 \times 90) / 50 = (1600 + 2700) / 50 = 4300 / 50 = 86$. -->
+- [ ] B) $88$ <!-- feedback: El promedio ponderado es $86$; el $88$ sobrepesa el promedio de la sección B. -->
 - [ ] C) $84$ <!-- feedback: Al ponderar, $20\times80+30\times90=4300$ y al dividir entre $50$ se obtiene $86$; el $84$ corresponde a otro reparto de pesos. -->
-- [ ] D) $88$ <!-- feedback: El promedio ponderado es $86$; el $88$ sobrepesa el promedio de la sección B. -->
+- [x] D) $86$ <!-- feedback: Correcto. $(20 \times 80 + 30 \times 90) / 50 = (1600 + 2700) / 50 = 4300 / 50 = 86$. -->
 
 ### Explicacion Pedagogica
 Para promediar grupos de diferentes tamaños, se debe utilizar la media ponderada, donde el peso de cada promedio es el número de elementos en su respectivo grupo.

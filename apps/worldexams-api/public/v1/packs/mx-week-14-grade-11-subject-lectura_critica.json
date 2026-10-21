@@ -1640,9 +1640,9 @@
         },
         {
           "letter": "B",
-          "text": "Postergó.",
-          "is_correct": true,
-          "feedback": "Correcto: \"postergó\" mantiene la idea de dejar para después o en un lugar secundario, igual que \"relegó\"."
+          "text": "Criticó.",
+          "is_correct": false,
+          "feedback": "Incorrecto: \"criticó\" expresa una valoración negativa, no el acto de desplazar a segundo plano."
         },
         {
           "letter": "C",
@@ -1652,12 +1652,12 @@
         },
         {
           "letter": "D",
-          "text": "Criticó.",
-          "is_correct": false,
-          "feedback": "Incorrecto: \"criticó\" expresa una valoración negativa, no el acto de desplazar a segundo plano."
+          "text": "Postergó.",
+          "is_correct": true,
+          "feedback": "Correcto: \"postergó\" mantiene la idea de dejar para después o en un lugar secundario, igual que \"relegó\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Evaluar sustituciones léxicas exige comparar matices. \"Relegar\" significa dejar algo en un lugar o condición secundaria, postergarlo; \"postergar\" conserva ese núcleo. \"Eliminar\" es más radical, \"financiar\" cambia el tema y \"criticar\" expresa otra acción. La sinonimia válida debe respetar el matiz y el contexto de la oración.",
       "difficulty": "10",
       "images": [],

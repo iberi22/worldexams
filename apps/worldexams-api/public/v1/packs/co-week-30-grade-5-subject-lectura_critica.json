@@ -250,9 +250,9 @@
         },
         {
           "letter": "B",
-          "text": "Muestra que los manglares y los páramos son ecosistemas opuestos en clima y ubicación.",
-          "is_correct": true,
-          "feedback": "El conector opone las condiciones cálidas y saladas del manglar con las condiciones frías del páramo."
+          "text": "Resume la información principal del texto en pocas palabras.",
+          "is_correct": false,
+          "feedback": "Resumir corresponde a otros conectores, no a \"por el contrario\"."
         },
         {
           "letter": "C",
@@ -262,12 +262,12 @@
         },
         {
           "letter": "D",
-          "text": "Resume la información principal del texto en pocas palabras.",
-          "is_correct": false,
-          "feedback": "Resumir corresponde a otros conectores, no a \"por el contrario\"."
+          "text": "Muestra que los manglares y los páramos son ecosistemas opuestos en clima y ubicación.",
+          "is_correct": true,
+          "feedback": "El conector opone las condiciones cálidas y saladas del manglar con las condiciones frías del páramo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Analizar el papel de los conectores de contraste en un texto expositivo para identificar diferencias entre dos ecosistemas.",
       "difficulty": "8",
       "images": [],

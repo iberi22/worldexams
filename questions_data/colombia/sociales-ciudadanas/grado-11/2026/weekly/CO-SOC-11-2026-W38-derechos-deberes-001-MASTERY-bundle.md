@@ -40,8 +40,6 @@ El artículo 11 de la Constitución Política de Colombia consagra el derecho fu
   <!-- feedback: La libertad de locomoción es el artículo 24, con restricciones legales y de bioseguridad posibles. -->
 - [ ] C) El trabajo en condiciones dignas y justas
   <!-- feedback: El trabajo es derecho y deber en el artículo 25 y 26; no es el artículo 11. -->
-
-
 - [ ] D) La propiedad privada absoluta
   <!-- feedback: El artículo 58 reconoce la propiedad con función social y ecológica: no es absoluta. -->
 
@@ -65,8 +63,6 @@ Los derechos de primera generación (civiles y políticos), segunda (económicos
   <!-- feedback: Los derechos no dependen de la renta: son inherentes a la persona. -->
 - [ ] C) La cantidad de jueces disponibles en cada época histórica
   <!-- feedback: La disponibilidad judicial condiciona la efectividad, no la clasificación de los derechos. -->
-
-
 - [ ] D) Su ubicación en el Código Civil
   <!-- feedback: Los derechos fundamentales son constitucionales y prevalecen sobre cualquier código. -->
 
@@ -90,8 +86,6 @@ La correlación entre derechos y deberes en la Constitución se explica correcta
   <!-- feedback: Correcto. La estructura dialéctica derecho-deber es constitutiva de la vida social. -->
 - [ ] C) Los deberes solo aplican a menores de edad
   <!-- feedback: El artículo 95 se dirige a nacionales y residentes en general. -->
-
-
 - [ ] D) Los derechos son opcionales y los deberes obligatorios
   <!-- feedback: Ambos son obligatorios en su estructura: el derecho se reclama y el deber se cumple. -->
 
@@ -115,8 +109,6 @@ El deber jurídico de respetar el derecho ajeno y el interés general, frente al
   <!-- feedback: La contribución al financiamiento (numeral 9) se rige por principios de equidad y eficiencia, no por cuotas fijas universales. -->
 - [ ] C) Delegar toda decisión colectiva en las autoridades electas
   <!-- feedback: La participación es un derecho-deber (numeral 2), no una delegación total. -->
-
-
 - [ ] D) Abstenerse de usar redes sociales durante la jornada escolar
   <!-- feedback: Ese es un manual de convivencia escolar, no un deber constitucional. -->
 
@@ -140,8 +132,6 @@ El principio de solidaridad, que fundamenta los subsidios en servicios públicos
   <!-- feedback: Los subsidios son derechos prestacionales del usuario de menores ingresos y obligación legal del regulador. -->
 - [ ] C) Una obligación de los estratos altos de pagar el 100 % de todos los servicios
   <!-- feedback: La contribución se modula por reglas tarifarias y capacidad, no por transferencias totales. -->
-
-
 - [ ] D) Un programa asistencial temporal sin deberes correlativos
   <!-- feedback: El régimen de servicios públicos es permanente y genera deberes de pago y uso racional. -->
 
@@ -165,8 +155,6 @@ Frente a la situación, el marco constitucional aplicable incluye el derecho a l
   <!-- feedback: La informalidad es estructural y no puede combatirse prohibiendo el trabajo: se aborda con protección y formalización. -->
 - [ ] C) La eliminación de las EPS para los pobres
   <!-- feedback: La reestructuración del sistema es política institucional; no es una consecuencia constitucional del caso. -->
-
-
 - [ ] D) El seguro privado obligatorio con recursos del trabajador
   <!-- feedback: La seguridad social es un servicio público de carácter obligatorio bajo dirección, coordinación y control del Estado (artículo 48). -->
 
@@ -190,8 +178,6 @@ La conducta vulnera directamente el deber constitucional de
   <!-- feedback: Correcto. Es un deber expreso y correlato del derecho colectivo (artículo 79). -->
 - [ ] C) Asistir a jornadas de limpieza obligatorias cada semana
   <!-- feedback: No existe ese mandato semanal; el deber es de conducta respetuosa del ambiente. -->
-
-
 - [ ] D) Denunciar todo delito ambiental ajeno en un plazo de 24 horas
   <!-- feedback: Denunciar es facultad y en ciertos casos deber moral, pero no existe plazo penal general para vecinos. -->
 
@@ -215,8 +201,6 @@ El deber de "honrar, proteger y defender a Colombia" frente a agresiones externa
   <!-- feedback: Correcto. El artículo 216 ordena la inscripción en el registro militar de ciudadanos y las leyes reglamentan el servicio. -->
 - [ ] C) La obligación de portar armas en todo momento
   <!-- feedback: El porte de armas es regulación de policía excepcional, no un deber general. -->
-
-
 - [ ] D) El servicio militar voluntario universal con salario presidencial
   <!-- feedback: No existe tal figura: la combinación de datos es inventada. -->
 
@@ -240,8 +224,6 @@ El deber de contribuir al financiamiento de los gastos e inversiones del Estado 
   <!-- feedback: Son los vicios que la Constitución prohíbe en materia fiscal. -->
 - [ ] C) Igualdad absoluta para todos los contribuyentes, sin importar ingreso
   <!-- feedback: La equidad es vertical: quien más tiene, más aporta; la igualdad formal sin progresividad sería regresiva. -->
-
-
 - [ ] D) Voluntariedad general de la tributación
   <!-- feedback: El tributo es obligación legal exigienda coactivamente (artículo 95.9); la voluntariedad solo aparece en beneficios por pronto pago. -->
 
@@ -265,8 +247,6 @@ El derecho de petición y el derecho a la participación en la toma de decisione
   <!-- feedback: Correcto. La petición abre el trámite; los espacios de participación lo cualifican. -->
 - [ ] C) El desconocimiento de la competencia municipal en Arborización
   <!-- feedback: La gestión del arbolado urbano es función de los municipios en su ordenamiento territorial. -->
-
-
 - [ ] D) La tutela obligatoria como primera vía en todo caso colectivo
   <!-- feedback: La tutela es subsidiaria y no reemplaza el trámite administrativo y popular ordinario. -->
 
@@ -290,8 +270,6 @@ El conflicto entre el libre desarrollo de la personalidad (artículo 16) y el ma
   <!-- feedback: Correcto. La Corte distingue entre normas pedagógicamente justificadas y regulaciones estéticas desproporcionadas. -->
 - [ ] C) Se limite a amonestaciones verbales indefinidas
   <!-- feedback: Las amonestaciones indefinidas y sin debido proceso violan garantías. -->
-
-
 - [ ] D) Se delegue a la Policía de Infancia y Adolescencia
   <!-- feedback: La autoridad policial no sustituye la función pedagógica y disciplinaria de la institución educativa. -->
 
@@ -315,8 +293,6 @@ El requisito de participación en la construcción del manual de convivencia (Le
   <!-- feedback: La recta intención y la obediencia a la ley no equivalen a sumisión acrítica. -->
 - [ ] C) Respetar la ley y el símbolo patrio exclusivamente
   <!-- feedback: Son deberes distintos y no resumen el requisito participativo del manual. -->
-
-
 - [ ] D) Pagar las cuotas de asociación de padres de familia
   <!-- feedback: La afiliación a la APF es voluntaria y no constituye requisito de convivencia. -->
 
@@ -340,8 +316,6 @@ La combinación de derechos en este caso —intimidad, honra, debido proceso y a
   <!-- feedback: Correcto. Existe un sistema de rutas institucionales para el ciberacoso escolar. -->
 - [ ] C) Solo tiene derecho a borrar los mensajes, sin otras garantías
   <!-- feedback: La supresión es apenas una medida técnica: la protección jurídica va más allá. -->
-
-
 - [ ] D) Debe primero probar la intención del agresor con testigos presenciales
   <!-- feedback: La prueba puede ser digital y la investigación corresponde a las autoridades; no es carga previa de la víctima. -->
 
@@ -365,8 +339,6 @@ El análisis correcto de los derechos colectivos de los pueblos indígenas frent
   <!-- feedback: Correcto. El ejercicio individual de muchos derechos depende de garantías grupales como idioma, territorio y gobierno propio. -->
 - [ ] C) Prevalecen los individuales sin considerar la cultura del grupo
   <!-- feedback: El artículo 7 obliga a proteger la diversidad; la prevalencia automática sería homogeneizadora. -->
-
-
 - [ ] D) Los colectivos solo aplican en zonas de reserva
   <!-- feedback: Los derechos colectivos étnicos existen con independencia de la ubicación individual del miembro. -->
 
@@ -390,8 +362,6 @@ El artículo 44 establece que los derechos de los niños prevalecen sobre los de
   <!-- feedback: Correcto. Es un principio de solución de conflictos, no un privilegio abstracto. -->
 - [ ] C) Una regla aplicable solo en procesos penales juveniles
   <!-- feedback: Su ámbito cubre familia, salud, educación y protección, mucho más allá del proceso penal. -->
-
-
 - [ ] D) Una recomendación ética sin efectos jurídicos
   <!-- feedback: Es norma constitucional vinculante desarrollada en la Ley 1098 de 2006. -->
 
@@ -415,8 +385,6 @@ El choque entre el derecho al desarrollo, los derechos colectivos de la comunida
   <!-- feedback: Correcto. La Constitución dispone procedimientos para armonizar desarrollo y derechos colectivos. -->
 - [ ] C) La votación simple del concejo municipal sin intervención comunitaria
   <!-- feedback: El concejo decide sobre lo local; los proyectos y comunidades trascienden su competencia. -->
-
-
 - [ ] D) La licitación con el mayor oferente como criterio único
   <!-- feedback: El precio no puede ser criterio único cuando están en juego derechos fundamentales y colectivos. -->
 
@@ -436,14 +404,12 @@ La evaluación más rigurosa de la afirmación es que
 ### Opciones
 - [ ] A) Es exacta: el catálogo de derechos es la causa del atraso nacional
   <!-- feedback: La causa estructural del incumplimiento está en la capacidad institucional y la desigualdad, no en el número de derechos. -->
-- [x] B) Es falsa: Colombia tiene pocos derechos efectivos y una aplicación desigual de los deberes: la agenda real es cerrar brechas de derechos y democratizar el cumplimiento de deberes, incluidos los del Estado
-  <!-- feedback: Correcto. El eslogan invierte el problema: los deberes del poder se incumplen más que los de la ciudadanía. -->
+- [ ] B) Es verdadera porque el artículo 95 limita el capítulo segundo
+  <!-- feedback: Los deberes no limitan derechos: los condicionan socialmente, pero la restricción de derechos exige ley y proporcionalidad. -->
 - [ ] C) Es irrelevante: los deberes no son exigibles a nadie
   <!-- feedback: Los deberes tienen sanciones jurídicas y sociales: tributarias, administrativas, penales y reputacionales. -->
-
-
-- [ ] D) Es verdadera porque el artículo 95 limita el capítulo segundo
-  <!-- feedback: Los deberes no limitan derechos: los condicionan socialmente, pero la restricción de derechos exige ley y proporcionalidad. -->
+- [x] D) Es falsa: Colombia tiene pocos derechos efectivos y una aplicación desigual de los deberes: la agenda real es cerrar brechas de derechos y democratizar el cumplimiento de deberes, incluidos los del Estado
+  <!-- feedback: Correcto. El eslogan invierte el problema: los deberes del poder se incumplen más que los de la ciudadanía. -->
 
 ### Explicacion Pedagogica
 El discurso de "exceso de derechos" funciona políticamente, pero analíticamente confunde norma y realidad: el problema colombiano es el déficit de efectividad, no de consagración. Evaluar la frase exige medir: ¿cuántos derechos fundamentales tienen litigio diario, cuántos deberes fiscales se cumplen, cuántos deberes estatales de garantía fallan? La conclusión honesta es la corresponsabilidad: derechos y deberes se sostienen recíprocamente, incluidos los del poder.
@@ -465,8 +431,6 @@ La medida, evaluada desde el esquema de límites a derechos, es admisible consti
   <!-- feedback: Las mayorías no pueden restringir derechos sin fundamento constitucional y motivación. -->
 - [ ] C) Se dirija solo a los comerciantes más pequeños del municipio
   <!-- feedback: La restricción discriminatoria viola la igualdad y el fin de protección colectiva. -->
-
-
 - [ ] D) Se adopte sin publicidad para evitar polémicas
   <!-- feedback: La publicidad del acto administrativo es principio de validez y de la función pública (artículo 209). -->
 
@@ -490,8 +454,6 @@ La tesis correcta sobre la relación lógica de derechos y deberes en un Estado 
   <!-- feedback: La titularidad es inherente a la persona (artículo 1 y 5), no un salario por conducta. -->
 - [ ] C) Son esferas separadas sin relación entre sí
   <!-- feedback: La Constitución los vincula programáticamente en la misma comunidad política. -->
-
-
 - [ ] D) Depende exclusivamente de la voluntad de la Corte Constitucional
   <!-- feedback: La Corte interpreta la relación; no la crea discrecionalmente. -->
 
@@ -515,8 +477,6 @@ Un índice de ciudadanía que mida derechos y deberes debería incluir, según e
   <!-- feedback: La recaudación mide cumplimiento tributario parcial, no ciudadanía integral. -->
 - [x] C) Acceso efectivo a derechos fundamentales y sociales, participación y control ciudadano, cumplimiento de deberes fiscales y ambientales, y calidad de la respuesta institucional
   <!-- feedback: Correcto. Una medición seria integra titularidad, ejercicio, deberes y respuesta estatal. -->
-
-
 - [ ] D) Exclusivamente la tasa de criminalidad local
   <!-- feedback: La seguridad es una dimensión, pero un índice de ciudadanía no se agota en el delito. -->
 

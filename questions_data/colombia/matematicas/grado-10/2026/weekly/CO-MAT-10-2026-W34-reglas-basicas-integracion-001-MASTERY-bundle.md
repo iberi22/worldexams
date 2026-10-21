@@ -40,6 +40,7 @@ Este bundle contiene 12 preguntas sobre **reglas-basicas-integracion** para grad
   <!-- feedback: Incorrecto. Falta dividir entre $n+1$. -->
 - [ ] D) $(n+1)x^n + C$
   <!-- feedback: Incorrecto. La estructura de la respuesta no corresponde a la regla. -->
+
 ### Explicacion Pedagogica
 Para $n \neq -1$, la regla de la potencia para integrales establece $\int x^n \, dx = \frac{x^{n+1}}{n+1} + C$, lo que es la operación inversa de derivar $x^{n+1}$.
 
@@ -60,6 +61,7 @@ Para $n \neq -1$, la regla de la potencia para integrales establece $\int x^n \,
   <!-- feedback: Incorrecto. Sí se puede factorizar la constante. -->
 - [ ] D) $\int k \, dx + \int f(x) \, dx$
   <!-- feedback: Incorrecto. La constante $k$ no se trata como una integral separada. -->
+
 ### Explicacion Pedagogica
 La regla del múltiplo constante indica que una constante multiplicando una función puede salir del signo integral: $\int k \cdot f(x) \, dx = k \int f(x) \, dx + C$.
 
@@ -80,6 +82,7 @@ La regla del múltiplo constante indica que una constante multiplicando una func
   <!-- feedback: Incorrecto. Eso sería el producto de funciones, no su integral. -->
 - [ ] D) $\int f(x) \, dx - \int g(x) \, dx$
   <!-- feedback: Incorrecto. La suma no se transforma en resta. -->
+
 ### Explicacion Pedagogica
 La integral es lineal: la integral de una suma (o diferencia) es la suma (o diferencia) de las integrales de cada sumando, con una sola constante $+C$ al final.
 
@@ -100,6 +103,7 @@ La integral es lineal: la integral de una suma (o diferencia) es la suma (o dife
   <!-- feedback: Incorrecto. Dividiste $6$ entre $3$ como si dieran $2$, pero omitiste dividir. -->
 - [ ] D) $2x^2 + C$
   <!-- feedback: Incorrecto. No subiste el exponente a $3$. -->
+
 ### Explicacion Pedagogica
 Aplicando la regla de la potencia: $\int 6x^2 \, dx = 6 \cdot \frac{x^{3}}{3} + C = 2x^3 + C$.
 
@@ -120,6 +124,7 @@ Aplicando la regla de la potencia: $\int 6x^2 \, dx = 6 \cdot \frac{x^{3}}{3} + 
   <!-- feedback: Incorrecto. Bajaste el exponente en vez de subirlo. -->
 - [ ] D) $\frac{5x^5}{4} + C$
   <!-- feedback: Incorrecto. Dividiste entre el exponente anterior $4$ en vez del nuevo $5$. -->
+
 ### Explicacion Pedagogica
 Por la regla de la potencia: $\int 5x^4 \, dx = 5 \cdot \frac{x^{5}}{5} + C = x^5 + C$. El factor $5$ y el divisor $5$ se cancelan.
 
@@ -140,6 +145,7 @@ Por la regla de la potencia: $\int 5x^4 \, dx = 5 \cdot \frac{x^{5}}{5} + C = x^
   <!-- feedback: Correcto. Cada término se integra por separado: $\int 3x^2 dx = x^3$, $\int 4x dx = 2x^2$, $\int -2 dx = -2x$. -->
 - [ ] D) $x^3 + 2x^2 - 2x$
   <!-- feedback: Incorrecto. Falta la constante $+C$. -->
+
 ### Explicacion Pedagogica
 Se aplica la regla de la potencia a cada monomio: $\int 3x^2 dx = x^3$, $\int 4x dx = 2x^2$, $\int -2 dx = -2x$. La suma final, más $+C$, da $x^3 + 2x^2 - 2x + C$.
 
@@ -160,6 +166,7 @@ Se aplica la regla de la potencia a cada monomio: $\int 3x^2 dx = x^3$, $\int 4x
   <!-- feedback: Correcto. Es una consecuencia directa de la linealidad de la integral. -->
 - [ ] D) Porque $x^2$ y $x$ son funciones iguales.
   <!-- feedback: Incorrecto. Son funciones distintas, aunque relacionadas. -->
+
 ### Explicacion Pedagogica
 La integral indefinida es una operación lineal: respeta sumas y múltiplos constantes, por lo que $\int (f+g) \, dx = \int f \, dx + \int g \, dx$.
 
@@ -180,6 +187,7 @@ La integral indefinida es una operación lineal: respeta sumas y múltiplos cons
   <!-- feedback: Incorrecto. La regla funciona para cualquier $n \neq -1$, incluso negativo o fraccionario. -->
 - [ ] D) Porque con $n = -1$ el resultado es una raíz cuadrada.
   <!-- feedback: Incorrecto. La forma del resultado no depende de raíces. -->
+
 ### Explicacion Pedagogica
 La fórmula requiere $n \neq -1$, ya que el denominador $n+1$ se vuelve cero. Para ese caso se usa la regla especial $\int \frac{1}{x} \, dx = \ln|x| + C$.
 
@@ -200,6 +208,7 @@ La fórmula requiere $n \neq -1$, ya que el denominador $n+1$ se vuelve cero. Pa
   <!-- feedback: Incorrecto. Falta la constante $+C$. -->
 - [ ] D) $2x^4 - 4x^3 + C$
   <!-- feedback: Incorrecto. Te faltó integrar la constante $5$. -->
+
 ### Explicacion Pedagogica
 Por la regla de la potencia: $\int 8x^3 dx = 2x^4$, $\int -12x^2 dx = -4x^3$, $\int 5 dx = 5x$. Sumando, queda $2x^4 - 4x^3 + 5x + C$.
 
@@ -220,6 +229,7 @@ Por la regla de la potencia: $\int 8x^3 dx = 2x^4$, $\int -12x^2 dx = -4x^3$, $\
   <!-- feedback: Correcto. Aunque $x^4$ es una antiderivada particular, la familia completa es $x^4 + C$. -->
 - [ ] D) Es incorrecta porque $x^4$ no es antiderivada de $4x^3$.
   <!-- feedback: Incorrecto. Sí lo es: la derivada de $x^4$ es $4x^3$. -->
+
 ### Explicacion Pedagogica
 La integral indefinida devuelve la familia completa de antiderivadas, no solo una. Por tanto, debe escribirse $\int 4x^3 \, dx = x^4 + C$.
 
@@ -240,6 +250,7 @@ Si una estudiante obtuvo $\int (3x^2 - 6x) \, dx = x^3 - 6x^2 + C$, ¿cuál es l
   <!-- feedback: Correcto. Por definición, la derivada de la primitiva debe coincidir con el integrando. -->
 - [ ] D) Derivar el resultado y dividir entre el número de términos.
   <!-- feedback: Incorrecto. Dividir no aporta información. -->
+
 ### Explicacion Pedagogica
 Para verificar una integral indefinida, basta derivar el resultado. Si la derivada coincide con el integrando, la primitiva es correcta y la constante $+C$ desaparece automáticamente.
 
@@ -254,11 +265,12 @@ Para verificar una integral indefinida, basta derivar el resultado. Si la deriva
 ### Opciones
 - [ ] A) $ax^3 + bx^2 + cx + C$
   <!-- feedback: Incorrecto. No dividiste cada coeficiente entre el nuevo exponente. -->
-- [x] B) $\frac{a}{3}x^3 + \frac{b}{2}x^2 + cx + C$
-  <!-- feedback: Correcto. Cada monomio se integra aplicando la regla de la potencia y el múltiplo constante. -->
+- [ ] B) $\frac{a}{3}x^3 + \frac{b}{2}x^2 + C$
+  <!-- feedback: Incorrecto. Te faltó el término lineal $cx$ proveniente de la constante $c$. -->
 - [ ] C) $2ax + b + C$
   <!-- feedback: Incorrecto. Es la derivada, no la integral. -->
-- [ ] D) $\frac{a}{3}x^3 + \frac{b}{2}x^2 + C$
-  <!-- feedback: Incorrecto. Te faltó el término lineal $cx$ proveniente de la constante $c$. -->
+- [x] D) $\frac{a}{3}x^3 + \frac{b}{2}x^2 + cx + C$
+  <!-- feedback: Correcto. Cada monomio se integra aplicando la regla de la potencia y el múltiplo constante. -->
+
 ### Explicacion Pedagogica
 Aplicando término a término: $\int ax^2 dx = \frac{a}{3}x^3$, $\int bx dx = \frac{b}{2}x^2$, $\int c dx = cx$, y se suma $+C$. Así, $\int (ax^2 + bx + c) \, dx = \frac{a}{3}x^3 + \frac{b}{2}x^2 + cx + C$.

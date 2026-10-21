@@ -33,14 +33,14 @@ creador: "Jules-Agent"
 Carlos is arriving at school in Bogota at 7:00 AM. What should he say to his teacher?
 
 ### Opciones
-- [x] D) Good morning!
-  <!-- feedback: Correct! 'Good morning' is the right greeting for early in the day when you arrive at school. -->
 - [ ] A) Good night!
   <!-- feedback: 'Good night' is used when you are going to sleep, not when you arrive at school in the morning. -->
 - [ ] B) Goodbye!
   <!-- feedback: 'Goodbye' is what you say when you are leaving, not when you are just arriving. -->
 - [ ] C) Good evening!
   <!-- feedback: 'Good evening' is used when it is getting dark outside, not at 7:00 AM. -->
+- [x] D) Good morning!
+  <!-- feedback: Correct! 'Good morning' is the right greeting for early in the day when you arrive at school. -->
 
 ### Explicacion Pedagogica
 The greeting 'Good morning' is used early in the day. It is the polite way to say hello to a teacher when arriving at school in the morning.
@@ -56,14 +56,14 @@ The greeting 'Good morning' is used early in the day. It is the polite way to sa
 Maria sees a beautiful bright yellow flower in a park in Medellin. What color is the flower in English?
 
 ### Opciones
-- [x] D) yellow
-  <!-- feedback: Correct! The color of the bright flower she saw is 'yellow'. -->
 - [ ] A) blue
   <!-- feedback: 'blue' is the color of the clear sky, not the bright color mentioned for this flower. -->
 - [ ] B) red
   <!-- feedback: 'red' is the color of a strawberry or a stop sign, not the color of this bright flower. -->
 - [ ] C) black
   <!-- feedback: 'black' is the color of the night sky, not the bright color of the flower. -->
+- [x] D) yellow
+  <!-- feedback: Correct! The color of the bright flower she saw is 'yellow'. -->
 
 ### Explicacion Pedagogica
 The color 'yellow' is a bright color often seen on flowers like sunflowers. Learning basic color vocabulary is essential for describing the world around us.
@@ -79,14 +79,14 @@ The color 'yellow' is a bright color often seen on flowers like sunflowers. Lear
 Juan is leaving his friend's house in Cali after playing all afternoon. What should he say as he walks out the door?
 
 ### Opciones
-- [x] D) Goodbye!
-  <!-- feedback: Correct! 'Goodbye' is the appropriate farewell to use when you are leaving a place or parting ways with someone. -->
 - [ ] A) Hello!
   <!-- feedback: 'Hello' is a greeting used when you arrive or meet someone, not when you leave. -->
 - [ ] B) Good morning!
   <!-- feedback: 'Good morning' is a greeting for the early part of the day, not a farewell when leaving in the afternoon. -->
 - [ ] C) Welcome!
   <!-- feedback: 'Welcome' is used to greet someone who is arriving at your home, not when you are the one leaving. -->
+- [x] D) Goodbye!
+  <!-- feedback: Correct! 'Goodbye' is the appropriate farewell to use when you are leaving a place or parting ways with someone. -->
 
 ### Explicacion Pedagogica
 'Goodbye' is a common farewell used when parting from someone. It is important to know the difference between greetings (like hello) and farewells (like goodbye).
@@ -102,13 +102,13 @@ Juan is leaving his friend's house in Cali after playing all afternoon. What sho
 Sofia is looking at the clear sky while walking in Cartagena. What color is the sky in English?
 
 ### Opciones
-- [x] D) blue
-  <!-- feedback: Correct! 'blue' is the color of the clear sky on a sunny day. -->
 - [ ] A) green
   <!-- feedback: 'green' is the color of grass or leaves, not the clear sky. -->
 - [ ] B) yellow
   <!-- feedback: 'yellow' is the color of the sun, but the sky itself is not yellow during the day. -->
-- [ ] C) orange
+- [x] C) blue
+  <!-- feedback: Correct! 'blue' is the color of the clear sky on a sunny day. -->
+- [ ] D) orange
   <!-- feedback: 'orange' can be seen at sunset, but a typical clear sky is not orange. -->
 
 ### Explicacion Pedagogica
@@ -125,14 +125,14 @@ The word 'blue' describes the color of a clear daytime sky or the ocean. Recogni
 It is 9:00 PM and Luis is going to bed in his house in Bogota. What should he say to his family before sleeping?
 
 ### Opciones
-- [x] D) Good night!
+- [x] A) Good night!
   <!-- feedback: Correct! 'Good night' is the phrase we use right before going to sleep or parting ways late in the evening. -->
-- [ ] A) Good morning!
-  <!-- feedback: 'Good morning' is for when you wake up or early in the day, not when going to sleep. -->
 - [ ] B) Hello!
   <!-- feedback: 'Hello' is for greeting someone, not for saying goodbye before bed. -->
 - [ ] C) Good afternoon!
   <!-- feedback: 'Good afternoon' is used in the middle of the day, not late at night. -->
+- [ ] D) Good morning!
+  <!-- feedback: 'Good morning' is for when you wake up or early in the day, not when going to sleep. -->
 
 ### Explicacion Pedagogica
 'Good night' is a specific farewell used only late in the evening or right before going to bed. It is different from 'Good evening', which is used as a greeting when arriving somewhere late in the day.
@@ -148,10 +148,10 @@ It is 9:00 PM and Luis is going to bed in his house in Bogota. What should he sa
 Ana is drawing a picture of the grass in a park in Medellin. What color should she use for the grass?
 
 ### Opciones
-- [x] B) green
-  <!-- feedback: Correct! 'green' is the color of healthy grass and leaves on trees. -->
 - [ ] A) red
   <!-- feedback: 'red' is the color of an apple, but grass is not typically red. -->
+- [x] B) green
+  <!-- feedback: Correct! 'green' is the color of healthy grass and leaves on trees. -->
 - [ ] C) blue
   <!-- feedback: 'blue' is the color of the sky, not the grass. -->
 - [ ] D) purple
@@ -171,10 +171,10 @@ The color 'green' is strongly associated with nature, especially grass and leave
 Mateo meets his new English teacher for the first time in Cali. He wants to be polite and friendly. Which phrase is best to start the conversation?
 
 ### Opciones
-- [x] B) Hello!
-  <!-- feedback: Correct! 'Hello!' is the most common and friendly way to greet someone when you first meet them. -->
 - [ ] A) Goodbye!
   <!-- feedback: 'Goodbye!' is for when you are leaving, not when you are starting a conversation. -->
+- [x] B) Hello!
+  <!-- feedback: Correct! 'Hello!' is the most common and friendly way to greet someone when you first meet them. -->
 - [ ] C) See you!
   <!-- feedback: 'See you!' is an informal way to say goodbye, not a way to introduce yourself. -->
 - [ ] D) Good night!
@@ -194,10 +194,10 @@ Mateo meets his new English teacher for the first time in Cali. He wants to be p
 Valeria is looking at a traditional chiva bus in Cartagena. It has a bright color similar to a ripe strawberry or a stop sign. What color is it?
 
 ### Opciones
-- [x] B) red
-  <!-- feedback: Correct! 'red' is the color of a strawberry and a stop sign. -->
 - [ ] A) blue
   <!-- feedback: 'blue' is the color of the ocean, not the color of a ripe strawberry. -->
+- [x] B) red
+  <!-- feedback: Correct! 'red' is the color of a strawberry and a stop sign. -->
 - [ ] C) yellow
   <!-- feedback: 'yellow' is the color of a banana, not a strawberry. -->
 - [ ] D) green

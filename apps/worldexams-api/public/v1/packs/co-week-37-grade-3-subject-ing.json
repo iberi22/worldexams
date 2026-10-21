@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which word is the opposite of \"young\"?",
+      "context": "La abuela de Martín vive en Santa Rosa de Cabal y cumplió 80 años el mes pasado.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the word for a place where you live or stay on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
+          "text": "tall",
           "is_correct": false,
-          "feedback": "'transportation' is the system of moving people or goods between places, not the place you sleep in itself."
+          "feedback": "Incorrect. Tall describes height, and its opposite is short, not young."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "happy",
           "is_correct": false,
-          "feedback": "'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live."
+          "feedback": "Incorrect. Happy describes a feeling, and its opposite is sad."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "old",
+          "is_correct": true,
+          "feedback": "Correct. Young means with few years and old means with many years, so they are opposites."
+        },
+        {
+          "letter": "D",
+          "text": "short",
           "is_correct": false,
-          "feedback": "'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in."
+          "feedback": "Incorrect. Short describes height or hair length, not age."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "\"Young\" significa joven y su opuesto es \"old\", viejo o mayor. \"Tall\" y \"short\" hablan de la estatura y \"happy\" de un sentimiento, no de la edad.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -55,36 +55,36 @@
     },
     {
       "id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Mario is 1 meter tall. His dad is 1.80 meters tall. Complete: \"Mario is ____ and his dad is tall.\"",
+      "context": "Mario mide un metro y su papá, que trabaja en Pasto, mide un metro con ochenta.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them."
+          "text": "old",
+          "is_correct": false,
+          "feedback": "Incorrect. Old describes age, and the sentence compares how tall they are."
         },
         {
           "letter": "B",
-          "text": "baggage",
+          "text": "curly",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "Incorrect. Curly describes hair with curls, not the height of a person."
         },
         {
           "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "'destination' names only the place you are going to, without the route or the order of the whole journey."
+          "text": "short",
+          "is_correct": true,
+          "feedback": "Correct. Mario is 1 meter and his dad is 1.80 meters, so Mario is short."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "long",
           "is_correct": false,
-          "feedback": "'passport' is the official document that lets you cross a border, not the plan of where you go."
+          "feedback": "Incorrect. Long describes hair or objects, and we do not say a person is long."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Mario mide menos que su papá, por eso decimos que Mario es bajo, \"short\", y su papá es alto, \"tall\". Para personas no usamos \"long\": esa palabra es para el cabello o los objetos.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: \"Juliana ____ long hair.\"",
+      "context": "Juliana vive en Neiva y su cabello le llega hasta la cintura.",
       "options": [
         {
-          "letter": "B",
-          "text": "destination",
+          "letter": "A",
+          "text": "has",
           "is_correct": true,
-          "feedback": "Correct! 'destination' is the place someone is going to or something is being sent to."
+          "feedback": "Correct. We use has with he or she to talk about hair: she has long hair."
         },
         {
-          "letter": "A",
-          "text": "departure",
+          "letter": "B",
+          "text": "is",
           "is_correct": false,
-          "feedback": "'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself."
+          "feedback": "Incorrect. We say she is tall, but for hair we use has, not is."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "have",
           "is_correct": false,
-          "feedback": "'arrival' is the act of reaching a place, not the place that is reached."
+          "feedback": "Incorrect. Have is for I, you, we and they; with Juliana (she) we use has."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "are",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from the start to the end, not the place the trip finishes at."
+          "feedback": "Incorrect. Are is a form of to be for you, we and they, and hair needs has."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Para describir el cabello usamos el verbo tener: \"has\" con he o she. Decimos \"She has long hair\" (ella tiene el cabello largo). Para la estatura sí usamos \"is\": \"She is tall\".",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.72,
       "bundle_id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which word describes hair with many curls?",
+      "context": "Valeria es una niña de Buenaventura con el cabello lleno de rizos.",
       "options": [
         {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "straight",
           "is_correct": false,
-          "feedback": "'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in."
+          "feedback": "Incorrect. Straight hair has no curls; it is the opposite of curly."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "long",
           "is_correct": false,
-          "feedback": "'flight' is the journey by plane itself, not the containers that hold your things."
+          "feedback": "Incorrect. Long tells how much hair there is, not if it has curls."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "short",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you make for a seat or a room, not the bag you carry."
+          "feedback": "Incorrect. Short tells the length of the hair, not if it has curls."
+        },
+        {
+          "letter": "D",
+          "text": "curly",
+          "is_correct": true,
+          "feedback": "Correct. Curly hair is hair with many curls."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "\"Curly\" significa crespo o rizado, con muchos rizos (\"curls\"). \"Straight\" es liso. \"Long\" y \"short\" solo dicen si el cabello es largo o corto.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.68,
       "bundle_id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"My brother Daniel is 12 years old. He is tall and he has short black hair. He smiles a lot.\"\nWhich sentence describes Daniel?",
+      "context": "Daniel es el hermano mayor de Paula y viven juntos en Montería.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew."
+          "text": "He is short and has long hair.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says Daniel is tall and has short hair, the opposite of this."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all."
+          "text": "He is tall and has short hair.",
+          "is_correct": true,
+          "feedback": "Correct. The text says \"He is tall and he has short black hair\"."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "He is old and sad.",
           "is_correct": false,
-          "feedback": "'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle."
+          "feedback": "Incorrect. Daniel is 12, so he is young, and he smiles a lot, so he is not sad."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "He has curly blond hair.",
           "is_correct": false,
-          "feedback": "'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle."
+          "feedback": "Incorrect. The text says his hair is short and black, not blond."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "La lectura dice que Daniel es alto (\"tall\") y tiene el cabello corto y negro (\"short black hair\"). Como sonríe mucho, está feliz, y con 12 años es joven, no viejo.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.6,
       "bundle_id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is correct?",
+      "context": "La profesora de un colegio de Yopal pide a los niños escribir una frase sobre su papá.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
+          "text": "He is tall.",
           "is_correct": true,
-          "feedback": "Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive."
+          "feedback": "Correct. He + is + adjective is the correct way to describe height."
         },
         {
           "letter": "B",
-          "text": "security",
+          "text": "He has tall.",
           "is_correct": false,
-          "feedback": "'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in."
+          "feedback": "Incorrect. We use has with things like hair; for height we use is: he is tall."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "He are tall.",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for your plane, not the place where your belongings are inspected."
+          "feedback": "Incorrect. Are goes with you, we and they; with he the verb is is."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "He is long hair.",
           "is_correct": false,
-          "feedback": "'gate' is the door at the plane you walk through to board, not the place where officials check your things."
+          "feedback": "Incorrect. For hair we use has: he has long hair, not he is long hair."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "explanation": "Para la estatura usamos \"is\": \"He is tall\". Para el cabello usamos \"has\": \"He has long hair\". Con \"he\" nunca usamos \"are\".",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.56,
       "bundle_id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Carla is happy. She has long curly hair. Sofia is sad. She has short straight hair.\"\nWho has short hair?",
+      "context": "Carla y Sofia son primas de Barrancabermeja y hoy están en la fiesta de la familia.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane."
+          "text": "Carla",
+          "is_correct": false,
+          "feedback": "Incorrect. Carla has long curly hair, so her hair is not short."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "Carla and Sofia",
           "is_correct": false,
-          "feedback": "'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline."
+          "feedback": "Incorrect. Only one cousin has short hair, because Carla's hair is long."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "Nobody",
           "is_correct": false,
-          "feedback": "'receipt' is the proof that you paid for something, which is not permission to board a plane."
+          "feedback": "Incorrect. The text says Sofia has short straight hair, so somebody has short hair."
         },
         {
           "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "'brochure' is a leaflet with tourist information, not a travel document issued to a passenger."
+          "text": "Sofia",
+          "is_correct": true,
+          "feedback": "Correct. The text says Sofia has short straight hair."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "En la lectura, Carla tiene el cabello largo y crespo (\"long curly hair\") y Sofia tiene el cabello corto y liso (\"short straight hair\"). Por eso la que tiene cabello corto es Sofia.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.5,
       "bundle_id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "A boy says: \"Please find my sister. She is young and short, and she has long hair.\"\nWho is his sister?",
+      "context": "En un parque de Envigado, un niño busca a su hermana menor entre muchas personas.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' means visiting the places of interest of a location as a traveler."
+          "text": "a tall woman with short hair",
+          "is_correct": false,
+          "feedback": "Incorrect. His sister is short and has long hair, and this woman is tall with short hair."
         },
         {
           "letter": "B",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place."
+          "text": "a short girl with long hair",
+          "is_correct": true,
+          "feedback": "Correct. This girl is young, short and has long hair, like the boy says."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "a short girl with short hair",
           "is_correct": false,
-          "feedback": "'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city."
+          "feedback": "Incorrect. This girl is short, but her hair is short and the sister has long hair."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "an old woman with long hair",
           "is_correct": false,
-          "feedback": "'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place."
+          "feedback": "Incorrect. This woman has long hair, but she is old and the sister is young."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "correct_answer": "B",
+      "explanation": "Hay que revisar las tres pistas: joven (\"young\"), baja (\"short\") y cabello largo (\"long hair\"). Solo \"a short girl with long hair\" cumple todas; las otras fallan en una pista.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.45,
       "bundle_id": "CO-ING-3-2026-W37-describing-people-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",

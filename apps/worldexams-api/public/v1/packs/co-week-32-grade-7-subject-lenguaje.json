@@ -382,15 +382,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Usando palabras científicas reales que nadie entiende.",
-          "is_correct": false,
-          "feedback": "El engaño aquí es visual y simbólico, no necesariamente léxico."
-        },
-        {
-          "letter": "B",
           "text": "Utilizando códigos visuales asociados a la naturaleza para dar una imagen de sostenibilidad que el producto no tiene realmente.",
           "is_correct": true,
           "feedback": "El color verde y las hojas actúan como \"atajos mentales\" que el consumidor asocia con salud y ecología sin verificar los datos."
+        },
+        {
+          "letter": "B",
+          "text": "Usando palabras científicas reales que nadie entiende.",
+          "is_correct": false,
+          "feedback": "El engaño aquí es visual y simbólico, no necesariamente léxico."
         },
         {
           "letter": "C",
@@ -405,7 +405,7 @@
           "feedback": "Es una situación ficticia que no explica el uso del diseño visual."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La asociación simbólica es una herramienta poderosa. El análisis crítico permite separar la \"imagen de marca\" (lo que parece ser) de la realidad técnica y ambiental del producto (lo que realmente es).",
       "difficulty": "10",
       "images": [],
@@ -440,18 +440,18 @@
         },
         {
           "letter": "C",
-          "text": "Que promueve la idea de que la amistad y la felicidad dependen exclusivamente de poseer objetos materiales.",
-          "is_correct": true,
-          "feedback": "Este tipo de publicidad utiliza el chantaje emocional y crea falsas necesidades sociales vinculadas al consumo."
-        },
-        {
-          "letter": "D",
           "text": "Que el niño del anuncio debería estar estudiando en lugar de jugar.",
           "is_correct": false,
           "feedback": "Es un juicio moral ajeno al análisis del mecanismo de persuasión publicitaria."
+        },
+        {
+          "letter": "D",
+          "text": "Que promueve la idea de que la amistad y la felicidad dependen exclusivamente de poseer objetos materiales.",
+          "is_correct": true,
+          "feedback": "Este tipo de publicidad utiliza el chantaje emocional y crea falsas necesidades sociales vinculadas al consumo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La publicidad evaluada éticamente revela cómo se explotan las inseguridades humanas (como el miedo a la soledad) para vender productos. En el caso de los niños, esto es especialmente sensible debido a su menor capacidad de análisis crítico.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :---: | :--- |\n| Técnico | 30/30 | Formato v5.2 respetado íntegramente. |\n| Curricular | 40/40 | Análisis profundo del texto publicitario para grado 7. |\n| Contexto | 20/20 | Ejemplos locales (Selección Colombia, Medellín, Bogotá, Cali) y situaciones pertinentes. |\n| Redacción | 10/10 | Enunciados claros y retroalimentaciones pedagógicas de alta calidad. |\n| **Total** | **100/100** | |",
       "difficulty": "10",
       "images": [],

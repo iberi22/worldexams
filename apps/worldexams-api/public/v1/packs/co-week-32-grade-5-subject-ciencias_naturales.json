@@ -290,9 +290,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Medir la salinidad del agua en varios puntos de la ciénaga, repetir la medición cada mes y comparar los datos.",
-          "is_correct": true,
-          "feedback": "Tomar varias muestras y medir en distintos momentos permite comparar los datos y observar si la salinidad cambia."
+          "text": "Observar el color del agua desde lejos y sacar conclusiones sin anotar datos.",
+          "is_correct": false,
+          "feedback": "El color no indica la salinidad y, sin datos anotados, no se puede comprobar ningún cambio."
         },
         {
           "letter": "B",
@@ -308,12 +308,12 @@
         },
         {
           "letter": "D",
-          "text": "Observar el color del agua desde lejos y sacar conclusiones sin anotar datos.",
-          "is_correct": false,
-          "feedback": "El color no indica la salinidad y, sin datos anotados, no se puede comprobar ningún cambio."
+          "text": "Medir la salinidad del agua en varios puntos de la ciénaga, repetir la medición cada mes y comparar los datos.",
+          "is_correct": true,
+          "feedback": "Tomar varias muestras y medir en distintos momentos permite comparar los datos y observar si la salinidad cambia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar un plan de indagación adecuado, con varias mediciones repetidas en el tiempo y comparación de datos, permite responder preguntas sobre los cambios en las condiciones de un ecosistema acuático.",
       "difficulty": "8",
       "images": [],

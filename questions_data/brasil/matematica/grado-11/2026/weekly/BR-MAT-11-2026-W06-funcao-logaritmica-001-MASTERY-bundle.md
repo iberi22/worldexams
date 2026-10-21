@@ -355,8 +355,8 @@ Determine o conjunto solução da inequação: $\log_2(x - 3) + \log_2(x - 1) \l
 ### Opciones
 - [ ] A) $x \leq 5$ <!-- feedback: Faltou considerar a condição de existência x > 3. -->
 - [ ] B) $1 < x \leq 5$ <!-- feedback: Para satisfazer ambos os logaritmos, x deve ser maior que 3. -->
-- [x] C) $3 < x \leq 5$ <!-- feedback: Condição: x > 3. Resolvendo: log_2((x-3)(x-1)) ≤ 3 => x²-4x+3 ≤ 8 => x²-4x-5 ≤ 0. Raízes -1 e 5. Interseção com x > 3 dá 3 < x ≤ 5. -->
-- [ ] D) $-1 \leq x \leq 5$ <!-- feedback: Viola a condição de existência do logaritmo. -->
+- [ ] C) $-1 \leq x \leq 5$ <!-- feedback: Viola a condição de existência do logaritmo. -->
+- [x] D) $3 < x \leq 5$ <!-- feedback: Condição: x > 3. Resolvendo: log_2((x-3)(x-1)) ≤ 3 => x²-4x+3 ≤ 8 => x²-4x-5 ≤ 0. Raízes -1 e 5. Interseção com x > 3 dá 3 < x ≤ 5. -->
 
 ### Explicacion Pedagogica
 1. Condição de existência: $x-3 > 0$ e $x-1 > 0$, logo $x > 3$.

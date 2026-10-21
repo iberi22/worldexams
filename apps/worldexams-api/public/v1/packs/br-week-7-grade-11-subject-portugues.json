@@ -824,15 +824,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "O Barroco é uma cópia burra sem valor estético de Portugal medieval, provando que os poetas do Nordeste não sabiam escrever em silêncio absoluto.",
-          "is_correct": false,
-          "feedback": "Incorreto. O Barroco brasileiro possui originalidade vigorosa, injetando termos tupis e africanos e críticas locais de desvios morais de elites coloniais de Salvador."
-        },
-        {
-          "letter": "B",
           "text": "O Barroco traduz as contradições dramáticas do contato de culturas do país (sincretismo, conflito espírito-matéria, opulência das igrejas e miséria de escravidão de engenhos) sob refinado rebuscamento estilístico poético de prestígio.",
           "is_correct": true,
           "feedback": "Correto! As antíteses barrocas de Gregório e Vieira mimetizam perfeitamente a fratura moral e cívica da colonização da bacia açucareira baiana."
+        },
+        {
+          "letter": "B",
+          "text": "O Barroco é uma cópia burra sem valor estético de Portugal medieval, provando que os poetas do Nordeste não sabiam escrever em silêncio absoluto.",
+          "is_correct": false,
+          "feedback": "Incorreto. O Barroco brasileiro possui originalidade vigorosa, injetando termos tupis e africanos e críticas locais de desvios morais de elites coloniais de Salvador."
         },
         {
           "letter": "C",
@@ -847,7 +847,7 @@
           "feedback": "Incorreto. Gregório é escritor histórico de alta erudição literária clássica e oratória e não programação eletrônica mecânica binária de computação de rede."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "O Barroco luso-brasileiro (século XVII colonial baiano) não constitui mera cópia estéril imitação de Portugal medieval de Camões de vestibular. Ele expressa de forma vigorosa e original de Letras as contradições éticas, espirituais e sociais do início de povoamento da Bahia açucareira (luxo dourado de capelas de ouro contra a miséria física de plantações agrárias de engenhos e escravidão). Essa fratura moral e cívica reflete-se na poesia de arrependimento sacra e sátiras de Gregório de Matos e nos sermões conceptistas de padre Antônio Vieira do país de vestibular de prestígio.",
       "difficulty": "10",
       "images": [],
@@ -881,18 +881,18 @@
         },
         {
           "letter": "C",
-          "text": "O teatro funde alegorias medievais de Anchieta de forças morais (bem bombeiro contra o mal do choque elétrico) sob formato de teatro popular para conscientizar de forma lúdica a comunidade sobre perigos e salvar vidas em Brasília.",
-          "is_correct": true,
-          "feedback": "Correto! A pedagogia cênica anchietana colonial de catequese é recontextualizada de forma brilhante cívica no asfalto moderno periférico do país de forma inclusiva."
-        },
-        {
-          "letter": "D",
           "text": "Trata-se de uma receita culinária de cozinha prescrevendo temperos de comida de forma de bulas de remédios de informática de robôs do Paraná.",
           "is_correct": false,
           "feedback": "Incorreto. O teatro comunitário adaptado de jesuítas é cívico-social preventivo urgente de segurança viária de Brasília, sem receitas de comida ou robôs industriais."
+        },
+        {
+          "letter": "D",
+          "text": "O teatro funde alegorias medievais de Anchieta de forças morais (bem bombeiro contra o mal do choque elétrico) sob formato de teatro popular para conscientizar de forma lúdica a comunidade sobre perigos e salvar vidas em Brasília.",
+          "is_correct": true,
+          "feedback": "Correto! A pedagogia cênica anchietana colonial de catequese é recontextualizada de forma brilhante cívica no asfalto moderno periférico do país de forma inclusiva."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "A adaptação contemporânea de mídias de peças teatrais de José de Anchieta do Quinhentismo colonial (os autos religiosos morais) por estudantes de Brasília para combater riscos físicos elétricos domésticos nas favelas e periferias urbanas brasileiras (como Sol Nascente) de forma de teatro de bonecos constitui um brilhante e elogiável processo de intertextualidade de base nacional (BNCC). Unir a semiótica de batalhas de forças morais do bem (bombeiros de salvamento de asfalto) contra o mal físico (os riscos de choque de fiações expostas de metal de favelas de Brasília) conscientiza e mobiliza de forma lúdica, democrática e inclusiva a comunidade de moradores leigos, provando o valor social contínuo das heranças literárias históricas do país de forma prática.",
       "difficulty": "10",
       "images": [],

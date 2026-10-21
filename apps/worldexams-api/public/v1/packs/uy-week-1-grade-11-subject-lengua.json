@@ -881,18 +881,18 @@
         },
         {
           "letter": "C",
-          "text": "La descontextualización por ausencia de marcas explícitas del emisor (quién firma) y del receptor específico (a quién va dirigido) impide completar el referente, frustrando la efectividad de la función referencial objetiva del mensaje.",
-          "is_correct": true,
-          "feedback": "¡Correcto! Para que un mensaje escrito sea eficaz, el contexto situacional debe estar claro. Sin emisor identificado ni receptor delimitado, el referente queda flotando y los estudiantes no pueden operar la información de manera unívoca."
-        },
-        {
-          "letter": "D",
           "text": "Falló la función poética, ya que la nota carecía de rima asonante y figuras literarias ornamentales de cortesía.",
           "is_correct": false,
           "feedback": "Incorrecto. Una nota administrativa-escolar no requiere fines artísticos ni estéticos poéticos."
+        },
+        {
+          "letter": "D",
+          "text": "La descontextualización por ausencia de marcas explícitas del emisor (quién firma) y del receptor específico (a quién va dirigido) impide completar el referente, frustrando la efectividad de la función referencial objetiva del mensaje.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para que un mensaje escrito sea eficaz, el contexto situacional debe estar claro. Sin emisor identificado ni receptor delimitado, el referente queda flotando y los estudiantes no pueden operar la información de manera unívoca."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La comunicación requiere de la contextualización situacional para su pleno éxito. Omitir el emisor o el receptor destinatario en un mensaje impreso o escrito desarticula la referencia indispensable para la acción.\n\n---",
       "difficulty": "10",
       "images": [],

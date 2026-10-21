@@ -32,12 +32,12 @@ creador: "Jules-Agent"
 ### Opciones
 - [ ] A) Es una sustancia líquida que fluye por los cables eléctricos.
   <!-- feedback: No, la energía no es una sustancia material. -->
-- [x] D) Es la capacidad de los objetos o sistemas para realizar cambios o producir trabajo.
-  <!-- feedback: ¡Correcto! La energía se manifiesta a través de los cambios que produce. -->
 - [ ] B) Es una fuerza invisible que solo los seres vivos poseen.
   <!-- feedback: Incorrecto. Los objetos inanimados también tienen y transforman energía. -->
 - [ ] C) Es un tipo de materia que no tiene peso.
   <!-- feedback: No, la energía no es materia; son conceptos diferentes. -->
+- [x] D) Es la capacidad de los objetos o sistemas para realizar cambios o producir trabajo.
+  <!-- feedback: ¡Correcto! La energía se manifiesta a través de los cambios que produce. -->
 
 ### Explicación Pedagógica
 La energía no se puede ver ni tocar directamente, pero se reconoce por sus efectos. Es lo que permite que un auto se mueva, que una lámpara alumbre o que el agua hierva.
@@ -57,12 +57,12 @@ La energía no se puede ver ni tocar directamente, pero se reconoce por sus efec
 ### Opciones
 - [ ] A) Energía cinética
   <!-- feedback: No, la energía cinética es la energía del movimiento. En el punto más alto, la velocidad es cero. -->
-- [x] D) Energía potencial gravitatoria
-  <!-- feedback: ¡Correcto! Es la energía que posee un cuerpo debido a su posición en altura respecto al suelo. -->
 - [ ] B) Energía eléctrica
   <!-- feedback: No, una pelota de fútbol no funciona con electricidad. -->
 - [ ] C) Energía nuclear
   <!-- feedback: Incorrecto. La energía nuclear está contenida en el núcleo de los átomos. -->
+- [x] D) Energía potencial gravitatoria
+  <!-- feedback: ¡Correcto! Es la energía que posee un cuerpo debido a su posición en altura respecto al suelo. -->
 
 ### Explicación Pedagógica
 La energía mecánica total es la suma de la cinética (movimiento) y la potencial (posición). Al subir, la cinética se transforma en potencial. En la altura máxima, toda la energía es potencial gravitatoria.
@@ -80,14 +80,14 @@ La energía mecánica total es la suma de la cinética (movimiento) y la potenci
 ¿Cuál es la transformación de energía que ocurre en este proceso?
 
 ### Opciones
-- [x] D) Energía cinética del viento en energía eléctrica.
-  <!-- feedback: ¡Muy bien! El movimiento de las aspas acciona un generador eléctrico. -->
 - [ ] A) Energía solar en energía química.
   <!-- feedback: No, esa es la transformación que ocurre en la fotosíntesis. -->
 - [ ] B) Energía eléctrica en energía sonora.
   <!-- feedback: Incorrecto. Eso ocurriría en un parlante o radio. -->
 - [ ] C) Energía potencial en energía calórica directamente.
   <!-- feedback: No es el proceso principal de un aerogenerador. -->
+- [x] D) Energía cinética del viento en energía eléctrica.
+  <!-- feedback: ¡Muy bien! El movimiento de las aspas acciona un generador eléctrico. -->
 
 ### Explicación Pedagógica
 Los aerogeneradores aprovechan la energía cinética (de movimiento) del viento. Al girar las aspas, esta energía se transmite a un eje que, mediante un generador, se convierte en energía eléctrica lista para usar.
@@ -107,12 +107,12 @@ Los aerogeneradores aprovechan la energía cinética (de movimiento) del viento.
 ### Opciones
 - [ ] A) Energía sonora
   <!-- feedback: No, el sol no transmite sonido a través del vacío del espacio. -->
-- [x] D) Energía lumínica (radiante)
-  <!-- feedback: ¡Exacto! La luz transporta energía que puede concentrarse y transformarse en calor. -->
 - [ ] B) Energía mecánica
   <!-- feedback: Incorrecto. No hay movimiento físico de objetos involucrado en el rayo de luz. -->
 - [ ] C) Energía hidráulica
   <!-- feedback: No, la energía hidráulica es la del agua en movimiento. -->
+- [x] D) Energía lumínica (radiante)
+  <!-- feedback: ¡Exacto! La luz transporta energía que puede concentrarse y transformarse en calor. -->
 
 ### Explicación Pedagógica
 La energía radiante del Sol viaja en forma de ondas electromagnéticas. Al ser concentrada por la lupa sobre el papel, las moléculas de este aumentan su agitación, transformando la energía lumínica en energía térmica.
@@ -132,10 +132,10 @@ Si ambas lamparitas transforman energía eléctrica en luz, ¿por qué la LED es
 ### Opciones
 - [ ] A) Porque la LED fabrica su propia energía.
   <!-- feedback: Falso. Ningún dispositivo fabrica energía, solo la transforma. -->
-- [x] C) Porque transforma un mayor porcentaje de energía en luz y pierde menos en forma de calor.
-  <!-- feedback: ¡Correcto! La eficiencia es la relación entre la energía útil y la energía total consumida. -->
 - [ ] B) Porque la LED no necesita electricidad para funcionar.
   <!-- feedback: Incorrecto. Ambos tipos de lámparas necesitan suministro eléctrico. -->
+- [x] C) Porque transforma un mayor porcentaje de energía en luz y pierde menos en forma de calor.
+  <!-- feedback: ¡Correcto! La eficiencia es la relación entre la energía útil y la energía total consumida. -->
 - [ ] D) Porque las antiguas lamparitas transformaban la luz en electricidad.
   <!-- feedback: No, era al revés: la electricidad se transformaba en luz y (mucha) energía térmica. -->
 
@@ -157,10 +157,10 @@ En toda transformación de energía hay una parte que no se aprovecha para el fi
 ### Opciones
 - [ ] A) Energía térmica -> Energía química
   <!-- feedback: No, es el proceso inverso al que ocurre en este caso. -->
-- [ ] C) Energía sonora -> Energía lumínica
-  <!-- feedback: Incorrecto. No estás produciendo luz al frotar las manos. -->
 - [x] B) Energía química (alimentos) -> Energía cinética (movimiento) -> Energía térmica (calor)
   <!-- feedback: ¡Excelente! Usás la energía de los alimentos para mover los músculos y la fricción genera calor. -->
+- [ ] C) Energía sonora -> Energía lumínica
+  <!-- feedback: Incorrecto. No estás produciendo luz al frotar las manos. -->
 - [ ] D) Energía potencial -> Energía nuclear
   <!-- feedback: No tiene relación con el frotamiento de las manos. -->
 
@@ -182,12 +182,12 @@ Tu cuerpo transforma la energía química de los alimentos en energía cinética
 ### Opciones
 - [ ] A) Convección
   <!-- feedback: No, la convección ocurre en líquidos y gases por el movimiento de masas calientes. -->
-- [x] D) Conducción
-  <!-- feedback: ¡Correcto! Es la transferencia de calor por contacto directo en materiales sólidos. -->
 - [ ] B) Radiación
   <!-- feedback: Incorrecto. La radiación no requiere un medio material (ej. el calor del sol). -->
 - [ ] C) Aislamiento
   <!-- feedback: El aislamiento es lo opuesto; es impedir que el calor pase. -->
+- [x] D) Conducción
+  <!-- feedback: ¡Correcto! Es la transferencia de calor por contacto directo en materiales sólidos. -->
 
 ### Explicación Pedagógica
 La conducción ocurre cuando las partículas vibran y chocan entre sí, transmitiendo energía térmica a sus vecinas sin que la materia se desplace. Los metales son excelentes conductores térmicos.
@@ -255,14 +255,14 @@ Las energías renovables son fundamentales para la sostenibilidad. A diferencia 
 ¿Qué propiedad deberías priorizar en los materiales de construcción para evitar que el calor de la calefacción se escape al exterior?
 
 ### Opciones
-- [ ] A) Que sean buenos conductores térmicos como el hierro.
-  <!-- feedback: No, si conducen bien el calor, este se escaparía rápidamente hacia afuera. -->
-- [x] D) Que sean aislantes térmicos con baja conductividad, como el telgopor o la lana de vidrio.
+- [x] A) Que sean aislantes térmicos con baja conductividad, como el telgopor o la lana de vidrio.
   <!-- feedback: ¡Correcto! Estos materiales dificultan el paso del calor, manteniendo la casa caliente. -->
 - [ ] B) Que sean materiales muy brillantes que reflejen la luz solar.
   <!-- feedback: Esto podría ayudar con la radiación, pero para las paredes el problema principal es la conducción. -->
 - [ ] C) Que sean materiales muy densos y pesados para que el viento no los mueva.
   <!-- feedback: La densidad no garantiza necesariamente un buen aislamiento térmico. -->
+- [ ] D) Que sean buenos conductores térmicos como el hierro.
+  <!-- feedback: No, si conducen bien el calor, este se escaparía rápidamente hacia afuera. -->
 
 ### Explicación Pedagógica
 En zonas frías, el uso de aislantes térmicos es clave para la eficiencia energética. Al tener baja conductividad, estos materiales reducen la transferencia de calor por conducción desde el interior cálido hacia el exterior frío.

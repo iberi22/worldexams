@@ -105,12 +105,6 @@
       "context": "Una familia de Buenaventura sale cada madrugada en su bote a pescar y luego vende el pescado en el mercado del puerto.",
       "options": [
         {
-          "letter": "C",
-          "text": "A la pesca, porque obtienen su sustento de los recursos del mar.",
-          "is_correct": true,
-          "feedback": "La familia extrae peces del mar y los comercializa, lo que corresponde a la pesca."
-        },
-        {
           "letter": "A",
           "text": "A la minería, porque extraen minerales del subsuelo marino.",
           "is_correct": false,
@@ -121,6 +115,12 @@
           "text": "A la ganadería, porque crían animales en tierra firme.",
           "is_correct": false,
           "feedback": "La ganadería cría animales terrestres, no captura peces en el mar."
+        },
+        {
+          "letter": "C",
+          "text": "A la pesca, porque obtienen su sustento de los recursos del mar.",
+          "is_correct": true,
+          "feedback": "La familia extrae peces del mar y los comercializa, lo que corresponde a la pesca."
         },
         {
           "letter": "D",
@@ -151,12 +151,6 @@
       "context": "En un municipio de Boyacá los habitantes hallaron carbón en sus tierras y deben decidir cómo aprovecharlo sin dañar el ambiente ni afectar a la comunidad.",
       "options": [
         {
-          "letter": "C",
-          "text": "Extraer el carbón con permisos, cuidando el agua y reforestando las zonas afectadas.",
-          "is_correct": true,
-          "feedback": "Una minería responsable cumple las normas y protege los recursos naturales de la comunidad."
-        },
-        {
           "letter": "A",
           "text": "Extraer todo el carbón sin permiso y abandonar los huecos abiertos.",
           "is_correct": false,
@@ -167,6 +161,12 @@
           "text": "Contaminar los ríos con los desechos que salen de la mina.",
           "is_correct": false,
           "feedback": "Arrojar desechos a los ríos afecta el agua que usa toda la comunidad."
+        },
+        {
+          "letter": "C",
+          "text": "Extraer el carbón con permisos, cuidando el agua y reforestando las zonas afectadas.",
+          "is_correct": true,
+          "feedback": "Una minería responsable cumple las normas y protege los recursos naturales de la comunidad."
         },
         {
           "letter": "D",
@@ -197,12 +197,6 @@
       "context": "Un hotel de Santa Marta contrata guías, cocineros y recepcionistas para atender a los viajeros que llegan a las playas del Caribe.",
       "options": [
         {
-          "letter": "C",
-          "text": "El turismo, porque las personas viajan y usan servicios de hospedaje y recreación.",
-          "is_correct": true,
-          "feedback": "El hotel ofrece servicios a los viajeros, lo que caracteriza a la actividad turística."
-        },
-        {
           "letter": "A",
           "text": "La pesca, porque se venden productos del mar al por mayor.",
           "is_correct": false,
@@ -213,6 +207,12 @@
           "text": "La minería, porque se extraen piedras preciosas de la playa.",
           "is_correct": false,
           "feedback": "En el hotel no se extraen minerales, sino que se atiende a visitantes."
+        },
+        {
+          "letter": "C",
+          "text": "El turismo, porque las personas viajan y usan servicios de hospedaje y recreación.",
+          "is_correct": true,
+          "feedback": "El hotel ofrece servicios a los viajeros, lo que caracteriza a la actividad turística."
         },
         {
           "letter": "D",
@@ -289,12 +289,6 @@
       "context": "Lee: \"El turismo puede traer ingresos a una región, pero también puede generar más basura, subir los precios y aumentar el consumo de agua.\"",
       "options": [
         {
-          "letter": "D",
-          "text": "El turismo genera ingresos, pero también puede afectar los recursos y la vida cotidiana de la comunidad.",
-          "is_correct": true,
-          "feedback": "Existe un equilibrio entre los beneficios económicos y los costos ambientales y sociales."
-        },
-        {
           "letter": "A",
           "text": "El turismo nunca produce ningún efecto negativo en las regiones.",
           "is_correct": false,
@@ -311,6 +305,12 @@
           "text": "El turismo elimina la necesidad de cuidar el agua y los paisajes.",
           "is_correct": false,
           "feedback": "Al contrario, el turismo sostenible depende del cuidado del agua y del entorno."
+        },
+        {
+          "letter": "D",
+          "text": "El turismo genera ingresos, pero también puede afectar los recursos y la vida cotidiana de la comunidad.",
+          "is_correct": true,
+          "feedback": "Existe un equilibrio entre los beneficios económicos y los costos ambientales y sociales."
         }
       ],
       "correct_answer": "D",
@@ -336,15 +336,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Cada región aporta al país con sus recursos y actividades, y la clave es aprovecharlos de forma sostenible.",
-          "is_correct": true,
-          "feedback": "La diversidad regional enriquece la economía y exige un uso responsable de los recursos."
-        },
-        {
-          "letter": "B",
           "text": "La economía del país depende de una sola región y de una sola actividad.",
           "is_correct": false,
           "feedback": "Colombia tiene múltiples regiones y actividades que aportan a su economía."
+        },
+        {
+          "letter": "B",
+          "text": "Cada región aporta al país con sus recursos y actividades, y la clave es aprovecharlos de forma sostenible.",
+          "is_correct": true,
+          "feedback": "La diversidad regional enriquece la economía y exige un uso responsable de los recursos."
         },
         {
           "letter": "C",
@@ -359,7 +359,7 @@
           "feedback": "Los recursos naturales son la base de muchas actividades económicas regionales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar la importancia de la diversidad regional y del uso sostenible de los recursos en la economía colombiana.",
       "difficulty": "10",
       "images": [],

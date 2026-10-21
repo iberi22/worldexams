@@ -348,18 +348,18 @@
         },
         {
           "letter": "C",
-          "text": "Falta de información sobre el transporte público",
-          "is_correct": true,
-          "feedback": "Correcto. La falta de conocimiento sobre las rutas y horarios del transporte público limita la movilidad de los migrantes, dificultando su acceso a servicios y oportunidades."
-        },
-        {
-          "letter": "D",
           "text": "Demasiadas ciclovías en la ciudad",
           "is_correct": false,
           "feedback": "Incorrecto. Las ciclovías no son una barrera para la movilidad; son una opción de transporte sostenible. El problema es la falta de información sobre el transporte público."
+        },
+        {
+          "letter": "D",
+          "text": "Falta de información sobre el transporte público",
+          "is_correct": true,
+          "feedback": "Correcto. La falta de conocimiento sobre las rutas y horarios del transporte público limita la movilidad de los migrantes, dificultando su acceso a servicios y oportunidades."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La información sobre el transporte público es esencial para la movilidad urbana. Las personas que no conocen las rutas, horarios y tarifas del transporte público enfrentan barreras para moverse por la ciudad, lo que limita su acceso al trabajo, la educación y otros servicios.",
       "difficulty": "8",
       "images": [],

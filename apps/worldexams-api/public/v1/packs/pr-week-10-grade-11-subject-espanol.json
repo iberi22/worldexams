@@ -836,18 +836,18 @@
         },
         {
           "letter": "C",
-          "text": "Que la salvación espiritual, moral y de identidad nacional de la familia puertorriqueña no reside en la ilusión industrial urbana extranjera, sino en la reconciliación ética, la custodia y el cultivo del propio suelo patrio boricua.",
-          "is_correct": true,
-          "feedback": "¡Correcto! El retorno a Orocovis sella la tesis moral de René Marqués: el gíbaro despojado por el espejismo mecánico de la capital o de Nueva York solo recupera su dignidad, su paz familiar y su soberanía espiritual de vida resembrando sus raíces en la tierra de Puerto Rico."
-        },
-        {
-          "letter": "D",
           "text": "Que la ley de aduanas federal del puerto de San Juan exige el retorno obligatorio de todas las familias de Vieques.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una lectura absurda ajena a la deconstrucción y sentido de la metáfora del retorno agrario de la carreta."
+        },
+        {
+          "letter": "D",
+          "text": "Que la salvación espiritual, moral y de identidad nacional de la familia puertorriqueña no reside en la ilusión industrial urbana extranjera, sino en la reconciliación ética, la custodia y el cultivo del propio suelo patrio boricua.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El retorno a Orocovis sella la tesis moral de René Marqués: el gíbaro despojado por el espejismo mecánico de la capital o de Nueva York solo recupera su dignidad, su paz familiar y su soberanía espiritual de vida resembrando sus raíces en la tierra de Puerto Rico."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La conclusión trágica y de afirmación de *La carreta* consagra a la tierra de la cordillera central de la isla como la nodriza de la puertorriqueñidad. El retorno agrario de Doña Gabriela y Juanita tras el sacrificio mortuorio de Luis en la fábrica del Bronx representa la victoria moral de la resistencia campesina criolla frente a la deshumanización de la asimilación industrial e inmigración forzada extranjera de la isla.\n\n---",
       "difficulty": "10",
       "images": [],

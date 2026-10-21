@@ -528,12 +528,12 @@ Cuando se asocia un producto culinario con un símbolo patrio en un anuncio, ¿q
 ### Opciones
 - [ ] A) Una denotación técnica basada en la clasificación biológica del ave.
   <!-- feedback: Incorrecto. No se busca informar sobre la biología del Torogoz, sino evocar patriotismo. -->
-- [x] B) Una connotación afectiva que asocia la identidad nacional con la marca.
-  <!-- feedback: ¡Correcto! La marca aprovecha el valor emocional e identitario del símbolo patrio para persuadir al consumidor. -->
+- [ ] B) Una barrera física entre el cliente y el mercado nacional.
+  <!-- feedback: Incorrecto. No establece barreras físicas. -->
 - [ ] C) La simplificación material del canal visual de transmisión.
   <!-- feedback: Incorrecto. Es un proceso de significación conceptual. -->
-- [ ] D) Una barrera física entre el cliente y el mercado nacional.
-  <!-- feedback: Incorrecto. No establece barreras físicas. -->
+- [x] D) Una connotación afectiva que asocia la identidad nacional con la marca.
+  <!-- feedback: ¡Correcto! La marca aprovecha el valor emocional e identitario del símbolo patrio para persuadir al consumidor. -->
 
 ### Explicación Pedagógica
 La connotación publicitaria transfiere valores culturales y afectivos preexistentes en la sociedad hacia las marcas comerciales.

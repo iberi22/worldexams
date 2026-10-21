@@ -440,18 +440,18 @@
         },
         {
           "letter": "C",
-          "text": "\"Muchos videojuegos educativos fomentan el pensamiento lógico y la coordinación; además, no hay estudios científicos definitivos que prueben una relación directa entre el juego y la violencia real\".",
-          "is_correct": true,
-          "feedback": "Correcto. Ataca la base del argumento contrario con otros beneficios y cuestionando la evidencia."
-        },
-        {
-          "letter": "D",
           "text": "\"Usted no sabe nada de videojuegos porque ya está muy viejo\".",
           "is_correct": false,
           "feedback": "Incorrecto. Es un ataque personal (*ad hominem*), no es un contraargumento válido sobre el tema."
+        },
+        {
+          "letter": "D",
+          "text": "\"Muchos videojuegos educativos fomentan el pensamiento lógico y la coordinación; además, no hay estudios científicos definitivos que prueben una relación directa entre el juego y la violencia real\".",
+          "is_correct": true,
+          "feedback": "Correcto. Ataca la base del argumento contrario con otros beneficios y cuestionando la evidencia."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Aprender a contraargumentar es vital para el pensamiento crítico. No se trata de atacar a la persona que habla, sino de encontrar las debilidades en su lógica o presentar información nueva que demuestre que su tesis no es totalmente cierta o tiene excepciones importantes.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
       "difficulty": "10",
       "images": [],

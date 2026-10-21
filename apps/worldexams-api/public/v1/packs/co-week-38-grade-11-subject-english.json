@@ -59,12 +59,6 @@
       "context": "Discussing comprehensive review 1 in Pereira.",
       "options": [
         {
-          "letter": "C",
-          "text": "deepen",
-          "is_correct": true,
-          "feedback": "'Deepen' means to make something stronger or more intense, and repeated errors make existing doubts far greater."
-        },
-        {
           "letter": "A",
           "text": "settle",
           "is_correct": false,
@@ -75,6 +69,12 @@
           "text": "delay",
           "is_correct": false,
           "feedback": "'Delay' describes putting something off in time, which has nothing to do with the effect of the findings."
+        },
+        {
+          "letter": "C",
+          "text": "deepen",
+          "is_correct": true,
+          "feedback": "'Deepen' means to make something stronger or more intense, and repeated errors make existing doubts far greater."
         },
         {
           "letter": "D",
@@ -105,16 +105,16 @@
       "context": "Discussing comprehensive review 1 in Cartagena.",
       "options": [
         {
-          "letter": "B",
-          "text": "ease",
-          "is_correct": true,
-          "feedback": "'Ease' means to make something less difficult or burdensome, which is exactly what simplifying paperwork does."
-        },
-        {
           "letter": "A",
           "text": "intensify",
           "is_correct": false,
           "feedback": "'Intensify' means to make something stronger, whereas the recommendation is meant to make the burden lighter."
+        },
+        {
+          "letter": "B",
+          "text": "ease",
+          "is_correct": true,
+          "feedback": "'Ease' means to make something less difficult or burdensome, which is exactly what simplifying paperwork does."
         },
         {
           "letter": "C",
@@ -151,12 +151,6 @@
       "context": "Discussing comprehensive review 1 in Cartagena.",
       "options": [
         {
-          "letter": "C",
-          "text": "gauge",
-          "is_correct": true,
-          "feedback": "'Gauge' means to measure or estimate the extent of something, and figures that are too weak cannot gauge how serious the damage is."
-        },
-        {
           "letter": "A",
           "text": "pledge",
           "is_correct": false,
@@ -167,6 +161,12 @@
           "text": "salvage",
           "is_correct": false,
           "feedback": "'Salvage' means to rescue or preserve something from loss, so it describes saving goods rather than assessing a figure."
+        },
+        {
+          "letter": "C",
+          "text": "gauge",
+          "is_correct": true,
+          "feedback": "'Gauge' means to measure or estimate the extent of something, and figures that are too weak cannot gauge how serious the damage is."
         },
         {
           "letter": "D",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W38-comprehensive-review-1-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on comprehensive review 1 in Cartagena, what is implied about the role of Integrating Advanced Structures in shaping public opinion?",
-      "context": "Discussing comprehensive review 1 in Cartagena.",
+      "statement": "Read the text and answer the question.\n\n\"Less than two hours by road from Cartagena lies San Basilio de Palenque, a town founded by Africans who escaped slavery in the seventeenth century. Its people still speak Palenquero, a language that mixes Spanish with elements of African languages. In 2005, UNESCO recognised the town's culture as part of the heritage of humanity. Today, young palenqueros teach the language at the local school so that it is not lost as older speakers die.\"\n\nWhy do young palenqueros teach Palenquero at the local school?",
+      "context": "Reading a short text about San Basilio de Palenque, near Cartagena.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "To keep the language alive for future generations.",
           "is_correct": true,
-          "feedback": "The report treats Integrating Advanced Structures as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
+          "feedback": "Correct. The text says they teach it 'so that it is not lost as older speakers die', which means preserving it."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "To replace Spanish in the whole country.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "Incorrect. The text says Palenquero mixes Spanish with African elements; no one wants it to replace Spanish."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Because UNESCO requires all schools to teach it.",
           "is_correct": false,
-          "feedback": "Integrating Advanced Structures add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "Incorrect. UNESCO recognised the culture in 2005, but the text mentions no requirement for schools."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Medellín.",
+          "text": "To prepare tourists who visit from Cartagena.",
           "is_correct": false,
-          "feedback": "The report presents Integrating Advanced Structures as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "Incorrect. Cartagena appears only to locate the town; the classes are for the local community."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Purpose clauses with 'so that' give the reason for an action. The final sentence states the purpose directly: the language must not be lost when older speakers die. The other options use names from the text (UNESCO, Spanish, Cartagena) but connect them wrongly.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -243,12 +243,6 @@
       "context": "Discussing comprehensive review 1 in Cartagena.",
       "options": [
         {
-          "letter": "C",
-          "text": "To highlight the order of events or the limit on a claim",
-          "is_correct": true,
-          "feedback": "Inversion after 'hardly', 'rarely' or 'not until' brings the earliest event to the front, so the ordering carries the emphasis."
-        },
-        {
           "letter": "A",
           "text": "To make the sentence sound older",
           "is_correct": false,
@@ -259,6 +253,12 @@
           "text": "To avoid repeating the subject",
           "is_correct": false,
           "feedback": "Inversion often keeps a subject from repeating, but here the reason is the emphasis that fronting a restrictive phrase creates."
+        },
+        {
+          "letter": "C",
+          "text": "To highlight the order of events or the limit on a claim",
+          "is_correct": true,
+          "feedback": "Inversion after 'hardly', 'rarely' or 'not until' brings the earliest event to the front, so the ordering carries the emphasis."
         },
         {
           "letter": "D",
@@ -289,12 +289,6 @@
       "context": "Discussing comprehensive review 1 in Cartagena.",
       "options": [
         {
-          "letter": "D",
-          "text": "The reconsideration was conditional on the appeal",
-          "is_correct": true,
-          "feedback": "'Would' in this inverted clause makes the reconsideration depend on the appeal being filed, and 'Not until' delays it until then."
-        },
-        {
           "letter": "A",
           "text": "The council rejected the licence immediately",
           "is_correct": false,
@@ -311,6 +305,12 @@
           "text": "The reconsideration happened regardless of the appeal",
           "is_correct": false,
           "feedback": "'Would' with 'not until' explicitly makes the action dependent on the condition, so it could not happen independently of it."
+        },
+        {
+          "letter": "D",
+          "text": "The reconsideration was conditional on the appeal",
+          "is_correct": true,
+          "feedback": "'Would' in this inverted clause makes the reconsideration depend on the appeal being filed, and 'Not until' delays it until then."
         }
       ],
       "correct_answer": "D",
@@ -331,36 +331,36 @@
     },
     {
       "id": "CO-ING-11-2026-W38-comprehensive-review-1-001-MASTERY-bundle-v8",
-      "statement": "According to a recent report on comprehensive review 1 in Bucaramanga, what is implied about the role of Integrating Advanced Structures in shaping public opinion?",
-      "context": "Discussing comprehensive review 1 in Bucaramanga.",
+      "statement": "Read the text and answer the question.\n\n\"Bucaramanga is often called 'the city of parks' because of the many green spaces in its neighbourhoods. A student project counted the visitors in five parks during one weekend. The students found that the parks with lights, benches and clean bathrooms attracted three times more families than the others. They concluded that the number of parks matters less than their condition, and they sent their findings to the local authorities.\"\n\nIn the text, what does \"condition\" refer to?",
+      "context": "Reading a short text about a student project on parks in Bucaramanga.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats Integrating Advanced Structures as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "A rule that visitors must follow.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "Incorrect. 'Condition' can mean a requirement, but the text compares lights, benches and bathrooms, not rules."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "The weather in the parks during the weekend.",
           "is_correct": false,
-          "feedback": "Integrating Advanced Structures add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "Incorrect. Weather is never mentioned; the comparison is about the parks' facilities."
+        },
+        {
+          "letter": "C",
+          "text": "The state of the parks and their facilities.",
+          "is_correct": true,
+          "feedback": "Correct. The students compared parks with and without lights, benches and clean bathrooms, so 'condition' means how well-kept they are."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Cartagena.",
+          "text": "The illness of some visitors.",
           "is_correct": false,
-          "feedback": "The report presents Integrating Advanced Structures as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "Incorrect. This is the medical meaning of 'condition', which does not fit a sentence about parks."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Many English words have several meanings, and context decides which one applies. 'Condition' can mean a rule, an illness or the state of something. The finding about lights, benches and clean bathrooms shows that here it means the physical state of the parks.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -377,36 +377,36 @@
     },
     {
       "id": "CO-ING-11-2026-W38-comprehensive-review-1-001-MASTERY-bundle-v9",
-      "statement": "According to a recent report on comprehensive review 1 in Medellín, what is implied about the role of Integrating Advanced Structures in shaping public opinion?",
-      "context": "Discussing comprehensive review 1 in Medellín.",
+      "statement": "Read the text and answer the question.\n\n\"In the early 2000s, Medellín built large public libraries in some of its poorest hillside neighbourhoods. These 'library parks' offer books, computers, music rooms and free workshops. Before they opened, many young people in these areas had to travel more than an hour to find a public library. Today, some of the libraries receive thousands of visitors every week, and several former users now work there as workshop leaders.\"\n\nWhat can be inferred about the former users who now work as workshop leaders?",
+      "context": "Reading a short text about library parks in Medellín.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "The libraries helped them develop skills that they now share with others.",
           "is_correct": true,
-          "feedback": "The report treats Integrating Advanced Structures as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
+          "feedback": "Correct. They used the libraries' workshops and now lead them, which suggests they gained skills there and pass them on."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "They have to travel more than an hour to get to work.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "Incorrect. The one-hour trip describes the situation before the libraries opened, not the leaders' current journey."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "They were hired because the libraries had no visitors.",
           "is_correct": false,
-          "feedback": "Integrating Advanced Structures add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "Incorrect. The text says some libraries receive thousands of visitors every week."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Cartagena.",
+          "text": "They only teach in the city centre.",
           "is_correct": false,
-          "feedback": "The report presents Integrating Advanced Structures as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "Incorrect. The libraries are in hillside neighbourhoods, not in the city centre."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "The inference connects the past (they were users of the library) with the present (they work there leading workshops). This change suggests the libraries had a lasting impact on their lives. Distractors misuse details from a different time or place in the text.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -423,36 +423,36 @@
     },
     {
       "id": "CO-ING-11-2026-W38-comprehensive-review-1-001-MASTERY-bundle-v10",
-      "statement": "According to a recent report on comprehensive review 1 in Cali, what is implied about the role of Integrating Advanced Structures in shaping public opinion?",
-      "context": "Discussing comprehensive review 1 in Cali.",
+      "statement": "Read the email and answer the question.\n\n\"Dear students,\nAs you know, the Saber 11 practice test will take place next Saturday at 7 a.m. in the main hall. Please bring two pencils, an eraser and your identity card. Mobile phones must be switched off and left in your bag. The test lasts about four and a half hours, with a short break. The results will not affect your grades; they will help us plan the review sessions for next month.\nBest regards,\nProfessor Ramírez\"\n\nWhat is the main purpose of the email?",
+      "context": "Reading an email from a teacher in Cali.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats Integrating Advanced Structures as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "To announce the students' final grades.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "Incorrect. The email says the results 'will not affect your grades', and no grades are given."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "To ask students to bring their mobile phones.",
           "is_correct": false,
-          "feedback": "Integrating Advanced Structures add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "Incorrect. Phones must be switched off and left in bags, so they are not part of the materials requested."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Medellín.",
+          "text": "To cancel next month's review sessions.",
           "is_correct": false,
-          "feedback": "The report presents Integrating Advanced Structures as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "Incorrect. The review sessions will be planned using the results, so they are not cancelled."
+        },
+        {
+          "letter": "D",
+          "text": "To give students practical information about a practice test.",
+          "is_correct": true,
+          "feedback": "Correct. The email gives the date, time, place, materials, rules and duration of the practice test."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Emails from teachers often combine several details, but all of them serve one purpose. Here the time, place, materials, phone rule and duration are all practical information that students need for the practice test. The last sentence explains why the test matters, not a new purpose.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -473,12 +473,6 @@
       "context": "Discussing comprehensive review 1 in Medellín.",
       "options": [
         {
-          "letter": "D",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -495,6 +489,12 @@
           "text": "did",
           "is_correct": false,
           "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+        },
+        {
+          "letter": "D",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
         }
       ],
       "correct_answer": "D",
@@ -565,12 +565,6 @@
       "context": "Discussing comprehensive review 1 in Barranquilla.",
       "options": [
         {
-          "letter": "C",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "'Scarcely had' is the past perfect inversion, showing the auditor's departure happened immediately before the calls."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -581,6 +575,12 @@
           "text": "was",
           "is_correct": false,
           "feedback": "'Was' cannot form the inversion that fronted 'Scarcely' demands and does not order the two past events."
+        },
+        {
+          "letter": "C",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "'Scarcely had' is the past perfect inversion, showing the auditor's departure happened immediately before the calls."
         },
         {
           "letter": "D",
@@ -611,16 +611,16 @@
       "context": "Discussing comprehensive review 1 in Cali.",
       "options": [
         {
-          "letter": "B",
-          "text": "does",
-          "is_correct": true,
-          "feedback": "'Rarely' is a negative-frequency adverb and it takes an affirmative auxiliary, so 'does an audit produce' is correct."
-        },
-        {
           "letter": "A",
           "text": "an audit does",
           "is_correct": false,
           "feedback": "In formal English the auxiliary precedes the subject after 'rarely', so the order must be 'does an audit produce'."
+        },
+        {
+          "letter": "B",
+          "text": "does",
+          "is_correct": true,
+          "feedback": "'Rarely' is a negative-frequency adverb and it takes an affirmative auxiliary, so 'does an audit produce' is correct."
         },
         {
           "letter": "C",
@@ -657,32 +657,32 @@
       "context": "Discussing comprehensive review 1 in Cartagena.",
       "options": [
         {
-          "letter": "B",
+          "letter": "A",
           "text": "did",
-          "is_correct": true,
-          "feedback": "Fronting the negative phrase 'Not until' triggers inversion, giving 'did any of the figures be considered' with the auxiliary first."
+          "is_correct": false,
+          "feedback": "Incorrect. 'Did' cannot be followed by 'be' + participle; 'did any of the figures be considered' is not a possible English structure."
         },
         {
-          "letter": "A",
-          "text": "has",
-          "is_correct": false,
-          "feedback": "'Has' does not produce the inversion that 'Not until' requires, so the restrictive force of the phrase is lost."
+          "letter": "B",
+          "text": "could",
+          "is_correct": true,
+          "feedback": "Correct. A modal inverts after 'Not until' and is followed by a passive infinitive: 'could any of the figures be considered official'."
         },
         {
           "letter": "C",
-          "text": "was",
+          "text": "were",
           "is_correct": false,
-          "feedback": "'Was' cannot be inverted to open this clause and does not delay the figures until after the audit."
+          "feedback": "Incorrect. 'Were' already forms the passive, so 'were any of the figures be considered' repeats 'be' and is ungrammatical."
         },
         {
           "letter": "D",
-          "text": "did not",
+          "text": "have",
           "is_correct": false,
-          "feedback": "'Did not' would say the figures were never considered official, whereas the sentence only rules out their being official before the audit."
+          "feedback": "Incorrect. 'Have' needs 'been', not 'be', to form a passive ('have... been considered'), and the present perfect clashes with 'was published'."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Not until the audit was published did any of the figures be considered official' inverts the auxiliary before the subject, and that inversion is what carries the meaning 'none of them was official earlier than that'.\n\n---",
+      "explanation": "After a fronted 'Not until...' the main clause inverts. Because the sentence continues with 'be considered' (a bare passive infinitive), the auxiliary must be a modal such as 'could': 'Not until the final audit was published could any of the figures be considered official.' 'Did', 'were' and 'have' cannot be followed by 'be'.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -749,32 +749,32 @@
       "context": "Discussing comprehensive review 1 in Manizales.",
       "options": [
         {
-          "letter": "C",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
           "text": "They are literally looking for something in the trees of Bucaramanga.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads the idiom literally; nobody in the debate is searching real trees, because the expression is figurative and describes a mistaken line of action."
         },
         {
           "letter": "B",
           "text": "The approach is too noisy and aggressive.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. 'Barking' here does not describe a loud or aggressive tone; the idiom is about choosing the wrong objective, not about how people speak."
+        },
+        {
+          "letter": "C",
+          "text": "The current strategy is directed towards the wrong objective.",
+          "is_correct": true,
+          "feedback": "Correct. 'Bark up the wrong tree' means aiming your effort at the wrong cause or target, so the speaker is saying the current plan on comprehensive review 1 points in the wrong direction."
         },
         {
           "letter": "D",
           "text": "A new environmental project involving trees should be started.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The word 'tree' belongs to a fixed expression, so the speaker is not proposing a project with trees; the speaker is criticising the approach under discussion."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "The idiom 'bark up the wrong tree' comes from hunting dogs that bark at a tree after the animal has escaped to another one. In a debate about comprehensive review 1, it means the group's effort is aimed at the wrong cause or solution. The literal words (barking, trees) are not part of the message, so any option that mentions real trees or noise misreads the idiom.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-ING-11-2026-W38-comprehensive-review-1-001-MASTERY-bundle-v18",
-      "statement": "In a high-level debate about comprehensive review 1, Mateo says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mateo mean?",
-      "context": "Discussing comprehensive review 1 in Medellín.",
+      "statement": "Read the dialogue.\n\nStudent: \"The exam is on Friday and I'm nervous about the reading section.\"\nTeacher: \"Don't worry. Let's go over the reading strategies one more time on Thursday.\"\n\nWhat does the teacher propose?",
+      "context": "A conversation before an exam in Medellín.",
       "options": [
         {
-          "letter": "B",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "letter": "A",
+          "text": "Skip the strategies because there is no time.",
+          "is_correct": false,
+          "feedback": "Incorrect. The teacher offers a session on Thursday, so the strategies will be practised, not skipped."
         },
         {
-          "letter": "A",
-          "text": "They are literally looking for something in the trees of Cali.",
-          "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "letter": "B",
+          "text": "Review the strategies again.",
+          "is_correct": true,
+          "feedback": "Correct. 'Go over something' means to examine or revise it carefully, and 'one more time' confirms it is a review."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Walk over to another classroom.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. 'Over' does not refer to moving to another place; the object of the phrasal verb is 'the strategies'."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Teach completely new strategies.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. 'One more time' shows the strategies were already studied, so they are not new."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Go over' is a phrasal verb meaning to review or check something carefully. It is very common in study contexts: 'go over your notes', 'go over the answers'. The expression 'one more time' shows the teacher is talking about revising material already studied.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -841,12 +841,6 @@
       "context": "Discussing comprehensive review 1 in Barranquilla.",
       "options": [
         {
-          "letter": "C",
-          "text": "A line of argument that everyone accepts is already useless.",
-          "is_correct": true,
-          "feedback": "'Beating a dead horse' means continuing to pursue something pointless, which is what the debate has been doing for weeks."
-        },
-        {
           "letter": "A",
           "text": "A person who is working far too many hours.",
           "is_correct": false,
@@ -857,6 +851,12 @@
           "text": "An argument that is being made much too loudly.",
           "is_correct": false,
           "feedback": "The expression refers to futility rather than volume, and nothing in the sentence suggests a loud dispute."
+        },
+        {
+          "letter": "C",
+          "text": "A line of argument that everyone accepts is already useless.",
+          "is_correct": true,
+          "feedback": "'Beating a dead horse' means continuing to pursue something pointless, which is what the debate has been doing for weeks."
         },
         {
           "letter": "D",
@@ -883,36 +883,36 @@
     },
     {
       "id": "CO-ING-11-2026-W38-comprehensive-review-1-001-MASTERY-bundle-v20",
-      "statement": "In a high-level debate about comprehensive review 1, Alejandro says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Alejandro mean?",
-      "context": "Discussing comprehensive review 1 in Cali.",
+      "statement": "Read the dialogue.\n\nValeria: \"Are you coming to the party on Saturday?\"\nJuan: \"I'd love to, but I really need to hit the books. My final exams start on Monday.\"\n\nWhat does Juan mean?",
+      "context": "A conversation about weekend plans before final exams in Cali.",
       "options": [
         {
-          "letter": "B",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "letter": "A",
+          "text": "He is angry with his textbooks.",
+          "is_correct": false,
+          "feedback": "Incorrect. This reads 'hit' literally as a physical action; the idiom is not about being angry."
         },
         {
-          "letter": "A",
-          "text": "They are literally looking for something in the trees of Barranquilla.",
-          "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "letter": "B",
+          "text": "He needs to study hard.",
+          "is_correct": true,
+          "feedback": "Correct. 'Hit the books' is an informal idiom meaning to study intensively, which fits exams starting on Monday."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "He is going to sell his books.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. Nothing in the dialogue suggests selling; the books are what he will study."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "He will organise the party at the library.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. Juan is refusing the invitation ('I'd love to, but...'), so he is not organising anything."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Hit the books' is an informal idiom that means to study hard. The structure 'I'd love to, but...' is a polite way of refusing an invitation, and the reason he gives (exams on Monday) confirms the meaning of the idiom.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

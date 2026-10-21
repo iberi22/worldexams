@@ -375,9 +375,9 @@ Factorizar completamente exige llegar a factores irreducibles: $2x^3 - 8x = 2x(x
 
 ### Opciones
 - [ ] A) Es válida para todo número real $x$, sin excepción. <!-- feedback: Incorrecto. En $x = -2$ el denominador se anula y la expresión original no existe. -->
-- [x] B) Es válida para todo $x \ne -2$, pues $x^2 + 5x + 6 = (x+2)(x+3)$. <!-- feedback: ¡Correcto! La factorización justifica la simplificación, con la restricción del dominio. -->
+- [ ] B) Es válida solo para valores positivos de $x$. <!-- feedback: Incorrecto. Vale también para negativos, siempre que $x \ne -2$. -->
 - [ ] C) Es inválida porque el numerador no es divisible entre $x + 2$. <!-- feedback: Incorrecto. Como $-2$ es raíz del numerador, la división es exacta. -->
-- [ ] D) Es válida solo para valores positivos de $x$. <!-- feedback: Incorrecto. Vale también para negativos, siempre que $x \ne -2$. -->
+- [x] D) Es válida para todo $x \ne -2$, pues $x^2 + 5x + 6 = (x+2)(x+3)$. <!-- feedback: ¡Correcto! La factorización justifica la simplificación, con la restricción del dominio. -->
 
 ### Explicación Pedagógica
 Factorizando, $x^2 + 5x + 6 = (x+2)(x+3)$, así la fracción se reduce a $x+3$ siempre que $x \ne -2$. Simplificar no elimina las restricciones del dominio original.

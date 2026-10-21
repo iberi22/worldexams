@@ -36,9 +36,9 @@ Automation is the use of technology to perform tasks that were previously done b
 
 ### Opciones
 - [ ] A) Tradition <!-- feedback: Incorrect. Tradition focuses on the past. -->
-- [x] D) Automation <!-- feedback: Correct. Key concept for future labor markets. -->
 - [ ] B) Manual labor <!-- feedback: Incorrect. Done by hand. -->
 - [ ] C) Craftsmanship <!-- feedback: Incorrect. Skilled manual work. -->
+- [x] D) Automation <!-- feedback: Correct. Key concept for future labor markets. -->
 
 ### Explicacion Pedagogica
 'Automation' is the standard term for the technological replacement of human labor.
@@ -95,8 +95,8 @@ The mixed conditional connects a past hypothetical failure with a present negati
 UBI is a model for providing all citizens of a country with a given sum of money, regardless of their income or employment status.
 
 ### Opciones
-- [x] B) regardless of <!-- feedback: Correct. Means without paying attention to or being affected by. -->
 - [ ] A) because of <!-- feedback: Incorrect. UBI is not dependent on these factors. -->
+- [x] B) regardless of <!-- feedback: Correct. Means without paying attention to or being affected by. -->
 - [ ] C) in addition to <!-- feedback: Incorrect. While it is extra money, 'regardless of' is the key part of the definition. -->
 - [ ] D) instead of <!-- feedback: Incorrect. UBI is usually proposed as a base, not necessarily a replacement for all other systems. -->
 
@@ -135,8 +135,8 @@ Transhumanism is the belief or theory that the human race can evolve beyond its 
 To colonize another planet means to send people to live there and establish a permanent settlement.
 
 ### Opciones
-- [ ] B) visit <!-- feedback: Incorrect. Visiting is temporary. -->
 - [x] A) colonize <!-- feedback: Correct. To establish a permanent presence. -->
+- [ ] B) visit <!-- feedback: Incorrect. Visiting is temporary. -->
 - [ ] C) destroy <!-- feedback: Incorrect. Opposite goal. -->
 - [ ] D) ignore <!-- feedback: Incorrect. Opposite of exploration. -->
 
@@ -176,8 +176,8 @@ Vertical farming could provide a sustainable solution to food production in dens
 
 ### Opciones
 - [ ] A) rural <!-- feedback: Incorrect. Rural areas have plenty of land for traditional farming. -->
-- [x] C) urban <!-- feedback: Correct. Vertical farming is designed for city environments. -->
 - [ ] B) arctic <!-- feedback: Incorrect. Too cold. -->
+- [x] C) urban <!-- feedback: Correct. Vertical farming is designed for city environments. -->
 - [ ] D) desert <!-- feedback: Incorrect. While possible, 'urban' is the primary context for vertical farming. -->
 
 ### Explicacion Pedagogica
@@ -255,8 +255,8 @@ A futurist is a person who studies the future and makes predictions about it bas
 By next century, many coastal cities will have been submerged by rising sea levels.
 
 ### Opciones
-- [ ] B) will submerge <!-- feedback: Incorrect. Active voice. -->
 - [x] A) will have been submerged <!-- feedback: Correct. Future perfect passive for a completed state. -->
+- [ ] B) will submerge <!-- feedback: Incorrect. Active voice. -->
 - [ ] C) are submerged <!-- feedback: Incorrect. Present. -->
 - [ ] D) submerging <!-- feedback: Incorrect. Gerund. -->
 
@@ -275,9 +275,9 @@ The future perfect passive indicates that the state of being submerged will be a
 Scientific advancements in biotechnology could significantly increase human longevity.
 
 ### Opciones
-- [x] C) longevity <!-- feedback: Correct. Longevity means long life. -->
 - [ ] A) height <!-- feedback: Incorrect. Not a primary focus of biotechnology. -->
 - [ ] B) confusion <!-- feedback: Incorrect. Science aims for clarity. -->
+- [x] C) longevity <!-- feedback: Correct. Longevity means long life. -->
 - [ ] D) scarcity <!-- feedback: Incorrect. Usually used for resources. -->
 
 ### Explicacion Pedagogica
@@ -335,8 +335,8 @@ The author concludes that adaptability will be the most valuable skill in the fu
 Cryptocurrency is a digital or virtual currency that is secured by cryptography.
 
 ### Opciones
-- [ ] B) Cash <!-- feedback: 'Cash' means physical banknotes and coins, whereas cryptocurrency is entirely digital and secured by cryptography. -->
 - [x] A) Cryptocurrency <!-- feedback: Correct. The specific digital term. -->
+- [ ] B) Cash <!-- feedback: 'Cash' means physical banknotes and coins, whereas cryptocurrency is entirely digital and secured by cryptography. -->
 - [ ] C) Barter <!-- feedback: Incorrect. Trading goods directly. -->
 - [ ] D) Credit <!-- feedback: Incorrect. Too broad. -->
 
@@ -355,8 +355,8 @@ Cryptocurrency is a digital or virtual currency that is secured by cryptography.
 Experts predicted that AI would eventually surpass human intelligence in many tasks.
 
 ### Opciones
-- [ ] B) will <!-- feedback: Incorrect. Backshifted in reported speech. -->
 - [x] A) would <!-- feedback: Correct. Backshifted from 'will' to 'would'. -->
+- [ ] B) will <!-- feedback: Incorrect. Backshifted in reported speech. -->
 - [ ] C) should <!-- feedback: Incorrect. Expresses advice or expectation. -->
 - [ ] D) can <!-- feedback: Incorrect. Backshifted to 'could'. -->
 
@@ -396,9 +396,9 @@ By 2030, scientists will have been monitoring global temperatures for over a cen
 
 ### Opciones
 - [ ] A) will monitor <!-- feedback: Incorrect. Simple future. -->
-- [x] B) will have been monitoring <!-- feedback: Correct. Future perfect continuous for duration up to a future point. -->
+- [ ] B) monitor <!-- feedback: Incorrect. Present simple. -->
 - [ ] C) have been monitoring <!-- feedback: Incorrect. Present perfect continuous. -->
-- [ ] D) monitor <!-- feedback: Incorrect. Present simple. -->
+- [x] D) will have been monitoring <!-- feedback: Correct. Future perfect continuous for duration up to a future point. -->
 
 ### Explicacion Pedagogica
 The future perfect continuous 'will have been monitoring' describes the total duration of a study at a specific future time.
@@ -415,9 +415,9 @@ The future perfect continuous 'will have been monitoring' describes the total du
 The greatest challenge for the future is to ensure that technological progress is guided by human ethics.
 
 ### Opciones
-- [x] C) ethics <!-- feedback: Correct. Moral principles that govern behavior. -->
 - [ ] A) speed <!-- feedback: Incorrect. Speed is part of technology, but not the 'guide'. -->
 - [ ] B) profit <!-- feedback: Incorrect. Profit is a guide for business, but the 'challenge' is usually about higher principles. -->
+- [x] C) ethics <!-- feedback: Correct. Moral principles that govern behavior. -->
 - [ ] D) curiosity <!-- feedback: Incorrect. Curiosity drives the progress, but ethics must guide its application. -->
 
 ### Explicacion Pedagogica

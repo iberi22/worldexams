@@ -740,9 +740,9 @@
         },
         {
           "letter": "B",
-          "text": "El crecimiento de mercado y la estabilidad fiscal se basaron en la persistente exportación monoproductora de materias primas sin refinar (extractivismo del cobre, celulosa, harina de pescado) de bajo valor agregado, manteniendo la dependencia e incubando una profunda desigualdad social de clases.",
-          "is_correct": true,
-          "feedback": "Correcto. Si bien el modelo de libre mercado generó innegables ingresos aduaneros fiscales macroeconómicos estables, perpetuó el carácter primario dependiente del país del salitre de antaño. El éxito financiero benefició preferentemente a escasos grupos económicos concentrados, mientras precarizó la base laboral del proletariado pampino y campesino chileno contemporáneo."
+          "text": "La privatización de CODELCO permitió duplicar de forma gratuita el presupuesto del Servicio Nacional de Salud.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Codelco continuó siendo la gran corporación estatal inalienable de Chile, y sus excedentes se desviaban preferentemente a la Ley Reservada del Cobre de Pinochet para las FF.AA., debilitando el presupuesto del SNS."
         },
         {
           "letter": "C",
@@ -752,12 +752,12 @@
         },
         {
           "letter": "D",
-          "text": "La privatización de CODELCO permitió duplicar de forma gratuita el presupuesto del Servicio Nacional de Salud.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Codelco continuó siendo la gran corporación estatal inalienable de Chile, y sus excedentes se desviaban preferentemente a la Ley Reservada del Cobre de Pinochet para las FF.AA., debilitando el presupuesto del SNS."
+          "text": "El crecimiento de mercado y la estabilidad fiscal se basaron en la persistente exportación monoproductora de materias primas sin refinar (extractivismo del cobre, celulosa, harina de pescado) de bajo valor agregado, manteniendo la dependencia e incubando una profunda desigualdad social de clases.",
+          "is_correct": true,
+          "feedback": "Correcto. Si bien el modelo de libre mercado generó innegables ingresos aduaneros fiscales macroeconómicos estables, perpetuó el carácter primario dependiente del país del salitre de antaño. El éxito financiero benefició preferentemente a escasos grupos económicos concentrados, mientras precarizó la base laboral del proletariado pampino y campesino chileno contemporáneo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El 'milagro económico' chileno descansa sobre cimientos extractivistas de bajo valor agregado y asimetría de riqueza. Al omitir de forma ineludible la industrialización pesada y de tecnología nacional (bienes de capital), Chile mantuvo su fisonomía colonial de exportador de recursos básicos naturales, sujeto a los vaivenes de precios globales y de inflación externa.\n\n---",
       "difficulty": "10",
       "images": [],

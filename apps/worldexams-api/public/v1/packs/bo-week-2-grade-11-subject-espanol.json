@@ -824,9 +824,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "La internalización cultural y social de la cosmovisión comunitaria.",
-          "is_correct": true,
-          "feedback": "Adquirir la lengua materna permite asimilar la herencia cultural andina."
+          "text": "El aprendizaje artificial y de memoria en plataformas digitales.",
+          "is_correct": false,
+          "feedback": "consiste en un adiestramiento robótico de software de red."
         },
         {
           "letter": "B",
@@ -842,12 +842,12 @@
         },
         {
           "letter": "D",
-          "text": "El aprendizaje artificial y de memoria en plataformas digitales.",
-          "is_correct": false,
-          "feedback": "consiste en un adiestramiento robótico de software de red."
+          "text": "La internalización cultural y social de la cosmovisión comunitaria.",
+          "is_correct": true,
+          "feedback": "Adquirir la lengua materna permite asimilar la herencia cultural andina."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Adquirir la lengua materna permite asimilar la herencia cultural andina. Este análisis permite comprender las dicotomías saussureanas en la sociedad de Tupiza.\n\n---",
       "difficulty": "10",
       "images": [],

@@ -336,9 +336,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Tomarle el celular para que ya no se moleste",
-          "is_correct": false,
-          "feedback": "Incorrecto. Quitarle el aparato sin explicar no resuelve el problema: lo deja sin saber qué le causa la molestia."
+          "text": "Preguntarle qué le pasa y buscar con un adulto una forma más segura de tomar la foto",
+          "is_correct": true,
+          "feedback": "Correcto. Preguntar y consultar a un adulto resuelve la causa del problema y cuida al compañero sin quitarle nada."
         },
         {
           "letter": "B",
@@ -348,9 +348,9 @@
         },
         {
           "letter": "C",
-          "text": "Preguntarle qué le pasa y buscar con un adulto una forma más segura de tomar la foto",
-          "is_correct": true,
-          "feedback": "Correcto. Preguntar y consultar a un adulto resuelve la causa del problema y cuida al compañero sin quitarle nada."
+          "text": "Tomarle el celular para que ya no se moleste",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quitarle el aparato sin explicar no resuelve el problema: lo deja sin saber qué le causa la molestia."
         },
         {
           "letter": "D",
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Difundir la molestia del compañero solo aumenta su vergüenza y no resuelve nada."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Usar mal una herramienta electrónica puede dañar la salud de quien la usa. Una pantalla muy brillante vista en la oscuridad cansa la vista y causa dolor de cabeza, así que la respuesta correcta no es ignorar el problema ni grabarlo, sino preguntar qué siente y buscar con un adulto una alternativa más segura, como esperar a que haya luz. Reconocer esa forma de actuar enseña a los niños que la tecnología se usa con criterio y que cuidar a un compañero también significa cuidar su cuerpo.",
       "difficulty": "8",
       "images": [],

@@ -869,15 +869,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "$S = \\{1\\}$",
-          "is_correct": true,
-          "feedback": "Correcto. Por la propiedad del cociente, $(x + 2)/x = 3$, de donde $x + 2 = 3x$ y $x = 1$, que cumple el dominio $x > 0$."
-        },
-        {
-          "letter": "B",
           "text": "$S = \\{2\\}$",
           "is_correct": false,
           "feedback": "El 2 es el desplazamiento del primer argumento, no el valor que resulta de la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "$S = \\{1\\}$",
+          "is_correct": true,
+          "feedback": "Correcto. Por la propiedad del cociente, $(x + 2)/x = 3$, de donde $x + 2 = 3x$ y $x = 1$, que cumple el dominio $x > 0$."
         },
         {
           "letter": "C",
@@ -892,7 +892,7 @@
           "feedback": "El dominio exige $x > 0$ y la solución $x = 1$ lo cumple, de modo que el conjunto solución no es vacío."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicando la propiedad del cociente, $\\log(x + 2) - \\log(x) = \\log\\frac{x + 2}{x}$. Igualando con $\\log(3)$ resulta $\\frac{x + 2}{x} = 3$, y al multiplicar por $x$ se tiene $x + 2 = 3x$, o sea $2 = 2x$ y $x = 1$. El valor cumple el dominio, ya que $1 > 0$.\n\n---",
       "difficulty": "10",
       "images": [],

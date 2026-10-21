@@ -59,12 +59,6 @@
       "context": "Discussing comprehensive review 2 in Cartagena.",
       "options": [
         {
-          "letter": "C",
-          "text": "hamper",
-          "is_correct": true,
-          "feedback": "'Hamper' means to make progress difficult by getting in the way, which is exactly what the delays do to trade."
-        },
-        {
           "letter": "A",
           "text": "accelerate",
           "is_correct": false,
@@ -75,6 +69,12 @@
           "text": "endorse",
           "is_correct": false,
           "feedback": "'Endorse' means to give support or approval, which has no connection to obstacles in a road project."
+        },
+        {
+          "letter": "C",
+          "text": "hamper",
+          "is_correct": true,
+          "feedback": "'Hamper' means to make progress difficult by getting in the way, which is exactly what the delays do to trade."
         },
         {
           "letter": "D",
@@ -105,12 +105,6 @@
       "context": "Discussing comprehensive review 2 in Cartagena.",
       "options": [
         {
-          "letter": "C",
-          "text": "compile",
-          "is_correct": true,
-          "feedback": "'Compile' means to gather material into a single document, which is what producing a report from many sources requires."
-        },
-        {
           "letter": "A",
           "text": "dwell",
           "is_correct": false,
@@ -121,6 +115,12 @@
           "text": "repel",
           "is_correct": false,
           "feedback": "'Repel' means to drive away or reject, so it points away from the idea of producing anything at all."
+        },
+        {
+          "letter": "C",
+          "text": "compile",
+          "is_correct": true,
+          "feedback": "'Compile' means to gather material into a single document, which is what producing a report from many sources requires."
         },
         {
           "letter": "D",
@@ -151,12 +151,6 @@
       "context": "Discussing comprehensive review 2 in Cali.",
       "options": [
         {
-          "letter": "C",
-          "text": "implement",
-          "is_correct": true,
-          "feedback": "'Implement' means to put a decision or recommendation into practice, which is exactly what the ministry has not done."
-        },
-        {
           "letter": "A",
           "text": "withdraw",
           "is_correct": false,
@@ -167,6 +161,12 @@
           "text": "contradict",
           "is_correct": false,
           "feedback": "'Contradict' means to say the opposite of something, and no disagreement with the text is reported."
+        },
+        {
+          "letter": "C",
+          "text": "implement",
+          "is_correct": true,
+          "feedback": "'Implement' means to put a decision or recommendation into practice, which is exactly what the ministry has not done."
         },
         {
           "letter": "D",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W39-comprehensive-review-2-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on comprehensive review 2 in Pereira, what is implied about the role of Final Assessment Prep in shaping public opinion?",
-      "context": "Discussing comprehensive review 2 in Pereira.",
+      "statement": "Read the text and answer the question.\n\n\"Pereira is part of the Coffee Cultural Landscape, a region recognised by UNESCO in 2011. For generations, families there have grown coffee on steep slopes, often picking the beans by hand. In recent years, however, many young people have moved to the cities, and some farms struggle to find workers during the harvest. To attract them back, a few farms now offer training in specialty coffee, including tasting and roasting, which can lead to better-paid jobs.\"\n\nAccording to the text, why do some farms offer training in specialty coffee?",
+      "context": "Reading a short text about coffee farms near Pereira.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Because UNESCO asked them to stop picking coffee by hand.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. UNESCO only recognised the region in 2011; the text mentions no request to change harvesting methods."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "To sell their farms to companies from the city.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. The farms want workers to come back, not to sell their land."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Bucaramanga.",
+          "text": "Because coffee prices have fallen too low to grow coffee.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. Coffee prices are never mentioned in the text."
+        },
+        {
+          "letter": "D",
+          "text": "To make coffee work more attractive to young people.",
+          "is_correct": true,
+          "feedback": "Correct. Farms lack workers because young people left, and the training 'can lead to better-paid jobs' to attract them back."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "The answer comes from a cause-and-effect chain: young people move to cities, farms lack workers, and farms offer training 'to attract them back'. The phrase 'to attract them back' is a purpose expression that points directly to the answer.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-11-2026-W39-comprehensive-review-2-001-MASTERY-bundle-v6",
-      "statement": "According to a recent report on comprehensive review 2 in Bogotá, what is implied about the role of Final Assessment Prep in shaping public opinion?",
-      "context": "Discussing comprehensive review 2 in Bogotá.",
+      "statement": "Read the text and answer the question.\n\n\"Every morning, thousands of passengers in Bogotá wait at bus stations that are already overcrowded. Some people let two or three buses pass before they can get on. To reduce the problem, several companies now allow employees to start work at different times, so that not everyone travels at seven o'clock. Early results show that the stations are less crowded between 6:30 and 7:30 a.m.\"\n\nIn the text, \"overcrowded\" means...",
+      "context": "Reading a short text about crowded bus stations in Bogotá.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "containing too many people for the space available.",
           "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "feedback": "Correct. 'Over-' means 'too much', and the text shows people letting buses pass because there is no room for them."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "closed for repairs.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. The stations are full of passengers, so they are clearly open."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "very clean and well organised.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. The text describes a problem that companies are trying to reduce, not an organised station."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Manizales.",
+          "text": "located far from the city centre.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The word describes how many people are in the stations, not where they are."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "The prefix 'over-' means 'too much' (overweight, overpriced), and 'crowded' means full of people. The context confirms it: passengers wait for two or three buses, and staggered working hours make the stations 'less crowded'.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -285,36 +285,36 @@
     },
     {
       "id": "CO-ING-11-2026-W39-comprehensive-review-2-001-MASTERY-bundle-v7",
-      "statement": "According to a recent report on comprehensive review 2 in Manizales, what is implied about the role of Final Assessment Prep in shaping public opinion?",
-      "context": "Discussing comprehensive review 2 in Manizales.",
+      "statement": "Read the text and answer the question.\n\n\"Manizales lies not far from the Nevado del Ruiz, an active volcano. In 1985 an eruption melted part of its ice and caused a mudflow that destroyed the town of Armero, killing more than 20,000 people. Since then, scientists have monitored the volcano day and night from an observatory in Manizales. Schools in the region practise evacuation drills twice a year, and students learn the routes to safe areas.\"\n\nWhat can be inferred about the evacuation drills?",
+      "context": "Reading a short text about volcano preparedness near Manizales.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Only scientists take part in them.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. The text says schools practise the drills and students learn the routes."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "They show that the volcano is no longer active.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. The first sentence calls the Nevado del Ruiz an active volcano, which is why drills are needed."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Cartagena.",
+          "text": "They take place every day.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. 'Day and night' describes the monitoring; the drills happen twice a year."
+        },
+        {
+          "letter": "D",
+          "text": "They aim to prepare people to act quickly if the volcano becomes dangerous.",
+          "is_correct": true,
+          "feedback": "Correct. After the 1985 disaster, practising routes to safe areas helps people respond fast to a future eruption."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "The inference links the history (the 1985 mudflow) with the present (an active volcano and constant monitoring). Drills that teach routes to safe areas exist so that people can react quickly. A common trap is mixing up details: 'day and night' refers to monitoring, not to the drills.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -331,36 +331,36 @@
     },
     {
       "id": "CO-ING-11-2026-W39-comprehensive-review-2-001-MASTERY-bundle-v8",
-      "statement": "According to a recent report on comprehensive review 2 in Cali, what is implied about the role of Final Assessment Prep in shaping public opinion?",
-      "context": "Discussing comprehensive review 2 in Cali.",
+      "statement": "Read the text and answer the question.\n\n\"Every August, Cali hosts the Petronio Álvarez Festival, one of the largest celebrations of music from Colombia's Pacific coast. Groups play marimbas, drums and traditional songs, and visitors can taste dishes and drinks from the region. For many people from the Pacific who live in Cali, the festival is a chance to share their culture with the rest of the city. In recent years, it has also attracted visitors from other countries.\"\n\nWhat is the main idea of the text?",
+      "context": "Reading a short text about a music festival in Cali.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Marimbas are the only instruments played in Cali.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. The text also mentions drums, and it describes one festival, not all music in Cali."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "The festival is only for foreign tourists.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. The text stresses people from the Pacific and the rest of the city; foreign visitors are a recent addition."
+        },
+        {
+          "letter": "C",
+          "text": "A festival in Cali celebrates and shares the culture of the Pacific coast.",
+          "is_correct": true,
+          "feedback": "Correct. All the details (music, food, sharing culture, visitors) describe the festival as a celebration of Pacific culture."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Barranquilla.",
+          "text": "Pacific food is difficult to find in Cali.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The text says visitors can taste food from the region, and it says nothing about difficulty."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "To identify the main idea, ask what all the sentences have in common. Each one describes the festival: when it happens, its music and food, its meaning for Pacific communities and its growing audience. Options with 'only' are often too extreme to be correct.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -377,36 +377,36 @@
     },
     {
       "id": "CO-ING-11-2026-W39-comprehensive-review-2-001-MASTERY-bundle-v9",
-      "statement": "According to a recent report on comprehensive review 2 in Bucaramanga, what is implied about the role of Final Assessment Prep in shaping public opinion?",
-      "context": "Discussing comprehensive review 2 in Bucaramanga.",
+      "statement": "Read the text and answer the question.\n\n\"Three students from a public school in Bucaramanga designed a low-cost water filter using sand, gravel and charcoal. They tested it with water from a stream near the school and found that it removed most of the dirt, although the water still had to be boiled before drinking. The project won first place at the regional science fair, and the students now want to teach families in rural areas how to build the filter.\"\n\nAccording to the text, what must still be done after the water passes through the filter?",
+      "context": "Reading a short text about a science project in Bucaramanga.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "It must be mixed with more stream water.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. Adding untreated stream water would undo the filtering; the text does not suggest this."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "It must be sent to a laboratory.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. No laboratory is mentioned in the text."
+        },
+        {
+          "letter": "C",
+          "text": "It must be boiled before people drink it.",
+          "is_correct": true,
+          "feedback": "Correct. The text says 'the water still had to be boiled before drinking', because the filter removes dirt but not everything."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bucaramanga.",
+          "text": "It must pass through the filter three more times.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The text gives no number of repetitions; the extra step it mentions is boiling."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Detail questions often depend on a connector. Here 'although' introduces a limitation of the filter: it removes most dirt, but the water is still not safe to drink without boiling. Noticing contrast words helps find exactly what the text says.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -423,36 +423,36 @@
     },
     {
       "id": "CO-ING-11-2026-W39-comprehensive-review-2-001-MASTERY-bundle-v10",
-      "statement": "According to a recent report on comprehensive review 2 in Medellín, what is implied about the role of Final Assessment Prep in shaping public opinion?",
-      "context": "Discussing comprehensive review 2 in Medellín.",
+      "statement": "Read the text and answer the question.\n\n\"Visitors to Medellín are often surprised by how clean the Metro is. There is no graffiti on the trains, and passengers rarely leave rubbish behind. Locals call this attitude 'cultura Metro': a shared feeling that the system belongs to everyone and must be cared for. In my opinion, this example shows that public services last longer when citizens feel proud of them, not only when there are strict rules.\"\n\nWhat is the writer's opinion?",
+      "context": "Reading a short opinion text about the Metro in Medellín.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "letter": "A",
+          "text": "The Metro needs more strict rules and fines.",
+          "is_correct": false,
+          "feedback": "Incorrect. The writer says services last longer because of pride, 'not only when there are strict rules', so more rules are not the main point."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "letter": "B",
+          "text": "Citizens' pride in public services helps keep them in good condition.",
+          "is_correct": true,
+          "feedback": "Correct. After 'In my opinion', the writer says public services last longer when citizens feel proud of them."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Tourists make the Metro dirty.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. Visitors are described as surprised by how clean the Metro is, not as the cause of dirt."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bucaramanga.",
+          "text": "Graffiti should be allowed on the trains.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The writer presents the absence of graffiti as a positive example."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Opinion questions are answered by the part of the text where the writer gives a personal view, often introduced by expressions such as 'In my opinion' or 'I believe'. The earlier sentences are facts and examples that support that opinion about civic pride.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -473,12 +473,6 @@
       "context": "Discussing comprehensive review 2 in Cartagena.",
       "options": [
         {
-          "letter": "C",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -489,6 +483,12 @@
           "text": "was",
           "is_correct": false,
           "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+        },
+        {
+          "letter": "C",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
         },
         {
           "letter": "D",
@@ -515,36 +515,36 @@
     },
     {
       "id": "CO-ING-11-2026-W39-comprehensive-review-2-001-MASTERY-bundle-v12",
-      "statement": "Complete the following sentence about comprehensive review 2: 'Only after the committee had verified the totals __________ the error be announced publicly.'",
+      "statement": "Complete the following sentence about comprehensive review 2: 'Only after the committee had verified the totals __________ the error announced publicly.'",
       "context": "Discussing comprehensive review 2 in Medellín.",
       "options": [
         {
           "letter": "A",
-          "text": "did",
+          "text": "was",
           "is_correct": true,
-          "feedback": "Fronting 'Only after' forces inversion, so the auxiliary 'did' comes before the subject 'the error'."
+          "feedback": "Correct. 'The error was announced' is a past passive, and after the fronted 'Only after...' it inverts: 'was the error announced publicly'."
         },
         {
           "letter": "B",
-          "text": "has",
+          "text": "did",
           "is_correct": false,
-          "feedback": "'Has' would not create the inversion that 'Only after' requires, so the restrictive timing is not expressed."
+          "feedback": "Incorrect. 'Did' requires a base form ('did the committee announce'), but the sentence has the participle 'announced' with 'the error' as subject."
         },
         {
           "letter": "C",
-          "text": "was",
+          "text": "were",
           "is_correct": false,
-          "feedback": "'Was' cannot be inverted to open this clause and does not place the announcement after the verification."
+          "feedback": "Incorrect. 'Were' forms the passive, but it is plural and the subject 'the error' is singular."
         },
         {
           "letter": "D",
-          "text": "did not",
+          "text": "does",
           "is_correct": false,
-          "feedback": "'Did not' would say the error was never announced, whereas the sentence only rules out announcing it before the verification."
+          "feedback": "Incorrect. 'Does' is present and needs a base form, so it clashes with the past 'had verified' and with 'announced'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "'Only after' is a fronted restrictive phrase, and it obliges subject-auxiliary inversion: 'only after the committee had verified the totals did the error be announced'.\n\n---",
+      "explanation": "'Only after' + clause at the start of a sentence makes the main clause invert. Because the error does not announce itself, the verb is passive (be + participle), and the past context requires 'was': 'Only after the committee had verified the totals was the error announced publicly.'\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -561,36 +561,36 @@
     },
     {
       "id": "CO-ING-11-2026-W39-comprehensive-review-2-001-MASTERY-bundle-v13",
-      "statement": "Complete the following sentence about comprehensive review 2: 'Not until the second reviewer signed off __________ the case be closed.'",
+      "statement": "Complete the following sentence about comprehensive review 2: 'Not until the second reviewer signed off __________ the case closed.'",
       "context": "Discussing comprehensive review 2 in Barranquilla.",
       "options": [
         {
-          "letter": "D",
-          "text": "did",
-          "is_correct": true,
-          "feedback": "Fronting the negative phrase 'Not until' triggers inversion, so the auxiliary 'did' precedes the subject 'the case'."
-        },
-        {
           "letter": "A",
-          "text": "has",
+          "text": "did",
           "is_correct": false,
-          "feedback": "'Has' would not produce the inversion 'Not until' requires, so the sense of delay would be lost."
+          "feedback": "Incorrect. 'Did' needs a base form, and 'did the case closed' combines it with a participle, which is ungrammatical."
         },
         {
           "letter": "B",
-          "text": "was",
+          "text": "were",
           "is_correct": false,
-          "feedback": "'Was' cannot be inverted to begin this clause and does not place the closure after the sign-off."
+          "feedback": "Incorrect. 'Were' is plural, but the subject 'the case' is singular, so the passive must use 'was'."
         },
         {
           "letter": "C",
-          "text": "did not",
+          "text": "does",
           "is_correct": false,
-          "feedback": "'Did not' would say the case was never closed, whereas the sentence only rules out closing it before the sign-off."
+          "feedback": "Incorrect. 'Does' is present and needs a base form, which clashes with the past 'signed off' and with 'closed'."
+        },
+        {
+          "letter": "D",
+          "text": "was",
+          "is_correct": true,
+          "feedback": "Correct. The case is closed by someone, so the past passive is needed, and after 'Not until' it inverts: 'was the case closed'."
         }
       ],
       "correct_answer": "D",
-      "explanation": "'Not until the second reviewer signed off did the case be closed' combines a fronted negative with subject-auxiliary inversion, so the closing is presented as both late and dependent.\n\n---",
+      "explanation": "After a fronted 'Not until...' clause, the main clause uses inversion. The case does not close itself, so a passive (was + participle) is required, singular to agree with 'the case' and past to match 'signed off': 'Not until the second reviewer signed off was the case closed.'\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -611,12 +611,6 @@
       "context": "Discussing comprehensive review 2 in Medellín.",
       "options": [
         {
-          "letter": "C",
-          "text": "does",
-          "is_correct": true,
-          "feedback": "'Rarely does' is the inversion that follows a fronted negative adverb, so 'does a resubmission pass' is the required pattern."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -627,6 +621,12 @@
           "text": "was",
           "is_correct": false,
           "feedback": "'Was' cannot be inverted to open this construction and does not express how rare the success was."
+        },
+        {
+          "letter": "C",
+          "text": "does",
+          "is_correct": true,
+          "feedback": "'Rarely does' is the inversion that follows a fronted negative adverb, so 'does a resubmission pass' is the required pattern."
         },
         {
           "letter": "D",
@@ -657,32 +657,32 @@
       "context": "Discussing comprehensive review 2 in Pereira.",
       "options": [
         {
-          "letter": "B",
+          "letter": "A",
           "text": "did",
-          "is_correct": true,
-          "feedback": "Fronting 'Not until' triggers inversion, so the auxiliary 'did' comes before the subject 'the auditors'."
+          "is_correct": false,
+          "feedback": "Incorrect. 'Did the auditors allowed' combines 'did' with a participle; 'did' would need the base form and an active meaning."
         },
         {
-          "letter": "A",
-          "text": "has",
-          "is_correct": false,
-          "feedback": "'Has' would not create the inversion that 'Not until' requires, so the delay before publication is lost."
+          "letter": "B",
+          "text": "were",
+          "is_correct": true,
+          "feedback": "Correct. 'The auditors were allowed to publish' is a plural past passive, and after 'Not until' it inverts: 'were the auditors allowed'."
         },
         {
           "letter": "C",
           "text": "was",
           "is_correct": false,
-          "feedback": "'Was' cannot be inverted to open this clause and does not place the publication after the appearance."
+          "feedback": "Incorrect. 'Was' is singular, but the subject 'the auditors' is plural, so the verb does not agree."
         },
         {
           "letter": "D",
-          "text": "did not",
+          "text": "have",
           "is_correct": false,
-          "feedback": "'Did not' would say the auditors were never allowed to publish, whereas the sentence only rules out publishing earlier."
+          "feedback": "Incorrect. 'Have the auditors allowed' would be active, needing an object after 'allowed', and the present perfect clashes with 'appeared'."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Not until' is a fronted negative phrase, and English puts the auxiliary before the subject after it: 'not until the minister appeared did the auditors publish their findings'.\n\n---",
+      "explanation": "The auditors receive permission from someone else, so the structure is passive: 'be allowed to + verb'. With a plural subject and past time, the auxiliary is 'were', and the fronted 'Not until' places it before the subject: 'were the auditors allowed to publish their findings'.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -699,36 +699,36 @@
     },
     {
       "id": "CO-ING-11-2026-W39-comprehensive-review-2-001-MASTERY-bundle-v16",
-      "statement": "Complete the following sentence about comprehensive review 2: 'Scarcely __________ the marking had finished than the appeals began arriving.'",
+      "statement": "Complete the following sentence about comprehensive review 2: 'Scarcely __________ the marking finished when the appeals began arriving.'",
       "context": "Discussing comprehensive review 2 in Barranquilla.",
       "options": [
-        {
-          "letter": "B",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "'Scarcely had' is the past perfect inversion, showing the marking finished immediately before the appeals came in."
-        },
         {
           "letter": "A",
           "text": "has",
           "is_correct": false,
-          "feedback": "'Has' would place the marking in the present, but both the finishing and the appeals belong to a past sequence."
+          "feedback": "Incorrect. 'Has' gives the present perfect, but the second clause ('began') places both events in the past."
+        },
+        {
+          "letter": "B",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. 'Scarcely had the marking finished when...' uses an inverted past perfect for the first of two past events that followed each other closely."
         },
         {
           "letter": "C",
-          "text": "was",
+          "text": "does",
           "is_correct": false,
-          "feedback": "'Was' cannot form the inversion that fronted 'Scarcely' demands and does not order the two past events."
+          "feedback": "Incorrect. 'Does' needs a base form ('finish') and present time, so it fits neither 'finished' nor 'began'."
         },
         {
           "letter": "D",
           "text": "did",
           "is_correct": false,
-          "feedback": "'Did' would require a base form verb after it, instead of the past participle the past perfect construction needs."
+          "feedback": "Incorrect. 'Did' must be followed by a base form, so 'did the marking finished' is ungrammatical."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Scarcely had the marking finished than the appeals began arriving' inverts the past perfect after a fronted negative, marking two past events as following one another immediately.\n\n---",
+      "explanation": "'Scarcely... when' describes one past event happening immediately after another. The first event takes the past perfect, and because 'Scarcely' is a negative adverb at the start, the auxiliary comes before the subject: 'Scarcely had the marking finished when the appeals began arriving.'\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -752,29 +752,29 @@
           "letter": "A",
           "text": "The current strategy is directed towards the wrong objective.",
           "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "feedback": "Correct. 'Bark up the wrong tree' means aiming your effort at the wrong cause or target, so the speaker is saying the current plan on comprehensive review 2 points in the wrong direction."
         },
         {
           "letter": "B",
           "text": "They are literally looking for something in the trees of Cartagena.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads the idiom literally; nobody in the debate is searching real trees, because the expression is figurative and describes a mistaken line of action."
         },
         {
           "letter": "C",
           "text": "The approach is too noisy and aggressive.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. 'Barking' here does not describe a loud or aggressive tone; the idiom is about choosing the wrong objective, not about how people speak."
         },
         {
           "letter": "D",
           "text": "A new environmental project involving trees should be started.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The word 'tree' belongs to a fixed expression, so the speaker is not proposing a project with trees; the speaker is criticising the approach under discussion."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "The idiom 'bark up the wrong tree' comes from hunting dogs that bark at a tree after the animal has escaped to another one. In a debate about comprehensive review 2, it means the group's effort is aimed at the wrong cause or solution. The literal words (barking, trees) are not part of the message, so any option that mentions real trees or noise misreads the idiom.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-ING-11-2026-W39-comprehensive-review-2-001-MASTERY-bundle-v18",
-      "statement": "In a high-level debate about comprehensive review 2, Mariana says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mariana mean?",
-      "context": "Discussing comprehensive review 2 in Bogotá.",
+      "statement": "Read the dialogue.\n\nCarolina: \"First the bus was late, then it started raining, and now I've lost my ID card the day of the exam. That was the last straw!\"\nFriend: \"Calm down, let's go to the office and ask for help.\"\n\nWhat does Carolina mean by \"the last straw\"?",
+      "context": "A conversation on the morning of an exam in Bogotá.",
       "options": [
         {
-          "letter": "B",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "letter": "A",
+          "text": "Losing her ID was the smallest problem of the day.",
+          "is_correct": false,
+          "feedback": "Incorrect. The idiom refers to the problem that finally makes a situation unbearable, not to the least important one."
         },
         {
-          "letter": "A",
-          "text": "They are literally looking for something in the trees of Medellín.",
-          "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "letter": "B",
+          "text": "Losing her ID was the final problem that made the situation too much to accept.",
+          "is_correct": true,
+          "feedback": "Correct. 'The last straw' is the last of a series of problems, after which someone loses patience."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Losing her ID happened at the very beginning of the day.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. 'Last' shows it came after the late bus and the rain, at the end of the series."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "She found her ID card in a pile of straw.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. This is a literal interpretation; 'straw' is part of the idiom and there is no real straw in the story."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'The last straw' comes from the saying about the straw that breaks the camel's back. It names the final problem in a series that makes someone unable to tolerate more. Carolina lists three problems in order, and the lost ID is the one that makes her lose patience.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -837,36 +837,36 @@
     },
     {
       "id": "CO-ING-11-2026-W39-comprehensive-review-2-001-MASTERY-bundle-v19",
-      "statement": "In a high-level debate about comprehensive review 2, Mateo says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mateo mean?",
-      "context": "Discussing comprehensive review 2 in Barranquilla.",
+      "statement": "Read the dialogue.\n\nPlayer: \"Coach, are we still playing on Saturday?\"\nCoach: \"No. Because of the storm warning, we have to put off the final until next weekend.\"\n\nWhat will happen to the final?",
+      "context": "A conversation about a football final in Barranquilla.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Manizales.",
+          "text": "It will be cancelled for good.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. The coach gives a new date, 'next weekend', so the match is not cancelled permanently."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "It will be played immediately.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. 'Put off' means the opposite: the match moves to a later time."
         },
         {
           "letter": "C",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "The stadium lights will be turned off.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. 'Put off' is confused with 'turn off'; the coach is talking about the date of the match."
+        },
+        {
+          "letter": "D",
+          "text": "It will be moved to a later date.",
+          "is_correct": true,
+          "feedback": "Correct. 'Put off' means to postpone, and 'until next weekend' gives the new date."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "The phrasal verb 'put off' means to postpone, that is, to move an event to a later time. It is different from 'call off' (cancel) and 'turn off' (switch off). The phrase 'until next weekend' gives the new date and confirms the meaning.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -883,36 +883,36 @@
     },
     {
       "id": "CO-ING-11-2026-W39-comprehensive-review-2-001-MASTERY-bundle-v20",
-      "statement": "In a high-level debate about comprehensive review 2, Isabella says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Isabella mean?",
-      "context": "Discussing comprehensive review 2 in Bucaramanga.",
+      "statement": "Read the dialogue.\n\nMother: \"How was the English exam?\"\nSimón: \"A piece of cake! I finished in forty minutes and had time to check all my answers.\"\n\nWhat does Simón mean?",
+      "context": "A conversation after an English exam in Bucaramanga.",
       "options": [
         {
-          "letter": "B",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "letter": "A",
+          "text": "He ate cake during the exam.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a literal reading; 'a piece of cake' is an idiom about difficulty, not food."
         },
         {
-          "letter": "A",
-          "text": "They are literally looking for something in the trees of Manizales.",
-          "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "letter": "B",
+          "text": "The exam was very easy for him.",
+          "is_correct": true,
+          "feedback": "Correct. 'A piece of cake' means something very easy, and finishing early with time to check supports this."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The exam was too long for the time given.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. He finished early and had extra time, which shows the opposite."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "He received a prize for his result.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The dialogue says nothing about a prize; he describes how the exam felt."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'A piece of cake' is an informal idiom meaning that something is very easy. Simón's explanation, finishing in forty minutes with time to check his answers, gives evidence that matches the idiom's meaning.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

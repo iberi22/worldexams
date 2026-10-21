@@ -13,16 +13,16 @@
       "context": "En una clase de sociales en Bogotá el profesor muestra un mapa con escala 1:100.",
       "options": [
         {
-          "letter": "B",
-          "text": "Que 1 cm del mapa representa 100 cm de la realidad",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: la escala compara medida del dibujo con medida real en las mismas unidades."
-        },
-        {
           "letter": "A",
           "text": "Que el mapa mide 100 cm de largo",
           "is_correct": false,
           "feedback": "Explica el error conceptual: la escala no indica el tamaño del papel sino la proporción con la realidad."
+        },
+        {
+          "letter": "B",
+          "text": "Que 1 cm del mapa representa 100 cm de la realidad",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: la escala compara medida del dibujo con medida real en las mismas unidades."
         },
         {
           "letter": "C",
@@ -59,12 +59,6 @@
       "context": "En un mapa turístico de Medellín con escala 1:50, la distancia entre dos estaciones mide 3 cm.",
       "options": [
         {
-          "letter": "D",
-          "text": "150 cm",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: 3 × 50 = 150 cm reales."
-        },
-        {
           "letter": "A",
           "text": "53 cm",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "15 cm",
           "is_correct": false,
           "feedback": "Explica el error conceptual: multiplica 3 × 5 olvidando un cero de la escala 50."
+        },
+        {
+          "letter": "D",
+          "text": "150 cm",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 3 × 50 = 150 cm reales."
         }
       ],
       "correct_answer": "D",
@@ -197,12 +197,6 @@
       "context": "En Tunja 4 cm de un mapa regional representan 20 km de la realidad.",
       "options": [
         {
-          "letter": "D",
-          "text": "1:500.000",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: 20 km = 2.000.000 cm y 2.000.000 ÷ 4 = 500.000."
-        },
-        {
           "letter": "A",
           "text": "1:5",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "1:80",
           "is_correct": false,
           "feedback": "Explica el error conceptual: multiplica 20 × 4 en vez de dividir la realidad entre el dibujo."
+        },
+        {
+          "letter": "D",
+          "text": "1:500.000",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 20 km = 2.000.000 cm y 2.000.000 ÷ 4 = 500.000."
         }
       ],
       "correct_answer": "D",
@@ -243,12 +243,6 @@
       "context": "En Bucaramanga la misma avenida aparece en dos mapas: en A mide 6 cm a escala 1:100.000 y en B mide 3 cm a escala 1:200.000.",
       "options": [
         {
-          "letter": "D",
-          "text": "Ambas representan 6 km, son coherentes entre sí",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: A: 6 × 100.000 = 600.000 cm = 6 km; B: 3 × 200.000 = 600.000 cm = 6 km."
-        },
-        {
           "letter": "A",
           "text": "El mapa A exagera porque 6 cm es el doble de 3 cm",
           "is_correct": false,
@@ -265,6 +259,12 @@
           "text": "No se pueden comparar mapas con distinta escala",
           "is_correct": false,
           "feedback": "Explica el error conceptual: sí se puede, convirtiendo cada dibujo a distancia real."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas representan 6 km, son coherentes entre sí",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: A: 6 × 100.000 = 600.000 cm = 6 km; B: 3 × 200.000 = 600.000 cm = 6 km."
         }
       ],
       "correct_answer": "D",
@@ -335,12 +335,6 @@
       "context": "En una ciclorruta de Pereira de 15 km se quiere dibujar el recorrido en un mapa a escala 1:250.000.",
       "options": [
         {
-          "letter": "D",
-          "text": "6 cm",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: 15 km = 1.500.000 cm y 1.500.000 ÷ 250.000 = 6 cm."
-        },
-        {
           "letter": "A",
           "text": "60 cm",
           "is_correct": false,
@@ -357,6 +351,12 @@
           "text": "37.5 cm",
           "is_correct": false,
           "feedback": "Explica el error conceptual: multiplica en vez de dividir al pasar de realidad a dibujo."
+        },
+        {
+          "letter": "D",
+          "text": "6 cm",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 15 km = 1.500.000 cm y 1.500.000 ÷ 250.000 = 6 cm."
         }
       ],
       "correct_answer": "D",
@@ -381,12 +381,6 @@
       "context": "En Cartagena un estudiante afirma que en un mapa a escala 1:100 un segmento de 5 cm representa 5 m de la realidad.",
       "options": [
         {
-          "letter": "D",
-          "text": "Sí, porque 5 × 100 = 500 cm = 5 m",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: al multiplicar por la escala y convertir (500 cm = 5 m) se confirma la equivalencia."
-        },
-        {
           "letter": "A",
           "text": "No, porque representa 500 m",
           "is_correct": false,
@@ -403,6 +397,12 @@
           "text": "Sí, porque 5 y 5 coinciden sin operar",
           "is_correct": false,
           "feedback": "Explica el error conceptual: la coincidencia numérica no justifica nada; hay que operar y convertir."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque 5 × 100 = 500 cm = 5 m",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: al multiplicar por la escala y convertir (500 cm = 5 m) se confirma la equivalencia."
         }
       ],
       "correct_answer": "D",
@@ -427,12 +427,6 @@
       "context": "En Manizales un turista elige entre un mapa del barrio a escala 1:5.000 y uno de la región a escala 1:100.000 para ubicar una tienda cercana.",
       "options": [
         {
-          "letter": "D",
-          "text": "El de 1:5.000, porque cada cm cubre menos terreno y muestra más detalle",
-          "is_correct": true,
-          "feedback": "Explica por qué es correcta: 1 cm = 50 m en el barrio frente a 1 cm = 1 km en la región; la escala mayor detalla más."
-        },
-        {
           "letter": "A",
           "text": "El de 1:100.000, porque el número mayor indica más detalle",
           "is_correct": false,
@@ -446,12 +440,18 @@
         },
         {
           "letter": "C",
+          "text": "El de 1:5.000, porque cada cm cubre menos terreno y muestra más detalle",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 1 cm = 50 m en el barrio frente a 1 cm = 1 km en la región; la escala mayor detalla más."
+        },
+        {
+          "letter": "D",
           "text": "Ambos igual, porque los dos son mapas",
           "is_correct": false,
           "feedback": "Explica el error conceptual: las escalas difieren 20 veces; el nivel de detalle no es el mismo."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": "Escala mayor (denominador menor) = más detalle: 1:5.000 muestra cuadras y tiendas; 1:100.000 muestra municipios. Elegir escala según el propósito es la decisión cartográfica fundamental.",
       "difficulty": "10",
       "images": [],

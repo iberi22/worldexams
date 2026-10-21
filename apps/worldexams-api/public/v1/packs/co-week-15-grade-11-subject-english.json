@@ -105,16 +105,16 @@
       "context": "Discussing historical turning points in Pereira.",
       "options": [
         {
-          "letter": "B",
-          "text": "underlying",
-          "is_correct": true,
-          "feedback": "'Underlying' means existing beneath the surface and not immediately visible, which is exactly what the clause sets up: the text of the convention is agreed on, while the purposes concealed behind it are what remain contested."
-        },
-        {
           "letter": "A",
           "text": "preliminary",
           "is_correct": false,
           "feedback": "'Preliminary' describes something that comes first and is later revised, and the sentence is not comparing stages of drafting. The disagreement concerns motives rather than the sequence in which the document was produced."
+        },
+        {
+          "letter": "B",
+          "text": "underlying",
+          "is_correct": true,
+          "feedback": "'Underlying' means existing beneath the surface and not immediately visible, which is exactly what the clause sets up: the text of the convention is agreed on, while the purposes concealed behind it are what remain contested."
         },
         {
           "letter": "C",
@@ -151,12 +151,6 @@
       "context": "Discussing historical turning points in Manizales.",
       "options": [
         {
-          "letter": "D",
-          "text": "watershed",
-          "is_correct": true,
-          "feedback": "'A watershed' is an event after which everything changes direction, and the clause 'every later dispute returned to its terms' shows exactly that: the treaty became the reference point for everything after it. That is the sense the sentence needs."
-        },
-        {
           "letter": "A",
           "text": "footnote",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "landmark",
           "is_correct": false,
           "feedback": "'A landmark' is a physical building or an easily recognised point of reference, and the term is usually used for places. The sentence is about a moment of change in a process, which is what a watershed marks and a landmark does not."
+        },
+        {
+          "letter": "D",
+          "text": "watershed",
+          "is_correct": true,
+          "feedback": "'A watershed' is an event after which everything changes direction, and the clause 'every later dispute returned to its terms' shows exactly that: the treaty became the reference point for everything after it. That is the sense the sentence needs."
         }
       ],
       "correct_answer": "D",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W15-historical-turning-points-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on historical turning points in Cali, what is implied about the role of Narrative Tenses in shaping public opinion?",
-      "context": "Discussing historical turning points in Cali.",
+      "statement": "Read the text and answer the question.\n\n\"On 9 April 1948, the Liberal leader Jorge Eliécer Gaitán was shot dead in the centre of Bogotá. Gaitán was extremely popular among workers and poor people, and many believed he would be the next president. The news spread quickly, and within hours angry crowds filled the streets. Trams were burned, shops were destroyed and much of the city centre was left in ruins. These events, known as the Bogotazo, did not start the political violence in Colombia, but they made it much worse, and the period that followed is remembered simply as La Violencia.\"\n\nWhat is the text mainly about?",
+      "context": "The events of 9 April 1948 in Bogotá.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "letter": "A",
+          "text": "The life and childhood of Jorge Eliécer Gaitán.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text gives only one fact about Gaitán's popularity; it does not describe his life or childhood."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "letter": "B",
+          "text": "A political murder and its serious consequences for Colombia.",
+          "is_correct": true,
+          "feedback": "Correct. The text describes Gaitán's assassination, the riots that followed and how these events intensified the period known as La Violencia, so its focus is the event and its consequences."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "The history of public transport in Bogotá.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. Trams are mentioned only as an example of the destruction during the riots, not as the topic of the text."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Cartagena.",
+          "text": "How the Bogotazo was the first violent event in Colombian politics.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The text says the events \"did not start the political violence\" but made it worse, so this option contradicts it."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "The main idea connects the beginning and the end of the text: an assassination (cause) and the riots and La Violencia (consequences). Small details such as the trams support the description but are not the topic.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-11-2026-W15-historical-turning-points-001-MASTERY-bundle-v6",
-      "statement": "According to a recent report on historical turning points in Pereira, what is implied about the role of Narrative Tenses in shaping public opinion?",
-      "context": "Discussing historical turning points in Pereira.",
+      "statement": "Read the text and answer the question.\n\n\"In 1990, a group of university students proposed something unusual: that voters add an extra, unofficial ballot, the 'séptima papeleta', asking for a new constitution. Millions of people did it, and the government could not ignore the result. A Constituent Assembly was elected, and in 1991 Colombia approved a new constitution. It recognised the country as multi-ethnic and multicultural and created the 'tutela', a legal action that allows any citizen to ask a judge to protect a fundamental right quickly. Many historians say it was the first time young people had changed the country's laws so directly.\"\n\nWhat can be inferred from the text?",
+      "context": "Students and the Constitution of 1991.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "The séptima papeleta was an official part of the elections from the beginning.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. The text describes it as an \"extra, unofficial ballot\", so it was not part of the official elections."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "The 1991 Constitution was written only by university students.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. The students proposed the idea, but the constitution was written by an elected Constituent Assembly."
+        },
+        {
+          "letter": "C",
+          "text": "Ordinary citizens played an important role in creating the 1991 Constitution.",
+          "is_correct": true,
+          "feedback": "Correct. The process started with a students' proposal and millions of voters who added the extra ballot, and the text says the government \"could not ignore the result\", so citizens clearly influenced the change."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bucaramanga.",
+          "text": "The tutela can only be used by lawyers and judges.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The text says the tutela allows \"any citizen\" to ask a judge for protection, so it is not limited to legal professionals."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "To infer, combine facts the text gives: a student proposal, millions of voters and a government that had to respond. Together they suggest that citizen participation made the change possible; the other options contradict explicit details.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -285,36 +285,36 @@
     },
     {
       "id": "CO-ING-11-2026-W15-historical-turning-points-001-MASTERY-bundle-v7",
-      "statement": "According to a recent report on historical turning points in Manizales, what is implied about the role of Narrative Tenses in shaping public opinion?",
-      "context": "Discussing historical turning points in Manizales.",
+      "statement": "Read the text and answer the question.\n\n\"On 7 August 1819, near a small bridge over the Teatinos River in Boyacá, the army led by Simón Bolívar and Francisco de Paula Santander defeated the Spanish royalist forces. The battle lasted only about two hours, and the patriots captured many prisoners, including the Spanish commander, José María Barreiro. Three days later, Bolívar entered Santa Fe de Bogotá without fighting, because the viceroy had already escaped. Although the war continued in other regions, the Battle of Boyacá is celebrated as the moment that secured the independence of New Granada.\"\n\nAccording to the text, why did Bolívar enter Santa Fe de Bogotá without fighting?",
+      "context": "The Battle of Boyacá, 7 August 1819.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Because the battle at the bridge lasted only two hours.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. The length of the battle is a separate detail; the text does not connect it with the lack of fighting in the city."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Because José María Barreiro opened the gates for him.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. Barreiro was captured as a prisoner at the battle; the text does not say he helped Bolívar enter the city."
+        },
+        {
+          "letter": "C",
+          "text": "Because the viceroy had already left the city.",
+          "is_correct": true,
+          "feedback": "Correct. The text gives the reason with \"because\": Bolívar entered \"without fighting, because the viceroy had already escaped\"."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bogotá.",
+          "text": "Because the war had ended in all the other regions.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The text says the war \"continued in other regions\", so this reason contradicts the passage."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Detail questions about causes are answered by locating the connector that introduces the reason. Here \"because the viceroy had already escaped\" answers the question directly; the other options repeat true or false details that are not linked to entering the city.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -331,36 +331,36 @@
     },
     {
       "id": "CO-ING-11-2026-W15-historical-turning-points-001-MASTERY-bundle-v8",
-      "statement": "According to a recent report on historical turning points in Barranquilla, what is implied about the role of Narrative Tenses in shaping public opinion?",
-      "context": "Discussing historical turning points in Barranquilla.",
+      "statement": "Read the text and answer the question.\n\n\"Slavery in what is now Colombia did not end in a single day. After independence, a law of 1821 declared that the children of enslaved women would be born free, but they had to work for their mother's owners until the age of eighteen. Many enslaved people bought their own freedom or escaped to free communities known as palenques, such as San Basilio de Palenque. Finally, in 1851, under President José Hilario López, Congress abolished slavery completely, and the law came into effect on 1 January 1852. Slave owners received compensation; the people who had been enslaved received nothing.\"\n\nIn the text, the phrase \"did not end in a single day\" suggests that the end of slavery was...",
+      "context": "The abolition of slavery in Colombia in 1851.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "a slow process that happened in several stages.",
           "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "feedback": "Correct. The text describes a series of steps over thirty years: the law of 1821, people buying their freedom or escaping, and finally the abolition law of 1851, which shows a gradual process."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "a sudden event that surprised everybody.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. This is the opposite of the phrase; the text explains that slavery ended through steps that took decades."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "an event that happened at night.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. This reads \"day\" literally; the phrase refers to the length of the process, not to the time of day."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Pereira.",
+          "text": "something that never happened in Colombia.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The text says that Congress \"abolished slavery completely\" in 1851, so slavery did end."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "The meaning of a phrase can be confirmed by the organisation of the text. After saying that slavery \"did not end in a single day\", the writer lists events from 1821 to 1852, showing a gradual process; the last sentence adds a critical point about who was compensated.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -381,16 +381,16 @@
       "context": "Discussing historical turning points in Cali.",
       "options": [
         {
-          "letter": "B",
-          "text": "The way an event was named at the time shaped the history that could be written about it afterwards.",
-          "is_correct": true,
-          "feedback": "The contrast is between 'reported at the time' and 'described decades later', with the vocabulary changing from disorder to collective action. The report is showing that a contemporaneous label constrains later interpretation, since the same event reads differently once the actors are understood."
-        },
-        {
           "letter": "A",
           "text": "The strike of 1930 was the most violent event in the city's history.",
           "is_correct": false,
           "feedback": "The word 'disorder' describes the framing used by reporters, not the scale of violence. Nothing in the sentence compares the strike to other events or ranks it by severity."
+        },
+        {
+          "letter": "B",
+          "text": "The way an event was named at the time shaped the history that could be written about it afterwards.",
+          "is_correct": true,
+          "feedback": "The contrast is between 'reported at the time' and 'described decades later', with the vocabulary changing from disorder to collective action. The report is showing that a contemporaneous label constrains later interpretation, since the same event reads differently once the actors are understood."
         },
         {
           "letter": "C",
@@ -423,36 +423,36 @@
     },
     {
       "id": "CO-ING-11-2026-W15-historical-turning-points-001-MASTERY-bundle-v10",
-      "statement": "According to a recent report on historical turning points in Medellín, what is implied about the role of Narrative Tenses in shaping public opinion?",
-      "context": "Discussing historical turning points in Medellín.",
+      "statement": "Read the text and answer the question.\n\n\"In 2016, after four years of negotiations in Havana, the Colombian government and the FARC guerrilla reached a peace agreement. The government asked citizens to approve it in a referendum on 2 October, but, to the surprise of many, the 'No' won by a very small margin. Instead of abandoning the process, both sides met with the opponents and changed parts of the text. A revised agreement was signed in Bogotá in November and approved by Congress. Thousands of guerrilla fighters then handed over their weapons to a United Nations mission.\"\n\nWhy does the writer mention that both sides met with the opponents?",
+      "context": "The 2016 peace agreement between the Colombian government and the FARC.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "To show how the process continued after the referendum was lost.",
           "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "feedback": "Correct. The sentence begins with \"Instead of abandoning the process\", so it explains what happened after the \"No\" won: the agreement was revised and then signed."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "To prove that the referendum result was illegal.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. The text does not question the legality of the result; it reports that the \"No\" won and that the agreement was changed in response."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "To show that the FARC refused to hand over their weapons.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. The text says the opposite: thousands of fighters handed over their weapons to a United Nations mission."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Medellín.",
+          "text": "To explain why the negotiations took place in Havana.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The location of the negotiations is mentioned at the beginning, but the meeting with the opponents happened later and is not connected to it."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Questions about why a writer includes a detail ask about its function in the text. The meeting with the opponents is the bridge between the failed referendum and the revised agreement, which is signalled by the connector \"Instead of abandoning the process\".\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -473,12 +473,6 @@
       "context": "Discussing historical turning points in Pereira.",
       "options": [
         {
-          "letter": "D",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -495,6 +489,12 @@
           "text": "did",
           "is_correct": false,
           "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+        },
+        {
+          "letter": "D",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
         }
       ],
       "correct_answer": "D",
@@ -515,36 +515,36 @@
     },
     {
       "id": "CO-ING-11-2026-W15-historical-turning-points-001-MASTERY-bundle-v12",
-      "statement": "Complete the following sentence about historical turning points: 'Until the archives were opened in 1998, the 1919 __________ been documented in a single continuous narrative, and the two families involved gave entirely different accounts of the same afternoon.' (Topic: 'until' with a perfect in the historical present context)",
-      "context": "Discussing historical turning points in Cali.",
+      "statement": "Complete the following sentence about historical turning points: 'Until the archives were opened in 1998, the 1919 uprising __________ been documented in a single continuous narrative, so the two families involved gave very different accounts of it.' (Topic: past perfect with 'until')",
+      "context": "Archives about an uprising in Cali in 1919.",
       "options": [
         {
-          "letter": "D",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "'Until' marks a point before which something had not yet happened, so the perfect is needed: 'the 1919 had not been documented'. The negation of 'had been' is the standard way to describe a gap in the record that persisted until an archive opened."
-        },
-        {
           "letter": "A",
-          "text": "was",
+          "text": "has not",
           "is_correct": false,
-          "feedback": "'Was' would give a simple past passive and assert that the 1919 was documented, which is the opposite of the sentence. 'Until the archives were opened' sets up an absence, and only a negated perfect can express it."
+          "feedback": "Incorrect. The present perfect connects the situation to now, but the period ended in 1998, when the archives were opened; a gap that ended in the past needs the past perfect."
         },
         {
           "letter": "B",
-          "text": "has",
+          "text": "was not",
           "is_correct": false,
-          "feedback": "'Has' would connect the undocumented year to the present, but the period at stake ended in 1998. What was missing up to that date is a past state of affairs, and the past perfect is what the timeframe requires."
+          "feedback": "Incorrect. \"Was not been documented\" is ungrammatical: \"been\" can only follow a form of \"have\". The simple past passive would be \"was not documented\"."
         },
         {
           "letter": "C",
-          "text": "did",
+          "text": "did not",
           "is_correct": false,
-          "feedback": "'Did' belongs to the past simple and needs the base form of the verb, and the clause here is a passive. A simple past active could not be formed from the wording, and in any case it would assert the opposite of the sentence."
+          "feedback": "Incorrect. \"Did not\" must be followed by a base verb, so \"did not been documented\" is impossible in English."
+        },
+        {
+          "letter": "D",
+          "text": "had not",
+          "is_correct": true,
+          "feedback": "Correct. \"Until\" marks a past moment (1998) before which something was still missing, so the negative past perfect is needed: \"the uprising had not been documented\". It also fits the rest of the sentence, which describes conflicting accounts."
         }
       ],
       "correct_answer": "D",
-      "explanation": "'Until', 'not until' and 'before' all express a point before which a state did not hold, which is the past perfect's natural territory. At C1+ the practical test is to ask whether the missing thing is still missing now or was missing then, because the answer selects between the present and the past perfect.\n\n---",
+      "explanation": "The past perfect describes a situation that lasted up to a moment in the past. With \"until 1998\", the uprising \"had not been documented\" until that date; the participle \"been\" also eliminates \"was\" and \"did\", which cannot combine with it.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -565,12 +565,6 @@
       "context": "Discussing historical turning points in Medellín.",
       "options": [
         {
-          "letter": "C",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "'No sooner' inverts the clause and takes the past perfect: 'no sooner had the assembly dissolved than...'. The 'than' clause then carries the ordinary word order and the past simple, so the two halves are deliberately mismatched in form."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -581,6 +575,12 @@
           "text": "did",
           "is_correct": false,
           "feedback": "'Did' would give a past simple, and the clause would then say the assembly dissolved at a single moment rather than reaching the completion that the 'no sooner' construction marks with a perfect."
+        },
+        {
+          "letter": "C",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "'No sooner' inverts the clause and takes the past perfect: 'no sooner had the assembly dissolved than...'. The 'than' clause then carries the ordinary word order and the past simple, so the two halves are deliberately mismatched in form."
         },
         {
           "letter": "D",
@@ -657,12 +657,6 @@
       "context": "Discussing historical turning points in Barranquilla.",
       "options": [
         {
-          "letter": "C",
-          "text": "did",
-          "is_correct": true,
-          "feedback": "'Only after' fronted inverts the main clause, and 'did' is the auxiliary that carries the past tense: 'only after the printing press arrived did the local chronicles become worth consulting'. The main verb returns to its base form 'become'."
-        },
-        {
           "letter": "A",
           "text": "had",
           "is_correct": false,
@@ -673,6 +667,12 @@
           "text": "was",
           "is_correct": false,
           "feedback": "'Was' would form a passive or a copula, and the chronicles are not being acted upon by anyone. An inverted clause with 'only' needs an auxiliary that inverts, which is 'did' in this past active sentence."
+        },
+        {
+          "letter": "C",
+          "text": "did",
+          "is_correct": true,
+          "feedback": "'Only after' fronted inverts the main clause, and 'did' is the auxiliary that carries the past tense: 'only after the printing press arrived did the local chronicles become worth consulting'. The main verb returns to its base form 'become'."
         },
         {
           "letter": "D",
@@ -703,12 +703,6 @@
       "context": "Discussing historical turning points in Medellín.",
       "options": [
         {
-          "letter": "D",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "'By the time' places a completed action entirely before the moment named in the main clause, so the past perfect is required: 'the accounts had been superseded'. The passive 'had been superseded' is what the blank completes, and the clause inverts because the adverbial is fronted."
-        },
-        {
           "letter": "A",
           "text": "have",
           "is_correct": false,
@@ -725,6 +719,12 @@
           "text": "are",
           "is_correct": false,
           "feedback": "'Are' would put the accounts in the present, which contradicts both the 'had been' structure needed after the auxiliary and the historical period being discussed. The tense has to place the supersession entirely in the past."
+        },
+        {
+          "letter": "D",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "'By the time' places a completed action entirely before the moment named in the main clause, so the past perfect is required: 'the accounts had been superseded'. The passive 'had been superseded' is what the blank completes, and the clause inverts because the adverbial is fronted."
         }
       ],
       "correct_answer": "D",
@@ -745,36 +745,36 @@
     },
     {
       "id": "CO-ING-11-2026-W15-historical-turning-points-001-MASTERY-bundle-v17",
-      "statement": "In a high-level debate about historical turning points, Mariana says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mariana mean?",
-      "context": "Discussing historical turning points in Manizales.",
+      "statement": "During a history class about how to teach the armed conflict, Daniela says: 'I can't help but feel that we are barking up the wrong tree. Memorising dates won't help if we never listen to the people who lived through it.' What does Daniela mean?",
+      "context": "A history class debate in Bogotá about remembering the past.",
       "options": [
         {
           "letter": "A",
-          "text": "The current strategy is directed towards the wrong objective.",
+          "text": "The class is focusing on the wrong way to understand the topic.",
           "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "feedback": "Correct. \"Barking up the wrong tree\" means looking for an answer in the wrong place; Daniela says that listening to witnesses matters more than memorising dates."
         },
         {
           "letter": "B",
-          "text": "They are literally looking for something in the trees of Manizales.",
+          "text": "They are literally looking for something in the trees of the city.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads the idiom literally; the class is about history teaching, and no trees are involved."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The discussion has become too noisy and aggressive.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. \"Barking\" here does not refer to noise; the idiom is about choosing the wrong target, as her second sentence shows."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "The class should study the history of Colombian forests.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. This takes the image of the tree as a proposal; Daniela proposes listening to witnesses, not studying forests."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "Idioms are understood through their figurative meaning and the context. Daniela's second sentence names a different approach, which confirms that the idiom \"bark up the wrong tree\" means the class was focusing on the wrong method.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-ING-11-2026-W15-historical-turning-points-001-MASTERY-bundle-v18",
-      "statement": "In a high-level debate about historical turning points, Lucía says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Lucía mean?",
-      "context": "Discussing historical turning points in Medellín.",
+      "statement": "Read the conversation.\n\nLucía: Was it a surprise when the trading company closed in 1820?\nMartín: Not really. Its ships had been lost, it owed money everywhere and its partners had left. The writing was on the wall for years.\n\nWhat does Martín mean?",
+      "context": "Two students in Cartagena discuss the fall of a colonial company.",
       "options": [
         {
           "letter": "A",
-          "text": "The current strategy is directed towards the wrong objective.",
+          "text": "There were clear signs for a long time that the company would fail.",
           "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "feedback": "Correct. \"The writing is on the wall\" means that there are clear signs that something bad is going to happen; Martín lists those signs (lost ships, debts, partners leaving)."
         },
         {
           "letter": "B",
-          "text": "They are literally looking for something in the trees of Bucaramanga.",
+          "text": "Someone painted a message about the company on a wall.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This is a literal reading of the idiom; Martín is explaining why the closure was predictable, not describing graffiti."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The company closed suddenly and without warning.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. Martín answers \"Not really\" to the idea of a surprise, so he thinks the closure was expected."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "The company's partners wrote letters to save it.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. Martín says the partners had left; he says nothing about letters or attempts to save the company."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "\"The writing on the wall\" is used when the end of something was predictable. The list of problems Martín gives works as evidence for the idiom, which is why he rejects the idea that the closure was a surprise.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -837,36 +837,36 @@
     },
     {
       "id": "CO-ING-11-2026-W15-historical-turning-points-001-MASTERY-bundle-v19",
-      "statement": "In a high-level debate about historical turning points, Daniela says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Daniela mean?",
-      "context": "Discussing historical turning points in Medellín.",
+      "statement": "Read the conversation.\n\nGranddaughter: Why do you always check the walls of a house before you buy it?\nGrandfather: After the 1983 earthquake destroyed our home, I learned the hard way that a cheap house can cost you everything.\n\nWhat does \"I learned the hard way\" mean?",
+      "context": "A grandfather in Popayán talks about the 1983 earthquake.",
       "options": [
         {
-          "letter": "B",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "letter": "A",
+          "text": "He studied engineering at a difficult university.",
+          "is_correct": false,
+          "feedback": "Incorrect. The grandfather does not mention formal studies; the expression refers to learning from experience."
         },
         {
-          "letter": "A",
-          "text": "They are literally looking for something in the trees of Manizales.",
-          "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "letter": "B",
+          "text": "He learned the lesson through a painful personal experience.",
+          "is_correct": true,
+          "feedback": "Correct. To learn something \"the hard way\" is to learn it by suffering the consequences of a mistake or bad experience; the grandfather learned it when the earthquake destroyed his home."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "He learned to build houses with hard materials.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. This reads \"hard\" literally as a property of materials; the idiom describes the way the lesson was learned, not what houses are made of."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "He found the lesson easy to understand.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. \"The hard way\" is the opposite of easy; it emphasises that the lesson came with a high cost."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "\"Learn the hard way\" contrasts with learning from advice or books. The context of the earthquake and the lost home explains why the grandfather now checks every wall: personal loss taught him the lesson.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -883,36 +883,36 @@
     },
     {
       "id": "CO-ING-11-2026-W15-historical-turning-points-001-MASTERY-bundle-v20",
-      "statement": "In a high-level debate about historical turning points, Mateo says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mateo mean?",
-      "context": "Discussing historical turning points in Cali.",
+      "statement": "Read the conversation.\n\nVisitor: Is this the oldest building in Colombia?\nGuide: As far as I know, it's one of the oldest in the country, but I'm not a historian, so you might want to check with the museum's research team.\n\nWhy does the guide say \"As far as I know\"?",
+      "context": "A museum guide in Santa Marta answers a visitor's question.",
       "options": [
         {
-          "letter": "C",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Manizales.",
+          "text": "To show that he is certain the building is the oldest in Colombia.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. The guide avoids saying \"the oldest\" and says \"one of the oldest\", which, together with his hedge, shows he is not certain."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "To tell the visitor that the museum is far away.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. \"Far\" in this expression does not refer to distance; it refers to the limits of the speaker's knowledge."
+        },
+        {
+          "letter": "C",
+          "text": "To show that the information may be incomplete and is based on his own knowledge.",
+          "is_correct": true,
+          "feedback": "Correct. \"As far as I know\" signals that the speaker believes something but is not completely sure; the guide confirms this by saying he is not a historian and suggesting a better source."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "To refuse to answer the visitor's question.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The guide does answer the question; he simply adds a limitation and recommends another source for more precise information."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "Hedging expressions such as \"as far as I know\", \"I might be wrong\" or \"if I'm not mistaken\" show the speaker's level of certainty. Recognising them is important in historical discussions, where claims should match the evidence available.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

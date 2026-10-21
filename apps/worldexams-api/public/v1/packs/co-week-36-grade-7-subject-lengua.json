@@ -382,15 +382,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Que después de la conquista la gente empezó a caminar con las manos.",
-          "is_correct": false,
-          "feedback": "Es una interpretación literal absurda de una metáfora social."
-        },
-        {
-          "letter": "B",
           "text": "Que el orden natural y social fue trastocado: los sabios fueron humillados, los templos destruidos y la justicia desapareció.",
           "is_correct": true,
           "feedback": "Representa el caos y la pérdida de los valores tradicionales indígenas frente a un nuevo orden impuesto."
+        },
+        {
+          "letter": "B",
+          "text": "Que después de la conquista la gente empezó a caminar con las manos.",
+          "is_correct": false,
+          "feedback": "Es una interpretación literal absurda de una metáfora social."
         },
         {
           "letter": "C",
@@ -405,7 +405,7 @@
           "feedback": "Aunque trajeron espejos, la metáfora es mucho más profunda respecto a la estructura de la sociedad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El concepto de \"Mundo al revés\" es una crítica social poderosa. Refleja el sentimiento de injusticia y el desorden moral que percibieron las comunidades indígenas ante el colapso de sus civilizaciones.",
       "difficulty": "10",
       "images": [],
@@ -440,18 +440,18 @@
         },
         {
           "letter": "C",
-          "text": "Para identificar el origen de los discursos de discriminación y poder, y construir una visión más justa de nuestra identidad nacional.",
-          "is_correct": true,
-          "feedback": "Entender cómo se escribió la historia permite cuestionar los prejuicios actuales y valorar la diversidad."
-        },
-        {
-          "letter": "D",
           "text": "Porque son los únicos libros que existen de esa época en el país.",
           "is_correct": false,
           "feedback": "Aunque son fuentes valiosas, la razón de su estudio es su impacto en nuestra cultura y pensamiento."
+        },
+        {
+          "letter": "D",
+          "text": "Para identificar el origen de los discursos de discriminación y poder, y construir una visión más justa de nuestra identidad nacional.",
+          "is_correct": true,
+          "feedback": "Entender cómo se escribió la historia permite cuestionar los prejuicios actuales y valorar la diversidad."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La evaluación de textos históricos desde la clase de Lengua busca desarrollar el pensamiento crítico. Al analizar cómo se usó la palabra para dominar o resistir, el estudiante comprende que el lenguaje es una herramienta de poder y de construcción de identidad.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :---: | :--- |\n| Técnico | 30/30 | Formato v5.2 respetado escrupulosamente. |\n| Curricular | 40/40 | Análisis de la crónica de Indias (española e indígena) para grado 7. |\n| Contexto | 20/20 | Referencias a Popayán, Pasto, y cronistas clave (Guamán Poma, Garcilaso). |\n| Redacción | 10/10 | Enunciados claros y retroalimentaciones pedagógicas profundas. |\n| **Total** | **100/100** | |",
       "difficulty": "10",
       "images": [],

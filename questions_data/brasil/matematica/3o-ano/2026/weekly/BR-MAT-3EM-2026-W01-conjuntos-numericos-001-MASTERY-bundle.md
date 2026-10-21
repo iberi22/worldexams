@@ -396,9 +396,9 @@ Seja $C$ um conjunto finito e não vazio com $k$ elementos. Considere que $P$ é
 
 ### Opciones
 - [ ] A) $P = I + 1$ <!-- feedback: Embora o vazio seja par, o total de pares e ímpares compensa nos coeficientes binomiais, sendo falso que há um a mais. -->
-- [x] B) $P = I$ <!-- feedback: A soma alternada dos coeficientes do binômio de Newton iguala a zero, provando que o total de subconjuntos pares e ímpares é igual. -->
+- [ ] B) $P = I - 1$ <!-- feedback: Não há desequilíbrio na quantidade. Ambas as metades têm $2^{k-1}$ subconjuntos. -->
 - [ ] C) $P = 2I$ <!-- feedback: Relação multiplicativa incorreta para contagem de subconjuntos. -->
-- [ ] D) $P = I - 1$ <!-- feedback: Não há desequilíbrio na quantidade. Ambas as metades têm $2^{k-1}$ subconjuntos. -->
+- [x] D) $P = I$ <!-- feedback: A soma alternada dos coeficientes do binômio de Newton iguala a zero, provando que o total de subconjuntos pares e ímpares é igual. -->
 
 ### Explicacion Pedagogica
 Usando o teorema binomial, sabemos que $(1 - 1)^k = \sum (-1)^j \binom{k}{j} = 0$ para $k \ge 1$. Isso implica que a soma dos coeficientes binomiais pares é exatamente igual à soma dos coeficientes ímpares. Portanto, o número de subconjuntos com quantidade par de elementos ($P$) e ímpar ($I$) é o mesmo, ambos valendo $2^{k-1}$.

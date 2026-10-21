@@ -65,12 +65,6 @@
           "feedback": "Incorrecto. La elección de coordenadas no afecta la antiderivada."
         },
         {
-          "letter": "D",
-          "text": "Porque si $F(x)$ es una antiderivada, entonces $F(x) + C$ también lo es, para cualquier constante $C$.",
-          "is_correct": true,
-          "feedback": "Correcto. La derivada de una constante es $0$, así que se mantiene la igualdad $F' = f$."
-        },
-        {
           "letter": "B",
           "text": "Porque solo existe cuando $f$ es lineal.",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "Porque la derivada solo se puede calcular una vez.",
           "is_correct": false,
           "feedback": "Incorrecto. La derivada no limita el número de antiderivadas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque si $F(x)$ es una antiderivada, entonces $F(x) + C$ también lo es, para cualquier constante $C$.",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada de una constante es $0$, así que se mantiene la igualdad $F' = f$."
         }
       ],
       "correct_answer": "D",
@@ -117,16 +117,16 @@
           "feedback": "Incorrecto. Aunque su derivada es $2x$, le falta la constante $+C$ de la integral indefinida."
         },
         {
-          "letter": "D",
-          "text": "$x^2 + C$",
-          "is_correct": true,
-          "feedback": "Correcto. La derivada de $x^2 + C$ es $2x$, por lo que es la integral indefinida correcta."
-        },
-        {
           "letter": "C",
           "text": "$x + C$",
           "is_correct": false,
           "feedback": "Incorrecto. La derivada de $x + C$ es $1$, no $2x$."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 + C$",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada de $x^2 + C$ es $2x$, por lo que es la integral indefinida correcta."
         }
       ],
       "correct_answer": "D",
@@ -157,12 +157,6 @@
           "feedback": "Incorrecto. Multiplicaste $5$ por un $x$ inexistente y elevaste al cuadrado."
         },
         {
-          "letter": "D",
-          "text": "$5x + C$",
-          "is_correct": true,
-          "feedback": "Correcto. La antiderivada de una constante $k$ es $kx + C$, ya que la derivada de $5x$ es $5$."
-        },
-        {
           "letter": "B",
           "text": "$C$",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "$5 + C$",
           "is_correct": false,
           "feedback": "Incorrecto. No se incluye la variable $x$ en la respuesta."
+        },
+        {
+          "letter": "D",
+          "text": "$5x + C$",
+          "is_correct": true,
+          "feedback": "Correcto. La antiderivada de una constante $k$ es $kx + C$, ya que la derivada de $5x$ es $5$."
         }
       ],
       "correct_answer": "D",
@@ -197,6 +197,12 @@
       "context": "En Barranquilla, Valentina aplica la regla de la potencia para antiderivar $f(x) = x^3$.",
       "options": [
         {
+          "letter": "A",
+          "text": "$\\frac{x^4}{4} + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Por la regla: $\\int x^n \\, dx = \\frac{x^{n+1}}{n+1} + C$, con $n = 3$."
+        },
+        {
           "letter": "B",
           "text": "$3x^2 + C$",
           "is_correct": false,
@@ -207,12 +213,6 @@
           "text": "$x^4 + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste por $4$ en vez de dividir."
-        },
-        {
-          "letter": "A",
-          "text": "$\\frac{x^4}{4} + C$",
-          "is_correct": true,
-          "feedback": "Correcto. Por la regla: $\\int x^n \\, dx = \\frac{x^{n+1}}{n+1} + C$, con $n = 3$."
         },
         {
           "letter": "D",
@@ -301,16 +301,16 @@
           "feedback": "Incorrecto. La antiderivada existe en todo el dominio de $f$."
         },
         {
-          "letter": "D",
-          "text": "$F(x) = x^3 + C$ cumple $F'(x) = 3x^2$.",
-          "is_correct": true,
-          "feedback": "Correcto. La derivada de $x^3$ es exactamente $3x^2$."
-        },
-        {
           "letter": "C",
           "text": "$F(x)$ no se puede determinar, porque la integral es imposible.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una integral polinómica elemental."
+        },
+        {
+          "letter": "D",
+          "text": "$F(x) = x^3 + C$ cumple $F'(x) = 3x^2$.",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada de $x^3$ es exactamente $3x^2$."
         }
       ],
       "correct_answer": "D",
@@ -347,16 +347,16 @@
           "feedback": "Incorrecto. Esa es la aceleración, no la velocidad."
         },
         {
-          "letter": "D",
-          "text": "$v(t) = 3t^2$.",
-          "is_correct": true,
-          "feedback": "Correcto. Antiderivar $6t$ da $3t^2 + C$, y con $v(0)=0$ se obtiene $C=0$."
-        },
-        {
           "letter": "C",
           "text": "$v(t) = 3t^2 + 6t$.",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste la aceleración original, lo cual no aplica."
+        },
+        {
+          "letter": "D",
+          "text": "$v(t) = 3t^2$.",
+          "is_correct": true,
+          "feedback": "Correcto. Antiderivar $6t$ da $3t^2 + C$, y con $v(0)=0$ se obtiene $C=0$."
         }
       ],
       "correct_answer": "D",
@@ -381,6 +381,12 @@
       "context": "En Medellín, Santiago debe recuperar la posición $s(t)$ a partir de la aceleración $a(t) = 12t$ y la condición inicial $s(0) = 5$.",
       "options": [
         {
+          "letter": "A",
+          "text": "$s(t) = 2t^3 + 5$.",
+          "is_correct": true,
+          "feedback": "Correcto. Antiderivas dos veces: $v(t) = 6t^2$, $s(t) = 2t^3 + C$, con $s(0)=5$ da $C=5$."
+        },
+        {
           "letter": "B",
           "text": "$s(t) = 12t^2 + 5$.",
           "is_correct": false,
@@ -391,12 +397,6 @@
           "text": "$s(t) = 6t^2 + 5t$.",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste el segundo término $+C$ al integrar."
-        },
-        {
-          "letter": "A",
-          "text": "$s(t) = 2t^3 + 5$.",
-          "is_correct": true,
-          "feedback": "Correcto. Antiderivas dos veces: $v(t) = 6t^2$, $s(t) = 2t^3 + C$, con $s(0)=5$ da $C=5$."
         },
         {
           "letter": "D",
@@ -427,6 +427,12 @@
       "context": "En Cali, Mariana discute con un compañero sobre si la constante $+C$ es obligatoria.",
       "options": [
         {
+          "letter": "A",
+          "text": "Es incorrecta; $+C$ indica la familia completa de antiderivadas, exigida por la integral indefinida.",
+          "is_correct": true,
+          "feedback": "Correcto. La integral indefinida exige la constante $+C$ para representar todas las soluciones."
+        },
+        {
           "letter": "B",
           "text": "Es correcta, porque cualquier constante sirve.",
           "is_correct": false,
@@ -437,12 +443,6 @@
           "text": "Es correcta solo si la pregunta dice \"una\" antiderivada.",
           "is_correct": false,
           "feedback": "Incorrecto. Aun así, una antiderivada específica debe escribirse con $C=0$ explícito."
-        },
-        {
-          "letter": "A",
-          "text": "Es incorrecta; $+C$ indica la familia completa de antiderivadas, exigida por la integral indefinida.",
-          "is_correct": true,
-          "feedback": "Correcto. La integral indefinida exige la constante $+C$ para representar todas las soluciones."
         },
         {
           "letter": "D",
@@ -474,15 +474,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Es incorrecta; la antiderivada correcta de $\\frac{1}{x}$ es $\\ln|x| + C$, no $\\frac{1}{x^2} + C$.",
-          "is_correct": true,
-          "feedback": "Correcto. La regla de la potencia no aplica cuando $n = -1$; se usa el logaritmo natural."
-        },
-        {
-          "letter": "B",
           "text": "Es correcta, porque la derivada de $\\frac{1}{x^2}$ es $\\frac{1}{x}$.",
           "is_correct": false,
           "feedback": "Incorrecto. La derivada de $x^{-2}$ es $-2x^{-3}$, no $\\frac{1}{x}$."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecta; la antiderivada correcta de $\\frac{1}{x}$ es $\\ln|x| + C$, no $\\frac{1}{x^2} + C$.",
+          "is_correct": true,
+          "feedback": "Correcto. La regla de la potencia no aplica cuando $n = -1$; se usa el logaritmo natural."
         },
         {
           "letter": "C",
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. $\\frac{1}{x^2}$ y $\\ln|x|$ son funciones distintas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La regla $\\int x^n \\, dx = \\frac{x^{n+1}}{n+1} + C$ requiere $n \\neq -1$. Para $n=-1$ se usa $\\int \\frac{1}{x} \\, dx = \\ln|x| + C$.",
       "difficulty": "10",
       "images": [],

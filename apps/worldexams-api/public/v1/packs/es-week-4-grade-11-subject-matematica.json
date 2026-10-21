@@ -875,9 +875,9 @@
         },
         {
           "letter": "B",
-          "text": "Calculando $P(1)$.",
-          "is_correct": true,
-          "feedback": "Correcto. Al sustituir x por 1, todas las potencias de x se vuelven 1, quedando solo la suma de los coeficientes."
+          "text": "Sumando los exponentes de los términos.",
+          "is_correct": false,
+          "feedback": "No existe tal propiedad para hallar la suma de coeficientes."
         },
         {
           "letter": "C",
@@ -887,12 +887,12 @@
         },
         {
           "letter": "D",
-          "text": "Sumando los exponentes de los términos.",
-          "is_correct": false,
-          "feedback": "No existe tal propiedad para hallar la suma de coeficientes."
+          "text": "Calculando $P(1)$.",
+          "is_correct": true,
+          "feedback": "Correcto. Al sustituir x por 1, todas las potencias de x se vuelven 1, quedando solo la suma de los coeficientes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Evaluar un polinomio en 1 es un truco algebraico muy útil: $P(1) = a_n(1)^n + ... + a_0 = a_n + ... + a_0$, que es exactamente la suma de todos sus coeficientes.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

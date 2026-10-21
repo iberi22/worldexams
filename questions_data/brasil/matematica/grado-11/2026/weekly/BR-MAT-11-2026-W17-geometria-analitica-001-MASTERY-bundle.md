@@ -354,9 +354,9 @@ Um ponto P(4, 6) está no exterior de uma circunferência de centro C(1, 2) e ra
 
 ### Opciones
 - [ ] A) 5 <!-- feedback: Incorreto: 5 é a distância do ponto P ao centro, não a maior distância ao círculo. -->
-- [x] B) 7 <!-- feedback: Correto: a maior distância é d(P, C) + r = 5 + 2 = 7. -->
+- [ ] B) 2 <!-- feedback: Incorreto: 2 é o raio da circunferência. -->
 - [ ] C) 3 <!-- feedback: Incorreto: 3 é a menor distância de P à circunferência (5 − 2). -->
-- [ ] D) 2 <!-- feedback: Incorreto: 2 é o raio da circunferência. -->
+- [x] D) 7 <!-- feedback: Correto: a maior distância é d(P, C) + r = 5 + 2 = 7. -->
 
 ### Explicacion Pedagogica
 A distância de P ao centro é d = √((4 − 1)² + (6 − 2)²) = √(9 + 16) = 5. O ponto mais afastado da circunferência está na direção que prolonga o raio, a uma distância d + r = 5 + 2 = 7.
@@ -391,9 +391,9 @@ Uma reta é tangente à circunferência quando a distância do centro (origem) �
 Considere as circunferências C1: (x − 1)² + (y − 1)² = 9 e C2: (x − 7)² + (y − 1)² = 4. Qual é a posição relativa entre elas?
 
 ### Opciones
-- [x] A) Externas, pois a distância entre os centros é maior que a soma dos raios <!-- feedback: Correto: d = 6 e r1 + r2 = 5, logo d > r1 + r2 e as circunferências não se intersectam. -->
+- [ ] A) Secantes, pois a distância entre os centros é menor que a soma dos raios <!-- feedback: Incorreto: para serem secantes, d deve ser menor que 5 e maior que 1. -->
 - [ ] B) Tangentes externas, pois a distância entre os centros é 6 <!-- feedback: Incorreto: a tangência externa exigiria d = r1 + r2 = 5. -->
-- [ ] C) Secantes, pois a distância entre os centros é menor que a soma dos raios <!-- feedback: Incorreto: para serem secantes, d deve ser menor que 5 e maior que 1. -->
+- [x] C) Externas, pois a distância entre os centros é maior que a soma dos raios <!-- feedback: Correto: d = 6 e r1 + r2 = 5, logo d > r1 + r2 e as circunferências não se intersectam. -->
 - [ ] D) Uma contém a outra, pois a distância entre os centros é 6 <!-- feedback: Incorreto: isso exigiria d + r2 < r1, ou seja, 6 + 2 < 3, o que é falso. -->
 
 ### Explicacion Pedagogica

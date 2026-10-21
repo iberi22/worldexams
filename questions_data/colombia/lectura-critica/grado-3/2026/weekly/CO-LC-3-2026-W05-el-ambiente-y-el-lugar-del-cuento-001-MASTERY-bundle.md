@@ -193,12 +193,12 @@ Comparar dos textos permite ver que una misma idea, la influencia del ambiente, 
 ### Opciones
 - [ ] A) La afirmación es correcta, porque las acciones de los personajes bastan para explicar cualquier historia
   <!-- feedback: Incorrecto. Una valoración sólida tiene que apoyarse en los dos textos de la semana, y en ambos el ambiente cambia lo que hacen los personajes. -->
-- [x] B) La afirmación es incompleta, porque en los dos textos de la semana el clima y el lugar cambian las conductas: la lluvia hace que Mateo espere y el calor hace que la tía Rosa siembre temprano
-  <!-- feedback: Correcto. Los dos textos muestran que el ambiente interviene en las decisiones de los personajes, así que la afirmación del compañero deja de lado una parte central del cuento. -->
+- [ ] B) La afirmación es correcta, porque los autores solo describen lugares hermosos
+  <!-- feedback: Incorrecto. El Texto 1 describe una plaza con charcos y cielo gris, porque el valor del ambiente está en lo que provoca y no en lo lindo que se ve. -->
 - [ ] C) La afirmación es incorrecta, porque el ambiente nunca tiene relación con lo que hacen los personajes
   <!-- feedback: Incorrecto. Decir que el ambiente nunca se relaciona con los personajes también es falso, y contradice lo que muestran los dos textos leídos. -->
-- [ ] D) La afirmación es correcta, porque los autores solo describen lugares hermosos
-  <!-- feedback: Incorrecto. El Texto 1 describe una plaza con charcos y cielo gris, porque el valor del ambiente está en lo que provoca y no en lo lindo que se ve. -->
+- [x] D) La afirmación es incompleta, porque en los dos textos de la semana el clima y el lugar cambian las conductas: la lluvia hace que Mateo espere y el calor hace que la tía Rosa siembre temprano
+  <!-- feedback: Correcto. Los dos textos muestran que el ambiente interviene en las decisiones de los personajes, así que la afirmación del compañero deja de lado una parte central del cuento. -->
 
 ### Explicacion Pedagogica
 Evaluar es emitir un juicio sobre una afirmación y defenderlo con pruebas del texto. La afirmación del compañero se apoya solo en los personajes, pero los dos textos de la semana muestran que el clima interviene en sus decisiones. Un buen argumento de lectura incluye la evidencia del texto y explica por qué esa evidencia importa.

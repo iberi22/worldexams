@@ -38,10 +38,10 @@ Lee con atención el siguiente fragmento.
 Según el fragmento, ¿de qué manera están las familias alrededor de sus casas?
 
 ### Opciones
-- [ ] A) En línea recta, porque el fragmento menciona una sola casa central
-  <!-- feedback: Incorrecto. El fragmento dice que las casas forman un círculo, y una línea recta no es un círculo. -->
-- [x] B) En círculo, porque el fragmento lo dice de forma directa
+- [x] A) En círculo, porque el fragmento lo dice de forma directa
   <!-- feedback: Correcto. El texto afirma que las casas están construidas en círculo, y eso responde la pregunta de manera literal. -->
+- [ ] B) En línea recta, porque el fragmento menciona una sola casa central
+  <!-- feedback: Incorrecto. El fragmento dice que las casas forman un círculo, y una línea recta no es un círculo. -->
 - [ ] C) En desorden, porque el fragmento no dice en qué orden se construyen
   <!-- feedback: Incorrecto. El fragmento sí dice que están en círculo, y eso es un orden claro y no un desorden. -->
 - [ ] D) Separadas unas de otras, porque el fragmento cuenta que hay una montaña
@@ -227,14 +227,14 @@ Los cuatro grupos redactaron una versión sobre el mismo relato.
 ¿Cuál de las cuatro versiones es la más sólida como texto sobre un relato tradicional?
 
 ### Opciones
-- [ ] A) La del grupo 1, porque llama antiguo al relato y con eso responde todo
-  <!-- feedback: Incorrecto. El grupo 1 no da ninguna fuente y además inventa que nadie puede saber cuándo nació, así que su versión no tiene ninguna prueba. -->
+- [x] A) La del grupo 2, porque señala una fuente, explica quién recogió el relato y dice qué hizo después
+  <!-- feedback: Correcto. Esa versión menciona el libro de la biblioteca, al narrador, a la abuela y la publicación, y con eso el lector puede buscar la evidencia. -->
 - [ ] B) La del grupo 3, porque un testimonio de un habitante del lugar vale más que un libro
   <!-- feedback: Incorrecto. El testimonio es una fuente valiosa, y decir que el relato apareció solo no coincide con un libro que ya lo recogió. -->
 - [ ] C) La del grupo 4, porque todos los habitantes están de acuerdo con esa afirmación
   <!-- feedback: Incorrecto. Esa versión solo da un adjetivo sobre el relato y no aporta dato, momento ni fuente, así que no es un texto informativo. -->
-- [x] D) La del grupo 2, porque señala una fuente, explica quién recogió el relato y dice qué hizo después
-  <!-- feedback: Correcto. Esa versión menciona el libro de la biblioteca, al narrador, a la abuela y la publicación, y con eso el lector puede buscar la evidencia. -->
+- [ ] D) La del grupo 1, porque llama antiguo al relato y con eso responde todo
+  <!-- feedback: Incorrecto. El grupo 1 no da ninguna fuente y además inventa que nadie puede saber cuándo nació, así que su versión no tiene ninguna prueba. -->
 
 ### Explicacion Pedagogica
 Comparar cuatro versiones sobre un mismo relato enseña a ver qué tiene que tener un texto confiable. Nombra la fuente, explica quién recogió el relato y cuenta qué pasó después con palabras comprobables. Practicar estos criterios les permite a los niños escribir sobre las tradiciones de los pueblos indígenas con honestidad y sin inventar datos.

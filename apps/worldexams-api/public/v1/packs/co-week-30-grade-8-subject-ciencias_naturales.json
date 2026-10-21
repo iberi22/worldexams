@@ -13,16 +13,16 @@
       "context": "En una finca cafetera del municipio de Montenegro (Quindío), los estudiantes del Colegio Robledo observan las herramientas que usan los recolectores durante la cosecha principal.",
       "options": [
         {
-          "letter": "B",
-          "text": "La pala con la que se recoge el café maduro del suelo.",
-          "is_correct": true,
-          "feedback": "Correcto. La pala funciona como una combinación de cuña y palanca, una de las máquinas simples clásicas."
-        },
-        {
           "letter": "A",
           "text": "La cosechadora mecánica automatizada.",
           "is_correct": false,
           "feedback": "Incorrecto. La cosechadora es una máquina compleja compuesta de muchas piezas, motores y mecanismos."
+        },
+        {
+          "letter": "B",
+          "text": "La pala con la que se recoge el café maduro del suelo.",
+          "is_correct": true,
+          "feedback": "Correcto. La pala funciona como una combinación de cuña y palanca, una de las máquinas simples clásicas."
         },
         {
           "letter": "C",
@@ -105,16 +105,16 @@
       "context": "En un trapiche panelero de la vereda de Susa (Santander), el propietario describe a los visitantes cómo eleva los bultos de caña hacia la tolva del molino durante la molienda.",
       "options": [
         {
-          "letter": "B",
-          "text": "Polea fija.",
-          "is_correct": true,
-          "feedback": "Correcto. La polea fija tiene VM = 1: permite tirar hacia abajo para subir la carga, pero no reduce el esfuerzo."
-        },
-        {
           "letter": "A",
           "text": "Polea móvil.",
           "is_correct": false,
           "feedback": "Incorrecto. La polea móvil tiene VM = 2 y reduce el esfuerzo a la mitad, pero requiere sostener la cuerda con fuerza."
+        },
+        {
+          "letter": "B",
+          "text": "Polea fija.",
+          "is_correct": true,
+          "feedback": "Correcto. La polea fija tiene VM = 1: permite tirar hacia abajo para subir la carga, pero no reduce el esfuerzo."
         },
         {
           "letter": "C",
@@ -151,16 +151,16 @@
       "context": "En el molino del trapiche de la Hacienda San José (Moniquirá, Boyacá), las palancas que accionan la rueda tienen el fulcro (punto de apoyo) a 25 cm de la mano del operario y a 75 cm de la muela.",
       "options": [
         {
-          "letter": "B",
-          "text": "3.",
-          "is_correct": true,
-          "feedback": "Correcto. VM = brazo de carga / brazo de esfuerzo = 75 cm / 25 cm = 3; la fuerza aplicada se multiplica por 3."
-        },
-        {
           "letter": "A",
           "text": "0,33.",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor corresponde a la inversa de la ventaja mecánica, no a ella misma."
+        },
+        {
+          "letter": "B",
+          "text": "3.",
+          "is_correct": true,
+          "feedback": "Correcto. VM = brazo de carga / brazo de esfuerzo = 75 cm / 25 cm = 3; la fuerza aplicada se multiplica por 3."
         },
         {
           "letter": "C",
@@ -197,16 +197,16 @@
       "context": "En la Cooperativa de Caficultores de Andes (Antioquia), los operarios usan una rampa de madera para subir bultos de café pergamino de 70 kg al camión que los transportará al mercado de Medellín.",
       "options": [
         {
-          "letter": "B",
-          "text": "Plano inclinado, porque reduce la fuerza necesaria aumentando la distancia recorrida.",
-          "is_correct": true,
-          "feedback": "Correcto. La rampa es un plano inclinado: con 3 m de longitud para subir 1 m se necesita solo un tercio de la fuerza de levantamiento vertical."
-        },
-        {
           "letter": "A",
           "text": "Polea, porque cambia el sentido de la fuerza aplicada.",
           "is_correct": false,
           "feedback": "Incorrecto. Una polea usa una cuerda y una rueda; no es lo que se usa aquí."
+        },
+        {
+          "letter": "B",
+          "text": "Plano inclinado, porque reduce la fuerza necesaria aumentando la distancia recorrida.",
+          "is_correct": true,
+          "feedback": "Correcto. La rampa es un plano inclinado: con 3 m de longitud para subir 1 m se necesita solo un tercio de la fuerza de levantamiento vertical."
         },
         {
           "letter": "C",
@@ -243,16 +243,16 @@
       "context": "En el área de molienda del trapiche de Barbosa (Santander), el operario empuja el extremo de una palanca con 200 N y la caña recibe una fuerza mucho mayor en la muela.",
       "options": [
         {
-          "letter": "B",
-          "text": "800 N.",
-          "is_correct": true,
-          "feedback": "Correcto. Fuerza de salida = VM · fuerza de entrada = 4 · 200 N = 800 N."
-        },
-        {
           "letter": "A",
           "text": "50 N.",
           "is_correct": false,
           "feedback": "Incorrecto. 50 N sería el resultado de dividir 200 entre 4, no de multiplicar por la VM."
+        },
+        {
+          "letter": "B",
+          "text": "800 N.",
+          "is_correct": true,
+          "feedback": "Correcto. Fuerza de salida = VM · fuerza de entrada = 4 · 200 N = 800 N."
         },
         {
           "letter": "C",
@@ -289,12 +289,6 @@
       "context": "En una finca panelera de San Gil (Santander), un trabajador instala una polea móvil con una cuerda para subir bultos de panela de 50 kg desde el patio hasta el segundo piso del depósito.",
       "options": [
         {
-          "letter": "D",
-          "text": "La reduce a la mitad (50%), por lo que su ventaja mecánica es 2.",
-          "is_correct": true,
-          "feedback": "Correcto. En una polea móvil ideal, VM = 2 y solo se requiere la mitad de la fuerza de la carga para sostenerla."
-        },
-        {
           "letter": "A",
           "text": "La mantiene igual, sin reducción alguna.",
           "is_correct": false,
@@ -311,6 +305,12 @@
           "text": "La duplica, exigiendo el doble de fuerza.",
           "is_correct": false,
           "feedback": "Incorrecto. La polea móvil nunca aumenta el esfuerzo; lo reduce o, como mínimo, lo iguala."
+        },
+        {
+          "letter": "D",
+          "text": "La reduce a la mitad (50%), por lo que su ventaja mecánica es 2.",
+          "is_correct": true,
+          "feedback": "Correcto. En una polea móvil ideal, VM = 2 y solo se requiere la mitad de la fuerza de la carga para sostenerla."
         }
       ],
       "correct_answer": "D",
@@ -335,16 +335,16 @@
       "context": "En la finca cafetera La Esperanza de Pácora (Caldas), los recolectores usan tijeras de podar de mango largo para cortar las ramas de los cafetos, mientras que sus abuelos usaban tijeras cortas.",
       "options": [
         {
-          "letter": "B",
-          "text": "Porque las tijeras largas son palancas de primer género con brazo de esfuerzo mayor que el brazo de carga, lo que da VM > 1.",
-          "is_correct": true,
-          "feedback": "Correcto. Al alargar el brazo donde aplica la mano y mantener corto el filo, la VM aumenta y la fuerza sobre la rama se multiplica."
-        },
-        {
           "letter": "A",
           "text": "Porque las tijeras largas son más pesadas y aprovechan su peso.",
           "is_correct": false,
           "feedback": "Incorrecto. El peso extra solo añade carga al operario, no aumenta la VM."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las tijeras largas son palancas de primer género con brazo de esfuerzo mayor que el brazo de carga, lo que da VM > 1.",
+          "is_correct": true,
+          "feedback": "Correcto. Al alargar el brazo donde aplica la mano y mantener corto el filo, la VM aumenta y la fuerza sobre la rama se multiplica."
         },
         {
           "letter": "C",
@@ -427,12 +427,6 @@
       "context": "Un ingeniero agrónomo del Comité de Cafeteros de Caldas compara tres alternativas para subir un bulto de 60 kg al camión: levantarlo en vertical, empujarlo por una rampa o usar una polea móvil.",
       "options": [
         {
-          "letter": "C",
-          "text": "El trabajo mecánico (fuerza por distancia recorrida).",
-          "is_correct": true,
-          "feedback": "Correcto. Sin fricción, el trabajo requerido para levantar la carga a una altura fija es el mismo en los tres casos."
-        },
-        {
           "letter": "A",
           "text": "Únicamente la fuerza aplicada por el operario.",
           "is_correct": false,
@@ -443,6 +437,12 @@
           "text": "La velocidad de elevación del bulto.",
           "is_correct": false,
           "feedback": "Incorrecto. La velocidad depende del ritmo del operario, no se conserva necesariamente."
+        },
+        {
+          "letter": "C",
+          "text": "El trabajo mecánico (fuerza por distancia recorrida).",
+          "is_correct": true,
+          "feedback": "Correcto. Sin fricción, el trabajo requerido para levantar la carga a una altura fija es el mismo en los tres casos."
         },
         {
           "letter": "D",
@@ -473,12 +473,6 @@
       "context": "El gerente de la Cooperativa de Caficultores de Salamina (Caldas) busca una solución de bajo costo para que los asociados suban bultos de 70 kg al camión con menor esfuerzo físico.",
       "options": [
         {
-          "letter": "C",
-          "text": "Instalar una rampa de pendiente suave, con superficie lisa y barandas de seguridad en el sitio de carga.",
-          "is_correct": true,
-          "feedback": "Correcto. Una rampa suave y lisa actúa como plano inclinado eficiente: reduce la fuerza necesaria a cambio de mayor distancia."
-        },
-        {
           "letter": "A",
           "text": "Contratar más jornaleros para que carguen en parejas.",
           "is_correct": false,
@@ -489,6 +483,12 @@
           "text": "Aumentar el peso de cada bulto para usar menos viajes.",
           "is_correct": false,
           "feedback": "Incorrecto. Aumentar el peso incrementa la fuerza necesaria, lo opuesto al objetivo."
+        },
+        {
+          "letter": "C",
+          "text": "Instalar una rampa de pendiente suave, con superficie lisa y barandas de seguridad en el sitio de carga.",
+          "is_correct": true,
+          "feedback": "Correcto. Una rampa suave y lisa actúa como plano inclinado eficiente: reduce la fuerza necesaria a cambio de mayor distancia."
         },
         {
           "letter": "D",
@@ -519,16 +519,16 @@
       "context": "Un proveedor de equipos para trapiches en Barbosa (Santander) propone a los propietarios reemplazar las palancas manuales del molino por cilindros hidráulicos automatizados.",
       "options": [
         {
-          "letter": "B",
-          "text": "Es técnicamente viable porque las máquinas complejas (hidráulicas) son combinaciones de máquinas simples, pero se debe analizar el costo, el consumo energético y el mantenimiento.",
-          "is_correct": true,
-          "feedback": "Correcto. La hidráulica combina palancas, planos y cilindros como multiplicadores de fuerza, pero requiere energía externa y mantenimiento."
-        },
-        {
           "letter": "A",
           "text": "No es viable bajo ningún aspecto, ni técnico ni económico.",
           "is_correct": false,
           "feedback": "Incorrecto. Los cilindros hidráulicos son viables técnicamente; el análisis debe considerar factores económicos y operativos."
+        },
+        {
+          "letter": "B",
+          "text": "Sustituir máquinas simples por complejas siempre reduce la eficiencia del trabajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las máquinas complejas pueden ser más eficientes cuando la fuerza requerida supera la capacidad humana."
         },
         {
           "letter": "C",
@@ -538,12 +538,12 @@
         },
         {
           "letter": "D",
-          "text": "Sustituir máquinas simples por complejas siempre reduce la eficiencia del trabajo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Las máquinas complejas pueden ser más eficientes cuando la fuerza requerida supera la capacidad humana."
+          "text": "Es técnicamente viable porque las máquinas complejas (hidráulicas) son combinaciones de máquinas simples, pero se debe analizar el costo, el consumo energético y el mantenimiento.",
+          "is_correct": true,
+          "feedback": "Correcto. La hidráulica combina palancas, planos y cilindros como multiplicadores de fuerza, pero requiere energía externa y mantenimiento."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las máquinas complejas (como sistemas hidráulicos) son combinaciones de máquinas simples. Pueden multiplicar la fuerza mucho más allá de lo que logra una palanca, pero consumen energía externa y requieren mantenimiento. La decisión técnica debe sopesar esfuerzo, energía, costo y contexto rural.",
       "difficulty": "10",
       "images": [],

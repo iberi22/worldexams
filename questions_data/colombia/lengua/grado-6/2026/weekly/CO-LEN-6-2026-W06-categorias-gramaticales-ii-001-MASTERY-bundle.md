@@ -163,9 +163,9 @@ Si quieres expresar que los personajes deben elegir entre ir al cine o ir al par
 
 ### Opciones
 - [ ] A) Conjunciones copulativas. <!-- feedback: Incorrecto. Las copulativas suman acciones, no plantean una elección excluyente. -->
-- [x] B) Conjunciones disyuntivas. <!-- feedback: Correcto. Las conjunciones disyuntivas (o, u) se utilizan para presentar opciones o alternativas. -->
+- [ ] B) Conjunciones concesivas. <!-- feedback: Incorrecto. Las concesivas indican un obstáculo que no impide la acción, no una alternativa. -->
 - [ ] C) Conjunciones finales. <!-- feedback: Incorrecto. Las finales indican propósito, no una elección. -->
-- [ ] D) Conjunciones concesivas. <!-- feedback: Incorrecto. Las concesivas indican un obstáculo que no impide la acción, no una alternativa. -->
+- [x] D) Conjunciones disyuntivas. <!-- feedback: Correcto. Las conjunciones disyuntivas (o, u) se utilizan para presentar opciones o alternativas. -->
 
 ### Explicacion Pedagogica
 Las conjunciones disyuntivas permiten al hablante presentar dos o más posibilidades, de las cuales generalmente solo una puede ocurrir o ser elegida.

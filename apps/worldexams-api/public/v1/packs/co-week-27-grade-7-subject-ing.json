@@ -388,9 +388,9 @@
         },
         {
           "letter": "B",
-          "text": "It is the cheapest and most portable.",
-          "is_correct": true,
-          "feedback": "Correct! $400 is the lowest price, and \"smallest/lightest\" means most portable."
+          "text": "Laptop A is the heaviest.",
+          "is_correct": false,
+          "feedback": "Incorrect. We only know C is the lightest."
         },
         {
           "letter": "C",
@@ -400,12 +400,12 @@
         },
         {
           "letter": "D",
-          "text": "Laptop A is the heaviest.",
-          "is_correct": false,
-          "feedback": "Incorrect. We only know C is the lightest."
+          "text": "It is the cheapest and most portable.",
+          "is_correct": true,
+          "feedback": "Correct! $400 is the lowest price, and \"smallest/lightest\" means most portable."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student analyzes numeric and descriptive data using superlative logic to identify a true statement.\n\n---",
       "difficulty": "10",
       "images": [],

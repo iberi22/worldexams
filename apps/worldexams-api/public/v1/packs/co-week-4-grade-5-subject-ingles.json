@@ -105,12 +105,6 @@
       "context": "A teacher says: \"Open your notebooks at page 10. Take out your pencil and your ruler.\"",
       "options": [
         {
-          "letter": "C",
-          "text": "The students open their notebooks and take out their pencils and rulers.",
-          "is_correct": true,
-          "feedback": "The verb forms agree with the plural subject \"the students\"."
-        },
-        {
           "letter": "A",
           "text": "The students opens their notebooks and take out their pencils.",
           "is_correct": false,
@@ -121,6 +115,12 @@
           "text": "The student open their notebooks and takes out their pencils.",
           "is_correct": false,
           "feedback": "The singular subject \"student\" requires \"opens\" and \"takes\", not the plural forms."
+        },
+        {
+          "letter": "C",
+          "text": "The students open their notebooks and take out their pencils and rulers.",
+          "is_correct": true,
+          "feedback": "The verb forms agree with the plural subject \"the students\"."
         },
         {
           "letter": "D",
@@ -151,12 +151,6 @@
       "context": "A student in Ibague organizes her desk: \"The dictionary is next to the notebook. The pencil case is under the chair.\"",
       "options": [
         {
-          "letter": "C",
-          "text": "Next to.",
-          "is_correct": true,
-          "feedback": "\"Next to\" indicates that the dictionary is beside the notebook."
-        },
-        {
           "letter": "A",
           "text": "Under.",
           "is_correct": false,
@@ -167,6 +161,12 @@
           "text": "Between.",
           "is_correct": false,
           "feedback": "\"Between\" requires two reference objects on each side."
+        },
+        {
+          "letter": "C",
+          "text": "Next to.",
+          "is_correct": true,
+          "feedback": "\"Next to\" indicates that the dictionary is beside the notebook."
         },
         {
           "letter": "D",
@@ -243,12 +243,6 @@
       "context": "Read: \"The math book is in the backpack. The English book is on the table. The dictionary is next to the English book.\"",
       "options": [
         {
-          "letter": "D",
-          "text": "It is right beside the English book.",
-          "is_correct": true,
-          "feedback": "\"Next to\" means the dictionary is beside the English book."
-        },
-        {
           "letter": "A",
           "text": "It is inside the backpack with the math book.",
           "is_correct": false,
@@ -265,6 +259,12 @@
           "text": "It is on a different floor in the school.",
           "is_correct": false,
           "feedback": "Both objects are described in the same classroom context."
+        },
+        {
+          "letter": "D",
+          "text": "It is right beside the English book.",
+          "is_correct": true,
+          "feedback": "\"Next to\" means the dictionary is beside the English book."
         }
       ],
       "correct_answer": "D",
@@ -289,12 +289,6 @@
       "context": "Two students talk: \"I have five notebooks, three pencils, and one ruler in my backpack.\"",
       "options": [
         {
-          "letter": "C",
-          "text": "The student has more notebooks than pencils.",
-          "is_correct": true,
-          "feedback": "Five notebooks is greater than three pencils, so the inference is correct."
-        },
-        {
           "letter": "A",
           "text": "The student has the same number of notebooks and pencils.",
           "is_correct": false,
@@ -305,6 +299,12 @@
           "text": "The student has more pencils than notebooks.",
           "is_correct": false,
           "feedback": "Three pencils is less than five notebooks, so this inference is wrong."
+        },
+        {
+          "letter": "C",
+          "text": "The student has more notebooks than pencils.",
+          "is_correct": true,
+          "feedback": "Five notebooks is greater than three pencils, so the inference is correct."
         },
         {
           "letter": "D",
@@ -336,15 +336,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Students should take care of classroom objects to keep the room organized for everyone.",
-          "is_correct": true,
-          "feedback": "The text links responsibility for supplies with a better shared learning space."
-        },
-        {
-          "letter": "B",
           "text": "Only the teacher should take care of classroom objects.",
           "is_correct": false,
           "feedback": "The text speaks about \"students\" returning and organizing items, not only the teacher."
+        },
+        {
+          "letter": "B",
+          "text": "Students should take care of classroom objects to keep the room organized for everyone.",
+          "is_correct": true,
+          "feedback": "The text links responsibility for supplies with a better shared learning space."
         },
         {
           "letter": "C",
@@ -359,7 +359,7 @@
           "feedback": "Cleaning the board is listed as a positive example of taking care."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluating the main message of a short persuasive paragraph about responsibility for classroom objects.",
       "difficulty": "10",
       "images": [],

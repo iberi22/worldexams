@@ -35,10 +35,10 @@ cefr_level: "C1+"
 In the context of human rights, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?
 
 ### Opciones
-- [x] B) exacerbate
-  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
 - [ ] A) alleviate
   <!-- feedback: Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed. -->
+- [x] B) exacerbate
+  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
 - [ ] C) mitigate
   <!-- feedback: Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied. -->
 - [ ] D) facilitate
@@ -60,10 +60,10 @@ This question tests advanced vocabulary (verbs of change and impact) suitable fo
 In the context of human rights, which word best completes the following sentence: 'A court that accepts testimony from witnesses who were never told what they were signing __________ the very consent on which its judgement depends'?
 
 ### Opciones
-- [x] B) erodes
-  <!-- feedback: 'Erode' means to wear away gradually, which fits consent damaged each time a person signs without being told what they agreed to. The clause names consent as the thing being worn down while the court still treats it as valid. -->
 - [ ] A) secures
   <!-- feedback: 'Secure' is the opposite of what the sentence describes, since uninformed agreement is precisely what removes consent from being reliable. Nothing in the clause suggests the court strengthened its standing. -->
+- [x] B) erodes
+  <!-- feedback: 'Erode' means to wear away gradually, which fits consent damaged each time a person signs without being told what they agreed to. The clause names consent as the thing being worn down while the court still treats it as valid. -->
 - [ ] C) conceals
   <!-- feedback: 'Conceal' means to hide, and the problem described is a defective process rather than a secret one. The witnesses' lack of information is on the record and is what the clause identifies. -->
 - [ ] D) returns
@@ -129,23 +129,27 @@ Legal and human-rights discourse at C1+ depends on precise verbs for the handlin
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.70
-**Contexto:** Discussing human rights in Manizales.
+**Contexto:** Reading a description of the Casa de la Memoria Museum in Medellín.
 
 ### Enunciado
-According to a recent report on human rights in Manizales, what is implied about the role of Gerunds vs Infinitives in shaping public opinion?
+Read the text and answer the question.
+
+"In Medellín, the Casa de la Memoria Museum collects stories of people affected by the armed conflict. Visitors can listen to recordings of mothers looking for their children, read letters and see objects donated by victims and their families. The museum does not tell visitors what to think. Instead, it invites them to listen to many different voices and to reflect on how violence affected ordinary people."
+
+What is the main idea of the text?
 
 ### Opciones
-- [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. Gerunds vs Infinitives give a text its nuance and precision, so they does not make the message simpler to grasp. -->
-- [ ] C) It is only used by academic elites in Pereira.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [ ] A) The museum explains the military strategy of the armed conflict.
+  <!-- feedback: The text focuses on personal stories of ordinary people, not on military strategy. -->
+- [ ] B) The museum tells visitors which side of the conflict was right.
+  <!-- feedback: The text says the museum 'does not tell visitors what to think', so this is the opposite. -->
+- [ ] C) The museum only shows objects that belonged to soldiers.
+  <!-- feedback: The objects were donated by victims and their families, and the museum also includes recordings and letters. -->
+- [x] D) The museum preserves many personal stories so visitors can reflect on the conflict.
+  <!-- feedback: The text describes the stories, recordings and objects, and explains the museum's purpose: to make visitors listen and reflect. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Memory museums are part of the effort to protect victims' right to truth. The main idea combines what the museum contains (personal testimonies) with its purpose (reflection), and rejects options that contradict 'does not tell visitors what to think'.
 
 ---
 
@@ -154,23 +158,27 @@ This question requires inferential reading skills to understand how complex stru
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.67
-**Contexto:** Discussing human rights in Barranquilla.
+**Contexto:** Reading a story about a student in Tunja who used a tutela to defend his right to education.
 
 ### Enunciado
-According to a recent report on human rights in Barranquilla, what is implied about the role of Gerunds vs Infinitives in shaping public opinion?
+Read the text and answer the question.
+
+"When Andrés, a 16-year-old student who uses a wheelchair, was told he could not attend classes on the second floor of his school in Tunja, his family filed a tutela, a legal action to protect fundamental rights. A judge ordered the school to move his classes to the first floor until a ramp was built. Andrés now gives talks to other students about their rights. 'I didn't want special treatment,' he says. 'I wanted the same chance as everyone else.'"
+
+What can be inferred from Andrés's words?
 
 ### Opciones
-- [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. Gerunds vs Infinitives give a text its nuance and precision, so they does not make the message simpler to grasp. -->
-- [ ] C) It is only used by academic elites in Pereira.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [ ] A) He wanted the school to give him better grades.
+  <!-- feedback: Grades are never mentioned; Andrés talks about having the same chance to attend classes. -->
+- [ ] B) He was not interested in attending classes.
+  <!-- feedback: His family went to court so he could attend classes, which shows he wanted to study. -->
+- [ ] C) He wanted to change schools after the decision.
+  <!-- feedback: The judge ordered changes in his school, and nothing suggests he wanted to leave it. -->
+- [x] D) He saw access to his classes as a matter of equal rights, not a favour.
+  <!-- feedback: 'I didn't want special treatment ... I wanted the same chance as everyone else' shows he considers access a right that all students share. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+The tutela is a Colombian legal tool to protect fundamental rights quickly. Andrés's contrast between 'special treatment' and 'the same chance' is the clue for the inference: equality, not privilege.
 
 ---
 
@@ -185,10 +193,10 @@ This question requires inferential reading skills to understand how complex stru
 A report on human rights in Manizales distinguishes two ways of talking about victims: it warns against 'the habit of remembering by pronouncing people innocent, which forgives them in advance'. What is the objection the report is raising?
 
 ### Opciones
-- [x] B) Declaring innocence before the facts are established excuses the perpetrator and erases what the victims endured.
-  <!-- feedback: 'Forgives them in advance' is the key: the phrase describes a judgement handed over before any evidence is weighed. That spares the perpetrator the consequences of their actions and reduces the victims to a category that is declared rather than listened to. -->
 - [ ] A) It claims that no one has the right to describe a crime as a crime.
   <!-- feedback: The report objects to declaring people innocent in advance, not to naming a crime. 'Remembering' and the explicit reference to victims show that the point is about how victims are honoured, not about silencing the description of the offence. -->
+- [x] B) Declaring innocence before the facts are established excuses the perpetrator and erases what the victims endured.
+  <!-- feedback: 'Forgives them in advance' is the key: the phrase describes a judgement handed over before any evidence is weighed. That spares the perpetrator the consequences of their actions and reduces the victims to a category that is declared rather than listened to. -->
 - [ ] C) It argues that the guilty should be praised so that reconciliation becomes possible.
   <!-- feedback: Nothing in the sentence supports praising anyone. The criticism falls on the exoneration of the accused, which is the opposite of praising them. -->
 - [ ] D) It says that remembering a past crime prevents the country from moving forward.
@@ -204,23 +212,27 @@ Argumentative reading at C1+ means following a critic's target: a phrase like 'w
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.61
-**Contexto:** Discussing human rights in Cali.
+**Contexto:** Reading an article about internal displacement in Colombia.
 
 ### Enunciado
-According to a recent report on human rights in Cali, what is implied about the role of Gerunds vs Infinitives in shaping public opinion?
+Read the text and answer the question.
+
+"Colombia has one of the largest populations of internally displaced people in the world. These are people who were forced to leave their homes because of violence but stayed inside the country. Many families from rural areas moved to the edges of cities such as Bogotá and Cartagena, where they often had to start again without land or jobs. Programmes to return land to these families have helped some of them, but the process is slow."
+
+In the text, "displaced" people are those who:
 
 ### Opciones
-- [x] B) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. Gerunds vs Infinitives give a text its nuance and precision, so they does not make the message simpler to grasp. -->
-- [ ] D) It is only used by academic elites in Cali.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [ ] A) moved to another country to find work.
+  <!-- feedback: The text says displaced people 'stayed inside the country', and they left because of violence, not to find work. -->
+- [x] B) were forced to leave their homes but remained in Colombia.
+  <!-- feedback: The second sentence defines the term: people 'forced to leave their homes because of violence but stayed inside the country'. -->
+- [ ] C) bought land at the edges of the cities.
+  <!-- feedback: The text says they arrived at the edges of cities 'without land or jobs', so they did not buy land. -->
+- [ ] D) returned to their farms after the conflict.
+  <!-- feedback: Land return programmes have helped only some families, and returning is the solution, not the meaning of 'displaced'. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Texts often define key terms immediately after using them, with phrases like 'These are people who...'. Finding that definition is the most reliable strategy for vocabulary-in-context questions.
 
 ---
 
@@ -254,23 +266,27 @@ Resolving a pronoun at C1+ means using the contrast the writer sets up rather th
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.55
-**Contexto:** Discussing human rights in Medellín.
+**Contexto:** Reading an information leaflet about the labour rights of domestic workers in Colombia.
 
 ### Enunciado
-According to a recent report on human rights in Medellín, what is implied about the role of Gerunds vs Infinitives in shaping public opinion?
+Read the text and answer the question.
+
+"Do you work in someone's home cleaning, cooking or caring for children? In Colombia, domestic workers have the same basic labour rights as other employees: a contract, at least the minimum wage for a full-time job, social security and a paid service bonus called the prima. If your employer does not respect these rights, you can ask for free advice at the Ministry of Labour office in your city. Knowing your rights is the first step to defending them."
+
+Why was this text written?
 
 ### Opciones
-- [x] C) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. Gerunds vs Infinitives give a text its nuance and precision, so they does not make the message simpler to grasp. -->
-- [ ] D) It is only used by academic elites in Pereira.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [ ] A) To advertise jobs for domestic workers in private homes.
+  <!-- feedback: The text addresses people who already work in homes; it does not offer any job. -->
+- [ ] B) To explain how to clean and cook more efficiently.
+  <!-- feedback: Cleaning and cooking are mentioned only to identify the readers, not as topics of advice. -->
+- [x] C) To inform domestic workers about their labour rights and where to get help.
+  <!-- feedback: The text lists the rights (contract, wage, social security, prima) and tells readers where to get free advice if those rights are not respected. -->
+- [ ] D) To criticise the Ministry of Labour for its slow service.
+  <!-- feedback: The Ministry is recommended as a place for free advice, not criticised. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Leaflets that begin with a question to the reader and end with practical guidance usually have an informative and empowering purpose. Here the text connects human rights to concrete labour rights in everyday work.
 
 ---
 
@@ -285,10 +301,10 @@ This question requires inferential reading skills to understand how complex stru
 Complete the following sentence about human rights: 'Denied legal representation, the __________ had no option but to sign the confession without reading it.' (Topic: a dangling gerund whose logical subject is the following noun)
 
 ### Opciones
-- [x] B) detainee
-  <!-- feedback: The noun after the comma is the one who was denied representation and who therefore signed the confession, which is what 'detainee' names. An infinitive naming the act would leave the sentence without a subject for 'had'. -->
 - [ ] A) to detain
   <!-- feedback: An infinitive cannot serve as the subject of a clause with 'had', since infinitives are not subjects of finite verbs. The structure needs a noun or a gerund, and the gerund form is wrong for a person. -->
+- [x] B) detainee
+  <!-- feedback: The noun after the comma is the one who was denied representation and who therefore signed the confession, which is what 'detainee' names. An infinitive naming the act would leave the sentence without a subject for 'had'. -->
 - [ ] C) detaining
   <!-- feedback: 'Detaining' is a gerund naming an act, which would make the act the subject of 'had no option'. The clause is about a person being left with no alternative, not about the act of detention. -->
 - [ ] D) detainment
@@ -329,23 +345,23 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 **Bloom:** Analyze
 **ICFES:** Structural Cloze
 **Expected_Success:** 0.46
-**Contexto:** Discussing human rights in Bogotá.
+**Contexto:** Reading a news report about a reparations commission in Bogotá.
 
 ### Enunciado
-Complete the following sentence about human rights: 'Scarcely __________ the reparations commission finished interviewing the last witness did the tribunal set a date for the public hearing.' (Topic: 'scarcely' as a negative inversion trigger)
+Complete the following sentence about human rights: 'Scarcely __________ the reparations commission finished interviewing the last witness when the tribunal set a date for the public hearing.' (Topic: 'scarcely ... when' as a negative inversion)
 
 ### Opciones
-- [x] C) had
-  <!-- feedback: 'Scarcely' is negative and begins a main clause, so the past perfect auxiliary is inverted to the front: 'scarcely had the commission finished'. The word 'did' at the end of the clause then carries the emphasis on the moment the date was finally set. -->
 - [ ] A) has
-  <!-- feedback: A present perfect would place the interviewing in an unfinished relation to now, but the hearing date follows a completed series of interviews. The completed action before another completed action is the past perfect, inverted as 'had'. -->
+  <!-- feedback: A present perfect would not match the past simple 'set' in the second clause. The first action happened just before another past action, so it needs the past perfect. -->
 - [ ] B) was
-  <!-- feedback: 'Was' would form a passive or a copula, and neither works here: the commission is the one doing the interviewing. The clause needs the perfect auxiliary 'had' in front of the subject to trigger the inversion. -->
+  <!-- feedback: 'Was finished' would be a passive, but the commission is the one doing the interviewing. The clause needs the active past perfect auxiliary. -->
+- [x] C) had
+  <!-- feedback: 'Scarcely' at the start inverts the past perfect: 'Scarcely had the commission finished ... when the tribunal set a date'. 'Had' + 'finished' shows the first completed action. -->
 - [ ] D) did
-  <!-- feedback: 'Did' belongs to the past simple, which would not express the sequence of one completed action preceding another. The sentence depends on the first action being complete before the second begins, which is exactly the past perfect. -->
+  <!-- feedback: 'Did' must be followed by a base verb ('did finish'), but the verb in the sentence is the participle 'finished'. It also cannot show one action completed before another. -->
 
 ### Explicacion Pedagogica
-'Scarcely' and 'hardly' are synonyms that trigger the same inversion, but students often treat them as different structures. C1+ readers identify the function, not the vocabulary: a negative adverbial plus a completed earlier action plus a second event is 'scarcely had + past participle'.
+'Scarcely', 'hardly' and 'barely' combine with 'when' (while 'no sooner' combines with 'than') to show that one event happened immediately after another. The first clause inverts the past perfect auxiliary, and the 'when' clause uses the past simple in normal order.
 
 ---
 
@@ -385,10 +401,10 @@ Verbs of choosing and preferring select a gerund for the alternative taken, whic
 Complete the following sentence about human rights: 'On no account __________ the names of the children who were forcibly disappeared published by the registry office without written consent from the families.' (Topic: negative fronted adverbial 'on no account')
 
 ### Opciones
-- [x] B) should
-  <!-- feedback: 'On no account' is a negative fronted adverbial, and it calls for a strongly emphatic auxiliary. 'Should' plus the bare infinitive 'be' gives the emphatic negative 'on no account should the names be published', which is the standard formal construction. -->
 - [ ] A) must
   <!-- feedback: 'Must' expresses obligation and would mean the names are required to be published, which reverses the meaning entirely. The sentence forbids publication under any circumstance, so a modal of prohibition is needed, not one of duty. -->
+- [x] B) should
+  <!-- feedback: 'On no account' is a negative fronted adverbial, and it calls for a strongly emphatic auxiliary. 'Should' plus the bare infinitive 'be' gives the emphatic negative 'on no account should the names be published', which is the standard formal construction. -->
 - [ ] C) could
   <!-- feedback: 'Could' only states that publication is possible, not that it is ruled out in every case. 'On no account' requires an emphatic denial, and only the negative form of 'shall' or 'should' can produce that. -->
 - [ ] D) might
@@ -435,10 +451,10 @@ A preposition followed by a verb requires the gerund form, and this is one of th
 In a high-level debate about human rights, Alejandro says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Alejandro mean?
 
 ### Opciones
-- [x] B) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
 - [ ] A) They are literally looking for something in the trees of Barranquilla.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
+- [x] B) The current strategy is directed towards the wrong objective.
+  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
 - [ ] D) A new environmental project involving trees should be started.
@@ -454,23 +470,27 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.31
-**Contexto:** Discussing human rights in Barranquilla.
+**Contexto:** A teacher in Bogotá talks to students about bullying.
 
 ### Enunciado
-In a high-level debate about human rights, Lucía says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Lucía mean?
+Read what the teacher says.
+
+Teacher: "If you see a classmate being bullied, don't stay silent. Stand up for them and tell an adult you trust."
+
+What does the teacher ask students to do?
 
 ### Opciones
-- [x] C) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of Pereira.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] B) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] D) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [ ] A) Stand up from their chairs when a classmate is bullied.
+  <!-- feedback: This is a literal reading. 'Stand up for' someone is a phrasal verb about support, not about body position. -->
+- [ ] B) Stay away from the classmate so they are not bullied too.
+  <!-- feedback: The teacher says 'don't stay silent', which is the opposite of avoiding the situation. -->
+- [x] C) Defend and support the classmate who is being bullied.
+  <!-- feedback: 'Stand up for someone' means to defend them; together with 'tell an adult you trust', it describes active support for the victim. -->
+- [ ] D) Wait for the classmate to solve the problem alone.
+  <!-- feedback: The teacher asks students to act and to involve an adult, not to wait. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+The phrasal verb 'stand up for' (defend) is different from 'stand up' (get up from a chair). The preposition 'for' and the context of bullying show that the meaning is about protecting another person's rights and dignity.
 
 ---
 
@@ -479,23 +499,27 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.28
-**Contexto:** Discussing human rights in Cartagena.
+**Contexto:** An environmental rights activist from a community near the Bogotá River speaks to a journalist.
 
 ### Enunciado
-In a high-level debate about human rights, Santiago says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Santiago mean?
+Read what the activist says.
+
+Activist: "For years, our complaints about the polluted river fell on deaf ears. Only when the national press published photos did the authorities act."
+
+What does the activist mean?
 
 ### Opciones
-- [x] B) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of Bucaramanga.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] C) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] D) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [ ] A) The authorities had hearing problems.
+  <!-- feedback: This reads 'deaf ears' literally. The activist is criticising the authorities' lack of action, not describing a medical condition. -->
+- [x] B) The authorities ignored the complaints for years.
+  <!-- feedback: 'Fall on deaf ears' means to be ignored; the second sentence confirms that the authorities only reacted after the press published photos. -->
+- [ ] C) The complaints were too quiet to be heard.
+  <!-- feedback: The problem was not volume; the complaints were heard but not acted upon. -->
+- [ ] D) The community stopped complaining about the river.
+  <!-- feedback: 'For years, our complaints' shows the community kept complaining during that time. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+'Fall on deaf ears' describes requests or warnings that people in power ignore. The sentence with 'Only when ... did the authorities act' shows the contrast between years of inaction and a late reaction.
 
 ---
 
@@ -504,22 +528,27 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.25
-**Contexto:** Discussing human rights in Pereira.
+**Contexto:** A factory worker in Cali explains why workers went to the labour office.
 
 ### Enunciado
-In a high-level debate about human rights, Valentina says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Valentina mean?
+Read what the worker says.
+
+Worker: "They had already cut our pay and changed our shifts. When they cut our break time again without asking us, that was the last straw, so we went to the labour office."
+
+What does the worker mean?
 
 ### Opciones
-- [x] A) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] B) They are literally looking for something in the trees of Manizales.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] C) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] D) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [x] A) The new cut was the final problem that made them take action after many others.
+  <!-- feedback: 'The last straw' is the final problem in a series that makes someone react; the worker lists earlier problems (pay, shifts) before the break-time cut. -->
+- [ ] B) The workers were given straw hats for working outside.
+  <!-- feedback: This is a literal reading of 'straw'. The worker is describing unfair treatment, not clothing. -->
+- [ ] C) It was the first time the company had treated them unfairly.
+  <!-- feedback: 'Already' and 'again' show that there were several earlier problems, so this was not the first. -->
+- [ ] D) The workers decided to accept the change without complaint.
+  <!-- feedback: The workers went to the labour office, so they did complain. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+'The last straw' comes from the expression 'the straw that broke the camel's back'. It always implies a series of earlier problems, and the words 'already' and 'again' in the worker's statement are the clues that confirm it.
 
 ---
+

@@ -13,12 +13,6 @@
       "context": "En un salón de Bogotá, la profesora señala tres libros colocados a distintas distancias y pide usar las palabras adecuadas para señalarlos.",
       "options": [
         {
-          "letter": "C",
-          "text": "Este.",
-          "is_correct": true,
-          "feedback": "Es correcta porque \"este\" señala lo que está cerca de quien habla."
-        },
-        {
           "letter": "A",
           "text": "Ese.",
           "is_correct": false,
@@ -29,6 +23,12 @@
           "text": "Aquel.",
           "is_correct": false,
           "feedback": "Es incorrecta porque \"aquel\" señala lo que está lejos de ambos."
+        },
+        {
+          "letter": "C",
+          "text": "Este.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"este\" señala lo que está cerca de quien habla."
         },
         {
           "letter": "D",
@@ -59,12 +59,6 @@
       "context": "En Medellín, Daniel ordena sus útiles y dice: \"Mi cuaderno es azul y tu lápiz es rojo\".",
       "options": [
         {
-          "letter": "D",
-          "text": "Que son palabras posesivas que indican a quién pertenece cada objeto.",
-          "is_correct": true,
-          "feedback": "Es correcta porque \"mi\" señala lo de Daniel y \"tu\" lo del compañero."
-        },
-        {
           "letter": "A",
           "text": "Que son palabras demostrativas que señalan la distancia de los objetos.",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "Que son verbos que indican acciones.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no expresan acciones ni se conjugan."
+        },
+        {
+          "letter": "D",
+          "text": "Que son palabras posesivas que indican a quién pertenece cada objeto.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"mi\" señala lo de Daniel y \"tu\" lo del compañero."
         }
       ],
       "correct_answer": "D",
@@ -105,12 +105,6 @@
       "context": "En Cali, Valentina prepara su tarea y le dice a su hermano: \"Pásame ese cuaderno que está junto a ti\".",
       "options": [
         {
-          "letter": "D",
-          "text": "Porque el cuaderno está cerca de su hermano y no de ella.",
-          "is_correct": true,
-          "feedback": "Es correcta porque \"ese\" señala lo que está próximo a quien escucha."
-        },
-        {
           "letter": "A",
           "text": "Porque el cuaderno le pertenece a ella.",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "Porque \"ese\" se usa siempre para lo que es nuestro.",
           "is_correct": false,
           "feedback": "Es incorrecta porque \"ese\" no indica pertenencia."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el cuaderno está cerca de su hermano y no de ella.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"ese\" señala lo que está próximo a quien escucha."
         }
       ],
       "correct_answer": "D",
@@ -151,12 +151,6 @@
       "context": "En Barranquilla, la profesora recoge los objetos perdidos y pregunta frente al salón: \"¿De quién es esta cartuchera?\".",
       "options": [
         {
-          "letter": "D",
-          "text": "Que la cartuchera le pertenece a Mario.",
-          "is_correct": true,
-          "feedback": "Es correcta porque \"mía\" expresa que el objeto es del hablante."
-        },
-        {
           "letter": "A",
           "text": "Que la cartuchera está lejos de Mario.",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "Que la cartuchera no tiene dueño.",
           "is_correct": false,
           "feedback": "Es incorrecta porque Mario afirma que es suya."
+        },
+        {
+          "letter": "D",
+          "text": "Que la cartuchera le pertenece a Mario.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"mía\" expresa que el objeto es del hablante."
         }
       ],
       "correct_answer": "D",
@@ -197,12 +197,6 @@
       "context": "En Pereira, dos amigos preparan una exposición y dicen: \"Este afiche es nuestro y aquel de la pared es de la profesora\".",
       "options": [
         {
-          "letter": "D",
-          "text": "Nuestro.",
-          "is_correct": true,
-          "feedback": "Es correcta porque \"nuestro\" expresa que el objeto pertenece a varios, incluido el hablante."
-        },
-        {
           "letter": "A",
           "text": "Este.",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "Afiche.",
           "is_correct": false,
           "feedback": "Es incorrecta porque \"afiche\" es el nombre del objeto."
+        },
+        {
+          "letter": "D",
+          "text": "Nuestro.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"nuestro\" expresa que el objeto pertenece a varios, incluido el hablante."
         }
       ],
       "correct_answer": "D",
@@ -243,12 +243,6 @@
       "context": "En Bucaramanga, dos estudiantes observan tres maquetas colocadas a distintas distancias en el museo escolar.",
       "options": [
         {
-          "letter": "C",
-          "text": "Pedro, porque \"aquella\" señala algo que está lejos de quien habla.",
-          "is_correct": true,
-          "feedback": "Es correcta porque \"aquella\" indica mayor distancia respecto del hablante."
-        },
-        {
           "letter": "A",
           "text": "Sofía, porque \"aquella\" señala lo que está muy cerca.",
           "is_correct": false,
@@ -259,6 +253,12 @@
           "text": "Sofía, porque \"aquella\" y \"esta\" significan lo mismo.",
           "is_correct": false,
           "feedback": "Es incorrecta porque expresan distancias diferentes."
+        },
+        {
+          "letter": "C",
+          "text": "Pedro, porque \"aquella\" señala algo que está lejos de quien habla.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"aquella\" indica mayor distancia respecto del hablante."
         },
         {
           "letter": "D",
@@ -335,12 +335,6 @@
       "context": "En Bogotá, la profesora pide elegir la oración mejor escrita con pronombres demostrativos y posesivos para copiarla en el cuaderno.",
       "options": [
         {
-          "letter": "D",
-          "text": "Este cuaderno es mío y ese lápiz es tuyo.",
-          "is_correct": true,
-          "feedback": "Es correcta porque \"mío\" y \"tuyo\" concuerdan con el género de cada objeto."
-        },
-        {
           "letter": "A",
           "text": "Este cuaderno es mío y ese lápiz es mía.",
           "is_correct": false,
@@ -348,18 +342,24 @@
         },
         {
           "letter": "B",
-          "text": "Este cuaderno es tuyo y ese lápiz es tuyo mío.",
-          "is_correct": false,
-          "feedback": "Es incorrecta porque acumula dos posesivos incompatibles en el mismo objeto."
+          "text": "Este cuaderno es mío y ese lápiz es tuyo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"mío\" y \"tuyo\" concuerdan con el género de cada objeto."
         },
         {
           "letter": "C",
           "text": "Este cuaderno es mío y ese lápiz es mi.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la forma correcta antepuesta no funciona como posesivo solo."
+        },
+        {
+          "letter": "D",
+          "text": "Este cuaderno es tuyo y ese lápiz es tuyo mío.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque acumula dos posesivos incompatibles en el mismo objeto."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "Evaluar una oración exige revisar la concordancia y el sentido de cada palabra. La forma correcta usa \"mío\" para el cuaderno y \"tuyo\" para el lápiz, respetando el género de cada sustantivo. Revisar estas terminaciones evita errores frecuentes al escribir y mejora la claridad de los textos.",
       "difficulty": "10",
       "images": [],

@@ -13,16 +13,16 @@
       "context": "Clase de ciencias sociales en San Salvador estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "B",
-          "text": "La costumbre de preparar tamales de maíz en los pueblos",
-          "is_correct": true,
-          "feedback": "Correcto. Una costumbre culinaria heredada es patrimonio inmaterial porque vive en las personas."
-        },
-        {
           "letter": "A",
           "text": "La iglesia colonial de Santa Ana",
           "is_correct": false,
           "feedback": "Un templo es una construcción, y por eso es patrimonio cultural material."
+        },
+        {
+          "letter": "B",
+          "text": "La costumbre de preparar tamales de maíz en los pueblos",
+          "is_correct": true,
+          "feedback": "Correcto. Una costumbre culinaria heredada es patrimonio inmaterial porque vive en las personas."
         },
         {
           "letter": "C",
@@ -58,10 +58,10 @@
       "context": "Clase de ciencias sociales en San Miguel estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "D",
-          "text": "Por la conservación de una aldea agrícola prehispánica",
-          "is_correct": true,
-          "feedback": "Correcto. La ceniza del volcán Loma Caldera sepultó la aldea hacia el año 600 y conservó sus restos."
+          "letter": "A",
+          "text": "Por ser el punto más alto del país",
+          "is_correct": false,
+          "feedback": "La altura no es un criterio de la Lista del Patrimonio Mundial."
         },
         {
           "letter": "B",
@@ -76,10 +76,10 @@
           "feedback": "Las estructuras del sitio se construyeron a mano, y ese dato no explica la inscripción."
         },
         {
-          "letter": "A",
-          "text": "Por ser el punto más alto del país",
-          "is_correct": false,
-          "feedback": "La altura no es un criterio de la Lista del Patrimonio Mundial."
+          "letter": "D",
+          "text": "Por la conservación de una aldea agrícola prehispánica",
+          "is_correct": true,
+          "feedback": "Correcto. La ceniza del volcán Loma Caldera sepultó la aldea hacia el año 600 y conservó sus restos."
         }
       ],
       "correct_answer": "D",
@@ -103,12 +103,6 @@
       "context": "Clase de ciencias sociales en Santa Ana estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
-        },
-        {
           "letter": "A",
           "text": "Solo derechos de propiedad",
           "is_correct": false,
@@ -125,6 +119,12 @@
           "text": "Derechos exclusivos del gobierno",
           "is_correct": false,
           "feedback": "Son los ciudadanos los titulares de los derechos, y además esos derechos limitan al gobierno en lugar de pertenecerle."
+        },
+        {
+          "letter": "D",
+          "text": "Derechos humanos fundamentales",
+          "is_correct": true,
+          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
         }
       ],
       "correct_answer": "D",
@@ -148,12 +148,6 @@
       "context": "Clase de ciencias sociales en San Salvador estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "C",
-          "text": "Documentar el estado actual y usar materiales compatibles con el original",
-          "is_correct": true,
-          "feedback": "Correcto. Registrar el estado y respetar los materiales conserva el bien sin perder su autenticidad."
-        },
-        {
           "letter": "A",
           "text": "Pintar la fachada con colores modernos para que parezca reciente",
           "is_correct": false,
@@ -164,6 +158,12 @@
           "text": "Sustituir los muros de adobe por columnas de concreto",
           "is_correct": false,
           "feedback": "El concreto cambia el material original y elimina el valor histórico de la construcción."
+        },
+        {
+          "letter": "C",
+          "text": "Documentar el estado actual y usar materiales compatibles con el original",
+          "is_correct": true,
+          "feedback": "Correcto. Registrar el estado y respetar los materiales conserva el bien sin perder su autenticidad."
         },
         {
           "letter": "D",
@@ -193,12 +193,6 @@
       "context": "Clase de ciencias sociales en Soyapango estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "C",
-          "text": "Porque es una expresión de patrimonio inmaterial salvageada por la comunidad",
-          "is_correct": true,
-          "feedback": "Correcto. La lista representativa reconoce prácticas vivas que las propias comunidades protegen."
-        },
-        {
           "letter": "A",
           "text": "Porque Panchimalco es la ciudad más antigua del país",
           "is_correct": false,
@@ -209,6 +203,12 @@
           "text": "Porque la cofradía posee la mayor colección de arte colonial",
           "is_correct": false,
           "feedback": "El reconocimiento se refiere a una celebración y sus saberes, no a objetos coloniales."
+        },
+        {
+          "letter": "C",
+          "text": "Porque es una expresión de patrimonio inmaterial salvageada por la comunidad",
+          "is_correct": true,
+          "feedback": "Correcto. La lista representativa reconoce prácticas vivas que las propias comunidades protegen."
         },
         {
           "letter": "D",
@@ -238,12 +238,6 @@
       "context": "Clase de ciencias sociales en San Miguel estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "C",
-          "text": "La interrupción de la transmisión entre generaciones",
-          "is_correct": true,
-          "feedback": "Correcto. Una lengua se pierde cuando deja de aprenderse en la familia, aunque se siga hablando."
-        },
-        {
           "letter": "A",
           "text": "La existencia de dos lenguas originarias en el país",
           "is_correct": false,
@@ -254,6 +248,12 @@
           "text": "La entrada de palabras nuevas de origen inglés",
           "is_correct": false,
           "feedback": "Los préstamos linguísticos son normales y no constituyen una amenaza para una lengua."
+        },
+        {
+          "letter": "C",
+          "text": "La interrupción de la transmisión entre generaciones",
+          "is_correct": true,
+          "feedback": "Correcto. Una lengua se pierde cuando deja de aprenderse en la familia, aunque se siga hablando."
         },
         {
           "letter": "D",
@@ -283,12 +283,6 @@
       "context": "Clase de ciencias sociales en Soyapango estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "C",
-          "text": "La pupusa, hecha con masa de maíz y servida a diario",
-          "is_correct": true,
-          "feedback": "Correcto. La pupusa es una práctica culinaria que se transmite de generación en generación."
-        },
-        {
           "letter": "A",
           "text": "El arroz importado que se compra en el supermercado",
           "is_correct": false,
@@ -299,6 +293,12 @@
           "text": "La bebida energética en lata más vendida",
           "is_correct": false,
           "feedback": "Un producto industrializado no pertenece al patrimonio gastronómico tradicional."
+        },
+        {
+          "letter": "C",
+          "text": "La pupusa, hecha con masa de maíz y servida a diario",
+          "is_correct": true,
+          "feedback": "Correcto. La pupusa es una práctica culinaria que se transmite de generación en generación."
         },
         {
           "letter": "D",
@@ -328,12 +328,6 @@
       "context": "Clase de ciencias sociales en Soyapango estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "C",
-          "text": "El símbolo patrio puede expresar identidad compartida y también servir a una estrategia de gobierno",
-          "is_correct": true,
-          "feedback": "Correcto. Un mismo simbolo acumula valor cultural y puede funcionar como herramienta de poder."
-        },
-        {
           "letter": "A",
           "text": "Un símbolo nacional solo tiene significado político y nunca cultural",
           "is_correct": false,
@@ -344,6 +338,12 @@
           "text": "Usar el símbolo en el deporte demuestra que el país perdió su identidad",
           "is_correct": false,
           "feedback": "El uso deportivo y ceremonial no implica por si mismo una pérdida de identidad."
+        },
+        {
+          "letter": "C",
+          "text": "El símbolo patrio puede expresar identidad compartida y también servir a una estrategia de gobierno",
+          "is_correct": true,
+          "feedback": "Correcto. Un mismo simbolo acumula valor cultural y puede funcionar como herramienta de poder."
         },
         {
           "letter": "D",
@@ -373,12 +373,6 @@
       "context": "Clase de ciencias sociales en Soyapango estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "C",
-          "text": "La iglesia de San Francisco",
-          "is_correct": true,
-          "feedback": "Correcto. Un templo es una construcción y por eso pertenece al patrimonio cultural material."
-        },
-        {
           "letter": "A",
           "text": "La costumbre de preparar dulce de leche en el centro",
           "is_correct": false,
@@ -389,6 +383,12 @@
           "text": "La forma de saludo entre vecinos de un pueblo",
           "is_correct": false,
           "feedback": "Las formas de saludo son usos aprendidos y forman parte del patrimonio inmaterial."
+        },
+        {
+          "letter": "C",
+          "text": "La iglesia de San Francisco",
+          "is_correct": true,
+          "feedback": "Correcto. Un templo es una construcción y por eso pertenece al patrimonio cultural material."
         },
         {
           "letter": "D",
@@ -463,12 +463,6 @@
       "context": "Clase de ciencias sociales en Santa Ana estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "D",
-          "text": "Una Cordillera con una flor distinta como emblema en cada pueblo",
-          "is_correct": true,
-          "feedback": "Correcto. Los seis municipios de la cordillera Apaneca identifican cada uno su pueblo con una flor propia."
-        },
-        {
           "letter": "A",
           "text": "Una frontera administrativa que separa dos países",
           "is_correct": false,
@@ -485,6 +479,12 @@
           "text": "Una decision igual para todos los pueblos de la ruta",
           "is_correct": false,
           "feedback": "Cada municipio conserva su propia identidad y su flor emblema, y no una decision comun a todos."
+        },
+        {
+          "letter": "D",
+          "text": "Una Cordillera con una flor distinta como emblema en cada pueblo",
+          "is_correct": true,
+          "feedback": "Correcto. Los seis municipios de la cordillera Apaneca identifican cada uno su pueblo con una flor propia."
         }
       ],
       "correct_answer": "D",
@@ -553,12 +553,6 @@
       "context": "Clase de ciencias sociales en Mejicanos estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "C",
-          "text": "Reconocer la celebración y apoyar la salvaguarda de los conocimientos que la sostienen",
-          "is_correct": true,
-          "feedback": "Correcto. La declaratoria reconoce a la comunidad practicante y financia el cuidado de sus saberes."
-        },
-        {
           "letter": "A",
           "text": "Convertir sus ritos en un negocio de venta diaria",
           "is_correct": false,
@@ -569,6 +563,12 @@
           "text": "Sustituir la organización local por una comisión extranjera",
           "is_correct": false,
           "feedback": "La salvaguarda se apoya en la comunidad practicante y no en su reemplazo por terceros."
+        },
+        {
+          "letter": "C",
+          "text": "Reconocer la celebración y apoyar la salvaguarda de los conocimientos que la sostienen",
+          "is_correct": true,
+          "feedback": "Correcto. La declaratoria reconoce a la comunidad practicante y financia el cuidado de sus saberes."
         },
         {
           "letter": "D",
@@ -598,12 +598,6 @@
       "context": "Clase de ciencias sociales en Soyapango estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "C",
-          "text": "Porque transmite memoria y valores que las generaciones comparten",
-          "is_correct": true,
-          "feedback": "Correcto. El patrimonio transmite memoria y valores, y eso permite que un grupo se reconozca como comunidad."
-        },
-        {
           "letter": "A",
           "text": "Porque todos sus miembros comparten la misma religion y los mismos ancestros",
           "is_correct": false,
@@ -614,6 +608,12 @@
           "text": "Porque obliga a las nuevas generaciones a repetir las mismas practicas",
           "is_correct": false,
           "feedback": "El patrimonio se adapta y se transforma, y no exige repetir las practicas tal como fueron."
+        },
+        {
+          "letter": "C",
+          "text": "Porque transmite memoria y valores que las generaciones comparten",
+          "is_correct": true,
+          "feedback": "Correcto. El patrimonio transmite memoria y valores, y eso permite que un grupo se reconozca como comunidad."
         },
         {
           "letter": "D",
@@ -643,12 +643,6 @@
       "context": "Clase de ciencias sociales en Mejicanos estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "C",
-          "text": "Que el patrimonio se sostiene con la participación colectiva de la comunidad",
-          "is_correct": true,
-          "feedback": "Correcto. El trabajo comunitario mantiene vivo un bien que el Estado no puede conservar solo."
-        },
-        {
           "letter": "A",
           "text": "Que el Estado ya no tiene competencia en materia de patrimonio",
           "is_correct": false,
@@ -659,6 +653,12 @@
           "text": "Que el templo no tiene valor artístico ni histórico",
           "is_correct": false,
           "feedback": "Su valor es precisamente lo que motiva a la comunidad a conservarlo sin ayuda estatal."
+        },
+        {
+          "letter": "C",
+          "text": "Que el patrimonio se sostiene con la participación colectiva de la comunidad",
+          "is_correct": true,
+          "feedback": "Correcto. El trabajo comunitario mantiene vivo un bien que el Estado no puede conservar solo."
         },
         {
           "letter": "D",
@@ -688,12 +688,6 @@
       "context": "Clase de ciencias sociales en San Salvador estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "C",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma fundamental que estructura los poderes del Estado y fija sus límites."
-        },
-        {
           "letter": "A",
           "text": "Una ley ordinaria",
           "is_correct": false,
@@ -704,6 +698,12 @@
           "text": "Un decreto presidencial",
           "is_correct": false,
           "feedback": "Un decreto presidencial es una decisión del ejecutivo sobre un asunto concreto, de rango menor que la Constitución."
+        },
+        {
+          "letter": "C",
+          "text": "La Constitución",
+          "is_correct": true,
+          "feedback": "Correcto. La Constitución es la norma fundamental que estructura los poderes del Estado y fija sus límites."
         },
         {
           "letter": "D",
@@ -733,16 +733,16 @@
       "context": "Clase de ciencias sociales en Mejicanos estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "B",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. La industrialización concentró a los trabajadores en las ciudades y ensanchó la burguesía y el proletariado como clases nuevas."
-        },
-        {
           "letter": "A",
           "text": "Retorno a la vida agrícola",
           "is_correct": false,
           "feedback": "La revolución industrial desplazó el trabajo del campo a la fábrica y a la ciudad, no de vuelta a la vida agrícola."
+        },
+        {
+          "letter": "B",
+          "text": "Urbanización masiva y nuevas clases sociales",
+          "is_correct": true,
+          "feedback": "Correcto. La industrialización concentró a los trabajadores en las ciudades y ensanchó la burguesía y el proletariado como clases nuevas."
         },
         {
           "letter": "C",
@@ -778,12 +778,6 @@
       "context": "Clase de ciencias sociales en San Salvador estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "C",
-          "text": "El territorio reducido concentra bienes y tradiciones en pocas zonas",
-          "is_correct": true,
-          "feedback": "Correcto. El tamaño del país hace que pocos sitios guarden buena parte del patrimonio nacional."
-        },
-        {
           "letter": "A",
           "text": "El tamaño del territorio no guarda relación con su patrimonio",
           "is_correct": false,
@@ -791,6 +785,12 @@
         },
         {
           "letter": "B",
+          "text": "El territorio reducido concentra bienes y tradiciones en pocas zonas",
+          "is_correct": true,
+          "feedback": "Correcto. El tamaño del país hace que pocos sitios guarden buena parte del patrimonio nacional."
+        },
+        {
+          "letter": "C",
           "text": "Un país pequeño tiene menos bienes culturales que uno grande",
           "is_correct": false,
           "feedback": "El tamaño no determina por sí solo la cantidad de patrimonio cultural de un lugar."
@@ -802,7 +802,7 @@
           "feedback": "El valor arqueológico del sitio, y no el tamaño del país, motiva esa declaratoria."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La extensión del territorio influye en la concentración de bienes culturales en pocas zonas.",
       "difficulty": "10",
       "images": [],
@@ -823,12 +823,6 @@
       "context": "Clase de ciencias sociales en San Miguel estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "D",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. Si las exportaciones superan a las importaciones, la balanza comercial registra un superávit."
-        },
-        {
           "letter": "A",
           "text": "Déficit comercial",
           "is_correct": false,
@@ -845,6 +839,12 @@
           "text": "Crisis económica",
           "is_correct": false,
           "feedback": "Una crisis económica es un malestar general del país, no el nombre del saldo de la balanza comercial."
+        },
+        {
+          "letter": "D",
+          "text": "Superávit comercial",
+          "is_correct": true,
+          "feedback": "Correcto. Si las exportaciones superan a las importaciones, la balanza comercial registra un superávit."
         }
       ],
       "correct_answer": "D",
@@ -868,16 +868,10 @@
       "context": "Clase de ciencias sociales en San Miguel estudiando diversidad cultural.",
       "options": [
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Es una técnica culinaria tradicional que se conserva en la práctica",
           "is_correct": true,
           "feedback": "Correcto. Preparar yuca frita y los conocimientos que rodean esa receta son saberes de la comunidad."
-        },
-        {
-          "letter": "A",
-          "text": "Ninguna, porque el patrimonio cultural solo incluye monumentos",
-          "is_correct": false,
-          "feedback": "El patrimonio cultural incluye también las prácticas culinarias y los saberes asociados."
         },
         {
           "letter": "B",
@@ -886,13 +880,19 @@
           "feedback": "Que un alimento tenga difusión comercial no elimina su carácter de práctica tradicional."
         },
         {
+          "letter": "C",
+          "text": "Ninguna, porque el patrimonio cultural solo incluye monumentos",
+          "is_correct": false,
+          "feedback": "El patrimonio cultural incluye también las prácticas culinarias y los saberes asociados."
+        },
+        {
           "letter": "D",
           "text": "Sólo es patrimonio cuando una ley nacional lo declara",
           "is_correct": false,
           "feedback": "Las prácticas tradicionales tienen valor patrimonial con o sin declaratoria oficial."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Las técnicas culinarias tradicionales, como la yuca frita, son patrimonio cultural inmaterial.",
       "difficulty": "10",
       "images": [],

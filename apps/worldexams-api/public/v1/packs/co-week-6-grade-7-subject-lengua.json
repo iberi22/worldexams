@@ -19,12 +19,6 @@
           "feedback": "Incorrecto. El surrealismo busca explorar el inconsciente y los sueños, no la realidad cotidiana."
         },
         {
-          "letter": "D",
-          "text": "Costumbrismo",
-          "is_correct": true,
-          "feedback": "¡Correcto! El costumbrismo se enfoca en el retrato fiel de la vida diaria y las tradiciones locales."
-        },
-        {
           "letter": "B",
           "text": "Vanguardismo",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "Neoclasicismo",
           "is_correct": false,
           "feedback": "Incorrecto. El neoclasicismo se basa en la imitación de los clásicos griegos y romanos."
+        },
+        {
+          "letter": "D",
+          "text": "Costumbrismo",
+          "is_correct": true,
+          "feedback": "¡Correcto! El costumbrismo se enfoca en el retrato fiel de la vida diaria y las tradiciones locales."
         }
       ],
       "correct_answer": "D",
@@ -111,16 +111,16 @@
           "feedback": "Incorrecto. El lenguaje culto evita los modismos regionales."
         },
         {
-          "letter": "C",
-          "text": "Lenguaje popular o dialectal",
-          "is_correct": true,
-          "feedback": "¡Correcto! El uso de regionalismos y modismos da verosimilitud y color local a la obra."
-        },
-        {
           "letter": "B",
           "text": "Lenguaje poético metafórico",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque puede haber poesía, el objetivo aquí es el realismo lingüístico."
+        },
+        {
+          "letter": "C",
+          "text": "Lenguaje popular o dialectal",
+          "is_correct": true,
+          "feedback": "¡Correcto! El uso de regionalismos y modismos da verosimilitud y color local a la obra."
         },
         {
           "letter": "D",
@@ -249,16 +249,16 @@
           "feedback": "Incorrecto. La sátira busca resaltar los defectos, no las virtudes heroicas."
         },
         {
-          "letter": "C",
-          "text": "Criticar los vicios, la hipocresía o las malas costumbres de la sociedad a través del humor.",
-          "is_correct": true,
-          "feedback": "¡Correcto! El autor busca corregir o denunciar algo mientras divierte."
-        },
-        {
           "letter": "B",
           "text": "Enseñar a los niños a leer más rápido mediante chistes.",
           "is_correct": false,
           "feedback": "Incorrecto. La sátira tiene un propósito de crítica social adulta."
+        },
+        {
+          "letter": "C",
+          "text": "Criticar los vicios, la hipocresía o las malas costumbres de la sociedad a través del humor.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El autor busca corregir o denunciar algo mientras divierte."
         },
         {
           "letter": "D",
@@ -336,15 +336,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Porque permitieron que todos los colombianos aprendieran a hablar inglés.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se centraban precisamente en fortalecer el uso del español local."
-        },
-        {
-          "letter": "B",
           "text": "Porque ayudaron a que los habitantes de distintas regiones conocieran cómo vivían y pensaban sus compatriotas.",
           "is_correct": true,
           "feedback": "¡Correcto! Fomentaron un sentido de unidad y conocimiento mutuo en un país fragmentado."
+        },
+        {
+          "letter": "B",
+          "text": "Porque permitieron que todos los colombianos aprendieran a hablar inglés.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se centraban precisamente en fortalecer el uso del español local."
         },
         {
           "letter": "C",
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Aunque describían lugares, su propósito era literario, no militar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En una época donde viajar por Colombia era muy difícil, los cuadros de costumbres servían como una ventana para conocer el país. Al leer sobre las costumbres de Boyacá en un periódico de Bogotá, se iba creando una conciencia de pertenencia a una misma nación.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -393,16 +393,16 @@
           "feedback": "Incorrecto. Es una escena totalmente realista y cotidiana."
         },
         {
-          "letter": "D",
-          "text": "La caracterización externa a través de objetos simbólicos (carriel, sombrero) y una actitud social típica (el regateo).",
-          "is_correct": true,
-          "feedback": "¡Correcto! El personaje se define por su apariencia y su comportamiento social."
-        },
-        {
           "letter": "C",
           "text": "La personificación del carriel de nutria para que parezca un animal vivo.",
           "is_correct": false,
           "feedback": "Incorrecto. El carriel es mencionado como una prenda de vestir del personaje."
+        },
+        {
+          "letter": "D",
+          "text": "La caracterización externa a través de objetos simbólicos (carriel, sombrero) y una actitud social típica (el regateo).",
+          "is_correct": true,
+          "feedback": "¡Correcto! El personaje se define por su apariencia y su comportamiento social."
         }
       ],
       "correct_answer": "D",

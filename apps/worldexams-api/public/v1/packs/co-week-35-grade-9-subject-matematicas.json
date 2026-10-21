@@ -65,12 +65,6 @@
           "feedback": "Una traslación desplaza todos los puntos la misma distancia en una dirección fija; no mantiene un centro invariante ni produce puntos diametralmente opuestos."
         },
         {
-          "letter": "D",
-          "text": "Una rotación de 180° alrededor del centro de la figura.",
-          "is_correct": true,
-          "feedback": "Una rotación de 180° respecto a un punto lleva cada punto a su opuesto diametral, manteniendo el centro fijo. Esta es la definición de simetría central."
-        },
-        {
           "letter": "B",
           "text": "Una reflexión sobre el eje horizontal que pasa por el centro.",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "Una rotación de 90° seguida de una traslación vertical hacia abajo.",
           "is_correct": false,
           "feedback": "Una rotación de 90° seguida de una traslación es una composición distinta que no equivale en general a una rotación pura de 180° alrededor del centro original."
+        },
+        {
+          "letter": "D",
+          "text": "Una rotación de 180° alrededor del centro de la figura.",
+          "is_correct": true,
+          "feedback": "Una rotación de 180° respecto a un punto lleva cada punto a su opuesto diametral, manteniendo el centro fijo. Esta es la definición de simetría central."
         }
       ],
       "correct_answer": "D",
@@ -249,12 +249,6 @@
           "feedback": "La simetría central enviaría cada puerta a una posición diametralmente opuesta; la fachada descrita no se rota sobre sí misma sin desalinearse."
         },
         {
-          "letter": "D",
-          "text": "Simetría axial respecto al eje vertical que pasa por el balcón.",
-          "is_correct": true,
-          "feedback": "Cada elemento lateral izquierdo tiene su gemelo a igual distancia del eje vertical; esto es exactamente una simetría axial sobre ese eje."
-        },
-        {
           "letter": "B",
           "text": "Simetría axial respecto a un eje horizontal en la base.",
           "is_correct": false,
@@ -265,6 +259,12 @@
           "text": "Traslación horizontal repetida sin eje de simetría.",
           "is_correct": false,
           "feedback": "La traslación produce una repetición por desplazamiento, no una imagen espejada; la fachada claramente se refleja sobre un eje fijo."
+        },
+        {
+          "letter": "D",
+          "text": "Simetría axial respecto al eje vertical que pasa por el balcón.",
+          "is_correct": true,
+          "feedback": "Cada elemento lateral izquierdo tiene su gemelo a igual distancia del eje vertical; esto es exactamente una simetría axial sobre ese eje."
         }
       ],
       "correct_answer": "D",
@@ -289,16 +289,16 @@
       "context": "En Bogotá, los estudiantes de noveno aplican primero una reflexión sobre el eje y y luego otra sobre el eje x a un triángulo dibujado en el plano cartesiano, y deben describir el movimiento equivalente.",
       "options": [
         {
-          "letter": "B",
-          "text": "Una traslación que lleva cada punto (x, y) a (x + 2|x|, 0).",
-          "is_correct": false,
-          "feedback": "La composición propuesta no es una traslación porque los puntos cambian también su coordenada y; esta fórmula además no es invariante bajo reflexiones."
-        },
-        {
           "letter": "A",
           "text": "Una rotación de 180° alrededor del origen.",
           "is_correct": true,
           "feedback": "Reflejar sobre el eje y (x, y) → (-x, y) y luego sobre el eje x (-x, y) → (-x, -y) produce exactamente la rotación de 180° respecto al origen."
+        },
+        {
+          "letter": "B",
+          "text": "Una traslación que lleva cada punto (x, y) a (x + 2|x|, 0).",
+          "is_correct": false,
+          "feedback": "La composición propuesta no es una traslación porque los puntos cambian también su coordenada y; esta fórmula además no es invariante bajo reflexiones."
         },
         {
           "letter": "C",
@@ -335,6 +335,12 @@
       "context": "En una exposición cultural de un colegio de Riohacha, se exhiben una mochila wayuu y un sombrero vueltiao. Los estudiantes deben identificar los tipos de simetría presentes en cada diseño.",
       "options": [
         {
+          "letter": "A",
+          "text": "La mochila presenta simetría axial respecto a un eje vertical y el sombrero presenta simetría central.",
+          "is_correct": true,
+          "feedback": "Las bandas con rombos espejados muestran simetría axial vertical; el trenzado en espiral que se repite cada 180° muestra simetría central."
+        },
+        {
           "letter": "B",
           "text": "Ambas presentan únicamente simetría axial respecto al eje vertical.",
           "is_correct": false,
@@ -351,12 +357,6 @@
           "text": "La mochila carece de simetría y el sombrero tiene solo simetría axial.",
           "is_correct": false,
           "feedback": "La mochila claramente presenta repetición espejada; el sombrero no se describe solo con simetría axial."
-        },
-        {
-          "letter": "A",
-          "text": "La mochila presenta simetría axial respecto a un eje vertical y el sombrero presenta simetría central.",
-          "is_correct": true,
-          "feedback": "Las bandas con rombos espejados muestran simetría axial vertical; el trenzado en espiral que se repite cada 180° muestra simetría central."
         }
       ],
       "correct_answer": "A",
@@ -427,16 +427,16 @@
       "context": "En Bogotá, durante una clase de historia, los estudiantes reciben una versión simplificada del escudo de Colombia con el águila en la parte superior y una granada en la inferior, ambos centrados en un eje vertical común.",
       "options": [
         {
-          "letter": "B",
-          "text": "Solo simetría central, porque cualquier rotación de 180° mantiene fija la figura.",
-          "is_correct": false,
-          "feedback": "La simetría central requiere invariancia bajo rotación de 180°, condición que el enunciado descarta explícitamente."
-        },
-        {
           "letter": "A",
           "text": "Solo simetría axial respecto al eje vertical.",
           "is_correct": true,
           "feedback": "La descripción coincide con una figura que solo es invariante bajo reflexión sobre el eje vertical, sin serlo bajo rotación de 180°."
+        },
+        {
+          "letter": "B",
+          "text": "Solo simetría central, porque cualquier rotación de 180° mantiene fija la figura.",
+          "is_correct": false,
+          "feedback": "La simetría central requiere invariancia bajo rotación de 180°, condición que el enunciado descarta explícitamente."
         },
         {
           "letter": "C",
@@ -473,16 +473,16 @@
       "context": "Un arquitecto en Medellín presenta a sus estudiantes el argumento: \"Todo mosaico periódico del plano solo puede contener rotaciones de 60°, 90° o 120°; cualquier otra rotación haría imposible cerrar el patrón sin huecos ni solapamientos.\"",
       "options": [
         {
-          "letter": "B",
-          "text": "Es incompleto: el teorema de restricción cristalográfica admite también rotaciones de 180° y la trivial de 360°.",
-          "is_correct": true,
-          "feedback": "El teorema de restricción cristalográfica establece que un mosaico periódico solo admite rotaciones de orden 1, 2, 3, 4 o 6; el argumento omite el orden 2 (180°) y la identidad."
-        },
-        {
           "letter": "A",
           "text": "Es totalmente válido porque 60°, 90° y 120° agotan todas las opciones de rotación posibles.",
           "is_correct": false,
           "feedback": "Faltan la rotación de 180° y la trivial de 360°, por lo que el argumento no es totalmente válido."
+        },
+        {
+          "letter": "B",
+          "text": "Es incompleto: el teorema de restricción cristalográfica admite también rotaciones de 180° y la trivial de 360°.",
+          "is_correct": true,
+          "feedback": "El teorema de restricción cristalográfica establece que un mosaico periódico solo admite rotaciones de orden 1, 2, 3, 4 o 6; el argumento omite el orden 2 (180°) y la identidad."
         },
         {
           "letter": "C",
@@ -525,13 +525,13 @@
           "feedback": "Sí influye: permite producir menos moldes, reutilizar piezas y simplificar el control de calidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La afirmación es válida solo si el eje es horizontal; el vertical no aporta ahorros.",
           "is_correct": false,
           "feedback": "El eje vertical aporta los mismos ahorros que el horizontal, porque ambos producen una imagen espejada de una mitad."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La afirmación es válida: la simetría axial permite prefabricar una mitad y reflejar la otra, reduciendo moldes y costos.",
           "is_correct": true,
           "feedback": "Aprovechar la reflexión permite fabricar un único molde o patrón y obtener la otra mitad por simetría, lo que reduce tiempos, moldes y costos."
@@ -543,7 +543,7 @@
           "feedback": "La rotación adicional no es necesaria para el ahorro descrito; basta con la reflexión pura."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En diseño y fabricación, la simetría geométrica no es solo un concepto abstracto: tiene impacto en eficiencia productiva. Detectar ejes de simetría permite reutilizar moldes, estandarizar piezas y simplificar el montaje. Evaluar críticamente afirmaciones de proyectos exige distinguir cuándo una propiedad matemática se traduce efectivamente en beneficios prácticos y cuándo no.",
       "difficulty": "10",
       "images": [],

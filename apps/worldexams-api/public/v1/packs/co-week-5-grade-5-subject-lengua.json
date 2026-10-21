@@ -13,16 +13,16 @@
       "context": "En un colegio de Bogotá, la profesora pide buscar una palabra parecida a contento en el diccionario.",
       "options": [
         {
-          "letter": "B",
-          "text": "Alegre.",
-          "is_correct": true,
-          "feedback": "Es correcta porque alegre también expresa felicidad."
-        },
-        {
           "letter": "A",
           "text": "Triste.",
           "is_correct": false,
           "feedback": "Es incorrecta porque triste es lo contrario de contento."
+        },
+        {
+          "letter": "B",
+          "text": "Alegre.",
+          "is_correct": true,
+          "feedback": "Es correcta porque alegre también expresa felicidad."
         },
         {
           "letter": "C",
@@ -59,12 +59,6 @@
       "context": "En Medellín, Santiago juega a decir lo contrario de las palabras que dice Mariana.",
       "options": [
         {
-          "letter": "C",
-          "text": "Pequeño.",
-          "is_correct": true,
-          "feedback": "Es correcta porque pequeño expresa lo contrario de grande."
-        },
-        {
           "letter": "A",
           "text": "Enorme.",
           "is_correct": false,
@@ -75,6 +69,12 @@
           "text": "Gigante.",
           "is_correct": false,
           "feedback": "Es incorrecta porque gigante también significa muy grande."
+        },
+        {
+          "letter": "C",
+          "text": "Pequeño.",
+          "is_correct": true,
+          "feedback": "Es correcta porque pequeño expresa lo contrario de grande."
         },
         {
           "letter": "D",
@@ -105,16 +105,16 @@
       "context": "En Cali, Valentina escribe una carta y quiere evitar repetir la palabra \"bonito\".",
       "options": [
         {
-          "letter": "B",
-          "text": "Hermoso.",
-          "is_correct": true,
-          "feedback": "Es correcta porque hermoso mantiene la idea de belleza del parque."
-        },
-        {
           "letter": "A",
           "text": "Feo.",
           "is_correct": false,
           "feedback": "Es incorrecta porque feo cambia el sentido a lo contrario."
+        },
+        {
+          "letter": "B",
+          "text": "Hermoso.",
+          "is_correct": true,
+          "feedback": "Es correcta porque hermoso mantiene la idea de belleza del parque."
         },
         {
           "letter": "C",
@@ -151,12 +151,6 @@
       "context": "En Cartagena, Juan describe el mar en su cuaderno de viaje.",
       "options": [
         {
-          "letter": "C",
-          "text": "Agitado.",
-          "is_correct": true,
-          "feedback": "Es correcta porque agitado describe un mar con olas fuertes."
-        },
-        {
           "letter": "A",
           "text": "Calmado.",
           "is_correct": false,
@@ -167,6 +161,12 @@
           "text": "Sereno.",
           "is_correct": false,
           "feedback": "Es incorrecta porque sereno también indica calma."
+        },
+        {
+          "letter": "C",
+          "text": "Agitado.",
+          "is_correct": true,
+          "feedback": "Es correcta porque agitado describe un mar con olas fuertes."
         },
         {
           "letter": "D",
@@ -197,12 +197,6 @@
       "context": "En una tienda de Manizales, Mariana compra lápices por 2000 pesos cada uno y lleva dos con un billete de 5000 pesos.",
       "options": [
         {
-          "letter": "D",
-          "text": "Económicos.",
-          "is_correct": true,
-          "feedback": "Es correcta porque económicos también indica precio bajo, como muestran los 2000 pesos."
-        },
-        {
           "letter": "A",
           "text": "Costosos.",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "Dañados.",
           "is_correct": false,
           "feedback": "Es incorrecta porque dañados habla de estado, no de precio."
+        },
+        {
+          "letter": "D",
+          "text": "Económicos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque económicos también indica precio bajo, como muestran los 2000 pesos."
         }
       ],
       "correct_answer": "D",
@@ -243,13 +243,13 @@
       "context": "En Pereira, el curso analiza dos frases que parecen iguales pero no lo son.",
       "options": [
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que delgado es neutral y flaco aquí tiene un matiz negativo de enfermedad.",
           "is_correct": true,
           "feedback": "Es correcta porque distingue el tono de cada palabra en contexto."
         },
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que las dos palabras significan exactamente lo mismo siempre.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el contexto le da a flaco un tono negativo."
@@ -267,7 +267,7 @@
           "feedback": "Es incorrecta porque ambas describen su cuerpo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los sinónimos no siempre son idénticos: cambian según el tono y la situación. Analizar el matiz enseña a elegir la palabra justa. Esta sensibilidad también mejora la descripción respetuosa de las personas.",
       "difficulty": "8",
       "images": [],
@@ -289,12 +289,6 @@
       "context": "En Bogotá, Santiago debe completar un texto sin repetir la palabra \"decir\".",
       "options": [
         {
-          "letter": "C",
-          "text": "Explicó.",
-          "is_correct": true,
-          "feedback": "Es correcta porque explicó mantiene la idea de comunicar una enseñanza."
-        },
-        {
           "letter": "A",
           "text": "Calló.",
           "is_correct": false,
@@ -305,6 +299,12 @@
           "text": "Ocultó.",
           "is_correct": false,
           "feedback": "Es incorrecta porque ocultar es esconder, no comunicar."
+        },
+        {
+          "letter": "C",
+          "text": "Explicó.",
+          "is_correct": true,
+          "feedback": "Es correcta porque explicó mantiene la idea de comunicar una enseñanza."
         },
         {
           "letter": "D",
@@ -335,12 +335,6 @@
       "context": "En Cali, Mariana debe elegir el mejor par de antónimos para un cartel sobre el cuidado del agua.",
       "options": [
         {
-          "letter": "D",
-          "text": "Desperdiciar - ahorrar.",
-          "is_correct": true,
-          "feedback": "Es correcta porque resume la oposición entre malgastar y cuidar el agua."
-        },
-        {
           "letter": "A",
           "text": "Agua - agua.",
           "is_correct": false,
@@ -357,6 +351,12 @@
           "text": "Grande - enorme.",
           "is_correct": false,
           "feedback": "Es incorrecta porque son sinónimos, no antónimos, y no hablan del agua."
+        },
+        {
+          "letter": "D",
+          "text": "Desperdiciar - ahorrar.",
+          "is_correct": true,
+          "feedback": "Es correcta porque resume la oposición entre malgastar y cuidar el agua."
         }
       ],
       "correct_answer": "D",

@@ -319,12 +319,12 @@ Evaluate the effectiveness of this school campaign slogan:
 ### Opciones
 - [ ] A) Ineffective because it uses slang.
   <!-- feedback: Incorrect. The slogan uses standard English. -->
-- [x] B) Effective because it uses clear, encouraging language with a recommendation.
-  <!-- feedback: Correct! It is clear, supportive, and gives actionable advice. -->
+- [ ] B) Effective because it threatens the reader.
+  <!-- feedback: Incorrect. The slogan is positive, not threatening. -->
 - [ ] C) Ineffective because it is too long.
   <!-- feedback: Incorrect. Length is appropriate. -->
-- [ ] D) Effective because it threatens the reader.
-  <!-- feedback: Incorrect. The slogan is positive, not threatening. -->
+- [x] D) Effective because it uses clear, encouraging language with a recommendation.
+  <!-- feedback: Correct! It is clear, supportive, and gives actionable advice. -->
 
 ### Explicacion Pedagogica
 Un buen mensaje de salud mental combina claridad, empatía y una recomendación accionable.

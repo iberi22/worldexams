@@ -404,12 +404,12 @@ Durante la Colonia, la región Caribe y el puerto de Cartagena cumplieron una fu
 ### Opciones
 - [ ] A) Era el único lugar donde se permitía la minería de plata en el virreinato
   <!-- feedback: La plata se explotaba principalmente en Charcas y Potosí; Cartagena destacaba por su puerto, no por minería argentífera. -->
-- [x] B) Canalizaba el comercio de la Casa de Contratación, el flujo de oro y esmeraldas y la trata esclavista hacia el interior
-  <!-- feedback: Cartagena fue puerta de entrada del tráfico atlántico de personas esclavizadas, salida de metales preciosos y nudo del sistema de flotas. -->
+- [ ] B) Carecía de población indígena al momento de la conquista española
+  <!-- feedback: La región estaba poblada por grupos como los muso o tairona; hubo presencia indígena y mestizaje desde el primer momento. -->
 - [ ] C) Constituyó la capital del Virreinato del Perú hasta 1717
   <!-- feedback: La capital virreinal peruana fue Lima; Cartagena perteneció luego a la Nueva Granada. -->
-- [ ] D) Carecía de población indígena al momento de la conquista española
-  <!-- feedback: La región estaba poblada por grupos como los muso o tairona; hubo presencia indígena y mestizaje desde el primer momento. -->
+- [x] D) Canalizaba el comercio de la Casa de Contratación, el flujo de oro y esmeraldas y la trata esclavista hacia el interior
+  <!-- feedback: Cartagena fue puerta de entrada del tráfico atlántico de personas esclavizadas, salida de metales preciosos y nudo del sistema de flotas. -->
 
 ### Explicacion Pedagogica
 El sistema portuario de Cartagena, Portobelo y La Habana organizaba el comercio atlántico. Su fortificación (Castillo Grande de San Felipe) protegía el circuito de la riqueza americana. Comprender esa función económica explica tanto la diversidad cultural del Caribe como las jerarquías raciales coloniales cuya superación sigue siendo un reto ciudadano.

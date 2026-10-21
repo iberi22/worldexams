@@ -18,190 +18,195 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-# MASTERY Bundle - Ingles: Daily Routines 2 (W32)
-**8 preguntas | Ingles | DBA MEN Colombia**
 
----
+# Bundle MASTERY: Rutinas diarias 2 (tarde y noche) - Grado 3
+
+Este bundle practica las rutinas de la tarde y la noche en inglés, con el presente simple y la -s de he/she.
+
 ## Question 1 [D3-D4]
 **ID:** CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Expected_Success:** 0.85
+**Contexto:** Tomás vive en Pereira y antes de dormir se baña con agua tibia en el baño de su casa.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+You are in the bathroom at night. You use water and soap to get clean. What do you do?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'accommodation' is the word for a place where you live or stay on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system of moving people or goods between places, not the place you sleep in itself. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live. -->
-- [ ] C) currency
-  <!-- feedback: 'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in. -->
+- [x] A) take a shower
+  <!-- feedback: Correct. To take a shower means you wash your body with water and soap in the bathroom. -->
+- [ ] B) have dinner
+  <!-- feedback: Incorrect. To have dinner means you eat the evening meal, and you do that at the table, not with soap. -->
+- [ ] C) watch TV
+  <!-- feedback: Incorrect. To watch TV means you look at programs on a screen; it does not make you clean. -->
+- [ ] D) do homework
+  <!-- feedback: Incorrect. To do homework means you write and study school tasks, not wash your body. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
+La expresión "take a shower" significa ducharse o bañarse con agua y jabón. Las otras opciones son rutinas reales, pero "have dinner" es comer, "watch TV" es ver televisión y "do homework" es hacer tareas.
+
 ## Question 2 [D3-D4]
 **ID:** CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Lexico
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** En Manizales, la familia de Sofia se sienta a comer arroz, frijoles y arepa a las 7 de la noche.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Sofia eats rice and beans with her family at 7 p.m. What does she do at 7 p.m.?
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' names only the place you are going to, without the route or the order of the whole journey. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official document that lets you cross a border, not the plan of where you go. -->
+- [x] A) She has dinner.
+  <!-- feedback: Correct. Dinner is the meal we eat in the evening, and 7 p.m. is in the evening. -->
+- [ ] B) She has breakfast.
+  <!-- feedback: Incorrect. Breakfast is the first meal of the day, in the morning, not at 7 p.m. -->
+- [ ] C) She takes a shower.
+  <!-- feedback: Incorrect. The text says she eats rice and beans; taking a shower is washing, not eating. -->
+- [ ] D) She goes to school.
+  <!-- feedback: Incorrect. Children go to school in the morning, and the text talks about eating with her family. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
+La cena se dice "dinner" y por eso decimos "She has dinner" cuando Sofia come por la noche. "Breakfast" es el desayuno de la mañana, así que no corresponde a las 7 p.m.
+
 ## Question 3 [D5-D6]
 **ID:** CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.72
+**Contexto:** Samuel vive en Barranquilla y todas las noches su hermano mayor ve televisión en la sala.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Complete: "Every evening, my brother ____ TV in the living room."
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: Correct! 'destination' is the place someone is going to or something is being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the act of reaching a place, not the place that is reached. -->
-- [ ] C) journey
-  <!-- feedback: 'journey' is the whole trip from the start to the end, not the place the trip finishes at. -->
+- [ ] A) watch
+  <!-- feedback: Incorrect. "My brother" is he, so the verb needs -s: watch is for I, you, we and they. -->
+- [ ] B) watching
+  <!-- feedback: Incorrect. The -ing form needs "is" before it, and "every evening" asks for the present simple. -->
+- [ ] C) to watch
+  <!-- feedback: Incorrect. "To watch" is the infinitive; a sentence about a habit needs a conjugated verb. -->
+- [x] D) watches
+  <!-- feedback: Correct. With he or she the verb takes -es after "ch": he watches, so my brother watches. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
+Cuando hablamos de una sola persona (he, she, my brother) el verbo en presente lleva -s o -es. Como "watch" termina en "ch", agregamos -es y queda "watches".
+
 ## Question 4 [D5-D6]
 **ID:** CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.68
+**Contexto:** En un colegio de Bucaramanga, la profesora pregunta a cada estudiante qué hace después de clases.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Teacher: "What do you do after school?"
+Mateo: "____"
 
 ### Opciones
-- [x] C) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel. -->
-- [ ] A) ticket
-  <!-- feedback: 'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in. -->
-- [ ] B) flight
-  <!-- feedback: 'flight' is the journey by plane itself, not the containers that hold your things. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you make for a seat or a room, not the bag you carry. -->
+- [ ] A) I am nine years old.
+  <!-- feedback: Incorrect. This answer tells his age, and the teacher asks about activities after school. -->
+- [ ] B) It is three o'clock.
+  <!-- feedback: Incorrect. This answer tells the time, not an activity Mateo does. -->
+- [x] C) I play soccer with my friends.
+  <!-- feedback: Correct. The question asks for an activity, and "I play soccer" names an activity Mateo does. -->
+- [ ] D) Yes, I do.
+  <!-- feedback: Incorrect. "Yes, I do" answers a yes/no question, but "What do you do" asks for information. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
+La pregunta "What do you do after school?" significa qué haces después del colegio. Se responde con una actividad, como "I play soccer". Responder la edad o la hora no contesta lo que se pregunta.
+
 ## Question 5 [D7-D8]
 **ID:** CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.60
+**Contexto:** Laura estudia en un colegio de Ibagué y llega a su casa a las 2 de la tarde.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Read: "Laura gets home at 2 p.m. First, she has lunch. Then, she does her homework. At night, she reads a book and goes to bed."
+What does Laura do right after lunch?
 
 ### Opciones
-- [x] C) passenger
-  <!-- feedback: Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all. -->
-- [ ] B) commuter
-  <!-- feedback: 'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle. -->
-- [ ] D) tourist
-  <!-- feedback: 'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle. -->
+- [ ] A) She reads a book.
+  <!-- feedback: Incorrect. She reads a book at night, which is later in the text, not right after lunch. -->
+- [x] B) She does her homework.
+  <!-- feedback: Correct. The word "Then" comes after lunch, and then she does her homework. -->
+- [ ] C) She goes to bed.
+  <!-- feedback: Incorrect. Going to bed is the last activity of the day in the text. -->
+- [ ] D) She gets home.
+  <!-- feedback: Incorrect. She gets home before lunch, at 2 p.m., so it is not after lunch. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
+Las palabras "First" (primero) y "Then" (luego) muestran el orden. Primero Laura almuerza ("has lunch") y luego hace la tarea ("does her homework"). Leer y dormir ocurren en la noche.
+
 ## Question 6 [D7-D8]
 **ID:** CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Uso de la lengua
+**Expected_Success:** 0.56
+**Contexto:** Juan José vive en Neiva; su papá se ducha cada noche antes de dormir porque hace mucho calor.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Which sentence is correct?
 
 ### Opciones
-- [x] D) customs
-  <!-- feedback: Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive. -->
-- [ ] A) security
-  <!-- feedback: 'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in. -->
-- [ ] B) terminal
-  <!-- feedback: 'terminal' is the building where you wait for your plane, not the place where your belongings are inspected. -->
-- [ ] C) gate
-  <!-- feedback: 'gate' is the door at the plane you walk through to board, not the place where officials check your things. -->
+- [ ] A) He take a shower at night.
+  <!-- feedback: Incorrect. With he the verb needs -s: "take" must change to "takes". -->
+- [ ] B) He taking a shower at night.
+  <!-- feedback: Incorrect. The -ing form needs "is" before it, and this is a habit, so it needs "takes". -->
+- [ ] C) He a shower takes at night.
+  <!-- feedback: Incorrect. The word order is wrong: in English the verb goes before "a shower". -->
+- [x] D) He takes a shower at night.
+  <!-- feedback: Correct. He + takes is the present simple with -s, and the words are in the right order. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
+En presente simple con he o she el verbo lleva -s: "He takes a shower". Además el orden es sujeto + verbo + complemento. Las otras oraciones olvidan la -s, usan -ing sin "is" o cambian el orden.
+
 ## Question 7 [D9-D10]
 **ID:** CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.50
+**Contexto:** Andres vive en Villavicencio y su mamá le pide seguir el mismo orden todas las noches.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Read: "Andres goes to bed at 8 p.m. He takes a shower before bed. He has dinner before his shower."
+What is the correct order of his evening?
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: 'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline. -->
-- [ ] C) receipt
-  <!-- feedback: 'receipt' is the proof that you paid for something, which is not permission to board a plane. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a leaflet with tourist information, not a travel document issued to a passenger. -->
+- [ ] A) shower, dinner, bed
+  <!-- feedback: Incorrect. The text says dinner is before his shower, so dinner must come first. -->
+- [ ] B) bed, dinner, shower
+  <!-- feedback: Incorrect. Going to bed is at the end, because the shower is before bed. -->
+- [x] C) dinner, shower, bed
+  <!-- feedback: Correct. Dinner is before the shower, and the shower is before bed: dinner, shower, bed. -->
+- [ ] D) dinner, bed, shower
+  <!-- feedback: Incorrect. The shower is before bed, so bed cannot come before the shower. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
+La palabra "before" significa antes. La cena va antes de la ducha y la ducha va antes de dormir, por eso el orden es: "dinner", "shower", "bed". Hay que leer cada pista y unirlas.
+
 ## Question 8 [D9-D10]
 **ID:** CO-ING-3-2026-W32-daily-routines-2-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ICFES:** Comprension lectora
+**Expected_Success:** 0.45
+**Contexto:** En Tunja, Camila tiene una regla en su casa para las noches de colegio.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Today is Monday. Camila says: "I watch TV after dinner, but on school nights I go to bed at 8:30." Her mom says: "Camila, it's 8:30!"
+What should Camila do now?
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'sightseeing' means visiting the places of interest of a location as a traveler. -->
-- [ ] B) shopping
-  <!-- feedback: 'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place. -->
+- [ ] A) Watch TV.
+  <!-- feedback: Incorrect. She watches TV after dinner, but at 8:30 on a school night her rule says bed. -->
+- [x] B) Go to bed.
+  <!-- feedback: Correct. Monday is a school night and it is 8:30, the time Camila goes to bed. -->
+- [ ] C) Have dinner.
+  <!-- feedback: Incorrect. TV comes after dinner, so dinner is already finished by 8:30. -->
+- [ ] D) Do homework.
+  <!-- feedback: Incorrect. Camila does not mention homework; her rule for 8:30 is to go to bed. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Lunes es una noche de colegio ("school night"). Camila dice que esas noches se acuesta a las 8:30 ("go to bed"). Como su mamá dice que ya son las 8:30, lo correcto es irse a dormir.

@@ -198,10 +198,10 @@ Para saber cuánto dinero entró el domingo hay que calcular 512 entradas por $9
   <!-- feedback: Incorrecto. Que el martes fuera mayor que el lunes no dice nada sobre el total que queda, porque despachar significa sacar sacos de la bodega. -->
 - [ ] B) No, porque las cantidades despachadas son muy grandes
   <!-- feedback: Incorrecto. El tamaño de las cantidades no prueba nada, lo que decide es si los sacos salen de la bolsa o si vuelven a ella. -->
-- [x] C) No, porque despachar 178 y 213 sacos deja menos de los 500 que había
-  <!-- feedback: Correcto. 178 + 213 = 391 y 500 - 391 = 109, así que quedan 109 sacos, que es menos que los 500 del principio. -->
-- [ ] D) Sí, porque en total se despacharon 391 sacos y eso sumó a la bolsa
+- [ ] C) Sí, porque en total se despacharon 391 sacos y eso sumó a la bolsa
   <!-- feedback: Incorrecto. Confundiste despachar con agregar, porque sacar sacos de la bolsa reduce lo que hay y no lo aumenta. -->
+- [x] D) No, porque despachar 178 y 213 sacos deja menos de los 500 que había
+  <!-- feedback: Correcto. 178 + 213 = 391 y 500 - 391 = 109, así que quedan 109 sacos, que es menos que los 500 del principio. -->
 
 ### Explicacion Pedagogica
 La pregunta pide evaluar si la bodega tiene más o menos sacos después de dos despachos. Se suman primero lo despachado: 178 + 213 = 391 sacos. Como la bodega tenía 500, quedan 500 - 391 = 109 sacos. Como 109 es menor que 500, la afirmación de que habrá más sacos es falsa.

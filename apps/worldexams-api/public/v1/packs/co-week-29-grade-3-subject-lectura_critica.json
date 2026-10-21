@@ -710,15 +710,15 @@
         },
         {
           "letter": "B",
-          "text": "La oración uno, porque recuerda que el sonido no basta para conocer el significado.",
-          "is_correct": true,
-          "feedback": "Correcto. La primera oración refleja la advertencia del Texto 2 de que además del sonido hay que atender lo que cada palabra dice."
-        },
-        {
-          "letter": "C",
           "text": "Las dos oraciones están iguales de bien, porque repiten la misma idea.",
           "is_correct": false,
           "feedback": "Error. No expresan la misma idea: una afirma una igualdad de significado y la otra la niega con un ejemplo."
+        },
+        {
+          "letter": "C",
+          "text": "La oración uno, porque recuerda que el sonido no basta para conocer el significado.",
+          "is_correct": true,
+          "feedback": "Correcto. La primera oración refleja la advertencia del Texto 2 de que además del sonido hay que atender lo que cada palabra dice."
         },
         {
           "letter": "D",
@@ -727,7 +727,7 @@
           "feedback": "Error. El valor de esa oración está en que dice algo cierto, no en que sus palabras sean difíciles."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Evaluar la claridad de una oración enseña a cuidar tanto el sonido como el sentido. Esta semana se trabaja el límite de la sonoridad: parecido sonido no significa igual significado. Reconocer ese cuidado prepara a los estudiantes para escribir con precisión y para comprender sin errores los textos de las pruebas.",
       "difficulty": "8",
       "images": [],

@@ -184,8 +184,8 @@ La crónica es un género donde la realidad se mezcla con la fantasía y la prop
 ¿Qué significa la metáfora del "Mundo al revés" en la pluma de un cronista indígena como Guamán Poma?
 
 ### Opciones
-- [ ] A) Que después de la conquista la gente empezó a caminar con las manos. <!-- feedback: Es una interpretación literal absurda de una metáfora social. -->
-- [x] B) Que el orden natural y social fue trastocado: los sabios fueron humillados, los templos destruidos y la justicia desapareció. <!-- feedback: Representa el caos y la pérdida de los valores tradicionales indígenas frente a un nuevo orden impuesto. -->
+- [x] A) Que el orden natural y social fue trastocado: los sabios fueron humillados, los templos destruidos y la justicia desapareció. <!-- feedback: Representa el caos y la pérdida de los valores tradicionales indígenas frente a un nuevo orden impuesto. -->
+- [ ] B) Que después de la conquista la gente empezó a caminar con las manos. <!-- feedback: Es una interpretación literal absurda de una metáfora social. -->
 - [ ] C) Que el sol empezó a salir por el oeste en lugar de por el este. <!-- feedback: La metáfora se refiere al orden social y moral, no a fenómenos astronómicos. -->
 - [ ] D) Que los españoles trajeron espejos donde todo se veía al revés. <!-- feedback: Aunque trajeron espejos, la metáfora es mucho más profunda respecto a la estructura de la sociedad. -->
 
@@ -205,8 +205,8 @@ El concepto de "Mundo al revés" es una crítica social poderosa. Refleja el sen
 ### Opciones
 - [ ] A) Para aprender nombres de españoles antiguos y ganar concursos de memoria. <!-- feedback: El objetivo no es la memorización de datos aislados, sino la comprensión crítica. -->
 - [ ] B) Para convencernos de que la conquista fue lo mejor que nos pudo pasar. <!-- feedback: El estudio debe ser crítico y mostrar todas las facetas, no solo una visión sesgada. -->
-- [x] C) Para identificar el origen de los discursos de discriminación y poder, y construir una visión más justa de nuestra identidad nacional. <!-- feedback: Entender cómo se escribió la historia permite cuestionar los prejuicios actuales y valorar la diversidad. -->
-- [ ] D) Porque son los únicos libros que existen de esa época en el país. <!-- feedback: Aunque son fuentes valiosas, la razón de su estudio es su impacto en nuestra cultura y pensamiento. -->
+- [ ] C) Porque son los únicos libros que existen de esa época en el país. <!-- feedback: Aunque son fuentes valiosas, la razón de su estudio es su impacto en nuestra cultura y pensamiento. -->
+- [x] D) Para identificar el origen de los discursos de discriminación y poder, y construir una visión más justa de nuestra identidad nacional. <!-- feedback: Entender cómo se escribió la historia permite cuestionar los prejuicios actuales y valorar la diversidad. -->
 
 ### Explicacion Pedagogica
 La evaluación de textos históricos desde la clase de Lengua busca desarrollar el pensamiento crítico. Al analizar cómo se usó la palabra para dominar o resistir, el estudiante comprende que el lenguaje es una herramienta de poder y de construcción de identidad.

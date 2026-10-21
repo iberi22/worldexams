@@ -57,14 +57,14 @@ Vocabulary for common morning hygiene routines in English.
 At what time of the day does Sara eat breakfast?
 
 ### Opciones
-- [x] D) In the morning.
-  <!-- feedback: 7:00 a.m. corresponds to the morning hours. -->
 - [ ] A) In the evening.
   <!-- feedback: Evening refers to late afternoon/night hours (p.m.). -->
 - [ ] B) At midnight.
   <!-- feedback: Midnight is 12:00 a.m. at night, not 7:00 a.m. -->
 - [ ] C) In the afternoon.
   <!-- feedback: Afternoon is the period between noon (12:00 p.m.) and evening. -->
+- [x] D) In the morning.
+  <!-- feedback: 7:00 a.m. corresponds to the morning hours. -->
 
 ### Explicacion Pedagogica
 Associating times of day (a.m./p.m.) with daily meals and routines.
@@ -80,14 +80,14 @@ Associating times of day (a.m./p.m.) with daily meals and routines.
 Choose the correct verb form: "Lucía _____ her homework at 4:00 p.m. every afternoon."
 
 ### Opciones
-- [x] D) does.
-  <!-- feedback: Third-person singular (Lucía / she) requires "does" in Simple Present. -->
 - [ ] A) do.
   <!-- feedback: "Do" is used with I, you, we, they, not with third-person singular "she". -->
 - [ ] B) doing.
   <!-- feedback: "Doing" needs an auxiliary verb (is doing) for continuous tense. -->
 - [ ] C) done.
   <!-- feedback: "Done" is the past participle form, not simple present. -->
+- [x] D) does.
+  <!-- feedback: Third-person singular (Lucía / she) requires "does" in Simple Present. -->
 
 ### Explicacion Pedagogica
 Applying third-person singular conjugation rules (-s/-es/does) in Simple Present routines.
@@ -103,12 +103,12 @@ Applying third-person singular conjugation rules (-s/-es/does) in Simple Present
 What does David do right after taking a shower?
 
 ### Opciones
-- [x] C) He eats breakfast.
-  <!-- feedback: According to the timeline, 7:00 a.m. breakfast follows 6:30 a.m. shower. -->
 - [ ] A) He goes to school.
   <!-- feedback: Going to school happens at 7:30 a.m., after eating breakfast. -->
 - [ ] B) He plays soccer.
   <!-- feedback: Playing soccer is not listed on this morning timeline. -->
+- [x] C) He eats breakfast.
+  <!-- feedback: According to the timeline, 7:00 a.m. breakfast follows 6:30 a.m. shower. -->
 - [ ] D) He goes to bed.
   <!-- feedback: Going to bed is an evening activity, not a morning routine step. -->
 
@@ -126,14 +126,14 @@ Sequencing daily routine events using chronological order clues.
 Complete the sentence: "We usually _____ the bus to go to school at 7:15 a.m."
 
 ### Opciones
-- [x] D) take.
-  <!-- feedback: "Take the bus" is the correct verb collocation for bus transportation. -->
 - [ ] A) drive.
   <!-- feedback: Students take/ride the bus; the bus driver drives the bus. -->
 - [ ] B) sleep.
   <!-- feedback: "Sleep the bus" is not a meaningful verb combination. -->
 - [ ] C) cook.
   <!-- feedback: "Cook" is used for food, not transportation. -->
+- [x] D) take.
+  <!-- feedback: "Take the bus" is the correct verb collocation for bus transportation. -->
 
 ### Explicacion Pedagogica
 Using common collocations for transportation routines (take the bus, walk to school).
@@ -172,10 +172,10 @@ Analyzing contrasts between weekday and weekend routine descriptions in English.
 Which response uses an appropriate frequency adverb for a healthy daily habit?
 
 ### Opciones
-- [x] A) "I always brush my teeth three times a day."
-  <!-- feedback: "Always" and "three times a day" express a consistent, healthy daily frequency. -->
-- [ ] B) "I never brush my teeth during the week."
+- [ ] A) "I never brush my teeth during the week."
   <!-- feedback: "Never" contradicts healthy personal hygiene practices. -->
+- [x] B) "I always brush my teeth three times a day."
+  <!-- feedback: "Always" and "three times a day" express a consistent, healthy daily frequency. -->
 - [ ] C) "I brush my teeth only once every year."
   <!-- feedback: Brushing once a year is not a valid daily routine habit. -->
 - [ ] D) "I always brushing my teeth yesterday."
@@ -195,12 +195,12 @@ Using adverbs of frequency (always, usually, sometimes, never) to describe regul
 What recommendation should be given to improve this student's daily routine?
 
 ### Opciones
-- [x] C) Go to bed earlier at night to get at least 8 hours of restful sleep.
-  <!-- feedback: Sleeping earlier ensures the recommended 8-9 hours of rest for learning. -->
 - [ ] A) Drink coffee at midnight to stay awake during morning classes.
   <!-- feedback: Coffee late at night disrupts sleep quality and is unhealthy for children. -->
 - [ ] B) Skip breakfast and run to school as fast as possible.
   <!-- feedback: Skipping breakfast decreases energy and concentration in class. -->
+- [x] C) Go to bed earlier at night to get at least 8 hours of restful sleep.
+  <!-- feedback: Sleeping earlier ensures the recommended 8-9 hours of rest for learning. -->
 - [ ] D) Watch television until 2:00 a.m. every weekday.
   <!-- feedback: Watching TV until late reduces sleep time even further. -->
 

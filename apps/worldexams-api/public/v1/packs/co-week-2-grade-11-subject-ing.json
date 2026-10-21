@@ -59,12 +59,6 @@
       "context": "Discussing environmental sustainability in Cartagena.",
       "options": [
         {
-          "letter": "C",
-          "text": "encourages",
-          "is_correct": true,
-          "feedback": "'Encourage' means to make a behaviour more likely, and a payment tied only to disclosure makes silence about emissions the cheaper option. The clause 'the very behaviour the scheme was meant to change' names what the design promotes instead."
-        },
-        {
           "letter": "A",
           "text": "discourages",
           "is_correct": false,
@@ -75,6 +69,12 @@
           "text": "postpones",
           "is_correct": false,
           "feedback": "'Postpone' means to move something to a later time, and no deadline or delay appears in the sentence. The clause is about what the subsidy encourages now, not about anything being deferred."
+        },
+        {
+          "letter": "C",
+          "text": "encourages",
+          "is_correct": true,
+          "feedback": "'Encourage' means to make a behaviour more likely, and a payment tied only to disclosure makes silence about emissions the cheaper option. The clause 'the very behaviour the scheme was meant to change' names what the design promotes instead."
         },
         {
           "letter": "D",
@@ -151,16 +151,16 @@
       "context": "Discussing environmental sustainability in Bucaramanga.",
       "options": [
         {
-          "letter": "B",
-          "text": "improves",
-          "is_correct": true,
-          "feedback": "'Improve' means to make something better, and the clause 'its own record' names the figure that looks better. A plant whose own statistics rise while the rejects move elsewhere is improving one measure and worsening another."
-        },
-        {
           "letter": "A",
           "text": "worsens",
           "is_correct": false,
           "feedback": "'Worsen' means to make something worse, but the plant's own record is described as improving even though the waste is shifted. The verb has to match the record, not the wider problem."
+        },
+        {
+          "letter": "B",
+          "text": "improves",
+          "is_correct": true,
+          "feedback": "'Improve' means to make something better, and the clause 'its own record' names the figure that looks better. A plant whose own statistics rise while the rejects move elsewhere is improving one measure and worsening another."
         },
         {
           "letter": "C",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W02-environmental-sustainability-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on environmental sustainability in Medellín, what is implied about the role of Mixed Conditionals in shaping public opinion?",
-      "context": "Discussing environmental sustainability in Medellín.",
+      "statement": "Read the text and answer the question.\n\n\"Since 2016, Medellín has planted trees and gardens along 30 roads and streams, creating what the city calls 'green corridors.' Researchers measured the temperature in these areas and found that they can be about two degrees cooler than nearby streets without plants. The corridors also give birds and insects a safe path through the city. Some residents complain that the gardens need constant maintenance, but most people interviewed said the streets feel more pleasant for walking.\"\n\nWhat is the text mainly about?",
+      "context": "Reading a city report about green corridors in Medellín.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "The benefits of Medellín's green corridors and one difficulty they bring.",
           "is_correct": true,
-          "feedback": "The report treats Mixed Conditionals as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
+          "feedback": "The text lists benefits (lower temperature, paths for birds and insects, pleasant streets) and one complaint (maintenance), so this option covers its full content."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Why residents want the city to remove its gardens.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "Only some residents complain about maintenance, and most say the streets are more pleasant. Nobody asks for the gardens to be removed."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "How birds are destroying plants along the roads.",
           "is_correct": false,
-          "feedback": "Mixed Conditionals add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "The text says the corridors give birds a safe path; it never says birds damage the plants."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bucaramanga.",
+          "text": "A plan to build new roads through the city's streams.",
           "is_correct": false,
-          "feedback": "The report presents Mixed Conditionals as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "The trees were planted along existing roads and streams. The text is about plants, not about building roads."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "A good main-idea answer is general enough to include all the paragraphs but specific to this text. Here the writer presents benefits and then a contrast introduced by 'but', so the best summary mentions both advantages and a difficulty.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-11-2026-W02-environmental-sustainability-001-MASTERY-bundle-v6",
-      "statement": "According to a recent report on environmental sustainability in Bogotá, what is implied about the role of Mixed Conditionals in shaping public opinion?",
-      "context": "Discussing environmental sustainability in Bogotá.",
+      "statement": "Read the text and answer the question.\n\n\"In Bogotá, about 20,000 recicladores, or informal waste pickers, collect paper, cardboard and plastic from the streets. For years, many people saw their work as a problem. Since 2016, however, the city has paid recycling organisations for each ton of material they recover. Nohora, who has worked as a recicladora for twenty years, says: 'Before, people closed the door when they saw me. Now some neighbours separate their bottles and wait for me.'\"\n\nWhat can be inferred from Nohora's words?",
+      "context": "Reading a profile of a recicladora (waste picker) in Bogotá.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats Mixed Conditionals as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
+          "letter": "A",
+          "text": "Her neighbours no longer recycle at home.",
+          "is_correct": false,
+          "feedback": "Nohora says neighbours now separate their bottles for her, which means they recycle more than before, not less."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "letter": "B",
+          "text": "Public attitudes towards waste pickers have improved.",
+          "is_correct": true,
+          "feedback": "She contrasts 'closed the door' (rejection) with neighbours who 'wait for me' (cooperation), which shows people now value her work more."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "She plans to stop working as a recicladora.",
           "is_correct": false,
-          "feedback": "Mixed Conditionals add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "Nothing in her words refers to her future plans; she only compares the past with the present."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Pereira.",
+          "text": "The city has stopped paying recycling organisations.",
           "is_correct": false,
-          "feedback": "The report presents Mixed Conditionals as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "The text says the city has paid organisations since 2016 and does not mention that the payments ended."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Inference often comes from a contrast between 'before' and 'now'. Nohora does not say 'attitudes changed', but the two images she describes, a closed door and neighbours waiting for her, allow the reader to conclude it.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -289,12 +289,6 @@
       "context": "Discussing environmental sustainability in Medellín.",
       "options": [
         {
-          "letter": "D",
-          "text": "Residents are expected to take part in the decisions and the results.",
-          "is_correct": true,
-          "feedback": "'Partners' means people who share in the work and in the benefit. If they are treated as partners, they help shape the plan and are accountable for it, which is the opposite of being a passive audience that only receives information."
-        },
-        {
           "letter": "A",
           "text": "Residents will be invited to a ceremony at the end of the project.",
           "is_correct": false,
@@ -311,6 +305,12 @@
           "text": "Residents will be paid for the environmental work they do.",
           "is_correct": false,
           "feedback": "Nothing in the sentence mentions money or payment. The contrast being drawn is between participating and merely watching, not between paid and unpaid work."
+        },
+        {
+          "letter": "D",
+          "text": "Residents are expected to take part in the decisions and the results.",
+          "is_correct": true,
+          "feedback": "'Partners' means people who share in the work and in the benefit. If they are treated as partners, they help shape the plan and are accountable for it, which is the opposite of being a passive audience that only receives information."
         }
       ],
       "correct_answer": "D",
@@ -377,36 +377,36 @@
     },
     {
       "id": "CO-ING-11-2026-W02-environmental-sustainability-001-MASTERY-bundle-v9",
-      "statement": "According to a recent report on environmental sustainability in Cartagena, what is implied about the role of Mixed Conditionals in shaping public opinion?",
-      "context": "Discussing environmental sustainability in Cartagena.",
+      "statement": "Read the text and answer the question.\n\n\"The páramo of Chingaza, east of Bogotá, works like a giant sponge. Its mosses and frailejones absorb water from fog and rain and release it slowly into rivers. Most of the water used in Bogotá comes from this ecosystem. Because frailejones grow only about one centimetre per year, damaged areas can take decades to recover. For this reason, environmental groups ask visitors to stay on marked paths and never take plants home.\"\n\nWhy do environmental groups ask visitors to stay on the paths?",
+      "context": "Reading an information panel about the Chingaza páramo near Bogotá.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats Mixed Conditionals as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Because the paths are the only places with drinking water.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "The text does not say there is drinking water on the paths. The water is stored in the plants and released into rivers."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Because frailejones grow quickly and block the paths.",
           "is_correct": false,
-          "feedback": "Mixed Conditionals add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "The text says the opposite: frailejones grow only about one centimetre per year."
+        },
+        {
+          "letter": "C",
+          "text": "Because damaged plants take many years to recover.",
+          "is_correct": true,
+          "feedback": "The sentence starting 'For this reason' refers back to the slow growth: damaged areas can take decades to recover, so visitors must avoid walking on the plants."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Medellín.",
+          "text": "Because visitors might get lost in the fog.",
           "is_correct": false,
-          "feedback": "The report presents Mixed Conditionals as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "Fog is mentioned only as a source of water. The text gives no warning about getting lost."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Connectors such as 'For this reason' link a cause to a consequence. To answer a 'why' question, find the connector and read the sentence before it, which here explains that frailejones grow very slowly and are easily damaged.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -423,36 +423,36 @@
     },
     {
       "id": "CO-ING-11-2026-W02-environmental-sustainability-001-MASTERY-bundle-v10",
-      "statement": "According to a recent report on environmental sustainability in Cali, what is implied about the role of Mixed Conditionals in shaping public opinion?",
-      "context": "Discussing environmental sustainability in Cali.",
+      "statement": "Read the text and answer the question.\n\n\"Dear Editor, I read that the ban on some single-use plastics will soon include plastic plates and cups at street markets. As a vendor in Cali, I support the idea, but I am worried. Paper and bamboo alternatives cost almost three times more, and my customers will not pay higher prices. I am not asking the government to cancel the ban. I am asking for a little help, such as lower taxes on biodegradable products, so small sellers like me can follow the law. Marta Rentería\"\n\nWhat is Marta's main purpose in writing the letter?",
+      "context": "Reading a letter to the editor from a market vendor in Cali.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "To ask for support so that small vendors can afford to obey the ban.",
           "is_correct": true,
-          "feedback": "The report treats Mixed Conditionals as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
+          "feedback": "Marta writes 'I am asking for a little help' and gives an example (lower taxes) so that sellers 'can follow the law', which is a request for support, not opposition."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "To demand that the government cancel the plastic ban.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "She says directly 'I am not asking the government to cancel the ban' and states that she supports the idea."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "To advertise her new bamboo plates to customers.",
           "is_correct": false,
-          "feedback": "Mixed Conditionals add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "She mentions bamboo only to explain that the alternatives are expensive; she is not selling them."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Medellín.",
+          "text": "To complain that customers prefer plastic cups.",
           "is_correct": false,
-          "feedback": "The report presents Mixed Conditionals as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "Her problem is that customers will not pay higher prices, not that they prefer plastic."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "In letters, the purpose often appears after a contrast such as 'I am not asking ... I am asking ...'. Readers should separate the writer's general position (support for the ban) from the specific request (help with costs).\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -473,16 +473,16 @@
       "context": "Discussing environmental sustainability in Pereira.",
       "options": [
         {
-          "letter": "B",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
           "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
+        },
+        {
+          "letter": "B",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
         },
         {
           "letter": "C",
@@ -519,12 +519,6 @@
       "context": "Discussing environmental sustainability in Manizales.",
       "options": [
         {
-          "letter": "C",
-          "text": "findings",
-          "is_correct": true,
-          "feedback": "After 'were' the subject has to be plural, which rules out the singular options at once. 'Findings' are the results of an audit, and publishing them is precisely what would remove the plant's freedom to present its numbers as provisional."
-        },
-        {
           "letter": "A",
           "text": "finding",
           "is_correct": false,
@@ -535,6 +529,12 @@
           "text": "audit",
           "is_correct": false,
           "feedback": "'Audit' is singular for the same reason, and the structure demands a plural subject. It also names the process rather than the results that such a process produces."
+        },
+        {
+          "letter": "C",
+          "text": "findings",
+          "is_correct": true,
+          "feedback": "After 'were' the subject has to be plural, which rules out the singular options at once. 'Findings' are the results of an audit, and publishing them is precisely what would remove the plant's freedom to present its numbers as provisional."
         },
         {
           "letter": "D",
@@ -565,16 +565,16 @@
       "context": "Discussing environmental sustainability in Cali.",
       "options": [
         {
-          "letter": "B",
-          "text": "dependence",
-          "is_correct": true,
-          "feedback": "'Dependence' names the state of relying on a single source, and the third conditional sets up the world in which the reservoir had held enough water. The fragility described is exactly what that dependence produces."
-        },
-        {
           "letter": "A",
           "text": "independence",
           "is_correct": false,
           "feedback": "'Independence' would mean the opposite, since a town drawing on one reservoir is not independent of it. The hypothetical change would have reduced that reliance rather than produced it."
+        },
+        {
+          "letter": "B",
+          "text": "dependence",
+          "is_correct": true,
+          "feedback": "'Dependence' names the state of relying on a single source, and the third conditional sets up the world in which the reservoir had held enough water. The fragility described is exactly what that dependence produces."
         },
         {
           "letter": "C",
@@ -611,12 +611,6 @@
       "context": "Discussing environmental sustainability in Bogotá.",
       "options": [
         {
-          "letter": "D",
-          "text": "be",
-          "is_correct": true,
-          "feedback": "'Would rather' takes the past form of 'be' in this construction, so 'be over' is what the phrase requires. The contrast with 'have it dragged out' sets a bare infinitive against a verb with its object, and only this option completes the first half."
-        },
-        {
           "letter": "A",
           "text": "being",
           "is_correct": false,
@@ -633,6 +627,12 @@
           "text": "to be",
           "is_correct": false,
           "feedback": "'Would rather' is followed directly by the verb form and not by 'to', which would produce an infinitive marker the phrase does not take. The bare form alone completes the construction."
+        },
+        {
+          "letter": "D",
+          "text": "be",
+          "is_correct": true,
+          "feedback": "'Would rather' takes the past form of 'be' in this construction, so 'be over' is what the phrase requires. The contrast with 'have it dragged out' sets a bare infinitive against a verb with its object, and only this option completes the first half."
         }
       ],
       "correct_answer": "D",
@@ -703,12 +703,6 @@
       "context": "Discussing environmental sustainability in Cartagena.",
       "options": [
         {
-          "letter": "C",
-          "text": "did",
-          "is_correct": true,
-          "feedback": "'Not until...' is a negative adverbial, and the rule is that inversion follows: the auxiliary 'did' moves in front of the subject and the main verb returns to its base form, giving 'did the first clean sample come back'."
-        },
-        {
           "letter": "A",
           "text": "was",
           "is_correct": false,
@@ -719,6 +713,12 @@
           "text": "had",
           "is_correct": false,
           "feedback": "The past perfect auxiliary belongs to a subordinate clause after 'when' or 'before'. Here the clause is the main one, so it needs the inverted auxiliary 'did' rather than 'had'."
+        },
+        {
+          "letter": "C",
+          "text": "did",
+          "is_correct": true,
+          "feedback": "'Not until...' is a negative adverbial, and the rule is that inversion follows: the auxiliary 'did' moves in front of the subject and the main verb returns to its base form, giving 'did the first clean sample come back'."
         },
         {
           "letter": "D",
@@ -749,12 +749,6 @@
       "context": "Discussing environmental sustainability in Medellín.",
       "options": [
         {
-          "letter": "C",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
           "text": "They are literally looking for something in the trees of Cartagena.",
           "is_correct": false,
@@ -765,6 +759,12 @@
           "text": "The approach is too noisy and aggressive.",
           "is_correct": false,
           "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+        },
+        {
+          "letter": "C",
+          "text": "The current strategy is directed towards the wrong objective.",
+          "is_correct": true,
+          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
         },
         {
           "letter": "D",
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-ING-11-2026-W02-environmental-sustainability-001-MASTERY-bundle-v18",
-      "statement": "In a high-level debate about environmental sustainability, Lucía says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Lucía mean?",
-      "context": "Discussing environmental sustainability in Cartagena.",
+      "statement": "Read what the engineer says.\n\nEngineer: \"If the builders cut corners on the drainage system, the new eco-park in Barranquilla will flood every rainy season.\"\n\nWhat is the engineer warning about?",
+      "context": "An engineer explains a risk at a new eco-park construction site in Barranquilla.",
       "options": [
         {
-          "letter": "C",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Cali.",
+          "text": "The builders might make the park's corners round.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "This is a literal reading. 'Cut corners' is not about the shape of the park; it is a fixed expression about the quality of work."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The builders might build the drainage system too large.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "A bigger drainage system would reduce flooding, not cause it. The warning is about work that is not good enough."
+        },
+        {
+          "letter": "C",
+          "text": "The builders might save time or money by doing the work badly.",
+          "is_correct": true,
+          "feedback": "'Cut corners' means to do something cheaply or quickly by skipping necessary steps; the result, flooding every season, shows the work would be poor."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "The builders might stop working before the rainy season.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "The idiom does not mean stopping work. It describes doing the work, but badly."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Cut corners' is frequent in news about construction and public projects. The conditional structure links the idiom to a negative consequence (flooding), which helps students understand that the expression refers to poor-quality shortcuts.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -837,36 +837,36 @@
     },
     {
       "id": "CO-ING-11-2026-W02-environmental-sustainability-001-MASTERY-bundle-v19",
-      "statement": "In a high-level debate about environmental sustainability, Valentina says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Valentina mean?",
-      "context": "Discussing environmental sustainability in Pereira.",
+      "statement": "Read the conversation.\n\nJuliana: \"Some officials turn a blind eye to illegal mining in the rivers of Chocó.\"\nMateo: \"That's why the mercury problem keeps growing.\"\n\nWhat does Juliana mean?",
+      "context": "Two students discuss illegal mining and mercury pollution in Chocó.",
       "options": [
         {
           "letter": "A",
-          "text": "The current strategy is directed towards the wrong objective.",
+          "text": "Some officials know about the illegal mining but choose to ignore it.",
           "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "feedback": "'Turn a blind eye' means to deliberately ignore something you know is wrong; Mateo's reply confirms that this lack of action lets the problem grow."
         },
         {
           "letter": "B",
-          "text": "They are literally looking for something in the trees of Medellín.",
+          "text": "Some officials have eye problems caused by mercury.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "This takes 'blind' literally. Juliana is criticising behaviour, not describing a health condition."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Some officials cannot find the mines because they are hidden.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "The idiom implies the officials know about the mining. Not being able to find something is different from choosing to ignore it."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Some officials are closing the illegal mines one by one.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "If officials were closing the mines, the mercury problem would not keep growing, as Mateo says it does."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "The difference between not seeing and choosing not to see is the key to this idiom. Mateo's response ('That's why...') shows a consequence of inaction, which supports the meaning of deliberate ignoring.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -883,36 +883,36 @@
     },
     {
       "id": "CO-ING-11-2026-W02-environmental-sustainability-001-MASTERY-bundle-v20",
-      "statement": "In a high-level debate about environmental sustainability, Daniela says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Daniela mean?",
-      "context": "Discussing environmental sustainability in Pereira.",
+      "statement": "Read what the professor says.\n\nProfessor: \"The plastic you see on the beach in San Andrés is just the tip of the iceberg. Most of it is broken into tiny pieces under the water.\"\n\nWhat does the professor mean?",
+      "context": "A marine biology professor talks about plastic pollution in San Andrés.",
       "options": [
         {
           "letter": "A",
-          "text": "The current strategy is directed towards the wrong objective.",
+          "text": "The visible plastic is only a small part of a much bigger problem.",
           "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "feedback": "An iceberg shows only a small part above the water; the professor explains that most of the plastic is invisible in tiny pieces under the sea."
         },
         {
           "letter": "B",
-          "text": "They are literally looking for something in the trees of Medellín.",
+          "text": "There is ice under the water near San Andrés.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "This reads the idiom literally. San Andrés is a Caribbean island, and the professor is talking about plastic, not ice."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The plastic on the beach is the most dangerous part.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "The professor does not compare danger; she says most of the plastic is hidden, so the beach plastic is the smaller part."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "The problem is getting smaller every year.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Nothing in the statement refers to change over time. The idiom describes how big the hidden part of the problem is."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'The tip of the iceberg' introduces the idea that what we see is small compared with what we cannot see. The second sentence in the quotation usually explains the hidden part, as it does here with the microplastics under the water.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

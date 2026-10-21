@@ -13,12 +13,6 @@
       "context": "Lea atentamente el siguiente fragmento adaptado de una fábula tradicional: \"Un chigüiro vanidoso presumía en las orillas del río Orinoco de ser el nadador más veloz de la sabana. Despreciaba a la pequeña tortuga morrocoy diciéndole que sus patas cortas jamás le permitirían llegar lejos. La tortuga, sin inmutarse, lo desafió a una carrera hasta el gran samán. El chigüiro aceptó riendo y se echó a dormir una siesta bajo una palmera confiado en su ventaja. Mientras dormía plácidamente, la tortuga avanzó paso a paso sin detenerse hasta cruzar la meta\".",
       "options": [
         {
-          "letter": "D",
-          "text": "Arrogante y confiada, burlándose de la lentitud de la tortuga.",
-          "is_correct": true,
-          "feedback": "El texto indica que el chigüiro presumía y despreciaba a la tortuga por sus patas cortas."
-        },
-        {
           "letter": "A",
           "text": "Temerosa y prudente, reconociendo el esfuerzo de la tortuga.",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "Generosa y solidaria, ofreciéndole ventaja a la tortuga.",
           "is_correct": false,
           "feedback": "La fábula no muestra gestos de generosidad por parte del chigüiro."
+        },
+        {
+          "letter": "D",
+          "text": "Arrogante y confiada, burlándose de la lentitud de la tortuga.",
+          "is_correct": true,
+          "feedback": "El texto indica que el chigüiro presumía y despreciaba a la tortuga por sus patas cortas."
         }
       ],
       "correct_answer": "D",
@@ -59,16 +59,16 @@
       "context": "En el mismo texto de la fábula del chigüiro y la tortuga morrocoy, se narra la victoria de la tortuga tras avanzar sin descanso mientras su rival dormía.",
       "options": [
         {
-          "letter": "B",
-          "text": "La constancia y la humildad vencen a la arrogancia y la pereza.",
-          "is_correct": true,
-          "feedback": "La perseverancia de la tortuga le permitió ganar frente a la excesiva confianza y descuido del chigüiro."
-        },
-        {
           "letter": "A",
           "text": "Es preferible dormir siestas largas antes de realizar esfuerzos físicos.",
           "is_correct": false,
           "feedback": "La siesta del chigüiro fue la causa principal de su derrota en la competencia."
+        },
+        {
+          "letter": "B",
+          "text": "La constancia y la humildad vencen a la arrogancia y la pereza.",
+          "is_correct": true,
+          "feedback": "La perseverancia de la tortuga le permitió ganar frente a la excesiva confianza y descuido del chigüiro."
         },
         {
           "letter": "C",
@@ -105,12 +105,6 @@
       "context": "Lea el siguiente pasaje: \"Un zorro andino observó a un cuervo encaramado en una rama con un sabroso trozo de queso fresco en el pico. El zorro, deseando el queso, comenzó a alabarlo: —¡Qué plumas tan brillantes tienes, noble cuervo! Estoy seguro de que tu voz debe ser la más melodiosa de toda la cordillera. ¡Canta para mí, por favor! El cuervo, halagado por las palabras, abrió el pico para cantar un graznido altivo. En ese instante el queso cayó al suelo y el zorro lo atrapó rápidamente huyendo entre los matorrales\".",
       "options": [
         {
-          "letter": "C",
-          "text": "Provocar que el cuervo abriera el pico para arrebatarle el queso al caer.",
-          "is_correct": true,
-          "feedback": "El halago era un engaño calculado para lograr que el cuervo soltara la comida."
-        },
-        {
           "letter": "A",
           "text": "Disfrutar verdaderamente de un concierto musical en la montaña.",
           "is_correct": false,
@@ -121,6 +115,12 @@
           "text": "Ayudar al cuervo a mejorar su técnica de vocalización.",
           "is_correct": false,
           "feedback": "El relato no muestra un propósito pedagógico por parte del zorro."
+        },
+        {
+          "letter": "C",
+          "text": "Provocar que el cuervo abriera el pico para arrebatarle el queso al caer.",
+          "is_correct": true,
+          "feedback": "El halago era un engaño calculado para lograr que el cuervo soltara la comida."
         },
         {
           "letter": "D",
@@ -151,12 +151,6 @@
       "context": "En el relato del zorro y el cuervo, el cuervo pierde su alimento por dejarse llevar por los elogios exagerados.",
       "options": [
         {
-          "letter": "D",
-          "text": "\"Al adulador no se le debe dar crédito, pues busca su propio beneficio\".",
-          "is_correct": true,
-          "feedback": "Advierte sobre los peligros de confiar en halagos insinceros motivados por el interés personal."
-        },
-        {
           "letter": "A",
           "text": "\"A caballo regalado no se le mira el colmillo\".",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "\"Camarón que se duerme se lo lleva la corriente\".",
           "is_correct": false,
           "feedback": "Se refiere a la pereza o descuido general, no específicamente al engaño mediante elogios."
+        },
+        {
+          "letter": "D",
+          "text": "\"Al adulador no se le debe dar crédito, pues busca su propio beneficio\".",
+          "is_correct": true,
+          "feedback": "Advierte sobre los peligros de confiar en halagos insinceros motivados por el interés personal."
         }
       ],
       "correct_answer": "D",
@@ -197,12 +197,6 @@
       "context": "\"La hormiga trabajaba arduamente acumulando granos de maíz durante todo el verano seco, mientras la cigarra descansaba cantando bajo la sombra sin preocuparse por el invierno. Cuando llegaron las lluvias torrenciales, la cigarra, hambrienta y tiritando de frío, acudió a la casa de la hormiga a pedirle cobijo y comida\".",
       "options": [
         {
-          "letter": "D",
-          "text": "Personificación o prosopopeya, al atribuir cualidades y comportamientos humanos a los insectos.",
-          "is_correct": true,
-          "feedback": "Los insectos cantan, trabajan con previsión y piden refugio como seres humanos."
-        },
-        {
           "letter": "A",
           "text": "Hipérbaton, al alterar drásticamente el orden gramatical de todas las oraciones.",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "Onomatopeya repetitiva, al imitar únicamente ruidos de la naturaleza sin utilizar palabras.",
           "is_correct": false,
           "feedback": "El texto utiliza oraciones narrativas formales en prosa."
+        },
+        {
+          "letter": "D",
+          "text": "Personificación o prosopopeya, al atribuir cualidades y comportamientos humanos a los insectos.",
+          "is_correct": true,
+          "feedback": "Los insectos cantan, trabajan con previsión y piden refugio como seres humanos."
         }
       ],
       "correct_answer": "D",
@@ -243,12 +243,6 @@
       "context": "Lea el texto: \"Un perro llevaba un sabroso hueso en el hocico mientras cruzaba un puente sobre un río cristalino. Al mirar hacia abajo, vio su propio reflejo en el agua y pensó que se trataba de otro perro con un hueso más grande. Lleno de codicia, abrió el hocico para soltar un gruñido y quitarle el trozo al supuesto rival. En ese instante, su propio hueso cayó al agua y se hundió hasta el fondo sin remedio\".",
       "options": [
         {
-          "letter": "C",
-          "text": "Su propia codicia y la confusión entre una ilusión óptica y la realidad.",
-          "is_correct": true,
-          "feedback": "Desear el hueso del reflejo por codicia lo llevó a soltar el verdadero hueso que llevaba."
-        },
-        {
           "letter": "A",
           "text": "La corriente fuerte del río que derribó el puente de madera.",
           "is_correct": false,
@@ -259,6 +253,12 @@
           "text": "El ataque sorpresivo de otro perro real que estaba oculto bajo el agua.",
           "is_correct": false,
           "feedback": "El texto aclara expresamente que se trataba de su propio reflejo en el agua."
+        },
+        {
+          "letter": "C",
+          "text": "Su propia codicia y la confusión entre una ilusión óptica y la realidad.",
+          "is_correct": true,
+          "feedback": "Desear el hueso del reflejo por codicia lo llevó a soltar el verdadero hueso que llevaba."
         },
         {
           "letter": "D",
@@ -289,16 +289,10 @@
       "context": "Al finalizar la fábula del perro y el reflejo, el autor omite redactar la moraleja de forma explícita.",
       "options": [
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Exige que el lector deduzca de manera autónoma la lección a partir de las acciones de la trama.",
           "is_correct": true,
           "feedback": "Cuando la moraleja es implícita, el lector debe realizar una inferencia global sobre el comportamiento del personaje."
-        },
-        {
-          "letter": "A",
-          "text": "Demuestra que el texto no es una fábula sino un artículo de noticias científicas.",
-          "is_correct": false,
-          "feedback": "La estructura narrativa y la personificación mantienen el género fabulístico independientemente de la moraleja explícita."
         },
         {
           "letter": "B",
@@ -307,13 +301,19 @@
           "feedback": "Las acciones claras del texto permiten inferir fácilmente el mensaje sin necesidad de una frase explicativa final."
         },
         {
+          "letter": "C",
+          "text": "Demuestra que el texto no es una fábula sino un artículo de noticias científicas.",
+          "is_correct": false,
+          "feedback": "La estructura narrativa y la personificación mantienen el género fabulístico independientemente de la moraleja explícita."
+        },
+        {
           "letter": "D",
           "text": "Indica que el autor olvidó escribir el último párrafo por falta de espacio.",
           "is_correct": false,
           "feedback": "La omisión de la moraleja explícita es un recurso estilístico frecuente en la fábula moderna."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Diferenciar entre moraleja explícita e implícita fortalece la capacidad de análisis crítico e inferencia narrativa en la lectura.",
       "difficulty": "8",
       "images": [],
@@ -335,16 +335,16 @@
       "context": "Un estudiante afirma: \"Las fábulas no aportan nada a la formación de los estudiantes porque usan animales que hablan, y en el mundo real los animales no tienen lenguaje articulado\".",
       "options": [
         {
-          "letter": "B",
-          "text": "El uso de animales parlantes es una alegoría simbólica que facilita reflexionar sobre conductas y valores humanos de forma amena.",
-          "is_correct": true,
-          "feedback": "La fábula recurre al simbolismo animal para representar dilemas morales universales aplicables a la convivencia humana."
-        },
-        {
           "letter": "A",
           "text": "El estudiante tiene razón porque los libros escolares sólo deben contener textos de biografía e historia real.",
           "is_correct": false,
           "feedback": "Limitar la lectura a textos expositivos desconoce el valor formativo y ético de la literatura de ficción."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de animales parlantes es una alegoría simbólica que facilita reflexionar sobre conductas y valores humanos de forma amena.",
+          "is_correct": true,
+          "feedback": "La fábula recurre al simbolismo animal para representar dilemas morales universales aplicables a la convivencia humana."
         },
         {
           "letter": "C",

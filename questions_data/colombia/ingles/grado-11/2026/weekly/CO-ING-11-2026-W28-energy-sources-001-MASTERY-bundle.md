@@ -129,23 +129,27 @@ The contrast between long-term contracts and later market prices marks a protect
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.70
-**Contexto:** Discussing energy sources in Cartagena.
+**Contexto:** A news article about solar panels installed on schools in Cartagena.
 
 ### Enunciado
-According to a recent report on energy sources in Cartagena, what is implied about the role of Concession & Contrast Connectors in shaping public opinion?
+Read the text and answer the question.
+
+"Last year, the city of Cartagena installed solar panels on the roofs of fifteen public schools. The project cost about 3,000 million pesos, but the schools now pay 40 per cent less for electricity. The money saved is used to buy books and repair classrooms. Teachers also use the panels in science classes: students check a screen that shows how much energy the panels produce each hour. On cloudy days the schools still use electricity from the grid, so the lights never go off. The city plans to add ten more schools next year."
+
+What is the main idea of the text?
 
 ### Opciones
-- [x] C) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. Concession & Contrast Connectors give a text its nuance and precision, so they does not make the message simpler to grasp. -->
-- [ ] D) It is only used by academic elites in Pereira.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [ ] A) The schools no longer use any electricity from the grid.
+  <!-- feedback: Incorrect. The text says that on cloudy days 'the schools still use electricity from the grid'. -->
+- [ ] B) The project was cancelled because it was too expensive.
+  <!-- feedback: Incorrect. The project was completed, and the city plans to add ten more schools, so it was not cancelled. -->
+- [x] C) Solar panels on schools reduced costs and became a learning tool.
+  <!-- feedback: Correct. The text explains the 40 per cent saving, how the money is reused and how teachers use the panels in science classes. -->
+- [ ] D) Students must repair the solar panels in their science classes.
+  <!-- feedback: Incorrect. Students observe the energy production on a screen; the text never says they repair the panels. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+To identify the main idea, combine the two benefits the article develops: lower costs, with the money reinvested, and educational use in science classes. The detail about the grid on cloudy days limits the benefit but does not change the main idea, and the other distractors contradict explicit facts.
 
 ---
 
@@ -154,23 +158,27 @@ This question requires inferential reading skills to understand how complex stru
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.67
-**Contexto:** Discussing energy sources in Medellín.
+**Contexto:** A blog post by a farmer from Antioquia about a small hydroelectric project.
 
 ### Enunciado
-According to a recent report on energy sources in Medellín, what is implied about the role of Concession & Contrast Connectors in shaping public opinion?
+Read the text and answer the question.
+
+"Our village near Medellín was connected to the electricity grid only in 2005, and the power often failed in the rainy season. Five years ago, my neighbours and I built a micro-hydroelectric plant on the stream that crosses my farm. We did not build a dam; we only diverted part of the water through a pipe and returned it to the stream a few metres below. Now twenty families have stable electricity. The fish are still there, and the stream looks the same as when I was a child. Big projects are not the only way."
+
+What does the writer suggest with the sentence 'Big projects are not the only way'?
 
 ### Opciones
-- [x] B) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. Concession & Contrast Connectors give a text its nuance and precision, so they does not make the message simpler to grasp. -->
-- [ ] D) It is only used by academic elites in Barranquilla.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [ ] A) Big hydroelectric dams are always illegal in Colombia.
+  <!-- feedback: Incorrect. The writer never talks about the legality of dams; the sentence compares the size of projects, not laws. -->
+- [x] B) Small community projects can also produce energy without damaging nature much.
+  <!-- feedback: Correct. The writer describes a small plant with no dam, stable power for twenty families and an unchanged stream, so the final sentence suggests that small projects are a valid alternative. -->
+- [ ] C) The village should disconnect from the national grid.
+  <!-- feedback: Incorrect. The writer does not propose leaving the grid; the micro-plant solved the problem of unstable power. -->
+- [ ] D) Micro-hydroelectric plants kill all the fish in a stream.
+  <!-- feedback: Incorrect. The writer says 'The fish are still there', which contradicts this option. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+A concluding sentence often summarises the writer's argument. Here it generalises from the story: a small, low-impact project solved a real problem. To infer its meaning, students should connect it with the evidence that comes before it, stable electricity, no dam and fish still living in the stream.
 
 ---
 
@@ -179,23 +187,27 @@ This question requires inferential reading skills to understand how complex stru
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.64
-**Contexto:** Discussing energy sources in Barranquilla.
+**Contexto:** An energy-saving guide distributed by an electricity company in Barranquilla.
 
 ### Enunciado
-According to a recent report on energy sources in Barranquilla, what is implied about the role of Concession & Contrast Connectors in shaping public opinion?
+Read the text and answer the question.
+
+"In Barranquilla, air conditioners can represent more than half of a family's electricity bill. Here are some simple tips. First, set the temperature at 24 degrees: each degree lower can increase consumption by about seven per cent. Second, close doors and windows while the air conditioner is on. Third, clean the filters every month, because dirty filters make the machine work harder. Finally, if you are buying a new unit, look for the energy efficiency label and choose an 'inverter' model. It costs more at first, but it uses less electricity over time."
+
+According to the guide, why should people clean the filters every month?
 
 ### Opciones
-- [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. Concession & Contrast Connectors give a text its nuance and precision, so they does not make the message simpler to grasp. -->
-- [ ] C) It is only used by academic elites in Cartagena.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [ ] A) Because clean filters lower the temperature to 24 degrees.
+  <!-- feedback: Incorrect. 24 degrees is the recommended setting chosen by the user; the text does not connect it with cleaning filters. -->
+- [ ] B) Because the electricity company will check them every month.
+  <!-- feedback: Incorrect. The guide does not mention any inspection by the company; it gives advice to families. -->
+- [ ] C) Because dirty filters are the reason why inverter models are expensive.
+  <!-- feedback: Incorrect. The higher price of inverter models is a separate point; it has nothing to do with dirty filters. -->
+- [x] D) Because dirty filters make the air conditioner use more energy.
+  <!-- feedback: Correct. The guide says to clean the filters 'because dirty filters make the machine work harder', which means more electricity consumption. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Instructions with reasons usually use 'because' or a colon to justify each tip. The third tip contains its own justification: dirty filters make the machine work harder. The distractors mix this tip with other pieces of advice from the guide, so readers must check that the reason belongs to the right instruction.
 
 ---
 
@@ -204,23 +216,27 @@ This question requires inferential reading skills to understand how complex stru
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.61
-**Contexto:** Discussing energy sources in Bogotá.
+**Contexto:** An opinion article from a Bogotá newspaper about electric buses.
 
 ### Enunciado
-According to a recent report on energy sources in Bogotá, what is implied about the role of Concession & Contrast Connectors in shaping public opinion?
+Read the text and answer the question.
+
+"Bogotá now has one of the largest fleets of electric buses in Latin America, and the city is right to be proud. These buses are quiet and produce no smoke in the streets. However, we should not forget an important question: where does the electricity come from? In Colombia, most electricity comes from hydroelectric plants, which is good news. But in dry years, when rivers are low, the country burns more gas and coal. Electric buses are a great step, but they are only as clean as the energy that charges them."
+
+What is the writer's main purpose?
 
 ### Opciones
-- [x] A) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] B) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. Concession & Contrast Connectors give a text its nuance and precision, so they does not make the message simpler to grasp. -->
-- [ ] D) It is only used by academic elites in Cali.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [x] A) To support electric buses while reminding readers that the energy source also matters.
+  <!-- feedback: Correct. The writer praises the buses ('the city is right to be proud') and then adds a reservation about where the electricity comes from, summarised in the last sentence. -->
+- [ ] B) To argue that Bogotá should return to diesel buses.
+  <!-- feedback: Incorrect. The writer calls electric buses 'a great step'; nothing suggests returning to diesel. -->
+- [ ] C) To explain how hydroelectric plants produce electricity.
+  <!-- feedback: Incorrect. Hydroelectric plants are mentioned as a source, but the text does not explain how they work. -->
+- [ ] D) To complain about the noise of the new buses.
+  <!-- feedback: Incorrect. The writer says the buses are quiet, which is presented as an advantage. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Many opinion texts follow the pattern 'praise + However + reservation'. The word 'However' introduces the writer's real point: the cleanliness of electric transport depends on the energy mix. Identifying the purpose means seeing both halves of this balanced argument, not just the positive start or a background detail.
 
 ---
 
@@ -229,23 +245,27 @@ This question requires inferential reading skills to understand how complex stru
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.58
-**Contexto:** Discussing energy sources in Bucaramanga.
+**Contexto:** A report about a wind farm project in La Guajira and the Wayuu communities.
 
 ### Enunciado
-According to a recent report on energy sources in Bucaramanga, what is implied about the role of Concession & Contrast Connectors in shaping public opinion?
+Read the text and answer the question.
+
+"La Guajira has some of the strongest and most constant winds in South America, and several companies want to build wind farms there. For the Wayuu people, however, the land is not only a place to install turbines; it contains cemeteries, paths and sacred sites. The law requires companies to hold a prior consultation with each affected community before starting a project. Some consultations have ended in agreements that include jobs, water and electricity for the communities. Others have been delayed for years because communities say they did not receive clear information about the impact on their territory."
+
+In the text, the phrase 'prior consultation' refers to...
 
 ### Opciones
-- [x] D) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. Concession & Contrast Connectors give a text its nuance and precision, so they does not make the message simpler to grasp. -->
-- [ ] C) It is only used by academic elites in Bogotá.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [ ] A) a medical appointment for workers before they build turbines.
+  <!-- feedback: Incorrect. 'Consultation' can mean a visit to a doctor, but here it refers to communities and projects, not health. -->
+- [ ] B) a payment that communities give to the companies.
+  <!-- feedback: Incorrect. The text mentions agreements that give jobs and water to communities, not payments from them. -->
+- [ ] C) a report written after the wind farm has been built.
+  <!-- feedback: Incorrect. 'Prior' means before; a report written after construction is the opposite of what the phrase describes. -->
+- [x] D) a process in which communities are asked for their opinion before a project begins.
+  <!-- feedback: Correct. 'Prior' means before, and the text says the consultation must happen 'before starting a project' with each affected community. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Words with several meanings, such as 'consultation', must be interpreted in context. The text explains the phrase immediately: the law requires a consultation with each community before a project starts. Knowing that 'prior' means 'before' helps reject the option about a report written after construction.
 
 ---
 
@@ -254,23 +274,27 @@ This question requires inferential reading skills to understand how complex stru
 **Bloom:** Apply
 **ICFES:** Reading Comprehension
 **Expected_Success:** 0.55
-**Contexto:** Discussing energy sources in Cali.
+**Contexto:** A message from a university energy club in Cali inviting students to an event.
 
 ### Enunciado
-According to a recent report on energy sources in Cali, what is implied about the role of Concession & Contrast Connectors in shaping public opinion?
+Read the text and answer the question.
+
+"Do you know how much energy your phone charger uses when it is plugged in but not charging? Come and find out at the Energy Fair organised by our university club in Cali! On Friday 12 April, from 10 a.m. to 4 p.m., in the main square of the campus, you can measure the consumption of your own devices, build a small solar charger and play a game about energy decisions. Entry is free, but if you want to join the solar charger workshop, you must register online because there are only 30 places. Bring your friends!"
+
+What must students do to participate in the solar charger workshop?
 
 ### Opciones
-- [x] C) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. Concession & Contrast Connectors give a text its nuance and precision, so they does not make the message simpler to grasp. -->
-- [ ] D) It is only used by academic elites in Medellín.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [ ] A) Pay an entry fee at the main square.
+  <!-- feedback: Incorrect. The message clearly says 'Entry is free'; no payment is mentioned. -->
+- [ ] B) Bring their own solar panel to the fair.
+  <!-- feedback: Incorrect. Students will build a small solar charger at the fair; they are not asked to bring a panel. -->
+- [x] C) Register online, because places are limited.
+  <!-- feedback: Correct. The message says that to join the workshop 'you must register online because there are only 30 places'. -->
+- [ ] D) Arrive before 10 a.m. to get a place.
+  <!-- feedback: Incorrect. The fair starts at 10 a.m., but places in the workshop are obtained by online registration, not by arriving early. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Detail questions often focus on a condition introduced by 'but' or 'if'. Here, the sentence 'Entry is free, but if you want to join the solar charger workshop, you must register online' contains the answer. Distractors are built from other information in the invitation (time, place, activities).
 
 ---
 
@@ -285,10 +309,10 @@ This question requires inferential reading skills to understand how complex stru
 Complete the following sentence about energy sources: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Concession & Contrast Connectors)
 
 ### Opciones
-- [x] B) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
 - [ ] A) has
   <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
+- [x] B) had
+  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
 - [ ] C) was
   <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
 - [ ] D) did
@@ -346,7 +370,6 @@ Read this statement: 'Although the proposed solar farm would generate low-carbon
 
 ### Explicacion Pedagogica
 'Although' signals concession: one favorable point is acknowledged without eliminating a contrasting concern. The statement weighs electricity generation against possible land-use effects.
-
 ## Question 14 [D7-D8]
 **ID:** CO-ING-11-2026-W28-energy-sources-001-MASTERY-bundle-v14
 **Bloom:** Analyze
@@ -369,7 +392,6 @@ A student writes, 'Despite the wind farm produces electricity without burning fu
 
 ### Explicacion Pedagogica
 'Although' introduces a finite concessive clause. 'Despite' normally takes a noun phrase or gerund construction, so replacing it with 'although' repairs the sentence without changing the intended contrast.
-
 ## Question 15 [D7-D8]
 **ID:** CO-ING-11-2026-W28-energy-sources-001-MASTERY-bundle-v15
 **Bloom:** Analyze
@@ -392,7 +414,6 @@ Read the comparison: 'The proposed rooftop panels would use space on existing bu
 
 ### Explicacion Pedagogica
 'By contrast' directs attention to a difference between the proposals. Here, the difference concerns using existing roofs versus requiring a separate land area.
-
 ## Question 16 [D7-D8]
 **ID:** CO-ING-11-2026-W28-energy-sources-001-MASTERY-bundle-v16
 **Bloom:** Analyze
@@ -429,17 +450,17 @@ The singular subject 'a national grid' determines the auxiliary: after 'rarely' 
 In a high-level debate about energy sources, Daniela says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Daniela mean?
 
 ### Opciones
-- [x] B) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
 - [ ] A) They are literally looking for something in the trees of Cali.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
+  <!-- feedback: Incorrect. This reads the idiom word for word; nobody in the debate is searching any trees, because the phrase is figurative and describes a mistaken strategy. -->
+- [x] B) The current strategy is directed towards the wrong objective.
+  <!-- feedback: Correct. 'Bark up the wrong tree' comes from hunting dogs barking at a tree the animal is not in, so it means putting effort into the wrong cause or the wrong solution. -->
 - [ ] C) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
+  <!-- feedback: Incorrect. 'Barking' here does not describe loud or aggressive behaviour; the idiom is about aiming at the wrong target, not about the tone of the discussion. -->
 - [ ] D) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+  <!-- feedback: Incorrect. The speaker is criticising the current approach, not proposing a new project; 'tree' is part of a fixed expression and has no literal meaning here. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+'To bark up the wrong tree' means to look for a cause or a solution in the wrong place. The words 'with this approach' show that the speaker is questioning the strategy itself, so only the figurative reading fits; the literal options ignore that an idiom is a fixed expression whose meaning is not the sum of its words.
 
 ---
 
@@ -448,23 +469,28 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.31
-**Contexto:** Discussing energy sources in Manizales.
+**Contexto:** A conversation between two engineering students in Manizales about a project.
 
 ### Enunciado
-In a high-level debate about energy sources, Sebastián says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Sebastián mean?
+Two engineering students in Manizales discuss their energy project.
+
+Carlos: 'Our solar dryer for coffee works in the lab. Should we test it on a real farm?'
+Isabel: 'Definitely. We won't know if it really works until we try it out in real conditions.'
+
+What does Isabel mean by 'try it out'?
 
 ### Opciones
-- [x] B) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of Barranquilla.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] C) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] D) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [ ] A) Throw the dryer away because it failed.
+  <!-- feedback: Incorrect. Carlos says it works in the lab, and Isabel wants to test it more, not get rid of it. -->
+- [x] B) Test the dryer to see how well it works.
+  <!-- feedback: Correct. 'Try something out' means to test it in practice; she wants to check its performance 'in real conditions' on a farm. -->
+- [ ] C) Take the dryer outside the lab only for a photo.
+  <!-- feedback: Incorrect. 'Out' here is part of the phrasal verb meaning to test; a photo would not show if the dryer 'really works'. -->
+- [ ] D) Sell the dryer to coffee farmers immediately.
+  <!-- feedback: Incorrect. She says they won't know if it really works yet, so selling it now would contradict her caution. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+'Try out' is a phrasal verb meaning to test something to find out if it works or is suitable. Isabel's sentence 'We won't know if it really works until...' gives the purpose of the test. Phrasal verbs are common in technical conversations and must be interpreted as units, not word by word.
 
 ---
 
@@ -473,23 +499,28 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.28
-**Contexto:** Discussing energy sources in Bogotá.
+**Contexto:** A debate in a Bogotá classroom about whether Colombia should stop exploring for new oil.
 
 ### Enunciado
-In a high-level debate about energy sources, Lucía says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Lucía mean?
+During a class debate in Bogotá about oil exploration, two students speak.
+
+Manuela: 'We should stop looking for new oil today. Climate change can't wait.'
+Sebastián: 'I see where you're coming from, but thousands of families depend on that income. We need a plan for them first.'
+
+What is Sebastián doing?
 
 ### Opciones
-- [x] D) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] A) They are literally looking for something in the trees of Manizales.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] B) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] C) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [ ] A) Asking Manuela where she lives.
+  <!-- feedback: Incorrect. 'Where you're coming from' refers to someone's reasons or point of view, not to a place. -->
+- [ ] B) Agreeing completely that oil exploration should stop today.
+  <!-- feedback: Incorrect. He adds 'We need a plan for them first', which means he does not want to stop immediately. -->
+- [ ] C) Saying that climate change is not a real problem.
+  <!-- feedback: Incorrect. He never denies climate change; his concern is the economic effect on families. -->
+- [x] D) Acknowledging Manuela's reasons before presenting a different view.
+  <!-- feedback: Correct. 'I see where you're coming from' shows that he understands her reasons, and 'but' introduces his objection about families who depend on oil income. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+'I see where you're coming from, but...' is a polite structure for disagreeing in a debate. It recognises the other person's perspective before introducing a counter-argument. Students should notice that the speaker's real position follows 'but', and that the phrase is about viewpoints, not geography.
 
 ---
 
@@ -498,22 +529,27 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 **Bloom:** Evaluate
 **ICFES:** Pragmatic Competence
 **Expected_Success:** 0.25
-**Contexto:** Discussing energy sources in Bucaramanga.
+**Contexto:** A conversation between two neighbours in Bucaramanga about their electricity bills.
 
 ### Enunciado
-In a high-level debate about energy sources, Nicolás says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Nicolás mean?
+Two neighbours in Bucaramanga talk about their electricity bills.
+
+Gloria: 'My bill went up again this month. I don't understand why.'
+Hernán: 'Have you checked the old fridge? Those old models eat up a lot of energy.'
+
+What does Hernán mean?
 
 ### Opciones
-- [x] A) The current strategy is directed towards the wrong objective.
-  <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] B) They are literally looking for something in the trees of Cali.
-  <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] C) The approach is too noisy and aggressive.
-  <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] D) A new environmental project involving trees should be started.
-  <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
+- [x] A) Old fridges consume a large amount of electricity.
+  <!-- feedback: Correct. 'Eat up' means to use a large quantity of something; he suggests the old fridge may explain the higher bill. -->
+- [ ] B) The old fridge has food that has gone bad.
+  <!-- feedback: Incorrect. This takes 'eat' literally; he is talking about energy consumption, not food. -->
+- [ ] C) Gloria should buy more food for her fridge.
+  <!-- feedback: Incorrect. Hernán does not give advice about food; he gives a possible reason for the high bill. -->
+- [ ] D) Old fridges use less energy than new ones.
+  <!-- feedback: Incorrect. This is the opposite of his point; he blames the old model for consuming a lot. -->
 
 ### Explicacion Pedagogica
-Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.
+'Eat up' is a phrasal verb that, with resources such as energy, time or money, means to consume a lot of them. Hernán's question about the fridge, in response to Gloria's higher bill, shows that he is suggesting a cause. Understanding figurative uses of common verbs is an important B1 reading skill.
 
 ---

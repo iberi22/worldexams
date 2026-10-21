@@ -13,12 +13,6 @@
       "context": "Discussing psychology & well-being in Cali.",
       "options": [
         {
-          "letter": "D",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
           "text": "alleviate",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "facilitate",
           "is_correct": false,
           "feedback": "Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide."
+        },
+        {
+          "letter": "D",
+          "text": "exacerbate",
+          "is_correct": true,
+          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
         }
       ],
       "correct_answer": "D",
@@ -105,16 +105,16 @@
       "context": "Discussing psychology & well-being in Pereira.",
       "options": [
         {
-          "letter": "B",
-          "text": "additive",
-          "is_correct": true,
-          "feedback": "'Additive' means adding to something already there, and the sentence contrasts an additive effect with one that is merely 'relative to' a baseline. Since the intervention did not add anything beyond the existing level, the writer is saying the effect was not additive."
-        },
-        {
           "letter": "A",
           "text": "cumulative",
           "is_correct": false,
           "feedback": "'Cumulative' means accumulating over time, which would suggest the effect grew with each exercise. The sentence rules that out by comparing the effect to a fixed baseline instead of to previous rounds."
+        },
+        {
+          "letter": "B",
+          "text": "additive",
+          "is_correct": true,
+          "feedback": "'Additive' means adding to something already there, and the sentence contrasts an additive effect with one that is merely 'relative to' a baseline. Since the intervention did not add anything beyond the existing level, the writer is saying the effect was not additive."
         },
         {
           "letter": "C",
@@ -151,12 +151,6 @@
       "context": "Discussing psychology & well-being in Bucaramanga.",
       "options": [
         {
-          "letter": "D",
-          "text": "impairs",
-          "is_correct": true,
-          "feedback": "'To impair' is to weaken or damage the normal functioning of something, and that is what happens to the brain's regulation system. The clause 'which is why small setbacks feel disproportionately large' shows the impairment at work."
-        },
-        {
           "letter": "A",
           "text": "soothes",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "illustrates",
           "is_correct": false,
           "feedback": "'To illustrate' is to explain something by giving examples, and it describes what a text does rather than what sleep does to a brain. The verb in the sentence has to name a reduction in function, which is what 'impairs' does."
+        },
+        {
+          "letter": "D",
+          "text": "impairs",
+          "is_correct": true,
+          "feedback": "'To impair' is to weaken or damage the normal functioning of something, and that is what happens to the brain's regulation system. The clause 'which is why small setbacks feel disproportionately large' shows the impairment at work."
         }
       ],
       "correct_answer": "D",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W17-psychology-wellbeing-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on psychology & well-being in Cartagena, what is implied about the role of Modal Verbs: Nuance in shaping public opinion?",
-      "context": "Discussing psychology & well-being in Cartagena.",
+      "statement": "Read the text and answer the question.\n\n\"In Bogotá, children and teenagers who feel sad, anxious or alone can call the number 106 for free. On the other end of the line there is a psychologist who listens without judging and, when necessary, connects the caller with health services. The line also answers messages through social media, because many teenagers prefer writing to speaking. According to the team, the most common topics are problems at home, bullying and stress before exams. 'Many young people call just to be heard,' says one of the psychologists. 'Sometimes being listened to is the first step to feeling better.'\"\n\nWhat is the main purpose of the 106 line?",
+      "context": "A free emotional support phone line for young people in Bogotá.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. Modal verbs used for nuance is the point here: modals grade certainty on a scale: \"must\" certain, \"should\" probable, \"might\" possible, \"could\" conceivable, so a finding can be read as a strong claim or a cautious one, which is how a study hedges responsibly. Reading that implication is what the question asks."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "To report students who bully their classmates to the police.",
           "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report builds on the idea that this gradation is what matters to the public, so calling it irrelevant contradicts the text."
+          "feedback": "Incorrect. Bullying is one of the topics young people talk about, but the text never says the line reports anyone to the police."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "To help students prepare for their final exams.",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the modal qualifies the claim and adds a degree of certainty to it, so the message gains depth rather than simplicity."
+          "feedback": "Incorrect. Exam stress is mentioned as a common topic, but the line offers emotional support, not academic preparation."
+        },
+        {
+          "letter": "C",
+          "text": "To offer young people a free space where professionals listen to them and help them.",
+          "is_correct": true,
+          "feedback": "Correct. The text describes a free line where psychologists listen \"without judging\" and connect callers with services when needed, and the final quotation says that being listened to is the first step to feeling better."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bogotá.",
+          "text": "To replace hospitals and health services in Bogotá.",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report presents this as normal usage in media and discourse, not as a marker reserved for one city's scholars."
+          "feedback": "Incorrect. The psychologists connect callers \"with health services\" when necessary, so the line works with them instead of replacing them."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "A question about the purpose of a service asks what it is for, not which topics it deals with. The description of the psychologists' role and the closing quotation about being heard show that the line exists to listen to and support young people.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-11-2026-W17-psychology-wellbeing-001-MASTERY-bundle-v6",
-      "statement": "According to a recent report on psychology & well-being in Bogotá, what is implied about the role of Modal Verbs: Nuance in shaping public opinion?",
-      "context": "Discussing psychology & well-being in Bogotá.",
+      "statement": "Read the text and answer the question.\n\n\"Before the Saber 11 exam, a school in Bucaramanga asked its eleventh-grade students to record how many hours they slept each night for one month. The results surprised the teachers: almost half of the students slept fewer than six hours, mainly because they studied late or used their phones in bed. The students who slept seven or more hours reported less anxiety and better concentration in class. After seeing the results, the school decided to stop giving homework on the days before mock exams and organised a workshop for parents about healthy sleep habits.\"\n\nWhat can be inferred from the text?",
+      "context": "A study on sleep and exam stress at a school in Bucaramanga.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "The school believes that sleeping enough can help students perform better.",
           "is_correct": true,
-          "feedback": "Correct. Modal verbs used for nuance is the point here: modals grade certainty on a scale: \"must\" certain, \"should\" probable, \"might\" possible, \"could\" conceivable, so a finding can be read as a strong claim or a cautious one, which is how a study hedges responsibly. Reading that implication is what the question asks."
+          "feedback": "Correct. After seeing that students who slept more had less anxiety and better concentration, the school reduced homework before mock exams and taught parents about sleep, which shows it sees sleep as important for performance."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Most students at the school slept more than eight hours a night.",
           "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report builds on the idea that this gradation is what matters to the public, so calling it irrelevant contradicts the text."
+          "feedback": "Incorrect. The text says almost half slept fewer than six hours, so this option contradicts the results."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "The teachers expected that students slept very little.",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the modal qualifies the claim and adds a degree of certainty to it, so the message gains depth rather than simplicity."
+          "feedback": "Incorrect. The text says that the results \"surprised the teachers\", which suggests they did not expect so little sleep."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bucaramanga.",
+          "text": "The school banned mobile phones from students' homes.",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report presents this as normal usage in media and discourse, not as a marker reserved for one city's scholars."
+          "feedback": "Incorrect. Phone use is mentioned as a cause of little sleep, but the school's actions were reducing homework and organising a workshop, not banning phones."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "An inference connects the results of the study with the decisions that followed. The school changed its homework policy and educated parents because it interpreted the data as showing that sleep affects anxiety and concentration.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -285,36 +285,36 @@
     },
     {
       "id": "CO-ING-11-2026-W17-psychology-wellbeing-001-MASTERY-bundle-v7",
-      "statement": "According to a recent report on psychology & well-being in Cali, what is implied about the role of Modal Verbs: Nuance in shaping public opinion?",
-      "context": "Discussing psychology & well-being in Cali.",
+      "statement": "Read the text and answer the question.\n\n\"Every Monday, Wednesday and Friday at six in the morning, a group of about forty older adults meets in a park in Manizales to walk together for an hour. The programme, organised by the city's health department, began after doctors noticed that many older people who lived alone were feeling isolated. A physical therapist leads the group and adapts the route for people with knee or heart problems. After the walk, participants usually have coffee together. 'I came for my blood pressure,' says Don Ernesto, who is seventy-eight, 'but I stay for the friends.'\"\n\nAccording to the text, why did the programme begin?",
+      "context": "A walking group for older adults in Manizales.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "Doctors saw that many older people living alone felt isolated.",
           "is_correct": true,
-          "feedback": "Correct. Modal verbs used for nuance is the point here: modals grade certainty on a scale: \"must\" certain, \"should\" probable, \"might\" possible, \"could\" conceivable, so a finding can be read as a strong claim or a cautious one, which is how a study hedges responsibly. Reading that implication is what the question asks."
+          "feedback": "Correct. The text says the programme \"began after doctors noticed that many older people who lived alone were feeling isolated\", which gives the reason directly."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Don Ernesto asked the city to organise it.",
           "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report builds on the idea that this gradation is what matters to the public, so calling it irrelevant contradicts the text."
+          "feedback": "Incorrect. Don Ernesto is a participant who explains why he stays; the text does not say he asked for the programme."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "The park was empty early in the morning.",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the modal qualifies the claim and adds a degree of certainty to it, so the message gains depth rather than simplicity."
+          "feedback": "Incorrect. The text gives the time of the walks but never presents the empty park as the reason for the programme."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bucaramanga.",
+          "text": "The physical therapist needed a new job.",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report presents this as normal usage in media and discourse, not as a marker reserved for one city's scholars."
+          "feedback": "Incorrect. The therapist leads the group and adapts the route, but the text does not mention why she or he joined, and it is not the origin of the programme."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Questions with \"why\" about a programme are answered by the sentence that describes its origin. Here \"began after doctors noticed...\" gives the reason, while Don Ernesto's quotation shows an extra social benefit that participants discovered later.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -335,16 +335,16 @@
       "context": "Discussing psychology & well-being in Cartagena.",
       "options": [
         {
-          "letter": "B",
-          "text": "A change in the modal verb that alters how firmly the evidence is being asserted.",
-          "is_correct": true,
-          "feedback": "'May help' and 'works' differ in certainty, not in the therapy itself. The report is drawing attention to the modal as the place where the strength of a claim is encoded, which is why the same study can be presented with different degrees of confidence."
-        },
-        {
           "letter": "A",
           "text": "A difference in the number of patients who were treated.",
           "is_correct": false,
           "feedback": "Nothing in the sentence mentions sample size or the number of participants. The two descriptions concern how the result is worded, and the verbs 'may' and the bare present are the only things that vary."
+        },
+        {
+          "letter": "B",
+          "text": "A change in the modal verb that alters how firmly the evidence is being asserted.",
+          "is_correct": true,
+          "feedback": "'May help' and 'works' differ in certainty, not in the therapy itself. The report is drawing attention to the modal as the place where the strength of a claim is encoded, which is why the same study can be presented with different degrees of confidence."
         },
         {
           "letter": "C",
@@ -377,36 +377,36 @@
     },
     {
       "id": "CO-ING-11-2026-W17-psychology-wellbeing-001-MASTERY-bundle-v9",
-      "statement": "According to a recent report on psychology & well-being in Bucaramanga, what is implied about the role of Modal Verbs: Nuance in shaping public opinion?",
-      "context": "Discussing psychology & well-being in Bucaramanga.",
+      "statement": "Read the text and answer the question.\n\n\"A survey of young doctors in Cali found that many of them feel overwhelmed during their first years of work. They often have shifts of more than twenty-four hours, see dozens of patients a day and have little time to eat or rest. Some said that they felt emotionally empty and had started to treat patients like numbers. Psychologists call this 'burnout'. The hospitals that took part in the survey agreed to limit the length of shifts and to offer free counselling sessions, because exhausted doctors are more likely to make mistakes.\"\n\nIn the text, the word \"overwhelmed\" is closest in meaning to...",
+      "context": "Burnout among young doctors in Cali.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. Modal verbs used for nuance is the point here: modals grade certainty on a scale: \"must\" certain, \"should\" probable, \"might\" possible, \"could\" conceivable, so a finding can be read as a strong claim or a cautious one, which is how a study hedges responsibly. Reading that implication is what the question asks."
+          "letter": "A",
+          "text": "very happy and excited about their work.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text describes exhaustion and emotional emptiness, so a positive meaning does not fit the context."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "This calls the device irrelevant, but the report builds on the idea that this gradation is what matters to the public, so calling it irrelevant contradicts the text."
+          "letter": "B",
+          "text": "unable to cope because there is too much to deal with.",
+          "is_correct": true,
+          "feedback": "Correct. The next sentence explains why the doctors feel this way: very long shifts, dozens of patients and no time to rest, which describes having more work and pressure than a person can handle."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "bored because they have nothing to do.",
           "is_correct": false,
-          "feedback": "This claims the device makes the claim plainer, whereas the modal qualifies the claim and adds a degree of certainty to it, so the message gains depth rather than simplicity."
+          "feedback": "Incorrect. The doctors have too much to do, not too little: long shifts and dozens of patients a day."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Medellín.",
+          "text": "well paid for their extra hours.",
           "is_correct": false,
-          "feedback": "This restricts the device to specialists in a single city, but the report presents this as normal usage in media and discourse, not as a marker reserved for one city's scholars."
+          "feedback": "Incorrect. The text does not mention payment; \"overwhelmed\" describes an emotional state caused by excessive work."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "When a word is unfamiliar, the sentences around it often give examples that define it. The list of long shifts, many patients and lack of rest shows that \"overwhelmed\" means having more pressure than one can handle, which leads to the burnout the text describes.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -427,12 +427,6 @@
       "context": "Discussing psychology & well-being in Cali.",
       "options": [
         {
-          "letter": "C",
-          "text": "The arrangement is permitted rather than guaranteed, and the commitment to support it is weaker than the wording first appears.",
-          "is_correct": true,
-          "feedback": "'Might' and 'should in theory' both soften the promise. The permission is optional and the expectation is qualified by 'in theory', so a reader should not treat the arrangement as an entitlement. The item asks students to hear the hedging rather than the permission."
-        },
-        {
           "letter": "A",
           "text": "The policy is compulsory for every employee without exception.",
           "is_correct": false,
@@ -443,6 +437,12 @@
           "text": "Management has already decided to close the offices on Fridays.",
           "is_correct": false,
           "feedback": "Nothing in the sentence states a decision to close anything. The clause says management should keep the offices open, which is the reverse of closure, and the modality leaves the matter undecided."
+        },
+        {
+          "letter": "C",
+          "text": "The arrangement is permitted rather than guaranteed, and the commitment to support it is weaker than the wording first appears.",
+          "is_correct": true,
+          "feedback": "'Might' and 'should in theory' both soften the promise. The permission is optional and the expectation is qualified by 'in theory', so a reader should not treat the arrangement as an entitlement. The item asks students to hear the hedging rather than the permission."
         },
         {
           "letter": "D",
@@ -519,12 +519,6 @@
       "context": "Discussing psychology & well-being in Manizales.",
       "options": [
         {
-          "letter": "D",
-          "text": "did",
-          "is_correct": true,
-          "feedback": "'Not before' is a negative fronted expression that inverts the main clause, and 'did' is the auxiliary that carries the past: 'not before the third session did most clients say'. The main verb returns to its base form 'say'."
-        },
-        {
           "letter": "A",
           "text": "had",
           "is_correct": false,
@@ -541,6 +535,12 @@
           "text": "have",
           "is_correct": false,
           "feedback": "'Have' would connect the speaking to the present, but the therapist's expectation was formed during the same course of sessions. The tense of the report is the past simple, which is what the inverted 'did' carries."
+        },
+        {
+          "letter": "D",
+          "text": "did",
+          "is_correct": true,
+          "feedback": "'Not before' is a negative fronted expression that inverts the main clause, and 'did' is the auxiliary that carries the past: 'not before the third session did most clients say'. The main verb returns to its base form 'say'."
         }
       ],
       "correct_answer": "D",
@@ -565,12 +565,6 @@
       "context": "Discussing psychology & well-being in Bogotá.",
       "options": [
         {
-          "letter": "D",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "'Scarcely' is a negative adverbial that inverts the clause, and the past perfect is what it takes: 'scarcely had the clinic started publishing'. The 'when' clause then returns to normal order and uses the past simple, which is the fixed shape of the pattern."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -587,6 +581,12 @@
           "text": "did",
           "is_correct": false,
           "feedback": "'Did' gives a past simple and would describe the clinic as beginning at one moment rather than reaching the completed point that a perfect marks. In 'scarcely...when', the first half is always a perfect."
+        },
+        {
+          "letter": "D",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "'Scarcely' is a negative adverbial that inverts the clause, and the past perfect is what it takes: 'scarcely had the clinic started publishing'. The 'when' clause then returns to normal order and uses the past simple, which is the fixed shape of the pattern."
         }
       ],
       "correct_answer": "D",
@@ -611,12 +611,6 @@
       "context": "Discussing psychology & well-being in Pereira.",
       "options": [
         {
-          "letter": "C",
-          "text": "does",
-          "is_correct": true,
-          "feedback": "'Seldom' inverts the clause, and 'does' carries the present with the singular subject 'a waiting list': 'seldom does a waiting list get shorter'. The main verb 'get' stays in its base form, as it must after 'does'."
-        },
-        {
           "letter": "A",
           "text": "do",
           "is_correct": false,
@@ -627,6 +621,12 @@
           "text": "did",
           "is_correct": false,
           "feedback": "'Did' would place the claim in the past, but the sentence makes a general observation that also applies to the present, and the contrast is with a list that grew for eleven years. The tense needed is the simple present."
+        },
+        {
+          "letter": "C",
+          "text": "does",
+          "is_correct": true,
+          "feedback": "'Seldom' inverts the clause, and 'does' carries the present with the singular subject 'a waiting list': 'seldom does a waiting list get shorter'. The main verb 'get' stays in its base form, as it must after 'does'."
         },
         {
           "letter": "D",
@@ -657,12 +657,6 @@
       "context": "Discussing psychology & well-being in Barranquilla.",
       "options": [
         {
-          "letter": "D",
-          "text": "did",
-          "is_correct": true,
-          "feedback": "'Only when' fronted inverts the main clause, and 'did' carries the past tense: 'only when the sleep study was published did the clinic understand'. The main verb returns to its base form 'understand' because the auxiliary holds the tense."
-        },
-        {
           "letter": "A",
           "text": "had",
           "is_correct": false,
@@ -679,6 +673,12 @@
           "text": "could",
           "is_correct": false,
           "feedback": "'Could' would add a sense of ability or possibility, but the sentence asserts that the clinic did come to understand the reason. The contrast is about timing, not about capability."
+        },
+        {
+          "letter": "D",
+          "text": "did",
+          "is_correct": true,
+          "feedback": "'Only when' fronted inverts the main clause, and 'did' carries the past tense: 'only when the sleep study was published did the clinic understand'. The main verb returns to its base form 'understand' because the auxiliary holds the tense."
         }
       ],
       "correct_answer": "D",
@@ -703,12 +703,6 @@
       "context": "Discussing psychology & well-being in Pereira.",
       "options": [
         {
-          "letter": "C",
-          "text": "does",
-          "is_correct": true,
-          "feedback": "'Rarely' fronted inverts the clause, and 'does' carries the present with the singular subject 'a single week': 'rarely does a single week pass'. The following 'in which' clause modifies the week, not the auxiliary."
-        },
-        {
           "letter": "A",
           "text": "do",
           "is_correct": false,
@@ -719,6 +713,12 @@
           "text": "did",
           "is_correct": false,
           "feedback": "'Did' would put the clause in the past simple, but the sentence reports a pattern that holds generally and is confirmed by audits. A general present pattern takes the simple present under inversion."
+        },
+        {
+          "letter": "C",
+          "text": "does",
+          "is_correct": true,
+          "feedback": "'Rarely' fronted inverts the clause, and 'does' carries the present with the singular subject 'a single week': 'rarely does a single week pass'. The following 'in which' clause modifies the week, not the auxiliary."
         },
         {
           "letter": "D",
@@ -745,36 +745,36 @@
     },
     {
       "id": "CO-ING-11-2026-W17-psychology-wellbeing-001-MASTERY-bundle-v17",
-      "statement": "In a high-level debate about psychology & well-being, Mateo says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mateo mean?",
-      "context": "Discussing psychology & well-being in Pereira.",
+      "statement": "During a debate about student stress, Daniela says: 'I can't help but feel that we are barking up the wrong tree. Giving students more breaks won't help if they still believe one exam decides their whole future.' What does Daniela mean?",
+      "context": "A student debate in Bogotá about stress before exams.",
       "options": [
         {
           "letter": "A",
-          "text": "The current strategy is directed towards the wrong objective.",
+          "text": "The group is focusing on the wrong cause of the problem.",
           "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "feedback": "Correct. \"Barking up the wrong tree\" means looking for an answer in the wrong place; Daniela says the real cause of stress is the belief about the exam, not the lack of breaks."
         },
         {
           "letter": "B",
-          "text": "They are literally looking for something in the trees of Cartagena.",
+          "text": "They are literally looking for something in the trees of the school.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads the idiom literally; the debate is about stress, and no trees are involved."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The debate has become too noisy and aggressive.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. \"Barking\" here does not refer to noise; the idiom is about choosing the wrong target, as her second sentence shows."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Students should relax by spending more time near trees.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. This takes the image of the tree as a proposal; Daniela talks about students' beliefs, not about nature."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "Idioms are understood through their figurative meaning and the context. Daniela's second sentence names a different cause, which confirms that the idiom \"bark up the wrong tree\" means the group was blaming the wrong thing.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-ING-11-2026-W17-psychology-wellbeing-001-MASTERY-bundle-v18",
-      "statement": "In a high-level debate about psychology & well-being, Santiago says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Santiago mean?",
-      "context": "Discussing psychology & well-being in Pereira.",
+      "statement": "Read the conversation.\n\nPaula: Since his grandmother died, Sebastián says he's fine, but he doesn't talk to anybody.\nNicolás: I'm worried. If he keeps bottling up his feelings, it's going to be worse later. Maybe we should invite him to talk.\n\nWhat does Nicolás mean by \"bottling up his feelings\"?",
+      "context": "Two friends in Cartagena talk about dealing with sadness.",
       "options": [
         {
           "letter": "A",
-          "text": "The current strategy is directed towards the wrong objective.",
+          "text": "Keeping his emotions inside instead of expressing them.",
           "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "feedback": "Correct. To \"bottle up\" feelings is to hide them and not express them; Paula says Sebastián \"doesn't talk to anybody\", and Nicolás suggests inviting him to talk."
         },
         {
           "letter": "B",
-          "text": "They are literally looking for something in the trees of Bogotá.",
+          "text": "Collecting bottles to remember his grandmother.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This is a literal reading of \"bottle\"; the conversation is about emotions, not objects."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Crying in front of all his friends.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. Crying in front of others is a way of expressing feelings, the opposite of bottling them up."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Drinking too much to forget his problems.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. Nothing in the conversation mentions drinking; the phrasal verb refers to hiding emotions."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "\"Bottle up\" is a phrasal verb that compares emotions to a liquid closed inside a bottle. Nicolás's worry and his suggestion to invite Sebastián to talk show that he sees hiding feelings as harmful for mental health.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -837,36 +837,36 @@
     },
     {
       "id": "CO-ING-11-2026-W17-psychology-wellbeing-001-MASTERY-bundle-v19",
-      "statement": "In a high-level debate about psychology & well-being, Isabella says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Isabella mean?",
-      "context": "Discussing psychology & well-being in Barranquilla.",
+      "statement": "Read the conversation.\n\nSecretary: Good morning, Colegio San Juan.\nMónica: Good morning. I'm calling because my son Tomás won't come to class today. He's feeling a bit under the weather, so he's staying home to rest.\n\nWhat does Mónica say about Tomás?",
+      "context": "A student in Pasto calls the school to explain an absence.",
       "options": [
         {
-          "letter": "C",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Pereira.",
+          "text": "He cannot come because it is raining heavily.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. \"Weather\" in this idiom does not refer to the actual weather; Mónica is describing her son's health."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "He is very happy and full of energy.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. A person who needs to stay home to rest is not full of energy; the idiom describes feeling unwell."
+        },
+        {
+          "letter": "C",
+          "text": "He is slightly ill.",
+          "is_correct": true,
+          "feedback": "Correct. \"Under the weather\" means feeling a little sick; Mónica adds that he is staying home to rest, which is what people do when they feel unwell."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "He has a meeting with a weather scientist.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. This misreads the idiom literally; the reason for his absence is that he feels sick."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "\"Under the weather\" is a polite, informal way to say someone is mildly ill. In a phone call to a school it softens the message, and the phrase \"staying home to rest\" confirms the meaning.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

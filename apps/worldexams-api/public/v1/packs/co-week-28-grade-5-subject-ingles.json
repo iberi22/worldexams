@@ -336,9 +336,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "Ana, because quarter to seven means 6:45, before 7:00.",
-          "is_correct": true,
-          "feedback": "This is correct because 6:45 is early and 7:30 is late."
+          "text": "Both, because 6:45 and 7:30 are the same as 7:00.",
+          "is_correct": false,
+          "feedback": "Only 7:00 is on time, the others are early or late."
         },
         {
           "letter": "B",
@@ -348,9 +348,9 @@
         },
         {
           "letter": "C",
-          "text": "Both, because 6:45 and 7:30 are the same as 7:00.",
-          "is_correct": false,
-          "feedback": "Only 7:00 is on time, the others are early or late."
+          "text": "Ana, because quarter to seven means 6:45, before 7:00.",
+          "is_correct": true,
+          "feedback": "This is correct because 6:45 is early and 7:30 is late."
         },
         {
           "letter": "D",
@@ -359,7 +359,7 @@
           "feedback": "School starts at 7:00 in the morning, not at night."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluar puntualidad exige convertir expresiones de tiempo a números. Asimismo, distinguir early, on time y late es clave para la rutina diaria.",
       "difficulty": "10",
       "images": [],

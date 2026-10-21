@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle-v1",
-      "statement": "En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 4x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?",
-      "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
+      "statement": "¿Cuál de las siguientes expresiones define la derivada $f'(a)$, es decir, la velocidad instantánea del bus en $t=a$?",
+      "context": "Un bus de TransMilenio en Bogotá registra su posición $f(t)$ y el equipo técnico quiere su velocidad exacta en el instante $t=a$.",
       "options": [
         {
-          "letter": "C",
-          "text": "$x = 2$",
-          "is_correct": true,
-          "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
-        },
-        {
           "letter": "A",
-          "text": "$x = 9$",
-          "is_correct": false,
-          "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
+          "text": "$\\lim_{h \\to 0} \\frac{f(a+h)-f(a)}{h}$",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada es el límite del cociente de diferencias cuando el intervalo $h$ tiende a cero; ese límite corresponde a la velocidad instantánea."
         },
         {
           "letter": "B",
-          "text": "$x = -2$",
+          "text": "$\\frac{f(a+h)-f(a)}{h}$",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el nivel de producción."
+          "feedback": "Incorrecto. Sin el límite este cociente es solo la velocidad media en el intervalo $[a, a+h]$, no la velocidad en el instante $a$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\lim_{h \\to 0} \\frac{f(a+h)+f(a)}{h}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El numerador debe ser una diferencia de posiciones; al sumar $f(a+h)+f(a)$ no se mide ningún cambio y el límite en general no existe."
         },
         {
           "letter": "D",
-          "text": "$x = 102$",
+          "text": "$\\lim_{h \\to 0} \\frac{f(h)-f(a)}{h}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
+          "feedback": "Incorrecto. Se confundió $f(a+h)$ con $f(h)$: así se compara la posición en $t=h$ con la de $t=a$, que no es un cambio pequeño alrededor de $a$."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La derivada del beneficio es $B'(x) = -2x + 4$. Igualando a cero para encontrar el máximo: $-2x + 4 = 0 \\implies 2x = 4 \\implies x = 2$. Como $B''(x) = -2 < 0$, es un máximo.",
+      "correct_answer": "A",
+      "explanation": "La velocidad media entre $a$ y $a+h$ es $\\frac{f(a+h)-f(a)}{h}$. Al hacer $h \\to 0$ el intervalo se reduce al instante $a$, y el límite $f'(a)=\\lim_{h \\to 0} \\frac{f(a+h)-f(a)}{h}$ es la velocidad instantánea. Sin el límite solo se obtiene una velocidad media.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Algebraico",
+      "icfes_type": "Variacional",
       "expected_success": 0.85,
       "bundle_id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle",
       "periodo": 20,
@@ -55,42 +55,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle-v2",
-      "statement": "En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 6x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?",
-      "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
+      "statement": "Se sabe que $T'(3) = -2$. ¿Cuál es la interpretación correcta de este dato?",
+      "context": "En Tunja una estación meteorológica modela la temperatura $T(t)$ en °C, con $t$ en horas después de las 6:00 p. m.",
       "options": [
         {
-          "letter": "B",
-          "text": "$x = 3$",
-          "is_correct": true,
-          "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
+          "letter": "A",
+          "text": "A las 9:00 p. m. la temperatura es de $-2$ °C.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confundió el valor de la derivada con el valor de la función: $T'(3)$ es una razón de cambio en °C por hora, no la temperatura $T(3)$."
         },
         {
-          "letter": "A",
-          "text": "$x = 11$",
+          "letter": "B",
+          "text": "Durante las primeras 3 horas la temperatura bajó en total 2 °C.",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
+          "feedback": "Incorrecto. Eso describe un cambio acumulado $T(3)-T(0)$; la derivada en $t=3$ es una tasa instantánea en ese momento, no un cambio total."
         },
         {
           "letter": "C",
-          "text": "$x = -3$",
+          "text": "Después de las 9:00 p. m. la temperatura siempre va a disminuir.",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el nivel de producción."
+          "feedback": "Incorrecto. Una derivada en un solo punto no dice nada sobre el comportamiento en todo el intervalo $t>3$; la tasa podría cambiar de signo después."
         },
         {
           "letter": "D",
-          "text": "$x = 103$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
+          "text": "A las 9:00 p. m. la temperatura está bajando a razón de aproximadamente 2 °C por hora.",
+          "is_correct": true,
+          "feedback": "Correcto. $T'(3)=-2$ significa que en $t=3$ (9:00 p. m.) la tasa instantánea es $-2$ °C/h: la temperatura disminuye cerca de 2 grados por hora en ese instante."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La derivada del beneficio es $B'(x) = -2x + 6$. Igualando a cero para encontrar el máximo: $-2x + 6 = 0 \\implies 2x = 6 \\implies x = 3$. Como $B''(x) = -2 < 0$, es un máximo.",
+      "correct_answer": "D",
+      "explanation": "La derivada $T'(3)$ tiene unidades de °C por hora y mide la rapidez del cambio en el instante $t=3$, es decir, a las 9:00 p. m. El signo negativo indica que la temperatura está disminuyendo y el valor 2 indica que lo hace a unos 2 °C por hora en ese momento. No informa la temperatura misma ni el cambio total.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Razonamiento",
-      "expected_success": 0.85,
+      "icfes_type": "Variacional",
+      "expected_success": 0.84,
       "bundle_id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle-v3",
-      "statement": "En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 8x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?",
-      "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
+      "statement": "¿Cuál es la función de costo marginal $C'(x)$?",
+      "context": "Una fábrica de bocadillos en Vélez (Santander) modela su costo en miles de COP como $C(x)=4x^3-5x+7$, con $x$ en cientos de cajas.",
       "options": [
         {
-          "letter": "D",
-          "text": "$x = 4$",
-          "is_correct": true,
-          "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
-        },
-        {
           "letter": "A",
-          "text": "$x = 13$",
+          "text": "$12x^2-5x$",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
+          "feedback": "Incorrecto. Al derivar $-5x$ se obtiene $-5$, no $-5x$: se olvidó reducir el exponente de $x^1$ a $x^0$."
         },
         {
           "letter": "B",
-          "text": "$x = -4$",
+          "text": "$4x^2-5$",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el nivel de producción."
+          "feedback": "Incorrecto. Se bajó el exponente pero no se multiplicó por él: la regla de la potencia da $\\frac{d}{dx}4x^3 = 4 \\cdot 3x^2 = 12x^2$."
         },
         {
           "letter": "C",
-          "text": "$x = 104$",
+          "text": "$12x^3-5$",
           "is_correct": false,
-          "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
+          "feedback": "Incorrecto. Se multiplicó por el exponente pero no se redujo: $\\frac{d}{dx}x^3 = 3x^2$, así que el término es $12x^2$, no $12x^3$."
+        },
+        {
+          "letter": "D",
+          "text": "$12x^2-5$",
+          "is_correct": true,
+          "feedback": "Correcto. Por la regla de la potencia $4x^3 \\to 12x^2$, $-5x \\to -5$ y la constante $7 \\to 0$, luego $C'(x)=12x^2-5$."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La derivada del beneficio es $B'(x) = -2x + 8$. Igualando a cero para encontrar el máximo: $-2x + 8 = 0 \\implies 2x = 8 \\implies x = 4$. Como $B''(x) = -2 < 0$, es un máximo.",
+      "explanation": "Se deriva término a término con la regla de la potencia $\\frac{d}{dx}x^n = nx^{n-1}$: $\\frac{d}{dx}(4x^3)=12x^2$, $\\frac{d}{dx}(-5x)=-5$ y la derivada de la constante 7 es 0. Por tanto $C'(x)=12x^2-5$, que mide el costo adicional aproximado por cada cien cajas más.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.85,
+      "icfes_type": "Algebraico",
+      "expected_success": 0.82,
       "bundle_id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle-v4",
-      "statement": "En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 10x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?",
-      "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
+      "statement": "¿Cuál es la derivada $g'(x)$?",
+      "context": "En una planta de concreto de Barranquilla el volumen de una mezcla se modela con $g(x)=(2x+1)^3$, donde $x$ es la cantidad de agua en litros.",
       "options": [
         {
-          "letter": "B",
-          "text": "$x = 5$",
-          "is_correct": true,
-          "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
+          "letter": "A",
+          "text": "$3(2x+1)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó la regla de la potencia sin la regla de la cadena: falta multiplicar por la derivada interna $\\frac{d}{dx}(2x+1)=2$."
         },
         {
-          "letter": "A",
-          "text": "$x = 15$",
+          "letter": "B",
+          "text": "$6(2x+1)^3$",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
+          "feedback": "Incorrecto. Se multiplicó por 3 y por 2 pero no se redujo el exponente: el resultado debe tener $(2x+1)^2$, no $(2x+1)^3$."
         },
         {
           "letter": "C",
-          "text": "$x = -5$",
-          "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el nivel de producción."
+          "text": "$6(2x+1)^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Por la regla de la cadena $g'(x)=3(2x+1)^2 \\cdot 2 = 6(2x+1)^2$."
         },
         {
           "letter": "D",
-          "text": "$x = 105$",
+          "text": "$3(2x+1)^2 \\cdot 2x$",
           "is_correct": false,
-          "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
+          "feedback": "Incorrecto. La derivada interna de $2x+1$ es $2$, no $2x$; se confundió la función interna con su derivada."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La derivada del beneficio es $B'(x) = -2x + 10$. Igualando a cero para encontrar el máximo: $-2x + 10 = 0 \\implies 2x = 10 \\implies x = 5$. Como $B''(x) = -2 < 0$, es un máximo.",
+      "correct_answer": "C",
+      "explanation": "La función es una composición: exterior $u^3$ e interior $u=2x+1$. Por la regla de la cadena $g'(x)=3u^2 \\cdot u' = 3(2x+1)^2 \\cdot 2 = 6(2x+1)^2$. Olvidar el factor 2 de la derivada interna es el error más común.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.85,
+      "icfes_type": "Algebraico",
+      "expected_success": 0.8,
       "bundle_id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle-v5",
-      "statement": "En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 12x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?",
-      "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
+      "statement": "¿Cuál es la ecuación de la recta tangente a $y=x^2-3x+1$ en el punto de abscisa $x=2$?",
+      "context": "Un ingeniero de Manizales diseña el perfil de una rampa con la curva $y=x^2-3x+1$ (metros) y necesita la recta que la toca en $x=2$.",
       "options": [
         {
-          "letter": "B",
-          "text": "$x = 6$",
+          "letter": "A",
+          "text": "$y=x-3$",
           "is_correct": true,
-          "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
+          "feedback": "Correcto. Con $y(2)=-1$ y pendiente $y'(2)=2(2)-3=1$, la recta es $y+1=1(x-2)$, es decir, $y=x-3$."
         },
         {
-          "letter": "A",
-          "text": "$x = 17$",
+          "letter": "B",
+          "text": "$y=x-1$",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
+          "feedback": "Incorrecto. La pendiente 1 es correcta, pero se usó $y(2)=1$ en lugar de $y(2)=4-6+1=-1$: el punto de tangencia está mal calculado."
         },
         {
           "letter": "C",
-          "text": "$x = -6$",
+          "text": "$y=-x+1$",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el nivel de producción."
+          "feedback": "Incorrecto. La pendiente $-1$ sale de derivar con el signo cambiado ($3-2x$); la derivada correcta es $2x-3$, que en $x=2$ vale $1$."
         },
         {
           "letter": "D",
-          "text": "$x = 106$",
+          "text": "$y=4x-9$",
           "is_correct": false,
-          "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
+          "feedback": "Incorrecto. Se tomó la pendiente $2x=4$ olvidando el término $-3$ de la derivada; la pendiente real es $2(2)-3=1$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La derivada del beneficio es $B'(x) = -2x + 12$. Igualando a cero para encontrar el máximo: $-2x + 12 = 0 \\implies 2x = 12 \\implies x = 6$. Como $B''(x) = -2 < 0$, es un máximo.",
+      "correct_answer": "A",
+      "explanation": "Punto: $y(2)=2^2-3(2)+1=-1$. Pendiente: $y'=2x-3$, luego $y'(2)=1$. Forma punto-pendiente: $y-(-1)=1(x-2)$, de donde $y=x-3$. Se comprueba que pasa por $(2,-1)$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Algebraico",
-      "expected_success": 0.75,
+      "icfes_type": "Geometrico",
+      "expected_success": 0.76,
       "bundle_id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle-v6",
-      "statement": "En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 14x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?",
-      "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
+      "statement": "¿Cuál es la tasa de crecimiento instantánea $h'(1)$?",
+      "context": "En un laboratorio de la Universidad de Antioquia la biomasa de un cultivo se modela con $h(t)=t^2e^t$ (gramos, $t$ en días).",
       "options": [
         {
-          "letter": "C",
-          "text": "$x = 7$",
-          "is_correct": true,
-          "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
-        },
-        {
           "letter": "A",
-          "text": "$x = 19$",
+          "text": "$2e$",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
+          "feedback": "Incorrecto. Se multiplicaron las derivadas de cada factor, $2t \\cdot e^t$; la regla del producto es $(uv)'=u'v+uv'$, no $u'v'$."
         },
         {
           "letter": "B",
-          "text": "$x = -7$",
+          "text": "$3e$",
+          "is_correct": true,
+          "feedback": "Correcto. $h'(t)=2te^t+t^2e^t=e^t(t^2+2t)$, y en $t=1$ da $e(1+2)=3e$."
+        },
+        {
+          "letter": "C",
+          "text": "$e$",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el nivel de producción."
+          "feedback": "Incorrecto. Ese es el valor de la biomasa $h(1)=1^2e^1$, no de su derivada: se evaluó la función en lugar de la tasa."
         },
         {
           "letter": "D",
-          "text": "$x = 107$",
+          "text": "$e+2$",
           "is_correct": false,
-          "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
+          "feedback": "Incorrecto. Se derivó cada factor y se sumaron ($2t+e^t$), lo cual no corresponde a la regla del producto $u'v+uv'$."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La derivada del beneficio es $B'(x) = -2x + 14$. Igualando a cero para encontrar el máximo: $-2x + 14 = 0 \\implies 2x = 14 \\implies x = 7$. Como $B''(x) = -2 < 0$, es un máximo.",
+      "correct_answer": "B",
+      "explanation": "Con $u=t^2$ y $v=e^t$: $h'(t)=u'v+uv'=2te^t+t^2e^t=e^t(t^2+2t)$. Evaluando en $t=1$: $h'(1)=e(1+2)=3e \\approx 8{,}15$ gramos por día.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Razonamiento",
-      "expected_success": 0.75,
+      "icfes_type": "Variacional",
+      "expected_success": 0.74,
       "bundle_id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle-v7",
-      "statement": "En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 16x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?",
-      "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
+      "statement": "¿En qué valores de $x$ la función $f$ tiene puntos críticos?",
+      "context": "La altura (en metros) de un dron que inspecciona un puente en Honda se modela con $f(x)=x^3-12x+5$.",
       "options": [
         {
           "letter": "A",
-          "text": "$x = 8$",
-          "is_correct": true,
-          "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
+          "text": "Solo en $x=0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x=0$ la derivada vale $f'(0)=-12 \\neq 0$; se confundió el punto crítico con el lugar donde se anula $x$."
         },
         {
           "letter": "B",
-          "text": "$x = 21$",
+          "text": "Solo en $x=4$",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
+          "feedback": "Incorrecto. Se resolvió $3x^2=12$ como $x=4$ sin sacar raíz: $x^2=4$ implica $x=\\pm 2$."
         },
         {
           "letter": "C",
-          "text": "$x = -8$",
-          "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el nivel de producción."
+          "text": "En $x=-2$ y $x=2$",
+          "is_correct": true,
+          "feedback": "Correcto. $f'(x)=3x^2-12=0$ equivale a $x^2=4$, luego $x=-2$ o $x=2$."
         },
         {
           "letter": "D",
-          "text": "$x = 108$",
+          "text": "Solo en $x=2$",
           "is_correct": false,
-          "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
+          "feedback": "Incorrecto. Se ignoró la raíz negativa: $x^2=4$ tiene dos soluciones, $2$ y $-2$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La derivada del beneficio es $B'(x) = -2x + 16$. Igualando a cero para encontrar el máximo: $-2x + 16 = 0 \\implies 2x = 16 \\implies x = 8$. Como $B''(x) = -2 < 0$, es un máximo.",
+      "correct_answer": "C",
+      "explanation": "Los puntos críticos son donde $f'(x)=0$ (o no existe). $f'(x)=3x^2-12=3(x^2-4)=3(x-2)(x+2)$, que se anula en $x=-2$ y $x=2$. Como $f'$ es un polinomio, no hay puntos donde no exista.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.75,
+      "icfes_type": "Algebraico",
+      "expected_success": 0.72,
       "bundle_id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle-v8",
-      "statement": "En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 18x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?",
-      "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
+      "statement": "¿Cuál es la derivada $q'(x)$?",
+      "context": "Una cooperativa cafetera de Pitalito estudia la fracción de café exportado $q(x)=\\frac{x}{x+1}$, con $x$ en miles de sacos.",
       "options": [
         {
           "letter": "A",
-          "text": "$x = 9$",
+          "text": "$\\frac{1}{(x+1)^2}$",
           "is_correct": true,
-          "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
+          "feedback": "Correcto. Por la regla del cociente $q'=\\frac{1\\cdot(x+1)-x\\cdot 1}{(x+1)^2}=\\frac{1}{(x+1)^2}$."
         },
         {
           "letter": "B",
-          "text": "$x = 23$",
+          "text": "$\\frac{-1}{(x+1)^2}$",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
+          "feedback": "Incorrecto. Se invirtió el orden del numerador ($x\\cdot1-1\\cdot(x+1)$); la regla es $\\frac{u'v-uv'}{v^2}$, y el signo resultante es positivo."
         },
         {
           "letter": "C",
-          "text": "$x = -9$",
+          "text": "$1$",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el nivel de producción."
+          "feedback": "Incorrecto. Se dividieron las derivadas $\\frac{1}{1}$; la derivada de un cociente no es el cociente de las derivadas."
         },
         {
           "letter": "D",
-          "text": "$x = 109$",
+          "text": "$\\frac{2x+1}{(x+1)^2}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
+          "feedback": "Incorrecto. Se sumaron los términos del numerador ($u'v+uv'$) en lugar de restarlos, como exige la regla del cociente."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La derivada del beneficio es $B'(x) = -2x + 18$. Igualando a cero para encontrar el máximo: $-2x + 18 = 0 \\implies 2x = 18 \\implies x = 9$. Como $B''(x) = -2 < 0$, es un máximo.",
+      "explanation": "Con $u=x$, $v=x+1$, $u'=1$, $v'=1$: $q'(x)=\\frac{u'v-uv'}{v^2}=\\frac{(x+1)-x}{(x+1)^2}=\\frac{1}{(x+1)^2}$. Es siempre positiva, así que la fracción exportada crece con $x$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.75,
+      "icfes_type": "Algebraico",
+      "expected_success": 0.7,
       "bundle_id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -377,42 +377,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle-v9",
-      "statement": "En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 20x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?",
-      "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
+      "statement": "Según el criterio de la primera derivada, ¿qué se concluye sobre $x=1$ y $x=4$?",
+      "context": "Un analista de la Bolsa de Valores de Colombia estudia el precio de una acción $f$ y solo conoce su derivada $f'(x)=(x-1)(x-4)^2$.",
       "options": [
         {
-          "letter": "B",
-          "text": "$x = 10$",
-          "is_correct": true,
-          "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
+          "letter": "A",
+          "text": "Hay un máximo local en $x=1$ y un mínimo local en $x=4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x=1$ la derivada pasa de negativa a positiva, lo que indica mínimo y no máximo; además en $x=4$ no hay cambio de signo."
         },
         {
-          "letter": "A",
-          "text": "$x = 25$",
+          "letter": "B",
+          "text": "Hay mínimos locales en $x=1$ y en $x=4$.",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
+          "feedback": "Incorrecto. En $x=4$ el factor $(x-4)^2$ es no negativo, así que $f'$ es positiva a ambos lados y no hay extremo allí."
         },
         {
           "letter": "C",
-          "text": "$x = -10$",
+          "text": "Hay un mínimo local en $x=1$ y un máximo local en $x=4$.",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el nivel de producción."
+          "feedback": "Incorrecto. Un máximo exige que $f'$ pase de positiva a negativa; cerca de $x=4$ la derivada es positiva antes y después."
         },
         {
           "letter": "D",
-          "text": "$x = 110$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
+          "text": "Hay un mínimo local en $x=1$; en $x=4$ no hay extremo.",
+          "is_correct": true,
+          "feedback": "Correcto. $f'$ pasa de negativa a positiva en $x=1$ (mínimo) y conserva el signo positivo alrededor de $x=4$ porque $(x-4)^2 \\ge 0$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La derivada del beneficio es $B'(x) = -2x + 20$. Igualando a cero para encontrar el máximo: $-2x + 20 = 0 \\implies 2x = 20 \\implies x = 10$. Como $B''(x) = -2 < 0$, es un máximo.",
+      "correct_answer": "D",
+      "explanation": "Signos de $f'$: para $x<1$, $(x-1)<0$ y $(x-4)^2>0$, luego $f'<0$; entre 1 y 4, $f'>0$; para $x>4$, $f'>0$. En $x=1$ cambia de $-$ a $+$: mínimo local. En $x=4$ no cambia de signo (raíz doble): no hay extremo, la función sigue creciendo.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Algebraico",
-      "expected_success": 0.75,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.68,
       "bundle_id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -423,42 +423,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle-v10",
-      "statement": "En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 22x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?",
-      "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
+      "statement": "Usando el criterio de la segunda derivada, ¿cómo se clasifican los puntos críticos de $f$?",
+      "context": "La producción de una finca de aguacate Hass en el Tolima se modela con $f(x)=x^3-6x^2+9x+2$ (toneladas, $x$ en años).",
       "options": [
         {
-          "letter": "B",
-          "text": "$x = 11$",
-          "is_correct": true,
-          "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
+          "letter": "A",
+          "text": "Mínimo local en $x=1$ y máximo local en $x=3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se invirtió la regla: $f''(1)=-6<0$ indica concavidad hacia abajo, es decir, máximo, no mínimo."
         },
         {
-          "letter": "A",
-          "text": "$x = 27$",
-          "is_correct": false,
-          "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
+          "letter": "B",
+          "text": "Máximo local en $x=1$ y mínimo local en $x=3$.",
+          "is_correct": true,
+          "feedback": "Correcto. $f''(x)=6x-12$; $f''(1)=-6<0$ da máximo y $f''(3)=6>0$ da mínimo."
         },
         {
           "letter": "C",
-          "text": "$x = -11$",
+          "text": "Máximos locales en $x=1$ y en $x=3$.",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el nivel de producción."
+          "feedback": "Incorrecto. En $x=3$ la segunda derivada es $f''(3)=6>0$, que corresponde a concavidad hacia arriba y por tanto a un mínimo."
         },
         {
           "letter": "D",
-          "text": "$x = 111$",
+          "text": "El criterio no decide en ninguno de los dos puntos.",
           "is_correct": false,
-          "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
+          "feedback": "Incorrecto. El criterio solo es inconcluso si $f''=0$; aquí $f''(1)=-6$ y $f''(3)=6$ son distintos de cero."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La derivada del beneficio es $B'(x) = -2x + 22$. Igualando a cero para encontrar el máximo: $-2x + 22 = 0 \\implies 2x = 22 \\implies x = 11$. Como $B''(x) = -2 < 0$, es un máximo.",
+      "explanation": "$f'(x)=3x^2-12x+9=3(x-1)(x-3)$, con puntos críticos $x=1$ y $x=3$. $f''(x)=6x-12$: $f''(1)=-6<0$ (cóncava hacia abajo, máximo local, $f(1)=6$) y $f''(3)=6>0$ (cóncava hacia arriba, mínimo local, $f(3)=2$).",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Razonamiento",
-      "expected_success": 0.75,
+      "icfes_type": "Algebraico",
+      "expected_success": 0.66,
       "bundle_id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -469,42 +469,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle-v11",
-      "statement": "En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 24x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?",
-      "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
+      "statement": "¿Con qué rapidez aumenta el área del círculo en el instante en que el radio mide 10 cm?",
+      "context": "Al lanzar una piedra al Lago de Tota se forma una onda circular cuyo radio crece a 3 cm/s.",
       "options": [
         {
-          "letter": "D",
-          "text": "$x = 12$",
-          "is_correct": true,
-          "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
-        },
-        {
           "letter": "A",
-          "text": "$x = 29$",
+          "text": "$30\\pi$ cm²/s",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
+          "feedback": "Incorrecto. Se usó $\\frac{dA}{dt}=\\pi r \\frac{dr}{dt}$ olvidando el factor 2 que aparece al derivar $r^2$."
         },
         {
           "letter": "B",
-          "text": "$x = -12$",
+          "text": "$100\\pi$ cm²/s",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el nivel de producción."
+          "feedback": "Incorrecto. Ese es el área $A=\\pi(10)^2$ en ese instante, no su rapidez de cambio."
         },
         {
           "letter": "C",
-          "text": "$x = 112$",
+          "text": "$6\\pi$ cm²/s",
           "is_correct": false,
-          "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
+          "feedback": "Incorrecto. Se calculó $2\\pi \\cdot 3$ omitiendo el radio: la fórmula $\\frac{dA}{dt}=2\\pi r\\frac{dr}{dt}$ exige multiplicar también por $r=10$."
+        },
+        {
+          "letter": "D",
+          "text": "$60\\pi$ cm²/s",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{dA}{dt}=2\\pi r \\frac{dr}{dt}=2\\pi(10)(3)=60\\pi$ cm²/s."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La derivada del beneficio es $B'(x) = -2x + 24$. Igualando a cero para encontrar el máximo: $-2x + 24 = 0 \\implies 2x = 24 \\implies x = 12$. Como $B''(x) = -2 < 0$, es un máximo.",
+      "explanation": "$A=\\pi r^2$. Derivando respecto al tiempo con la regla de la cadena: $\\frac{dA}{dt}=2\\pi r\\frac{dr}{dt}$. Con $r=10$ y $\\frac{dr}{dt}=3$: $\\frac{dA}{dt}=60\\pi \\approx 188{,}5$ cm²/s. El área crece cada vez más rápido aunque el radio crezca a ritmo constante.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.65,
+      "icfes_type": "Modelacion",
+      "expected_success": 0.62,
       "bundle_id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -515,42 +515,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle-v12",
-      "statement": "En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 26x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?",
-      "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
+      "statement": "Si $x$ es cada lado perpendicular al río, ¿cuál es el área máxima que puede cercar?",
+      "context": "Un campesino de Boyacá tiene 120 m de malla para cercar un potrero rectangular junto al río Chicamocha; el lado del río no se cerca.",
       "options": [
         {
-          "letter": "D",
-          "text": "$x = 13$",
-          "is_correct": true,
-          "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
-        },
-        {
           "letter": "A",
-          "text": "$x = 31$",
+          "text": "$900$ m²",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
+          "feedback": "Incorrecto. Se cercaron los cuatro lados como un cuadrado de 30 m; el río ahorra un lado, así que el área puede ser mayor."
         },
         {
           "letter": "B",
-          "text": "$x = -13$",
+          "text": "$3600$ m²",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el nivel de producción."
+          "feedback": "Incorrecto. Un cuadrado de $60 \\times 60$ necesitaría 180 m de malla en tres lados, más de los 120 m disponibles."
         },
         {
           "letter": "C",
-          "text": "$x = 113$",
+          "text": "$1800$ m²",
+          "is_correct": true,
+          "feedback": "Correcto. $A(x)=x(120-2x)$; $A'(x)=120-4x=0$ da $x=30$, el lado paralelo mide 60 y $A=1800$ m²."
+        },
+        {
+          "letter": "D",
+          "text": "$1600$ m²",
           "is_correct": false,
-          "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
+          "feedback": "Incorrecto. Se repartió la malla en tres lados iguales de 40 m; ese reparto no maximiza $A(x)=x(120-2x)$, cuyo máximo está en $x=30$."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La derivada del beneficio es $B'(x) = -2x + 26$. Igualando a cero para encontrar el máximo: $-2x + 26 = 0 \\implies 2x = 26 \\implies x = 13$. Como $B''(x) = -2 < 0$, es un máximo.",
+      "correct_answer": "C",
+      "explanation": "Restricción: $2x+y=120$, luego $y=120-2x$. Área: $A(x)=120x-2x^2$. $A'(x)=120-4x=0 \\Rightarrow x=30$, y $A''=-4<0$ confirma máximo. Entonces $y=60$ y $A=30 \\cdot 60=1800$ m².",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "icfes_type": "Modelacion",
-      "expected_success": 0.65,
+      "expected_success": 0.6,
       "bundle_id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -561,42 +561,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle-v13",
-      "statement": "En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 28x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?",
-      "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
+      "statement": "Un estudiante afirma: \"Como $f'(0)=0$ y $f''(0)=0$, la función no tiene extremo en $x=0$\". ¿Cuál es la evaluación correcta?",
+      "context": "En una clase de cálculo en Bucaramanga se analiza el perfil de un tanque descrito por $f(x)=x^4$.",
       "options": [
         {
-          "letter": "D",
-          "text": "$x = 14$",
-          "is_correct": true,
-          "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
-        },
-        {
           "letter": "A",
-          "text": "$x = 33$",
-          "is_correct": false,
-          "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
+          "text": "Es falso: con $f''(0)=0$ el criterio no decide, y como $f'(x)=4x^3$ pasa de negativa a positiva, hay un mínimo en $x=0$.",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando $f''=0$ el criterio de la segunda derivada es inconcluso; el de la primera derivada muestra el cambio de signo de $-$ a $+$, que define un mínimo."
         },
         {
           "letter": "B",
-          "text": "$x = -14$",
+          "text": "Es verdadero: si $f''(0)=0$ el punto es de inflexión.",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el nivel de producción."
+          "feedback": "Incorrecto. $f''(0)=0$ no garantiza inflexión; $f''(x)=12x^2 \\ge 0$ no cambia de signo, así que la concavidad no cambia en 0."
         },
         {
           "letter": "C",
-          "text": "$x = 114$",
+          "text": "Es falso: hay un máximo, porque $f''(0)=0 \\le 0$.",
           "is_correct": false,
-          "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
+          "feedback": "Incorrecto. Un máximo por el criterio de la segunda derivada exige $f''<0$ estricto; además $f(x)=x^4 \\ge 0=f(0)$ muestra que es un mínimo."
+        },
+        {
+          "letter": "D",
+          "text": "Es falso: el punto crítico no está en $x=0$ sino en $x=4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f'(x)=4x^3$ se anula solo en $x=0$; el 4 es el coeficiente de la derivada, no una raíz."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La derivada del beneficio es $B'(x) = -2x + 28$. Igualando a cero para encontrar el máximo: $-2x + 28 = 0 \\implies 2x = 28 \\implies x = 14$. Como $B''(x) = -2 < 0$, es un máximo.",
+      "correct_answer": "A",
+      "explanation": "$f'(x)=4x^3=0$ solo en $x=0$, y $f''(x)=12x^2$ vale 0 allí, así que el criterio de la segunda derivada no permite concluir. Con la primera derivada: $f'<0$ para $x<0$ y $f'>0$ para $x>0$, luego hay un mínimo local (y absoluto) en $x=0$. El razonamiento del estudiante confunde \"criterio inconcluso\" con \"no hay extremo\".",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Algebraico",
-      "expected_success": 0.65,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.58,
       "bundle_id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -607,42 +607,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle-v14",
-      "statement": "En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 30x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?",
-      "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
+      "statement": "¿Cuál es el punto de inflexión de la gráfica de $f$?",
+      "context": "El trazado de una vía en Santander se modela con $f(x)=x^3-3x^2+4$ y los ingenieros buscan dónde cambia la curvatura.",
       "options": [
         {
-          "letter": "D",
-          "text": "$x = 15$",
-          "is_correct": true,
-          "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
-        },
-        {
           "letter": "A",
-          "text": "$x = 35$",
+          "text": "$(0,4)$",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
+          "feedback": "Incorrecto. En $x=0$ se anula $f'$ (punto crítico, máximo local), pero $f''(0)=-6 \\neq 0$: no cambia la concavidad allí."
         },
         {
           "letter": "B",
-          "text": "$x = -15$",
+          "text": "$(2,0)$",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el nivel de producción."
+          "feedback": "Incorrecto. $x=2$ es el otro punto crítico (mínimo local); $f''(2)=6>0$, así que tampoco es inflexión."
         },
         {
           "letter": "C",
-          "text": "$x = 115$",
+          "text": "$(1,2)$",
+          "is_correct": true,
+          "feedback": "Correcto. $f''(x)=6x-6$ se anula y cambia de signo en $x=1$, y $f(1)=1-3+4=2$."
+        },
+        {
+          "letter": "D",
+          "text": "$(1,-3)$",
           "is_correct": false,
-          "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
+          "feedback": "Incorrecto. La abscisa es correcta, pero $-3$ es $f'(1)$; la ordenada del punto debe ser $f(1)=2$."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La derivada del beneficio es $B'(x) = -2x + 30$. Igualando a cero para encontrar el máximo: $-2x + 30 = 0 \\implies 2x = 30 \\implies x = 15$. Como $B''(x) = -2 < 0$, es un máximo.",
+      "correct_answer": "C",
+      "explanation": "$f'(x)=3x^2-6x$ y $f''(x)=6x-6$. $f''=0$ en $x=1$; para $x<1$, $f''<0$ (cóncava abajo) y para $x>1$, $f''>0$ (cóncava arriba). Como cambia de signo, hay inflexión en $(1, f(1))=(1,2)$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Razonamiento",
-      "expected_success": 0.65,
+      "icfes_type": "Variacional",
+      "expected_success": 0.56,
       "bundle_id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -653,42 +653,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle-v15",
-      "statement": "En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 32x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?",
-      "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
+      "statement": "¿Cuál es la ecuación de la recta tangente a $y=x^2+1$ que es paralela a $y=4x-7$?",
+      "context": "Un diseñador de Cartagena traza un arco con $y=x^2+1$ y quiere que una viga lo toque siendo paralela a la recta $y=4x-7$.",
       "options": [
         {
-          "letter": "D",
-          "text": "$x = 16$",
-          "is_correct": true,
-          "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
-        },
-        {
           "letter": "A",
-          "text": "$x = 37$",
+          "text": "$y=4x-7$",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
+          "feedback": "Incorrecto. Esa es la recta dada; no toca la parábola en un solo punto, porque $x^2+1=4x-7$ no tiene soluciones reales."
         },
         {
           "letter": "B",
-          "text": "$x = -16$",
-          "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el nivel de producción."
+          "text": "$y=4x-3$",
+          "is_correct": true,
+          "feedback": "Correcto. Paralela implica pendiente 4: $2x=4$ da $x=2$, punto $(2,5)$, y $y-5=4(x-2)$ equivale a $y=4x-3$."
         },
         {
           "letter": "C",
-          "text": "$x = 116$",
+          "text": "$y=4x+1$",
           "is_correct": false,
-          "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
+          "feedback": "Incorrecto. Se confundió la pendiente con la abscisa y se usó el punto $x=4$; ahí la pendiente es $2(4)=8$, no 4."
+        },
+        {
+          "letter": "D",
+          "text": "$y=4x+13$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en la forma punto-pendiente: se escribió $y-5=4(x+2)$ en lugar de $y-5=4(x-2)$."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La derivada del beneficio es $B'(x) = -2x + 32$. Igualando a cero para encontrar el máximo: $-2x + 32 = 0 \\implies 2x = 32 \\implies x = 16$. Como $B''(x) = -2 < 0$, es un máximo.",
+      "correct_answer": "B",
+      "explanation": "Rectas paralelas tienen igual pendiente, así que se busca $y'=2x=4$, es decir, $x=2$ y $y=2^2+1=5$. La tangente es $y-5=4(x-2)$, o sea, $y=4x-3$. Comprobación: $x^2+1=4x-3$ da $(x-2)^2=0$, un único punto de contacto.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.65,
+      "icfes_type": "Geometrico",
+      "expected_success": 0.54,
       "bundle_id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -699,42 +699,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle-v16",
-      "statement": "En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 34x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?",
-      "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
+      "statement": "¿Con qué rapidez baja el extremo superior de la escalera cuando la base está a 3 m del muro?",
+      "context": "En una obra de Cali una escalera de 5 m está apoyada contra un muro y su base se aleja del muro a 0,6 m/s.",
       "options": [
         {
-          "letter": "D",
-          "text": "$x = 17$",
-          "is_correct": true,
-          "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
-        },
-        {
           "letter": "A",
-          "text": "$x = 39$",
+          "text": "$0{,}6$ m/s",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
+          "feedback": "Incorrecto. Se supuso que ambos extremos se mueven igual de rápido; la relación $x^2+y^2=25$ hace que las rapideces dependan de la posición."
         },
         {
           "letter": "B",
-          "text": "$x = -17$",
-          "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el nivel de producción."
+          "text": "$0{,}45$ m/s",
+          "is_correct": true,
+          "feedback": "Correcto. De $x x'+y y'=0$ con $x=3$, $y=4$: $y'=-\\frac{3(0{,}6)}{4}=-0{,}45$, así que baja a 0,45 m/s."
         },
         {
           "letter": "C",
-          "text": "$x = 117$",
+          "text": "$0{,}8$ m/s",
           "is_correct": false,
-          "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
+          "feedback": "Incorrecto. Se invirtieron $x$ e $y$: se calculó $\\frac{4(0{,}6)}{3}$ en lugar de $\\frac{3(0{,}6)}{4}$."
+        },
+        {
+          "letter": "D",
+          "text": "$0{,}36$ m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió entre la longitud de la escalera ($\\frac{3 \\cdot 0{,}6}{5}$) en lugar de dividir entre la altura $y=4$."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La derivada del beneficio es $B'(x) = -2x + 34$. Igualando a cero para encontrar el máximo: $-2x + 34 = 0 \\implies 2x = 34 \\implies x = 17$. Como $B''(x) = -2 < 0$, es un máximo.",
+      "correct_answer": "B",
+      "explanation": "Con $x$ la distancia de la base y $y$ la altura: $x^2+y^2=25$. Derivando: $2x x'+2y y'=0$. Cuando $x=3$, $y=\\sqrt{25-9}=4$, y $y'=-\\frac{x x'}{y}=-\\frac{3 \\cdot 0{,}6}{4}=-0{,}45$ m/s. El signo negativo indica que la altura disminuye.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "icfes_type": "Modelacion",
-      "expected_success": 0.65,
+      "expected_success": 0.52,
       "bundle_id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -745,42 +745,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle-v17",
-      "statement": "En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 36x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?",
-      "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
+      "statement": "El volumen es $V(x)=x(30-2x)^2$. Un empleado dice: \"Como $V'(15)=0$, con $x=15$ se obtiene la caja de mayor volumen\". ¿Cuál evaluación es correcta?",
+      "context": "Una microempresa de Itagüí fabrica cajas sin tapa recortando cuadrados de lado $x$ cm en las esquinas de láminas de cartón de 30 cm x 30 cm.",
       "options": [
         {
           "letter": "A",
-          "text": "$x = 18$",
+          "text": "Es incorrecto: $V(15)=0$ es el mínimo; el máximo ocurre en $x=5$ con $V=2000$ cm³.",
           "is_correct": true,
-          "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
+          "feedback": "Correcto. $V'(x)=(30-2x)(30-6x)$ se anula en $x=5$ y $x=15$; $V(5)=2000$ y $V(15)=0$, así que el máximo está en $x=5$."
         },
         {
           "letter": "B",
-          "text": "$x = 41$",
+          "text": "Es correcto: todo punto donde $V'=0$ es un máximo.",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
+          "feedback": "Incorrecto. $V'=0$ solo indica punto crítico; puede ser mínimo, y en $x=15$ la caja no tiene base, $V(15)=0$."
         },
         {
           "letter": "C",
-          "text": "$x = -18$",
+          "text": "Es incorrecto: el máximo ocurre en $x=7{,}5$, la mitad de 15.",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el nivel de producción."
+          "feedback": "Incorrecto. $x=7{,}5$ no anula $V'$: $V'(7{,}5)=15 \\cdot (-15)<0$, así que en ese punto el volumen ya está disminuyendo."
         },
         {
           "letter": "D",
-          "text": "$x = 118$",
+          "text": "Es incorrecto: el máximo ocurre en $x=10$ con $V=1000$ cm³.",
           "is_correct": false,
-          "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
+          "feedback": "Incorrecto. $V(10)=10 \\cdot 10^2=1000$ es menor que $V(5)=2000$; además $V'(10)\\neq 0$, así que $x=10$ no es crítico."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La derivada del beneficio es $B'(x) = -2x + 36$. Igualando a cero para encontrar el máximo: $-2x + 36 = 0 \\implies 2x = 36 \\implies x = 18$. Como $B''(x) = -2 < 0$, es un máximo.",
+      "explanation": "$V(x)=x(30-2x)^2$ en $0<x<15$. $V'(x)=(30-2x)^2-4x(30-2x)=(30-2x)(30-6x)$, que se anula en $x=5$ y $x=15$. En $x=15$ la base desaparece y $V=0$ (mínimo en el borde). En $x=5$: $V=5 \\cdot 20^2=2000$ cm³, que es el máximo. El empleado olvidó verificar el tipo de punto crítico.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Algebraico",
-      "expected_success": 0.55,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.5,
       "bundle_id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -791,42 +791,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle-v18",
-      "statement": "En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 38x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?",
-      "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
+      "statement": "¿Cuál de las siguientes conclusiones es válida con esa información?",
+      "context": "El costo de transporte de flores desde Rionegro se modela con una función $f$ derivable dos veces, de la que se sabe $f'(2)=0$ y $f''(2)=-3$.",
       "options": [
         {
           "letter": "A",
-          "text": "$x = 19$",
-          "is_correct": true,
-          "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
+          "text": "$f$ alcanza su valor máximo absoluto en $x=2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El criterio de la segunda derivada es local: no descarta que $f$ tome valores mayores lejos de $x=2$."
         },
         {
           "letter": "B",
-          "text": "$x = 43$",
+          "text": "$f$ es decreciente a ambos lados de $x=2$.",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
+          "feedback": "Incorrecto. Si $f$ decreciera a ambos lados no habría extremo; con $f''(2)<0$, $f$ crece a la izquierda y decrece a la derecha de 2."
         },
         {
           "letter": "C",
-          "text": "$x = -19$",
-          "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el nivel de producción."
+          "text": "$f$ tiene un máximo local en $x=2$.",
+          "is_correct": true,
+          "feedback": "Correcto. $f'(2)=0$ y $f''(2)<0$ es exactamente la condición del criterio de la segunda derivada para un máximo local."
         },
         {
           "letter": "D",
-          "text": "$x = 119$",
+          "text": "$f$ tiene un punto de inflexión en $x=2$.",
           "is_correct": false,
-          "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
+          "feedback": "Incorrecto. Un punto de inflexión requiere que $f''$ cambie de signo, lo que exige $f''=0$; aquí $f''(2)=-3 \\neq 0$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La derivada del beneficio es $B'(x) = -2x + 38$. Igualando a cero para encontrar el máximo: $-2x + 38 = 0 \\implies 2x = 38 \\implies x = 19$. Como $B''(x) = -2 < 0$, es un máximo.",
+      "correct_answer": "C",
+      "explanation": "El criterio de la segunda derivada dice: si $f'(c)=0$ y $f''(c)<0$, la gráfica es cóncava hacia abajo en $c$ y hay un máximo local. Con $c=2$ se concluye máximo local, pero no absoluto, porque la información es solo alrededor de $x=2$.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
       "icfes_type": "Razonamiento",
-      "expected_success": 0.55,
+      "expected_success": 0.48,
       "bundle_id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -837,42 +837,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle-v19",
-      "statement": "En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 40x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?",
-      "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
+      "statement": "¿Con qué rapidez sube el nivel del agua cuando la profundidad es $h=2$ m?",
+      "context": "Un tanque cónico de un acueducto veredal en Nariño tiene el vértice hacia abajo, radio superior 2 m y altura 4 m; se llena a 2 m³/min.",
       "options": [
         {
-          "letter": "D",
-          "text": "$x = 20$",
-          "is_correct": true,
-          "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
-        },
-        {
           "letter": "A",
-          "text": "$x = 45$",
+          "text": "$\\frac{1}{2\\pi}$ m/min",
           "is_correct": false,
-          "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
+          "feedback": "Incorrecto. Se tomó el radio fijo $r=2$ como si fuera un cilindro; en el cono el radio del agua cambia con la altura, $r=\\frac{h}{2}$."
         },
         {
           "letter": "B",
-          "text": "$x = -20$",
+          "text": "$\\frac{1}{8\\pi}$ m/min",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el nivel de producción."
+          "feedback": "Incorrecto. Se usó la semejanza al revés, $r=2h$; por triángulos semejantes $\\frac{r}{h}=\\frac{2}{4}$, es decir, $r=\\frac{h}{2}$."
         },
         {
           "letter": "C",
-          "text": "$x = 120$",
+          "text": "$\\frac{6}{\\pi}$ m/min",
           "is_correct": false,
-          "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
+          "feedback": "Incorrecto. Se derivó mal $V=\\frac{\\pi h^3}{12}$: se escribió $\\frac{\\pi h^2}{12}$ y faltó el factor 3 de la regla de la potencia."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{2}{\\pi}$ m/min",
+          "is_correct": true,
+          "feedback": "Correcto. Con $V=\\frac{\\pi h^3}{12}$, $\\frac{dV}{dt}=\\frac{\\pi h^2}{4}\\frac{dh}{dt}$; en $h=2$: $2=\\pi \\frac{dh}{dt}$, luego $\\frac{dh}{dt}=\\frac{2}{\\pi}$."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La derivada del beneficio es $B'(x) = -2x + 40$. Igualando a cero para encontrar el máximo: $-2x + 40 = 0 \\implies 2x = 40 \\implies x = 20$. Como $B''(x) = -2 < 0$, es un máximo.",
+      "explanation": "Por semejanza $r=\\frac{h}{2}$, así $V=\\frac{1}{3}\\pi r^2h=\\frac{\\pi h^3}{12}$. Derivando: $\\frac{dV}{dt}=\\frac{\\pi h^2}{4}\\cdot\\frac{dh}{dt}$. Con $\\frac{dV}{dt}=2$ y $h=2$: $2=\\pi\\frac{dh}{dt}$, entonces $\\frac{dh}{dt}=\\frac{2}{\\pi} \\approx 0{,}64$ m/min.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.55,
+      "icfes_type": "Modelacion",
+      "expected_success": 0.46,
       "bundle_id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -883,42 +883,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle-v20",
-      "statement": "En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 42x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?",
-      "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
+      "statement": "La gerente propone vender 70 unidades porque \"más ventas siempre dan más utilidad\". ¿Cuál evaluación es correcta?",
+      "context": "Una fábrica de bolsos en Bogotá estima su utilidad mensual en miles de COP como $P(q)=-2q^2+240q-5000$, con $q$ unidades vendidas.",
       "options": [
         {
-          "letter": "B",
-          "text": "$x = 21$",
-          "is_correct": true,
-          "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
+          "letter": "A",
+          "text": "Tiene razón, porque $P'(70)>0$ y la utilidad sigue creciendo en 70.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $P'(70)=-4(70)+240=-40<0$: en 70 la utilidad ya está disminuyendo."
         },
         {
-          "letter": "A",
-          "text": "$x = 47$",
-          "is_correct": false,
-          "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
+          "letter": "B",
+          "text": "No tiene razón: la utilidad máxima es $P(60)=2200$ (2.200.000 COP) y $P(70)=2000$ es menor.",
+          "is_correct": true,
+          "feedback": "Correcto. $P'(q)=-4q+240=0$ da $q=60$, $P(60)=2200$, y $P(70)=2000<2200$, así que vender 70 reduce la utilidad."
         },
         {
           "letter": "C",
-          "text": "$x = -21$",
+          "text": "No tiene razón: lo óptimo es vender 120 unidades.",
           "is_correct": false,
-          "feedback": "Incorrecto: error de signo en el nivel de producción."
+          "feedback": "Incorrecto. Se calculó $-\\frac{b}{a}=120$ en lugar del vértice $-\\frac{b}{2a}=60$; además $P(120)=-5000$ es una pérdida."
         },
         {
           "letter": "D",
-          "text": "$x = 121$",
+          "text": "No tiene razón: se deben vender 60 unidades y la utilidad máxima es 7200.",
           "is_correct": false,
-          "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
+          "feedback": "Incorrecto. El valor $q=60$ es correcto, pero 7200 es solo el término $2q^2$ evaluado; $P(60)=-7200+14400-5000=2200$."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La derivada del beneficio es $B'(x) = -2x + 42$. Igualando a cero para encontrar el máximo: $-2x + 42 = 0 \\implies 2x = 42 \\implies x = 21$. Como $B''(x) = -2 < 0$, es un máximo.",
+      "explanation": "$P'(q)=-4q+240=0 \\Rightarrow q=60$ y $P''=-4<0$, máximo. $P(60)=-2(3600)+240(60)-5000=2200$ miles de COP. En $q=70$: $P(70)=-9800+16800-5000=2000$. Pasar de 60 a 70 unidades disminuye la utilidad en 200.000 COP, por eso la propuesta no es adecuada.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.55,
+      "icfes_type": "Resolucion",
+      "expected_success": 0.45,
       "bundle_id": "CO-MAT-11-2026-W20-repaso-p2-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",

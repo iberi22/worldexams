@@ -428,9 +428,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "No hay crítica, solo describe la fiesta con neutralidad.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Los adverbios «bien», «mal» y «muchísimo» emiten juicios de valor."
+          "text": "Contrasta el trabajo de músicos y bailadores y exagera la reacción del público con «muchísimo».",
+          "is_correct": true,
+          "feedback": "Correcto. La elección de adverbios revela la postura crítica del narrador."
         },
         {
           "letter": "B",
@@ -440,9 +440,9 @@
         },
         {
           "letter": "C",
-          "text": "Contrasta el trabajo de músicos y bailadores y exagera la reacción del público con «muchísimo».",
-          "is_correct": true,
-          "feedback": "Correcto. La elección de adverbios revela la postura crítica del narrador."
+          "text": "No hay crítica, solo describe la fiesta con neutralidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los adverbios «bien», «mal» y «muchísimo» emiten juicios de valor."
         },
         {
           "letter": "D",
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La descripción cubre las tres partes de la fiesta."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Los adverbios no solo modifican al verbo: también expresan la voz del autor. Un buen lector detecta cuándo el adverbio informa y cuándo opina. Esa diferencia es clave para pensar críticamente.",
       "difficulty": "10",
       "images": [],

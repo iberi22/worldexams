@@ -342,9 +342,9 @@
         },
         {
           "letter": "B",
-          "text": "No, porque cada lanzamiento es independiente y los resultados pueden repetirse",
-          "is_correct": true,
-          "feedback": "Correcto. Cada lanzamiento es un evento independiente. Es posible obtener 1, 1, 2, 2, 3, 3 o cualquier otra combinación. La probabilidad no garantiza una distribución uniforme."
+          "text": "No, porque el dado tiene memoria de los lanzamientos anteriores",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dado no tiene memoria. Cada lanzamiento es independiente, pero esto no significa que los resultados no puedan repetirse. La probabilidad siempre es 1/6 para cada número."
         },
         {
           "letter": "C",
@@ -354,12 +354,12 @@
         },
         {
           "letter": "D",
-          "text": "No, porque el dado tiene memoria de los lanzamientos anteriores",
-          "is_correct": false,
-          "feedback": "Incorrecto. El dado no tiene memoria. Cada lanzamiento es independiente, pero esto no significa que los resultados no puedan repetirse. La probabilidad siempre es 1/6 para cada número."
+          "text": "No, porque cada lanzamiento es independiente y los resultados pueden repetirse",
+          "is_correct": true,
+          "feedback": "Correcto. Cada lanzamiento es un evento independiente. Es posible obtener 1, 1, 2, 2, 3, 3 o cualquier otra combinación. La probabilidad no garantiza una distribución uniforme."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Cada lanzamiento de un dado es un evento independiente, lo que significa que el resultado de un lanzamiento no afecta a los siguientes. Aunque la probabilidad de obtener cada número es 1/6, esto no garantiza que en 6 lanzamientos cada número aparezca exactamente una vez. Es perfectamente posible obtener secuencias como 1, 1, 2, 3, 4, 5 o 6, 6, 6, 6, 6, 6. La igualdad de probabilidades no implica uniformidad en una serie corta de ensayos.",
       "difficulty": "10",
       "images": [],

@@ -802,9 +802,9 @@
         },
         {
           "letter": "B",
-          "text": "Los gases como CO₂ y CH₄ absorben radiación infrarroja emitida por la superficie terrestre.",
-          "is_correct": true,
-          "feedback": "Absorben y reemiten radiación infrarroja, atrapando calor."
+          "text": "La Tierra pierde su campo magnético.",
+          "is_correct": false,
+          "feedback": "Es un fenómeno térmico, no magnético."
         },
         {
           "letter": "C",
@@ -814,12 +814,12 @@
         },
         {
           "letter": "D",
-          "text": "La Tierra pierde su campo magnético.",
-          "is_correct": false,
-          "feedback": "Es un fenómeno térmico, no magnético."
+          "text": "Los gases como CO₂ y CH₄ absorben radiación infrarroja emitida por la superficie terrestre.",
+          "is_correct": true,
+          "feedback": "Absorben y reemiten radiación infrarroja, atrapando calor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El efecto invernadero es la retención parcial de calor por gases que absorben radiación infrarroja reemitida por la superficie.",
       "difficulty": "10",
       "images": [],

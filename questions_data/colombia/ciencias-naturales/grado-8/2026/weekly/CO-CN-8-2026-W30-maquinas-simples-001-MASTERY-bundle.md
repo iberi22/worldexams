@@ -31,14 +31,15 @@ Bundle de 12 preguntas sobre las máquinas simples (palanca, polea, plano inclin
 ### Enunciado
 Cuál de los siguientes ejemplos corresponde a una máquina simple utilizada tradicionalmente en las fincas cafeteras colombianas?
 ### Opciones
-- [x] B) La pala con la que se recoge el café maduro del suelo.
-  <!-- feedback: Correcto. La pala funciona como una combinación de cuña y palanca, una de las máquinas simples clásicas. -->
 - [ ] A) La cosechadora mecánica automatizada.
   <!-- feedback: Incorrecto. La cosechadora es una máquina compleja compuesta de muchas piezas, motores y mecanismos. -->
+- [x] B) La pala con la que se recoge el café maduro del suelo.
+  <!-- feedback: Correcto. La pala funciona como una combinación de cuña y palanca, una de las máquinas simples clásicas. -->
 - [ ] C) El tractor que mueve el café hacia el beneficiadero.
   <!-- feedback: Incorrecto. El tractor es un vehículo con motor de combustión interna, no una máquina simple. -->
 - [ ] D) El motor eléctrico del despulpador.
   <!-- feedback: Incorrecto. El motor eléctrico es una máquina compleja y energiza el sistema, pero no es una máquina simple. -->
+
 ### Explicacion Pedagogica
 Las seis máquinas simples clásicas son: palanca, polea, plano inclinado, rueda, cuña y tornillo. La pala combina una cuña (para penetrar el suelo) con una palanca (para levantar el material), y por tanto es una máquina simple.
 
@@ -59,6 +60,7 @@ Qué se entiende por "ventaja mecánica" de una máquina simple como una carreti
   <!-- feedback: Incorrecto. El costo económico no guarda relación directa con la ventaja mecánica. -->
 - [ ] D) La masa del cuerpo sobre el cual actúa la máquina.
   <!-- feedback: Incorrecto. La masa se relaciona con la fuerza pero la VM es una comparación de fuerzas, no de masas. -->
+
 ### Explicacion Pedagogica
 La ventaja mecánica (VM) se calcula como: VM = fuerza de carga / fuerza de esfuerzo. Una carretilla de VM = 3 permite levantar tres veces más carga con el mismo esfuerzo, aunque recorriendo tres veces menos altura.
 
@@ -71,14 +73,15 @@ La ventaja mecánica (VM) se calcula como: VM = fuerza de carga / fuerza de esfu
 ### Enunciado
 Qué tipo de polea solo cambia la dirección de la fuerza aplicada, sin reducir el esfuerzo necesario para elevar la carga?
 ### Opciones
-- [x] B) Polea fija.
-  <!-- feedback: Correcto. La polea fija tiene VM = 1: permite tirar hacia abajo para subir la carga, pero no reduce el esfuerzo. -->
 - [ ] A) Polea móvil.
   <!-- feedback: Incorrecto. La polea móvil tiene VM = 2 y reduce el esfuerzo a la mitad, pero requiere sostener la cuerda con fuerza. -->
+- [x] B) Polea fija.
+  <!-- feedback: Correcto. La polea fija tiene VM = 1: permite tirar hacia abajo para subir la carga, pero no reduce el esfuerzo. -->
 - [ ] C) Aparejo potencial.
   <!-- feedback: Incorrecto. Un aparejo combina poleas fijas y móviles y reduce mucho el esfuerzo, no solo cambia la dirección. -->
 - [ ] D) Torno de engranajes.
   <!-- feedback: Incorrecto. El torno es un sistema de eje con manivela, no es propiamente una polea simple. -->
+
 ### Explicacion Pedagogica
 La polea fija solo invierte el sentido de la fuerza: si tiramos hacia abajo, la carga sube, pero el peso sentido es igual al peso de la carga. La polea móvil (o un aparejo) reparte la carga y reduce el esfuerzo aplicado.
 
@@ -91,14 +94,15 @@ La polea fija solo invierte el sentido de la fuerza: si tiramos hacia abajo, la 
 ### Enunciado
 Si el brazo de esfuerzo mide 25 cm y el brazo de carga mide 75 cm en una palanca de primer género, cuál es su ventaja mecánica teórica despreciando la fricción?
 ### Opciones
-- [x] B) 3.
-  <!-- feedback: Correcto. VM = brazo de carga / brazo de esfuerzo = 75 cm / 25 cm = 3; la fuerza aplicada se multiplica por 3. -->
 - [ ] A) 0,33.
   <!-- feedback: Incorrecto. Este valor corresponde a la inversa de la ventaja mecánica, no a ella misma. -->
+- [x] B) 3.
+  <!-- feedback: Correcto. VM = brazo de carga / brazo de esfuerzo = 75 cm / 25 cm = 3; la fuerza aplicada se multiplica por 3. -->
 - [ ] C) 50.
   <!-- feedback: Incorrecto. Es el producto de los brazos, no una relación de fuerzas. -->
 - [ ] D) 100.
   <!-- feedback: Incorrecto. Equivale a sumar los dos brazos, sin relación con la ventaja mecánica. -->
+
 ### Explicacion Pedagogica
 La ventaja mecánica de una palanca se calcula como VM = brazo de carga (b₂) dividido entre el brazo de esfuerzo (b₁). En este caso VM = 75 / 25 = 3, es decir, con una fuerza de 100 N en la mano se obtiene 300 N en la muela del trapiche.
 
@@ -111,14 +115,15 @@ La ventaja mecánica de una palanca se calcula como VM = brazo de carga (b₂) d
 ### Enunciado
 Para subir un bulto de café al camión utilizan una rampa de 3 m de largo por 1 m de alto. Qué tipo de máquina simple están usando y por qué les facilita el trabajo?
 ### Opciones
-- [x] B) Plano inclinado, porque reduce la fuerza necesaria aumentando la distancia recorrida.
-  <!-- feedback: Correcto. La rampa es un plano inclinado: con 3 m de longitud para subir 1 m se necesita solo un tercio de la fuerza de levantamiento vertical. -->
 - [ ] A) Polea, porque cambia el sentido de la fuerza aplicada.
   <!-- feedback: Incorrecto. Una polea usa una cuerda y una rueda; no es lo que se usa aquí. -->
+- [x] B) Plano inclinado, porque reduce la fuerza necesaria aumentando la distancia recorrida.
+  <!-- feedback: Correcto. La rampa es un plano inclinado: con 3 m de longitud para subir 1 m se necesita solo un tercio de la fuerza de levantamiento vertical. -->
 - [ ] C) Palanca, porque el operario hace fuerza sobre un brazo largo.
   <!-- feedback: Incorrecto. La palanca usa un punto de apoyo fijo, no una superficie inclinada. -->
 - [ ] D) Rueda, porque el bulto rueda sobre el camión.
   <!-- feedback: Incorrecto. La rueda por sí sola no carga el bulto hasta el camión sin un eje u otra máquina que la impulse. -->
+
 ### Explicacion Pedagogica
 El plano inclinado es una máquina simple que reduce la fuerza necesaria para subir una carga a una altura fija, a cambio de recorrer una distancia mayor. Por eso las cargas pesadas se llevan por rampas en vez de levantarse verticalmente.
 
@@ -131,14 +136,15 @@ El plano inclinado es una máquina simple que reduce la fuerza necesaria para su
 ### Enunciado
 Si la palanca del trapiche tiene una ventaja mecánica de 4 y el operario aplica una fuerza de 200 N en el extremo del brazo de esfuerzo, qué fuerza se transmite a la caña que será molida?
 ### Opciones
-- [x] B) 800 N.
-  <!-- feedback: Correcto. Fuerza de salida = VM · fuerza de entrada = 4 · 200 N = 800 N. -->
 - [ ] A) 50 N.
   <!-- feedback: Incorrecto. 50 N sería el resultado de dividir 200 entre 4, no de multiplicar por la VM. -->
+- [x] B) 800 N.
+  <!-- feedback: Correcto. Fuerza de salida = VM · fuerza de entrada = 4 · 200 N = 800 N. -->
 - [ ] C) 200 N.
   <!-- feedback: Incorrecto. Ese valor sería la fuerza de entrada, no la de salida amplificada. -->
 - [ ] D) 4 N.
   <!-- feedback: Incorrecto. 4 N no corresponde a ninguna operación relevante con VM = 4. -->
+
 ### Explicacion Pedagogica
 La fórmula simplificada es F_salida = VM · F_entrada. Con VM = 4 y F_entrada = 200 N, la fuerza resultante sobre la caña es 800 N. Esta amplificación es útil para moler la caña con menor esfuerzo muscular del operario.
 
@@ -151,14 +157,15 @@ La fórmula simplificada es F_salida = VM · F_entrada. Con VM = 4 y F_entrada =
 ### Enunciado
 Una polea móvil, idealmente, en qué porcentaje reduce la fuerza necesaria para elevar la carga en comparación con levantarla directamente?
 ### Opciones
-- [x] D) La reduce a la mitad (50%), por lo que su ventaja mecánica es 2.
-  <!-- feedback: Correcto. En una polea móvil ideal, VM = 2 y solo se requiere la mitad de la fuerza de la carga para sostenerla. -->
 - [ ] A) La mantiene igual, sin reducción alguna.
   <!-- feedback: Incorrecto. Esa descripción corresponde a la polea fija, no a la móvil. -->
 - [ ] B) La reduce a una cuarta parte.
   <!-- feedback: Incorrecto. Reducir a la cuarta parte sería VM = 4, propio de aparejos con varias poleas. -->
 - [ ] C) La duplica, exigiendo el doble de fuerza.
   <!-- feedback: Incorrecto. La polea móvil nunca aumenta el esfuerzo; lo reduce o, como mínimo, lo iguala. -->
+- [x] D) La reduce a la mitad (50%), por lo que su ventaja mecánica es 2.
+  <!-- feedback: Correcto. En una polea móvil ideal, VM = 2 y solo se requiere la mitad de la fuerza de la carga para sostenerla. -->
+
 ### Explicacion Pedagogica
 La polea móvil tiene VM = 2: la carga se reparte entre los dos segmentos de cuerda que la sostienen. En la práctica, hay pérdidas por fricción y peso de la polea, así que la VM real es ligeramente menor que 2.
 
@@ -171,14 +178,15 @@ La polea móvil tiene VM = 2: la carga se reparte entre los dos segmentos de cue
 ### Enunciado
 Por qué las tijeras de podar de mango largo permiten cortar ramas más gruesas con menor esfuerzo del operario que las tijeras cortas tradicionales?
 ### Opciones
-- [x] B) Porque las tijeras largas son palancas de primer género con brazo de esfuerzo mayor que el brazo de carga, lo que da VM > 1.
-  <!-- feedback: Correcto. Al alargar el brazo donde aplica la mano y mantener corto el filo, la VM aumenta y la fuerza sobre la rama se multiplica. -->
 - [ ] A) Porque las tijeras largas son más pesadas y aprovechan su peso.
   <!-- feedback: Incorrecto. El peso extra solo añade carga al operario, no aumenta la VM. -->
+- [x] B) Porque las tijeras largas son palancas de primer género con brazo de esfuerzo mayor que el brazo de carga, lo que da VM > 1.
+  <!-- feedback: Correcto. Al alargar el brazo donde aplica la mano y mantener corto el filo, la VM aumenta y la fuerza sobre la rama se multiplica. -->
 - [ ] C) Porque eliminan por completo la fricción del corte.
   <!-- feedback: Incorrecto. La fricción en el corte es inevitable; lo que cambia es la fuerza aplicada. -->
 - [ ] D) Porque cambian el filo por una hoja más afilada.
   <!-- feedback: Incorrecto. La afiladura ayuda pero no explica por sí sola el cambio de esfuerzo entre tijeras largas y cortas. -->
+
 ### Explicacion Pedagogica
 Una tijera es una palanca de primer género doble. La distancia entre la mano y el fulcro (brazo de esfuerzo) frente a la distancia del fulcro al corte (brazo de carga) determina la VM. Mangos más largos implican VM mayor y menor fuerza necesaria.
 
@@ -199,6 +207,7 @@ Qué principio físico explica por qué una rampa más larga, con menor pendient
   <!-- feedback: Incorrecto. Esta ley aplica a cuerpos elásticos, no a planos inclinados. -->
 - [ ] D) La tercera ley de Newton aplicada a la superficie.
   <!-- feedback: Incorrecto. La acción y reacción explica fuerzas entre cuerpos en contacto, no la relación fuerza-distancia de la rampa. -->
+
 ### Explicacion Pedagogica
 En un plano inclinado ideal, el trabajo total (fuerza por distancia) se conserva. Al alargar la rampa, la distancia recorrida aumenta y, en consecuencia, la fuerza necesaria para la misma elevación disminuye. La fricción introduce pérdidas adicionales.
 
@@ -211,14 +220,15 @@ En un plano inclinado ideal, el trabajo total (fuerza por distancia) se conserva
 ### Enunciado
 En ausencia de fricción, qué magnitud conservan en común los tres métodos para subir el mismo bulto a la misma altura?
 ### Opciones
-- [x] C) El trabajo mecánico (fuerza por distancia recorrida).
-  <!-- feedback: Correcto. Sin fricción, el trabajo requerido para levantar la carga a una altura fija es el mismo en los tres casos. -->
 - [ ] A) Únicamente la fuerza aplicada por el operario.
   <!-- feedback: Incorrecto. La fuerza varía mucho entre los métodos, no se conserva. -->
 - [ ] B) La velocidad de elevación del bulto.
   <!-- feedback: Incorrecto. La velocidad depende del ritmo del operario, no se conserva necesariamente. -->
+- [x] C) El trabajo mecánico (fuerza por distancia recorrida).
+  <!-- feedback: Correcto. Sin fricción, el trabajo requerido para levantar la carga a una altura fija es el mismo en los tres casos. -->
 - [ ] D) La cantidad de calor transferido al ambiente.
   <!-- feedback: Incorrecto. Sin fricción no hay calor por disipación, así que no se conserva esa magnitud. -->
+
 ### Explicacion Pedagogica
 El principio de conservación de la energía indica que, en ausencia de fricción, el trabajo W = F · d para llevar una masa a una altura h es el mismo (W = m · g · h), independientemente de la máquina simple usada. Cambian la fuerza y la distancia, pero no el producto.
 
@@ -231,14 +241,15 @@ El principio de conservación de la energía indica que, en ausencia de fricció
 ### Enunciado
 Cuál de las siguientes propuestas aprovecha mejor los principios de las máquinas simples para reducir el esfuerzo físico de los caficultores al cargar bultos al camión?
 ### Opciones
-- [x] C) Instalar una rampa de pendiente suave, con superficie lisa y barandas de seguridad en el sitio de carga.
-  <!-- feedback: Correcto. Una rampa suave y lisa actúa como plano inclinado eficiente: reduce la fuerza necesaria a cambio de mayor distancia. -->
 - [ ] A) Contratar más jornaleros para que carguen en parejas.
   <!-- feedback: Incorrecto. Más personal no aplica ninguna máquina simple; solo distribuye la carga humana. -->
 - [ ] B) Aumentar el peso de cada bulto para usar menos viajes.
   <!-- feedback: Incorrecto. Aumentar el peso incrementa la fuerza necesaria, lo opuesto al objetivo. -->
+- [x] C) Instalar una rampa de pendiente suave, con superficie lisa y barandas de seguridad en el sitio de carga.
+  <!-- feedback: Correcto. Una rampa suave y lisa actúa como plano inclinado eficiente: reduce la fuerza necesaria a cambio de mayor distancia. -->
 - [ ] D) Eliminar las rampas y exigir levantamientos verticales.
   <!-- feedback: Incorrecto. Esto aumenta el esfuerzo y el riesgo de lesiones para los operarios. -->
+
 ### Explicacion Pedagogica
 El plano inclinado es la máquina simple más sencilla para reducir el esfuerzo al elevar cargas a una altura fija, siempre que se minimice la fricción. Una rampa con superficie lisa y pendiente suave es eficiente, económica y de bajo mantenimiento para fincas cafeteras.
 
@@ -251,13 +262,14 @@ El plano inclinado es la máquina simple más sencilla para reducir el esfuerzo 
 ### Enunciado
 Evalúe la propuesta de sustituir las palancas manuales por cilindros hidráulicos desde la perspectiva de las máquinas simples y los principios físicos involucrados.
 ### Opciones
-- [x] B) Es técnicamente viable porque las máquinas complejas (hidráulicas) son combinaciones de máquinas simples, pero se debe analizar el costo, el consumo energético y el mantenimiento.
-  <!-- feedback: Correcto. La hidráulica combina palancas, planos y cilindros como multiplicadores de fuerza, pero requiere energía externa y mantenimiento. -->
 - [ ] A) No es viable bajo ningún aspecto, ni técnico ni económico.
   <!-- feedback: Incorrecto. Los cilindros hidráulicos son viables técnicamente; el análisis debe considerar factores económicos y operativos. -->
+- [ ] B) Sustituir máquinas simples por complejas siempre reduce la eficiencia del trabajo.
+  <!-- feedback: Incorrecto. Las máquinas complejas pueden ser más eficientes cuando la fuerza requerida supera la capacidad humana. -->
 - [ ] C) Las palancas manuales no son verdaderas máquinas simples, así que cualquier cambio es irrelevante.
   <!-- feedback: Incorrecto. Las palancas son máquinas simples básicas, no se invalida el análisis por incluirlas. -->
-- [ ] D) Sustituir máquinas simples por complejas siempre reduce la eficiencia del trabajo.
-  <!-- feedback: Incorrecto. Las máquinas complejas pueden ser más eficientes cuando la fuerza requerida supera la capacidad humana. -->
+- [x] D) Es técnicamente viable porque las máquinas complejas (hidráulicas) son combinaciones de máquinas simples, pero se debe analizar el costo, el consumo energético y el mantenimiento.
+  <!-- feedback: Correcto. La hidráulica combina palancas, planos y cilindros como multiplicadores de fuerza, pero requiere energía externa y mantenimiento. -->
+
 ### Explicacion Pedagogica
 Las máquinas complejas (como sistemas hidráulicos) son combinaciones de máquinas simples. Pueden multiplicar la fuerza mucho más allá de lo que logra una palanca, pero consumen energía externa y requieren mantenimiento. La decisión técnica debe sopesar esfuerzo, energía, costo y contexto rural.

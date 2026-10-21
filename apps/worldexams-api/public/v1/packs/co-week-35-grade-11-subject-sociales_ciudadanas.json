@@ -13,16 +13,16 @@
       "context": "En una emisora comunitaria de Sincelejo se anuncia una veeduría al contrato de una acueducto veredal.",
       "options": [
         {
-          "letter": "B",
-          "text": "La Procuraduría General de la Nación",
-          "is_correct": false,
-          "feedback": "La Procuraduría ejerce control disciplinario, no fiscal."
-        },
-        {
           "letter": "A",
           "text": "La Contraloría General de la República",
           "is_correct": true,
           "feedback": "Correcto. El artículo 267 de la Constitución define la Contraloría como órgano de control fiscal."
+        },
+        {
+          "letter": "B",
+          "text": "La Procuraduría General de la Nación",
+          "is_correct": false,
+          "feedback": "La Procuraduría ejerce control disciplinario, no fiscal."
         },
         {
           "letter": "C",
@@ -59,12 +59,6 @@
       "context": "Un estudiante de Quibdó estudia las entidades del Ministerio Público antes de un examen.",
       "options": [
         {
-          "letter": "D",
-          "text": "Ministerio Público, conforme al artículo 118 de la Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. El artículo 118 ordena el Ministerio Público para la vigilancia de la conducta oficial de quienes sirven al Estado."
-        },
-        {
           "letter": "A",
           "text": "Consejo de Estado",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "Comisión Nacional del Servicio Civil",
           "is_correct": false,
           "feedback": "La CNSC administra el mérito en el empleo público, no la vigilancia disciplinaria."
+        },
+        {
+          "letter": "D",
+          "text": "Ministerio Público, conforme al artículo 118 de la Constitución",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo 118 ordena el Ministerio Público para la vigilancia de la conducta oficial de quienes sirven al Estado."
         }
       ],
       "correct_answer": "D",
@@ -111,12 +111,6 @@
           "feedback": "Los jueces ejercen control jurisdiccional; el control social es precisamente el que hacen los ciudadanos."
         },
         {
-          "letter": "D",
-          "text": "La participación de la ciudadanía en la vigilancia y monitoreo de la acción estatal, con soporte en los artículos 1, 2 y 40 constitucionales",
-          "is_correct": true,
-          "feedback": "Correcto. El control social emana de la soberanía popular y del fin estatal de facilitar la participación."
-        },
-        {
           "letter": "B",
           "text": "El reporte voluntario de las empresas privadas al gobierno",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "La auditoría contable interna de cada entidad",
           "is_correct": false,
           "feedback": "Esa es la auditoría interna o control interno (artículo 209), no el control social ciudadano."
+        },
+        {
+          "letter": "D",
+          "text": "La participación de la ciudadanía en la vigilancia y monitoreo de la acción estatal, con soporte en los artículos 1, 2 y 40 constitucionales",
+          "is_correct": true,
+          "feedback": "Correcto. El control social emana de la soberanía popular y del fin estatal de facilitar la participación."
         }
       ],
       "correct_answer": "D",
@@ -157,12 +157,6 @@
           "feedback": "La regla es exactamente la contraria: la publicidad, con excepciones tasadas."
         },
         {
-          "letter": "D",
-          "text": "Públicos, con las excepciones que establezca la ley por razones de seguridad o inteligencia nacional",
-          "is_correct": true,
-          "feedback": "Correcto. La publicidad de los documentos públicos es la regla constitucional del artículo 74."
-        },
-        {
           "letter": "B",
           "text": "Propiedad privada de los funcionarios que los producen",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "Confidenciales durante cincuenta años sin excepción",
           "is_correct": false,
           "feedback": "No existe tal plazo general; el acceso a información pública se rige por la Ley 1712 de 2014."
+        },
+        {
+          "letter": "D",
+          "text": "Públicos, con las excepciones que establezca la ley por razones de seguridad o inteligencia nacional",
+          "is_correct": true,
+          "feedback": "Correcto. La publicidad de los documentos públicos es la regla constitucional del artículo 74."
         }
       ],
       "correct_answer": "D",
@@ -197,16 +197,16 @@
       "context": "Un grupo de ciudadanos de Floridablanca quiere vigilar el contrato de aseo de su municipio.",
       "options": [
         {
-          "letter": "B",
-          "text": "La Ley 850 de 2003, que regula las veedurías ciudadanas y sus requisitos",
-          "is_correct": true,
-          "feedback": "Correcto. La Ley 850 de 2003 y sus decretos reglamentarios disciplinan las veedurías."
-        },
-        {
           "letter": "A",
           "text": "El Código Penales procedimientos de allanamiento judicial",
           "is_correct": false,
           "feedback": "El Código Penal no crea veedurías; estas son mecanismos administrativos y ciudadanos, no procedimientos penales."
+        },
+        {
+          "letter": "B",
+          "text": "La Ley 850 de 2003, que regula las veedurías ciudadanas y sus requisitos",
+          "is_correct": true,
+          "feedback": "Correcto. La Ley 850 de 2003 y sus decretos reglamentarios disciplinan las veedurías."
         },
         {
           "letter": "C",
@@ -335,12 +335,6 @@
       "context": "Un líder estudiantil de Santa Marta pregunta ante quién se queja de un director de colegio que maltrata a estudiantes en el uso de recursos de la papelería.",
       "options": [
         {
-          "letter": "C",
-          "text": "La Procuraduría General de la Nación o la oficina de control interno de la entidad",
-          "is_correct": true,
-          "feedback": "Correcto. La Procuraduría y las oficinas de control interno ejercen el poder disciplinario según el caso."
-        },
-        {
           "letter": "A",
           "text": "La Registraduría Nacional del Estado Civil",
           "is_correct": false,
@@ -351,6 +345,12 @@
           "text": "La Superintendencia de Industria y Comercio",
           "is_correct": false,
           "feedback": "La SIC vigila competencia y consumo, no la ética de los docentes funcionarios."
+        },
+        {
+          "letter": "C",
+          "text": "La Procuraduría General de la Nación o la oficina de control interno de la entidad",
+          "is_correct": true,
+          "feedback": "Correcto. La Procuraduría y las oficinas de control interno ejercen el poder disciplinario según el caso."
         },
         {
           "letter": "D",
@@ -479,16 +479,16 @@
           "feedback": "El problema no es la existencia del órgano, sino la debilidad de sus consecuencias y capacidades."
         },
         {
-          "letter": "C",
-          "text": "Impunidad estructural: lentitud procesal, prescripción, debilidad probatoria y falta de coordinación entre contralorías, procuradurías y justicia penal",
-          "is_correct": true,
-          "feedback": "Correcto. La repetición de hallazgos sin fallo revela un ciclo de control sin consecuencias."
-        },
-        {
           "letter": "B",
           "text": "Exceso de recursos: las contralorías procesan demasiados casos",
           "is_correct": false,
           "feedback": "La evidencia muestra más bien saturación y subdotación técnica, no exceso de actividad."
+        },
+        {
+          "letter": "C",
+          "text": "Impunidad estructural: lentitud procesal, prescripción, debilidad probatoria y falta de coordinación entre contralorías, procuradurías y justicia penal",
+          "is_correct": true,
+          "feedback": "Correcto. La repetición de hallazgos sin fallo revela un ciclo de control sin consecuencias."
         },
         {
           "letter": "D",
@@ -519,16 +519,16 @@
       "context": "En un foro académico se discute la Sentencia C-795 de 2014 sobre la potestad sancionatoria de la Procuraduría.",
       "options": [
         {
-          "letter": "B",
-          "text": "La prohibición absoluta de todo control disciplinario sobre servidores",
-          "is_correct": false,
-          "feedback": "Ninguna decisión suprimió el poder disciplinario del Estado: el debate es sobre su intensidad y vía."
-        },
-        {
           "letter": "A",
           "text": "La tensión entre la potestad disciplinaria administrativa y la Convención Americana (artículo 23), que reserva restricciones a derechos políticos a la vía judicial",
           "is_correct": true,
           "feedback": "Correcto. La CIDH condicionó la inhabilitación de elegidos al control de un juez, no a una autoridad administrativa."
+        },
+        {
+          "letter": "B",
+          "text": "La prohibición absoluta de todo control disciplinario sobre servidores",
+          "is_correct": false,
+          "feedback": "Ninguna decisión suprimió el poder disciplinario del Estado: el debate es sobre su intensidad y vía."
         },
         {
           "letter": "C",
@@ -749,6 +749,12 @@
       "context": "Un consejo editorial escolar debate la frase: \"más contralorías, menos corrupción\".",
       "options": [
         {
+          "letter": "A",
+          "text": "Es incompleta: el control funciona cuando los órganos tienen independencia, capacidades y consecuencias, y se articulan con una ciudadanía informada y protegida",
+          "is_correct": true,
+          "feedback": "Correcto. La integridad del sistema depende de la articulación de control estatal y social con sanciones creíbles."
+        },
+        {
           "letter": "B",
           "text": "Es verdadera: basta aumentar el número de órganos de control para erradicar la corrupción",
           "is_correct": false,
@@ -759,12 +765,6 @@
           "text": "Es falsa: el control institucional es irrelevante frente a la cultura ciudadana",
           "is_correct": false,
           "feedback": "Extremo opuesto: sin instituciones de control, la cultura ciudadana carece de efectos disuasivos y reparadores."
-        },
-        {
-          "letter": "A",
-          "text": "Es incompleta: el control funciona cuando los órganos tienen independencia, capacidades y consecuencias, y se articulan con una ciudadanía informada y protegida",
-          "is_correct": true,
-          "feedback": "Correcto. La integridad del sistema depende de la articulación de control estatal y social con sanciones creíbles."
         },
         {
           "letter": "D",
@@ -847,12 +847,6 @@
           "feedback": "La identidad formal del dato oculta una diferencia esencial de poder, dirección y límites."
         },
         {
-          "letter": "D",
-          "text": "El control social vigila el ejercicio del poder público con base en la publicidad de la función estatal (artículo 74), mientras la vigilancia masiva invierte el vector y puede violar la intimidad (artículo 15) si no media ley estricta y proporcional",
-          "is_correct": true,
-          "feedback": "Correcto. La dirección del ojo y el marco de derechos marcan la frontera."
-        },
-        {
           "letter": "B",
           "text": "La vigilancia estatal es siempre legítima porque la ejecuta el Presidente",
           "is_correct": false,
@@ -863,6 +857,12 @@
           "text": "El control social solo puede ejercerlo la fuerza pública",
           "is_correct": false,
           "feedback": "El control social es por definición ciudadano, no policial."
+        },
+        {
+          "letter": "D",
+          "text": "El control social vigila el ejercicio del poder público con base en la publicidad de la función estatal (artículo 74), mientras la vigilancia masiva invierte el vector y puede violar la intimidad (artículo 15) si no media ley estricta y proporcional",
+          "is_correct": true,
+          "feedback": "Correcto. La dirección del ojo y el marco de derechos marcan la frontera."
         }
       ],
       "correct_answer": "D",
@@ -887,6 +887,12 @@
       "context": "En el cierre del periodo, un colegio de Yopal diseña un plan escolar de control social y pide un juicio final a los estudiantes.",
       "options": [
         {
+          "letter": "A",
+          "text": "Es una responsabilidad compartida e insustituible: requiere derechos informados, instituciones con consecuencias y una cultura que valore la honestidad como bien público",
+          "is_correct": true,
+          "feedback": "Correcto. El control social eficaz es sistema, no gesto: información, participación, sanción y cultura."
+        },
+        {
           "letter": "B",
           "text": "Es tarea exclusiva de organismos especializados, pues la ciudadanía no tiene competencia para vigilar",
           "is_correct": false,
@@ -897,12 +903,6 @@
           "text": "Es un ritual simbólico sin efectos materiales sobre la gestión pública",
           "is_correct": false,
           "feedback": "La evidencia colombiana muestra obras corregidas, contratos suspendidos y funcionarios sancionados por presión de controles ciudadanos organizados."
-        },
-        {
-          "letter": "A",
-          "text": "Es una responsabilidad compartida e insustituible: requiere derechos informados, instituciones con consecuencias y una cultura que valore la honestidad como bien público",
-          "is_correct": true,
-          "feedback": "Correcto. El control social eficaz es sistema, no gesto: información, participación, sanción y cultura."
         },
         {
           "letter": "D",

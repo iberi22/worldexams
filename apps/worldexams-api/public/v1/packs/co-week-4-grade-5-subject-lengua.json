@@ -13,12 +13,6 @@
       "context": "En Bogotá, Mariana describe a su abuela para una tarea del colegio.",
       "options": [
         {
-          "letter": "D",
-          "text": "Bajita, de cabello blanco recogido y ojos alegres.",
-          "is_correct": true,
-          "feedback": "Es correcta porque repite los tres rasgos que da la descripción."
-        },
-        {
           "letter": "A",
           "text": "Alta, de cabello negro y ojos tristes.",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "Un señor pescador de Cartagena.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no se menciona ningún pescador."
+        },
+        {
+          "letter": "D",
+          "text": "Bajita, de cabello blanco recogido y ojos alegres.",
+          "is_correct": true,
+          "feedback": "Es correcta porque repite los tres rasgos que da la descripción."
         }
       ],
       "correct_answer": "D",
@@ -59,12 +59,6 @@
       "context": "En Medellín, Santiago describe el patio de su colegio en una carta para su primo.",
       "options": [
         {
-          "letter": "C",
-          "text": "Que es un lugar amplio y alegre con árboles, bancas y cancha.",
-          "is_correct": true,
-          "feedback": "Es correcta porque resume los detalles del ambiente con otras palabras."
-        },
-        {
           "letter": "A",
           "text": "Que es un salón pequeño y oscuro sin ventanas.",
           "is_correct": false,
@@ -75,6 +69,12 @@
           "text": "Que es una tienda con jugos y dulces.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no se mencionan ventas ni productos."
+        },
+        {
+          "letter": "C",
+          "text": "Que es un lugar amplio y alegre con árboles, bancas y cancha.",
+          "is_correct": true,
+          "feedback": "Es correcta porque resume los detalles del ambiente con otras palabras."
         },
         {
           "letter": "D",
@@ -105,16 +105,16 @@
       "context": "En Cali, Juan lee sobre un niño que ayuda a sus vecinos después del colegio.",
       "options": [
         {
-          "letter": "B",
-          "text": "Que es solidario y alegre con sus compañeros.",
-          "is_correct": true,
-          "feedback": "Es correcta porque ayudar, compartir y animar muestran solidaridad y alegría."
-        },
-        {
           "letter": "A",
           "text": "Que es egoísta y le gusta pelear.",
           "is_correct": false,
           "feedback": "Es incorrecta porque sus acciones son de ayuda, no de pelea."
+        },
+        {
+          "letter": "B",
+          "text": "Que es solidario y alegre con sus compañeros.",
+          "is_correct": true,
+          "feedback": "Es correcta porque ayudar, compartir y animar muestran solidaridad y alegría."
         },
         {
           "letter": "C",
@@ -151,12 +151,6 @@
       "context": "En Cartagena, Valentina describe la playa al atardecer en su diario de vacaciones.",
       "options": [
         {
-          "letter": "D",
-          "text": "Un ambiente tranquilo y hermoso al atardecer.",
-          "is_correct": true,
-          "feedback": "Es correcta porque los colores, la brisa y el sonido suave crean calma."
-        },
-        {
           "letter": "A",
           "text": "Una tormenta peligrosa con vientos fuertes.",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "Un mercado ruidoso lleno de gente.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no hay mención de ventas ni multitudes."
+        },
+        {
+          "letter": "D",
+          "text": "Un ambiente tranquilo y hermoso al atardecer.",
+          "is_correct": true,
+          "feedback": "Es correcta porque los colores, la brisa y el sonido suave crean calma."
         }
       ],
       "correct_answer": "D",
@@ -197,12 +197,6 @@
       "context": "En una papelería de Pereira, Mariana compra un cuaderno de 6000 pesos y paga con un billete de 10000 pesos.",
       "options": [
         {
-          "letter": "D",
-          "text": "Que es amable y la cuenta es correcta porque 10000 menos 6000 es 4000.",
-          "is_correct": true,
-          "feedback": "Es correcta porque une la cualidad de paciente con la operación bien hecha."
-        },
-        {
           "letter": "A",
           "text": "Que es grosera y no devolvió nada.",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "Que Mariana pagó con monedas de 500 pesos.",
           "is_correct": false,
           "feedback": "Es incorrecta porque pagó con un billete de 10000 pesos."
+        },
+        {
+          "letter": "D",
+          "text": "Que es amable y la cuenta es correcta porque 10000 menos 6000 es 4000.",
+          "is_correct": true,
+          "feedback": "Es correcta porque une la cualidad de paciente con la operación bien hecha."
         }
       ],
       "correct_answer": "D",
@@ -243,16 +243,16 @@
       "context": "En Manizales, el curso analiza dos descripciones del mismo niño.",
       "options": [
         {
-          "letter": "B",
-          "text": "Porque usa una comparación, una acción y una cualidad que lo muestran completo.",
-          "is_correct": true,
-          "feedback": "Es correcta porque combina imagen, movimiento y valor humano."
-        },
-        {
           "letter": "A",
           "text": "Porque es más corta y no da detalles.",
           "is_correct": false,
           "feedback": "Es incorrecta porque es más larga y sí da detalles."
+        },
+        {
+          "letter": "B",
+          "text": "Porque usa una comparación, una acción y una cualidad que lo muestran completo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque combina imagen, movimiento y valor humano."
         },
         {
           "letter": "C",
@@ -289,13 +289,13 @@
       "context": "En Bogotá, dos estudiantes describen el mismo salón de clase.",
       "options": [
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que cada uno mira el mismo lugar con una actitud distinta.",
           "is_correct": true,
           "feedback": "Es correcta porque el contraste muestra miradas opuestas sobre el mismo salón."
         },
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que describen dos colegios de ciudades diferentes.",
           "is_correct": false,
           "feedback": "Es incorrecta porque ambos hablan del mismo salón."
@@ -313,7 +313,7 @@
           "feedback": "Es incorrecta porque ambos dan detalles concretos del lugar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las descripciones reflejan la mirada de quien escribe. Analizar el contraste revela actitudes y emociones, no solo datos del lugar. Esta lectura crítica también invita a describir con equilibrio y respeto.",
       "difficulty": "8",
       "images": [],
@@ -335,12 +335,6 @@
       "context": "En Cali, el periódico escolar debe elegir la mejor descripción de la plaza de mercado para invitar a visitarla.",
       "options": [
         {
-          "letter": "C",
-          "text": "La plaza huele a frutas frescas, brilla con colores vivos y se escucha la risa de los vendedores que también ofrecen jugos naturales.",
-          "is_correct": true,
-          "feedback": "Es correcta porque usa olores, colores y sonidos que atraen al lector."
-        },
-        {
           "letter": "A",
           "text": "La plaza es un lugar.",
           "is_correct": false,
@@ -351,6 +345,12 @@
           "text": "La plaza es fea, sucia y nadie debería ir.",
           "is_correct": false,
           "feedback": "Es incorrecta porque rechaza al lector en vez de invitarlo."
+        },
+        {
+          "letter": "C",
+          "text": "La plaza huele a frutas frescas, brilla con colores vivos y se escucha la risa de los vendedores que también ofrecen jugos naturales.",
+          "is_correct": true,
+          "feedback": "Es correcta porque usa olores, colores y sonidos que atraen al lector."
         },
         {
           "letter": "D",

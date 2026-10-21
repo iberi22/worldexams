@@ -64,7 +64,7 @@ La respuesta correcta es A) «barrio». La palabra aparece en la descripción y 
  <!-- feedback: Incorrecto. "únicamente cuando reciben un premio" contradice "cuando alguien lo necesita", porque la ayuda no depende de un premio. -->
 
 ### Explicacion Pedagogica
-La respuesta correcta es A). «Comparten la plaza» muestra una actividad común y «se ayudan» indica que las personas colaboran. La frase no habla de una familia lejana, de compras ni de premios; describe la convivencia de los vecinos. Reconocer estas palabras ayuda a comprender cómo se relacionan las personas de una comunidad.
+«Comparten la plaza» muestra una actividad común y «se ayudan» indica que las personas colaboran. La frase no habla de una familia lejana, de compras ni de premios; describe la convivencia de los vecinos. Reconocer estas palabras ayuda a comprender cómo se relacionan las personas de una comunidad.
 
 ## Question 3 [D5-D6]
 **ID:** CO-LEN-4-2026-W10-mi-barrio-y-mi-comunidad-001-MASTERY-bundle-v3
@@ -87,7 +87,7 @@ La respuesta correcta es A). «Comparten la plaza» muestra una actividad común
  <!-- feedback: Incorrecto. "una biblioteca" no demuestra que sea el único lugar de encuentro; el texto solo informa de ese espacio. -->
 
 ### Explicacion Pedagogica
-La respuesta correcta es A). El texto menciona que la biblioteca abre de lunes a viernes y que allí leen los niños mientras los adultos conversan. Por eso se puede inferir que el espacio reúne a personas de distintas edades durante varios días. Las otras opciones añaden afirmaciones que el texto no permite sostener.
+El texto menciona que la biblioteca abre de lunes a viernes y que allí leen los niños mientras los adultos conversan. Por eso se puede inferir que el espacio reúne a personas de distintas edades durante varios días. Las otras opciones añaden afirmaciones que el texto no permite sostener.
 
 ## Question 4 [D5-D6]
 **ID:** CO-LEN-4-2026-W10-mi-barrio-y-mi-comunidad-001-MASTERY-bundle-v4
@@ -110,7 +110,7 @@ La respuesta correcta es A). El texto menciona que la biblioteca abre de lunes a
  <!-- feedback: Correcto. "basura" y "juegos están deteriorados" muestran los problemas; "familias quieren recuperarlo" indica que hay que limpiar y cuidar. -->
 
 ### Explicacion Pedagogica
-La opción A responde directamente a los dos problemas del texto: la basura y el deterioro de los juegos. Además, considera que el parque es un espacio común y que las familias quieren recuperarlo para usarlo con seguridad. Las otras opciones no resuelven los problemas descritos o reducen el uso del espacio.
+La opción correcta responde directamente a los dos problemas del texto: la basura y el deterioro de los juegos. Además, considera que el parque es un espacio común y que las familias quieren recuperarlo para usarlo con seguridad. Las otras opciones no resuelven los problemas descritos o reducen el uso del espacio.
 
 ## Question 5 [D5-D6]
 **ID:** CO-LEN-4-2026-W10-mi-barrio-y-mi-comunidad-001-MASTERY-bundle-v5
@@ -178,7 +178,7 @@ La opción A es la más adecuada porque tiene en cuenta las tres propuestas y re
  <!-- feedback: Correcto. "Los sábados", "Después de un rato" y "todos recogen" ordenan el encuentro, las actividades y la limpieza en una secuencia. -->
 
 ### Explicacion Pedagogica
-La opción A identifica la organización temporal del texto. La expresión «Los sábados» presenta la costumbre, «Después de un rato» marca el paso del tiempo y «todos recogen» cierra la descripción con una acción de cuidado. Reconocer conectores y acciones permite explicar cómo el texto construye una secuencia y valorar la convivencia comunitaria.
+La opción correcta identifica la organización temporal del texto. La expresión «Los sábados» presenta la costumbre, «Después de un rato» marca el paso del tiempo y «todos recogen» cierra la descripción con una acción de cuidado. Reconocer conectores y acciones permite explicar cómo el texto construye una secuencia y valorar la convivencia comunitaria.
 
 ## Question 8 [D9-D10]
 **ID:** CO-LEN-4-2026-W10-mi-barrio-y-mi-comunidad-001-MASTERY-bundle-v8
@@ -201,4 +201,4 @@ La opción A identifica la organización temporal del texto. La expresión «Los
  <!-- feedback: Incorrecto. Elegir solo "18" ignora "14" y "8"; una cifra más alta no describe todas las necesidades del barrio. -->
 
 ### Explicacion Pedagogica
-La opción A integra las dos Interventiones y los resultados de la encuesta. Las familias pudieron escoger más de una opción, por lo que las cifras no expresan necesariamente desacuerdo; muestran diferentes necesidades que la comunidad debe estudiar. Descartar la iluminación, afirmar un desacuerdo o considerar únicamente los juegos sería reducir información importante y tomar una decisión poco equilibrada.
+La opción correcta integra las dos Interventiones y los resultados de la encuesta. Las familias pudieron escoger más de una opción, por lo que las cifras no expresan necesariamente desacuerdo; muestran diferentes necesidades que la comunidad debe estudiar. Descartar la iluminación, afirmar un desacuerdo o considerar únicamente los juegos sería reducir información importante y tomar una decisión poco equilibrada.

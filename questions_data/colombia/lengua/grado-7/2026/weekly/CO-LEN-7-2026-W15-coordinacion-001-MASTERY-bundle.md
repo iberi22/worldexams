@@ -156,9 +156,9 @@ La coordinación explicativa utiliza locuciones como "es decir", "esto es", "o s
 
 ### Opciones
 - [ ] A) La primera expresa una duda y la segunda una certeza absoluta. <!-- feedback: Incorrecto. Ambas son afirmaciones sobre hechos ocurridos. -->
-- [x] B) La primera muestra una secuencia lógica esperada y la segunda una situación inesperada o contraria. <!-- feedback: ¡Correcto! El nexo copulativo suma hechos, mientras que el adversativo subraya que no ocurrió lo que se esperaba. -->
+- [ ] B) La primera oración es falsa porque siempre que llueve fuerte los ríos suben. <!-- feedback: Incorrecto. El análisis es lingüístico sobre la intención del nexo, no sobre verdades geográficas universales. -->
 - [ ] C) Ambas dicen exactamente lo mismo, solo cambia el estilo de escritura del autor. <!-- feedback: Incorrecto. El cambio de "y" por "pero" y la negación alteran totalmente el sentido lógico de la frase. -->
-- [ ] D) La primera oración es falsa porque siempre que llueve fuerte los ríos suben. <!-- feedback: Incorrecto. El análisis es lingüístico sobre la intención del nexo, no sobre verdades geográficas universales. -->
+- [x] D) La primera muestra una secuencia lógica esperada y la segunda una situación inesperada o contraria. <!-- feedback: ¡Correcto! El nexo copulativo suma hechos, mientras que el adversativo subraya que no ocurrió lo que se esperaba. -->
 
 ### Explicacion Pedagogica
 Los nexos coordinantes no solo unen palabras, sino que establecen marcos lógicos (suma vs. oposición) que el lector debe interpretar para comprender la postura del emisor.

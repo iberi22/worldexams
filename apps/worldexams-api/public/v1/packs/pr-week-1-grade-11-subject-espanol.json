@@ -881,18 +881,18 @@
         },
         {
           "letter": "C",
-          "text": "La destrucción del bosque no es solo un problema ecológico abstracto, sino un factor directo de riesgo socioeconómico para las familias vulnerables de la planicie.",
-          "is_correct": true,
-          "feedback": "¡Correcto! El biólogo conecta la deforestación de la montaña (pérdida de esponja natural) con el colapso material directo de los hogares humildes ubicados río abajo, revelando el costo social de la desidia ambiental."
-        },
-        {
-          "letter": "D",
           "text": "El bosque de El Yunque debe cerrarse al acceso público de científicos para evitar la erosión del suelo.",
           "is_correct": false,
           "feedback": "Incorrecto. El autor no pide prohibir la investigación o el acceso público controlado, sino frenar el desarrollo comercial y la deforestación de la cuenca."
+        },
+        {
+          "letter": "D",
+          "text": "La destrucción del bosque no es solo un problema ecológico abstracto, sino un factor directo de riesgo socioeconómico para las familias vulnerables de la planicie.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El biólogo conecta la deforestación de la montaña (pérdida de esponja natural) con el colapso material directo de los hogares humildes ubicados río abajo, revelando el costo social de la desidia ambiental."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La lectura crítica evalúa el alcance ético y social de un argumento científico. El biólogo demuestra de manera convincente que el daño ecológico en El Yunque no es una preocupación meramente contemplativa, sino una causa directa de desastres materiales futuros para los seres humanos más vulnerables de la isla.",
       "difficulty": "10",
       "images": [],

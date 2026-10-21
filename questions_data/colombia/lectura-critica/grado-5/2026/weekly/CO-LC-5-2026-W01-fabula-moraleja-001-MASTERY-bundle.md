@@ -34,14 +34,14 @@ Comprensión inferencial, elementos narrativos y enseñanza explícita/implícit
 ¿Cuál es la actitud inicial del chigüiro hacia la tortuga morrocoy antes de iniciar la carrera?
 
 ### Opciones
-- [x] D) Arrogante y confiada, burlándose de la lentitud de la tortuga.
-  <!-- feedback: El texto indica que el chigüiro presumía y despreciaba a la tortuga por sus patas cortas. -->
 - [ ] A) Temerosa y prudente, reconociendo el esfuerzo de la tortuga.
   <!-- feedback: El chigüiro no sintió temor, al contrario, se durmió confiando en su superioridad. -->
 - [ ] B) Indiferente y triste, rechazando la propuesta de correr.
   <!-- feedback: El chigüiro no estuvo triste ni rechazó el reto; lo aceptó entre risas. -->
 - [ ] C) Generosa y solidaria, ofreciéndole ventaja a la tortuga.
   <!-- feedback: La fábula no muestra gestos de generosidad por parte del chigüiro. -->
+- [x] D) Arrogante y confiada, burlándose de la lentitud de la tortuga.
+  <!-- feedback: El texto indica que el chigüiro presumía y despreciaba a la tortuga por sus patas cortas. -->
 
 ### Explicacion Pedagogica
 La comprensión literal exige identificar la caracterización de los personajes a partir de las acciones y adjetivos explícitos del texto.
@@ -57,10 +57,10 @@ La comprensión literal exige identificar la caracterización de los personajes 
 ¿Qué moraleja o enseñanza principal se deduce del desenlace de esta historia?
 
 ### Opciones
-- [x] B) La constancia y la humildad vencen a la arrogancia y la pereza.
-  <!-- feedback: La perseverancia de la tortuga le permitió ganar frente a la excesiva confianza y descuido del chigüiro. -->
 - [ ] A) Es preferible dormir siestas largas antes de realizar esfuerzos físicos.
   <!-- feedback: La siesta del chigüiro fue la causa principal de su derrota en la competencia. -->
+- [x] B) La constancia y la humildad vencen a la arrogancia y la pereza.
+  <!-- feedback: La perseverancia de la tortuga le permitió ganar frente a la excesiva confianza y descuido del chigüiro. -->
 - [ ] C) Los animales más veloces siempre ganan todas las competencias.
   <!-- feedback: El relato demuestra precisamente lo contrario al dar la victoria al animal más lento pero constante. -->
 - [ ] D) Las carreras entre animales deben realizarse únicamente de noche.
@@ -80,12 +80,12 @@ La moraleja es una enseñanza ética o práctica que se desprende de la resoluci
 ¿Cuál era la verdadera intención pragmática del zorro al elogiar la voz del cuervo?
 
 ### Opciones
-- [x] C) Provocar que el cuervo abriera el pico para arrebatarle el queso al caer.
-  <!-- feedback: El halago era un engaño calculado para lograr que el cuervo soltara la comida. -->
 - [ ] A) Disfrutar verdaderamente de un concierto musical en la montaña.
   <!-- feedback: Al zorro no le interesaba el canto sino apoderarse del alimento. -->
 - [ ] B) Ayudar al cuervo a mejorar su técnica de vocalización.
   <!-- feedback: El relato no muestra un propósito pedagógico por parte del zorro. -->
+- [x] C) Provocar que el cuervo abriera el pico para arrebatarle el queso al caer.
+  <!-- feedback: El halago era un engaño calculado para lograr que el cuervo soltara la comida. -->
 - [ ] D) Convencer al cuervo de compartir voluntariamente la mitad del alimento.
   <!-- feedback: El zorro no buscaba compartir, sino quedarse con todo el queso. -->
 
@@ -103,14 +103,14 @@ El análisis pragmático identifica la intención oculta del emisor detrás de s
 ¿Qué refrán popular colombiano sintetiza mejor la lección de esta fábula?
 
 ### Opciones
-- [x] D) "Al adulador no se le debe dar crédito, pues busca su propio beneficio".
-  <!-- feedback: Advierte sobre los peligros de confiar en halagos insinceros motivados por el interés personal. -->
 - [ ] A) "A caballo regalado no se le mira el colmillo".
   <!-- feedback: Este refrán se refiere a aceptar regalos sin criticar sus defectos, lo cual no aplica a la traición del zorro. -->
 - [ ] B) "En boca cerrada no entran moscas".
   <!-- feedback: Alude a la prudencia al hablar para no cometer errores verbales, pero no captura la adulación tramposa. -->
 - [ ] C) "Camarón que se duerme se lo lleva la corriente".
   <!-- feedback: Se refiere a la pereza o descuido general, no específicamente al engaño mediante elogios. -->
+- [x] D) "Al adulador no se le debe dar crédito, pues busca su propio beneficio".
+  <!-- feedback: Advierte sobre los peligros de confiar en halagos insinceros motivados por el interés personal. -->
 
 ### Explicacion Pedagogica
 Establecer relaciones entre moralejas fabulísticas y refranes populares consolida la interpretación semántica abstracta.
@@ -126,14 +126,14 @@ Establecer relaciones entre moralejas fabulísticas y refranes populares consoli
 ¿Qué recurso literario predomina en la caracterización de los personajes de esta fábula?
 
 ### Opciones
-- [x] D) Personificación o prosopopeya, al atribuir cualidades y comportamientos humanos a los insectos.
-  <!-- feedback: Los insectos cantan, trabajan con previsión y piden refugio como seres humanos. -->
 - [ ] A) Hipérbaton, al alterar drásticamente el orden gramatical de todas las oraciones.
   <!-- feedback: La estructura sintáctica de la narración conserva el orden canónico del español. -->
 - [ ] B) Metáfora pura, al sustituir los nombres de los insectos por elementos minerales.
   <!-- feedback: No se sustituyen los seres por minerales, sino que se les otorgan rasgos humanos. -->
 - [ ] C) Onomatopeya repetitiva, al imitar únicamente ruidos de la naturaleza sin utilizar palabras.
   <!-- feedback: El texto utiliza oraciones narrativas formales en prosa. -->
+- [x] D) Personificación o prosopopeya, al atribuir cualidades y comportamientos humanos a los insectos.
+  <!-- feedback: Los insectos cantan, trabajan con previsión y piden refugio como seres humanos. -->
 
 ### Explicacion Pedagogica
 La personificación es la figura central de las fábulas, mediante la cual los animales encarnan virtudes y vicios humanos.
@@ -149,12 +149,12 @@ La personificación es la figura central de las fábulas, mediante la cual los a
 ¿Cuál es la causa directa de que el perro perdiera su alimento?
 
 ### Opciones
-- [x] C) Su propia codicia y la confusión entre una ilusión óptica y la realidad.
-  <!-- feedback: Desear el hueso del reflejo por codicia lo llevó a soltar el verdadero hueso que llevaba. -->
 - [ ] A) La corriente fuerte del río que derribó el puente de madera.
   <!-- feedback: El puente no se cayó; el perro soltó el hueso voluntariamente por gruñir. -->
 - [ ] B) El ataque sorpresivo de otro perro real que estaba oculto bajo el agua.
   <!-- feedback: El texto aclara expresamente que se trataba de su propio reflejo en el agua. -->
+- [x] C) Su propia codicia y la confusión entre una ilusión óptica y la realidad.
+  <!-- feedback: Desear el hueso del reflejo por codicia lo llevó a soltar el verdadero hueso que llevaba. -->
 - [ ] D) Que el hueso estaba demasiado pesado para ser transportado en el hocico.
   <!-- feedback: El peso del hueso no fue la causa de la pérdida, sino el intento de atacar al reflejo. -->
 
@@ -172,12 +172,12 @@ El análisis de relaciones causa-efecto en la trama argumental permite evaluar l
 ¿Qué consecuencia tiene la ausencia de una moraleja explícita redactada al final del texto?
 
 ### Opciones
-- [x] C) Exige que el lector deduzca de manera autónoma la lección a partir de las acciones de la trama.
+- [x] A) Exige que el lector deduzca de manera autónoma la lección a partir de las acciones de la trama.
   <!-- feedback: Cuando la moraleja es implícita, el lector debe realizar una inferencia global sobre el comportamiento del personaje. -->
-- [ ] A) Demuestra que el texto no es una fábula sino un artículo de noticias científicas.
-  <!-- feedback: La estructura narrativa y la personificación mantienen el género fabulístico independientemente de la moraleja explícita. -->
 - [ ] B) Impide totalmente comprender el significado o desenlace de la narración.
   <!-- feedback: Las acciones claras del texto permiten inferir fácilmente el mensaje sin necesidad de una frase explicativa final. -->
+- [ ] C) Demuestra que el texto no es una fábula sino un artículo de noticias científicas.
+  <!-- feedback: La estructura narrativa y la personificación mantienen el género fabulístico independientemente de la moraleja explícita. -->
 - [ ] D) Indica que el autor olvidó escribir el último párrafo por falta de espacio.
   <!-- feedback: La omisión de la moraleja explícita es un recurso estilístico frecuente en la fábula moderna. -->
 
@@ -195,10 +195,10 @@ Diferenciar entre moraleja explícita e implícita fortalece la capacidad de an�
 ¿Qué argumento crítico refuta mejor la postura del estudiante sobre el valor pedagógico de la fábula?
 
 ### Opciones
-- [x] B) El uso de animales parlantes es una alegoría simbólica que facilita reflexionar sobre conductas y valores humanos de forma amena.
-  <!-- feedback: La fábula recurre al simbolismo animal para representar dilemas morales universales aplicables a la convivencia humana. -->
 - [ ] A) El estudiante tiene razón porque los libros escolares sólo deben contener textos de biografía e historia real.
   <!-- feedback: Limitar la lectura a textos expositivos desconoce el valor formativo y ético de la literatura de ficción. -->
+- [x] B) El uso de animales parlantes es una alegoría simbólica que facilita reflexionar sobre conductas y valores humanos de forma amena.
+  <!-- feedback: La fábula recurre al simbolismo animal para representar dilemas morales universales aplicables a la convivencia humana. -->
 - [ ] C) Los animales de la fábula realmente hablaron en el pasado pero perdieron la capacidad con los años.
   <!-- feedback: Es una afirmación científicamente falsa que desconoce la naturaleza de la ficción literaria. -->
 - [ ] D) Las fábulas sólo sirven para enseñar nombres de especies biológicas a niños pequeños.

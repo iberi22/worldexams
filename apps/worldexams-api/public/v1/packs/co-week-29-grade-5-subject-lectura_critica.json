@@ -348,18 +348,18 @@
         },
         {
           "letter": "C",
-          "text": "\"Sara y Miguel encontraron el agua que canta, escribieron sus nombres en el cuaderno y entendieron que la verdadera herencia era la historia de sus abuelos\".",
-          "is_correct": true,
-          "feedback": "Cierra la búsqueda, deja una reflexión sobre la memoria familiar y deja al lector con un aprendizaje valioso."
-        },
-        {
-          "letter": "D",
           "text": "\"El loro voló lejos y nunca más apareció, así que los niños olvidaron todo lo del cuaderno\".",
           "is_correct": false,
           "feedback": "Cierra la aventura en forma negativa y borra la reflexión sobre la memoria familiar."
+        },
+        {
+          "letter": "D",
+          "text": "\"Sara y Miguel encontraron el agua que canta, escribieron sus nombres en el cuaderno y entendieron que la verdadera herencia era la historia de sus abuelos\".",
+          "is_correct": true,
+          "feedback": "Cierra la búsqueda, deja una reflexión sobre la memoria familiar y deja al lector con un aprendizaje valioso."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Evaluar un final narrativo aplicando criterios explícitos de coherencia, intención y aporte cultural al lector.",
       "difficulty": "10",
       "images": [],

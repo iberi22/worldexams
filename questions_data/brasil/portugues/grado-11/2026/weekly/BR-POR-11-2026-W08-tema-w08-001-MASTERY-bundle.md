@@ -456,10 +456,10 @@ Censurar Tomás Antônio Gonzaga (o árcade de Vila Rica conspirador de 1789) ou
 Considerando essa fundamentação científica de Letras, avalie qual diagnóstico descritivo está correto sobre a construção da beleza ecológica do país de vestibular de prestígio:
 
 ### Opciones
-- [ ] A) Ambos os projetos falham de forma estética total porque o Brasil colonial do século dezoito era pobre de ovelhas e não possuía palmeiras de sabiás.
-  <!-- feedback: Incorreto. O país possuía extraordinária fauna e botânica tropical que foram mitificadas poeticamente com refinamento lírico absoluto por intelectuais. -->
-- [x] B) O Arcadismo busca a harmonia clássica europeia de pastores de ovelhas sob o cenário mineiro de Vila Rica de 1789, ao passo que o Romantismo funda a nacionalidade mística ufanista do império elevando heróis indígenas a cavaleiros medievais puros de castelos na floresta tropical.
+- [x] A) O Arcadismo busca a harmonia clássica europeia de pastores de ovelhas sob o cenário mineiro de Vila Rica de 1789, ao passo que o Romantismo funda a nacionalidade mística ufanista do império elevando heróis indígenas a cavaleiros medievais puros de castelos na floresta tropical.
   <!-- feedback: Correto! Ambas as escolas utilizaram conotações estéticas da natureza do país de forma a apoiar projetos ideológicos políticos de soberania. -->
+- [ ] B) Ambos os projetos falham de forma estética total porque o Brasil colonial do século dezoito era pobre de ovelhas e não possuía palmeiras de sabiás.
+  <!-- feedback: Incorreto. O país possuía extraordinária fauna e botânica tropical que foram mitificadas poeticamente com refinamento lírico absoluto por intelectuais. -->
 - [ ] C) Os poetas românticos de São Paulo foram proibidos de imprimir folhetins por leis do trânsito que regulavam as praias coloniais de forma de farsa.
   <!-- feedback: Incorreto. Folhetins e romances de costumes circulavam livremente nas mídias impressas cariocas imperiais, de altíssima influência cultural de Letras. -->
 - [ ] D) A poesia pastoril de ovelhas árcade de Tomás Antônio Gonzaga foi inventada por robôs de informática de startups paulistanas de luxo em 2026 para chocar os prefeitos.
@@ -484,10 +484,10 @@ Avalie criticamente o uso desse teatro adaptado de condoreirismo sob a perspecti
   <!-- feedback: Incorreto. Recontextualizar a poesia condoreira hugoana contra as senzalas do passado para combater o trabalho infantil moderno de feiras é rico processo de intertextualidade de mídias. -->
 - [ ] B) O coletivo usa conectivos de Portugal de 1500 de editais públicos judiciais para prender em cartórios federais quem comprar carvão em Brasília.
   <!-- feedback: Incorreto. É uma peça lírica de oratória cívica teatral comunitária didática escolar de estudantes, longe de atuações cartorárias oficiais burocráticas secas. -->
-- [x] C) O teatro funde a oratória grandiloquente condoreira de Castro Alves de imagens cósmicas de liberdade ("ventos, condor") sob formato de rap cívico de protesto social para comover, indignar e mobilizar a comunidade de moradores contra abusos e desigualdades em Brasília.
-  <!-- feedback: Correto! A poesia condoreira hugoana é revitalizada de forma brilhante no asfalto moderno periférico das feiras do país de forma inclusiva e democrática. -->
-- [ ] D) Trata-se de uma receita culinária de cozinha de bolos mineiros, prescrevendo temperos de comida de forma de bulas de remédio de informática para robôs do Paraná.
+- [ ] C) Trata-se de uma receita culinária de cozinha de bolos mineiros, prescrevendo temperos de comida de forma de bulas de remédio de informática para robôs do Paraná.
   <!-- feedback: Incorreto. O teatro comunitário adaptado de Castro Alves é cívico-social de direitos humanos urgente de proteção infantil viária de Brasília, sem receitas de comida ou robôs. -->
+- [x] D) O teatro funde a oratória grandiloquente condoreira de Castro Alves de imagens cósmicas de liberdade ("ventos, condor") sob formato de rap cívico de protesto social para comover, indignar e mobilizar a comunidade de moradores contra abusos e desigualdades em Brasília.
+  <!-- feedback: Correto! A poesia condoreira hugoana é revitalizada de forma brilhante no asfalto moderno periférico das feiras do país de forma inclusiva e democrática. -->
 
 ### Explicacion Pedagogica
 A adaptação contemporânea de mídias eletrônicas de poemas condoreiros da terceira geração romântica brasileira (Castro Alves de 1868) por estudantes de Brasília para combater mazelas socioeconômicas modernas (como o trabalho infantil escravizante nas feiras livres periféricas de Brasília) de forma de rap cívico de protesto de alta oratória condoreira constitui um brilhante e elogiável processo de intertextualidade de base nacional (BNCC). Unir a semiótica de asas de liberdade de mídias do "condor hugoano" contra a opressão física de senzalas de feiras de Brasília comove, indigna, conscientiza e mobiliza de forma lúdica, democrática, inclusiva e de prestígio a comunidade de moradores leigos, provando o valor ético e social contínuo das heranças poéticas cívicas do país de forma prática nas metrópoles.

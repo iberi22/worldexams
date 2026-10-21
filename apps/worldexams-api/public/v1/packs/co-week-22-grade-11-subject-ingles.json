@@ -13,16 +13,16 @@
       "context": "Discussing ai & future of work in Medellín.",
       "options": [
         {
-          "letter": "B",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
           "text": "alleviate",
           "is_correct": false,
           "feedback": "Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed."
+        },
+        {
+          "letter": "B",
+          "text": "exacerbate",
+          "is_correct": true,
+          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
         },
         {
           "letter": "C",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W22-ai-future-work-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on ai & future of work in Bucaramanga, what is implied about the role of Advanced Reporting Verbs in shaping public opinion?",
-      "context": "Discussing ai & future of work in Bucaramanga.",
+      "statement": "Read the text and answer the question.\n\n\"A call centre in Bucaramanga introduced a chatbot last year to answer simple questions from customers, such as opening hours and delivery dates. Many employees were worried that they would lose their jobs. However, the company kept all 120 workers. Instead of answering the same easy questions all day, they now deal with complaints and difficult cases that the chatbot cannot solve. The manager says the work is more interesting, but also more stressful, because every call is a problem. The company is now offering a free course on how to handle angry customers.\"\n\nWhat is the main idea of the text?",
+      "context": "A local news report from Bucaramanga about a call centre that introduced a chatbot.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "The chatbot changed the workers' tasks instead of replacing the workers.",
           "is_correct": true,
-          "feedback": "The report treats Advanced Reporting Verbs as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
+          "feedback": "Correct. The text says the company kept all 120 workers and that they now handle difficult cases, so the chatbot changed what they do rather than taking their jobs."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "The chatbot caused 120 workers to lose their jobs.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "Incorrect. The text says the opposite: 'the company kept all 120 workers'. The fear of losing jobs is mentioned, but it did not happen."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Customers prefer talking to a chatbot rather than to a person.",
           "is_correct": false,
-          "feedback": "Advanced Reporting Verbs add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "Incorrect. The text gives no information about what customers prefer; it only says the chatbot answers simple questions."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Barranquilla.",
+          "text": "The new jobs are easier and less stressful than before.",
           "is_correct": false,
-          "feedback": "The report presents Advanced Reporting Verbs as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "Incorrect. The manager says the work is more interesting 'but also more stressful', so the text contradicts the idea that it is easier."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "To find the main idea, combine the key facts: a chatbot arrived, nobody was fired, and the workers moved to more complex tasks. The idea that technology changes tasks rather than eliminating jobs connects all the sentences, while the distractors contradict a specific fact or add information the text does not contain.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-11-2026-W22-ai-future-work-001-MASTERY-bundle-v6",
-      "statement": "According to a recent report on ai & future of work in Cali, what is implied about the role of Advanced Reporting Verbs in shaping public opinion?",
-      "context": "Discussing ai & future of work in Cali.",
+      "statement": "Read the text and answer the question.\n\n\"This semester, my professor in Cali allowed us to use an AI assistant for our essays, with one condition: we had to attach the full conversation with the tool. At first I thought it would make everything easier. It did not. The assistant gave me fast answers, but some of them were wrong, and two of the books it recommended did not even exist. I spent hours checking every fact. In the end, my essay was better than usual, but not because the AI wrote it. It was better because I had to question everything it said.\"\n\nWhat can we infer about the writer's experience?",
+      "context": "A blog post by a university student from Cali about using AI tools to study.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats Advanced Reporting Verbs as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "The AI assistant wrote most of the essay for the writer.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "Incorrect. The writer states the essay was better 'not because the AI wrote it', which rules out this interpretation."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "The professor did not allow students to use AI tools.",
           "is_correct": false,
-          "feedback": "Advanced Reporting Verbs add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "Incorrect. The first sentence says the professor allowed the AI assistant, with the condition of attaching the conversation."
+        },
+        {
+          "letter": "C",
+          "text": "Checking the AI's mistakes made the writer think more carefully.",
+          "is_correct": true,
+          "feedback": "Correct. The writer says the essay improved 'because I had to question everything it said', so verifying the tool's errors is what improved the work."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Manizales.",
+          "text": "The AI recommended useful books that the writer could not find in the library.",
           "is_correct": false,
-          "feedback": "The report presents Advanced Reporting Verbs as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "Incorrect. The text says two of the recommended books 'did not even exist', which means they were invented, not simply unavailable."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "An inference connects several clues. The writer expected the tool to make the task easier, found false facts and invented books, and finally explains that questioning the tool improved the essay. The correct option summarises that cause-and-effect; each distractor contradicts an explicit sentence of the text.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -285,36 +285,36 @@
     },
     {
       "id": "CO-ING-11-2026-W22-ai-future-work-001-MASTERY-bundle-v7",
-      "statement": "According to a recent report on ai & future of work in Barranquilla, what is implied about the role of Advanced Reporting Verbs in shaping public opinion?",
-      "context": "Discussing ai & future of work in Barranquilla.",
+      "statement": "Read the text and answer the question.\n\n\"DataCaribe, a technology company in Barranquilla, is looking for three data labelling assistants. Your job will be to review images and texts and classify them so that our AI systems can learn. No university degree is required, but you must have finished secondary school and have a good level of English, because most of the material is in that language. The contract is for six months, from Monday to Friday, 8:00 a.m. to 2:00 p.m. You can work from home after the first month of training at our office. Send your CV before 30 May.\"\n\nAccording to the advertisement, why is English necessary for this job?",
+      "context": "A job advertisement published by a technology company in Barranquilla.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats Advanced Reporting Verbs as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Because the training at the office is given by foreign teachers.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "Incorrect. The text mentions a month of training at the office, but it says nothing about who teaches it or in what language."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Because the assistants will write their reports for clients abroad.",
           "is_correct": false,
-          "feedback": "Advanced Reporting Verbs add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "Incorrect. The advertisement does not mention reports or foreign clients; the job is to review and classify images and texts."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Cartagena.",
+          "text": "Because a university degree in languages is required.",
           "is_correct": false,
-          "feedback": "The report presents Advanced Reporting Verbs as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "Incorrect. The text clearly says 'No university degree is required', so this reason contradicts the advertisement."
+        },
+        {
+          "letter": "D",
+          "text": "Because most of the material the assistants will review is in English.",
+          "is_correct": true,
+          "feedback": "Correct. The advertisement says applicants need good English 'because most of the material is in that language', which gives the exact reason."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "This detail question is answered by locating the connector 'because' in the advertisement, which introduces the reason for the English requirement. Distractors that sound plausible (foreign teachers, clients abroad) must be rejected because the text never mentions them, and one directly contradicts the statement about degrees.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -331,36 +331,36 @@
     },
     {
       "id": "CO-ING-11-2026-W22-ai-future-work-001-MASTERY-bundle-v8",
-      "statement": "According to a recent report on ai & future of work in Pereira, what is implied about the role of Advanced Reporting Verbs in shaping public opinion?",
-      "context": "Discussing ai & future of work in Pereira.",
+      "statement": "Read the text and answer the question.\n\n\"Dear Editor, Last week your newspaper published an article saying that machines will take half of the jobs in Pereira in the next ten years. I think that headline was irresponsible. Nobody can predict the future with that precision, and the article did not mention which jobs or which studies. My grandfather saw tractors arrive on the coffee farms, and people said the same thing. Some jobs disappeared, but new ones appeared too. Young people need information to prepare, not fear. I hope your next article explains which skills will be useful. Sincerely, Martha Ríos.\"\n\nWhy did Martha Ríos write this letter?",
+      "context": "An opinion letter from a Pereira resident to a regional newspaper about automation.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "To criticise an alarming article and ask for more useful information.",
           "is_correct": true,
-          "feedback": "The report treats Advanced Reporting Verbs as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
+          "feedback": "Correct. She calls the headline 'irresponsible' and ends by asking the newspaper to explain which skills will be useful, so she criticises and requests better information."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "To thank the newspaper for warning people about job losses.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "Incorrect. She does not thank the newspaper; she says the headline was irresponsible and caused fear."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "To explain how tractors are used on coffee farms today.",
           "is_correct": false,
-          "feedback": "Advanced Reporting Verbs add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "Incorrect. The tractors are an example from her grandfather's time to show that predictions of job loss were exaggerated before; they are not the purpose of the letter."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bogotá.",
+          "text": "To announce that half of the jobs in Pereira will disappear.",
           "is_correct": false,
-          "feedback": "The report presents Advanced Reporting Verbs as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "Incorrect. That is the claim of the article she is criticising; she argues that nobody can predict it with that precision."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Purpose questions ask why a text was written. In a letter to the editor, the opening reaction ('I think that headline was irresponsible') and the closing request ('I hope your next article explains...') usually reveal the purpose. The example of the tractors supports her argument but is not the reason for writing.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -473,12 +473,6 @@
       "context": "Discussing ai & future of work in Bucaramanga.",
       "options": [
         {
-          "letter": "D",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -495,6 +489,12 @@
           "text": "did",
           "is_correct": false,
           "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+        },
+        {
+          "letter": "D",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
         }
       ],
       "correct_answer": "D",
@@ -752,29 +752,29 @@
           "letter": "A",
           "text": "The current strategy is directed towards the wrong objective.",
           "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "feedback": "Correct. 'Bark up the wrong tree' comes from hunting dogs barking at a tree the animal is not in, so it means putting effort into the wrong cause or the wrong solution."
         },
         {
           "letter": "B",
           "text": "They are literally looking for something in the trees of Manizales.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads the idiom word for word; nobody in the debate is searching any trees, because the phrase is figurative and describes a mistaken strategy."
         },
         {
           "letter": "C",
           "text": "The approach is too noisy and aggressive.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. 'Barking' here does not describe loud or aggressive behaviour; the idiom is about aiming at the wrong target, not about the tone of the discussion."
         },
         {
           "letter": "D",
           "text": "A new environmental project involving trees should be started.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The speaker is criticising the current approach, not proposing a new project; 'tree' is part of a fixed expression and has no literal meaning here."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'To bark up the wrong tree' means to look for a cause or a solution in the wrong place. The words 'with this approach' show that the speaker is questioning the strategy itself, so only the figurative reading fits; the literal options ignore that an idiom is a fixed expression whose meaning is not the sum of its words.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-ING-11-2026-W22-ai-future-work-001-MASTERY-bundle-v18",
-      "statement": "In a high-level debate about ai & future of work, Mariana says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mariana mean?",
-      "context": "Discussing ai & future of work in Bucaramanga.",
+      "statement": "Two coworkers talk about the new AI system at their office in Bucaramanga.\n\nSergio: 'Did the manager explain how the new system will affect our schedules?'\nDiana: 'Not yet. They're keeping us in the dark until the training starts next week.'\n\nWhat does Diana mean?",
+      "context": "A conversation between two coworkers in a Bucaramanga office about a new AI system.",
       "options": [
         {
           "letter": "A",
-          "text": "The current strategy is directed towards the wrong objective.",
+          "text": "The managers have not given the employees information about the changes.",
           "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "feedback": "Correct. 'Keep someone in the dark' means not to tell them something; her reply 'Not yet' confirms that the employees have no information."
         },
         {
           "letter": "B",
-          "text": "They are literally looking for something in the trees of Cartagena.",
+          "text": "The office will turn off the lights to save energy.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads 'dark' literally; the idiom is about information, and nothing in the dialogue refers to electricity."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The training will take place at night.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. Diana says the training starts next week, but she gives no time of day; 'in the dark' does not mean at night here."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "The managers have already explained everything clearly.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. Diana begins with 'Not yet', which shows that the explanation has not happened, so this is the opposite of her meaning."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'To keep someone in the dark' means to hide information from them. The question 'Did the manager explain...?' and the answer 'Not yet' create the context that confirms the idiomatic meaning. Students should check that an interpretation agrees with the rest of the conversation before choosing a literal reading.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -837,36 +837,36 @@
     },
     {
       "id": "CO-ING-11-2026-W22-ai-future-work-001-MASTERY-bundle-v19",
-      "statement": "In a high-level debate about ai & future of work, Alejandro says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Alejandro mean?",
-      "context": "Discussing ai & future of work in Bucaramanga.",
+      "statement": "During a meeting in a Bogotá software company, the team leader says:\n\nTeam leader: 'The client tested the app and found too many errors. I'm afraid we'll have to go back to the drawing board.'\n\nWhat does the team leader mean?",
+      "context": "A team meeting in a Bogotá software company about a delayed project.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Cali.",
+          "text": "The team should draw pictures to explain the app to the client.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This is a literal reading of 'drawing board'; the idiom has nothing to do with making drawings."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The client has approved the app and the project is finished.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. The client found too many errors, and 'I'm afraid' introduces bad news, so the project is clearly not approved."
         },
         {
           "letter": "C",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "The team should return to the office where they worked before.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. 'Go back' here is not about a physical place; the expression refers to restarting a plan, not changing offices."
+        },
+        {
+          "letter": "D",
+          "text": "The team needs to start the design again from the beginning.",
+          "is_correct": true,
+          "feedback": "Correct. 'Go back to the drawing board' means to start planning again because the first attempt failed; the many errors found by the client explain why."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Back to the drawing board' is used when a plan fails and must be redesigned from the start. The pragmatic marker 'I'm afraid' signals that the speaker is giving bad news, and the cause, too many errors, matches the idea of starting again. Literal options ignore the figurative meaning.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -883,36 +883,36 @@
     },
     {
       "id": "CO-ING-11-2026-W22-ai-future-work-001-MASTERY-bundle-v20",
-      "statement": "In a high-level debate about ai & future of work, Lucía says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Lucía mean?",
-      "context": "Discussing ai & future of work in Cartagena.",
+      "statement": "On his first day at a logistics company in Medellín, Julián talks to his supervisor.\n\nSupervisor: 'The robots in the warehouse are new for everybody, so don't worry. We'll learn the ropes together.'\n\nWhat does the supervisor mean?",
+      "context": "A conversation between a supervisor and a new employee in a Medellín logistics company.",
       "options": [
         {
-          "letter": "B",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "letter": "A",
+          "text": "Julián must learn how to tie ropes to move boxes.",
+          "is_correct": false,
+          "feedback": "Incorrect. This takes 'ropes' literally; the idiom refers to the basic knowledge needed for a job, not to real ropes."
         },
         {
-          "letter": "A",
-          "text": "They are literally looking for something in the trees of Barranquilla.",
-          "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "letter": "B",
+          "text": "Everyone will learn how the new system works step by step, as a team.",
+          "is_correct": true,
+          "feedback": "Correct. 'Learn the ropes' means to learn how to do a job or use a system; 'together' and 'don't worry' show the supervisor is reassuring Julián."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The supervisor already knows everything about the robots.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. The supervisor says the robots are 'new for everybody', which includes himself, so he does not know everything yet."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Julián will be fired if he makes a mistake with the robots.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The tone is reassuring ('don't worry'), so there is no threat of losing the job in the message."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Learn the ropes' means to learn the basic procedures of a new job or activity. In this dialogue, the reassuring phrase 'don't worry' and the word 'together' show both the meaning of the idiom and the supervisor's intention: to reduce the new employee's anxiety about the technology.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

@@ -59,12 +59,6 @@
       "context": "Discussing international relations in Barranquilla.",
       "options": [
         {
-          "letter": "D",
-          "text": "frustrate",
-          "is_correct": true,
-          "feedback": "'Frustrate' means to prevent someone from achieving what they had prepared for, which is what the clause describes. Both sides have positions ready that this delegation is unable to address, and that mismatch is what the word names."
-        },
-        {
           "letter": "A",
           "text": "reassure",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "amend",
           "is_correct": false,
           "feedback": "'Amend' means to change the terms of a document or rule, and the delegation has no draft to amend. The clause says it cannot address positions, which is about substance rather than revision."
+        },
+        {
+          "letter": "D",
+          "text": "frustrate",
+          "is_correct": true,
+          "feedback": "'Frustrate' means to prevent someone from achieving what they had prepared for, which is what the clause describes. Both sides have positions ready that this delegation is unable to address, and that mismatch is what the word names."
         }
       ],
       "correct_answer": "D",
@@ -105,16 +105,16 @@
       "context": "Discussing international relations in Cali.",
       "options": [
         {
-          "letter": "B",
-          "text": "erode",
-          "is_correct": true,
-          "feedback": "'Erode' means to wear away gradually, which matches the effect described: confidence is built up over the reopening announcement and then worn down by a failure that repeats. The word also fits the slow time scale implied."
-        },
-        {
           "letter": "A",
           "text": "galvanise",
           "is_correct": false,
           "feedback": "'Galvanise' means to inspire people to act, and the sentence describes the opposite result for the traders who planned around the reopening. Nothing suggests their confidence grew."
+        },
+        {
+          "letter": "B",
+          "text": "erode",
+          "is_correct": true,
+          "feedback": "'Erode' means to wear away gradually, which matches the effect described: confidence is built up over the reopening announcement and then worn down by a failure that repeats. The word also fits the slow time scale implied."
         },
         {
           "letter": "C",
@@ -151,16 +151,16 @@
       "context": "Discussing international relations in Bucaramanga.",
       "options": [
         {
-          "letter": "B",
-          "text": "hollow out",
-          "is_correct": true,
-          "feedback": "To hollow something out is to remove what gave it substance while leaving the outward form intact, which is exactly what the sentence describes. The document keeps its wording and loses its force, and the final clause confirms nothing was formally breached."
-        },
-        {
           "letter": "A",
           "text": "build up",
           "is_correct": false,
           "feedback": "'Build up' means to strengthen, and the sentence describes the opposite: a text that looks substantial and carries no obligation. Nothing in the clause suggests reinforcement."
+        },
+        {
+          "letter": "B",
+          "text": "hollow out",
+          "is_correct": true,
+          "feedback": "To hollow something out is to remove what gave it substance while leaving the outward form intact, which is exactly what the sentence describes. The document keeps its wording and loses its force, and the final clause confirms nothing was formally breached."
         },
         {
           "letter": "C",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W23-international-relations-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on international relations in Bucaramanga, what is implied about the role of Nominalization in shaping public opinion?",
-      "context": "Discussing international relations in Bucaramanga.",
+      "statement": "Read the text and answer the question.\n\n\"Every October, students from twelve schools in Bucaramanga take part in a Model United Nations. Each team represents a country and must defend its position on a real global problem, such as access to clean water. This year, a team from a rural school represented Japan. None of them had ever left Santander, but they read reports for weeks and practised their speeches in English every afternoon. They did not win the prize for best delegation, but other students voted their final speech the most convincing of the event. Their teacher said the real prize was their new confidence.\"\n\nWhat is the main idea of the text?",
+      "context": "A school magazine article from Bucaramanga about a Model United Nations event.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "The rural team won the prize for the best delegation.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. The text says 'They did not win the prize for best delegation'; they only received the students' vote for the most convincing speech."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Students in Bucaramanga often travel to Japan to study.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. The text says the team members had never left Santander; they only represented Japan in a simulation."
+        },
+        {
+          "letter": "C",
+          "text": "A team of rural students prepared hard and gained confidence in a Model UN event.",
+          "is_correct": true,
+          "feedback": "Correct. The text focuses on the rural team: their weeks of preparation, the vote for their speech and the teacher's comment about confidence."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bucaramanga.",
+          "text": "The Model United Nations discusses only the problem of clean water.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. Clean water is given as one example introduced by 'such as', so it is not the only topic discussed."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "The main idea is the statement that the whole paragraph develops. After a short introduction to the event, every sentence is about the rural team's effort and result, ending with the teacher's comment on confidence. Distractors either change a fact (winning the prize) or treat an example as the full topic.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -243,12 +243,6 @@
       "context": "Discussing international relations in Manizales.",
       "options": [
         {
-          "letter": "D",
-          "text": "It treats the event as an established fact rather than something happening now.",
-          "is_correct": true,
-          "feedback": "'Border visit' is a noun phrase, so the event is presented as a completed and identifiable thing instead of a live action. The reader receives the visit as a settled fact, which is what the nominal style does to agency and timing."
-        },
-        {
           "letter": "A",
           "text": "It makes the event sound as though it has only just begun.",
           "is_correct": false,
@@ -265,6 +259,12 @@
           "text": "It removes every trace of the visit from the sentence.",
           "is_correct": false,
           "feedback": "The visit is named directly in 'border visit', so it remains fully present in the headline. What changes is the grammatical status of the words, not whether the event is mentioned at all."
+        },
+        {
+          "letter": "D",
+          "text": "It treats the event as an established fact rather than something happening now.",
+          "is_correct": true,
+          "feedback": "'Border visit' is a noun phrase, so the event is presented as a completed and identifiable thing instead of a live action. The reader receives the visit as a settled fact, which is what the nominal style does to agency and timing."
         }
       ],
       "correct_answer": "D",
@@ -331,36 +331,36 @@
     },
     {
       "id": "CO-ING-11-2026-W23-international-relations-001-MASTERY-bundle-v8",
-      "statement": "According to a recent report on international relations in Pereira, what is implied about the role of Nominalization in shaping public opinion?",
-      "context": "Discussing international relations in Pereira.",
+      "statement": "Read the text and answer the question.\n\n\"Colombia and Ecuador signed an agreement last week to make life easier for people who live near the border at Ipiales and Tulcán. From January, residents of both cities will be able to cross the Rumichaca bridge with a special border card instead of a passport. The card will be free and valid for five years. Officials say about 20,000 people cross every day to work, study or visit family. However, the card will not allow its holders to travel further than 50 kilometres into the other country. Longer trips will still require a passport.\"\n\nWhat can we infer from the text?",
+      "context": "A news brief about a binational agreement between Colombia and Ecuador in Ipiales.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "letter": "A",
+          "text": "The border card will be expensive for most families.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says the card 'will be free', so it cannot be expensive."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "letter": "B",
+          "text": "A resident of Ipiales who wants to travel to Quito will still need a passport.",
+          "is_correct": true,
+          "feedback": "Correct. The card is limited to 50 kilometres and 'Longer trips will still require a passport'; Quito is much farther than 50 kilometres from the border, so a passport is needed."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Very few people cross the Rumichaca bridge every day.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. Officials estimate about 20,000 daily crossings, which is a large number, not a small one."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Medellín.",
+          "text": "After January, passports will no longer be valid at the border.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The text says passports are still required for longer trips, so they remain valid; the card is only an alternative for short trips."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "An inference applies the information in the text to a new case. The limit of 50 kilometres and the sentence about longer trips allow the reader to conclude that a trip to a distant city still needs a passport. The other options contradict explicit details: the price, the number of crossings and the validity of passports.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -377,36 +377,36 @@
     },
     {
       "id": "CO-ING-11-2026-W23-international-relations-001-MASTERY-bundle-v9",
-      "statement": "According to a recent report on international relations in Cartagena, what is implied about the role of Nominalization in shaping public opinion?",
-      "context": "Discussing international relations in Cartagena.",
+      "statement": "Read the text and answer the question.\n\n\"Cartagena will host the Caribbean Ocean Summit from 3 to 5 November at the Convention Centre. Ministers from fifteen countries will discuss fishing rules, plastic pollution and the protection of coral reefs. Because of security measures, the streets around the Convention Centre will be closed to private cars during the three days. Public buses will continue to run, but with a different route. Residents of the area must show an identity document to enter their street. The city council asks tourists to visit the historic centre in the early morning, when there will be fewer restrictions.\"\n\nAccording to the announcement, what must residents near the Convention Centre do during the summit?",
+      "context": "An announcement from the Cartagena city council about an international summit.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Leave their homes for the three days of the summit.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. The text never asks residents to leave; it only explains how they can enter their street."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Use their private cars only in the early morning.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. The streets are closed to private cars during the three days, and the early-morning advice is for tourists, not residents."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Manizales.",
+          "text": "Take a special bus to the historic centre.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. Buses continue with a different route, but no special bus to the historic centre is mentioned for residents."
+        },
+        {
+          "letter": "D",
+          "text": "Show an identity document to enter their street.",
+          "is_correct": true,
+          "feedback": "Correct. The text states that 'Residents of the area must show an identity document to enter their street', which is the exact requirement."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Detail questions require finding the sentence that refers to the exact group mentioned in the question, here 'residents'. The announcement gives different instructions to different groups (private cars, buses, tourists), and the distractors mix those instructions. Careful reading of who each sentence refers to avoids the confusion.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -423,36 +423,36 @@
     },
     {
       "id": "CO-ING-11-2026-W23-international-relations-001-MASTERY-bundle-v10",
-      "statement": "According to a recent report on international relations in Manizales, what is implied about the role of Nominalization in shaping public opinion?",
-      "context": "Discussing international relations in Manizales.",
+      "statement": "Read the text and answer the question.\n\n\"When I was your age in Manizales, I thought diplomacy meant elegant dinners and important signatures. Then I spent my first year at an embassy answering phone calls from Colombians who had lost their documents abroad. It was not glamorous, but I learned the most important lesson of my career: diplomacy is about people, not only about governments. Today, when I negotiate with other countries, I remember those phone calls. Every agreement on trade or migration finally affects a family somewhere. So if you want to become a diplomat, learn languages, but above all, learn to listen.\"\n\nWhat is the speaker's main purpose?",
+      "context": "An extract from a speech by a Colombian diplomat to students in Manizales.",
       "options": [
         {
           "letter": "A",
-          "text": "It serves as a critical tool for nuanced communication.",
+          "text": "To show students that diplomacy is about serving people and listening to them.",
           "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "feedback": "Correct. The speaker's key lesson is 'diplomacy is about people, not only about governments', and the speech ends by advising students to learn to listen."
         },
         {
           "letter": "B",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "To describe the elegant dinners that diplomats attend.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. The dinners are mentioned only as the speaker's mistaken idea as a teenager; the speech corrects that image."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "To explain how to recover a lost passport abroad.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "Incorrect. Lost documents are part of the speaker's personal story, but the speech gives no instructions about recovering them."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Manizales.",
+          "text": "To convince students that languages are not useful for diplomats.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The speaker says 'learn languages, but above all, learn to listen', which values languages while adding something more important."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Purpose is often revealed by the contrast between an initial belief and a later lesson. The speaker moves from 'I thought diplomacy meant elegant dinners' to 'diplomacy is about people', and closes with advice. Recognising the function of the anecdote, to support the lesson, prevents choosing a detail as the purpose.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -473,12 +473,6 @@
       "context": "Discussing international relations in Bogotá.",
       "options": [
         {
-          "letter": "C",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -489,6 +483,12 @@
           "text": "was",
           "is_correct": false,
           "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+        },
+        {
+          "letter": "C",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
         },
         {
           "letter": "D",
@@ -519,16 +519,16 @@
       "context": "Discussing international relations in Bucaramanga.",
       "options": [
         {
-          "letter": "B",
-          "text": "value",
-          "is_correct": true,
-          "feedback": "'The value of' is the fixed nominal phrase meaning how much something is worth, and the clause says that amount was settled separately from the wording. That separation of price from text is exactly what the phrase names."
-        },
-        {
           "letter": "A",
           "text": "meeting",
           "is_correct": false,
           "feedback": "'The meeting of' would name a gathering, and the sentence is about the act of signing rather than about a meeting taking place. The clause discusses what the signature was worth."
+        },
+        {
+          "letter": "B",
+          "text": "value",
+          "is_correct": true,
+          "feedback": "'The value of' is the fixed nominal phrase meaning how much something is worth, and the clause says that amount was settled separately from the wording. That separation of price from text is exactly what the phrase names."
         },
         {
           "letter": "C",
@@ -565,12 +565,6 @@
       "context": "Discussing international relations in Cali.",
       "options": [
         {
-          "letter": "C",
-          "text": "outcome",
-          "is_correct": true,
-          "feedback": "'Talks' is a process, so what the sentence needs to name is the thing that came out of it. 'Their outcome' is the nominal expression that lets the process act as a possessed thing, which is the structure being tested."
-        },
-        {
           "letter": "A",
           "text": "explaining",
           "is_correct": false,
@@ -581,6 +575,12 @@
           "text": "circumstance",
           "is_correct": false,
           "feedback": "'Circumstance' names a condition, and the eleven weeks of talking are not a condition that belongs to the talks. What belongs to them as the result of a process is an outcome, not the circumstances they ran in."
+        },
+        {
+          "letter": "C",
+          "text": "outcome",
+          "is_correct": true,
+          "feedback": "'Talks' is a process, so what the sentence needs to name is the thing that came out of it. 'Their outcome' is the nominal expression that lets the process act as a possessed thing, which is the structure being tested."
         },
         {
           "letter": "D",
@@ -611,16 +611,16 @@
       "context": "Discussing international relations in Pereira.",
       "options": [
         {
-          "letter": "B",
-          "text": "substance",
-          "is_correct": true,
-          "feedback": "'The substance of' is the fixed nominal phrase meaning what something actually amounts to in practice, and the clause about the report never capturing it matches exactly. The sentence is describing an essence that resists summarisation."
-        },
-        {
           "letter": "A",
           "text": "session",
           "is_correct": false,
           "feedback": "'The sessions of' would name the meetings themselves, and the clause says their character was not written down rather than that the meetings did not happen. Eleven sessions are precisely what the first part of the sentence already counts."
+        },
+        {
+          "letter": "B",
+          "text": "substance",
+          "is_correct": true,
+          "feedback": "'The substance of' is the fixed nominal phrase meaning what something actually amounts to in practice, and the clause about the report never capturing it matches exactly. The sentence is describing an essence that resists summarisation."
         },
         {
           "letter": "C",
@@ -657,12 +657,6 @@
       "context": "Discussing international relations in Cali.",
       "options": [
         {
-          "letter": "D",
-          "text": "origins",
-          "is_correct": true,
-          "feedback": "'The origins of' names the beginning or cause of something, and the clause explains where the recovery came from. Both ports and government measures appear as candidate causes, so the phrase has to be one about causation."
-        },
-        {
           "letter": "A",
           "text": "amounts",
           "is_correct": false,
@@ -679,6 +673,12 @@
           "text": "contents",
           "is_correct": false,
           "feedback": "'The contents of' would mean what is inside something, and no container is being inspected. The clause explains the cause of a recovery rather than listing items."
+        },
+        {
+          "letter": "D",
+          "text": "origins",
+          "is_correct": true,
+          "feedback": "'The origins of' names the beginning or cause of something, and the clause explains where the recovery came from. Both ports and government measures appear as candidate causes, so the phrase has to be one about causation."
         }
       ],
       "correct_answer": "D",
@@ -703,12 +703,6 @@
       "context": "Discussing international relations in Cali.",
       "options": [
         {
-          "letter": "D",
-          "text": "explained",
-          "is_correct": true,
-          "feedback": "'Explain something into existence' is not idiomatic: 'into' cannot serve as the particle of 'explain'. The record itself already exists, and what the ministry failed to do was account for the delay in it."
-        },
-        {
           "letter": "A",
           "text": "accounted",
           "is_correct": false,
@@ -725,6 +719,12 @@
           "text": "put",
           "is_correct": false,
           "feedback": "'Put the record' reverses the direction of the relationship: the ministry would be placing the record somewhere rather than committing a reason to it. The preposition 'into' also requires a motion towards an interior, not a record."
+        },
+        {
+          "letter": "D",
+          "text": "explained",
+          "is_correct": true,
+          "feedback": "'Explain something into existence' is not idiomatic: 'into' cannot serve as the particle of 'explain'. The record itself already exists, and what the ministry failed to do was account for the delay in it."
         }
       ],
       "correct_answer": "D",
@@ -752,29 +752,29 @@
           "letter": "A",
           "text": "The current strategy is directed towards the wrong objective.",
           "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "feedback": "Correct. 'Bark up the wrong tree' comes from hunting dogs barking at a tree the animal is not in, so it means putting effort into the wrong cause or the wrong solution."
         },
         {
           "letter": "B",
           "text": "They are literally looking for something in the trees of Barranquilla.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads the idiom word for word; nobody in the debate is searching any trees, because the phrase is figurative and describes a mistaken strategy."
         },
         {
           "letter": "C",
           "text": "The approach is too noisy and aggressive.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. 'Barking' here does not describe loud or aggressive behaviour; the idiom is about aiming at the wrong target, not about the tone of the discussion."
         },
         {
           "letter": "D",
           "text": "A new environmental project involving trees should be started.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The speaker is criticising the current approach, not proposing a new project; 'tree' is part of a fixed expression and has no literal meaning here."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'To bark up the wrong tree' means to look for a cause or a solution in the wrong place. The words 'with this approach' show that the speaker is questioning the strategy itself, so only the figurative reading fits; the literal options ignore that an idiom is a fixed expression whose meaning is not the sum of its words.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-ING-11-2026-W23-international-relations-001-MASTERY-bundle-v18",
-      "statement": "In a high-level debate about international relations, Valentina says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Valentina mean?",
-      "context": "Discussing international relations in Bucaramanga.",
+      "statement": "Two students in Bogotá are preparing a debate on trade agreements.\n\nValeria: 'If we only talk about exports, the judges will say we ignored the farmers.'\nTomás: 'Good point. We need to see both sides of the coin.'\n\nWhat does Tomás mean?",
+      "context": "A conversation between two students preparing a debate on trade agreements in Bogotá.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Medellín.",
+          "text": "They should study how Colombian coins are designed.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This is a literal interpretation; the idiom refers to two aspects of an issue, not to real money."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "They should talk only about the benefits for exporters.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. Valeria warns that talking only about exports is a problem, and Tomás agrees with her, so he wants to include more than one side."
         },
         {
           "letter": "C",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "He disagrees with Valeria and wants to change the topic.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. 'Good point' shows agreement, and he continues on the same topic instead of changing it."
+        },
+        {
+          "letter": "D",
+          "text": "They should present the advantages and the disadvantages of the agreements.",
+          "is_correct": true,
+          "feedback": "Correct. 'Both sides of the coin' means the positive and negative aspects of a situation; exports are one side and the effects on farmers are the other."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Both sides of the coin' is an idiom for considering the advantages and disadvantages of something. The dialogue makes the meaning clear: Valeria identifies a missing perspective and Tomás accepts it with 'Good point'. Recognising agreement markers is an important pragmatic skill in academic discussions.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -837,36 +837,36 @@
     },
     {
       "id": "CO-ING-11-2026-W23-international-relations-001-MASTERY-bundle-v19",
-      "statement": "In a high-level debate about international relations, Mateo says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mateo mean?",
-      "context": "Discussing international relations in Cartagena.",
+      "statement": "After a long meeting in Cartagena, a journalist asks a minister about the negotiations.\n\nJournalist: 'Have the two countries reached an agreement on fishing rights?'\nMinister: 'We have broken the ice. There is still a lot of work ahead, but the atmosphere is much better.'\n\nWhat does the minister mean?",
+      "context": "A press conference after a meeting between two Latin American foreign ministers in Cartagena.",
       "options": [
         {
-          "letter": "B",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "letter": "A",
+          "text": "The two countries have signed a final agreement on fishing.",
+          "is_correct": false,
+          "feedback": "Incorrect. The minister says 'There is still a lot of work ahead', which shows that the negotiation is not finished."
         },
         {
-          "letter": "A",
-          "text": "They are literally looking for something in the trees of Bucaramanga.",
-          "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "letter": "B",
+          "text": "The first difficult step was taken and the two sides started communicating better.",
+          "is_correct": true,
+          "feedback": "Correct. 'Break the ice' means to end the initial tension and start talking; he adds that much work remains, so no final agreement exists yet."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The negotiations failed and the countries stopped talking.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. He says 'the atmosphere is much better', which describes progress, not failure."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "The ships can now travel because the frozen sea has melted.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. This reads 'ice' literally; the Caribbean is not frozen, and the expression refers to tension between people."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Break the ice' describes the moment when strangers or rivals begin to relax and communicate. Diplomats often use it to report partial progress. The minister's hedging ('still a lot of work ahead') shows a typical pragmatic strategy: giving positive news without promising a result.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -883,36 +883,36 @@
     },
     {
       "id": "CO-ING-11-2026-W23-international-relations-001-MASTERY-bundle-v20",
-      "statement": "In a high-level debate about international relations, Lucía says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Lucía mean?",
-      "context": "Discussing international relations in Barranquilla.",
+      "statement": "At a student council meeting in Cali, members discuss an exchange programme with a school in Brazil.\n\nAna: 'The Brazilian school wants us to pay for all the transport.'\nFelipe: 'That's not fair. Let's meet them halfway: we pay for the buses here, and they pay for the buses in Brazil.'\n\nWhat is Felipe proposing?",
+      "context": "A meeting of a student council in Cali discussing a cultural exchange with a school in Brazil.",
       "options": [
         {
-          "letter": "B",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "letter": "A",
+          "text": "Travelling only half of the distance to Brazil.",
+          "is_correct": false,
+          "feedback": "Incorrect. This takes 'halfway' as a physical distance; Felipe is talking about sharing costs, not about where to travel."
         },
         {
-          "letter": "A",
-          "text": "They are literally looking for something in the trees of Cartagena.",
-          "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "letter": "B",
+          "text": "A compromise in which each school pays part of the cost.",
+          "is_correct": true,
+          "feedback": "Correct. 'Meet someone halfway' means to make a compromise; Felipe divides the transport costs between the two schools."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Accepting the Brazilian school's request without changes.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. He says 'That's not fair' and suggests a different plan, so he does not accept the original request."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Cancelling the exchange because it is too expensive.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. Felipe proposes a way to continue with the exchange; nothing in his answer suggests cancelling it."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Meet someone halfway' is a common expression in negotiation that means each side gives up something to reach an agreement. Felipe first rejects the original proposal ('That's not fair') and then offers a balanced alternative, which is the typical pragmatic pattern of a counter-proposal.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

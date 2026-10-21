@@ -480,10 +480,10 @@ Considerando a meta de combater a exclusão urbana local de infraestrutura agrá
   <!-- feedback: Incorreto. receitas de cozinha instrucionais servem para o preparo de comida e preparações alimentares domésticas cotidianas, longe de servir para denúncia de enchentes em periferias. -->
 - [ ] B) Soneto alexandrino poético romântico clássico do século dezoito exaltando belezas bucólicas de ninfas mitológicas romanas antigas em silêncio.
   <!-- feedback: Incorreto. A literatura romântica bucólica idealizada do passado de ninfas mitológicas não se debruça sobre os problemas concretos de saneamento e asfalto de bairros pobres modernos de hoje. -->
-- [x] C) A grande reportagem de dados e depoimentos locais, que mergulha de forma investigativa nas causas sociais das enchentes trazendo depoimentos reais de moradores e mapas de risco estaduais.
-  <!-- feedback: Correto! O gênero reportagem oferece o fôlego textual investigativo necessário para unir dados de engenharia, fotos jornalísticas de celular e as vozes reais das pessoas atingidas. -->
-- [ ] D) Certidões civis públicas oficiais registradas em cartórios municipais com assinaturas formais burocráticas secas de escrivães estaduais de forma jurídica.
+- [ ] C) Certidões civis públicas oficiais registradas em cartórios municipais com assinaturas formais burocráticas secas de escrivães estaduais de forma jurídica.
   <!-- feedback: Incorreto. Certidões cartorárias de casamento ou óbito são puramente burocráticas secas e rígidas judiciais de registro civil legal, sem o tom jornalístico amplo de mobilização social e denúncia. -->
+- [x] D) A grande reportagem de dados e depoimentos locais, que mergulha de forma investigativa nas causas sociais das enchentes trazendo depoimentos reais de moradores e mapas de risco estaduais.
+  <!-- feedback: Correto! O gênero reportagem oferece o fôlego textual investigativo necessário para unir dados de engenharia, fotos jornalísticas de celular e as vozes reais das pessoas atingidas. -->
 
 ### Explicacion Pedagogica
 Para investigar problemas estruturais densos de cunho socioeconômico e geográfico nas periferias urbanas brasileiras (como falta de asfalto de qualidade e falhas de saneamento de enchentes), o gênero "grande reportagem" jornalística constitui o instrumento mais adequado das ciências de mídias. Ele permite concatenar a voz real das pessoas afetadas na periferia de Belo Horizonte de forma humanizada com mapas de risco, infográficos, pareceres de engenheiros civis estaduais e cobranças éticas ao poder executivo municipal de maneira sólida.

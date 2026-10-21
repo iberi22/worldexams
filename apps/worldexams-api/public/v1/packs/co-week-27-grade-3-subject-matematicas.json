@@ -244,9 +244,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "La puerta, porque 2 metros equivalen a 200 centímetros y 200 es mayor que 90",
-          "is_correct": true,
-          "feedback": "Correcto. Al convertir a la misma unidad, 2 metros son 200 centímetros, y 200 centímetros es mayor que 90 centímetros."
+          "text": "Las dos medidas son iguales, porque las dos hablan de longitud",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que las dos sean longitudes no las hace iguales, porque 90 centímetros y 200 centímetros son valores distintos."
         },
         {
           "letter": "B",
@@ -262,12 +262,12 @@
         },
         {
           "letter": "D",
-          "text": "Las dos medidas son iguales, porque las dos hablan de longitud",
-          "is_correct": false,
-          "feedback": "Incorrecto. Que las dos sean longitudes no las hace iguales, porque 90 centímetros y 200 centímetros son valores distintos."
+          "text": "La puerta, porque 2 metros equivalen a 200 centímetros y 200 es mayor que 90",
+          "is_correct": true,
+          "feedback": "Correcto. Al convertir a la misma unidad, 2 metros son 200 centímetros, y 200 centímetros es mayor que 90 centímetros."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para comparar dos longitudes hay que llevarlas a la misma unidad. La puerta mide 2 metros, y como 1 metro tiene 100 centímetros, 2 metros son 200 centímetros. Al comparar 200 con 90, la puerta resulta ser la medida mayor porque 200 centímetros superan los 90 centímetros de la mesa.",
       "difficulty": "8",
       "images": [],

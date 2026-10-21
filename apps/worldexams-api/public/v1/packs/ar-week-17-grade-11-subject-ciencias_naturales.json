@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v1",
-      "statement": "Para un alcano lineal acíclico con $n = 1$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\\text{C}_n\\text{H}_{2n+2}$?",
-      "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 1.",
+      "statement": "¿Cuál es la fórmula general de los alcanos de cadena abierta?",
+      "context": "En una clase de química de un secundario de Neuquén se repasan las familias de hidrocarburos que se extraen en la provincia.",
       "options": [
         {
           "letter": "A",
-          "text": "$\\text{C}_{1}\\text{H}_{4}$",
-          "is_correct": true,
-          "feedback": "Correcto. $2(1) + 2 = 4$, por lo que la fórmula es $\\text{C}_{1}\\text{H}_{4}$."
+          "text": "CₙH₂ₙ",
+          "is_correct": false,
+          "feedback": "Incorrecto. CₙH₂ₙ es la fórmula general de los alquenos con un doble enlace (o de los cicloalcanos), no de los alcanos."
         },
         {
           "letter": "B",
-          "text": "$\\text{C}_{1}\\text{H}_{6}$",
+          "text": "CₙH₂ₙ₋₂",
           "is_correct": false,
-          "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
+          "feedback": "Incorrecto. CₙH₂ₙ₋₂ corresponde a los alquinos, que tienen un triple enlace y cuatro hidrógenos menos que el alcano."
         },
         {
           "letter": "C",
-          "text": "$\\text{C}_{1}\\text{H}_{0}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta es la fórmula para alquinos."
+          "text": "CₙH₂ₙ₊₂",
+          "is_correct": true,
+          "feedback": "Correcto. Los alcanos son saturados (sólo enlaces simples); por ejemplo, el propano C₃H₈ cumple 2 × 3 + 2 = 8."
         },
         {
           "letter": "D",
-          "text": "$\\text{C}_{1}\\text{H}_{3}$",
+          "text": "CₙHₙ",
           "is_correct": false,
-          "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
+          "feedback": "Incorrecto. Con igual número de C e H el compuesto estaría muy insaturado (como el benceno C₆H₆), no sería un alcano."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 1$ obtenemos $\\text{C}_{1}\\text{H}_{4}$.\n\n---",
+      "correct_answer": "C",
+      "explanation": "Los alcanos sólo tienen enlaces simples C–C y cada carbono completa sus 4 enlaces con hidrógenos. Eso da la fórmula CₙH₂ₙ₊₂: metano CH₄, etano C₂H₆, propano C₃H₈, butano C₄H₁₀. Cada doble enlace resta 2 hidrógenos.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.9,
+      "expected_success": 0.85,
       "bundle_id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -54,41 +54,41 @@
     },
     {
       "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v2",
-      "statement": "Para un alcano lineal acíclico con $n = 2$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\\text{C}_n\\text{H}_{2n+2}$?",
-      "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 2.",
+      "statement": "¿Cuál es el componente principal del GNC que usan los autos?",
+      "context": "En muchas estaciones de servicio de Buenos Aires los taxis cargan GNC (gas natural comprimido).",
       "options": [
         {
-          "letter": "B",
-          "text": "$\\text{C}_{2}\\text{H}_{6}$",
-          "is_correct": true,
-          "feedback": "Correcto. $2(2) + 2 = 6$, por lo que la fórmula es $\\text{C}_{2}\\text{H}_{6}$."
+          "letter": "A",
+          "text": "Propano, C₃H₈",
+          "is_correct": false,
+          "feedback": "Incorrecto. El propano es el componente principal del gas envasado en garrafas (GLP), no del gas natural."
         },
         {
-          "letter": "A",
-          "text": "$\\text{C}_{2}\\text{H}_{8}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
+          "letter": "B",
+          "text": "Metano, CH₄",
+          "is_correct": true,
+          "feedback": "Correcto. El gas natural, y por lo tanto el GNC, está formado mayoritariamente por metano, el alcano más simple."
         },
         {
           "letter": "C",
-          "text": "$\\text{C}_{2}\\text{H}_{2}$",
+          "text": "Octano, C₈H₁₈",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la fórmula para alquinos."
+          "feedback": "Incorrecto. El octano es un hidrocarburo líquido característico de la nafta, no un gas comprimido."
         },
         {
           "letter": "D",
-          "text": "$\\text{C}_{2}\\text{H}_{4}$",
+          "text": "Etileno, C₂H₄",
           "is_correct": false,
-          "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
+          "feedback": "Incorrecto. El etileno es un alqueno que se fabrica en la industria petroquímica para hacer plásticos; no es combustible vehicular."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 2$ obtenemos $\\text{C}_{2}\\text{H}_{6}$.\n\n---",
+      "explanation": "El gas natural es una mezcla en la que predomina el metano (CH₄), con pequeñas cantidades de etano y otros gases. Comprimido a alta presión se usa como GNC en vehículos. El propano y el butano forman el GLP de garrafas, y el octano es parte de la nafta.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.88,
+      "expected_success": 0.83,
       "bundle_id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -99,41 +99,41 @@
     },
     {
       "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v3",
-      "statement": "Para un alcano lineal acíclico con $n = 3$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\\text{C}_n\\text{H}_{2n+2}$?",
-      "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 3.",
+      "statement": "¿Cuántos enlaces covalentes forma habitualmente un átomo de carbono en los compuestos orgánicos?",
+      "context": "Un docente de Comodoro Rivadavia explica por qué existen millones de compuestos orgánicos.",
       "options": [
         {
-          "letter": "B",
-          "text": "$\\text{C}_{3}\\text{H}_{8}$",
-          "is_correct": true,
-          "feedback": "Correcto. $2(3) + 2 = 8$, por lo que la fórmula es $\\text{C}_{3}\\text{H}_{8}$."
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dos enlaces es lo típico del oxígeno, que tiene 6 electrones de valencia; el carbono tiene 4."
         },
         {
-          "letter": "A",
-          "text": "$\\text{C}_{3}\\text{H}_{10}$",
+          "letter": "B",
+          "text": "3",
           "is_correct": false,
-          "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
+          "feedback": "Incorrecto. Tres enlaces es lo típico del nitrógeno; el carbono necesita compartir 4 electrones para completar el octeto."
         },
         {
           "letter": "C",
-          "text": "$\\text{C}_{3}\\text{H}_{4}$",
+          "text": "1",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la fórmula para alquinos."
+          "feedback": "Incorrecto. Un solo enlace es propio del hidrógeno o de los halógenos, no del carbono."
         },
         {
           "letter": "D",
-          "text": "$\\text{C}_{3}\\text{H}_{5}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto. El carbono tiene 4 electrones de valencia y es tetravalente: forma 4 enlaces (simples, dobles o triples)."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 3$ obtenemos $\\text{C}_{3}\\text{H}_{8}$.\n\n---",
+      "correct_answer": "D",
+      "explanation": "El carbono tiene 4 electrones en su última capa y completa el octeto compartiendo 4 pares: es tetravalente. Además puede unirse a otros carbonos formando cadenas largas, ramificadas o con enlaces múltiples, lo que explica la enorme variedad de compuestos orgánicos.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.86,
+      "expected_success": 0.81,
       "bundle_id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v4",
-      "statement": "Para un alcano lineal acíclico con $n = 4$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\\text{C}_n\\text{H}_{2n+2}$?",
-      "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 4.",
+      "statement": "¿Por qué el eteno, CH₂=CH₂, se clasifica como alqueno?",
+      "context": "En el polo petroquímico de Bahía Blanca se produce eteno (etileno) para fabricar polietileno.",
       "options": [
         {
-          "letter": "D",
-          "text": "$\\text{C}_{4}\\text{H}_{10}$",
-          "is_correct": true,
-          "feedback": "Correcto. $2(4) + 2 = 10$, por lo que la fórmula es $\\text{C}_{4}\\text{H}_{10}$."
-        },
-        {
           "letter": "A",
-          "text": "$\\text{C}_{4}\\text{H}_{12}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
+          "text": "Porque tiene un enlace doble entre carbonos.",
+          "is_correct": true,
+          "feedback": "Correcto. Los alquenos se definen por tener al menos un doble enlace C=C, como el eteno."
         },
         {
           "letter": "B",
-          "text": "$\\text{C}_{4}\\text{H}_{6}$",
+          "text": "Porque tiene sólo enlaces simples entre carbonos.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la fórmula para alquinos."
+          "feedback": "Incorrecto. Los compuestos con sólo enlaces simples son alcanos; el eteno tiene un doble enlace."
         },
         {
           "letter": "C",
-          "text": "$\\text{C}_{4}\\text{H}_{8}$",
+          "text": "Porque tiene un triple enlace entre carbonos.",
           "is_correct": false,
-          "feedback": "Incorrecto. Confundió la fórmula de alcanos con la de alquenos."
+          "feedback": "Incorrecto. El triple enlace C≡C caracteriza a los alquinos, como el etino (acetileno)."
+        },
+        {
+          "letter": "D",
+          "text": "Porque contiene oxígeno en su molécula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El eteno es un hidrocarburo: sólo tiene carbono e hidrógeno, sin oxígeno."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 4$ obtenemos $\\text{C}_{4}\\text{H}_{10}$.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Los hidrocarburos se clasifican según el tipo de enlace entre carbonos: alcanos (simples), alquenos (al menos un doble) y alquinos (al menos un triple). El eteno C₂H₄ tiene un doble enlace C=C, que le permite polimerizar para formar polietileno.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.84,
+      "expected_success": 0.79,
       "bundle_id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -189,216 +189,36 @@
     },
     {
       "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v5",
-      "statement": "Para un alcano lineal acíclico con $n = 5$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\\text{C}_n\\text{H}_{2n+2}$?",
-      "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 5.",
+      "statement": "¿Cuál es el nombre IUPAC del compuesto CH₃–CH₂–CH₂–CH₃?",
+      "context": "Las garrafas de gas que se usan en zonas rurales de Santiago del Estero contienen una mezcla de propano y butano.",
       "options": [
         {
-          "letter": "B",
-          "text": "$\\text{C}_{5}\\text{H}_{12}$",
-          "is_correct": true,
-          "feedback": "Correcto. $2(5) + 2 = 12$, por lo que la fórmula es $\\text{C}_{5}\\text{H}_{12}$."
+          "letter": "A",
+          "text": "Propano",
+          "is_correct": false,
+          "feedback": "Incorrecto. El propano tiene 3 carbonos (CH₃–CH₂–CH₃); esta cadena tiene 4."
         },
         {
-          "letter": "A",
-          "text": "$\\text{C}_{5}\\text{H}_{14}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
+          "letter": "B",
+          "text": "Butano",
+          "is_correct": true,
+          "feedback": "Correcto. Es una cadena lineal de 4 carbonos con sólo enlaces simples: prefijo but- y terminación -ano."
         },
         {
           "letter": "C",
-          "text": "$\\text{C}_{5}\\text{H}_{8}$",
+          "text": "Pentano",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la fórmula para alquinos."
+          "feedback": "Incorrecto. El prefijo pent- indica 5 carbonos, y esta cadena tiene 4."
         },
         {
           "letter": "D",
-          "text": "$\\text{C}_{5}\\text{H}_{7}$",
+          "text": "Buteno",
           "is_correct": false,
-          "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
+          "feedback": "Incorrecto. La terminación -eno indica un doble enlace, pero aquí todos los enlaces C–C son simples."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 5$ obtenemos $\\text{C}_{5}\\text{H}_{12}$.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.82,
-      "bundle_id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v6",
-      "statement": "Para un alcano lineal acíclico con $n = 6$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\\text{C}_n\\text{H}_{2n+2}$?",
-      "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 6.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "$\\text{C}_{6}\\text{H}_{14}$",
-          "is_correct": true,
-          "feedback": "Correcto. $2(6) + 2 = 14$, por lo que la fórmula es $\\text{C}_{6}\\text{H}_{14}$."
-        },
-        {
-          "letter": "B",
-          "text": "$\\text{C}_{6}\\text{H}_{16}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
-        },
-        {
-          "letter": "C",
-          "text": "$\\text{C}_{6}\\text{H}_{10}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta es la fórmula para alquinos."
-        },
-        {
-          "letter": "D",
-          "text": "$\\text{C}_{6}\\text{H}_{8}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 6$ obtenemos $\\text{C}_{6}\\text{H}_{14}$.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v7",
-      "statement": "Para un alcano lineal acíclico con $n = 7$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\\text{C}_n\\text{H}_{2n+2}$?",
-      "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 7.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "$\\text{C}_{7}\\text{H}_{16}$",
-          "is_correct": true,
-          "feedback": "Correcto. $2(7) + 2 = 16$, por lo que la fórmula es $\\text{C}_{7}\\text{H}_{16}$."
-        },
-        {
-          "letter": "A",
-          "text": "$\\text{C}_{7}\\text{H}_{18}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
-        },
-        {
-          "letter": "B",
-          "text": "$\\text{C}_{7}\\text{H}_{12}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta es la fórmula para alquinos."
-        },
-        {
-          "letter": "C",
-          "text": "$\\text{C}_{7}\\text{H}_{9}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 7$ obtenemos $\\text{C}_{7}\\text{H}_{16}$.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.78,
-      "bundle_id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v8",
-      "statement": "Para un alcano lineal acíclico con $n = 8$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\\text{C}_n\\text{H}_{2n+2}$?",
-      "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 8.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "$\\text{C}_{8}\\text{H}_{18}$",
-          "is_correct": true,
-          "feedback": "Correcto. $2(8) + 2 = 18$, por lo que la fórmula es $\\text{C}_{8}\\text{H}_{18}$."
-        },
-        {
-          "letter": "A",
-          "text": "$\\text{C}_{8}\\text{H}_{20}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
-        },
-        {
-          "letter": "C",
-          "text": "$\\text{C}_{8}\\text{H}_{14}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta es la fórmula para alquinos."
-        },
-        {
-          "letter": "D",
-          "text": "$\\text{C}_{8}\\text{H}_{10}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 8$ obtenemos $\\text{C}_{8}\\text{H}_{18}$.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.76,
-      "bundle_id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v9",
-      "statement": "Para un alcano lineal acíclico con $n = 9$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\\text{C}_n\\text{H}_{2n+2}$?",
-      "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 9.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "$\\text{C}_{9}\\text{H}_{20}$",
-          "is_correct": true,
-          "feedback": "Correcto. $2(9) + 2 = 20$, por lo que la fórmula es $\\text{C}_{9}\\text{H}_{20}$."
-        },
-        {
-          "letter": "A",
-          "text": "$\\text{C}_{9}\\text{H}_{22}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
-        },
-        {
-          "letter": "B",
-          "text": "$\\text{C}_{9}\\text{H}_{16}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta es la fórmula para alquinos."
-        },
-        {
-          "letter": "D",
-          "text": "$\\text{C}_{9}\\text{H}_{11}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 9$ obtenemos $\\text{C}_{9}\\text{H}_{20}$.\n\n---",
+      "explanation": "Para nombrar se cuentan los carbonos de la cadena principal: hay 4, prefijo but-. Como todos los enlaces son simples, la terminación es -ano: butano (C₄H₁₀). Los prefijos son met- (1), et- (2), prop- (3), but- (4), pent- (5).",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -413,37 +233,37 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v10",
-      "statement": "Para un alcano lineal acíclico con $n = 10$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\\text{C}_n\\text{H}_{2n+2}$?",
-      "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 10.",
+      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la fórmula molecular del propeno (CH₂=CH–CH₃)?",
+      "context": "En una práctica de modelos moleculares en una escuela de Rosario se arma el propeno, materia prima del polipropileno.",
       "options": [
         {
-          "letter": "D",
-          "text": "$\\text{C}_{10}\\text{H}_{22}$",
-          "is_correct": true,
-          "feedback": "Correcto. $2(10) + 2 = 22$, por lo que la fórmula es $\\text{C}_{10}\\text{H}_{22}$."
-        },
-        {
           "letter": "A",
-          "text": "$\\text{C}_{10}\\text{H}_{24}$",
+          "text": "C₃H₈",
           "is_correct": false,
-          "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
+          "feedback": "Incorrecto. C₃H₈ es el propano, saturado; el doble enlace del propeno le quita 2 hidrógenos."
         },
         {
           "letter": "B",
-          "text": "$\\text{C}_{10}\\text{H}_{18}$",
+          "text": "C₃H₄",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la fórmula para alquinos."
+          "feedback": "Incorrecto. C₃H₄ corresponde al propino (triple enlace), que tiene 4 hidrógenos menos que el alcano."
         },
         {
           "letter": "C",
-          "text": "$\\text{C}_{10}\\text{H}_{12}$",
+          "text": "C₃H₆",
+          "is_correct": true,
+          "feedback": "Correcto. Un alqueno cumple CₙH₂ₙ: con n = 3, C₃H₆; contando en la fórmula: 2 + 1 + 3 = 6 H."
+        },
+        {
+          "letter": "D",
+          "text": "C₆H₃",
           "is_correct": false,
-          "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
+          "feedback": "Incorrecto. Se invirtieron los subíndices: el propeno tiene 3 carbonos y 6 hidrógenos."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 10$ obtenemos $\\text{C}_{10}\\text{H}_{22}$.\n\n---",
+      "correct_answer": "C",
+      "explanation": "Contando átomos en CH₂=CH–CH₃: 3 carbonos y 2 + 1 + 3 = 6 hidrógenos, es decir C₃H₆. Coincide con la fórmula de los alquenos CₙH₂ₙ. El propano tiene 8 H y el propino 4 H.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -458,41 +278,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v11",
-      "statement": "Para un alcano lineal acíclico con $n = 11$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\\text{C}_n\\text{H}_{2n+2}$?",
-      "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 11.",
+      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el nombre del compuesto CH≡C–CH₃?",
+      "context": "En un taller de soldadura de Rafaela se usa un gas de la familia de los alquinos para el soplete.",
       "options": [
         {
-          "letter": "B",
-          "text": "$\\text{C}_{11}\\text{H}_{24}$",
+          "letter": "A",
+          "text": "Propino",
           "is_correct": true,
-          "feedback": "Correcto. $2(11) + 2 = 24$, por lo que la fórmula es $\\text{C}_{11}\\text{H}_{24}$."
+          "feedback": "Correcto. Tiene 3 carbonos (prop-) y un triple enlace (terminación -ino)."
         },
         {
-          "letter": "A",
-          "text": "$\\text{C}_{11}\\text{H}_{26}$",
+          "letter": "B",
+          "text": "Propeno",
           "is_correct": false,
-          "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
+          "feedback": "Incorrecto. La terminación -eno indica un doble enlace, y aquí el enlace entre C1 y C2 es triple."
         },
         {
           "letter": "C",
-          "text": "$\\text{C}_{11}\\text{H}_{20}$",
+          "text": "Propano",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la fórmula para alquinos."
+          "feedback": "Incorrecto. La terminación -ano corresponde a enlaces simples solamente; esta molécula tiene un triple enlace."
         },
         {
           "letter": "D",
-          "text": "$\\text{C}_{11}\\text{H}_{13}$",
+          "text": "Etino",
           "is_correct": false,
-          "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
+          "feedback": "Incorrecto. El etino (acetileno) tiene 2 carbonos, HC≡CH; esta cadena tiene 3."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 11$ obtenemos $\\text{C}_{11}\\text{H}_{24}$.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "El nombre se arma con el prefijo por número de carbonos (3: prop-) y la terminación según el enlace múltiple: -ano simple, -eno doble, -ino triple. CH≡C–CH₃ es el propino. El gas de soplete más usado es el etino, de 2 carbonos.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.7,
       "bundle_id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle",
       "periodo": 17,
@@ -503,41 +323,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v12",
-      "statement": "Para un alcano lineal acíclico con $n = 12$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\\text{C}_n\\text{H}_{2n+2}$?",
-      "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 12.",
+      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v8",
+      "statement": "En la ecuación balanceada CH₄ + __ O₂ → CO₂ + 2 H₂O, ¿qué coeficiente corresponde al O₂?",
+      "context": "Una cocina a gas natural en un departamento de Mar del Plata quema metano con el oxígeno del aire.",
       "options": [
         {
-          "letter": "D",
-          "text": "$\\text{C}_{12}\\text{H}_{26}$",
-          "is_correct": true,
-          "feedback": "Correcto. $2(12) + 2 = 26$, por lo que la fórmula es $\\text{C}_{12}\\text{H}_{26}$."
-        },
-        {
           "letter": "A",
-          "text": "$\\text{C}_{12}\\text{H}_{28}$",
+          "text": "1",
           "is_correct": false,
-          "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
+          "feedback": "Incorrecto. Con 1 O₂ hay 2 átomos de O a la izquierda, pero a la derecha hay 2 (en CO₂) + 2 (en 2 H₂O) = 4."
         },
         {
           "letter": "B",
-          "text": "$\\text{C}_{12}\\text{H}_{22}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta es la fórmula para alquinos."
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. A la derecha hay 4 átomos de O (2 en CO₂ y 2 en 2 H₂O), así que se necesitan 2 O₂."
         },
         {
           "letter": "C",
-          "text": "$\\text{C}_{12}\\text{H}_{14}$",
+          "text": "3",
           "is_correct": false,
-          "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
+          "feedback": "Incorrecto. 3 O₂ aportaría 6 átomos de oxígeno, dos más de los que hay en los productos."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se contaron átomos de O en lugar de moléculas de O₂: 4 átomos equivalen a 2 moléculas de O₂."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 12$ obtenemos $\\text{C}_{12}\\text{H}_{26}$.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Se balancea átomo por átomo: C ya está 1 = 1, H 4 = 2 × 2. El oxígeno de los productos es 2 (CO₂) + 2 (2 H₂O) = 4 átomos, que provienen de 2 moléculas de O₂. Ecuación: CH₄ + 2 O₂ → CO₂ + 2 H₂O.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.68,
       "bundle_id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle",
       "periodo": 17,
@@ -548,41 +368,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v13",
-      "statement": "Para un alcano lineal acíclico con $n = 13$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\\text{C}_n\\text{H}_{2n+2}$?",
-      "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 13.",
+      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el nombre IUPAC de CH₃–CH(CH₃)–CH₃?",
+      "context": "En una refinería de Luján de Cuyo se separa del gas licuado un isómero ramificado llamado isobutano.",
       "options": [
         {
-          "letter": "D",
-          "text": "$\\text{C}_{13}\\text{H}_{28}$",
-          "is_correct": true,
-          "feedback": "Correcto. $2(13) + 2 = 28$, por lo que la fórmula es $\\text{C}_{13}\\text{H}_{28}$."
-        },
-        {
           "letter": "A",
-          "text": "$\\text{C}_{13}\\text{H}_{30}$",
+          "text": "Butano",
           "is_correct": false,
-          "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
+          "feedback": "Incorrecto. El butano es la cadena lineal de 4 carbonos; este compuesto tiene la misma fórmula pero ramificada."
         },
         {
           "letter": "B",
-          "text": "$\\text{C}_{13}\\text{H}_{24}$",
+          "text": "2-metilbutano",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la fórmula para alquinos."
+          "feedback": "Incorrecto. La cadena principal más larga tiene 3 carbonos, no 4; 2-metilbutano tendría 5 carbonos en total."
         },
         {
           "letter": "C",
-          "text": "$\\text{C}_{13}\\text{H}_{15}$",
+          "text": "Propilmetano",
           "is_correct": false,
-          "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
+          "feedback": "Incorrecto. Las reglas IUPAC nombran a partir de la cadena más larga con sustituyentes, no como derivado del metano."
+        },
+        {
+          "letter": "D",
+          "text": "2-metilpropano",
+          "is_correct": true,
+          "feedback": "Correcto. La cadena más larga tiene 3 C (propano) y un grupo metilo en el carbono 2."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 13$ obtenemos $\\text{C}_{13}\\text{H}_{28}$.\n\n---",
-      "difficulty": "8",
+      "explanation": "Se busca la cadena continua más larga: 3 carbonos, propano. En el carbono 2 hay un grupo –CH₃ (metilo). El nombre es 2-metilpropano (o metilpropano), fórmula C₄H₁₀, igual que el butano: son isómeros.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.66,
       "bundle_id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle",
       "periodo": 17,
@@ -593,41 +413,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v14",
-      "statement": "Para un alcano lineal acíclico con $n = 14$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\\text{C}_n\\text{H}_{2n+2}$?",
-      "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 14.",
+      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v10",
+      "statement": "Calculá la masa de CO₂ que se forma al quemar por completo 88 g de propano: C₃H₈ + 5 O₂ → 3 CO₂ + 4 H₂O. (Masas molares: C₃H₈ = 44 g/mol; CO₂ = 44 g/mol.)",
+      "context": "Una distribuidora de garrafas de Posadas quiere estimar las emisiones de CO₂ del propano que vende.",
       "options": [
         {
-          "letter": "B",
-          "text": "$\\text{C}_{14}\\text{H}_{30}$",
-          "is_correct": true,
-          "feedback": "Correcto. $2(14) + 2 = 30$, por lo que la fórmula es $\\text{C}_{14}\\text{H}_{30}$."
+          "letter": "A",
+          "text": "88 g",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se supuso relación 1:1 en masa; cada mol de propano produce 3 moles de CO₂."
         },
         {
-          "letter": "A",
-          "text": "$\\text{C}_{14}\\text{H}_{32}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
+          "letter": "B",
+          "text": "264 g",
+          "is_correct": true,
+          "feedback": "Correcto. 88 / 44 = 2 mol de C₃H₈ → 2 × 3 = 6 mol de CO₂ → 6 × 44 = 264 g."
         },
         {
           "letter": "C",
-          "text": "$\\text{C}_{14}\\text{H}_{26}$",
+          "text": "132 g",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la fórmula para alquinos."
+          "feedback": "Incorrecto. 132 g son 3 mol de CO₂, lo que produce 1 mol de propano; aquí hay 2 mol (88 g)."
         },
         {
           "letter": "D",
-          "text": "$\\text{C}_{14}\\text{H}_{16}$",
+          "text": "44 g",
           "is_correct": false,
-          "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
+          "feedback": "Incorrecto. 44 g es la masa de un solo mol de CO₂; no se aplicó la relación estequiométrica 1 : 3."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 14$ obtenemos $\\text{C}_{14}\\text{H}_{30}$.\n\n---",
-      "difficulty": "8",
+      "explanation": "Primero moles de propano: 88 g / 44 g/mol = 2 mol. Por la ecuación, 1 mol de C₃H₈ produce 3 mol de CO₂, así que 2 mol producen 6 mol. Masa: 6 mol × 44 g/mol = 264 g de CO₂.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.64,
       "bundle_id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle",
       "periodo": 17,
@@ -638,82 +458,37 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v15",
-      "statement": "Para un alcano lineal acíclico con $n = 15$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\\text{C}_n\\text{H}_{2n+2}$?",
-      "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 15.",
+      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v11",
+      "statement": "¿Cuántos isómeros estructurales tiene el C₄H₁₀?",
+      "context": "En un laboratorio de la Universidad Nacional de Cuyo se arman modelos de todas las estructuras posibles de fórmula C₄H₁₀.",
       "options": [
         {
           "letter": "A",
-          "text": "$\\text{C}_{15}\\text{H}_{32}$",
+          "text": "2",
           "is_correct": true,
-          "feedback": "Correcto. $2(15) + 2 = 32$, por lo que la fórmula es $\\text{C}_{15}\\text{H}_{32}$."
+          "feedback": "Correcto. Existen el butano (cadena lineal) y el 2-metilpropano (cadena ramificada)."
         },
         {
           "letter": "B",
-          "text": "$\\text{C}_{15}\\text{H}_{34}$",
+          "text": "1",
           "is_correct": false,
-          "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
+          "feedback": "Incorrecto. Además de la cadena lineal existe la ramificada, 2-metilpropano, con la misma fórmula."
         },
         {
           "letter": "C",
-          "text": "$\\text{C}_{15}\\text{H}_{28}$",
+          "text": "3",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la fórmula para alquinos."
+          "feedback": "Incorrecto. Con 4 carbonos sólo hay dos esqueletos posibles; los dibujos que parecen distintos suelen ser la misma molécula girada."
         },
         {
           "letter": "D",
-          "text": "$\\text{C}_{15}\\text{H}_{17}$",
+          "text": "4",
           "is_correct": false,
-          "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
+          "feedback": "Incorrecto. Se contaron como distintas representaciones equivalentes; las cadenas dobladas siguen siendo el butano."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 15$ obtenemos $\\text{C}_{15}\\text{H}_{32}$.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.62,
-      "bundle_id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "ar"
-    },
-    {
-      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v16",
-      "statement": "Para un alcano lineal acíclico con $n = 16$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\\text{C}_n\\text{H}_{2n+2}$?",
-      "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 16.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "$\\text{C}_{16}\\text{H}_{34}$",
-          "is_correct": true,
-          "feedback": "Correcto. $2(16) + 2 = 34$, por lo que la fórmula es $\\text{C}_{16}\\text{H}_{34}$."
-        },
-        {
-          "letter": "A",
-          "text": "$\\text{C}_{16}\\text{H}_{36}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
-        },
-        {
-          "letter": "C",
-          "text": "$\\text{C}_{16}\\text{H}_{30}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta es la fórmula para alquinos."
-        },
-        {
-          "letter": "D",
-          "text": "$\\text{C}_{16}\\text{H}_{18}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 16$ obtenemos $\\text{C}_{16}\\text{H}_{34}$.\n\n---",
+      "explanation": "Los isómeros estructurales tienen igual fórmula molecular y distinta conexión de átomos. Con C₄H₁₀ sólo se puede armar una cadena de 4 carbonos (butano) o una de 3 con un metilo en el centro (2-metilpropano). Doblar la cadena no crea un isómero nuevo.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -728,41 +503,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v17",
-      "statement": "Para un alcano lineal acíclico con $n = 17$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\\text{C}_n\\text{H}_{2n+2}$?",
-      "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 17.",
+      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál de estos pares está formado por isómeros estructurales?",
+      "context": "En un control de calidad de una refinería de Ensenada se comparan pares de hidrocarburos presentes en la nafta.",
       "options": [
         {
-          "letter": "B",
-          "text": "$\\text{C}_{17}\\text{H}_{36}$",
-          "is_correct": true,
-          "feedback": "Correcto. $2(17) + 2 = 36$, por lo que la fórmula es $\\text{C}_{17}\\text{H}_{36}$."
+          "letter": "A",
+          "text": "Etano y eteno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El etano es C₂H₆ y el eteno C₂H₄: tienen distinta fórmula molecular, no son isómeros."
         },
         {
-          "letter": "A",
-          "text": "$\\text{C}_{17}\\text{H}_{38}$",
+          "letter": "B",
+          "text": "Propano y propeno",
           "is_correct": false,
-          "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
+          "feedback": "Incorrecto. C₃H₈ y C₃H₆ difieren en 2 hidrógenos, así que no tienen la misma fórmula molecular."
         },
         {
           "letter": "C",
-          "text": "$\\text{C}_{17}\\text{H}_{32}$",
+          "text": "Butano y pentano",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la fórmula para alquinos."
+          "feedback": "Incorrecto. C₄H₁₀ y C₅H₁₂ tienen distinto número de carbonos: son homólogos, no isómeros."
         },
         {
           "letter": "D",
-          "text": "$\\text{C}_{17}\\text{H}_{19}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
+          "text": "Pentano y 2,2-dimetilpropano",
+          "is_correct": true,
+          "feedback": "Correcto. Ambos son C₅H₁₂ con distinta estructura: cadena lineal y cadena ramificada."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 17$ obtenemos $\\text{C}_{17}\\text{H}_{36}$.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "Para ser isómeros dos compuestos deben tener la misma fórmula molecular. El pentano y el 2,2-dimetilpropano son C₅H₁₂ (5 C: 3 + 2 metilos). Los otros pares difieren en hidrógenos o en carbonos, por eso no son isómeros.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.58,
       "bundle_id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle",
       "periodo": 17,
@@ -773,41 +548,41 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v18",
-      "statement": "Para un alcano lineal acíclico con $n = 18$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\\text{C}_n\\text{H}_{2n+2}$?",
-      "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 18.",
+      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v13",
+      "statement": "La estructura que dibujó es CH₃–CH(C₂H₅)–CH₃. ¿Cuál es el análisis correcto del nombre?",
+      "context": "En un trabajo práctico de Córdoba un estudiante nombra un compuesto como \"2-etilpropano\".",
       "options": [
         {
-          "letter": "B",
-          "text": "$\\text{C}_{18}\\text{H}_{38}$",
-          "is_correct": true,
-          "feedback": "Correcto. $2(18) + 2 = 38$, por lo que la fórmula es $\\text{C}_{18}\\text{H}_{38}$."
+          "letter": "A",
+          "text": "El nombre es correcto, porque el etilo está en el carbono 2.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regla IUPAC exige elegir la cadena continua más larga, que incluye al etilo y tiene 4 carbonos."
         },
         {
-          "letter": "A",
-          "text": "$\\text{C}_{18}\\text{H}_{40}$",
+          "letter": "B",
+          "text": "El nombre correcto es 2-etilbutano.",
           "is_correct": false,
-          "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
+          "feedback": "Incorrecto. Si la cadena principal toma el etilo, ya no queda un etilo como sustituyente sino un metilo."
         },
         {
           "letter": "C",
-          "text": "$\\text{C}_{18}\\text{H}_{34}$",
+          "text": "El nombre correcto es pentano.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la fórmula para alquinos."
+          "feedback": "Incorrecto. El pentano es lineal; este compuesto es ramificado. Son isómeros (C₅H₁₂), no el mismo compuesto."
         },
         {
           "letter": "D",
-          "text": "$\\text{C}_{18}\\text{H}_{20}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
+          "text": "El nombre correcto es 2-metilbutano.",
+          "is_correct": true,
+          "feedback": "Correcto. La cadena más larga es CH₃–CH(CH₃)–CH₂–CH₃: 4 C con un metilo en C2."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 18$ obtenemos $\\text{C}_{18}\\text{H}_{38}$.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "El error es no tomar la cadena más larga. Si se sigue por el etilo, la cadena principal tiene 4 carbonos y queda un metilo en el carbono 2: 2-metilbutano (C₅H₁₂). Un nombre con un etilo en la posición 2 indica siempre que la cadena elegida no era la más larga.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.56,
       "bundle_id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle",
       "periodo": 17,
@@ -818,42 +593,267 @@
       "country": "ar"
     },
     {
-      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v19",
-      "statement": "Para un alcano lineal acíclico con $n = 19$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\\text{C}_n\\text{H}_{2n+2}$?",
-      "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 19.",
+      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v14",
+      "statement": "¿En cuál de estos hidrocarburos se decolorará rápidamente el agua de bromo?",
+      "context": "En el laboratorio de un instituto de Junín se ensaya agua de bromo (de color anaranjado) con varios hidrocarburos líquidos.",
       "options": [
         {
           "letter": "A",
-          "text": "$\\text{C}_{19}\\text{H}_{40}$",
+          "text": "1-hexeno",
           "is_correct": true,
-          "feedback": "Correcto. $2(19) + 2 = 40$, por lo que la fórmula es $\\text{C}_{19}\\text{H}_{40}$."
+          "feedback": "Correcto. El Br₂ se adiciona al doble enlace C=C del alqueno y se consume, por eso desaparece el color."
         },
         {
           "letter": "B",
-          "text": "$\\text{C}_{19}\\text{H}_{42}$",
+          "text": "Hexano",
           "is_correct": false,
-          "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
+          "feedback": "Incorrecto. El hexano es saturado: no tiene enlaces dobles donde se adicione el bromo, y el color persiste."
         },
         {
           "letter": "C",
-          "text": "$\\text{C}_{19}\\text{H}_{36}$",
+          "text": "Octano",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la fórmula para alquinos."
+          "feedback": "Incorrecto. El octano es un alcano; sin luz ni calor no reacciona con el agua de bromo."
         },
         {
           "letter": "D",
-          "text": "$\\text{C}_{19}\\text{H}_{21}$",
+          "text": "Ciclohexano",
           "is_correct": false,
-          "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
+          "feedback": "Incorrecto. Aunque es un ciclo, tiene sólo enlaces simples: es saturado y no decolora el bromo."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 19$ obtenemos $\\text{C}_{19}\\text{H}_{40}$.\n\n---",
+      "explanation": "El agua de bromo es una prueba de insaturación. Los alquenos tienen un doble enlace que reacciona por adición: CH₂=CH–R + Br₂ → CH₂Br–CHBr–R, y el color anaranjado desaparece. Los alcanos y cicloalcanos son saturados y no reaccionan en esas condiciones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.55,
+      "bundle_id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v15",
+      "statement": "Para la combustión completa del propano, C₃H₈ + __ O₂ → 3 CO₂ + 4 H₂O, ¿cuántos moles de O₂ se necesitan por mol de propano?",
+      "context": "Una cooperativa de Chubut que reparte garrafas de propano explica a los vecinos por qué hay que ventilar los ambientes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. Productos: 3 × 2 + 4 × 1 = 10 átomos de O, que provienen de 5 moléculas de O₂."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con 3 O₂ sólo hay 6 átomos de O; alcanza para los 3 CO₂ pero no para el agua."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4 es el coeficiente del agua; con 4 O₂ faltarían 2 átomos de oxígeno."
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. 10 es el número de átomos de oxígeno; cada molécula de O₂ aporta 2, así que son 5 moléculas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se balancea primero C (3 CO₂) y H (8 H → 4 H₂O). Luego se cuentan oxígenos en los productos: 3 × 2 = 6 en el CO₂ y 4 × 1 = 4 en el agua, total 10. Como cada O₂ aporta 2 átomos, se necesitan 5 O₂ por mol de propano.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.53,
+      "bundle_id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v16",
+      "statement": "¿Por qué es peligroso un calefactor que funciona con llama amarilla en un ambiente sin ventilación?",
+      "context": "Cada invierno en Buenos Aires se registran intoxicaciones por calefactores a gas en ambientes cerrados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque produce oxígeno en exceso que se acumula en el ambiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La combustión consume oxígeno; no lo produce."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el metano se transforma en hidrógeno, que es tóxico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La combustión del metano no produce hidrógeno libre, y el hidrógeno no es el gas tóxico de estos accidentes."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la falta de O₂ produce combustión incompleta, que genera monóxido de carbono (CO), un gas tóxico e inodoro.",
+          "is_correct": true,
+          "feedback": "Correcto. Con poco O₂ el carbono no se oxida a CO₂ sino a CO, que se une a la hemoglobina e impide el transporte de oxígeno."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la combustión completa libera vapor de agua que es venenoso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vapor de agua no es tóxico; el peligro proviene del CO de la combustión incompleta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Con suficiente oxígeno la combustión es completa: CH₄ + 2 O₂ → CO₂ + 2 H₂O, con llama azul. Si falta O₂, parte del carbono forma CO (por ejemplo 2 CH₄ + 3 O₂ → 2 CO + 4 H₂O) y hollín, que da la llama amarilla. El CO se une a la hemoglobina y puede causar la muerte.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.52,
+      "bundle_id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es la evaluación correcta de esa afirmación?",
+      "context": "Un folleto sobre Vaca Muerta (Neuquén) afirma: \"el gas de Vaca Muerta es natural, por eso al quemarse no genera CO₂\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque los combustibles naturales no emiten gases de efecto invernadero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que un combustible sea natural no cambia su química: si tiene carbono, al quemarse forma CO₂."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque el metano no tiene carbono en su molécula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El metano es CH₄: tiene un átomo de carbono por molécula."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta: el metano contiene carbono y su combustión produce CO₂ (CH₄ + 2 O₂ → CO₂ + 2 H₂O), aunque emite menos CO₂ por energía que el carbón o el petróleo.",
+          "is_correct": true,
+          "feedback": "Correcto. Todo hidrocarburo produce CO₂ al quemarse; el gas sólo emite menos por unidad de energía."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, porque al quemarse produce únicamente dióxido de azufre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto principal de quemar metano es CO₂ y agua; el SO₂ proviene de impurezas de azufre, no del metano."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Natural\" se refiere al origen geológico del gas, no a su efecto ambiental. El gas de Vaca Muerta es principalmente metano, CH₄, y al quemarse forma CO₂ y H₂O. Es cierto que emite menos CO₂ por kJ que el carbón, pero no deja de emitirlo.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.54,
+      "expected_success": 0.5,
+      "bundle_id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál de estos alcanos es líquido a 25 °C y tiene el mayor punto de ebullición?",
+      "context": "Una empresa de Campana evalúa qué hidrocarburo usar como combustible líquido a temperatura ambiente (25 °C).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metano, CH₄",
+          "is_correct": false,
+          "feedback": "Incorrecto. El metano es la molécula más pequeña: sus fuerzas de London son muy débiles y hierve a −162 °C."
+        },
+        {
+          "letter": "B",
+          "text": "Propano, C₃H₈",
+          "is_correct": false,
+          "feedback": "Incorrecto. El propano hierve a −42 °C; por eso se guarda en garrafas a presión como gas licuado."
+        },
+        {
+          "letter": "C",
+          "text": "Butano, C₄H₁₀",
+          "is_correct": false,
+          "feedback": "Incorrecto. El butano hierve cerca de 0 °C, así que a 25 °C y presión normal es gaseoso."
+        },
+        {
+          "letter": "D",
+          "text": "Octano, C₈H₁₈",
+          "is_correct": true,
+          "feedback": "Correcto. Con 8 carbonos, sus fuerzas de London son mayores; hierve a unos 126 °C y es líquido a 25 °C."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En los alcanos lineales el punto de ebullición aumenta con el tamaño de la cadena, porque crecen las fuerzas de dispersión de London entre moléculas. Del metano al butano son gases a 25 °C; el octano, con 8 carbonos, es líquido y forma parte de la nafta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.48,
+      "bundle_id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es la evaluación correcta de esa interpretación del índice de octano?",
+      "context": "En una estación de servicio de La Pampa un cliente cree que la nafta \"premium 98\" contiene 98 % de octano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta: el número indica el porcentaje de octano en la nafta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El índice no mide la composición; una nafta comercial es una mezcla de muchos hidrocarburos y aditivos."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque el 2 % restante es agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nafta no contiene 2 % de agua; el agua dañaría el motor y no forma parte del índice."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta: el índice indica la resistencia a la detonación, comparada con una mezcla de isooctano (100) y n-heptano (0).",
+          "is_correct": true,
+          "feedback": "Correcto. Una nafta de 98 detona como una mezcla de 98 % de isooctano y 2 % de heptano, aunque no contenga esos compuestos."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta: el número indica el porcentaje de etanol agregado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El etanol en la nafta argentina se agrega en una proporción mucho menor (alrededor del 12 %), y no es lo que indica el índice."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El índice de octano es una escala de comportamiento: se compara la resistencia a la detonación de la nafta con mezclas de isooctano (2,2,4-trimetilpentano, valor 100) y n-heptano (valor 0). Una nafta de 98 se comporta como 98 % isooctano y 2 % heptano, sin que eso indique su composición real.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.46,
       "bundle_id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle-v20",
-      "statement": "Para un alcano lineal acíclico con $n = 20$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\\text{C}_n\\text{H}_{2n+2}$?",
-      "context": "Fórmulas moleculares de hidrocarburos saturados Caso N° 20.",
+      "statement": "El metano libera 890 kJ/mol y produce 1 mol de CO₂ por mol; el octano libera 5470 kJ/mol y produce 8 mol de CO₂ por mol. ¿Cuál emite menos CO₂ por kJ de energía?",
+      "context": "Una ONG ambiental de Mendoza compara las emisiones de dos combustibles con datos de calor de combustión.",
       "options": [
         {
-          "letter": "B",
-          "text": "$\\text{C}_{20}\\text{H}_{42}$",
-          "is_correct": true,
-          "feedback": "Correcto. $2(20) + 2 = 42$, por lo que la fórmula es $\\text{C}_{20}\\text{H}_{42}$."
+          "letter": "A",
+          "text": "El octano, porque libera más energía por mol.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comparar energía por mol no alcanza: el octano también produce 8 veces más CO₂ por mol."
         },
         {
-          "letter": "A",
-          "text": "$\\text{C}_{20}\\text{H}_{44}$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación."
+          "letter": "B",
+          "text": "El metano: 1/890 ≈ 1,12 × 10⁻³ mol CO₂/kJ, frente a 8/5470 ≈ 1,46 × 10⁻³ mol CO₂/kJ del octano.",
+          "is_correct": true,
+          "feedback": "Correcto. Dividiendo moles de CO₂ por la energía, el metano emite cerca de un 23 % menos CO₂ por kJ."
         },
         {
           "letter": "C",
-          "text": "$\\text{C}_{20}\\text{H}_{38}$",
+          "text": "Ambos emiten lo mismo, porque los dos son alcanos.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la fórmula para alquinos."
+          "feedback": "Incorrecto. Pertenecer a la misma familia no implica igual emisión; la relación C/H y el calor por mol cambian el resultado."
         },
         {
           "letter": "D",
-          "text": "$\\text{C}_{20}\\text{H}_{22}$",
+          "text": "El octano, porque tiene más hidrógenos por molécula.",
           "is_correct": false,
-          "feedback": "Incorrecto. Confundió la multiplicación $2n$ con una suma."
+          "feedback": "Incorrecto. Lo que importa es el CO₂ por kJ; el octano da 1,46 × 10⁻³ mol/kJ, más que el metano."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La fórmula general de los alcanos lineales es $\\text{C}_n\\text{H}_{2n+2}$. Reemplazando $n = 20$ obtenemos $\\text{C}_{20}\\text{H}_{42}$.",
+      "explanation": "Se calcula CO₂ por unidad de energía: metano 1 mol / 890 kJ ≈ 0,00112 mol/kJ; octano 8 mol / 5470 kJ ≈ 0,00146 mol/kJ. El metano emite menos porque tiene mayor proporción de hidrógeno: parte de su energía proviene de formar agua y no CO₂.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.52,
+      "expected_success": 0.45,
       "bundle_id": "AR-CIE-11-2026-W17-quimica-organica-hidrocarburos-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",

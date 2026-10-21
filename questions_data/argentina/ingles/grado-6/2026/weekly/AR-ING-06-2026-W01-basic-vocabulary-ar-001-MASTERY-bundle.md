@@ -208,8 +208,8 @@ Choose the most formal and correct way to ask for a pencil in class.
 ### Opciones
 - [ ] A) Give me a pencil. <!-- feedback: Incorrect. This is an imperative and can sound rude. -->
 - [ ] B) I want a pencil. <!-- feedback: Incorrect. This is just a statement of desire. -->
-- [x] C) Can I have a pencil, please? <!-- feedback: Correct. This is a polite and standard way to ask for something. -->
-- [ ] D) Pencil, now! <!-- feedback: Incorrect. This is very rude. -->
+- [ ] C) Pencil, now! <!-- feedback: Incorrect. This is very rude. -->
+- [x] D) Can I have a pencil, please? <!-- feedback: Correct. This is a polite and standard way to ask for something. -->
 
 ### Explicación Pedagógica
 El uso de "Can I...?" y "please" es fundamental para la interacción social respetuosa en el aula.

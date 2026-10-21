@@ -494,10 +494,10 @@ La teoría de Jakobson destaca que los mensajes reales son plurifuncionales. La 
   <!-- feedback: Incorrecto. El pizarrón es un canal físico tradicional perfectamente funcional y visible para el aula. -->
 - [ ] B) Falló el código, pues el idioma español en que está escrito el mensaje resulta ininteligible para los liceales.
   <!-- feedback: Incorrecto. El texto está en español estándar claro; el vocabulario fue descodificado lingüísticamente. -->
-- [x] C) La descontextualización por ausencia de marcas explícitas del emisor (quién firma) y del receptor específico (a quién va dirigido) impide completar el referente, frustrando la efectividad de la función referencial objetiva del mensaje.
-  <!-- feedback: ¡Correcto! Para que un mensaje escrito sea eficaz, el contexto situacional debe estar claro. Sin emisor identificado ni receptor delimitado, el referente queda flotando y los estudiantes no pueden operar la información de manera unívoca. -->
-- [ ] D) Falló la función poética, ya que la nota carecía de rima asonante y figuras literarias ornamentales de cortesía.
+- [ ] C) Falló la función poética, ya que la nota carecía de rima asonante y figuras literarias ornamentales de cortesía.
   <!-- feedback: Incorrecto. Una nota administrativa-escolar no requiere fines artísticos ni estéticos poéticos. -->
+- [x] D) La descontextualización por ausencia de marcas explícitas del emisor (quién firma) y del receptor específico (a quién va dirigido) impide completar el referente, frustrando la efectividad de la función referencial objetiva del mensaje.
+  <!-- feedback: ¡Correcto! Para que un mensaje escrito sea eficaz, el contexto situacional debe estar claro. Sin emisor identificado ni receptor delimitado, el referente queda flotando y los estudiantes no pueden operar la información de manera unívoca. -->
 
 ### Explicacion Pedagogica
 La comunicación requiere de la contextualización situacional para su pleno éxito. Omitir el emisor o el receptor destinatario en un mensaje impreso o escrito desarticula la referencia indispensable para la acción.

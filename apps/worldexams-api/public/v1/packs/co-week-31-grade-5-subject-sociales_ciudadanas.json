@@ -250,9 +250,9 @@
         },
         {
           "letter": "B",
-          "text": "Que oficios y profesiones son igual de necesarios: la salud depende tanto de curar como de prevenir con la limpieza.",
-          "is_correct": true,
-          "feedback": "La situación prueba que cada trabajo sostiene una parte del bienestar común."
+          "text": "Que los trabajos manuales no aportan nada a la economía.",
+          "is_correct": false,
+          "feedback": "Los oficios generan ingresos, empleos y servicios que mueven la economía local."
         },
         {
           "letter": "C",
@@ -262,12 +262,12 @@
         },
         {
           "letter": "D",
-          "text": "Que los trabajos manuales no aportan nada a la economía.",
-          "is_correct": false,
-          "feedback": "Los oficios generan ingresos, empleos y servicios que mueven la economía local."
+          "text": "Que oficios y profesiones son igual de necesarios: la salud depende tanto de curar como de prevenir con la limpieza.",
+          "is_correct": true,
+          "feedback": "La situación prueba que cada trabajo sostiene una parte del bienestar común."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Analizar que oficios y profesiones son igualmente necesarios para el bienestar de la comunidad.",
       "difficulty": "8",
       "images": [],

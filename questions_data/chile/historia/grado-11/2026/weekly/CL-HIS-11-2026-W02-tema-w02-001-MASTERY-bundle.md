@@ -438,14 +438,14 @@ El concepto de 'regalo de la Patagonia' carece de sustento objetivo. Chile pose�
 ¿Qué acción transformadora de la geografía física del sur de Chile acometió el agente Vicente Pérez Rosales en la década de 1850 para habilitar la colonización agraria germánica?
 
 ### Opciones
-- [x] A) La quema intencionada de miles de hectáreas de milenarios bosques nativos para despejar suelos con fines agrarios, transformando la ecología y el paisaje de la zona.
-  <!-- feedback: Correcto. Para abrir paso a los colonos en Llanquihue, Pérez Rosales ordenó quemar enormes extensiones de bosque nativo impenetrable (la famosa quema de los bosques del río Negro o del lago Llanquihue), un desastre ambiental del siglo XIX que habilitó la agricultura triguera y ganadera. -->
+- [ ] A) La prohibición de plantar trigo en todo el Valle Central de Chile.
+  <!-- feedback: Incorrecto. Al contrario, el trigo era el producto estrella de exportación del periodo. -->
 - [ ] B) La construcción de una represa de concreto armado sobre el lago Todos los Santos.
   <!-- feedback: Incorrecto. Las grandes centrales hidroeléctricas y represas de concreto pertenecen al desarrollo tecnológico del siglo XX. -->
 - [ ] C) El desecamiento absoluto e irreversible de todo el río Calle-Calle en Valdivia.
   <!-- feedback: Incorrecto. El río Calle-Calle continuó siendo navegable y fue el motor fluvial de la industrialización valdiviana. -->
-- [ ] D) La prohibición de plantar trigo en todo el Valle Central de Chile.
-  <!-- feedback: Incorrecto. Al contrario, el trigo era el producto estrella de exportación del periodo. -->
+- [x] D) La quema intencionada de miles de hectáreas de milenarios bosques nativos para despejar suelos con fines agrarios, transformando la ecología y el paisaje de la zona.
+  <!-- feedback: Correcto. Para abrir paso a los colonos en Llanquihue, Pérez Rosales ordenó quemar enormes extensiones de bosque nativo impenetrable (la famosa quema de los bosques del río Negro o del lago Llanquihue), un desastre ambiental del siglo XIX que habilitó la agricultura triguera y ganadera. -->
 
 ### Explicacion Pedagogica
 Bajo la lógica del siglo XIX, la selva austral era vista como un obstáculo para la soberanía y la producción agrícola. La quema descontrolada de miles de hectáreas de bosque templado lluvioso por parte de los colonizadores, coordinada por Pérez Rosales, abrió suelos productivos pero dañó irreparablemente la biodiversidad del ecosistema del sur.

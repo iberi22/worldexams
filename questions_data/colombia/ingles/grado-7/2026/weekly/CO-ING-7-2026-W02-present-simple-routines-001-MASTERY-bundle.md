@@ -240,12 +240,12 @@ What is a similarity between Carlos and Sofia?
 ### Opciones
 - [ ] A) They both study in the morning.
   <!-- feedback: Incorrect. Only Carlos studies in the morning. -->
-- [x] B) They both have work and study routines.
-  <!-- feedback: Correct! Both of them perform both activities, just at different times. -->
+- [ ] B) They don't have any similarities.
+  <!-- feedback: Incorrect. There is a clear similarity in the activities they perform. -->
 - [ ] C) They both work at night.
   <!-- feedback: Incorrect. Sofia studies at night. -->
-- [ ] D) They don't have any similarities.
-  <!-- feedback: Incorrect. There is a clear similarity in the activities they perform. -->
+- [x] D) They both have work and study routines.
+  <!-- feedback: Correct! Both of them perform both activities, just at different times. -->
 
 ### Explicacion Pedagogica
 The student analyzes and compares information about different routines to find a common factor.

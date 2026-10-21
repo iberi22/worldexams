@@ -13,12 +13,6 @@
       "context": "En Bogotá, el periódico escolar anuncia: \"Colegio siembra cien árboles en el humedal\".",
       "options": [
         {
-          "letter": "D",
-          "text": "El título breve que anuncia lo más importante del hecho.",
-          "is_correct": true,
-          "feedback": "Es correcta porque el titular resume la noticia y atrae la atención del lector."
-        },
-        {
           "letter": "A",
           "text": "La lista de precios de la tienda escolar.",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "La firma del tendero del barrio.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la firma no anuncia el hecho noticioso."
+        },
+        {
+          "letter": "D",
+          "text": "El título breve que anuncia lo más importante del hecho.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el titular resume la noticia y atrae la atención del lector."
         }
       ],
       "correct_answer": "D",
@@ -59,16 +59,16 @@
       "context": "En Medellín, una noticia cuenta que los estudiantes de quinto ganaron un concurso de lectura en la biblioteca del barrio.",
       "options": [
         {
-          "letter": "B",
-          "text": "Resume quiénes, cuándo y dónde ocurrió el hecho principal.",
-          "is_correct": true,
-          "feedback": "Es correcta porque la entrada concentra los datos básicos para entender la noticia."
-        },
-        {
           "letter": "A",
           "text": "Presenta la opinión del tendero sobre los precios.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la entrada informa hechos y no opiniones sobre precios."
+        },
+        {
+          "letter": "B",
+          "text": "Resume quiénes, cuándo y dónde ocurrió el hecho principal.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la entrada concentra los datos básicos para entender la noticia."
         },
         {
           "letter": "C",
@@ -105,16 +105,16 @@
       "context": "En Cali, Santiago lee esta noticia sobre la jornada de limpieza del río: \"Cuarenta vecinos recogieron dos toneladas de residuos el sábado en el malecón\".",
       "options": [
         {
-          "letter": "B",
-          "text": "Cuarenta vecinos recogieron residuos el sábado en el malecón.",
-          "is_correct": true,
-          "feedback": "Es correcta porque identifica a los actores, la acción, el tiempo y el lugar del hecho."
-        },
-        {
           "letter": "A",
           "text": "Los vecinos celebraron una fiesta el sábado en el malecón.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la noticia habla de limpieza, no de una fiesta."
+        },
+        {
+          "letter": "B",
+          "text": "Cuarenta vecinos recogieron residuos el sábado en el malecón.",
+          "is_correct": true,
+          "feedback": "Es correcta porque identifica a los actores, la acción, el tiempo y el lugar del hecho."
         },
         {
           "letter": "C",
@@ -151,12 +151,6 @@
       "context": "En Cartagena, Mariana lee el cuerpo de una noticia sobre la feria del libro: detalles de los invitados, los horarios y los talleres para niños.",
       "options": [
         {
-          "letter": "D",
-          "text": "Amplía los detalles del hecho con datos, testimonios y explicaciones.",
-          "is_correct": true,
-          "feedback": "Es correcta porque el cuerpo desarrolla lo anunciado en el titular y la entrada."
-        },
-        {
           "letter": "A",
           "text": "Repite solamente el titular con letras más grandes.",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "Esconde los datos para que el lector no entienda nada.",
           "is_correct": false,
           "feedback": "Es incorrecta porque su propósito es aclarar y completar la información."
+        },
+        {
+          "letter": "D",
+          "text": "Amplía los detalles del hecho con datos, testimonios y explicaciones.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el cuerpo desarrolla lo anunciado en el titular y la entrada."
         }
       ],
       "correct_answer": "D",
@@ -197,16 +197,16 @@
       "context": "En Pereira, Juan lee el cierre de una noticia sobre la final de fútbol escolar: \"El próximo sábado el equipo viajará a Manizales para la semifinal regional\".",
       "options": [
         {
-          "letter": "B",
-          "text": "Informa lo que seguirá después del hecho narrado.",
-          "is_correct": true,
-          "feedback": "Es correcta porque el cierre proyecta la consecuencia o el paso siguiente del hecho."
-        },
-        {
           "letter": "A",
           "text": "Anuncia una receta de cocina para celebrar el triunfo.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la receta no tiene relación con el hecho deportivo."
+        },
+        {
+          "letter": "B",
+          "text": "Informa lo que seguirá después del hecho narrado.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el cierre proyecta la consecuencia o el paso siguiente del hecho."
         },
         {
           "letter": "C",
@@ -289,12 +289,6 @@
       "context": "Santiago mezcló las partes de una noticia de Bogotá sobre la ciclovía dominical: \"Los talleres inician a las nueve\" / \"Ciclovía dominical llega a tres barrios\" / \"Ayer la alcaldía confirmó la ruta y los horarios\".",
       "options": [
         {
-          "letter": "D",
-          "text": "Titular: \"Ciclovía dominical llega a tres barrios\"; entrada: \"Ayer la alcaldía confirmó la ruta y los horarios\"; cuerpo: \"Los talleres inician a las nueve\".",
-          "is_correct": true,
-          "feedback": "Es correcta porque ordena de lo general a los detalles según la estructura."
-        },
-        {
           "letter": "A",
           "text": "Titular: \"Los talleres inician a las nueve\"; entrada: \"Ciclovía dominical llega a tres barrios\"; cuerpo: \"Ayer la alcaldía confirmó la ruta y los horarios\".",
           "is_correct": false,
@@ -311,6 +305,12 @@
           "text": "Titular: \"Ciclovía dominical llega a tres barrios\"; entrada: \"Los talleres inician a las nueve\"; cuerpo: \"Ayer la alcaldía confirmó la ruta\".",
           "is_correct": false,
           "feedback": "Es incorrecta porque adelanta un detalle antes de presentar los datos básicos del hecho."
+        },
+        {
+          "letter": "D",
+          "text": "Titular: \"Ciclovía dominical llega a tres barrios\"; entrada: \"Ayer la alcaldía confirmó la ruta y los horarios\"; cuerpo: \"Los talleres inician a las nueve\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque ordena de lo general a los detalles según la estructura."
         }
       ],
       "correct_answer": "D",
@@ -335,12 +335,6 @@
       "context": "Mariana debe elegir la mejor noticia para el periódico escolar de Cali sobre la huerta del colegio.",
       "options": [
         {
-          "letter": "D",
-          "text": "Titular: \"Quinto cosecha su primera huerta\". Entrada: \"Ayer los estudiantes de quinto recogieron tomate y lechuga en la huerta escolar\". Cuerpo: detalles del peso, los cursos invitados y el destino de la cosecha. Cierre: \"La próxima semana venderán la cosecha en la feria con precios desde dos mil pesos\".",
-          "is_correct": true,
-          "feedback": "Es correcta porque presenta estructura completa, datos reales y cierre con proyección clara."
-        },
-        {
           "letter": "A",
           "text": "Titular: \"Cosas\". Entrada: \"Pasaron cosas ayer\". Cuerpo: \"Todo estuvo bien y chévere\". Cierre: \"Fin\".",
           "is_correct": false,
@@ -354,12 +348,18 @@
         },
         {
           "letter": "C",
+          "text": "Titular: \"Quinto cosecha su primera huerta\". Entrada: \"Ayer los estudiantes de quinto recogieron tomate y lechuga en la huerta escolar\". Cuerpo: detalles del peso, los cursos invitados y el destino de la cosecha. Cierre: \"La próxima semana venderán la cosecha en la feria con precios desde dos mil pesos\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque presenta estructura completa, datos reales y cierre con proyección clara."
+        },
+        {
+          "letter": "D",
           "text": "Titular: \"Quinto cosecha su primera huerta\". Entrada: \"Ayer los estudiantes de quinto recogieron tomate y lechuga\". Cuerpo: lista de precios de juguetes sin relación. Cierre: receta de un pastel.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el cuerpo y el cierre se apartan del hecho anunciado."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": "Evaluar una noticia exige revisar la coherencia de todas sus partes: titular atractivo, entrada con datos básicos, cuerpo con detalles pertinentes y cierre con proyección. La opción correcta mantiene el mismo hecho de principio a fin e informa con precisión a la comunidad escolar.",
       "difficulty": "10",
       "images": [],

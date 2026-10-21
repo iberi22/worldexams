@@ -40,13 +40,11 @@ El Acuerdo Final para la Terminación del Conflicto y la Construcción de una Pa
   <!-- feedback: Correcto. La firma solemne del Acuerdo Final tuvo lugar el 24 de noviembre de 2016 en el Teatro Colón de Bogotá. -->
 - [ ] C) Medellín
   <!-- feedback: Medellín fue sede de eventos posteriores de implementación, no de la firma. -->
-
-
 - [ ] D) Cali
   <!-- feedback: La firma del 24 de noviembre de 2016 no tuvo lugar en Cali. -->
 
 ### Explicacion Pedagogica
-Tras el rechazo del plebiscito del 2 de octubre de 2016 y una renegociación con incorporaciones de la oposición, el Acuerdo Final se firmó en el Teatro Colón de Bogotá el 24 de noviembre de 2016. Consta de cinco puntos: reforma rural integral, participación política, fin del conflicto, solución al problema de drogas ilícitas y víctimas, más implementación, verificación y refrendación, y fue convalidado por el Acto Legislativo 01 de 2017, el "Acto Legislativo para la Paz".
+Tras el rechazo del plebiscito del 2 de octubre de 2016 y una renegociación con incorporaciones de la oposición, el Acuerdo Final se firmó en el Teatro Colón de Bogotá el 24 de noviembre de 2016. Consta de cinco puntos: reforma rural integral, participación política, fin del conflicto, solución al problema de drogas ilícitas y víctimas, más implementación, verificación y refrendación. El Congreso lo refrendó el 29 y 30 de noviembre de 2016; el Acto Legislativo 01 de 2016, llamado "Acto Legislativo para la Paz", creó el procedimiento legislativo especial para implementarlo, y el Acto Legislativo 02 de 2017 le dio estabilidad jurídica durante los tres periodos presidenciales siguientes.
 
 ## Question 2 [D3-D4]
 **ID:** CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v2
@@ -65,8 +63,6 @@ El Sistema Integral de Verdad, Justicia, Reparación y No Repetición NO está i
   <!-- feedback: La Comisión de la Verdad sí integra el sistema. -->
 - [x] C) La Fiscalía General de la Nación como componente del sistema
   <!-- feedback: Correcto. La Fiscalía es órgano de la justicia ordinaria, no componente del sistema transicional, aunque coordina con la JEP. -->
-
-
 - [ ] D) La Unidad de Búsqueda de Personas dadas por Desaparecidas en el contexto y en razón del conflicto armado
   <!-- feedback: La UBPD sí es componente humanitario extrajudicial del sistema. -->
 
@@ -84,14 +80,12 @@ El sistema integral se compone de cuatro mecanismos más medidas de reparación:
 La justicia transicional se define correctamente como
 
 ### Opciones
+- [x] A) El conjunto de medidas judiciales y extrajudiciales que una sociedad adopta para pasar de un conflicto o régimen abusivo a la paz y la democracia, combinando justicia, verdad, reparación y reformas institucionales
+  <!-- feedback: Correcto. Es la definición del informe del Secretario General de la ONU sobre el estado de derecho y justicia de transición. -->
 - [ ] B) La amnistía total e incondicional para todos los combatientes de un conflicto
   <!-- feedback: Las amnistías totales están prohibidas para graves crímenes de derecho internacional humanitario y derechos humanos. -->
-- [x] A) El conjunto de medidas judiciales y extrajudiciales que un sociedad adopta para pasar de un conflicto o régimen abusivo a la paz y la democracia, combinando justicia, verdad, reparación y reformas institucionales
-  <!-- feedback: Correcto. Es la definición del informe del Secretario General de la ONU sobre el estado de derecho y justicia de transición. -->
 - [ ] C) Una corte internacional que juzga siempre a los presidentes salientes
   <!-- feedback: La justicia transicional es primordialmente nacional, con apoyos internacionales. -->
-
-
 - [ ] D) El archivo de todos los casos sin investigar por mandato político
   <!-- feedback: El archivo sin debido proceso contradice los deberes internacionales de investigación de crímenes atroces. -->
 
@@ -109,14 +103,12 @@ La ONU define la justicia transicional como la gama de mecanismos judiciales y n
 La Ley 1448 de 2011, Ley de Víctimas y Restitución de Tierras, define como víctima a
 
 ### Opciones
-- [ ] B) Solo quien haya resultado muerto en operaciones militares
-  <!-- feedback: El concepto incluye supervivientes de daños individuales y colectivos por violaciones de derechos humanos e infracciones al DIH. -->
 - [x] A) Quien haya sufrido daño individual o colectivo por hechos ocurridos desde el 1 de enero de 1985 en el marco del conflicto armado, incluidos familiares y personas que intervinieron para auxiliarla
   <!-- feedback: Correcto. Esa es la definición amplia del artículo 3 de la Ley 1448 de 2011. -->
+- [ ] B) Solo quien haya resultado muerto en operaciones militares
+  <!-- feedback: El concepto incluye supervivientes de daños individuales y colectivos por violaciones de derechos humanos e infracciones al DIH. -->
 - [ ] C) Únicamente los desplazados forzadamente registrados ante una alcaldía
   <!-- feedback: El desplazamiento es una victimización entre muchas: homicidio, secuestro, minas antipersonal, violencia sexual, reclutamiento. -->
-
-
 - [ ] D) Los integrantes de grupos armados que depusieron las armas antes de 1990
   <!-- feedback: La condición de víctima se define por el daño sufrido, no por la militancia; los desmovilizados tienen otra ruta normativa. -->
 
@@ -136,17 +128,15 @@ El tratamiento diferenciado de la JEP para quien reconoce verdad plena, responsa
 ### Opciones
 - [ ] A) Amnistía incondicional con libertad plena inmediata
   <!-- feedback: El reconocimiento otorga tratamiento especial, pero los crímenes más graves y lesa humanidad conllevan sanciones propias y no libertad sin condiciones. -->
-- [x] C) Sanciones propias restaurativas con restricción efectiva de libertades,satisfacción de derechos de las víctimas y comparación de beneficios con el rechazo de la verdad
-  <!-- feedback: Correcto. A menor verdad, mayor rigor punitivo ordinario o extradicción: el sistema prioriza la verdad restaurativa. -->
 - [ ] B) Pena de cárcel igual a la ordinaria en todos los casos
   <!-- feedback: La justicia transicional existe precisamente para graduar tratamiento según el aporte a la paz y los derechos de las víctimas. -->
-
-
+- [x] C) Sanciones propias restaurativas con restricción efectiva de libertades, condicionadas a aportar verdad plena, reparar a las víctimas y garantizar la no repetición
+  <!-- feedback: Correcto. A menor verdad, mayor rigor punitivo ordinario o extradición: el sistema prioriza la verdad restaurativa. -->
 - [ ] D) Perdón presidencial automático tras la firma del acuerdo
   <!-- feedback: El Presidente no puede perdonar crímenes de lesa humanidad: es deber internacional del Estado sancionarlos. -->
 
 ### Explicacion Pedagogica
-El modelo de la JEP combina justicia retributiva y restaurativa: quienes reconocen responsabilidad ante el tribunal acceden a sanciones propias (trabajos restaurativos, restricción de libertades) con verdad, reparación y no repetición como condiciones; quienes ocultan verdad o no se someten enfrentan procesos ordinarios o extradicción, y hasta 20 años en la JEP. Este "diferencial de beneficios" es su rasgo característico frente a amnistías y comisiones de verdad puras.
+El modelo de la JEP combina justicia retributiva y restaurativa: quienes reconocen responsabilidad ante el tribunal acceden a sanciones propias (trabajos restaurativos, restricción de libertades) con verdad, reparación y no repetición como condiciones; quienes ocultan verdad o no se someten enfrentan procesos ordinarios o extradición, y hasta 20 años en la JEP. Este "diferencial de beneficios" es su rasgo característico frente a amnistías y comisiones de verdad puras.
 
 ## Question 6 [D5-D6]
 **ID:** CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v6
@@ -159,14 +149,12 @@ El modelo de la JEP combina justicia retributiva y restaurativa: quienes reconoc
 La entidad humanitaria del Sistema Integral, extrajudicial, que coordina la búsqueda, identificación y entrega digna de personas dadas por desaparecidas es
 
 ### Opciones
-- [x] C) La Unidad de Búsqueda de Personas dadas por Desaparecidas, UBPD, creada por el Decreto 589 de 2017
-  <!-- feedback: Correcto. La UBPD dirige el componente humanitario de búsqueda. -->
 - [ ] A) La Jurisdicción Especial para la Paz
   <!-- feedback: La JEP administra justicia transicional; la búsqueda humanitaria corresponde a la UBPD. -->
 - [ ] B) La Defensoría del Pueblo exclusivamente
   <!-- feedback: La Defensoría acompaña y promueve derechos, pero la búsqueda es competencia de la Unidad. -->
-
-
+- [x] C) La Unidad de Búsqueda de Personas dadas por Desaparecidas, UBPD, creada por el Decreto 589 de 2017
+  <!-- feedback: Correcto. La UBPD dirige el componente humanitario de búsqueda. -->
 - [ ] D) El Comité Internacional de la Cruz Roja como entidad estatal
   <!-- feedback: El CICR es una organización humanitaria internacional, no una entidad estatal colombiana. -->
 
@@ -186,14 +174,12 @@ La Comisión para el Esclarecimiento de la Verdad, la Convivencia y la No Repeti
 ### Opciones
 - [ ] A) El envío de condenados a prisión por crímenes del conflicto
   <!-- feedback: La Comisión no tenía funciones jurisdiccionales: su producto es narrativo y de recomendaciones, no punitivo. -->
-- [x] D) Un informe final entregado el 28 de junio de 2022 —"Hay futuro si hay verdad"— con un relato histórico del conflicto y recomendaciones de no repetición
-  <!-- feedback: Correcto. Tras tres años de trabajo, la Comisión entregó su informe final "Hay futuro si hay verdad" el 28 de junio de 2022, con recomendaciones, incluidos hallazgos sobre magnitudes y patrones. -->
 - [ ] B) La reparación económica directa a todas las víctimas del país
   <!-- feedback: La reparación económica corresponde a la Unidad para las Víctimas y a rutas administrativas y judiciales. -->
-
-
 - [ ] C) La devolución inmediata de tierras despojadas a los campesinos
   <!-- feedback: La restitución de tierras la adelantan la URT y jueces y magistrados especializados bajo la Ley 1448. -->
+- [x] D) Un informe final entregado el 28 de junio de 2022 —"Hay futuro si hay verdad"— con un relato histórico del conflicto y recomendaciones de no repetición
+  <!-- feedback: Correcto. Tras tres años de trabajo, la Comisión entregó su informe final "Hay futuro si hay verdad" el 28 de junio de 2022, con recomendaciones, incluidos hallazgos sobre magnitudes y patrones. -->
 
 ### Explicacion Pedagogica
 El informe final "Hay futuro si hay verdad" de la Comisión de la Verdad —presidida por el padre Francisco de Roux— estimó cerca de 450.000 víctimas de homicidio en el periodo 1985-2018, documentó patrones de responsabilidad, afectaciones diferenciadas por género y territorialidades, y formuló más de cien recomendaciones. A diferencia de los tribunales, su método es la escucha y el contraste: construir verdad como base de memoria y convivencia futura.
@@ -215,8 +201,6 @@ El componente de reparación administrativa y restitución de tierras de la Ley 
   <!-- feedback: Correcto. El programa de restitución de tierras es uno de los componentes más valorados de la política de víctimas. -->
 - [ ] C) El canje de tierras por bonos del tesoro nacional sin retorno
   <!-- feedback: El canje puede ser excepcional, pero el principio es la restitución en especie. -->
-
-
 - [ ] D) Solo el perdón público del agresor, sin medidas de retorno
   <!-- feedback: El acto de verdad y perdón es componente simbólico, no sustituto de la restitución material. -->
 
@@ -240,8 +224,6 @@ El reclutamiento y utilización de niños, niñas y adolescentes por grupos arma
   <!-- feedback: Correcto. Es crimen de guerra en el Estatuto de Roma y en el DIH, y delito autónomo en el Código Penal colombiano. -->
 - [ ] C) Una falta administrativa sancionable solo con multa
   <!-- feedback: La descripción subestima el hecho: es conducta criminal de máxima gravedad. -->
-
-
 - [ ] D) Un fenómeno exclusivamente atribuible a un tipo de actor armado
   <!-- feedback: La evidencia documenta patrones en guerrillas, paramilitares y disidencias. -->
 
@@ -261,14 +243,12 @@ Los Programas de Desarrollo con Enfoque Territorial, PDET, creados por el acuerd
 ### Opciones
 - [ ] A) Repartir el territorio nacional entre los firmantes como premio
   <!-- feedback: Los PDET son planes de desarrollo concertados con las comunidades, no un reparto de territorio entre los firmantes. -->
-- [x] D) Transformar las condiciones materiales que alimentaron el conflicto mediante planes de desarrollo concertados con las comunidades de los territorios más afectados
-  <!-- feedback: Correcto. Los Programas de Desarrollo con Enfoque Territorial concertados con las comunidades construyen la paz desde los territorios más golpeados. -->
 - [ ] B) Cerrar las fronteras municipales al comercio legal
   <!-- feedback: El acuerdo promueve conectividad e integración económica, no cierre. -->
-
-
 - [ ] C) Sustituir a los alcaldes por juntas militares
   <!-- feedback: El ordenamiento constitucional territorial sigue vigente; ninguna junta militar reemplaza mandatarios electos. -->
+- [x] D) Transformar las condiciones materiales que alimentaron el conflicto mediante planes de desarrollo concertados con las comunidades de los territorios más afectados
+  <!-- feedback: Correcto. Los Programas de Desarrollo con Enfoque Territorial concertados con las comunidades construyen la paz desde los territorios más golpeados. -->
 
 ### Explicacion Pedagogica
 Los 170 municipios PDET concentran las mayores afectaciones del conflicto y la pobreza estructural: planes de desarrollo concertados durante la "Etapa de transformación" del punto 1 del acuerdo —reforma rural integral— con participación comunitaria activa y financiación plurianual. Analizar su avance desigual, por cambio de prioridades y debilidad institucional, permite evaluar la distancia entre el diseño del acuerdo y la paz territorial real.
@@ -284,14 +264,12 @@ Los 170 municipios PDET concentran las mayores afectaciones del conflicto y la p
 El debate sobre la compatibilidad del sistema sancionatorio de la JEP con el derecho internacional se centra en si
 
 ### Opciones
-- [x] C) Las sanciones restaurativas con restricción efectiva de libertades, verdad plena y reparación satisfacen el deber estatal de investigar, juzgar y sancionar los crímenes más graves
-  <!-- feedback: Correcto. En eso radicó el examen de la Corte Interamericana y del derecho internacional: sin esas condiciones, la impunidad sería inaceptable. -->
 - [ ] A) La JEP puede condenar también a militares en servicio activo sin fuero alguno
   <!-- feedback: La competencia personal y material de la JEP está delimitada constitucionalmente y condicionada al reconocimiento. -->
 - [ ] B) Las víctimas deben aceptar obligatoriamente las decisiones de la JEP
   <!-- feedback: Las víctimas son sujetos procesales con derechos de participación y de impugnación en la jurisdicción. -->
-
-
+- [x] C) Las sanciones restaurativas con restricción efectiva de libertades, verdad plena y reparación satisfacen el deber estatal de investigar, juzgar y sancionar los crímenes más graves
+  <!-- feedback: Correcto. En eso radicó el examen de la Corte Interamericana y del derecho internacional: sin esas condiciones, la impunidad sería inaceptable. -->
 - [ ] D) El sistema debe aplicarse solo a una de las partes del conflicto
   <!-- feedback: El principio de igualdad ante la ley exige que el sistema cubra a todos los responsables: FARC, agentes del Estado y terceros. -->
 
@@ -315,8 +293,6 @@ La garantía de "no repetición", entendida constitucionalmente, implica princip
   <!-- feedback: Correcto. La no repetición es el componente prospectivo y transformador del sistema. -->
 - [ ] C) El simple registro estadístico de las víctimas para la memoria
   <!-- feedback: El registro sirve a verdad y reparación, pero no transforma causas. -->
-
-
 - [ ] D) La demolición de los museos de memoria del conflicto
   <!-- feedback: Es exactamente lo contrario: la memoria es parte de la no repetición. -->
 
@@ -334,14 +310,12 @@ El informe final de la Comisión de la Verdad, "Hay futuro si hay verdad", propu
 La comparación correcta entre justicia penal retributiva (Núremberg) y comisiones de verdad-restaurativas (Sudáfrica 1996) frente al caso colombiano concluye que
 
 ### Opciones
-- [ ] B) Colombia copió sin variación el modelo sudafricano de amnistía por verdad
-  <!-- feedback: El diseño colombiano es híbrido: no condiciona la amnistía a la verdad sola, y mantiene componentes penales y jurisdiccionales estrictos. -->
 - [x] A) Colombia adoptó un modelo híbrido: jurisdicción penal especializada con beneficios condicionados, más órganos de verdad y búsqueda humanitaria, buscando compatibilizar paz y deber de justicia
   <!-- feedback: Correcto. La síntesis JEP-Comisión-UBPD expresa la tensión creativa del modelo. -->
+- [ ] B) Colombia copió sin variación el modelo sudafricano de amnistía por verdad
+  <!-- feedback: El diseño colombiano es híbrido: no condiciona la amnistía a la verdad sola, y mantiene componentes penales y jurisdiccionales estrictos. -->
 - [ ] C) El caso colombiano corresponde puramente al modelo Núremberg sin mecanismos restaurativos
   <!-- feedback: Las sanciones propias restaurativas y la Comisión prueban lo contrario. -->
-
-
 - [ ] D) Ningún modelo de justicia transicional es comparable entre países
   <!-- feedback: La justicia transicional es un campo comparado y académico; Sudáfrica, Perú y El Salvador son referentes de aprendizaje mutuo. -->
 
@@ -361,12 +335,10 @@ El componente de dejación de armas y reincorporación del acuerdo, evaluado con
 ### Opciones
 - [ ] A) La dejación de armas fue un fracaso total porque no se registró ninguna entrega
   <!-- feedback: La verificación de la ONU documentó la entrega de arsenales completos en las Zonas Veredales; el problema no es la dejación formal sino la protección posterior. -->
-- [x] C) La reincorporación exige garantías integrales de seguridad, acceso a tierra, proyectos productivos y protección efectiva, pues sin ellas el desarme se vuelve vulnerabilidad letal
-  <!-- feedback: Correcto. La evidencia muestra a cientos de firmantes asesinados: el componente humano de la paz quedó más expuesto que su componente armado. -->
 - [ ] B) Los excombatientes solo requieren un subsidio mensual vitalicio
   <!-- feedback: La reincorporación es multidimensional y temporal; el subsidio es solo un componente. -->
-
-
+- [x] C) La reincorporación exige garantías integrales de seguridad, acceso a tierra, proyectos productivos y protección efectiva, pues sin ellas el desarme se vuelve vulnerabilidad letal
+  <!-- feedback: Correcto. La evidencia muestra a cientos de firmantes asesinados: el componente humano de la paz quedó más expuesto que su componente armado. -->
 - [ ] D) El acuerdo contempló que los firmantes no necesitarían protección estatal
   <!-- feedback: El acuerdo previó expresamente esquemas de seguridad y protección para firmantes y comunidades. -->
 
@@ -390,8 +362,6 @@ El tratamiento de los llamados "falsos positivos" (ejecuciones extrajudiciales) 
   <!-- feedback: Correcto. La gravedad de estos hechos los ubica en el máximo nivel de reproche, incluso en la justicia transicional. -->
 - [ ] C) Corresponden exclusivamente a decisiones de comandantes sin responsabilidad individual ejecutable
   <!-- feedback: La cadena de mando y la autoría material generan responsabilidad individual en ambos extremos. -->
-
-
 - [ ] D) Prescribieron penalmente antes de 2016
   <!-- feedback: Los crímenes de lesa humanidad son imprescriptibles por los artículos 29 de la Declaración Universal y 8 de la Convención sobre la Imprescriptibilidad. -->
 
@@ -411,12 +381,10 @@ La violencia sexual en el conflicto armado colombiano, analizada desde los enfoq
 ### Opciones
 - [ ] A) Ser un daño colateral accidental y no una estrategia deliberada de ningún actor
   <!-- feedback: El informe final "Hay futuro si hay verdad" y la magistratura de la JEP documentaron patrones sistemáticos de uso del cuerpo como botín de guerra. -->
-- [x] C) Configurar una grave afectación con fines de dominación, terror y disciplinamiento territorial, con mayorías de víctimas mujeres, y exigir rutas de atención diferenciadas y reparadoras
-  <!-- feedback: Correcto. El enfoque de género del acuerdo atraviesa la verdad, la justicia y la reparación para estas víctimas. -->
 - [ ] B) Afectar únicamente a mujeres adultas de zonas rurales
   <!-- feedback: Incluye niñas, adolescentes, hombres y personas LGBTIQ+: el daño no tiene un solo perfil. -->
-
-
+- [x] C) Configurar una grave afectación con fines de dominación, terror y disciplinamiento territorial, con mayorías de víctimas mujeres, y exigir rutas de atención diferenciadas y reparadoras
+  <!-- feedback: Correcto. El enfoque de género del acuerdo atraviesa la verdad, la justicia y la reparación para estas víctimas. -->
 - [ ] D) Ser un asunto privado que la justicia pública no debe investigar
   <!-- feedback: Es grave violación de derechos humanos con deber estatal de investigación y reparación. -->
 
@@ -436,14 +404,12 @@ La tesis "dinero por silencio" aplicada como política de reparación se evalúa
 ### Opciones
 - [ ] A) Válida, porque el dinero satisface plenamente el daño moral de cualquier víctima
   <!-- feedback: La reparación integral (Convención Americana, artículos 63 y 68) incluye verdad, satisfacción y garantías: el dinero no las suplanta. -->
-- [x] D) Incompatible con los derechos de las víctimas, pues la verdad y la justicia son derechos de las víctimas y de la sociedad, indisponibles e irreemplazables por compensaciones económicas
-  <!-- feedback: Correcto. La Corte Constitucional ha reiterado la titularidad no transable de verdad y justicia. -->
 - [ ] B) Necesaria, porque la justicia colombiana carece por completo de capacidad procesal
   <!-- feedback: La debilidad institucional justifica reforzar, no reemplazar la justicia. -->
-
-
 - [ ] C) Preferible, porque las comisiones de verdad generan más violencia que tribunales
   <!-- feedback: La evidencia comparada no sustenta esa afirmación; el silencio institucional es lo que erosiona la convivencia. -->
+- [x] D) Incompatible con los derechos de las víctimas, pues la verdad y la justicia son derechos de las víctimas y de la sociedad, indisponibles e irreemplazables por compensaciones económicas
+  <!-- feedback: Correcto. La Corte Constitucional ha reiterado la titularidad no transable de verdad y justicia. -->
 
 ### Explicacion Pedagogica
 La reparación es integral por definición jurídica: restitución, indemnización, rehabilitación, satisfacción y garantías de no repetición. Cambiar verdad por dinero rompe la estructura: la víctima no es acreedora únicamente patrimonial, y la sociedad tiene derecho a saber. Este juicio evalúa el núcleo filosófico del sistema: la paz sin verdad es una tregua contabilizada, no reconciliación, como enseñó la tradición de justicia restaurativa de la que el acuerdo es heredero.
@@ -461,14 +427,12 @@ La evaluación más honesta del legado del acuerdo de paz a casi una década de 
 ### Opciones
 - [ ] A) El conflicto terminó: Colombia ya no registra victimizaciones colectivas ni economías ilícitas
   <!-- feedback: Persisten disidencias, ELN, Clan del Golfo, deforestación, homicidios de líderes y desplazamientos masivos en el Catatumbo y otras regiones. -->
-- [x] D) El acuerdo transformó la estructura del conflicto pero no la eliminó: se firmó con el principal actor insurgente de la época y múltiples violencias —fragmentadas, urbanas, territoriales— continúan exigiendo política de paz integral
-  <!-- feedback: Correcto. Distingue el cambio de magnitud (desarme masivo de una guerrilla, verdad, reparación) de sus límites (persistencias y nuevas violencias). -->
 - [ ] B) El acuerdo fracasó totalmente porque ninguna de sus normas se implementó
   <!-- feedback: La JEP, la Comisión, la UBPD, los PDET y la restitución de tierras muestran implementación desigual pero real. -->
-
-
 - [ ] C) La paz depende exclusivamente de la firma de los actores armados restantes
   <!-- feedback: La paz estable exige transformación de condiciones sociales: el fin de los fusiles es condición necesaria, no suficiente. -->
+- [x] D) El acuerdo transformó la estructura del conflicto pero no la eliminó: se firmó con el principal actor insurgente de la época y múltiples violencias —fragmentadas, urbanas, territoriales— continúan exigiendo política de paz integral
+  <!-- feedback: Correcto. Distingue el cambio de magnitud (desarme masivo de una guerrilla, verdad, reparación) de sus límites (persistencias y nuevas violencias). -->
 
 ### Explicacion Pedagogica
 Evaluar el posacuerdo exige indicadores y memoria: reducción de homicidios colectivos y de secuestros tras 2016, aumento de la deforestación en zonas ex-FARC, permanencia de economías ilícitas, y la "paz total" como política de negociación con múltiples grupos. El grado 11 debe huir del binarismo triunfalista o catastrofista: el conflicto se transformó, no se extinguió, y las tareas pendientes del acuerdo son hojas de ruta, no folclor.
@@ -484,19 +448,17 @@ Evaluar el posacuerdo exige indicadores y memoria: reducción de homicidios cole
 El valor educativo de la memoria histórica del conflicto para la democracia colombiana se evalúa correctamente al sostener que
 
 ### Opciones
+- [x] A) La memoria es una construcción activa y plural que, con verdad contrastada, permite formar ciudadanía crítica frente a la repetición del horror y sostiene el proyecto de una comunidad política democrática
+  <!-- feedback: Correcto. Es la función prospectiva de la memoria, núcleo de los mandatos de la Comisión y del Centro Nacional de Memoria Histórica. -->
 - [ ] B) La memoria debe cerrarse para no reabrir heridas de la sociedad
   <!-- feedback: El imperativo ético y constitucional es recordar para no repetir; cerrar sin verdad reproduce el daño. -->
 - [ ] C) La memoria selectiva de la propia víctima es suficiente para formar ciudadanía democrática
   <!-- feedback: La memoria ciudadana exige pluralidad de relatos, incluido el reconocimiento del daño causado por el propio lado. -->
-- [x] A) La memoria es una construcción activa y plural que, con verdad contrastada, permite formar ciudadanía crítica frente a la repetición del horror y sostiene el proyecto de una comunidad política democrática
-  <!-- feedback: Correcto. Es la función prospectiva de la memoria, núcleo de los mandatos de la Comisión y del Centro Nacional de Memoria Histórica. -->
-
-
 - [ ] D) Solo los historiadores profesionales tienen derecho a hablar del conflicto
   <!-- feedback: Los derechos a la verdad y a la memoria pertenecen a las víctimas y a la sociedad en su conjunto. -->
 
 ### Explicacion Pedagogica
-El deber de memoria —como enseñó Primo Levi y reafirmó la ONU para las masacres del siglo XX— no es nostalgia ni castigo: es una tecnología de prevención. El informe final "Hay futuro si hay verdad", el Museo de la Memoria y los relatos de las víctimas en aulas convierten la historia en competencia ciudadana viva: reconocer al otro, dudar del odio, asumir que la violencia siempre comienza con la deshumanización del adversario. Aquí la semana temática se cierre: de la Constitución escrita a la Constitución vivida por la memoria.
+El deber de memoria —como enseñó Primo Levi y reafirmó la ONU para las masacres del siglo XX— no es nostalgia ni castigo: es una tecnología de prevención. El informe final "Hay futuro si hay verdad", el Museo de la Memoria y los relatos de las víctimas en aulas convierten la historia en competencia ciudadana viva: reconocer al otro, dudar del odio, asumir que la violencia siempre comienza con la deshumanización del adversario. Aquí la semana temática se cierra: de la Constitución escrita a la Constitución vivida por la memoria.
 
 ## Question 20 [D9-D10]
 **ID:** CO-SOC-11-2026-W40-justicia-transicional-001-MASTERY-bundle-v20
@@ -511,12 +473,10 @@ Como síntesis de las competencias ciudadanas evaluadas en este ciclo constituci
 ### Opciones
 - [ ] A) La paz se decreta y la Constitución solo la documenta después
   <!-- feedback: El constitucionalismo es prospectivo: la Constitución de 1991 anticipó y habilitó la transformación pacífica. -->
-- [ ] C) La participación es un complemento decorativo del Estado de derecho
-  <!-- feedback: La participación es principio fundante (artículo 1) y fin esencial del Estado (artículo 2), no ornamento. -->
 - [x] B) Una Constitución que garantiza derechos, una ciudadanía que los exige mediante participación y control, y una justicia transicional que repara la verdad son tres engranajes de un mismo proyecto: la paz estable y duradera como forma de vida democrática
   <!-- feedback: Correcto. Integra los cuatro ejes del ciclo de semanas: Constitución, acción colectiva, participación, control social y justicia transicional. -->
-
-
+- [ ] C) La participación es un complemento decorativo del Estado de derecho
+  <!-- feedback: La participación es principio fundante (artículo 1) y fin esencial del Estado (artículo 2), no ornamento. -->
 - [ ] D) El fin del conflicto armado depende solo de acuerdos entre élites armadas
   <!-- feedback: La refrendación social, territorial y ciudadana del acuerdo —en su defecto y en su apoyo— mostró que la paz se decide en la plaza pública. -->
 

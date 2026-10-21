@@ -785,9 +785,9 @@
         },
         {
           "letter": "B",
-          "text": "1/2",
-          "is_correct": true,
-          "feedback": "Correcto. Usando el conjugado (1+cos x) queda sen²x / [x²(1+cos x)]. Como sen²x/x² tiende a 1, queda 1 / (1+1) = 1/2."
+          "text": "No existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite es finito y determinado."
         },
         {
           "letter": "C",
@@ -797,12 +797,12 @@
         },
         {
           "letter": "D",
-          "text": "No existe.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El límite es finito y determinado."
+          "text": "1/2",
+          "is_correct": true,
+          "feedback": "Correcto. Usando el conjugado (1+cos x) queda sen²x / [x²(1+cos x)]. Como sen²x/x² tiende a 1, queda 1 / (1+1) = 1/2."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Este límite es otro de los resultados clásicos del cálculo. Puede resolverse mediante identidades trigonométricas o aplicando la regla de L'Hôpital dos veces.\n\n---",
       "difficulty": "10",
       "images": [],

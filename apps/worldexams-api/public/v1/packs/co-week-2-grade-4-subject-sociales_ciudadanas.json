@@ -59,12 +59,6 @@
       "context": "En el barrio La Esmeralda hay una asociación de vecinos que se reúne una vez al mes para hablar de los problemas del barrio.",
       "options": [
         {
-          "letter": "D",
-          "text": "El grupo de personas que viven cerca y se ayudan para resolver los asuntos del barrio",
-          "is_correct": true,
-          "feedback": "Correcto. La comunidad son las personas que viven cerca y se apoyan, y por eso pueden organizarse para tener un parque limpio o una escuela segura."
-        },
-        {
           "letter": "A",
           "text": "Los carros que pasan por la calle",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "Solamente los edificios del centro del barrio",
           "is_correct": false,
           "feedback": "Incorrecto. Limitar la comunidad a los edificios deja afuera a las familias que viven en casas y apartamentos: la comunidad incluye a todos los que viven allí."
+        },
+        {
+          "letter": "D",
+          "text": "El grupo de personas que viven cerca y se ayudan para resolver los asuntos del barrio",
+          "is_correct": true,
+          "feedback": "Correcto. La comunidad son las personas que viven cerca y se apoyan, y por eso pueden organizarse para tener un parque limpio o una escuela segura."
         }
       ],
       "correct_answer": "D",
@@ -105,12 +105,6 @@
       "context": "En el barrio La Esmeralda, la panadería queda al lado de la casa de la señora Olga, el parque está a dos cuadras y el colegio, a cuatro cuadras siguiendo la misma calle.",
       "options": [
         {
-          "letter": "D",
-          "text": "Salir de su casa, pasar por la panadería, pasar por el parque y llegar al colegio",
-          "is_correct": true,
-          "feedback": "Correcto. La ruta respeta el orden de los lugares del enunciado: primero la panadería, después el parque y al final el colegio, que queda más lejos."
-        },
-        {
           "letter": "A",
           "text": "Salir de su casa y caminar cuatro cuadras sin pasar por ningún lugar",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "El colegio está al lado de la casa, como la panadería",
           "is_correct": false,
           "feedback": "Incorrecto. Confundiste dos distancias: la panadería está al lado, o sea muy cerca, mientras que el colegio está a cuatro cuadras, mucho más lejos."
+        },
+        {
+          "letter": "D",
+          "text": "Salir de su casa, pasar por la panadería, pasar por el parque y llegar al colegio",
+          "is_correct": true,
+          "feedback": "Correcto. La ruta respeta el orden de los lugares del enunciado: primero la panadería, después el parque y al final el colegio, que queda más lejos."
         }
       ],
       "correct_answer": "D",
@@ -151,12 +151,6 @@
       "context": "En Pereira, los vecinos del barrio La Julita quieren pintar el mural de la entrada y fijaron una meta de $30.000. La señora Marta puso $8.000, don Emilio $7.000 y el resto de los vecinos $10.000.",
       "options": [
         {
-          "letter": "C",
-          "text": "$5.000, porque $30.000 - $25.000 = $5.000",
-          "is_correct": true,
-          "feedback": "Correcto. Primero se suman los aportes: $8.000 + $7.000 + $10.000 = $25.000, y luego a la meta se le resta: $30.000 - $25.000 = $5.000."
-        },
-        {
           "letter": "A",
           "text": "$15.000, porque $8.000 + $7.000 = $15.000 y ese es el total reunido",
           "is_correct": false,
@@ -167,6 +161,12 @@
           "text": "$12.000, porque $30.000 - $18.000 = $12.000",
           "is_correct": false,
           "feedback": "Incorrecto. Dejaste por fuera el aporte de $7.000 de don Emilio: por eso tu cuenta queda $7.000 más alta de lo que es en realidad."
+        },
+        {
+          "letter": "C",
+          "text": "$5.000, porque $30.000 - $25.000 = $5.000",
+          "is_correct": true,
+          "feedback": "Correcto. Primero se suman los aportes: $8.000 + $7.000 + $10.000 = $25.000, y luego a la meta se le resta: $30.000 - $25.000 = $5.000."
         },
         {
           "letter": "D",
@@ -197,12 +197,6 @@
       "context": "En el barrio La Macarena de Barranquilla, unos vecinos quieren poner un parqueadero frente a sus casas. Otros se oponen porque en ese espacio los niños del barrio juegan al final de la tarde.",
       "options": [
         {
-          "letter": "D",
-          "text": "Reunirse a escuchar los argumentos de cada grupo y buscar un lugar para el parqueadero que no afecte el juego",
-          "is_correct": true,
-          "feedback": "Correcto. Un desacuerdo se resuelve con diálogo: escuchar a los dos lados y buscar una ubicación que sirva a ambos es la vía de la convivencia pacífica."
-        },
-        {
           "letter": "A",
           "text": "Los vecinos que están en contra deben ganar por mayoría, porque su opinión cuenta más",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "Que la administración del barrio decida por fuera, sin consultar a los vecinos",
           "is_correct": false,
           "feedback": "Incorrecto. Decidir sin consultar quita la participación: la comunidad pierde la oportunidad de construir la solución que puede cumplir."
+        },
+        {
+          "letter": "D",
+          "text": "Reunirse a escuchar los argumentos de cada grupo y buscar un lugar para el parqueadero que no afecte el juego",
+          "is_correct": true,
+          "feedback": "Correcto. Un desacuerdo se resuelve con diálogo: escuchar a los dos lados y buscar una ubicación que sirva a ambos es la vía de la convivencia pacífica."
         }
       ],
       "correct_answer": "D",
@@ -243,12 +243,6 @@
       "context": "En el barrio Las Delicias de Barranquilla hay personas que llegaron de muchas partes de Colombia: de Bogotá, de Pasto, de Barranquilla y de municipios pequeños.",
       "options": [
         {
-          "letter": "C",
-          "text": "Que las diferencias se usan para aprender unos de otros y no para excluir a nadie",
-          "is_correct": true,
-          "feedback": "Correcto. Las diferencias enriquecen la comunidad: cuando se aprende de las culturas que llegan, el barrio se vuelve más rico en vez de dividido."
-        },
-        {
           "letter": "A",
           "text": "Que todos deben pensar igual para que la comunidad pueda funcionar bien",
           "is_correct": false,
@@ -259,6 +253,12 @@
           "text": "Que las diferencias producen problemas y por eso conviene esconderlas",
           "is_correct": false,
           "feedback": "Incorrecto. Esconder a quien es diferente aumenta la desigualdad: lo que divide no es la diferencia en sí, sino el rechazo hacia quien la tiene."
+        },
+        {
+          "letter": "C",
+          "text": "Que las diferencias se usan para aprender unos de otros y no para excluir a nadie",
+          "is_correct": true,
+          "feedback": "Correcto. Las diferencias enriquecen la comunidad: cuando se aprende de las culturas que llegan, el barrio se vuelve más rico en vez de dividido."
         },
         {
           "letter": "D",
@@ -335,12 +335,6 @@
       "context": "En el barrio La Estrella de Cúcuta, unos jóvenes quieren recuperar una cancha que lleva años abandonada. Los vecinos de la cuadra de al lado quieren que allí se construya una biblioteca.",
       "options": [
         {
-          "letter": "D",
-          "text": "Reunir a los dos grupos, escuchar qué necesita cada uno y buscar un acuerdo que sirva para ambos",
-          "is_correct": true,
-          "feedback": "Correcto. Escuchar y negociar un acuerdo cumple con el principio de que toda decisión que afecta a la comunidad debe consultarla."
-        },
-        {
           "letter": "A",
           "text": "Construir la cancha primero y después, si sobra espacio, poner la biblioteca",
           "is_correct": false,
@@ -348,18 +342,24 @@
         },
         {
           "letter": "B",
-          "text": "Que los jóvenes cedan sin preguntar, porque son menos organizados que los vecinos",
-          "is_correct": false,
-          "feedback": "Incorrecto. Cedir sin preguntar tampoco es un acuerdo: en ese caso se está quitando la voz a un grupo de la comunidad de la manera más fácil."
+          "text": "Reunir a los dos grupos, escuchar qué necesita cada uno y buscar un acuerdo que sirva para ambos",
+          "is_correct": true,
+          "feedback": "Correcto. Escuchar y negociar un acuerdo cumple con el principio de que toda decisión que afecta a la comunidad debe consultarla."
         },
         {
           "letter": "C",
           "text": "Dejar la cancha y la biblioteca sin construir hasta que el conflicto se olvide",
           "is_correct": false,
           "feedback": "Incorrecto. Dejar todo sin hacer mantiene el abandono del espacio y agrava la convivencia, porque no resuelve el problema de fondo."
+        },
+        {
+          "letter": "D",
+          "text": "Que los jóvenes cedan sin preguntar, porque son menos organizados que los vecinos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cedir sin preguntar tampoco es un acuerdo: en ese caso se está quitando la voz a un grupo de la comunidad de la manera más fácil."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "En los barrios hay decisiones que afectan a varias cuadras, y por eso la comunidad tiene derecho a opinar sobre ellas. Una decisión pacífica es la que reconoce a los afectados y se toma escuchando, no imponiendo. Cuando las dos partes participan en buscar la solución, el resultado además es más fácil de sostener en el tiempo porque todos se sienten parte.",
       "difficulty": "10",
       "images": [],

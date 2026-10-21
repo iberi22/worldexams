@@ -434,9 +434,9 @@
         },
         {
           "letter": "B",
-          "text": "Sí, porque la ruta directa es raíz(5² + 12²) = raíz(169) = 13 km",
-          "is_correct": true,
-          "feedback": "Correcto. Los tramos de A son catetos perpendiculares y la ruta de B es la hipotenusa: 13 km (terna 5-12-13)."
+          "text": "Sí, pero solo si los drones vuelan a la misma velocidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia geométrica no depende de la velocidad de vuelo."
         },
         {
           "letter": "C",
@@ -446,12 +446,12 @@
         },
         {
           "letter": "D",
-          "text": "Sí, pero solo si los drones vuelan a la misma velocidad",
-          "is_correct": false,
-          "feedback": "Incorrecto. La distancia geométrica no depende de la velocidad de vuelo."
+          "text": "Sí, porque la ruta directa es raíz(5² + 12²) = raíz(169) = 13 km",
+          "is_correct": true,
+          "feedback": "Correcto. Los tramos de A son catetos perpendiculares y la ruta de B es la hipotenusa: 13 km (terna 5-12-13)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La ruta de A forma un triángulo rectángulo de catetos 5 y 12. La ruta directa de B es la hipotenusa: raíz(25 + 144) = raíz(169) = 13 km. La afirmación del operador es correcta.",
       "difficulty": "10",
       "images": [],

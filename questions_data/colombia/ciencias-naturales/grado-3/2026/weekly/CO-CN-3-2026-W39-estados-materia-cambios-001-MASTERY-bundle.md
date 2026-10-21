@@ -34,12 +34,12 @@ creador: "Jules-Agent"
 ¿En qué estado de la materia se encuentra el cubo de hielo?
 
 ### Opciones
-- [x] C) Estado sólido.
-  <!-- feedback: ¡Correcto! El hielo es agua en estado sólido porque tiene forma y volumen definidos. -->
 - [ ] A) Estado líquido.
   <!-- feedback: Incorrecto. El estado líquido corresponde al agua en el vaso, no al hielo. -->
 - [ ] B) Estado gaseoso.
   <!-- feedback: Incorrecto. El estado gaseoso corresponde al aire del globo o al vapor. -->
+- [x] C) Estado sólido.
+  <!-- feedback: ¡Correcto! El hielo es agua en estado sólido porque tiene forma y volumen definidos. -->
 - [ ] D) Estado plasma.
   <!-- feedback: Incorrecto. El plasma no se presenta en el hielo de la cocina. -->
 
@@ -57,12 +57,12 @@ Los sólidos tienen forma y volumen definidos. El hielo mantiene su forma establ
 ¿Por qué el jugo cambia de forma al pasarlo de la jarra a los vasos?
 
 ### Opciones
-- [x] C) Porque los líquidos no tienen forma propia y se adaptan a la forma del recipiente.
-  <!-- feedback: ¡Correcto! Los líquidos tienen volumen fijo pero adoptan la forma del contenedor que los alberga. -->
 - [ ] A) Porque el jugo se convirtió en un gas al servirlo.
   <!-- feedback: Incorrecto. El jugo sigue siendo un líquido, no un gas. -->
 - [ ] B) Porque los sólidos cambian de forma fácilmente al ser trasvasados.
   <!-- feedback: Incorrecto. El jugo no es un sólido. -->
+- [x] C) Porque los líquidos no tienen forma propia y se adaptan a la forma del recipiente.
+  <!-- feedback: ¡Correcto! Los líquidos tienen volumen fijo pero adoptan la forma del contenedor que los alberga. -->
 - [ ] D) Porque el volumen del jugo aumentó al cambiar de recipiente.
   <!-- feedback: Incorrecto. El volumen del líquido se mantiene igual. -->
 
@@ -80,12 +80,12 @@ Las sustancias en estado líquido se caracterizan por fluir y adaptarse a la geo
 ¿Cómo se llama el cambio de estado que sufrió el helado al calentarse con el sol?
 
 ### Opciones
-- [x] C) Fusión.
-  <!-- feedback: ¡Correcto! La fusión es el paso del estado sólido al estado líquido por aumento de temperatura. -->
 - [ ] A) Solidificación.
   <!-- feedback: Incorrecto. La solidificación es el paso inverso, de líquido a sólido al enfriarse. -->
 - [ ] B) Condensación.
   <!-- feedback: Incorrecto. La condensación es el paso de gas a líquido. -->
+- [x] C) Fusión.
+  <!-- feedback: ¡Correcto! La fusión es el paso del estado sólido al estado líquido por aumento de temperatura. -->
 - [ ] D) Evaporación.
   <!-- feedback: Incorrecto. La evaporación ocurre cuando un líquido pasa a gas. -->
 
@@ -126,14 +126,14 @@ La evaporación es el cambio de estado de líquido a gas producido por el calent
 ¿Cuál es la explicación científica de por qué se formaron esas gotas de agua en la tapa?
 
 ### Opciones
-- [x] D) El vapor de agua caliente tocó la tapa fría, perdió calor y se condensó en gotas de agua.
-  <!-- feedback: ¡Excelente! El enfriamiento del vapor de agua causa su condensación a estado líquido. -->
 - [ ] A) El metal de la tapa se derritió y formó gotas de agua.
   <!-- feedback: Incorrecto. El metal no se derrite a esa temperatura y no es agua. -->
 - [ ] B) El agua de la olla saltó mágicamente hasta la tapa sin tocar el aire.
   <!-- feedback: Incorrecto. Las gotas se forman a partir del vapor de agua ascendente. -->
 - [ ] C) El aire caliente dentro de la olla se congeló al tocar la tapa.
   <!-- feedback: Incorrecto. El vapor no se congeló, sino que pasó a estado líquido (condensación). -->
+- [x] D) El vapor de agua caliente tocó la tapa fría, perdió calor y se condensó en gotas de agua.
+  <!-- feedback: ¡Excelente! El enfriamiento del vapor de agua causa su condensación a estado líquido. -->
 
 ### Explicacion Pedagogica
 La condensación es el cambio del estado gaseoso al estado líquido producido por una disminución de la temperatura (pérdida de energía térmica).
@@ -149,14 +149,14 @@ La condensación es el cambio del estado gaseoso al estado líquido producido po
 ¿Por qué el agua del congelador cambió de estado mientras que la de la mesa siguió líquida?
 
 ### Opciones
-- [x] D) Porque dentro del congelador la temperatura bajó lo suficiente para que ocurriera la solidificación.
-  <!-- feedback: ¡Correcto! La solidificación requiere una disminución drástica de temperatura (enfriamiento). -->
 - [ ] A) Porque la luz del salón evitó que el agua de la mesa sufriera cambios de estado.
   <!-- feedback: Incorrecto. El factor determinante en la congelación es la temperatura, no la luz. -->
 - [ ] B) Porque el recipiente del salón estaba destapado y el del congelador no.
   <!-- feedback: Incorrecto. La solidificación no depende de si el recipiente está tapado o no. -->
 - [ ] C) Porque el agua del congelador absorbió más calor que el agua del salón.
   <!-- feedback: Incorrecto. En el congelador el agua pierde calor, no lo absorbe. -->
+- [x] D) Porque dentro del congelador la temperatura bajó lo suficiente para que ocurriera la solidificación.
+  <!-- feedback: ¡Correcto! La solidificación requiere una disminución drástica de temperatura (enfriamiento). -->
 
 ### Explicacion Pedagogica
 El agua cambia de estado líquido a sólido (solidificación) cuando cede calor al entorno helado del congelador, alcanzando su punto de congelación (0 °C).
@@ -172,11 +172,11 @@ El agua cambia de estado líquido a sólido (solidificación) cuando cede calor 
 ¿Qué secuencia de cambios de estado explica correctamente la formación de nubes y la posterior lluvia?
 
 ### Opciones
-- [x] C) Evaporación del agua del mar y luego condensación en la atmósfera.
-  <!-- feedback: ¡Correcto! El agua líquida se evapora con el sol y luego se condensa en pequeñas gotas formando las nubes y la lluvia. -->
 - [ ] A) Fusión del agua del mar y luego congelación en la atmósfera.
   <!-- feedback: Incorrecto. El agua de mar no está sólida para sufrir fusión. -->
-- [ ] B) Condensación del agua del mar y luego evaporación en las nubes.
+- [x] B) Evaporación del agua del mar y luego condensación en la atmósfera.
+  <!-- feedback: ¡Correcto! El agua líquida se evapora con el sol y luego se condensa en pequeñas gotas formando las nubes y la lluvia. -->
+- [ ] C) Condensación del agua del mar y luego evaporación en las nubes.
   <!-- feedback: Incorrecto. El orden es inverso: primero se evapora y luego se condensa. -->
 - [ ] D) Solidificación del agua del mar y luego sublimación en lluvia.
   <!-- feedback: Incorrecto. La lluvia líquida proviene de la condensación del vapor. -->

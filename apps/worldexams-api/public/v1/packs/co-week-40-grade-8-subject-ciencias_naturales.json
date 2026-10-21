@@ -480,9 +480,9 @@
         },
         {
           "letter": "B",
-          "text": "Es inadecuada porque descapitaliza los laboratorios y reduce las experiencias concretas que desarrollan pensamiento cientifico.",
-          "is_correct": true,
-          "feedback": "Correcto. El aprendizaje experimental requiere insumos fisicos; sin ellos la educacion se vuelve solo digital."
+          "text": "Es valida siempre que los docentes donen voluntariamente su tiempo libre para preparar reactivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Exigir trabajo no remunerado no es una solucion etica ni sostenible."
         },
         {
           "letter": "C",
@@ -492,12 +492,12 @@
         },
         {
           "letter": "D",
-          "text": "Es valida siempre que los docentes donen voluntariamente su tiempo libre para preparar reactivos.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Exigir trabajo no remunerado no es una solucion etica ni sostenible."
+          "text": "Es inadecuada porque descapitaliza los laboratorios y reduce las experiencias concretas que desarrollan pensamiento cientifico.",
+          "is_correct": true,
+          "feedback": "Correcto. El aprendizaje experimental requiere insumos fisicos; sin ellos la educacion se vuelve solo digital."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La tecnologia educativa potencia el aprendizaje, pero requiere un equilibrio con materiales y experiencias concretas. Los laboratorios escolares son insustituibles para desarrollar habilidades cientificas reales.",
       "difficulty": "10",
       "images": [],

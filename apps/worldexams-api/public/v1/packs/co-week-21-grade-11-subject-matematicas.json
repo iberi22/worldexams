@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v1",
-      "statement": "Calcule el valor de la integral definida $\\int_{0}^{1} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
-      "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
+      "statement": "¿Cuál es la familia de antiderivadas $\\int (3x^2+4)\\,dx$?",
+      "context": "Un ingeniero de EPM en Medellín conoce la tasa de consumo de agua $f(x)=3x^2+4$ de un barrio y necesita una función cuya derivada sea esa tasa.",
       "options": [
         {
           "letter": "A",
-          "text": "$1$",
-          "is_correct": true,
-          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+          "text": "$6x+C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se derivó en lugar de integrar: $6x$ es $\\frac{d}{dx}(3x^2)$, y además se perdió el término del 4."
         },
         {
           "letter": "B",
-          "text": "$4$",
+          "text": "$x^3+C$",
           "is_correct": false,
-          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+          "feedback": "Incorrecto. La parte $x^3$ es correcta, pero se olvidó integrar la constante 4, cuya antiderivada es $4x$."
         },
         {
           "letter": "C",
-          "text": "$8$",
-          "is_correct": false,
-          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+          "text": "$x^3+4x+C$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int 3x^2\\,dx=x^3$ y $\\int 4\\,dx=4x$; al derivar $x^3+4x+C$ se recupera $3x^2+4$."
         },
         {
           "letter": "D",
-          "text": "$13$",
+          "text": "$3x^3+4x+C$",
           "is_correct": false,
-          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+          "feedback": "Incorrecto. Se subió el exponente sin dividir entre él: $\\int 3x^2\\,dx=\\frac{3x^3}{3}=x^3$, no $3x^3$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{1} 2x \\, dx = [x^2]_{0}^{1} = 1^2 - 0^2 = 1$.",
+      "correct_answer": "C",
+      "explanation": "La regla de la potencia para integrales es $\\int x^n\\,dx=\\frac{x^{n+1}}{n+1}+C$ con $n\\neq -1$. Así $\\int 3x^2\\,dx=3 \\cdot \\frac{x^3}{3}=x^3$ y $\\int 4\\,dx=4x$. La familia es $x^3+4x+C$; se verifica derivando: $(x^3+4x+C)'=3x^2+4$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -55,42 +55,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v2",
-      "statement": "Calcule el valor de la integral definida $\\int_{0}^{2} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
-      "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
+      "statement": "Si $F$ es una antiderivada de $f$ continua en $[a,b]$, ¿qué afirma el teorema fundamental del cálculo sobre $\\int_{a}^{b} f(x)\\,dx$?",
+      "context": "En el SENA de Pereira un instructor explica cómo calcular la energía acumulada por un panel solar a partir de su potencia $f(t)$.",
       "options": [
         {
           "letter": "A",
-          "text": "$4$",
-          "is_correct": true,
-          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+          "text": "Se obtiene restando: $F(a)-F(b)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden está invertido: se resta el valor en el límite inferior del valor en el superior, $F(b)-F(a)$."
         },
         {
           "letter": "B",
-          "text": "$7$",
+          "text": "Se obtiene sumando los extremos: $F(b)+F(a)$.",
           "is_correct": false,
-          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+          "feedback": "Incorrecto. La integral mide un cambio neto de $F$, que es una diferencia; sumar los valores no corresponde al teorema."
         },
         {
           "letter": "C",
-          "text": "$11$",
-          "is_correct": false,
-          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+          "text": "Coincide con el cambio neto $F(b)-F(a)$.",
+          "is_correct": true,
+          "feedback": "Correcto. El teorema fundamental establece que la integral definida es el cambio neto de la antiderivada entre los extremos: $F(b)-F(a)$."
         },
         {
           "letter": "D",
-          "text": "$16$",
+          "text": "Equivale a evaluar el integrando: $f(b)-f(a)$.",
           "is_correct": false,
-          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+          "feedback": "Incorrecto. Se evaluó el integrando $f$ en lugar de la antiderivada $F$; $f(b)-f(a)$ es el cambio de la tasa, no lo acumulado."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{2} 2x \\, dx = [x^2]_{0}^{2} = 2^2 - 0^2 = 4$.",
+      "correct_answer": "C",
+      "explanation": "El teorema fundamental del cálculo (segunda parte) dice que si $f$ es continua en $[a,b]$ y $F'=f$, entonces $\\int_{a}^{b} f(x)\\,dx=F(b)-F(a)$. Interpretación: lo acumulado por la tasa $f$ entre $a$ y $b$ es el cambio neto de la cantidad $F$; para el panel, la energía entre dos instantes.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "icfes_type": "Razonamiento",
-      "expected_success": 0.85,
+      "expected_success": 0.84,
       "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v3",
-      "statement": "Calcule el valor de la integral definida $\\int_{0}^{3} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
-      "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
+      "statement": "¿Cuál es el valor de $\\int_{1}^{3} 2x\\,dx$?",
+      "context": "Una banda transportadora de un ingenio azucarero del Valle del Cauca mueve caña a una tasa de $2x$ toneladas por hora.",
       "options": [
         {
-          "letter": "C",
-          "text": "$9$",
-          "is_correct": true,
-          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
-        },
-        {
           "letter": "A",
-          "text": "$12$",
+          "text": "$9$",
           "is_correct": false,
-          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+          "feedback": "Incorrecto. Solo se evaluó la antiderivada en el límite superior, $3^2=9$; falta restar $F(1)=1^2=1$."
         },
         {
           "letter": "B",
-          "text": "$16$",
+          "text": "$4$",
           "is_correct": false,
-          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+          "feedback": "Incorrecto. Se evaluó el integrando $2x$ en los extremos ($6-2$) en lugar de la antiderivada $x^2$."
+        },
+        {
+          "letter": "C",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron $F(3)+F(1)=9+1$; el teorema fundamental exige la diferencia $F(3)-F(1)$."
         },
         {
           "letter": "D",
-          "text": "$21$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+          "text": "$8$",
+          "is_correct": true,
+          "feedback": "Correcto. Con la antiderivada $x^2$: $3^2-1^2=9-1=8$."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{3} 2x \\, dx = [x^2]_{0}^{3} = 3^2 - 0^2 = 9$.",
+      "correct_answer": "D",
+      "explanation": "Una antiderivada de $2x$ es $F(x)=x^2$. Por el teorema fundamental: $\\int_{1}^{3} 2x\\,dx=F(3)-F(1)=9-1=8$. En el contexto, la banda transporta 8 toneladas entre la hora 1 y la hora 3.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.85,
+      "icfes_type": "Numerico",
+      "expected_success": 0.82,
       "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v4",
-      "statement": "Calcule el valor de la integral definida $\\int_{0}^{4} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
-      "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
+      "statement": "¿Cuánto vale $\\int_{5}^{2} f(x)\\,dx$?",
+      "context": "Un estudiante de la Universidad del Norte en Barranquilla sabe que $\\int_{2}^{5} f(x)\\,dx=7$ para una función continua $f$.",
       "options": [
         {
           "letter": "A",
-          "text": "$16$",
+          "text": "$-7$",
           "is_correct": true,
-          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+          "feedback": "Correcto. Invertir los límites de integración cambia el signo: $\\int_{5}^{2} f=-\\int_{2}^{5} f=-7$."
         },
         {
           "letter": "B",
-          "text": "$19$",
+          "text": "$7$",
           "is_correct": false,
-          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+          "feedback": "Incorrecto. Se ignoró el orden de los límites; con $F(2)-F(5)=-(F(5)-F(2))$ el resultado cambia de signo."
         },
         {
           "letter": "C",
-          "text": "$23$",
+          "text": "$\\frac{1}{7}$",
           "is_correct": false,
-          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+          "feedback": "Incorrecto. Invertir los límites no invierte el valor como fracción; la propiedad cambia el signo, no toma el recíproco."
         },
         {
           "letter": "D",
-          "text": "$28$",
+          "text": "$0$",
           "is_correct": false,
-          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+          "feedback": "Incorrecto. La integral es 0 solo si los límites son iguales, como en $\\int_{a}^{a} f=0$; aquí son 2 y 5."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{4} 2x \\, dx = [x^2]_{0}^{4} = 4^2 - 0^2 = 16$.",
+      "explanation": "Si $F'=f$, entonces $\\int_{5}^{2} f(x)\\,dx=F(2)-F(5)=-(F(5)-F(2))=-\\int_{2}^{5} f(x)\\,dx$. Con el dato, el resultado es $-7$. Esta propiedad muestra que el sentido del recorrido importa en la integral definida.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.85,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.8,
       "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v5",
-      "statement": "Calcule el valor de la integral definida $\\int_{0}^{5} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
-      "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
+      "statement": "Si $\\int_{0}^{4} f(t)\\,dt=10$ y $\\int_{0}^{1} f(t)\\,dt=3$, ¿cuánto vale $\\int_{1}^{4} f(t)\\,dt$?",
+      "context": "Un pluviómetro en Quibdó registra la tasa de lluvia $f(t)$ en mm/h; la lluvia acumulada entre $t=0$ y $t=4$ fue de 10 mm y entre $t=0$ y $t=1$ fue de 3 mm.",
       "options": [
         {
-          "letter": "B",
-          "text": "$25$",
-          "is_correct": true,
-          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+          "letter": "A",
+          "text": "$13$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron los dos datos; por aditividad $\\int_{0}^{4}=\\int_{0}^{1}+\\int_{1}^{4}$, así que hay que restar."
         },
         {
-          "letter": "A",
-          "text": "$28$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+          "letter": "B",
+          "text": "$7$",
+          "is_correct": true,
+          "feedback": "Correcto. Por aditividad $10=3+\\int_{1}^{4} f$, luego $\\int_{1}^{4} f=10-3=7$ mm."
         },
         {
           "letter": "C",
-          "text": "$32$",
+          "text": "$-7$",
           "is_correct": false,
-          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+          "feedback": "Incorrecto. Se restó en el orden contrario, $3-10$; la lluvia acumulada de una tasa positiva no puede ser negativa."
         },
         {
           "letter": "D",
-          "text": "$37$",
+          "text": "$\\frac{10}{3}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+          "feedback": "Incorrecto. La aditividad de intervalos se expresa con sumas y restas, no con cocientes entre integrales."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{5} 2x \\, dx = [x^2]_{0}^{5} = 5^2 - 0^2 = 25$.",
+      "explanation": "La propiedad de aditividad dice $\\int_{a}^{c} f=\\int_{a}^{b} f+\\int_{b}^{c} f$. Con $a=0$, $b=1$, $c=4$: $10=3+\\int_{1}^{4} f(t)\\,dt$, de donde $\\int_{1}^{4} f(t)\\,dt=7$. Entre la hora 1 y la hora 4 cayeron 7 mm.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Algebraico",
-      "expected_success": 0.75,
+      "icfes_type": "Numerico",
+      "expected_success": 0.76,
       "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v6",
-      "statement": "Calcule el valor de la integral definida $\\int_{0}^{6} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
-      "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
+      "statement": "Si $\\int_{0}^{2} g(x)\\,dx=5$ y $\\int_{0}^{2} h(x)\\,dx=-1$, ¿cuánto vale $\\int_{0}^{2} (3g(x)-2h(x))\\,dx$?",
+      "context": "En una cooperativa lechera de Ubaté se combinan dos tasas de producción $g$ y $h$ y se conoce lo acumulado por cada una en dos días.",
       "options": [
         {
-          "letter": "C",
-          "text": "$36$",
-          "is_correct": true,
-          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
-        },
-        {
           "letter": "A",
-          "text": "$39$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+          "text": "$17$",
+          "is_correct": true,
+          "feedback": "Correcto. Por linealidad: $3(5)-2(-1)=15+2=17$."
         },
         {
           "letter": "B",
-          "text": "$43$",
+          "text": "$13$",
           "is_correct": false,
-          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+          "feedback": "Incorrecto. Error de signo: se calculó $15-2$ olvidando que $-2 \\cdot (-1)=+2$."
+        },
+        {
+          "letter": "C",
+          "text": "$6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se ignoraron las constantes 3 y 2 y se hizo $5-(-1)$; la propiedad del múltiplo constante exige multiplicar cada integral."
         },
         {
           "letter": "D",
-          "text": "$48$",
+          "text": "$4$",
           "is_correct": false,
-          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+          "feedback": "Incorrecto. Se calculó $(3-2)(5-1)$; la integral de una combinación lineal no se obtiene multiplicando sumas de coeficientes por sumas de integrales."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{6} 2x \\, dx = [x^2]_{0}^{6} = 6^2 - 0^2 = 36$.",
+      "correct_answer": "A",
+      "explanation": "La integral es lineal: $\\int (3g-2h)=3\\int g-2\\int h$. Entonces $3(5)-2(-1)=15+2=17$. Hay que cuidar el signo: restar una integral negativa equivale a sumar.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Razonamiento",
-      "expected_success": 0.75,
+      "icfes_type": "Algebraico",
+      "expected_success": 0.74,
       "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v7",
-      "statement": "Calcule el valor de la integral definida $\\int_{0}^{7} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
-      "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
+      "statement": "¿Cuál es su desplazamiento entre $t=0$ y $t=2$ s?",
+      "context": "Una ciclista entrena en la vía a Las Palmas (Medellín) y su velocidad es $v(t)=3t^2-2t$ m/s, con $t$ en segundos.",
       "options": [
         {
-          "letter": "B",
-          "text": "$49$",
-          "is_correct": true,
-          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+          "letter": "A",
+          "text": "$8$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de la velocidad $v(2)=12-4=8$ m/s, no el desplazamiento acumulado."
         },
         {
-          "letter": "A",
-          "text": "$52$",
+          "letter": "B",
+          "text": "$10$ m",
           "is_correct": false,
-          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+          "feedback": "Incorrecto. Se derivó la velocidad ($v'(t)=6t-2$, que en $t=2$ vale 10): eso es la aceleración, no el desplazamiento."
         },
         {
           "letter": "C",
-          "text": "$56$",
+          "text": "$20$ m",
           "is_correct": false,
-          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+          "feedback": "Incorrecto. Se integró sin dividir entre el nuevo exponente: se usó $3t^3-t^2$ en lugar de $t^3-t^2$."
         },
         {
           "letter": "D",
-          "text": "$61$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+          "text": "$4$ m",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_{0}^{2}(3t^2-2t)\\,dt=[t^3-t^2]_{0}^{2}=8-4=4$ m."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{7} 2x \\, dx = [x^2]_{0}^{7} = 7^2 - 0^2 = 49$.",
+      "correct_answer": "D",
+      "explanation": "El desplazamiento es la integral de la velocidad: $\\Delta s=\\int_{0}^{2} (3t^2-2t)\\,dt$. Antiderivada: $t^3-t^2$. Evaluando: $(8-4)-(0-0)=4$ m. Como $v(t)\\ge 0$ en $[0,2]$ salvo en $[0,\\frac{2}{3}]$ donde es negativa, el desplazamiento neto es 4 m.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.75,
+      "icfes_type": "Modelacion",
+      "expected_success": 0.72,
       "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v8",
-      "statement": "Calcule el valor de la integral definida $\\int_{0}^{8} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
-      "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
+      "statement": "¿Cuál es el valor de $\\int_{0}^{4}(x-2)\\,dx$ y cuál es el área total entre la gráfica y el eje $x$ en ese intervalo?",
+      "context": "El perfil de un canal de riego en el Huila se representa con $f(x)=x-2$ entre $x=0$ y $x=4$ (metros).",
       "options": [
         {
-          "letter": "B",
-          "text": "$64$",
-          "is_correct": true,
-          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+          "letter": "A",
+          "text": "Integral $4$ y área $4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La integral no coincide con el área cuando la función es negativa en parte del intervalo; aquí la integral vale 0."
         },
         {
-          "letter": "A",
-          "text": "$67$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+          "letter": "B",
+          "text": "Integral $0$ y área $4$.",
+          "is_correct": true,
+          "feedback": "Correcto. La parte bajo el eje ($[0,2]$, $-2$) cancela la parte sobre el eje ($[2,4]$, $+2$) en la integral, pero el área suma $2+2=4$."
         },
         {
           "letter": "C",
-          "text": "$71$",
+          "text": "Integral $0$ y área $0$.",
           "is_correct": false,
-          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+          "feedback": "Incorrecto. El valor de la integral es correcto, pero el área geométrica nunca es negativa: se suman los valores absolutos de cada región."
         },
         {
           "letter": "D",
-          "text": "$76$",
+          "text": "Integral $-4$ y área $4$.",
           "is_correct": false,
-          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+          "feedback": "Incorrecto. Se tomó solo la región negativa dos veces; la integral es $[\\frac{x^2}{2}-2x]_{0}^{4}=8-8=0$."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{8} 2x \\, dx = [x^2]_{0}^{8} = 8^2 - 0^2 = 64$.",
+      "explanation": "$\\int_{0}^{4}(x-2)\\,dx=[\\frac{x^2}{2}-2x]_{0}^{4}=8-8=0$. La recta corta el eje en $x=2$: en $[0,2]$ hay un triángulo bajo el eje de área 2 (aporta $-2$) y en $[2,4]$ uno sobre el eje de área 2 (aporta $+2$). La integral da el valor neto 0; el área total es $2+2=4$ m².",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.75,
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
       "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -377,42 +377,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v9",
-      "statement": "Calcule el valor de la integral definida $\\int_{0}^{9} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
-      "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
+      "statement": "¿Cuál es la suma de Riemann por la izquierda con $n=4$ subintervalos iguales?",
+      "context": "Para estimar el volumen de agua en un humedal de Bogotá se usa la función $f(x)=x^2$ en $[0,2]$ y una suma de Riemann con 4 rectángulos.",
       "options": [
         {
-          "letter": "D",
-          "text": "$81$",
-          "is_correct": true,
-          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
-        },
-        {
           "letter": "A",
-          "text": "$84$",
+          "text": "$3{,}75$",
           "is_correct": false,
-          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+          "feedback": "Incorrecto. Esa es la suma por la derecha: se usaron los puntos $0{,}5$, $1$, $1{,}5$ y $2$ en lugar de los extremos izquierdos."
         },
         {
           "letter": "B",
-          "text": "$88$",
+          "text": "$\\frac{8}{3}$",
           "is_correct": false,
-          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+          "feedback": "Incorrecto. Ese es el valor exacto de $\\int_{0}^{2} x^2\\,dx$; una suma con 4 rectángulos es solo una aproximación."
         },
         {
           "letter": "C",
-          "text": "$93$",
+          "text": "$3{,}5$",
           "is_correct": false,
-          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+          "feedback": "Incorrecto. Se sumaron las alturas $0+0{,}25+1+2{,}25$ sin multiplicar por la base $\\Delta x=0{,}5$."
+        },
+        {
+          "letter": "D",
+          "text": "$1{,}75$",
+          "is_correct": true,
+          "feedback": "Correcto. Con $\\Delta x=0{,}5$ y alturas $f(0), f(0{,}5), f(1), f(1{,}5)$: $0{,}5(0+0{,}25+1+2{,}25)=1{,}75$."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{9} 2x \\, dx = [x^2]_{0}^{9} = 9^2 - 0^2 = 81$.",
+      "explanation": "$\\Delta x=\\frac{2-0}{4}=0{,}5$. Extremos izquierdos: $0$, $0{,}5$, $1$, $1{,}5$, con alturas $0$, $0{,}25$, $1$, $2{,}25$. Suma: $L_4=0{,}5 \\cdot 3{,}5=1{,}75$. Como $x^2$ es creciente en $[0,2]$, la suma por la izquierda subestima el valor exacto $\\frac{8}{3} \\approx 2{,}67$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Algebraico",
-      "expected_success": 0.75,
+      "icfes_type": "Numerico",
+      "expected_success": 0.68,
       "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -423,42 +423,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v10",
-      "statement": "Calcule el valor de la integral definida $\\int_{0}^{10} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
-      "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
+      "statement": "¿Cuántos litros hay en el tanque a los 5 minutos?",
+      "context": "Un carrotanque abastece un tanque en La Guajira que ya tenía 100 L; el agua entra a razón de $r(t)=20+6t$ L/min.",
       "options": [
         {
-          "letter": "D",
-          "text": "$100$",
-          "is_correct": true,
-          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
-        },
-        {
           "letter": "A",
-          "text": "$103$",
+          "text": "$175$ L",
           "is_correct": false,
-          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+          "feedback": "Incorrecto. Se calculó bien lo que entró, $\\int_{0}^{5}(20+6t)\\,dt=175$, pero se olvidaron los 100 L iniciales."
         },
         {
           "letter": "B",
-          "text": "$107$",
+          "text": "$150$ L",
           "is_correct": false,
-          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+          "feedback": "Incorrecto. Se sumó la tasa en $t=5$, $r(5)=50$ L/min, a los 100 L; una tasa no es una cantidad acumulada."
         },
         {
           "letter": "C",
-          "text": "$112$",
+          "text": "$350$ L",
           "is_correct": false,
-          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+          "feedback": "Incorrecto. Se integró $6t$ como $6t^2$ sin dividir entre 2: $100+100+150$ en lugar de $100+100+75$."
+        },
+        {
+          "letter": "D",
+          "text": "$275$ L",
+          "is_correct": true,
+          "feedback": "Correcto. Cantidad final $=100+\\int_{0}^{5}(20+6t)\\,dt=100+[20t+3t^2]_{0}^{5}=100+175=275$ L."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{10} 2x \\, dx = [x^2]_{0}^{10} = 10^2 - 0^2 = 100$.",
+      "explanation": "Cantidad final = cantidad inicial + lo acumulado por la tasa: $Q(5)=100+\\int_{0}^{5}(20+6t)\\,dt$. Antiderivada: $20t+3t^2$; en $t=5$ vale $100+75=175$. Total: $100+175=275$ L.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Razonamiento",
-      "expected_success": 0.75,
+      "icfes_type": "Modelacion",
+      "expected_success": 0.66,
       "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -469,42 +469,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v11",
-      "statement": "Calcule el valor de la integral definida $\\int_{0}^{11} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
-      "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
+      "statement": "¿Cuánto vale $G'(2)$?",
+      "context": "Una empresa de energía en Ibagué define la energía acumulada como $G(x)=\\int_{1}^{x}(t^2+1)\\,dt$, con $x$ en horas.",
       "options": [
         {
-          "letter": "C",
-          "text": "$121$",
-          "is_correct": true,
-          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
-        },
-        {
           "letter": "A",
-          "text": "$124$",
+          "text": "$\\frac{10}{3}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+          "feedback": "Incorrecto. Ese es $G(2)=\\int_{1}^{2}(t^2+1)\\,dt$; se pidió la derivada $G'(2)$, no el valor acumulado."
         },
         {
           "letter": "B",
-          "text": "$128$",
+          "text": "$4$",
           "is_correct": false,
-          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+          "feedback": "Incorrecto. Se derivó el integrando ($2t$ en $t=2$); el teorema fundamental dice que $G'(x)$ es el integrando mismo, no su derivada."
+        },
+        {
+          "letter": "C",
+          "text": "$5$",
+          "is_correct": true,
+          "feedback": "Correcto. Por el teorema fundamental (primera parte) $G'(x)=x^2+1$, y $G'(2)=4+1=5$."
         },
         {
           "letter": "D",
-          "text": "$133$",
+          "text": "$3$",
           "is_correct": false,
-          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+          "feedback": "Incorrecto. Se restó el integrando en el límite inferior, $5-2$; el límite inferior constante no aporta nada a la derivada."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{11} 2x \\, dx = [x^2]_{0}^{11} = 11^2 - 0^2 = 121$.",
+      "explanation": "La primera parte del teorema fundamental del cálculo afirma que si $G(x)=\\int_{a}^{x} f(t)\\,dt$ con $f$ continua, entonces $G'(x)=f(x)$. Aquí $G'(x)=x^2+1$ y $G'(2)=5$. Interpretación: a las 2 horas la energía se acumula a 5 unidades por hora.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.65,
+      "icfes_type": "Variacional",
+      "expected_success": 0.62,
       "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -515,42 +515,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v12",
-      "statement": "Calcule el valor de la integral definida $\\int_{0}^{12} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
-      "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
+      "statement": "¿Cuál es el área total de la región comprendida entre la gráfica de $f$ y el eje $x$ en $[0,3]$?",
+      "context": "El borde de un lote en Villavicencio se modela con $f(x)=x^2-4$ en $[0,3]$ (cientos de metros), y la curva cruza el eje $x$ en $x=2$.",
       "options": [
         {
           "letter": "A",
-          "text": "$144$",
-          "is_correct": true,
-          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+          "text": "$-3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de la integral $\\int_{0}^{3}(x^2-4)\\,dx$, que resta la parte bajo el eje; un área no puede ser negativa."
         },
         {
           "letter": "B",
-          "text": "$147$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+          "text": "$\\frac{23}{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. Se separa en $x=2$: $|\\int_{0}^{2}(x^2-4)\\,dx|=\\frac{16}{3}$ y $\\int_{2}^{3}(x^2-4)\\,dx=\\frac{7}{3}$; el área es $\\frac{16}{3}+\\frac{7}{3}=\\frac{23}{3}$."
         },
         {
           "letter": "C",
-          "text": "$151$",
+          "text": "$3$",
           "is_correct": false,
-          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+          "feedback": "Incorrecto. Se tomó el valor absoluto de la integral total, $|-3|$; así la parte positiva sigue cancelando parte de la negativa."
         },
         {
           "letter": "D",
-          "text": "$156$",
+          "text": "$\\frac{7}{3}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+          "feedback": "Incorrecto. Solo se consideró la región sobre el eje en $[2,3]$; falta la región bajo el eje en $[0,2]$, de área $\\frac{16}{3}$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{12} 2x \\, dx = [x^2]_{0}^{12} = 12^2 - 0^2 = 144$.",
+      "correct_answer": "B",
+      "explanation": "$f$ es negativa en $[0,2)$ y positiva en $(2,3]$. $\\int_{0}^{2}(x^2-4)\\,dx=[\\frac{x^3}{3}-4x]_{0}^{2}=\\frac{8}{3}-8=-\\frac{16}{3}$ y $\\int_{2}^{3}(x^2-4)\\,dx=(9-12)-(\\frac{8}{3}-8)=\\frac{7}{3}$. Área total $=\\frac{16}{3}+\\frac{7}{3}=\\frac{23}{3} \\approx 7{,}67$, mientras que la integral neta vale $-3$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.65,
+      "icfes_type": "Geometrico",
+      "expected_success": 0.6,
       "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -561,42 +561,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v13",
-      "statement": "Calcule el valor de la integral definida $\\int_{0}^{13} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
-      "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
+      "statement": "¿Cuál es el error en su procedimiento?",
+      "context": "En un taller de preparación Saber 11 en Popayán, un estudiante resolvió $\\int_{-1}^{1}\\frac{1}{x^2}\\,dx=[-\\frac{1}{x}]_{-1}^{1}=-1-1=-2$.",
       "options": [
         {
           "letter": "A",
-          "text": "$169$",
-          "is_correct": true,
-          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+          "text": "La antiderivada tiene el signo equivocado; el resultado correcto es $2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La antiderivada $-\\frac{1}{x}$ sí es correcta, pues $(-\\frac{1}{x})'=\\frac{1}{x^2}$; el problema no está en el signo."
         },
         {
           "letter": "B",
-          "text": "$172$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+          "text": "El teorema fundamental no se puede aplicar porque $\\frac{1}{x^2}$ no es continua en $x=0$, que está dentro de $[-1,1]$.",
+          "is_correct": true,
+          "feedback": "Correcto. El teorema exige que el integrando sea continuo en todo $[a,b]$; $\\frac{1}{x^2}$ no está definida en 0 y crece sin límite, así que la integral no vale $-2$ (diverge)."
         },
         {
           "letter": "C",
-          "text": "$176$",
+          "text": "Por simetría el resultado correcto es $0$.",
           "is_correct": false,
-          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+          "feedback": "Incorrecto. La simetría que anula integrales es la de funciones impares; $\\frac{1}{x^2}$ es par y positiva, así que no se cancela."
         },
         {
           "letter": "D",
-          "text": "$181$",
+          "text": "No hay error; el resultado es $-2$.",
           "is_correct": false,
-          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+          "feedback": "Incorrecto. Un integrando positivo no puede dar una integral negativa; eso ya indica que el procedimiento no es válido."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{13} 2x \\, dx = [x^2]_{0}^{13} = 13^2 - 0^2 = 169$.",
+      "correct_answer": "B",
+      "explanation": "El teorema fundamental del cálculo requiere que $f$ sea continua en $[a,b]$. Como $\\frac{1}{x^2}$ tiene una discontinuidad infinita en $x=0 \\in [-1,1]$, no se puede evaluar directamente. Además, si $f>0$ la integral debería ser positiva, y el resultado $-2$ es una señal de alerta. Analizando cada mitad como integral impropia, $\\int_{0}^{1}\\frac{1}{x^2}\\,dx$ diverge.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Algebraico",
-      "expected_success": 0.65,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.58,
       "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -607,42 +607,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v14",
-      "statement": "Calcule el valor de la integral definida $\\int_{0}^{14} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
-      "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
+      "statement": "¿A qué integral definida es igual $\\lim_{n \\to \\infty} \\sum_{i=1}^{n} \\frac{3}{n}\\left(\\frac{3i}{n}\\right)^2$?",
+      "context": "Un programa de la Universidad Nacional aproxima áreas con sumas de rectángulos cada vez más delgados.",
       "options": [
         {
-          "letter": "B",
-          "text": "$196$",
-          "is_correct": true,
-          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+          "letter": "A",
+          "text": "$\\int_{0}^{1} x^2\\,dx$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ancho $\\frac{3}{n}$ indica un intervalo de longitud 3, no 1; los puntos $\\frac{3i}{n}$ recorren $[0,3]$."
         },
         {
-          "letter": "A",
-          "text": "$199$",
+          "letter": "B",
+          "text": "$\\int_{0}^{3} 3x^2\\,dx$",
           "is_correct": false,
-          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+          "feedback": "Incorrecto. El factor 3 de $\\frac{3}{n}$ es el ancho $\\Delta x$, no un coeficiente de la función; contarlo dos veces da 27 en lugar de 9."
         },
         {
           "letter": "C",
-          "text": "$203$",
+          "text": "$\\int_{0}^{1} 3x^2\\,dx$",
           "is_correct": false,
-          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+          "feedback": "Incorrecto. Se interpretó $\\frac{3}{n}$ como $3 \\cdot \\frac{1}{n}$ sobre $[0,1]$, pero los puntos $\\frac{3i}{n}$ llegan hasta 3, así que el intervalo es $[0,3]$."
         },
         {
           "letter": "D",
-          "text": "$208$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+          "text": "$\\int_{0}^{3} x^2\\,dx$",
+          "is_correct": true,
+          "feedback": "Correcto. Con $\\Delta x=\\frac{3}{n}$, $x_i=\\frac{3i}{n}$ en $[0,3]$ y $f(x)=x^2$, la suma de Riemann tiende a $\\int_{0}^{3} x^2\\,dx=9$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{14} 2x \\, dx = [x^2]_{0}^{14} = 14^2 - 0^2 = 196$.",
+      "correct_answer": "D",
+      "explanation": "Una suma de Riemann tiene la forma $\\sum f(x_i)\\Delta x$. Aquí $\\Delta x=\\frac{3}{n}$, por lo que el intervalo mide 3; $x_i=\\frac{3i}{n}$ va de casi 0 a 3, así que es $[0,3]$; y $f(x_i)=x_i^2$. El límite es $\\int_{0}^{3} x^2\\,dx=\\frac{27}{3}=9$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Razonamiento",
-      "expected_success": 0.65,
+      "icfes_type": "Variacional",
+      "expected_success": 0.56,
       "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -653,42 +653,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v15",
-      "statement": "Calcule el valor de la integral definida $\\int_{0}^{15} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
-      "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
+      "statement": "¿Cuál es la distancia total recorrida entre $t=0$ y $t=5$ s?",
+      "context": "Un mototaxi en Montería se mueve en línea recta con velocidad $v(t)=t-3$ m/s durante 5 segundos (negativa significa que va en reversa).",
       "options": [
         {
           "letter": "A",
-          "text": "$225$",
+          "text": "$6{,}5$ m",
           "is_correct": true,
-          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+          "feedback": "Correcto. Distancia $=\\int_{0}^{5}|t-3|\\,dt=4{,}5+2=6{,}5$ m, separando en $t=3$ donde cambia el sentido."
         },
         {
           "letter": "B",
-          "text": "$228$",
+          "text": "$-2{,}5$ m",
           "is_correct": false,
-          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+          "feedback": "Incorrecto. Ese es el desplazamiento neto $\\int_{0}^{5}(t-3)\\,dt$; la distancia recorrida no puede ser negativa."
         },
         {
           "letter": "C",
-          "text": "$232$",
+          "text": "$2{,}5$ m",
           "is_correct": false,
-          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+          "feedback": "Incorrecto. Se tomó el valor absoluto del desplazamiento total; así se cancelan los tramos de ida y regreso en lugar de sumarlos."
         },
         {
           "letter": "D",
-          "text": "$237$",
+          "text": "$4{,}5$ m",
           "is_correct": false,
-          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+          "feedback": "Incorrecto. Solo se contó el tramo en reversa de $t=0$ a $t=3$; falta el tramo de $t=3$ a $t=5$, que aporta 2 m."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{15} 2x \\, dx = [x^2]_{0}^{15} = 15^2 - 0^2 = 225$.",
+      "explanation": "La velocidad cambia de signo en $t=3$. Tramo $[0,3]$: $\\int_{0}^{3}(t-3)\\,dt=-4{,}5$, es decir, 4,5 m en reversa. Tramo $[3,5]$: $\\int_{3}^{5}(t-3)\\,dt=2$ m hacia adelante. Distancia total: $4{,}5+2=6{,}5$ m; desplazamiento neto: $-4{,}5+2=-2{,}5$ m.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Resolucion",
-      "expected_success": 0.65,
+      "icfes_type": "Modelacion",
+      "expected_success": 0.54,
       "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -699,42 +699,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v16",
-      "statement": "Calcule el valor de la integral definida $\\int_{0}^{16} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
-      "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
+      "statement": "¿Cuál es el valor de $\\int_{-2}^{2}(x^3+5)\\,dx$?",
+      "context": "Un estudiante de Sogamoso calcula el área bajo una curva simétrica de un puente modelada con $f(x)=x^3+5$ en $[-2,2]$.",
       "options": [
         {
-          "letter": "C",
-          "text": "$256$",
-          "is_correct": true,
-          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
-        },
-        {
           "letter": "A",
-          "text": "$259$",
+          "text": "$0$",
           "is_correct": false,
-          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+          "feedback": "Incorrecto. Solo $x^3$ es impar y se anula en un intervalo simétrico; la constante 5 aporta $5 \\cdot 4=20$."
         },
         {
           "letter": "B",
-          "text": "$263$",
+          "text": "$20$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_{-2}^{2}x^3\\,dx=0$ porque $x^3$ es impar, y $\\int_{-2}^{2}5\\,dx=5 \\cdot 4=20$."
+        },
+        {
+          "letter": "C",
+          "text": "$14$",
           "is_correct": false,
-          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+          "feedback": "Incorrecto. Ese es $\\int_{0}^{2}(x^3+5)\\,dx=4+10$; se integró solo la mitad derecha del intervalo."
         },
         {
           "letter": "D",
-          "text": "$268$",
+          "text": "$28$",
           "is_correct": false,
-          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+          "feedback": "Incorrecto. Se duplicó la mitad derecha como si toda la función fuera par; $x^3$ es impar y su parte izquierda vale $-4$, no $+4$."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{16} 2x \\, dx = [x^2]_{0}^{16} = 16^2 - 0^2 = 256$.",
+      "correct_answer": "B",
+      "explanation": "Se separa por linealidad: $\\int_{-2}^{2}x^3\\,dx+\\int_{-2}^{2}5\\,dx$. Como $x^3$ es impar, $\\int_{-2}^{2}x^3\\,dx=[\\frac{x^4}{4}]_{-2}^{2}=4-4=0$. La constante da $5(2-(-2))=20$. Total: 20.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.65,
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.52,
       "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -745,42 +745,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v17",
-      "statement": "Calcule el valor de la integral definida $\\int_{0}^{17} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
-      "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
+      "statement": "¿Qué valor de $k$ cumple la condición $\\int_{0}^{k}(2x+1)\\,dx=12$ en el contexto del problema?",
+      "context": "Un arquitecto de Pasto diseña una fachada cuya área entre $x=0$ y $x=k$ metros, bajo la recta $y=2x+1$, debe ser de 12 m² con $k>0$.",
       "options": [
         {
-          "letter": "B",
-          "text": "$289$",
-          "is_correct": true,
-          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
+          "letter": "A",
+          "text": "$k=-4$ y $k=3$, ambos válidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Algebraicamente $k^2+k=12$ tiene raíces $-4$ y $3$, pero el problema exige $k>0$ porque es una longitud, así que $-4$ se descarta."
         },
         {
-          "letter": "A",
-          "text": "$292$",
+          "letter": "B",
+          "text": "$k=4$",
           "is_correct": false,
-          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+          "feedback": "Incorrecto. Se resolvió $k^2-k=12$ por un error de signo en la antiderivada; con $k=4$ la integral vale $16+4=20$."
         },
         {
           "letter": "C",
-          "text": "$296$",
-          "is_correct": false,
-          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+          "text": "$k=3$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_{0}^{k}(2x+1)\\,dx=k^2+k=12$ da $(k+4)(k-3)=0$, y la única solución positiva es $k=3$."
         },
         {
           "letter": "D",
-          "text": "$301$",
+          "text": "$k=\\sqrt{12}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+          "feedback": "Incorrecto. Se olvidó integrar el término constante 1 y se resolvió $k^2=12$; la ecuación correcta es $k^2+k=12$."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{17} 2x \\, dx = [x^2]_{0}^{17} = 17^2 - 0^2 = 289$.",
+      "correct_answer": "C",
+      "explanation": "$\\int_{0}^{k}(2x+1)\\,dx=[x^2+x]_{0}^{k}=k^2+k$. Igualando: $k^2+k-12=0$, es decir, $(k+4)(k-3)=0$, con soluciones $k=3$ o $k=-4$. Como $k$ es una longitud positiva, $k=3$ m. Comprobación: $9+3=12$.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Algebraico",
-      "expected_success": 0.55,
+      "icfes_type": "Formulacion",
+      "expected_success": 0.5,
       "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -791,42 +791,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v18",
-      "statement": "Calcule el valor de la integral definida $\\int_{0}^{18} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
-      "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
+      "statement": "¿Cuál afirmación sobre las sumas por la izquierda ($L_n$) y por la derecha ($R_n$) es correcta para $\\int_{a}^{b} f(t)\\,dt$?",
+      "context": "En época seca, el caudal del río Magdalena en Honda disminuye: su función $f(t)$ es positiva y decreciente, y se estima el volumen con sumas de Riemann.",
       "options": [
         {
-          "letter": "D",
-          "text": "$324$",
-          "is_correct": true,
-          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
-        },
-        {
           "letter": "A",
-          "text": "$327$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+          "text": "$L_n$ sobreestima y $R_n$ subestima el valor de la integral.",
+          "is_correct": true,
+          "feedback": "Correcto. En una función decreciente el extremo izquierdo de cada subintervalo es el punto más alto, así que $L_n$ queda por encima y $R_n$ por debajo."
         },
         {
           "letter": "B",
-          "text": "$331$",
+          "text": "$L_n$ subestima y $R_n$ sobreestima el valor de la integral.",
           "is_correct": false,
-          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+          "feedback": "Incorrecto. Eso ocurre con funciones crecientes; si $f$ decrece, la altura izquierda es la mayor del subintervalo."
         },
         {
           "letter": "C",
-          "text": "$336$",
+          "text": "Ambas sumas sobreestiman el valor de la integral.",
           "is_correct": false,
-          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+          "feedback": "Incorrecto. En $R_n$ cada altura es el valor mínimo de $f$ en su subintervalo, por lo que esa suma queda por debajo."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas sumas son iguales a la integral si $n=4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con un número finito de rectángulos hay error salvo que $f$ sea constante; la igualdad exacta se logra solo en el límite $n \\to \\infty$."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{18} 2x \\, dx = [x^2]_{0}^{18} = 18^2 - 0^2 = 324$.",
+      "correct_answer": "A",
+      "explanation": "Si $f$ es decreciente en $[x_{i-1},x_i]$, entonces $f(x_{i-1}) \\ge f(t) \\ge f(x_i)$. Al multiplicar por $\\Delta x$ y sumar: $R_n \\le \\int_{a}^{b} f \\le L_n$. Ejemplo: para $e^{-t}$ en $[0,2]$ con $n=4$, $L_4 \\approx 1{,}10$, la integral $\\approx 0{,}86$ y $R_4 \\approx 0{,}67$.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
       "icfes_type": "Razonamiento",
-      "expected_success": 0.55,
+      "expected_success": 0.48,
       "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -837,42 +837,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v19",
-      "statement": "Calcule el valor de la integral definida $\\int_{0}^{19} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
-      "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
+      "statement": "¿Cuál es la temperatura promedio del invernadero en el intervalo $[0,6]$?",
+      "context": "La temperatura en un invernadero de flores en Medellín entre las 6:00 a. m. y las 12:00 m. se modela con $T(t)=18+6t-t^2$ °C, con $t$ en horas desde las 6:00.",
       "options": [
         {
-          "letter": "C",
-          "text": "$361$",
-          "is_correct": true,
-          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
-        },
-        {
           "letter": "A",
-          "text": "$364$",
-          "is_correct": false,
-          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+          "text": "$24$ °C",
+          "is_correct": true,
+          "feedback": "Correcto. Valor promedio $=\\frac{1}{6}\\int_{0}^{6}(18+6t-t^2)\\,dt=\\frac{144}{6}=24$ °C."
         },
         {
           "letter": "B",
-          "text": "$368$",
+          "text": "$144$ °C",
           "is_correct": false,
-          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+          "feedback": "Incorrecto. Ese es el valor de la integral; para obtener el promedio hay que dividir entre la longitud del intervalo, 6 horas."
+        },
+        {
+          "letter": "C",
+          "text": "$18$ °C",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se promediaron solo los extremos $T(0)=18$ y $T(6)=18$; eso ignora cómo varía la temperatura entre ellos."
         },
         {
           "letter": "D",
-          "text": "$373$",
+          "text": "$27$ °C",
           "is_correct": false,
-          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+          "feedback": "Incorrecto. Ese es el valor máximo $T(3)=27$; el promedio integral siempre es menor que el máximo si la función no es constante."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{19} 2x \\, dx = [x^2]_{0}^{19} = 19^2 - 0^2 = 361$.",
+      "correct_answer": "A",
+      "explanation": "El valor promedio de una función en $[a,b]$ es $\\frac{1}{b-a}\\int_{a}^{b} T(t)\\,dt$. $\\int_{0}^{6}(18+6t-t^2)\\,dt=[18t+3t^2-\\frac{t^3}{3}]_{0}^{6}=108+108-72=144$. Promedio: $\\frac{144}{6}=24$ °C, que está entre el mínimo 18 y el máximo 27.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
       "icfes_type": "Resolucion",
-      "expected_success": 0.55,
+      "expected_success": 0.46,
       "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -883,42 +883,42 @@
     },
     {
       "id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle-v20",
-      "statement": "Calcule el valor de la integral definida $\\int_{0}^{20} 2x \\, dx$ que representa el área bajo la curva de velocidad de un objeto.",
-      "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
+      "statement": "¿Cuál es el valor de $\\int_{0}^{3}|x-1|\\,dx$?",
+      "context": "Un sensor de nivel en una represa de Antioquia mide el error absoluto $|x-1|$ respecto a una referencia, y se quiere el error acumulado entre $x=0$ y $x=3$.",
       "options": [
         {
-          "letter": "C",
-          "text": "$400$",
-          "is_correct": true,
-          "feedback": "Correcto: evaluación exacta de la antiderivada en los límites superior e inferior."
-        },
-        {
           "letter": "A",
-          "text": "$403$",
+          "text": "$\\frac{3}{2}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se evaluó la función integrandola con un error en los límites."
+          "feedback": "Incorrecto. Se ignoró el valor absoluto y se integró $x-1$ en todo el intervalo; en $[0,1]$ el integrando real es $1-x$, no $x-1$."
         },
         {
           "letter": "B",
-          "text": "$407$",
+          "text": "$2$",
           "is_correct": false,
-          "feedback": "Incorrecto: error al sumar una constante arbitraria."
+          "feedback": "Incorrecto. Solo se integró el tramo $[1,3]$; falta el tramo $[0,1]$, que aporta $\\frac{1}{2}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{5}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Se separa en $x=1$: $\\int_{0}^{1}(1-x)\\,dx+\\int_{1}^{3}(x-1)\\,dx=\\frac{1}{2}+2=\\frac{5}{2}$."
         },
         {
           "letter": "D",
-          "text": "$412$",
+          "text": "$\\frac{1}{2}$",
           "is_correct": false,
-          "feedback": "Incorrecto: se agregó un término espurio tras integrar."
+          "feedback": "Incorrecto. Solo se integró el tramo $[0,1]$; el tramo $[1,3]$ aporta 2 más."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo: $\\int_{0}^{20} 2x \\, dx = [x^2]_{0}^{20} = 20^2 - 0^2 = 400$.",
+      "explanation": "$|x-1|=1-x$ si $x<1$ y $x-1$ si $x \\ge 1$. Entonces $\\int_{0}^{1}(1-x)\\,dx=[x-\\frac{x^2}{2}]_{0}^{1}=\\frac{1}{2}$ y $\\int_{1}^{3}(x-1)\\,dx=[\\frac{x^2}{2}-x]_{1}^{3}=\\frac{3}{2}-(-\\frac{1}{2})=2$. Total: $\\frac{5}{2}$. Geométricamente son dos triángulos de áreas $\\frac{1}{2}$ y 2.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Modelacion",
-      "expected_success": 0.55,
+      "icfes_type": "Resolucion",
+      "expected_success": 0.45,
       "bundle_id": "CO-MAT-11-2026-W21-integrales-definidas-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",

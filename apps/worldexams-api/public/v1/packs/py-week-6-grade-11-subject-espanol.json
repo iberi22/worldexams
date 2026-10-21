@@ -103,16 +103,16 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "ademas",
-          "is_correct": true,
-          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de San Ignacio y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
-        },
-        {
           "letter": "A",
           "text": "sin embargo",
           "is_correct": false,
           "feedback": "Incorrecto. 'Sin embargo' es adversativo: introduce una idea que se opone a lo que se habia dicho. En esta oracion las dos proposiciones se refuerzan, porque la gente de San Ignacio no contradice a su ciudad, asi que una oposicion seria falsa."
+        },
+        {
+          "letter": "B",
+          "text": "ademas",
+          "is_correct": true,
+          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de San Ignacio y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
         },
         {
           "letter": "C",
@@ -144,15 +144,9 @@
     },
     {
       "id": "PY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle-v4",
-      "statement": "¿Cual oracion esta correctamente escrita?",
+      "statement": "¿Qué oración nombra la institución con su nombre propio completo, escrito con mayúscula inicial en cada palabra?",
       "context": "Clase de lenguaje en PY.",
       "options": [
-        {
-          "letter": "D",
-          "text": "Los estudiantes del Colegio Nacional Encaracion estudian mucho.",
-          "is_correct": true,
-          "feedback": "Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'."
-        },
         {
           "letter": "A",
           "text": "Los estudiantes de la escuela estudian poco.",
@@ -170,10 +164,16 @@
           "text": "Los estudiantes del instituto estudian mucho.",
           "is_correct": false,
           "feedback": "Incorrecto. Comparte con la correcta la concordancia y el verbo 'estudian mucho', y se diferencia en un solo punto decisivo: emplea 'el instituto', un nombre comun, en lugar del nombre oficial completo."
+        },
+        {
+          "letter": "D",
+          "text": "Los estudiantes del Colegio Nacional Encaracion estudian mucho.",
+          "is_correct": true,
+          "feedback": "Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La opcion A sigue las normas ortograficas correctamente.\n\n---",
+      "explanation": "'Colegio Nacional Encaracion' es un nombre propio: identifica un colegio concreto y por eso cada palabra significativa va con mayúscula inicial. 'La escuela' o 'el instituto' son nombres comunes que pueden designar cualquier centro, así que esas oraciones, aunque tengan buena concordancia, no identifican la institución.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -418,16 +418,16 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "El agua es esencial para la vida y debe cuidarse",
-          "is_correct": true,
-          "feedback": "Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen."
-        },
-        {
           "letter": "A",
           "text": "El agua solo se usa para beber",
           "is_correct": false,
           "feedback": "Incorrecto. Reduce el agua a un solo uso domestico. El texto la presenta como recurso vital para la vida en general, no unicamente como algo con que beber."
+        },
+        {
+          "letter": "B",
+          "text": "El agua es esencial para la vida y debe cuidarse",
+          "is_correct": true,
+          "feedback": "Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen."
         },
         {
           "letter": "C",
@@ -553,16 +553,16 @@
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "ademas",
-          "is_correct": true,
-          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Mariscal Estigarribia y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
-        },
-        {
           "letter": "A",
           "text": "sin embargo",
           "is_correct": false,
           "feedback": "Incorrecto. 'Sin embargo' es adversativo: introduce una idea que se opone a lo que se habia dicho. En esta oracion las dos proposiciones se refuerzan, porque la gente de Mariscal Estigarribia no contradice a su ciudad, asi que una oposicion seria falsa."
+        },
+        {
+          "letter": "B",
+          "text": "ademas",
+          "is_correct": true,
+          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Mariscal Estigarribia y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
         },
         {
           "letter": "C",
@@ -779,15 +779,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Teléfono",
-          "is_correct": true,
-          "feedback": "Es llana terminada en vocal, de modo que no lleva tilde por esa razón."
-        },
-        {
-          "letter": "B",
           "text": "Intérprete",
           "is_correct": false,
           "feedback": "Es la respuesta: es esdrújula porque lleva la tónica en la antepenúltima sílaba, 'tér'."
+        },
+        {
+          "letter": "B",
+          "text": "Teléfono",
+          "is_correct": true,
+          "feedback": "Es llana terminada en vocal, de modo que no lleva tilde por esa razón."
         },
         {
           "letter": "C",
@@ -802,7 +802,7 @@
           "feedback": "Es llana terminada en consonante y por eso se escribe sin tilde."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las palabras esdrújulas llevan tilde obligatoriamente porque su sílaba tónica es la antepenúltima. 'Intérprete' cumple esa condición y 'teléfono' no.",
       "difficulty": "10",
       "images": [],

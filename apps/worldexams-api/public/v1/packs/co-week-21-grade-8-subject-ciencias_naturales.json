@@ -486,18 +486,18 @@
         },
         {
           "letter": "C",
-          "text": "Implementar pagos por servicios ambientales (PSA) que compensen a las familias por conservar el páramo, combinándolos con proyectos de ecoturismo y agricultura sostenible.",
-          "is_correct": true,
-          "feedback": "Correcto. Los PSA internalizan el valor del carbono y del agua almacenados, generan ingresos rurales y reducen emisiones por deforestación evitada."
-        },
-        {
-          "letter": "D",
           "text": "Importar todos los alimentos desde el extranjero para liberar tierras municipales y reforestarlas.",
           "is_correct": false,
           "feedback": "Incorrecto. El transporte internacional de alimentos aumenta las emisiones y vulnera la seguridad alimentaria local."
+        },
+        {
+          "letter": "D",
+          "text": "Implementar pagos por servicios ambientales (PSA) que compensen a las familias por conservar el páramo, combinándolos con proyectos de ecoturismo y agricultura sostenible.",
+          "is_correct": true,
+          "feedback": "Correcto. Los PSA internalizan el valor del carbono y del agua almacenados, generan ingresos rurales y reducen emisiones por deforestación evitada."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Los pagos por servicios ambientales son instrumentos de política reconocidos por el Ministerio de Ambiente y Desarrollo Sostenible de Colombia. Reconocen económicamente a las comunidades que conservan bosques y páramos por los servicios de carbono, agua y biodiversidad que proveen, integrando objetivos climáticos con desarrollo rural sostenible.",
       "difficulty": "10",
       "images": [],

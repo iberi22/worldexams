@@ -34,14 +34,14 @@ Family vocabulary, possessive adjectives, and simple descriptions of family memb
 Which word refers to the mother of your mother or the father of your father?
 
 ### Opciones
-- [x] D) Grandmother / Grandfather.
-  <!-- feedback: The parents of your parents are your grandparents. -->
 - [ ] A) Cousin.
   <!-- feedback: A cousin is the child of your aunt or uncle. -->
 - [ ] B) Sister.
   <!-- feedback: A sister is a female sibling of the same parents. -->
 - [ ] C) Niece.
   <!-- feedback: A niece is the daughter of your brother or sister. -->
+- [x] D) Grandmother / Grandfather.
+  <!-- feedback: The parents of your parents are your grandparents. -->
 
 ### Explicacion Pedagogica
 Recognizing extended family vocabulary in English (grandparents, cousins, siblings, nieces).
@@ -80,12 +80,12 @@ Inferring family relationships from short descriptive sentences in English.
 Choose the correct possessive adjective to complete: "I love _____ parents very much."
 
 ### Opciones
-- [x] C) my.
-  <!-- feedback: "My" is the possessive adjective for the first person singular (I). -->
 - [ ] A) your.
   <!-- feedback: "Your" is used with the second person (you). -->
 - [ ] B) his.
   <!-- feedback: "His" is used with third person singular masculine (he). -->
+- [x] C) my.
+  <!-- feedback: "My" is the possessive adjective for the first person singular (I). -->
 - [ ] D) their.
   <!-- feedback: "Their" is used with third person plural (they). -->
 
@@ -126,12 +126,12 @@ Conjugating "to be" (am, is, are) according to the subject in simple English sen
 Complete with the correct Present Simple form: "My mother _____ dinner every evening."
 
 ### Opciones
-- [x] C) cooks.
-  <!-- feedback: With third person singular (my mother), the verb adds -s: cooks. -->
 - [ ] A) cook.
   <!-- feedback: "Cook" without -s is used with plural subjects (we, they) or I/you. -->
 - [ ] B) cooking.
   <!-- feedback: "Cooking" requires the auxiliary verb to be for the present continuous. -->
+- [x] C) cooks.
+  <!-- feedback: With third person singular (my mother), the verb adds -s: cooks. -->
 - [ ] D) cooked.
   <!-- feedback: "Cooked" is the past simple form, not used for daily routines in present. -->
 
@@ -149,14 +149,14 @@ Applying the third-person singular -s rule in the Simple Present tense in Englis
 What can you infer about Laura's family from the text?
 
 ### Opciones
-- [x] D) Laura has two sisters named Ana and Paula, and they live in Cali.
-  <!-- feedback: The text states Laura has two sisters and that they all live in Cali. -->
 - [ ] A) Laura has no siblings and lives in Bogota.
   <!-- feedback: The text says she has two sisters, so this contradicts the passage. -->
 - [ ] B) Ana and Paula are Laura's cousins from another city.
   <!-- feedback: The text clearly identifies Ana and Paula as Laura's sisters. -->
 - [ ] C) Laura is an only child who lives alone in Cali.
   <!-- feedback: The text says she has two sisters, so she is not an only child. -->
+- [x] D) Laura has two sisters named Ana and Paula, and they live in Cali.
+  <!-- feedback: The text states Laura has two sisters and that they all live in Cali. -->
 
 ### Explicacion Pedagogica
 Synthesizing explicit details (names, number, city) to draw a correct inference about a family description.
@@ -172,14 +172,14 @@ Synthesizing explicit details (names, number, city) to draw a correct inference 
 Which sentence correctly uses the possessive form to relate Mateo and Pedro?
 
 ### Opciones
-- [x] D) Mateo is Pedro's son.
-  <!-- feedback: The possessive "'s" with Pedro indicates the relationship of father to son. -->
 - [ ] A) Mateo are Pedro's son.
   <!-- feedback: "Mateo" is singular and requires the verb "is", not "are". -->
 - [ ] B) Pedro's is Mateo son.
   <!-- feedback: The structure "Pedro's is" is ungrammatical in English. -->
 - [ ] C) Mateo's Pedro is son.
   <!-- feedback: The structure reverses the relationship and is not grammatical. -->
+- [x] D) Mateo is Pedro's son.
+  <!-- feedback: The possessive "'s" with Pedro indicates the relationship of father to son. -->
 
 ### Explicacion Pedagogica
 Analyzing the use of the Saxon genitive ('s) to express family relationships in English.
@@ -195,14 +195,14 @@ Analyzing the use of the Saxon genitive ('s) to express family relationships in 
 What is the main idea of this paragraph about family?
 
 ### Opciones
-- [x] D) Family members support each other and share important daily activities.
-  <!-- feedback: The paragraph emphasizes mutual support and shared activities within the family. -->
 - [ ] A) Only grandparents are important in a Colombian family.
   <!-- feedback: The paragraph mentions grandparents, parents, and children, not only grandparents. -->
-- [ ] B) Family members should never spend time together.
-  <!-- feedback: The paragraph promotes shared activities, the opposite of never spending time together. -->
+- [x] B) Family members support each other and share important daily activities.
+  <!-- feedback: The paragraph emphasizes mutual support and shared activities within the family. -->
 - [ ] C) Studying and cooking are unimportant in family life.
   <!-- feedback: The paragraph lists studying and cooking as examples of shared family activities. -->
+- [ ] D) Family members should never spend time together.
+  <!-- feedback: The paragraph promotes shared activities, the opposite of never spending time together. -->
 
 ### Explicacion Pedagogica
 Evaluating the main idea of a short expository paragraph about family roles and values.

@@ -388,9 +388,9 @@
         },
         {
           "letter": "B",
-          "text": "Es exagerada porque las acciones locales ayudan y educan, pero el deshielo responde a emisiones globales acumuladas y requiere esfuerzos sostenidos y amplios.",
-          "is_correct": true,
-          "feedback": "Correcta, porque valora la acción local sin atribuirle un efecto global inmediato imposible."
+          "text": "Es irrelevante porque sembrar plantas y usar bicicleta aumentan los gases invernadero en Nariño.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque ambas acciones reducen emisiones o capturan carbono y no las aumentan."
         },
         {
           "letter": "C",
@@ -400,12 +400,12 @@
         },
         {
           "letter": "D",
-          "text": "Es irrelevante porque sembrar plantas y usar bicicleta aumentan los gases invernadero en Nariño.",
-          "is_correct": false,
-          "feedback": "Incorrecta, porque ambas acciones reducen emisiones o capturan carbono y no las aumentan."
+          "text": "Es exagerada porque las acciones locales ayudan y educan, pero el deshielo responde a emisiones globales acumuladas y requiere esfuerzos sostenidos y amplios.",
+          "is_correct": true,
+          "feedback": "Correcta, porque valora la acción local sin atribuirle un efecto global inmediato imposible."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Evaluar exige ponderar escala y tiempo. Los techos verdes y la bicicleta en Pasto son valiosos como mitigación y ejemplo, pero el Cocuy depende de décadas de emisiones mundiales. El cambio real necesita constancia y suma de muchos territorios.",
       "difficulty": "10",
       "images": [],

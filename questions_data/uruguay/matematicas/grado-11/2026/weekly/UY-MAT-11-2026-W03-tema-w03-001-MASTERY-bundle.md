@@ -394,9 +394,9 @@ Se comparan los costos: $200 + 30d < 50d$ da $d > 10$. En $d = 10$ ambas cobran 
 
 ### Opciones
 - [ ] A) $k = 1$ <!-- feedback: Incorrecto. Con $k = 1$ las rectas tienen distinta pendiente: solución única. -->
-- [x] B) $k = 2$ <!-- feedback: ¡Correcto! Con $k = 2$ la segunda ecuación es el doble de la primera: misma recta. -->
+- [ ] B) $k = 0$ <!-- feedback: Incorrecto. El sistema quedaría $x = 4$ y $x + 2y = 4$: solución única. -->
 - [ ] C) $k = 4$ <!-- feedback: Incorrecto. Con $k = 4$ las razones de coeficientes difieren: solución única. -->
-- [ ] D) $k = 0$ <!-- feedback: Incorrecto. El sistema quedaría $x = 4$ y $x + 2y = 4$: solución única. -->
+- [x] D) $k = 2$ <!-- feedback: ¡Correcto! Con $k = 2$ la segunda ecuación es el doble de la primera: misma recta. -->
 
 ### Explicación Pedagógica
 Para infinitas soluciones se necesita proporcionalidad total: $\frac{1}{2} = \frac{k}{4} = \frac{4}{8}$. La primera razón exige $k = 2$, que también cumple la proporción de los términos independientes.

@@ -13,12 +13,6 @@
       "context": "Discussing literature & arts in Bogotá.",
       "options": [
         {
-          "letter": "C",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
           "text": "alleviate",
           "is_correct": false,
@@ -29,6 +23,12 @@
           "text": "mitigate",
           "is_correct": false,
           "feedback": "Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied."
+        },
+        {
+          "letter": "C",
+          "text": "exacerbate",
+          "is_correct": true,
+          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
         },
         {
           "letter": "D",
@@ -59,16 +59,16 @@
       "context": "Discussing literature & arts in Cartagena.",
       "options": [
         {
-          "letter": "B",
-          "text": "alienates",
-          "is_correct": true,
-          "feedback": "'Alienates' means to make someone feel excluded or estranged, and the sentence describes losing precisely the audience the original addressed. The clause naming 'the very readers the original was written for' is what fixes the meaning."
-        },
-        {
           "letter": "A",
           "text": "enthuses",
           "is_correct": false,
           "feedback": "'Enthuse' means to inspire enthusiasm, and the sentence describes the opposite result for a specific readership. Nothing in it suggests anyone was drawn in."
+        },
+        {
+          "letter": "B",
+          "text": "alienates",
+          "is_correct": true,
+          "feedback": "'Alienates' means to make someone feel excluded or estranged, and the sentence describes losing precisely the audience the original addressed. The clause naming 'the very readers the original was written for' is what fixes the meaning."
         },
         {
           "letter": "C",
@@ -105,12 +105,6 @@
       "context": "Discussing literature & arts in Cali.",
       "options": [
         {
-          "letter": "D",
-          "text": "forecloses",
-          "is_correct": true,
-          "feedback": "'Forecloses' means to rule out in advance, and the sentence describes a critical position that excludes a reading rather than testing it. The word carries the sense of closing off an interpretation that already exists."
-        },
-        {
           "letter": "A",
           "text": "foresees",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "forfeits",
           "is_correct": false,
           "feedback": "'Forfeit' means to lose something one is entitled to, which would apply to the critic rather than to a claim. The grammatical subject is the claim itself, and what it does is limit interpretation."
+        },
+        {
+          "letter": "D",
+          "text": "forecloses",
+          "is_correct": true,
+          "feedback": "'Forecloses' means to rule out in advance, and the sentence describes a critical position that excludes a reading rather than testing it. The word carries the sense of closing off an interpretation that already exists."
         }
       ],
       "correct_answer": "D",
@@ -151,12 +151,6 @@
       "context": "Discussing literature & arts in Medellín.",
       "options": [
         {
-          "letter": "C",
-          "text": "compromise",
-          "is_correct": true,
-          "feedback": "'Compromise' means to weaken something by exposing it to damaging forces, and the sentence describes a translation whose omissions are publicly attributable. The clause about the name on the cover is what makes the damage fall on the translator."
-        },
-        {
           "letter": "A",
           "text": "vindicate",
           "is_correct": false,
@@ -167,6 +161,12 @@
           "text": "immortalise",
           "is_correct": false,
           "feedback": "'Immortalise' means to make someone famous for ever, and nothing in the sentence suggests lasting fame. The described consequence is exposure to criticism, not commemoration."
+        },
+        {
+          "letter": "C",
+          "text": "compromise",
+          "is_correct": true,
+          "feedback": "'Compromise' means to weaken something by exposing it to damaging forces, and the sentence describes a translation whose omissions are publicly attributable. The clause about the name on the cover is what makes the damage fall on the translator."
         },
         {
           "letter": "D",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W16-literature-arts-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on literature & arts in Bogotá, what is implied about the role of Emphasis & Fronting in shaping public opinion?",
-      "context": "Discussing literature & arts in Bogotá.",
+      "statement": "Read the text and answer the question.\n\n\"Gabriel García Márquez was born in 1927 in Aracataca, a small town in the department of Magdalena, and lived there with his grandparents until he was eight. Years later, the town's hot streets, banana plantations and the stories his grandmother told him became the inspiration for Macondo, the imaginary town of his novel One Hundred Years of Solitude, published in 1967. The book was translated into dozens of languages, and in 1982 he received the Nobel Prize in Literature. Today visitors to Aracataca can see his reconstructed childhood house, which is now a museum.\"\n\nWhat is the main idea of the text?",
+      "context": "Gabriel García Márquez and his hometown, Aracataca.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "letter": "A",
+          "text": "Aracataca is the largest city in the department of Magdalena.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text calls Aracataca \"a small town\", so this option contradicts the passage."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "letter": "B",
+          "text": "García Márquez's childhood in Aracataca inspired one of his most famous creations.",
+          "is_correct": true,
+          "feedback": "Correct. The text connects his early years in Aracataca (streets, plantations, his grandmother's stories) with the creation of Macondo, and the other facts (the novel, the prize, the museum) develop that link."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "García Márquez wrote One Hundred Years of Solitude when he was eight.",
           "is_correct": false,
-          "feedback": "Incorrect. Emphasis & Fronting gives a text its nuance and precision, so it does not make the message simpler to grasp."
+          "feedback": "Incorrect. He lived in Aracataca until he was eight; the novel was published in 1967, many years later."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Bogotá.",
+          "text": "Macondo is a real town that tourists can visit in Magdalena.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The text says Macondo is \"the imaginary town\" of the novel; tourists visit Aracataca and the writer's house."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "The main idea is the relationship the whole text builds: real childhood memories became fiction. Details about the Nobel Prize and the museum support it, while the distractors misread \"small town\", the dates or the difference between Macondo and Aracataca.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-11-2026-W16-literature-arts-001-MASTERY-bundle-v6",
-      "statement": "According to a recent report on literature & arts in Cali, what is implied about the role of Emphasis & Fronting in shaping public opinion?",
-      "context": "Discussing literature & arts in Cali.",
+      "statement": "Read the text and answer the question.\n\n\"Vallenato, the music of accordion, caja and guacharaca from the Caribbean region of Colombia, is famous all over the country. Its traditional songs tell stories of daily life, love and journeys through the region. However, in 2015 UNESCO included traditional vallenato on its list of cultural heritage in need of urgent safeguarding. Experts explained that young musicians were abandoning the old styles in favour of commercial versions, and that the traditional ways of teaching, from old masters to children, were disappearing. Since then, schools in Valledupar have offered free classes so that children can learn the traditional styles from experienced players.\"\n\nWhat can be inferred from the text?",
+      "context": "Vallenato music and its protection in Valledupar.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Vallenato is not known outside the city of Valledupar.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. The text says vallenato \"is famous all over the country\", so it is not limited to Valledupar."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "UNESCO banned commercial versions of vallenato in 2015.",
           "is_correct": false,
-          "feedback": "Incorrect. Emphasis & Fronting gives a text its nuance and precision, so it does not make the message simpler to grasp."
+          "feedback": "Incorrect. UNESCO included vallenato on a heritage list; the text says nothing about banning any version of the music."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Cali.",
+          "text": "Children in Valledupar must pay to learn the old styles.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The text says schools offer \"free classes\", so children do not have to pay."
+        },
+        {
+          "letter": "D",
+          "text": "Traditional vallenato was at risk of being lost despite the popularity of the genre.",
+          "is_correct": true,
+          "feedback": "Correct. The text says vallenato is famous, but traditional vallenato needed \"urgent safeguarding\" because young musicians preferred commercial versions; the reader can infer that the traditional form was in danger."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "The word \"However\" signals a contrast between the genre's popularity and the danger to its traditional form. Combining this contrast with the experts' explanation leads to the inference, while the distractors contradict facts such as \"free classes\".\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -285,36 +285,36 @@
     },
     {
       "id": "CO-ING-11-2026-W16-literature-arts-001-MASTERY-bundle-v7",
-      "statement": "According to a recent report on literature & arts in Bucaramanga, what is implied about the role of Emphasis & Fronting in shaping public opinion?",
-      "context": "Discussing literature & arts in Bucaramanga.",
+      "statement": "Read the text and answer the question.\n\n\"Fernando Botero, born in Medellín in 1932, became famous around the world for his paintings and sculptures of people and animals with exaggerated, rounded volumes. Although he lived for many years in Paris and Italy, he never forgot his country. In 2000, he donated more than a hundred of his own works and dozens of pieces from his private collection, including paintings by European masters, to museums in Bogotá and Medellín. In Medellín, twenty-three of his bronze sculptures were placed in a public square in front of the Museum of Antioquia, where anyone can see them for free.\"\n\nAccording to the text, what did Botero's donation include besides his own works?",
+      "context": "Fernando Botero's donation to Medellín and Bogotá.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
+          "letter": "A",
+          "text": "A new building for the Museum of Antioquia.",
+          "is_correct": false,
+          "feedback": "Incorrect. The museum is mentioned as the place in front of which the sculptures stand; the text does not say that Botero donated a building."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "letter": "B",
+          "text": "Works by other artists from his private collection.",
+          "is_correct": true,
+          "feedback": "Correct. The text says he donated his own works \"and dozens of pieces from his private collection, including paintings by European masters\", so the donation also included other artists' works."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "His houses in Paris and Italy.",
           "is_correct": false,
-          "feedback": "Incorrect. Emphasis & Fronting gives a text its nuance and precision, so it does not make the message simpler to grasp."
+          "feedback": "Incorrect. The text mentions that he lived in Paris and Italy, but it does not say he donated any houses."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Cali.",
+          "text": "Money to pay for free entry to the square.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. The square is free because it is a public space; the text does not mention any money donated for entry."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Detail questions often hinge on small words such as \"and\" and \"including\". The donation had two parts: Botero's own works and pieces from his collection, among them paintings by European masters; the other options mention places from the text that were not part of the donation.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -331,36 +331,36 @@
     },
     {
       "id": "CO-ING-11-2026-W16-literature-arts-001-MASTERY-bundle-v8",
-      "statement": "According to a recent report on literature & arts in Cartagena, what is implied about the role of Emphasis & Fronting in shaping public opinion?",
-      "context": "Discussing literature & arts in Cartagena.",
+      "statement": "Read the text and answer the question.\n\n\"The Barranquilla Carnival, recognised by UNESCO in 2003 as a masterpiece of the oral and intangible heritage of humanity, is much more than a party. Many of its costumes have a satirical purpose. The marimonda, for example, is a character with a long nose, big ears and a colourful suit. It was created, according to tradition, by working-class people who wanted to mock the powerful men of the city without getting into trouble. Behind the mask, anyone could laugh at politicians and rich businessmen. Today, groups still use the carnival to criticise current events with humour.\"\n\nIn the text, the word \"mock\" is closest in meaning to...",
+      "context": "Costumes and satire in the Barranquilla Carnival.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "protect someone.",
           "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "feedback": "Incorrect. The working-class creators wanted to criticise the powerful, not protect them, and the text links the costume with laughing at them."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "copy someone's clothes exactly.",
           "is_correct": false,
-          "feedback": "Incorrect. Emphasis & Fronting gives a text its nuance and precision, so it does not make the message simpler to grasp."
+          "feedback": "Incorrect. The marimonda has a long nose and big ears, an exaggeration, not an exact copy; \"mock\" here refers to ridicule."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Manizales.",
+          "text": "obey someone without question.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "Incorrect. Obeying is the opposite of what the text describes: people used the costume to criticise the powerful \"without getting into trouble\"."
+        },
+        {
+          "letter": "D",
+          "text": "make fun of someone.",
+          "is_correct": true,
+          "feedback": "Correct. The next sentence explains it: \"Behind the mask, anyone could laugh at politicians and rich businessmen\"; to mock is to laugh at someone to criticise them."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Vocabulary in context can be checked with nearby sentences and with the topic. The text speaks of a \"satirical purpose\" and of laughing at politicians behind a mask, so \"mock\" means to ridicule, which explains why the costume protected its wearer.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -473,12 +473,6 @@
       "context": "Discussing literature & arts in Manizales.",
       "options": [
         {
-          "letter": "C",
-          "text": "It places what was rejected, rather than the act of rejecting, in focus.",
-          "is_correct": true,
-          "feedback": "The cleft moves 'the first draft' into the slot after 'what', so the rejected object becomes the new information. The rejection itself is unchanged; only which element is asserted as given differs."
-        },
-        {
           "letter": "A",
           "text": "It shows the critics rejected the draft by mistake.",
           "is_correct": false,
@@ -489,6 +483,12 @@
           "text": "It changes the tense from past to present.",
           "is_correct": false,
           "feedback": "Both sentences keep the rejection in the past. A cleft never alters tense, and the comparison concerns what is focused rather than when the verb is situated."
+        },
+        {
+          "letter": "C",
+          "text": "It places what was rejected, rather than the act of rejecting, in focus.",
+          "is_correct": true,
+          "feedback": "The cleft moves 'the first draft' into the slot after 'what', so the rejected object becomes the new information. The rejection itself is unchanged; only which element is asserted as given differs."
         },
         {
           "letter": "D",
@@ -519,12 +519,6 @@
       "context": "Discussing literature & arts in Bucaramanga.",
       "options": [
         {
-          "letter": "C",
-          "text": "It foregrounds what was cancelled, rather than the act of cancelling.",
-          "is_correct": true,
-          "feedback": "The cleft shifts the object into the slot after 'It was', so what was cancelled becomes the new information. The cancellation and its agent are unchanged, and only the weighting of the sentence differs."
-        },
-        {
           "letter": "A",
           "text": "It shows the festival cancelled the performance reluctantly.",
           "is_correct": false,
@@ -535,6 +529,12 @@
           "text": "It proves the performance had already been cancelled twice.",
           "is_correct": false,
           "feedback": "The festival is the agent of a single past action, and no repetition appears anywhere. A cleft cannot introduce a second cancellation into the proposition."
+        },
+        {
+          "letter": "C",
+          "text": "It foregrounds what was cancelled, rather than the act of cancelling.",
+          "is_correct": true,
+          "feedback": "The cleft shifts the object into the slot after 'It was', so what was cancelled becomes the new information. The cancellation and its agent are unchanged, and only the weighting of the sentence differs."
         },
         {
           "letter": "D",
@@ -611,12 +611,6 @@
       "context": "Discussing literature & arts in Medellín.",
       "options": [
         {
-          "letter": "C",
-          "text": "It fronts the negated element so that the omission itself, rather than the act of reviewing, receives the emphasis.",
-          "is_correct": true,
-          "feedback": "'Not even the epilogue' is moved to the front, which is what the fronting construction does: it puts the strongest element in first position. The claim is unchanged, since both versions deny that any reviewer mentioned it."
-        },
-        {
           "letter": "A",
           "text": "It shows at least one reviewer mentioned the epilogue in passing.",
           "is_correct": false,
@@ -627,6 +621,12 @@
           "text": "It proves the epilogue was the weakest part of the book.",
           "is_correct": false,
           "feedback": "No judgement of the epilogue appears in either sentence. The pair is about what reviewers said, not about the quality of the writing."
+        },
+        {
+          "letter": "C",
+          "text": "It fronts the negated element so that the omission itself, rather than the act of reviewing, receives the emphasis.",
+          "is_correct": true,
+          "feedback": "'Not even the epilogue' is moved to the front, which is what the fronting construction does: it puts the strongest element in first position. The claim is unchanged, since both versions deny that any reviewer mentioned it."
         },
         {
           "letter": "D",
@@ -657,12 +657,6 @@
       "context": "Discussing literature & arts in Pereira.",
       "options": [
         {
-          "letter": "D",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -679,6 +673,12 @@
           "text": "did",
           "is_correct": false,
           "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+        },
+        {
+          "letter": "D",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
         }
       ],
       "correct_answer": "D",
@@ -745,36 +745,36 @@
     },
     {
       "id": "CO-ING-11-2026-W16-literature-arts-001-MASTERY-bundle-v17",
-      "statement": "In a high-level debate about literature & arts, Nicolás says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Nicolás mean?",
-      "context": "Discussing literature & arts in Cali.",
+      "statement": "During a debate about why teenagers read less, Daniela says: 'I can't help but feel that we are barking up the wrong tree. Banning phones won't help if the books on the school list have nothing to do with our lives.' What does Daniela mean?",
+      "context": "A school debate in Bogotá about reading habits.",
       "options": [
         {
           "letter": "A",
-          "text": "The current strategy is directed towards the wrong objective.",
+          "text": "The group is focusing on the wrong cause of the problem.",
           "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "feedback": "Correct. \"Barking up the wrong tree\" means looking for an answer in the wrong place; Daniela says that the real problem is the choice of books, not phones."
         },
         {
           "letter": "B",
-          "text": "They are literally looking for something in the trees of Medellín.",
+          "text": "They are literally looking for something in the trees of the school.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads the idiom literally; the debate is about reading, and no trees are involved."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The debate has become too noisy and aggressive.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. \"Barking\" here does not refer to noise; the idiom is about choosing the wrong target, as her second sentence shows."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Students should read books about trees and nature.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. This takes the image of the tree as a proposal; Daniela proposes changing the reading list, not choosing books about nature."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "Idioms are understood through their figurative meaning and the context. Daniela's second sentence names a different cause, which confirms that the idiom \"bark up the wrong tree\" means the group was blaming the wrong thing.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-ING-11-2026-W16-literature-arts-001-MASTERY-bundle-v18",
-      "statement": "In a high-level debate about literature & arts, Mariana says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Mariana mean?",
-      "context": "Discussing literature & arts in Cartagena.",
+      "statement": "Read the conversation.\n\nIsabel: How was the salsa show at the Teatro Municipal?\nCarlos: Amazing! The main couple was good, but the eight-year-old girl who danced in the second part stole the show. Everybody stood up to applaud her.\n\nWhat does Carlos mean?",
+      "context": "Two friends in Cali talk about a salsa show.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Manizales.",
+          "text": "The girl took something from the theatre without paying.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. \"Steal\" in this idiom is not a crime; the expression describes how a performer captures the audience's attention."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The girl ruined the show with her mistakes.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. The audience stood up to applaud her, which shows admiration, not disappointment."
         },
         {
           "letter": "C",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "The main couple danced better than the girl.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. Carlos says the couple \"was good, but\" the girl stole the show, so he considers her performance the most impressive."
+        },
+        {
+          "letter": "D",
+          "text": "The girl attracted more attention and praise than anyone else.",
+          "is_correct": true,
+          "feedback": "Correct. To \"steal the show\" is to be the most impressive or most admired person in a performance; Carlos says that everybody stood up to applaud the girl."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "\"Steal the show\" is a positive idiom about performances. The contrast \"was good, but\" and the standing applause help the reader see that the girl outshone the main dancers.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -837,36 +837,36 @@
     },
     {
       "id": "CO-ING-11-2026-W16-literature-arts-001-MASTERY-bundle-v19",
-      "statement": "In a high-level debate about literature & arts, Valentina says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Valentina mean?",
-      "context": "Discussing literature & arts in Bucaramanga.",
+      "statement": "Read the conversation.\n\nNatalia: Have you seen Mateo in the library? He's read every novel by Héctor Abad and now he's starting on Laura Restrepo.\nSimón: Yes, he's a real bookworm. He even reads during the break.\n\nWhat does Simón say about Mateo?",
+      "context": "Two classmates in Tunja talk about a student who reads a lot.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Cali.",
+          "text": "Mateo damages the books in the library.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This is a literal reading of \"worm\"; Simón describes Mateo's reading habit, not damage to books."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Mateo works as a librarian at the school.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. Mateo is seen reading in the library, but nothing in the conversation says he works there."
         },
         {
           "letter": "C",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "Mateo does not like Colombian literature.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. Natalia says he has read every novel by Héctor Abad and is starting on Laura Restrepo, both Colombian writers, so he clearly enjoys it."
+        },
+        {
+          "letter": "D",
+          "text": "Mateo loves reading and spends a lot of time with books.",
+          "is_correct": true,
+          "feedback": "Correct. A \"bookworm\" is a person who reads a great deal; Simón supports this by saying Mateo even reads during the break."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "Many English nouns describe people through images, like \"bookworm\" for someone who \"eats\" books. The details about the novels and reading during the break confirm the figurative meaning in this conversation.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -883,36 +883,36 @@
     },
     {
       "id": "CO-ING-11-2026-W16-literature-arts-001-MASTERY-bundle-v20",
-      "statement": "In a high-level debate about literature & arts, Sebastián says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Sebastián mean?",
-      "context": "Discussing literature & arts in Bogotá.",
+      "statement": "Read the conversation.\n\nAndrea: What did you think of the modern art exhibition at the museum?\nJulián: Well, it was very original, but abstract painting isn't really my cup of tea. I prefer portraits.\n\nHow does Julián express his opinion?",
+      "context": "Two friends in Medellín give opinions about an art exhibition.",
       "options": [
         {
-          "letter": "B",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
+          "letter": "A",
+          "text": "He says that the exhibition was badly organised.",
+          "is_correct": false,
+          "feedback": "Incorrect. Julián says nothing about the organisation; he talks about his personal taste in painting."
         },
         {
-          "letter": "A",
-          "text": "They are literally looking for something in the trees of Cali.",
-          "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "letter": "B",
+          "text": "He politely says that he does not personally enjoy that type of art.",
+          "is_correct": true,
+          "feedback": "Correct. \"Not my cup of tea\" is a soft, polite way to say you do not like something; Julián first praises the exhibition (\"very original\") and then expresses his personal preference for portraits."
         },
         {
           "letter": "C",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "He invites Andrea to drink tea after the exhibition.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. This is a literal reading of the idiom; the conversation is about art preferences, not about drinks."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "He says that abstract painting is his favourite style.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. \"Isn't my cup of tea\" means the opposite, and he adds \"I prefer portraits\"."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "Speakers often soften negative opinions. Julián uses a positive comment, the connector \"but\" and the idiom \"not my cup of tea\" to show personal dislike without saying the exhibition was bad, which is a typical polite strategy in English.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

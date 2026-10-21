@@ -13,12 +13,6 @@
       "context": "En una biblioteca escolar de Bogotá, una alumna de sexto lee un cuento corto y anota en su cuaderno las partes que reconoce.",
       "options": [
         {
-          "letter": "C",
-          "text": "Inicio, nudo y desenlace.",
-          "is_correct": true,
-          "feedback": "Correcto. El cuento clásico se organiza en una presentación, un conflicto y una solución."
-        },
-        {
           "letter": "A",
           "text": "Título, autor e índice.",
           "is_correct": false,
@@ -29,6 +23,12 @@
           "text": "Introducción, bibliografía y conclusión.",
           "is_correct": false,
           "feedback": "Incorrecto. La bibliografía no aparece dentro del cuento."
+        },
+        {
+          "letter": "C",
+          "text": "Inicio, nudo y desenlace.",
+          "is_correct": true,
+          "feedback": "Correcto. El cuento clásico se organiza en una presentación, un conflicto y una solución."
         },
         {
           "letter": "D",
@@ -105,16 +105,16 @@
       "context": "Una alumna de Cali escribe el inicio de su cuento: «María salió de su casa en el barrio San Antonio, caminó hasta la plaza y encontró un perro desconocido».",
       "options": [
         {
-          "letter": "B",
-          "text": "El nudo y el desenlace, porque ya hay acción terminada.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Aquí no se ha desarrollado ni resuelto el conflicto."
-        },
-        {
           "letter": "A",
           "text": "El inicio con la presentación de la protagonista, el lugar y el detonante.",
           "is_correct": true,
           "feedback": "Correcto. Se reconocen personaje, espacio y situación inicial."
+        },
+        {
+          "letter": "B",
+          "text": "El nudo y el desenlace, porque ya hay acción terminada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí no se ha desarrollado ni resuelto el conflicto."
         },
         {
           "letter": "C",
@@ -151,16 +151,16 @@
       "context": "Un alumno de Barranquilla lee: «Andrés escuchó un ruido extraño detrás de la puerta. Sudoroso, decidió abrir muy despacio».",
       "options": [
         {
-          "letter": "B",
-          "text": "Una descripción detallada del paisaje sonoro del barrio.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No hay descripción amplia, solo una acción concreta."
-        },
-        {
           "letter": "A",
           "text": "La acción del personaje que enfrenta una situación de tensión.",
           "is_correct": true,
           "feedback": "Correcto. Predomina el movimiento y la decisión ante el conflicto."
+        },
+        {
+          "letter": "B",
+          "text": "Una descripción detallada del paisaje sonoro del barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay descripción amplia, solo una acción concreta."
         },
         {
           "letter": "C",
@@ -203,16 +203,16 @@
           "feedback": "Incorrecto. Una reseña necesita resumir la historia."
         },
         {
-          "letter": "C",
-          "text": "Título, autor, tema central y opinión personal.",
-          "is_correct": true,
-          "feedback": "Correcto. Esos elementos orientan a quien va a leer."
-        },
-        {
           "letter": "B",
           "text": "Una lista de todos los personajes con sus edades reales.",
           "is_correct": false,
           "feedback": "Incorrecto. Las edades exactas no siempre son relevantes."
+        },
+        {
+          "letter": "C",
+          "text": "Título, autor, tema central y opinión personal.",
+          "is_correct": true,
+          "feedback": "Correcto. Esos elementos orientan a quien va a leer."
         },
         {
           "letter": "D",
@@ -243,16 +243,16 @@
       "context": "Un alumno de Bucaramanga lee: «El viejo relojero miró el reloj roto, suspiró y murmuró: el tiempo perdido no se devuelve».",
       "options": [
         {
-          "letter": "B",
-          "text": "Un narrador personaje porque relata en primera persona.",
-          "is_correct": false,
-          "feedback": "Incorrecto. No aparece un «yo» que cuente su propia historia."
-        },
-        {
           "letter": "A",
           "text": "Un narrador omnisciente que conoce los pensamientos del relojero.",
           "is_correct": true,
           "feedback": "Correcto. El narrador accede al susurro interno del personaje."
+        },
+        {
+          "letter": "B",
+          "text": "Un narrador personaje porque relata en primera persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aparece un «yo» que cuente su propia historia."
         },
         {
           "letter": "C",
@@ -289,16 +289,16 @@
       "context": "Una alumna de Cartagena lee: «Lucía entró al salón vacío, encendió la luz y vio que alguien había escrito AYUDA en el tablero con marcador rojo».",
       "options": [
         {
-          "letter": "B",
-          "text": "Ninguna, porque solo describe un lugar físico sin relación con la trama.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El espacio ayuda a construir el ambiente."
-        },
-        {
           "letter": "A",
           "text": "Genera un ambiente de tensión que anticipa el conflicto.",
           "is_correct": true,
           "feedback": "Correcto. El salón vacío y el mensaje misterioso crean intriga."
+        },
+        {
+          "letter": "B",
+          "text": "Ninguna, porque solo describe un lugar físico sin relación con la trama.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espacio ayuda a construir el ambiente."
         },
         {
           "letter": "C",
@@ -381,16 +381,16 @@
       "context": "Una alumna de Manizales termina de leer un cuento y le pregunta a su profesora por qué el autor dejó el final abierto.",
       "options": [
         {
-          "letter": "B",
-          "text": "Porque no supo cómo terminar la historia.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La decisión suele ser intencional y planeada."
-        },
-        {
           "letter": "A",
           "text": "Para invitar al lector a construir su propio desenlace.",
           "is_correct": true,
           "feedback": "Correcto. El cierre abierto promueve la reflexión."
+        },
+        {
+          "letter": "B",
+          "text": "Porque no supo cómo terminar la historia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La decisión suele ser intencional y planeada."
         },
         {
           "letter": "C",
@@ -427,16 +427,16 @@
       "context": "Un alumno de Neiva leyó un cuento y opina: «No me gustó porque el personaje no cambia al final y todo termina igual que al principio».",
       "options": [
         {
+          "letter": "A",
+          "text": "La presencia de un final cerrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es el cierre sino la evolución interna."
+        },
+        {
           "letter": "B",
           "text": "La extensión del cuento.",
           "is_correct": false,
           "feedback": "Incorrecto. La extensión no implica transformación del personaje."
-        },
-        {
-          "letter": "A",
-          "text": "La ausencia de transformación del personaje principal a lo largo de la trama.",
-          "is_correct": true,
-          "feedback": "Correcto. Critica que no haya arco ni aprendizaje."
         },
         {
           "letter": "C",
@@ -446,12 +446,12 @@
         },
         {
           "letter": "D",
-          "text": "La presencia de un final cerrado.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El problema no es el cierre sino la evolución interna."
+          "text": "La ausencia de transformación del personaje principal a lo largo de la trama.",
+          "is_correct": true,
+          "feedback": "Correcto. Critica que no haya arco ni aprendizaje."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Cuando el personaje principal no aprende, no cambia ni resuelve su conflicto, el cuento pierde fuerza. La transformación interna es una de las claves de la narrativa breve bien lograda.",
       "difficulty": "10",
       "images": [],

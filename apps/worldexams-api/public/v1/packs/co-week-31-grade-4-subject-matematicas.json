@@ -342,9 +342,9 @@
         },
         {
           "letter": "B",
-          "text": "No, porque falta dividir el resultado entre 2",
-          "is_correct": true,
-          "feedback": "Correcto. La fórmula correcta es A = (P × a) ÷ 2. Si solo multiplicas P × a, obtienes el doble del área real."
+          "text": "No, porque primero hay que elevar el apotema al cuadrado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El apotema no se eleva al cuadrado en la fórmula del área. La fórmula correcta es (P × a) ÷ 2."
         },
         {
           "letter": "C",
@@ -354,12 +354,12 @@
         },
         {
           "letter": "D",
-          "text": "No, porque primero hay que elevar el apotema al cuadrado",
-          "is_correct": false,
-          "feedback": "Incorrecto. El apotema no se eleva al cuadrado en la fórmula del área. La fórmula correcta es (P × a) ÷ 2."
+          "text": "No, porque falta dividir el resultado entre 2",
+          "is_correct": true,
+          "feedback": "Correcto. La fórmula correcta es A = (P × a) ÷ 2. Si solo multiplicas P × a, obtienes el doble del área real."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La fórmula correcta para el área de un polígono regular es A = (P × a) ÷ 2, donde P es el perímetro y a es el apotema. Si se omite la división entre 2, el resultado es exactamente el doble del área real. Por ejemplo, un cuadrado de lado 4 cm tiene perímetro 16 cm y apotema 2 cm. El área correcta es (16 × 2) ÷ 2 = 16 cm², pero sin dividir entre 2 se obtendría 32 cm², que es incorrecto.",
       "difficulty": "10",
       "images": [],

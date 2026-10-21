@@ -434,9 +434,9 @@
         },
         {
           "letter": "B",
-          "text": "Porque conocer el texto no garantiza que se respeten los derechos de los demás en la vida real.",
-          "is_correct": true,
-          "feedback": "Correcta. Reconocer la Constitución se hace efectivo en el respeto cotidiano de los derechos."
+          "text": "Porque la Constitución se cambió y ya no reconoce ningún derecho.",
+          "is_correct": false,
+          "feedback": "Error. Atribuye un cambio que no existe en el texto constitucional vigente."
         },
         {
           "letter": "C",
@@ -446,12 +446,12 @@
         },
         {
           "letter": "D",
-          "text": "Porque la Constitución se cambió y ya no reconoce ningún derecho.",
-          "is_correct": false,
-          "feedback": "Error. Atribuye un cambio que no existe en el texto constitucional vigente."
+          "text": "Porque conocer el texto no garantiza que se respeten los derechos de los demás en la vida real.",
+          "is_correct": true,
+          "feedback": "Correcta. Reconocer la Constitución se hace efectivo en el respeto cotidiano de los derechos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Conocer la Constitución es el primer paso, pero no garantiza por sí solo que se respeten los derechos. La Constitución se vuelve real cuando las personas y las instituciones actúan de conformidad con ella, reconociendo la dignidad de los demás. Esta distinción entre conocer y practicar es clave para la formación ciudadana: no basta con saber la norma, hay que vivirla. Evaluar esta diferencia ayuda a construir una cultura de respeto en la comunidad.",
       "difficulty": "10",
       "images": [],

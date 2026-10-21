@@ -501,10 +501,10 @@ Escribiendo $8 = 2^3$, la igualdad $2^{x-2} = 2^3$ permite igualar exponentes po
 Halle el conjunto solución en los números reales para la ecuación exponencial $(2^x)^2 - 2(2^x) - 8 = 0$.
 
 ### Opciones
-- [x] A) $S = \{2\}$
-  <!-- feedback: Correcto. Con $u = 2^x > 0$ se resuelve $u^2 - 2u - 8 = 0 = (u - 4)(u + 2)$; la raíz $u = -2$ se descarta por ser negativa y de $u = 4 = 2^2$ sale $x = 2$. -->
-- [ ] B) $S = \{4,\ -2\}$
+- [ ] A) $S = \{4,\ -2\}$
   <!-- feedback: El $-2$ es una raíz del polinomio auxiliar, pero no puede ser $2^x$ porque una potencia de base 2 siempre es positiva. -->
+- [x] B) $S = \{2\}$
+  <!-- feedback: Correcto. Con $u = 2^x > 0$ se resuelve $u^2 - 2u - 8 = 0 = (u - 4)(u + 2)$; la raíz $u = -2$ se descarta por ser negativa y de $u = 4 = 2^2$ sale $x = 2$. -->
 - [ ] C) $S = \{2,\ 4\}$
   <!-- feedback: Se ha tomado el 4 como valor de $x$ cuando en realidad es el valor del sustituto $u = 2^x$. -->
 - [ ] D) $S = \varnothing$

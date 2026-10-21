@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W35-repaso-p7-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The clock says 3:00. What time is it?",
+      "context": "En la plaza de Bolívar de Bogotá, el reloj de la catedral marca las 3:00 en punto.",
       "options": [
         {
-          "letter": "C",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the word for a place where you live or stay on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
+          "text": "It's three thirty.",
           "is_correct": false,
-          "feedback": "'transportation' is the system of moving people or goods between places, not the place you sleep in itself."
+          "feedback": "Incorrect. Three thirty is 3:30, but the clock shows 3:00 with zero minutes."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "It's thirteen o'clock.",
           "is_correct": false,
-          "feedback": "'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live."
+          "feedback": "Incorrect. Thirteen is the number 13, and clocks in English say three, not thirteen."
+        },
+        {
+          "letter": "C",
+          "text": "It's three o'clock.",
+          "is_correct": true,
+          "feedback": "Correct. When the minutes are 00 we say the hour and o'clock: three o'clock."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "It's half past two.",
           "is_correct": false,
-          "feedback": "'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in."
+          "feedback": "Incorrect. Half past two is 2:30, which is thirty minutes before 3:00."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "explanation": "Cuando el reloj marca la hora exacta (minutos en 00) decimos el número y \"o'clock\": \"It's three o'clock\". \"Half past\" y \"thirty\" significan y media, que no es el caso.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W35-repaso-p7-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -55,36 +55,36 @@
     },
     {
       "id": "CO-ING-3-2026-W35-repaso-p7-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Grandma says: \"You can turn on the TV now.\" What can Emilia do?",
+      "context": "Emilia está en su casa en Sincelejo y su abuela le dice que ya puede prender el televisor.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them."
+          "text": "do homework",
+          "is_correct": false,
+          "feedback": "Incorrect. Doing homework is writing school tasks; turning on the TV is for something else."
         },
         {
           "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "text": "watch TV",
+          "is_correct": true,
+          "feedback": "Correct. When you turn on the TV, you can watch TV programs."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "take a shower",
           "is_correct": false,
-          "feedback": "'destination' names only the place you are going to, without the route or the order of the whole journey."
+          "feedback": "Incorrect. Taking a shower is washing in the bathroom, not using the TV."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "have dinner",
           "is_correct": false,
-          "feedback": "'passport' is the official document that lets you cross a border, not the plan of where you go."
+          "feedback": "Incorrect. Having dinner is eating the evening meal, which does not need the TV."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "\"Turn on the TV\" significa prender el televisor. Cuando el televisor está prendido podemos \"watch TV\", es decir, ver televisión. Las demás opciones son rutinas que no usan el televisor.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-3-2026-W35-repaso-p7-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: \"We do experiments with water and ice in ____ class.\"",
+      "context": "En la clase de ciencias de un colegio de Riohacha, los niños hacen experimentos con agua y hielo.",
       "options": [
         {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' is the place someone is going to or something is being sent to."
-        },
-        {
           "letter": "A",
-          "text": "departure",
+          "text": "Music",
           "is_correct": false,
-          "feedback": "'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself."
+          "feedback": "Incorrect. Music class is for singing and instruments, not experiments with ice."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "Spanish",
           "is_correct": false,
-          "feedback": "'arrival' is the act of reaching a place, not the place that is reached."
+          "feedback": "Incorrect. Spanish class is for reading and writing in Spanish, not experiments."
+        },
+        {
+          "letter": "C",
+          "text": "Science",
+          "is_correct": true,
+          "feedback": "Correct. Science is the class where you do experiments with water, ice and nature."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "P.E.",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from the start to the end, not the place the trip finishes at."
+          "feedback": "Incorrect. P.E. is for running and sports, not experiments with water and ice."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "explanation": "Los experimentos (\"experiments\") se hacen en la clase de ciencias, que en inglés se llama \"Science\". \"Music\", \"Spanish\" y \"P.E.\" son otras materias con actividades distintas.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.72,
       "bundle_id": "CO-ING-3-2026-W35-repaso-p7-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-3-2026-W35-repaso-p7-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: \"I ____ basketball with my cousins on Sundays.\"",
+      "context": "Los domingos, Miguel juega baloncesto con sus primos en un parque de Medellín.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
+          "text": "play",
           "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel."
+          "feedback": "Correct. With ball games we use play: play basketball, play soccer."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "go",
           "is_correct": false,
-          "feedback": "'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in."
+          "feedback": "Incorrect. We use go with -ing activities like go swimming, not with basketball."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "do",
           "is_correct": false,
-          "feedback": "'flight' is the journey by plane itself, not the containers that hold your things."
+          "feedback": "Incorrect. We use do with activities like do karate or do homework, not with ball games."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "make",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you make for a seat or a room, not the bag you carry."
+          "feedback": "Incorrect. Make means to create something, like make a cake; it does not go with sports."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "Con los deportes de pelota como \"basketball\" y \"soccer\" usamos el verbo \"play\". Decimos \"go swimming\" o \"do karate\", pero nunca \"go basketball\" ni \"make basketball\".",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.68,
       "bundle_id": "CO-ING-3-2026-W35-repaso-p7-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-3-2026-W35-repaso-p7-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"School starts at seven o'clock. Tomas arrives at half past seven.\"\nIs Tomas early or late?",
+      "context": "En un colegio de Cali las clases empiezan a las 7:00 de la mañana y Tomas llega más tarde.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew."
+          "text": "He is early.",
+          "is_correct": false,
+          "feedback": "Incorrect. Early means before 7:00, but half past seven is after seven o'clock."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "He is on time.",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all."
+          "feedback": "Incorrect. On time means at 7:00 exactly, and Tomas arrives thirty minutes after."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "He arrives at seven o'clock.",
           "is_correct": false,
-          "feedback": "'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle."
+          "feedback": "Incorrect. Half past seven is 7:30, not seven o'clock."
         },
         {
           "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle."
+          "text": "He is late.",
+          "is_correct": true,
+          "feedback": "Correct. Half past seven is 7:30, which is 30 minutes after school starts."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "\"Half past seven\" significa las siete y media (7:30). Si el colegio empieza a las 7:00, Tomas llega 30 minutos después: llega tarde, en inglés \"late\". \"Early\" sería llegar antes.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.6,
       "bundle_id": "CO-ING-3-2026-W35-repaso-p7-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-3-2026-W35-repaso-p7-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"My dad gets home at 6 p.m. He has dinner at 7 p.m. He watches TV at 8 p.m.\"\nWhat does he do at seven?",
+      "context": "El papá de Nicolás trabaja en Valledupar y sigue la misma rutina cada noche.",
       "options": [
         {
-          "letter": "C",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive."
-        },
-        {
           "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in."
+          "text": "He has dinner.",
+          "is_correct": true,
+          "feedback": "Correct. The text says \"He has dinner at 7 p.m.\", so at seven he eats dinner."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "He watches TV.",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for your plane, not the place where your belongings are inspected."
+          "feedback": "Incorrect. He watches TV at 8 p.m., one hour after seven."
+        },
+        {
+          "letter": "C",
+          "text": "He gets home.",
+          "is_correct": false,
+          "feedback": "Incorrect. He gets home at 6 p.m., one hour before seven."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "He goes to bed.",
           "is_correct": false,
-          "feedback": "'gate' is the door at the plane you walk through to board, not the place where officials check your things."
+          "feedback": "Incorrect. The text does not say when he goes to bed; at seven he has dinner."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Hay que buscar la hora 7 p.m. en el texto: \"He has dinner at 7 p.m.\". Las 6 son para llegar a casa (\"gets home\") y las 8 para ver televisión (\"watches TV\").",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.56,
       "bundle_id": "CO-ING-3-2026-W35-repaso-p7-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-3-2026-W35-repaso-p7-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"On Thursday, Natalia has Math at 8:00, Art at 10:00 and P.E. at 12:00. She needs her sneakers to run.\"\nAt what time does she need her sneakers?",
+      "context": "Natalia estudia en Girardot y revisa su horario del jueves para saber cuándo usar los tenis.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane."
+          "text": "at 8:00",
+          "is_correct": false,
+          "feedback": "Incorrect. At 8:00 she has Math, and in Math she does not run."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "at 10:00",
           "is_correct": false,
-          "feedback": "'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline."
+          "feedback": "Incorrect. At 10:00 she has Art, where she paints and draws, not runs."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "at 11:00",
           "is_correct": false,
-          "feedback": "'receipt' is the proof that you paid for something, which is not permission to board a plane."
+          "feedback": "Incorrect. No class is at 11:00 in the text, so that time does not match."
         },
         {
           "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "'brochure' is a leaflet with tourist information, not a travel document issued to a passenger."
+          "text": "at 12:00",
+          "is_correct": true,
+          "feedback": "Correct. P.E. is at 12:00, and in P.E. she runs, so she needs sneakers then."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Los tenis (\"sneakers\") se usan para correr (\"run\") en educación física, \"P.E.\". En el horario, \"P.E.\" es a las 12:00 (\"twelve o'clock\"), así que esa es la hora correcta.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.5,
       "bundle_id": "CO-ING-3-2026-W35-repaso-p7-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-3-2026-W35-repaso-p7-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Sebastian likes sports with a ball and a net. He doesn't like water.\"\nWhich sport is best for him?",
+      "context": "Sebastian vive en Cartagena y busca un deporte nuevo para practicar en el colegio.",
       "options": [
         {
-          "letter": "D",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' means visiting the places of interest of a location as a traveler."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "swimming",
           "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place."
+          "feedback": "Incorrect. Swimming is in the water, and Sebastian doesn't like water."
         },
         {
           "letter": "B",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city."
+          "text": "volleyball",
+          "is_correct": true,
+          "feedback": "Correct. Volleyball uses a ball and a net, and it is not in the water."
         },
         {
           "letter": "C",
-          "text": "camping",
+          "text": "running",
           "is_correct": false,
-          "feedback": "'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place."
+          "feedback": "Incorrect. Running does not use a ball or a net."
+        },
+        {
+          "letter": "D",
+          "text": "cycling",
+          "is_correct": false,
+          "feedback": "Incorrect. Cycling uses a bike, not a ball and a net."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "correct_answer": "B",
+      "explanation": "Sebastian quiere un deporte con pelota (\"ball\") y red (\"net\") y no le gusta el agua (\"water\"). El voleibol, \"volleyball\", cumple las dos pistas. Nadar usa agua y correr o montar bicicleta no usan red.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.45,
       "bundle_id": "CO-ING-3-2026-W35-repaso-p7-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",

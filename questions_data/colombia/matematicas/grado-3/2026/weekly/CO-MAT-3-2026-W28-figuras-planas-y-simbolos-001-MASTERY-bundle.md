@@ -198,10 +198,10 @@ Tres rectángulos miden 3 por 2 centímetros, 5 por 2 centímetros y 4 por 3 cen
   <!-- feedback: Incorrecto. Su superficie es 3 x 2 = 6 centímetros cuadrados, que es la menor de las tres y no la mayor. -->
 - [ ] B) El rectángulo de 5 por 2
   <!-- feedback: Incorrecto. Su superficie es 5 x 2 = 10 centímetros cuadrados, y queda por debajo de los 12 del rectángulo de 4 por 3. -->
-- [x] C) El rectángulo de 4 por 3
-  <!-- feedback: Correcto. Su superficie es 4 x 3 = 12 centímetros cuadrados, y ese resultado supera a los 6 y a los 10 de los otros. -->
-- [ ] D) Los tres rectángulos tienen la misma superficie
+- [ ] C) Los tres rectángulos tienen la misma superficie
   <!-- feedback: Incorrecto. Las superficies son 6, 10 y 12 centímetros cuadrados, y por eso ninguna de las tres áreas es igual a otra. -->
+- [x] D) El rectángulo de 4 por 3
+  <!-- feedback: Correcto. Su superficie es 4 x 3 = 12 centímetros cuadrados, y ese resultado supera a los 6 y a los 10 de los otros. -->
 
 ### Explicacion Pedagogica
 La superficie de un rectángulo se calcula multiplicando el largo por el ancho. Los tres dan 3 x 2 = 6, 5 x 2 = 10 y 4 x 3 = 12 centímetros cuadrados. Al comparar los tres resultados, el mayor es 12, así que el rectángulo de 4 por 3 centímetros tiene la mayor superficie.

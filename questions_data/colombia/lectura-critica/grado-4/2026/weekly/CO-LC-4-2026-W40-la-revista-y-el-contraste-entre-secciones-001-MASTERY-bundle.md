@@ -200,10 +200,10 @@ Un compañero de tu grupo afirma lo siguiente.
 ¿Cuál es la respuesta más sólida que puede darle el grupo a esa afirmación?
 
 ### Opciones
-- [ ] A) La afirmación es correcta, porque ganar un campeonato demuestra que todos los alumnos corren bien
-  <!-- feedback: Incorrecto. Un logro del colegio en deportes no dice nada sobre el rendimiento de cada alumno en particular. -->
-- [x] B) La afirmación es incorrecta, porque un dato de la revista se puede comparar con otras secciones y con otras fuentes
+- [x] A) La afirmación es incorrecta, porque un dato de la revista se puede comparar con otras secciones y con otras fuentes
   <!-- feedback: Correcto. Contrastar el dato con otras secciones y con otras fuentes permite confirmar lo que dice y detectar lo que falta. -->
+- [ ] B) La afirmación es correcta, porque ganar un campeonato demuestra que todos los alumnos corren bien
+  <!-- feedback: Incorrecto. Un logro del colegio en deportes no dice nada sobre el rendimiento de cada alumno en particular. -->
 - [ ] C) La afirmación es incorrecta, porque la sección de deportes de una revista escolar nunca está bien escrita
   <!-- feedback: Incorrecto. Una sección puede estar muy bien escrita, y lo importante es leerla con criterio y compararla. -->
 - [ ] D) La afirmación es incorrecta, porque los textos de la revista del colegio no sirven para nada

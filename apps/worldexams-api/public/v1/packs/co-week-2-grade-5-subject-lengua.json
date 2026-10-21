@@ -13,12 +13,6 @@
       "context": "En un salón de Bogotá, Valentina lee en voz alta el inicio de un cuento sobre un niño campesino.",
       "options": [
         {
-          "letter": "D",
-          "text": "Santiago, un niño que vive en una finca cerca de Manizales.",
-          "is_correct": true,
-          "feedback": "Es correcta porque repite el nombre y el lugar que dice el inicio."
-        },
-        {
           "letter": "A",
           "text": "Valentina, una niña que vive en Bogotá.",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "Un tendero que vive en Pereira.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no aparece ningún tendero en el inicio."
+        },
+        {
+          "letter": "D",
+          "text": "Santiago, un niño que vive en una finca cerca de Manizales.",
+          "is_correct": true,
+          "feedback": "Es correcta porque repite el nombre y el lugar que dice el inicio."
         }
       ],
       "correct_answer": "D",
@@ -59,16 +59,16 @@
       "context": "En Medellín, el profesor explica las tres partes del cuento con un ejemplo en el tablero.",
       "options": [
         {
-          "letter": "B",
-          "text": "Que todo cuento tiene un orden: presentación, problema y solución.",
-          "is_correct": true,
-          "feedback": "Es correcta porque resume con claridad las tres partes en orden."
-        },
-        {
           "letter": "A",
           "text": "Que los cuentos no tienen orden ni final.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la explicación muestra un orden claro."
+        },
+        {
+          "letter": "B",
+          "text": "Que todo cuento tiene un orden: presentación, problema y solución.",
+          "is_correct": true,
+          "feedback": "Es correcta porque resume con claridad las tres partes en orden."
         },
         {
           "letter": "C",
@@ -151,16 +151,16 @@
       "context": "En Cartagena, Mariana lee un cuento donde una niña pierde su mochila en el mercado.",
       "options": [
         {
-          "letter": "B",
-          "text": "Al nudo, porque muestra el problema y el esfuerzo por resolverlo.",
-          "is_correct": true,
-          "feedback": "Es correcta porque la búsqueda angustiosa es el desarrollo del conflicto."
-        },
-        {
           "letter": "A",
           "text": "Al inicio, porque presenta a los personajes por primera vez.",
           "is_correct": false,
           "feedback": "Es incorrecta porque aquí ya existe un problema en marcha."
+        },
+        {
+          "letter": "B",
+          "text": "Al nudo, porque muestra el problema y el esfuerzo por resolverlo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la búsqueda angustiosa es el desarrollo del conflicto."
         },
         {
           "letter": "C",
@@ -289,12 +289,6 @@
       "context": "En Bogotá, el curso quinto compara dos inicios para el mismo cuento de un viaje a la playa.",
       "options": [
         {
-          "letter": "D",
-          "text": "El inicio 2, porque presenta personaje, lugar y una situación interesante.",
-          "is_correct": true,
-          "feedback": "Es correcta porque da información concreta que invita a seguir leyendo."
-        },
-        {
           "letter": "A",
           "text": "El inicio 1, porque es más largo y detallado.",
           "is_correct": false,
@@ -311,6 +305,12 @@
           "text": "Ninguno sirve como inicio de cuento.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el inicio 2 sí cumple la función de presentar la historia."
+        },
+        {
+          "letter": "D",
+          "text": "El inicio 2, porque presenta personaje, lugar y una situación interesante.",
+          "is_correct": true,
+          "feedback": "Es correcta porque da información concreta que invita a seguir leyendo."
         }
       ],
       "correct_answer": "D",
@@ -336,9 +336,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "En el recreo perdimos el balón, lo buscamos con calma por toda la cancha y lo encontramos detrás del arco.",
-          "is_correct": true,
-          "feedback": "Es correcta porque mantiene inicio, nudo y desenlace en orden claro y completo."
+          "text": "El balón es redondo y nos gusta jugar con él.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque describe el objeto pero no cuenta lo que pasó."
         },
         {
           "letter": "B",
@@ -348,9 +348,9 @@
         },
         {
           "letter": "C",
-          "text": "El balón es redondo y nos gusta jugar con él.",
-          "is_correct": false,
-          "feedback": "Es incorrecta porque describe el objeto pero no cuenta lo que pasó."
+          "text": "En el recreo perdimos el balón, lo buscamos con calma por toda la cancha y lo encontramos detrás del arco.",
+          "is_correct": true,
+          "feedback": "Es correcta porque mantiene inicio, nudo y desenlace en orden claro y completo."
         },
         {
           "letter": "D",
@@ -359,7 +359,7 @@
           "feedback": "Es incorrecta porque niega los hechos que se quieren contar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluar una narración exige verificar el orden lógico y que no falte ninguna parte. La mejor versión conserva la secuencia completa y usa conectores claros. Contar bien una anécdota también es una forma de cuidar la comunicación oral y escrita.",
       "difficulty": "10",
       "images": [],

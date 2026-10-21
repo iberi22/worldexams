@@ -63,10 +63,10 @@ The student identifies basic vocabulary for city transportation hubs.
 ### Opciones
 - [ ] A) should
   <!-- feedback: Incorrect. Touching paintings is usually forbidden, not a suggestion. -->
-- [x] C) mustn't
-  <!-- feedback: Correct! "Mustn't" is used for prohibition (strong obligation NOT to do something). -->
 - [ ] B) don't have to
   <!-- feedback: Incorrect. This means it's optional. -->
+- [x] C) mustn't
+  <!-- feedback: Correct! "Mustn't" is used for prohibition (strong obligation NOT to do something). -->
 - [ ] D) have to
   <!-- feedback: Incorrect. This would mean it's mandatory to touch them. -->
 
@@ -86,12 +86,12 @@ The student identifies the correct modal for a formal prohibition.
 "If you have a fever, you ________ stay at home and rest."
 
 ### Opciones
-- [x] C) should
-  <!-- feedback: Correct! "Should" is the appropriate modal for giving medical advice. -->
 - [ ] A) mustn't
   <!-- feedback: "Mustn't" states a strict prohibition, which is far stronger than the recommendation to stay home and rest. -->
 - [ ] B) shouldn't
   <!-- feedback: The sentence advises staying home, so a negative modal works against the meaning rather than with it. -->
+- [x] C) should
+  <!-- feedback: Correct! "Should" is the appropriate modal for giving medical advice. -->
 - [ ] D) has to
   <!-- feedback: Incorrect. Grammar error (needs "have to" or "must" for obligation, but "should" is better for advice). -->
 
@@ -162,10 +162,10 @@ The student applies the concept of "don't have to" for situations where an actio
 What is an obligation for students on Fridays?
 
 ### Opciones
-- [ ] B) To bring their own lunch.
-  <!-- feedback: Incorrect. They "don't have to". -->
 - [x] A) To wear the PE uniform.
   <!-- feedback: Correct! The text says they "must" wear it. -->
+- [ ] B) To bring their own lunch.
+  <!-- feedback: Incorrect. They "don't have to". -->
 - [ ] C) To arrive 30 minutes early.
   <!-- feedback: Incorrect. The advice is 5 minutes. -->
 - [ ] D) To study only PE.
@@ -189,10 +189,10 @@ The student applies reading comprehension to distinguish between advice, obligat
 ### Opciones
 - [ ] A) into
   <!-- feedback: Incorrect. "Into" is for entering. -->
-- [x] C) across
-  <!-- feedback: Correct! "Across" is used for crossing a street. -->
 - [ ] B) over
   <!-- feedback: Incorrect. Unless there is a bridge, you walk across. -->
+- [x] C) across
+  <!-- feedback: Correct! "Across" is used for crossing a street. -->
 - [ ] D) under
   <!-- feedback: "Under" would put you below the street, while the preposition for walking alongside a street is "along". -->
 
@@ -240,12 +240,12 @@ Where exactly is the movie theater located?
 ### Opciones
 - [ ] A) On the right side of the park.
   <!-- feedback: Incorrect. You turn right, but the theater is on your left. -->
-- [x] B) Next to both a bakery and a bank.
-  <!-- feedback: Correct! "Between" implies it is next to both. -->
+- [ ] B) After the fourth block.
+  <!-- feedback: Incorrect. It's after three blocks and a turn. -->
 - [ ] C) Inside the bank.
   <!-- feedback: Incorrect. It is next to it. -->
-- [ ] D) After the fourth block.
-  <!-- feedback: Incorrect. It's after three blocks and a turn. -->
+- [x] D) Next to both a bakery and a bank.
+  <!-- feedback: Correct! "Between" implies it is next to both. -->
 
 ### Explicacion Pedagogica
 The student analyzes multiple spatial indicators to pin down a specific location.
@@ -264,10 +264,10 @@ The student analyzes multiple spatial indicators to pin down a specific location
 What is the most important instruction for the tourist's physical comfort?
 
 ### Opciones
-- [ ] B) To visit the Cathedral.
-  <!-- feedback: Incorrect. This is the main activity, not specific to physical comfort. -->
 - [x] A) To bring a jacket.
   <!-- feedback: Correct! This addresses the temperature (physical comfort). -->
+- [ ] B) To visit the Cathedral.
+  <!-- feedback: Incorrect. This is the main activity, not specific to physical comfort. -->
 - [ ] C) To not worry about the distance.
   <!-- feedback: Incorrect. This is about logistics. -->
 - [ ] D) To stay in Bogotá.

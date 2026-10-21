@@ -80,14 +80,14 @@ Comprensión del propósito comunicativo de la entrevista como texto informativo
 ¿Cómo se organiza la información en esta entrevista?
 
 ### Opciones
-- [x] A) Con preguntas del periodista y respuestas de la entrevistada.
-  <!-- feedback: La estructura básica de la entrevista es el diálogo de pregunta y respuesta. -->
+- [ ] A) Con una lista de precios de patines y uniformes.
+  <!-- feedback: La entrevista no presenta precios ni catálogos de productos. -->
 - [ ] B) Solo con descripciones del periodista, sin ninguna intervención de Catalina.
   <!-- feedback: El texto incluye las respuestas directas de la entrevistada. -->
 - [ ] C) Con instrucciones numeradas para practicar patinaje.
   <!-- feedback: No hay pasos ni indicaciones técnicas en el texto. -->
-- [ ] D) Con una lista de precios de patines y uniformes.
-  <!-- feedback: La entrevista no presenta precios ni catálogos de productos. -->
+- [x] D) Con preguntas del periodista y respuestas de la entrevistada.
+  <!-- feedback: La estructura básica de la entrevista es el diálogo de pregunta y respuesta. -->
 
 ### Explicacion Pedagogica
 Reconocimiento de la estructura dialógica de pregunta y respuesta propia del género entrevista.
@@ -103,12 +103,12 @@ Reconocimiento de la estructura dialógica de pregunta y respuesta propia del g�
 Según el testimonio, ¿dónde comenzó Catalina a practicar patinaje?
 
 ### Opciones
-- [x] C) En el parque de su barrio, en Bello.
-  <!-- feedback: La respuesta indica claramente el parque del barrio donde inició. -->
 - [ ] A) En una escuela de patinaje de Bogotá.
   <!-- feedback: El texto menciona Bello, no Bogotá. -->
 - [ ] B) En el coliseo de una ciudad de otro país.
   <!-- feedback: La deportista señala un lugar de su propio barrio en Colombia. -->
+- [x] C) En el parque de su barrio, en Bello.
+  <!-- feedback: La respuesta indica claramente el parque del barrio donde inició. -->
 - [ ] D) En la cancha de fútbol de su colegio.
   <!-- feedback: Se habla de un parque y de patinaje, no de una cancha de fútbol. -->
 
@@ -126,12 +126,12 @@ Localización de información explícita en el testimonio para responder pregunt
 ¿Qué consejo da Catalina a los niños que quieren ser deportistas?
 
 ### Opciones
-- [x] C) Que sean constantes y no abandonen sus estudios.
-  <!-- feedback: La deportista recomienda combinar la constancia deportiva con el estudio. -->
 - [ ] A) Que dejen el colegio para entrenar todo el día.
   <!-- feedback: Ella afirma lo contrario: el deporte y el estudio pueden ir juntos. -->
 - [ ] B) Que solo practiquen un deporte si ganan dinero.
   <!-- feedback: El consejo no menciona el dinero como condición para practicar deporte. -->
+- [x] C) Que sean constantes y no abandonen sus estudios.
+  <!-- feedback: La deportista recomienda combinar la constancia deportiva con el estudio. -->
 - [ ] D) Que esperen a ser adultos para empezar.
   <!-- feedback: Catalina comenzó a los siete años, así que no sugiere esperar. -->
 
@@ -149,10 +149,10 @@ Interpretación del consejo de la entrevistada y su relación con la responsabil
 ¿Qué se puede concluir sobre la actitud de Catalina frente a las dificultades?
 
 ### Opciones
-- [x] B) Que reconoce sus momentos difíciles y valora el apoyo familiar para continuar.
-  <!-- feedback: La respuesta muestra honestidad sobre las dificultades y gratitud hacia su familia. -->
 - [ ] A) Que nunca sintió ninguna dificultad en su carrera.
   <!-- feedback: Ella misma admite que hubo días en que quiso rendirse. -->
+- [x] B) Que reconoce sus momentos difíciles y valora el apoyo familiar para continuar.
+  <!-- feedback: La respuesta muestra honestidad sobre las dificultades y gratitud hacia su familia. -->
 - [ ] C) Que culpa a su familia por no dejarla abandonar.
   <!-- feedback: El tono es de agradecimiento, no de reproche hacia su familia. -->
 - [ ] D) Que abandonó el patinaje cuando era niña.
@@ -172,12 +172,12 @@ Análisis del tono y la actitud de la entrevistada a partir de sus propias decla
 ¿Qué aporta esta información al lector de la entrevista?
 
 ### Opciones
-- [x] C) Datos verificables sobre la trayectoria y la disciplina de la deportista.
-  <!-- feedback: La edad, las medallas y los entrenamientos respaldan la credibilidad del testimonio. -->
 - [ ] A) La opinión personal del periodista sobre el clima de la ciudad.
   <!-- feedback: La introducción presenta datos de la deportista, no comentarios sobre el clima. -->
 - [ ] B) Una receta para preparar bebidas energéticas.
   <!-- feedback: El texto no contiene indicaciones de cocina. -->
+- [x] C) Datos verificables sobre la trayectoria y la disciplina de la deportista.
+  <!-- feedback: La edad, las medallas y los entrenamientos respaldan la credibilidad del testimonio. -->
 - [ ] D) La lista de los patines que usa en cada competencia.
   <!-- feedback: No se enumeran equipos ni marcas de patines. -->
 
@@ -195,10 +195,10 @@ Análisis de la función de los datos de contexto que el periodista incluye ante
 ¿Cuál de las siguientes afirmaciones evalúa mejor el mensaje de la entrevista?
 
 ### Opciones
-- [x] B) Es una invitación a combinar la disciplina deportiva con la responsabilidad académica.
-  <!-- feedback: El mensaje central propone que ambas actividades se complementan en la vida de los niños. -->
 - [ ] A) Es una orden de abandonar el colegio para entrenar sin descanso.
   <!-- feedback: La deportista sostiene lo contrario: el estudio no debe dejarse de lado. -->
+- [x] B) Es una invitación a combinar la disciplina deportiva con la responsabilidad académica.
+  <!-- feedback: El mensaje central propone que ambas actividades se complementan en la vida de los niños. -->
 - [ ] C) Es una crítica contra quienes practican algún deporte.
   <!-- feedback: El mensaje valora el deporte, no lo critica. -->
 - [ ] D) Es una promesa de que todos ganarán medallas si entrenan.

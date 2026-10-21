@@ -222,9 +222,9 @@ Elegir el adverbio adecuado es una decisión de precisión: «aquí» solo sirve
 ¿Qué critica el narrador al elegir esos adverbios y por qué?
 
 ### Opciones
-- [ ] A) No hay crítica, solo describe la fiesta con neutralidad. <!-- feedback: Incorrecto. Los adverbios «bien», «mal» y «muchísimo» emiten juicios de valor. -->
+- [x] A) Contrasta el trabajo de músicos y bailadores y exagera la reacción del público con «muchísimo». <!-- feedback: Correcto. La elección de adverbios revela la postura crítica del narrador. -->
 - [ ] B) Solo elogia a los músicos porque usa adverbios positivos. <!-- feedback: Incorrecto. También critica a los bailadores con el adverbio «mal». -->
-- [x] C) Contrasta el trabajo de músicos y bailadores y exagera la reacción del público con «muchísimo». <!-- feedback: Correcto. La elección de adverbios revela la postura crítica del narrador. -->
+- [ ] C) No hay crítica, solo describe la fiesta con neutralidad. <!-- feedback: Incorrecto. Los adverbios «bien», «mal» y «muchísimo» emiten juicios de valor. -->
 - [ ] D) Solo se fija en el público, los demás no importan. <!-- feedback: Incorrecto. La descripción cubre las tres partes de la fiesta. -->
 
 ### Explicacion Pedagogica

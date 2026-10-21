@@ -71,10 +71,10 @@ La funcion expresiva se centra en el emisor y expresa sentimientos.
 Identifica el conector: Ciudad del Este es hermosa, ____ su gente es acogedora.
 
 ### Opciones
-- [x] D) ademas <!-- feedback: Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Ciudad del Este y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro. -->
 - [ ] A) sin embargo <!-- feedback: Incorrecto. 'Sin embargo' es adversativo: introduce una idea que se opone a lo que se habia dicho. En esta oracion las dos proposiciones se refuerzan, porque la gente de Ciudad del Este no contradice a su ciudad, asi que una oposicion seria falsa. -->
 - [ ] B) por lo tanto <!-- feedback: Incorrecto. 'Por lo tanto' es conclusivo: la segunda proposicion deduce una consecuencia de la primera. Aqui no hay deduccion, sino dos caracteristicas de Ciudad del Este que se acumulan sin derivarse una de otra. -->
 - [ ] C) aunque <!-- feedback: Incorrecto. 'Aunque' introduce una concesion: lo que va detras se opone a lo esperado. La segunda proposicion no contradice la primera, la completa, asi que este conector tampoco corresponde. -->
+- [x] D) ademas <!-- feedback: Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Ciudad del Este y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro. -->
 
 ### Explicacion Pedagogica
 El conector 'ademas' anade informacion.
@@ -98,8 +98,7 @@ El conector 'ademas' anade informacion.
 - [ ] D) La reunión, que, fue trasladada, se realizará el viernes. <!-- feedback: La coma interior tras el relativo es incorrecta porque parte la construcción que debería ir unida. -->
 
 ### Explicacion Pedagogica
-Un inciso se delimita con dos comas que lo separan del resto. Si solo se coloca la de apertura, la oración queda sintácticamente inacabada.## Explicacion Pedagogica
-La opcion A sigue las normas ortograficas correctamente.
+Un inciso se delimita con dos comas que lo separan del resto. Si solo se coloca la de apertura, la oración queda sintácticamente inacabada.
 ## Question 5 [D5-D6]
 **ID:** PY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v5
 **Bloom:** Analyze
@@ -263,8 +262,8 @@ La funcion expresiva se centra en el emisor y expresa sentimientos.
 ¿Cuál es la diferencia entre 'sin embargo' y 'aunque'?
 
 ### Opciones
-- [x] A) 'Sin embargo' es un conector coordinante y 'aunque' es una conjunción subordinante <!-- feedback: Es correcto: 'sin embargo' enlaza dos proposiciones del mismo rango, mientras que 'aunque' subordina una a la otra y establece una relación de subordinación. -->
-- [ ] B) Ambas cumplen la misma función y son intercambiables <!-- feedback: No son intercambiables en todos los contextos: uno coordina y el otro subordina. -->
+- [ ] A) Ambas cumplen la misma función y son intercambiables <!-- feedback: No son intercambiables en todos los contextos: uno coordina y el otro subordina. -->
+- [x] B) 'Sin embargo' es un conector coordinante y 'aunque' es una conjunción subordinante <!-- feedback: Es correcto: 'sin embargo' enlaza dos proposiciones del mismo rango, mientras que 'aunque' subordina una a la otra y establece una relación de subordinación. -->
 - [ ] C) 'Aunque' es un adverbio y 'sin embargo' una conjunción <!-- feedback: 'Aunque' es conjunción subordinante, no un adverbio. -->
 - [ ] D) 'Sin embargo' indica causa y 'aunque' condición <!-- feedback: Ninguno de los dos expresa causa o condición: ambos señalan contraste u oposición. -->
 
@@ -279,16 +278,16 @@ El conector 'ademas' anade informacion.
 **Contexto:** Clase de lenguaje en PY.
 
 ### Enunciado
-¿Cual oracion esta correctamente escrita?
+En una noticia escolar hay que identificar el colegio de forma inequívoca. ¿Cuál oración lo logra?
 
 ### Opciones
-- [x] C) Los estudiantes del Colegio Nacional de la Capital estudian mucho. <!-- feedback: Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'. -->
 - [ ] A) Los estudiantes de la escuela estudian poco. <!-- feedback: Incorrecto. La oracion esta bien redactada y con buena concordancia, pero 'la escuela' es un nombre comun que puede designar cualquier centro; el enunciado pide el nombre propio completo de la institucion, y aqui no aparece. -->
 - [ ] B) Los estudiantes del instituto no estudian nada. <!-- feedback: Incorrecto. 'El instituto' vuelve a sustituir el nombre propio por una denominacion generica. La negacion 'no estudian nada' es correcta, pero no aporta el dato que el enunciado evalua. -->
+- [x] C) Los estudiantes del Colegio Nacional de la Capital estudian mucho. <!-- feedback: Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'. -->
 - [ ] D) Los estudiantes del instituto estudian mucho. <!-- feedback: Incorrecto. Comparte con la correcta la concordancia y el verbo 'estudian mucho', y se diferencia en un solo punto decisivo: emplea 'el instituto', un nombre comun, en lugar del nombre oficial completo. -->
 
 ### Explicacion Pedagogica
-La opcion A sigue las normas ortograficas correctamente.
+'Colegio Nacional de la Capital' es un nombre propio: identifica un colegio concreto y por eso cada palabra significativa va con mayúscula inicial. 'La escuela' o 'el instituto' son nombres comunes que pueden designar cualquier centro, así que esas oraciones, aunque tengan buena concordancia, no identifican la institución.
 
 ---
 
@@ -303,10 +302,10 @@ La opcion A sigue las normas ortograficas correctamente.
 ¿Qué elemento introduce el inciso en la oración 'El profesor, que llegó tarde, explica el tema'?
 
 ### Opciones
-- [x] A) La proposición 'que llegó tarde' <!-- feedback: Es correcto: ese grupo se intercala entre el sujeto y el verbo y queda delimitado por dos comas. -->
+- [ ] A) El adverbio 'tarde' <!-- feedback: 'Tarde' forma parte del inciso, pero no es el elemento que lo introduce. -->
 - [ ] B) El sustantivo 'profesor' <!-- feedback: El sustantivo es el núcleo del sujeto y no queda aislado entre comas. -->
 - [ ] C) El verbo 'explica' <!-- feedback: El verbo explica es el núcleo del predicado y no está incisosado. -->
-- [ ] D) El adverbio 'tarde' <!-- feedback: 'Tarde' forma parte del inciso, pero no es el elemento que lo introduce. -->
+- [x] D) La proposición 'que llegó tarde' <!-- feedback: Es correcto: ese grupo se intercala entre el sujeto y el verbo y queda delimitado por dos comas. -->
 
 ### Explicacion Pedagogica
 El inciso es un grupo de palabras que se intercala en la oración y puede eliminarse sin alterar su sentido esencial. Va siempre entre dos comas.## Explicacion Pedagogica
@@ -322,9 +321,9 @@ Las oraciones subordinadas adjetivas complementan a un nombre.
 ¿Cuál de las oraciones presenta el uso correcto del artículo indeterminado?
 
 ### Opciones
-- [x] A) Compré un libro en la librería. <!-- feedback: Es correcta: el artículo indeterminado acompaña a un sustantivo contable singular y concuerda con él. -->
+- [ ] A) Compré un agua en la librería. <!-- feedback: El artículo indeterminado no acompaña a 'agua', que es femenino y además se escribe con 'el'. -->
 - [ ] B) Compré unos libros en la librería. <!-- feedback: Con 'unos' el referente ya es conocido y plural, de modo que corresponde el artículo determinado. -->
-- [ ] C) Compré un agua en la librería. <!-- feedback: El artículo indeterminado no acompaña a 'agua', que es femenino y además se escribe con 'el'. -->
+- [x] C) Compré un libro en la librería. <!-- feedback: Es correcta: el artículo indeterminado acompaña a un sustantivo contable singular y concuerda con él. -->
 - [ ] D) Compré un libro antiguo en la librería. <!-- feedback: La concordancia es correcta, pero aquí la atención está en el adjetivo y no en el uso del artículo. -->
 
 ### Explicacion Pedagogica
@@ -341,8 +340,8 @@ Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.
 ¿Cuál es la función de la expresión 'cada día' en la oración 'Repito la frase cada día'?
 
 ### Opciones
-- [x] A) Es un cuantificador que modifica al verbo y expresa frecuencia <!-- feedback: Es correcto: 'cada día' cuantifica la repetición de la acción y responde a con qué frecuencia se realiza. -->
-- [ ] B) Es un artículo determinado que introduce un sustantivo <!-- feedback: No hay artículo aquí: la expresión es un sintagma adverbial de frecuencia. -->
+- [ ] A) Es un artículo determinado que introduce un sustantivo <!-- feedback: No hay artículo aquí: la expresión es un sintagma adverbial de frecuencia. -->
+- [x] B) Es un cuantificador que modifica al verbo y expresa frecuencia <!-- feedback: Es correcto: 'cada día' cuantifica la repetición de la acción y responde a con qué frecuencia se realiza. -->
 - [ ] C) Es un sustantivo que funciona como objeto directo <!-- feedback: El objeto directo es 'la frase'; 'cada día' es un modificador del verbo. -->
 - [ ] D) Es una preposición que introduce un complemento <!-- feedback: No hay ninguna preposición, de modo que no se forma un complemento preposicional. -->
 
@@ -360,10 +359,10 @@ La metafora identifica un termino real con uno imaginario por su semejanza.
 ¿Qué tipo de relación establece el conector 'por lo tanto'?
 
 ### Opciones
-- [x] A) Es una relación de consecuencia entre dos proposiciones <!-- feedback: Es correcto: 'por lo tanto' introduce la consecuencia que se deduce de lo expuesto anteriormente. -->
+- [ ] A) Es una relación temporal <!-- feedback: No indica ningún momento ni duración: la relación es lógica, no temporal. -->
 - [ ] B) Es una relación de causa entre dos proposiciones <!-- feedback: Es el conector que expresa la causa, y aquí se está señalando el efecto. -->
 - [ ] C) Es una relación de finalidad <!-- feedback: La finalidad se expresa con 'para' o 'con el fin de', no con este conector. -->
-- [ ] D) Es una relación temporal <!-- feedback: No indica ningún momento ni duración: la relación es lógica, no temporal. -->
+- [x] D) Es una relación de consecuencia entre dos proposiciones <!-- feedback: Es correcto: 'por lo tanto' introduce la consecuencia que se deduce de lo expuesto anteriormente. -->
 
 ### Explicacion Pedagogica
 Los conectores lógicos permiten hacer explícita la estructura del razonamiento, distinguiendo causa, consecuencia, oposición y condición.## Explicacion Pedagogica
@@ -379,9 +378,9 @@ Las palabras esdrújulas llevan tilde siempre, sin excepción, en la antepenúlt
 ¿Cuál de las oraciones está correctamente construida con una subordinada sustantiva?
 
 ### Opciones
-- [x] A) Es indispensable que el documento esté firmado. <!-- feedback: Es correcta: la completiva regida por la estructura impersonal cubre la posición de sujeto. -->
+- [ ] A) Cuando el documento esté firmado, lo revisaremos. <!-- feedback: Es una subordinada adverbial temporal, porque indica cuándo se hará la revisión. -->
 - [ ] B) El documento que está firmado por el director. <!-- feedback: Es una oración incompleta, porque el grupo con relativo no forma un predicado por sí solo. -->
-- [ ] C) Cuando el documento esté firmado, lo revisaremos. <!-- feedback: Es una subordinada adverbial temporal, porque indica cuándo se hará la revisión. -->
+- [x] C) Es indispensable que el documento esté firmado. <!-- feedback: Es correcta: la completiva regida por la estructura impersonal cubre la posición de sujeto. -->
 - [ ] D) Quien firma el documento es responsable de él. <!-- feedback: Aquí la completiva funciona como sujeto, pero la opción anterior es la que reúne la estructura buscada. -->
 
 ### Explicacion Pedagogica
@@ -398,8 +397,8 @@ Lorca utiliza la estructura del romance tradicional para crear un poema narrativ
 En el Colegio Nacional Villarrica de Villarrica, analizando un texto. ¿Cual es la idea principal?
 
 ### Opciones
-- [x] B) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen. -->
 - [ ] A) El agua solo se usa para beber <!-- feedback: Incorrecto. Reduce el agua a un solo uso domestico. El texto la presenta como recurso vital para la vida en general, no unicamente como algo con que beber. -->
+- [x] B) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen. -->
 - [ ] C) El agua no es importante <!-- feedback: Incorrecto. Contradice de frente al texto: si el agua careciera de importancia, no tendria sentido que el texto insistiera en su cuidado. Una idea principal entre las opciones no puede negar lo que el propio texto afirma. -->
 - [ ] D) El agua es un recurso infinito <!-- feedback: Incorrecto. Afirma que el agua es inagotable y con ello borra la necesidad de cuidarla, que es justamente la tesis que el texto sostiene. -->
 

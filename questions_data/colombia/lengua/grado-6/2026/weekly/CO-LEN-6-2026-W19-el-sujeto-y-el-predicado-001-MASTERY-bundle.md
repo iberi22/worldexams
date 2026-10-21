@@ -203,8 +203,8 @@ La oración compuesta puede tener un predicado que engloba varias ideas. La caus
 ### Opciones
 - [ ] A) Sujeto explícito: «alimentos». <!-- feedback: Incorrecto. «Alimentos» forma parte del complemento preposicional. -->
 - [ ] B) No hay sujeto, es una oración impersonal. <!-- feedback: Incorrecto. La oración tiene sujeto tácito: «usted» o «las personas». -->
-- [x] C) Sujeto tácito (se entiende «ustedes») que implica a todos los visitantes. <!-- feedback: Correcto. La estructura impersonal generaliza la prohibición. -->
-- [ ] D) Sujeto plural explícito: «todos los alumnos». <!-- feedback: Incorrecto. El cartel no menciona a nadie en particular. -->
+- [ ] C) Sujeto plural explícito: «todos los alumnos». <!-- feedback: Incorrecto. El cartel no menciona a nadie en particular. -->
+- [x] D) Sujeto tácito (se entiende «ustedes») que implica a todos los visitantes. <!-- feedback: Correcto. La estructura impersonal generaliza la prohibición. -->
 
 ### Explicacion Pedagogica
 En avisos y normas, es frecuente usar sujetos tácitos para incluir a todos sin señalar a nadie: «se prohíbe», «se recomienda», «se solicita». El verbo en tercera persona y la ausencia de sujeto explícito generalizan la orden.
@@ -222,8 +222,8 @@ En avisos y normas, es frecuente usar sujetos tácitos para incluir a todos sin 
 ¿Qué observa el lector sobre la estructura del sujeto y qué crítica merece?
 
 ### Opciones
-- [ ] A) La alumna escribió de forma impecable y no hay nada que mejorar. <!-- feedback: Incorrecto. El sujeto de la segunda oración es ambiguo. -->
-- [x] B) La segunda oración debería decir «los compañeros y la profesora». <!-- feedback: Correcto. El sujeto tácito «ellos» se entiende, pero conviene ser explícita para evitar confusión. -->
+- [x] A) La segunda oración debería decir «los compañeros y la profesora». <!-- feedback: Correcto. El sujeto tácito «ellos» se entiende, pero conviene ser explícita para evitar confusión. -->
+- [ ] B) La alumna escribió de forma impecable y no hay nada que mejorar. <!-- feedback: Incorrecto. El sujeto de la segunda oración es ambiguo. -->
 - [ ] C) El verbo «organizaron» debería estar en singular. <!-- feedback: Incorrecto. El sujeto es plural y el verbo concuerda. -->
 - [ ] D) Falta el sujeto en ambas oraciones y debe añadirse. <!-- feedback: Incorrecto. La primera oración tiene sujeto explícito claro. -->
 

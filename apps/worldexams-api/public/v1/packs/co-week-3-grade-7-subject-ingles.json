@@ -434,9 +434,9 @@
         },
         {
           "letter": "B",
-          "text": "grows / fixes / hurries",
-          "is_correct": true,
-          "feedback": "Correct! Grows (+s), Fixes (+es for -x), and Hurries (-y to -ies for consonant + y)."
+          "text": "grows / fixes / hurrys",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Hurry\" ends in consonant + y, so it must change to \"hurries\"."
         },
         {
           "letter": "C",
@@ -446,12 +446,12 @@
         },
         {
           "letter": "D",
-          "text": "grows / fixes / hurrys",
-          "is_correct": false,
-          "feedback": "Incorrect. \"Hurry\" ends in consonant + y, so it must change to \"hurries\"."
+          "text": "grows / fixes / hurries",
+          "is_correct": true,
+          "feedback": "Correct! Grows (+s), Fixes (+es for -x), and Hurries (-y to -ies for consonant + y)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student evaluates multiple verb types and their specific third-person spelling rules to complete a coherent text.",
       "difficulty": "10",
       "images": [],

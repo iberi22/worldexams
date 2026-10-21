@@ -474,12 +474,12 @@ La integridad científica exige reportar todos los resultados, favorables o no. 
 ### Opciones
 - [ ] A) En Colombia no se ha investigado nunca sobre la naturaleza.
   <!-- feedback: Es incorrecta porque existe una tradición amplia de investigación sobre biodiversidad, geografía y agricultura. -->
-- [x] B) El país cuenta con una rica tradición de investigación sobre su biodiversidad y su café, cuya divulgación fortalece la conciencia y las decisiones colectivas.
-  <!-- feedback: Es correcta porque reconoce el aporte científico nacional y el valor social de comunicarlo. -->
+- [ ] B) La divulgación solo sirve para entretener sin ninguna utilidad.
+  <!-- feedback: Es incorrecta porque la divulgación cumple una función educativa y democrática fundamental. -->
 - [ ] C) La ciencia es un asunto ajeno a la vida de la sociedad.
   <!-- feedback: Es incorrecta porque el conocimiento científico incide en la salud, el ambiente y la economía cotidianas. -->
-- [ ] D) La divulgación solo sirve para entretener sin ninguna utilidad.
-  <!-- feedback: Es incorrecta porque la divulgación cumple una función educativa y democrática fundamental. -->
+- [x] D) El país cuenta con una rica tradición de investigación sobre su biodiversidad y su café, cuya divulgación fortalece la conciencia y las decisiones colectivas.
+  <!-- feedback: Es correcta porque reconoce el aporte científico nacional y el valor social de comunicarlo. -->
 
 ### Explicacion Pedagogica
 Colombia ha producido conocimiento sobre su enorme biodiversidad, sus suelos y su café, entre muchos otros campos. Divulgar esos hallazgos no es un adorno: permite que la sociedad comprenda su entorno y tome mejores decisiones sobre salud, ambiente y desarrollo.

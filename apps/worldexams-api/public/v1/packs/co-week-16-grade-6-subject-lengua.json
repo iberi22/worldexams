@@ -336,15 +336,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Agrega y Pon son pronombres porque son verbos.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esas palabras son verbos en imperativo, no pronombres."
-        },
-        {
-          "letter": "B",
           "text": "«Lo» y «te» se refieren al cilantro y al cocinero que prepara.",
           "is_correct": true,
           "feedback": "Correcto. Cada pronombre evita repetir el sustantivo."
+        },
+        {
+          "letter": "B",
+          "text": "Agrega y Pon son pronombres porque son verbos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras son verbos en imperativo, no pronombres."
         },
         {
           "letter": "C",
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. «Lo» y «te» son claramente pronombres."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "«Lo» y «la» sustituyen al objeto directo; «le» sustituye al objeto indirecto; «te», «me», «nos» son pronombres que se refieren a las personas involucradas. La cocina es un gran laboratorio para reconocerlos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -440,18 +440,18 @@
         },
         {
           "letter": "C",
-          "text": "«Nosotras» se repite de forma innecesaria y puede sustituirse por «también».",
-          "is_correct": true,
-          "feedback": "Correcto. La repetición del pronombre hace el texto pesado."
-        },
-        {
-          "letter": "D",
           "text": "El sustantivo «amigas» debería ir antes del pronombre.",
           "is_correct": false,
           "feedback": "Incorrecto. El orden no afecta la corrección."
+        },
+        {
+          "letter": "D",
+          "text": "«Nosotras» se repite de forma innecesaria y puede sustituirse por «también».",
+          "is_correct": true,
+          "feedback": "Correcto. La repetición del pronombre hace el texto pesado."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Escribir bien incluye evitar repeticiones. Sustituir pronombres por adverbios (también, además), por sinónimos o por elidir el pronombre cuando se sobreentiende mejora la fluidez del texto.",
       "difficulty": "10",
       "images": [],

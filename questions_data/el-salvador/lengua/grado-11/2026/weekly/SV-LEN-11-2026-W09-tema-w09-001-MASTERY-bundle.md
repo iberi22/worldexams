@@ -32,14 +32,14 @@ creador: "Jules-Agent"
 Se propone el análisis del siguiente elemento gramatical: el sintagma nominal que concuerda en número y persona con el verbo y realiza o recibe la acción verbal. ¿Qué función o estructura sintáctica específica se está definiendo?
 
 ### Opciones
-- [x] D) La definición de Sujeto gramatical.
-  <!-- feedback: ¡Correcto! Corresponde a Sujeto gramatical de la gramática oracional castellana. -->
 - [ ] A) La métrica del romance tradicional castellano.
   <!-- feedback: Incorrecto. Se analiza gramática del español actual, no métrica de poemas del romance medieval. -->
 - [ ] B) La manipulación masiva de propaganda digital.
   <!-- feedback: Incorrecto. No se analiza la comunicación de masas, sino los sintagmas de la oración. -->
 - [ ] C) La epopeya histórica del Cid Campeador.
   <!-- feedback: Incorrecto. Trata sobre sintaxis de la lengua, no sobre héroes literarios antiguos. -->
+- [x] D) La definición de Sujeto gramatical.
+  <!-- feedback: ¡Correcto! Corresponde a Sujeto gramatical de la gramática oracional castellana. -->
 
 ### Explicación Pedagógica
 Este concepto gramatical define de manera precisa y rigurosa el funcionamiento de Sujeto gramatical dentro de la oración simple.
@@ -84,12 +84,12 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 Se propone el análisis del siguiente elemento gramatical: los elementos del sujeto que se unen de forma directa (adjetivos) o indirecta (mediante preposición) al núcleo sustantivo. ¿Qué función o estructura sintáctica específica se está definiendo?
 
 ### Opciones
-- [x] C) La definición de Modificador directo e indirecto.
-  <!-- feedback: ¡Correcto! Corresponde a Modificador directo e indirecto de la gramática oracional castellana. -->
 - [ ] A) La métrica del romance tradicional castellano.
   <!-- feedback: Incorrecto. Se analiza gramática del español actual, no métrica de poemas del romance medieval. -->
 - [ ] B) La manipulación masiva de propaganda digital.
   <!-- feedback: Incorrecto. No se analiza la comunicación de masas, sino los sintagmas de la oración. -->
+- [x] C) La definición de Modificador directo e indirecto.
+  <!-- feedback: ¡Correcto! Corresponde a Modificador directo e indirecto de la gramática oracional castellana. -->
 - [ ] D) La epopeya histórica del Cid Campeador.
   <!-- feedback: Incorrecto. Trata sobre sintaxis de la lengua, no sobre héroes literarios antiguos. -->
 
@@ -110,12 +110,12 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 Se propone el análisis del siguiente elemento gramatical: el sintagma nominal sobre el cual recae de forma directa la acción del verbo, sustituible por los pronombres lo, la, los, las. ¿Qué función o estructura sintáctica específica se está definiendo?
 
 ### Opciones
-- [x] C) La definición de Complemento Directo (CD).
-  <!-- feedback: ¡Correcto! Corresponde a Complemento Directo (CD) de la gramática oracional castellana. -->
 - [ ] A) La métrica del romance tradicional castellano.
   <!-- feedback: Incorrecto. Se analiza gramática del español actual, no métrica de poemas del romance medieval. -->
 - [ ] B) La manipulación masiva de propaganda digital.
   <!-- feedback: Incorrecto. No se analiza la comunicación de masas, sino los sintagmas de la oración. -->
+- [x] C) La definición de Complemento Directo (CD).
+  <!-- feedback: ¡Correcto! Corresponde a Complemento Directo (CD) de la gramática oracional castellana. -->
 - [ ] D) La epopeya histórica del Cid Campeador.
   <!-- feedback: Incorrecto. Trata sobre sintaxis de la lengua, no sobre héroes literarios antiguos. -->
 
@@ -188,14 +188,14 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 Se propone el análisis del siguiente elemento gramatical: el modificador del verbo que sitúa geográficamente el suceso respondiendo con precisión a la pregunta ¿dónde? ¿Qué función o estructura sintáctica específica se está definiendo?
 
 ### Opciones
-- [x] D) La definición de Complemento Circunstancial de lugar.
-  <!-- feedback: ¡Correcto! Corresponde a Complemento Circunstancial de lugar de la gramática oracional castellana. -->
 - [ ] A) La métrica del romance tradicional castellano.
   <!-- feedback: Incorrecto. Se analiza gramática del español actual, no métrica de poemas del romance medieval. -->
 - [ ] B) La manipulación masiva de propaganda digital.
   <!-- feedback: Incorrecto. No se analiza la comunicación de masas, sino los sintagmas de la oración. -->
 - [ ] C) La epopeya histórica del Cid Campeador.
   <!-- feedback: Incorrecto. Trata sobre sintaxis de la lengua, no sobre héroes literarios antiguos. -->
+- [x] D) La definición de Complemento Circunstancial de lugar.
+  <!-- feedback: ¡Correcto! Corresponde a Complemento Circunstancial de lugar de la gramática oracional castellana. -->
 
 ### Explicación Pedagógica
 Este concepto gramatical define de manera precisa y rigurosa el funcionamiento de Complemento Circunstancial de lugar dentro de la oración simple.
@@ -214,12 +214,12 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 Se propone el análisis del siguiente elemento gramatical: el predicado construido con un verbo vacío de contenido semántico como ser o estar y que exige la presencia de un atributo. ¿Qué función o estructura sintáctica específica se está definiendo?
 
 ### Opciones
-- [x] C) La definición de Predicado nominal copulativo.
-  <!-- feedback: ¡Correcto! Corresponde a Predicado nominal copulativo de la gramática oracional castellana. -->
 - [ ] A) La métrica del romance tradicional castellano.
   <!-- feedback: Incorrecto. Se analiza gramática del español actual, no métrica de poemas del romance medieval. -->
 - [ ] B) La manipulación masiva de propaganda digital.
   <!-- feedback: Incorrecto. No se analiza la comunicación de masas, sino los sintagmas de la oración. -->
+- [x] C) La definición de Predicado nominal copulativo.
+  <!-- feedback: ¡Correcto! Corresponde a Predicado nominal copulativo de la gramática oracional castellana. -->
 - [ ] D) La epopeya histórica del Cid Campeador.
   <!-- feedback: Incorrecto. Trata sobre sintaxis de la lengua, no sobre héroes literarios antiguos. -->
 
@@ -240,14 +240,14 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 Se propone el análisis del siguiente elemento gramatical: la cualidad o estado del sujeto que se conecta obligatoriamente a través de un verbo copulativo en las oraciones atributivas. ¿Qué función o estructura sintáctica específica se está definiendo?
 
 ### Opciones
-- [x] D) La definición de Atributo nominal.
-  <!-- feedback: ¡Correcto! Corresponde a Atributo nominal de la gramática oracional castellana. -->
 - [ ] A) La métrica del romance tradicional castellano.
   <!-- feedback: Incorrecto. Se analiza gramática del español actual, no métrica de poemas del romance medieval. -->
 - [ ] B) La manipulación masiva de propaganda digital.
   <!-- feedback: Incorrecto. No se analiza la comunicación de masas, sino los sintagmas de la oración. -->
 - [ ] C) La epopeya histórica del Cid Campeador.
   <!-- feedback: Incorrecto. Trata sobre sintaxis de la lengua, no sobre héroes literarios antiguos. -->
+- [x] D) La definición de Atributo nominal.
+  <!-- feedback: ¡Correcto! Corresponde a Atributo nominal de la gramática oracional castellana. -->
 
 ### Explicación Pedagógica
 Este concepto gramatical define de manera precisa y rigurosa el funcionamiento de Atributo nominal dentro de la oración simple.
@@ -266,14 +266,14 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 Se propone el análisis del siguiente elemento gramatical: las construcciones oracionales con el verbo haber en tercera persona del singular que carecen por completo de sujeto sintáctico. ¿Qué función o estructura sintáctica específica se está definiendo?
 
 ### Opciones
-- [x] D) La definición de Oraciones impersonales con haber.
-  <!-- feedback: ¡Correcto! Corresponde a Oraciones impersonales con haber de la gramática oracional castellana. -->
 - [ ] A) La métrica del romance tradicional castellano.
   <!-- feedback: Incorrecto. Se analiza gramática del español actual, no métrica de poemas del romance medieval. -->
 - [ ] B) La manipulación masiva de propaganda digital.
   <!-- feedback: Incorrecto. No se analiza la comunicación de masas, sino los sintagmas de la oración. -->
 - [ ] C) La epopeya histórica del Cid Campeador.
   <!-- feedback: Incorrecto. Trata sobre sintaxis de la lengua, no sobre héroes literarios antiguos. -->
+- [x] D) La definición de Oraciones impersonales con haber.
+  <!-- feedback: ¡Correcto! Corresponde a Oraciones impersonales con haber de la gramática oracional castellana. -->
 
 ### Explicación Pedagógica
 Este concepto gramatical define de manera precisa y rigurosa el funcionamiento de Oraciones impersonales con haber dentro de la oración simple.
@@ -292,12 +292,12 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 Se propone el análisis del siguiente elemento gramatical: las construcciones verbales con verbos como llover o tronar que describen el clima y que no poseen un sujeto lógico ni gramatical. ¿Qué función o estructura sintáctica específica se está definiendo?
 
 ### Opciones
-- [x] C) La definición de Oraciones meteorológicas.
-  <!-- feedback: ¡Correcto! Corresponde a Oraciones meteorológicas de la gramática oracional castellana. -->
 - [ ] A) La métrica del romance tradicional castellano.
   <!-- feedback: Incorrecto. Se analiza gramática del español actual, no métrica de poemas del romance medieval. -->
 - [ ] B) La manipulación masiva de propaganda digital.
   <!-- feedback: Incorrecto. No se analiza la comunicación de masas, sino los sintagmas de la oración. -->
+- [x] C) La definición de Oraciones meteorológicas.
+  <!-- feedback: ¡Correcto! Corresponde a Oraciones meteorológicas de la gramática oracional castellana. -->
 - [ ] D) La epopeya histórica del Cid Campeador.
   <!-- feedback: Incorrecto. Trata sobre sintaxis de la lengua, no sobre héroes literarios antiguos. -->
 
@@ -318,12 +318,12 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 Se propone el análisis del siguiente elemento gramatical: el sintagma preposicional precedido por la preposición 'por' que realiza la acción verbal en una oración en voz pasiva. ¿Qué función o estructura sintáctica específica se está definiendo?
 
 ### Opciones
-- [x] C) La definición de Complemento Agente en voz pasiva.
-  <!-- feedback: ¡Correcto! Corresponde a Complemento Agente en voz pasiva de la gramática oracional castellana. -->
 - [ ] A) La métrica del romance tradicional castellano.
   <!-- feedback: Incorrecto. Se analiza gramática del español actual, no métrica de poemas del romance medieval. -->
 - [ ] B) La manipulación masiva de propaganda digital.
   <!-- feedback: Incorrecto. No se analiza la comunicación de masas, sino los sintagmas de la oración. -->
+- [x] C) La definición de Complemento Agente en voz pasiva.
+  <!-- feedback: ¡Correcto! Corresponde a Complemento Agente en voz pasiva de la gramática oracional castellana. -->
 - [ ] D) La epopeya histórica del Cid Campeador.
   <!-- feedback: Incorrecto. Trata sobre sintaxis de la lengua, no sobre héroes literarios antiguos. -->
 
@@ -344,12 +344,12 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 Se propone el análisis del siguiente elemento gramatical: la omisión del sintagma nominal sujeto en la escritura debido a que se sobreentiende por la desinencia del verbo conjugado. ¿Qué función o estructura sintáctica específica se está definiendo?
 
 ### Opciones
-- [x] C) La definición de Sujeto omitido o tácito.
-  <!-- feedback: ¡Correcto! Corresponde a Sujeto omitido o tácito de la gramática oracional castellana. -->
 - [ ] A) La métrica del romance tradicional castellano.
   <!-- feedback: Incorrecto. Se analiza gramática del español actual, no métrica de poemas del romance medieval. -->
 - [ ] B) La manipulación masiva de propaganda digital.
   <!-- feedback: Incorrecto. No se analiza la comunicación de masas, sino los sintagmas de la oración. -->
+- [x] C) La definición de Sujeto omitido o tácito.
+  <!-- feedback: ¡Correcto! Corresponde a Sujeto omitido o tácito de la gramática oracional castellana. -->
 - [ ] D) La epopeya histórica del Cid Campeador.
   <!-- feedback: Incorrecto. Trata sobre sintaxis de la lengua, no sobre héroes literarios antiguos. -->
 
@@ -370,12 +370,12 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 Se propone el análisis del siguiente elemento gramatical: las construcciones con el pronombre se y un verbo en tercera persona concordado con un sujeto paciente de cosas. ¿Qué función o estructura sintáctica específica se está definiendo?
 
 ### Opciones
-- [x] C) La definición de Pronombre 'se' de pasiva refleja.
-  <!-- feedback: ¡Correcto! Corresponde a Pronombre 'se' de pasiva refleja de la gramática oracional castellana. -->
 - [ ] A) La métrica del romance tradicional castellano.
   <!-- feedback: Incorrecto. Se analiza gramática del español actual, no métrica de poemas del romance medieval. -->
 - [ ] B) La manipulación masiva de propaganda digital.
   <!-- feedback: Incorrecto. No se analiza la comunicación de masas, sino los sintagmas de la oración. -->
+- [x] C) La definición de Pronombre 'se' de pasiva refleja.
+  <!-- feedback: ¡Correcto! Corresponde a Pronombre 'se' de pasiva refleja de la gramática oracional castellana. -->
 - [ ] D) La epopeya histórica del Cid Campeador.
   <!-- feedback: Incorrecto. Trata sobre sintaxis de la lengua, no sobre héroes literarios antiguos. -->
 
@@ -396,12 +396,12 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 Se propone el análisis del siguiente elemento gramatical: la norma gramatical que exige la correspondencia obligatoria en número y persona entre el núcleo del sujeto y el verbo principal. ¿Qué función o estructura sintáctica específica se está definiendo?
 
 ### Opciones
-- [x] C) La definición de Regla de concordancia sintáctica.
-  <!-- feedback: ¡Correcto! Corresponde a Regla de concordancia sintáctica de la gramática oracional castellana. -->
 - [ ] A) La métrica del romance tradicional castellano.
   <!-- feedback: Incorrecto. Se analiza gramática del español actual, no métrica de poemas del romance medieval. -->
 - [ ] B) La manipulación masiva de propaganda digital.
   <!-- feedback: Incorrecto. No se analiza la comunicación de masas, sino los sintagmas de la oración. -->
+- [x] C) La definición de Regla de concordancia sintáctica.
+  <!-- feedback: ¡Correcto! Corresponde a Regla de concordancia sintáctica de la gramática oracional castellana. -->
 - [ ] D) La epopeya histórica del Cid Campeador.
   <!-- feedback: Incorrecto. Trata sobre sintaxis de la lengua, no sobre héroes literarios antiguos. -->
 
@@ -422,14 +422,14 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 Se propone el análisis del siguiente elemento gramatical: el complemento obligatorio que va introducido por una preposición exigida por la propia naturaleza semántica del verbo. ¿Qué función o estructura sintáctica específica se está definiendo?
 
 ### Opciones
-- [x] D) La definición de Complemento de Régimen Verbal.
-  <!-- feedback: ¡Correcto! Corresponde a Complemento de Régimen Verbal de la gramática oracional castellana. -->
 - [ ] A) La métrica del romance tradicional castellano.
   <!-- feedback: Incorrecto. Se analiza gramática del español actual, no métrica de poemas del romance medieval. -->
 - [ ] B) La manipulación masiva de propaganda digital.
   <!-- feedback: Incorrecto. No se analiza la comunicación de masas, sino los sintagmas de la oración. -->
 - [ ] C) La epopeya histórica del Cid Campeador.
   <!-- feedback: Incorrecto. Trata sobre sintaxis de la lengua, no sobre héroes literarios antiguos. -->
+- [x] D) La definición de Complemento de Régimen Verbal.
+  <!-- feedback: ¡Correcto! Corresponde a Complemento de Régimen Verbal de la gramática oracional castellana. -->
 
 ### Explicación Pedagógica
 Este concepto gramatical define de manera precisa y rigurosa el funcionamiento de Complemento de Régimen Verbal dentro de la oración simple.
@@ -448,14 +448,14 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 Se propone el análisis del siguiente elemento gramatical: el adjetivo que califica simultáneamente al sujeto de la oración y al verbo principal de naturaleza predicativa. ¿Qué función o estructura sintáctica específica se está definiendo?
 
 ### Opciones
-- [x] D) La definición de Complemento Predicativo del sujeto.
-  <!-- feedback: ¡Correcto! Corresponde a Complemento Predicativo del sujeto de la gramática oracional castellana. -->
 - [ ] A) La métrica del romance tradicional castellano.
   <!-- feedback: Incorrecto. Se analiza gramática del español actual, no métrica de poemas del romance medieval. -->
 - [ ] B) La manipulación masiva de propaganda digital.
   <!-- feedback: Incorrecto. No se analiza la comunicación de masas, sino los sintagmas de la oración. -->
 - [ ] C) La epopeya histórica del Cid Campeador.
   <!-- feedback: Incorrecto. Trata sobre sintaxis de la lengua, no sobre héroes literarios antiguos. -->
+- [x] D) La definición de Complemento Predicativo del sujeto.
+  <!-- feedback: ¡Correcto! Corresponde a Complemento Predicativo del sujeto de la gramática oracional castellana. -->
 
 ### Explicación Pedagógica
 Este concepto gramatical define de manera precisa y rigurosa el funcionamiento de Complemento Predicativo del sujeto dentro de la oración simple.
@@ -474,14 +474,14 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 Se propone el análisis del siguiente elemento gramatical: las estructuras gramaticales encabezadas o no por un enlace y que cumplen funciones sintácticas específicas en la oración. ¿Qué función o estructura sintáctica específica se está definiendo?
 
 ### Opciones
-- [x] D) La definición de Sintagma preposicional y nominal.
-  <!-- feedback: ¡Correcto! Corresponde a Sintagma preposicional y nominal de la gramática oracional castellana. -->
 - [ ] A) La métrica del romance tradicional castellano.
   <!-- feedback: Incorrecto. Se analiza gramática del español actual, no métrica de poemas del romance medieval. -->
 - [ ] B) La manipulación masiva de propaganda digital.
   <!-- feedback: Incorrecto. No se analiza la comunicación de masas, sino los sintagmas de la oración. -->
 - [ ] C) La epopeya histórica del Cid Campeador.
   <!-- feedback: Incorrecto. Trata sobre sintaxis de la lengua, no sobre héroes literarios antiguos. -->
+- [x] D) La definición de Sintagma preposicional y nominal.
+  <!-- feedback: ¡Correcto! Corresponde a Sintagma preposicional y nominal de la gramática oracional castellana. -->
 
 ### Explicación Pedagógica
 Este concepto gramatical define de manera precisa y rigurosa el funcionamiento de Sintagma preposicional y nominal dentro de la oración simple.
@@ -500,14 +500,14 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 Se propone el análisis del siguiente elemento gramatical: las aclaraciones sustantivas que se colocan entre comas (explicativas) o unidas directamente (especificativas) al núcleo del sujeto. ¿Qué función o estructura sintáctica específica se está definiendo?
 
 ### Opciones
-- [x] D) La definición de Aposiciones en el sujeto.
-  <!-- feedback: ¡Correcto! Corresponde a Aposiciones en el sujeto de la gramática oracional castellana. -->
 - [ ] A) La métrica del romance tradicional castellano.
   <!-- feedback: Incorrecto. Se analiza gramática del español actual, no métrica de poemas del romance medieval. -->
 - [ ] B) La manipulación masiva de propaganda digital.
   <!-- feedback: Incorrecto. No se analiza la comunicación de masas, sino los sintagmas de la oración. -->
 - [ ] C) La epopeya histórica del Cid Campeador.
   <!-- feedback: Incorrecto. Trata sobre sintaxis de la lengua, no sobre héroes literarios antiguos. -->
+- [x] D) La definición de Aposiciones en el sujeto.
+  <!-- feedback: ¡Correcto! Corresponde a Aposiciones en el sujeto de la gramática oracional castellana. -->
 
 ### Explicación Pedagógica
 Este concepto gramatical define de manera precisa y rigurosa el funcionamiento de Aposiciones en el sujeto dentro de la oración simple.
@@ -526,14 +526,14 @@ Este concepto gramatical define de manera precisa y rigurosa el funcionamiento d
 Se propone el análisis del siguiente elemento gramatical: la regla culta que prefiere que el verbo concuerde en singular con un núcleo de colectividad como 'la mayoría'. ¿Qué función o estructura sintáctica específica se está definiendo?
 
 ### Opciones
-- [x] D) La definición de Concordancia con sujeto colectivo.
-  <!-- feedback: ¡Correcto! Corresponde a Concordancia con sujeto colectivo de la gramática oracional castellana. -->
 - [ ] A) La métrica del romance tradicional castellano.
   <!-- feedback: Incorrecto. Se analiza gramática del español actual, no métrica de poemas del romance medieval. -->
-- [ ] B) La manipulación masiva de propaganda digital.
-  <!-- feedback: Incorrecto. No se analiza la comunicación de masas, sino los sintagmas de la oración. -->
+- [x] B) La definición de Concordancia con sujeto colectivo.
+  <!-- feedback: ¡Correcto! Corresponde a Concordancia con sujeto colectivo de la gramática oracional castellana. -->
 - [ ] C) La epopeya histórica del Cid Campeador.
   <!-- feedback: Incorrecto. Trata sobre sintaxis de la lengua, no sobre héroes literarios antiguos. -->
+- [ ] D) La manipulación masiva de propaganda digital.
+  <!-- feedback: Incorrecto. No se analiza la comunicación de masas, sino los sintagmas de la oración. -->
 
 ### Explicación Pedagógica
 Este concepto gramatical define de manera precisa y rigurosa el funcionamiento de Concordancia con sujeto colectivo dentro de la oración simple.

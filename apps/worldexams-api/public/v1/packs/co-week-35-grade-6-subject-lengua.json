@@ -382,15 +382,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Usándolas para mandar juegos a todos los ciudadanos de la ciudad.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Eso no ayuda directamente a la causa ambiental."
-        },
-        {
-          "letter": "B",
           "text": "Difundiendo información educativa, convocando a jornadas de limpieza y visibilizando el problema ante las autoridades.",
           "is_correct": true,
           "feedback": "Correcto. Las redes son herramientas de movilización y concienciación ciudadana muy poderosas."
+        },
+        {
+          "letter": "B",
+          "text": "Usándolas para mandar juegos a todos los ciudadanos de la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso no ayuda directamente a la causa ambiental."
         },
         {
           "letter": "C",
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. El ocultamiento no soluciona el problema ambiental."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El buen uso de los medios digitales potencia la participación democrática, permitiendo que las comunidades locales tengan una voz global en defensa de sus recursos naturales.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -440,18 +440,18 @@
         },
         {
           "letter": "C",
-          "text": "No usar la aplicación, leer los términos de privacidad con los padres y buscar alternativas seguras para niños.",
-          "is_correct": true,
-          "feedback": "Correcto. La protección de datos personales es un derecho y una responsabilidad compartida."
-        },
-        {
-          "letter": "D",
           "text": "Mandar un correo de insultos a la empresa que creó la aplicación.",
           "is_correct": false,
           "feedback": "Incorrecto. La solución no es el insulto, sino el consumo responsable de medios."
+        },
+        {
+          "letter": "D",
+          "text": "No usar la aplicación, leer los términos de privacidad con los padres y buscar alternativas seguras para niños.",
+          "is_correct": true,
+          "feedback": "Correcto. La protección de datos personales es un derecho y una responsabilidad compartida."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La formación de un criterio crítico frente al consumo digital es fundamental. Los estudiantes deben aprender que \"lo gratis\" en internet a menudo se paga con su información personal.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato Protocolo v5.2 completo. |\n| Curricular | 40/40 | Alineado con DBA sobre medios digitales y redes sociales. |\n| Contexto | 20/20 | Contextos colombianos diversos (Cúcuta, Medellín, Cali, etc). |\n| Redacción | 10/10 | Alta claridad y relevancia para el grado 6. |\n| **TOTAL** | **100/100** | |",
       "difficulty": "10",
       "images": [],

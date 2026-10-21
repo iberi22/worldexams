@@ -13,12 +13,6 @@
       "context": "En un almacén de papelería en Manizales se reciben 720 cuadernos escolares organizados en paquetes iguales de 24 cuadernos cada uno.",
       "options": [
         {
-          "letter": "D",
-          "text": "30 paquetes.",
-          "is_correct": true,
-          "feedback": "Al dividir 720 entre 24: $72 \\div 24 = 3$, y agregando el cero obtenemos 30 paquetes exactos."
-        },
-        {
           "letter": "A",
           "text": "25 paquetes.",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "40 paquetes.",
           "is_correct": false,
           "feedback": "40 paquetes de 24 cuadernos totalizan 960 cuadernos ($40 \\times 24 = 960$)."
+        },
+        {
+          "letter": "D",
+          "text": "30 paquetes.",
+          "is_correct": true,
+          "feedback": "Al dividir 720 entre 24: $72 \\div 24 = 3$, y agregando el cero obtenemos 30 paquetes exactos."
         }
       ],
       "correct_answer": "D",
@@ -59,16 +59,16 @@
       "context": "Un agricultor de Cundinamarca cosechó 864 naranjas y desea empacarlas en cajas con capacidad para 36 naranjas cada una.",
       "options": [
         {
-          "letter": "B",
-          "text": "División: $864 \\div 36 = 24$ cajas.",
-          "is_correct": true,
-          "feedback": "La división reparte equitativamente las 864 naranjas en grupos de 36, dando exactamente 24 cajas."
-        },
-        {
           "letter": "A",
           "text": "Multiplicación: $864 \\times 36 = 31.104$ cajas.",
           "is_correct": false,
           "feedback": "La multiplicación aumentaría la cantidad en lugar de agrupar el total cosechado."
+        },
+        {
+          "letter": "B",
+          "text": "División: $864 \\div 36 = 24$ cajas.",
+          "is_correct": true,
+          "feedback": "La división reparte equitativamente las 864 naranjas en grupos de 36, dando exactamente 24 cajas."
         },
         {
           "letter": "C",
@@ -105,16 +105,16 @@
       "context": "En una panadería de Cali se hornearon 1.575 galletas de avena. El panadero las empaca en cajas de 25 unidades para distribuirlas en tiendas locales.",
       "options": [
         {
-          "letter": "B",
-          "text": "63 cajas.",
-          "is_correct": true,
-          "feedback": "$1.575 \\div 25 = 63$. Comprobación: $63 \\times 25 = 1.575$."
-        },
-        {
           "letter": "A",
           "text": "53 cajas.",
           "is_correct": false,
           "feedback": "$53 \\times 25 = 1.325$ galletas, quedando 250 galletas sin empacar."
+        },
+        {
+          "letter": "B",
+          "text": "63 cajas.",
+          "is_correct": true,
+          "feedback": "$1.575 \\div 25 = 63$. Comprobación: $63 \\times 25 = 1.575$."
         },
         {
           "letter": "C",
@@ -197,12 +197,6 @@
       "context": "Un restaurante en Barranquilla compró 38 kilogramos de carne por un valor total de $684.000 COP.",
       "options": [
         {
-          "letter": "D",
-          "text": "$18.000 COP.",
-          "is_correct": true,
-          "feedback": "$684.000 \\div 38 = 18.000$ COP por kilogramo. Comprobación: $18.000 \\times 38 = 684.000$."
-        },
-        {
           "letter": "A",
           "text": "$16.000 COP.",
           "is_correct": false,
@@ -219,6 +213,12 @@
           "text": "$20.000 COP.",
           "is_correct": false,
           "feedback": "$20.000 \\times 38 = 760.000$ COP, valor incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$18.000 COP.",
+          "is_correct": true,
+          "feedback": "$684.000 \\div 38 = 18.000$ COP por kilogramo. Comprobación: $18.000 \\times 38 = 684.000$."
         }
       ],
       "correct_answer": "D",
@@ -243,12 +243,6 @@
       "context": "En una fábrica de dulces en Armenia (Quindío), una máquina empacadora procesó 2.850 caramelos en paquetes de 35 unidades.",
       "options": [
         {
-          "letter": "D",
-          "text": "Cociente 81 y sobran 15 caramelos.",
-          "is_correct": true,
-          "feedback": "$2.850 = 35 \\times 81 + 15$. El residuo (15) es menor que el divisor (35)."
-        },
-        {
           "letter": "A",
           "text": "Cociente 80 y sobran 50 caramelos.",
           "is_correct": false,
@@ -265,6 +259,12 @@
           "text": "Cociente 75 y sobran 25 caramelos.",
           "is_correct": false,
           "feedback": "$35 \\times 75 + 25 = 2.650$, cálculo que no corresponde a 2.850 caramelos."
+        },
+        {
+          "letter": "D",
+          "text": "Cociente 81 y sobran 15 caramelos.",
+          "is_correct": true,
+          "feedback": "$2.850 = 35 \\times 81 + 15$. El residuo (15) es menor que el divisor (35)."
         }
       ],
       "correct_answer": "D",
@@ -336,9 +336,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "La Empresa Beta es más económica, generando un ahorro de $9.000 COP.",
-          "is_correct": true,
-          "feedback": "Alfa: $4.320 \\div 36 = 120$ cajas $\\times \\$1.200 = \\$144.000$ COP. Beta: $4.320 \\div 48 = 90$ cajas $\\times \\$1.500 = \\$135.000$ COP. Ahorro: $\\$144.000 - \\$135.000 = \\$9.000$ COP."
+          "text": "Ambas empresas cobran exactamente el mismo valor total de $140.000 COP.",
+          "is_correct": false,
+          "feedback": "Los costos totales difieren ($144.000 COP frente a $135.000 COP)."
         },
         {
           "letter": "B",
@@ -348,9 +348,9 @@
         },
         {
           "letter": "C",
-          "text": "Ambas empresas cobran exactamente el mismo valor total de $140.000 COP.",
-          "is_correct": false,
-          "feedback": "Los costos totales difieren ($144.000 COP frente a $135.000 COP)."
+          "text": "La Empresa Beta es más económica, generando un ahorro de $9.000 COP.",
+          "is_correct": true,
+          "feedback": "Alfa: $4.320 \\div 36 = 120$ cajas $\\times \\$1.200 = \\$144.000$ COP. Beta: $4.320 \\div 48 = 90$ cajas $\\times \\$1.500 = \\$135.000$ COP. Ahorro: $\\$144.000 - \\$135.000 = \\$9.000$ COP."
         },
         {
           "letter": "D",
@@ -359,7 +359,7 @@
           "feedback": "La diferencia real entre $144.000 COP y $135.000 COP es de $9.000 COP."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Se calculan las cantidades de cajas dividiendo por 36 y 48 respectivamente: Alfa requiere 120 cajas ($120 \\times \\$1.200 = \\$144.000$ COP) y Beta requiere 90 cajas ($90 \\times \\$1.500 = \\$135.000$ COP). Beta ahorra $\\$9.000$ COP.",
       "difficulty": "10",
       "images": [],

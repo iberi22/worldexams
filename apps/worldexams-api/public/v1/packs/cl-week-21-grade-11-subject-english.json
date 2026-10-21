@@ -19,12 +19,6 @@
           "feedback": "Incorrect. Tradition focuses on the past."
         },
         {
-          "letter": "D",
-          "text": "Automation",
-          "is_correct": true,
-          "feedback": "Correct. Key concept for future labor markets."
-        },
-        {
           "letter": "B",
           "text": "Manual labor",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "Craftsmanship",
           "is_correct": false,
           "feedback": "Incorrect. Skilled manual work."
+        },
+        {
+          "letter": "D",
+          "text": "Automation",
+          "is_correct": true,
+          "feedback": "Correct. Key concept for future labor markets."
         }
       ],
       "correct_answer": "D",
@@ -148,16 +148,16 @@
       "context": "Article about \"Universal Basic Income\" (UBI).",
       "options": [
         {
-          "letter": "B",
-          "text": "regardless of",
-          "is_correct": true,
-          "feedback": "Correct. Means without paying attention to or being affected by."
-        },
-        {
           "letter": "A",
           "text": "because of",
           "is_correct": false,
           "feedback": "Incorrect. UBI is not dependent on these factors."
+        },
+        {
+          "letter": "B",
+          "text": "regardless of",
+          "is_correct": true,
+          "feedback": "Correct. Means without paying attention to or being affected by."
         },
         {
           "letter": "C",
@@ -238,16 +238,16 @@
       "context": "Space colonization.",
       "options": [
         {
-          "letter": "B",
-          "text": "visit",
-          "is_correct": false,
-          "feedback": "Incorrect. Visiting is temporary."
-        },
-        {
           "letter": "A",
           "text": "colonize",
           "is_correct": true,
           "feedback": "Correct. To establish a permanent presence."
+        },
+        {
+          "letter": "B",
+          "text": "visit",
+          "is_correct": false,
+          "feedback": "Incorrect. Visiting is temporary."
         },
         {
           "letter": "C",
@@ -334,16 +334,16 @@
           "feedback": "Incorrect. Rural areas have plenty of land for traditional farming."
         },
         {
-          "letter": "C",
-          "text": "urban",
-          "is_correct": true,
-          "feedback": "Correct. Vertical farming is designed for city environments."
-        },
-        {
           "letter": "B",
           "text": "arctic",
           "is_correct": false,
           "feedback": "Incorrect. Too cold."
+        },
+        {
+          "letter": "C",
+          "text": "urban",
+          "is_correct": true,
+          "feedback": "Correct. Vertical farming is designed for city environments."
         },
         {
           "letter": "D",
@@ -508,16 +508,16 @@
       "context": "Passive voice in a futuristic scenario.",
       "options": [
         {
-          "letter": "B",
-          "text": "will submerge",
-          "is_correct": false,
-          "feedback": "Incorrect. Active voice."
-        },
-        {
           "letter": "A",
           "text": "will have been submerged",
           "is_correct": true,
           "feedback": "Correct. Future perfect passive for a completed state."
+        },
+        {
+          "letter": "B",
+          "text": "will submerge",
+          "is_correct": false,
+          "feedback": "Incorrect. Active voice."
         },
         {
           "letter": "C",
@@ -553,12 +553,6 @@
       "context": "Discussing longevity.",
       "options": [
         {
-          "letter": "C",
-          "text": "longevity",
-          "is_correct": true,
-          "feedback": "Correct. Longevity means long life."
-        },
-        {
           "letter": "A",
           "text": "height",
           "is_correct": false,
@@ -569,6 +563,12 @@
           "text": "confusion",
           "is_correct": false,
           "feedback": "Incorrect. Science aims for clarity."
+        },
+        {
+          "letter": "C",
+          "text": "longevity",
+          "is_correct": true,
+          "feedback": "Correct. Longevity means long life."
         },
         {
           "letter": "D",
@@ -688,16 +688,16 @@
       "context": "Digital currency.",
       "options": [
         {
-          "letter": "B",
-          "text": "Cash",
-          "is_correct": false,
-          "feedback": "'Cash' means physical banknotes and coins, whereas cryptocurrency is entirely digital and secured by cryptography."
-        },
-        {
           "letter": "A",
           "text": "Cryptocurrency",
           "is_correct": true,
           "feedback": "Correct. The specific digital term."
+        },
+        {
+          "letter": "B",
+          "text": "Cash",
+          "is_correct": false,
+          "feedback": "'Cash' means physical banknotes and coins, whereas cryptocurrency is entirely digital and secured by cryptography."
         },
         {
           "letter": "C",
@@ -733,16 +733,16 @@
       "context": "Reporting a future prediction.",
       "options": [
         {
-          "letter": "B",
-          "text": "will",
-          "is_correct": false,
-          "feedback": "Incorrect. Backshifted in reported speech."
-        },
-        {
           "letter": "A",
           "text": "would",
           "is_correct": true,
           "feedback": "Correct. Backshifted from 'will' to 'would'."
+        },
+        {
+          "letter": "B",
+          "text": "will",
+          "is_correct": false,
+          "feedback": "Incorrect. Backshifted in reported speech."
         },
         {
           "letter": "C",
@@ -830,9 +830,9 @@
         },
         {
           "letter": "B",
-          "text": "will have been monitoring",
-          "is_correct": true,
-          "feedback": "Correct. Future perfect continuous for duration up to a future point."
+          "text": "monitor",
+          "is_correct": false,
+          "feedback": "Incorrect. Present simple."
         },
         {
           "letter": "C",
@@ -842,12 +842,12 @@
         },
         {
           "letter": "D",
-          "text": "monitor",
-          "is_correct": false,
-          "feedback": "Incorrect. Present simple."
+          "text": "will have been monitoring",
+          "is_correct": true,
+          "feedback": "Correct. Future perfect continuous for duration up to a future point."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The future perfect continuous 'will have been monitoring' describes the total duration of a study at a specific future time.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,12 +868,6 @@
       "context": "Final thought on future ethics.",
       "options": [
         {
-          "letter": "C",
-          "text": "ethics",
-          "is_correct": true,
-          "feedback": "Correct. Moral principles that govern behavior."
-        },
-        {
           "letter": "A",
           "text": "speed",
           "is_correct": false,
@@ -884,6 +878,12 @@
           "text": "profit",
           "is_correct": false,
           "feedback": "Incorrect. Profit is a guide for business, but the 'challenge' is usually about higher principles."
+        },
+        {
+          "letter": "C",
+          "text": "ethics",
+          "is_correct": true,
+          "feedback": "Correct. Moral principles that govern behavior."
         },
         {
           "letter": "D",

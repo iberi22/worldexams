@@ -223,8 +223,8 @@ Si encuentras un texto anónimo que narra una batalla histórica con un lenguaje
 ### Opciones
 - [ ] A) Mezcla de ciencia ficción y poesía pura. <!-- feedback: Incorrecto. La batalla histórica se aleja de la ciencia ficción. -->
 - [ ] B) Mezcla de drama y lírica sin narración. <!-- feedback: Incorrecto. Si cuenta una batalla, hay narración. -->
-- [x] C) Mezcla de Romanticismo (pasión y heroísmo) y Costumbrismo (precisión en los detalles externos). <!-- feedback: ¡Correcto! Es una hibridación común en el siglo XIX colombiano. -->
-- [ ] D) Es un texto que no tiene estilo porque es anónimo. <!-- feedback: Incorrecto. El anonimato no quita la presencia de rasgos estilísticos claros. -->
+- [ ] C) Es un texto que no tiene estilo porque es anónimo. <!-- feedback: Incorrecto. El anonimato no quita la presencia de rasgos estilísticos claros. -->
+- [x] D) Mezcla de Romanticismo (pasión y heroísmo) y Costumbrismo (precisión en los detalles externos). <!-- feedback: ¡Correcto! Es una hibridación común en el siglo XIX colombiano. -->
 
 ### Explicacion Pedagogica
 Los movimientos literarios no son "cajas cerradas". A menudo se mezclan. Saber identificar los rasgos de cada uno dentro de un mismo texto es el nivel más alto de análisis literario que se busca al cerrar este primer periodo.

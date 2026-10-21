@@ -59,12 +59,6 @@
       "context": "En una panaderia artesanal de Cali, la cocinera observa que la masa cruda se transforma en pan durante el horneado.",
       "options": [
         {
-          "letter": "C",
-          "text": "Se forman sustancias nuevas como dioxido de carbono y alcohol, no presentes inicialmente.",
-          "is_correct": true,
-          "feedback": "Correcto. La fermentacion y el horneado producen nuevas sustancias químicas."
-        },
-        {
           "letter": "A",
           "text": "La masa cambia de color pero mantiene su composicion.",
           "is_correct": false,
@@ -75,6 +69,12 @@
           "text": "La masa se derrite como un solido que pasa a liquido.",
           "is_correct": false,
           "feedback": "Incorrecto. El derretimiento es físico, no describe el horneado."
+        },
+        {
+          "letter": "C",
+          "text": "Se forman sustancias nuevas como dioxido de carbono y alcohol, no presentes inicialmente.",
+          "is_correct": true,
+          "feedback": "Correcto. La fermentacion y el horneado producen nuevas sustancias químicas."
         },
         {
           "letter": "D",
@@ -289,12 +289,6 @@
       "context": "En un laboratorio de Barrancabermeja, se mezcla ácido clorhidrico ($HCl$) con hidrogenocarbonato de sodio ($NaHCO_3$) y se observan burbujas de gas y aumento de temperatura.",
       "options": [
         {
-          "letter": "D",
-          "text": "Hay formacion de un gas (burbujas de $CO_2$) y liberacion de calor, evidencias claras de cambio químico.",
-          "is_correct": true,
-          "feedback": "Correcto. La liberacion de gas y el cambio de temperatura son signos de reacción química."
-        },
-        {
           "letter": "A",
           "text": "Las burbujas y el calor son evidencia de un simple cambio físico de las sustancias.",
           "is_correct": false,
@@ -311,6 +305,12 @@
           "text": "Las burbujas son aire atrapado y el calor proviene de la mano del experimentador.",
           "is_correct": false,
           "feedback": "Incorrecto. El gas generado es $CO_2$ y el calor es propio de la reacción exotermica."
+        },
+        {
+          "letter": "D",
+          "text": "Hay formacion de un gas (burbujas de $CO_2$) y liberacion de calor, evidencias claras de cambio químico.",
+          "is_correct": true,
+          "feedback": "Correcto. La liberacion de gas y el cambio de temperatura son signos de reacción química."
         }
       ],
       "correct_answer": "D",
@@ -381,12 +381,6 @@
       "context": "En Cucuta, se analizan etiquetas de productos caseros que indican \"reacciones de combustion completas\" e \"incompletas\" durante la quema de gas domiciliario.",
       "options": [
         {
-          "letter": "D",
-          "text": "La combustion completa produce $CO_2$ y $H_2O$; la incompleta produce $CO$ (y a veces $C$ o hollin).",
-          "is_correct": true,
-          "feedback": "Correcto. La combustion incompleta ocurre con poco oxígeno y genera $CO$, un gas toxico."
-        },
-        {
           "letter": "A",
           "text": "La combustion completa produce monoxido de carbono y la incompleta solo vapor de agua.",
           "is_correct": false,
@@ -403,6 +397,12 @@
           "text": "La combustion incompleta consume mas oxígeno que la completa.",
           "is_correct": false,
           "feedback": "Incorrecto. La completa consume mas oxígeno y produce mas $CO_2$."
+        },
+        {
+          "letter": "D",
+          "text": "La combustion completa produce $CO_2$ y $H_2O$; la incompleta produce $CO$ (y a veces $C$ o hollin).",
+          "is_correct": true,
+          "feedback": "Correcto. La combustion incompleta ocurre con poco oxígeno y genera $CO$, un gas toxico."
         }
       ],
       "correct_answer": "D",
@@ -427,12 +427,6 @@
       "context": "En Bogotá, el Consejo Distrital discute una norma para reducir uso de plasticos de un solo uso en restaurantes escolares, citando argumentos sobre cambios químicos lentos.",
       "options": [
         {
-          "letter": "C",
-          "text": "Los plasticos sufren degradacion química lenta liberando microplasticos y sustancias toxicas al ambiente.",
-          "is_correct": true,
-          "feedback": "Correcto. La degradacion química de los plasticos genera contaminantes persistentes."
-        },
-        {
           "letter": "A",
           "text": "Los plasticos desaparecen inmediatamente al contacto con el suelo, sin dejar residuos.",
           "is_correct": false,
@@ -443,6 +437,12 @@
           "text": "Los plasticos son biodegradables en pocos minutos en cualquier ambiente.",
           "is_correct": false,
           "feedback": "Incorrecto. La mayoria de los plasticos comerciales son muy estables y no biodegradables rapidamente."
+        },
+        {
+          "letter": "C",
+          "text": "Los plasticos sufren degradacion química lenta liberando microplasticos y sustancias toxicas al ambiente.",
+          "is_correct": true,
+          "feedback": "Correcto. La degradacion química de los plasticos genera contaminantes persistentes."
         },
         {
           "letter": "D",
@@ -473,16 +473,16 @@
       "context": "En la planta de tratamiento de agua de Bucaramanga, se aplica cloro para potabilizar el agua antes de distribuirla a la ciudad.",
       "options": [
         {
-          "letter": "B",
-          "text": "El cloro reacciona con microorganismos patogenos, oxidandolos y eliminando el riesgo biologico del agua.",
-          "is_correct": true,
-          "feedback": "Correcto. El cloro desinfecta por oxidacion química de agentes patogenos."
-        },
-        {
           "letter": "A",
           "text": "El cloro se mezcla fisicamente sin reaccionar, por lo que no elimina bacterias.",
           "is_correct": false,
           "feedback": "Incorrecto. El cloro si reacciona quimicamente y oxida la materia organica y los microorganismos."
+        },
+        {
+          "letter": "B",
+          "text": "El cloro reacciona con microorganismos patogenos, oxidandolos y eliminando el riesgo biologico del agua.",
+          "is_correct": true,
+          "feedback": "Correcto. El cloro desinfecta por oxidacion química de agentes patogenos."
         },
         {
           "letter": "C",
@@ -520,15 +520,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Reciclar papel reduce el número de reacciones químicas industriales necesarias para producir pulpa virgen, ahorrando energía.",
-          "is_correct": true,
-          "feedback": "Correcto. Reutilizar fibras disminuye procesos químicos y consumo energetico industrial."
-        },
-        {
-          "letter": "B",
           "text": "Reciclar papel implica cambios químicos prohibidos por la ley.",
           "is_correct": false,
           "feedback": "Incorrecto. El reciclaje es una práctica ambiental promovida por la ley."
+        },
+        {
+          "letter": "B",
+          "text": "Reciclar papel reduce el número de reacciones químicas industriales necesarias para producir pulpa virgen, ahorrando energía.",
+          "is_correct": true,
+          "feedback": "Correcto. Reutilizar fibras disminuye procesos químicos y consumo energetico industrial."
         },
         {
           "letter": "C",
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. Disminuye las emisiones globales al reducir la produccion industrial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Reciclar papel reduce la demanda de madera, agua y energía, disminuyendo las emisiones y los cambios químicos industriales asociados a su fabricacion.",
       "difficulty": "10",
       "images": [],

@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Your mother's mother is your ______.",
+      "context": "En Sogamoso, Valentina visita cada domingo a la mamá de su mamá, que le prepara changua.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the word for a place where you live or stay on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
+          "text": "aunt",
           "is_correct": false,
-          "feedback": "'transportation' is the system of moving people or goods between places, not the place you sleep in itself."
+          "feedback": "Incorrect. An \"aunt\" is the sister of your mom or dad, not the mother of your mom."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "cousin",
           "is_correct": false,
-          "feedback": "'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live."
+          "feedback": "Incorrect. A \"cousin\" is the child of your aunt or uncle, so a cousin is about your age, not your mom's mother."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "grandmother",
+          "is_correct": true,
+          "feedback": "Correct. \"Grandmother\" is the mother of your mom or of your dad."
+        },
+        {
+          "letter": "D",
+          "text": "uncle",
           "is_correct": false,
-          "feedback": "'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in."
+          "feedback": "Incorrect. An \"uncle\" is a man, the brother of your mom or dad, and the question asks about a mother."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "La mamá de tu mamá es tu abuela, y en inglés abuela se dice \"grandmother\". También la mamá de tu papá es tu \"grandmother\". La forma cariñosa es \"grandma\".",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -55,36 +55,36 @@
     },
     {
       "id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which word means \"grandpa\"?",
+      "context": "El abuelo de Simón tiene una finca cafetera en Chinchiná y le enseña a recoger café.",
       "options": [
         {
-          "letter": "C",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "grandmother",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "Incorrect. \"Grandmother\" is grandma, a woman, and \"grandpa\" is a man."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "grandfather",
+          "is_correct": true,
+          "feedback": "Correct. \"Grandfather\" is the full word for grandpa, the father of your mom or dad."
+        },
+        {
+          "letter": "C",
+          "text": "cousin",
           "is_correct": false,
-          "feedback": "'destination' names only the place you are going to, without the route or the order of the whole journey."
+          "feedback": "Incorrect. A \"cousin\" is the child of your aunt or uncle, a person from your own generation."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "aunt",
           "is_correct": false,
-          "feedback": "'passport' is the official document that lets you cross a border, not the plan of where you go."
+          "feedback": "Incorrect. An \"aunt\" is a woman, the sister of one of your parents, so she is not your grandpa."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "\"Grandpa\" es la forma corta y cariñosa de \"grandfather\", que significa abuelo. El abuelo es el papá de tu mamá o de tu papá. Las palabras con \"grand-\" nombran a los abuelos.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: \"My mom has a sister. Her name is Paula. Paula is my ______.\"",
+      "context": "La mamá de Isabela, en Girardot, tiene una hermana llamada Paula que vive en Bogotá.",
       "options": [
         {
-          "letter": "B",
-          "text": "destination",
+          "letter": "A",
+          "text": "aunt",
           "is_correct": true,
-          "feedback": "Correct! 'destination' is the place someone is going to or something is being sent to."
+          "feedback": "Correct. The sister of your mom is your \"aunt\", and Paula is a woman."
         },
         {
-          "letter": "A",
-          "text": "departure",
+          "letter": "B",
+          "text": "uncle",
           "is_correct": false,
-          "feedback": "'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself."
+          "feedback": "Incorrect. An \"uncle\" is a man, but Paula is a woman, the sister of the mom."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "grandmother",
           "is_correct": false,
-          "feedback": "'arrival' is the act of reaching a place, not the place that is reached."
+          "feedback": "Incorrect. A \"grandmother\" is the mother of your mom, not her sister."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "cousin",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from the start to the end, not the place the trip finishes at."
+          "feedback": "Incorrect. A \"cousin\" is the child of your aunt, and Paula is the aunt herself."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "La hermana de tu mamá (o de tu papá) es tu tía. En inglés tía se dice \"aunt\". Paula es mujer y es hermana de la mamá, por eso \"Paula is my aunt\".",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.75,
       "bundle_id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: \"My dad has a brother. His name is Felipe. Felipe is my ______.\"",
+      "context": "El papá de Miguel, en Cúcuta, tiene un hermano llamado Felipe que trabaja como conductor de bus.",
       "options": [
         {
-          "letter": "B",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel."
+          "letter": "A",
+          "text": "aunt",
+          "is_correct": false,
+          "feedback": "Incorrect. An \"aunt\" is a woman, and Felipe is a man (\"His name\")."
         },
         {
-          "letter": "A",
-          "text": "ticket",
+          "letter": "B",
+          "text": "grandfather",
           "is_correct": false,
-          "feedback": "'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in."
+          "feedback": "Incorrect. A \"grandfather\" is the father of your dad, not his brother."
         },
         {
           "letter": "C",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "'flight' is the journey by plane itself, not the containers that hold your things."
+          "text": "uncle",
+          "is_correct": true,
+          "feedback": "Correct. The brother of your dad is your \"uncle\", and Felipe is a man."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "cousin",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you make for a seat or a room, not the bag you carry."
+          "feedback": "Incorrect. A \"cousin\" is the child of your uncle, so Felipe's children would be cousins, not Felipe."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "El hermano de tu papá (o de tu mamá) es tu tío, que en inglés se dice \"uncle\". La palabra \"His\" indica que Felipe es hombre. Por eso decimos \"Felipe is my uncle\".",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.7,
       "bundle_id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"My uncle Felipe has a son. His name is Martin.\"\nMartin is my ______.",
+      "context": "Miguel juega fútbol en Cúcuta con Martin, el hijo de su tío Felipe.",
       "options": [
         {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "brother",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all."
+          "feedback": "Incorrect. A \"brother\" has your same parents, but Martin is the son of your uncle."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "uncle",
           "is_correct": false,
-          "feedback": "'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle."
+          "feedback": "Incorrect. The uncle in the text is Felipe; Martin is his child."
+        },
+        {
+          "letter": "C",
+          "text": "grandfather",
+          "is_correct": false,
+          "feedback": "Incorrect. A \"grandfather\" is older than your parents, and Martin is a child of your uncle."
         },
         {
           "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle."
+          "text": "cousin",
+          "is_correct": true,
+          "feedback": "Correct. The son or daughter of your uncle or aunt is your \"cousin\"."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Los hijos de tus tíos son tus primos. En inglés primo y prima se dicen igual: \"cousin\". Como Martin es hijo del tío Felipe, Martin es \"my cousin\".",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.65,
       "bundle_id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Carlos and Ines are the parents of my mom and of my aunt Paula.\"\nWho are Carlos and Ines?",
+      "context": "Isabela dibuja su árbol genealógico en una cartelera para la feria de la familia de su colegio en Girardot.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
+          "text": "my grandparents",
           "is_correct": true,
-          "feedback": "Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive."
+          "feedback": "Correct. The parents of your mom are your \"grandparents\": your grandfather and grandmother."
         },
         {
           "letter": "B",
-          "text": "security",
+          "text": "my cousins",
           "is_correct": false,
-          "feedback": "'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in."
+          "feedback": "Incorrect. Cousins are the children of your aunt or uncle, but Carlos and Ines are the parents of your mom."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "my uncles",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for your plane, not the place where your belongings are inspected."
+          "feedback": "Incorrect. Uncles are brothers of your parents, and Carlos and Ines are one generation older than your mom."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "my parents",
           "is_correct": false,
-          "feedback": "'gate' is the door at the plane you walk through to board, not the place where officials check your things."
+          "feedback": "Incorrect. Your parents are your mom and dad; Carlos and Ines are the mom's own parents."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "explanation": "En el árbol genealógico, los papás de tu mamá están un nivel arriba de ella. Ellos son tus abuelos: \"grandparents\" (grandfather + grandmother). También son los papás de la tía Paula, porque ella es hermana de tu mamá.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.6,
       "bundle_id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Sofia lives in Leticia with her grandmother Elena. Her aunt Marta and her cousin Pablo visit on Sundays. Pablo is Marta's son.\"\nWhich sentence is true?",
+      "context": "Sofia vive en Leticia, en el Amazonas, y los domingos recibe visitas de su familia.",
       "options": [
         {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane."
+          "letter": "A",
+          "text": "Elena is Sofia's aunt.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says \"her grandmother Elena\", so Elena is the grandmother, and the aunt is Marta."
         },
         {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline."
+          "letter": "B",
+          "text": "Marta is Pablo's mother.",
+          "is_correct": true,
+          "feedback": "Correct. The text says \"Pablo is Marta's son\", so Marta is the mother of Pablo."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "Pablo is Sofia's brother.",
           "is_correct": false,
-          "feedback": "'receipt' is the proof that you paid for something, which is not permission to board a plane."
+          "feedback": "Incorrect. The text calls Pablo \"her cousin\", because he is the son of her aunt."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "Marta visits on Mondays.",
           "is_correct": false,
-          "feedback": "'brochure' is a leaflet with tourist information, not a travel document issued to a passenger."
+          "feedback": "Incorrect. The text says Marta and Pablo visit \"on Sundays\", not on Mondays."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "explanation": "Hay que leer con cuidado cada relación. Elena es la abuela (\"grandmother\"), Marta es la tía (\"aunt\") y Pablo es el primo (\"cousin\"). Como \"Pablo is Marta's son\" (Pablo es hijo de Marta), Marta es la mamá de Pablo.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.5,
       "bundle_id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is correct?",
+      "context": "En una clase de inglés en Sincelejo, los niños revisan definiciones de familiares para su árbol genealógico.",
       "options": [
         {
-          "letter": "D",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' means visiting the places of interest of a location as a traveler."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "My aunt is my father's brother.",
           "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place."
+          "feedback": "Incorrect. The brother of your father is your uncle; an aunt is a woman, a sister of your parents."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "My uncle is my mother's sister.",
           "is_correct": false,
-          "feedback": "'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city."
+          "feedback": "Incorrect. An uncle is a man, so he is the brother of your mother, not her sister."
         },
         {
           "letter": "C",
-          "text": "camping",
+          "text": "My grandfather is my cousin's son.",
           "is_correct": false,
-          "feedback": "'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place."
+          "feedback": "Incorrect. A grandfather is the father of your parents, two generations older, not a child of your cousin."
+        },
+        {
+          "letter": "D",
+          "text": "My cousin is my uncle's daughter.",
+          "is_correct": true,
+          "feedback": "Correct. The daughter of your uncle is your cousin, so this definition matches the family tree."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "explanation": "Recordemos: \"aunt\" (tía) es mujer y \"uncle\" (tío) es hombre; ambos son hermanos de tus papás. Los hijos e hijas de tus tíos son tus primos, \"cousins\". Por eso \"My cousin is my uncle's daughter\" es la única oración correcta.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.45,
       "bundle_id": "CO-ING-3-2026-W09-family-members-2-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",

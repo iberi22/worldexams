@@ -34,14 +34,14 @@ Naturaleza y funciones de los resguardos y cabildos indígenas en Colombia, su r
 ¿Qué es un resguardo indígena en Colombia?
 
 ### Opciones
-- [x] D) Un territorio colectivo asignado a un pueblo indígena, donde conserva su cultura y se autogobierna.
-  <!-- feedback: El resguardo es un territorio colectivo con reconocimiento legal y autonomía cultural. -->
 - [ ] A) Un parque nacional dedicado a la protección de animales silvestres.
   <!-- feedback: Los parques nacionales protegen ecosistemas, no la organización de pueblos indígenas. -->
 - [ ] B) Una escuela pública exclusiva para niños indígenas urbanos.
   <!-- feedback: El resguardo no es una escuela, sino un territorio y una forma de gobierno propio. -->
 - [ ] C) Un edificio del gobierno donde se tramitan documentos oficiales.
   <!-- feedback: Las entidades oficiales no son resguardos, que son territorios colectivos indígenas. -->
+- [x] D) Un territorio colectivo asignado a un pueblo indígena, donde conserva su cultura y se autogobierna.
+  <!-- feedback: El resguardo es un territorio colectivo con reconocimiento legal y autonomía cultural. -->
 
 ### Explicacion Pedagogica
 Reconocer el resguardo indígena como un territorio colectivo con identidad y gobierno propio.
@@ -57,14 +57,14 @@ Reconocer el resguardo indígena como un territorio colectivo con identidad y go
 ¿Cuál es la función principal de un cabildo indígena?
 
 ### Opciones
-- [x] D) Representar y gobernar a la comunidad indígena, cuidando su territorio, su cultura y sus tradiciones.
-  <!-- feedback: El cabildo actúa como autoridad propia del pueblo indígena. -->
 - [ ] A) Cobrar impuestos nacionales a todos los ciudadanos del país.
   <!-- feedback: El cabildo no recauda impuestos nacionales; es una autoridad interna. -->
 - [ ] B) Dirigir los colegios públicos de las ciudades principales.
   <!-- feedback: La dirección de los colegios corresponde a la Secretaría de Educación. -->
 - [ ] C) Comercializar productos extranjeros dentro del resguardo.
   <!-- feedback: Esa no es una función del cabildo; su rol es político, cultural y social. -->
+- [x] D) Representar y gobernar a la comunidad indígena, cuidando su territorio, su cultura y sus tradiciones.
+  <!-- feedback: El cabildo actúa como autoridad propia del pueblo indígena. -->
 
 ### Explicacion Pedagogica
 Comprender el papel del cabildo como autoridad propia dentro de la comunidad indígena.
@@ -80,12 +80,12 @@ Comprender el papel del cabildo como autoridad propia dentro de la comunidad ind
 ¿Qué actividades son propias del cabildo en un resguardo?
 
 ### Opciones
-- [x] C) Resolver conflictos internos, organizar mingas, cuidar la tierra y proteger las tradiciones del pueblo.
-  <!-- feedback: Estas son funciones culturales, sociales y políticas del cabildo indígena. -->
 - [ ] A) Cobrar peajes en las carreteras nacionales del país.
   <!-- feedback: Los peajes nacionales no son responsabilidad del cabildo de un resguardo. -->
 - [ ] B) Dirigir exclusivamente la política económica internacional.
   <!-- feedback: El cabildo actúa dentro de su comunidad, no en el ámbito internacional. -->
+- [x] C) Resolver conflictos internos, organizar mingas, cuidar la tierra y proteger las tradiciones del pueblo.
+  <!-- feedback: Estas son funciones culturales, sociales y políticas del cabildo indígena. -->
 - [ ] D) Imponer una sola lengua oficial a todos los pueblos de Colombia.
   <!-- feedback: El cabildo respeta la diversidad lingüística y no impone lenguas. -->
 
@@ -103,10 +103,10 @@ Aplicar el conocimiento del cabildo a sus funciones concretas dentro del resguar
 ¿Qué derecho reconoce la Constitución de 1991 a los pueblos indígenas en relación con sus resguardos?
 
 ### Opciones
-- [x] B) El derecho a tener su propio territorio, su gobierno interno y a conservar su identidad cultural.
-  <!-- feedback: El artículo 330 de la Constitución respalda los derechos territoriales indígenas. -->
 - [ ] A) El derecho a cobrar impuestos nacionales a todos los colombianos.
   <!-- feedback: Los pueblos indígenas no tienen la potestad de cobrar impuestos nacionales. -->
+- [x] B) El derecho a tener su propio territorio, su gobierno interno y a conservar su identidad cultural.
+  <!-- feedback: El artículo 330 de la Constitución respalda los derechos territoriales indígenas. -->
 - [ ] C) El derecho a tener un ejército propio fuera de la ley.
   <!-- feedback: La Constitución no autoriza ejércitos al margen de la ley. -->
 - [ ] D) El derecho a suprimir las escuelas oficiales del país.
@@ -126,10 +126,10 @@ Aplicar el reconocimiento constitucional a la protección de los territorios ind
 ¿Cuál es la diferencia entre un resguardo y un cabildo?
 
 ### Opciones
-- [x] B) El resguardo es el territorio colectivo, mientras que el cabildo es la autoridad que gobierna dentro de ese territorio.
-  <!-- feedback: Resguardo y cabildo se complementan: el primero es el lugar, el segundo es la autoridad. -->
 - [ ] A) Los dos significan exactamente lo mismo y se usan indistintamente.
   <!-- feedback: Aunque se relacionan, no son sinónimos: uno es territorio, el otro autoridad. -->
+- [x] B) El resguardo es el territorio colectivo, mientras que el cabildo es la autoridad que gobierna dentro de ese territorio.
+  <!-- feedback: Resguardo y cabildo se complementan: el primero es el lugar, el segundo es la autoridad. -->
 - [ ] C) El resguardo es una autoridad y el cabildo es un tipo de moneda.
   <!-- feedback: El cabildo no es una moneda; es la autoridad interna del resguardo. -->
 - [ ] D) El cabildo es el territorio y el resguardo es la festividad del pueblo.
@@ -149,14 +149,14 @@ Diferenciar el resguardo como territorio del cabildo como autoridad indígena.
 ¿Qué diferencia clave existe entre las dos situaciones descritas?
 
 ### Opciones
-- [x] D) En el primer caso, el cabildo ejerce autonomía y consulta a la comunidad; en el segundo, se impone una decisión sin participación.
-  <!-- feedback: La diferencia central es la presencia de autonomía y consulta comunitaria. -->
 - [ ] A) En los dos casos la comunidad decide de la misma forma.
   <!-- feedback: Los dos casos muestran formas de decisión completamente distintas. -->
 - [ ] B) La primera situación no tiene cabildo porque es indígena.
   <!-- feedback: Precisamente, el resguardo Arhuaco sí tiene cabildo propio. -->
 - [ ] C) El segundo caso también respeta las tradiciones de la comunidad.
   <!-- feedback: Imponer decisiones sin consultar no respeta las tradiciones ni la autonomía. -->
+- [x] D) En el primer caso, el cabildo ejerce autonomía y consulta a la comunidad; en el segundo, se impone una decisión sin participación.
+  <!-- feedback: La diferencia central es la presencia de autonomía y consulta comunitaria. -->
 
 ### Explicacion Pedagogica
 Analizar la autonomía y la consulta comunitaria como rasgos esenciales del gobierno indígena.
@@ -172,14 +172,14 @@ Analizar la autonomía y la consulta comunitaria como rasgos esenciales del gobi
 ¿Qué elementos permiten afirmar que los pueblos indígenas enriquecen la diversidad cultural de Colombia?
 
 ### Opciones
-- [x] D) Sus lenguas, su gastronomía, su música, sus tejidos y sus rituales forman parte del patrimonio cultural del país.
+- [x] A) Sus lenguas, su gastronomía, su música, sus tejidos y sus rituales forman parte del patrimonio cultural del país.
   <!-- feedback: Cada uno de esos elementos aporta a la identidad diversa de Colombia. -->
-- [ ] A) Todos los pueblos indígenas comparten exactamente la misma lengua y costumbre.
-  <!-- feedback: Los pueblos indígenas son diversos entre sí, no homogéneos. -->
 - [ ] B) Sus prácticas culturales deberían prohibirse para homogenizar al país.
   <!-- feedback: La Constitución protege, no prohíbe, las expresiones culturales indígenas. -->
 - [ ] C) Solo los aportes europeos cuentan como cultura válida.
   <!-- feedback: La diversidad cultural incluye los aportes indígenas, africanos y de otros pueblos. -->
+- [ ] D) Todos los pueblos indígenas comparten exactamente la misma lengua y costumbre.
+  <!-- feedback: Los pueblos indígenas son diversos entre sí, no homogéneos. -->
 
 ### Explicacion Pedagogica
 Analizar la riqueza cultural que los pueblos indígenas aportan a la identidad colombiana.
@@ -195,10 +195,10 @@ Analizar la riqueza cultural que los pueblos indígenas aportan a la identidad c
 ¿Por qué es importante que todos los colombianos respeten a los resguardos y cabildos indígenas?
 
 ### Opciones
-- [x] B) Porque la diversidad cultural y la autonomía indígena fortalecen la democracia y la identidad nacional.
-  <!-- feedback: Reconocer al otro es base de la convivencia y de la democracia pluralista. -->
 - [ ] A) Porque no tienen ningún aporte a la historia del país.
   <!-- feedback: Los pueblos indígenas tienen aportes históricos, culturales y ambientales invaluables. -->
+- [x] B) Porque la diversidad cultural y la autonomía indígena fortalecen la democracia y la identidad nacional.
+  <!-- feedback: Reconocer al otro es base de la convivencia y de la democracia pluralista. -->
 - [ ] C) Porque deberían ser invisibilizados para evitar conflictos.
   <!-- feedback: Invisibilizar a un pueblo es contrario a los derechos humanos y a la Constitución. -->
 - [ ] D) Porque solo importan los grupos que viven en las grandes ciudades.

@@ -139,12 +139,12 @@ El presupuesto participativo acerca el Estado a la gente: parte del dinero del m
 ### Opciones
 - [ ] A) Que San Pedro recibe más plata del gobierno nacional que San Pablo.
   <!-- feedback: Incorrecto: nada indica diferencia de recursos; la diferencia está en la participación de los vecinos. -->
-- [x] B) Que en San Pedro hay participación masiva y cumplimiento de acuerdos, mientras en San Pablo la apatía paraliza la organización.
-  <!-- feedback: Correcto: la organización funciona cuando la gente asiste, decide y cumple; sin participación no hay resultados. -->
+- [ ] B) Que las Juntas solo funcionan en las ciudades y no en las veredas.
+  <!-- feedback: Incorrecto: San Pedro es vereda y su Junta sí funciona gracias a la participación. -->
 - [ ] C) Que en San Pablo llueve más y por eso no se puede construir el techo.
   <!-- feedback: Incorrecto: la lluvia no impide organizarse; el problema es la falta de asistencia y compromiso. -->
-- [ ] D) Que las Juntas solo funcionan en las ciudades y no en las veredas.
-  <!-- feedback: Incorrecto: San Pedro es vereda y su Junta sí funciona gracias a la participación. -->
+- [x] D) Que en San Pedro hay participación masiva y cumplimiento de acuerdos, mientras en San Pablo la apatía paraliza la organización.
+  <!-- feedback: Correcto: la organización funciona cuando la gente asiste, decide y cumple; sin participación no hay resultados. -->
 
 ### Explicacion Pedagogica
 Las organizaciones comunitarias viven de la participación: asistir, opinar, votar y cumplir los acuerdos. Cuando los vecinos se desentienden, la Junta existe solo en el papel y los problemas se acumulan. La apatía es el enemigo de la democracia; la participación constante, su motor.

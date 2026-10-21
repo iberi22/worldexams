@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W20-repaso-p4-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "This animal lives on a farm. It gives us milk and it says \"moo\". What is it?",
+      "context": "En una finca de Boyacá, la familia de Andrés ordeña una vaca cada mañana para tener leche.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the word for a place where you live or stay on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
+          "text": "a dog",
           "is_correct": false,
-          "feedback": "'transportation' is the system of moving people or goods between places, not the place you sleep in itself."
+          "feedback": "Incorrect. A dog is a pet that says \"woof\"; people do not get milk from a dog."
         },
         {
           "letter": "B",
-          "text": "entertainment",
-          "is_correct": false,
-          "feedback": "'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live."
+          "text": "a cow",
+          "is_correct": true,
+          "feedback": "Correct. A cow is the farm animal that gives milk and says \"moo\"."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "a hen",
           "is_correct": false,
-          "feedback": "'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in."
+          "feedback": "Incorrect. A hen is a farm bird that lays eggs and says \"cluck\", so it does not give milk."
+        },
+        {
+          "letter": "D",
+          "text": "a horse",
+          "is_correct": false,
+          "feedback": "Incorrect. A horse is a farm animal that people ride; it says \"neigh\", not \"moo\"."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Repasamos los animales de granja. La \"cow\" (vaca) vive en la finca, nos da leche (\"milk\") y hace \"moo\". La gallina (\"hen\") da huevos y el caballo (\"horse\") sirve para montar.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W20-repaso-p4-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -55,41 +55,41 @@
     },
     {
       "id": "CO-ING-3-2026-W20-repaso-p4-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read the dialogue.\nTeacher: \"Do you have a pet, Mariana?\"\nMariana: \"Yes, I have a ___. It says 'meow'.\"",
+      "context": "Mariana vive en un apartamento en Pereira y tiene una mascota que duerme en el sofá.",
       "options": [
         {
-          "letter": "B",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them."
+          "letter": "A",
+          "text": "duck",
+          "is_correct": false,
+          "feedback": "Incorrect. A duck is a farm bird and its sound is \"quack\", not \"meow\"."
         },
         {
-          "letter": "A",
-          "text": "baggage",
+          "letter": "B",
+          "text": "pig",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "Incorrect. A pig lives on a farm and says \"oink\", so it does not match \"meow\"."
         },
         {
           "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "'destination' names only the place you are going to, without the route or the order of the whole journey."
+          "text": "cat",
+          "is_correct": true,
+          "feedback": "Correct. A cat is a pet and the sound a cat makes is \"meow\"."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "rabbit",
           "is_correct": false,
-          "feedback": "'passport' is the official document that lets you cross a border, not the plan of where you go."
+          "feedback": "Incorrect. A rabbit can be a pet, but it hops and eats carrots; it does not say \"meow\"."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Para completar el diálogo hay que relacionar el sonido con el animal. El sonido \"meow\" es del gato, \"cat\". El pato (\"duck\") hace \"quack\" y el cerdo (\"pig\") hace \"oink\".",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lexico",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W20-repaso-p4-001-MASTERY-bundle",
       "periodo": 20,
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-3-2026-W20-repaso-p4-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "This big wild cat lives in the Amazon jungle. It is yellow with black spots and it is a very fast hunter. What is it?",
+      "context": "En la selva del Amazonas, cerca de Leticia, vive un gran felino que caza de noche.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' is the place someone is going to or something is being sent to."
+          "text": "a zebra",
+          "is_correct": false,
+          "feedback": "Incorrect. A zebra has black and white stripes, not spots, and it eats grass in Africa."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "a sheep",
           "is_correct": false,
-          "feedback": "'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself."
+          "feedback": "Incorrect. A sheep is a farm animal with white wool; it is not a wild hunter."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "a parrot",
           "is_correct": false,
-          "feedback": "'arrival' is the act of reaching a place, not the place that is reached."
+          "feedback": "Incorrect. A parrot is a colorful bird with wings; it is not a big cat with spots."
         },
         {
           "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "'journey' is the whole trip from the start to the end, not the place the trip finishes at."
+          "text": "a jaguar",
+          "is_correct": true,
+          "feedback": "Correct. The jaguar is the big wild cat of the Amazon, yellow with black spots."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "El \"jaguar\" es un animal salvaje (\"wild animal\") que vive en la selva colombiana. Es amarillo con manchas negras (\"black spots\"). La cebra tiene rayas (\"stripes\") y la oveja vive en la granja.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "expected_success": 0.72,
       "bundle_id": "CO-ING-3-2026-W20-repaso-p4-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-3-2026-W20-repaso-p4-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: \"A snake is a long animal. It has no ___.\"",
+      "context": "En una clase en Villavicencio, los niños miran fotos de una serpiente del Llano.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel."
+          "text": "eyes",
+          "is_correct": false,
+          "feedback": "Incorrect. A snake has two eyes to see, so \"no eyes\" is false."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "mouth",
           "is_correct": false,
-          "feedback": "'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in."
+          "feedback": "Incorrect. A snake has a mouth to eat, so \"no mouth\" is false."
         },
         {
           "letter": "C",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "'flight' is the journey by plane itself, not the containers that hold your things."
+          "text": "legs",
+          "is_correct": true,
+          "feedback": "Correct. A snake has no legs; it moves on its belly."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "skin",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you make for a seat or a room, not the bag you carry."
+          "feedback": "Incorrect. A snake has skin with scales, so \"no skin\" is false."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "La serpiente (\"snake\") no tiene patas: \"It has no legs\". Sí tiene ojos (\"eyes\"), boca (\"mouth\") y piel con escamas (\"skin\"). Por eso la única palabra que completa bien la oración es \"legs\".",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.68,
       "bundle_id": "CO-ING-3-2026-W20-repaso-p4-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-3-2026-W20-repaso-p4-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Sofia buys a fruit at the market. It is yellow and sweet. It has green leaves on top, like a crown.\" What does Sofia buy?",
+      "context": "Sofia hace mercado con su mamá en la galería Alameda de Cali.",
       "options": [
         {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "a lemon",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all."
+          "feedback": "Incorrect. A lemon is small and sour, and it has no crown of leaves on top."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "a pineapple",
+          "is_correct": true,
+          "feedback": "Correct. A pineapple is yellow, sweet and has green leaves on top like a crown."
+        },
+        {
+          "letter": "C",
+          "text": "a watermelon",
           "is_correct": false,
-          "feedback": "'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle."
+          "feedback": "Incorrect. A watermelon is green outside and red inside, and it has no crown."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "a grape",
           "is_correct": false,
-          "feedback": "'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle."
+          "feedback": "Incorrect. A grape is very small and grows in groups; it has no leaves like a crown."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Hay que usar todas las pistas: amarilla, dulce (\"sweet\") y con hojas verdes arriba como una corona (\"crown\"). Esa fruta es la piña, \"pineapple\". El limón (\"lemon\") es ácido y la sandía (\"watermelon\") es roja por dentro.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.6,
       "bundle_id": "CO-ING-3-2026-W20-repaso-p4-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-3-2026-W20-repaso-p4-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Leo makes a salad with lettuce, onion and one more vegetable. It is long and orange. Rabbits love it.\" What is the vegetable?",
+      "context": "Leo prepara una ensalada para el almuerzo en su casa de Tunja.",
       "options": [
         {
-          "letter": "D",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "a potato",
           "is_correct": false,
-          "feedback": "'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in."
+          "feedback": "Incorrect. A potato is a brown, round vegetable, not long and orange."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "a cucumber",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for your plane, not the place where your belongings are inspected."
+          "feedback": "Incorrect. A cucumber is long, but it is green, not orange."
         },
         {
           "letter": "C",
-          "text": "gate",
+          "text": "a strawberry",
           "is_correct": false,
-          "feedback": "'gate' is the door at the plane you walk through to board, not the place where officials check your things."
+          "feedback": "Incorrect. A strawberry is a small red fruit, not a long orange vegetable."
+        },
+        {
+          "letter": "D",
+          "text": "a carrot",
+          "is_correct": true,
+          "feedback": "Correct. A carrot is a long orange vegetable and rabbits love to eat it."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "explanation": "La verdura es larga (\"long\") y naranja (\"orange\"), y a los conejos les encanta: es la zanahoria, \"carrot\". El pepino (\"cucumber\") también es largo pero es verde, y la fresa (\"strawberry\") es una fruta.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.56,
       "bundle_id": "CO-ING-3-2026-W20-repaso-p4-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-3-2026-W20-repaso-p4-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Juan gets up at six. He takes a shower and gets dressed. Then he has breakfast and goes to school.\" What does Juan do BEFORE he has breakfast?",
+      "context": "Juan estudia en un colegio de Manizales y cuenta su rutina de la mañana.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
+          "text": "He gets dressed.",
           "is_correct": true,
-          "feedback": "Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane."
+          "feedback": "Correct. The text says he gets dressed and then he has breakfast, so dressing comes first."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "He goes to school.",
           "is_correct": false,
-          "feedback": "'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline."
+          "feedback": "Incorrect. He goes to school after breakfast, as the word \"then\" in the text shows."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "He goes to bed.",
           "is_correct": false,
-          "feedback": "'receipt' is the proof that you paid for something, which is not permission to board a plane."
+          "feedback": "Incorrect. The text describes the morning; going to bed happens at night and is not mentioned."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "He does his homework.",
           "is_correct": false,
-          "feedback": "'brochure' is a leaflet with tourist information, not a travel document issued to a passenger."
+          "feedback": "Incorrect. Homework is not part of the text, so we cannot say he does it before breakfast."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "explanation": "La palabra \"before\" significa \"antes de\". En el texto, Juan se levanta, se baña y se viste (\"gets dressed\") y luego (\"then\") desayuna. Ir al colegio ocurre después del desayuno, no antes.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Comprension lectora",
+      "expected_success": 0.5,
       "bundle_id": "CO-ING-3-2026-W20-repaso-p4-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-3-2026-W20-repaso-p4-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read the dialogue.\nMom: \"It is eight o'clock at night. What do you do now?\"\nAna: \"___\"",
+      "context": "Son las ocho de la noche en la casa de Ana en Neiva y su mamá le pregunta qué hace.",
       "options": [
         {
-          "letter": "D",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' means visiting the places of interest of a location as a traveler."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place."
+          "text": "I brush my teeth and go to bed.",
+          "is_correct": true,
+          "feedback": "Correct. At night, before sleeping, people brush their teeth and go to bed."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "I wake up and eat breakfast.",
           "is_correct": false,
-          "feedback": "'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city."
+          "feedback": "Incorrect. We wake up and eat breakfast in the morning, not at eight at night."
         },
         {
           "letter": "C",
-          "text": "camping",
+          "text": "I go to school by bus.",
           "is_correct": false,
-          "feedback": "'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place."
+          "feedback": "Incorrect. Children go to school in the morning, so this does not fit eight at night."
+        },
+        {
+          "letter": "D",
+          "text": "I have lunch at school.",
+          "is_correct": false,
+          "feedback": "Incorrect. Lunch is at midday, around twelve, not at eight o'clock at night."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
+      "correct_answer": "A",
+      "explanation": "La pista es \"at night\" (de noche). La respuesta debe ser una actividad nocturna: \"brush my teeth\" (cepillarse los dientes) y \"go to bed\" (irse a dormir). Desayunar o ir al colegio son actividades de la mañana.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.45,
       "bundle_id": "CO-ING-3-2026-W20-repaso-p4-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",

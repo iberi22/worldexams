@@ -40,8 +40,6 @@ El artículo 103 de la Constitución enumera los mecanismos de participación ci
   <!-- feedback: Correcto. El plebiscito es uno de los mecanismos del artículo 103. -->
 - [ ] C) El control fiscal posterior
   <!-- feedback: El control fiscal lo ejerce la Contraloría; no figura en el artículo 103. -->
-
-
 - [ ] D) La delegación legislativa en el Presidente sin límites
   <!-- feedback: Las facultades extraordinarias tienen límites de tiempo y materia; no son participación ciudadana. -->
 
@@ -61,10 +59,10 @@ La expresión "democracia participativa" en el artículo 1 significa que la ciud
 ### Opciones
 - [ ] A) Solo interviene votando cada cuatro años
   <!-- feedback: Eso describiría una democracia puramente representativa, superada por el modelo de 1991. -->
-- [x] C) Puede intervenir directamente en decisiones públicas mediante mecanismos distintos al voto, además de elegir gobernantes
-  <!-- feedback: Correcto. La participación se suma a la representación en el modelo de 1991. -->
 - [ ] B) Debe afiliarse a un partido para ser escuchada por el Estado
   <!-- feedback: La participación no exige militancia partidista; los mecanismos son transversales. -->
+- [x] C) Puede intervenir directamente en decisiones públicas mediante mecanismos distintos al voto, además de elegir gobernantes
+  <!-- feedback: Correcto. La participación se suma a la representación en el modelo de 1991. -->
 - [ ] D) Gobierna mediante asambleas permanentes en cada barrio
   <!-- feedback: No existe la obligación constitucional de asambleas barriales permanentes; los mecanismos tienen reglas puntuales. -->
 
@@ -132,10 +130,10 @@ El mecanismo de participación diseñado para dar por terminado el mandato de un
   <!-- feedback: La moción de censura existe para ministros y no es aplicable como mecanismo de salida popular de mandatarios locales. -->
 - [ ] B) La vacancia administrativa decretada por el Presidente
   <!-- feedback: La falta absoluta por causas judiciales o disciplinarias es distinta; la revocatoria nace de la voluntad popular. -->
-- [x] D) La revocatoria del mandato, por iniciativa de un número de ciudadanos no inferior al 40 % de los votantes de la elección y con umbral de participación y aprobación mayoritarios
-  <!-- feedback: Correcto. El artículo 103, numeral 6, y la Ley 1757 de 2015 configuran la revocatoria del mandato. -->
 - [ ] C) El juicio político ante el Senado sin participación popular
   <!-- feedback: El juicio político parlamentario no aplica a gobernadores y alcaldes en el sistema presidencial colombiano. -->
+- [x] D) La revocatoria del mandato, por iniciativa de un número de ciudadanos no inferior al 40 % de los votantes de la elección y con umbral de participación y aprobación mayoritarios
+  <!-- feedback: Correcto. El artículo 103, numeral 6, y la Ley 1757 de 2015 configuran la revocatoria del mandato. -->
 
 ### Explicacion Pedagogica
 La revocatoria del mandato es el mecanismo de control político popular por excelencia: la ciudadanía que eligió puede retirar el mandato por incumplimiento del programa. Debe promoverla al menos el 40 % de los votantes de esa elección y, para prosperar, se exige participación no inferior al 40 % del censo y mayoría absoluta de votos. Su escaso uso efectivo ha abierto debate sobre sus umbrales.
@@ -151,14 +149,12 @@ La revocatoria del mandato es el mecanismo de control político popular por exce
 Para que los ciudadanos presenten directamente proyectos de ley o acuerdos ante corporaciones públicas, el mecanismo del artículo 103, numeral 4, es
 
 ### Opciones
-- [x] B) La iniciativa legislativa popular
-  <!-- feedback: Correcto. Es el derecho de los ciudadanos, organizados o por firmas, de presentar proyectos normativos. -->
 - [ ] A) El derecho de petición colectivo sin firmas
   <!-- feedback: La petición no crea proyectos normativos obligatorios para su debate; la iniciativa sí obliga a radicarlo. -->
+- [x] B) La iniciativa legislativa popular
+  <!-- feedback: Correcto. Es el derecho de los ciudadanos, organizados o por firmas, de presentar proyectos normativos. -->
 - [ ] C) El referendo derogatorio de oficio
   <!-- feedback: El referendo derogatorio requiere iniciativa presidencial y aprobación legislativa previa, no es el caso planteado. -->
-
-
 - [ ] D) La rendición de cuentas obligatoria al Congreso
   <!-- feedback: La rendición de cuentas informa y exige explicaciones; no introduce proyectos normativos. -->
 
@@ -178,12 +174,10 @@ La consulta al pueblo para que se pronuncie sobre una cuestión de trascendencia
 ### Opciones
 - [ ] A) Plebiscito
   <!-- feedback: El plebiscito convoca al pueblo para apoyar o rechazar una decisión del Ejecutivo, no para una pregunta normativa general. -->
-- [x] C) Referendo consultivo
-  <!-- feedback: Correcto. El referendo consultivo somete al pueblo preguntas de trascendencia nacional para que se pronuncie. -->
 - [ ] B) Consulta previa
   <!-- feedback: La consulta previa es específica de comunidades étnicas afectadas por medidas con impacto directo en sus territorios. -->
-
-
+- [x] C) Referendo consultivo
+  <!-- feedback: Correcto. El referendo consultivo somete al pueblo preguntas de trascendencia nacional para que se pronuncie. -->
 - [ ] D) Veeduría especial
   <!-- feedback: Las veedurías vigilan la gestión; no formulan preguntas vinculantes al electorado. -->
 
@@ -201,14 +195,12 @@ Los artículos 103 y siguientes distinguen: el plebiscito apoya o rechaza decisi
 El instrumento legal de participación y control social creado por la Ley 850 de 2003 para vigilar la gestión pública es
 
 ### Opciones
-- [ ] B) El voto programático
-  <!-- feedback: El voto programático es un derecho del elector frente al elegido, no una organización de vigilancia. -->
 - [x] A) La veeduría ciudadana
   <!-- feedback: Correcto. La Ley 850 de 2003 regula las veedurías ciudadanas como forma de control social. -->
+- [ ] B) El voto programático
+  <!-- feedback: El voto programático es un derecho del elector frente al elegido, no una organización de vigilancia. -->
 - [ ] C) La personería municipal
   <!-- feedback: La personería es un órgano del Ministerio Público, no una organización ciudadana. -->
-
-
 - [ ] D) El concejo de gobierno departamental
   <!-- feedback: Es un espacio de coordinación administrativa del gobernador, no de vigilancia ciudadana. -->
 
@@ -228,12 +220,10 @@ El mecanismo de participación de carácter especial, exigido por el artículo 1
 ### Opciones
 - [ ] A) El cabildo abierto municipal ordinario
   <!-- feedback: El cabildo abierto es general; la consulta a comunidades étnicas es previa, libre e informada y con protocolos propios. -->
-- [ ] C) El referendo nacional derogatorio
-  <!-- feedback: El referendo no sustituye la obligación estatal de consultar a los afectados directos. -->
 - [x] B) La consulta previa, libre e informada
   <!-- feedback: Correcto. Es el estándar del Convenio 169 de la OIT ratificado por Colombia y incorporado por la Corte Constitucional. -->
-
-
+- [ ] C) El referendo nacional derogatorio
+  <!-- feedback: El referendo no sustituye la obligación estatal de consultar a los afectados directos. -->
 - [ ] D) La veeduría ciudadana especial de minas
   <!-- feedback: Las veedurías vigilan la ejecución; no son el mecanismo de consentimiento comunitario. -->
 
@@ -251,14 +241,12 @@ La consulta previa es un derecho fundamental de origen constitucional y convenci
 El día sin carro y la jornada de reflexión, los jurados de votación y la financiación de campañas buscan proteger la libertad del elector. En Colombia, la Constitución define el voto como
 
 ### Opciones
-- [x] C) Un derecho personal del ciudadano cuya inscripción y ejercicio garantizan los organismos electorales, sin consagrar el voto obligatorio
-  <!-- feedback: Correcto. El artículo 258 lo define como derecho personal; el voto no es obligatorio en el texto constitucional. -->
 - [ ] A) Un deber sancionado con multa inmediata por la Registraduría
   <!-- feedback: Colombia no impone sanciones económicas generales por no votar. -->
 - [ ] B) Una concesión graciosa del Presidente de la República
   <!-- feedback: El voto es un derecho ciudadano preconstitucional y garantizado, no una concesión del Ejecutivo. -->
-
-
+- [x] C) Un derecho personal del ciudadano cuya inscripción y ejercicio garantizan los organismos electorales, sin consagrar el voto obligatorio
+  <!-- feedback: Correcto. El artículo 258 lo define como derecho personal; el voto no es obligatorio en el texto constitucional. -->
 - [ ] D) Un privilegio exclusivo de quienes tienen título profesional
   <!-- feedback: La ciudadanía política es universal para los nacionales mayores de edad; no depende de títulos. -->
 
@@ -278,12 +266,10 @@ El análisis más completo del plebiscito de 2016 sobre los Acuerdos de Paz conc
 ### Opciones
 - [ ] A) Un rechazo mayoritario de todos los colombianos al fin del conflicto armado
   <!-- feedback: La diferencia fue estrecha y las encuestas posteriores mostraron mayorías a favor de la paz; no hubo unanimidad. -->
-- [x] C) Una combinación de desinformación sobre el contenido del acuerdo, abstención alta, voto de castigo y clivajes regionales
-  <!-- feedback: Correcto. La literatura explica el resultado por factores múltiples, no por una sola causa. -->
 - [ ] B) Una decisión judicial que anuló las negociaciones de La Habana
   <!-- feedback: Ningún tribunal anuló el proceso; el acuerdo final se firmó en Cartagena el 24 de noviembre de 2016. -->
-
-
+- [x] C) Una combinación de desinformación sobre el contenido del acuerdo, abstención alta, voto de castigo y clivajes regionales
+  <!-- feedback: Correcto. La literatura explica el resultado por factores múltiples, no por una sola causa. -->
 - [ ] D) Un mandato automático de renegociación total con nuevas condiciones
   <!-- feedback: La renegociación fue decisión política del Gobierno con los voceros del No, no un mandato automático del mecanismo. -->
 
@@ -324,16 +310,14 @@ La Constitución protege la reunión pacífica (artículo 21, 37 y 39) y los acu
 Los consejos de planificación y las instancias sectoriales de participación institucional evidencian que la participación en Colombia funciona además mediante
 
 ### Opciones
-- [x] D) Cuerpos colectivos y organizaciones con presencia reglada en la gestión pública, como las Juntas de Acción Comunal y los consejos temáticos
-  <!-- feedback: Correcto. La participación asociativa y orgánica es componente estructural del sistema participativo. -->
 - [ ] A) Solo decretos presidenciales sin intervención ciudadana
   <!-- feedback: Los decretos son actos del Ejecutivo; la participación orgánica requiere presencia social efectiva. -->
 - [ ] B) Voto obligatorio para afiliarse a las Juntas de Acción Comunal
   <!-- feedback: La afiliación a las JAC es voluntaria; se rige por la Ley 176 de 1994. -->
-
-
 - [ ] C) La eliminación del nivel municipal de gobierno
   <!-- feedback: El municipio es entidad territorial fundamental (artículo 313); no se elimina. -->
+- [x] D) Cuerpos colectivos y organizaciones con presencia reglada en la gestión pública, como las Juntas de Acción Comunal y los consejos temáticos
+  <!-- feedback: Correcto. La participación asociativa y orgánica es componente estructural del sistema participativo. -->
 
 ### Explicacion Pedagogica
 La participación no se agota en los mecanismos del artículo 103: se despliega en la acción comunal (Ley 176 de 1994), los consejos consultivos, las juntas de educación, los consejos territoriales de política social y las mesas sectoriales. Este entramado asociativo es la "democracia orgánica" que articula ciudadanía y Estado, y cuya debilidad o captura clientelista condiciona su efectividad real.
@@ -351,14 +335,12 @@ La participación mediada por tecnologías digitales, evaluada desde la Constitu
 ### Opciones
 - [ ] A) Reemplazar completamente el voto presencial por aplicaciones privadas sin auditoría
   <!-- feedback: El reemplazo sin control comprometería la transparencia del artículo 258 y la confianza electoral. -->
-- [x] D) Garantizar autenticación, trazabilidad, inclusión y supervisión pública (Registraduría), junto con protección de datos personales
-  <!-- feedback: Correcto. La digitalización participativa exige garantías técnicas y de derechos. -->
 - [ ] B) Reservarla exclusivamente a funcionarios de libre nombramiento y remoción
   <!-- feedback: La participación es un derecho ciudadano general, no una prerrogativa burocrática. -->
-
-
 - [ ] C) Eliminar la identidad digital de los menores de edad
   <!-- feedback: La protección de menores se rige por el interés superior; no es el asunto central de la participación digital. -->
+- [x] D) Garantizar autenticación, trazabilidad, inclusión y supervisión pública (Registraduría), junto con protección de datos personales
+  <!-- feedback: Correcto. La digitalización participativa exige garantías técnicas y de derechos. -->
 
 ### Explicacion Pedagogica
 La Ley 1757 de 2015 previó el uso de medios electrónicos para mecanismos de participación y la Registraduría ha impulsado la identificación biométrica y plataformas de rendición de cuentas. El análisis crítico debe ponderar la brecha digital —desigualdad de acceso— y los riesgos de manipulación algorítmica, porque la tecnología amplifica la participación solo si democratiza el acceso y audita el poder.
@@ -374,14 +356,12 @@ La Ley 1757 de 2015 previó el uso de medios electrónicos para mecanismos de pa
 El umbral de participación exigido para que una revocatoria del mandato prospere busca constitucionalmente
 
 ### Opciones
-- [ ] B) Impedir todo control ciudadano sobre los mandatarios locales
-  <!-- feedback: El umbral no prohíbe la revocatoria; exige legitimidad mayoritaria y participación real. -->
 - [x] A) Que el retiro del mandato cuente con base democrática comparable a la investidura popular originaria
   <!-- feedback: Correcto. Se evita que minorías organizadas destituyan mandatarios elegidos por muchos. -->
+- [ ] B) Impedir todo control ciudadano sobre los mandatarios locales
+  <!-- feedback: El umbral no prohíbe la revocatoria; exige legitimidad mayoritaria y participación real. -->
 - [ ] C) Asegurar que solo los partidos mayoritarios promuevan revocatorias
   <!-- feedback: Los promotores son ciudadanos, sin exigencia de filiación partidista. -->
-
-
 - [ ] D) Reducir el gasto público en organización electoral
   <!-- feedback: El ahorro no es la razón de fondo del umbral; lo es la calidad de la legitimidad del resultado. -->
 
@@ -401,12 +381,10 @@ El voto programático del artículo 258 y las listas con cremallera (alternancia
 ### Opciones
 - [ ] A) Priorizar la lealtad partidista sobre la deliberación de propuestas
   <!-- feedback: Las cremallera y el voto programático pretenden lo contrario: proposals sobre maquinarias. -->
-- [x] C) Vincular al elegido con su programa y promover representación plural de mujeres en las corporaciones públicas
-  <!-- feedback: Correcto. El voto programático liga al elegido al programa inscrito; la alternancia amplía participación femenina. -->
 - [ ] B) Excluir de candidaturas a los movimientos alternativos
   <!-- feedback: Las reglas de listas y umbrales no excluyen movimientos; el estatuto de la oposición protege su participación. -->
-
-
+- [x] C) Vincular al elegido con su programa y promover representación plural de mujeres en las corporaciones públicas
+  <!-- feedback: Correcto. El voto programático liga al elegido al programa inscrito; la alternancia amplía participación femenina. -->
 - [ ] D) Otorgar escaños automáticos al partido del Presidente
   <!-- feedback: No existe asignación automática de curules por la Presidencia en el sistema colombiano. -->
 
@@ -430,8 +408,6 @@ Para evaluar el estado de la democracia participativa colombiana, el juicio más
   <!-- feedback: Correcto. Es un balance honesto entre norma y realidad social. -->
 - [ ] C) La participación directa es innecesaria porque el Congreso la representa toda
   <!-- feedback: El constituyente de 1991 rechazó precisamente ese reduccionismo representativo. -->
-
-
 - [ ] D) La abstención electoral es insignificante en Colombia
   <!-- feedback: La abstención histórica presidencial y legislativa supera el 40-50 %; es un problema estructural documentado. -->
 
@@ -451,12 +427,10 @@ La defensa más sólida de los presupuestos participativos como profundización 
 ### Opciones
 - [ ] A) Sustituyen la autoridad del alcalde en el manejo de recursos
   <!-- feedback: No sustituyen al ejecutivo: complementan con decisión compartida sobre porciones del gasto. -->
-- [ ] C) Eliminan la necesidad de controlar la corrupción
-  <!-- feedback: La vigilancia sigue siendo necesaria; el diseño reduce opacidad pero no borra el control. -->
 - [x] B) Transforman a la ciudadanía de beneficiaria en codesisora del gasto, con pedagogía republicana y redistribución más legítima
   <!-- feedback: Correcto. Su valor es epistémico y normativo: aprenden a decidir quienes pagan impuestos. -->
-
-
+- [ ] C) Eliminan la necesidad de controlar la corrupción
+  <!-- feedback: La vigilancia sigue siendo necesaria; el diseño reduce opacidad pero no borra el control. -->
 - [ ] D) Garantizan automáticamente mayor crecimiento económico de la ciudad
   <!-- feedback: El efecto sobre el crecimiento es contingente, no automático; su núcleo es la legitimidad deliberativa. -->
 
@@ -476,12 +450,10 @@ La propuesta de flexibilizar los umbrales de participación, evaluada desde la t
 ### Opciones
 - [ ] A) La supresión del registro electoral para agilizar conteos
   <!-- feedback: Sin registro no hay certeza de la voluntad popular; agravaría la crisis de legitimidad. -->
-- [x] C) Deliberación pública de calidad, información verificada y controles antidinero, para que menos requisitos no signifiquen menos democracia
-  <!-- feedback: Correcto. Umbrales bajos sin deliberación habilitan manipulación; la condición es la calidad del proceso. -->
 - [ ] B) La obligatoriedad de votar en todos los mecanismos
   <!-- feedback: Hacer obligatorio lo que es participativo altera el diseño y no resuelve el problema informacional. -->
-
-
+- [x] C) Deliberación pública de calidad, información verificada y controles antidinero, para que menos requisitos no signifiquen menos democracia
+  <!-- feedback: Correcto. Umbrales bajos sin deliberación habilitan manipulación; la condición es la calidad del proceso. -->
 - [ ] D) El voto preferente sin listas para garantizar transparencia
   <!-- feedback: El voto preferente fragmentó cohesiones programáticas; fue eliminado por la reforma de 2015 por sus efectos clientelares. -->
 
@@ -501,12 +473,10 @@ El vínculo entre participación ciudadana y construcción de paz, según la evi
 ### Opciones
 - [ ] A) La paz se consolida excluyendo a la sociedad civil de las decisiones locales
   <!-- feedback: La exclusión reproduce las causas del conflicto; los PDET nacieron justamente para lo contrario. -->
-- [ ] C) La participación es accesoria: basta con el desarme de los grupos armados
-  <!-- feedback: El desarme sin transformación institucional deja vacíos de gobernanza y conflictividad social. -->
 - [x] B) Los espacios de participación, como los programas de desarrollo con enfoque territorial construidos con comunidades, son condición de sostenibilidad de la paz porque legitiman el Estado donde hubo conflicto
   <!-- feedback: Correcto. La territorialización participativa de la paz es lección central del Acuerdo de 2016. -->
-
-
+- [ ] C) La participación es accesoria: basta con el desarme de los grupos armados
+  <!-- feedback: El desarme sin transformación institucional deja vacíos de gobernanza y conflictividad social. -->
 - [ ] D) Los consejos consultivos de paz carecen por completo de función institucional
   <!-- feedback: Los consejos municipales de paz son parte del diseño normativo de implementación; su debilidad no es inexistencia. -->
 

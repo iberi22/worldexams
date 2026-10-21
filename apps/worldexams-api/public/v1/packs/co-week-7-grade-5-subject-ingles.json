@@ -13,12 +13,6 @@
       "context": "On a cold morning in Bogota, a girl puts on a warm jacket before going to school.",
       "options": [
         {
-          "letter": "D",
-          "text": "Jacket.",
-          "is_correct": true,
-          "feedback": "A jacket is a warm outer piece of clothing worn in cold weather."
-        },
-        {
           "letter": "A",
           "text": "Shorts.",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "Cap.",
           "is_correct": false,
           "feedback": "A cap protects from the sun, but it does not keep the body warm."
+        },
+        {
+          "letter": "D",
+          "text": "Jacket.",
+          "is_correct": true,
+          "feedback": "A jacket is a warm outer piece of clothing worn in cold weather."
         }
       ],
       "correct_answer": "D",
@@ -59,12 +59,6 @@
       "context": "Read: \"It is a sunny day in Cartagena. Laura wears a T-shirt and shorts because it is very hot.\"",
       "options": [
         {
-          "letter": "D",
-          "text": "Because it is a sunny and very hot day in Cartagena.",
-          "is_correct": true,
-          "feedback": "The text directly states that the sunny hot weather is the reason for her clothes."
-        },
-        {
           "letter": "A",
           "text": "Because it is a cold morning with rain.",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "Because she likes winter and snow.",
           "is_correct": false,
           "feedback": "Winter and snow are not part of the Cartagena context."
+        },
+        {
+          "letter": "D",
+          "text": "Because it is a sunny and very hot day in Cartagena.",
+          "is_correct": true,
+          "feedback": "The text directly states that the sunny hot weather is the reason for her clothes."
         }
       ],
       "correct_answer": "D",
@@ -105,12 +105,6 @@
       "context": "It is the rainy season in Medellin. A boy looks at the dark clouds and takes his umbrella.",
       "options": [
         {
-          "letter": "D",
-          "text": "He takes his umbrella because it is the rainy season.",
-          "is_correct": true,
-          "feedback": "\"Takes\" agrees with the third person singular subject \"he\"."
-        },
-        {
           "letter": "A",
           "text": "He take his umbrella because it is the rainy season.",
           "is_correct": false,
@@ -127,6 +121,12 @@
           "text": "He takes his umbrellas because it is the rainy season.",
           "is_correct": false,
           "feedback": "\"Umbrellas\" in plural is incorrect; he takes one umbrella."
+        },
+        {
+          "letter": "D",
+          "text": "He takes his umbrella because it is the rainy season.",
+          "is_correct": true,
+          "feedback": "\"Takes\" agrees with the third person singular subject \"he\"."
         }
       ],
       "correct_answer": "D",
@@ -243,16 +243,16 @@
       "context": "Read: \"Sofia packs a suitcase for Cartagena: T-shirts, shorts, and sandals. For Bogota she packs a jacket, a sweater, and boots.\"",
       "options": [
         {
-          "letter": "B",
-          "text": "Light clothes for hot Cartagena and warm clothes for cold Bogota.",
-          "is_correct": true,
-          "feedback": "The text lists T-shirts and shorts for Cartagena and jacket, sweater and boots for Bogota."
-        },
-        {
           "letter": "A",
           "text": "A jacket and boots for Cartagena and shorts for Bogota.",
           "is_correct": false,
           "feedback": "The suitcase lists are reversed; warm clothes are for Bogota, not Cartagena."
+        },
+        {
+          "letter": "B",
+          "text": "Light clothes for hot Cartagena and warm clothes for cold Bogota.",
+          "is_correct": true,
+          "feedback": "The text lists T-shirts and shorts for Cartagena and jacket, sweater and boots for Bogota."
         },
         {
           "letter": "C",
@@ -289,16 +289,16 @@
       "context": "Compare two children: \"Diego wears shorts and a T-shirt in sunny Santa Marta. Camilo wears a sweater, a jacket, and boots on a cold morning in Tunja.\"",
       "options": [
         {
-          "letter": "B",
-          "text": "Diego dresses for hot sunny weather, while Camilo dresses for cold weather.",
-          "is_correct": true,
-          "feedback": "Shorts and T-shirt suit heat, while sweater, jacket and boots suit cold."
-        },
-        {
           "letter": "A",
           "text": "Diego also wears a sweater and boots in the heat.",
           "is_correct": false,
           "feedback": "The text says Diego wears shorts and a T-shirt, not warm clothes."
+        },
+        {
+          "letter": "B",
+          "text": "Diego dresses for hot sunny weather, while Camilo dresses for cold weather.",
+          "is_correct": true,
+          "feedback": "Shorts and T-shirt suit heat, while sweater, jacket and boots suit cold."
         },
         {
           "letter": "C",
@@ -336,9 +336,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "People in Colombia choose their clothes according to the weather and the season.",
-          "is_correct": true,
-          "feedback": "The text links sunny days, cold mornings and rainy season with different clothes."
+          "text": "Umbrellas and boots are only for sunny days at the beach.",
+          "is_correct": false,
+          "feedback": "The text assigns umbrellas and boots to the rainy season, not sunny days."
         },
         {
           "letter": "B",
@@ -348,9 +348,9 @@
         },
         {
           "letter": "C",
-          "text": "Umbrellas and boots are only for sunny days at the beach.",
-          "is_correct": false,
-          "feedback": "The text assigns umbrellas and boots to the rainy season, not sunny days."
+          "text": "People in Colombia choose their clothes according to the weather and the season.",
+          "is_correct": true,
+          "feedback": "The text links sunny days, cold mornings and rainy season with different clothes."
         },
         {
           "letter": "D",
@@ -359,7 +359,7 @@
           "feedback": "The paragraph says jackets and sweaters are worn on cold Bogota mornings."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluating the main message of a short expository paragraph about clothes and weather in Colombia.",
       "difficulty": "10",
       "images": [],

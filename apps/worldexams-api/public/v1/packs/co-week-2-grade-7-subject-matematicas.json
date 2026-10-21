@@ -13,12 +13,6 @@
       "context": "En la estructura de un techo en Armenia, dos ángulos internos de un triángulo miden $50^\\circ$ y $70^\\circ$.",
       "options": [
         {
-          "letter": "D",
-          "text": "$60^\\circ$",
-          "is_correct": true,
-          "feedback": "Correcto. La suma de ángulos internos es $180^\\circ$: $180 - (50 + 70) = 60^\\circ$."
-        },
-        {
           "letter": "A",
           "text": "$70^\\circ$",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "$80^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la resta $180 - 120$."
+        },
+        {
+          "letter": "D",
+          "text": "$60^\\circ$",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de ángulos internos es $180^\\circ$: $180 - (50 + 70) = 60^\\circ$."
         }
       ],
       "correct_answer": "D",
@@ -59,12 +59,6 @@
       "context": "En un parque de Santa Marta, un terreno triangular tiene dos lados de igual longitud ($8\\text{ m}$) y un ángulo entre ellos de $40^\\circ$.",
       "options": [
         {
-          "letter": "D",
-          "text": "Isósceles",
-          "is_correct": true,
-          "feedback": "Correcto. Tiene dos lados de igual medida."
-        },
-        {
           "letter": "A",
           "text": "Equilátero",
           "is_correct": false,
@@ -81,6 +75,12 @@
           "text": "Rectángulo",
           "is_correct": false,
           "feedback": "Incorrecto. Ninguno de sus ángulos es de $90^\\circ$."
+        },
+        {
+          "letter": "D",
+          "text": "Isósceles",
+          "is_correct": true,
+          "feedback": "Correcto. Tiene dos lados de igual medida."
         }
       ],
       "correct_answer": "D",
@@ -151,12 +151,6 @@
       "context": "En un mapa topográfico de Popayán, un triángulo tiene un ángulo externo de $125^\\circ$ adyacente a un ángulo interno.",
       "options": [
         {
-          "letter": "D",
-          "text": "$55^\\circ$",
-          "is_correct": true,
-          "feedback": "Correcto. Son suplementarios: $180 - 125 = 55^\\circ$."
-        },
-        {
           "letter": "A",
           "text": "$65^\\circ$",
           "is_correct": false,
@@ -173,6 +167,12 @@
           "text": "$125^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. El ángulo externo no es igual al interno adyacente."
+        },
+        {
+          "letter": "D",
+          "text": "$55^\\circ$",
+          "is_correct": true,
+          "feedback": "Correcto. Son suplementarios: $180 - 125 = 55^\\circ$."
         }
       ],
       "correct_answer": "D",
@@ -197,16 +197,16 @@
       "context": "Un diseñador en Pasto crea un triángulo isósceles cuyo ángulo diferente (vértice) mide $40^\\circ$.",
       "options": [
         {
-          "letter": "B",
-          "text": "$70^\\circ$",
-          "is_correct": true,
-          "feedback": "Correcto. $(180 - 40) / 2 = 140 / 2 = 70^\\circ$."
-        },
-        {
           "letter": "A",
           "text": "$80^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. $80 \\times 2 + 40 = 200 \\neq 180$."
+        },
+        {
+          "letter": "B",
+          "text": "$70^\\circ$",
+          "is_correct": true,
+          "feedback": "Correcto. $(180 - 40) / 2 = 140 / 2 = 70^\\circ$."
         },
         {
           "letter": "C",
@@ -243,16 +243,16 @@
       "context": "En un triángulo $ABC$ en Neiva, los ángulos internos están expresados algebraicamente: $\\angle A = x + 10^\\circ$, $\\angle B = 2x$, $\\angle C = 3x - 10^\\circ$.",
       "options": [
         {
-          "letter": "B",
-          "text": "$80^\\circ$",
-          "is_correct": true,
-          "feedback": "Correcto. $(x+10) + 2x + (3x-10) = 180 \\implies 6x = 180 \\implies x = 30^\\circ$. Entonces $\\angle C = 3(30) - 10 = 80^\\circ$."
-        },
-        {
           "letter": "A",
           "text": "$60^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a $\\angle B$."
+        },
+        {
+          "letter": "B",
+          "text": "$80^\\circ$",
+          "is_correct": true,
+          "feedback": "Correcto. $(x+10) + 2x + (3x-10) = 180 \\implies 6x = 180 \\implies x = 30^\\circ$. Entonces $\\angle C = 3(30) - 10 = 80^\\circ$."
         },
         {
           "letter": "C",
@@ -335,12 +335,6 @@
       "context": "Un ángulo externo de un triángulo en Cúcuta mide $110^\\circ$. Los dos ángulos internos no adyacentes a él miden $x$ y $x + 10^\\circ$.",
       "options": [
         {
-          "letter": "D",
-          "text": "$60^\\circ$",
-          "is_correct": true,
-          "feedback": "Correcto. Teorema del ángulo exterior: $x + (x + 10) = 110 \\implies 2x = 100 \\implies x = 50^\\circ$. El ángulo mayor es $50 + 10 = 60^\\circ$."
-        },
-        {
           "letter": "A",
           "text": "$50^\\circ$",
           "is_correct": false,
@@ -357,6 +351,12 @@
           "text": "$55^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste $110$ entre $2$ sin restar $10$."
+        },
+        {
+          "letter": "D",
+          "text": "$60^\\circ$",
+          "is_correct": true,
+          "feedback": "Correcto. Teorema del ángulo exterior: $x + (x + 10) = 110 \\implies 2x = 100 \\implies x = 50^\\circ$. El ángulo mayor es $50 + 10 = 60^\\circ$."
         }
       ],
       "correct_answer": "D",
@@ -381,12 +381,6 @@
       "context": "En un cuadrilátero trazado en Bogotá, se traza una diagonal que lo divide en dos triángulos. Los ángulos internos del primer triángulo miden $45^\\circ$, $65^\\circ$ y $70^\\circ$. En el segundo triángulo, dos ángulos miden $55^\\circ$ y $80^\\circ$.",
       "options": [
         {
-          "letter": "D",
-          "text": "$360^\\circ$",
-          "is_correct": true,
-          "feedback": "Correcto. La suma de ángulos internos de cualquier cuadrilátero es la suma de 2 triángulos: $180^\\circ + 180^\\circ = 360^\\circ$."
-        },
-        {
           "letter": "A",
           "text": "$315^\\circ$",
           "is_correct": false,
@@ -400,12 +394,18 @@
         },
         {
           "letter": "C",
+          "text": "$360^\\circ$",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de ángulos internos de cualquier cuadrilátero es la suma de 2 triángulos: $180^\\circ + 180^\\circ = 360^\\circ$."
+        },
+        {
+          "letter": "D",
           "text": "$540^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. Es la suma de un pentágono."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": "Todo cuadrilátero se compone de $2$ triángulos, por lo que la suma de sus ángulos internos es $2 \\times 180^\\circ = 360^\\circ$.",
       "difficulty": "10",
       "images": [],

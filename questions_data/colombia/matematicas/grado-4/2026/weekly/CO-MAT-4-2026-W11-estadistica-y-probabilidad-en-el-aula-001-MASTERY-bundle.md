@@ -128,15 +128,15 @@ Para construir una tabla de datos primero se define qué se va a contar, en este
 ### Opciones
 - [ ] A) 1/5, porque hay 5 canicas azules
   <!-- feedback: Incorrecto. El 5 es el número de canicas azules, pero la probabilidad se mide sobre el total de canicas de la bolsa. -->
-- [ ] B) 1/2, porque hay la misma cantidad de canicas rojas y azules
-  <!-- feedback: Incorrecto. La mitad corresponde a la probabilidad de que salga de cualquier color, no de que salga específicamente azul. -->
-- [x] C) 1/10, porque hay 10 canicas en total y 5 son azules
-  <!-- feedback: ¡Correcto! La probabilidad es la cantidad de casos favorables sobre el total de casos, y aquí es 5 de 10. -->
+- [x] B) 1/2, porque hay la misma cantidad de canicas rojas y azules
+  <!-- feedback: Correcto. Hay 5 canicas azules de 10 en total: 5/10 = 1/2, es decir, una de cada dos veces sale azul. -->
+- [ ] C) 1/10, porque hay 10 canicas en total y 5 son azules
+  <!-- feedback: Incorrecto. 1/10 sería la probabilidad si hubiera una sola canica azul; con 5 azules de 10 la fracción es 5/10 = 1/2. -->
 - [ ] D) 2/10, porque se cuentan los colores y no las canicas
   <!-- feedback: Incorrecto. Se cuentan las canicas, no los colores, y solo hay un color favorable, que es el azul. -->
 
 ### Explicacion Pedagogica
-En un experimento de azar la probabilidad de un resultado se calcula dividiendo la cantidad de casos favorables entre la cantidad total de casos. En este caso hay 10 canicas en la bolsa y 5 son azules, así que la probabilidad de sacar una azul es 5/10, que se puede simplificar a 1/2, es decir una de cada dos. La diferencia con la opción B es importante: 1/2 sería la probabilidad de sacar cualquier color, y no la de un color específico.
+En un experimento de azar la probabilidad de un resultado se calcula dividiendo la cantidad de casos favorables entre la cantidad total de casos. En este caso hay 10 canicas en la bolsa y 5 son azules, así que la probabilidad de sacar una azul es 5/10, que se puede simplificar a 1/2, es decir una de cada dos. Un error frecuente es escribir 1/10: esa fracción cuenta un solo caso favorable, pero aquí hay cinco canicas azules.
 ---
 ## Question 6 [D7-D8]
 **ID:** CO-MAT-4-2026-W11-estadistica-y-probabilidad-en-el-aula-001-MASTERY-bundle-v6

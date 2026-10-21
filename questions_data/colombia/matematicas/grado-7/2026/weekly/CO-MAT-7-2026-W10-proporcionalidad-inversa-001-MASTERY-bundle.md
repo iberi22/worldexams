@@ -32,14 +32,15 @@ Este bundle contiene 10 preguntas sobre **proporcionalidad-inversa** para grado 
 ### Enunciado
 ¿Cuándo dos magnitudes son inversamente proporcionales?
 ### Opciones
-- [x] C) Cuando al aumentar una, la otra disminuye en la misma proporción
-  <!-- feedback: Correcto. Esa es la definición de proporcionalidad inversa. -->
 - [ ] A) Cuando al aumentar una, la otra también aumenta
   <!-- feedback: Incorrecto. Eso describe la proporcionalidad directa. -->
 - [ ] B) Cuando las dos magnitudes siempre valen lo mismo
   <!-- feedback: Incorrecto. La igualdad de valores no define la proporcionalidad. -->
+- [x] C) Cuando al aumentar una, la otra disminuye en la misma proporción
+  <!-- feedback: Correcto. Esa es la definición de proporcionalidad inversa. -->
 - [ ] D) Cuando una de las magnitudes se mantiene constante
   <!-- feedback: Incorrecto. Eso no describe ninguna relación de proporcionalidad. -->
+
 ### Explicacion Pedagogica
 Dos magnitudes son inversamente proporcionales si su producto es constante: al multiplicar una por un factor, la otra se divide entre ese mismo factor.
 
@@ -52,14 +53,15 @@ Dos magnitudes son inversamente proporcionales si su producto es constante: al m
 ### Enunciado
 ¿Cuál de las siguientes situaciones representa una proporcionalidad inversa?
 ### Opciones
-- [x] C) Más obreros en la obra, menos días para terminarla
-  <!-- feedback: Correcto. Al aumentar los obreros, el tiempo necesario disminuye. -->
 - [ ] A) Más cuadernos comprados, mayor costo total
   <!-- feedback: Incorrecto. Ambas magnitudes aumentan juntas: es directa. -->
 - [ ] B) Más velocidad de un carro, mayor distancia recorrida en una hora
   <!-- feedback: Incorrecto. A mayor velocidad, mayor distancia: es directa. -->
+- [x] C) Más obreros en la obra, menos días para terminarla
+  <!-- feedback: Correcto. Al aumentar los obreros, el tiempo necesario disminuye. -->
 - [ ] D) Más edad de una persona, mayor estatura siempre
   <!-- feedback: Incorrecto. No hay una relación proporcional constante entre ellas. -->
+
 ### Explicacion Pedagogica
 En la opción correcta el producto (obreros $\times$ días) se mantiene constante, que es la señal de la proporcionalidad inversa.
 
@@ -80,6 +82,7 @@ En la opción correcta el producto (obreros $\times$ días) se mantiene constant
   <!-- feedback: Incorrecto. Restaste los $2$ obreros extra de los $12$ días. -->
 - [ ] D) $18$ días
   <!-- feedback: Incorrecto. Multiplicaste en lugar de repartir el trabajo constante. -->
+
 ### Explicacion Pedagogica
 El trabajo total es $4 \times 12 = 48$ unidades obrero-día. Con $6$ obreros: $48 \div 6 = 8$ días.
 
@@ -92,14 +95,15 @@ El trabajo total es $4 \times 12 = 48$ unidades obrero-día. Con $6$ obreros: $4
 ### Enunciado
 ¿Cuánto tarda el viaje a $90\text{ km/h}$?
 ### Opciones
-- [x] D) $2$ horas
-  <!-- feedback: Correcto. Distancia $60 \times 3 = 180\text{ km}$; tiempo $180 \div 90 = 2$. -->
 - [ ] A) $1.5$ horas
   <!-- feedback: Incorrecto. Error al dividir la distancia constante entre $90$. -->
 - [ ] B) $4.5$ horas
   <!-- feedback: Incorrecto. Multiplicaste por el factor en lugar de dividir. -->
 - [ ] C) $3$ horas
   <!-- feedback: Incorrecto. A mayor velocidad, el tiempo debe disminuir. -->
+- [x] D) $2$ horas
+  <!-- feedback: Correcto. Distancia $60 \times 3 = 180\text{ km}$; tiempo $180 \div 90 = 2$. -->
+
 ### Explicacion Pedagogica
 Velocidad y tiempo son inversamente proporcionales cuando la distancia es fija: $60 \times 3 = 90 \times t$, de donde $t = 2$ horas.
 
@@ -120,6 +124,7 @@ Velocidad y tiempo son inversamente proporcionales cuando la distancia es fija: 
   <!-- feedback: Incorrecto. Multiplicaste en lugar de dividir el volumen constante. -->
 - [ ] D) $20$ minutos
   <!-- feedback: Incorrecto. Supusiste el doble de grifos, pero son $8$, no $10$. -->
+
 ### Explicacion Pedagogica
 El volumen equivale a $5 \times 40 = 200$ unidades grifo-minuto. Con $8$ grifos: $200 \div 8 = 25$ minutos.
 
@@ -132,14 +137,15 @@ El volumen equivale a $5 \times 40 = 200$ unidades grifo-minuto. Con $8$ grifos:
 ### Enunciado
 ¿Cuál es la constante de proporcionalidad (obreros $\times$ días)?
 ### Opciones
-- [x] D) $48$
-  <!-- feedback: Correcto. $2 \times 24 = 48$, $4 \times 12 = 48$ y $8 \times 6 = 48$. -->
 - [ ] A) $26$
   <!-- feedback: Incorrecto. Sumaste $2 + 24$ en lugar de multiplicar. -->
 - [ ] B) $12$
   <!-- feedback: Incorrecto. Tomaste solo uno de los valores de la tabla. -->
 - [ ] C) $24$
   <!-- feedback: Incorrecto. Confundiste un dato de la tabla con la constante. -->
+- [x] D) $48$
+  <!-- feedback: Correcto. $2 \times 24 = 48$, $4 \times 12 = 48$ y $8 \times 6 = 48$. -->
+
 ### Explicacion Pedagogica
 En la proporcionalidad inversa el producto es constante: $2 \times 24 = 4 \times 12 = 8 \times 6 = 48$.
 
@@ -152,14 +158,15 @@ En la proporcionalidad inversa el producto es constante: $2 \times 24 = 4 \times
 ### Enunciado
 ¿En cuántos días se completará el pedido con las $6$ máquinas?
 ### Opciones
-- [x] C) $2.5$ días
-  <!-- feedback: Correcto. $3 \times 5 = 15$; $15 \div 6 = 2.5$. -->
 - [ ] A) $10$ días
   <!-- feedback: Incorrecto. Multiplicaste por $2$ en lugar de dividir. -->
 - [ ] B) $7.5$ días
   <!-- feedback: Incorrecto. Sumaste días en lugar de repartir la carga constante. -->
+- [x] C) $2.5$ días
+  <!-- feedback: Correcto. $3 \times 5 = 15$; $15 \div 6 = 2.5$. -->
 - [ ] D) $3$ días
   <!-- feedback: Incorrecto. Restaste máquinas de días sin usar el producto constante. -->
+
 ### Explicacion Pedagogica
 La carga total es $3 \times 5 = 15$ unidades máquina-día. Con $6$ máquinas: $15 \div 6 = 2.5$ días.
 
@@ -172,14 +179,15 @@ La carga total es $3 \times 5 = 15$ unidades máquina-día. Con $6$ máquinas: $
 ### Enunciado
 ¿Qué tabla muestra una proporcionalidad inversa?
 ### Opciones
-- [x] D) $(1, 20)$, $(2, 10)$, $(4, 5)$
-  <!-- feedback: Correcto. Los productos son $20$, $20$ y $20$: la constante se mantiene. -->
 - [ ] A) $(1, 20)$, $(2, 40)$, $(4, 80)$
   <!-- feedback: Incorrecto. Aquí el cociente es constante: es proporcionalidad directa. -->
 - [ ] B) $(1, 20)$, $(2, 22)$, $(4, 24)$
   <!-- feedback: Incorrecto. Ni el producto ni el cociente se mantienen constantes. -->
 - [ ] C) $(1, 20)$, $(2, 18)$, $(4, 10)$
   <!-- feedback: Incorrecto. Los productos $20$, $36$ y $40$ no son iguales. -->
+- [x] D) $(1, 20)$, $(2, 10)$, $(4, 5)$
+  <!-- feedback: Correcto. Los productos son $20$, $20$ y $20$: la constante se mantiene. -->
+
 ### Explicacion Pedagogica
 Solo la tabla A mantiene el producto constante ($A \times B = 20$), condición de la proporcionalidad inversa.
 
@@ -200,6 +208,7 @@ Solo la tabla A mantiene el producto constante ($A \times B = 20$), condición d
   <!-- feedback: Incorrecto. Restaste las $10$ vacas de los $20$ días. -->
 - [ ] D) $25$ días
   <!-- feedback: Incorrecto. Sumaste días en lugar de repartir el alimento constante. -->
+
 ### Explicacion Pedagogica
 El alimento total es $30 \times 20 = 600$ unidades vaca-día. Con $20$ vacas: $600 \div 20 = 30$ días.
 
@@ -212,13 +221,14 @@ El alimento total es $30 \times 20 = 600$ unidades vaca-día. Con $20$ vacas: $6
 ### Enunciado
 ¿Es correcta la afirmación de Camilo?
 ### Opciones
-- [x] A) Sí, es correcta: tardarán $4$ días
-  <!-- feedback: Correcto. $2 \times 10 = 20$; $20 \div 5 = 4$. -->
-- [ ] B) No, tardarán $25$ días
+- [ ] A) No, tardarán $25$ días
   <!-- feedback: Incorrecto. Multiplicaste $5 \times 5$ sin usar la carga constante de $20$. -->
+- [x] B) Sí, es correcta: tardarán $4$ días
+  <!-- feedback: Correcto. $2 \times 10 = 20$; $20 \div 5 = 4$. -->
 - [ ] C) No, tardarán $5$ días
   <!-- feedback: Incorrecto. Restaste pintores de días en lugar de dividir la carga. -->
 - [ ] D) No, tardarán $2.5$ días
   <!-- feedback: Incorrecto. Invertiste los factores al repartir el trabajo. -->
+
 ### Explicacion Pedagogica
 La carga total es $2 \times 10 = 20$ unidades pintor-día. Con $5$ pintores: $20 \div 5 = 4$ días, tal como afirma Camilo.

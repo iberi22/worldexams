@@ -13,12 +13,6 @@
       "context": "Discussing review p3 in Bucaramanga.",
       "options": [
         {
-          "letter": "D",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
           "text": "alleviate",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "facilitate",
           "is_correct": false,
           "feedback": "Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide."
+        },
+        {
+          "letter": "D",
+          "text": "exacerbate",
+          "is_correct": true,
+          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
         }
       ],
       "correct_answer": "D",
@@ -59,12 +59,6 @@
       "context": "Discussing review p3 in Bucaramanga.",
       "options": [
         {
-          "letter": "C",
-          "text": "vulnerable",
-          "is_correct": true,
-          "feedback": "'Vulnerable to' is the fixed collocation for something exposed to harm, and a budget awaiting approval is exposed to rising prices."
-        },
-        {
           "letter": "A",
           "text": "immune",
           "is_correct": false,
@@ -75,6 +69,12 @@
           "text": "alien",
           "is_correct": false,
           "feedback": "'Alien' here would mean foreign or strange, not economically exposed, so it does not describe a budget under price pressure."
+        },
+        {
+          "letter": "C",
+          "text": "vulnerable",
+          "is_correct": true,
+          "feedback": "'Vulnerable to' is the fixed collocation for something exposed to harm, and a budget awaiting approval is exposed to rising prices."
         },
         {
           "letter": "D",
@@ -151,16 +151,16 @@
       "context": "Discussing review p3 in Cartagena.",
       "options": [
         {
-          "letter": "B",
-          "text": "alleviate",
-          "is_correct": true,
-          "feedback": "'Alleviate' means to make a difficulty less severe, which is exactly what opening a review of the complaint does."
-        },
-        {
           "letter": "A",
           "text": "exacerbate",
           "is_correct": false,
           "feedback": "'Exacerbate' means to worsen a situation, whereas the text presents the decision as easing the conflict."
+        },
+        {
+          "letter": "B",
+          "text": "alleviate",
+          "is_correct": true,
+          "feedback": "'Alleviate' means to make a difficulty less severe, which is exactly what opening a review of the complaint does."
         },
         {
           "letter": "C",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-ING-11-2026-W30-review-p3-001-MASTERY-bundle-v5",
-      "statement": "According to a recent report on review p3 in Pereira, what is implied about the role of General Advanced Review in shaping public opinion?",
-      "context": "Discussing review p3 in Pereira.",
+      "statement": "Read the text and answer the question.\n\n\"The public library in Cuba, a neighbourhood of Pereira, has started lending something unusual: tools. With a library card, residents can borrow a drill, a ladder or a sewing machine for up to one week, just like a book. The idea came from a group of young volunteers who noticed that many families bought tools they used only once or twice a year. In the first six months, more than 900 tools were borrowed. The librarian says the project also brings new visitors: many people who come for a drill leave with a book too.\"\n\nWhat is the main idea of the text?",
+      "context": "A review text: a news article about a public library in Pereira that lends tools.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats General Advanced Review as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "The library stopped lending books and now lends only tools.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "Incorrect. The text says tools are lent 'just like a book', and visitors still leave with books, so books are still lent."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Families in Pereira buy too many books every year.",
           "is_correct": false,
-          "feedback": "General Advanced Review add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "Incorrect. The volunteers noticed that families bought tools they rarely used, not books."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Cali.",
+          "text": "Volunteers sell second-hand tools at the library.",
           "is_correct": false,
-          "feedback": "The report presents General Advanced Review as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "Incorrect. The tools are borrowed with a library card for up to one week; nothing is sold."
+        },
+        {
+          "letter": "D",
+          "text": "A library in Pereira successfully lends tools and attracts new visitors.",
+          "is_correct": true,
+          "feedback": "Correct. The text describes the tool-lending service, its origin, the 900 loans and the new visitors who also borrow books."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "This review item practises identifying the main idea of a short news article. The text presents a new service, explains why it was created and gives its results, including an unexpected benefit. The correct option combines the service and its success, while each distractor changes a key fact, such as selling instead of lending.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-ING-11-2026-W30-review-p3-001-MASTERY-bundle-v6",
-      "statement": "According to a recent report on review p3 in Medellín, what is implied about the role of General Advanced Review in shaping public opinion?",
-      "context": "Discussing review p3 in Medellín.",
+      "statement": "Read the text and answer the question.\n\n\"Two years ago, I could not understand a single song in English. I could not pay for an academy, so I made my own plan. Every day after school in Medellín, I watched one video with English subtitles and wrote down five new words. On weekends, I joined a free online conversation group with students from other countries. I was very nervous at first, and I made many mistakes. Nobody laughed. Last month, I got a good score in the English section of my practice Saber 11 exam. My advice: you do not need money, but you do need a routine.\"\n\nWhat can we infer from the writer's experience?",
+      "context": "A review text: a personal story by a student from Medellín who learned English online.",
       "options": [
         {
-          "letter": "B",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats General Advanced Review as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
+          "letter": "A",
+          "text": "The writer learned English mainly at an expensive academy.",
+          "is_correct": false,
+          "feedback": "Incorrect. The writer says 'I could not pay for an academy', so the progress came from free resources."
         },
         {
-          "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "letter": "B",
+          "text": "Constant daily practice was the key to the writer's progress.",
+          "is_correct": true,
+          "feedback": "Correct. The writer describes a daily and weekly routine and ends with 'you do not need money, but you do need a routine', which points to regular practice as the reason for success."
         },
         {
           "letter": "C",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "The other students in the conversation group laughed at the writer.",
           "is_correct": false,
-          "feedback": "General Advanced Review add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "Incorrect. The text says 'Nobody laughed', which contradicts this option."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Medellín.",
+          "text": "The writer already understood English songs perfectly two years ago.",
           "is_correct": false,
-          "feedback": "The report presents General Advanced Review as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "Incorrect. The first sentence says the writer could not understand a single song two years ago."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Inferring the reason for a result means connecting the actions described with the outcome and with the writer's final advice. The daily videos, the five words, the weekly group and the closing sentence all point to routine. The distractors contradict explicit sentences, which can be detected by checking each one against the text.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -285,36 +285,36 @@
     },
     {
       "id": "CO-ING-11-2026-W30-review-p3-001-MASTERY-bundle-v7",
-      "statement": "According to a recent report on review p3 in Bogotá, what is implied about the role of General Advanced Review in shaping public opinion?",
-      "context": "Discussing review p3 in Bogotá.",
+      "statement": "Read the text and answer the question.\n\n\"Visitors to Chingaza National Natural Park, near Bogotá, must book their visit online at least three days in advance. Each group must be accompanied by an authorised local guide. Visitors must stay on the marked trails, because the páramo plants grow very slowly and can take years to recover if someone steps on them. Fires and loud music are not allowed. Visitors must take all their rubbish back with them, as there are no bins in the park. The temperature can drop below 5 degrees, so warm, waterproof clothes are essential.\"\n\nWhy must visitors stay on the marked trails?",
+      "context": "A review text: rules for visitors to the Chingaza National Natural Park near Bogotá.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats General Advanced Review as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Because there are no bins outside the trails.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "Incorrect. The lack of bins explains why visitors must take their rubbish with them, not why they must stay on the trails."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "Because the temperature is lower outside the trails.",
           "is_correct": false,
-          "feedback": "General Advanced Review add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "Incorrect. The low temperature explains the need for warm clothes; it is not connected with the trails."
+        },
+        {
+          "letter": "C",
+          "text": "Because the plants of the páramo recover very slowly if they are damaged.",
+          "is_correct": true,
+          "feedback": "Correct. The rules explain that visitors must stay on the trails 'because the páramo plants grow very slowly and can take years to recover'."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Manizales.",
+          "text": "Because the guides need to see the visitors at all times.",
           "is_correct": false,
-          "feedback": "The report presents General Advanced Review as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "Incorrect. The text says groups need a guide, but it does not give this as the reason for staying on the trails."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Texts with rules usually attach a reason to each instruction. This review item asks for the reason of one specific rule. The distractors use reasons given for other rules (rubbish, clothes) or invent a logical but unstated reason, so students must match the instruction with the 'because' clause that follows it.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -331,36 +331,36 @@
     },
     {
       "id": "CO-ING-11-2026-W30-review-p3-001-MASTERY-bundle-v8",
-      "statement": "According to a recent report on review p3 in Cali, what is implied about the role of General Advanced Review in shaping public opinion?",
-      "context": "Discussing review p3 in Cali.",
+      "statement": "Read the text and answer the question.\n\n\"Dear Editor, I am writing about the new bicycle lane on Avenida Sexta in Cali. I cycle to work every day, and I was very happy when the city announced it. Unfortunately, after only three months, cars and motorbikes park on it every evening, and nobody stops them. Last week, I had to ride in the middle of the traffic, and a bus almost hit me. A bicycle lane without control is just paint on the road. I ask the city's transport office to put simple barriers along the lane and to fine the drivers who block it. Yours faithfully, Andrés Mejía.\"\n\nWhat is the main purpose of Andrés's letter?",
+      "context": "A review text: a letter to the editor from a Cali resident about bicycle lanes.",
       "options": [
         {
-          "letter": "D",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats General Advanced Review as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "To thank the city for building a perfect bicycle lane.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "Incorrect. He was happy about the announcement, but the letter focuses on problems, so it is not a thank-you letter."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "To ask the city to remove the bicycle lane completely.",
           "is_correct": false,
-          "feedback": "General Advanced Review add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "Incorrect. He wants the lane to be protected with barriers and fines, not removed."
         },
         {
           "letter": "C",
-          "text": "It is only used by academic elites in Bucaramanga.",
+          "text": "To describe a bus accident in which he was injured.",
           "is_correct": false,
-          "feedback": "The report presents General Advanced Review as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "Incorrect. He says a bus 'almost hit' him, so there was no accident and no injury; the incident supports his complaint."
+        },
+        {
+          "letter": "D",
+          "text": "To complain about a problem with the bicycle lane and ask for specific solutions.",
+          "is_correct": true,
+          "feedback": "Correct. He describes cars and motorbikes blocking the lane and the danger he faced, and then asks for barriers and fines."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "This review item practises identifying the purpose of a formal letter. A common structure is: context, problem, example and request. The phrase 'I ask the city's transport office to...' introduces the request, which together with the complaint shows the purpose. A personal anecdote supports the argument but is not the purpose itself.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -381,12 +381,6 @@
       "context": "Discussing review p3 in Cali.",
       "options": [
         {
-          "letter": "D",
-          "text": "arguably",
-          "is_correct": true,
-          "feedback": "'Arguably' signals that the point is open to debate, which is exactly the hedging function the report describes when a writer avoids overstating a claim."
-        },
-        {
           "letter": "A",
           "text": "undoubtedly",
           "is_correct": false,
@@ -403,6 +397,12 @@
           "text": "inevitably",
           "is_correct": false,
           "feedback": "'Inevitably' declares an outcome as unavoidable, which claims necessity rather than reducing the speaker's commitment to the claim."
+        },
+        {
+          "letter": "D",
+          "text": "arguably",
+          "is_correct": true,
+          "feedback": "'Arguably' signals that the point is open to debate, which is exactly the hedging function the report describes when a writer avoids overstating a claim."
         }
       ],
       "correct_answer": "D",
@@ -423,36 +423,36 @@
     },
     {
       "id": "CO-ING-11-2026-W30-review-p3-001-MASTERY-bundle-v10",
-      "statement": "According to a recent report on review p3 in Manizales, what is implied about the role of General Advanced Review in shaping public opinion?",
-      "context": "Discussing review p3 in Manizales.",
+      "statement": "Read the text and answer the question.\n\n\"In the mountains of Huila, a cooperative of 85 women produces specialty coffee that is sold in Japan and Canada. For many years, these women worked on the farms but their husbands sold the harvest and controlled the money. In 2015, they created their own brand and learned to evaluate the quality of their coffee. Now buyers pay them almost twice the normal price. 'Before, we were invisible,' says the cooperative's president, Marleny Cruz. 'Now our names are on the bags.' The cooperative uses part of its profits to pay for university scholarships for their daughters.\"\n\nWhat does Marleny Cruz mean when she says 'Before, we were invisible'?",
+      "context": "A review text: a short article about a coffee cooperative in Huila run by women.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "The report treats General Advanced Review as a precise instrument: it lets a writer qualify a claim instead of overstating it, which is why it is described as a tool for nuanced communication."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
+          "text": "Nobody could see them because they worked at night.",
           "is_correct": false,
-          "feedback": "Calling it irrelevant contradicts the report, which argues for a shared standard of precision that any reader, not only specialists, relies on."
+          "feedback": "Incorrect. This reads 'invisible' literally; the text never mentions working at night."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "They did not work on the coffee farms before 2015.",
           "is_correct": false,
-          "feedback": "General Advanced Review add a layer of qualification rather than removing one, so it makes the argument harder, not simpler."
+          "feedback": "Incorrect. The text says 'these women worked on the farms' for many years; their work existed but was not recognised."
+        },
+        {
+          "letter": "C",
+          "text": "Their work was not recognised because others sold the coffee and controlled the money.",
+          "is_correct": true,
+          "feedback": "Correct. The text explains that their husbands sold the harvest and controlled the money; 'invisible' means their work was not seen or valued, unlike now, when their names are on the bags."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in Manizales.",
+          "text": "Their coffee was not sold anywhere before the cooperative.",
           "is_correct": false,
-          "feedback": "The report presents General Advanced Review as common in journalism, advertising and everyday debate, so it is not restricted to academics."
+          "feedback": "Incorrect. The harvest was sold, but by their husbands; the problem was who controlled the sale and the money."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "explanation": "Figurative language is interpreted by contrasting 'before' and 'now'. Before, the husbands sold the coffee; now the women's names appear on the bags. This contrast shows that 'invisible' refers to a lack of recognition and control, not to a physical state. Distractors either read the word literally or contradict facts in the text.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -473,16 +473,16 @@
       "context": "Discussing review p3 in Manizales.",
       "options": [
         {
-          "letter": "B",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
           "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
+        },
+        {
+          "letter": "B",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
         },
         {
           "letter": "C",
@@ -519,12 +519,6 @@
       "context": "Discussing review p3 in Bogotá.",
       "options": [
         {
-          "letter": "C",
-          "text": "does a ministry receive",
-          "is_correct": true,
-          "feedback": "'Rarely' takes an affirmative auxiliary, so the correct order is 'does a ministry receive', not 'a ministry does receive'."
-        },
-        {
           "letter": "A",
           "text": "a ministry does receive",
           "is_correct": false,
@@ -535,6 +529,12 @@
           "text": "does receive a ministry",
           "is_correct": false,
           "feedback": "This puts the subject after the verb phrase, which is the wrong order for English syntax."
+        },
+        {
+          "letter": "C",
+          "text": "does a ministry receive",
+          "is_correct": true,
+          "feedback": "'Rarely' takes an affirmative auxiliary, so the correct order is 'does a ministry receive', not 'a ministry does receive'."
         },
         {
           "letter": "D",
@@ -561,36 +561,36 @@
     },
     {
       "id": "CO-ING-11-2026-W30-review-p3-001-MASTERY-bundle-v13",
-      "statement": "Complete the following sentence about review p3: 'Not until the auditors published the full report __________ the truth about the spending.'",
+      "statement": "Complete the following sentence about review p3: 'Not until the auditors published the full report __________ the truth about the spending emerge.' (Topic: 'not until' with do-support)",
       "context": "Discussing review p3 in Cartagena.",
       "options": [
-        {
-          "letter": "D",
-          "text": "did",
-          "is_correct": true,
-          "feedback": "'Not until' is a negative fronted structure that triggers subject-auxiliary inversion, so the sentence needs 'did the truth come out'."
-        },
         {
           "letter": "A",
           "text": "was",
           "is_correct": false,
-          "feedback": "'Was' would leave the sentence without an auxiliary to invert, and 'Not until' requires that inversion to work."
+          "feedback": "Incorrect. 'Was' combines with an -ing form or a participle ('was emerging'), never with the base form 'emerge', so 'was the truth emerge' is ungrammatical."
         },
         {
           "letter": "B",
           "text": "has",
           "is_correct": false,
-          "feedback": "'Not until' demands an inverted auxiliary, and the bare present 'has' does not create that structure on its own here."
+          "feedback": "Incorrect. 'Has' needs the participle 'emerged', not the base form 'emerge'; the present perfect also clashes with the finished past event 'published'."
         },
         {
           "letter": "C",
-          "text": "could",
+          "text": "had",
           "is_correct": false,
-          "feedback": "'Could' expresses ability or possibility, not the emphasis on timing that 'Not until' is introducing."
+          "feedback": "Incorrect. 'Had' forms the past perfect with the participle 'emerged'; followed by the base form 'emerge' the sentence is ungrammatical."
+        },
+        {
+          "letter": "D",
+          "text": "did",
+          "is_correct": true,
+          "feedback": "Correct. The main clause has no auxiliary ('the truth emerged'), so after 'Not until...' English uses do-support: 'did the truth emerge', with the base verb 'emerge'."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Fronting a negative phrase such as 'Not until' requires the auxiliary to move in front of the subject, giving 'did the truth come out' and highlighting how late the disclosure was.\n\n---",
+      "explanation": "When a negative expression like 'Not until...' begins a sentence, the main clause uses question word order. If the clause is in the simple past and has no auxiliary, English adds 'did' and the main verb returns to the base form: 'the truth emerged' becomes 'did the truth emerge'. The verb after the subject tells you which auxiliary fits.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -657,12 +657,6 @@
       "context": "Discussing review p3 in Cartagena.",
       "options": [
         {
-          "letter": "C",
-          "text": "had",
-          "is_correct": true,
-          "feedback": "'No sooner had' is the past perfect inversion, marking the announcement as the earlier of two closely connected past events."
-        },
-        {
           "letter": "A",
           "text": "has",
           "is_correct": false,
@@ -673,6 +667,12 @@
           "text": "was",
           "is_correct": false,
           "feedback": "'Was' cannot be inverted to open this construction, and it does not place the announcement before the protests."
+        },
+        {
+          "letter": "C",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "'No sooner had' is the past perfect inversion, marking the announcement as the earlier of two closely connected past events."
         },
         {
           "letter": "D",
@@ -699,36 +699,36 @@
     },
     {
       "id": "CO-ING-11-2026-W30-review-p3-001-MASTERY-bundle-v16",
-      "statement": "Complete the following sentence about review p3: 'Not once during the entire review period __________ the committee managed to reach a decision on the budget.'",
+      "statement": "Complete the following sentence about review p3: 'Not once during the entire review period __________ the committee manage to reach a decision on the budget.' (Topic: 'not once' with do-support)",
       "context": "Discussing review p3 in Cali.",
       "options": [
-        {
-          "letter": "D",
-          "text": "did",
-          "is_correct": true,
-          "feedback": "Fronting the negative phrase 'Not once' triggers inversion, so the auxiliary 'did' comes before the subject 'the committee'."
-        },
         {
           "letter": "A",
           "text": "has",
           "is_correct": false,
-          "feedback": "'Has' would not create the inversion that 'Not once' requires, so the emphatic delay is not expressed."
+          "feedback": "Incorrect. 'Has' must be followed by a participle ('managed'), not by the base form 'manage', so 'has the committee manage' is ungrammatical."
         },
         {
           "letter": "B",
           "text": "was",
           "is_correct": false,
-          "feedback": "'Was' cannot be inverted to open this clause and does not place the failure after the review period."
+          "feedback": "Incorrect. 'Was' combines with an -ing form or a participle, never with a base verb like 'manage'."
         },
         {
           "letter": "C",
-          "text": "did not",
+          "text": "had",
           "is_correct": false,
-          "feedback": "'Did not' would say the committee never managed anything, whereas the sentence stresses that the decision was never reached."
+          "feedback": "Incorrect. 'Had' needs the participle 'managed'; with the base form 'manage' the sentence is ungrammatical."
+        },
+        {
+          "letter": "D",
+          "text": "did",
+          "is_correct": true,
+          "feedback": "Correct. The verb after the subject is the base form 'manage', so the inverted auxiliary must be 'did': 'Not once did the committee manage...' describes a finished past period."
         }
       ],
       "correct_answer": "D",
-      "explanation": "'Not once' is a fronted negative expression, and in English that inversion places the auxiliary before the subject: 'not once did the committee manage to reach a decision'.\n\n---",
+      "explanation": "This item tests the match between the inverted auxiliary and the verb form that follows the subject. A base verb ('manage') can only follow a form of 'do'; participles follow 'have' or 'be'. Checking the verb after the subject is a reliable way to choose the correct auxiliary in inverted sentences.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -749,32 +749,32 @@
       "context": "Discussing review p3 in Pereira.",
       "options": [
         {
-          "letter": "C",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
           "text": "They are literally looking for something in the trees of Manizales.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This reads the idiom word for word; nobody in the debate is searching any trees, because the phrase is figurative and describes a mistaken strategy."
         },
         {
           "letter": "B",
           "text": "The approach is too noisy and aggressive.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. 'Barking' here does not describe loud or aggressive behaviour; the idiom is about aiming at the wrong target, not about the tone of the discussion."
+        },
+        {
+          "letter": "C",
+          "text": "The current strategy is directed towards the wrong objective.",
+          "is_correct": true,
+          "feedback": "Correct. 'Bark up the wrong tree' comes from hunting dogs barking at a tree the animal is not in, so it means putting effort into the wrong cause or the wrong solution."
         },
         {
           "letter": "D",
           "text": "A new environmental project involving trees should be started.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. The speaker is criticising the current approach, not proposing a new project; 'tree' is part of a fixed expression and has no literal meaning here."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'To bark up the wrong tree' means to look for a cause or a solution in the wrong place. The words 'with this approach' show that the speaker is questioning the strategy itself, so only the figurative reading fits; the literal options ignore that an idiom is a fixed expression whose meaning is not the sum of its words.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-ING-11-2026-W30-review-p3-001-MASTERY-bundle-v18",
-      "statement": "In a high-level debate about review p3, Daniela says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Daniela mean?",
-      "context": "Discussing review p3 in Cali.",
+      "statement": "Two students in Cali talk about their group presentation on energy.\n\nCamilo: 'Mariana says she will finish all the slides tonight.'\nSara: 'Let's take that with a grain of salt. Last time she promised the same and sent them at 7 a.m.'\n\nWhat does Sara mean?",
+      "context": "A review dialogue: two students in Cali discussing a group presentation.",
       "options": [
         {
-          "letter": "C",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Bucaramanga.",
+          "text": "They should add salt to the food at the meeting.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This is a literal reading; the idiom refers to doubting information, not to cooking."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "Mariana is the most reliable member of the group.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. Sara mentions a broken promise, which shows doubts about Mariana's reliability."
+        },
+        {
+          "letter": "C",
+          "text": "They should not completely believe Mariana's promise.",
+          "is_correct": true,
+          "feedback": "Correct. 'Take something with a grain of salt' means to be sceptical about it; she gives evidence from the last time Mariana made the same promise."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "They should do all the slides themselves tonight.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. Sara expresses doubt, but she does not propose taking over the work; that conclusion goes beyond her words."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Take something with a grain of salt' means to accept information with some doubt. Sara supports her scepticism with a past example, which is a common way to justify not trusting a statement. This review item practises interpreting idioms through the reasons speakers give.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -837,36 +837,36 @@
     },
     {
       "id": "CO-ING-11-2026-W30-review-p3-001-MASTERY-bundle-v19",
-      "statement": "In a high-level debate about review p3, Alejandro says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Alejandro mean?",
-      "context": "Discussing review p3 in Medellín.",
+      "statement": "Two coworkers in Medellín talk late on Friday.\n\nPaula: 'We've been working on this report for ten hours. I can't think anymore.'\nJorge: 'Me neither. Let's call it a day and finish it on Monday morning.'\n\nWhat is Jorge suggesting?",
+      "context": "A review dialogue: a conversation between two coworkers in Medellín about a deadline.",
       "options": [
         {
-          "letter": "C",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Cartagena.",
+          "text": "To phone their boss to explain the problem.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This interprets 'call' as making a phone call; in the idiom, it means to declare the end of the working day."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "To keep working until the report is finished tonight.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. He says they should finish it on Monday, so he does not want to continue tonight."
+        },
+        {
+          "letter": "C",
+          "text": "To stop working for today and continue later.",
+          "is_correct": true,
+          "feedback": "Correct. 'Call it a day' means to stop working on something for the moment; he proposes finishing the report on Monday."
         },
         {
           "letter": "D",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "To give the report a new title.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. 'Call it' here does not mean naming the report; the expression is about stopping work."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'Call it a day' is used to suggest stopping an activity, usually work, because people are tired or have done enough. Paula's complaint ('I can't think anymore') and Jorge's plan for Monday make the meaning clear. This review item practises recognising suggestions introduced by 'Let's'.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -883,36 +883,36 @@
     },
     {
       "id": "CO-ING-11-2026-W30-review-p3-001-MASTERY-bundle-v20",
-      "statement": "In a high-level debate about review p3, Valentina says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Valentina mean?",
-      "context": "Discussing review p3 in Cartagena.",
+      "statement": "Two students in Cartagena talk after a practice exam.\n\nValentina: 'How did the English section go?'\nNicolás: 'Honestly, it was a piece of cake. I finished twenty minutes early and had time to check everything.'\n\nWhat does Nicolás mean?",
+      "context": "A review dialogue: a conversation between two students in Cartagena after an exam.",
       "options": [
         {
-          "letter": "D",
-          "text": "The current strategy is directed towards the wrong objective.",
-          "is_correct": true,
-          "feedback": "Correct. This idiom means to follow a wrong line of thought or course of action."
-        },
-        {
           "letter": "A",
-          "text": "They are literally looking for something in the trees of Medellín.",
+          "text": "He ate a piece of cake during the exam.",
           "is_correct": false,
-          "feedback": "Incorrect. This is a literal and incorrect interpretation of the idiom."
+          "feedback": "Incorrect. This is a literal interpretation; the idiom describes how easy the task was."
         },
         {
           "letter": "B",
-          "text": "The approach is too noisy and aggressive.",
+          "text": "The English section was extremely difficult.",
           "is_correct": false,
-          "feedback": "Incorrect. The idiom relates to direction/objective, not volume or attitude."
+          "feedback": "Incorrect. He finished early and had time to check his answers, which shows the opposite of difficulty."
         },
         {
           "letter": "C",
-          "text": "A new environmental project involving trees should be started.",
+          "text": "He did not finish the English section on time.",
           "is_correct": false,
-          "feedback": "Incorrect. This misinterprets the figurative meaning of the phrase."
+          "feedback": "Incorrect. He says he finished twenty minutes early, so he completed it on time."
+        },
+        {
+          "letter": "D",
+          "text": "The English section was very easy for him.",
+          "is_correct": true,
+          "feedback": "Correct. 'A piece of cake' means something very easy; finishing twenty minutes early and having time to check supports that meaning."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Pragmatic competence at C1+ involves understanding and using idiomatic expressions in formal contexts.\n\n---",
+      "explanation": "'A piece of cake' is a very common idiom meaning that something is easy. Nicolás supports his statement with evidence: he finished early and checked everything. This review item reinforces the strategy of using the speaker's explanation to confirm the figurative meaning of an expression.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

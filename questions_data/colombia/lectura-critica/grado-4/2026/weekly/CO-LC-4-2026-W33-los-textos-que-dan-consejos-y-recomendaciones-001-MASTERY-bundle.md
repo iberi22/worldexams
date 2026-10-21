@@ -38,10 +38,10 @@ Lee con atención el afiche que la escuela pegó en el patio de recreo.
 Según el afiche, ¿qué deben hacer los estudiantes de cuarto?
 
 ### Opciones
-- [ ] A) Pedir permiso para jugar después de las dos de la tarde
-  <!-- feedback: Incorrecto. El afiche dice que el patio se puede usar hasta las dos de la tarde, así que después de esa hora no hay permiso. -->
-- [x] B) Traer el termo con agua y el pañuelo limpio, y guardar el juego en la caja
+- [x] A) Traer el termo con agua y el pañuelo limpio, y guardar el juego en la caja
   <!-- feedback: Correcto. El afiche pide las dos cosas y además ordena guardar el juego, y eso responde la pregunta de manera literal. -->
+- [ ] B) Pedir permiso para jugar después de las dos de la tarde
+  <!-- feedback: Incorrecto. El afiche dice que el patio se puede usar hasta las dos de la tarde, así que después de esa hora no hay permiso. -->
 - [ ] C) Traer una salida de la clase para poder jugar más rato
   <!-- feedback: Incorrecto. El afiche no pide permiso ni habla de ninguna salida, y dice que el patio se cierra a las dos de la tarde. -->
 - [ ] D) Comprar una pelota nueva para el equipo de cuarto
