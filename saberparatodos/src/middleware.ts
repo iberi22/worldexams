@@ -37,13 +37,31 @@ async function detectCountryFromApi(clientIP: string): Promise<CountryCode | nul
   return null;
 }
 
+/**
+ * Origin of a ranked API other than api.saberparatodos.space. Preview builds point
+ * PUBLIC_RANKED_API_BASE_URL at their branch's API worker on *.workers.dev; without
+ * this the browser blocks every ranked/leaderboard call on the preview.
+ */
+function extraRankedApiOrigin(): string {
+  const base = import.meta.env.PUBLIC_RANKED_API_BASE_URL;
+  if (!base) return '';
+  try {
+    const { origin } = new URL(base);
+    return origin === 'https://api.saberparatodos.space' ? '' : ` ${origin}`;
+  } catch {
+    return '';
+  }
+}
+
+const RANKED_API_ORIGIN = extraRankedApiOrigin();
+
 const defaultContentSecurityPolicy = [
   "default-src 'self'",
   "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.supabase.co https://giscus.app https://static.cloudflareinsights.com",
   "style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://fonts.googleapis.com",
   "img-src 'self' data: https:",
   "font-src 'self' data: https://fonts.gstatic.com font:",
-  "connect-src 'self' ws://localhost:* http://localhost:* https://*.supabase.co wss://*.supabase.co https://api.saberparatodos.space https://giscus.app https://fonts.googleapis.com https://fonts.gstatic.com https://peerjs.com https://*.peerjs.com wss://peerjs.com wss://*.peerjs.com https://0.peerjs.com wss://0.peerjs.com https://static.cloudflareinsights.com",
+  `connect-src 'self' ws://localhost:* http://localhost:* https://*.supabase.co wss://*.supabase.co https://api.saberparatodos.space${RANKED_API_ORIGIN} https://giscus.app https://fonts.googleapis.com https://fonts.gstatic.com https://peerjs.com https://*.peerjs.com wss://peerjs.com wss://*.peerjs.com https://0.peerjs.com wss://0.peerjs.com https://static.cloudflareinsights.com`,
   "frame-src 'self' https://www.google.com https://giscus.app",
   "object-src 'none'",
   "base-uri 'self'",
