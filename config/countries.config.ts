@@ -4,12 +4,12 @@
 /**
  * Country codes supported by World Exams
  */
-export type CountryCode = 'CO' | 'MX' | 'AR' | 'CL' | 'PE' | 'EC' | 'BR' | 'US' | 'PA' | 'CR' | 'GT' | 'DO' | 'SV' | 'HN' | 'NI' | 'ES' | 'PR' | 'GQ' | 'UY' | 'PY' | 'BO';
+export type CountryCode = 'CO' | 'MX' | 'AR' | 'CL' | 'PE' | 'EC' | 'BR' | 'US' | 'PA' | 'CR' | 'GT' | 'DO' | 'SV' | 'HN' | 'NI' | 'ES' | 'PR' | 'GQ' | 'UY' | 'PY' | 'BO' | 'GB' | 'AU';
 
 /**
  * Supported languages
  */
-export type LanguageCode = 'es-CO' | 'es-MX' | 'es-AR' | 'es-CL' | 'es-PE' | 'es-EC' | 'pt-BR' | 'en-US' | 'es-PA' | 'es-CR' | 'es-GT' | 'es-DO' | 'es-SV' | 'es-HN' | 'es-NI' | 'es-ES' | 'es-PR' | 'es-GQ' | 'es-UY' | 'es-PY' | 'es-BO';
+export type LanguageCode = 'es-CO' | 'es-MX' | 'es-AR' | 'es-CL' | 'es-PE' | 'es-EC' | 'pt-BR' | 'en-US' | 'en-GB' | 'en-AU' | 'es-PA' | 'es-CR' | 'es-GT' | 'es-DO' | 'es-SV' | 'es-HN' | 'es-NI' | 'es-ES' | 'es-PR' | 'es-GQ' | 'es-UY' | 'es-PY' | 'es-BO';
 
 /**
  * Grade configuration for a country
@@ -1537,6 +1537,133 @@ export const boliviaConfig: CountryConfig = {
   },
 };
 
+
+/**
+ * 🇬🇧 UK - GCSE / A-Levels
+ */
+export const ukConfig: CountryConfig = {
+  code: 'GB',
+  name: 'Reino Unido',
+  nameEnglish: 'United Kingdom',
+  flag: '🇬🇧',
+
+  examName: 'GCSE & A-Levels',
+  examFullName: 'General Certificate of Secondary Education & Advanced Level',
+  examAuthority: 'Ofqual',
+
+  locale: 'en-GB',
+  timezone: 'Europe/London',
+
+  grades: [
+    { id: 10, name: 'Year 10', description: 'Tenth year (GCSE Foundation)' },
+    { id: 11, name: 'Year 11', description: 'Eleventh year (GCSE Final)' },
+    { id: 12, name: 'Year 12', description: 'Twelfth year (AS Level / Lower Sixth)' },
+    { id: 13, name: 'Year 13', description: 'Thirteenth year (A-Level / Upper Sixth)' },
+  ],
+
+  subjects: [
+    { id: 'math', name: 'Mathematics', icon: '🔢', globalId: 'math' },
+    { id: 'english', name: 'English Language & Literature', icon: '📖', globalId: 'language' },
+    { id: 'sciences', name: 'Combined Sciences', icon: '🔬', globalId: 'science' },
+    { id: 'history', name: 'History', icon: '📜', globalId: 'social' },
+    { id: 'reading', name: 'Critical Reading', icon: '📚', globalId: 'reading' },
+  ],
+
+  theme: {
+    primary: '#012169',
+    secondary: '#C8102E',
+    accent: '#FFFFFF',
+    bgDark: '#1a1a2e',
+    bgCard: '#16213e',
+    textPrimary: '#ffffff',
+    textSecondary: '#a0a0a0',
+  },
+
+  culture: {
+    currency: { code: 'GBP', symbol: '£', name: 'Pounds Sterling' },
+    cities: ['London', 'Manchester', 'Edinburgh', 'Birmingham', 'Bristol', 'Glasgow'],
+    commonNames: {
+      male: ['Oliver', 'George', 'Harry', 'Jack', 'Noah', 'Leo'],
+      female: ['Olivia', 'Amelia', 'Isla', 'Ava', 'Mia', 'Ivy'],
+    },
+    culturalReferences: ['Big Ben', 'BBC', 'Shakespeare', 'Premier League', 'Stonehenge', 'Oxford'],
+  },
+
+  githubRepo: 'worldexams/saber-uk',
+  product: {
+    siteName: 'WorldExams UK',
+    siteUrl: 'https://world-exams.github.io/uk',
+    contactEmail: 'contacto@saberparatodos.space',
+    guideLabel: 'GCSE',
+    guideYear: 2026,
+    seoKeywords: ['gcse practice', 'a levels past papers', 'exam prep uk', 'ofqual curriculum practice'],
+    defaultDescription: 'Interactive assessment preparation and past questions for UK GCSE and A-Levels.',
+  },
+};
+
+/**
+ * 🇦🇺 Australia - NAPLAN / ATAR
+ */
+export const australiaConfig: CountryConfig = {
+  code: 'AU',
+  name: 'Australia',
+  nameEnglish: 'Australia',
+  flag: '🇦🇺',
+
+  examName: 'NAPLAN & ATAR',
+  examFullName: 'National Assessment Program & Australian Tertiary Admission Rank',
+  examAuthority: 'ACARA',
+
+  locale: 'en-AU',
+  timezone: 'Australia/Sydney',
+
+  grades: [
+    { id: 7, name: 'Year 7', description: 'Year 7 (NAPLAN Secondary Entry)' },
+    { id: 9, name: 'Year 9', description: 'Year 9 (NAPLAN Senior Benchmark)' },
+    { id: 11, name: 'Year 11', description: 'Year 11 (Preliminary HSC / VCE / QCE)' },
+    { id: 12, name: 'Year 12', description: 'Year 12 (ATAR Final Assessment)' },
+  ],
+
+  subjects: [
+    { id: 'math', name: 'Mathematics', icon: '🔢', globalId: 'math' },
+    { id: 'english', name: 'English', icon: '📖', globalId: 'language' },
+    { id: 'science', name: 'Science', icon: '🔬', globalId: 'science' },
+    { id: 'humanities', name: 'Humanities and Social Sciences', icon: '🌏', globalId: 'social' },
+    { id: 'reading', name: 'Reading & Literacy', icon: '📚', globalId: 'reading' },
+  ],
+
+  theme: {
+    primary: '#00843D',
+    secondary: '#FFCD00',
+    accent: '#002B7F',
+    bgDark: '#1a1a2e',
+    bgCard: '#16213e',
+    textPrimary: '#ffffff',
+    textSecondary: '#a0a0a0',
+  },
+
+  culture: {
+    currency: { code: 'AUD', symbol: '$', name: 'Australian Dollars' },
+    cities: ['Sydney', 'Melbourne', 'Brisbane', 'Perth', 'Adelaide', 'Canberra'],
+    commonNames: {
+      male: ['Oliver', 'Noah', 'William', 'Jack', 'Henry', 'Leo'],
+      female: ['Charlotte', 'Amelia', 'Isla', 'Olivia', 'Mia', 'Grace'],
+    },
+    culturalReferences: ['Sydney Opera House', 'Great Barrier Reef', 'Uluru', 'Cricket', 'CSIRO'],
+  },
+
+  githubRepo: 'worldexams/saber-au',
+  product: {
+    siteName: 'WorldExams Australia',
+    siteUrl: 'https://world-exams.github.io/au',
+    contactEmail: 'contacto@saberparatodos.space',
+    guideLabel: 'ATAR',
+    guideYear: 2026,
+    seoKeywords: ['naplan practice online', 'atar exam prep', 'australian curriculum test practice'],
+    defaultDescription: 'Interactive assessment preparation for Australian NAPLAN and ATAR high school exit exams.',
+  },
+};
+
 // =============================================================================
 // HELPER FUNCTIONS & EXPORTS
 // =============================================================================
@@ -1566,6 +1693,8 @@ export const allCountries: CountryConfig[] = [
   uruguayConfig,
   paraguayConfig,
   boliviaConfig,
+  ukConfig,
+  australiaConfig,
 ];
 
 /**
