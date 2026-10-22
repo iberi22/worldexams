@@ -7,6 +7,7 @@ import {
   type GiscusConfig,
   type ProductFeatures,
 } from '../../../config/countries.config';
+import { supportedRuntimeCountryConfigs } from './countries.config';
 
 export interface RuntimeCountryConfig extends SharedCountryConfig {
   locale: SharedCountryConfig['locale'];
@@ -112,6 +113,7 @@ const currentCountryCode = getExplicitProductCountryCode();
 const sharedCountryConfig = currentCountryCode ? getCountryConfig(currentCountryCode) : undefined;
 
 export const countryConfig = resolveRuntimeCountryConfig(sharedCountryConfig);
-export const supportedCountries = allCountries.map(toRuntimeCountryConfig);
+// Only the portal's runtime countries; English-market configs (US/GB/AU) live in the shared config but are not served here.
+export const supportedCountries = supportedRuntimeCountryConfigs.map(toRuntimeCountryConfig);
 export type CountryConfig = RuntimeCountryConfig;
 export type { CountryCode };

@@ -11,6 +11,7 @@ import {
   type CountryCode
 } from '../../../config/countries.config';
 import { getExplicitProductCountryCode } from '../config';
+import { supportedRuntimeCountryConfigs } from '../config/countries.config';
 
 const IP_API_BASE = 'https://ip-api.com/json';
 const CACHE_KEY = 'worldexams_country';
@@ -231,7 +232,7 @@ export function getSupportedCountriesForUI(): Array<{
   examFullName: string;
   locale: string;
 }> {
-  return allCountries.map(c => ({
+  return supportedRuntimeCountryConfigs.map(c => ({
     code: c.code,
     name: c.name,
     flag: c.flag,
