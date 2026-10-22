@@ -383,5 +383,27 @@ jobs:
             cat output.log
           }
 
+          # wrangler auto-provisions the Astro SESSION KV as "<worker>-session" and
+          # `wrangler delete` leaves it behind. A leftover namespace makes the next
+          # deploy of the same branch fail with [10014] "already exists" (develop
+          # after every release merge) and leaks namespaces on the shared account.
+          delete_session_kv() {
+            local TITLE="$1-session"
+            if ! [[ "$TITLE" =~ ^saberparatodos-preview-[a-z0-9][a-z0-9-]*-session$ ]]; then
+              echo "REFUSE_PRODUCTION_DELETE"
+              exit 1
+            fi
+            local ID
+            ID=$(npx --yes wrangler@4.141.0 kv namespace list | jq -r --arg t "$TITLE" '.[] | select(.title == $t) | .id')
+            if [ -z "$ID" ]; then
+              echo "KV namespace $TITLE not found, nothing to delete."
+              return 0
+            fi
+            echo "Deleting KV namespace $TITLE ($ID)..."
+            npx --yes wrangler@4.141.0 kv namespace delete --namespace-id "$ID" --skip-confirmation \
+              || echo "::warning::Could not delete KV namespace $TITLE"
+          }
+
           delete_worker "saberparatodos-preview-$SAFE"
+          delete_session_kv "saberparatodos-preview-$SAFE"
           delete_worker "worldexams-api-preview-$SAFE"
