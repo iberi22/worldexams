@@ -47,12 +47,15 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          WEEK_IN: ${{ inputs.week || 'current' }}
         run: |
           cd social-orchestrator
-          WEEK="${{ inputs.week || 'current' }}"
+          WEEK="${WEEK_IN}"
           ./target/release/social-orchestrator weekly-report --week "$WEEK"
 
       - name: Summary
+        env:
+          WEEK_IN: ${{ inputs.week || 'current' }}
         run: |
           echo "📊 Reporte semanal generado y publicado"
-          echo "📅 Semana: ${{ inputs.week || 'current' }}"
+          echo "📅 Semana: ${WEEK_IN}"

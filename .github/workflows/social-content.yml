@@ -45,9 +45,12 @@ jobs:
 
       - name: Determine Content Type
         id: content
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          CONTENT_TYPE: ${{ inputs.content_type }}
         run: |
-          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
-            echo "type=${{ inputs.content_type }}" >> $GITHUB_OUTPUT
+          if [ "${EVENT_NAME}" == "workflow_dispatch" ]; then
+            echo "type=${CONTENT_TYPE}" >> $GITHUB_OUTPUT
           else
             # Publicar tips diarios en horario automático
             echo "type=daily-tip" >> $GITHUB_OUTPUT
@@ -62,9 +65,10 @@ jobs:
           TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
           TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
           TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
+          CONTENT_TYPE: ${{ steps.content.outputs.type }}
         run: |
           cd social-orchestrator
-          ./target/release/social-orchestrator publish-content --content-type ${{ steps.content.outputs.type }}
+          ./target/release/social-orchestrator publish-content --content-type ${CONTENT_TYPE}
 
       - name: Notify Success
         if: success()
